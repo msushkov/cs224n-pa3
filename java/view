@@ -1,7 +1,8 @@
 #!/bin/bash
 #
 
-DATA_DIR=/afs/ir/class/cs224n/data/pa3
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+DATA_DIR="$( cd "$DIR" && cd ../data && pwd )"
 
 # -- Variables
 #(parse command line)
@@ -20,12 +21,12 @@ esac
 # -- Find Document
 #(find document)
 if [ $isNumber ]; then
-	file=`find "$DATA_DIR/conll2011.train.ser/" -name "*.dat" |\
+	file=`find "$DATA_DIR/conll2011.train.ser" -name "*.dat" |\
 		sort |\
 		sed -n "$doc"p`
 else
 	#(look in train)
-	files=`find "$DATA_DIR/conll2011.train.ser/" -regex ".*$doc.*.dat"`
+	files=`find "$DATA_DIR/conll2011.train.ser" -regex ".*$doc.*.dat"`
 	for f in $files; do
 		if [ $file ]; then
 			echo "Multiple matching files: '$file' and '$f'"
@@ -63,4 +64,4 @@ while read line; do
 	else
 		echo "$line"
 	fi
-done < $file
+done < "$file"
