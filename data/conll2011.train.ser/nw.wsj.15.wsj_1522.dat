@@ -1,0 +1,63 @@
+---------gloss--------
+(0) [1m[35m{Basf AG}[0m said [1m[35m{it}[0m [1m[34m{moved}[0m [1m[35m{its}[0m headquarters for Latin America to Mexico and the headquarters for the Asia / Australia regional division to Singapore , effective Oct . 
+(1) The central offices for [1m[33m{both regions}[0m were previously located in Ludwigshafen , [1m[35m{Basf}[0m headquarters . 
+(2) [1m[35m{The West German chemical concern}[0m called [1m[34m{the moves}[0m a further step in the internationalization of [1m[35m{its}[0m business activities . 
+(3) [1m[33m{Both regions}[0m are the fastest - growing areas for [1m[35m{Basf}[0m , [1m[35m{the company}[0m said . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1522); part 000
+sentences:
+BasfBasfNNPORGPER0AGAGNNPORGPER0saidsayVBDOPER0ititPRPOPER0movedmoveVBDOPER0itsitsPRP$OPER0headquartersheadquartersNNOPER0forforINOPER0LatinLatinNNPLOCPER0AmericaAmericaNNPLOCPER0totoINOPER0MexicoMexicoNNPGPEPER0andandCCOPER0thetheDTOPER0headquartersheadquartersNNOPER0forforINOPER0thetheDTOPER0AsiaAsiaNNPORGPER0//SYMORGPER0AustraliaAustraliaNNPORGPER0regionalregionalJJOPER0divisiondivisionNNOPER0totoINOPER0SingaporeSingaporeNNPGPEPER0,,,OPER0effectiveeffectiveJJOPER0OctOctNNPDATEPER0...OPER0(ROOT (S (NP (NNP Basf) (NNP AG)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD moved) (NP (NP (PRP$ its) (NN headquarters)) (PP (IN for) (NP (NNP Latin) (NNP America)))) (PP (IN to) (NP (NP (NNP Mexico)) (CC and) (NP (NP (DT the) (NN headquarters)) (PP (IN for) (NP (DT the) (ADJP (NML (NNP Asia) (SYM /) (NNP Australia)) (JJ regional)) (NN division)))))) (PP (IN to) (NP (NNP Singapore))) (, ,) (PP (JJ effective) (NP (NNP Oct))))))) (. .)))
+ThetheDTOPER0centralcentralJJOPER0officesofficeNNSOPER0forforINOPER0bothbothDTOPER0regionsregionNNSOPER0werebeVBDOPER0previouslypreviouslyRBOPER0locatedlocateVBNOPER0ininINOPER0LudwigshafenLudwigshafenNNPGPEPER0,,,OPER0BasfBasfNNPORGPER0headquartersheadquartersNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ central) (NNS offices)) (PP (IN for) (NP (DT both) (NNS regions)))) (VP (VBD were) (ADVP (RB previously)) (VP (VBN located) (PP (IN in) (NP (NNP Ludwigshafen) (, ,) (NNP Basf) (NN headquarters))))) (. .)))
+ThetheDTOPER0WestWestNNPOPER0GermanGermanNNPOPER0chemicalchemicalNNOPER0concernconcernNNOPER0calledcallVBDOPER0thetheDTOPER0movesmoveNNSOPER0aaDTOPER0furtherfurtherJJOPER0stepstepNNOPER0ininINOPER0thetheDTOPER0internationalizationinternationalizationNNOPER0ofofINOPER0itsitsPRP$OPER0businessbusinessNNOPER0activitiesactivityNNSOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP West) (NNP German)) (NN chemical) (NN concern)) (VP (VBD called) (NP (DT the) (NNS moves)) (S (NP (NP (DT a) (JJ further) (NN step)) (PP (IN in) (NP (NP (DT the) (NN internationalization)) (PP (IN of) (NP (PRP$ its) (NN business) (NNS activities)))))))) (. .)))
+BothbothDTOPER0regionsregionNNSOPER0arebeVBPOPER0thetheDTOPER0fastestfastestRBSOPER0--HYPHOPER0growinggrowVBGOPER0areasareaNNSOPER0forforINOPER0BasfBasfNNPORGPER0,,,OPER0thetheDTOPER0companycompanyNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT Both) (NNS regions)) (VP (VBP are) (NP (NP (DT the) (ADJP (RBS fastest) (HYPH -) (VBG growing)) (NNS areas)) (PP (IN for) (NP (NNP Basf)))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Basf) (NNP AG))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 4 until 5 headed by 4 parsed as moved
+sid=0 spanning 5 until 6 headed by 5 parsed as its
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT both) (NNS regions))
+sid=1 spanning 12 until 13 headed by 12 parsed as Basf
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP West) (NNP German)) (NN chemical) (NN concern))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS moves))
+sid=2 spanning 15 until 16 headed by 15 parsed as its
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT Both) (NNS regions))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP Basf))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Basf) (NNP AG))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 5 until 10 headed by 6 parsed as (NP (NP (PRP$ its) (NN headquarters)) (PP (IN for) (NP (NNP Latin) (NNP America))))
+sid=0 spanning 5 until 6 headed by 5 parsed as (PRP$ its)
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Latin) (NNP America))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NP (NNP Mexico)) (CC and) (NP (NP (DT the) (NN headquarters)) (PP (IN for) (NP (DT the) (ADJP (NML (NNP Asia) (SYM /) (NNP Australia)) (JJ regional)) (NN division)))))
+sid=0 spanning 11 until 22 headed by 11 parsed as (NP (NP (NNP Mexico)) (CC and) (NP (NP (DT the) (NN headquarters)) (PP (IN for) (NP (DT the) (ADJP (NML (NNP Asia) (SYM /) (NNP Australia)) (JJ regional)) (NN division)))))
+sid=0 spanning 13 until 22 headed by 14 parsed as (NP (NP (DT the) (NN headquarters)) (PP (IN for) (NP (DT the) (ADJP (NML (NNP Asia) (SYM /) (NNP Australia)) (JJ regional)) (NN division))))
+sid=0 spanning 16 until 22 headed by 21 parsed as (NP (DT the) (ADJP (NML (NNP Asia) (SYM /) (NNP Australia)) (JJ regional)) (NN division))
+sid=0 spanning 17 until 20 headed by 19 parsed as Australia
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NNP Singapore))
+sid=0 spanning 26 until 27 headed by 26 parsed as (NP (NNP Oct))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (JJ central) (NNS offices)) (PP (IN for) (NP (DT both) (NNS regions))))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT both) (NNS regions))
+sid=1 spanning 10 until 14 headed by 13 parsed as (NP (NNP Ludwigshafen) (, ,) (NNP Basf) (NN headquarters))
+sid=1 spanning 10 until 11 headed by 10 parsed as Ludwigshafen
+sid=1 spanning 12 until 13 headed by 12 parsed as Basf
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP West) (NNP German)) (NN chemical) (NN concern))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS moves))
+sid=2 spanning 8 until 18 headed by 10 parsed as (NP (NP (DT a) (JJ further) (NN step)) (PP (IN in) (NP (NP (DT the) (NN internationalization)) (PP (IN of) (NP (PRP$ its) (NN business) (NNS activities))))))
+sid=2 spanning 12 until 18 headed by 13 parsed as (NP (NP (DT the) (NN internationalization)) (PP (IN of) (NP (PRP$ its) (NN business) (NNS activities))))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (PRP$ its) (NN business) (NNS activities))
+sid=2 spanning 15 until 16 headed by 15 parsed as (PRP$ its)
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT Both) (NNS regions))
+sid=3 spanning 3 until 10 headed by 7 parsed as (NP (NP (DT the) (ADJP (RBS fastest) (HYPH -) (VBG growing)) (NNS areas)) (PP (IN for) (NP (NNP Basf))))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP Basf))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN company))
+(end predicted mentions)
+---------gold clusters--------
+4 9 | { 'both regions' 'Both regions' }
+2 7 | { 'moved' 'the moves' }
+5 11 6 8 10 3 0 1 | { 'Basf' 'the company' 'The West German chemical concern' 'its' 'Basf' 'its' 'Basf AG' 'it' }
+(end gold clusters)

@@ -1,0 +1,144 @@
+---------gloss--------
+(0) [4m[35m{Chicago businessmen Bertram M. Lee and Peter Bynoe}[0m signed a new agreement to purchase [34m{the Denver Nuggets basketball team}[0m , but not as principal owners . 
+(1) On Saturday , [4m[35m{the partners}[0m said [34m{the team}[0m would be purchased for $ 54 million by a new group including [33m{Comsat Video Enterprises Inc. , a unit of Communications Satellite Corp. based here}[0m . 
+(2) [33m{Comsat Video}[0m will pay $ 17 million for a 62.5 % interest , with [4m[35m{Messrs. Lee and Bynoe}[0m putting up $ 8 million for a 37.5 % stake in [34m{the team}[0m . 
+(3) Under terms of the sale , [34m{Nuggets}[0m owner Sidney Shlenker could receive up to $ 11 million in additional payments from [34m{the franchise 's}[0m future earnings . 
+(4) [4m[35m{Messrs. Lee and Bynoe}[0m last July announced [4m[34m{a deal that would have made them the first black principal owners of a major professional sports franchise}[0m . 
+(5) But [4m[34m{the deal}[0m fell apart last week for lack of financing . 
+(6) [33m{Comsat Video}[0m is headed by Robert Wussler , who resigned his No. 2 executive post with Turner Broadcasting System Inc. just two weeks ago to take the [33m{Comsat}[0m position . 
+(7) [33m{Comsat Video , which distributes pay - per - view programs to hotel rooms ,}[0m plans to add [34m{Nuggets}[0m games to [33m{their}[0m offerings , as [31m{Mr. Turner}[0m did successfully with [31m{his}[0m Atlanta Hawks and Braves sports teams . 
+(8) [4m[35m{Messrs. Lee and Bynoe}[0m will manage [34m{the Nuggets '}[0m day - today affairs . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1461); part 000
+sentences:
+ChicagoChicagoNNPGPEPER0businessmenbusinessmanNNSOPER0BertramBertramNNPPERSONPER0M.M.NNPPERSONPER0LeeLeeNNPPERSONPER0andandCCOPER0PeterPeterNNPPERSONPER0BynoeBynoeNNPPERSONPER0signedsignVBDOPER0aaDTOPER0newnewJJOPER0agreementagreementNNOPER0totoTOOPER0purchasepurchaseVBOPER0thetheDTOPER0DenverDenverNNPORGPER0NuggetsNuggetsNNPSORGPER0basketballbasketballNNOPER0teamteamNNOPER0,,,OPER0butbutCCOPER0notnotRBOPER0asasINOPER0principalprincipalJJOPER0ownersownerNNSOPER0...OPER0(ROOT (S (NP (NNP Chicago) (NNS businessmen)) (NP (NP (NNP Bertram) (NNP M.) (NNP Lee)) (CC and) (NP (NNP Peter) (NNP Bynoe))) (VP (VBD signed) (NP (DT a) (JJ new) (NN agreement) (S (VP (TO to) (VP (VB purchase) (NP (DT the) (NNP Denver) (NNPS Nuggets) (NN basketball) (NN team)))))) (, ,) (NAC (CC but) (PP (ADVP (RB not)) (IN as) (NP (JJ principal) (NNS owners))))) (. .)))
+OnonINOPER0SaturdaySaturdayNNPDATEPER0,,,OPER0thetheDTOPER0partnerspartnerNNSOPER0saidsayVBDOPER0thetheDTOPER0teamteamNNOPER0wouldwouldMDOPER0bebeVBOPER0purchasedpurchaseVBNOPER0forforINOPER0$$$MONEYPER05454CDMONEYPER0millionmillionCDMONEYPER0bybyINOPER0aaDTOPER0newnewJJOPER0groupgroupNNOPER0includingincludeVBGOPER0ComsatComsatNNPORGPER0VideoVideoNNPORGPER0EnterprisesEnterprisesNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0aaDTOPER0unitunitNNOPER0ofofINOPER0CommunicationsCommunicationsNNPORGPER0SatelliteSatelliteNNPORGPER0Corp.Corp.NNPORGPER0basedbaseVBNOPER0herehereRBOPER0...OPER0(ROOT (S (PP (IN On) (NP (NNP Saturday))) (, ,) (NP (DT the) (NNS partners)) (VP (VBD said) (SBAR (S (NP (DT the) (NN team)) (VP (MD would) (VP (VB be) (VP (VBN purchased) (PP (IN for) (NP (QP ($ $) (CD 54) (CD million)))) (PP (IN by) (NP (NP (DT a) (JJ new) (NN group)) (PP (VBG including) (NP (NP (NNP Comsat) (NNP Video) (NNP Enterprises) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Communications) (NNP Satellite) (NNP Corp.)) (VP (VBN based) (ADVP (RB here)))))))))))))))) (. .)))
+ComsatComsatNNPORGPER0VideoVideoNNPORGPER0willwillMDOPER0paypayVBOPER0$$$MONEYPER01717CDMONEYPER0millionmillionCDMONEYPER0forforINOPER0aaDTOPER062.562.5CDPERCENTPER0%%NNPERCENTPER0interestinterestNNOPER0,,,OPER0withwithINOPER0Messrs.Messrs.NNPSOPER0LeeLeeNNPPERSONPER0andandCCOPER0BynoeBynoeNNPPERSONPER0puttingputVBGOPER0upupRPOPER0$$$MONEYPER088CDMONEYPER0millionmillionCDMONEYPER0forforINOPER0aaDTOPER037.537.5CDPERCENTPER0%%NNPERCENTPER0stakestakeNNOPER0ininINOPER0thetheDTOPER0teamteamNNOPER0...OPER0(ROOT (S (NP (NNP Comsat) (NNP Video)) (VP (MD will) (VP (VB pay) (NP (QP ($ $) (CD 17) (CD million))) (PP (IN for) (NP (DT a) (NML (CD 62.5) (NN %)) (NN interest))) (, ,) (PP (IN with) (S (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe)) (VP (VBG putting) (PRT (RP up)) (NP (NP (QP ($ $) (CD 8) (CD million))) (PP (IN for) (NP (NP (DT a) (NML (CD 37.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN team))))))))))) (. .)))
+UnderunderINOPER0termstermNNSOPER0ofofINOPER0thetheDTOPER0salesaleNNOPER0,,,OPER0NuggetsNuggetsNNPORGPER0ownerownerNNOPER0SidneySidneyNNPPERSONPER0ShlenkerShlenkerNNPPERSONPER0couldcouldMDOPER0receivereceiveVBOPER0upupINMONEYPER0totoTOMONEYPER0$$$MONEYPER01111CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0additionaladditionalJJOPER0paymentspaymentNNSOPER0fromfromINOPER0thetheDTOPER0franchisefranchiseNNOPER0's'sPOSOPER0futurefutureJJOPER0earningsearningsNNSOPER0...OPER0(ROOT (S (PP (IN Under) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN sale))))) (, ,) (NP (NML (NNP Nuggets) (NN owner)) (NNP Sidney) (NNP Shlenker)) (VP (MD could) (VP (VB receive) (NP (NP (QP (IN up) (TO to) ($ $) (CD 11) (CD million))) (PP (IN in) (NP (NP (JJ additional) (NNS payments)) (PP (IN from) (NP (NP (DT the) (NN franchise) (POS 's)) (JJ future) (NNS earnings)))))))) (. .)))
+Messrs.Messrs.NNPSOPER0LeeLeeNNPPERSONPER0andandCCOPER0BynoeBynoeNNPPERSONPER0lastlastJJDATEPER0JulyJulyNNPDATEPER0announcedannounceVBDOPER0aaDTOPER0dealdealNNOPER0thatthatWDTOPER0wouldwouldMDOPER0havehaveVBOPER0mademakeVBNOPER0themtheyPRPOPER0thetheDTOPER0firstfirstJJORDINALPER0blackblackJJOPER0principalprincipalJJOPER0ownersownerNNSOPER0ofofINOPER0aaDTOPER0majormajorJJOPER0professionalprofessionalJJOPER0sportssportNNSOPER0franchisefranchiseNNOPER0...OPER0(ROOT (S (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe)) (NP (JJ last) (NNP July)) (VP (VBD announced) (NP (NP (DT a) (NN deal)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB have) (VP (VBN made) (S (NP (PRP them)) (NP (NP (DT the) (JJ first) (JJ black) (JJ principal) (NNS owners)) (PP (IN of) (NP (DT a) (JJ major) (JJ professional) (NNS sports) (NN franchise)))))))))))) (. .)))
+ButbutCCOPER0thetheDTOPER0dealdealNNOPER0fellfallVBDOPER0apartapartRBOPER0lastlastJJDATEPER0weekweekNNDATEPER0forforINOPER0lacklackNNOPER0ofofINOPER0financingfinancingNNOPER0...OPER0(ROOT (S (CC But) (NP (DT the) (NN deal)) (VP (VBD fell) (ADVP (RB apart)) (NP (JJ last) (NN week)) (PP (IN for) (NP (NP (NN lack)) (PP (IN of) (NP (NN financing)))))) (. .)))
+ComsatComsatNNPORGPER0VideoVideoNNPORGPER0isbeVBZOPER0headedheadVBNOPER0bybyINOPER0RobertRobertNNPPERSONPER0WusslerWusslerNNPPERSONPER0,,,OPER0whowhoWPOPER0resignedresignVBDOPER0hishePRP$OPER0No.No.NNPOPER022CDCARDINALPER0executiveexecutiveJJOPER0postpostNNOPER0withwithINOPER0TurnerTurnerNNPORGPER0BroadcastingBroadcastingNNPORGPER0SystemSystemNNPORGPER0Inc.Inc.NNPORGPER0justjustRBDATEPER0twotwoCDDATEPER0weeksweekNNSDATEPER0agoagoRBDATEPER0totoTOOPER0taketakeVBOPER0thetheDTOPER0ComsatComsatNNPORGPER0positionpositionNNOPER0...OPER0(ROOT (S (NP (NNP Comsat) (NNP Video)) (VP (VBZ is) (VP (VBN headed) (PP (IN by) (NP (NP (NNP Robert) (NNP Wussler)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (NP (NP (PRP$ his) (NML (NNP No.) (CD 2)) (JJ executive) (NN post)) (PP (IN with) (NP (NNP Turner) (NNP Broadcasting) (NNP System) (NNP Inc.)))) (ADVP (NP (QP (RB just) (CD two)) (NNS weeks)) (RB ago)) (S (VP (TO to) (VP (VB take) (NP (DT the) (NNP Comsat) (NN position)))))))))))) (. .)))
+ComsatComsatNNPORGPER0VideoVideoNNPORGPER0,,,OPER0whichwhichWDTOPER0distributesdistributeVBZOPER0paypayNNOPER0--HYPHOPER0perperINOPER0--HYPHOPER0viewviewNNOPER0programsprogramNNSOPER0totoINOPER0hotelhotelNNOPER0roomsroomNNSOPER0,,,OPER0plansplanVBZOPER0totoTOOPER0addaddVBOPER0NuggetsNuggetsNNPORGPER0gamesgameNNSOPER0totoINOPER0theirtheyPRP$OPER0offeringsofferingNNSOPER0,,,OPER0asasINOPER0Mr.Mr.NNPOPER0TurnerTurnerNNPPERSONPER0diddoVBDOPER0successfullysuccessfullyRBOPER0withwithINOPER0hishePRP$OPER0AtlantaAtlantaNNPORGPER0HawkshawkNNSORGPER0andandCCOPER0BravesbraveVBZORGPER0sportssportNNSOPER0teamsteamNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Comsat) (NNP Video)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ distributes) (NP (NML (NN pay) (HYPH -) (IN per) (HYPH -) (NN view)) (NNS programs)) (PP (IN to) (NP (NN hotel) (NNS rooms)))))) (, ,)) (VP (VP (VBZ plans) (S (VP (TO to) (VP (VB add) (NP (NNP Nuggets) (NNS games)) (PP (IN to) (NP (PRP$ their) (NNS offerings))) (, ,) (SBAR (IN as) (S (NP (NNP Mr.) (NNP Turner)) (VP (VBD did) (ADVP (RB successfully)) (PP (IN with) (NP (PRP$ his) (NNP Atlanta) (NNS Hawks)))))))))) (CC and) (VP (VBZ Braves) (NP (NNS sports) (NNS teams)))) (. .)))
+Messrs.Messrs.NNPOPER0LeeLeeNNPPERSONPER0andandCCOPER0BynoeBynoeNNPPERSONPER0willwillMDOPER0managemanageVBOPER0thetheDTOPER0NuggetsNuggetsNNPSORGPER0''POSOPER0daydayNNDATEPER0--HYPHDATEPER0todaytodayNNDATEPER0affairsaffairNNSOPER0...OPER0(ROOT (S (NP (NNP Messrs.) (NNP Lee) (CC and) (NNP Bynoe)) (VP (MD will) (VP (VB manage) (NP (NP (DT the) (NNPS Nuggets) (POS ')) (NML (NN day) (HYPH -) (NN today)) (NNS affairs)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 5 headed by 4 parsed as (NP (NP (NNP Bertram) (NNP M.) (NNP Lee)) (CC and) (NP (NNP Peter) (NNP Bynoe)))
+sid=0 spanning 0 until 8 headed by 4 parsed as (NP (NP (NNP Bertram) (NNP M.) (NNP Lee)) (CC and) (NP (NNP Peter) (NNP Bynoe)))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP Peter) (NNP Bynoe))
+sid=0 spanning 14 until 19 headed by 18 parsed as (NP (DT the) (NNP Denver) (NNPS Nuggets) (NN basketball) (NN team))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS partners))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN team))
+sid=1 spanning 20 until 33 headed by 23 parsed as (NP (NP (NNP Comsat) (NNP Video) (NNP Enterprises) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Communications) (NNP Satellite) (NNP Corp.)) (VP (VBN based) (ADVP (RB here)))))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Comsat) (NNP Video))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=2 spanning 14 until 18 headed by 15 parsed as (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=2 spanning 17 until 18 headed by 17 parsed as Bynoe
+sid=2 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN team))
+sid=3 spanning 6 until 7 headed by 6 parsed as Nuggets
+sid=3 spanning 21 until 24 headed by 22 parsed as (NP (DT the) (NN franchise) (POS 's))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=4 spanning 0 until 4 headed by 1 parsed as (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=4 spanning 3 until 4 headed by 3 parsed as Bynoe
+sid=4 spanning 7 until 25 headed by 8 parsed as (NP (NP (DT a) (NN deal)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB have) (VP (VBN made) (S (NP (PRP them)) (NP (NP (DT the) (JJ first) (JJ black) (JJ principal) (NNS owners)) (PP (IN of) (NP (DT a) (JJ major) (JJ professional) (NNS sports) (NN franchise)))))))))))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (PRP them))
+sid=5 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN deal))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Comsat) (NNP Video))
+sid=6 spanning 27 until 28 headed by 27 parsed as Comsat
+sid=7 spanning 0 until 15 headed by 1 parsed as (NP (NP (NNP Comsat) (NNP Video)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ distributes) (NP (NML (NN pay) (HYPH -) (IN per) (HYPH -) (NN view)) (NNS programs)) (PP (IN to) (NP (NN hotel) (NNS rooms)))))) (, ,))
+sid=7 spanning 18 until 19 headed by 18 parsed as Nuggets
+sid=7 spanning 21 until 22 headed by 21 parsed as their
+sid=7 spanning 25 until 27 headed by 26 parsed as (NP (NNP Mr.) (NNP Turner))
+sid=7 spanning 30 until 31 headed by 30 parsed as his
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (NNP Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=8 spanning 0 until 4 headed by 1 parsed as (NP (NNP Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=8 spanning 3 until 4 headed by 3 parsed as Bynoe
+sid=8 spanning 6 until 9 headed by 7 parsed as (NP (DT the) (NNPS Nuggets) (POS '))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Chicago) (NNS businessmen))
+sid=0 spanning 0 until 1 headed by 0 parsed as Chicago
+sid=0 spanning 2 until 5 headed by 4 parsed as (NP (NP (NNP Bertram) (NNP M.) (NNP Lee)) (CC and) (NP (NNP Peter) (NNP Bynoe)))
+sid=0 spanning 2 until 8 headed by 4 parsed as (NP (NP (NNP Bertram) (NNP M.) (NNP Lee)) (CC and) (NP (NNP Peter) (NNP Bynoe)))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP Peter) (NNP Bynoe))
+sid=0 spanning 9 until 19 headed by 11 parsed as (NP (DT a) (JJ new) (NN agreement) (S (VP (TO to) (VP (VB purchase) (NP (DT the) (NNP Denver) (NNPS Nuggets) (NN basketball) (NN team))))))
+sid=0 spanning 14 until 19 headed by 18 parsed as (NP (DT the) (NNP Denver) (NNPS Nuggets) (NN basketball) (NN team))
+sid=0 spanning 15 until 17 headed by 16 parsed as Nuggets
+sid=0 spanning 23 until 25 headed by 24 parsed as (NP (JJ principal) (NNS owners))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (NNP Saturday))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS partners))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN team))
+sid=1 spanning 16 until 33 headed by 18 parsed as (NP (NP (DT a) (JJ new) (NN group)) (PP (VBG including) (NP (NP (NNP Comsat) (NNP Video) (NNP Enterprises) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Communications) (NNP Satellite) (NNP Corp.)) (VP (VBN based) (ADVP (RB here)))))))))
+sid=1 spanning 20 until 24 headed by 23 parsed as (NP (NP (NNP Comsat) (NNP Video) (NNP Enterprises) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Communications) (NNP Satellite) (NNP Corp.)) (VP (VBN based) (ADVP (RB here)))))))
+sid=1 spanning 20 until 33 headed by 23 parsed as (NP (NP (NNP Comsat) (NNP Video) (NNP Enterprises) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Communications) (NNP Satellite) (NNP Corp.)) (VP (VBN based) (ADVP (RB here)))))))
+sid=1 spanning 25 until 33 headed by 26 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Communications) (NNP Satellite) (NNP Corp.)) (VP (VBN based) (ADVP (RB here))))))
+sid=1 spanning 28 until 33 headed by 30 parsed as (NP (NP (NNP Communications) (NNP Satellite) (NNP Corp.)) (VP (VBN based) (ADVP (RB here))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Comsat) (NNP Video))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (NML (CD 62.5) (NN %)) (NN interest))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=2 spanning 14 until 18 headed by 15 parsed as (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NNPS Messrs.)
+sid=2 spanning 17 until 18 headed by 17 parsed as Bynoe
+sid=2 spanning 24 until 31 headed by 27 parsed as (NP (NP (DT a) (NML (CD 37.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN team))))
+sid=2 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN team))
+sid=3 spanning 1 until 5 headed by 1 parsed as (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN sale))))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN sale))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (NML (NNP Nuggets) (NN owner)) (NNP Sidney) (NNP Shlenker))
+sid=3 spanning 6 until 7 headed by 6 parsed as Nuggets
+sid=3 spanning 18 until 26 headed by 19 parsed as (NP (NP (JJ additional) (NNS payments)) (PP (IN from) (NP (NP (DT the) (NN franchise) (POS 's)) (JJ future) (NNS earnings))))
+sid=3 spanning 21 until 26 headed by 25 parsed as (NP (NP (DT the) (NN franchise) (POS 's)) (JJ future) (NNS earnings))
+sid=3 spanning 21 until 24 headed by 22 parsed as (NP (DT the) (NN franchise) (POS 's))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=4 spanning 0 until 4 headed by 1 parsed as (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NNPS Messrs.)
+sid=4 spanning 3 until 4 headed by 3 parsed as Bynoe
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (JJ last) (NNP July))
+sid=4 spanning 7 until 25 headed by 8 parsed as (NP (NP (DT a) (NN deal)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB have) (VP (VBN made) (S (NP (PRP them)) (NP (NP (DT the) (JJ first) (JJ black) (JJ principal) (NNS owners)) (PP (IN of) (NP (DT a) (JJ major) (JJ professional) (NNS sports) (NN franchise)))))))))))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (PRP them))
+sid=4 spanning 14 until 25 headed by 18 parsed as (NP (NP (DT the) (JJ first) (JJ black) (JJ principal) (NNS owners)) (PP (IN of) (NP (DT a) (JJ major) (JJ professional) (NNS sports) (NN franchise))))
+sid=4 spanning 15 until 16 headed by 15 parsed as first
+sid=4 spanning 20 until 25 headed by 24 parsed as (NP (DT a) (JJ major) (JJ professional) (NNS sports) (NN franchise))
+sid=5 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN deal))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (JJ last) (NN week))
+sid=5 spanning 8 until 11 headed by 8 parsed as (NP (NP (NN lack)) (PP (IN of) (NP (NN financing))))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Comsat) (NNP Video))
+sid=6 spanning 5 until 7 headed by 6 parsed as (NP (NP (NNP Robert) (NNP Wussler)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (NP (NP (PRP$ his) (NML (NNP No.) (CD 2)) (JJ executive) (NN post)) (PP (IN with) (NP (NNP Turner) (NNP Broadcasting) (NNP System) (NNP Inc.)))) (ADVP (NP (QP (RB just) (CD two)) (NNS weeks)) (RB ago)) (S (VP (TO to) (VP (VB take) (NP (DT the) (NNP Comsat) (NN position)))))))))
+sid=6 spanning 5 until 29 headed by 6 parsed as (NP (NP (NNP Robert) (NNP Wussler)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (NP (NP (PRP$ his) (NML (NNP No.) (CD 2)) (JJ executive) (NN post)) (PP (IN with) (NP (NNP Turner) (NNP Broadcasting) (NNP System) (NNP Inc.)))) (ADVP (NP (QP (RB just) (CD two)) (NNS weeks)) (RB ago)) (S (VP (TO to) (VP (VB take) (NP (DT the) (NNP Comsat) (NN position)))))))))
+sid=6 spanning 10 until 20 headed by 14 parsed as (NP (NP (PRP$ his) (NML (NNP No.) (CD 2)) (JJ executive) (NN post)) (PP (IN with) (NP (NNP Turner) (NNP Broadcasting) (NNP System) (NNP Inc.))))
+sid=6 spanning 10 until 11 headed by 10 parsed as (PRP$ his)
+sid=6 spanning 16 until 20 headed by 19 parsed as (NP (NNP Turner) (NNP Broadcasting) (NNP System) (NNP Inc.))
+sid=6 spanning 20 until 24 headed by 23 parsed as ago
+sid=6 spanning 26 until 29 headed by 28 parsed as (NP (DT the) (NNP Comsat) (NN position))
+sid=6 spanning 27 until 28 headed by 27 parsed as Comsat
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Comsat) (NNP Video)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ distributes) (NP (NML (NN pay) (HYPH -) (IN per) (HYPH -) (NN view)) (NNS programs)) (PP (IN to) (NP (NN hotel) (NNS rooms)))))) (, ,))
+sid=7 spanning 0 until 15 headed by 1 parsed as (NP (NP (NNP Comsat) (NNP Video)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ distributes) (NP (NML (NN pay) (HYPH -) (IN per) (HYPH -) (NN view)) (NNS programs)) (PP (IN to) (NP (NN hotel) (NNS rooms)))))) (, ,))
+sid=7 spanning 5 until 11 headed by 10 parsed as (NP (NML (NN pay) (HYPH -) (IN per) (HYPH -) (NN view)) (NNS programs))
+sid=7 spanning 12 until 14 headed by 13 parsed as (NP (NN hotel) (NNS rooms))
+sid=7 spanning 18 until 20 headed by 19 parsed as (NP (NNP Nuggets) (NNS games))
+sid=7 spanning 18 until 19 headed by 18 parsed as Nuggets
+sid=7 spanning 21 until 23 headed by 22 parsed as (NP (PRP$ their) (NNS offerings))
+sid=7 spanning 21 until 22 headed by 21 parsed as (PRP$ their)
+sid=7 spanning 25 until 27 headed by 26 parsed as (NP (NNP Mr.) (NNP Turner))
+sid=7 spanning 31 until 33 headed by 32 parsed as (NP (PRP$ his) (NNP Atlanta) (NNS Hawks))
+sid=7 spanning 30 until 33 headed by 32 parsed as (NP (PRP$ his) (NNP Atlanta) (NNS Hawks))
+sid=7 spanning 30 until 31 headed by 30 parsed as (PRP$ his)
+sid=7 spanning 34 until 35 headed by 34 parsed as Braves
+sid=7 spanning 35 until 37 headed by 36 parsed as (NP (NNS sports) (NNS teams))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (NNP Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=8 spanning 0 until 4 headed by 1 parsed as (NP (NNP Messrs.) (NNP Lee) (CC and) (NNP Bynoe))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NNP Messrs.)
+sid=8 spanning 3 until 4 headed by 3 parsed as Bynoe
+sid=8 spanning 6 until 13 headed by 12 parsed as (NP (NP (DT the) (NNPS Nuggets) (POS ')) (NML (NN day) (HYPH -) (NN today)) (NNS affairs))
+sid=8 spanning 6 until 9 headed by 7 parsed as (NP (DT the) (NNPS Nuggets) (POS '))
+sid=8 spanning 9 until 12 headed by 11 parsed as today
+(end predicted mentions)
+---------gold clusters--------
+17 19 | { 'a deal that would have made them the first black principal owners of a major professional sports franchise' 'the deal' }
+15 28 1 9 18 4 | { 'Messrs. Lee and Bynoe' 'Messrs. Lee and Bynoe' 'Chicago businessmen Bertram M. Lee and Peter Bynoe' 'Messrs. Lee and Bynoe' 'them' 'the partners' }
+14 0 27 8 | { 'Lee' 'Bertram M. Lee' 'Lee' 'Lee' }
+26 25 | { 'his' 'Mr. Turner' }
+16 29 10 2 | { 'Bynoe' 'Bynoe' 'Bynoe' 'Peter Bynoe' }
+20 24 22 21 6 7 | { 'Comsat Video' 'their' 'Comsat Video , which distributes pay - per - view programs to hotel rooms ,' 'Comsat' 'Comsat Video Enterprises Inc. , a unit of Communications Satellite Corp. based here' 'Comsat Video' }
+3 11 5 12 23 13 30 | { 'the Denver Nuggets basketball team' 'the team' 'the team' 'Nuggets' 'Nuggets' 'the franchise 's' 'the Nuggets '' }
+(end gold clusters)

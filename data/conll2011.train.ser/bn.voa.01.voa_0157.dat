@@ -1,0 +1,37 @@
+---------gloss--------
+(0) A [34m{United Nations}[0m conference on wiping out organized crime opens Tuesday in Sicily . 
+(1) Security is tight as [34m{UN}[0m Secretary General Kofi Annan and other delegates converge on the capital Palermo . 
+(2) Agenda topics include money laundering and the illegal drug trade . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0157); part 000
+sentences:
+AaDTOPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0conferenceconferenceNNOPER0ononINOPER0wipingwipeVBGOPER0outoutRPOPER0organizedorganizedJJOPER0crimecrimeNNOPER0opensopenVBZOPER0TuesdayTuesdayNNPDATEPER0ininINOPER0SicilySicilyNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT A) (NML (NNP United) (NNP Nations)) (NN conference)) (PP (IN on) (S (VP (VBG wiping) (PRT (RP out)) (NP (JJ organized) (NN crime)))))) (VP (VBZ opens) (NP (NNP Tuesday)) (PP (IN in) (NP (NNP Sicily)))) (. .)))
+SecuritysecurityNNOPER0isbeVBZOPER0tighttightJJOPER0asasINOPER0UNUNNNPORGPER0SecretarySecretaryNNPOPER0GeneralGeneralNNPOPER0KofiKofiNNPPERSONPER0AnnanAnnanNNPPERSONPER0andandCCOPER0otherotherJJOPER0delegatesdelegateNNSOPER0convergeconvergeVBPOPER0ononINOPER0thetheDTOPER0capitalcapitalNNOPER0PalermoPalermoNNPGPEPER0...OPER0(ROOT (S (NP (NN Security)) (VP (VBZ is) (ADJP (JJ tight)) (SBAR (IN as) (S (NP (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan)) (CC and) (NP (JJ other) (NNS delegates))) (VP (VBP converge) (PP (IN on) (NP (NP (DT the) (NN capital)) (NP (NNP Palermo)))))))) (. .)))
+AgendaagendaNNOPER0topicstopicNNSOPER0includeincludeVBPOPER0moneymoneyNNOPER0launderinglaunderingNNOPER0andandCCOPER0thetheDTOPER0illegalillegalJJOPER0drugdrugNNOPER0tradetradeNNOPER0...OPER0(ROOT (S (NP (NN Agenda) (NNS topics)) (VP (VBP include) (NP (NP (NN money) (NN laundering)) (CC and) (NP (DT the) (JJ illegal) (NN drug) (NN trade)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as Nations
+sid=1 spanning 4 until 5 headed by 4 parsed as UN
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 3 parsed as (NP (NP (DT A) (NML (NNP United) (NNP Nations)) (NN conference)) (PP (IN on) (S (VP (VBG wiping) (PRT (RP out)) (NP (JJ organized) (NN crime))))))
+sid=0 spanning 1 until 3 headed by 2 parsed as Nations
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Tuesday))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Sicily))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan)) (CC and) (NP (JJ other) (NNS delegates)))
+sid=1 spanning 4 until 12 headed by 8 parsed as (NP (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan)) (CC and) (NP (JJ other) (NNS delegates)))
+sid=1 spanning 4 until 9 headed by 8 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=1 spanning 4 until 5 headed by 4 parsed as UN
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (JJ other) (NNS delegates))
+sid=1 spanning 14 until 17 headed by 15 parsed as (NP (NP (DT the) (NN capital)) (NP (NNP Palermo)))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Palermo))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NN Agenda) (NNS topics))
+sid=2 spanning 3 until 10 headed by 4 parsed as (NP (NP (NN money) (NN laundering)) (CC and) (NP (DT the) (JJ illegal) (NN drug) (NN trade)))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (NN money) (NN laundering))
+sid=2 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (JJ illegal) (NN drug) (NN trade))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'United Nations' 'UN' }
+(end gold clusters)

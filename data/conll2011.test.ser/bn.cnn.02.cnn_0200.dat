@@ -1,0 +1,56 @@
+---------gloss--------
+(0) In [32m{northern Iraq}[0m , [31m{U.S. warplanes}[0m [33m{hit}[0m [34m{targets including a ridge east of Mosul , where Iraqi troops have been entrenched}[0m . 
+(1) [31m{Two F Tomcats}[0m [33m{struck}[0m [34m{the targets}[0m . 
+(2) [32m{The same area}[0m was a site of heavy bombing yesterday . 
+(3) After [33m{today 's air strikes}[0m , [35m{13 Iraqi soldiers}[0m abandoned [35m{their}[0m posts and surrendered to Kurdish fighters . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0200); part 000
+sentences:
+IninINOPER0northernnorthernJJOPER0IraqIraqNNPGPEPER0,,,OPER0U.S.U.S.NNPGPEPER0warplaneswarplaneNNSOPER0hithitVBDOPER0targetstargetNNSOPER0includingincludeVBGOPER0aaDTOPER0ridgeridgeNNOPER0easteastRBOPER0ofofINOPER0MosulMosulNNPORGPER0,,,OPER0wherewhereWRBOPER0IraqiiraqiJJOPER0troopstroopsNNSOPER0havehaveVBPOPER0beenbeVBNOPER0entrenchedentrenchVBNOPER0...OPER0(ROOT (S (PP (IN In) (NP (JJ northern) (NNP Iraq))) (, ,) (NP (NNP U.S.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (RB east) (PP (IN of) (NP (NNP Mosul))))))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ Iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched))))))) (. .)))
+TwotwoCDCARDINALPER0FFNNPSPRODUCTPER0TomcatsTomcatsNNPSPRODUCTPER0struckstrikeVBDOPER0thetheDTOPER0targetstargetNNSOPER0...OPER0(ROOT (S (NP (CD Two) (NNPS F) (NNPS Tomcats)) (VP (VBD struck) (NP (DT the) (NNS targets))) (. .)))
+ThetheDTOPER0samesameJJOPER0areaareaNNOPER0wasbeVBDOPER0aaDTOPER0sitesiteNNOPER0ofofINOPER0heavyheavyJJOPER0bombingbombingNNOPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ same) (NN area)) (VP (VBD was) (NP (NP (DT a) (NN site)) (PP (IN of) (NP (NP (JJ heavy) (NN bombing)) (NP (NN yesterday)))))) (. .)))
+AfterafterINOPER0todaytodayNNDATEPER0's'sPOSOPER0airairNNOPER0strikesstrikeNNSOPER0,,,OPER01313CDCARDINALPER0IraqiiraqiJJOPER0soldierssoldierNNSOPER0abandonedabandonVBDOPER0theirtheyPRP$OPER0postspostNNSOPER0andandCCOPER0surrenderedsurrenderVBDOPER0totoINOPER0KurdishkurdishJJOPER0fightersfighterNNSOPER0...OPER0(ROOT (S (PP (IN After) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ Iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (IN to) (NP (JJ Kurdish) (NNS fighters))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (JJ northern) (NNP Iraq))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP U.S.) (NNS warplanes))
+sid=0 spanning 6 until 7 headed by 6 parsed as hit
+sid=0 spanning 7 until 21 headed by 7 parsed as (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (RB east) (PP (IN of) (NP (NNP Mosul)))))))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (CD Two) (NNPS F) (NNPS Tomcats))
+sid=1 spanning 3 until 4 headed by 3 parsed as struck
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNS targets))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ same) (NN area))
+sid=3 spanning 1 until 5 headed by 4 parsed as (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (CD 13) (JJ Iraqi) (NNS soldiers))
+sid=3 spanning 10 until 11 headed by 10 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (JJ northern) (NNP Iraq))
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (JJ northern) (NNP Iraq))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP U.S.) (NNS warplanes))
+sid=0 spanning 7 until 14 headed by 7 parsed as (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (RB east) (PP (IN of) (NP (NNP Mosul)))))))
+sid=0 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT a) (NN ridge)) (ADVP (RB east) (PP (IN of) (NP (NNP Mosul)))))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP Mosul))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (JJ Iraqi) (NNS troops))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (CD Two) (NNPS F) (NNPS Tomcats))
+sid=1 spanning 1 until 3 headed by 1 parsed as F
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNS targets))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ same) (NN area))
+sid=2 spanning 4 until 10 headed by 5 parsed as (NP (NP (DT a) (NN site)) (PP (IN of) (NP (NP (JJ heavy) (NN bombing)) (NP (NN yesterday)))))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NN yesterday))
+sid=3 spanning 1 until 5 headed by 4 parsed as (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))
+sid=3 spanning 1 until 3 headed by 1 parsed as (NP (NN today) (POS 's))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (CD 13) (JJ Iraqi) (NNS soldiers))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ their) (NNS posts))
+sid=3 spanning 10 until 11 headed by 10 parsed as (PRP$ their)
+sid=3 spanning 15 until 17 headed by 16 parsed as (NP (JJ Kurdish) (NNS fighters))
+(end predicted mentions)
+---------gold clusters--------
+1 4 | { 'U.S. warplanes' 'Two F Tomcats' }
+7 0 | { 'The same area' 'northern Iraq' }
+8 5 2 | { 'today 's air strikes' 'struck' 'hit' }
+3 6 | { 'targets including a ridge east of Mosul , where Iraqi troops have been entrenched' 'the targets' }
+9 10 | { '13 Iraqi soldiers' 'their' }
+(end gold clusters)

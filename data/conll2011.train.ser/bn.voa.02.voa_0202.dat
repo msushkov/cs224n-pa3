@@ -1,0 +1,44 @@
+---------gloss--------
+(0) [33m{Colombian President Andres Pastrana}[0m says the peace process with [34m{the country 's largest Marxist rebel group}[0m will be in danger if [34m{it}[0m is found responsible for [35m{Friday 's killing of an opposition lawmaker}[0m . 
+(1) [33m{President Pestrana}[0m said Saturday there is what [33m{he}[0m calls serious evidence [34m{the revolutionary armed forces of Colombia}[0m shot and [35m{killed}[0m [32m{Congressman Diego Turbai}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0202); part 000
+sentences:
+ColombiancolombianJJOPER0PresidentPresidentNNPOPER0AndresAndresNNPPERSONPER0PastranaPastranaNNPPERSONPER0sayssayVBZOPER0thetheDTOPER0peacepeaceNNOPER0processprocessNNOPER0withwithINOPER0thetheDTOPER0countrycountryNNOPER0's'sPOSOPER0largestlargestJJSOPER0MarxistmarxistJJOPER0rebelrebelJJOPER0groupgroupNNOPER0willwillMDOPER0bebeVBOPER0ininINOPER0dangerdangerNNOPER0ififINOPER0ititPRPOPER0isbeVBZOPER0foundfindVBNOPER0responsibleresponsibleJJOPER0forforINOPER0FridayFridayNNPDATEPER0's'sPOSOPER0killingkillingNNOPER0ofofINOPER0anaDTOPER0oppositionoppositionNNOPER0lawmakerlawmakerNNOPER0...OPER0(ROOT (S (NP (NML (JJ Colombian) (NNP President)) (NNP Andres) (NNP Pastrana)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (NN peace) (NN process)) (PP (IN with) (NP (NP (DT the) (NN country) (POS 's)) (JJS largest) (JJ Marxist) (JJ rebel) (NN group)))) (VP (MD will) (VP (VB be) (PP (IN in) (NP (NN danger))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN found) (S (ADJP (JJ responsible) (PP (IN for) (NP (NP (NP (NNP Friday) (POS 's)) (NN killing)) (PP (IN of) (NP (DT an) (NN opposition) (NN lawmaker)))))))))))))))) (. .)))
+PresidentPresidentNNPOPER0PestranaPestranaNNPPERSONPER0saidsayVBDOPER0SaturdaySaturdayNNPDATEPER0therethereEXOPER0isbeVBZOPER0whatwhatWPOPER0hehePRPOPER0callscallVBZOPER0seriousseriousJJOPER0evidenceevidenceNNOPER0thetheDTOPER0revolutionaryrevolutionaryJJOPER0armedarmedJJOPER0forcesforceNNSOPER0ofofINOPER0ColombiaColombiaNNPGPEPER0shotshootVBDOPER0andandCCOPER0killedkillVBDOPER0CongressmanCongressmanNNPOPER0DiegoDiegoNNPPERSONPER0TurbaiTurbaiNNPPERSONPER0...OPER0(ROOT (S (NP (NNP President) (NNP Pestrana)) (VP (VBD said) (NP (NNP Saturday)) (SBAR (S (NP (EX there)) (VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ calls) (NP (NP (JJ serious) (NN evidence)) (SBAR (S (NP (NP (DT the) (JJ revolutionary) (JJ armed) (NNS forces)) (PP (IN of) (NP (NNP Colombia)))) (VP (VBD shot) (CC and) (VBD killed) (NP (NNP Congressman) (NNP Diego) (NNP Turbai))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Colombian) (NNP President)) (NNP Andres) (NNP Pastrana))
+sid=0 spanning 9 until 16 headed by 15 parsed as (NP (NP (DT the) (NN country) (POS 's)) (JJS largest) (JJ Marxist) (JJ rebel) (NN group))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (PRP it))
+sid=0 spanning 26 until 33 headed by 28 parsed as (NP (NP (NP (NNP Friday) (POS 's)) (NN killing)) (PP (IN of) (NP (DT an) (NN opposition) (NN lawmaker))))
+sid=0 spanning 30 until 33 headed by 32 parsed as (NP (DT an) (NN opposition) (NN lawmaker))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Pestrana))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=1 spanning 11 until 17 headed by 14 parsed as (NP (NP (DT the) (JJ revolutionary) (JJ armed) (NNS forces)) (PP (IN of) (NP (NNP Colombia))))
+sid=1 spanning 19 until 20 headed by 19 parsed as killed
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (NNP Congressman) (NNP Diego) (NNP Turbai))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Colombian) (NNP President)) (NNP Andres) (NNP Pastrana))
+sid=0 spanning 5 until 16 headed by 7 parsed as (NP (NP (DT the) (NN peace) (NN process)) (PP (IN with) (NP (NP (DT the) (NN country) (POS 's)) (JJS largest) (JJ Marxist) (JJ rebel) (NN group))))
+sid=0 spanning 9 until 16 headed by 15 parsed as (NP (NP (DT the) (NN country) (POS 's)) (JJS largest) (JJ Marxist) (JJ rebel) (NN group))
+sid=0 spanning 9 until 12 headed by 10 parsed as (NP (DT the) (NN country) (POS 's))
+sid=0 spanning 26 until 33 headed by 28 parsed as (NP (NP (NP (NNP Friday) (POS 's)) (NN killing)) (PP (IN of) (NP (DT an) (NN opposition) (NN lawmaker))))
+sid=0 spanning 26 until 28 headed by 26 parsed as (NP (NNP Friday) (POS 's))
+sid=0 spanning 30 until 33 headed by 32 parsed as (NP (DT an) (NN opposition) (NN lawmaker))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Pestrana))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNP Saturday))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=1 spanning 11 until 17 headed by 14 parsed as (NP (NP (DT the) (JJ revolutionary) (JJ armed) (NNS forces)) (PP (IN of) (NP (NNP Colombia))))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Colombia))
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (NNP Congressman) (NNP Diego) (NNP Turbai))
+(end predicted mentions)
+---------gold clusters--------
+9 4 | { 'Congressman Diego Turbai' 'an opposition lawmaker' }
+5 6 0 | { 'President Pestrana' 'he' 'Colombian President Andres Pastrana' }
+2 7 1 | { 'it' 'the revolutionary armed forces of Colombia' 'the country 's largest Marxist rebel group' }
+8 3 | { 'killed' 'Friday 's killing of an opposition lawmaker' }
+(end gold clusters)

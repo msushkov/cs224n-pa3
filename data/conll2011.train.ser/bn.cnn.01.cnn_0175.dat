@@ -1,0 +1,242 @@
+---------gloss--------
+(0) In [3m[34m{Cuba}[0m today , [3m[36m{some people}[0m are [35m{viewing}[0m [3m[36m{their}[0m past through the eyes of an American . 
+(1) [3m[32m{Thomas Nybo}[0m has [35m{that story}[0m . 
+(2) When [3m[33m{Fidel Castro}[0m and [3m[33m{his}[0m rebels stormed [4m[32m{Havana}[0m , [4m[34m{they}[0m were joined by [1m[36m{an intrepid American photographer who spoke little Spanish}[0m . 
+(3) [1m[36m{His}[0m name is [1m[36m{Burt Glinn}[0m , and now [1m[31m{most Cubans}[0m are getting [1m[31m{their}[0m first look at [1m[36m{his}[0m photos on display in [4m[32m{Havana}[0m until the end of the month . 
+(4) [3m[35m{The collection}[0m is called `` on the road to [4m[32m{Havana}[0m with [3m[33m{Fidel}[0m , '' and is made up of 41 black and white images . 
+(5) [1m[35m{Some of the other photographers that were there}[0m had to go back to [1m[35m{their}[0m newspapers and had to go back to [1m[35m{their}[0m offices to send [1m[35m{their}[0m film in , but [1m[36m{I}[0m stayed because , to [1m[36m{me}[0m , [3m[31m{it}[0m was more than a news event . 
+(6) [3m[31m{It}[0m was about history , so [1m[36m{I}[0m wanted [1m[34m{the whole story}[0m . 
+(7) Capturing [1m[34m{the whole story}[0m was not easy . 
+(8) [1m[36m{Glinn}[0m borrowed money from friends just to get to [3m[34m{Cuba}[0m , and had to shoot many of the photos barefoot after [1m[36m{he}[0m lost [1m[36m{his}[0m shoes while being pushed in a crowd . 
+(9) [36m{The resulting photos}[0m show the passion of [1m[32m{the Cuban people}[0m and the charisma of [1m[32m{their}[0m new leader , standing at the center of it all , just as [3m[33m{he}[0m is 42 years later . 
+(10) [1m[36m{Glinn}[0m is 75 now -- about the same age as [3m[33m{Castro}[0m -- and this is [1m[36m{his}[0m second trip back to [3m[34m{Cuba}[0m since [4m[31m{the revolution}[0m . 
+(11) When [1m[36m{he}[0m looks back at [1m[36m{his}[0m long career , including stints in South Africa and the former Soviet Union , [4m[33m{one assignment}[0m stands out , and [4m[33m{this}[0m was the most exciting , because [4m[33m{it}[0m turned out to be not a story about [3m[33m{Fidel Castro}[0m . 
+(12) [4m[33m{It}[0m turned out to be a story about [1m[32m{the Cuban people}[0m , and how [1m[32m{they}[0m received [4m[31m{the revolution}[0m , and [4m[33m{it}[0m 's so important , because the visions that [1m[33m{foreigners}[0m have -- particularly Americans -- about [4m[31m{the revolution}[0m are completely different . 
+(13) [1m[33m{They}[0m do n't understand the kind of popular joy that was here . 
+(14) While some might disagree about [3m[34m{Cuba 's}[0m present , and plot different courses for [3m[34m{its}[0m future , [36m{these photos}[0m may help [3m[34m{Cuba}[0m better understand [3m[34m{its}[0m past . 
+(15) [3m[32m{Thomas Nybo}[0m , CNN . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0175); part 000
+sentences:
+IninINOPER0CubaCubaNNPGPEPER0todaytodayNNOPER0,,,OPER0somesomeDTOPER0peoplepeopleNNSOPER0arebeVBPOPER0viewingviewVBGOPER0theirtheyPRP$OPER0pastpastNNOPER0throughthroughINOPER0thetheDTOPER0eyeseyeNNSOPER0ofofINOPER0anaDTOPER0AmericanAmericanNNPOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Cuba))) (NP (NN today)) (, ,) (NP (DT some) (NNS people)) (VP (VBP are) (VP (VBG viewing) (NP (PRP$ their) (NN past)) (PP (IN through) (NP (NP (DT the) (NNS eyes)) (PP (IN of) (NP (DT an) (NNP American))))))) (. .)))
+ThomasThomasNNPPERSONPER0NyboNyboNNPPERSONPER0hashaveVBZOPER0thatthatDTOPER0storystoryNNOPER0...OPER0(ROOT (S (NP (NNP Thomas) (NNP Nybo)) (VP (VBZ has) (NP (DT that) (NN story))) (. .)))
+WhenwhenWRBOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0andandCCOPER0hishePRP$OPER0rebelsrebelNNSOPER0stormedstormVBDOPER0HavanaHavanaNNPGPEPER0,,,OPER0theytheyPRPOPER0werebeVBDOPER0joinedjoinVBNOPER0bybyINOPER0anaDTOPER0intrepidintrepidNNPOPER0AmericanAmericanNNPOPER0photographerphotographerNNOPER0whowhoWPOPER0spokespeakVBDOPER0littlelittleJJOPER0SpanishSpanishNNPOPER0...OPER0(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (NP (NNP Fidel) (NNP Castro)) (CC and) (NP (PRP$ his) (NNS rebels))) (VP (VBD stormed) (NP (NNP Havana))))) (, ,) (NP (PRP they)) (VP (VBD were) (VP (VBN joined) (PP (IN by) (NP (NP (DT an) (NML (NNP intrepid) (NNP American)) (NN photographer)) (SBAR (WHNP (WP who)) (S (VP (VBD spoke) (NP (JJ little) (NNP Spanish))))))))) (. .)))
+HishePRP$OPER0namenameNNOPER0isbeVBZOPER0BurtBurtNNPPERSONPER0GlinnGlinnNNPPERSONPER0,,,OPER0andandCCOPER0nownowRBOPER0mostmostJJSOPER0CubansCubansNNPSOPER0arebeVBPOPER0gettinggetVBGOPER0theirtheyPRP$OPER0firstfirstJJORDINALPER0looklookNNOPER0atatINOPER0hishePRP$OPER0photosphotoNNSOPER0ononINOPER0displaydisplayNNOPER0ininINOPER0HavanaHavanaNNPGPEPER0untiluntilINOPER0thetheDTDATEPER0endendNNDATEPER0ofofINDATEPER0thetheDTDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (S (NP (PRP$ His) (NN name)) (VP (VBZ is) (NP (NNP Burt) (NNP Glinn)))) (, ,) (CC and) (S (ADVP (RB now)) (NP (JJS most) (NNPS Cubans)) (VP (VBP are) (VP (VBG getting) (NP (NP (PRP$ their) (JJ first) (NN look)) (PP (IN at) (NP (PRP$ his) (NNS photos)))) (PP (IN on) (NP (NP (NN display)) (PP (IN in) (NP (NNP Havana))))) (PP (IN until) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))) (. .)))
+ThetheDTOPER0collectioncollectionNNOPER0isbeVBZOPER0calledcallVBNOPER0``````OononINOPER1thetheDTOPER1roadroadNNOPER1totoINOPER1HavanaHavanaNNPGPEPER1withwithINOPER1FidelFidelNNPPERSONPER1,,,OPER1''''''OPER0andandCCOPER0isbeVBZOPER0mademakeVBNOPER0upupRPOPER0ofofINOPER04141CDCARDINALPER0blackblackJJOPER0andandCCOPER0whitewhiteJJOPER0imagesimageNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN collection)) (VP (VP (VBZ is) (VP (VBN called) (`` ``) (PP (IN on) (NP (NP (DT the) (NN road)) (PP (IN to) (NP (NNP Havana))))) (PP (IN with) (NP (NNP Fidel))))) (, ,) ('' '') (CC and) (VP (VBZ is) (VP (VBN made) (PRT (RP up)) (PP (IN of) (NP (CD 41) (ADJP (JJ black) (CC and) (JJ white)) (NNS images)))))) (. .)))
+SomesomeDTOPER0ofofINOPER0thetheDTOPER0otherotherJJOPER0photographersphotographerNNSOPER0thatthatWDTOPER0werebeVBDOPER0therethereRBOPER0hadhaveVBDOPER0totoTOOPER0gogoVBOPER0backbackRBOPER0totoINOPER0theirtheyPRP$OPER0newspapersnewspaperNNSOPER0andandCCOPER0hadhaveVBDOPER0totoTOOPER0gogoVBOPER0backbackRBOPER0totoINOPER0theirtheyPRP$OPER0officesofficeNNSOPER0totoTOOPER0sendsendVBOPER0theirtheyPRP$OPER0filmfilmNNOPER0ininRBOPER0,,,OPER0butbutCCOPER0IIPRPOPER0stayedstayVBDOPER0becausebecauseINOPER0,,,OPER0totoINOPER0meIPRPOPER0,,,OPER0ititPRPOPER0wasbeVBDOPER0moremoreJJROPER0thanthanINOPER0aaDTOPER0newsnewsNNOPER0eventeventNNOPER0...OPER0(ROOT (S (S (NP (NP (DT Some)) (PP (IN of) (NP (NP (DT the) (JJ other) (NNS photographers)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (ADVP (RB there)))))))) (VP (VP (VBD had) (S (VP (TO to) (VP (VB go) (ADVP (RB back) (PP (IN to) (NP (PRP$ their) (NNS newspapers)))))))) (CC and) (VP (VBD had) (S (VP (TO to) (VP (VB go) (ADVP (RB back) (PP (IN to) (NP (PRP$ their) (NNS offices)))) (S (VP (TO to) (VP (VB send) (NP (PRP$ their) (NN film)) (ADVP (RB in))))))))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBD stayed) (SBAR (IN because) (, ,) (S (PP (IN to) (NP (PRP me))) (, ,) (NP (PRP it)) (VP (VBD was) (NP (QP (XS (JJR more) (IN than)) (DT a)) (NN news) (NN event))))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0aboutaboutINOPER0historyhistoryNNOPER0,,,OPER0sosoCCOPER0IIPRPOPER0wantedwantVBDOPER0thetheDTOPER0wholewholeJJOPER0storystoryNNOPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBD was) (PP (IN about) (NP (NN history))))) (, ,) (CC so) (S (NP (PRP I)) (VP (VBD wanted) (NP (DT the) (JJ whole) (NN story)))) (. .)))
+CapturingcaptureVBGOPER0thetheDTOPER0wholewholeJJOPER0storystoryNNOPER0wasbeVBDOPER0notnotRBOPER0easyeasyJJOPER0...OPER0(ROOT (S (S (VP (VBG Capturing) (NP (DT the) (JJ whole) (NN story)))) (VP (VBD was) (RB not) (ADJP (JJ easy))) (. .)))
+GlinnGlinnNNPORGPER0borrowedborrowVBDOPER0moneymoneyNNOPER0fromfromINOPER0friendsfriendNNSOPER0justjustRBOPER0totoTOOPER0getgetVBOPER0totoINOPER0CubaCubaNNPGPEPER0,,,OPER0andandCCOPER0hadhaveVBDOPER0totoTOOPER0shootshootVBOPER0manymanyJJOPER0ofofINOPER0thetheDTOPER0photosphotoNNSOPER0barefootbarefootVBNOPER0afterafterINOPER0hehePRPOPER0lostloseVBDOPER0hishePRP$OPER0shoesshoeNNSOPER0whilewhileINOPER0beingbeVBGOPER0pushedpushVBNOPER0ininINOPER0aaDTOPER0crowdcrowdNNOPER0...OPER0(ROOT (S (NP (NNP Glinn)) (VP (VP (VBD borrowed) (NP (NN money)) (PP (IN from) (NP (NP (NNS friends)) (SBAR (S (ADVP (RB just)) (VP (TO to) (VP (VB get) (PP (IN to) (NP (NNP Cuba)))))))))) (, ,) (CC and) (VP (VBD had) (S (VP (TO to) (VP (VB shoot) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NNS photos)) (VP (VBN barefoot) (SBAR (IN after) (S (NP (PRP he)) (VP (VBD lost) (NP (PRP$ his) (NNS shoes)) (SBAR (IN while) (S (VP (VBG being) (VP (VBN pushed) (PP (IN in) (NP (DT a) (NN crowd))))))))))))))))))) (. .)))
+ThetheDTOPER0resultingresultVBGOPER0photosphotoNNSOPER0showshowVBPOPER0thetheDTOPER0passionpassionNNOPER0ofofINOPER0thetheDTOPER0CubanCubanNNPOPER0peoplepeopleNNSOPER0andandCCOPER0thetheDTOPER0charismacharismaNNOPER0ofofINOPER0theirtheyPRP$OPER0newnewJJOPER0leaderleaderNNOPER0,,,OPER0standingstandVBGOPER0atatINOPER0thetheDTOPER0centercenterNNOPER0ofofINOPER0ititPRPOPER0allallDTOPER0,,,OPER0justjustRBOPER0asasINOPER0hehePRPOPER0isbeVBZOPER04242CDDATEPER0yearsyearNNSDATEPER0laterlaterRBDATEPER0...OPER0(ROOT (S (NP (DT The) (VBG resulting) (NNS photos)) (VP (VBP show) (NP (NP (NP (DT the) (NN passion)) (PP (IN of) (NP (DT the) (NNP Cuban) (NNS people)))) (CC and) (NP (NP (DT the) (NN charisma)) (PP (IN of) (NP (PRP$ their) (JJ new) (NN leader))))) (, ,) (S (VP (VBG standing) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (NP (PRP it)) (NP (DT all)))))))) (, ,) (SBAR (ADVP (RB just)) (IN as) (S (NP (PRP he)) (VP (VBZ is) (ADVP (NP (CD 42) (NNS years)) (RB later)))))) (. .)))
+GlinnGlinnNNPORGPER0isbeVBZOPER07575CDCARDINALPER0nownowRBOPER0----:OPER0aboutaboutINOPER0thetheDTOPER0samesameJJOPER0ageageNNOPER0asasINOPER0CastroCastroNNPPERSONPER0----:OPER0andandCCOPER0thisthisDTOPER0isbeVBZOPER0hishePRP$OPER0secondsecondJJORDINALPER0triptripNNOPER0backbackRBOPER0totoINOPER0CubaCubaNNPGPEPER0sincesinceINOPER0thetheDTOPER0revolutionrevolutionNNOPER0...OPER0(ROOT (S (S (NP (NNP Glinn)) (VP (VBZ is) (ADJP (CD 75)) (ADVP (RB now)) (: --) (PP (IN about) (NP (NP (DT the) (JJ same) (NN age)) (PP (IN as) (NP (NNP Castro))))))) (: --) (CC and) (S (NP (DT this)) (VP (VBZ is) (NP (NP (PRP$ his) (JJ second) (NN trip)) (ADVP (RB back) (PP (IN to) (NP (NNP Cuba)))) (PP (IN since) (NP (DT the) (NN revolution)))))) (. .)))
+WhenwhenWRBOPER0hehePRPOPER0lookslookVBZOPER0backbackRBOPER0atatINOPER0hishePRP$OPER0longlongJJOPER0careercareerNNOPER0,,,OPER0includingincludeVBGOPER0stintsstintNNSOPER0ininINOPER0SouthSouthNNPGPEPER0AfricaAfricaNNPGPEPER0andandCCOPER0thetheDTOPER0formerformerJJOPER0SovietSovietNNPGPEPER0UnionUnionNNPGPEPER0,,,OPER0oneoneCDOPER0assignmentassignmentNNOPER0standsstandVBZOPER0outoutRPOPER0,,,OPER0andandCCOPER0thisthisDTOPER0wasbeVBDOPER0thetheDTOPER0mostmostRBSOPER0excitingexcitingJJOPER0,,,OPER0becausebecauseINOPER0ititPRPOPER0turnedturnVBDOPER0outoutRPOPER0totoTOOPER0bebeVBOPER0notnotRBOPER0aaDTOPER0storystoryNNOPER0aboutaboutINOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0...OPER0(ROOT (S (S (SBAR (WHADVP (WRB When)) (S (NP (PRP he)) (VP (VBZ looks) (ADVP (RB back)) (PP (IN at) (NP (PRP$ his) (JJ long) (NN career))) (, ,) (PP (VBG including) (NP (NP (NNS stints)) (PP (IN in) (NP (NP (NNP South) (NNP Africa)) (CC and) (NP (DT the) (JJ former) (NNP Soviet) (NNP Union))))))))) (, ,) (NP (CD one) (NN assignment)) (VP (VBZ stands) (PRT (RP out)))) (, ,) (CC and) (S (NP (DT this)) (VP (VBD was) (ADJP (DT the) (RBS most) (JJ exciting)) (, ,) (SBAR (IN because) (S (NP (PRP it)) (VP (VBD turned) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (NP (NP (RB not) (DT a) (NN story)) (PP (IN about) (NP (NNP Fidel) (NNP Castro)))))))))))) (. .)))
+ItitPRPOPER0turnedturnVBDOPER0outoutRPOPER0totoTOOPER0bebeVBOPER0aaDTOPER0storystoryNNOPER0aboutaboutINOPER0thetheDTOPER0CubanCubanNNPOPER0peoplepeopleNNSOPER0,,,OPER0andandCCOPER0howhowWRBOPER0theytheyPRPOPER0receivedreceiveVBDOPER0thetheDTOPER0revolutionrevolutionNNOPER0,,,OPER0andandCCOPER0ititPRPOPER0'sbeVBZOPER0sosoRBOPER0importantimportantJJOPER0,,,OPER0becausebecauseINOPER0thetheDTOPER0visionsvisionNNSOPER0thatthatWDTOPER0foreignersforeignerNNSOPER0havehaveVBPOPER0----:OPER0particularlyparticularlyRBOPER0AmericansAmericansNNPSOPER0----:OPER0aboutaboutINOPER0thetheDTOPER0revolutionrevolutionNNOPER0arebeVBPOPER0completelycompletelyRBOPER0differentdifferentJJOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD turned) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN story)) (PP (IN about) (NP (DT the) (NNP Cuban) (NNS people)))) (, ,) (CC and) (SBAR (WHADVP (WRB how)) (S (S (NP (PRP they)) (VP (VBD received) (NP (DT the) (NN revolution)))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB so) (JJ important)))))) (, ,) (SBAR (IN because) (S (NP (NP (DT the) (NNS visions)) (SBAR (WHNP (WDT that)) (S (NP (NNS foreigners)) (VP (VBP have) (: --) (NP (ADVP (RB particularly)) (NNPS Americans)) (: --) (PP (IN about) (NP (DT the) (NN revolution))))))) (VP (VBP are) (ADJP (RB completely) (JJ different))))))))) (. .)))
+TheytheyPRPOPER0dodoVBPOPER0n'tnotRBOPER0understandunderstandVBOPER0thetheDTOPER0kindkindNNOPER0ofofINOPER0popularpopularJJOPER0joyjoyNNOPER0thatthatWDTOPER0wasbeVBDOPER0herehereRBOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP do) (RB n't) (VP (VB understand) (NP (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (JJ popular) (NN joy)))) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB here)))))))) (. .)))
+WhilewhileINOPER0somesomeDTOPER0mightmightMDOPER0disagreedisagreeVBOPER0aboutaboutINOPER0CubaCubaNNPGPEPER0's'sPOSOPER0presentpresentNNOPER0,,,OPER0andandCCOPER0plotplotVBOPER0differentdifferentJJOPER0coursescourseNNSOPER0forforINOPER0itsitsPRP$OPER0futurefutureNNOPER0,,,OPER0thesetheseDTOPER0photosphotoNNSOPER0maymayMDOPER0helphelpVBOPER0CubaCubaNNPGPEPER0betterbetterRBROPER0understandunderstandVBOPER0itsitsPRP$OPER0pastpastNNOPER0...OPER0(ROOT (S (SBAR (IN While) (S (NP (DT some)) (VP (MD might) (VP (VP (VB disagree) (PP (IN about) (NP (NP (NNP Cuba) (POS 's)) (NN present)))) (, ,) (CC and) (VP (VB plot) (NP (JJ different) (NNS courses)) (PP (IN for) (NP (PRP$ its) (NN future)))))))) (, ,) (NP (DT these) (NNS photos)) (VP (MD may) (VP (VB help) (S (NP (NNP Cuba)) (ADVP (RBR better)) (VP (VB understand) (NP (PRP$ its) (NN past)))))) (. .)))
+ThomasThomasNNPPERSONPER0NyboNyboNNPPERSONPER0,,,OPER0CNNCNNNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP Thomas) (NNP Nybo)) (, ,) (NP (NNP CNN)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Cuba))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT some) (NNS people))
+sid=0 spanning 7 until 8 headed by 7 parsed as viewing
+sid=0 spanning 8 until 9 headed by 8 parsed as their
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Thomas) (NNP Nybo))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN story))
+sid=2 spanning 1 until 6 headed by 2 parsed as (NP (NP (NNP Fidel) (NNP Castro)) (CC and) (NP (PRP$ his) (NNS rebels)))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (NP (NNP Fidel) (NNP Castro)) (CC and) (NP (PRP$ his) (NNS rebels)))
+sid=2 spanning 4 until 5 headed by 4 parsed as his
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Havana))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP they))
+sid=2 spanning 13 until 21 headed by 16 parsed as (NP (NP (DT an) (NML (NNP intrepid) (NNP American)) (NN photographer)) (SBAR (WHNP (WP who)) (S (VP (VBD spoke) (NP (JJ little) (NNP Spanish))))))
+sid=3 spanning 0 until 1 headed by 0 parsed as His
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NNP Burt) (NNP Glinn))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (JJS most) (NNPS Cubans))
+sid=3 spanning 12 until 13 headed by 12 parsed as their
+sid=3 spanning 16 until 28 headed by 17 parsed as (NP (PRP$ his) (NNS photos))
+sid=3 spanning 16 until 17 headed by 16 parsed as his
+sid=3 spanning 21 until 22 headed by 21 parsed as (NP (NNP Havana))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN collection))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (NNP Havana))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNP Fidel))
+sid=5 spanning 0 until 8 headed by 0 parsed as (NP (NP (DT Some)) (PP (IN of) (NP (NP (DT the) (JJ other) (NNS photographers)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (ADVP (RB there))))))))
+sid=5 spanning 13 until 14 headed by 13 parsed as their
+sid=5 spanning 21 until 22 headed by 21 parsed as their
+sid=5 spanning 25 until 26 headed by 25 parsed as their
+sid=5 spanning 30 until 31 headed by 30 parsed as (NP (PRP I))
+sid=5 spanning 35 until 36 headed by 35 parsed as (NP (PRP me))
+sid=5 spanning 37 until 38 headed by 37 parsed as (NP (PRP it))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP I))
+sid=6 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (JJ whole) (NN story))
+sid=7 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (JJ whole) (NN story))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Glinn))
+sid=8 spanning 9 until 10 headed by 9 parsed as (NP (NNP Cuba))
+sid=8 spanning 21 until 22 headed by 21 parsed as (NP (PRP he))
+sid=8 spanning 23 until 24 headed by 23 parsed as his
+sid=9 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (VBG resulting) (NNS photos))
+sid=9 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Cuban) (NNS people))
+sid=9 spanning 14 until 33 headed by 16 parsed as (NP (PRP$ their) (JJ new) (NN leader))
+sid=9 spanning 14 until 15 headed by 14 parsed as their
+sid=9 spanning 28 until 29 headed by 28 parsed as (NP (PRP he))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (NNP Glinn))
+sid=10 spanning 10 until 11 headed by 10 parsed as (NP (NNP Castro))
+sid=10 spanning 15 until 16 headed by 15 parsed as his
+sid=10 spanning 20 until 21 headed by 20 parsed as (NP (NNP Cuba))
+sid=10 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN revolution))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (PRP he))
+sid=11 spanning 5 until 6 headed by 5 parsed as his
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (CD one) (NN assignment))
+sid=11 spanning 26 until 27 headed by 26 parsed as (NP (DT this))
+sid=11 spanning 33 until 34 headed by 33 parsed as (NP (PRP it))
+sid=11 spanning 42 until 44 headed by 43 parsed as (NP (NNP Fidel) (NNP Castro))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=12 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Cuban) (NNS people))
+sid=12 spanning 14 until 15 headed by 14 parsed as (NP (PRP they))
+sid=12 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN revolution))
+sid=12 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=12 spanning 29 until 30 headed by 29 parsed as (NP (NNS foreigners))
+sid=12 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN revolution))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=14 spanning 5 until 7 headed by 5 parsed as (NP (NNP Cuba) (POS 's))
+sid=14 spanning 14 until 15 headed by 14 parsed as its
+sid=14 spanning 17 until 19 headed by 18 parsed as (NP (DT these) (NNS photos))
+sid=14 spanning 21 until 22 headed by 21 parsed as (NP (NNP Cuba))
+sid=14 spanning 24 until 25 headed by 24 parsed as its
+sid=15 spanning 0 until 2 headed by 1 parsed as (NP (NNP Thomas) (NNP Nybo))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Cuba))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT some) (NNS people))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ their) (NN past))
+sid=0 spanning 8 until 9 headed by 8 parsed as (PRP$ their)
+sid=0 spanning 11 until 16 headed by 12 parsed as (NP (NP (DT the) (NNS eyes)) (PP (IN of) (NP (DT an) (NNP American))))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT an) (NNP American))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Thomas) (NNP Nybo))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN story))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (NP (NNP Fidel) (NNP Castro)) (CC and) (NP (PRP$ his) (NNS rebels)))
+sid=2 spanning 1 until 6 headed by 2 parsed as (NP (NP (NNP Fidel) (NNP Castro)) (CC and) (NP (PRP$ his) (NNS rebels)))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ his) (NNS rebels))
+sid=2 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Havana))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP they))
+sid=2 spanning 13 until 21 headed by 16 parsed as (NP (NP (DT an) (NML (NNP intrepid) (NNP American)) (NN photographer)) (SBAR (WHNP (WP who)) (S (VP (VBD spoke) (NP (JJ little) (NNP Spanish))))))
+sid=2 spanning 19 until 21 headed by 20 parsed as (NP (JJ little) (NNP Spanish))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ His) (NN name))
+sid=3 spanning 0 until 1 headed by 0 parsed as (PRP$ His)
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NNP Burt) (NNP Glinn))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (JJS most) (NNPS Cubans))
+sid=3 spanning 12 until 18 headed by 14 parsed as (NP (NP (PRP$ their) (JJ first) (NN look)) (PP (IN at) (NP (PRP$ his) (NNS photos))))
+sid=3 spanning 12 until 13 headed by 12 parsed as (PRP$ their)
+sid=3 spanning 13 until 14 headed by 13 parsed as first
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (PRP$ his) (NNS photos))
+sid=3 spanning 16 until 17 headed by 16 parsed as (PRP$ his)
+sid=3 spanning 19 until 22 headed by 19 parsed as (NP (NP (NN display)) (PP (IN in) (NP (NNP Havana))))
+sid=3 spanning 21 until 22 headed by 21 parsed as (NP (NNP Havana))
+sid=3 spanning 23 until 28 headed by 24 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN collection))
+sid=4 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT the) (NN road)) (PP (IN to) (NP (NNP Havana))))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (NNP Havana))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNP Fidel))
+sid=4 spanning 19 until 24 headed by 23 parsed as (NP (CD 41) (ADJP (JJ black) (CC and) (JJ white)) (NNS images))
+sid=5 spanning 0 until 8 headed by 0 parsed as (NP (NP (DT Some)) (PP (IN of) (NP (NP (DT the) (JJ other) (NNS photographers)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (ADVP (RB there))))))))
+sid=5 spanning 2 until 8 headed by 4 parsed as (NP (NP (DT the) (JJ other) (NNS photographers)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (ADVP (RB there))))))
+sid=5 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ their) (NNS newspapers))
+sid=5 spanning 13 until 14 headed by 13 parsed as (PRP$ their)
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (PRP$ their) (NNS offices))
+sid=5 spanning 21 until 22 headed by 21 parsed as (PRP$ their)
+sid=5 spanning 25 until 27 headed by 26 parsed as (NP (PRP$ their) (NN film))
+sid=5 spanning 25 until 26 headed by 25 parsed as (PRP$ their)
+sid=5 spanning 30 until 31 headed by 30 parsed as (NP (PRP I))
+sid=5 spanning 35 until 36 headed by 35 parsed as (NP (PRP me))
+sid=5 spanning 37 until 38 headed by 37 parsed as (NP (PRP it))
+sid=5 spanning 39 until 44 headed by 43 parsed as (NP (QP (XS (JJR more) (IN than)) (DT a)) (NN news) (NN event))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP I))
+sid=6 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (JJ whole) (NN story))
+sid=7 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (JJ whole) (NN story))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Glinn))
+sid=8 spanning 4 until 10 headed by 4 parsed as (NP (NP (NNS friends)) (SBAR (S (ADVP (RB just)) (VP (TO to) (VP (VB get) (PP (IN to) (NP (NNP Cuba))))))))
+sid=8 spanning 9 until 10 headed by 9 parsed as (NP (NNP Cuba))
+sid=8 spanning 15 until 31 headed by 15 parsed as (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NNS photos)) (VP (VBN barefoot) (SBAR (IN after) (S (NP (PRP he)) (VP (VBD lost) (NP (PRP$ his) (NNS shoes)) (SBAR (IN while) (S (VP (VBG being) (VP (VBN pushed) (PP (IN in) (NP (DT a) (NN crowd))))))))))))))
+sid=8 spanning 17 until 31 headed by 18 parsed as (NP (NP (DT the) (NNS photos)) (VP (VBN barefoot) (SBAR (IN after) (S (NP (PRP he)) (VP (VBD lost) (NP (PRP$ his) (NNS shoes)) (SBAR (IN while) (S (VP (VBG being) (VP (VBN pushed) (PP (IN in) (NP (DT a) (NN crowd))))))))))))
+sid=8 spanning 21 until 22 headed by 21 parsed as (NP (PRP he))
+sid=8 spanning 23 until 25 headed by 24 parsed as (NP (PRP$ his) (NNS shoes))
+sid=8 spanning 23 until 24 headed by 23 parsed as (PRP$ his)
+sid=8 spanning 29 until 31 headed by 30 parsed as (NP (DT a) (NN crowd))
+sid=9 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (VBG resulting) (NNS photos))
+sid=9 spanning 4 until 17 headed by 5 parsed as (NP (NP (NP (DT the) (NN passion)) (PP (IN of) (NP (DT the) (NNP Cuban) (NNS people)))) (CC and) (NP (NP (DT the) (NN charisma)) (PP (IN of) (NP (PRP$ their) (JJ new) (NN leader)))))
+sid=9 spanning 4 until 10 headed by 5 parsed as (NP (NP (DT the) (NN passion)) (PP (IN of) (NP (DT the) (NNP Cuban) (NNS people))))
+sid=9 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Cuban) (NNS people))
+sid=9 spanning 11 until 17 headed by 12 parsed as (NP (NP (DT the) (NN charisma)) (PP (IN of) (NP (PRP$ their) (JJ new) (NN leader))))
+sid=9 spanning 14 until 17 headed by 16 parsed as (NP (PRP$ their) (JJ new) (NN leader))
+sid=9 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+sid=9 spanning 20 until 25 headed by 21 parsed as (NP (NP (DT the) (NN center)) (PP (IN of) (NP (NP (PRP it)) (NP (DT all)))))
+sid=9 spanning 23 until 25 headed by 23 parsed as (NP (NP (PRP it)) (NP (DT all)))
+sid=9 spanning 28 until 29 headed by 28 parsed as (NP (PRP he))
+sid=9 spanning 30 until 33 headed by 32 parsed as later
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (NNP Glinn))
+sid=10 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT the) (JJ same) (NN age)) (PP (IN as) (NP (NNP Castro))))
+sid=10 spanning 10 until 11 headed by 10 parsed as (NP (NNP Castro))
+sid=10 spanning 13 until 14 headed by 13 parsed as (NP (DT this))
+sid=10 spanning 15 until 24 headed by 17 parsed as (NP (NP (PRP$ his) (JJ second) (NN trip)) (ADVP (RB back) (PP (IN to) (NP (NNP Cuba)))) (PP (IN since) (NP (DT the) (NN revolution))))
+sid=10 spanning 15 until 16 headed by 15 parsed as (PRP$ his)
+sid=10 spanning 16 until 17 headed by 16 parsed as second
+sid=10 spanning 20 until 21 headed by 20 parsed as (NP (NNP Cuba))
+sid=10 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN revolution))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (PRP he))
+sid=11 spanning 5 until 8 headed by 7 parsed as (NP (PRP$ his) (JJ long) (NN career))
+sid=11 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=11 spanning 10 until 19 headed by 10 parsed as (NP (NP (NNS stints)) (PP (IN in) (NP (NP (NNP South) (NNP Africa)) (CC and) (NP (DT the) (JJ former) (NNP Soviet) (NNP Union)))))
+sid=11 spanning 12 until 14 headed by 13 parsed as (NP (NP (NNP South) (NNP Africa)) (CC and) (NP (DT the) (JJ former) (NNP Soviet) (NNP Union)))
+sid=11 spanning 12 until 19 headed by 13 parsed as (NP (NP (NNP South) (NNP Africa)) (CC and) (NP (DT the) (JJ former) (NNP Soviet) (NNP Union)))
+sid=11 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (JJ former) (NNP Soviet) (NNP Union))
+sid=11 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (JJ former) (NNP Soviet) (NNP Union))
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (CD one) (NN assignment))
+sid=11 spanning 26 until 27 headed by 26 parsed as (NP (DT this))
+sid=11 spanning 42 until 44 headed by 43 parsed as (NP (NNP Fidel) (NNP Castro))
+sid=12 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT a) (NN story)) (PP (IN about) (NP (DT the) (NNP Cuban) (NNS people))))
+sid=12 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Cuban) (NNS people))
+sid=12 spanning 14 until 15 headed by 14 parsed as (NP (PRP they))
+sid=12 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN revolution))
+sid=12 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=12 spanning 26 until 38 headed by 27 parsed as (NP (NP (DT the) (NNS visions)) (SBAR (WHNP (WDT that)) (S (NP (NNS foreigners)) (VP (VBP have) (: --) (NP (ADVP (RB particularly)) (NNPS Americans)) (: --) (PP (IN about) (NP (DT the) (NN revolution)))))))
+sid=12 spanning 29 until 30 headed by 29 parsed as (NP (NNS foreigners))
+sid=12 spanning 32 until 34 headed by 33 parsed as (NP (ADVP (RB particularly)) (NNPS Americans))
+sid=12 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN revolution))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=13 spanning 4 until 12 headed by 5 parsed as (NP (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (JJ popular) (NN joy)))) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB here))))))
+sid=14 spanning 1 until 2 headed by 1 parsed as (NP (DT some))
+sid=14 spanning 5 until 8 headed by 7 parsed as (NP (NP (NNP Cuba) (POS 's)) (NN present))
+sid=14 spanning 5 until 7 headed by 5 parsed as (NP (NNP Cuba) (POS 's))
+sid=14 spanning 11 until 13 headed by 12 parsed as (NP (JJ different) (NNS courses))
+sid=14 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ its) (NN future))
+sid=14 spanning 14 until 15 headed by 14 parsed as (PRP$ its)
+sid=14 spanning 17 until 19 headed by 18 parsed as (NP (DT these) (NNS photos))
+sid=14 spanning 21 until 22 headed by 21 parsed as (NP (NNP Cuba))
+sid=14 spanning 24 until 26 headed by 25 parsed as (NP (PRP$ its) (NN past))
+sid=14 spanning 24 until 25 headed by 24 parsed as (PRP$ its)
+sid=15 spanning 0 until 2 headed by 1 parsed as (NP (NNP Thomas) (NNP Nybo))
+sid=15 spanning 3 until 4 headed by 3 parsed as (NP (NNP CNN))
+(end predicted mentions)
+---------gold clusters--------
+2 5 | { 'viewing' 'that story' }
+63 37 | { 'these photos' 'The resulting photos' }
+14 15 | { 'most Cubans' 'their' }
+38 40 55 54 | { 'the Cuban people' 'their' 'they' 'the Cuban people' }
+60 58 | { 'They' 'foreigners' }
+31 32 | { 'the whole story' 'the whole story' }
+22 25 23 24 | { 'Some of the other photographers that were there' 'their' 'their' 'their' }
+48 27 13 47 12 36 11 44 30 42 33 26 35 17 | { 'his' 'me' 'Burt Glinn' 'he' 'His' 'his' 'an intrepid American photographer who spoke little Spanish' 'his' 'I' 'Glinn' 'Glinn' 'I' 'he' 'his' }
+28 29 | { 'it' 'It' }
+4 66 | { 'Thomas Nybo' 'Thomas Nybo' }
+8 39 7 43 21 52 41 | { 'his' 'their new leader , standing at the center of it all , just as he is 42 years later' 'Fidel Castro' 'Castro' 'Fidel' 'Fidel Castro' 'he' }
+64 0 61 45 65 62 34 | { 'Cuba' 'Cuba' 'Cuba 's' 'Cuba' 'its' 'its' 'Cuba' }
+16 19 | { 'his photos on display in Havana until the end of the month' 'The collection' }
+3 1 | { 'their' 'some people' }
+56 46 59 | { 'the revolution' 'the revolution' 'the revolution' }
+18 20 9 | { 'Havana' 'Havana' 'Havana' }
+53 51 49 50 57 | { 'It' 'it' 'one assignment' 'this' 'it' }
+10 6 | { 'they' 'Fidel Castro and his rebels' }
+(end gold clusters)

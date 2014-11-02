@@ -1,0 +1,233 @@
+---------gloss--------
+(0) [4m[32m{Vice President Gore}[0m and [4m[35m{Governor Bush}[0m spent [3m[36m{this day}[0m with [4m[34m{their}[0m families , dispatching [4m[34m{their}[0m deputies to score points on the [3m[36m{Sunday}[0m morning interview shows . 
+(1) Here 's [4m[31m{NBC 's}[0m Chip Reid . 
+(2) Arriving at church with [4m[32m{his}[0m family Sunday -- 
+(3) Good morning . 
+(4) Hope you all have [3m[36m{a nice Sunday}[0m . 
+(5) [4m[32m{Al Gore}[0m continued to refuse comment on the erecognize torl battle in [3m[35m{Florida}[0m , leaving it to [4m[32m{his}[0m point men , William Daley and [32m{Warren Christopher}[0m to defend [3m[34m{the controversial hand recounts now under way}[0m . 
+(6) [3m[34m{This}[0m is the procedure called for by [3m[35m{Florida}[0m law . 
+(7) [3m[35m{Florida}[0m law provides for an opportunity for hand counts to check machine counts . 
+(8) [32m{Christopher}[0m said [3m[34m{the recounts}[0m should be completed within a matter of days and at that point , [4m[32m{Gore}[0m campaign sources contend , [4m[32m{Gore}[0m will be in the lead in [3m[35m{Florida}[0m and on track to win the election . 
+(9) Meanwhile , [4m[35m{Governor George Bush}[0m spent [3m[36m{the day}[0m out of public view , behind the gate of [4m[35m{his}[0m ranch in Texas , while [4m[35m{his}[0m point man , James Baker appeared on five network talk shows arguing vigorously that [3m[34m{the hand recounts}[0m are improper and should be stopped . 
+(10) [3m[34m{This}[0m opens up tremendous possibilities for human error and indeed [3m[34m{it}[0m opens up tremendous possibilities for something worse than human error , and for mischief . 
+(11) [4m[35m{Bush}[0m advisers say if [3m[33m{they}[0m lose that argument in court this week [3m[33m{they}[0m may appeal , and if [3m[33m{they}[0m lose [3m[35m{Florida}[0m , [3m[33m{they}[0m may ask for recounts in other states , where the filing deadline has not yet passed and where the vote is close , including Iowa and Wisconsin , states that could help them win , even without [3m[35m{Florida}[0m . 
+(12) There could also be a recount in New Mexico , where the race is a virtual tie . 
+(13) New Mexico State Police there have impounded [33m{ballots}[0m in some counties to make sure no one tampers with [33m{them}[0m before any possible recount . 
+(14) [4m[36m{The Gore team}[0m is also still considering other options , including going to court if [3m[34m{the hand recount}[0m does not give [4m[36m{them}[0m the lead in [3m[35m{Florida}[0m , so while [4m[33m{both sides}[0m say [4m[33m{they}[0m want to move as expeditiously as possible , [4m[33m{both}[0m are considering strategies that could cause this fight to drag on for weeks . 
+(15) [31m{Chip Reid}[0m , [4m[31m{NBC News}[0m , Washington . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0028); part 000
+sentences:
+ViceViceNNPOPER0PresidentPresidentNNPOPER0GoreGoreNNPPERSONPER0andandCCOPER0GovernorGovernorNNPOPER0BushBushNNPPERSONPER0spentspendVBDOPER0thisthisDTDATEPER0daydayNNDATEPER0withwithINOPER0theirtheyPRP$OPER0familiesfamilyNNSOPER0,,,OPER0dispatchingdispatchVBGOPER0theirtheyPRP$OPER0deputiesdeputyNNSOPER0totoTOOPER0scorescoreVBOPER0pointspointNNSOPER0ononINOPER0thetheDTOPER0SundaySundayNNPDATEPER0morningmorningNNTIMEPER0interviewinterviewNNOPER0showsshowNNSOPER0...OPER0(ROOT (S (NP (NP (NML (NNP Vice) (NNP President)) (NNP Gore)) (CC and) (NP (NNP Governor) (NNP Bush))) (VP (VBD spent) (NP (DT this) (NN day)) (PP (IN with) (NP (PRP$ their) (NNS families))) (, ,) (S (VP (VBG dispatching) (NP (PRP$ their) (NNS deputies)) (S (VP (TO to) (VP (VB score) (NP (NP (NNS points)) (PP (IN on) (NP (DT the) (NML (NNP Sunday) (NN morning)) (NN interview) (NNS shows)))))))))) (. .)))
+HerehereRBOPER0'sbeVBZOPER0NBCNBCNNPORGPER0's'sPOSOPER0ChipChipNNPPERSONPER0ReidReidNNPPERSONPER0...OPER0(ROOT (SINV (ADVP (RB Here)) (VP (VBZ 's)) (NP (NP (NNP NBC) (POS 's)) (NNP Chip) (NNP Reid)) (. .)))
+ArrivingarriveVBGOPER0atatINOPER0churchchurchNNOPER0withwithINOPER0hishePRP$OPER0familyfamilyNNOPER0SundaySundayNNPDATEPER0----.OPER0(ROOT (FRAG (VP (VBG Arriving) (PP (IN at) (NP (NN church))) (PP (IN with) (NP (PRP$ his) (NN family)))) (NP (NNP Sunday)) (. --)))
+GoodgoodJJOPER0morningmorningNNTIMEPER0...OPER0(ROOT (INTJ (JJ Good) (NN morning) (. .)))
+HopehopeVBPOPER0youyouPRPOPER0allallDTOPER0havehaveVBPOPER0aaDTOPER0niceniceJJOPER0SundaySundayNNPDATEPER0...OPER0(ROOT (S (VP (VBP Hope) (SBAR (S (NP (NP (PRP you)) (NP (DT all))) (VP (VBP have) (NP (DT a) (JJ nice) (NNP Sunday)))))) (. .)))
+AlAlNNPPERSONPER0GoreGoreNNPPERSONPER0continuedcontinueVBDOPER0totoTOOPER0refuserefuseVBOPER0commentcommentNNOPER0ononINOPER0thetheDTOPER0erecognizeerecognizeJJOPER0torltorlNNOPER0battlebattleNNOPER0ininINOPER0FloridaFloridaNNPGPEPER0,,,OPER0leavingleaveVBGOPER0ititPRPOPER0totoINOPER0hishePRP$OPER0pointpointNNOPER0menmanNNSOPER0,,,OPER0WilliamWilliamNNPPERSONPER0DaleyDaleyNNPPERSONPER0andandCCOPER0WarrenWarrenNNPPERSONPER0ChristopherChristopherNNPPERSONPER0totoTOOPER0defenddefendVBOPER0thetheDTOPER0controversialcontroversialJJOPER0handhandNNOPER0recountsrecountNNSOPER0nownowRBOPER0underunderINOPER0waywayNNOPER0...OPER0(ROOT (S (NP (NNP Al) (NNP Gore)) (VP (VBD continued) (S (VP (TO to) (VP (VB refuse) (NP (NN comment)) (PP (IN on) (NP (NP (DT the) (JJ erecognize) (NN torl) (NN battle)) (PP (IN in) (NP (NNP Florida)))))))) (, ,) (S (VP (VBG leaving) (NP (PRP it)) (PP (IN to) (NP (NP (PRP$ his) (NN point)) (SBAR (S (NP (NNS men)) (, ,) (NP (NP (NNP William) (NNP Daley)) (CC and) (NP (NNP Warren) (NNP Christopher))) (VP (TO to) (VP (VB defend) (NP (DT the) (JJ controversial) (NN hand) (NNS recounts)) (PP (ADVP (RB now)) (IN under) (NP (NN way)))))))))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0thetheDTOPER0procedureprocedureNNOPER0calledcallVBNOPER0forforINOPER0bybyINOPER0FloridaFloridaNNPGPEPER0lawlawNNOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (NN procedure)) (VP (VBN called) (PP (IN for)) (PP (IN by) (NP (NNP Florida) (NN law)))))) (. .)))
+FloridaFloridaNNPGPEPER0lawlawNNOPER0providesprovideVBZOPER0forforINOPER0anaDTOPER0opportunityopportunityNNOPER0forforINOPER0handhandNNOPER0countscountNNSOPER0totoTOOPER0checkcheckVBOPER0machinemachineNNOPER0countscountNNSOPER0...OPER0(ROOT (S (NP (NNP Florida) (NN law)) (VP (VBZ provides) (PP (IN for) (NP (DT an) (NN opportunity) (SBAR (IN for) (S (NP (NN hand) (NNS counts)) (VP (TO to) (VP (VB check) (NP (NN machine) (NNS counts))))))))) (. .)))
+ChristopherChristopherNNPPERSONPER0saidsayVBDOPER0thetheDTOPER0recountsrecountNNSOPER0shouldshouldMDOPER0bebeVBOPER0completedcompleteVBNOPER0withinwithinINOPER0aaDTOPER0mattermatterNNOPER0ofofINOPER0daysdayNNSDATEPER0andandCCOPER0atatINOPER0thatthatDTOPER0pointpointNNOPER0,,,OPER0GoreGoreNNPPERSONPER0campaigncampaignNNOPER0sourcessourceNNSOPER0contendcontendVBPOPER0,,,OPER0GoreGoreNNPPERSONPER0willwillMDOPER0bebeVBOPER0ininINOPER0thetheDTOPER0leadleadNNOPER0ininINOPER0FloridaFloridaNNPGPEPER0andandCCOPER0ononINOPER0tracktrackNNOPER0totoTOOPER0winwinVBOPER0thetheDTOPER0electionelectionNNOPER0...OPER0(ROOT (S (NP (NNP Christopher)) (VP (VBD said) (SBAR (S (S (S (NP (DT the) (NNS recounts)) (VP (MD should) (VP (VB be) (VP (VBN completed) (PP (IN within) (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NNS days))))))))) (CC and) (S (PP (IN at) (NP (DT that) (NN point))) (, ,) (NP (NNP Gore) (NN campaign) (NNS sources)) (VP (VBP contend)))) (, ,) (S (NP (NNP Gore)) (VP (MD will) (VP (VB be) (PP (PP (IN in) (NP (NP (DT the) (NN lead)) (PP (IN in) (NP (NNP Florida))))) (CC and) (PP (IN on) (NP (NP (NN track)) (S (VP (TO to) (VP (VB win) (NP (DT the) (NN election)))))))))))))) (. .)))
+MeanwhilemeanwhileRBOPER0,,,OPER0GovernorGovernorNNPOPER0GeorgeGeorgeNNPPERSONPER0BushBushNNPPERSONPER0spentspendVBDOPER0thetheDTDATEPER0daydayNNDATEPER0outoutINOPER0ofofINOPER0publicpublicJJOPER0viewviewNNOPER0,,,OPER0behindbehindINOPER0thetheDTOPER0gategateNNOPER0ofofINOPER0hishePRP$OPER0ranchranchNNOPER0ininINOPER0TexasTexasNNPGPEPER0,,,OPER0whilewhileINOPER0hishePRP$OPER0pointpointNNOPER0manmanNNOPER0,,,OPER0JamesJamesNNPPERSONPER0BakerBakerNNPPERSONPER0appearedappearVBDOPER0ononINOPER0fivefiveCDCARDINALPER0networknetworkNNOPER0talktalkNNOPER0showsshowNNSOPER0arguingargueVBGOPER0vigorouslyvigorouslyRBOPER0thatthatINOPER0thetheDTOPER0handhandNNOPER0recountsrecountNNSOPER0arebeVBPOPER0improperimproperJJOPER0andandCCOPER0shouldshouldMDOPER0bebeVBOPER0stoppedstopVBNOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (NP (NNP Governor) (NNP George) (NNP Bush)) (VP (VBD spent) (NP (DT the) (NN day)) (PP (IN out) (PP (IN of) (NP (JJ public) (NN view)))) (, ,) (PP (IN behind) (NP (NP (DT the) (NN gate)) (PP (IN of) (NP (NP (PRP$ his) (NN ranch)) (PP (IN in) (NP (NNP Texas))))))) (, ,) (SBAR (IN while) (S (NP (NP (PRP$ his) (NN point) (NN man)) (, ,) (NP (NNP James) (NNP Baker))) (VP (VBD appeared) (PP (IN on) (NP (CD five) (NN network) (NN talk) (NNS shows))) (S (VP (VBG arguing) (SBAR (ADVP (RB vigorously)) (IN that) (S (NP (DT the) (NN hand) (NNS recounts)) (VP (VP (VBP are) (ADJP (JJ improper))) (CC and) (VP (MD should) (VP (VB be) (VP (VBN stopped))))))))))))) (. .)))
+ThisthisDTOPER0opensopenVBZOPER0upupRPOPER0tremendoustremendousJJOPER0possibilitiespossibilityNNSOPER0forforINOPER0humanhumanNNOPER0errorerrorNNOPER0andandCCOPER0indeedindeedRBOPER0ititPRPOPER0opensopenVBZOPER0upupRPOPER0tremendoustremendousJJOPER0possibilitiespossibilityNNSOPER0forforINOPER0somethingsomethingNNOPER0worseworseJJROPER0thanthanINOPER0humanhumanNNOPER0errorerrorNNOPER0,,,OPER0andandCCOPER0forforINOPER0mischiefmischiefNNOPER0...OPER0(ROOT (S (S (NP (DT This)) (VP (VBZ opens) (PRT (RP up)) (NP (NP (JJ tremendous) (NNS possibilities)) (PP (IN for) (NP (NN human) (NN error)))))) (CC and) (S (ADVP (RB indeed)) (NP (PRP it)) (VP (VBZ opens) (PRT (RP up)) (NP (NP (JJ tremendous) (NNS possibilities)) (PP (PP (IN for) (NP (NP (NN something)) (ADJP (ADJP (JJR worse)) (PP (IN than) (NP (NN human) (NN error)))))) (, ,) (CC and) (PP (IN for) (NP (NN mischief))))))) (. .)))
+BushBushNNPPERSONPER0advisersadviserNNSOPER0saysayVBPOPER0ififINOPER0theytheyPRPOPER0loseloseVBPOPER0thatthatDTOPER0argumentargumentNNOPER0ininINOPER0courtcourtNNOPER0thisthisDTDATEPER0weekweekNNDATEPER0theytheyPRPOPER0maymayMDOPER0appealappealVBOPER0,,,OPER0andandCCOPER0ififINOPER0theytheyPRPOPER0loseloseVBPOPER0FloridaFloridaNNPGPEPER0,,,OPER0theytheyPRPOPER0maymayMDOPER0askaskVBOPER0forforINOPER0recountsrecountNNSOPER0ininINOPER0otherotherJJOPER0statesstateNNSOPER0,,,OPER0wherewhereWRBOPER0thetheDTOPER0filingfilingNNOPER0deadlinedeadlineNNOPER0hashaveVBZOPER0notnotRBOPER0yetyetRBOPER0passedpassVBNOPER0andandCCOPER0wherewhereWRBOPER0thetheDTOPER0votevoteNNOPER0isbeVBZOPER0closecloseJJOPER0,,,OPER0includingincludeVBGOPER0IowaIowaNNPGPEPER0andandCCOPER0WisconsinWisconsinNNPGPEPER0,,,OPER0statesstateNNSOPER0thatthatWDTOPER0couldcouldMDOPER0helphelpVBOPER0themtheyPRPOPER0winwinVBOPER0,,,OPER0evenevenRBOPER0withoutwithoutINOPER0FloridaFloridaNNPGPEPER0...OPER0(ROOT (S (NP (NNP Bush) (NNS advisers)) (VP (VBP say) (SBAR (S (SBAR (IN if) (S (NP (PRP they)) (VP (VBP lose) (NP (DT that) (NN argument)) (PP (IN in) (NP (NN court))) (NP (DT this) (NN week))))) (NP (PRP they)) (VP (MD may) (VP (VB appeal) (, ,) (PRN (S (CC and) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP lose) (NP (NNP Florida))))) (, ,) (NP (PRP they)) (VP (MD may) (VP (VB ask) (PP (IN for) (NP (NP (NNS recounts)) (PP (IN in) (NP (NP (NP (JJ other) (NNS states)) (, ,) (SBAR (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN filing) (NN deadline)) (VP (VBZ has) (RB not) (ADVP (RB yet)) (VP (VBN passed))))) (CC and) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN vote)) (VP (VBZ is) (ADJP (JJ close))))))) (, ,) (PP (VBG including) (NP (NNP Iowa) (CC and) (NNP Wisconsin))) (, ,) (NP (NP (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB help) (S (NP (PRP them)) (VP (VB win)))))))))))))))) (, ,) (PP (ADVP (RB even)) (IN without) (NP (NNP Florida)))))))) (. .)))
+TherethereEXOPER0couldcouldMDOPER0alsoalsoRBOPER0bebeVBOPER0aaDTOPER0recountrecountNNOPER0ininINOPER0NewNewNNPGPEPER0MexicoMexicoNNPGPEPER0,,,OPER0wherewhereWRBOPER0thetheDTOPER0raceraceNNOPER0isbeVBZOPER0aaDTOPER0virtualvirtualJJOPER0tietieNNOPER0...OPER0(ROOT (S (NP (EX There)) (VP (MD could) (ADVP (RB also)) (VP (VB be) (NP (NP (DT a) (NN recount)) (PP (IN in) (NP (NP (NNP New) (NNP Mexico)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN race)) (VP (VBZ is) (NP (DT a) (JJ virtual) (NN tie)))))))))) (. .)))
+NewNewNNPGPEPER0MexicoMexicoNNPGPEPER0StateStateNNPOPER0PolicePoliceNNPOPER0therethereEXOPER0havehaveVBPOPER0impoundedimpoundVBNOPER0ballotsballotNNSOPER0ininINOPER0somesomeDTOPER0countiescountyNNSOPER0totoTOOPER0makemakeVBOPER0suresureJJOPER0nonoDTOPER0oneoneCDOPER0tamperstamperNNSOPER0withwithINOPER0themtheyPRPOPER0beforebeforeINOPER0anyanyDTOPER0possiblepossibleJJOPER0recountrecountNNOPER0...OPER0(ROOT (S (NP (NML (NNP New) (NNP Mexico)) (NNP State) (NNP Police) (EX there)) (VP (VBP have) (S (NP (NP (VBN impounded) (NNS ballots)) (PP (IN in) (NP (DT some) (NNS counties)))) (VP (TO to) (VP (VB make) (S (ADJP (JJ sure)) (NP (NP (DT no) (CD one) (NNS tampers)) (PP (IN with) (NP (PRP them))) (PP (IN before) (NP (DT any) (JJ possible) (NN recount))))))))) (. .)))
+ThetheDTOPER0GoreGoreNNPPERSONPER0teamteamNNOPER0isbeVBZOPER0alsoalsoRBOPER0stillstillRBOPER0consideringconsiderVBGOPER0otherotherJJOPER0optionsoptionNNSOPER0,,,OPER0includingincludeVBGOPER0goinggoVBGOPER0totoINOPER0courtcourtNNOPER0ififINOPER0thetheDTPRODUCTPER0handhandNNPRODUCTPER0recountrecountNNPRODUCTPER0doesdoVBZOPER0notnotRBOPER0givegiveVBOPER0themtheyPRPOPER0thetheDTOPER0leadleadNNOPER0ininINOPER0FloridaFloridaNNPGPEPER0,,,OPER0sosoINOPER0whilewhileINOPER0bothbothDTOPER0sidessideNNSOPER0saysayVBPOPER0theytheyPRPOPER0wantwantVBPOPER0totoTOOPER0movemoveVBOPER0asasRBOPER0expeditiouslyexpeditiouslyRBOPER0asasINOPER0possiblepossibleJJOPER0,,,OPER0bothbothDTOPER0arebeVBPOPER0consideringconsiderVBGOPER0strategiesstrategyNNSOPER0thatthatWDTOPER0couldcouldMDOPER0causecauseVBOPER0thisthisDTOPER0fightfightNNOPER0totoTOOPER0dragdragVBOPER0ononRPOPER0forforINOPER0weeksweekNNSDATEPER0...OPER0(ROOT (S (S (NP (DT The) (NNP Gore) (NN team)) (VP (VBZ is) (ADVP (RB also)) (ADVP (RB still)) (VP (VBG considering) (NP (NP (JJ other) (NNS options)) (, ,) (PP (VBG including) (S (VP (VBG going) (PP (IN to) (NP (NN court))) (SBAR (IN if) (S (NP (DT the) (NN hand) (NN recount)) (VP (VBZ does) (RB not) (VP (VB give) (NP (PRP them)) (NP (NP (DT the) (NN lead)) (PP (IN in) (NP (NNP Florida)))) (, ,) (SBAR (IN so) (IN while) (S (NP (DT both) (NNS sides)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP want) (S (VP (TO to) (VP (VB move) (ADVP (ADVP (RB as) (RB expeditiously)) (PP (IN as) (ADJP (JJ possible)))))))))))))))))))))))) (, ,) (S (NP (DT both)) (VP (VBP are) (VP (VBG considering) (NP (NP (NNS strategies)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB cause) (S (NP (DT this) (NN fight)) (VP (TO to) (VP (VB drag) (PRT (RP on)) (PP (IN for) (NP (NNS weeks)))))))))))))) (. .)))
+ChipChipNNPPERSONPER0ReidReidNNPPERSONPER0,,,OPER0NBCNBCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Chip) (NNP Reid)) (, ,) (NP (NNP NBC) (NNP News)) (, ,) (NP (NNP Washington)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (NML (NNP Vice) (NNP President)) (NNP Gore)) (CC and) (NP (NNP Governor) (NNP Bush)))
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NML (NNP Vice) (NNP President)) (NNP Gore)) (CC and) (NP (NNP Governor) (NNP Bush)))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Governor) (NNP Bush))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN day))
+sid=0 spanning 10 until 11 headed by 10 parsed as their
+sid=0 spanning 14 until 15 headed by 14 parsed as their
+sid=0 spanning 21 until 22 headed by 21 parsed as Sunday
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP NBC) (POS 's)) (NNP Chip) (NNP Reid))
+sid=1 spanning 2 until 4 headed by 2 parsed as (NP (NNP NBC) (POS 's))
+sid=2 spanning 4 until 5 headed by 4 parsed as his
+sid=4 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (JJ nice) (NNP Sunday))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Al) (NNP Gore))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNP Florida))
+sid=5 spanning 17 until 18 headed by 17 parsed as his
+sid=5 spanning 24 until 26 headed by 25 parsed as (NP (NNP Warren) (NNP Christopher))
+sid=5 spanning 28 until 35 headed by 31 parsed as (NP (DT the) (JJ controversial) (NN hand) (NNS recounts))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (NNP Florida) (NN law))
+sid=6 spanning 7 until 8 headed by 7 parsed as Florida
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Florida) (NN law))
+sid=7 spanning 0 until 1 headed by 0 parsed as Florida
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Christopher))
+sid=8 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS recounts))
+sid=8 spanning 17 until 18 headed by 17 parsed as Gore
+sid=8 spanning 22 until 23 headed by 22 parsed as (NP (NNP Gore))
+sid=8 spanning 29 until 30 headed by 29 parsed as (NP (NNP Florida))
+sid=9 spanning 2 until 5 headed by 4 parsed as (NP (NNP Governor) (NNP George) (NNP Bush))
+sid=9 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN day))
+sid=9 spanning 17 until 18 headed by 17 parsed as his
+sid=9 spanning 23 until 24 headed by 23 parsed as his
+sid=9 spanning 38 until 41 headed by 40 parsed as (NP (DT the) (NN hand) (NNS recounts))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=10 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bush) (NNS advisers))
+sid=11 spanning 0 until 1 headed by 0 parsed as Bush
+sid=11 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=11 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=11 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=11 spanning 20 until 21 headed by 20 parsed as (NP (NNP Florida))
+sid=11 spanning 22 until 23 headed by 22 parsed as (NP (PRP they))
+sid=11 spanning 60 until 61 headed by 60 parsed as (NP (NNP Florida))
+sid=13 spanning 7 until 8 headed by 7 parsed as (NP (NP (VBN impounded) (NNS ballots)) (PP (IN in) (NP (DT some) (NNS counties))))
+sid=13 spanning 18 until 19 headed by 18 parsed as (NP (PRP them))
+sid=14 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Gore) (NN team))
+sid=14 spanning 1 until 2 headed by 1 parsed as Gore
+sid=14 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NN hand) (NN recount))
+sid=14 spanning 21 until 22 headed by 21 parsed as (NP (PRP them))
+sid=14 spanning 25 until 26 headed by 25 parsed as (NP (NNP Florida))
+sid=14 spanning 29 until 31 headed by 30 parsed as (NP (DT both) (NNS sides))
+sid=14 spanning 32 until 33 headed by 32 parsed as (NP (PRP they))
+sid=14 spanning 41 until 42 headed by 41 parsed as (NP (DT both))
+sid=15 spanning 0 until 2 headed by 1 parsed as (NP (NNP Chip) (NNP Reid))
+sid=15 spanning 3 until 5 headed by 4 parsed as (NP (NNP NBC) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NP (NML (NNP Vice) (NNP President)) (NNP Gore)) (CC and) (NP (NNP Governor) (NNP Bush)))
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (NML (NNP Vice) (NNP President)) (NNP Gore)) (CC and) (NP (NNP Governor) (NNP Bush)))
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP Vice) (NNP President)) (NNP Gore))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Governor) (NNP Bush))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN day))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ their) (NNS families))
+sid=0 spanning 10 until 11 headed by 10 parsed as (PRP$ their)
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ their) (NNS deputies))
+sid=0 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+sid=0 spanning 18 until 25 headed by 18 parsed as (NP (NP (NNS points)) (PP (IN on) (NP (DT the) (NML (NNP Sunday) (NN morning)) (NN interview) (NNS shows))))
+sid=0 spanning 20 until 25 headed by 24 parsed as (NP (DT the) (NML (NNP Sunday) (NN morning)) (NN interview) (NNS shows))
+sid=0 spanning 21 until 22 headed by 21 parsed as Sunday
+sid=0 spanning 22 until 23 headed by 22 parsed as morning
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP NBC) (POS 's)) (NNP Chip) (NNP Reid))
+sid=1 spanning 2 until 4 headed by 2 parsed as (NP (NNP NBC) (POS 's))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ his) (NN family))
+sid=2 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Sunday))
+sid=3 spanning 1 until 2 headed by 1 parsed as morning
+sid=4 spanning 1 until 3 headed by 1 parsed as (NP (NP (PRP you)) (NP (DT all)))
+sid=4 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (JJ nice) (NNP Sunday))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Al) (NNP Gore))
+sid=5 spanning 7 until 13 headed by 10 parsed as (NP (NP (DT the) (JJ erecognize) (NN torl) (NN battle)) (PP (IN in) (NP (NNP Florida))))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNP Florida))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (PRP it))
+sid=5 spanning 17 until 35 headed by 18 parsed as (NP (NP (PRP$ his) (NN point)) (SBAR (S (NP (NNS men)) (, ,) (NP (NP (NNP William) (NNP Daley)) (CC and) (NP (NNP Warren) (NNP Christopher))) (VP (TO to) (VP (VB defend) (NP (DT the) (JJ controversial) (NN hand) (NNS recounts)) (PP (ADVP (RB now)) (IN under) (NP (NN way))))))))
+sid=5 spanning 17 until 18 headed by 17 parsed as (PRP$ his)
+sid=5 spanning 19 until 20 headed by 19 parsed as (NP (NNS men))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (NP (NNP William) (NNP Daley)) (CC and) (NP (NNP Warren) (NNP Christopher)))
+sid=5 spanning 21 until 26 headed by 22 parsed as (NP (NP (NNP William) (NNP Daley)) (CC and) (NP (NNP Warren) (NNP Christopher)))
+sid=5 spanning 24 until 26 headed by 25 parsed as (NP (NNP Warren) (NNP Christopher))
+sid=5 spanning 28 until 32 headed by 31 parsed as (NP (DT the) (JJ controversial) (NN hand) (NNS recounts))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=6 spanning 2 until 9 headed by 3 parsed as (NP (NP (DT the) (NN procedure)) (VP (VBN called) (PP (IN for)) (PP (IN by) (NP (NNP Florida) (NN law)))))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (NNP Florida) (NN law))
+sid=6 spanning 7 until 8 headed by 7 parsed as Florida
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Florida) (NN law))
+sid=7 spanning 0 until 1 headed by 0 parsed as Florida
+sid=7 spanning 4 until 13 headed by 5 parsed as (NP (DT an) (NN opportunity) (SBAR (IN for) (S (NP (NN hand) (NNS counts)) (VP (TO to) (VP (VB check) (NP (NN machine) (NNS counts)))))))
+sid=7 spanning 7 until 9 headed by 8 parsed as (NP (NN hand) (NNS counts))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (NN machine) (NNS counts))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Christopher))
+sid=8 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS recounts))
+sid=8 spanning 8 until 12 headed by 9 parsed as (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NNS days))))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (NNS days))
+sid=8 spanning 14 until 16 headed by 15 parsed as (NP (DT that) (NN point))
+sid=8 spanning 17 until 20 headed by 19 parsed as (NP (NNP Gore) (NN campaign) (NNS sources))
+sid=8 spanning 17 until 18 headed by 17 parsed as Gore
+sid=8 spanning 22 until 23 headed by 22 parsed as (NP (NNP Gore))
+sid=8 spanning 26 until 30 headed by 27 parsed as (NP (NP (DT the) (NN lead)) (PP (IN in) (NP (NNP Florida))))
+sid=8 spanning 29 until 30 headed by 29 parsed as (NP (NNP Florida))
+sid=8 spanning 32 until 37 headed by 32 parsed as (NP (NP (NN track)) (S (VP (TO to) (VP (VB win) (NP (DT the) (NN election))))))
+sid=8 spanning 35 until 37 headed by 36 parsed as (NP (DT the) (NN election))
+sid=9 spanning 2 until 5 headed by 4 parsed as (NP (NNP Governor) (NNP George) (NNP Bush))
+sid=9 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN day))
+sid=9 spanning 14 until 21 headed by 15 parsed as (NP (NP (DT the) (NN gate)) (PP (IN of) (NP (NP (PRP$ his) (NN ranch)) (PP (IN in) (NP (NNP Texas))))))
+sid=9 spanning 17 until 21 headed by 18 parsed as (NP (NP (PRP$ his) (NN ranch)) (PP (IN in) (NP (NNP Texas))))
+sid=9 spanning 17 until 18 headed by 17 parsed as (PRP$ his)
+sid=9 spanning 20 until 21 headed by 20 parsed as (NP (NNP Texas))
+sid=9 spanning 23 until 29 headed by 25 parsed as (NP (NP (PRP$ his) (NN point) (NN man)) (, ,) (NP (NNP James) (NNP Baker)))
+sid=9 spanning 23 until 26 headed by 25 parsed as (NP (PRP$ his) (NN point) (NN man))
+sid=9 spanning 23 until 24 headed by 23 parsed as (PRP$ his)
+sid=9 spanning 27 until 29 headed by 28 parsed as (NP (NNP James) (NNP Baker))
+sid=9 spanning 31 until 35 headed by 34 parsed as (NP (CD five) (NN network) (NN talk) (NNS shows))
+sid=9 spanning 38 until 41 headed by 40 parsed as (NP (DT the) (NN hand) (NNS recounts))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=10 spanning 3 until 8 headed by 4 parsed as (NP (NP (JJ tremendous) (NNS possibilities)) (PP (IN for) (NP (NN human) (NN error))))
+sid=10 spanning 6 until 8 headed by 7 parsed as (NP (NN human) (NN error))
+sid=10 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=10 spanning 13 until 25 headed by 14 parsed as (NP (NP (JJ tremendous) (NNS possibilities)) (PP (PP (IN for) (NP (NP (NN something)) (ADJP (ADJP (JJR worse)) (PP (IN than) (NP (NN human) (NN error)))))) (, ,) (CC and) (PP (IN for) (NP (NN mischief)))))
+sid=10 spanning 16 until 21 headed by 16 parsed as (NP (NP (NN something)) (ADJP (ADJP (JJR worse)) (PP (IN than) (NP (NN human) (NN error)))))
+sid=10 spanning 19 until 21 headed by 20 parsed as (NP (NN human) (NN error))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bush) (NNS advisers))
+sid=11 spanning 0 until 1 headed by 0 parsed as Bush
+sid=11 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=11 spanning 6 until 8 headed by 7 parsed as (NP (DT that) (NN argument))
+sid=11 spanning 10 until 12 headed by 11 parsed as (NP (DT this) (NN week))
+sid=11 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=11 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=11 spanning 20 until 21 headed by 20 parsed as (NP (NNP Florida))
+sid=11 spanning 22 until 23 headed by 22 parsed as (NP (PRP they))
+sid=11 spanning 26 until 57 headed by 26 parsed as (NP (NP (NNS recounts)) (PP (IN in) (NP (NP (NP (JJ other) (NNS states)) (, ,) (SBAR (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN filing) (NN deadline)) (VP (VBZ has) (RB not) (ADVP (RB yet)) (VP (VBN passed))))) (CC and) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN vote)) (VP (VBZ is) (ADJP (JJ close))))))) (, ,) (PP (VBG including) (NP (NNP Iowa) (CC and) (NNP Wisconsin))) (, ,) (NP (NP (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB help) (S (NP (PRP them)) (VP (VB win)))))))))))
+sid=11 spanning 28 until 57 headed by 29 parsed as (NP (NP (NP (JJ other) (NNS states)) (, ,) (SBAR (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN filing) (NN deadline)) (VP (VBZ has) (RB not) (ADVP (RB yet)) (VP (VBN passed))))) (CC and) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN vote)) (VP (VBZ is) (ADJP (JJ close))))))) (, ,) (PP (VBG including) (NP (NNP Iowa) (CC and) (NNP Wisconsin))) (, ,) (NP (NP (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB help) (S (NP (PRP them)) (VP (VB win)))))))))
+sid=11 spanning 28 until 45 headed by 29 parsed as (NP (NP (JJ other) (NNS states)) (, ,) (SBAR (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN filing) (NN deadline)) (VP (VBZ has) (RB not) (ADVP (RB yet)) (VP (VBN passed))))) (CC and) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN vote)) (VP (VBZ is) (ADJP (JJ close)))))))
+sid=11 spanning 28 until 30 headed by 29 parsed as (NP (JJ other) (NNS states))
+sid=11 spanning 32 until 35 headed by 34 parsed as (NP (DT the) (NN filing) (NN deadline))
+sid=11 spanning 41 until 43 headed by 42 parsed as (NP (DT the) (NN vote))
+sid=11 spanning 47 until 48 headed by 47 parsed as (NP (NNP Iowa) (CC and) (NNP Wisconsin))
+sid=11 spanning 47 until 50 headed by 47 parsed as (NP (NNP Iowa) (CC and) (NNP Wisconsin))
+sid=11 spanning 49 until 50 headed by 49 parsed as Wisconsin
+sid=11 spanning 51 until 57 headed by 51 parsed as (NP (NP (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB help) (S (NP (PRP them)) (VP (VB win))))))))
+sid=11 spanning 55 until 56 headed by 55 parsed as (NP (PRP them))
+sid=11 spanning 60 until 61 headed by 60 parsed as (NP (NNP Florida))
+sid=12 spanning 4 until 17 headed by 5 parsed as (NP (NP (DT a) (NN recount)) (PP (IN in) (NP (NP (NNP New) (NNP Mexico)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN race)) (VP (VBZ is) (NP (DT a) (JJ virtual) (NN tie))))))))
+sid=12 spanning 7 until 9 headed by 8 parsed as (NP (NP (NNP New) (NNP Mexico)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN race)) (VP (VBZ is) (NP (DT a) (JJ virtual) (NN tie))))))
+sid=12 spanning 7 until 17 headed by 8 parsed as (NP (NP (NNP New) (NNP Mexico)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN race)) (VP (VBZ is) (NP (DT a) (JJ virtual) (NN tie))))))
+sid=12 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN race))
+sid=12 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (JJ virtual) (NN tie))
+sid=13 spanning 0 until 5 headed by 3 parsed as (NP (NML (NNP New) (NNP Mexico)) (NNP State) (NNP Police) (EX there))
+sid=13 spanning 0 until 2 headed by 1 parsed as Mexico
+sid=13 spanning 6 until 11 headed by 7 parsed as (NP (NP (VBN impounded) (NNS ballots)) (PP (IN in) (NP (DT some) (NNS counties))))
+sid=13 spanning 9 until 11 headed by 10 parsed as (NP (DT some) (NNS counties))
+sid=13 spanning 14 until 23 headed by 16 parsed as (NP (NP (DT no) (CD one) (NNS tampers)) (PP (IN with) (NP (PRP them))) (PP (IN before) (NP (DT any) (JJ possible) (NN recount))))
+sid=13 spanning 18 until 19 headed by 18 parsed as (NP (PRP them))
+sid=14 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Gore) (NN team))
+sid=14 spanning 1 until 2 headed by 1 parsed as Gore
+sid=14 spanning 7 until 40 headed by 8 parsed as (NP (NP (JJ other) (NNS options)) (, ,) (PP (VBG including) (S (VP (VBG going) (PP (IN to) (NP (NN court))) (SBAR (IN if) (S (NP (DT the) (NN hand) (NN recount)) (VP (VBZ does) (RB not) (VP (VB give) (NP (PRP them)) (NP (NP (DT the) (NN lead)) (PP (IN in) (NP (NNP Florida)))) (, ,) (SBAR (IN so) (IN while) (S (NP (DT both) (NNS sides)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP want) (S (VP (TO to) (VP (VB move) (ADVP (ADVP (RB as) (RB expeditiously)) (PP (IN as) (ADJP (JJ possible)))))))))))))))))))))
+sid=14 spanning 7 until 9 headed by 8 parsed as (NP (JJ other) (NNS options))
+sid=14 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NN hand) (NN recount))
+sid=14 spanning 21 until 22 headed by 21 parsed as (NP (PRP them))
+sid=14 spanning 22 until 26 headed by 23 parsed as (NP (NP (DT the) (NN lead)) (PP (IN in) (NP (NNP Florida))))
+sid=14 spanning 25 until 26 headed by 25 parsed as (NP (NNP Florida))
+sid=14 spanning 29 until 31 headed by 30 parsed as (NP (DT both) (NNS sides))
+sid=14 spanning 32 until 33 headed by 32 parsed as (NP (PRP they))
+sid=14 spanning 41 until 42 headed by 41 parsed as (NP (DT both))
+sid=14 spanning 44 until 55 headed by 44 parsed as (NP (NP (NNS strategies)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB cause) (S (NP (DT this) (NN fight)) (VP (TO to) (VP (VB drag) (PRT (RP on)) (PP (IN for) (NP (NNS weeks)))))))))))
+sid=14 spanning 48 until 50 headed by 49 parsed as (NP (DT this) (NN fight))
+sid=14 spanning 54 until 55 headed by 54 parsed as (NP (NNS weeks))
+sid=15 spanning 0 until 2 headed by 1 parsed as (NP (NNP Chip) (NNP Reid))
+sid=15 spanning 3 until 5 headed by 4 parsed as (NP (NNP NBC) (NNP News))
+sid=15 spanning 6 until 7 headed by 6 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+37 36 33 39 35 | { 'they' 'they' 'Bush advisers' 'they' 'they' }
+15 45 32 16 31 30 22 | { 'the controversial hand recounts now under way' 'the hand recount' 'it' 'This' 'This' 'the hand recounts' 'the recounts' }
+47 12 38 40 25 20 18 | { 'Florida' 'Florida' 'Florida' 'Florida' 'Florida' 'Florida' 'Florida' }
+27 3 6 10 | { 'the day' 'this day' 'Sunday' 'a nice Sunday' }
+8 52 | { 'NBC 's' 'NBC News' }
+9 23 44 11 1 24 13 | { 'his' 'Gore' 'Gore' 'Al Gore' 'Vice President Gore' 'Gore' 'his' }
+50 49 48 | { 'both' 'they' 'both sides' }
+0 5 4 | { 'Vice President Gore and Governor Bush' 'their' 'their' }
+2 26 28 29 34 | { 'Governor Bush' 'Governor George Bush' 'his' 'his' 'Bush' }
+46 43 | { 'them' 'The Gore team' }
+51 7 | { 'Chip Reid' 'NBC 's Chip Reid' }
+14 21 | { 'Warren Christopher' 'Christopher' }
+42 41 | { 'them' 'ballots' }
+19 17 | { 'Florida law' 'Florida law' }
+(end gold clusters)

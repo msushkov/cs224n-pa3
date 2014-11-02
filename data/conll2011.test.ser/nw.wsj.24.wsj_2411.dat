@@ -1,0 +1,58 @@
+---------gloss--------
+(0) [1m[34m{The Canadian government}[0m announced a new , 12 - year [1m[33m{Canada Savings Bond}[0m issue that will yield investors 10.5 % in the first year . 
+(1) The annual interest rate for each of the next 11 years will be set each fall , when details of a new series are released . 
+(2) [1m[33m{Canada Savings Bonds}[0m are major government instruments for meeting [1m[34m{its}[0m financial requirements . 
+(3) [1m[34m{The government}[0m has about 41.4 billion Canadian dollars -LRB- US$ 35.2 billion -RRB- of [1m[33m{such bonds}[0m currently outstanding . 
+(4) Only Canadian residents are permitted to buy [1m[33m{Canada Savings Bonds , which may be redeemed any time at face value}[0m . 
+(5) [1m[33m{The bonds}[0m go on sale Oct. 19 . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2411); part 000
+sentences:
+ThetheDTOPER0CanadiancanadianJJOPER0governmentgovernmentNNOPER0announcedannounceVBDOPER0aaDTOPER0newnewJJOPER0,,,OPER01212CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0CanadaCanadaNNPOPER0SavingsSavingsNNPSOPER0BondBondNNPOPER0issueissueNNOPER0thatthatWDTOPER0willwillMDOPER0yieldyieldVBOPER0investorsinvestorNNSOPER010.510.5CDPERCENTPER0%%NNPERCENTPER0ininINOPER0thetheDTDATEPER0firstfirstJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ Canadian) (NN government)) (VP (VBD announced) (NP (NP (DT a) (JJ new) (, ,) (NML (CD 12) (HYPH -) (NN year)) (NML (NNP Canada) (NNPS Savings) (NNP Bond)) (NN issue)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB yield) (NP (NNS investors)) (NP (NP (CD 10.5) (NN %)) (PP (IN in) (NP (DT the) (JJ first) (NN year)))))))))) (. .)))
+ThetheDTOPER0annualannualJJOPER0interestinterestNNOPER0raterateNNOPER0forforINOPER0eacheachDTDATEPER0ofofINDATEPER0thetheDTDATEPER0nextnextJJDATEPER01111CDDATEPER0yearsyearNNSDATEPER0willwillMDOPER0bebeVBOPER0setsetVBNOPER0eacheachDTDATEPER0fallfallNNDATEPER0,,,OPER0whenwhenWRBOPER0detailsdetailNNSOPER0ofofINOPER0aaDTOPER0newnewJJOPER0seriesseriesNNOPER0arebeVBPOPER0releasedreleaseVBNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ annual) (NN interest) (NN rate)) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (JJ next) (CD 11) (NNS years)))))) (VP (MD will) (VP (VB be) (VP (VBN set) (NP (DT each) (NN fall)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNS details)) (PP (IN of) (NP (DT a) (JJ new) (NN series)))) (VP (VBP are) (VP (VBN released)))))))) (. .)))
+CanadaCanadaNNPOPER0SavingsSavingsNNPOPER0BondsbondNNSOPER0arebeVBPOPER0majormajorJJOPER0governmentgovernmentNNOPER0instrumentsinstrumentNNSOPER0forforINOPER0meetingmeetVBGOPER0itsitsPRP$OPER0financialfinancialJJOPER0requirementsrequirementNNSOPER0...OPER0(ROOT (S (NP (NNP Canada) (NNP Savings) (NNS Bonds)) (VP (VBP are) (NP (NP (JJ major) (NN government) (NNS instruments)) (PP (IN for) (S (VP (VBG meeting) (NP (PRP$ its) (JJ financial) (NNS requirements))))))) (. .)))
+ThetheDTOPER0governmentgovernmentNNOPER0hashaveVBZOPER0aboutaboutRBMONEYPER041.441.4CDMONEYPER0billionbillionCDMONEYPER0CanadiancanadianJJMONEYPER0dollarsdollarNNSMONEYPER0-LRB--lrb--LRB-OPER0US$us$$MONEYPER035.235.2CDMONEYPER0billionbillionCDMONEYPER0-RRB--rrb--RRB-OPER0ofofINOPER0suchsuchJJOPER0bondsbondNNSOPER0currentlycurrentlyRBOPER0outstandingoutstandingJJOPER0...OPER0(ROOT (S (NP (DT The) (NN government)) (VP (VBZ has) (NP (NP (QP (RB about) (CD 41.4) (CD billion)) (JJ Canadian) (NNS dollars)) (-LRB- -LRB-) (NP (QP ($ US$) (CD 35.2) (CD billion))) (-RRB- -RRB-) (PP (IN of) (NP (NP (JJ such) (NNS bonds)) (ADJP (RB currently) (JJ outstanding)))))) (. .)))
+OnlyonlyRBOPER0CanadiancanadianJJOPER0residentsresidentNNSOPER0arebeVBPOPER0permittedpermitVBNOPER0totoTOOPER0buybuyVBOPER0CanadaCanadaNNPOPER0SavingsSavingsNNPOPER0BondsBondsNNPOPER0,,,OPER0whichwhichWDTOPER0maymayMDOPER0bebeVBOPER0redeemedredeemVBNOPER0anyanyDTOPER0timetimeNNOPER0atatINOPER0facefaceNNOPER0valuevalueNNOPER0...OPER0(ROOT (S (NP (RB Only) (JJ Canadian) (NNS residents)) (VP (VBP are) (VP (VBN permitted) (S (VP (TO to) (VP (VB buy) (NP (NP (NNP Canada) (NNP Savings) (NNP Bonds)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB be) (VP (VBN redeemed) (NP (DT any) (NN time)) (PP (IN at) (NP (NN face) (NN value)))))))))))))) (. .)))
+ThetheDTOPER0bondsbondNNSOPER0gogoVBPOPER0ononINOPER0salesaleNNOPER0Oct.Oct.NNPDATEPER01919CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NNS bonds)) (VP (VBP go) (PP (IN on) (NP (NP (NN sale)) (NP (NNP Oct.) (CD 19))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Canadian) (NN government))
+sid=0 spanning 10 until 13 headed by 12 parsed as Bond
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NNP Canada) (NNP Savings) (NNS Bonds))
+sid=2 spanning 9 until 10 headed by 9 parsed as its
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN government))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (NP (JJ such) (NNS bonds)) (ADJP (RB currently) (JJ outstanding)))
+sid=4 spanning 7 until 20 headed by 9 parsed as (NP (NP (NNP Canada) (NNP Savings) (NNP Bonds)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB be) (VP (VBN redeemed) (NP (DT any) (NN time)) (PP (IN at) (NP (NN face) (NN value)))))))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS bonds))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Canadian) (NN government))
+sid=0 spanning 4 until 24 headed by 13 parsed as (NP (NP (DT a) (JJ new) (, ,) (NML (CD 12) (HYPH -) (NN year)) (NML (NNP Canada) (NNPS Savings) (NNP Bond)) (NN issue)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB yield) (NP (NNS investors)) (NP (NP (CD 10.5) (NN %)) (PP (IN in) (NP (DT the) (JJ first) (NN year)))))))))
+sid=0 spanning 7 until 10 headed by 9 parsed as year
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NNS investors))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (JJ first) (NN year))
+sid=1 spanning 0 until 11 headed by 3 parsed as (NP (NP (DT The) (JJ annual) (NN interest) (NN rate)) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (JJ next) (CD 11) (NNS years))))))
+sid=1 spanning 5 until 11 headed by 5 parsed as (NP (NP (DT each)) (PP (IN of) (NP (DT the) (JJ next) (CD 11) (NNS years))))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT each) (NN fall))
+sid=1 spanning 18 until 23 headed by 18 parsed as (NP (NP (NNS details)) (PP (IN of) (NP (DT a) (JJ new) (NN series))))
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (DT a) (JJ new) (NN series))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NNP Canada) (NNP Savings) (NNS Bonds))
+sid=2 spanning 4 until 12 headed by 6 parsed as (NP (NP (JJ major) (NN government) (NNS instruments)) (PP (IN for) (S (VP (VBG meeting) (NP (PRP$ its) (JJ financial) (NNS requirements))))))
+sid=2 spanning 9 until 12 headed by 11 parsed as (NP (PRP$ its) (JJ financial) (NNS requirements))
+sid=2 spanning 9 until 10 headed by 9 parsed as (PRP$ its)
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN government))
+sid=3 spanning 14 until 18 headed by 15 parsed as (NP (NP (JJ such) (NNS bonds)) (ADJP (RB currently) (JJ outstanding)))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (RB Only) (JJ Canadian) (NNS residents))
+sid=4 spanning 7 until 20 headed by 9 parsed as (NP (NP (NNP Canada) (NNP Savings) (NNP Bonds)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB be) (VP (VBN redeemed) (NP (DT any) (NN time)) (PP (IN at) (NP (NN face) (NN value)))))))))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (NNP Canada) (NNP Savings) (NNP Bonds))
+sid=4 spanning 18 until 20 headed by 19 parsed as (NP (NN face) (NN value))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS bonds))
+sid=5 spanning 4 until 7 headed by 4 parsed as (NP (NP (NN sale)) (NP (NNP Oct.) (CD 19)))
+sid=5 spanning 5 until 7 headed by 5 parsed as (NP (NNP Oct.) (CD 19))
+(end predicted mentions)
+---------gold clusters--------
+7 6 5 1 2 | { 'The bonds' 'Canada Savings Bonds , which may be redeemed any time at face value' 'such bonds' 'Canada Savings Bond' 'Canada Savings Bonds' }
+4 0 3 | { 'The government' 'The Canadian government' 'its' }
+(end gold clusters)

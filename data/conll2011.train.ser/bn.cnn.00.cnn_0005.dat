@@ -1,0 +1,169 @@
+---------gloss--------
+(0) Five years ago [36m{today}[0m , [1m[32m{the O.J. Simpson trial}[0m ended with [35m{an acquittal}[0m . 
+(1) In [36m{today 's}[0m edition of `` [1m[31m{Headliners}[0m , '' [1m[33m{Bob Glascoff}[0m looks at the life of [1m[35m{the lead prosecutor in the case}[0m , and what [1m[35m{she}[0m 's doing now . 
+(2) Not guilty of the crime of murder . 
+(3) On this day in 1995 , [33m{O.J. Simpson}[0m was [35m{acquitted}[0m of the 1994 murders of [33m{his}[0m ex-wife Nicole and [32m{her}[0m friend Ron Goldman . 
+(4) [1m[32m{The trial}[0m thrust [1m[35m{chief prosecutor Marcia Clark}[0m into the spotlight . 
+(5) [1m[35m{Clark}[0m graduated from UCLA in 1974 , earning [1m[35m{her}[0m law degree five years later . 
+(6) [1m[35m{She}[0m joined the [1m[34m{Los Angeles}[0m district attorney 's office in 1981 after spending two years as a criminal defense attorney . 
+(7) [1m[35m{Clark}[0m gained reputation for [1m[35m{her}[0m expertise in forensic evidence , handling at least 60 jury trials , 20 involving murder , before taking on [34m{the Simpson case}[0m . 
+(8) [1m[35m{Her}[0m efforts helped convict the Robert John Bardo of the stalking murder of actress Rebecca Schaeffer , but [1m[32m{the Simpson trial}[0m and the jury 's findings marked a turning point in the career of [1m[35m{the twice - divorced mother of two}[0m . 
+(9) Since [1m[32m{the trial}[0m , [1m[35m{she}[0m 's published the best - selling book `` Without a Doubt , '' about [1m[35m{her}[0m experience on [34m{the Simpson case}[0m . 
+(10) These days , [1m[35m{Clark}[0m practices family law in [1m[34m{L.A.}[0m and has made frequent appearances on network television . 
+(11) With `` [1m[31m{Headliners}[0m , '' [1m[33m{I}[0m 'm [1m[33m{Bob Glascoff}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0005); part 000
+sentences:
+FivefiveCDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0todaytodayNNDATEPER0,,,OPER0thetheDTOPER0O.J.O.J.NNPPERSONPER0SimpsonSimpsonNNPPERSONPER0trialtrialNNOPER0endedendVBDOPER0withwithINOPER0anaDTOPER0acquittalacquittalNNOPER0...OPER0(ROOT (S (ADVP (NP (CD Five) (NNS years)) (RB ago) (NP (NN today))) (, ,) (NP (DT the) (NML (NNP O.J.) (NNP Simpson)) (NN trial)) (VP (VBD ended) (PP (IN with) (NP (DT an) (NN acquittal)))) (. .)))
+IninINOPER0todaytodayNNDATEPER0's'sPOSOPER0editioneditionNNOPER0ofofINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER1,,,OPER1''''''OPER0BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0lookslookVBZOPER0atatINOPER0thetheDTOPER0lifelifeNNOPER0ofofINOPER0thetheDTOPER0leadleadJJOPER0prosecutorprosecutorNNOPER0ininINOPER0thetheDTOPER0casecaseNNOPER0,,,OPER0andandCCOPER0whatwhatWPOPER0sheshePRPOPER0'sbeVBZOPER0doingdoVBGOPER0nownowRBOPER0...OPER0(ROOT (S (S (PP (IN In) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))) (, ,) ('' '') (NP (NNP Bob) (NNP Glascoff)) (VP (VBZ looks) (PP (IN at) (NP (NP (DT the) (NN life)) (PP (IN of) (NP (NP (DT the) (JJ lead) (NN prosecutor)) (PP (IN in) (NP (DT the) (NN case))))))))) (, ,) (CC and) (SBAR (WHNP (WP what)) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG doing) (ADVP (RB now)))))) (. .)))
+NotnotRBOPER0guiltyguiltyJJOPER0ofofINOPER0thetheDTOPER0crimecrimeNNOPER0ofofINOPER0murdermurderNNOPER0...OPER0(ROOT (S (ADJP (RB Not) (JJ guilty) (PP (IN of) (NP (NP (DT the) (NN crime)) (PP (IN of) (NP (NN murder)))))) (. .)))
+OnonINOPER0thisthisDTDATEPER0daydayNNDATEPER0ininINDATEPER019951995CDDATEPER0,,,OPER0O.J.O.J.NNPPERSONPER0SimpsonSimpsonNNPPERSONPER0wasbeVBDOPER0acquittedacquitVBNOPER0ofofINOPER0thetheDTOPER019941994CDDATEPER0murdersmurderNNSOPER0ofofINOPER0hishePRP$OPER0ex-wifeex-wifeNNOPER0NicoleNicoleNNPPERSONPER0andandCCOPER0hershePRP$OPER0friendfriendNNOPER0RonRonNNPPERSONPER0GoldmanGoldmanNNPPERSONPER0...OPER0(ROOT (S (PP (IN On) (NP (NP (DT this) (NN day)) (PP (IN in) (NP (CD 1995))))) (, ,) (NP (NNP O.J.) (NNP Simpson)) (VP (VBD was) (VP (VBN acquitted) (PP (IN of) (NP (NP (DT the) (CD 1994) (NNS murders)) (PP (IN of) (NP (NP (PRP$ his) (NN ex-wife) (NNP Nicole)) (CC and) (NP (NP (PRP$ her) (NN friend)) (NP (NNP Ron) (NNP Goldman))))))))) (. .)))
+ThetheDTOPER0trialtrialNNOPER0thrustthrustVBDOPER0chiefchiefJJOPER0prosecutorprosecutorNNOPER0MarciaMarciaNNPPERSONPER0ClarkClarkNNPPERSONPER0intointoINOPER0thetheDTOPER0spotlightspotlightNNOPER0...OPER0(ROOT (S (NP (DT The) (NN trial)) (VP (VBD thrust) (NP (NML (JJ chief) (NN prosecutor)) (NNP Marcia) (NNP Clark)) (PP (IN into) (NP (DT the) (NN spotlight)))) (. .)))
+ClarkClarkNNPPERSONPER0graduatedgraduateVBDOPER0fromfromINOPER0UCLAUCLANNPORGPER0ininINOPER019741974CDDATEPER0,,,OPER0earningearnVBGOPER0hershePRP$OPER0lawlawNNOPER0degreedegreeNNOPER0fivefiveCDDATEPER0yearsyearNNSDATEPER0laterlaterRBDATEPER0...OPER0(ROOT (S (NP (NNP Clark)) (VP (VBD graduated) (PP (IN from) (NP (NNP UCLA))) (PP (IN in) (NP (CD 1974))) (, ,) (S (VP (VBG earning) (NP (PRP$ her) (NN law) (NN degree)) (ADVP (NP (CD five) (NNS years)) (RB later))))) (. .)))
+SheshePRPOPER0joinedjoinVBDOPER0thetheDTOPER0LosLosNNPGPEPER0AngelesAngelesNNPGPEPER0districtdistrictNNOPER0attorneyattorneyNNOPER0's'sPOSOPER0officeofficeNNOPER0ininINOPER019811981CDDATEPER0afterafterINOPER0spendingspendVBGOPER0twotwoCDDATEPER0yearsyearNNSDATEPER0asasINOPER0aaDTOPER0criminalcriminalJJOPER0defensedefenseNNOPER0attorneyattorneyNNOPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBD joined) (NP (NP (NP (DT the) (NML (NNP Los) (NNP Angeles)) (NN district) (NN attorney) (POS 's)) (NN office)) (PP (IN in) (NP (CD 1981)))) (PP (IN after) (S (VP (VBG spending) (NP (CD two) (NNS years)) (PP (IN as) (NP (DT a) (NML (JJ criminal) (NN defense)) (NN attorney))))))) (. .)))
+ClarkClarkNNPPERSONPER0gainedgainVBDOPER0reputationreputationNNOPER0forforINOPER0hershePRP$OPER0expertiseexpertiseNNOPER0ininINOPER0forensicforensicJJOPER0evidenceevidenceNNOPER0,,,OPER0handlinghandleVBGOPER0atatINMONEYPER0leastleastJJSMONEYPER06060CDMONEYPER0juryjuryNNOPER0trialstrialNNSOPER0,,,OPER02020CDDATEPER0involvinginvolveVBGOPER0murdermurderNNOPER0,,,OPER0beforebeforeINOPER0takingtakeVBGOPER0ononRPOPER0thetheDTOPER0SimpsonSimpsonNNPPERSONPER0casecaseNNOPER0...OPER0(ROOT (S (NP (NNP Clark)) (VP (VBD gained) (NP (NP (NN reputation)) (PP (IN for) (NP (NP (NP (PRP$ her) (NN expertise)) (PP (IN in) (NP (JJ forensic) (NN evidence)))) (, ,) (VP (VBG handling) (NP (NP (QP (ADVP (IN at) (JJS least)) (CD 60)) (NN jury) (NNS trials)) (, ,) (NP (NP (CD 20)) (VP (VBG involving) (NP (NN murder)))))) (, ,)))) (PP (IN before) (S (VP (VBG taking) (PRT (RP on)) (NP (DT the) (NNP Simpson) (NN case)))))) (. .)))
+HershePRP$OPER0effortseffortNNSOPER0helpedhelpVBDOPER0convictconvictVBOPER0thetheDTPERSONPER0RobertRobertNNPPERSONPER0JohnJohnNNPPERSONPER0BardoBardoNNPPERSONPER0ofofINOPER0thetheDTOPER0stalkingstalkingJJOPER0murdermurderNNOPER0ofofINOPER0actressactressNNOPER0RebeccaRebeccaNNPPERSONPER0SchaefferSchaefferNNPPERSONPER0,,,OPER0butbutCCOPER0thetheDTOPER0SimpsonSimpsonNNPPERSONPER0trialtrialNNOPER0andandCCOPER0thetheDTOPER0juryjuryNNOPER0's'sPOSOPER0findingsfindingNNSOPER0markedmarkVBDOPER0aaDTOPER0turningturnVBGOPER0pointpointNNOPER0ininINOPER0thetheDTOPER0careercareerNNOPER0ofofINOPER0thetheDTOPER0twicetwiceRBCARDINALPER0--HYPHOPER0divorceddivorceVBNOPER0mothermotherNNOPER0ofofINOPER0twotwoCDCARDINALPER0...OPER0(ROOT (S (S (NP (PRP$ Her) (NNS efforts)) (VP (VBD helped) (S (VP (VB convict) (NP (NP (DT the) (NNP Robert) (NNP John) (NNP Bardo)) (PP (IN of) (NP (NP (DT the) (JJ stalking) (NN murder)) (PP (IN of) (NP (NN actress) (NNP Rebecca) (NNP Schaeffer)))))))))) (, ,) (CC but) (S (NP (NP (DT the) (NNP Simpson) (NN trial)) (CC and) (NP (NP (DT the) (NN jury) (POS 's)) (NNS findings))) (VP (VBD marked) (NP (NP (DT a) (VBG turning) (NN point)) (PP (IN in) (NP (NP (DT the) (NN career)) (PP (IN of) (NP (NP (DT the) (ADJP (RB twice) (HYPH -) (VBN divorced)) (NN mother)) (PP (IN of) (NP (CD two)))))))))) (. .)))
+SincesinceINOPER0thetheDTOPER0trialtrialNNOPER0,,,OPER0sheshePRPOPER0'sbeVBZOPER0publishedpublishVBNOPER0thetheDTOPER0bestbestRBSOPER0--HYPHOPER0sellingsellVBGOPER0bookbookNNOPER0``````OWithoutwithoutINOPER2aaDTOPER2DoubtdoubtNNOPER2,,,OPER2''''''OPER0aboutaboutINOPER0hershePRP$OPER0experienceexperienceNNOPER0ononINOPER0thetheDTOPER0SimpsonSimpsonNNPPERSONPER0casecaseNNOPER0...OPER0(ROOT (S (PP (IN Since) (NP (DT the) (NN trial))) (, ,) (NP (PRP she)) (VP (VBZ 's) (VP (VBN published) (NP (DT the) (ADJP (RBS best) (HYPH -) (VBG selling)) (NN book)) (`` ``) (PP (IN Without) (NP (NP (DT a) (NN Doubt)) (, ,) ('' '') (PP (IN about) (NP (NP (PRP$ her) (NN experience)) (PP (IN on) (NP (DT the) (NNP Simpson) (NN case))))))))) (. .)))
+ThesetheseDTDATEPER0daysdayNNSDATEPER0,,,OPER0ClarkClarkNNPORGPER0practicespracticeNNSOPER0familyfamilyNNOPER0lawlawNNOPER0ininINOPER0L.A.L.A.NNPGPEPER0andandCCOPER0hashaveVBZOPER0mademakeVBNOPER0frequentfrequentJJOPER0appearancesappearanceNNSOPER0ononINOPER0networknetworkNNOPER0televisiontelevisionNNOPER0...OPER0(ROOT (S (NP (DT These) (NNS days)) (, ,) (NP (NNP Clark)) (VP (VP (NNS practices) (NP (NN family) (NN law)) (PP (IN in) (NP (NNP L.A.)))) (CC and) (VP (VBZ has) (VP (VBN made) (NP (NP (JJ frequent) (NNS appearances)) (PP (IN on) (NP (NN network) (NN television))))))) (. .)))
+WithwithINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER3,,,OPER3''''''OPER0IIPRPOPER0'mbeVBPOPER0BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0...OPER0(ROOT (S (PP (IN With) (`` ``) (NP (NNPS Headliners))) (, ,) ('' '') (NP (PRP I)) (VP (VBP 'm) (NP (NNP Bob) (NNP Glascoff))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NN today))
+sid=0 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (NML (NNP O.J.) (NNP Simpson)) (NN trial))
+sid=0 spanning 6 until 8 headed by 7 parsed as Simpson
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT an) (NN acquittal))
+sid=1 spanning 1 until 3 headed by 1 parsed as (NP (NN today) (POS 's))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNPS Headliners))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=1 spanning 16 until 22 headed by 18 parsed as (NP (NP (DT the) (JJ lead) (NN prosecutor)) (PP (IN in) (NP (DT the) (NN case))))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN case))
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (PRP she))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (NNP O.J.) (NNP Simpson))
+sid=3 spanning 9 until 10 headed by 9 parsed as acquitted
+sid=3 spanning 15 until 18 headed by 17 parsed as (NP (NP (PRP$ his) (NN ex-wife) (NNP Nicole)) (CC and) (NP (NP (PRP$ her) (NN friend)) (NP (NNP Ron) (NNP Goldman))))
+sid=3 spanning 15 until 16 headed by 15 parsed as his
+sid=3 spanning 19 until 20 headed by 19 parsed as her
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN trial))
+sid=4 spanning 3 until 7 headed by 6 parsed as (NP (NML (JJ chief) (NN prosecutor)) (NNP Marcia) (NNP Clark))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Clark))
+sid=5 spanning 8 until 9 headed by 8 parsed as her
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=6 spanning 3 until 5 headed by 4 parsed as Angeles
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Clark))
+sid=7 spanning 4 until 5 headed by 4 parsed as her
+sid=7 spanning 24 until 27 headed by 26 parsed as (NP (DT the) (NNP Simpson) (NN case))
+sid=7 spanning 25 until 26 headed by 25 parsed as Simpson
+sid=8 spanning 0 until 1 headed by 0 parsed as Her
+sid=8 spanning 18 until 21 headed by 20 parsed as (NP (NP (DT the) (NNP Simpson) (NN trial)) (CC and) (NP (NP (DT the) (NN jury) (POS 's)) (NNS findings)))
+sid=8 spanning 19 until 20 headed by 19 parsed as Simpson
+sid=8 spanning 34 until 41 headed by 38 parsed as (NP (NP (DT the) (ADJP (RB twice) (HYPH -) (VBN divorced)) (NN mother)) (PP (IN of) (NP (CD two))))
+sid=9 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN trial))
+sid=9 spanning 4 until 5 headed by 4 parsed as (NP (PRP she))
+sid=9 spanning 19 until 20 headed by 19 parsed as her
+sid=9 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (NNP Simpson) (NN case))
+sid=9 spanning 23 until 24 headed by 23 parsed as Simpson
+sid=10 spanning 3 until 4 headed by 3 parsed as (NP (NNP Clark))
+sid=10 spanning 8 until 9 headed by 8 parsed as (NP (NNP L.A.))
+sid=11 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=11 spanning 7 until 9 headed by 8 parsed as (NP (NNP Bob) (NNP Glascoff))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 2 parsed as ago
+sid=0 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (NML (NNP O.J.) (NNP Simpson)) (NN trial))
+sid=0 spanning 6 until 8 headed by 7 parsed as Simpson
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT an) (NN acquittal))
+sid=1 spanning 1 until 7 headed by 3 parsed as (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))
+sid=1 spanning 1 until 3 headed by 1 parsed as (NP (NN today) (POS 's))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNPS Headliners))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=1 spanning 13 until 22 headed by 14 parsed as (NP (NP (DT the) (NN life)) (PP (IN of) (NP (NP (DT the) (JJ lead) (NN prosecutor)) (PP (IN in) (NP (DT the) (NN case))))))
+sid=1 spanning 16 until 22 headed by 18 parsed as (NP (NP (DT the) (JJ lead) (NN prosecutor)) (PP (IN in) (NP (DT the) (NN case))))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN case))
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (PRP she))
+sid=2 spanning 3 until 7 headed by 4 parsed as (NP (NP (DT the) (NN crime)) (PP (IN of) (NP (NN murder))))
+sid=3 spanning 1 until 5 headed by 2 parsed as (NP (NP (DT this) (NN day)) (PP (IN in) (NP (CD 1995))))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (NNP O.J.) (NNP Simpson))
+sid=3 spanning 11 until 23 headed by 13 parsed as (NP (NP (DT the) (CD 1994) (NNS murders)) (PP (IN of) (NP (NP (PRP$ his) (NN ex-wife) (NNP Nicole)) (CC and) (NP (NP (PRP$ her) (NN friend)) (NP (NNP Ron) (NNP Goldman))))))
+sid=3 spanning 12 until 13 headed by 12 parsed as 1994
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (NP (PRP$ his) (NN ex-wife) (NNP Nicole)) (CC and) (NP (NP (PRP$ her) (NN friend)) (NP (NNP Ron) (NNP Goldman))))
+sid=3 spanning 15 until 23 headed by 17 parsed as (NP (NP (PRP$ his) (NN ex-wife) (NNP Nicole)) (CC and) (NP (NP (PRP$ her) (NN friend)) (NP (NNP Ron) (NNP Goldman))))
+sid=3 spanning 15 until 18 headed by 17 parsed as (NP (PRP$ his) (NN ex-wife) (NNP Nicole))
+sid=3 spanning 15 until 16 headed by 15 parsed as (PRP$ his)
+sid=3 spanning 19 until 23 headed by 20 parsed as (NP (NP (PRP$ her) (NN friend)) (NP (NNP Ron) (NNP Goldman)))
+sid=3 spanning 19 until 20 headed by 19 parsed as (PRP$ her)
+sid=3 spanning 21 until 23 headed by 22 parsed as (NP (NNP Ron) (NNP Goldman))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN trial))
+sid=4 spanning 3 until 7 headed by 6 parsed as (NP (NML (JJ chief) (NN prosecutor)) (NNP Marcia) (NNP Clark))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN spotlight))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Clark))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NNP UCLA))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (CD 1974))
+sid=5 spanning 8 until 11 headed by 10 parsed as (NP (PRP$ her) (NN law) (NN degree))
+sid=5 spanning 8 until 9 headed by 8 parsed as (PRP$ her)
+sid=5 spanning 11 until 14 headed by 13 parsed as later
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=6 spanning 2 until 11 headed by 8 parsed as (NP (NP (NP (DT the) (NML (NNP Los) (NNP Angeles)) (NN district) (NN attorney) (POS 's)) (NN office)) (PP (IN in) (NP (CD 1981))))
+sid=6 spanning 2 until 8 headed by 6 parsed as (NP (DT the) (NML (NNP Los) (NNP Angeles)) (NN district) (NN attorney) (POS 's))
+sid=6 spanning 3 until 5 headed by 4 parsed as Angeles
+sid=6 spanning 10 until 11 headed by 10 parsed as (NP (CD 1981))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (CD two) (NNS years))
+sid=6 spanning 16 until 20 headed by 19 parsed as (NP (DT a) (NML (JJ criminal) (NN defense)) (NN attorney))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Clark))
+sid=7 spanning 2 until 21 headed by 2 parsed as (NP (NP (NN reputation)) (PP (IN for) (NP (NP (NP (PRP$ her) (NN expertise)) (PP (IN in) (NP (JJ forensic) (NN evidence)))) (, ,) (VP (VBG handling) (NP (NP (QP (ADVP (IN at) (JJS least)) (CD 60)) (NN jury) (NNS trials)) (, ,) (NP (NP (CD 20)) (VP (VBG involving) (NP (NN murder)))))) (, ,))))
+sid=7 spanning 4 until 21 headed by 5 parsed as (NP (NP (NP (PRP$ her) (NN expertise)) (PP (IN in) (NP (JJ forensic) (NN evidence)))) (, ,) (VP (VBG handling) (NP (NP (QP (ADVP (IN at) (JJS least)) (CD 60)) (NN jury) (NNS trials)) (, ,) (NP (NP (CD 20)) (VP (VBG involving) (NP (NN murder)))))) (, ,))
+sid=7 spanning 4 until 9 headed by 5 parsed as (NP (NP (PRP$ her) (NN expertise)) (PP (IN in) (NP (JJ forensic) (NN evidence))))
+sid=7 spanning 4 until 5 headed by 4 parsed as (PRP$ her)
+sid=7 spanning 11 until 20 headed by 15 parsed as (NP (NP (QP (ADVP (IN at) (JJS least)) (CD 60)) (NN jury) (NNS trials)) (, ,) (NP (NP (CD 20)) (VP (VBG involving) (NP (NN murder)))))
+sid=7 spanning 11 until 16 headed by 15 parsed as (NP (QP (ADVP (IN at) (JJS least)) (CD 60)) (NN jury) (NNS trials))
+sid=7 spanning 17 until 20 headed by 17 parsed as (NP (NP (CD 20)) (VP (VBG involving) (NP (NN murder))))
+sid=7 spanning 24 until 27 headed by 26 parsed as (NP (DT the) (NNP Simpson) (NN case))
+sid=7 spanning 25 until 26 headed by 25 parsed as Simpson
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ Her) (NNS efforts))
+sid=8 spanning 0 until 1 headed by 0 parsed as (PRP$ Her)
+sid=8 spanning 4 until 16 headed by 7 parsed as (NP (NP (DT the) (NNP Robert) (NNP John) (NNP Bardo)) (PP (IN of) (NP (NP (DT the) (JJ stalking) (NN murder)) (PP (IN of) (NP (NN actress) (NNP Rebecca) (NNP Schaeffer))))))
+sid=8 spanning 9 until 16 headed by 11 parsed as (NP (NP (DT the) (JJ stalking) (NN murder)) (PP (IN of) (NP (NN actress) (NNP Rebecca) (NNP Schaeffer))))
+sid=8 spanning 14 until 16 headed by 15 parsed as (NP (NN actress) (NNP Rebecca) (NNP Schaeffer))
+sid=8 spanning 13 until 16 headed by 15 parsed as (NP (NN actress) (NNP Rebecca) (NNP Schaeffer))
+sid=8 spanning 18 until 26 headed by 20 parsed as (NP (NP (DT the) (NNP Simpson) (NN trial)) (CC and) (NP (NP (DT the) (NN jury) (POS 's)) (NNS findings)))
+sid=8 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP Simpson) (NN trial))
+sid=8 spanning 19 until 20 headed by 19 parsed as Simpson
+sid=8 spanning 22 until 26 headed by 25 parsed as (NP (NP (DT the) (NN jury) (POS 's)) (NNS findings))
+sid=8 spanning 22 until 25 headed by 23 parsed as (NP (DT the) (NN jury) (POS 's))
+sid=8 spanning 27 until 41 headed by 29 parsed as (NP (NP (DT a) (VBG turning) (NN point)) (PP (IN in) (NP (NP (DT the) (NN career)) (PP (IN of) (NP (NP (DT the) (ADJP (RB twice) (HYPH -) (VBN divorced)) (NN mother)) (PP (IN of) (NP (CD two))))))))
+sid=8 spanning 31 until 41 headed by 32 parsed as (NP (NP (DT the) (NN career)) (PP (IN of) (NP (NP (DT the) (ADJP (RB twice) (HYPH -) (VBN divorced)) (NN mother)) (PP (IN of) (NP (CD two))))))
+sid=8 spanning 34 until 41 headed by 38 parsed as (NP (NP (DT the) (ADJP (RB twice) (HYPH -) (VBN divorced)) (NN mother)) (PP (IN of) (NP (CD two))))
+sid=8 spanning 40 until 41 headed by 40 parsed as (NP (CD two))
+sid=9 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN trial))
+sid=9 spanning 4 until 5 headed by 4 parsed as (NP (PRP she))
+sid=9 spanning 7 until 12 headed by 11 parsed as (NP (DT the) (ADJP (RBS best) (HYPH -) (VBG selling)) (NN book))
+sid=9 spanning 14 until 25 headed by 15 parsed as (NP (NP (DT a) (NN Doubt)) (, ,) ('' '') (PP (IN about) (NP (NP (PRP$ her) (NN experience)) (PP (IN on) (NP (DT the) (NNP Simpson) (NN case))))))
+sid=9 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN Doubt))
+sid=9 spanning 19 until 25 headed by 20 parsed as (NP (NP (PRP$ her) (NN experience)) (PP (IN on) (NP (DT the) (NNP Simpson) (NN case))))
+sid=9 spanning 19 until 20 headed by 19 parsed as (PRP$ her)
+sid=9 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (NNP Simpson) (NN case))
+sid=9 spanning 23 until 24 headed by 23 parsed as Simpson
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT These) (NNS days))
+sid=10 spanning 3 until 4 headed by 3 parsed as (NP (NNP Clark))
+sid=10 spanning 5 until 7 headed by 6 parsed as (NP (NN family) (NN law))
+sid=10 spanning 8 until 9 headed by 8 parsed as (NP (NNP L.A.))
+sid=10 spanning 12 until 17 headed by 13 parsed as (NP (NP (JJ frequent) (NNS appearances)) (PP (IN on) (NP (NN network) (NN television))))
+sid=10 spanning 15 until 17 headed by 16 parsed as (NP (NN network) (NN television))
+sid=11 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=11 spanning 7 until 9 headed by 8 parsed as (NP (NNP Bob) (NNP Glascoff))
+(end predicted mentions)
+---------gold clusters--------
+14 12 | { 'her' 'his ex-wife Nicole' }
+33 2 27 10 24 13 | { 'Simpson' 'O.J. Simpson' 'Simpson' 'O.J. Simpson' 'Simpson' 'his' }
+8 23 32 | { 'the case' 'the Simpson case' 'the Simpson case' }
+11 3 | { 'acquitted' 'an acquittal' }
+4 0 | { 'today 's' 'today' }
+36 5 | { 'Headliners' 'Headliners' }
+29 1 26 15 | { 'the trial' 'the O.J. Simpson trial' 'the Simpson trial' 'The trial' }
+38 6 37 | { 'Bob Glascoff' 'Bob Glascoff' 'I' }
+35 20 | { 'L.A.' 'Los Angeles' }
+16 31 21 7 22 25 9 19 18 30 28 34 17 | { 'chief prosecutor Marcia Clark' 'her' 'Clark' 'the lead prosecutor in the case' 'her' 'Her' 'she' 'She' 'her' 'she' 'the twice - divorced mother of two' 'Clark' 'Clark' }
+(end gold clusters)

@@ -1,0 +1,45 @@
+---------gloss--------
+(0) [4m[34m{An emotional homecoming tonight for the surviving crew members of the `` USS Cole . ''}[0m 
+(1) Hundreds of friends and family members greeted [4m[36m{them}[0m today as [4m[36m{they}[0m [4m[34m{arrived}[0m in Norfolk , Virginia . 
+(2) 17 sailors were killed , 39 others injured , when that terror bomb hit [4m[35m{their ship}[0m in Yemen . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0022); part 000
+sentences:
+AnaDTOPER0emotionalemotionalJJOPER0homecominghomecomingNNOPER0tonighttonightNNTIMEPER0forforINOPER0thetheDTOPER0survivingsurviveVBGOPER0crewcrewNNOPER0membersmemberNNSOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1...OPER1''''''OPER0(ROOT (NP (NP (DT An) (JJ emotional) (NN homecoming) (NN tonight)) (PP (IN for) (NP (NP (DT the) (VBG surviving) (NN crew) (NNS members)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))) (. .) ('' '')))
+HundredshundredNNSCARDINALPER0ofofINOPER0friendsfriendNNSOPER0andandCCOPER0familyfamilyNNOPER0membersmemberNNSOPER0greetedgreetVBDOPER0themtheyPRPOPER0todaytodayNNDATEPER0asasINOPER0theytheyPRPOPER0arrivedarriveVBDOPER0ininINOPER0NorfolkNorfolkNNPGPEPER0,,,OPER0VirginiaVirginiaNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNS Hundreds)) (PP (IN of) (NP (NP (NNS friends)) (CC and) (NP (NN family) (NNS members))))) (VP (VBD greeted) (NP (PRP them)) (NP (NN today)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD arrived) (PP (IN in) (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))))))) (. .)))
+1717CDCARDINALPER0sailorssailorNNSOPER0werebeVBDOPER0killedkillVBNOPER0,,,OPER03939CDCARDINALPER0othersotherNNSOPER0injuredinjureVBNOPER0,,,OPER0whenwhenWRBOPER0thatthatDTOPER0terrorterrorNNOPER0bombbombNNOPER0hithitVBDOPER0theirtheyPRP$OPER0shipshipNNOPER0ininINOPER0YemenYemenNNPGPEPER0...OPER0(ROOT (S (S (NP (CD 17) (NNS sailors)) (VP (VBD were) (VP (VBN killed)))) (, ,) (S (NP (CD 39) (NNS others)) (VP (VBN injured))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT that) (NN terror) (NN bomb)) (VP (VBD hit) (NP (PRP$ their) (NN ship)) (PP (IN in) (NP (NNP Yemen)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 16 headed by 3 parsed as (NP (NP (DT An) (JJ emotional) (NN homecoming) (NN tonight)) (PP (IN for) (NP (NP (DT the) (VBG surviving) (NN crew) (NNS members)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))) (. .) ('' ''))
+sid=0 spanning 5 until 14 headed by 8 parsed as (NP (NP (DT the) (VBG surviving) (NN crew) (NNS members)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP them))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=1 spanning 11 until 12 headed by 11 parsed as arrived
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ their) (NN ship))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 16 headed by 3 parsed as (NP (NP (DT An) (JJ emotional) (NN homecoming) (NN tonight)) (PP (IN for) (NP (NP (DT the) (VBG surviving) (NN crew) (NNS members)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))) (. .) ('' ''))
+sid=0 spanning 5 until 14 headed by 8 parsed as (NP (NP (DT the) (VBG surviving) (NN crew) (NNS members)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Hundreds)) (PP (IN of) (NP (NP (NNS friends)) (CC and) (NP (NN family) (NNS members)))))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NN family) (NNS members))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP them))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))
+sid=1 spanning 13 until 16 headed by 13 parsed as (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Virginia))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (CD 17) (NNS sailors))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (CD 39) (NNS others))
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (DT that) (NN terror) (NN bomb))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ their) (NN ship))
+sid=2 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NNP Yemen))
+(end predicted mentions)
+---------gold clusters--------
+0 5 | { 'An emotional homecoming tonight for the surviving crew members of the `` USS Cole . ''' 'arrived' }
+2 6 | { 'the `` USS Cole' 'their ship' }
+3 4 1 | { 'them' 'they' 'the surviving crew members of the `` USS Cole' }
+(end gold clusters)

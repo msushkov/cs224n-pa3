@@ -1,0 +1,111 @@
+---------gloss--------
+(0) [33m{Staar Surgical Co. 's}[0m board said that [4m[34m{it}[0m has removed [32m{Thomas R. Waggoner}[0m as president and chief executive officer and that [31m{John R. Wolf , formerly executive vice president , sales and marketing ,}[0m has been named president and chief executive officer . 
+(1) [32m{Mr. Waggoner}[0m has been involved in a dispute with [4m[34m{the board}[0m since August , when [32m{he}[0m ousted [4m[35m{all the directors}[0m . 
+(2) Later [4m[35m{they}[0m said [4m[35m{they}[0m fired [32m{him}[0m , and two directors [4m[36m{attempted}[0m to place [4m[34m{the company}[0m under bankruptcy - law protection . 
+(3) A federal judge turned down [4m[36m{the Chapter 11 petition}[0m . 
+(4) [4m[34m{The company 's}[0m latest announcement said [32m{Mr. Waggoner}[0m will remain a director of [33m{Staar , a maker of products for small - incision surgery}[0m . 
+(5) [31m{Mr. Wolf}[0m and other members of [4m[34m{the board}[0m declined to comment on [4m[33m{the announcement}[0m . 
+(6) [32m{Mr. Waggoner}[0m could n't be reached . 
+(7) [4m[34m{The Staar board}[0m also said that John R. Ford resigned as a director , and that [31m{Mr. Wolf}[0m was named a member of [4m[34m{the board}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1215); part 000
+sentences:
+StaarStaarNNPORGPER0SurgicalsurgicalJJORGPER0Co.Co.NNPORGPER0's'sPOSORGPER0boardboardNNOPER0saidsayVBDOPER0thatthatINOPER0ititPRPOPER0hashaveVBZOPER0removedremoveVBNOPER0ThomasThomasNNPPERSONPER0R.R.NNPPERSONPER0WaggonerWaggonerNNPPERSONPER0asasINOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0andandCCOPER0thatthatINOPER0JohnJohnNNPPERSONPER0R.R.NNPPERSONPER0WolfWolfNNPPERSONPER0,,,OPER0formerlyformerlyRBOPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0,,,OPER0salessaleNNSOPER0andandCCOPER0marketingmarketingNNOPER0,,,OPER0hashaveVBZOPER0beenbeVBNOPER0namednameVBNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Staar)) (JJ Surgical) (NNP Co.) (POS 's)) (NN board)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN removed) (NP (NNP Thomas) (NNP R.) (NNP Waggoner)) (PP (IN as) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))))))) (CC and) (SBAR (IN that) (S (NP (NP (NNP John) (NNP R.) (NNP Wolf)) (, ,) (NP (ADVP (RB formerly)) (NP (JJ executive) (NN vice) (NN president)) (, ,) (NP (NNS sales) (CC and) (NN marketing)) (, ,))) (VP (VBZ has) (VP (VBN been) (VP (VBN named) (S (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))))))))))) (. .)))
+Mr.Mr.NNPOPER0WaggonerWaggonerNNPPERSONPER0hashaveVBZOPER0beenbeVBNOPER0involvedinvolveVBNOPER0ininINOPER0aaDTOPER0disputedisputeNNOPER0withwithINOPER0thetheDTOPER0boardboardNNOPER0sincesinceINOPER0AugustAugustNNPDATEPER0,,,OPER0whenwhenWRBOPER0hehePRPOPER0oustedoustVBDOPER0allallPDTOPER0thetheDTOPER0directorsdirectorNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Waggoner)) (VP (VBZ has) (VP (VBN been) (VP (VBN involved) (PP (IN in) (NP (NP (DT a) (NN dispute)) (PP (IN with) (NP (DT the) (NN board))))) (PP (IN since) (NP (NP (NNP August)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD ousted) (NP (PDT all) (DT the) (NNS directors)))))))))) (. .)))
+LaterlaterRBOPER0theytheyPRPOPER0saidsayVBDOPER0theytheyPRPOPER0firedfireVBDOPER0himhePRPOPER0,,,OPER0andandCCOPER0twotwoCDCARDINALPER0directorsdirectorNNSOPER0attemptedattemptVBDOPER0totoTOOPER0placeplaceVBOPER0thetheDTOPER0companycompanyNNOPER0underunderINOPER0bankruptcybankruptcyNNLAWPER0--HYPHLAWPER0lawlawNNLAWPER0protectionprotectionNNOPER0...OPER0(ROOT (S (S (ADVP (RB Later)) (NP (PRP they)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD fired) (NP (PRP him))))))) (, ,) (CC and) (S (NP (CD two) (NNS directors)) (VP (VBD attempted) (S (VP (TO to) (VP (VB place) (NP (DT the) (NN company)) (PP (IN under) (NP (NML (NN bankruptcy) (HYPH -) (NN law)) (NN protection)))))))) (. .)))
+AaDTOPER0federalfederalJJOPER0judgejudgeNNOPER0turnedturnVBDOPER0downdownRPOPER0thetheDTOPER0ChapterchapterNNLAWPER01111CDLAWPER0petitionpetitionNNOPER0...OPER0(ROOT (S (NP (DT A) (JJ federal) (NN judge)) (VP (VBD turned) (PRT (RP down)) (NP (DT the) (NML (NN Chapter) (CD 11)) (NN petition))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0's'sPOSOPER0latestlatestJJSOPER0announcementannouncementNNOPER0saidsayVBDOPER0Mr.Mr.NNPOPER0WaggonerWaggonerNNPPERSONPER0willwillMDOPER0remainremainVBOPER0aaDTOPER0directordirectorNNOPER0ofofINOPER0StaarStaarNNPORGPER0,,,OPER0aaDTOPER0makermakerNNOPER0ofofINOPER0productsproductNNSOPER0forforINOPER0smallsmallJJOPER0--HYPHOPER0incisionincisionNNOPER0surgerysurgeryNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN company) (POS 's)) (JJS latest) (NN announcement)) (VP (VBD said) (SBAR (S (NP (NNP Mr.) (NNP Waggoner)) (VP (MD will) (VP (VB remain) (NP (NP (DT a) (NN director)) (PP (IN of) (NP (NP (NNP Staar)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (NML (JJ small) (HYPH -) (NN incision)) (NN surgery)))))))))))))) (. .)))
+Mr.Mr.NNPOPER0WolfWolfNNPPERSONPER0andandCCOPER0otherotherJJOPER0membersmemberNNSOPER0ofofINOPER0thetheDTOPER0boardboardNNOPER0declineddeclineVBDOPER0totoTOOPER0commentcommentVBOPER0ononINOPER0thetheDTOPER0announcementannouncementNNOPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Wolf)) (CC and) (NP (NP (JJ other) (NNS members)) (PP (IN of) (NP (DT the) (NN board))))) (VP (VBD declined) (S (VP (TO to) (VP (VB comment) (PP (IN on) (NP (DT the) (NN announcement))))))) (. .)))
+Mr.Mr.NNPOPER0WaggonerWaggonerNNPPERSONPER0couldcouldMDOPER0n'tnotRBOPER0bebeVBOPER0reachedreachVBNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Waggoner)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached)))) (. .)))
+ThetheDTOPER0StaarStaarNNPORGPER0boardboardNNPOPER0alsoalsoRBOPER0saidsayVBDOPER0thatthatINOPER0JohnJohnNNPPERSONPER0R.R.NNPPERSONPER0FordFordNNPPERSONPER0resignedresignVBDOPER0asasINOPER0aaDTOPER0directordirectorNNOPER0,,,OPER0andandCCOPER0thatthatINOPER0Mr.Mr.NNPOPER0WolfWolfNNPPERSONPER0wasbeVBDOPER0namednameVBNOPER0aaDTOPER0membermemberNNOPER0ofofINOPER0thetheDTOPER0boardboardNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Staar) (NNP board)) (ADVP (RB also)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (NNP John) (NNP R.) (NNP Ford)) (VP (VBD resigned) (PP (IN as) (NP (DT a) (NN director)))))) (, ,) (CC and) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Wolf)) (VP (VBD was) (VP (VBN named) (S (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT the) (NN board))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NP (NNP Staar)) (JJ Surgical) (NNP Co.) (POS 's)) (NN board))
+sid=0 spanning 0 until 4 headed by 0 parsed as (NP (NNP Staar))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (NNP Thomas) (NNP R.) (NNP Waggoner))
+sid=0 spanning 21 until 34 headed by 23 parsed as (NP (NP (NNP John) (NNP R.) (NNP Wolf)) (, ,) (NP (ADVP (RB formerly)) (NP (JJ executive) (NN vice) (NN president)) (, ,) (NP (NNS sales) (CC and) (NN marketing)) (, ,)))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Waggoner))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN board))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=1 spanning 17 until 20 headed by 19 parsed as (NP (PDT all) (DT the) (NNS directors))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP they))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (PRP him))
+sid=2 spanning 10 until 11 headed by 10 parsed as attempted
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN company))
+sid=3 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (NML (NN Chapter) (CD 11)) (NN petition))
+sid=4 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NN company) (POS 's)) (JJS latest) (NN announcement))
+sid=4 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN company) (POS 's))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (NNP Mr.) (NNP Waggoner))
+sid=4 spanning 13 until 24 headed by 13 parsed as (NP (NP (NNP Staar)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (NML (JJ small) (HYPH -) (NN incision)) (NN surgery)))))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Wolf)) (CC and) (NP (NP (JJ other) (NNS members)) (PP (IN of) (NP (DT the) (NN board)))))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN board))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN announcement))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Waggoner))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Staar) (NNP board))
+sid=7 spanning 1 until 2 headed by 1 parsed as Staar
+sid=7 spanning 16 until 18 headed by 17 parsed as (NP (NNP Mr.) (NNP Wolf))
+sid=7 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN board))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NP (NNP Staar)) (JJ Surgical) (NNP Co.) (POS 's)) (NN board))
+sid=0 spanning 0 until 4 headed by 0 parsed as (NP (NNP Staar))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (NNP Thomas) (NNP R.) (NNP Waggoner))
+sid=0 spanning 14 until 19 headed by 14 parsed as (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (NP (NNP John) (NNP R.) (NNP Wolf)) (, ,) (NP (ADVP (RB formerly)) (NP (JJ executive) (NN vice) (NN president)) (, ,) (NP (NNS sales) (CC and) (NN marketing)) (, ,)))
+sid=0 spanning 21 until 34 headed by 23 parsed as (NP (NP (NNP John) (NNP R.) (NNP Wolf)) (, ,) (NP (ADVP (RB formerly)) (NP (JJ executive) (NN vice) (NN president)) (, ,) (NP (NNS sales) (CC and) (NN marketing)) (, ,)))
+sid=0 spanning 25 until 34 headed by 28 parsed as (NP (ADVP (RB formerly)) (NP (JJ executive) (NN vice) (NN president)) (, ,) (NP (NNS sales) (CC and) (NN marketing)) (, ,))
+sid=0 spanning 30 until 33 headed by 30 parsed as (NP (NNS sales) (CC and) (NN marketing))
+sid=0 spanning 37 until 42 headed by 37 parsed as (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Waggoner))
+sid=1 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT a) (NN dispute)) (PP (IN with) (NP (DT the) (NN board))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN board))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP August)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD ousted) (NP (PDT all) (DT the) (NNS directors))))))
+sid=1 spanning 12 until 20 headed by 12 parsed as (NP (NP (NNP August)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD ousted) (NP (PDT all) (DT the) (NNS directors))))))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP they))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (PRP him))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (CD two) (NNS directors))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN company))
+sid=2 spanning 16 until 20 headed by 19 parsed as (NP (NML (NN bankruptcy) (HYPH -) (NN law)) (NN protection))
+sid=2 spanning 16 until 19 headed by 18 parsed as law
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ federal) (NN judge))
+sid=3 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (NML (NN Chapter) (CD 11)) (NN petition))
+sid=3 spanning 6 until 8 headed by 6 parsed as Chapter
+sid=4 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NN company) (POS 's)) (JJS latest) (NN announcement))
+sid=4 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN company) (POS 's))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (NNP Mr.) (NNP Waggoner))
+sid=4 spanning 10 until 24 headed by 11 parsed as (NP (NP (DT a) (NN director)) (PP (IN of) (NP (NP (NNP Staar)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (NML (JJ small) (HYPH -) (NN incision)) (NN surgery)))))))))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (NP (NNP Staar)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (NML (JJ small) (HYPH -) (NN incision)) (NN surgery)))))))
+sid=4 spanning 13 until 24 headed by 13 parsed as (NP (NP (NNP Staar)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (NML (JJ small) (HYPH -) (NN incision)) (NN surgery)))))))
+sid=4 spanning 15 until 24 headed by 16 parsed as (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (NML (JJ small) (HYPH -) (NN incision)) (NN surgery))))))
+sid=4 spanning 18 until 24 headed by 18 parsed as (NP (NP (NNS products)) (PP (IN for) (NP (NML (JJ small) (HYPH -) (NN incision)) (NN surgery))))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Wolf)) (CC and) (NP (NP (JJ other) (NNS members)) (PP (IN of) (NP (DT the) (NN board)))))
+sid=5 spanning 0 until 8 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Wolf)) (CC and) (NP (NP (JJ other) (NNS members)) (PP (IN of) (NP (DT the) (NN board)))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Wolf))
+sid=5 spanning 3 until 8 headed by 4 parsed as (NP (NP (JJ other) (NNS members)) (PP (IN of) (NP (DT the) (NN board))))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN board))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN announcement))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Waggoner))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Staar) (NNP board))
+sid=7 spanning 1 until 2 headed by 1 parsed as Staar
+sid=7 spanning 6 until 9 headed by 8 parsed as (NP (NNP John) (NNP R.) (NNP Ford))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (DT a) (NN director))
+sid=7 spanning 16 until 18 headed by 17 parsed as (NP (NNP Mr.) (NNP Wolf))
+sid=7 spanning 20 until 25 headed by 21 parsed as (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT the) (NN board))))
+sid=7 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN board))
+(end predicted mentions)
+---------gold clusters--------
+15 21 | { 'The company 's latest announcement' 'the announcement' }
+23 16 0 13 20 6 26 2 | { 'The Staar board' 'The company 's' 'Staar Surgical Co. 's board' 'the company' 'the board' 'the board' 'the board' 'it' }
+8 9 10 | { 'all the directors' 'they' 'they' }
+12 14 | { 'attempted' 'the Chapter 11 petition' }
+25 19 4 | { 'Mr. Wolf' 'Mr. Wolf' 'John R. Wolf , formerly executive vice president , sales and marketing ,' }
+11 7 22 17 3 5 | { 'him' 'he' 'Mr. Waggoner' 'Mr. Waggoner' 'Thomas R. Waggoner' 'Mr. Waggoner' }
+24 18 1 | { 'Staar' 'Staar , a maker of products for small - incision surgery' 'Staar Surgical Co. 's' }
+(end gold clusters)

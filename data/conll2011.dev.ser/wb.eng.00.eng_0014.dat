@@ -1,0 +1,173 @@
+---------gloss--------
+(0) In another episode , [1m[34m{four chain - smoking monks}[0m gamble with [1m[34m{their}[0m holy medallions in a card game . 
+(1) `` [1m[32m{I}[0m 'll open with a virgin , '' says [1m[32m{one}[0m . 
+(2) Another plays a `` father . '' 
+(3) [3m[31m{Bunuel}[0m believed reality is actually a smoke screen for hidden urges . 
+(4) [3m[31m{He}[0m used the absurd to imply `` an attack on specific abuses , not on some safely vague condition of man '' -LRB- Durgnat 65 -RRB- . 
+(5) In Le Fantome de la Liberte [3m[31m{Bunuel}[0m doubts not so much the possibility for [1m[36m{society 's redemption}[0m as [1m[36m{its}[0m likelihood . 
+(6) `` We have been rendered unwittingly comfortable within [1m[33m{our psychic cages}[0m to the point where we prefer [1m[33m{them}[0m to liberty , an experience and aspiration we neither understand or desire '' -LRB- Mellen 331 -RRB- . 
+(7) For fifty years , [3m[31m{Luis Bunuel}[0m made films about society 's dilemmas . 
+(8) [3m[31m{His}[0m art is [3m[31m{his}[0m declaration of confidence in a human race dominated by [1m[35m{a bourgeoisie given to hypocrisy , sadism , and above all , a disrespect for its own capacity to live differently and better}[0m . 
+(9) [3m[31m{He}[0m summed it all up [3m[31m{himself}[0m : 
+(10) As [3m[31m{I}[0m drift toward [3m[31m{my}[0m last sigh , [3m[31m{I}[0m often imagine a final joke . 
+(11) [3m[31m{I}[0m convoke around [3m[31m{my}[0m deathbed [3m[31m{my}[0m friends who are confirmed atheists as [3m[31m{I}[0m am . 
+(12) Then a priest , whom [3m[31m{I}[0m have summoned , arrives ; 
+(13) and to the horror of [3m[31m{my}[0m friends , [3m[31m{I}[0m make [3m[31m{my}[0m confession , ask for absolution for [3m[31m{my}[0m sins , and receive extreme unction . 
+(14) After which [3m[31m{I}[0m turn over on [3m[31m{my}[0m side and expire . 
+(15) But will [3m[31m{I}[0m have the strength to joke at that moment ? 
+(16) [3m[31m{Luis Bunuel}[0m died in 1983 . 
+(end gloss)
+---------document--------
+(wb/eng/00/eng_0014); part 003
+sentences:
+IninINO  anotheranotherDTO  episodeepisodeNNO  ,,,O  fourfourCDCARDINAL  chainchainNNO  --HYPHO  smokingsmokeVBGO  monksmonkNNSO  gamblegambleVBO  withwithINO  theirtheyPRP$O  holyholyJJO  medallionsmedallionNNSO  ininINO  aaDTO  cardcardNNO  gamegameNNO  ...O  (ROOT (S (PP (IN In) (NP (DT another) (NN episode))) (, ,) (NP (CD four) (ADJP (NN chain) (HYPH -) (VBG smoking)) (NNS monks)) (VP (VB gamble) (PP (IN with) (NP (NP (PRP$ their) (JJ holy) (NNS medallions)) (PP (IN in) (NP (DT a) (NN card) (NN game)))))) (. .)))
+``````O  IIPRPO  'll'llMDO  openopenVBO  withwithINO  aaDTO  virginvirginJJO  ,,,O  ''''''O  sayssayVBZO  oneoneCDCARDINAL  ...O  (ROOT (SINV (`` ``) (S (NP (PRP I)) (VP (MD 'll) (VP (VB open) (PP (IN with) (NP (DT a) (JJ virgin)))))) (, ,) ('' '') (VP (VBZ says)) (NP (CD one)) (. .)))
+AnotheranotherDTO  playsplayVBZO  aaDTO  ``````O  fatherfatherNNO  ...O  ''''''O  (ROOT (S (NP (DT Another)) (VP (VBZ plays) (NP (DT a) (`` ``) (NN father))) (. .) ('' '')))
+BunuelBunuelNNPORG  believedbelieveVBDO  realityrealityNNO  isbeVBZO  actuallyactuallyRBO  aaDTO  smokesmokeNNO  screenscreenNNO  forforINO  hiddenhiddenJJO  urgesurgeVBZO  ...O  (ROOT (S (NP (NNP Bunuel)) (VP (VBD believed) (SBAR (S (NP (NN reality)) (VP (VBZ is) (ADVP (RB actually)) (NP (NP (DT a) (NN smoke) (NN screen)) (PP (IN for) (NP (NP (JJ hidden)) (VP (VBZ urges))))))))) (. .)))
+HehePRPO  useduseVBDO  thetheDTO  absurdabsurdJJO  totoTOO  implyimplyVBO  ``````O  anaDTO  attackattackNNO  ononINO  specificspecificJJO  abusesabuseNNSO  ,,,O  notnotRBO  ononINO  somesomeDTO  safelysafelyRBO  vaguevagueJJO  conditionconditionNNO  ofofINO  manmanNNO  ''''''O  -LRB--lrb--LRB-O  DurgnatDurgnatNNPO  6565CDQUANTITY  -RRB--rrb--RRB-O  ...O  (ROOT (S (NP (PRP He)) (VP (VBD used) (NP (DT the) (JJ absurd)) (S (VP (TO to) (VP (VB imply) (`` ``) (NP (NP (DT an) (NN attack)) (PP (PP (IN on) (NP (JJ specific) (NNS abuses))) (, ,) (RB not) (PP (IN on) (NP (NP (DT some) (ADJP (RB safely) (JJ vague)) (NN condition)) (PP (IN of) (NP (NN man))))))) ('' '') (-LRB- -LRB-) (NP (NNP Durgnat) (CD 65)) (-RRB- -RRB-))))) (. .)))
+IninINO  LeLeNNPO  FantomeFantomeNNPPERSON  dedeFWPERSON  lalaFWPERSON  LiberteLiberteNNPPERSON  BunuelBunuelNNPPERSON  doubtsdoubtVBZO  notnotRBO  sosoRBO  muchmuchRBO  thetheDTO  possibilitypossibilityNNO  forforINO  societysocietyNNO  's'sPOSO  redemptionredemptionNNO  asasINO  itsitsPRP$O  likelihoodlikelihoodNNO  ...O  (ROOT (S (PP (IN In) (NP (NNP Le) (NNP Fantome) (FW de) (FW la) (NNP Liberte))) (NP (NNP Bunuel)) (VP (VBZ doubts) (RB not) (ADVP (RB so) (RB much)) (NP (NP (DT the) (NN possibility)) (PP (IN for) (NP (NP (NP (NN society) (POS 's)) (NN redemption)) (PP (IN as) (NP (PRP$ its) (NN likelihood))))))) (. .)))
+``````O  WewePRPO  havehaveVBPO  beenbeVBNO  renderedrenderVBNO  unwittinglyunwittinglyRBO  comfortablecomfortableJJO  withinwithinINO  ourwePRP$O  psychicpsychicJJO  cagescageNNSO  totoINO  thetheDTO  pointpointNNO  wherewhereWRBO  wewePRPO  preferpreferVBPO  themtheyPRPO  totoINO  libertylibertyNNO  ,,,O  anaDTO  experienceexperienceNNO  andandCCO  aspirationaspirationNNO  wewePRPO  neitherneitherRBO  understandunderstandVBPO  ororCCO  desiredesireVBPO  ''''''O  -LRB--lrb--LRB-O  MellenMellenNNPO  331331CDQUANTITY  -RRB--rrb--RRB-O  ...O  (ROOT (S (`` ``) (NP (PRP We)) (VP (VBP have) (VP (VBN been) (VP (VBN rendered) (ADJP (RB unwittingly) (JJ comfortable) (PP (IN within) (NP (PRP$ our) (JJ psychic) (NNS cages))) (PP (IN to) (NP (NP (DT the) (NN point)) (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (VP (VBP prefer) (NP (PRP them)) (PP (IN to) (NP (NP (NN liberty)) (, ,) (NP (DT an) (NN experience)) (CC and) (NP (NN aspiration)))) (S (NP (PRP we)) (ADVP (RB neither)) (VP (VBP understand)))) (CC or) (VP (VBP desire)))))))) ('' '') (-LRB- -LRB-) (NP (NNP Mellen) (CD 331)) (-RRB- -RRB-)))) (. .)))
+ForforINO  fiftyfiftyCDDATE  yearsyearNNSDATE  ,,,O  LuisLuisNNPPERSON  BunuelBunuelNNPPERSON  mademakeVBDO  filmsfilmNNSO  aboutaboutINO  societysocietyNNO  's'sPOSO  dilemmasdilemmaNNSO  ...O  (ROOT (S (PP (IN For) (NP (CD fifty) (NNS years))) (, ,) (NP (NNP Luis) (NNP Bunuel)) (VP (VBD made) (NP (NP (NNS films)) (PP (IN about) (NP (NP (NN society) (POS 's)) (NNS dilemmas))))) (. .)))
+HishePRP$O  artartNNO  isbeVBZO  hishePRP$O  declarationdeclarationNNO  ofofINO  confidenceconfidenceNNO  ininINO  aaDTO  humanhumanJJO  raceraceNNO  dominateddominateVBNO  bybyINO  aaDTO  bourgeoisiebourgeoisieNNO  givengiveVBNO  totoINO  hypocrisyhypocrisyNNO  ,,,O  sadismsadismNNO  ,,,O  andandCCO  aboveaboveINO  allallDTO  ,,,O  aaDTO  disrespectdisrespectNNO  forforINO  itsitsPRP$O  ownownJJO  capacitycapacityNNO  totoTOO  liveliveVBO  differentlydifferentlyRBO  andandCCO  betterbetterRBRO  ...O  (ROOT (S (NP (PRP$ His) (NN art)) (VP (VBZ is) (NP (NP (PRP$ his) (NN declaration)) (PP (IN of) (NP (NP (NP (NN confidence)) (PP (IN in) (NP (NP (DT a) (JJ human) (NN race)) (VP (VBN dominated) (PP (IN by) (NP (NP (DT a) (NN bourgeoisie)) (VP (VBN given) (PP (IN to) (NP (NN hypocrisy)))))))))) (, ,) (NP (NN sadism)) (, ,) (CC and) (PP (IN above) (NP (DT all))) (, ,) (NP (DT a) (NN disrespect)))) (SBAR (IN for) (S (NP (PRP$ its) (JJ own) (NN capacity)) (VP (TO to) (VP (VB live) (ADVP (RB differently)) (ADVP (CC and) (RBR better)))))))) (. .)))
+HehePRPO  summedsumVBDO  ititPRPO  allallDTO  upupINO  himselfhimselfPRPO  :::O  (ROOT (S (NP (PRP He)) (VP (VBD summed) (NP (NP (PRP it)) (NP (DT all))) (PP (IN up) (NP (PRP himself)))) (: :)))
+AsasINO  IIPRPO  driftdriftVBO  towardtowardINO  mymyPRP$O  lastlastJJO  sighsighNNO  ,,,O  IIPRPO  oftenoftenRBO  imagineimagineVBPO  aaDTO  finalfinalJJO  jokejokeNNO  ...O  (ROOT (S (SBAR (IN As) (S (NP (PRP I)) (VP (VB drift) (PP (IN toward) (NP (PRP$ my) (JJ last) (NN sigh)))))) (, ,) (NP (PRP I)) (ADVP (RB often)) (VP (VBP imagine) (NP (DT a) (JJ final) (NN joke))) (. .)))
+IIPRPO  convokeconvokeVBPO  aroundaroundINO  mymyPRP$O  deathbeddeathbedJJO  mymyPRP$O  friendsfriendNNSO  whowhoWPO  arebeVBPO  confirmedconfirmVBNO  atheistsatheistNNSO  asasINO  IIPRPO  ambeVBPO  ...O  (ROOT (S (NP (PRP I)) (VP (VBP convoke) (PP (IN around) (NP (NP (PRP$ my) (JJ deathbed) (PRP$ my) (NNS friends)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBN confirmed) (NP (NNS atheists) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP am)))))))))))) (. .)))
+ThenthenRBO  aaDTO  priestpriestNNO  ,,,O  whomwhomWPO  IIPRPO  havehaveVBPO  summonedsummonVBNO  ,,,O  arrivesarriveVBZO  ;;:O  (ROOT (S (ADVP (RB Then)) (NP (NP (DT a) (NN priest)) (, ,) (SBAR (WHNP (WP whom)) (S (NP (PRP I)) (VP (VBP have) (VP (VBN summoned))))) (, ,)) (VP (VBZ arrives)) (: ;)))
+andandCCO  totoINO  thetheDTO  horrorhorrorNNO  ofofINO  mymyPRP$O  friendsfriendNNSO  ,,,O  IIPRPO  makemakeVBPO  mymyPRP$O  confessionconfessionNNO  ,,,O  askaskVBPO  forforINO  absolutionabsolutionNNO  forforINO  mymyPRP$O  sinssinNNSO  ,,,O  andandCCO  receivereceiveVBPO  extremeextremeJJO  unctionunctionNNO  ...O  (ROOT (S (CC and) (PP (IN to) (NP (NP (DT the) (NN horror)) (PP (IN of) (NP (PRP$ my) (NNS friends))))) (, ,) (NP (PRP I)) (VP (VP (VBP make) (NP (PRP$ my) (NN confession))) (, ,) (VP (VBP ask) (PP (IN for) (NP (NP (NN absolution)) (PP (IN for) (NP (PRP$ my) (NNS sins)))))) (, ,) (CC and) (VP (VBP receive) (NP (JJ extreme) (NN unction)))) (. .)))
+AfterafterINO  whichwhichWDTO  IIPRPO  turnturnVBO  overoverRPO  ononINO  mymyPRP$O  sidesideNNO  andandCCO  expireexpireVBO  ...O  (ROOT (SBAR (WHPP (IN After) (WHNP (WDT which))) (S (NP (PRP I)) (VP (VP (VB turn) (PRT (RP over)) (PP (IN on) (NP (PRP$ my) (NN side)))) (CC and) (VP (VB expire)))) (. .)))
+ButbutCCO  willwillMDO  IIPRPO  havehaveVBO  thetheDTO  strengthstrengthNNO  totoTOO  jokejokeNNO  atatINO  thatthatDTO  momentmomentNNO  ??.O  (ROOT (SQ (CC But) (MD will) (NP (PRP I)) (VP (VB have) (NP (NP (DT the) (NN strength)) (SBAR (S (VP (TO to) (VP (NN joke) (PP (IN at) (NP (DT that) (NN moment))))))))) (. ?)))
+LuisLuisNNPPERSON  BunuelBunuelNNPPERSON  dieddieVBDO  ininINO  19831983CDDATE  ...O  (ROOT (S (NP (NNP Luis) (NNP Bunuel)) (VP (VBD died) (PP (IN in) (NP (CD 1983)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 9 headed by 8 parsed as (NP (CD four) (ADJP (NN chain) (HYPH -) (VBG smoking)) (NNS monks))
+sid=0 spanning 11 until 12 headed by 11 parsed as their
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (CD one))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Bunuel))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNP Bunuel))
+sid=5 spanning 14 until 17 headed by 16 parsed as (NP (NP (NP (NN society) (POS 's)) (NN redemption)) (PP (IN as) (NP (PRP$ its) (NN likelihood))))
+sid=5 spanning 18 until 19 headed by 18 parsed as its
+sid=6 spanning 8 until 11 headed by 10 parsed as (NP (PRP$ our) (JJ psychic) (NNS cages))
+sid=6 spanning 17 until 18 headed by 17 parsed as (NP (PRP them))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (NNP Luis) (NNP Bunuel))
+sid=8 spanning 0 until 1 headed by 0 parsed as His
+sid=8 spanning 3 until 4 headed by 3 parsed as his
+sid=8 spanning 13 until 36 headed by 14 parsed as (NP (NP (DT a) (NN bourgeoisie)) (VP (VBN given) (PP (IN to) (NP (NN hypocrisy)))))
+sid=8 spanning 28 until 29 headed by 28 parsed as its
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP himself))
+sid=10 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=10 spanning 4 until 5 headed by 4 parsed as my
+sid=10 spanning 8 until 9 headed by 8 parsed as (NP (PRP I))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=11 spanning 3 until 4 headed by 3 parsed as my
+sid=11 spanning 5 until 6 headed by 5 parsed as my
+sid=11 spanning 12 until 13 headed by 12 parsed as (NP (PRP I))
+sid=12 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=13 spanning 5 until 6 headed by 5 parsed as my
+sid=13 spanning 8 until 9 headed by 8 parsed as (NP (PRP I))
+sid=13 spanning 10 until 11 headed by 10 parsed as my
+sid=13 spanning 17 until 18 headed by 17 parsed as my
+sid=14 spanning 2 until 3 headed by 2 parsed as (NP (PRP I))
+sid=14 spanning 6 until 7 headed by 6 parsed as my
+sid=15 spanning 2 until 3 headed by 2 parsed as (NP (PRP I))
+sid=16 spanning 0 until 2 headed by 1 parsed as (NP (NNP Luis) (NNP Bunuel))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (DT another) (NN episode))
+sid=0 spanning 4 until 9 headed by 8 parsed as (NP (CD four) (ADJP (NN chain) (HYPH -) (VBG smoking)) (NNS monks))
+sid=0 spanning 11 until 18 headed by 13 parsed as (NP (NP (PRP$ their) (JJ holy) (NNS medallions)) (PP (IN in) (NP (DT a) (NN card) (NN game))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (PRP$ their)
+sid=0 spanning 15 until 18 headed by 17 parsed as (NP (DT a) (NN card) (NN game))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT a) (JJ virgin))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (CD one))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT Another))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT a) (`` ``) (NN father))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Bunuel))
+sid=3 spanning 5 until 11 headed by 7 parsed as (NP (NP (DT a) (NN smoke) (NN screen)) (PP (IN for) (NP (NP (JJ hidden)) (VP (VBZ urges)))))
+sid=3 spanning 9 until 11 headed by 9 parsed as (NP (NP (JJ hidden)) (VP (VBZ urges)))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (JJ absurd))
+sid=4 spanning 7 until 21 headed by 8 parsed as (NP (NP (DT an) (NN attack)) (PP (PP (IN on) (NP (JJ specific) (NNS abuses))) (, ,) (RB not) (PP (IN on) (NP (NP (DT some) (ADJP (RB safely) (JJ vague)) (NN condition)) (PP (IN of) (NP (NN man)))))))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (JJ specific) (NNS abuses))
+sid=4 spanning 15 until 21 headed by 18 parsed as (NP (NP (DT some) (ADJP (RB safely) (JJ vague)) (NN condition)) (PP (IN of) (NP (NN man))))
+sid=4 spanning 23 until 25 headed by 23 parsed as (NP (NNP Durgnat) (CD 65))
+sid=5 spanning 2 until 7 headed by 5 parsed as (NP (NNP Le) (NNP Fantome) (FW de) (FW la) (NNP Liberte))
+sid=5 spanning 1 until 6 headed by 5 parsed as (NP (NNP Le) (NNP Fantome) (FW de) (FW la) (NNP Liberte))
+sid=5 spanning 11 until 20 headed by 12 parsed as (NP (NP (DT the) (NN possibility)) (PP (IN for) (NP (NP (NP (NN society) (POS 's)) (NN redemption)) (PP (IN as) (NP (PRP$ its) (NN likelihood))))))
+sid=5 spanning 14 until 20 headed by 16 parsed as (NP (NP (NP (NN society) (POS 's)) (NN redemption)) (PP (IN as) (NP (PRP$ its) (NN likelihood))))
+sid=5 spanning 14 until 16 headed by 14 parsed as (NP (NN society) (POS 's))
+sid=5 spanning 18 until 20 headed by 19 parsed as (NP (PRP$ its) (NN likelihood))
+sid=5 spanning 18 until 19 headed by 18 parsed as (PRP$ its)
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (PRP We))
+sid=6 spanning 8 until 11 headed by 10 parsed as (NP (PRP$ our) (JJ psychic) (NNS cages))
+sid=6 spanning 8 until 9 headed by 8 parsed as (PRP$ our)
+sid=6 spanning 12 until 30 headed by 13 parsed as (NP (NP (DT the) (NN point)) (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (VP (VBP prefer) (NP (PRP them)) (PP (IN to) (NP (NP (NN liberty)) (, ,) (NP (DT an) (NN experience)) (CC and) (NP (NN aspiration)))) (S (NP (PRP we)) (ADVP (RB neither)) (VP (VBP understand)))) (CC or) (VP (VBP desire))))))
+sid=6 spanning 15 until 16 headed by 15 parsed as (NP (PRP we))
+sid=6 spanning 17 until 18 headed by 17 parsed as (NP (PRP them))
+sid=6 spanning 19 until 25 headed by 19 parsed as (NP (NP (NN liberty)) (, ,) (NP (DT an) (NN experience)) (CC and) (NP (NN aspiration)))
+sid=6 spanning 21 until 23 headed by 22 parsed as (NP (DT an) (NN experience))
+sid=6 spanning 25 until 26 headed by 25 parsed as (NP (PRP we))
+sid=6 spanning 32 until 34 headed by 32 parsed as (NP (NNP Mellen) (CD 331))
+sid=7 spanning 1 until 3 headed by 2 parsed as (NP (CD fifty) (NNS years))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (NNP Luis) (NNP Bunuel))
+sid=7 spanning 7 until 12 headed by 7 parsed as (NP (NP (NNS films)) (PP (IN about) (NP (NP (NN society) (POS 's)) (NNS dilemmas))))
+sid=7 spanning 9 until 12 headed by 11 parsed as (NP (NP (NN society) (POS 's)) (NNS dilemmas))
+sid=7 spanning 9 until 11 headed by 9 parsed as (NP (NN society) (POS 's))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ His) (NN art))
+sid=8 spanning 0 until 1 headed by 0 parsed as (PRP$ His)
+sid=8 spanning 3 until 36 headed by 4 parsed as (NP (NP (PRP$ his) (NN declaration)) (PP (IN of) (NP (NP (NP (NN confidence)) (PP (IN in) (NP (NP (DT a) (JJ human) (NN race)) (VP (VBN dominated) (PP (IN by) (NP (NP (DT a) (NN bourgeoisie)) (VP (VBN given) (PP (IN to) (NP (NN hypocrisy)))))))))) (, ,) (NP (NN sadism)) (, ,) (CC and) (PP (IN above) (NP (DT all))) (, ,) (NP (DT a) (NN disrespect)))) (SBAR (IN for) (S (NP (PRP$ its) (JJ own) (NN capacity)) (VP (TO to) (VP (VB live) (ADVP (RB differently)) (ADVP (CC and) (RBR better)))))))
+sid=8 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=8 spanning 6 until 27 headed by 6 parsed as (NP (NP (NP (NN confidence)) (PP (IN in) (NP (NP (DT a) (JJ human) (NN race)) (VP (VBN dominated) (PP (IN by) (NP (NP (DT a) (NN bourgeoisie)) (VP (VBN given) (PP (IN to) (NP (NN hypocrisy)))))))))) (, ,) (NP (NN sadism)) (, ,) (CC and) (PP (IN above) (NP (DT all))) (, ,) (NP (DT a) (NN disrespect)))
+sid=8 spanning 6 until 18 headed by 6 parsed as (NP (NP (NN confidence)) (PP (IN in) (NP (NP (DT a) (JJ human) (NN race)) (VP (VBN dominated) (PP (IN by) (NP (NP (DT a) (NN bourgeoisie)) (VP (VBN given) (PP (IN to) (NP (NN hypocrisy))))))))))
+sid=8 spanning 8 until 18 headed by 10 parsed as (NP (NP (DT a) (JJ human) (NN race)) (VP (VBN dominated) (PP (IN by) (NP (NP (DT a) (NN bourgeoisie)) (VP (VBN given) (PP (IN to) (NP (NN hypocrisy))))))))
+sid=8 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT a) (NN bourgeoisie)) (VP (VBN given) (PP (IN to) (NP (NN hypocrisy)))))
+sid=8 spanning 25 until 27 headed by 26 parsed as (NP (DT a) (NN disrespect))
+sid=8 spanning 28 until 31 headed by 30 parsed as (NP (PRP$ its) (JJ own) (NN capacity))
+sid=8 spanning 28 until 29 headed by 28 parsed as (PRP$ its)
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=9 spanning 2 until 4 headed by 2 parsed as (NP (NP (PRP it)) (NP (DT all)))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP himself))
+sid=10 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=10 spanning 4 until 7 headed by 6 parsed as (NP (PRP$ my) (JJ last) (NN sigh))
+sid=10 spanning 4 until 5 headed by 4 parsed as (PRP$ my)
+sid=10 spanning 8 until 9 headed by 8 parsed as (NP (PRP I))
+sid=10 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (JJ final) (NN joke))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=11 spanning 3 until 14 headed by 6 parsed as (NP (NP (PRP$ my) (JJ deathbed) (PRP$ my) (NNS friends)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBN confirmed) (NP (NNS atheists) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP am))))))))))
+sid=11 spanning 3 until 4 headed by 3 parsed as (PRP$ my)
+sid=11 spanning 5 until 6 headed by 5 parsed as (PRP$ my)
+sid=11 spanning 10 until 14 headed by 10 parsed as (NP (NNS atheists) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP am)))))
+sid=11 spanning 12 until 13 headed by 12 parsed as (NP (PRP I))
+sid=12 spanning 1 until 9 headed by 2 parsed as (NP (NP (DT a) (NN priest)) (, ,) (SBAR (WHNP (WP whom)) (S (NP (PRP I)) (VP (VBP have) (VP (VBN summoned))))) (, ,))
+sid=12 spanning 1 until 3 headed by 2 parsed as (NP (DT a) (NN priest))
+sid=12 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=13 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT the) (NN horror)) (PP (IN of) (NP (PRP$ my) (NNS friends))))
+sid=13 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ my) (NNS friends))
+sid=13 spanning 5 until 6 headed by 5 parsed as (PRP$ my)
+sid=13 spanning 8 until 9 headed by 8 parsed as (NP (PRP I))
+sid=13 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ my) (NN confession))
+sid=13 spanning 10 until 11 headed by 10 parsed as (PRP$ my)
+sid=13 spanning 15 until 19 headed by 15 parsed as (NP (NP (NN absolution)) (PP (IN for) (NP (PRP$ my) (NNS sins))))
+sid=13 spanning 17 until 19 headed by 18 parsed as (NP (PRP$ my) (NNS sins))
+sid=13 spanning 17 until 18 headed by 17 parsed as (PRP$ my)
+sid=14 spanning 2 until 3 headed by 2 parsed as (NP (PRP I))
+sid=14 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ my) (NN side))
+sid=14 spanning 6 until 7 headed by 6 parsed as (PRP$ my)
+sid=15 spanning 2 until 3 headed by 2 parsed as (NP (PRP I))
+sid=15 spanning 4 until 11 headed by 5 parsed as (NP (NP (DT the) (NN strength)) (SBAR (S (VP (TO to) (VP (NN joke) (PP (IN at) (NP (DT that) (NN moment))))))))
+sid=15 spanning 9 until 11 headed by 10 parsed as (NP (DT that) (NN moment))
+sid=16 spanning 0 until 2 headed by 1 parsed as (NP (NNP Luis) (NNP Bunuel))
+sid=16 spanning 4 until 5 headed by 4 parsed as (NP (CD 1983))
+(end predicted mentions)
+---------gold clusters--------
+3 2 | { 'one' 'I' }
+10 9 | { 'them' 'our psychic cages' }
+0 1 | { 'four chain - smoking monks' 'their' }
+14 15 | { 'a bourgeoisie given to hypocrisy , sadism , and above all , a disrespect for its own capacity to live differently and better' 'its' }
+7 8 | { 'society 's redemption' 'its' }
+6 23 13 33 16 5 12 18 26 28 29 19 4 22 25 17 24 20 30 27 11 31 32 21 | { 'Bunuel' 'my' 'his' 'Luis Bunuel' 'He' 'He' 'His' 'I' 'my' 'my' 'my' 'my' 'Bunuel' 'my' 'I' 'himself' 'I' 'I' 'I' 'I' 'Luis Bunuel' 'my' 'I' 'I' }
+(end gold clusters)

@@ -1,0 +1,33 @@
+---------gloss--------
+(0) Fred D. Thompson , a 47 - year - old attorney in private practice in Washington and Nashville , Tenn. , was elected to [1m[33m{the board of this engineering and construction company}[0m . 
+(1) [1m[33m{The board}[0m increased to 11 seats . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1089); part 000
+sentences:
+FredFredNNPPERSONPER0D.D.NNPPERSONPER0ThompsonThompsonNNPPERSONPER0,,,OPER0aaDTOPER04747CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0attorneyattorneyNNOPER0ininINOPER0privateprivateJJOPER0practicepracticeNNOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0andandCCOPER0NashvilleNashvilleNNPGPEPER0,,,OPER0Tenn.Tenn.NNPGPEPER0,,,OPER0wasbeVBDOPER0electedelectVBNOPER0totoINOPER0thetheDTOPER0boardboardNNOPER0ofofINOPER0thisthisDTOPER0engineeringengineeringNNOPER0andandCCOPER0constructionconstructionNNOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NP (NNP Fred) (NNP D.) (NNP Thompson)) (, ,) (NP (NP (DT a) (ADJP (NML (CD 47) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN attorney)) (PP (IN in) (NP (JJ private) (NN practice))) (PP (IN in) (NP (NP (NNP Washington)) (CC and) (NP (NP (NNP Nashville)) (, ,) (NP (NNP Tenn.)))))) (, ,)) (VP (VBD was) (VP (VBN elected) (PP (IN to) (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NML (NN engineering) (CC and) (NN construction)) (NN company))))))) (. .)))
+ThetheDTOPER0boardboardNNOPER0increasedincreaseVBDOPER0totoINOPER01111CDCARDINALPER0seatsseatNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN board)) (VP (VBD increased) (PP (IN to) (NP (CD 11) (NNS seats)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 24 until 32 headed by 25 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NML (NN engineering) (CC and) (NN construction)) (NN company))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN board))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Fred) (NNP D.) (NNP Thompson)) (, ,) (NP (NP (DT a) (ADJP (NML (CD 47) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN attorney)) (PP (IN in) (NP (JJ private) (NN practice))) (PP (IN in) (NP (NP (NNP Washington)) (CC and) (NP (NP (NNP Nashville)) (, ,) (NP (NNP Tenn.)))))) (, ,))
+sid=0 spanning 0 until 21 headed by 2 parsed as (NP (NP (NNP Fred) (NNP D.) (NNP Thompson)) (, ,) (NP (NP (DT a) (ADJP (NML (CD 47) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN attorney)) (PP (IN in) (NP (JJ private) (NN practice))) (PP (IN in) (NP (NP (NNP Washington)) (CC and) (NP (NP (NNP Nashville)) (, ,) (NP (NNP Tenn.)))))) (, ,))
+sid=0 spanning 4 until 20 headed by 10 parsed as (NP (NP (DT a) (ADJP (NML (CD 47) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN attorney)) (PP (IN in) (NP (JJ private) (NN practice))) (PP (IN in) (NP (NP (NNP Washington)) (CC and) (NP (NP (NNP Nashville)) (, ,) (NP (NNP Tenn.))))))
+sid=0 spanning 5 until 10 headed by 9 parsed as old
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NP (NNP Washington)) (CC and) (NP (NP (NNP Nashville)) (, ,) (NP (NNP Tenn.))))
+sid=0 spanning 15 until 20 headed by 15 parsed as (NP (NP (NNP Washington)) (CC and) (NP (NP (NNP Nashville)) (, ,) (NP (NNP Tenn.))))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NP (NNP Nashville)) (, ,) (NP (NNP Tenn.)))
+sid=0 spanning 17 until 20 headed by 17 parsed as (NP (NP (NNP Nashville)) (, ,) (NP (NNP Tenn.)))
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (NNP Tenn.))
+sid=0 spanning 24 until 32 headed by 25 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NML (NN engineering) (CC and) (NN construction)) (NN company))))
+sid=0 spanning 27 until 32 headed by 31 parsed as (NP (DT this) (NML (NN engineering) (CC and) (NN construction)) (NN company))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN board))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (CD 11) (NNS seats))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'The board' 'the board of this engineering and construction company' }
+(end gold clusters)

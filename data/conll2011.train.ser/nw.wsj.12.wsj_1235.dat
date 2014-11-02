@@ -1,0 +1,51 @@
+---------gloss--------
+(0) [3m[34m{MCI Communications Corp.}[0m said [3m[34m{it}[0m received [3m[35m{a $ 12 million contract to provide virtual network services to Woolworth Corp. 's 5,600 corporate and retail sites in the}[0m 
+(1) [3m[35m{The contract}[0m also provides for advanced billing and network management services . 
+(2) [3m[33m{Woolworth}[0m said [3m[33m{it}[0m expects to expand usage of [3m[32m{the MCI services}[0m as [3m[33m{it}[0m adds about 6,000 business locations over the next few years . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1235); part 000
+sentences:
+MCIMCINNPORGPER0CommunicationsCommunicationsNNPSORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0receivedreceiveVBDOPER0aaDTOPER0$$$MONEYPER01212CDMONEYPER0millionmillionCDMONEYPER0contractcontractNNOPER0totoTOOPER0provideprovideVBOPER0virtualvirtualJJOPER0networknetworkNNOPER0servicesserviceNNSOPER0totoINOPER0WoolworthWoolworthNNPORGPER0Corp.Corp.NNPORGPER0's'sPOSORGPER05,6005,600CDCARDINALPER0corporatecorporateNNOPER0andandCCOPER0retailretailNNOPER0sitessiteNNSOPER0ininINOPER0thetheDTOPER0(ROOT (S (NP (NNP MCI) (NNPS Communications) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD received) (NP (DT a) (NML (QP ($ $) (CD 12) (CD million))) (NN contract) (S (VP (TO to) (VP (VB provide) (NP (JJ virtual) (NN network) (NNS services)) (PP (IN to) (NP (NP (NP (NNP Woolworth) (NNP Corp.) (POS 's)) (CD 5,600) (NML (NN corporate) (CC and) (NN retail)) (NNS sites)) (PP (IN in) (NP (DT the)))))))))))))))
+ThetheDTOPER0contractcontractNNOPER0alsoalsoRBOPER0providesprovideVBZOPER0forforINOPER0advancedadvancedJJOPER0billingbillingNNOPER0andandCCOPER0networknetworkNNOPER0managementmanagementNNOPER0servicesserviceNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN contract)) (ADVP (RB also)) (VP (VBZ provides) (PP (IN for) (NP (JJ advanced) (NML (NN billing) (CC and) (NN network)) (NN management) (NNS services)))) (. .)))
+WoolworthWoolworthNNPORGPER0saidsayVBDOPER0ititPRPOPER0expectsexpectVBZOPER0totoTOOPER0expandexpandVBOPER0usageusageNNOPER0ofofINOPER0thetheDTOPER0MCIMCINNPORGPER0servicesserviceNNSOPER0asasINOPER0ititPRPOPER0addsaddVBZOPER0aboutaboutRBCARDINALPER06,0006,000CDCARDINALPER0businessbusinessNNOPER0locationslocationNNSOPER0overoverINOPER0thetheDTDATEPER0nextnextJJDATEPER0fewfewJJDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NNP Woolworth)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB expand) (NP (NP (NN usage)) (PP (IN of) (NP (DT the) (NNP MCI) (NNS services)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ adds) (NP (QP (RB about) (CD 6,000)) (NN business) (NNS locations)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS years))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP MCI) (NNPS Communications) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 27 headed by 10 parsed as (NP (DT a) (NML (QP ($ $) (CD 12) (CD million))) (NN contract) (S (VP (TO to) (VP (VB provide) (NP (JJ virtual) (NN network) (NNS services)) (PP (IN to) (NP (NP (NP (NNP Woolworth) (NNP Corp.) (POS 's)) (CD 5,600) (NML (NN corporate) (CC and) (NN retail)) (NNS sites)) (PP (IN in) (NP (DT the)))))))))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (JJ virtual) (NN network) (NNS services))
+sid=0 spanning 17 until 20 headed by 18 parsed as (NP (NNP Woolworth) (NNP Corp.) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN contract))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Woolworth))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP MCI) (NNS services))
+sid=2 spanning 9 until 10 headed by 9 parsed as MCI
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP MCI) (NNPS Communications) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 27 headed by 10 parsed as (NP (DT a) (NML (QP ($ $) (CD 12) (CD million))) (NN contract) (S (VP (TO to) (VP (VB provide) (NP (JJ virtual) (NN network) (NNS services)) (PP (IN to) (NP (NP (NP (NNP Woolworth) (NNP Corp.) (POS 's)) (CD 5,600) (NML (NN corporate) (CC and) (NN retail)) (NNS sites)) (PP (IN in) (NP (DT the)))))))))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (JJ virtual) (NN network) (NNS services))
+sid=0 spanning 17 until 27 headed by 24 parsed as (NP (NP (NP (NNP Woolworth) (NNP Corp.) (POS 's)) (CD 5,600) (NML (NN corporate) (CC and) (NN retail)) (NNS sites)) (PP (IN in) (NP (DT the))))
+sid=0 spanning 17 until 20 headed by 18 parsed as (NP (NNP Woolworth) (NNP Corp.) (POS 's))
+sid=0 spanning 26 until 27 headed by 26 parsed as (NP (DT the))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN contract))
+sid=1 spanning 5 until 11 headed by 10 parsed as (NP (JJ advanced) (NML (NN billing) (CC and) (NN network)) (NN management) (NNS services))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Woolworth))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=2 spanning 6 until 11 headed by 6 parsed as (NP (NP (NN usage)) (PP (IN of) (NP (DT the) (NNP MCI) (NNS services))))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP MCI) (NNS services))
+sid=2 spanning 9 until 10 headed by 9 parsed as MCI
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=2 spanning 14 until 18 headed by 17 parsed as (NP (QP (RB about) (CD 6,000)) (NN business) (NNS locations))
+sid=2 spanning 19 until 23 headed by 22 parsed as (NP (DT the) (JJ next) (JJ few) (NNS years))
+(end predicted mentions)
+---------gold clusters--------
+3 8 | { 'virtual network services' 'the MCI services' }
+7 4 6 10 | { 'it' 'Woolworth Corp. 's' 'Woolworth' 'it' }
+1 9 0 | { 'it' 'MCI' 'MCI Communications Corp.' }
+5 2 | { 'The contract' 'a $ 12 million contract to provide virtual network services to Woolworth Corp. 's 5,600 corporate and retail sites in the' }
+(end gold clusters)

@@ -1,0 +1,191 @@
+---------gloss--------
+(0) Four workers at [3m[35m{GTE Corp. 's}[0m headquarters have been diagnosed as having [1m[36m{hepatitis}[0m , and city health officials are investigating whether [1m[33m{a cafeteria worker}[0m may have exposed hundreds of other [3m[35m{GTE}[0m employees to [1m[36m{the viral infection}[0m , company and city officials said . 
+(1) The four cases were all reported to [3m[35m{GTE 's}[0m medical director and state and local health authorities . 
+(2) [3m[35m{GTE}[0m shut down [3m[31m{its cafeteria}[0m Tuesday afternoon after testing determined that [1m[33m{at least one cafeteria worker employed by GTE 's private food vending contractor , ARA Services Inc. ,}[0m was suffering from [1m[35m{a strain of the virus}[0m , officials said . 
+(3) More than 700 people work in [3m[33m{the GTE building}[0m . 
+(4) [3m[31m{The cafeteria}[0m remains closed . 
+(5) [1m[34m{Dr. Andrew McBride , city health director ,}[0m said [1m[34m{his}[0m staff suspects [1m[36m{the hepatitis , which can be highly contagious ,}[0m was spread by [1m[33m{the cafeteria worker with the virus}[0m . 
+(6) [1m[35m{The exact strain of hepatitis that the cafeteria worker contracted}[0m has n't been determined but should be known by the end of the week , [1m[34m{Dr. McBride}[0m said . 
+(7) [3m[32m{Hepatitis A , considered the least dangerous strain of the virus ,}[0m has been confirmed in at least one [3m[35m{GTE}[0m employee , company and city officials said . 
+(8) `` From a public health point of view [3m[35m{we}[0m 're relieved because [3m[32m{hepatitis A}[0m is rarely life - threatening , '' said Dr. Frank Provato , [3m[35m{GTE 's}[0m medical director . 
+(9) `` [3m[32m{It}[0m 's a double - edged sword though , because [3m[32m{it}[0m is also the most contagious kind of [1m[36m{hepatitis}[0m . '' 
+(10) [3m[35m{GTE}[0m officials began posting warning notices about the potential threat to exposure Wednesday morning at various places at [3m[35m{the company}[0m , said [3m[35m{GTE}[0m spokesman Thomas Mattausch . 
+(11) [3m[35m{The company}[0m has begun offering shots of gamma globulin , which will diminish the flu - like symptoms of [3m[32m{hepatitis A}[0m , in anyone who has contracted [3m[32m{the disease}[0m , [3m[34m{Mr. Mattausch}[0m said . 
+(12) `` [3m[35m{We}[0m 're strongly recommending that [3m[36m{anyone who has eaten in the cafeteria this month}[0m have the shot , '' [3m[34m{Mr. Mattausch}[0m added , `` and [3m[36m{that}[0m means virtually everyone who works [3m[35m{here}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1587); part 000
+sentences:
+FourfourCDCARDINALPER0workersworkerNNSOPER0atatINOPER0GTEGTENNPORGPER0Corp.Corp.NNPORGPER0's'sPOSORGPER0headquartersheadquartersNNOPER0havehaveVBPOPER0beenbeVBNOPER0diagnoseddiagnoseVBNOPER0asasINOPER0havinghaveVBGOPER0hepatitishepatitisNNOPER0,,,OPER0andandCCOPER0citycityNNOPER0healthhealthNNOPER0officialsofficialNNSOPER0arebeVBPOPER0investigatinginvestigateVBGOPER0whetherwhetherINOPER0aaDTOPER0cafeteriacafeteriaNNOPER0workerworkerNNOPER0maymayMDOPER0havehaveVBOPER0exposedexposeVBNOPER0hundredshundredNNSCARDINALPER0ofofINOPER0otherotherJJOPER0GTEGTENNPORGPER0employeesemployeeNNSOPER0totoINOPER0thetheDTOPER0viralviralJJOPER0infectioninfectionNNOPER0,,,OPER0companycompanyNNOPER0andandCCOPER0citycityNNOPER0officialsofficialNNSOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (S (NP (NP (CD Four) (NNS workers)) (PP (IN at) (NP (NP (NNP GTE) (NNP Corp.) (POS 's)) (NN headquarters)))) (VP (VBP have) (VP (VBN been) (VP (VBN diagnosed) (PP (IN as) (S (VP (VBG having) (NP (NN hepatitis))))))))) (, ,) (CC and) (S (NP (NN city) (NN health) (NNS officials)) (VP (VBP are) (VP (VBG investigating) (SBAR (IN whether) (S (NP (DT a) (NN cafeteria) (NN worker)) (VP (MD may) (VP (VB have) (VP (VBN exposed) (NP (NP (NNS hundreds)) (PP (IN of) (NP (JJ other) (NNP GTE) (NNS employees)))) (PP (IN to) (NP (DT the) (JJ viral) (NN infection)))))))))))) (, ,) (NP (NML (NN company) (CC and) (NN city)) (NNS officials)) (VP (VBD said)) (. .)))
+ThetheDTOPER0fourfourCDCARDINALPER0casescaseNNSOPER0werebeVBDOPER0allallDTOPER0reportedreportVBNOPER0totoINOPER0GTEGTENNPORGPER0's'sPOSOPER0medicalmedicalJJOPER0directordirectorNNOPER0andandCCOPER0statestateNNOPER0andandCCOPER0locallocalJJOPER0healthhealthNNOPER0authoritiesauthorityNNSOPER0...OPER0(ROOT (S (NP (DT The) (CD four) (NNS cases)) (VP (VBD were) (DT all) (VP (VBN reported) (PP (IN to) (NP (NP (NP (NNP GTE) (POS 's)) (JJ medical) (NN director)) (CC and) (NP (NP (NN state) (CC and) (JJ local)) (NN health) (NNS authorities)))))) (. .)))
+GTEGTENNPORGPER0shutshutVBDOPER0downdownRPOPER0itsitsPRP$OPER0cafeteriacafeteriaNNOPER0TuesdayTuesdayNNPDATEPER0afternoonafternoonNNTIMEPER0afterafterINOPER0testingtestingNNOPER0determineddetermineVBDOPER0thatthatINOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER0oneoneCDCARDINALPER0cafeteriacafeteriaNNOPER0workerworkerNNOPER0employedemployVBNOPER0bybyINOPER0GTEGTENNPORGPER0's'sPOSOPER0privateprivateJJOPER0foodfoodNNOPER0vendingvendVBGOPER0contractorcontractorNNOPER0,,,OPER0ARAARANNPORGPER0ServicesServicesNNPSORGPER0Inc.Inc.NNPORGPER0,,,OPER0wasbeVBDOPER0sufferingsufferVBGOPER0fromfromINOPER0aaDTOPER0strainstrainNNOPER0ofofINOPER0thetheDTOPER0virusvirusNNOPER0,,,OPER0officialsofficialNNSOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NNP GTE)) (VP (VBD shut) (PRT (RP down)) (NP (PRP$ its) (NN cafeteria) (NNP Tuesday) (NN afternoon)) (SBAR (IN after) (S (NP (NN testing)) (VP (VBD determined) (SBAR (IN that) (S (NP (NP (NP (QP (ADVP (RB at) (RBS least)) (CD one)) (NN cafeteria) (NN worker)) (VP (VBN employed) (PP (IN by) (NP (NP (NNP GTE) (POS 's)) (JJ private) (ADJP (NN food) (VBG vending)) (NN contractor))))) (, ,) (NP (NNP ARA) (NNPS Services) (NNP Inc.)) (, ,)) (VP (VBD was) (VP (VBG suffering) (PP (IN from) (NP (NP (DT a) (NN strain)) (PP (IN of) (NP (DT the) (NN virus)))))))))))))) (, ,) (NP (NNS officials)) (VP (VBD said)) (. .)))
+MoremoreJJRCARDINALPER0thanthanINCARDINALPER0700700CDCARDINALPER0peoplepeopleNNSOPER0workworkVBPOPER0ininINOPER0thetheDTOPER0GTEGTENNPORGPER0buildingbuildingNNOPER0...OPER0(ROOT (S (NP (QP (XS (JJR More) (IN than)) (CD 700)) (NNS people)) (VP (VBP work) (PP (IN in) (NP (DT the) (NNP GTE) (NN building)))) (. .)))
+ThetheDTOPER0cafeteriacafeteriaNNOPER0remainsremainVBZOPER0closedclosedJJOPER0...OPER0(ROOT (S (NP (DT The) (NN cafeteria)) (VP (VBZ remains) (ADJP (JJ closed))) (. .)))
+Dr.Dr.NNPOPER0AndrewAndrewNNPPERSONPER0McBrideMcBrideNNPPERSONPER0,,,OPER0citycityNNOPER0healthhealthNNOPER0directordirectorNNOPER0,,,OPER0saidsayVBDOPER0hishePRP$OPER0staffstaffNNOPER0suspectssuspectVBZOPER0thetheDTOPER0hepatitishepatitisNNOPER0,,,OPER0whichwhichWDTOPER0cancanMDOPER0bebeVBOPER0highlyhighlyRBOPER0contagiouscontagiousJJOPER0,,,OPER0wasbeVBDOPER0spreadspreadVBNOPER0bybyINOPER0thetheDTOPER0cafeteriacafeteriaNNOPER0workerworkerNNOPER0withwithINOPER0thetheDTOPER0virusvirusNNOPER0...OPER0(ROOT (S (NP (NP (NNP Dr.) (NNP Andrew) (NNP McBride)) (, ,) (NP (NN city) (NN health) (NN director)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP$ his) (NN staff)) (VP (VBZ suspects) (SBAR (S (NP (NP (DT the) (NN hepatitis)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (ADJP (RB highly) (JJ contagious)))))) (, ,)) (VP (VBD was) (VP (VBN spread) (PP (IN by) (NP (NP (DT the) (NN cafeteria) (NN worker)) (PP (IN with) (NP (DT the) (NN virus))))))))))))) (. .)))
+ThetheDTOPER0exactexactJJOPER0strainstrainNNOPER0ofofINOPER0hepatitishepatitisNNOPER0thatthatINOPER0thetheDTOPER0cafeteriacafeteriaNNOPER0workerworkerNNOPER0contractedcontractVBDOPER0hashaveVBZOPER0n'tnotRBOPER0beenbeVBNOPER0determineddetermineVBNOPER0butbutCCOPER0shouldshouldMDOPER0bebeVBOPER0knownknowVBNOPER0bybyINOPER0thetheDTDATEPER0endendNNDATEPER0ofofINDATEPER0thetheDTDATEPER0weekweekNNDATEPER0,,,OPER0Dr.Dr.NNPPERSONPER0McBrideMcBrideNNPPERSONPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (JJ exact) (NN strain)) (PP (IN of) (NP (NN hepatitis) (SBAR (IN that) (S (NP (DT the) (NN cafeteria) (NN worker)) (VP (VBD contracted))))))) (VP (VP (VBZ has) (RB n't) (VP (VBN been) (VP (VBN determined)))) (CC but) (VP (MD should) (VP (VB be) (VP (VBN known) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN week)))))))))) (, ,) (NP (NNP Dr.) (NNP McBride)) (VP (VBD said)) (. .)))
+HepatitisHepatitisNNPOPER0AANNPOPER0,,,OPER0consideredconsiderVBNOPER0thetheDTOPER0leastleastRBSOPER0dangerousdangerousJJOPER0strainstrainNNOPER0ofofINOPER0thetheDTOPER0virusvirusNNOPER0,,,OPER0hashaveVBZOPER0beenbeVBNOPER0confirmedconfirmVBNOPER0ininINOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER0oneoneCDCARDINALPER0GTEGTENNPORGPER0employeeemployeeNNOPER0,,,OPER0companycompanyNNOPER0andandCCOPER0citycityNNOPER0officialsofficialNNSOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NNP Hepatitis) (NNP A)) (, ,) (VP (VBN considered) (S (NP (NP (DT the) (ADJP (RBS least) (JJ dangerous)) (NN strain)) (PP (IN of) (NP (DT the) (NN virus)))))) (, ,)) (VP (VBZ has) (VP (VBN been) (VP (VBN confirmed) (PP (IN in) (NP (QP (ADVP (RB at) (RBS least)) (CD one)))) (NP (NNP GTE) (NN employee)))))) (, ,) (NP (NML (NN company) (CC and) (NN city)) (NNS officials)) (VP (VBD said)) (. .)))
+``````OFromfromINOPER1aaDTOPER1publicpublicJJOPER1healthhealthNNOPER1pointpointNNOPER1ofofINOPER1viewviewNNOPER1wewePRPOPER1'rebeVBPOPER1relievedrelieveVBNOPER1becausebecauseINOPER1hepatitishepatitisNNPOPER1AANNPOPER1isbeVBZOPER1rarelyrarelyRBOPER1lifelifeNNOPER1--HYPHOPER1threateningthreatenVBGOPER1,,,OPER1''''''OPER0saidsayVBDOPER0Dr.Dr.NNPOPER0FrankFrankNNPPERSONPER0ProvatoProvatoNNPPERSONPER0,,,OPER0GTEGTENNPORGPER0's'sPOSOPER0medicalmedicalJJOPER0directordirectorNNOPER0...OPER0(ROOT (SINV (`` ``) (S (PP (IN From) (NP (NP (DT a) (NML (JJ public) (NN health)) (NN point)) (PP (IN of) (NP (NN view))))) (NP (PRP we)) (VP (VBP 're) (VP (VBN relieved) (SBAR (IN because) (S (NP (NNP hepatitis) (NNP A)) (VP (VBZ is) (ADVP (RB rarely)) (ADJP (NN life) (HYPH -) (VBG threatening)))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Dr.) (NNP Frank) (NNP Provato)) (, ,) (NP (NP (NNP GTE) (POS 's)) (JJ medical) (NN director))) (. .)))
+``````OItitPRPOPER2'sbeVBZOPER2aaDTOPER2doubledoubleRBOPER2--HYPHOPER2edgededgeVBNOPER2swordswordNNOPER2thoughthoughRBOPER2,,,OPER2becausebecauseINOPER2ititPRPOPER2isbeVBZOPER2alsoalsoRBOPER2thetheDTOPER2mostmostRBSOPER2contagiouscontagiousJJOPER2kindkindNNOPER2ofofINOPER2hepatitishepatitisNNOPER2...OPER2''''''OPER0(ROOT (S (`` ``) (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (ADJP (RB double) (HYPH -) (VBN edged)) (NN sword)) (ADVP (RB though)) (, ,) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT the) (ADJP (RBS most) (JJ contagious)) (NN kind)) (PP (IN of) (NP (NN hepatitis)))))))) (. .) ('' '')))
+GTEGTENNPORGPER0officialsofficialNNSOPER0beganbeginVBDOPER0postingpostVBGOPER0warningwarningNNOPER0noticesnoticeNNSOPER0aboutaboutINOPER0thetheDTOPER0potentialpotentialJJOPER0threatthreatNNOPER0totoTOOPER0exposureexposureNNOPER0WednesdayWednesdayNNPDATEPER0morningmorningNNTIMEPER0atatINOPER0variousvariousJJOPER0placesplaceNNSOPER0atatINOPER0thetheDTOPER0companycompanyNNOPER0,,,OPER0saidsayVBDOPER0GTEGTENNPORGPER0spokesmanspokesmanNNOPER0ThomasThomasNNPPERSONPER0MattauschMattauschNNPPERSONPER0...OPER0(ROOT (SINV (S (NP (NNP GTE) (NNS officials)) (VP (VBD began) (S (VP (VBG posting) (NP (NP (NN warning) (NNS notices)) (PP (IN about) (NP (DT the) (JJ potential) (NN threat) (S (VP (TO to) (VP (NN exposure) (NP (NNP Wednesday) (NN morning)) (PP (IN at) (NP (JJ various) (NNS places))) (PP (IN at) (NP (DT the) (NN company))))))))))))) (, ,) (VP (VBD said)) (NP (NML (NNP GTE) (NN spokesman)) (NNP Thomas) (NNP Mattausch)) (. .)))
+ThetheDTOPER0companycompanyNNOPER0hashaveVBZOPER0begunbeginVBNOPER0offeringofferVBGOPER0shotsshotNNSOPER0ofofINOPER0gammagammaFWOPER0globulinglobulinFWOPER0,,,OPER0whichwhichWDTOPER0willwillMDOPER0diminishdiminishVBOPER0thetheDTOPER0flufluNNOPER0--HYPHOPER0likelikeJJOPER0symptomssymptomNNSOPER0ofofINOPER0hepatitishepatitisNNOPER0AaDTOPER0,,,OPER0ininINOPER0anyoneanyoneNNOPER0whowhoWPOPER0hashaveVBZOPER0contractedcontractVBDOPER0thetheDTOPER0diseasediseaseNNOPER0,,,OPER0Mr.Mr.NNPOPER0MattauschMattauschNNPPERSONPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT The) (NN company)) (VP (VBZ has) (VP (VBN begun) (S (VP (VBG offering) (NP (NP (NNS shots)) (PP (IN of) (NP (NP (FW gamma) (FW globulin)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB diminish) (NP (NP (DT the) (ADJP (NN flu) (HYPH -) (JJ like)) (NNS symptoms)) (PP (IN of) (NP (NN hepatitis) (DT A))))))))))))) (, ,) (PP (IN in) (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBD contracted) (NP (DT the) (NN disease))))))))))) (, ,) (NP (NNP Mr.) (NNP Mattausch)) (VP (VBD said)) (. .)))
+``````OWewePRPOPER3'rebeVBPOPER3stronglystronglyRBOPER3recommendingrecommendVBGOPER3thatthatINOPER3anyoneanyoneNNOPER3whowhoWPOPER3hashaveVBZOPER3eateneatVBNOPER3ininINOPER3thetheDTOPER3cafeteriacafeteriaNNOPER3thisthisDTDATEPER3monthmonthNNDATEPER3havehaveVBOPER3thetheDTOPER3shotshotNNOPER3,,,OPER3''''''OPER0Mr.Mr.NNPOPER0MattauschMattauschNNPPERSONPER0addedaddVBDOPER0,,,OPER0``````OandandCCOPER4thatthatDTOPER4meansmeanVBZOPER4virtuallyvirtuallyRBOPER4everyoneeveryoneNNOPER4whowhoWPOPER4worksworkVBZOPER4herehereRBOPER4...OPER4(ROOT (S (`` ``) (S (NP (PRP We)) (VP (VBP 're) (ADVP (RB strongly)) (VP (VBG recommending) (SBAR (IN that) (S (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN eaten) (PP (IN in) (NP (NP (DT the) (NN cafeteria)) (NP (DT this) (NN month))))))))) (VP (VB have) (NP (DT the) (NN shot)))))))) (PRN (, ,) ('' '') (S (NP (NNP Mr.) (NNP Mattausch)) (VP (VBD added))) (, ,)) (`` ``) (CC and) (S (NP (DT that)) (VP (VBZ means) (NP (NP (RB virtually) (NN everyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ works) (ADVP (RB here)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (NP (NNP GTE) (NNP Corp.) (POS 's)) (NN headquarters))
+sid=0 spanning 3 until 6 headed by 4 parsed as (NP (NNP GTE) (NNP Corp.) (POS 's))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NN hepatitis))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT a) (NN cafeteria) (NN worker))
+sid=0 spanning 30 until 31 headed by 30 parsed as GTE
+sid=0 spanning 33 until 36 headed by 35 parsed as (NP (DT the) (JJ viral) (NN infection))
+sid=1 spanning 7 until 9 headed by 7 parsed as (NP (NNP GTE) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP GTE))
+sid=2 spanning 3 until 4 headed by 3 parsed as its
+sid=2 spanning 3 until 5 headed by 4 parsed as cafeteria
+sid=2 spanning 11 until 29 headed by 15 parsed as (NP (NP (NP (QP (ADVP (RB at) (RBS least)) (CD one)) (NN cafeteria) (NN worker)) (VP (VBN employed) (PP (IN by) (NP (NP (NNP GTE) (POS 's)) (JJ private) (ADJP (NN food) (VBG vending)) (NN contractor))))) (, ,) (NP (NNP ARA) (NNPS Services) (NNP Inc.)) (, ,))
+sid=2 spanning 18 until 20 headed by 18 parsed as (NP (NNP GTE) (POS 's))
+sid=2 spanning 32 until 37 headed by 33 parsed as (NP (NP (DT a) (NN strain)) (PP (IN of) (NP (DT the) (NN virus))))
+sid=2 spanning 35 until 37 headed by 36 parsed as (NP (DT the) (NN virus))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP GTE) (NN building))
+sid=3 spanning 7 until 8 headed by 7 parsed as GTE
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN cafeteria))
+sid=5 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Dr.) (NNP Andrew) (NNP McBride)) (, ,) (NP (NN city) (NN health) (NN director)) (, ,))
+sid=5 spanning 9 until 10 headed by 9 parsed as his
+sid=5 spanning 12 until 21 headed by 13 parsed as (NP (NP (DT the) (NN hepatitis)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (ADJP (RB highly) (JJ contagious)))))) (, ,))
+sid=5 spanning 24 until 30 headed by 26 parsed as (NP (NP (DT the) (NN cafeteria) (NN worker)) (PP (IN with) (NP (DT the) (NN virus))))
+sid=5 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN virus))
+sid=6 spanning 0 until 10 headed by 2 parsed as (NP (NP (DT The) (JJ exact) (NN strain)) (PP (IN of) (NP (NN hepatitis) (SBAR (IN that) (S (NP (DT the) (NN cafeteria) (NN worker)) (VP (VBD contracted)))))))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (NN hepatitis) (SBAR (IN that) (S (NP (DT the) (NN cafeteria) (NN worker)) (VP (VBD contracted)))))
+sid=6 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN cafeteria) (NN worker))
+sid=6 spanning 25 until 27 headed by 26 parsed as (NP (NNP Dr.) (NNP McBride))
+sid=7 spanning 0 until 12 headed by 1 parsed as (NP (NP (NNP Hepatitis) (NNP A)) (, ,) (VP (VBN considered) (S (NP (NP (DT the) (ADJP (RBS least) (JJ dangerous)) (NN strain)) (PP (IN of) (NP (DT the) (NN virus)))))) (, ,))
+sid=7 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN virus))
+sid=7 spanning 19 until 20 headed by 19 parsed as GTE
+sid=8 spanning 8 until 9 headed by 8 parsed as (NP (PRP we))
+sid=8 spanning 12 until 14 headed by 13 parsed as (NP (NNP hepatitis) (NNP A))
+sid=8 spanning 26 until 28 headed by 26 parsed as (NP (NNP GTE) (POS 's))
+sid=9 spanning 1 until 2 headed by 1 parsed as (NP (PRP It))
+sid=9 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=9 spanning 19 until 20 headed by 19 parsed as (NP (NN hepatitis))
+sid=10 spanning 0 until 1 headed by 0 parsed as GTE
+sid=10 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN company))
+sid=10 spanning 22 until 26 headed by 25 parsed as (NP (NML (NNP GTE) (NN spokesman)) (NNP Thomas) (NNP Mattausch))
+sid=10 spanning 22 until 23 headed by 22 parsed as GTE
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=11 spanning 19 until 21 headed by 19 parsed as (NP (NN hepatitis) (DT A))
+sid=11 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN disease))
+sid=11 spanning 30 until 32 headed by 31 parsed as (NP (NNP Mr.) (NNP Mattausch))
+sid=12 spanning 1 until 2 headed by 1 parsed as (NP (PRP We))
+sid=12 spanning 6 until 15 headed by 6 parsed as (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN eaten) (PP (IN in) (NP (NP (DT the) (NN cafeteria)) (NP (DT this) (NN month)))))))))
+sid=12 spanning 11 until 13 headed by 12 parsed as (NP (NP (DT the) (NN cafeteria)) (NP (DT this) (NN month)))
+sid=12 spanning 20 until 22 headed by 21 parsed as (NP (NNP Mr.) (NNP Mattausch))
+sid=12 spanning 26 until 27 headed by 26 parsed as (NP (DT that))
+sid=12 spanning 32 until 33 headed by 32 parsed as here
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 1 parsed as (NP (NP (CD Four) (NNS workers)) (PP (IN at) (NP (NP (NNP GTE) (NNP Corp.) (POS 's)) (NN headquarters))))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (NP (NNP GTE) (NNP Corp.) (POS 's)) (NN headquarters))
+sid=0 spanning 3 until 6 headed by 4 parsed as (NP (NNP GTE) (NNP Corp.) (POS 's))
+sid=0 spanning 15 until 18 headed by 17 parsed as (NP (NN city) (NN health) (NNS officials))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT a) (NN cafeteria) (NN worker))
+sid=0 spanning 27 until 32 headed by 27 parsed as (NP (NP (NNS hundreds)) (PP (IN of) (NP (JJ other) (NNP GTE) (NNS employees))))
+sid=0 spanning 30 until 31 headed by 30 parsed as GTE
+sid=0 spanning 33 until 36 headed by 35 parsed as (NP (DT the) (JJ viral) (NN infection))
+sid=0 spanning 37 until 41 headed by 40 parsed as (NP (NML (NN company) (CC and) (NN city)) (NNS officials))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD four) (NNS cases))
+sid=1 spanning 7 until 17 headed by 10 parsed as (NP (NP (NP (NNP GTE) (POS 's)) (JJ medical) (NN director)) (CC and) (NP (NP (NN state) (CC and) (JJ local)) (NN health) (NNS authorities)))
+sid=1 spanning 7 until 11 headed by 10 parsed as (NP (NP (NNP GTE) (POS 's)) (JJ medical) (NN director))
+sid=1 spanning 7 until 9 headed by 7 parsed as (NP (NNP GTE) (POS 's))
+sid=1 spanning 12 until 17 headed by 16 parsed as (NP (NP (NN state) (CC and) (JJ local)) (NN health) (NNS authorities))
+sid=1 spanning 12 until 15 headed by 12 parsed as (NP (NN state) (CC and) (JJ local))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP GTE))
+sid=2 spanning 3 until 7 headed by 6 parsed as (NP (PRP$ its) (NN cafeteria) (NNP Tuesday) (NN afternoon))
+sid=2 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=2 spanning 5 until 6 headed by 5 parsed as Tuesday
+sid=2 spanning 11 until 29 headed by 15 parsed as (NP (NP (NP (QP (ADVP (RB at) (RBS least)) (CD one)) (NN cafeteria) (NN worker)) (VP (VBN employed) (PP (IN by) (NP (NP (NNP GTE) (POS 's)) (JJ private) (ADJP (NN food) (VBG vending)) (NN contractor))))) (, ,) (NP (NNP ARA) (NNPS Services) (NNP Inc.)) (, ,))
+sid=2 spanning 11 until 24 headed by 15 parsed as (NP (NP (QP (ADVP (RB at) (RBS least)) (CD one)) (NN cafeteria) (NN worker)) (VP (VBN employed) (PP (IN by) (NP (NP (NNP GTE) (POS 's)) (JJ private) (ADJP (NN food) (VBG vending)) (NN contractor)))))
+sid=2 spanning 18 until 24 headed by 23 parsed as (NP (NP (NNP GTE) (POS 's)) (JJ private) (ADJP (NN food) (VBG vending)) (NN contractor))
+sid=2 spanning 18 until 20 headed by 18 parsed as (NP (NNP GTE) (POS 's))
+sid=2 spanning 25 until 28 headed by 27 parsed as (NP (NNP ARA) (NNPS Services) (NNP Inc.))
+sid=2 spanning 32 until 37 headed by 33 parsed as (NP (NP (DT a) (NN strain)) (PP (IN of) (NP (DT the) (NN virus))))
+sid=2 spanning 35 until 37 headed by 36 parsed as (NP (DT the) (NN virus))
+sid=2 spanning 38 until 39 headed by 38 parsed as (NP (NNS officials))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (QP (XS (JJR More) (IN than)) (CD 700)) (NNS people))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP GTE) (NN building))
+sid=3 spanning 7 until 8 headed by 7 parsed as GTE
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN cafeteria))
+sid=5 spanning 1 until 3 headed by 2 parsed as (NP (NP (NNP Dr.) (NNP Andrew) (NNP McBride)) (, ,) (NP (NN city) (NN health) (NN director)) (, ,))
+sid=5 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Dr.) (NNP Andrew) (NNP McBride)) (, ,) (NP (NN city) (NN health) (NN director)) (, ,))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (NNP Dr.) (NNP Andrew) (NNP McBride))
+sid=5 spanning 4 until 7 headed by 6 parsed as (NP (NN city) (NN health) (NN director))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ his) (NN staff))
+sid=5 spanning 9 until 10 headed by 9 parsed as (PRP$ his)
+sid=5 spanning 12 until 21 headed by 13 parsed as (NP (NP (DT the) (NN hepatitis)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (ADJP (RB highly) (JJ contagious)))))) (, ,))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN hepatitis))
+sid=5 spanning 24 until 30 headed by 26 parsed as (NP (NP (DT the) (NN cafeteria) (NN worker)) (PP (IN with) (NP (DT the) (NN virus))))
+sid=5 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN virus))
+sid=6 spanning 0 until 10 headed by 2 parsed as (NP (NP (DT The) (JJ exact) (NN strain)) (PP (IN of) (NP (NN hepatitis) (SBAR (IN that) (S (NP (DT the) (NN cafeteria) (NN worker)) (VP (VBD contracted)))))))
+sid=6 spanning 4 until 10 headed by 4 parsed as (NP (NN hepatitis) (SBAR (IN that) (S (NP (DT the) (NN cafeteria) (NN worker)) (VP (VBD contracted)))))
+sid=6 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN cafeteria) (NN worker))
+sid=6 spanning 19 until 24 headed by 20 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN week))))
+sid=6 spanning 25 until 27 headed by 26 parsed as (NP (NNP Dr.) (NNP McBride))
+sid=7 spanning 0 until 12 headed by 1 parsed as (NP (NP (NNP Hepatitis) (NNP A)) (, ,) (VP (VBN considered) (S (NP (NP (DT the) (ADJP (RBS least) (JJ dangerous)) (NN strain)) (PP (IN of) (NP (DT the) (NN virus)))))) (, ,))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hepatitis) (NNP A))
+sid=7 spanning 4 until 11 headed by 7 parsed as (NP (NP (DT the) (ADJP (RBS least) (JJ dangerous)) (NN strain)) (PP (IN of) (NP (DT the) (NN virus))))
+sid=7 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN virus))
+sid=7 spanning 16 until 19 headed by 18 parsed as (NP (QP (ADVP (RB at) (RBS least)) (CD one)))
+sid=7 spanning 19 until 21 headed by 20 parsed as (NP (NNP GTE) (NN employee))
+sid=7 spanning 19 until 20 headed by 19 parsed as GTE
+sid=7 spanning 22 until 26 headed by 25 parsed as (NP (NML (NN company) (CC and) (NN city)) (NNS officials))
+sid=8 spanning 2 until 8 headed by 5 parsed as (NP (NP (DT a) (NML (JJ public) (NN health)) (NN point)) (PP (IN of) (NP (NN view))))
+sid=8 spanning 8 until 9 headed by 8 parsed as (NP (PRP we))
+sid=8 spanning 12 until 14 headed by 13 parsed as (NP (NNP hepatitis) (NNP A))
+sid=8 spanning 23 until 25 headed by 24 parsed as (NP (NP (NNP Dr.) (NNP Frank) (NNP Provato)) (, ,) (NP (NP (NNP GTE) (POS 's)) (JJ medical) (NN director)))
+sid=8 spanning 22 until 30 headed by 24 parsed as (NP (NP (NNP Dr.) (NNP Frank) (NNP Provato)) (, ,) (NP (NP (NNP GTE) (POS 's)) (JJ medical) (NN director)))
+sid=8 spanning 22 until 25 headed by 24 parsed as (NP (NNP Dr.) (NNP Frank) (NNP Provato))
+sid=8 spanning 26 until 30 headed by 29 parsed as (NP (NP (NNP GTE) (POS 's)) (JJ medical) (NN director))
+sid=8 spanning 26 until 28 headed by 26 parsed as (NP (NNP GTE) (POS 's))
+sid=9 spanning 1 until 2 headed by 1 parsed as (NP (PRP It))
+sid=9 spanning 3 until 8 headed by 7 parsed as (NP (DT a) (ADJP (RB double) (HYPH -) (VBN edged)) (NN sword))
+sid=9 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=9 spanning 14 until 20 headed by 17 parsed as (NP (NP (DT the) (ADJP (RBS most) (JJ contagious)) (NN kind)) (PP (IN of) (NP (NN hepatitis))))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP GTE) (NNS officials))
+sid=10 spanning 0 until 1 headed by 0 parsed as GTE
+sid=10 spanning 4 until 20 headed by 5 parsed as (NP (NP (NN warning) (NNS notices)) (PP (IN about) (NP (DT the) (JJ potential) (NN threat) (S (VP (TO to) (VP (NN exposure) (NP (NNP Wednesday) (NN morning)) (PP (IN at) (NP (JJ various) (NNS places))) (PP (IN at) (NP (DT the) (NN company)))))))))
+sid=10 spanning 7 until 20 headed by 9 parsed as (NP (DT the) (JJ potential) (NN threat) (S (VP (TO to) (VP (NN exposure) (NP (NNP Wednesday) (NN morning)) (PP (IN at) (NP (JJ various) (NNS places))) (PP (IN at) (NP (DT the) (NN company)))))))
+sid=10 spanning 12 until 14 headed by 13 parsed as (NP (NNP Wednesday) (NN morning))
+sid=10 spanning 12 until 13 headed by 12 parsed as Wednesday
+sid=10 spanning 15 until 17 headed by 16 parsed as (NP (JJ various) (NNS places))
+sid=10 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN company))
+sid=10 spanning 22 until 26 headed by 25 parsed as (NP (NML (NNP GTE) (NN spokesman)) (NNP Thomas) (NNP Mattausch))
+sid=10 spanning 22 until 23 headed by 22 parsed as GTE
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=11 spanning 5 until 21 headed by 5 parsed as (NP (NP (NNS shots)) (PP (IN of) (NP (NP (FW gamma) (FW globulin)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB diminish) (NP (NP (DT the) (ADJP (NN flu) (HYPH -) (JJ like)) (NNS symptoms)) (PP (IN of) (NP (NN hepatitis) (DT A)))))))))))
+sid=11 spanning 7 until 21 headed by 8 parsed as (NP (NP (FW gamma) (FW globulin)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB diminish) (NP (NP (DT the) (ADJP (NN flu) (HYPH -) (JJ like)) (NNS symptoms)) (PP (IN of) (NP (NN hepatitis) (DT A)))))))))
+sid=11 spanning 7 until 9 headed by 8 parsed as (NP (FW gamma) (FW globulin))
+sid=11 spanning 13 until 21 headed by 17 parsed as (NP (NP (DT the) (ADJP (NN flu) (HYPH -) (JJ like)) (NNS symptoms)) (PP (IN of) (NP (NN hepatitis) (DT A))))
+sid=11 spanning 19 until 21 headed by 19 parsed as (NP (NN hepatitis) (DT A))
+sid=11 spanning 23 until 29 headed by 23 parsed as (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBD contracted) (NP (DT the) (NN disease)))))))
+sid=11 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN disease))
+sid=11 spanning 30 until 32 headed by 31 parsed as (NP (NNP Mr.) (NNP Mattausch))
+sid=12 spanning 1 until 2 headed by 1 parsed as (NP (PRP We))
+sid=12 spanning 6 until 15 headed by 6 parsed as (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN eaten) (PP (IN in) (NP (NP (DT the) (NN cafeteria)) (NP (DT this) (NN month)))))))))
+sid=12 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT the) (NN cafeteria)) (NP (DT this) (NN month)))
+sid=12 spanning 13 until 15 headed by 14 parsed as (NP (DT this) (NN month))
+sid=12 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN shot))
+sid=12 spanning 20 until 22 headed by 21 parsed as (NP (NNP Mr.) (NNP Mattausch))
+sid=12 spanning 26 until 27 headed by 26 parsed as (NP (DT that))
+sid=12 spanning 28 until 33 headed by 29 parsed as (NP (NP (RB virtually) (NN everyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ works) (ADVP (RB here))))))
+(end predicted mentions)
+---------gold clusters--------
+24 10 3 20 | { 'the cafeteria worker' 'at least one cafeteria worker employed by GTE 's private food vending contractor , ARA Services Inc. ,' 'a cafeteria worker' 'the cafeteria worker with the virus' }
+18 25 17 | { 'his' 'Dr. McBride' 'Dr. Andrew McBride , city health director ,' }
+12 22 | { 'a strain of the virus' 'The exact strain of hepatitis that the cafeteria worker contracted' }
+2 5 34 27 23 19 21 13 | { 'hepatitis' 'the viral infection' 'hepatitis' 'the virus' 'hepatitis' 'the hepatitis , which can be highly contagious ,' 'the virus' 'the virus' }
+16 9 45 | { 'The cafeteria' 'its cafeteria' 'the cafeteria' }
+40 26 30 33 41 32 | { 'hepatitis A' 'Hepatitis A , considered the least dangerous strain of the virus ,' 'hepatitis A' 'it' 'the disease' 'It' }
+0 14 | { 'GTE Corp. 's headquarters' 'the GTE building' }
+46 37 42 | { 'Mr. Mattausch' 'GTE spokesman Thomas Mattausch' 'Mr. Mattausch' }
+15 8 29 28 4 36 7 48 1 39 6 38 31 43 35 11 | { 'GTE' 'its' 'we' 'GTE' 'GTE' 'the company' 'GTE' 'here' 'GTE Corp. 's' 'The company' 'GTE 's' 'GTE' 'GTE 's' 'We' 'GTE' 'GTE 's' }
+44 47 | { 'anyone who has eaten in the cafeteria this month' 'that' }
+(end gold clusters)

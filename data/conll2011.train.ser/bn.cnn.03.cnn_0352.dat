@@ -1,0 +1,56 @@
+---------gloss--------
+(0) [4m[31m{Several news organizations}[0m have filed for -- [4m[31m{their}[0m reporters had with [4m[32m{Scott Peterson}[0m . 
+(1) [4m[32m{Peterson}[0m was arrested for the murder of [4m[32m{his}[0m wife and unborn son after [3m[36m{their bodies}[0m washed ashore in California . 
+(2) [4m[32m{He}[0m is awaiting trial . 
+(3) Prosecutors are required to notify [4m[33m{anyone}[0m if [4m[33m{their}[0m phone conversations may be used as evidence . 
+(4) [4m[32m{Peterson 's}[0m phones were tapped under a court order . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0352); part 000
+sentences:
+SeveralseveralJJOPER0newsnewsNNOPER0organizationsorganizationNNSOPER0havehaveVBPOPER0filedfileVBNOPER0forforINOPER0----:OPER0theirtheyPRP$OPER0reportersreporterNNSOPER0hadhaveVBDOPER0withwithINOPER0ScottScottNNPPERSONPER0PetersonPetersonNNPPERSONPER0...OPER0(ROOT (S (S (NP (JJ Several) (NN news) (NNS organizations)) (VP (VBP have) (VP (VBN filed) (PP (IN for))))) (: --) (S (NP (PRP$ their) (NNS reporters)) (VP (VBD had) (PP (IN with) (NP (NNP Scott) (NNP Peterson))))) (. .)))
+PetersonPetersonNNPPERSONPER0wasbeVBDOPER0arrestedarrestVBNOPER0forforINOPER0thetheDTOPER0murdermurderNNOPER0ofofINOPER0hishePRP$OPER0wifewifeNNOPER0andandCCOPER0unbornunbornJJOPER0sonsonNNOPER0afterafterINOPER0theirtheyPRP$OPER0bodiesbodyNNSOPER0washedwashVBNOPER0ashoreashoreRBOPER0ininINOPER0CaliforniaCaliforniaNNPGPEPER0...OPER0(ROOT (S (NP (NNP Peterson)) (VP (VBD was) (VP (VBN arrested) (PP (IN for) (NP (NP (DT the) (NN murder)) (PP (IN of) (NP (PRP$ his) (NML (NML (NN wife)) (CC and) (NML (JJ unborn) (NN son))))))) (PP (IN after) (NP (NP (PRP$ their) (NNS bodies)) (VP (VBN washed) (ADVP (RB ashore)) (PP (IN in) (NP (NNP California)))))))) (. .)))
+HehePRPOPER0isbeVBZOPER0awaitingawaitVBGOPER0trialtrialNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ is) (VP (VBG awaiting) (NP (NN trial)))) (. .)))
+ProsecutorsprosecutorNNSOPER0arebeVBPOPER0requiredrequireVBNOPER0totoTOOPER0notifynotifyVBOPER0anyoneanyoneNNOPER0ififINOPER0theirtheyPRP$OPER0phonephoneNNOPER0conversationsconversationNNSOPER0maymayMDOPER0bebeVBOPER0useduseVBNOPER0asasINOPER0evidenceevidenceNNOPER0...OPER0(ROOT (S (NP (NNS Prosecutors)) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB notify) (NP (NN anyone)) (SBAR (IN if) (S (NP (PRP$ their) (NN phone) (NNS conversations)) (VP (MD may) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NN evidence))))))))))))) (. .)))
+PetersonPetersonNNPPERSONPER0's'sPOSOPER0phonesphoneNNSOPER0werebeVBDOPER0tappedtapVBNOPER0underunderINOPER0aaDTOPER0courtcourtNNOPER0orderorderNNOPER0...OPER0(ROOT (S (NP (NP (NNP Peterson) (POS 's)) (NNS phones)) (VP (VBD were) (VP (VBN tapped) (PP (IN under) (NP (DT a) (NN court) (NN order))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (JJ Several) (NN news) (NNS organizations))
+sid=0 spanning 7 until 8 headed by 7 parsed as their
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (NNP Scott) (NNP Peterson))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Peterson))
+sid=1 spanning 7 until 12 headed by 8 parsed as (NP (PRP$ his) (NML (NML (NN wife)) (CC and) (NML (JJ unborn) (NN son))))
+sid=1 spanning 7 until 8 headed by 7 parsed as his
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (NP (PRP$ their) (NNS bodies)) (VP (VBN washed) (ADVP (RB ashore)) (PP (IN in) (NP (NNP California)))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NN anyone))
+sid=3 spanning 7 until 8 headed by 7 parsed as their
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Peterson) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (JJ Several) (NN news) (NNS organizations))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ their) (NNS reporters))
+sid=0 spanning 7 until 8 headed by 7 parsed as (PRP$ their)
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (NNP Scott) (NNP Peterson))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Peterson))
+sid=1 spanning 4 until 12 headed by 5 parsed as (NP (NP (DT the) (NN murder)) (PP (IN of) (NP (PRP$ his) (NML (NML (NN wife)) (CC and) (NML (JJ unborn) (NN son))))))
+sid=1 spanning 7 until 12 headed by 8 parsed as (NP (PRP$ his) (NML (NML (NN wife)) (CC and) (NML (JJ unborn) (NN son))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (PRP$ his)
+sid=1 spanning 13 until 19 headed by 14 parsed as (NP (NP (PRP$ their) (NNS bodies)) (VP (VBN washed) (ADVP (RB ashore)) (PP (IN in) (NP (NNP California)))))
+sid=1 spanning 13 until 14 headed by 13 parsed as (PRP$ their)
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (NNP California))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Prosecutors))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (PRP$ their) (NN phone) (NNS conversations))
+sid=3 spanning 7 until 8 headed by 7 parsed as (PRP$ their)
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Peterson) (POS 's)) (NNS phones))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Peterson) (POS 's))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (NN court) (NN order))
+(end predicted mentions)
+---------gold clusters--------
+4 6 | { 'his wife and unborn son' 'their bodies' }
+0 1 | { 'Several news organizations' 'their' }
+3 7 2 10 5 | { 'Peterson' 'He' 'Scott Peterson' 'Peterson 's' 'his' }
+9 8 | { 'their' 'anyone' }
+(end gold clusters)

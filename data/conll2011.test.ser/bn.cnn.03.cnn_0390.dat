@@ -1,0 +1,94 @@
+---------gloss--------
+(0) Back in [1m[34m{this city}[0m , a courthouse in Manhattan . 
+(1) [1m[31m{Sam Waksal , founder and former CEO of ImClone}[0m is scheduled to be sentenced today . 
+(2) [1m[31m{He}[0m pleaded guilty earlier this year to insider trading , bank fraud and tax evasion . 
+(3) [1m[31m{Waksal}[0m could be fined $ 3.5 million , facing a maximum of 75 years in prison , expected , though , to receive about six to seven years . 
+(4) That 's the early indication we 've been given . 
+(5) [1m[33m{A friend of his , Martha Stewart ,}[0m pleaded not guilty last week . 
+(6) The charges related to [1m[33m{her}[0m sale of [1m[36m{ImClone}[0m stock . 
+(7) [1m[33m{She}[0m [1m[35m{sold}[0m [1m[32m{the share}[0m a day before bad news about [1m[36m{the company}[0m sent the stock price falling , considerably . 
+(8) [1m[31m{Sam Waksal}[0m , sentenced , 10:00 a.m. , local time here in [1m[34m{New York}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0390); part 000
+sentences:
+BackbackRBOPER0ininINOPER0thisthisDTOPER0citycityNNOPER0,,,OPER0aaDTOPER0courthousecourthouseNNOPER0ininINOPER0ManhattanManhattanNNPGPEPER0...OPER0(ROOT (FRAG (ADVP (RB Back) (PP (IN in) (NP (DT this) (NN city)))) (, ,) (NP (NP (DT a) (NN courthouse)) (PP (IN in) (NP (NNP Manhattan)))) (. .)))
+SamSamNNPPERSONPER0WaksalWaksalNNPPERSONPER0,,,OPER0founderfounderNNOPER0andandCCOPER0formerformerJJOPER0CEOceoNNOPER0ofofINOPER0ImCloneImCloneNNPORGPER0isbeVBZOPER0scheduledscheduleVBNOPER0totoTOOPER0bebeVBOPER0sentencedsentenceVBNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP Sam) (NNP Waksal)) (, ,) (NP (NP (NP (NN founder)) (CC and) (NP (JJ former) (NN CEO))) (PP (IN of) (NP (NNP ImClone))))) (VP (VBZ is) (VP (VBN scheduled) (S (VP (TO to) (VP (VB be) (VP (VBN sentenced) (NP (NN today)))))))) (. .)))
+HehePRPOPER0pleadedpleadVBDOPER0guiltyguiltyJJOPER0earlierearlierRBRDATEPER0thisthisDTDATEPER0yearyearNNDATEPER0totoINOPER0insiderinsiderNNOPER0tradingtradingNNOPER0,,,OPER0bankbankNNOPER0fraudfraudNNOPER0andandCCOPER0taxtaxNNOPER0evasionevasionNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD pleaded) (ADJP (JJ guilty)) (NP (ADVP (RBR earlier)) (DT this) (NN year)) (PP (IN to) (NP (NP (NN insider) (NN trading)) (, ,) (NP (NN bank) (NN fraud)) (CC and) (NP (NN tax) (NN evasion))))) (. .)))
+WaksalWaksalNNPORGPER0couldcouldMDOPER0bebeVBOPER0finedfineVBNOPER0$$$MONEYPER03.53.5CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0facingfaceVBGOPER0aaDTOPER0maximummaximumNNOPER0ofofINOPER07575CDDATEPER0yearsyearNNSDATEPER0ininINOPER0prisonprisonNNOPER0,,,OPER0expectedexpectVBNOPER0,,,OPER0thoughthoughRBOPER0,,,OPER0totoTOOPER0receivereceiveVBOPER0aboutaboutRBDATEPER0sixsixCDDATEPER0totoTODATEPER0sevensevenCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NNP Waksal)) (VP (MD could) (VP (VB be) (VP (VBN fined) (NP (NP (QP ($ $) (CD 3.5) (CD million))) (, ,) (VP (VBG facing) (NP (NP (DT a) (NN maximum)) (PP (IN of) (NP (NP (CD 75) (NNS years)) (PP (IN in) (NP (NN prison))))))) (, ,) (VP (VBN expected)) (, ,)) (ADVP (RB though)) (, ,) (S (VP (TO to) (VP (VB receive) (NP (QP (RB about) (CD six) (TO to) (CD seven)) (NNS years)))))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0thetheDTOPER0earlyearlyJJOPER0indicationindicationNNOPER0wewePRPOPER0'vehaveVBPOPER0beenbeVBNOPER0givengiveVBNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT the) (JJ early) (NN indication)) (SBAR (S (NP (PRP we)) (VP (VBP 've) (VP (VBN been) (VP (VBN given)))))))) (. .)))
+AaDTOPER0friendfriendNNOPER0ofofINOPER0hishePRP$OPER0,,,OPER0MarthaMarthaNNPPERSONPER0StewartStewartNNPPERSONPER0,,,OPER0pleadedpleadVBDOPER0notnotRBOPER0guiltyguiltyJJOPER0lastlastJJDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (NP (NP (DT A) (NN friend)) (PP (IN of) (NP (PRP$ his)))) (, ,) (NP (NNP Martha) (NNP Stewart)) (, ,)) (VP (VBD pleaded) (ADJP (RB not) (JJ guilty)) (NP (JJ last) (NN week))) (. .)))
+ThetheDTOPER0chargeschargeNNSOPER0relatedrelateVBNOPER0totoINOPER0hershePRP$OPER0salesaleNNOPER0ofofINOPER0ImCloneImCloneNNPORGPER0stockstockNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS charges)) (VP (VBN related) (PP (IN to) (NP (NP (PRP$ her) (NN sale)) (PP (IN of) (NP (NNP ImClone) (NN stock)))))) (. .)))
+SheshePRPOPER0soldsellVBDOPER0thetheDTOPER0shareshareNNOPER0aaDTDATEPER0daydayNNDATEPER0beforebeforeINOPER0badbadJJOPER0newsnewsNNOPER0aboutaboutINOPER0thetheDTOPER0companycompanyNNOPER0sentsendVBDOPER0thetheDTOPER0stockstockNNOPER0pricepriceNNOPER0fallingfallVBGOPER0,,,OPER0considerablyconsiderablyRBOPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBD sold) (NP (DT the) (NN share)) (SBAR (NP (DT a) (NN day)) (IN before) (S (NP (NP (JJ bad) (NN news)) (PP (IN about) (NP (DT the) (NN company)))) (VP (VBD sent) (S (NP (DT the) (NN stock) (NN price)) (VP (VP (VBG falling)) (, ,) (ADVP (RB considerably)))))))) (. .)))
+SamSamNNPPERSONPER0WaksalWaksalNNPPERSONPER0,,,OPER0sentencedsentenceVBNOPER0,,,OPER010:0010:00CDTIMEPER0a.m.a.m.NNTIMEPER0,,,OPER0locallocalJJOPER0timetimeNNOPER0herehereRBOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Sam) (NNP Waksal)) (, ,) (ADJP (VBN sentenced)) (, ,) (NP (NP (NP (CD 10:00) (NN a.m.)) (, ,) (NP (JJ local) (NN time))) (ADVP (RB here) (PP (IN in) (NP (NNP New) (NNP York))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (DT this) (NN city))
+sid=1 spanning 0 until 9 headed by 1 parsed as (NP (NP (NNP Sam) (NNP Waksal)) (, ,) (NP (NP (NP (NN founder)) (CC and) (NP (JJ former) (NN CEO))) (PP (IN of) (NP (NNP ImClone)))))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP ImClone))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=5 spanning 0 until 8 headed by 1 parsed as (NP (NP (NP (DT A) (NN friend)) (PP (IN of) (NP (PRP$ his)))) (, ,) (NP (NNP Martha) (NNP Stewart)) (, ,))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (PRP$ his))
+sid=6 spanning 4 until 9 headed by 5 parsed as (NP (NP (PRP$ her) (NN sale)) (PP (IN of) (NP (NNP ImClone) (NN stock))))
+sid=6 spanning 4 until 5 headed by 4 parsed as her
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (NNP ImClone) (NN stock))
+sid=6 spanning 7 until 8 headed by 7 parsed as ImClone
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=7 spanning 1 until 2 headed by 1 parsed as sold
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN share))
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN company))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (NNP Sam) (NNP Waksal))
+sid=8 spanning 12 until 14 headed by 13 parsed as (NP (NNP New) (NNP York))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (DT this) (NN city))
+sid=0 spanning 5 until 9 headed by 6 parsed as (NP (NP (DT a) (NN courthouse)) (PP (IN in) (NP (NNP Manhattan))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Manhattan))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Sam) (NNP Waksal)) (, ,) (NP (NP (NP (NN founder)) (CC and) (NP (JJ former) (NN CEO))) (PP (IN of) (NP (NNP ImClone)))))
+sid=1 spanning 0 until 9 headed by 1 parsed as (NP (NP (NNP Sam) (NNP Waksal)) (, ,) (NP (NP (NP (NN founder)) (CC and) (NP (JJ former) (NN CEO))) (PP (IN of) (NP (NNP ImClone)))))
+sid=1 spanning 3 until 9 headed by 3 parsed as (NP (NP (NP (NN founder)) (CC and) (NP (JJ former) (NN CEO))) (PP (IN of) (NP (NNP ImClone))))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP ImClone))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (ADVP (RBR earlier)) (DT this) (NN year))
+sid=2 spanning 7 until 15 headed by 8 parsed as (NP (NP (NN insider) (NN trading)) (, ,) (NP (NN bank) (NN fraud)) (CC and) (NP (NN tax) (NN evasion)))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NN insider) (NN trading))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (NN bank) (NN fraud))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (NN tax) (NN evasion))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=3 spanning 9 until 16 headed by 10 parsed as (NP (NP (DT a) (NN maximum)) (PP (IN of) (NP (NP (CD 75) (NNS years)) (PP (IN in) (NP (NN prison))))))
+sid=3 spanning 12 until 16 headed by 13 parsed as (NP (NP (CD 75) (NNS years)) (PP (IN in) (NP (NN prison))))
+sid=3 spanning 23 until 28 headed by 27 parsed as (NP (QP (RB about) (CD six) (TO to) (CD seven)) (NNS years))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=4 spanning 2 until 9 headed by 4 parsed as (NP (NP (DT the) (JJ early) (NN indication)) (SBAR (S (NP (PRP we)) (VP (VBP 've) (VP (VBN been) (VP (VBN given)))))))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (PRP we))
+sid=5 spanning 0 until 8 headed by 1 parsed as (NP (NP (NP (DT A) (NN friend)) (PP (IN of) (NP (PRP$ his)))) (, ,) (NP (NNP Martha) (NNP Stewart)) (, ,))
+sid=5 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT A) (NN friend)) (PP (IN of) (NP (PRP$ his))))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (PRP$ his))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (NNP Martha) (NNP Stewart))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (JJ last) (NN week))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS charges))
+sid=6 spanning 4 until 9 headed by 5 parsed as (NP (NP (PRP$ her) (NN sale)) (PP (IN of) (NP (NNP ImClone) (NN stock))))
+sid=6 spanning 4 until 5 headed by 4 parsed as (PRP$ her)
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (NNP ImClone) (NN stock))
+sid=6 spanning 7 until 8 headed by 7 parsed as ImClone
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN share))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (DT a) (NN day))
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN company))
+sid=7 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NN stock) (NN price))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (NNP Sam) (NNP Waksal))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (NP (NP (CD 10:00) (NN a.m.)) (, ,) (NP (JJ local) (NN time))) (ADVP (RB here) (PP (IN in) (NP (NNP New) (NNP York)))))
+sid=8 spanning 5 until 14 headed by 6 parsed as (NP (NP (NP (CD 10:00) (NN a.m.)) (, ,) (NP (JJ local) (NN time))) (ADVP (RB here) (PP (IN in) (NP (NNP New) (NNP York)))))
+sid=8 spanning 8 until 10 headed by 9 parsed as (NP (JJ local) (NN time))
+sid=8 spanning 12 until 14 headed by 13 parsed as (NP (NNP New) (NNP York))
+(end predicted mentions)
+---------gold clusters--------
+1 6 3 4 15 | { 'Sam Waksal , founder and former CEO of ImClone' 'his' 'He' 'Waksal' 'Sam Waksal' }
+9 13 | { 'ImClone stock' 'the share' }
+11 5 8 | { 'She' 'A friend of his , Martha Stewart ,' 'her' }
+16 0 | { 'New York' 'this city' }
+7 12 | { 'her sale of ImClone stock' 'sold' }
+14 2 10 | { 'the company' 'ImClone' 'ImClone' }
+(end gold clusters)

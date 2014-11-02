@@ -1,0 +1,77 @@
+---------gloss--------
+(0) A man from the Bush administration came before [4m[33m{the House Agriculture Committee}[0m yesterday to talk about the U.S. 's intention to send [4m[32m{some $ 100 million in food aid}[0m to [4m[34m{Poland}[0m , with more to come from the EC . 
+(1) [4m[33m{The committee 's}[0m members are worried what [4m[32m{all this free food}[0m might do to the economic prospects of [4m[34m{Poland 's}[0m own farmers . 
+(2) Rep. Gary Ackerman noted that past food aid had harmed farmers in El Salvador and Egypt . 
+(3) However well intentioned , food transfers have the habit of growing larger and wrecking the market incentives for the recipient country 's own farmers . 
+(4) The First World has for some time had the bad habit of smothering other people 's economies with this kind of unfocused kindness . 
+(5) It should be constantly stressed that [4m[34m{Poland 's}[0m farmers mostly need a real market for [4m[31m{their}[0m products . 
+(end gloss)
+---------document--------
+(nw/wsj/01/wsj_0134); part 000
+sentences:
+AaDTOPER0manmanNNOPER0fromfromINOPER0thetheDTOPER0BushBushNNPPERSONPER0administrationadministrationNNOPER0camecomeVBDOPER0beforebeforeINOPER0thetheDTORGPER0HouseHouseNNPORGPER0AgricultureAgricultureNNPORGPER0CommitteeCommitteeNNPORGPER0yesterdayyesterdayNNDATEPER0totoTOOPER0talktalkVBOPER0aboutaboutINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0's'sPOSOPER0intentionintentionNNOPER0totoTOOPER0sendsendVBOPER0somesomeDTMONEYPER0$$$MONEYPER0100100CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0foodfoodNNOPER0aidaidNNOPER0totoINOPER0PolandPolandNNPGPEPER0,,,OPER0withwithINOPER0moremoreJJROPER0totoTOOPER0comecomeVBOPER0fromfromINOPER0thetheDTOPER0ECECNNPORGPER0...OPER0(ROOT (S (NP (NP (DT A) (NN man)) (PP (IN from) (NP (DT the) (NNP Bush) (NN administration)))) (VP (VBD came) (PP (IN before) (NP (DT the) (NNP House) (NNP Agriculture) (NNP Committee))) (NP (NN yesterday)) (S (VP (TO to) (VP (VB talk) (PP (IN about) (NP (NP (DT the) (NNP U.S.) (POS 's)) (NN intention) (S (VP (TO to) (VP (VB send) (NP (NP (QP (DT some) ($ $) (CD 100) (CD million))) (PP (IN in) (NP (NN food) (NN aid)))) (PP (IN to) (NP (NNP Poland))) (, ,) (PP (IN with) (NP (NP (JJR more)) (S (VP (TO to) (VP (VB come) (PP (IN from) (NP (DT the) (NNP EC))))))))))))))))) (. .)))
+ThetheDTOPER0committeecommitteeNNOPER0's'sPOSOPER0membersmemberNNSOPER0arebeVBPOPER0worriedworriedJJOPER0whatwhatWPOPER0allallPDTOPER0thisthisDTOPER0freefreeJJOPER0foodfoodNNOPER0mightmightMDOPER0dodoVBOPER0totoINOPER0thetheDTOPER0economiceconomicJJOPER0prospectsprospectsNNSOPER0ofofINOPER0PolandPolandNNPGPEPER0's'sPOSOPER0ownownJJOPER0farmersfarmerNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN committee) (POS 's)) (NNS members)) (VP (VBP are) (ADJP (JJ worried) (SBAR (WHNP (WP what)) (S (NP (PDT all) (DT this) (NML (JJ free) (NN food))) (VP (MD might) (VP (VB do) (PP (IN to) (NP (NP (DT the) (JJ economic) (NNS prospects)) (PP (IN of) (NP (NP (NNP Poland) (POS 's)) (JJ own) (NNS farmers))))))))))) (. .)))
+Rep.Rep.NNPOPER0GaryGaryNNPPERSONPER0AckermanAckermanNNPPERSONPER0notednoteVBDOPER0thatthatINOPER0pastpastJJOPER0foodfoodNNOPER0aidaidNNOPER0hadhaveVBDOPER0harmedharmVBNOPER0farmersfarmerNNSOPER0ininINOPER0ElElNNPGPEPER0SalvadorSalvadorNNPGPEPER0andandCCOPER0EgyptEgyptNNPGPEPER0...OPER0(ROOT (S (NP (NNP Rep.) (NNP Gary) (NNP Ackerman)) (VP (VBD noted) (SBAR (IN that) (S (NP (JJ past) (NN food) (NN aid)) (VP (VBD had) (VP (VBN harmed) (NP (NP (NNS farmers)) (PP (IN in) (NP (NP (NNP El) (NNP Salvador)) (CC and) (NP (NNP Egypt)))))))))) (. .)))
+HoweverhoweverRBOPER0wellwellRBOPER0intentionedintentionVBNOPER0,,,OPER0foodfoodNNOPER0transferstransferNNSOPER0havehaveVBPOPER0thetheDTOPER0habithabitNNOPER0ofofINOPER0growinggrowVBGOPER0largerlargerJJROPER0andandCCOPER0wreckingwreckVBGOPER0thetheDTOPER0marketmarketNNOPER0incentivesincentiveNNSOPER0forforINOPER0thetheDTOPER0recipientrecipientNNOPER0countrycountryNNOPER0's'sPOSOPER0ownownJJOPER0farmersfarmerNNSOPER0...OPER0(ROOT (S (ADVP (RB However)) (NP (ADJP (RB well) (VBN intentioned)) (, ,) (NN food) (NNS transfers)) (VP (VBP have) (NP (NP (DT the) (NN habit)) (PP (IN of) (S (VP (VP (VBG growing) (ADJP (JJR larger))) (CC and) (VP (VBG wrecking) (NP (NP (DT the) (NN market) (NNS incentives)) (PP (IN for) (NP (NP (DT the) (NN recipient) (NN country) (POS 's)) (JJ own) (NNS farmers)))))))))) (. .)))
+ThetheDTOPER0FirstFirstNNPOPER0WorldWorldNNPOPER0hashaveVBZOPER0forforINOPER0somesomeDTOPER0timetimeNNOPER0hadhaveVBNOPER0thetheDTOPER0badbadJJOPER0habithabitNNOPER0ofofINOPER0smotheringsmotherVBGOPER0otherotherJJOPER0peoplepeopleNNSOPER0's'sPOSOPER0economieseconomyNNSOPER0withwithINOPER0thisthisDTOPER0kindkindNNOPER0ofofINOPER0unfocusedunfocusedJJOPER0kindnesskindnessNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP First) (NNP World)) (VP (VBZ has) (PP (IN for) (NP (DT some) (NN time))) (VP (VBN had) (NP (NP (DT the) (JJ bad) (NN habit)) (PP (IN of) (S (VP (VBG smothering) (NP (NP (JJ other) (NNS people) (POS 's)) (NNS economies)) (PP (IN with) (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (JJ unfocused) (NN kindness))))))))))) (. .)))
+ItitPRPOPER0shouldshouldMDOPER0bebeVBOPER0constantlyconstantlyRBOPER0stressedstressVBDOPER0thatthatINOPER0PolandPolandNNPGPEPER0's'sPOSOPER0farmersfarmerNNSOPER0mostlymostlyRBOPER0needneedVBPOPER0aaDTOPER0realrealJJOPER0marketmarketNNOPER0forforINOPER0theirtheyPRP$OPER0productsproductNNSOPER0...OPER0(ROOT (S (NP (NP (PRP It)) (VP (MD should) (VP (VB be) (ADVP (RB constantly))))) (VP (VBD stressed) (SBAR (IN that) (S (NP (NP (NNP Poland) (POS 's)) (NNS farmers)) (ADVP (RB mostly)) (VP (VBP need) (NP (NP (DT a) (JJ real) (NN market)) (PP (IN for) (NP (PRP$ their) (NNS products)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 8 until 12 headed by 11 parsed as (NP (DT the) (NNP House) (NNP Agriculture) (NNP Committee))
+sid=0 spanning 22 until 29 headed by 23 parsed as (NP (NP (QP (DT some) ($ $) (CD 100) (CD million))) (PP (IN in) (NP (NN food) (NN aid))))
+sid=0 spanning 30 until 31 headed by 30 parsed as (NP (NNP Poland))
+sid=1 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN committee) (POS 's))
+sid=1 spanning 7 until 11 headed by 10 parsed as (NP (PDT all) (DT this) (NML (JJ free) (NN food)))
+sid=1 spanning 18 until 22 headed by 21 parsed as (NP (NP (NNP Poland) (POS 's)) (JJ own) (NNS farmers))
+sid=1 spanning 18 until 20 headed by 18 parsed as (NP (NNP Poland) (POS 's))
+sid=5 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNP Poland) (POS 's)) (NNS farmers))
+sid=5 spanning 6 until 8 headed by 6 parsed as (NP (NNP Poland) (POS 's))
+sid=5 spanning 15 until 16 headed by 15 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT A) (NN man)) (PP (IN from) (NP (DT the) (NNP Bush) (NN administration))))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Bush) (NN administration))
+sid=0 spanning 4 until 5 headed by 4 parsed as Bush
+sid=0 spanning 8 until 12 headed by 11 parsed as (NP (DT the) (NNP House) (NNP Agriculture) (NNP Committee))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NN yesterday))
+sid=0 spanning 16 until 39 headed by 19 parsed as (NP (NP (DT the) (NNP U.S.) (POS 's)) (NN intention) (S (VP (TO to) (VP (VB send) (NP (NP (QP (DT some) ($ $) (CD 100) (CD million))) (PP (IN in) (NP (NN food) (NN aid)))) (PP (IN to) (NP (NNP Poland))) (, ,) (PP (IN with) (NP (NP (JJR more)) (S (VP (TO to) (VP (VB come) (PP (IN from) (NP (DT the) (NNP EC))))))))))))
+sid=0 spanning 16 until 19 headed by 17 parsed as (NP (DT the) (NNP U.S.) (POS 's))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (NN food) (NN aid))
+sid=0 spanning 30 until 31 headed by 30 parsed as (NP (NNP Poland))
+sid=0 spanning 33 until 39 headed by 33 parsed as (NP (NP (JJR more)) (S (VP (TO to) (VP (VB come) (PP (IN from) (NP (DT the) (NNP EC)))))))
+sid=0 spanning 37 until 39 headed by 38 parsed as (NP (DT the) (NNP EC))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NN committee) (POS 's)) (NNS members))
+sid=1 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN committee) (POS 's))
+sid=1 spanning 14 until 22 headed by 16 parsed as (NP (NP (DT the) (JJ economic) (NNS prospects)) (PP (IN of) (NP (NP (NNP Poland) (POS 's)) (JJ own) (NNS farmers))))
+sid=1 spanning 18 until 22 headed by 21 parsed as (NP (NP (NNP Poland) (POS 's)) (JJ own) (NNS farmers))
+sid=1 spanning 18 until 20 headed by 18 parsed as (NP (NNP Poland) (POS 's))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NNP Rep.) (NNP Gary) (NNP Ackerman))
+sid=2 spanning 10 until 16 headed by 10 parsed as (NP (NP (NNS farmers)) (PP (IN in) (NP (NP (NNP El) (NNP Salvador)) (CC and) (NP (NNP Egypt)))))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (NP (NNP El) (NNP Salvador)) (CC and) (NP (NNP Egypt)))
+sid=2 spanning 12 until 16 headed by 13 parsed as (NP (NP (NNP El) (NNP Salvador)) (CC and) (NP (NNP Egypt)))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NNP Egypt))
+sid=3 spanning 1 until 6 headed by 5 parsed as (NP (ADJP (RB well) (VBN intentioned)) (, ,) (NN food) (NNS transfers))
+sid=3 spanning 7 until 24 headed by 8 parsed as (NP (NP (DT the) (NN habit)) (PP (IN of) (S (VP (VP (VBG growing) (ADJP (JJR larger))) (CC and) (VP (VBG wrecking) (NP (NP (DT the) (NN market) (NNS incentives)) (PP (IN for) (NP (NP (DT the) (NN recipient) (NN country) (POS 's)) (JJ own) (NNS farmers)))))))))
+sid=3 spanning 14 until 24 headed by 16 parsed as (NP (NP (DT the) (NN market) (NNS incentives)) (PP (IN for) (NP (NP (DT the) (NN recipient) (NN country) (POS 's)) (JJ own) (NNS farmers))))
+sid=3 spanning 18 until 24 headed by 23 parsed as (NP (NP (DT the) (NN recipient) (NN country) (POS 's)) (JJ own) (NNS farmers))
+sid=3 spanning 18 until 22 headed by 20 parsed as (NP (DT the) (NN recipient) (NN country) (POS 's))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP First) (NNP World))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT some) (NN time))
+sid=4 spanning 8 until 23 headed by 10 parsed as (NP (NP (DT the) (JJ bad) (NN habit)) (PP (IN of) (S (VP (VBG smothering) (NP (NP (JJ other) (NNS people) (POS 's)) (NNS economies)) (PP (IN with) (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (JJ unfocused) (NN kindness)))))))))
+sid=4 spanning 13 until 17 headed by 16 parsed as (NP (NP (JJ other) (NNS people) (POS 's)) (NNS economies))
+sid=4 spanning 13 until 16 headed by 14 parsed as (NP (JJ other) (NNS people) (POS 's))
+sid=4 spanning 18 until 23 headed by 19 parsed as (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (JJ unfocused) (NN kindness))))
+sid=5 spanning 0 until 4 headed by 0 parsed as (NP (NP (PRP It)) (VP (MD should) (VP (VB be) (ADVP (RB constantly)))))
+sid=5 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNP Poland) (POS 's)) (NNS farmers))
+sid=5 spanning 6 until 8 headed by 6 parsed as (NP (NNP Poland) (POS 's))
+sid=5 spanning 11 until 17 headed by 13 parsed as (NP (NP (DT a) (JJ real) (NN market)) (PP (IN for) (NP (PRP$ their) (NNS products))))
+sid=5 spanning 15 until 17 headed by 16 parsed as (NP (PRP$ their) (NNS products))
+sid=5 spanning 15 until 16 headed by 15 parsed as (PRP$ their)
+(end predicted mentions)
+---------gold clusters--------
+9 5 7 | { 'their' 'Poland 's own farmers' 'Poland 's farmers' }
+4 1 | { 'all this free food' 'some $ 100 million in food aid' }
+0 3 | { 'the House Agriculture Committee' 'The committee 's' }
+8 2 6 | { 'Poland 's' 'Poland' 'Poland 's' }
+(end gold clusters)

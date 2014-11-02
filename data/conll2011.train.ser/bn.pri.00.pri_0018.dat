@@ -1,0 +1,134 @@
+---------gloss--------
+(0) [36m{An apparent attack on a US warship}[0m has left at least six American sailors dead and about 35 injured . 
+(1) [36m{The explosion}[0m came as [4m[36m{the guided - missile destroyer USS Cole}[0m was refueling at [35m{a port in Yemen}[0m . 
+(2) [32m{NPR 's}[0m Chad Pergram reports . 
+(3) Both the White House and [1m[31m{the Pentagon}[0m said [36m{the attack}[0m appeared to be an act of terrorism . 
+(4) President Clinton immediately whisked to the region investigative teams from the FBI , [1m[31m{the Pentagon}[0m and the State Department . 
+(5) [36m{The attack}[0m comes as US forces in the Middle East have been placed on a heightened state of alert after days of clashes between Israelis and Palestinians . 
+(6) Defense Secretary William Cohen said [33m{the US}[0m would continue to protect [33m{its}[0m interests around the globe . 
+(7) No one should doubt [33m{our}[0m resolve to remain a force for peace and for stability and [31m{no one}[0m should assume that [31m{they}[0m can force [33m{us}[0m to retreat . 
+(8) [34m{No one}[0m should assume [34m{they}[0m can attack [33m{us}[0m with impunity . 
+(9) [4m[36m{The Cole}[0m had just arrived in [35m{the harbor}[0m for a refueling stop . 
+(10) Officials say men aboard this small boat had been assisting [4m[36m{the Cole}[0m with mooring lines just before [36m{the blast}[0m . 
+(11) [1m[32m{Chad Pergram , NPR News , Washington .}[0m 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0018); part 000
+sentences:
+AnaDTOPER0apparentapparentJJOPER0attackattackNNOPER0ononINOPER0aaDTOPER0USUSNNPGPEPER0warshipwarshipNNOPER0hashaveVBZOPER0leftleaveVBNOPER0atatINCARDINALPER0leastleastJJSCARDINALPER0sixsixCDCARDINALPER0AmericanAmericanNNPOPER0sailorssailorNNSOPER0deaddeadJJOPER0andandCCOPER0aboutaboutINCARDINALPER03535CDCARDINALPER0injuredinjureVBNOPER0...OPER0(ROOT (S (NP (NP (DT An) (JJ apparent) (NN attack)) (PP (IN on) (NP (DT a) (NNP US) (NN warship)))) (VP (VBZ has) (VP (VBN left) (S (S (NP (QP (ADVP (IN at) (JJS least)) (CD six)) (NNP American) (NNS sailors)) (ADJP (JJ dead))) (CC and) (S (NP (QP (IN about) (CD 35))) (VP (VBN injured)))))) (. .)))
+ThetheDTOPER0explosionexplosionNNOPER0camecomeVBDOPER0asasINOPER0thetheDTOPER0guidedguideVBNOPER0--HYPHOPER0missilemissileNNOPER0destroyerdestroyerNNOPER0USSUSSNNPPRODUCTPER0ColeColeNNPPRODUCTPER0wasbeVBDOPER0refuelingrefuelVBGOPER0atatINOPER0aaDTOPER0portportNNOPER0ininINOPER0YemenYemenNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN explosion)) (VP (VBD came) (SBAR (IN as) (S (NP (NP (DT the) (NML (VBN guided) (HYPH -) (NN missile)) (NN destroyer)) (NP (NNP USS) (NNP Cole))) (VP (VBD was) (VP (VBG refueling) (PP (IN at) (NP (NP (DT a) (NN port)) (PP (IN in) (NP (NNP Yemen)))))))))) (. .)))
+NPRNPRNNPORGPER0's'sPOSOPER0ChadChadNNPORGPER0PergramPergramNNPORGPER0reportsreportVBZOPER0...OPER0(ROOT (S (NP (NP (NNP NPR) (POS 's)) (NNP Chad) (NNP Pergram)) (VP (VBZ reports)) (. .)))
+BothbothCCOPER0thetheDTORGPER0WhiteWhiteNNPORGPER0HouseHouseNNPORGPER0andandCCOPER0thetheDTOPER0PentagonPentagonNNPORGPER0saidsayVBDOPER0thetheDTOPER0attackattackNNOPER0appearedappearVBDOPER0totoTOOPER0bebeVBOPER0anaDTOPER0actactNNOPER0ofofINOPER0terrorismterrorismNNOPER0...OPER0(ROOT (S (NP (CC Both) (NP (DT the) (NNP White) (NNP House)) (CC and) (NP (DT the) (NNP Pentagon))) (VP (VBD said) (SBAR (S (NP (DT the) (NN attack)) (VP (VBD appeared) (S (VP (TO to) (VP (VB be) (NP (NP (DT an) (NN act)) (PP (IN of) (NP (NN terrorism))))))))))) (. .)))
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0immediatelyimmediatelyRBOPER0whiskedwhiskVBDOPER0totoINOPER0thetheDTOPER0regionregionNNOPER0investigativeinvestigativeJJOPER0teamsteamNNSOPER0fromfromINOPER0thetheDTOPER0FBIFBINNPORGPER0,,,OPER0thetheDTOPER0PentagonPentagonNNPORGPER0andandCCOPER0thetheDTORGPER0StateStateNNPORGPER0DepartmentDepartmentNNPORGPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (ADVP (RB immediately)) (VP (VBD whisked) (PP (IN to) (NP (DT the) (NN region))) (NP (NP (JJ investigative) (NNS teams)) (PP (IN from) (NP (NP (DT the) (NNP FBI)) (, ,) (NP (DT the) (NNP Pentagon)) (CC and) (NP (DT the) (NNP State) (NNP Department)))))) (. .)))
+ThetheDTOPER0attackattackNNOPER0comescomeVBZOPER0asasINOPER0USUSNNPGPEPER0forcesforceNNSOPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0havehaveVBPOPER0beenbeVBNOPER0placedplaceVBNOPER0ononINOPER0aaDTOPER0heightenedheightenedJJOPER0statestateNNOPER0ofofINOPER0alertalertNNOPER0afterafterINOPER0daysdayNNSDATEPER0ofofINOPER0clashesclashNNSOPER0betweenbetweenINOPER0IsraelisIsraelisNNPSOPER0andandCCOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (DT The) (NN attack)) (VP (VBZ comes) (SBAR (IN as) (S (NP (NP (NNP US) (NNS forces)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))) (VP (VBP have) (VP (VBN been) (VP (VBN placed) (PP (IN on) (NP (NP (DT a) (JJ heightened) (NN state)) (PP (IN of) (NP (NN alert))))) (PP (IN after) (NP (NP (NNS days)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))))))))))) (. .)))
+DefenseDefenseNNPORGPER0SecretarySecretaryNNPOPER0WilliamWilliamNNPPERSONPER0CohenCohenNNPPERSONPER0saidsayVBDOPER0thetheDTOPER0USUSNNPGPEPER0wouldwouldMDOPER0continuecontinueVBOPER0totoTOOPER0protectprotectVBOPER0itsitsPRP$OPER0interestsinterestNNSOPER0aroundaroundINOPER0thetheDTOPER0globeglobeNNOPER0...OPER0(ROOT (S (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP US)) (VP (MD would) (VP (VB continue) (S (VP (TO to) (VP (VB protect) (NP (NP (PRP$ its) (NNS interests)) (PP (IN around) (NP (DT the) (NN globe)))))))))))) (. .)))
+NonoDTOPER0oneonePRPOPER0shouldshouldMDOPER0doubtdoubtVBOPER0ourwePRP$OPER0resolveresolveNNOPER0totoTOOPER0remainremainVBOPER0aaDTOPER0forceforceNNOPER0forforINOPER0peacepeaceNNOPER0andandCCOPER0forforINOPER0stabilitystabilityNNOPER0andandCCOPER0nonoDTOPER0oneonePRPOPER0shouldshouldMDOPER0assumeassumeVBOPER0thatthatINOPER0theytheyPRPOPER0cancanMDOPER0forceforceVBOPER0uswePRPOPER0totoTOOPER0retreatretreatVBOPER0...OPER0(ROOT (S (S (NP (DT No) (PRP one)) (VP (MD should) (VP (VB doubt) (S (NP (PRP$ our) (NN resolve)) (VP (TO to) (VP (VB remain) (NP (NP (DT a) (NN force)) (PP (PP (IN for) (NP (NN peace))) (CC and) (PP (IN for) (NP (NN stability))))))))))) (CC and) (S (NP (DT no) (PRP one)) (VP (MD should) (VP (VB assume) (SBAR (IN that) (S (NP (PRP they)) (VP (MD can) (VP (VB force) (NP (PRP us)) (S (VP (TO to) (VP (VB retreat))))))))))) (. .)))
+NonoDTOPER0oneonePRPOPER0shouldshouldMDOPER0assumeassumeVBOPER0theytheyPRPOPER0cancanMDOPER0attackattackVBOPER0uswePRPOPER0withwithINOPER0impunityimpunityNNOPER0...OPER0(ROOT (S (NP (DT No) (PRP one)) (VP (MD should) (VP (VB assume) (SBAR (S (NP (PRP they)) (VP (MD can) (VP (VB attack) (NP (PRP us)) (PP (IN with) (NP (NN impunity))))))))) (. .)))
+ThetheDTOPER0ColeColeNNPPERSONPER0hadhaveVBDOPER0justjustRBOPER0arrivedarriveVBNOPER0ininINOPER0thetheDTOPER0harborharborNNOPER0forforINOPER0aaDTOPER0refuelingrefuelingNNOPER0stopstopNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Cole)) (VP (VBD had) (ADVP (RB just)) (VP (VBN arrived) (PP (IN in) (NP (NP (DT the) (NN harbor)) (PP (IN for) (NP (DT a) (NN refueling) (NN stop))))))) (. .)))
+OfficialsofficialNNSOPER0saysayVBPOPER0menmanNNSOPER0aboardaboardINOPER0thisthisDTOPER0smallsmallJJOPER0boatboatNNOPER0hadhaveVBDOPER0beenbeVBNOPER0assistingassistVBGOPER0thetheDTOPER0ColeColeNNPPERSONPER0withwithINOPER0mooringmooringNNOPER0lineslineNNSOPER0justjustRBOPER0beforebeforeINOPER0thetheDTOPER0blastblastNNOPER0...OPER0(ROOT (S (NP (NNS Officials)) (VP (VBP say) (SBAR (S (NP (NP (NNS men)) (PP (IN aboard) (NP (DT this) (JJ small) (NN boat)))) (VP (VBD had) (VP (VBN been) (VP (VBG assisting) (NP (DT the) (NNP Cole)) (PP (IN with) (NP (NN mooring) (NNS lines))) (PP (ADVP (RB just)) (IN before) (NP (DT the) (NN blast))))))))) (. .)))
+ChadChadNNPPERSONPER0PergramPergramNNPPERSONPER0,,,OPER0NPRNPRNNPORGPER0NewsNewsNNPORGPER0,,,OPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Chad) (NNP Pergram)) (, ,) (NP (NNP NPR) (NNP News)) (, ,) (NP (NNP Washington)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT An) (JJ apparent) (NN attack)) (PP (IN on) (NP (DT a) (NNP US) (NN warship))))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NNP US) (NN warship))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN explosion))
+sid=1 spanning 4 until 11 headed by 8 parsed as (NP (NP (DT the) (NML (VBN guided) (HYPH -) (NN missile)) (NN destroyer)) (NP (NNP USS) (NNP Cole)))
+sid=1 spanning 14 until 18 headed by 15 parsed as (NP (NP (DT a) (NN port)) (PP (IN in) (NP (NNP Yemen))))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP NPR) (POS 's)) (NNP Chad) (NNP Pergram))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP NPR) (POS 's))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP Pentagon))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN attack))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNP Pentagon))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN attack))
+sid=6 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP US))
+sid=6 spanning 11 until 12 headed by 11 parsed as its
+sid=7 spanning 4 until 5 headed by 4 parsed as our
+sid=7 spanning 16 until 18 headed by 17 parsed as (NP (DT no) (PRP one))
+sid=7 spanning 21 until 22 headed by 21 parsed as (NP (PRP they))
+sid=7 spanning 24 until 25 headed by 24 parsed as (NP (PRP us))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT No) (PRP one))
+sid=8 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=8 spanning 7 until 8 headed by 7 parsed as (NP (PRP us))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Cole))
+sid=9 spanning 6 until 8 headed by 7 parsed as (NP (NP (DT the) (NN harbor)) (PP (IN for) (NP (DT a) (NN refueling) (NN stop))))
+sid=10 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP Cole))
+sid=10 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN blast))
+sid=11 spanning 0 until 8 headed by 1 parsed as (NP (NNP Chad) (NNP Pergram))
+sid=11 spanning 3 until 5 headed by 4 parsed as (NP (NNP NPR) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT An) (JJ apparent) (NN attack)) (PP (IN on) (NP (DT a) (NNP US) (NN warship))))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NNP US) (NN warship))
+sid=0 spanning 5 until 6 headed by 5 parsed as US
+sid=0 spanning 9 until 14 headed by 13 parsed as (NP (QP (ADVP (IN at) (JJS least)) (CD six)) (NNP American) (NNS sailors))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (QP (IN about) (CD 35)))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN explosion))
+sid=1 spanning 4 until 11 headed by 8 parsed as (NP (NP (DT the) (NML (VBN guided) (HYPH -) (NN missile)) (NN destroyer)) (NP (NNP USS) (NNP Cole)))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP USS) (NNP Cole))
+sid=1 spanning 14 until 18 headed by 15 parsed as (NP (NP (DT a) (NN port)) (PP (IN in) (NP (NNP Yemen))))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Yemen))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP NPR) (POS 's)) (NNP Chad) (NNP Pergram))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP NPR) (POS 's))
+sid=3 spanning 1 until 4 headed by 3 parsed as (NP (CC Both) (NP (DT the) (NNP White) (NNP House)) (CC and) (NP (DT the) (NNP Pentagon)))
+sid=3 spanning 0 until 7 headed by 3 parsed as (NP (CC Both) (NP (DT the) (NNP White) (NNP House)) (CC and) (NP (DT the) (NNP Pentagon)))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP Pentagon))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN attack))
+sid=3 spanning 13 until 17 headed by 14 parsed as (NP (NP (DT an) (NN act)) (PP (IN of) (NP (NN terrorism))))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN region))
+sid=4 spanning 7 until 19 headed by 8 parsed as (NP (NP (JJ investigative) (NNS teams)) (PP (IN from) (NP (NP (DT the) (NNP FBI)) (, ,) (NP (DT the) (NNP Pentagon)) (CC and) (NP (DT the) (NNP State) (NNP Department)))))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NP (DT the) (NNP FBI)) (, ,) (NP (DT the) (NNP Pentagon)) (CC and) (NP (DT the) (NNP State) (NNP Department)))
+sid=4 spanning 10 until 19 headed by 11 parsed as (NP (NP (DT the) (NNP FBI)) (, ,) (NP (DT the) (NNP Pentagon)) (CC and) (NP (DT the) (NNP State) (NNP Department)))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP FBI))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (DT the) (NNP Pentagon))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNP Pentagon))
+sid=4 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP State) (NNP Department))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN attack))
+sid=5 spanning 4 until 10 headed by 5 parsed as (NP (NP (NNP US) (NNS forces)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))
+sid=5 spanning 4 until 5 headed by 4 parsed as US
+sid=5 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=5 spanning 14 until 19 headed by 16 parsed as (NP (NP (DT a) (JJ heightened) (NN state)) (PP (IN of) (NP (NN alert))))
+sid=5 spanning 20 until 27 headed by 20 parsed as (NP (NP (NNS days)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))))
+sid=5 spanning 22 until 27 headed by 22 parsed as (NP (NP (NNS clashes)) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))
+sid=5 spanning 24 until 27 headed by 24 parsed as (NP (NNPS Israelis) (CC and) (NNPS Palestinians))
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen))
+sid=6 spanning 0 until 1 headed by 0 parsed as Defense
+sid=6 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP US))
+sid=6 spanning 11 until 16 headed by 12 parsed as (NP (NP (PRP$ its) (NNS interests)) (PP (IN around) (NP (DT the) (NN globe))))
+sid=6 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=6 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN globe))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT No) (PRP one))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ our) (NN resolve))
+sid=7 spanning 4 until 5 headed by 4 parsed as (PRP$ our)
+sid=7 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT a) (NN force)) (PP (PP (IN for) (NP (NN peace))) (CC and) (PP (IN for) (NP (NN stability)))))
+sid=7 spanning 16 until 18 headed by 17 parsed as (NP (DT no) (PRP one))
+sid=7 spanning 21 until 22 headed by 21 parsed as (NP (PRP they))
+sid=7 spanning 24 until 25 headed by 24 parsed as (NP (PRP us))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT No) (PRP one))
+sid=8 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=8 spanning 7 until 8 headed by 7 parsed as (NP (PRP us))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Cole))
+sid=9 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT the) (NN harbor)) (PP (IN for) (NP (DT a) (NN refueling) (NN stop))))
+sid=9 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (NN refueling) (NN stop))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=10 spanning 2 until 7 headed by 2 parsed as (NP (NP (NNS men)) (PP (IN aboard) (NP (DT this) (JJ small) (NN boat))))
+sid=10 spanning 4 until 7 headed by 6 parsed as (NP (DT this) (JJ small) (NN boat))
+sid=10 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP Cole))
+sid=10 spanning 13 until 15 headed by 14 parsed as (NP (NN mooring) (NNS lines))
+sid=10 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN blast))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Chad) (NNP Pergram))
+sid=11 spanning 3 until 5 headed by 4 parsed as (NP (NNP NPR) (NNP News))
+sid=11 spanning 6 until 7 headed by 6 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+22 1 3 20 | { 'the Cole' 'a US warship' 'the guided - missile destroyer USS Cole' 'The Cole' }
+15 14 | { 'they' 'no one' }
+6 25 | { 'NPR 's' 'NPR News' }
+19 16 11 13 12 | { 'us' 'us' 'the US' 'our' 'its' }
+17 18 | { 'No one' 'they' }
+4 21 | { 'a port in Yemen' 'the harbor' }
+8 2 0 23 10 | { 'the attack' 'The explosion' 'An apparent attack on a US warship' 'the blast' 'The attack' }
+9 7 | { 'the Pentagon' 'the Pentagon' }
+5 24 | { 'NPR 's Chad Pergram' 'Chad Pergram , NPR News , Washington .' }
+(end gold clusters)

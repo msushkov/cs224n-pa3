@@ -1,0 +1,46 @@
+---------gloss--------
+(0) [1m[36m{A Michigan teen who disappeared with a convicted killer and went on a three - week oddysey}[0m is in trouble with the law tonight . 
+(1) Prosecutors charged [1m[36m{Lindsey Ryan}[0m with stealing firearms from [1m[36m{her}[0m parents ' home . 
+(2) Police caught up with the two in California . 
+(3) [1m[35m{56 - year - old Forry Drake}[0m has been charged with interstate transport of a minor . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0282); part 000
+sentences:
+AaDTOPER0MichiganMichiganNNPGPEPER0teenteenNNOPER0whowhoWPOPER0disappeareddisappearVBDOPER0withwithINOPER0aaDTOPER0convictedconvictVBNOPER0killerkillerNNOPER0andandCCOPER0wentgoVBDOPER0ononINOPER0aaDTOPER0threethreeCDCARDINALPER0--HYPHOPER0weekweekNNOPER0oddyseyoddyseyNNOPER0isbeVBZOPER0ininINOPER0troubletroubleNNOPER0withwithINOPER0thetheDTOPER0lawlawNNOPER0tonighttonightNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (NNP Michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (NML (CD three) (HYPH -) (NN week)) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law))))) (NP (NN tonight))) (. .)))
+ProsecutorsprosecutorNNSOPER0chargedchargeVBDOPER0LindseyLindseyNNPPERSONPER0RyanRyanNNPPERSONPER0withwithINOPER0stealingstealVBGOPER0firearmsfirearmNNSOPER0fromfromINOPER0hershePRP$OPER0parentsparentNNSOPER0''POSOPER0homehomeNNOPER0...OPER0(ROOT (S (NP (NNS Prosecutors)) (VP (VBD charged) (NP (NNP Lindsey) (NNP Ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .)))
+PolicepoliceNNSOPER0caughtcatchVBDOPER0upupRPOPER0withwithINOPER0thetheDTOPER0twotwoCDCARDINALPER0ininINOPER0CaliforniaCaliforniaNNPGPEPER0...OPER0(ROOT (S (NP (NNS Police)) (VP (VBD caught) (PRT (RP up)) (PP (IN with) (NP (DT the) (CD two))) (PP (IN in) (NP (NNP California)))) (. .)))
+5656CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0ForryForryNNPOPER0DrakeDrakeNNPORGPER0hashaveVBZOPER0beenbeVBNOPER0chargedchargeVBNOPER0withwithINOPER0interstateinterstateJJOPER0transporttransportNNOPER0ofofINOPER0aaDTOPER0minorminorJJOPER0...OPER0(ROOT (S (NP (ADJP (NML (CD 56) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Forry) (NNP Drake)) (VP (VBZ has) (VP (VBN been) (VP (VBN charged) (PP (IN with) (NP (NP (JJ interstate) (NN transport)) (PP (IN of) (NP (DT a) (JJ minor)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 17 headed by 2 parsed as (NP (NP (DT A) (NNP Michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (NML (CD three) (HYPH -) (NN week)) (NN oddysey))))))))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (VBN convicted) (NN killer))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (NNP Lindsey) (NNP Ryan))
+sid=1 spanning 8 until 9 headed by 8 parsed as her
+sid=3 spanning 0 until 7 headed by 6 parsed as (NP (ADJP (NML (CD 56) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Forry) (NNP Drake))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 17 headed by 2 parsed as (NP (NP (DT A) (NNP Michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (NML (CD three) (HYPH -) (NN week)) (NN oddysey))))))))
+sid=0 spanning 1 until 2 headed by 1 parsed as Michigan
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (VBN convicted) (NN killer))
+sid=0 spanning 12 until 17 headed by 16 parsed as (NP (DT a) (NML (CD three) (HYPH -) (NN week)) (NN oddysey))
+sid=0 spanning 19 until 23 headed by 19 parsed as (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law))))
+sid=0 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN law))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Prosecutors))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (NNP Lindsey) (NNP Ryan))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNS firearms))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))
+sid=1 spanning 8 until 11 headed by 9 parsed as (NP (PRP$ her) (NNS parents) (POS '))
+sid=1 spanning 8 until 9 headed by 8 parsed as (PRP$ her)
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Police))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (CD two))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP California))
+sid=3 spanning 0 until 7 headed by 6 parsed as (NP (ADJP (NML (CD 56) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Forry) (NNP Drake))
+sid=3 spanning 0 until 5 headed by 4 parsed as old
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (JJ minor))
+(end predicted mentions)
+---------gold clusters--------
+1 4 | { 'a convicted killer' '56 - year - old Forry Drake' }
+2 0 3 | { 'Lindsey Ryan' 'A Michigan teen who disappeared with a convicted killer and went on a three - week oddysey' 'her' }
+(end gold clusters)

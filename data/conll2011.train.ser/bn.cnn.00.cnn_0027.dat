@@ -1,0 +1,47 @@
+---------gloss--------
+(0) Analysts ' downgrades in the semiconductor sector have [3m[34m{sent}[0m chipmaker stocks plunging today . 
+(1) [3m[34m{That}[0m is n't keeping [3m[33m{IBM}[0m from expanding [3m[33m{its}[0m chip operations . 
+(2) [3m[33m{It}[0m 's investing $ 2.5 million to build an advanced semiconductor plan , about 60 miles north of New York City . 
+(3) An additional $ 2.5 billion will go toward improvements at [3m[33m{IBM}[0m chip plants in Vermont and Japan . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0027); part 000
+sentences:
+AnalystsanalystNNSOPER0''POSOPER0downgradesdowngradeNNSOPER0ininINOPER0thetheDTOPER0semiconductorsemiconductorNNOPER0sectorsectorNNOPER0havehaveVBPOPER0sentsendVBNOPER0chipmakerchipmakerNNOPER0stocksstockNNSOPER0plungingplungeVBGOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (NP (NNS Analysts) (POS ')) (NNS downgrades)) (PP (IN in) (NP (DT the) (NN semiconductor) (NN sector)))) (VP (VBP have) (VP (VBN sent) (S (NP (NN chipmaker) (NNS stocks)) (VP (VBG plunging) (NP (NN today)))))) (. .)))
+ThatthatDTOPER0isbeVBZOPER0n'tnotRBOPER0keepingkeepVBGOPER0IBMIBMNNPORGPER0fromfromINOPER0expandingexpandVBGOPER0itsitsPRP$OPER0chipchipNNOPER0operationsoperationNNSOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ is) (RB n't) (VP (VBG keeping) (NP (NNP IBM)) (PP (IN from) (S (VP (VBG expanding) (NP (PRP$ its) (NN chip) (NNS operations))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0investinginvestVBGOPER0$$$MONEYPER02.52.5CDMONEYPER0millionmillionCDMONEYPER0totoTOOPER0buildbuildVBOPER0anaDTOPER0advancedadvancedJJOPER0semiconductorsemiconductorNNOPER0planplanNNOPER0,,,OPER0aboutaboutRBQUANTITYPER06060CDQUANTITYPER0milesmileNNSQUANTITYPER0northnorthRBOPER0ofofINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0CityCityNNPGPEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG investing) (NP (QP ($ $) (CD 2.5) (CD million))) (S (VP (TO to) (VP (VB build) (NP (DT an) (JJ advanced) (NN semiconductor) (NN plan)) (, ,) (ADVP (NP (QP (RB about) (CD 60)) (NNS miles)) (RB north) (PP (IN of) (NP (NML (NNP New) (NNP York)) (NNP City))))))))) (. .)))
+AnaDTOPER0additionaladditionalJJOPER0$$$MONEYPER02.52.5CDMONEYPER0billionbillionCDMONEYPER0willwillMDOPER0gogoVBOPER0towardtowardINOPER0improvementsimprovementNNSOPER0atatINOPER0IBMIBMNNPORGPER0chipchipNNOPER0plantsplantNNSOPER0ininINOPER0VermontVermontNNPGPEPER0andandCCOPER0JapanJapanNNPGPEPER0...OPER0(ROOT (S (NP (DT An) (JJ additional) (QP ($ $) (CD 2.5) (CD billion))) (VP (MD will) (VP (VB go) (PP (IN toward) (NP (NP (NNS improvements)) (PP (IN at) (NP (NP (NNP IBM) (NN chip) (NNS plants)) (PP (IN in) (NP (NNP Vermont) (CC and) (NNP Japan))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 8 until 9 headed by 8 parsed as sent
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP IBM))
+sid=1 spanning 7 until 8 headed by 7 parsed as its
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 10 until 11 headed by 10 parsed as IBM
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (NP (NNS Analysts) (POS ')) (NNS downgrades)) (PP (IN in) (NP (DT the) (NN semiconductor) (NN sector))))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNS Analysts) (POS '))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN semiconductor) (NN sector))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NN chipmaker) (NNS stocks))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP IBM))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (PRP$ its) (NN chip) (NNS operations))
+sid=1 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (DT an) (JJ advanced) (NN semiconductor) (NN plan))
+sid=2 spanning 13 until 16 headed by 15 parsed as (NP (QP (RB about) (CD 60)) (NNS miles))
+sid=2 spanning 18 until 21 headed by 20 parsed as (NP (NML (NNP New) (NNP York)) (NNP City))
+sid=3 spanning 8 until 17 headed by 8 parsed as (NP (NP (NNS improvements)) (PP (IN at) (NP (NP (NNP IBM) (NN chip) (NNS plants)) (PP (IN in) (NP (NNP Vermont) (CC and) (NNP Japan))))))
+sid=3 spanning 10 until 17 headed by 12 parsed as (NP (NP (NNP IBM) (NN chip) (NNS plants)) (PP (IN in) (NP (NNP Vermont) (CC and) (NNP Japan))))
+sid=3 spanning 10 until 11 headed by 10 parsed as IBM
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (NNP Vermont) (CC and) (NNP Japan))
+sid=3 spanning 14 until 17 headed by 14 parsed as (NP (NNP Vermont) (CC and) (NNP Japan))
+sid=3 spanning 16 until 17 headed by 16 parsed as Japan
+(end predicted mentions)
+---------gold clusters--------
+3 4 5 2 | { 'its' 'It' 'IBM' 'IBM' }
+1 0 | { 'That' 'sent' }
+(end gold clusters)

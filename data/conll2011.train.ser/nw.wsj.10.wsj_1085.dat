@@ -1,0 +1,52 @@
+---------gloss--------
+(0) [1m[35m{International Technology Corp.}[0m and Davy McKee Corp. , a unit of London 's Davy Corp. , said [3m[31m{they}[0m were awarded [1m[36m{a $ 55 million contract}[0m by the U.S. Army Corps of Engineers for the closure of the Helen Kramer Landfill Superfund site in Mantua Township , N.J . 
+(1) [1m[35m{International Technology , an environmental management concern ,}[0m said [1m[36m{the contract}[0m includes construction of slurry walls , gas collection systems , a multilayer cap and water treatment plant . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1085); part 000
+sentences:
+InternationalInternationalNNPORGPER0TechnologyTechnologyNNPORGPER0Corp.Corp.NNPORGPER0andandCCOPER0DavyDavyNNPORGPER0McKeeMcKeeNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0aaDTOPER0unitunitNNOPER0ofofINOPER0LondonLondonNNPORGPER0's'sPOSORGPER0DavyDavyNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0saidsayVBDOPER0theytheyPRPOPER0werebeVBDOPER0awardedawardVBNOPER0aaDTOPER0$$$MONEYPER05555CDMONEYPER0millionmillionCDMONEYPER0contractcontractNNOPER0bybyINOPER0thetheDTOPER0U.S.U.S.NNPORGPER0ArmyArmyNNPORGPER0CorpsCorpsNNPORGPER0ofofINORGPER0EngineersengineerNNSORGPER0forforINOPER0thetheDTOPER0closureclosureNNOPER0ofofINOPER0thetheDTOPER0HelenHelenNNPLOCPER0KramerKramerNNPLOCPER0LandfilllandfillNNLOCPER0SuperfundSuperfundNNPLOCPER0sitesiteNNOPER0ininINOPER0MantuaMantuaNNPGPEPER0TownshipTownshipNNPGPEPER0,,,OPER0N.JN.JNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP International) (NNP Technology) (NNP Corp.)) (CC and) (NP (NP (NNP Davy) (NNP McKee) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (NNP Davy) (NNP Corp.)))) (, ,))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBN awarded) (NP (NP (DT a) (NML (QP ($ $) (CD 55) (CD million))) (NN contract)) (PP (IN by) (NP (NP (DT the) (NML (NNP U.S.) (NNP Army)) (NNP Corps)) (PP (IN of) (NP (NP (NNS Engineers)) (PP (IN for) (NP (NP (DT the) (NN closure)) (PP (IN of) (NP (NP (DT the) (NML (NML (NNP Helen) (NNP Kramer)) (NN Landfill)) (NNP Superfund) (NN site)) (PP (IN in) (NP (NP (NNP Mantua) (NNP Township)) (, ,) (NP (NNP N.J)))))))))))))))))) (. .)))
+InternationalInternationalNNPORGPER0TechnologyTechnologyNNPORGPER0,,,OPER0anaDTOPER0environmentalenvironmentalJJOPER0managementmanagementNNOPER0concernconcernNNOPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0contractcontractNNOPER0includesincludeVBZOPER0constructionconstructionNNOPER0ofofINOPER0slurryslurryJJOPER0wallswallNNSOPER0,,,OPER0gasgasNNOPER0collectioncollectionNNOPER0systemssystemNNSOPER0,,,OPER0aaDTOPER0multilayermultilayerNNOPER0capcapNNOPER0andandCCOPER0waterwaterNNOPER0treatmenttreatmentNNOPER0plantplantNNOPER0...OPER0(ROOT (S (NP (NP (NNP International) (NNP Technology)) (, ,) (NP (DT an) (JJ environmental) (NN management) (NN concern)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN contract)) (VP (VBZ includes) (NP (NP (NN construction)) (PP (IN of) (NP (NP (JJ slurry) (NNS walls)) (, ,) (NP (NML (NN gas) (NN collection)) (NNS systems)) (, ,) (NP (DT a) (NN multilayer) (NN cap)) (CC and) (NP (NML (NN water) (NN treatment)) (NN plant))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 16 headed by 2 parsed as (NP (NP (NNP International) (NNP Technology) (NNP Corp.)) (CC and) (NP (NP (NNP Davy) (NNP McKee) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (NNP Davy) (NNP Corp.)))) (, ,)))
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP International) (NNP Technology) (NNP Corp.)) (CC and) (NP (NP (NNP Davy) (NNP McKee) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (NNP Davy) (NNP Corp.)))) (, ,)))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=0 spanning 20 until 25 headed by 24 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 55) (CD million))) (NN contract)) (PP (IN by) (NP (NP (DT the) (NML (NNP U.S.) (NNP Army)) (NNP Corps)) (PP (IN of) (NP (NP (NNS Engineers)) (PP (IN for) (NP (NP (DT the) (NN closure)) (PP (IN of) (NP (NP (DT the) (NML (NML (NNP Helen) (NNP Kramer)) (NN Landfill)) (NNP Superfund) (NN site)) (PP (IN in) (NP (NP (NNP Mantua) (NNP Township)) (, ,) (NP (NNP N.J)))))))))))))
+sid=1 spanning 0 until 8 headed by 1 parsed as (NP (NP (NNP International) (NNP Technology)) (, ,) (NP (DT an) (JJ environmental) (NN management) (NN concern)) (, ,))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN contract))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP International) (NNP Technology) (NNP Corp.)) (CC and) (NP (NP (NNP Davy) (NNP McKee) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (NNP Davy) (NNP Corp.)))) (, ,)))
+sid=0 spanning 0 until 16 headed by 2 parsed as (NP (NP (NNP International) (NNP Technology) (NNP Corp.)) (CC and) (NP (NP (NNP Davy) (NNP McKee) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (NNP Davy) (NNP Corp.)))) (, ,)))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNP Davy) (NNP McKee) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (NNP Davy) (NNP Corp.)))) (, ,))
+sid=0 spanning 4 until 16 headed by 6 parsed as (NP (NP (NNP Davy) (NNP McKee) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (NNP Davy) (NNP Corp.)))) (, ,))
+sid=0 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (NNP Davy) (NNP Corp.))))
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (NP (NNP London) (POS 's)) (NNP Davy) (NNP Corp.))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=0 spanning 20 until 47 headed by 24 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 55) (CD million))) (NN contract)) (PP (IN by) (NP (NP (DT the) (NML (NNP U.S.) (NNP Army)) (NNP Corps)) (PP (IN of) (NP (NP (NNS Engineers)) (PP (IN for) (NP (NP (DT the) (NN closure)) (PP (IN of) (NP (NP (DT the) (NML (NML (NNP Helen) (NNP Kramer)) (NN Landfill)) (NNP Superfund) (NN site)) (PP (IN in) (NP (NP (NNP Mantua) (NNP Township)) (, ,) (NP (NNP N.J)))))))))))))
+sid=0 spanning 26 until 47 headed by 29 parsed as (NP (NP (DT the) (NML (NNP U.S.) (NNP Army)) (NNP Corps)) (PP (IN of) (NP (NP (NNS Engineers)) (PP (IN for) (NP (NP (DT the) (NN closure)) (PP (IN of) (NP (NP (DT the) (NML (NML (NNP Helen) (NNP Kramer)) (NN Landfill)) (NNP Superfund) (NN site)) (PP (IN in) (NP (NP (NNP Mantua) (NNP Township)) (, ,) (NP (NNP N.J)))))))))))
+sid=0 spanning 31 until 47 headed by 31 parsed as (NP (NP (NNS Engineers)) (PP (IN for) (NP (NP (DT the) (NN closure)) (PP (IN of) (NP (NP (DT the) (NML (NML (NNP Helen) (NNP Kramer)) (NN Landfill)) (NNP Superfund) (NN site)) (PP (IN in) (NP (NP (NNP Mantua) (NNP Township)) (, ,) (NP (NNP N.J)))))))))
+sid=0 spanning 33 until 47 headed by 34 parsed as (NP (NP (DT the) (NN closure)) (PP (IN of) (NP (NP (DT the) (NML (NML (NNP Helen) (NNP Kramer)) (NN Landfill)) (NNP Superfund) (NN site)) (PP (IN in) (NP (NP (NNP Mantua) (NNP Township)) (, ,) (NP (NNP N.J)))))))
+sid=0 spanning 36 until 47 headed by 41 parsed as (NP (NP (DT the) (NML (NML (NNP Helen) (NNP Kramer)) (NN Landfill)) (NNP Superfund) (NN site)) (PP (IN in) (NP (NP (NNP Mantua) (NNP Township)) (, ,) (NP (NNP N.J)))))
+sid=0 spanning 37 until 41 headed by 37 parsed as Helen
+sid=0 spanning 43 until 45 headed by 44 parsed as (NP (NP (NNP Mantua) (NNP Township)) (, ,) (NP (NNP N.J)))
+sid=0 spanning 43 until 47 headed by 44 parsed as (NP (NP (NNP Mantua) (NNP Township)) (, ,) (NP (NNP N.J)))
+sid=0 spanning 46 until 47 headed by 46 parsed as (NP (NNP N.J))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP International) (NNP Technology)) (, ,) (NP (DT an) (JJ environmental) (NN management) (NN concern)) (, ,))
+sid=1 spanning 0 until 8 headed by 1 parsed as (NP (NP (NNP International) (NNP Technology)) (, ,) (NP (DT an) (JJ environmental) (NN management) (NN concern)) (, ,))
+sid=1 spanning 3 until 7 headed by 6 parsed as (NP (DT an) (JJ environmental) (NN management) (NN concern))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN contract))
+sid=1 spanning 12 until 28 headed by 12 parsed as (NP (NP (NN construction)) (PP (IN of) (NP (NP (JJ slurry) (NNS walls)) (, ,) (NP (NML (NN gas) (NN collection)) (NNS systems)) (, ,) (NP (DT a) (NN multilayer) (NN cap)) (CC and) (NP (NML (NN water) (NN treatment)) (NN plant)))))
+sid=1 spanning 14 until 28 headed by 15 parsed as (NP (NP (JJ slurry) (NNS walls)) (, ,) (NP (NML (NN gas) (NN collection)) (NNS systems)) (, ,) (NP (DT a) (NN multilayer) (NN cap)) (CC and) (NP (NML (NN water) (NN treatment)) (NN plant)))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (JJ slurry) (NNS walls))
+sid=1 spanning 17 until 20 headed by 19 parsed as (NP (NML (NN gas) (NN collection)) (NNS systems))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (DT a) (NN multilayer) (NN cap))
+sid=1 spanning 25 until 28 headed by 27 parsed as (NP (NML (NN water) (NN treatment)) (NN plant))
+(end predicted mentions)
+---------gold clusters--------
+4 1 | { 'International Technology , an environmental management concern ,' 'International Technology Corp.' }
+5 3 | { 'the contract' 'a $ 55 million contract' }
+2 0 | { 'they' 'International Technology Corp. and Davy McKee Corp. , a unit of London 's Davy Corp. ,' }
+(end gold clusters)

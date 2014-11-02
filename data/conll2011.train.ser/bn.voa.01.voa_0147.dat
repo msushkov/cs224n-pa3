@@ -1,0 +1,117 @@
+---------gloss--------
+(0) [1m[34m{The International Football Federation}[0m will pick [1m[34m{its}[0m player of the year and [1m[33m{the Special Player of the Century award that pits Argentine hero Diego Maradona against Brazilian legend Pele}[0m . 
+(1) The top candidates for [1m[35m{this year 's player of the year}[0m are Real Madrid 's Louis Fego , who moved from Barcelona in the most expensive transfer in the game 's history . 
+(2) Also nominated , Revaldo of [36m{Brazil}[0m and [3m[31m{French hero Zenedine Zidane}[0m . 
+(3) [3m[31m{Zidane}[0m led [1m[31m{France}[0m to the European title this year after helping [1m[31m{France}[0m win the [1m[32m{World Cup}[0m title two years ago . 
+(4) There are 27 nominees for [1m[33m{the Player of the Century award}[0m , but [35m{Maradona}[0m and [1m[36m{Pele}[0m are the favorites . 
+(5) [1m[36m{Pele}[0m led [36m{Brazil}[0m to three World Cup titles and scored more than 1200 goals . 
+(6) [1m[36m{He}[0m has been named the ' athlete of the century ' in a survey of National Olympic Committees . 
+(7) [35m{Maradona}[0m led Argentina to the [1m[32m{World Cup}[0m title in 1986 , and led the Italian club . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0147); part 000
+sentences:
+ThetheDTORGPER0InternationalInternationalNNPORGPER0FootballFootballNNPORGPER0FederationFederationNNPORGPER0willwillMDOPER0pickpickVBOPER0itsitsPRP$OPER0playerplayerNNOPER0ofofINOPER0thetheDTDATEPER0yearyearNNDATEPER0andandCCOPER0thetheDTOPER0SpecialSpecialNNPWORK_OF_ARTPER0PlayerPlayerNNPWORK_OF_ARTPER0ofofINWORK_OF_ARTPER0thetheDTWORK_OF_ARTPER0CenturyCenturyNNPWORK_OF_ARTPER0awardawardNNOPER0thatthatWDTOPER0pitspitVBZOPER0ArgentineArgentineNNPOPER0heroheroNNOPER0DiegoDiegoNNPPERSONPER0MaradonaMaradonaNNPPERSONPER0againstagainstINOPER0BrazilianbrazilianJJOPER0legendlegendNNOPER0PelePeleNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP International) (NNP Football)) (NNP Federation)) (VP (MD will) (VP (VB pick) (NP (NP (NP (PRP$ its) (NN player)) (PP (IN of) (NP (DT the) (NN year)))) (CC and) (NP (NP (DT the) (NML (NML (NNP Special) (NNP Player)) (PP (IN of) (NP (DT the) (NNP Century)))) (NN award)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pits) (NP (NML (NNP Argentine) (NN hero)) (NNP Diego) (NNP Maradona)) (PP (IN against) (NP (NP (JJ Brazilian) (NN legend)) (NP (NNP Pele))))))))))) (. .)))
+ThetheDTOPER0toptopJJOPER0candidatescandidateNNSOPER0forforINOPER0thisthisDTOPER0yearyearNNDATEPER0's'sPOSOPER0playerplayerNNOPER0ofofINOPER0thetheDTDATEPER0yearyearNNDATEPER0arebeVBPOPER0RealRealNNPOPER0MadridMadridNNPGPEPER0's'sPOSOPER0LouisLouisNNPPERSONPER0FegoFegoNNPPERSONPER0,,,OPER0whowhoWPOPER0movedmoveVBDOPER0fromfromINOPER0BarcelonaBarcelonaNNPGPEPER0ininINOPER0thetheDTOPER0mostmostRBSOPER0expensiveexpensiveJJOPER0transfertransferNNOPER0ininINOPER0thetheDTOPER0gamegameNNOPER0's'sPOSOPER0historyhistoryNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ top) (NNS candidates)) (PP (IN for) (NP (NP (NP (DT this) (NN year) (POS 's)) (NN player)) (PP (IN of) (NP (DT the) (NN year)))))) (VP (VBP are) (NP (NP (NP (NP (NNP Real) (NNP Madrid)) (POS 's)) (NNP Louis) (NNP Fego)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD moved) (PP (IN from) (NP (NNP Barcelona))) (PP (IN in) (NP (NP (DT the) (ADJP (RBS most) (JJ expensive)) (NN transfer)) (PP (IN in) (NP (NP (DT the) (NN game) (POS 's)) (NN history)))))))))) (. .)))
+AlsoalsoRBOPER0nominatednominateVBDOPER0,,,OPER0RevaldoRevaldoNNPPERSONPER0ofofINOPER0BrazilBrazilNNPGPEPER0andandCCOPER0FrenchfrenchJJOPER0heroheroNNOPER0ZenedineZenedineNNPPERSONPER0ZidanezidaneNNPERSONPER0...OPER0(ROOT (SINV (ADVP (RB Also)) (VP (VBD nominated)) (NP (, ,) (NP (NNP Revaldo)) (PP (IN of) (NP (NP (NNP Brazil)) (CC and) (NP (NML (JJ French) (NN hero)) (NNP Zenedine) (NN Zidane))))) (. .)))
+ZidaneZidaneNNPORGPER0ledleadVBDOPER0FranceFranceNNPGPEPER0totoINOPER0thetheDTOPER0EuropeaneuropeanJJOPER0titletitleNNOPER0thisthisDTDATEPER0yearyearNNDATEPER0afterafterINOPER0helpinghelpVBGOPER0FranceFranceNNPGPEPER0winwinVBOPER0thetheDTOPER0WorldWorldNNPEVENTPER0CupCupNNPEVENTPER0titletitleNNOPER0twotwoCDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (NNP Zidane)) (VP (VBD led) (NP (NNP France)) (PP (IN to) (NP (NP (DT the) (JJ European) (NN title)) (NP (NP (DT this) (NN year)) (PP (IN after) (S (VP (VBG helping) (S (NP (NNP France)) (VP (VB win) (NP (DT the) (NML (NNP World) (NNP Cup)) (NN title)))))))))) (ADVP (NP (CD two) (NNS years)) (RB ago))) (. .)))
+TherethereEXOPER0arebeVBPOPER02727CDCARDINALPER0nomineesnomineeNNSOPER0forforINOPER0thetheDTOPER0PlayerplayerNNWORK_OF_ARTPER0ofofINWORK_OF_ARTPER0thetheDTWORK_OF_ARTPER0CenturyCenturyNNPWORK_OF_ARTPER0awardawardNNOPER0,,,OPER0butbutCCOPER0MaradonaMaradonaNNPPERSONPER0andandCCOPER0PelePeleNNPORGPER0arebeVBPOPER0thetheDTOPER0favoritesfavoriteNNSOPER0...OPER0(ROOT (S (S (NP (EX There)) (VP (VBP are) (NP (NP (CD 27) (NNS nominees)) (PP (IN for) (NP (NP (DT the) (NN Player)) (PP (IN of) (NP (DT the) (NNP Century) (NN award)))))))) (, ,) (CC but) (S (NP (NP (NNP Maradona)) (CC and) (NP (NNP Pele))) (VP (VBP are) (NP (DT the) (NNS favorites)))) (. .)))
+PelePeleNNPORGPER0ledleadVBDOPER0BrazilBrazilNNPGPEPER0totoINOPER0threethreeCDCARDINALPER0WorldWorldNNPEVENTPER0CupCupNNPEVENTPER0titlestitleNNSOPER0andandCCOPER0scoredscoreVBDOPER0moremoreJJROPER0thanthanINOPER012001200CDDATEPER0goalsgoalNNSOPER0...OPER0(ROOT (S (NP (NNP Pele)) (VP (VP (VBD led) (NP (NNP Brazil)) (PP (IN to) (NP (CD three) (NML (NNP World) (NNP Cup)) (NNS titles)))) (CC and) (VP (VBD scored) (NP (QP (XS (JJR more) (IN than)) (CD 1200)) (NNS goals)))) (. .)))
+HehePRPOPER0hashaveVBZOPER0beenbeVBNOPER0namednameVBNOPER0thetheDTOPER0''``OPER0athleteathleteNNOPER0ofofINOPER0thetheDTDATEPER0centurycenturyNNDATEPER0''''OPER0ininINOPER0aaDTOPER0surveysurveyNNOPER0ofofINOPER0NationalNationalNNPEVENTPER0OlympicOlympicNNPEVENTPER0CommitteesCommitteesNNPSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ has) (VP (VBN been) (VP (VBN named) (S (NP (NP (DT the) (`` ') (NN athlete)) (PP (IN of) (NP (NP (DT the) (NN century)) ('' ') (PP (IN in) (NP (NP (DT a) (NN survey)) (PP (IN of) (NP (NNP National) (NNP Olympic) (NNPS Committees)))))))))))) (. .)))
+MaradonaMaradonaNNPPERSONPER0ledleadVBDOPER0ArgentinaArgentinaNNPORGPER0totoINOPER0thetheDTOPER0WorldWorldNNPEVENTPER0CupCupNNPEVENTPER0titletitleNNOPER0ininINOPER019861986CDDATEPER0,,,OPER0andandCCOPER0ledleadVBDOPER0thetheDTOPER0ItalianitalianJJOPER0clubclubNNOPER0...OPER0(ROOT (S (NP (NNP Maradona)) (VP (VP (VBD led) (NP (NNP Argentina)) (PP (IN to) (NP (DT the) (NML (NNP World) (NNP Cup)) (NN title))) (PP (IN in) (NP (CD 1986)))) (, ,) (CC and) (VP (VBD led) (NP (DT the) (JJ Italian) (NN club)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP International) (NNP Football)) (NNP Federation))
+sid=0 spanning 6 until 11 headed by 7 parsed as (NP (NP (NP (PRP$ its) (NN player)) (PP (IN of) (NP (DT the) (NN year)))) (CC and) (NP (NP (DT the) (NML (NML (NNP Special) (NNP Player)) (PP (IN of) (NP (DT the) (NNP Century)))) (NN award)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pits) (NP (NML (NNP Argentine) (NN hero)) (NNP Diego) (NNP Maradona)) (PP (IN against) (NP (NP (JJ Brazilian) (NN legend)) (NP (NNP Pele)))))))))
+sid=0 spanning 6 until 7 headed by 6 parsed as its
+sid=0 spanning 12 until 29 headed by 18 parsed as (NP (NP (DT the) (NML (NML (NNP Special) (NNP Player)) (PP (IN of) (NP (DT the) (NNP Century)))) (NN award)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pits) (NP (NML (NNP Argentine) (NN hero)) (NNP Diego) (NNP Maradona)) (PP (IN against) (NP (NP (JJ Brazilian) (NN legend)) (NP (NNP Pele))))))))
+sid=0 spanning 21 until 25 headed by 24 parsed as (NP (NML (NNP Argentine) (NN hero)) (NNP Diego) (NNP Maradona))
+sid=0 spanning 26 until 29 headed by 27 parsed as (NP (NP (JJ Brazilian) (NN legend)) (NP (NNP Pele)))
+sid=1 spanning 4 until 11 headed by 7 parsed as (NP (NP (NP (DT this) (NN year) (POS 's)) (NN player)) (PP (IN of) (NP (DT the) (NN year))))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NP (NNP Brazil)) (CC and) (NP (NML (JJ French) (NN hero)) (NNP Zenedine) (NN Zidane)))
+sid=2 spanning 7 until 11 headed by 10 parsed as (NP (NML (JJ French) (NN hero)) (NNP Zenedine) (NN Zidane))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Zidane))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP France))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNP France))
+sid=3 spanning 14 until 16 headed by 15 parsed as Cup
+sid=4 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT the) (NN Player)) (PP (IN of) (NP (DT the) (NNP Century) (NN award))))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (NP (NNP Maradona)) (CC and) (NP (NNP Pele)))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (NNP Pele))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Pele))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Brazil))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Maradona))
+sid=7 spanning 5 until 7 headed by 6 parsed as Cup
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP International) (NNP Football)) (NNP Federation))
+sid=0 spanning 6 until 29 headed by 7 parsed as (NP (NP (NP (PRP$ its) (NN player)) (PP (IN of) (NP (DT the) (NN year)))) (CC and) (NP (NP (DT the) (NML (NML (NNP Special) (NNP Player)) (PP (IN of) (NP (DT the) (NNP Century)))) (NN award)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pits) (NP (NML (NNP Argentine) (NN hero)) (NNP Diego) (NNP Maradona)) (PP (IN against) (NP (NP (JJ Brazilian) (NN legend)) (NP (NNP Pele)))))))))
+sid=0 spanning 6 until 11 headed by 7 parsed as (NP (NP (PRP$ its) (NN player)) (PP (IN of) (NP (DT the) (NN year))))
+sid=0 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN year))
+sid=0 spanning 12 until 29 headed by 18 parsed as (NP (NP (DT the) (NML (NML (NNP Special) (NNP Player)) (PP (IN of) (NP (DT the) (NNP Century)))) (NN award)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pits) (NP (NML (NNP Argentine) (NN hero)) (NNP Diego) (NNP Maradona)) (PP (IN against) (NP (NP (JJ Brazilian) (NN legend)) (NP (NNP Pele))))))))
+sid=0 spanning 13 until 18 headed by 14 parsed as Player
+sid=0 spanning 21 until 25 headed by 24 parsed as (NP (NML (NNP Argentine) (NN hero)) (NNP Diego) (NNP Maradona))
+sid=0 spanning 28 until 29 headed by 28 parsed as (NP (NNP Pele))
+sid=1 spanning 0 until 11 headed by 2 parsed as (NP (NP (DT The) (JJ top) (NNS candidates)) (PP (IN for) (NP (NP (NP (DT this) (NN year) (POS 's)) (NN player)) (PP (IN of) (NP (DT the) (NN year))))))
+sid=1 spanning 4 until 11 headed by 7 parsed as (NP (NP (NP (DT this) (NN year) (POS 's)) (NN player)) (PP (IN of) (NP (DT the) (NN year))))
+sid=1 spanning 4 until 7 headed by 5 parsed as (NP (DT this) (NN year) (POS 's))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN year))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (NP (NP (NP (NNP Real) (NNP Madrid)) (POS 's)) (NNP Louis) (NNP Fego)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD moved) (PP (IN from) (NP (NNP Barcelona))) (PP (IN in) (NP (NP (DT the) (ADJP (RBS most) (JJ expensive)) (NN transfer)) (PP (IN in) (NP (NP (DT the) (NN game) (POS 's)) (NN history)))))))))
+sid=1 spanning 12 until 32 headed by 16 parsed as (NP (NP (NP (NP (NNP Real) (NNP Madrid)) (POS 's)) (NNP Louis) (NNP Fego)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD moved) (PP (IN from) (NP (NNP Barcelona))) (PP (IN in) (NP (NP (DT the) (ADJP (RBS most) (JJ expensive)) (NN transfer)) (PP (IN in) (NP (NP (DT the) (NN game) (POS 's)) (NN history)))))))))
+sid=1 spanning 12 until 17 headed by 16 parsed as (NP (NP (NP (NNP Real) (NNP Madrid)) (POS 's)) (NNP Louis) (NNP Fego))
+sid=1 spanning 12 until 15 headed by 13 parsed as (NP (NP (NNP Real) (NNP Madrid)) (POS 's))
+sid=1 spanning 21 until 22 headed by 21 parsed as (NP (NNP Barcelona))
+sid=1 spanning 23 until 32 headed by 26 parsed as (NP (NP (DT the) (ADJP (RBS most) (JJ expensive)) (NN transfer)) (PP (IN in) (NP (NP (DT the) (NN game) (POS 's)) (NN history))))
+sid=1 spanning 28 until 32 headed by 31 parsed as (NP (NP (DT the) (NN game) (POS 's)) (NN history))
+sid=1 spanning 28 until 31 headed by 29 parsed as (NP (DT the) (NN game) (POS 's))
+sid=2 spanning 2 until 11 headed by 3 parsed as (NP (, ,) (NP (NNP Revaldo)) (PP (IN of) (NP (NP (NNP Brazil)) (CC and) (NP (NML (JJ French) (NN hero)) (NNP Zenedine) (NN Zidane)))))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NP (NNP Brazil)) (CC and) (NP (NML (JJ French) (NN hero)) (NNP Zenedine) (NN Zidane)))
+sid=2 spanning 5 until 11 headed by 5 parsed as (NP (NP (NNP Brazil)) (CC and) (NP (NML (JJ French) (NN hero)) (NNP Zenedine) (NN Zidane)))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NML (JJ French) (NN hero)) (NNP Zenedine) (NN Zidane))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Zidane))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP France))
+sid=3 spanning 4 until 17 headed by 6 parsed as (NP (NP (DT the) (JJ European) (NN title)) (NP (NP (DT this) (NN year)) (PP (IN after) (S (VP (VBG helping) (S (NP (NNP France)) (VP (VB win) (NP (DT the) (NML (NNP World) (NNP Cup)) (NN title)))))))))
+sid=3 spanning 7 until 17 headed by 8 parsed as (NP (NP (DT this) (NN year)) (PP (IN after) (S (VP (VBG helping) (S (NP (NNP France)) (VP (VB win) (NP (DT the) (NML (NNP World) (NNP Cup)) (NN title))))))))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNP France))
+sid=3 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (NML (NNP World) (NNP Cup)) (NN title))
+sid=3 spanning 14 until 16 headed by 15 parsed as Cup
+sid=3 spanning 17 until 20 headed by 19 parsed as ago
+sid=4 spanning 2 until 11 headed by 3 parsed as (NP (NP (CD 27) (NNS nominees)) (PP (IN for) (NP (NP (DT the) (NN Player)) (PP (IN of) (NP (DT the) (NNP Century) (NN award))))))
+sid=4 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT the) (NN Player)) (PP (IN of) (NP (DT the) (NNP Century) (NN award))))
+sid=4 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Century) (NN award))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (NP (NNP Maradona)) (CC and) (NP (NNP Pele)))
+sid=4 spanning 13 until 16 headed by 13 parsed as (NP (NP (NNP Maradona)) (CC and) (NP (NNP Pele)))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (NNP Pele))
+sid=4 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNS favorites))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Pele))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Brazil))
+sid=5 spanning 4 until 8 headed by 7 parsed as (NP (CD three) (NML (NNP World) (NNP Cup)) (NNS titles))
+sid=5 spanning 5 until 7 headed by 6 parsed as Cup
+sid=5 spanning 10 until 14 headed by 13 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 1200)) (NNS goals))
+sid=5 spanning 12 until 13 headed by 12 parsed as 1200
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 4 until 18 headed by 6 parsed as (NP (NP (DT the) (`` ') (NN athlete)) (PP (IN of) (NP (NP (DT the) (NN century)) ('' ') (PP (IN in) (NP (NP (DT a) (NN survey)) (PP (IN of) (NP (NNP National) (NNP Olympic) (NNPS Committees))))))))
+sid=6 spanning 8 until 18 headed by 9 parsed as (NP (NP (DT the) (NN century)) ('' ') (PP (IN in) (NP (NP (DT a) (NN survey)) (PP (IN of) (NP (NNP National) (NNP Olympic) (NNPS Committees))))))
+sid=6 spanning 12 until 18 headed by 13 parsed as (NP (NP (DT a) (NN survey)) (PP (IN of) (NP (NNP National) (NNP Olympic) (NNPS Committees))))
+sid=6 spanning 15 until 18 headed by 17 parsed as (NP (NNP National) (NNP Olympic) (NNPS Committees))
+sid=6 spanning 15 until 17 headed by 16 parsed as Olympic
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Maradona))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (NNP Argentina))
+sid=7 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (NML (NNP World) (NNP Cup)) (NN title))
+sid=7 spanning 5 until 7 headed by 6 parsed as Cup
+sid=7 spanning 9 until 10 headed by 9 parsed as (NP (CD 1986))
+sid=7 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ Italian) (NN club))
+(end predicted mentions)
+---------gold clusters--------
+19 14 4 | { 'Maradona' 'Maradona' 'Argentine hero Diego Maradona' }
+17 7 | { 'Brazil' 'Brazil' }
+10 11 | { 'France' 'France' }
+20 12 | { 'World Cup' 'World Cup' }
+3 13 | { 'the Special Player of the Century award that pits Argentine hero Diego Maradona against Brazilian legend Pele' 'the Player of the Century award' }
+2 0 | { 'its' 'The International Football Federation' }
+6 1 | { 'this year 's player of the year' 'its player of the year' }
+5 16 15 18 | { 'Brazilian legend Pele' 'Pele' 'Pele' 'He' }
+9 8 | { 'Zidane' 'French hero Zenedine Zidane' }
+(end gold clusters)

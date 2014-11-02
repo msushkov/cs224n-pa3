@@ -1,0 +1,56 @@
+---------gloss--------
+(0) In northern Iraq , [35m{U.S. Marines}[0m and residents exchanged gunfire in [36m{the city of Mosul}[0m today , in the second day of civil disturbances there . 
+(1) A senior Kurdish intelligence official says citizens were protesting the American occupation of [36m{the city 's}[0m main government building . 
+(2) Seven Iraqis were killed by [35m{U.S. Marines , who say they were responding to sniper fire}[0m . 
+(3) Hospital officials say 17 people have been killed and 18 wounded over the past 2 days . 
+(4) Central Command says troops were involved in a gun battle yesterday . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0213); part 000
+sentences:
+IninINOPER0northernnorthernJJOPER0IraqIraqNNPGPEPER0,,,OPER0U.S.U.S.NNPGPEPER0MarinesMarinesNNPSORGPER0andandCCOPER0residentsresidentNNSOPER0exchangedexchangeVBDOPER0gunfiregunfireNNOPER0ininINOPER0thetheDTOPER0citycityNNOPER0ofofINOPER0MosulMosulNNPORGPER0todaytodayNNDATEPER0,,,OPER0ininINOPER0thetheDTDATEPER0secondsecondJJDATEPER0daydayNNDATEPER0ofofINOPER0civilcivilJJOPER0disturbancesdisturbanceNNSOPER0therethereRBOPER0...OPER0(ROOT (S (PP (IN In) (NP (JJ northern) (NNP Iraq))) (, ,) (NP (NNP U.S.) (NNPS Marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NNP Mosul)))))) (NP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .)))
+AaDTOPER0seniorseniorJJOPER0KurdishkurdishJJOPER0intelligenceintelligenceNNOPER0officialofficialNNOPER0sayssayVBZOPER0citizenscitizenNNSOPER0werebeVBDOPER0protestingprotestVBGOPER0thetheDTOPER0AmericanamericanJJOPER0occupationoccupationNNOPER0ofofINOPER0thetheDTOPER0citycityNNOPER0's'sPOSOPER0mainmainJJOPER0governmentgovernmentNNOPER0buildingbuildingNNOPER0...OPER0(ROOT (S (NP (DT A) (JJ senior) (JJ Kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ American) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .)))
+SevensevenCDCARDINALPER0IraqisIraqisNNPSOPER0werebeVBDOPER0killedkillVBNOPER0bybyINOPER0U.S.U.S.NNPORGPER0MarinesMarinesNNPSORGPER0,,,OPER0whowhoWPOPER0saysayVBPOPER0theytheyPRPOPER0werebeVBDOPER0respondingrespondVBGOPER0totoINOPER0snipersniperNNOPER0firefireNNOPER0...OPER0(ROOT (S (NP (CD Seven) (NNPS Iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (NNP U.S.) (NNPS Marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (IN to) (NP (NN sniper) (NN fire)))))))))))))) (. .)))
+HospitalhospitalNNOPER0officialsofficialNNSOPER0saysayVBPOPER01717CDCARDINALPER0peoplepeopleNNSOPER0havehaveVBPOPER0beenbeVBNOPER0killedkillVBNOPER0andandCCOPER01818CDCARDINALPER0woundedwoundVBNOPER0overoverINOPER0thetheDTDATEPER0pastpastJJDATEPER022CDDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (NN Hospital) (NNS officials)) (VP (VBP say) (SBAR (S (S (NP (CD 17) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN killed))))) (CC and) (S (NP (CD 18)) (VP (VBN wounded) (PP (IN over) (NP (DT the) (JJ past) (CD 2) (NNS days)))))))) (. .)))
+CentralCentralNNPORGPER0CommandCommandNNPORGPER0sayssayVBZOPER0troopstroopsNNSOPER0werebeVBDOPER0involvedinvolveVBNOPER0ininINOPER0aaDTOPER0gungunNNOPER0battlebattleNNOPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (NNP Central) (NNP Command)) (VP (VBZ says) (SBAR (S (NP (NNS troops)) (VP (VBD were) (VP (VBN involved) (PP (IN in) (NP (NP (DT a) (NN gun) (NN battle)) (NP (NN yesterday))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP U.S.) (NNPS Marines) (CC and) (NNS residents))
+sid=0 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NNP Mosul))))
+sid=1 spanning 13 until 16 headed by 14 parsed as (NP (DT the) (NN city) (POS 's))
+sid=2 spanning 5 until 16 headed by 6 parsed as (NP (NP (NNP U.S.) (NNPS Marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (IN to) (NP (NN sniper) (NN fire)))))))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (JJ northern) (NNP Iraq))
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (JJ northern) (NNP Iraq))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP U.S.) (NNPS Marines) (CC and) (NNS residents))
+sid=0 spanning 4 until 8 headed by 5 parsed as (NP (NNP U.S.) (NNPS Marines) (CC and) (NNS residents))
+sid=0 spanning 9 until 15 headed by 9 parsed as (NP (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NNP Mosul))))))
+sid=0 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NNP Mosul))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNP Mosul))
+sid=0 spanning 18 until 25 headed by 20 parsed as (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there)))))
+sid=0 spanning 22 until 25 headed by 23 parsed as (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there)))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT A) (JJ senior) (JJ Kurdish) (NN intelligence) (NN official))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNS citizens))
+sid=1 spanning 9 until 19 headed by 11 parsed as (NP (NP (DT the) (JJ American) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))
+sid=1 spanning 13 until 19 headed by 18 parsed as (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))
+sid=1 spanning 13 until 16 headed by 14 parsed as (NP (DT the) (NN city) (POS 's))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (CD Seven) (NNPS Iraqis))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (NP (NNP U.S.) (NNPS Marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (IN to) (NP (NN sniper) (NN fire)))))))))))
+sid=2 spanning 5 until 16 headed by 6 parsed as (NP (NP (NNP U.S.) (NNPS Marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (IN to) (NP (NN sniper) (NN fire)))))))))))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (NN sniper) (NN fire))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NN Hospital) (NNS officials))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (CD 17) (NNS people))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (CD 18))
+sid=3 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (JJ past) (CD 2) (NNS days))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Central) (NNP Command))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNS troops))
+sid=4 spanning 7 until 11 headed by 9 parsed as (NP (NP (DT a) (NN gun) (NN battle)) (NP (NN yesterday)))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NN yesterday))
+(end predicted mentions)
+---------gold clusters--------
+0 3 | { 'U.S. Marines' 'U.S. Marines , who say they were responding to sniper fire' }
+1 2 | { 'the city of Mosul' 'the city 's' }
+(end gold clusters)

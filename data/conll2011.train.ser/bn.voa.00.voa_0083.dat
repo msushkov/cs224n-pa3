@@ -1,0 +1,63 @@
+---------gloss--------
+(0) In other news , [1m[31m{amazon.com , the leading US online retailer}[0m , is looking to tap into Japan 's multibillion - dollar e-commerce market . 
+(1) [1m[31m{Amazon}[0m unveiled [1m[31m{its}[0m Japanese language website , which will feature 1.7 million Japanese and English language book titles . 
+(2) [1m[31m{Amazon}[0m plans to expand [1m[31m{its}[0m product line some time next year . 
+(3) [36m{This}[0m is [1m[31m{Amazon 's}[0m first retail venture in Asia , [1m[31m{its}[0m first website outside the United States . 
+(4) Elaine Johanneson , VOA news , New York . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0083); part 000
+sentences:
+IninINOPER0otherotherJJOPER0newsnewsNNOPER0,,,OPER0amazon.comamazon.comADDORGPER0,,,OPER0thetheDTOPER0leadingleadVBGOPER0USUSNNPGPEPER0onlineonlineJJOPER0retailerretailerNNOPER0,,,OPER0isbeVBZOPER0lookinglookVBGOPER0totoTOOPER0taptapVBOPER0intointoINOPER0JapanJapanNNPGPEPER0's'sPOSOPER0multibillionmultibillionNNMONEYPER0--HYPHMONEYPER0dollardollarNNMONEYPER0e-commercee-commerceNNOPER0marketmarketNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (JJ other) (NN news)) (, ,) (NP (ADD amazon.com)))) (, ,) (NP (DT the) (VBG leading) (NNP US) (JJ online) (NN retailer)) (, ,) (VP (VBZ is) (VP (VBG looking) (S (VP (TO to) (VP (VB tap) (PP (IN into) (NP (NP (NNP Japan) (POS 's)) (NML (NN multibillion) (HYPH -) (NN dollar)) (NN e-commerce) (NN market)))))))) (. .)))
+AmazonAmazonNNPORGPER0unveiledunveilVBDOPER0itsitsPRP$OPER0JapanesejapaneseJJLANGUAGEPER0languagelanguageNNLANGUAGEPER0websitewebsiteNNOPER0,,,OPER0whichwhichWDTOPER0willwillMDOPER0featurefeatureVBOPER01.71.7CDCARDINALPER0millionmillionCDCARDINALPER0JapaneseJapaneseNNPSOPER0andandCCOPER0EnglishEnglishNNPLANGUAGEPER0languagelanguageNNOPER0bookbookNNOPER0titlestitleNNSOPER0...OPER0(ROOT (S (NP (NNP Amazon)) (VP (VBD unveiled) (NP (NP (PRP$ its) (NML (JJ Japanese) (NN language)) (NN website)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB feature) (NP (NP (QP (CD 1.7) (CD million)) (NNPS Japanese)) (CC and) (NP (NML (NNP English) (NN language)) (NN book) (NNS titles))))))))) (. .)))
+AmazonAmazonNNPORGPER0plansplanVBZOPER0totoTOOPER0expandexpandVBOPER0itsitsPRP$OPER0productproductNNOPER0linelineNNOPER0somesomeDTOPER0timetimeNNOPER0nextnextJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NNP Amazon)) (VP (VBZ plans) (S (VP (TO to) (VP (VB expand) (NP (PRP$ its) (NN product) (NN line)) (NP (DT some) (NN time)) (NP (JJ next) (NN year)))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0AmazonAmazonNNPORGPER0's'sPOSOPER0firstfirstJJOPER0retailretailJJOPER0ventureventureNNOPER0ininINOPER0AsiaAsiaNNPLOCPER0,,,OPER0itsitsPRP$OPER0firstfirstJJORDINALPER0websitewebsiteNNOPER0outsideoutsideINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (NP (NNP Amazon) (POS 's)) (JJ first) (JJ retail) (NN venture)) (PP (IN in) (NP (NNP Asia)))) (, ,) (PP (NP (PRP$ its) (JJ first) (NN website)) (IN outside) (NP (DT the) (NNP United) (NNP States)))) (. .)))
+ElaineElaineNNPPERSONPER0JohannesonJohannesonNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0newsnewsNNPOPER0,,,OPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Elaine) (NNP Johanneson)) (, ,) (NP (NNP VOA) (NNP news)) (, ,) (NP (NNP New) (NNP York)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 11 headed by 4 parsed as (NP (ADD amazon.com))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Amazon))
+sid=1 spanning 2 until 18 headed by 5 parsed as (NP (NP (PRP$ its) (NML (JJ Japanese) (NN language)) (NN website)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB feature) (NP (NP (QP (CD 1.7) (CD million)) (NNPS Japanese)) (CC and) (NP (NML (NNP English) (NN language)) (NN book) (NNS titles))))))))
+sid=1 spanning 2 until 3 headed by 2 parsed as its
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Amazon))
+sid=2 spanning 4 until 5 headed by 4 parsed as its
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=3 spanning 2 until 4 headed by 2 parsed as (NP (NNP Amazon) (POS 's))
+sid=3 spanning 10 until 11 headed by 10 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (ADD amazon.com))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (DT the) (VBG leading) (NNP US) (JJ online) (NN retailer))
+sid=0 spanning 8 until 9 headed by 8 parsed as US
+sid=0 spanning 17 until 24 headed by 23 parsed as (NP (NP (NNP Japan) (POS 's)) (NML (NN multibillion) (HYPH -) (NN dollar)) (NN e-commerce) (NN market))
+sid=0 spanning 17 until 19 headed by 17 parsed as (NP (NNP Japan) (POS 's))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Amazon))
+sid=1 spanning 2 until 18 headed by 5 parsed as (NP (NP (PRP$ its) (NML (JJ Japanese) (NN language)) (NN website)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB feature) (NP (NP (QP (CD 1.7) (CD million)) (NNPS Japanese)) (CC and) (NP (NML (NNP English) (NN language)) (NN book) (NNS titles))))))))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (PRP$ its) (NML (JJ Japanese) (NN language)) (NN website))
+sid=1 spanning 2 until 3 headed by 2 parsed as (PRP$ its)
+sid=1 spanning 10 until 18 headed by 12 parsed as (NP (NP (QP (CD 1.7) (CD million)) (NNPS Japanese)) (CC and) (NP (NML (NNP English) (NN language)) (NN book) (NNS titles)))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (QP (CD 1.7) (CD million)) (NNPS Japanese))
+sid=1 spanning 14 until 18 headed by 17 parsed as (NP (NML (NNP English) (NN language)) (NN book) (NNS titles))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Amazon))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (PRP$ its) (NN product) (NN line))
+sid=2 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT some) (NN time))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (JJ next) (NN year))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=3 spanning 2 until 9 headed by 6 parsed as (NP (NP (NP (NNP Amazon) (POS 's)) (JJ first) (JJ retail) (NN venture)) (PP (IN in) (NP (NNP Asia))))
+sid=3 spanning 2 until 4 headed by 2 parsed as (NP (NNP Amazon) (POS 's))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNP Asia))
+sid=3 spanning 10 until 13 headed by 12 parsed as (NP (PRP$ its) (JJ first) (NN website))
+sid=3 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=3 spanning 11 until 12 headed by 11 parsed as first
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Elaine) (NNP Johanneson))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP news))
+sid=4 spanning 3 until 4 headed by 3 parsed as VOA
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (NNP New) (NNP York))
+(end predicted mentions)
+---------gold clusters--------
+6 2 | { 'This' 'its Japanese language website , which will feature 1.7 million Japanese and English language book titles' }
+7 5 1 0 8 4 3 | { 'Amazon 's' 'its' 'Amazon' 'amazon.com , the leading US online retailer' 'its' 'Amazon' 'its' }
+(end gold clusters)

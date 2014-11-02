@@ -1,0 +1,278 @@
+---------gloss--------
+(0) [1m[34m{International Business Machines Corp.}[0m [4m[32m{said}[0m [1m[34m{it}[0m [3m[31m{agreed}[0m to let [3m[34m{Motorola Inc.}[0m participate in [3m[33m{a semiconductor research project}[0m as part of [1m[34m{its}[0m effort to bolster [4m[33m{the U.S. semiconductor industry}[0m . 
+(1) [1m[34m{IBM , which made the announcement at the dedication of a research center here ,}[0m said [1m[34m{it}[0m [4m[34m{invited}[0m many other companies to participate as well , including some from Europe . 
+(2) Jack Kuehler , [1m[34m{IBM 's}[0m president , said IBM is also considering letting other companies participate in additional semiconductor work but declined to be more specific . 
+(3) [1m[34m{IBM , which said a year ago it was inviting companies to participate in some semiconductor work ,}[0m has become far more open about [1m[34m{its}[0m technology as [1m[34m{it}[0m has tried to rally [4m[33m{U.S. industry}[0m to head off the Japanese , who now dominate [1m[35m{the market for dynamic random access memory chips}[0m . 
+(4) While [1m[34m{IBM , Armonk , N.Y. ,}[0m makes [3m[35m{the bulk of the DRAMs it uses}[0m , [1m[34m{it}[0m does n't make the equipment needed to produce [3m[35m{those chips}[0m . 
+(5) And [1m[34m{IBM}[0m worries that the Japanese will take over that equipment market , too , unless U.S. semiconductor companies produce enough memory chips here to keep U.S. equipment makers healthy . 
+(6) Failure of U.S. equipment makers , [1m[34m{IBM}[0m fears , would leave [1m[34m{it}[0m dependent on many of the Japanese companies that compete with [1m[34m{it}[0m in other parts of the market . 
+(7) [1m[34m{IBM}[0m also said [1m[34m{it}[0m expects to benefit from the expertise that [3m[34m{Motorola}[0m and other companies can bring to bear on the difficult problems involved in semiconductor manufacturing . 
+(8) [1m[34m{IBM}[0m already participates in one industrywide effort to improve semiconductor - manufacturing techniques . 
+(9) [1m[34m{IBM}[0m said [1m[34m{it}[0m expects industrywide efforts to become prevalent because semiconductor manufacturing has become so expensive . 
+(10) A state - of - the - art plant cost $ 40 million in the [3m[32m{mid-1970s}[0m but [4m[31m{costs}[0m $ 500 million today because the technology is so complex . 
+(11) And [1m[34m{IBM}[0m said [1m[34m{it}[0m expects [4m[31m{the costs}[0m to continue climbing . 
+(12) [1m[34m{IBM , which said Motorola is paying just a nominal fee to cover the 21 - month agreement ,}[0m acknowledged some companies had [3m[36m{turned}[0m down [1m[34m{its}[0m invitation to join in . 
+(13) But [1m[34m{it}[0m said [3m[36m{that}[0m was mainly because [3m[33m{the project}[0m may not bear fruit until the mid-1990s . 
+(14) [1m[34m{IBM}[0m said [1m[34m{it}[0m thought more companies would become interested as [3m[33m{the project}[0m progresses . 
+(15) [3m[33m{The project involving Motorola}[0m concerns a technique , called X-ray lithography , that figures to be crucial to future generations of memory chips . 
+(16) Currently , chips are produced by shining light through a mask to produce an image on the chip , much as a camera produces an image on film . 
+(17) But details on chips must now be extraordinarily fine , and [1m[32m{the wavelengths of even ultraviolet light}[0m are long enough so that the images [1m[32m{they}[0m draw may be too blurry -- much as someone using a wide paintbrush could produce a broad line but would have trouble painting a thin one . 
+(18) X-rays , by contrast , travel straighter and can be focused more tightly than light . 
+(19) [1m[33m{X-rays}[0m have [1m[36m{problems}[0m , too . 
+(20) [1m[33m{They}[0m can make the masks brittle and can pass through material [1m[33m{they}[0m 're not supposed to . 
+(21) But , assuming [1m[36m{those problems}[0m can be overcome , [1m[33m{they}[0m should allow for memory chips that could approach one billion bits of information -- 250 times as much as is contained in the four - megabit chips that are just reaching [1m[35m{the market}[0m and a million times what was possible in [3m[32m{the mid-1970s}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1004); part 000
+sentences:
+InternationalInternationalNNPORGPER0BusinessBusinessNNPORGPER0MachinesMachinesNNPSORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0agreedagreeVBDOPER0totoTOOPER0letletVBOPER0MotorolaMotorolaNNPORGPER0Inc.Inc.NNPORGPER0participateparticipateVBOPER0ininINOPER0aaDTOPER0semiconductorsemiconductorNNOPER0researchresearchNNOPER0projectprojectNNOPER0asasINOPER0partpartNNOPER0ofofINOPER0itsitsPRP$OPER0efforteffortNNOPER0totoTOOPER0bolsterbolsterVBOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0semiconductorsemiconductorNNOPER0industryindustryNNOPER0...OPER0(ROOT (S (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (S (VP (TO to) (VP (VB let) (S (NP (NNP Motorola) (NNP Inc.)) (VP (VB participate) (PP (IN in) (NP (DT a) (NML (NN semiconductor) (NN research)) (NN project))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (PRP$ its) (NN effort) (S (VP (TO to) (VP (VB bolster) (NP (DT the) (NNP U.S.) (NN semiconductor) (NN industry)))))))))))))))))) (. .)))
+IBMIBMNNPORGPER0,,,OPER0whichwhichWDTOPER0mademakeVBDOPER0thetheDTOPER0announcementannouncementNNOPER0atatINOPER0thetheDTOPER0dedicationdedicationNNOPER0ofofINOPER0aaDTOPER0researchresearchNNOPER0centercenterNNOPER0herehereRBOPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0invitedinviteVBDOPER0manymanyJJOPER0otherotherJJOPER0companiescompanyNNSOPER0totoTOOPER0participateparticipateVBOPER0asasRBOPER0wellwellRBOPER0,,,OPER0includingincludeVBGOPER0somesomeDTOPER0fromfromINOPER0EuropeEuropeNNPLOCPER0...OPER0(ROOT (S (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD made) (NP (DT the) (NN announcement)) (PP (IN at) (NP (NP (DT the) (NN dedication)) (PP (IN of) (NP (NP (DT a) (NN research) (NN center)) (ADVP (RB here))))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD invited) (S (NP (JJ many) (JJ other) (NNS companies)) (VP (TO to) (VP (VB participate) (ADVP (RB as) (RB well))))) (, ,) (PP (VBG including) (NP (NP (DT some)) (PP (IN from) (NP (NNP Europe))))))))) (. .)))
+JackJackNNPPERSONPER0KuehlerKuehlerNNPPERSONPER0,,,OPER0IBMIBMNNPORGPER0's'sPOSOPER0presidentpresidentNNOPER0,,,OPER0saidsayVBDOPER0IBMIBMNNPORGPER0isbeVBZOPER0alsoalsoRBOPER0consideringconsiderVBGOPER0lettingletVBGOPER0otherotherJJOPER0companiescompanyNNSOPER0participateparticipateVBOPER0ininINOPER0additionaladditionalJJOPER0semiconductorsemiconductorNNOPER0workworkNNOPER0butbutCCOPER0declineddeclineVBDOPER0totoTOOPER0bebeVBOPER0moremoreRBROPER0specificspecificJJOPER0...OPER0(ROOT (S (NP (NP (NNP Jack) (NNP Kuehler)) (, ,) (NP (NP (NNP IBM) (POS 's)) (NN president)) (, ,)) (VP (VP (VBD said) (SBAR (S (NP (NNP IBM)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG considering) (S (VP (VBG letting) (S (NP (JJ other) (NNS companies)) (VP (VB participate) (PP (IN in) (NP (JJ additional) (NN semiconductor) (NN work)))))))))))) (CC but) (VP (VBD declined) (S (VP (TO to) (VP (VB be) (ADJP (RBR more) (JJ specific))))))) (. .)))
+IBMIBMNNPORGPER0,,,OPER0whichwhichWDTOPER0saidsayVBDOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0ititPRPOPER0wasbeVBDOPER0invitinginviteVBGOPER0companiescompanyNNSOPER0totoTOOPER0participateparticipateVBOPER0ininINOPER0somesomeDTOPER0semiconductorsemiconductorNNOPER0workworkNNOPER0,,,OPER0hashaveVBZOPER0becomebecomeVBNOPER0farfarRBOPER0moremoreRBROPER0openopenJJOPER0aboutaboutINOPER0itsitsPRP$OPER0technologytechnologyNNOPER0asasINOPER0ititPRPOPER0hashaveVBZOPER0triedtryVBNOPER0totoTOOPER0rallyrallyVBOPER0U.S.U.S.NNPGPEPER0industryindustryNNOPER0totoTOOPER0headheadVBOPER0offoffRPOPER0thetheDTOPER0JapaneseJapaneseNNPSOPER0,,,OPER0whowhoWPOPER0nownowRBOPER0dominatedominateVBPOPER0thetheDTOPER0marketmarketNNOPER0forforINOPER0dynamicdynamicJJOPER0randomrandomJJOPER0accessaccessNNOPER0memorymemoryNNOPER0chipschipNNSOPER0...OPER0(ROOT (S (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (ADVP (NP (DT a) (NN year)) (RB ago)) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG inviting) (NP (NNS companies)) (S (VP (TO to) (VP (VB participate) (PP (IN in) (NP (DT some) (NN semiconductor) (NN work))))))))))))) (, ,)) (VP (VBZ has) (VP (VBN become) (ADJP (ADVP (RB far) (RBR more)) (JJ open) (PP (IN about) (NP (PRP$ its) (NN technology)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN tried) (S (VP (TO to) (VP (VB rally) (S (NP (NNP U.S.) (NN industry)) (VP (TO to) (VP (VB head) (PRT (RP off)) (NP (NP (DT the) (NNPS Japanese)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB now)) (VP (VBP dominate) (NP (NP (DT the) (NN market)) (PP (IN for) (NP (NML (JJ dynamic) (NML (JJ random) (NN access)) (NN memory)) (NNS chips)))))))))))))))))))) (. .)))
+WhilewhileINOPER0IBMIBMNNPORGPER0,,,OPER0ArmonkArmonkNNPGPEPER0,,,OPER0N.Y.N.Y.NNPGPEPER0,,,OPER0makesmakeVBZOPER0thetheDTOPER0bulkbulkNNOPER0ofofINOPER0thetheDTOPER0DRAMsDRAMsNNPSOPER0ititPRPOPER0usesuseVBZOPER0,,,OPER0ititPRPOPER0doesdoVBZOPER0n'tnotRBOPER0makemakeVBOPER0thetheDTOPER0equipmentequipmentNNOPER0neededneedVBNOPER0totoTOOPER0produceproduceVBOPER0thosethoseDTOPER0chipschipNNSOPER0...OPER0(ROOT (S (S (SBAR (IN While) (S (NP (NP (NNP IBM)) (, ,) (NP (NP (NNP Armonk)) (, ,) (NP (NNP N.Y.))) (, ,)) (VP (VBZ makes) (NP (NP (DT the) (NN bulk)) (PP (IN of) (NP (DT the) (NNPS DRAMs))))))) (NP (PRP it)) (VP (VBZ uses))) (, ,) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB make) (NP (NP (DT the) (NN equipment)) (VP (VBN needed) (S (VP (TO to) (VP (VB produce) (NP (DT those) (NNS chips)))))))))) (. .)))
+AndandCCOPER0IBMIBMNNPORGPER0worriesworryVBZOPER0thatthatINOPER0thetheDTOPER0JapaneseJapaneseNNPSOPER0willwillMDOPER0taketakeVBOPER0overoverRPOPER0thatthatDTOPER0equipmentequipmentNNOPER0marketmarketNNOPER0,,,OPER0tootooRBOPER0,,,OPER0unlessunlessINOPER0U.S.U.S.NNPGPEPER0semiconductorsemiconductorNNOPER0companiescompanyNNSOPER0produceproduceVBOPER0enoughenoughJJOPER0memorymemoryNNOPER0chipschipNNSOPER0herehereRBOPER0totoTOOPER0keepkeepVBOPER0U.S.U.S.NNPGPEPER0equipmentequipmentNNOPER0makersmakerNNSOPER0healthyhealthyJJOPER0...OPER0(ROOT (S (CC And) (NP (NNP IBM)) (VP (VBZ worries) (SBAR (IN that) (S (NP (DT the) (NNPS Japanese)) (VP (MD will) (VP (VB take) (PRT (RP over)) (NP (DT that) (NN equipment) (NN market)) (, ,) (ADVP (RB too)) (, ,) (SBAR (IN unless) (S (NP (NNP U.S.) (NN semiconductor) (NNS companies)) (VP (VB produce) (NP (JJ enough) (NN memory) (NNS chips)) (ADVP (RB here)) (S (VP (TO to) (VP (VB keep) (S (NP (NNP U.S.) (NN equipment) (NNS makers)) (ADJP (JJ healthy)))))))))))))) (. .)))
+FailurefailureNNOPER0ofofINOPER0U.S.U.S.NNPGPEPER0equipmentequipmentNNOPER0makersmakerNNSOPER0,,,OPER0IBMIBMNNPORGPER0fearsfearNNSOPER0,,,OPER0wouldwouldMDOPER0leaveleaveVBOPER0ititPRPOPER0dependentdependentJJOPER0ononINOPER0manymanyJJOPER0ofofINOPER0thetheDTOPER0JapaneseJapaneseNNPOPER0companiescompanyNNSOPER0thatthatWDTOPER0competecompeteVBPOPER0withwithINOPER0ititPRPOPER0ininINOPER0otherotherJJOPER0partspartNNSOPER0ofofINOPER0thetheDTOPER0marketmarketNNOPER0...OPER0(ROOT (S (NP (NP (NN Failure)) (PP (IN of) (NP (NP (NNP U.S.) (NN equipment) (NNS makers)) (, ,) (NP (NNP IBM) (NNS fears)) (, ,)))) (VP (MD would) (VP (VB leave) (NP (PRP it)) (S (ADJP (JJ dependent) (PP (IN on) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NNP Japanese) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP compete) (PP (IN with) (NP (PRP it))) (PP (IN in) (NP (NP (JJ other) (NNS parts)) (PP (IN of) (NP (DT the) (NN market)))))))))))))))) (. .)))
+IBMIBMNNPORGPER0alsoalsoRBOPER0saidsayVBDOPER0ititPRPOPER0expectsexpectVBZOPER0totoTOOPER0benefitbenefitVBOPER0fromfromINOPER0thetheDTOPER0expertiseexpertiseNNOPER0thatthatWDTOPER0MotorolaMotorolaNNPORGPER0andandCCOPER0otherotherJJOPER0companiescompanyNNSOPER0cancanMDOPER0bringbringVBOPER0totoTOOPER0bearbearVBOPER0ononINOPER0thetheDTOPER0difficultdifficultJJOPER0problemsproblemNNSOPER0involvedinvolveVBNOPER0ininINOPER0semiconductorsemiconductorNNOPER0manufacturingmanufacturingNNOPER0...OPER0(ROOT (S (NP (NNP IBM)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB benefit) (PP (IN from) (NP (NP (DT the) (NN expertise)) (SBAR (WHNP (WDT that)) (S (NP (NP (NNP Motorola)) (CC and) (NP (JJ other) (NNS companies))) (VP (MD can) (VP (VB bring) (S (VP (TO to) (VP (VB bear) (PP (IN on) (NP (NP (DT the) (JJ difficult) (NNS problems)) (VP (VBN involved) (PP (IN in) (NP (NN semiconductor) (NN manufacturing)))))))))))))))))))))) (. .)))
+IBMIBMNNPORGPER0alreadyalreadyRBOPER0participatesparticipateVBZOPER0ininINOPER0oneoneCDCARDINALPER0industrywideindustrywideJJOPER0efforteffortNNOPER0totoTOOPER0improveimproveVBOPER0semiconductorsemiconductorNNOPER0--HYPHOPER0manufacturingmanufactureVBGOPER0techniquestechniqueNNSOPER0...OPER0(ROOT (S (NP (NNP IBM)) (ADVP (RB already)) (VP (VBZ participates) (PP (IN in) (NP (NP (CD one) (JJ industrywide) (NN effort)) (SBAR (S (VP (TO to) (VP (VB improve) (NP (ADJP (NN semiconductor) (HYPH -) (VBG manufacturing)) (NNS techniques))))))))) (. .)))
+IBMIBMNNPORGPER0saidsayVBDOPER0ititPRPOPER0expectsexpectVBZOPER0industrywideindustrywideJJOPER0effortseffortNNSOPER0totoTOOPER0becomebecomeVBOPER0prevalentprevalentJJOPER0becausebecauseINOPER0semiconductorsemiconductorNNOPER0manufacturingmanufacturingNNOPER0hashaveVBZOPER0becomebecomeVBNOPER0sosoRBOPER0expensiveexpensiveJJOPER0...OPER0(ROOT (S (NP (NNP IBM)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (NP (JJ industrywide) (NNS efforts) (S (VP (TO to) (VP (VB become) (ADJP (JJ prevalent)) (SBAR (IN because) (S (NP (NN semiconductor) (NN manufacturing)) (VP (VBZ has) (VP (VBN become) (ADJP (RB so) (JJ expensive)))))))))))))) (. .)))
+AaDTOPER0statestateNNOPER0--HYPHOPER0ofofINOPER0--HYPHOPER0thetheDTCARDINALPER0--HYPHOPER0artartNNOPER0plantplantNNOPER0costcostVBDOPER0$$$MONEYPER04040CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0thetheDTOPER0mid-1970smid-1970NNSDATEPER0butbutCCOPER0costscostNNSOPER0$$$MONEYPER0500500CDMONEYPER0millionmillionCDMONEYPER0todaytodayNNDATEPER0becausebecauseINOPER0thetheDTOPER0technologytechnologyNNOPER0isbeVBZOPER0sosoRBOPER0complexcomplexJJOPER0...OPER0(ROOT (S (NP (DT A) (ADJP (NN state) (HYPH -) (IN of) (HYPH -) (DT the) (HYPH -) (NN art)) (NN plant)) (VP (VBD cost) (NP (NP (QP ($ $) (CD 40) (CD million))) (PP (IN in) (NP (DT the) (NNS mid-1970s) (CC but) (NNS costs)))) (NP (QP ($ $) (CD 500) (CD million)) (NN today)) (PP (IN because) (S (NP (DT the) (NN technology)) (VP (VBZ is) (ADJP (RB so) (JJ complex)))))) (. .)))
+AndandCCOPER0IBMIBMNNPORGPER0saidsayVBDOPER0ititPRPOPER0expectsexpectVBZOPER0thetheDTOPER0costscostNNSOPER0totoTOOPER0continuecontinueVBOPER0climbingclimbVBGOPER0...OPER0(ROOT (S (CC And) (NP (NNP IBM)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (NP (DT the) (NNS costs)) (VP (TO to) (VP (VB continue) (VP (VBG climbing))))))))) (. .)))
+IBMIBMNNPORGPER0,,,OPER0whichwhichWDTOPER0saidsayVBDOPER0MotorolaMotorolaNNPORGPER0isbeVBZOPER0payingpayVBGOPER0justjustRBOPER0aaDTOPER0nominalnominalJJOPER0feefeeNNOPER0totoTOOPER0covercoverVBOPER0thetheDTOPER02121CDDATEPER0--HYPHDATEPER0monthmonthNNDATEPER0agreementagreementNNOPER0,,,OPER0acknowledgedacknowledgeVBDOPER0somesomeDTOPER0companiescompanyNNSOPER0hadhaveVBDOPER0turnedturnVBNOPER0downdownRPOPER0itsitsPRP$OPER0invitationinvitationNNOPER0totoTOOPER0joinjoinVBOPER0ininRPOPER0...OPER0(ROOT (S (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (SBAR (S (NP (NNP Motorola)) (VP (VBZ is) (VP (VBG paying) (NP (RB just) (DT a) (JJ nominal) (NN fee)) (S (VP (TO to) (VP (VB cover) (NP (DT the) (NML (CD 21) (HYPH -) (NN month)) (NN agreement)))))))))))) (, ,)) (VP (VBD acknowledged) (SBAR (S (NP (DT some) (NNS companies)) (VP (VBD had) (VP (VBN turned) (PRT (RP down)) (NP (PRP$ its) (NN invitation) (S (VP (TO to) (VP (VB join) (PRT (RP in))))))))))) (. .)))
+ButbutCCOPER0ititPRPOPER0saidsayVBDOPER0thatthatDTOPER0wasbeVBDOPER0mainlymainlyRBOPER0becausebecauseINOPER0thetheDTOPER0projectprojectNNOPER0maymayMDOPER0notnotRBOPER0bearbearVBOPER0fruitfruitNNOPER0untiluntilINOPER0thetheDTDATEPER0mid-1990smid-1990NNSDATEPER0...OPER0(ROOT (S (CC But) (NP (PRP it)) (VP (VBD said) (SBAR (S (NP (DT that)) (VP (VBD was) (SBAR (ADVP (RB mainly)) (IN because) (S (NP (DT the) (NN project)) (VP (MD may) (RB not) (VP (VB bear) (NP (NN fruit)) (PP (IN until) (NP (DT the) (NNS mid-1990s))))))))))) (. .)))
+IBMIBMNNPORGPER0saidsayVBDOPER0ititPRPOPER0thoughtthinkVBDOPER0moremoreJJROPER0companiescompanyNNSOPER0wouldwouldMDOPER0becomebecomeVBOPER0interestedinterestedJJOPER0asasINOPER0thetheDTOPER0projectprojectNNOPER0progressesprogressVBZOPER0...OPER0(ROOT (S (NP (NNP IBM)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD thought) (SBAR (S (NP (JJR more) (NNS companies)) (VP (MD would) (VP (VB become) (ADJP (JJ interested)) (SBAR (IN as) (S (NP (DT the) (NN project)) (VP (VBZ progresses)))))))))))) (. .)))
+ThetheDTOPER0projectprojectNNOPER0involvinginvolveVBGOPER0MotorolaMotorolaNNPORGPER0concernsconcernVBZOPER0aaDTOPER0techniquetechniqueNNOPER0,,,OPER0calledcallVBNOPER0X-rayx-rayNNOPER0lithographylithographyNNOPER0,,,OPER0thatthatINOPER0figuresfigureNNSOPER0totoTOOPER0bebeVBOPER0crucialcrucialJJOPER0totoINOPER0futurefutureJJOPER0generationsgenerationNNSOPER0ofofINOPER0memorymemoryNNOPER0chipschipNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN project)) (VP (VBG involving) (NP (NNP Motorola)))) (VP (VBZ concerns) (NP (NP (DT a) (NN technique)) (, ,) (VP (VBN called) (S (NP (NN X-ray) (NN lithography))))) (, ,) (SBAR (IN that) (S (NP (NNS figures)) (VP (TO to) (VP (VB be) (ADJP (JJ crucial) (PP (IN to) (NP (NP (JJ future) (NNS generations)) (PP (IN of) (NP (NN memory) (NNS chips))))))))))) (. .)))
+CurrentlycurrentlyRBOPER0,,,OPER0chipschipNNSOPER0arebeVBPOPER0producedproduceVBNOPER0bybyINOPER0shiningshineVBGOPER0lightlightNNOPER0throughthroughINOPER0aaDTOPER0maskmaskNNOPER0totoTOOPER0produceproduceVBOPER0anaDTOPER0imageimageNNOPER0ononINOPER0thetheDTOPER0chipchipNNOPER0,,,OPER0muchmuchRBOPER0asasINOPER0aaDTOPER0cameracameraNNOPER0producesproduceVBZOPER0anaDTOPER0imageimageNNOPER0ononINOPER0filmfilmNNOPER0...OPER0(ROOT (S (ADVP (RB Currently)) (, ,) (NP (NNS chips)) (VP (VBP are) (VP (VBN produced) (PP (IN by) (S (VP (VBG shining) (NP (NN light)) (PP (IN through) (NP (DT a) (NN mask) (S (VP (TO to) (VP (VB produce) (NP (NP (DT an) (NN image)) (PP (IN on) (NP (DT the) (NN chip)))))))))))) (, ,) (SBAR (ADVP (RB much)) (IN as) (S (NP (DT a) (NN camera)) (VP (VBZ produces) (NP (NP (DT an) (NN image)) (PP (IN on) (NP (NN film))))))))) (. .)))
+ButbutCCOPER0detailsdetailNNSOPER0ononINOPER0chipschipNNSOPER0mustmustMDOPER0nownowRBOPER0bebeVBOPER0extraordinarilyextraordinarilyRBOPER0finefineJJOPER0,,,OPER0andandCCOPER0thetheDTOPER0wavelengthswavelengthNNSOPER0ofofINOPER0evenevenRBOPER0ultravioletultravioletJJOPER0lightlightNNOPER0arebeVBPOPER0longlongRBOPER0enoughenoughJJOPER0sosoRBOPER0thatthatINOPER0thetheDTOPER0imagesimageNNSOPER0theytheyPRPOPER0drawdrawVBPOPER0maymayMDOPER0bebeVBOPER0tootooRBOPER0blurryblurryJJOPER0----:OPER0muchmuchRBOPER0asasINOPER0someonesomeoneNNOPER0usinguseVBGOPER0aaDTOPER0widewideJJOPER0paintbrushpaintbrushNNOPER0couldcouldMDOPER0produceproduceVBOPER0aaDTOPER0broadbroadJJOPER0linelineNNOPER0butbutCCOPER0wouldwouldMDOPER0havehaveVBOPER0troubletroubleNNOPER0paintingpaintVBGOPER0aaDTOPER0thinthinJJOPER0oneoneCDOPER0...OPER0(ROOT (S (CC But) (S (NP (NP (NNS details)) (PP (IN on) (NP (NNS chips)))) (VP (MD must) (ADVP (RB now)) (VP (VB be) (ADJP (RB extraordinarily) (JJ fine))))) (, ,) (CC and) (S (NP (NP (DT the) (NNS wavelengths)) (PP (IN of) (NP (RB even) (JJ ultraviolet) (NN light)))) (VP (VBP are) (ADJP (RB long) (JJ enough) (SBAR (RB so) (SBAR (IN that) (S (NP (DT the) (NNS images)) (NP (PRP they)) (VP (VBP draw) (SBAR (S (VP (MD may) (VP (VB be) (ADJP (RB too) (JJ blurry)) (: --) (SBAR (ADVP (RB much)) (IN as) (S (S (NP (NN someone)) (VP (VBG using) (NP (DT a) (JJ wide) (NN paintbrush)))) (VP (VP (MD could) (VP (VB produce) (NP (DT a) (JJ broad) (NN line)))) (CC but) (VP (MD would) (VP (VB have) (NP (NN trouble)) (S (VP (VBG painting) (NP (DT a) (JJ thin) (CD one)))))))))))))))))))) (. .)))
+X-raysx-rayNNSOPER0,,,OPER0bybyINOPER0contrastcontrastNNOPER0,,,OPER0traveltravelVBPOPER0straighterstraighterNNOPER0andandCCOPER0cancanMDOPER0bebeVBOPER0focusedfocusVBNOPER0moremoreRBROPER0tightlytightlyRBOPER0thanthanINOPER0lightlightNNOPER0...OPER0(ROOT (S (NP (NNS X-rays)) (, ,) (PP (IN by) (NP (NN contrast))) (, ,) (VP (VP (VBP travel) (NP (NN straighter))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN focused) (ADVP (ADVP (RBR more) (RB tightly)) (PP (IN than) (NP (NN light)))))))) (. .)))
+X-raysx-rayNNSOPER0havehaveVBPOPER0problemsproblemNNSOPER0,,,OPER0tootooRBOPER0...OPER0(ROOT (S (NP (NNS X-rays)) (VP (VBP have) (NP (NNS problems)) (, ,) (ADVP (RB too))) (. .)))
+TheytheyPRPOPER0cancanMDOPER0makemakeVBOPER0thetheDTOPER0masksmaskNNSOPER0brittlebrittleJJOPER0andandCCOPER0cancanMDOPER0passpassVBOPER0throughthroughINOPER0materialmaterialNNOPER0theytheyPRPOPER0'rebeVBPOPER0notnotRBOPER0supposedsupposeVBNOPER0totoTOOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VP (MD can) (VP (VB make) (S (NP (DT the) (NNS masks)) (ADJP (JJ brittle))))) (CC and) (VP (MD can) (VP (VB pass) (PP (IN through) (NP (NP (NN material)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN supposed) (S (VP (TO to)))))))))))) (. .)))
+ButbutCCOPER0,,,OPER0assumingassumeVBGOPER0thosethoseDTOPER0problemsproblemNNSOPER0cancanMDOPER0bebeVBOPER0overcomeovercomeVBNOPER0,,,OPER0theytheyPRPOPER0shouldshouldMDOPER0allowallowVBOPER0forforINOPER0memorymemoryNNOPER0chipschipNNSOPER0thatthatWDTOPER0couldcouldMDOPER0approachapproachVBOPER0oneoneCDQUANTITYPER0billionbillionCDQUANTITYPER0bitsbitNNSQUANTITYPER0ofofINOPER0informationinformationNNOPER0----:OPER0250250CDCARDINALPER0timestimeNNSOPER0asasRBOPER0muchmuchRBOPER0asasINOPER0isbeVBZOPER0containedcontainVBNOPER0ininINOPER0thetheDTOPER0fourfourCDCARDINALPER0--HYPHOPER0megabitmegabitNNOPER0chipschipNNSOPER0thatthatWDTOPER0arebeVBPOPER0justjustRBOPER0reachingreachVBGOPER0thetheDTOPER0marketmarketNNOPER0andandCCOPER0aaDTCARDINALPER0millionmillionCDCARDINALPER0timestimeNNSOPER0whatwhatWPOPER0wasbeVBDOPER0possiblepossibleJJOPER0ininINOPER0thetheDTDATEPER0mid-1970smid-1970NNSDATEPER0...OPER0(ROOT (S (CC But) (, ,) (S (VP (VBG assuming) (SBAR (S (NP (DT those) (NNS problems)) (VP (MD can) (VP (VB be) (VP (VBN overcome)))))))) (, ,) (NP (PRP they)) (VP (MD should) (VP (VB allow) (PP (IN for) (NP (NP (NN memory) (NNS chips)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB approach) (NP (NP (NP (QP (CD one) (CD billion)) (NNS bits)) (PP (IN of) (NP (NN information)))) (: --) (NP (CD 250) (NNS times))) (ADVP (ADVP (RB as) (RB much)) (SBAR (IN as) (S (VP (VBZ is) (VP (VBN contained) (PP (IN in) (NP (NP (DT the) (NML (CD four) (HYPH -) (NN megabit)) (NNS chips)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB just)) (VP (VBG reaching) (NP (NP (DT the) (NN market)) (CC and) (NP (NP (QP (DT a) (CD million)) (NNS times)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (ADJP (JJ possible)) (PP (IN in) (NP (DT the) (NNS mid-1970s))))))))))))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as said
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 6 until 7 headed by 6 parsed as agreed
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NNP Motorola) (NNP Inc.))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT a) (NML (NN semiconductor) (NN research)) (NN project))
+sid=0 spanning 20 until 21 headed by 20 parsed as its
+sid=0 spanning 24 until 28 headed by 27 parsed as (NP (DT the) (NNP U.S.) (NN semiconductor) (NN industry))
+sid=1 spanning 0 until 15 headed by 0 parsed as (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD made) (NP (DT the) (NN announcement)) (PP (IN at) (NP (NP (DT the) (NN dedication)) (PP (IN of) (NP (NP (DT a) (NN research) (NN center)) (ADVP (RB here))))))))) (, ,))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN announcement))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=1 spanning 17 until 18 headed by 17 parsed as invited
+sid=2 spanning 3 until 5 headed by 3 parsed as (NP (NNP IBM) (POS 's))
+sid=3 spanning 0 until 18 headed by 0 parsed as (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (ADVP (NP (DT a) (NN year)) (RB ago)) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG inviting) (NP (NNS companies)) (S (VP (TO to) (VP (VB participate) (PP (IN in) (NP (DT some) (NN semiconductor) (NN work))))))))))))) (, ,))
+sid=3 spanning 24 until 25 headed by 24 parsed as its
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (PRP it))
+sid=3 spanning 32 until 34 headed by 33 parsed as (NP (NNP U.S.) (NN industry))
+sid=3 spanning 43 until 51 headed by 44 parsed as (NP (NP (DT the) (NN market)) (PP (IN for) (NP (NML (JJ dynamic) (NML (JJ random) (NN access)) (NN memory)) (NNS chips))))
+sid=4 spanning 1 until 7 headed by 1 parsed as (NP (NP (NNP IBM)) (, ,) (NP (NP (NNP Armonk)) (, ,) (NP (NNP N.Y.))) (, ,))
+sid=4 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT the) (NN bulk)) (PP (IN of) (NP (DT the) (NNPS DRAMs))))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=4 spanning 25 until 27 headed by 26 parsed as (NP (DT those) (NNS chips))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (NNP IBM))
+sid=6 spanning 6 until 7 headed by 6 parsed as IBM
+sid=6 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP IBM))
+sid=7 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=7 spanning 11 until 12 headed by 11 parsed as (NP (NP (NNP Motorola)) (CC and) (NP (JJ other) (NNS companies)))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP IBM))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNP IBM))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=10 spanning 15 until 16 headed by 15 parsed as (NP (DT the) (NNS mid-1970s) (CC but) (NNS costs))
+sid=10 spanning 17 until 18 headed by 17 parsed as costs
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (NNP IBM))
+sid=11 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=11 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS costs))
+sid=12 spanning 0 until 19 headed by 0 parsed as (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (SBAR (S (NP (NNP Motorola)) (VP (VBZ is) (VP (VBG paying) (NP (RB just) (DT a) (JJ nominal) (NN fee)) (S (VP (TO to) (VP (VB cover) (NP (DT the) (NML (CD 21) (HYPH -) (NN month)) (NN agreement)))))))))))) (, ,))
+sid=12 spanning 4 until 5 headed by 4 parsed as (NP (NNP Motorola))
+sid=12 spanning 13 until 18 headed by 17 parsed as (NP (DT the) (NML (CD 21) (HYPH -) (NN month)) (NN agreement))
+sid=12 spanning 23 until 24 headed by 23 parsed as turned
+sid=12 spanning 25 until 30 headed by 26 parsed as (NP (PRP$ its) (NN invitation) (S (VP (TO to) (VP (VB join) (PRT (RP in))))))
+sid=12 spanning 25 until 26 headed by 25 parsed as its
+sid=13 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=13 spanning 3 until 4 headed by 3 parsed as (NP (DT that))
+sid=13 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN project))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (NNP IBM))
+sid=14 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=14 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN project))
+sid=15 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN project)) (VP (VBG involving) (NP (NNP Motorola))))
+sid=15 spanning 3 until 4 headed by 3 parsed as (NP (NNP Motorola))
+sid=17 spanning 11 until 17 headed by 12 parsed as (NP (NP (DT the) (NNS wavelengths)) (PP (IN of) (NP (RB even) (JJ ultraviolet) (NN light))))
+sid=17 spanning 24 until 25 headed by 24 parsed as (NP (PRP they))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (NNS X-rays))
+sid=19 spanning 2 until 3 headed by 2 parsed as (NP (NNS problems))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=20 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=21 spanning 3 until 5 headed by 4 parsed as (NP (DT those) (NNS problems))
+sid=21 spanning 9 until 10 headed by 9 parsed as (NP (PRP they))
+sid=21 spanning 41 until 43 headed by 42 parsed as (NP (NP (DT the) (NN market)) (CC and) (NP (NP (QP (DT a) (CD million)) (NNS times)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (ADJP (JJ possible)) (PP (IN in) (NP (DT the) (NNS mid-1970s))))))))
+sid=21 spanning 51 until 53 headed by 52 parsed as (NP (DT the) (NNS mid-1970s))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NNP Motorola) (NNP Inc.))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT a) (NML (NN semiconductor) (NN research)) (NN project))
+sid=0 spanning 18 until 28 headed by 18 parsed as (NP (NP (NN part)) (PP (IN of) (NP (PRP$ its) (NN effort) (S (VP (TO to) (VP (VB bolster) (NP (DT the) (NNP U.S.) (NN semiconductor) (NN industry))))))))
+sid=0 spanning 20 until 28 headed by 21 parsed as (NP (PRP$ its) (NN effort) (S (VP (TO to) (VP (VB bolster) (NP (DT the) (NNP U.S.) (NN semiconductor) (NN industry))))))
+sid=0 spanning 20 until 21 headed by 20 parsed as (PRP$ its)
+sid=0 spanning 24 until 28 headed by 27 parsed as (NP (DT the) (NNP U.S.) (NN semiconductor) (NN industry))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD made) (NP (DT the) (NN announcement)) (PP (IN at) (NP (NP (DT the) (NN dedication)) (PP (IN of) (NP (NP (DT a) (NN research) (NN center)) (ADVP (RB here))))))))) (, ,))
+sid=1 spanning 0 until 15 headed by 0 parsed as (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD made) (NP (DT the) (NN announcement)) (PP (IN at) (NP (NP (DT the) (NN dedication)) (PP (IN of) (NP (NP (DT a) (NN research) (NN center)) (ADVP (RB here))))))))) (, ,))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN announcement))
+sid=1 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT the) (NN dedication)) (PP (IN of) (NP (NP (DT a) (NN research) (NN center)) (ADVP (RB here)))))
+sid=1 spanning 10 until 14 headed by 12 parsed as (NP (NP (DT a) (NN research) (NN center)) (ADVP (RB here)))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (JJ many) (JJ other) (NNS companies))
+sid=1 spanning 27 until 30 headed by 27 parsed as (NP (NP (DT some)) (PP (IN from) (NP (NNP Europe))))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (NNP Europe))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Jack) (NNP Kuehler)) (, ,) (NP (NP (NNP IBM) (POS 's)) (NN president)) (, ,))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Jack) (NNP Kuehler)) (, ,) (NP (NP (NNP IBM) (POS 's)) (NN president)) (, ,))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (NP (NNP IBM) (POS 's)) (NN president))
+sid=2 spanning 3 until 5 headed by 3 parsed as (NP (NNP IBM) (POS 's))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNP IBM))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (JJ other) (NNS companies))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (ADVP (NP (DT a) (NN year)) (RB ago)) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG inviting) (NP (NNS companies)) (S (VP (TO to) (VP (VB participate) (PP (IN in) (NP (DT some) (NN semiconductor) (NN work))))))))))))) (, ,))
+sid=3 spanning 0 until 18 headed by 0 parsed as (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (ADVP (NP (DT a) (NN year)) (RB ago)) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG inviting) (NP (NNS companies)) (S (VP (TO to) (VP (VB participate) (PP (IN in) (NP (DT some) (NN semiconductor) (NN work))))))))))))) (, ,))
+sid=3 spanning 4 until 7 headed by 6 parsed as ago
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (NNS companies))
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT some) (NN semiconductor) (NN work))
+sid=3 spanning 24 until 26 headed by 25 parsed as (NP (PRP$ its) (NN technology))
+sid=3 spanning 24 until 25 headed by 24 parsed as (PRP$ its)
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (PRP it))
+sid=3 spanning 32 until 34 headed by 33 parsed as (NP (NNP U.S.) (NN industry))
+sid=3 spanning 37 until 51 headed by 38 parsed as (NP (NP (DT the) (NNPS Japanese)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB now)) (VP (VBP dominate) (NP (NP (DT the) (NN market)) (PP (IN for) (NP (NML (JJ dynamic) (NML (JJ random) (NN access)) (NN memory)) (NNS chips))))))))
+sid=3 spanning 37 until 39 headed by 38 parsed as (NP (DT the) (NNPS Japanese))
+sid=3 spanning 43 until 51 headed by 44 parsed as (NP (NP (DT the) (NN market)) (PP (IN for) (NP (NML (JJ dynamic) (NML (JJ random) (NN access)) (NN memory)) (NNS chips))))
+sid=3 spanning 46 until 51 headed by 50 parsed as (NP (NML (JJ dynamic) (NML (JJ random) (NN access)) (NN memory)) (NNS chips))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP IBM)) (, ,) (NP (NP (NNP Armonk)) (, ,) (NP (NNP N.Y.))) (, ,))
+sid=4 spanning 1 until 7 headed by 1 parsed as (NP (NP (NNP IBM)) (, ,) (NP (NP (NNP Armonk)) (, ,) (NP (NNP N.Y.))) (, ,))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NP (NNP Armonk)) (, ,) (NP (NNP N.Y.)))
+sid=4 spanning 3 until 6 headed by 3 parsed as (NP (NP (NNP Armonk)) (, ,) (NP (NNP N.Y.)))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNP N.Y.))
+sid=4 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT the) (NN bulk)) (PP (IN of) (NP (DT the) (NNPS DRAMs))))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNPS DRAMs))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=4 spanning 20 until 27 headed by 21 parsed as (NP (NP (DT the) (NN equipment)) (VP (VBN needed) (S (VP (TO to) (VP (VB produce) (NP (DT those) (NNS chips)))))))
+sid=4 spanning 25 until 27 headed by 26 parsed as (NP (DT those) (NNS chips))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (NNP IBM))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNPS Japanese))
+sid=5 spanning 9 until 12 headed by 11 parsed as (NP (DT that) (NN equipment) (NN market))
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (NNP U.S.) (NN semiconductor) (NNS companies))
+sid=5 spanning 26 until 29 headed by 28 parsed as (NP (NNP U.S.) (NN equipment) (NNS makers))
+sid=6 spanning 0 until 9 headed by 0 parsed as (NP (NP (NN Failure)) (PP (IN of) (NP (NP (NNP U.S.) (NN equipment) (NNS makers)) (, ,) (NP (NNP IBM) (NNS fears)) (, ,))))
+sid=6 spanning 2 until 9 headed by 4 parsed as (NP (NP (NNP U.S.) (NN equipment) (NNS makers)) (, ,) (NP (NNP IBM) (NNS fears)) (, ,))
+sid=6 spanning 2 until 5 headed by 4 parsed as (NP (NNP U.S.) (NN equipment) (NNS makers))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (NNP IBM) (NNS fears))
+sid=6 spanning 6 until 7 headed by 6 parsed as IBM
+sid=6 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=6 spanning 14 until 29 headed by 14 parsed as (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NNP Japanese) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP compete) (PP (IN with) (NP (PRP it))) (PP (IN in) (NP (NP (JJ other) (NNS parts)) (PP (IN of) (NP (DT the) (NN market)))))))))))
+sid=6 spanning 16 until 29 headed by 18 parsed as (NP (NP (DT the) (NNP Japanese) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP compete) (PP (IN with) (NP (PRP it))) (PP (IN in) (NP (NP (JJ other) (NNS parts)) (PP (IN of) (NP (DT the) (NN market)))))))))
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=6 spanning 24 until 29 headed by 25 parsed as (NP (NP (JJ other) (NNS parts)) (PP (IN of) (NP (DT the) (NN market))))
+sid=6 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN market))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP IBM))
+sid=7 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=7 spanning 8 until 27 headed by 9 parsed as (NP (NP (DT the) (NN expertise)) (SBAR (WHNP (WDT that)) (S (NP (NP (NNP Motorola)) (CC and) (NP (JJ other) (NNS companies))) (VP (MD can) (VP (VB bring) (S (VP (TO to) (VP (VB bear) (PP (IN on) (NP (NP (DT the) (JJ difficult) (NNS problems)) (VP (VBN involved) (PP (IN in) (NP (NN semiconductor) (NN manufacturing))))))))))))))
+sid=7 spanning 11 until 12 headed by 11 parsed as (NP (NP (NNP Motorola)) (CC and) (NP (JJ other) (NNS companies)))
+sid=7 spanning 11 until 15 headed by 11 parsed as (NP (NP (NNP Motorola)) (CC and) (NP (JJ other) (NNS companies)))
+sid=7 spanning 13 until 15 headed by 14 parsed as (NP (JJ other) (NNS companies))
+sid=7 spanning 20 until 27 headed by 22 parsed as (NP (NP (DT the) (JJ difficult) (NNS problems)) (VP (VBN involved) (PP (IN in) (NP (NN semiconductor) (NN manufacturing)))))
+sid=7 spanning 25 until 27 headed by 26 parsed as (NP (NN semiconductor) (NN manufacturing))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP IBM))
+sid=8 spanning 4 until 13 headed by 6 parsed as (NP (NP (CD one) (JJ industrywide) (NN effort)) (SBAR (S (VP (TO to) (VP (VB improve) (NP (ADJP (NN semiconductor) (HYPH -) (VBG manufacturing)) (NNS techniques)))))))
+sid=8 spanning 9 until 13 headed by 12 parsed as (NP (ADJP (NN semiconductor) (HYPH -) (VBG manufacturing)) (NNS techniques))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNP IBM))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=9 spanning 4 until 16 headed by 5 parsed as (NP (JJ industrywide) (NNS efforts) (S (VP (TO to) (VP (VB become) (ADJP (JJ prevalent)) (SBAR (IN because) (S (NP (NN semiconductor) (NN manufacturing)) (VP (VBZ has) (VP (VBN become) (ADJP (RB so) (JJ expensive))))))))))
+sid=9 spanning 10 until 12 headed by 11 parsed as (NP (NN semiconductor) (NN manufacturing))
+sid=10 spanning 0 until 9 headed by 8 parsed as (NP (DT A) (ADJP (NN state) (HYPH -) (IN of) (HYPH -) (DT the) (HYPH -) (NN art)) (NN plant))
+sid=10 spanning 15 until 16 headed by 15 parsed as (NP (DT the) (NNS mid-1970s) (CC but) (NNS costs))
+sid=10 spanning 14 until 18 headed by 15 parsed as (NP (DT the) (NNS mid-1970s) (CC but) (NNS costs))
+sid=10 spanning 18 until 22 headed by 21 parsed as (NP (QP ($ $) (CD 500) (CD million)) (NN today))
+sid=10 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN technology))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (NNP IBM))
+sid=11 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=11 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS costs))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (SBAR (S (NP (NNP Motorola)) (VP (VBZ is) (VP (VBG paying) (NP (RB just) (DT a) (JJ nominal) (NN fee)) (S (VP (TO to) (VP (VB cover) (NP (DT the) (NML (CD 21) (HYPH -) (NN month)) (NN agreement)))))))))))) (, ,))
+sid=12 spanning 0 until 19 headed by 0 parsed as (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (SBAR (S (NP (NNP Motorola)) (VP (VBZ is) (VP (VBG paying) (NP (RB just) (DT a) (JJ nominal) (NN fee)) (S (VP (TO to) (VP (VB cover) (NP (DT the) (NML (CD 21) (HYPH -) (NN month)) (NN agreement)))))))))))) (, ,))
+sid=12 spanning 4 until 5 headed by 4 parsed as (NP (NNP Motorola))
+sid=12 spanning 7 until 11 headed by 10 parsed as (NP (RB just) (DT a) (JJ nominal) (NN fee))
+sid=12 spanning 13 until 18 headed by 17 parsed as (NP (DT the) (NML (CD 21) (HYPH -) (NN month)) (NN agreement))
+sid=12 spanning 14 until 17 headed by 16 parsed as month
+sid=12 spanning 20 until 22 headed by 21 parsed as (NP (DT some) (NNS companies))
+sid=12 spanning 25 until 30 headed by 26 parsed as (NP (PRP$ its) (NN invitation) (S (VP (TO to) (VP (VB join) (PRT (RP in))))))
+sid=12 spanning 25 until 26 headed by 25 parsed as (PRP$ its)
+sid=13 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=13 spanning 3 until 4 headed by 3 parsed as (NP (DT that))
+sid=13 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN project))
+sid=13 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NNS mid-1990s))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (NNP IBM))
+sid=14 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=14 spanning 4 until 6 headed by 5 parsed as (NP (JJR more) (NNS companies))
+sid=14 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN project))
+sid=15 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN project)) (VP (VBG involving) (NP (NNP Motorola))))
+sid=15 spanning 3 until 4 headed by 3 parsed as (NP (NNP Motorola))
+sid=15 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT a) (NN technique)) (, ,) (VP (VBN called) (S (NP (NN X-ray) (NN lithography)))))
+sid=15 spanning 5 until 7 headed by 6 parsed as (NP (DT a) (NN technique))
+sid=15 spanning 9 until 11 headed by 10 parsed as (NP (NN X-ray) (NN lithography))
+sid=15 spanning 13 until 14 headed by 13 parsed as (NP (NNS figures))
+sid=15 spanning 18 until 23 headed by 19 parsed as (NP (NP (JJ future) (NNS generations)) (PP (IN of) (NP (NN memory) (NNS chips))))
+sid=15 spanning 21 until 23 headed by 22 parsed as (NP (NN memory) (NNS chips))
+sid=16 spanning 2 until 3 headed by 2 parsed as (NP (NNS chips))
+sid=16 spanning 9 until 18 headed by 10 parsed as (NP (DT a) (NN mask) (S (VP (TO to) (VP (VB produce) (NP (NP (DT an) (NN image)) (PP (IN on) (NP (DT the) (NN chip))))))))
+sid=16 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT an) (NN image)) (PP (IN on) (NP (DT the) (NN chip))))
+sid=16 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN chip))
+sid=16 spanning 21 until 23 headed by 22 parsed as (NP (DT a) (NN camera))
+sid=16 spanning 24 until 28 headed by 25 parsed as (NP (NP (DT an) (NN image)) (PP (IN on) (NP (NN film))))
+sid=17 spanning 1 until 4 headed by 1 parsed as (NP (NP (NNS details)) (PP (IN on) (NP (NNS chips))))
+sid=17 spanning 3 until 4 headed by 3 parsed as (NP (NNS chips))
+sid=17 spanning 11 until 17 headed by 12 parsed as (NP (NP (DT the) (NNS wavelengths)) (PP (IN of) (NP (RB even) (JJ ultraviolet) (NN light))))
+sid=17 spanning 14 until 17 headed by 16 parsed as (NP (RB even) (JJ ultraviolet) (NN light))
+sid=17 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NNS images))
+sid=17 spanning 24 until 25 headed by 24 parsed as (NP (PRP they))
+sid=17 spanning 35 until 38 headed by 37 parsed as (NP (DT a) (JJ wide) (NN paintbrush))
+sid=17 spanning 40 until 43 headed by 42 parsed as (NP (DT a) (JJ broad) (NN line))
+sid=17 spanning 48 until 51 headed by 50 parsed as (NP (DT a) (JJ thin) (CD one))
+sid=18 spanning 0 until 1 headed by 0 parsed as (NP (NNS X-rays))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (NNS X-rays))
+sid=19 spanning 2 until 3 headed by 2 parsed as (NP (NNS problems))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=20 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS masks))
+sid=20 spanning 10 until 16 headed by 10 parsed as (NP (NP (NN material)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN supposed) (S (VP (TO to))))))))
+sid=20 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=21 spanning 3 until 5 headed by 4 parsed as (NP (DT those) (NNS problems))
+sid=21 spanning 9 until 10 headed by 9 parsed as (NP (PRP they))
+sid=21 spanning 13 until 53 headed by 14 parsed as (NP (NP (NN memory) (NNS chips)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB approach) (NP (NP (NP (QP (CD one) (CD billion)) (NNS bits)) (PP (IN of) (NP (NN information)))) (: --) (NP (CD 250) (NNS times))) (ADVP (ADVP (RB as) (RB much)) (SBAR (IN as) (S (VP (VBZ is) (VP (VBN contained) (PP (IN in) (NP (NP (DT the) (NML (CD four) (HYPH -) (NN megabit)) (NNS chips)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB just)) (VP (VBG reaching) (NP (NP (DT the) (NN market)) (CC and) (NP (NP (QP (DT a) (CD million)) (NNS times)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (ADJP (JJ possible)) (PP (IN in) (NP (DT the) (NNS mid-1970s))))))))))))))))))))))))
+sid=21 spanning 18 until 26 headed by 20 parsed as (NP (NP (NP (QP (CD one) (CD billion)) (NNS bits)) (PP (IN of) (NP (NN information)))) (: --) (NP (CD 250) (NNS times)))
+sid=21 spanning 24 until 26 headed by 25 parsed as (NP (CD 250) (NNS times))
+sid=21 spanning 32 until 53 headed by 36 parsed as (NP (NP (DT the) (NML (CD four) (HYPH -) (NN megabit)) (NNS chips)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB just)) (VP (VBG reaching) (NP (NP (DT the) (NN market)) (CC and) (NP (NP (QP (DT a) (CD million)) (NNS times)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (ADJP (JJ possible)) (PP (IN in) (NP (DT the) (NNS mid-1970s)))))))))))))
+sid=21 spanning 41 until 53 headed by 42 parsed as (NP (NP (DT the) (NN market)) (CC and) (NP (NP (QP (DT a) (CD million)) (NNS times)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (ADJP (JJ possible)) (PP (IN in) (NP (DT the) (NNS mid-1970s))))))))
+sid=21 spanning 41 until 43 headed by 42 parsed as (NP (DT the) (NN market))
+sid=21 spanning 44 until 53 headed by 46 parsed as (NP (NP (QP (DT a) (CD million)) (NNS times)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (ADJP (JJ possible)) (PP (IN in) (NP (DT the) (NNS mid-1970s)))))))
+sid=21 spanning 51 until 53 headed by 52 parsed as (NP (DT the) (NNS mid-1970s))
+(end predicted mentions)
+---------gold clusters--------
+53 52 | { 'they' 'the wavelengths of even ultraviolet light' }
+57 54 56 59 | { 'they' 'X-rays' 'They' 'they' }
+14 23 24 20 18 13 32 0 28 44 25 30 35 10 31 26 2 6 36 12 21 15 43 47 27 8 48 38 | { 'its' 'IBM' 'IBM' 'it' 'IBM , Armonk , N.Y. ,' 'IBM , which said a year ago it was inviting companies to participate in some semiconductor work ,' 'it' 'International Business Machines Corp.' 'it' 'it' 'it' 'IBM' 'IBM' 'it' 'IBM' 'it' 'it' 'its' 'it' 'IBM 's' 'it' 'it' 'its' 'IBM' 'IBM' 'IBM , which made the announcement at the dedication of a research center here ,' 'it' 'IBM , which said Motorola is paying just a nominal fee to cover the 21 - month agreement ,' }
+60 17 | { 'the market' 'the market for dynamic random access memory chips' }
+55 58 | { 'problems' 'those problems' }
+3 40 | { 'agreed' 'the 21 - month agreement' }
+61 33 | { 'the mid-1970s' 'mid-1970s' }
+5 46 49 50 | { 'a semiconductor research project' 'the project' 'the project' 'The project involving Motorola' }
+39 4 29 51 | { 'Motorola' 'Motorola Inc.' 'Motorola' 'Motorola' }
+22 19 | { 'those chips' 'the bulk of the DRAMs it uses' }
+45 41 | { 'that' 'turned' }
+34 37 | { 'costs' 'the costs' }
+1 9 | { 'said' 'the announcement' }
+7 16 | { 'the U.S. semiconductor industry' 'U.S. industry' }
+42 11 | { 'its invitation to join in' 'invited' }
+(end gold clusters)

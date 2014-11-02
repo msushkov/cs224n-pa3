@@ -1,0 +1,121 @@
+---------gloss--------
+(0) Right now let 's get an update on the latest world news from VOA 's Dave Deforest . 
+(1) Well Dick , [3m[31m{US officials}[0m have launched an investigation into [3m[34m{a suspected terrorist attack that killed at least six sailors on a US warship in Yemen}[0m . 
+(2) [3m[31m{They}[0m say [3m[35m{a suicide boat}[0m exploded near [3m[33m{the USS Cole destroyer}[0m as [3m[33m{it}[0m refueled early Thursday in [3m[32m{the Yemeni port of Aden}[0m . 
+(3) [3m[34m{The blast}[0m tore a huge gap in [3m[33m{the ship 's}[0m side . 
+(4) At least 10 other crewmembers are missing more than 30 were injured . 
+(5) Defense Secretary William Cohen says if a formal investigation shows [3m[34m{it}[0m was a terrorist attack . 
+(6) Dispatch investigators to learn what was responsible for [3m[34m{the blast}[0m . 
+(7) Tragedies that test our strength and our resolve occur and have occurred in the past . 
+(8) [4m[31m{We}[0m have passed [3m[36m{the test}[0m and measuring up to those responsibilities and [4m[31m{we}[0m will pass [3m[36m{that test}[0m once again today . 
+(9) Chief of Naval Operations Admiral Vern Clark says the bombers were aboard [3m[35m{a small boat that was assisting in the refueling of the destroyer at the port}[0m . 
+(10) No one has claimed responsibility . 
+(11) US military forces around the world have been placed on high alert . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0033); part 000
+sentences:
+RightrightRBOPER0nownowRBOPER0letletVBOPER0's'sPRPOPER0getgetVBOPER0anaDTOPER0updateupdateNNOPER0ononINOPER0thetheDTOPER0latestlatestJJSOPER0worldworldNNOPER0newsnewsNNOPER0fromfromINOPER0VOAVOANNPORGPER0's'sPOSOPER0DaveDaveNNPPERSONPER0DeforestDeforestNNPPERSONPER0...OPER0(ROOT (S (ADVP (RB Right) (RB now)) (VP (VB let) (S (NP (PRP 's)) (VP (VB get) (NP (NP (DT an) (NN update)) (PP (IN on) (NP (DT the) (JJS latest) (NN world) (NN news)))) (PP (IN from) (NP (NP (NNP VOA) (POS 's)) (NNP Dave) (NNP Deforest)))))) (. .)))
+WellwellUHOPER0DickDickNNPPERSONPER0,,,OPER0USUSNNPGPEPER0officialsofficialNNSOPER0havehaveVBPOPER0launchedlaunchVBDOPER0anaDTOPER0investigationinvestigationNNOPER0intointoINOPER0aaDTOPER0suspectedsuspectVBNOPER0terroristterroristJJOPER0attackattackNNOPER0thatthatWDTOPER0killedkillVBDOPER0atatINCARDINALPER0leastleastJJSCARDINALPER0sixsixCDCARDINALPER0sailorssailorNNSOPER0ononINOPER0aaDTOPER0USUSNNPGPEPER0warshipwarshipNNOPER0ininINOPER0YemenYemenNNPGPEPER0...OPER0(ROOT (S (INTJ (UH Well)) (NP (NNP Dick) (, ,) (NNP US) (NNS officials)) (VP (VBP have) (VP (VBD launched) (NP (NP (DT an) (NN investigation)) (PP (IN into) (NP (NP (DT a) (VBN suspected) (JJ terrorist) (NN attack)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (NP (QP (ADVP (IN at) (JJS least)) (CD six)) (NNS sailors)) (PP (IN on) (NP (DT a) (NNP US) (NN warship)))) (PP (IN in) (NP (NNP Yemen))))))))))) (. .)))
+TheytheyPRPOPER0saysayVBPOPER0aaDTOPER0suicidesuicideNNOPER0boatboatNNOPER0explodedexplodeVBDOPER0nearnearINOPER0thetheDTOPER0USSUSSNNPPRODUCTPER0ColeColeNNPPRODUCTPER0destroyerdestroyerNNOPER0asasINOPER0ititPRPOPER0refueledrefuelVBDOPER0earlyearlyJJDATEPER0ThursdayThursdayNNPDATEPER0ininINOPER0thetheDTOPER0YemeniYemeniNNPOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP say) (SBAR (S (NP (DT a) (NN suicide) (NN boat)) (VP (VBD exploded) (PP (IN near) (NP (DT the) (NML (NNP USS) (NNP Cole)) (NN destroyer))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD refueled) (NP (JJ early) (NNP Thursday)) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden)))))))))))) (. .)))
+ThetheDTOPER0blastblastNNOPER0toretearVBDOPER0aaDTOPER0hugehugeJJOPER0gapgapNNOPER0ininINOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0sidesideNNOPER0...OPER0(ROOT (S (NP (DT The) (NN blast)) (VP (VBD tore) (NP (NP (DT a) (JJ huge) (NN gap)) (PP (IN in) (NP (NP (DT the) (NN ship) (POS 's)) (NN side))))) (. .)))
+AtatRBCARDINALPER0leastleastRBSCARDINALPER01010CDCARDINALPER0otherotherJJOPER0crewmemberscrewmemberNNSOPER0arebeVBPOPER0missingmissVBGOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER03030CDCARDINALPER0werebeVBDOPER0injuredinjureVBNOPER0...OPER0(ROOT (S (NP (QP (ADVP (RB At) (RBS least)) (CD 10)) (JJ other) (NNS crewmembers)) (VP (VBP are) (VP (VBG missing) (SBAR (S (NP (QP (XS (JJR more) (IN than)) (CD 30))) (VP (VBD were) (VP (VBN injured))))))) (. .)))
+DefenseDefenseNNPORGPER0SecretarySecretaryNNPOPER0WilliamWilliamNNPPERSONPER0CohenCohenNNPPERSONPER0sayssayVBZOPER0ififINOPER0aaDTOPER0formalformalJJOPER0investigationinvestigationNNOPER0showsshowVBZOPER0ititPRPOPER0wasbeVBDOPER0aaDTOPER0terroristterroristJJOPER0attackattackNNOPER0...OPER0(ROOT (S (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen)) (VP (VBZ says) (SBAR (IN if) (S (NP (DT a) (JJ formal) (NN investigation)) (VP (VBZ shows) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (JJ terrorist) (NN attack))))))))) (. .)))
+DispatchdispatchVBOPER0investigatorsinvestigatorNNSOPER0totoTOOPER0learnlearnVBOPER0whatwhatWPOPER0wasbeVBDOPER0responsibleresponsibleJJOPER0forforINOPER0thetheDTOPER0blastblastNNOPER0...OPER0(ROOT (S (VP (VB Dispatch) (S (NP (NNS investigators)) (VP (TO to) (VP (VB learn) (SBAR (WHNP (WP what)) (S (VP (VBD was) (ADJP (JJ responsible) (PP (IN for) (NP (DT the) (NN blast))))))))))) (. .)))
+TragediestragedyNNSOPER0thatthatWDTOPER0testtestVBOPER0ourwePRP$OPER0strengthstrengthNNOPER0andandCCOPER0ourwePRP$OPER0resolveresolveNNOPER0occuroccurVBOPER0andandCCOPER0havehaveVBOPER0occurredoccurVBDOPER0ininINOPER0thetheDTOPER0pastpastNNOPER0...OPER0(ROOT (S (NP (NP (NNS Tragedies)) (SBAR (WHNP (WDT that)) (S (S (VP (VB test) (NP (PRP$ our) (NN strength)))) (CC and) (S (NP (PRP$ our) (NN resolve)) (VP (VB occur) (CC and) (VB have)))))) (VP (VBD occurred) (PP (IN in) (NP (DT the) (NN past)))) (. .)))
+WewePRPOPER0havehaveVBPOPER0passedpassVBNOPER0thetheDTOPER0testtestNNOPER0andandCCOPER0measuringmeasureVBGOPER0upupRPOPER0totoINOPER0thosethoseDTOPER0responsibilitiesresponsibilityNNSOPER0andandCCOPER0wewePRPOPER0willwillMDOPER0passpassVBOPER0thatthatDTOPER0testtestNNOPER0onceonceRBOPER0againagainRBOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (S (NP (PRP We)) (VP (VBP have) (VP (VBN passed) (NP (NP (DT the) (NN test)) (CC and) (S (VP (VBG measuring) (PRT (RP up)) (PP (IN to) (NP (DT those) (NNS responsibilities))))))))) (CC and) (S (NP (PRP we)) (VP (MD will) (VP (VB pass) (NP (DT that) (NN test)) (ADVP (RB once) (RB again)) (NP (NN today))))) (. .)))
+ChiefchiefNNOPER0ofofINOPER0NavalNavalNNPORGPER0OperationsOperationsNNPSORGPER0AdmiralAdmiralNNPORGPER0VernVernNNPORGPER0ClarkClarkNNPORGPER0sayssayVBZOPER0thetheDTOPER0bombersbomberNNSOPER0werebeVBDOPER0aboardaboardINOPER0aaDTOPER0smallsmallJJOPER0boatboatNNOPER0thatthatWDTOPER0wasbeVBDOPER0assistingassistVBGOPER0ininINOPER0thetheDTOPER0refuelingrefuelingNNOPER0ofofINOPER0thetheDTOPER0destroyerdestroyerNNOPER0atatINOPER0thetheDTOPER0portportNNOPER0...OPER0(ROOT (S (NP (NP (NP (NN Chief)) (PP (IN of) (NP (NNP Naval) (NNPS Operations)))) (NP (NNP Admiral) (NNP Vern) (NNP Clark))) (VP (VBZ says) (SBAR (S (NP (DT the) (NNS bombers)) (VP (VBD were) (PP (IN aboard) (NP (NP (DT a) (JJ small) (NN boat)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBG assisting) (PP (IN in) (NP (NP (DT the) (NN refueling)) (PP (IN of) (NP (DT the) (NN destroyer))))) (PP (IN at) (NP (DT the) (NN port))))))))))))) (. .)))
+NonoDTOPER0oneoneNNOPER0hashaveVBZOPER0claimedclaimVBNOPER0responsibilityresponsibilityNNOPER0...OPER0(ROOT (S (NP (DT No) (NN one)) (VP (VBZ has) (VP (VBN claimed) (NP (NN responsibility)))) (. .)))
+USUSNNPGPEPER0militarymilitaryJJOPER0forcesforceNNSOPER0aroundaroundINOPER0thetheDTOPER0worldworldNNOPER0havehaveVBPOPER0beenbeVBNOPER0placedplaceVBNOPER0ononINOPER0highhighJJOPER0alertalertNNOPER0...OPER0(ROOT (S (NP (NP (NNP US) (JJ military) (NNS forces)) (PP (IN around) (NP (DT the) (NN world)))) (VP (VBP have) (VP (VBN been) (VP (VBN placed) (PP (IN on) (NP (JJ high) (NN alert)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NNP Dick) (, ,) (NNP US) (NNS officials))
+sid=1 spanning 10 until 26 headed by 13 parsed as (NP (NP (DT a) (VBN suspected) (JJ terrorist) (NN attack)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (NP (QP (ADVP (IN at) (JJS least)) (CD six)) (NNS sailors)) (PP (IN on) (NP (DT a) (NNP US) (NN warship)))) (PP (IN in) (NP (NNP Yemen)))))))
+sid=1 spanning 21 until 26 headed by 23 parsed as (NP (DT a) (NNP US) (NN warship))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT a) (NN suicide) (NN boat))
+sid=2 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (NML (NNP USS) (NNP Cole)) (NN destroyer))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=2 spanning 17 until 22 headed by 19 parsed as (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN blast))
+sid=3 spanning 7 until 10 headed by 8 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN blast))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=8 spanning 3 until 5 headed by 4 parsed as (NP (NP (DT the) (NN test)) (CC and) (S (VP (VBG measuring) (PRT (RP up)) (PP (IN to) (NP (DT those) (NNS responsibilities))))))
+sid=8 spanning 12 until 13 headed by 12 parsed as (NP (PRP we))
+sid=8 spanning 15 until 17 headed by 16 parsed as (NP (DT that) (NN test))
+sid=9 spanning 12 until 27 headed by 14 parsed as (NP (NP (DT a) (JJ small) (NN boat)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBG assisting) (PP (IN in) (NP (NP (DT the) (NN refueling)) (PP (IN of) (NP (DT the) (NN destroyer))))) (PP (IN at) (NP (DT the) (NN port))))))))
+sid=9 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN destroyer))
+sid=9 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN port))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP 's))
+sid=0 spanning 5 until 12 headed by 6 parsed as (NP (NP (DT an) (NN update)) (PP (IN on) (NP (DT the) (JJS latest) (NN world) (NN news))))
+sid=0 spanning 8 until 12 headed by 11 parsed as (NP (DT the) (JJS latest) (NN world) (NN news))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (NP (NNP VOA) (POS 's)) (NNP Dave) (NNP Deforest))
+sid=0 spanning 13 until 15 headed by 13 parsed as (NP (NNP VOA) (POS 's))
+sid=1 spanning 1 until 5 headed by 4 parsed as (NP (NNP Dick) (, ,) (NNP US) (NNS officials))
+sid=1 spanning 1 until 2 headed by 1 parsed as Dick
+sid=1 spanning 3 until 4 headed by 3 parsed as US
+sid=1 spanning 7 until 26 headed by 8 parsed as (NP (NP (DT an) (NN investigation)) (PP (IN into) (NP (NP (DT a) (VBN suspected) (JJ terrorist) (NN attack)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (NP (QP (ADVP (IN at) (JJS least)) (CD six)) (NNS sailors)) (PP (IN on) (NP (DT a) (NNP US) (NN warship)))) (PP (IN in) (NP (NNP Yemen)))))))))
+sid=1 spanning 10 until 26 headed by 13 parsed as (NP (NP (DT a) (VBN suspected) (JJ terrorist) (NN attack)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (NP (QP (ADVP (IN at) (JJS least)) (CD six)) (NNS sailors)) (PP (IN on) (NP (DT a) (NNP US) (NN warship)))) (PP (IN in) (NP (NNP Yemen)))))))
+sid=1 spanning 16 until 24 headed by 19 parsed as (NP (NP (QP (ADVP (IN at) (JJS least)) (CD six)) (NNS sailors)) (PP (IN on) (NP (DT a) (NNP US) (NN warship))))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (DT a) (NNP US) (NN warship))
+sid=1 spanning 22 until 23 headed by 22 parsed as US
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (NNP Yemen))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT a) (NN suicide) (NN boat))
+sid=2 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (NML (NNP USS) (NNP Cole)) (NN destroyer))
+sid=2 spanning 8 until 10 headed by 9 parsed as Cole
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (JJ early) (NNP Thursday))
+sid=2 spanning 17 until 22 headed by 19 parsed as (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (NNP Aden))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN blast))
+sid=3 spanning 3 until 11 headed by 5 parsed as (NP (NP (DT a) (JJ huge) (NN gap)) (PP (IN in) (NP (NP (DT the) (NN ship) (POS 's)) (NN side))))
+sid=3 spanning 7 until 11 headed by 10 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NN side))
+sid=3 spanning 7 until 10 headed by 8 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=4 spanning 0 until 5 headed by 4 parsed as (NP (QP (ADVP (RB At) (RBS least)) (CD 10)) (JJ other) (NNS crewmembers))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 30)))
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen))
+sid=5 spanning 0 until 1 headed by 0 parsed as Defense
+sid=5 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (JJ formal) (NN investigation))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=5 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (JJ terrorist) (NN attack))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (NNS investigators))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN blast))
+sid=7 spanning 0 until 11 headed by 0 parsed as (NP (NP (NNS Tragedies)) (SBAR (WHNP (WDT that)) (S (S (VP (VB test) (NP (PRP$ our) (NN strength)))) (CC and) (S (NP (PRP$ our) (NN resolve)) (VP (VB occur) (CC and) (VB have))))))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ our) (NN strength))
+sid=7 spanning 3 until 4 headed by 3 parsed as (PRP$ our)
+sid=7 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ our) (NN resolve))
+sid=7 spanning 6 until 7 headed by 6 parsed as (PRP$ our)
+sid=7 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN past))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=8 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NN test)) (CC and) (S (VP (VBG measuring) (PRT (RP up)) (PP (IN to) (NP (DT those) (NNS responsibilities))))))
+sid=8 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN test))
+sid=8 spanning 9 until 11 headed by 10 parsed as (NP (DT those) (NNS responsibilities))
+sid=8 spanning 12 until 13 headed by 12 parsed as (NP (PRP we))
+sid=8 spanning 15 until 17 headed by 16 parsed as (NP (DT that) (NN test))
+sid=9 spanning 0 until 7 headed by 0 parsed as (NP (NP (NP (NN Chief)) (PP (IN of) (NP (NNP Naval) (NNPS Operations)))) (NP (NNP Admiral) (NNP Vern) (NNP Clark)))
+sid=9 spanning 2 until 7 headed by 4 parsed as Admiral
+sid=9 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS bombers))
+sid=9 spanning 12 until 27 headed by 14 parsed as (NP (NP (DT a) (JJ small) (NN boat)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBG assisting) (PP (IN in) (NP (NP (DT the) (NN refueling)) (PP (IN of) (NP (DT the) (NN destroyer))))) (PP (IN at) (NP (DT the) (NN port))))))))
+sid=9 spanning 19 until 24 headed by 20 parsed as (NP (NP (DT the) (NN refueling)) (PP (IN of) (NP (DT the) (NN destroyer))))
+sid=9 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN destroyer))
+sid=9 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN port))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT No) (NN one))
+sid=11 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP US) (JJ military) (NNS forces)) (PP (IN around) (NP (DT the) (NN world))))
+sid=11 spanning 0 until 1 headed by 0 parsed as US
+sid=11 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN world))
+(end predicted mentions)
+---------gold clusters--------
+0 3 | { 'US officials' 'They' }
+18 7 | { 'the port' 'the Yemeni port of Aden' }
+17 6 2 9 5 | { 'the destroyer' 'it' 'a US warship in Yemen' 'the ship 's' 'the USS Cole destroyer' }
+10 11 1 8 | { 'it' 'the blast' 'a suspected terrorist attack that killed at least six sailors on a US warship in Yemen' 'The blast' }
+16 4 | { 'a small boat that was assisting in the refueling of the destroyer at the port' 'a suicide boat' }
+13 15 | { 'the test' 'that test' }
+14 12 | { 'we' 'We' }
+(end gold clusters)

@@ -1,0 +1,78 @@
+---------gloss--------
+(0) [4m[34m{Alusuisse of America Inc.}[0m plans to sell [4m[34m{its}[0m Consolidated Aluminum Corp. subsidiary as part of [4m[34m{its}[0m strategy to focus more on aluminum packaging in the U.S. . 
+(1) [4m[34m{Alusuisse , of New York ,}[0m declined to say how much [4m[34m{it}[0m expects to get for [4m[35m{the unit}[0m ; [4m[34m{the company}[0m has hired First Boston Corp. to help identify bidders . 
+(2) [4m[34m{Alusuisse}[0m is a subsidiary of Swiss Aluminium Ltd. , a Zurich , Switzerland , producer of aluminum , chemicals and packaging products . 
+(3) [4m[35m{Consolidated , which had 1988 revenue of $ 400 million ,}[0m makes aluminum sheet and foil products at [4m[35m{its}[0m Hannibal , Ohio , and Jackson , Tenn. , rolling mills and recycles aluminum at a plant in Bens Run , W.Va . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1536); part 000
+sentences:
+AlusuisseAlusuisseNNPORGPER0ofofINORGPER0AmericaAmericaNNPORGPER0Inc.Inc.NNPORGPER0plansplanVBZOPER0totoTOOPER0sellsellVBOPER0itsitsPRP$OPER0ConsolidatedConsolidatedNNPORGPER0AluminumAluminumNNPORGPER0Corp.Corp.NNPORGPER0subsidiarysubsidiaryNNOPER0asasINOPER0partpartNNOPER0ofofINOPER0itsitsPRP$OPER0strategystrategyNNOPER0totoTOOPER0focusfocusVBOPER0moremoreRBROPER0ononINOPER0aluminumaluminumNNOPER0packagingpackagingNNOPER0ininINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP Alusuisse)) (PP (IN of) (NP (NNP America) (NNP Inc.)))) (VP (VBZ plans) (S (VP (TO to) (VP (VB sell) (NP (PRP$ its) (NML (NNP Consolidated) (NNP Aluminum) (NNP Corp.)) (NN subsidiary)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (PRP$ its) (NN strategy) (S (VP (TO to) (VP (VB focus) (ADVP (RBR more)) (PP (IN on) (NP (NN aluminum) (NN packaging)))))))))) (PP (IN in) (NP (DT the) (NNP U.S.))))))) (. .)))
+AlusuisseAlusuisseNNPORGPER0,,,OPER0ofofINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0,,,OPER0declineddeclineVBDOPER0totoTOOPER0saysayVBOPER0howhowWRBOPER0muchmuchJJOPER0ititPRPOPER0expectsexpectVBZOPER0totoTOOPER0getgetVBOPER0forforINOPER0thetheDTOPER0unitunitNNOPER0;;:OPER0thetheDTOPER0companycompanyNNOPER0hashaveVBZOPER0hiredhireVBNOPER0FirstFirstNNPORGPER0BostonBostonNNPORGPER0Corp.Corp.NNPORGPER0totoTOOPER0helphelpVBOPER0identifyidentifyVBOPER0biddersbidderNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Alusuisse)) (, ,) (PP (IN of) (NP (NNP New) (NNP York))) (, ,)) (VP (VBD declined) (S (VP (TO to) (VP (VB say) (SBAR (WHNP (WRB how) (JJ much)) (S (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB get) (PP (IN for) (NP (DT the) (NN unit)))))))) (: ;) (S (NP (DT the) (NN company)) (VP (VBZ has) (VP (VBN hired) (S (NP (NNP First) (NNP Boston) (NNP Corp.)) (VP (TO to) (VP (VB help) (S (VP (VB identify) (NP (NNS bidders)))))))))))))))) (. .)))
+AlusuisseAlusuisseNNPORGPER0isbeVBZOPER0aaDTOPER0subsidiarysubsidiaryNNOPER0ofofINOPER0SwissSwissNNPORGPER0AluminiumAluminiumNNPORGPER0Ltd.Ltd.NNPORGPER0,,,OPER0aaDTOPER0ZurichZurichNNPGPEPER0,,,OPER0SwitzerlandSwitzerlandNNPGPEPER0,,,OPER0producerproducerNNOPER0ofofINOPER0aluminumaluminumNNOPER0,,,OPER0chemicalschemicalNNSOPER0andandCCOPER0packagingpackagingNNOPER0productsproductNNSOPER0...OPER0(ROOT (S (NP (NNP Alusuisse)) (VP (VBZ is) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NP (NNP Swiss) (NNP Aluminium) (NNP Ltd.)) (, ,) (NP (NP (DT a) (NML (NNP Zurich) (, ,) (NNP Switzerland) (, ,)) (NN producer)) (PP (IN of) (NP (NP (NN aluminum) (, ,) (NNS chemicals)) (CC and) (NP (NN packaging) (NNS products))))))))) (. .)))
+ConsolidatedConsolidatedNNPORGPER0,,,OPER0whichwhichWDTOPER0hadhaveVBDOPER019881988CDDATEPER0revenuerevenueNNOPER0ofofINOPER0$$$MONEYPER0400400CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0makesmakeVBZOPER0aluminumaluminumNNOPER0sheetsheetNNOPER0andandCCOPER0foilfoilNNOPER0productsproductNNSOPER0atatINOPER0itsitsPRP$OPER0HannibalHannibalNNPGPEPER0,,,OPER0OhioOhioNNPGPEPER0,,,OPER0andandCCOPER0JacksonJacksonNNPPERSONPER0,,,OPER0Tenn.Tenn.NNPGPEPER0,,,OPER0rollingrollVBGOPER0millsmillNNSOPER0andandCCOPER0recyclesrecycleVBZOPER0aluminumaluminumNNOPER0atatINOPER0aaDTOPER0plantplantNNOPER0ininINOPER0BensBensNNPGPEPER0RunRunNNPGPEPER0,,,OPER0W.VaW.VaNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP Consolidated)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (CD 1988) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 400) (CD million)))))))) (, ,)) (VP (VP (VBZ makes) (NP (NN aluminum) (NN sheet) (CC and) (NN foil)) (NP (NP (NNS products)) (PP (IN at) (NP (PRP$ its) (NML (NML (NNP Hannibal) (, ,) (NNP Ohio) (, ,)) (CC and) (NML (NNP Jackson) (, ,) (NNP Tenn.) (, ,))) (VBG rolling) (NNS mills))))) (CC and) (VP (VBZ recycles) (NP (NP (NN aluminum)) (PP (IN at) (NP (NP (DT a) (NN plant)) (PP (IN in) (NP (NP (NNP Bens) (NNP Run)) (, ,) (NP (NNP W.Va))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNP Alusuisse)) (PP (IN of) (NP (NNP America) (NNP Inc.))))
+sid=0 spanning 7 until 12 headed by 11 parsed as (NP (PRP$ its) (NML (NNP Consolidated) (NNP Aluminum) (NNP Corp.)) (NN subsidiary))
+sid=0 spanning 7 until 8 headed by 7 parsed as its
+sid=0 spanning 15 until 16 headed by 15 parsed as its
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Alusuisse)) (, ,) (PP (IN of) (NP (NNP New) (NNP York))) (, ,))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN unit))
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN company))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Alusuisse))
+sid=3 spanning 0 until 11 headed by 0 parsed as (NP (NP (NNP Consolidated)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (CD 1988) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 400) (CD million)))))))) (, ,))
+sid=3 spanning 18 until 19 headed by 18 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNP Alusuisse)) (PP (IN of) (NP (NNP America) (NNP Inc.))))
+sid=0 spanning 7 until 12 headed by 11 parsed as (NP (PRP$ its) (NML (NNP Consolidated) (NNP Aluminum) (NNP Corp.)) (NN subsidiary))
+sid=0 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=0 spanning 8 until 11 headed by 10 parsed as Corp.
+sid=0 spanning 13 until 23 headed by 13 parsed as (NP (NP (NN part)) (PP (IN of) (NP (PRP$ its) (NN strategy) (S (VP (TO to) (VP (VB focus) (ADVP (RBR more)) (PP (IN on) (NP (NN aluminum) (NN packaging)))))))))
+sid=0 spanning 15 until 23 headed by 16 parsed as (NP (PRP$ its) (NN strategy) (S (VP (TO to) (VP (VB focus) (ADVP (RBR more)) (PP (IN on) (NP (NN aluminum) (NN packaging)))))))
+sid=0 spanning 15 until 16 headed by 15 parsed as (PRP$ its)
+sid=0 spanning 21 until 23 headed by 22 parsed as (NP (NN aluminum) (NN packaging))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NNP U.S.))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Alusuisse)) (, ,) (PP (IN of) (NP (NNP New) (NNP York))) (, ,))
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Alusuisse)) (, ,) (PP (IN of) (NP (NNP New) (NNP York))) (, ,))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NNP New) (NNP York))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN unit))
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN company))
+sid=1 spanning 23 until 26 headed by 25 parsed as (NP (NNP First) (NNP Boston) (NNP Corp.))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (NNS bidders))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Alusuisse))
+sid=2 spanning 2 until 22 headed by 3 parsed as (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NP (NNP Swiss) (NNP Aluminium) (NNP Ltd.)) (, ,) (NP (NP (DT a) (NML (NNP Zurich) (, ,) (NNP Switzerland) (, ,)) (NN producer)) (PP (IN of) (NP (NP (NN aluminum) (, ,) (NNS chemicals)) (CC and) (NP (NN packaging) (NNS products))))))))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (NP (NNP Swiss) (NNP Aluminium) (NNP Ltd.)) (, ,) (NP (NP (DT a) (NML (NNP Zurich) (, ,) (NNP Switzerland) (, ,)) (NN producer)) (PP (IN of) (NP (NP (NN aluminum) (, ,) (NNS chemicals)) (CC and) (NP (NN packaging) (NNS products))))))
+sid=2 spanning 5 until 22 headed by 7 parsed as (NP (NP (NNP Swiss) (NNP Aluminium) (NNP Ltd.)) (, ,) (NP (NP (DT a) (NML (NNP Zurich) (, ,) (NNP Switzerland) (, ,)) (NN producer)) (PP (IN of) (NP (NP (NN aluminum) (, ,) (NNS chemicals)) (CC and) (NP (NN packaging) (NNS products))))))
+sid=2 spanning 9 until 22 headed by 14 parsed as (NP (NP (DT a) (NML (NNP Zurich) (, ,) (NNP Switzerland) (, ,)) (NN producer)) (PP (IN of) (NP (NP (NN aluminum) (, ,) (NNS chemicals)) (CC and) (NP (NN packaging) (NNS products)))))
+sid=2 spanning 10 until 11 headed by 10 parsed as Zurich
+sid=2 spanning 12 until 13 headed by 12 parsed as Switzerland
+sid=2 spanning 16 until 22 headed by 18 parsed as (NP (NP (NN aluminum) (, ,) (NNS chemicals)) (CC and) (NP (NN packaging) (NNS products)))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (NN aluminum) (, ,) (NNS chemicals))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (NN packaging) (NNS products))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Consolidated)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (CD 1988) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 400) (CD million)))))))) (, ,))
+sid=3 spanning 0 until 11 headed by 0 parsed as (NP (NP (NNP Consolidated)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (CD 1988) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 400) (CD million)))))))) (, ,))
+sid=3 spanning 4 until 10 headed by 5 parsed as (NP (NP (CD 1988) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 400) (CD million)))))
+sid=3 spanning 4 until 5 headed by 4 parsed as 1988
+sid=3 spanning 12 until 16 headed by 13 parsed as (NP (NN aluminum) (NN sheet) (CC and) (NN foil))
+sid=3 spanning 16 until 30 headed by 16 parsed as (NP (NP (NNS products)) (PP (IN at) (NP (PRP$ its) (NML (NML (NNP Hannibal) (, ,) (NNP Ohio) (, ,)) (CC and) (NML (NNP Jackson) (, ,) (NNP Tenn.) (, ,))) (VBG rolling) (NNS mills))))
+sid=3 spanning 18 until 30 headed by 29 parsed as (NP (PRP$ its) (NML (NML (NNP Hannibal) (, ,) (NNP Ohio) (, ,)) (CC and) (NML (NNP Jackson) (, ,) (NNP Tenn.) (, ,))) (VBG rolling) (NNS mills))
+sid=3 spanning 18 until 19 headed by 18 parsed as (PRP$ its)
+sid=3 spanning 19 until 20 headed by 19 parsed as Hannibal
+sid=3 spanning 21 until 22 headed by 21 parsed as Ohio
+sid=3 spanning 24 until 25 headed by 24 parsed as Jackson
+sid=3 spanning 26 until 27 headed by 26 parsed as Tenn.
+sid=3 spanning 32 until 41 headed by 32 parsed as (NP (NP (NN aluminum)) (PP (IN at) (NP (NP (DT a) (NN plant)) (PP (IN in) (NP (NP (NNP Bens) (NNP Run)) (, ,) (NP (NNP W.Va)))))))
+sid=3 spanning 34 until 41 headed by 35 parsed as (NP (NP (DT a) (NN plant)) (PP (IN in) (NP (NP (NNP Bens) (NNP Run)) (, ,) (NP (NNP W.Va)))))
+sid=3 spanning 37 until 39 headed by 38 parsed as (NP (NP (NNP Bens) (NNP Run)) (, ,) (NP (NNP W.Va)))
+sid=3 spanning 37 until 41 headed by 38 parsed as (NP (NP (NNP Bens) (NNP Run)) (, ,) (NP (NNP W.Va)))
+sid=3 spanning 40 until 41 headed by 40 parsed as (NP (NNP W.Va))
+(end predicted mentions)
+---------gold clusters--------
+7 4 5 3 8 2 0 | { 'the company' 'Alusuisse , of New York ,' 'it' 'its' 'Alusuisse' 'its' 'Alusuisse of America Inc.' }
+10 9 1 6 | { 'its' 'Consolidated , which had 1988 revenue of $ 400 million ,' 'its Consolidated Aluminum Corp. subsidiary' 'the unit' }
+(end gold clusters)

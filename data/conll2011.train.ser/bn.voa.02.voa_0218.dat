@@ -1,0 +1,41 @@
+---------gloss--------
+(0) [1m[34m{Unidentified gunmen in north western Colombia}[0m have [1m[35m{massacred}[0m at least twelve peasants . 
+(1) [1m[35m{It}[0m 's the second such incident in as many days . 
+(2) Authorities say [1m[34m{several men armed with shotguns}[0m went house to house in Guatapae in Entequia Province killing anyone [1m[34m{they}[0m suspected of collaborating with opposing forces . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0218); part 000
+sentences:
+UnidentifiedunidentifiedJJOPER0gunmengunmanNNSOPER0ininINOPER0northnorthJJOPER0westernwesternJJOPER0ColombiaColombiaNNPGPEPER0havehaveVBPOPER0massacredmassacreVBNOPER0atatINOPER0leastleastJJSOPER0twelvetwelveCDOPER0peasantspeasantNNSOPER0...OPER0(ROOT (S (NP (NP (JJ Unidentified) (NNS gunmen)) (PP (IN in) (NP (ADJP (JJ north) (JJ western)) (NNP Colombia)))) (VP (VBP have) (VP (VBN massacred) (NP (QP (ADVP (IN at) (JJS least)) (CD twelve)) (NNS peasants)))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0thetheDTOPER0secondsecondJJORDINALPER0suchsuchJJOPER0incidentincidentNNOPER0ininINOPER0asasRBDATEPER0manymanyJJDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (JJ second) (JJ such) (NN incident)) (PP (IN in) (NP (QP (RB as) (JJ many)) (NNS days))))) (. .)))
+AuthoritiesauthorityNNSOPER0saysayVBPOPER0severalseveralJJOPER0menmanNNSOPER0armedarmVBNOPER0withwithINOPER0shotgunsshotgunNNSOPER0wentgoVBDOPER0househouseNNOPER0totoINOPER0househouseNNOPER0ininINOPER0GuatapaeGuatapaeNNPGPEPER0ininINOPER0EntequiaEntequiaNNPGPEPER0ProvinceProvinceNNPGPEPER0killingkillVBGOPER0anyoneanyoneNNOPER0theytheyPRPOPER0suspectedsuspectVBNOPER0ofofINOPER0collaboratingcollaborateVBGOPER0withwithINOPER0opposingopposeVBGOPER0forcesforceNNSOPER0...OPER0(ROOT (S (NP (NNS Authorities)) (VP (VBP say) (SBAR (S (NP (NP (JJ several) (NNS men)) (VP (VBN armed) (PP (IN with) (NP (NNS shotguns))))) (VP (VBD went) (NP (NN house)) (PP (IN to) (NP (NP (NN house)) (PP (IN in) (NP (NNP Guatapae))) (PP (IN in) (NP (NNP Entequia) (NNP Province))))) (S (VP (VBG killing) (NP (NN anyone)) (S (NP (PRP they)) (VP (VBN suspected) (PP (IN of) (S (VP (VBG collaborating) (PP (IN with) (NP (VBG opposing) (NNS forces)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 1 parsed as (NP (NP (JJ Unidentified) (NNS gunmen)) (PP (IN in) (NP (ADJP (JJ north) (JJ western)) (NNP Colombia))))
+sid=0 spanning 7 until 8 headed by 7 parsed as massacred
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 2 until 7 headed by 3 parsed as (NP (NP (JJ several) (NNS men)) (VP (VBN armed) (PP (IN with) (NP (NNS shotguns)))))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 1 parsed as (NP (NP (JJ Unidentified) (NNS gunmen)) (PP (IN in) (NP (ADJP (JJ north) (JJ western)) (NNP Colombia))))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (ADJP (JJ north) (JJ western)) (NNP Colombia))
+sid=0 spanning 8 until 12 headed by 11 parsed as (NP (QP (ADVP (IN at) (JJS least)) (CD twelve)) (NNS peasants))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 2 until 10 headed by 5 parsed as (NP (NP (DT the) (JJ second) (JJ such) (NN incident)) (PP (IN in) (NP (QP (RB as) (JJ many)) (NNS days))))
+sid=1 spanning 3 until 4 headed by 3 parsed as second
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (QP (RB as) (JJ many)) (NNS days))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Authorities))
+sid=2 spanning 2 until 7 headed by 3 parsed as (NP (NP (JJ several) (NNS men)) (VP (VBN armed) (PP (IN with) (NP (NNS shotguns)))))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNS shotguns))
+sid=2 spanning 10 until 16 headed by 10 parsed as (NP (NP (NN house)) (PP (IN in) (NP (NNP Guatapae))) (PP (IN in) (NP (NNP Entequia) (NNP Province))))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Guatapae))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (NNP Entequia) (NNP Province))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (VBG opposing) (NNS forces))
+(end predicted mentions)
+---------gold clusters--------
+0 3 4 | { 'Unidentified gunmen in north western Colombia' 'several men armed with shotguns' 'they' }
+2 1 | { 'It' 'massacred' }
+(end gold clusters)

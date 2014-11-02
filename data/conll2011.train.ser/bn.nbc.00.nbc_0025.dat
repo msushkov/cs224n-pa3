@@ -1,0 +1,158 @@
+---------gloss--------
+(0) There is other news tonight . 
+(1) [3m[34m{A breakthrough in the investigation of the terrorist attack on the `` USS Cole . ''}[0m 
+(2) More on that from [31m{NBC 's}[0m Jim Miklaszewski at the Pentagon with [31m{an NBC News}[0m exclusive for us . 
+(3) [4m[33m{Jim ?}[0m 
+(4) Tom , in [3m[34m{a major development}[0m senior U.S. officials tell [31m{NBC News}[0m , [4m[34m{Yemen}[0m authorities are holding [32m{two suspects believed directly involved in the attack on the `` USS Cole ''}[0m and that [4m[35m{at least one of the suspects}[0m is `` key to [3m[35m{the operation}[0m , and talking [4m[35m{his}[0m head off . '' 
+(5) U.S. officials report [4m[35m{the suspect}[0m is providing explicit details how [3m[35m{the attack}[0m was planned for more than a year then executed with deadly precision , how one safe house and the suicide boat used in [3m[35m{the attack}[0m were acquired months before [3m[35m{the attack}[0m , that two other suspects , an explosives expert believed to be Iraqi , and another perhaps a Saudi , supervised the operation then left Aden before the bombing . 
+(6) [4m[35m{The suspect}[0m also claims [4m[31m{they}[0m got help from low - level [4m[34m{Yemen}[0m officials in forging documents , obtaining vehicles , and concealing [4m[31m{their}[0m operation , but there 's apparently no evidence [4m[34m{the Yemen government itself}[0m was involved . 
+(7) Now , despite all of this , sources say [4m[35m{the suspect}[0m still has n't named [4m[31m{those behind the terrorist operation}[0m but with [3m[34m{this breakthrough}[0m , [3m[36m{U.S. officials}[0m are increasingly confident [3m[36m{they}[0m 'll soon know who specifically gave the orders to [3m[35m{attack}[0m [4m[32m{the `` Cole}[0m . '' 
+(8) Thank you very much , [31m{NBC 's}[0m Jim Miklaszewski , who will be staying on this story for [31m{us}[0m . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0025); part 000
+sentences:
+TherethereEXOPER0isbeVBZOPER0otherotherJJOPER0newsnewsNNOPER0tonighttonightNNOPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBZ is) (NP (NP (JJ other) (NN news)) (NP (NN tonight)))) (. .)))
+AaDTOPER0breakthroughbreakthroughNNOPER0ininINOPER0thetheDTOPER0investigationinvestigationNNOPER0ofofINOPER0thetheDTOPER0terroristterroristJJOPER0attackattackNNOPER0ononINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1...OPER1''''''OPER0(ROOT (NP (NP (DT A) (NN breakthrough)) (PP (IN in) (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))))) (. .) ('' '')))
+MoremoreJJROPER0ononINOPER0thatthatDTOPER0fromfromINOPER0NBCNBCNNPORGPER0's'sPOSOPER0JimJimNNPPERSONPER0MiklaszewskiMiklaszewskiNNPPERSONPER0atatINOPER0thetheDTOPER0PentagonPentagonNNPORGPER0withwithINOPER0anaDTORGPER0NBCNBCNNPORGPER0NewsNewsNNPORGPER0exclusiveexclusiveJJOPER0forforINOPER0uswePRPOPER0...OPER0(ROOT (FRAG (NP (NP (JJR More)) (PP (IN on) (NP (NP (DT that)) (PP (IN from) (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (PP (IN at) (NP (DT the) (NNP Pentagon)))))))) (PP (IN with) (NP (DT an) (NNP NBC) (NNP News))) (ADJP (JJ exclusive) (PP (IN for) (NP (PRP us)))) (. .)))
+JimJimNNPPERSONPER0??.OPER0(ROOT (NP (NNP Jim) (. ?)))
+TomTomNNPPERSONPER0,,,OPER0ininINOPER0aaDTOPER0majormajorJJOPER0developmentdevelopmentNNOPER0seniorseniorJJOPER0U.S.U.S.NNPGPEPER0officialsofficialNNSOPER0telltellVBPOPER0NBCNBCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0YemenYemenNNPGPEPER0authoritiesauthorityNNSOPER0arebeVBPOPER0holdingholdVBGOPER0twotwoCDCARDINALPER0suspectssuspectNNSOPER0believedbelieveVBDOPER0directlydirectlyRBOPER0involvedinvolveVBNOPER0ininINOPER0thetheDTOPER0attackattackNNOPER0ononINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER2ColeColeNNPPRODUCTPER2''''''PRODUCTPER0andandCCOPER0thatthatINOPER0atatINCARDINALPER0leastleastJJSCARDINALPER0oneoneCDCARDINALPER0ofofINOPER0thetheDTOPER0suspectssuspectNNSOPER0isbeVBZOPER0``````OkeykeyJJOPER3totoINOPER3thetheDTOPER3operationoperationNNOPER3,,,OPER3andandCCOPER3talkingtalkVBGOPER3hishePRP$OPER3headheadNNOPER3offoffRPOPER3...OPER3''''''OPER0(ROOT (S (NP (NNP Tom)) (, ,) (PP (IN in) (NP (NP (DT a) (JJ major) (NN development)) (SBAR (S (NP (JJ senior) (NNP U.S.) (NNS officials)) (VP (VBP tell) (NP (NNP NBC) (NNP News))))))) (, ,) (NP (NNP Yemen) (NNS authorities)) (VP (VBP are) (VP (VP (VBG holding) (SBAR (SBAR (S (NP (CD two) (NNS suspects)) (VP (VBD believed) (ADVP (RB directly)) (VP (VBN involved) (PP (IN in) (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))))))) (CC and) (SBAR (IN that) (S (NP (NP (QP (ADVP (IN at) (JJS least)) (CD one))) (PP (IN of) (NP (DT the) (NNS suspects)))) (VP (VBZ is) (`` ``) (ADJP (JJ key) (PP (IN to) (NP (DT the) (NN operation))))))))) (, ,) (CC and) (VP (VBG talking) (NP (PRP$ his) (NN head)) (PRT (RP off))))) (. .) ('' '')))
+U.S.U.S.NNPGPEPER0officialsofficialNNSOPER0reportreportVBPOPER0thetheDTOPER0suspectsuspectNNOPER0isbeVBZOPER0providingprovideVBGOPER0explicitexplicitJJOPER0detailsdetailNNSOPER0howhowWRBOPER0thetheDTOPER0attackattackNNOPER0wasbeVBDOPER0plannedplanVBNOPER0forforINOPER0moremoreJJRDATEPER0thanthanINDATEPER0aaDTDATEPER0yearyearNNDATEPER0thenthenRBOPER0executedexecuteVBNOPER0withwithINOPER0deadlydeadlyJJOPER0precisionprecisionNNOPER0,,,OPER0howhowWRBOPER0oneoneCDCARDINALPER0safesafeJJOPER0househouseNNOPER0andandCCOPER0thetheDTOPER0suicidesuicideNNOPER0boatboatNNOPER0useduseVBNOPER0ininINOPER0thetheDTOPER0attackattackNNOPER0werebeVBDOPER0acquiredacquireVBNOPER0monthsmonthNNSDATEPER0beforebeforeINOPER0thetheDTOPER0attackattackNNOPER0,,,OPER0thatthatDTOPER0twotwoCDCARDINALPER0otherotherJJOPER0suspectssuspectNNSOPER0,,,OPER0anaDTOPER0explosivesexplosiveNNSOPER0expertexpertNNOPER0believedbelieveVBNOPER0totoTOOPER0bebeVBOPER0IraqiIraqiNNPOPER0,,,OPER0andandCCOPER0anotheranotherDTOPER0perhapsperhapsRBOPER0aaDTOPER0SaudiSaudiNNPOPER0,,,OPER0supervisedsuperviseVBDOPER0thetheDTOPER0operationoperationNNOPER0thenthenRBOPER0leftleaveVBDOPER0AdenAdenNNPLOCPER0beforebeforeINOPER0thetheDTOPER0bombingbombingNNOPER0...OPER0(ROOT (S (S (NP (NNP U.S.) (NNS officials)) (VP (VBP report) (SBAR (S (NP (DT the) (NN suspect)) (VP (VBZ is) (VP (VBG providing) (NP (JJ explicit) (NNS details)) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN attack)) (VP (VBD was) (VP (VBN planned) (PP (IN for) (NP (NP (JJR more)) (PP (IN than) (NP (NP (DT a) (NN year)) (VP (ADVP (RB then)) (VBN executed) (PP (IN with) (NP (JJ deadly) (NN precision)))))))))))) (, ,) (SBAR (WHADVP (WRB how)) (S (NP (NP (CD one) (JJ safe) (NN house)) (CC and) (NP (NP (DT the) (NN suicide) (NN boat)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN attack)))))) (VP (VBD were) (VP (VBN acquired) (NP (NP (NP (NNS months)) (PP (IN before) (NP (DT the) (NN attack)))) (, ,) (NP (DT that) (CD two) (JJ other) (NNS suspects)) (, ,) (NP (NP (DT an) (NNS explosives) (NN expert)) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (NP (NNP Iraqi))))))) (, ,) (CC and) (NP (DT another))) (ADVP (RB perhaps)) (NP (DT a) (NNP Saudi))))))))))))) (, ,) (VP (VBD supervised) (SBAR (S (NP (DT the) (NN operation)) (ADVP (RB then)) (VP (VBD left) (NP (NNP Aden)) (PP (IN before) (NP (DT the) (NN bombing))))))) (. .)))
+ThetheDTOPER0suspectsuspectNNOPER0alsoalsoRBOPER0claimsclaimVBZOPER0theytheyPRPOPER0gotgetVBDOPER0helphelpNNOPER0fromfromINOPER0lowlowJJOPER0--HYPHOPER0levellevelNNOPER0YemenYemenNNPGPEPER0officialsofficialNNSOPER0ininINOPER0forgingforgeVBGOPER0documentsdocumentNNSOPER0,,,OPER0obtainingobtainVBGOPER0vehiclesvehicleNNSOPER0,,,OPER0andandCCOPER0concealingconcealVBGOPER0theirtheyPRP$OPER0operationoperationNNOPER0,,,OPER0butbutCCOPER0therethereEXOPER0'sbeVBZOPER0apparentlyapparentlyRBOPER0nonoDTOPER0evidenceevidenceNNOPER0thetheDTOPER0YemenYemenNNPGPEPER0governmentgovernmentNNOPER0itselfitselfPRPOPER0wasbeVBDOPER0involvedinvolveVBNOPER0...OPER0(ROOT (S (S (NP (DT The) (NN suspect)) (ADVP (RB also)) (VP (VBZ claims) (SBAR (S (NP (PRP they)) (VP (VBD got) (NP (NP (NN help)) (PP (IN from) (NP (NML (JJ low) (HYPH -) (NN level)) (NNP Yemen) (NNS officials))) (PP (IN in) (S (VP (VBG forging) (NP (NNS documents)))))) (, ,) (S (VP (VP (VBG obtaining) (NP (NNS vehicles))) (, ,) (CC and) (VP (VBG concealing) (NP (PRP$ their) (NN operation)))))))))) (, ,) (CC but) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB apparently)) (NP (NP (DT no) (NN evidence)) (SBAR (S (NP (NP (DT the) (NNP Yemen) (NN government)) (NP (PRP itself))) (VP (VBD was) (VP (VBN involved)))))))) (. .)))
+NownowRBOPER0,,,OPER0despitedespiteINOPER0allallDTOPER0ofofINOPER0thisthisDTOPER0,,,OPER0sourcessourceNNSOPER0saysayVBPOPER0thetheDTOPER0suspectsuspectNNOPER0stillstillRBOPER0hashaveVBZOPER0n'tnotRBOPER0namednameVBNOPER0thosethoseDTOPER0behindbehindINOPER0thetheDTOPER0terroristterroristNNOPER0operationoperationNNOPER0butbutCCOPER0withwithINOPER0thisthisDTOPER0breakthroughbreakthroughNNOPER0,,,OPER0U.S.U.S.NNPGPEPER0officialsofficialNNSOPER0arebeVBPOPER0increasinglyincreasinglyRBOPER0confidentconfidentJJOPER0theytheyPRPOPER0'll'llMDOPER0soonsoonRBOPER0knowknowVBOPER0whowhoWPOPER0specificallyspecificallyRBOPER0gavegiveVBDOPER0thetheDTOPER0ordersorderNNSOPER0totoTOOPER0attackattackVBOPER0thetheDTOPER0``````OColeColeNNPPERSONPER4...OPER4''''''OPER0(ROOT (S (ADVP (RB Now)) (, ,) (PP (IN despite) (NP (NP (DT all)) (PP (IN of) (NP (DT this))))) (, ,) (S (NP (NNS sources)) (VP (VBP say) (SBAR (S (NP (DT the) (NN suspect)) (ADVP (RB still)) (VP (VBZ has) (RB n't) (VP (VBN named) (NP (NP (DT those)) (PP (IN behind) (NP (DT the) (NN terrorist) (NN operation)))))))))) (CC but) (S (PP (IN with) (NP (DT this) (NN breakthrough))) (, ,) (NP (NNP U.S.) (NNS officials)) (VP (VBP are) (ADJP (RB increasingly) (JJ confident) (SBAR (S (NP (PRP they)) (VP (MD 'll) (ADVP (RB soon)) (VP (VB know) (SBAR (WHNP (WP who)) (S (ADVP (RB specifically)) (VP (VBD gave) (NP (DT the) (NNS orders)) (S (VP (TO to) (VP (VB attack) (NP (DT the) (`` ``) (NNP Cole))))))))))))))) (. .) ('' '')))
+ThankthankVBPOPER0youyouPRPOPER0veryveryRBOPER0muchmuchRBOPER0,,,OPER0NBCNBCNNPORGPER0's'sPOSOPER0JimJimNNPPERSONPER0MiklaszewskiMiklaszewskiNNPPERSONPER0,,,OPER0whowhoWPOPER0willwillMDOPER0bebeVBOPER0stayingstayVBGOPER0ononINOPER0thisthisDTOPER0storystoryNNOPER0forforINOPER0uswePRPOPER0...OPER0(ROOT (S (VP (VBP Thank) (NP (PRP you)) (ADVP (RB very) (RB much)) (, ,) (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB be) (VP (VBG staying) (PP (IN on) (NP (DT this) (NN story))) (PP (IN for) (NP (PRP us)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 16 headed by 1 parsed as (NP (NP (DT A) (NN breakthrough)) (PP (IN in) (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))))) (. .) ('' ''))
+sid=1 spanning 6 until 14 headed by 8 parsed as (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=1 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=2 spanning 4 until 8 headed by 7 parsed as (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (PP (IN at) (NP (DT the) (NNP Pentagon))))
+sid=2 spanning 4 until 18 headed by 7 parsed as (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (PP (IN at) (NP (DT the) (NNP Pentagon))))
+sid=2 spanning 4 until 6 headed by 4 parsed as (NP (NNP NBC) (POS 's))
+sid=2 spanning 12 until 15 headed by 14 parsed as (NP (DT an) (NNP NBC) (NNP News))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Jim) (. ?))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (NP (DT a) (JJ major) (NN development)) (SBAR (S (NP (JJ senior) (NNP U.S.) (NNS officials)) (VP (VBP tell) (NP (NNP NBC) (NNP News))))))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (NNP NBC) (NNP News))
+sid=4 spanning 13 until 14 headed by 13 parsed as Yemen
+sid=4 spanning 17 until 31 headed by 19 parsed as believed
+sid=4 spanning 23 until 31 headed by 24 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=4 spanning 26 until 31 headed by 29 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=4 spanning 33 until 39 headed by 35 parsed as (NP (NP (QP (ADVP (IN at) (JJS least)) (CD one))) (PP (IN of) (NP (DT the) (NNS suspects))))
+sid=4 spanning 37 until 39 headed by 38 parsed as (NP (DT the) (NNS suspects))
+sid=4 spanning 43 until 45 headed by 44 parsed as (NP (DT the) (NN operation))
+sid=4 spanning 48 until 49 headed by 48 parsed as his
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN suspect))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN attack))
+sid=5 spanning 35 until 37 headed by 36 parsed as (NP (DT the) (NN attack))
+sid=5 spanning 41 until 43 headed by 42 parsed as (NP (DT the) (NN attack))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN suspect))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=6 spanning 11 until 12 headed by 11 parsed as Yemen
+sid=6 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ their) (NN operation))
+sid=6 spanning 22 until 23 headed by 22 parsed as their
+sid=6 spanning 31 until 35 headed by 33 parsed as (NP (NP (DT the) (NNP Yemen) (NN government)) (NP (PRP itself)))
+sid=6 spanning 34 until 35 headed by 34 parsed as (NP (PRP itself))
+sid=7 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN suspect))
+sid=7 spanning 15 until 20 headed by 15 parsed as (NP (NP (DT those)) (PP (IN behind) (NP (DT the) (NN terrorist) (NN operation))))
+sid=7 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NN terrorist) (NN operation))
+sid=7 spanning 22 until 24 headed by 23 parsed as (NP (DT this) (NN breakthrough))
+sid=7 spanning 25 until 27 headed by 26 parsed as (NP (NNP U.S.) (NNS officials))
+sid=7 spanning 30 until 31 headed by 30 parsed as (NP (PRP they))
+sid=7 spanning 40 until 41 headed by 40 parsed as attack
+sid=7 spanning 41 until 44 headed by 43 parsed as (NP (DT the) (`` ``) (NNP Cole))
+sid=8 spanning 5 until 9 headed by 8 parsed as (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB be) (VP (VBG staying) (PP (IN on) (NP (DT this) (NN story))) (PP (IN for) (NP (PRP us)))))))))
+sid=8 spanning 5 until 19 headed by 8 parsed as (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB be) (VP (VBG staying) (PP (IN on) (NP (DT this) (NN story))) (PP (IN for) (NP (PRP us)))))))))
+sid=8 spanning 5 until 7 headed by 5 parsed as (NP (NNP NBC) (POS 's))
+sid=8 spanning 18 until 19 headed by 18 parsed as (NP (PRP us))
+(end gold mentions)
+---------predicted mentions--------
+sid=1 spanning 0 until 16 headed by 1 parsed as (NP (NP (DT A) (NN breakthrough)) (PP (IN in) (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))))) (. .) ('' ''))
+sid=1 spanning 3 until 14 headed by 4 parsed as (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))))
+sid=1 spanning 6 until 14 headed by 8 parsed as (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=1 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=2 spanning 0 until 11 headed by 0 parsed as (NP (NP (JJR More)) (PP (IN on) (NP (NP (DT that)) (PP (IN from) (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (PP (IN at) (NP (DT the) (NNP Pentagon))))))))
+sid=2 spanning 2 until 11 headed by 2 parsed as (NP (NP (DT that)) (PP (IN from) (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (PP (IN at) (NP (DT the) (NNP Pentagon))))))
+sid=2 spanning 4 until 11 headed by 7 parsed as (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (PP (IN at) (NP (DT the) (NNP Pentagon))))
+sid=2 spanning 4 until 6 headed by 4 parsed as (NP (NNP NBC) (POS 's))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNP Pentagon))
+sid=2 spanning 12 until 15 headed by 14 parsed as (NP (DT an) (NNP NBC) (NNP News))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (PRP us))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Jim) (. ?))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Tom))
+sid=4 spanning 3 until 12 headed by 5 parsed as (NP (NP (DT a) (JJ major) (NN development)) (SBAR (S (NP (JJ senior) (NNP U.S.) (NNS officials)) (VP (VBP tell) (NP (NNP NBC) (NNP News))))))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (JJ senior) (NNP U.S.) (NNS officials))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (NNP NBC) (NNP News))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (NNP Yemen) (NNS authorities))
+sid=4 spanning 13 until 14 headed by 13 parsed as Yemen
+sid=4 spanning 17 until 19 headed by 18 parsed as (NP (CD two) (NNS suspects))
+sid=4 spanning 23 until 31 headed by 24 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=4 spanning 26 until 31 headed by 29 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=4 spanning 33 until 39 headed by 35 parsed as (NP (NP (QP (ADVP (IN at) (JJS least)) (CD one))) (PP (IN of) (NP (DT the) (NNS suspects))))
+sid=4 spanning 43 until 45 headed by 44 parsed as (NP (DT the) (NN operation))
+sid=4 spanning 48 until 50 headed by 49 parsed as (NP (PRP$ his) (NN head))
+sid=4 spanning 48 until 49 headed by 48 parsed as (PRP$ his)
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP U.S.) (NNS officials))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN suspect))
+sid=5 spanning 7 until 9 headed by 8 parsed as (NP (JJ explicit) (NNS details))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN attack))
+sid=5 spanning 15 until 24 headed by 15 parsed as (NP (NP (JJR more)) (PP (IN than) (NP (NP (DT a) (NN year)) (VP (ADVP (RB then)) (VBN executed) (PP (IN with) (NP (JJ deadly) (NN precision)))))))
+sid=5 spanning 15 until 19 headed by 18 parsed as (NP (NP (DT a) (NN year)) (VP (ADVP (RB then)) (VBN executed) (PP (IN with) (NP (JJ deadly) (NN precision)))))
+sid=5 spanning 17 until 24 headed by 18 parsed as (NP (NP (DT a) (NN year)) (VP (ADVP (RB then)) (VBN executed) (PP (IN with) (NP (JJ deadly) (NN precision)))))
+sid=5 spanning 26 until 37 headed by 28 parsed as (NP (NP (CD one) (JJ safe) (NN house)) (CC and) (NP (NP (DT the) (NN suicide) (NN boat)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN attack))))))
+sid=5 spanning 26 until 29 headed by 28 parsed as (NP (CD one) (JJ safe) (NN house))
+sid=5 spanning 30 until 37 headed by 32 parsed as (NP (NP (DT the) (NN suicide) (NN boat)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN attack)))))
+sid=5 spanning 35 until 37 headed by 36 parsed as (NP (DT the) (NN attack))
+sid=5 spanning 39 until 59 headed by 39 parsed as (NP (NP (NP (NNS months)) (PP (IN before) (NP (DT the) (NN attack)))) (, ,) (NP (DT that) (CD two) (JJ other) (NNS suspects)) (, ,) (NP (NP (DT an) (NNS explosives) (NN expert)) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (NP (NNP Iraqi))))))) (, ,) (CC and) (NP (DT another)))
+sid=5 spanning 39 until 43 headed by 39 parsed as (NP (NP (NNS months)) (PP (IN before) (NP (DT the) (NN attack))))
+sid=5 spanning 41 until 43 headed by 42 parsed as (NP (DT the) (NN attack))
+sid=5 spanning 44 until 48 headed by 47 parsed as (NP (DT that) (CD two) (JJ other) (NNS suspects))
+sid=5 spanning 49 until 56 headed by 51 parsed as (NP (NP (DT an) (NNS explosives) (NN expert)) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (NP (NNP Iraqi)))))))
+sid=5 spanning 58 until 59 headed by 58 parsed as (NP (DT another))
+sid=5 spanning 60 until 62 headed by 61 parsed as (NP (DT a) (NNP Saudi))
+sid=5 spanning 64 until 66 headed by 65 parsed as (NP (DT the) (NN operation))
+sid=5 spanning 68 until 69 headed by 68 parsed as (NP (NNP Aden))
+sid=5 spanning 70 until 72 headed by 71 parsed as (NP (DT the) (NN bombing))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN suspect))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=6 spanning 6 until 16 headed by 6 parsed as (NP (NP (NN help)) (PP (IN from) (NP (NML (JJ low) (HYPH -) (NN level)) (NNP Yemen) (NNS officials))) (PP (IN in) (S (VP (VBG forging) (NP (NNS documents))))))
+sid=6 spanning 8 until 13 headed by 12 parsed as (NP (NML (JJ low) (HYPH -) (NN level)) (NNP Yemen) (NNS officials))
+sid=6 spanning 11 until 12 headed by 11 parsed as Yemen
+sid=6 spanning 15 until 16 headed by 15 parsed as (NP (NNS documents))
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (NNS vehicles))
+sid=6 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ their) (NN operation))
+sid=6 spanning 22 until 23 headed by 22 parsed as (PRP$ their)
+sid=6 spanning 29 until 37 headed by 30 parsed as (NP (NP (DT no) (NN evidence)) (SBAR (S (NP (NP (DT the) (NNP Yemen) (NN government)) (NP (PRP itself))) (VP (VBD was) (VP (VBN involved))))))
+sid=6 spanning 31 until 35 headed by 33 parsed as (NP (NP (DT the) (NNP Yemen) (NN government)) (NP (PRP itself)))
+sid=6 spanning 32 until 33 headed by 32 parsed as Yemen
+sid=6 spanning 34 until 35 headed by 34 parsed as (NP (PRP itself))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (NNS sources))
+sid=7 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN suspect))
+sid=7 spanning 15 until 20 headed by 15 parsed as (NP (NP (DT those)) (PP (IN behind) (NP (DT the) (NN terrorist) (NN operation))))
+sid=7 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NN terrorist) (NN operation))
+sid=7 spanning 22 until 24 headed by 23 parsed as (NP (DT this) (NN breakthrough))
+sid=7 spanning 25 until 27 headed by 26 parsed as (NP (NNP U.S.) (NNS officials))
+sid=7 spanning 30 until 31 headed by 30 parsed as (NP (PRP they))
+sid=7 spanning 37 until 39 headed by 38 parsed as (NP (DT the) (NNS orders))
+sid=7 spanning 41 until 44 headed by 43 parsed as (NP (DT the) (`` ``) (NNP Cole))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=8 spanning 7 until 9 headed by 8 parsed as (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB be) (VP (VBG staying) (PP (IN on) (NP (DT this) (NN story))) (PP (IN for) (NP (PRP us)))))))))
+sid=8 spanning 5 until 19 headed by 8 parsed as (NP (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB be) (VP (VBG staying) (PP (IN on) (NP (DT this) (NN story))) (PP (IN for) (NP (PRP us)))))))))
+sid=8 spanning 5 until 9 headed by 8 parsed as (NP (NP (NNP NBC) (POS 's)) (NNP Jim) (NNP Miklaszewski))
+sid=8 spanning 5 until 7 headed by 5 parsed as (NP (NNP NBC) (POS 's))
+sid=8 spanning 15 until 17 headed by 16 parsed as (NP (DT this) (NN story))
+sid=8 spanning 18 until 19 headed by 18 parsed as (NP (PRP us))
+(end predicted mentions)
+---------gold clusters--------
+0 32 8 | { 'A breakthrough in the investigation of the terrorist attack on the `` USS Cole . ''' 'this breakthrough' 'a major development' }
+21 35 20 12 1 19 16 | { 'the attack' 'attack' 'the attack' 'the attack on the `` USS Cole ''' 'the terrorist attack on the `` USS Cole' 'the attack' 'the operation' }
+34 33 | { 'they' 'U.S. officials' }
+26 30 23 | { 'their' 'those behind the terrorist operation' 'they' }
+13 2 36 | { 'the `` USS Cole ''' 'the `` USS Cole' 'the `` Cole' }
+4 37 7 38 3 | { 'NBC 's Jim Miklaszewski at the Pentagon with an NBC News exclusive for us' 'NBC 's Jim Miklaszewski' 'Jim ?' 'NBC 's Jim Miklaszewski , who will be staying on this story for us' 'NBC 's Jim Miklaszewski' }
+10 27 24 28 | { 'Yemen' 'the Yemen government itself' 'Yemen' 'itself' }
+14 22 29 18 17 | { 'at least one of the suspects' 'The suspect' 'the suspect' 'the suspect' 'his' }
+31 25 | { 'the terrorist operation' 'their operation' }
+39 9 40 5 6 | { 'NBC 's' 'NBC News' 'us' 'NBC 's' 'an NBC News' }
+15 11 | { 'the suspects' 'two suspects believed directly involved in the attack on the `` USS Cole ''' }
+(end gold clusters)

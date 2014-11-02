@@ -1,0 +1,45 @@
+---------gloss--------
+(0) Products of [3m[34m{Carpet Factory of Suizhong County , Liaoning province ,}[0m sell well in countries and regions such as the US , Japan , Belgium , etc. , and supply falls short of demand . 
+(1) The naturally colored carpets produced by [3m[34m{this factory}[0m won the " Pegasus " high quality prize awarded by [3m[33m{Liaoning Province}[0m last year . 
+(2) Photo taken by this newspaper 's reporter Yaxin Zhang 
+(end gloss)
+---------document--------
+(nw/xinhua/02/chtb_0204); part 000
+sentences:
+ProductsproductNNSORGPER0ofofINORGPER0CarpetCarpetNNPORGPER0FactoryFactoryNNPORGPER0ofofINOPER0SuizhongSuizhongNNPGPEPER0CountyCountyNNPGPEPER0,,,OPER0LiaoningLiaoningNNPGPEPER0provinceprovinceNNPOPER0,,,OPER0sellsellVBPOPER0wellwellRBOPER0ininINOPER0countriescountryNNSOPER0andandCCOPER0regionsregionNNSOPER0suchsuchJJOPER0asasINOPER0thetheDTOPER0USUSNNPGPEPER0,,,OPER0JapanJapanNNPGPEPER0,,,OPER0BelgiumBelgiumNNPGPEPER0,,,OPER0etc.etc.FWOPER0,,,OPER0andandCCOPER0supplysupplyNNOPER0fallsfallVBZOPER0shortshortRBOPER0ofofINOPER0demanddemandNNOPER0...OPER0(ROOT (S (S (NP (NP (NNS Products)) (PP (IN of) (NP (NP (NNP Carpet) (NNP Factory)) (PP (IN of) (NP (NP (NNP Suizhong) (NNP County)) (, ,) (NP (NNP Liaoning) (NNP province)) (, ,)))))) (VP (VBP sell) (ADVP (RB well)) (PP (IN in) (NP (NP (NNS countries) (CC and) (NNS regions)) (PP (JJ such) (IN as) (NP (NP (DT the) (NNP US)) (, ,) (NP (NNP Japan)) (, ,) (NP (NNP Belgium)) (, ,) (ADVP (FW etc.)))))))) (, ,) (CC and) (S (NP (NN supply)) (VP (VBZ falls) (ADVP (RB short) (PP (IN of) (NP (NN demand)))))) (. .)))
+ThetheDTOPER0naturallynaturallyRBOPER0coloredcoloredJJOPER0carpetscarpetNNSOPER0producedproduceVBNOPER0bybyINOPER0thisthisDTOPER0factoryfactoryNNOPER0wonwinVBDOPER0thetheDTOPER0""``OPER0PegasuspegasusJJORGPER1""''OPER0highhighJJOPER0qualityqualityNNOPER0prizeprizeNNOPER0awardedawardVBNOPER0bybyINOPER0LiaoningLiaoningNNPGPEPER0ProvinceProvinceNNPGPEPER0lastlastJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (ADJP (RB naturally) (JJ colored)) (NNS carpets)) (VP (VBN produced) (PP (IN by) (NP (DT this) (NN factory))))) (VP (VBD won) (NP (NP (DT the) (`` ") (JJ Pegasus) ('' ") (NML (JJ high) (NN quality)) (NN prize)) (VP (VBN awarded) (PP (IN by) (NP (NNP Liaoning) (NNP Province))) (NP (JJ last) (NN year))))) (. .)))
+PhotoPhotoNNPOPER0takentakeVBNOPER0bybyINOPER0thisthisDTOPER0newspapernewspaperNNOPER0's'sPOSOPER0reporterreporterNNOPER0YaxinYaxinNNPPERSONPER0ZhangZhangNNPPERSONPER0(ROOT (FRAG (NP (NP (NNP Photo)) (VP (VBN taken) (PP (IN by) (NP (NP (DT this) (NN newspaper) (POS 's)) (NN reporter) (NNP Yaxin) (NNP Zhang)))))))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 11 headed by 3 parsed as (NP (NP (NNP Carpet) (NNP Factory)) (PP (IN of) (NP (NP (NNP Suizhong) (NNP County)) (, ,) (NP (NNP Liaoning) (NNP province)) (, ,))))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Liaoning) (NNP province))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT this) (NN factory))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (NNP Liaoning) (NNP Province))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 11 headed by 0 parsed as (NP (NP (NNS Products)) (PP (IN of) (NP (NP (NNP Carpet) (NNP Factory)) (PP (IN of) (NP (NP (NNP Suizhong) (NNP County)) (, ,) (NP (NNP Liaoning) (NNP province)) (, ,))))))
+sid=0 spanning 2 until 11 headed by 3 parsed as (NP (NP (NNP Carpet) (NNP Factory)) (PP (IN of) (NP (NP (NNP Suizhong) (NNP County)) (, ,) (NP (NNP Liaoning) (NNP province)) (, ,))))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NP (NNP Suizhong) (NNP County)) (, ,) (NP (NNP Liaoning) (NNP province)) (, ,))
+sid=0 spanning 5 until 11 headed by 6 parsed as (NP (NP (NNP Suizhong) (NNP County)) (, ,) (NP (NNP Liaoning) (NNP province)) (, ,))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Liaoning) (NNP province))
+sid=0 spanning 8 until 9 headed by 8 parsed as Liaoning
+sid=0 spanning 14 until 17 headed by 14 parsed as (NP (NNS countries) (CC and) (NNS regions))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (NP (DT the) (NNP US)) (, ,) (NP (NNP Japan)) (, ,) (NP (NNP Belgium)) (, ,) (ADVP (FW etc.)))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NNP US))
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNP Japan))
+sid=0 spanning 24 until 25 headed by 24 parsed as (NP (NNP Belgium))
+sid=1 spanning 0 until 8 headed by 3 parsed as (NP (NP (DT The) (ADJP (RB naturally) (JJ colored)) (NNS carpets)) (VP (VBN produced) (PP (IN by) (NP (DT this) (NN factory)))))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT this) (NN factory))
+sid=1 spanning 9 until 22 headed by 15 parsed as (NP (NP (DT the) (`` ") (JJ Pegasus) ('' ") (NML (JJ high) (NN quality)) (NN prize)) (VP (VBN awarded) (PP (IN by) (NP (NNP Liaoning) (NNP Province))) (NP (JJ last) (NN year))))
+sid=1 spanning 11 until 12 headed by 11 parsed as Pegasus
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (NNP Liaoning) (NNP Province))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (JJ last) (NN year))
+sid=2 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP Photo)) (VP (VBN taken) (PP (IN by) (NP (NP (DT this) (NN newspaper) (POS 's)) (NN reporter) (NNP Yaxin) (NNP Zhang)))))
+sid=2 spanning 3 until 9 headed by 8 parsed as (NP (NP (DT this) (NN newspaper) (POS 's)) (NN reporter) (NNP Yaxin) (NNP Zhang))
+sid=2 spanning 3 until 6 headed by 4 parsed as (NP (DT this) (NN newspaper) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+1 3 | { 'Liaoning province' 'Liaoning Province' }
+2 0 | { 'this factory' 'Carpet Factory of Suizhong County , Liaoning province ,' }
+(end gold clusters)

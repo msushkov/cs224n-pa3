@@ -1,0 +1,50 @@
+---------gloss--------
+(0) [3m[36m{A Russian diver}[0m has found the bodies of three of [4m[31m{the 118 sailors who were killed when the nuclear submarine Kursk sank in the Barents Sea}[0m . 
+(1) [3m[36m{The diver}[0m entered [3m[35m{the sub}[0m after a Russian and Norwegian recovery team [4m[32m{cut}[0m a hole wide enough for [3m[36m{him}[0m to enter a rear compartment . 
+(2) [4m[32m{The drilling and cutting effort}[0m took several days . 
+(3) Navy officials do not expect that [4m[31m{all 118 bodies}[0m can be recovered . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0050); part 000
+sentences:
+AaDTOPER0RussianrussianJJOPER0diverdiverNNOPER0hashaveVBZOPER0foundfindVBNOPER0thetheDTOPER0bodiesbodyNNSOPER0ofofINOPER0threethreeCDCARDINALPER0ofofINOPER0thetheDTOPER0118118CDCARDINALPER0sailorssailorNNSOPER0whowhoWPOPER0werebeVBDOPER0killedkillVBNOPER0whenwhenWRBOPER0thetheDTOPER0nuclearnuclearJJOPER0submarinesubmarineNNOPER0KurskKurskNNPGPEPER0sanksinkVBDOPER0ininINOPER0thetheDTLOCPER0BarentsBarentsNNPLOCPER0SeaSeaNNPLOCPER0...OPER0(ROOT (S (NP (DT A) (JJ Russian) (NN diver)) (VP (VBZ has) (VP (VBN found) (NP (NP (DT the) (NNS bodies)) (PP (IN of) (NP (NP (CD three)) (PP (IN of) (NP (NP (DT the) (CD 118) (NNS sailors)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ nuclear) (NN submarine)) (NP (NNP Kursk))) (VP (VBD sank) (PP (IN in) (NP (DT the) (NNP Barents) (NNP Sea))))))))))))))))) (. .)))
+ThetheDTOPER0diverdiverNNOPER0enteredenterVBDOPER0thetheDTOPER0subsubNNOPER0afterafterINOPER0aaDTOPER0RussianrussianJJOPER0andandCCOPER0NorwegiannorwegianJJOPER0recoveryrecoveryNNOPER0teamteamNNOPER0cutcutVBDOPER0aaDTOPER0holeholeNNOPER0widewideJJOPER0enoughenoughRBOPER0forforINOPER0himhePRPOPER0totoTOOPER0enterenterVBOPER0aaDTOPER0rearrearJJOPER0compartmentcompartmentNNOPER0...OPER0(ROOT (S (NP (DT The) (NN diver)) (VP (VBD entered) (NP (DT the) (NN sub)) (SBAR (IN after) (S (NP (DT a) (ADJP (JJ Russian) (CC and) (JJ Norwegian)) (NN recovery) (NN team)) (VP (VBD cut) (NP (NP (DT a) (NN hole)) (ADJP (JJ wide) (RB enough) (SBAR (IN for) (S (NP (PRP him)) (VP (TO to) (VP (VB enter) (NP (DT a) (JJ rear) (NN compartment)))))))))))) (. .)))
+ThetheDTOPER0drillingdrillingNNOPER0andandCCOPER0cuttingcuttingNNOPER0efforteffortNNOPER0tooktakeVBDOPER0severalseveralJJDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NML (NN drilling) (CC and) (NN cutting)) (NN effort)) (VP (VBD took) (NP (JJ several) (NNS days))) (. .)))
+NavyNavyNNPORGPER0officialsofficialNNSOPER0dodoVBPOPER0notnotRBOPER0expectexpectVBOPER0thatthatINOPER0allallDTOPER0118118CDCARDINALPER0bodiesbodyNNSOPER0cancanMDOPER0bebeVBOPER0recoveredrecoverVBNOPER0...OPER0(ROOT (S (NP (NNP Navy) (NNS officials)) (VP (VBP do) (RB not) (VP (VB expect) (SBAR (IN that) (S (NP (DT all) (CD 118) (NNS bodies)) (VP (MD can) (VP (VB be) (VP (VBN recovered)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ Russian) (NN diver))
+sid=0 spanning 10 until 26 headed by 12 parsed as (NP (NP (DT the) (CD 118) (NNS sailors)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ nuclear) (NN submarine)) (NP (NNP Kursk))) (VP (VBD sank) (PP (IN in) (NP (DT the) (NNP Barents) (NNP Sea)))))))))))
+sid=0 spanning 17 until 21 headed by 19 parsed as (NP (NP (DT the) (JJ nuclear) (NN submarine)) (NP (NNP Kursk)))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN diver))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN sub))
+sid=1 spanning 12 until 13 headed by 12 parsed as cut
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (PRP him))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NN drilling) (CC and) (NN cutting)) (NN effort))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT all) (CD 118) (NNS bodies))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ Russian) (NN diver))
+sid=0 spanning 5 until 26 headed by 6 parsed as (NP (NP (DT the) (NNS bodies)) (PP (IN of) (NP (NP (CD three)) (PP (IN of) (NP (NP (DT the) (CD 118) (NNS sailors)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ nuclear) (NN submarine)) (NP (NNP Kursk))) (VP (VBD sank) (PP (IN in) (NP (DT the) (NNP Barents) (NNP Sea)))))))))))))))
+sid=0 spanning 8 until 26 headed by 8 parsed as (NP (NP (CD three)) (PP (IN of) (NP (NP (DT the) (CD 118) (NNS sailors)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ nuclear) (NN submarine)) (NP (NNP Kursk))) (VP (VBD sank) (PP (IN in) (NP (DT the) (NNP Barents) (NNP Sea)))))))))))))
+sid=0 spanning 17 until 21 headed by 19 parsed as (NP (NP (DT the) (JJ nuclear) (NN submarine)) (NP (NNP Kursk)))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (NNP Kursk))
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (DT the) (NNP Barents) (NNP Sea))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN diver))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN sub))
+sid=1 spanning 6 until 12 headed by 11 parsed as (NP (DT a) (ADJP (JJ Russian) (CC and) (JJ Norwegian)) (NN recovery) (NN team))
+sid=1 spanning 13 until 24 headed by 14 parsed as (NP (NP (DT a) (NN hole)) (ADJP (JJ wide) (RB enough) (SBAR (IN for) (S (NP (PRP him)) (VP (TO to) (VP (VB enter) (NP (DT a) (JJ rear) (NN compartment))))))))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (PRP him))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (DT a) (JJ rear) (NN compartment))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NN drilling) (CC and) (NN cutting)) (NN effort))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (JJ several) (NNS days))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Navy) (NNS officials))
+sid=3 spanning 0 until 1 headed by 0 parsed as Navy
+(end predicted mentions)
+---------gold clusters--------
+2 4 | { 'the nuclear submarine Kursk' 'the sub' }
+3 6 0 | { 'The diver' 'him' 'A Russian diver' }
+8 1 | { 'all 118 bodies' 'the 118 sailors who were killed when the nuclear submarine Kursk sank in the Barents Sea' }
+5 7 | { 'cut' 'The drilling and cutting effort' }
+(end gold clusters)

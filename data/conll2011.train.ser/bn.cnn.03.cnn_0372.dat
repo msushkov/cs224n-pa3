@@ -1,0 +1,130 @@
+---------gloss--------
+(0) [3m[36m{AOL Time Warner}[0m and [4m[33m{Microsoft}[0m are burying the hatchet . 
+(1) Allan Chernoff live from the New York Stock Exchange with more . 
+(2) Bring us up to speed . 
+(3) [3m[36m{AOL Time Warner}[0m , of course , [4m[34m{our}[0m parent company . 
+(4) Exactly in question about that . 
+(5) Bill Gates and Dick Parson , the CEOs of [4m[32m{these two companies}[0m , smoking a peace pipe right now . 
+(6) [4m[32m{The companies}[0m [3m[35m{settling}[0m a lawsuit . 
+(7) [3m[36m{AOL Time Warner our corporate parent}[0m , will get [4m[31m{$ 750 million}[0m from [4m[33m{Microsoft}[0m . 
+(8) [4m[33m{The software giant}[0m paying to [3m[35m{settle}[0m charges [4m[33m{it}[0m used [4m[33m{its}[0m monopoly power in after to block the [3m[36m{AOL}[0m Netscape browser . 
+(9) As part of [3m[35m{the deal}[0m , [4m[33m{Microsoft}[0m will license [4m[33m{its}[0m browser to [3m[36m{AOL}[0m for seven years without charging royalties . 
+(10) [3m[36m{AOL}[0m is allowed to collaborate with [4m[33m{Microsoft}[0m on making [4m[32m{their}[0m internet messagers work smoothly together . 
+(11) So , [4m[31m{$ 750 million}[0m , [4m[31m{that}[0m 's a whale of a company Christmas party . 
+(12) What are [3m[36m{they}[0m really going to be doing with [4m[31m{the money}[0m ? 
+(13) If you do n't spend [4m[31m{it all}[0m on a -- 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0372); part 000
+sentences:
+AOLAOLNNPORGPER0TimeTimeNNPORGPER0WarnerWarnerNNPORGPER0andandCCOPER0MicrosoftMicrosoftNNPORGPER0arebeVBPOPER0buryingburyVBGOPER0thetheDTOPER0hatchethatchetNNOPER0...OPER0(ROOT (S (NP (NP (NNP AOL) (NNP Time) (NNP Warner)) (CC and) (NP (NNP Microsoft))) (VP (VBP are) (VP (VBG burying) (NP (DT the) (NN hatchet)))) (. .)))
+AllanAllanNNPPERSONPER0ChernoffChernoffNNPPERSONPER0liveliveVBOPER0fromfromINOPER0thetheDTORGPER0NewNewNNPORGPER0YorkYorkNNPORGPER0StockStockNNPORGPER0ExchangeExchangeNNPORGPER0withwithINOPER0moremoreJJROPER0...OPER0(ROOT (S (NP (NNP Allan) (NNP Chernoff)) (VP (VB live) (PP (IN from) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))) (PP (IN with) (NP (JJR more)))) (. .)))
+BringbringVBOPER0uswePRPOPER0upupRPOPER0totoINOPER0speedspeedNNOPER0...OPER0(ROOT (S (VP (VB Bring) (NP (PRP us)) (PRT (RP up)) (PP (IN to) (NP (NN speed)))) (. .)))
+AOLAOLNNPORGPER0TimeTimeNNPORGPER0WarnerWarnerNNPORGPER0,,,OPER0ofofINOPER0coursecourseNNOPER0,,,OPER0ourwePRP$OPER0parentparentNNOPER0companycompanyNNOPER0...OPER0(ROOT (FRAG (NP (NNP AOL) (NNP Time) (NNP Warner)) (, ,) (PP (IN of) (NP (NN course))) (, ,) (NP (PRP$ our) (NN parent) (NN company)) (. .)))
+ExactlyexactlyRBOPER0ininINOPER0questionquestionNNOPER0aboutaboutINOPER0thatthatDTOPER0...OPER0(ROOT (FRAG (ADVP (RB Exactly)) (PP (IN in) (NP (NP (NN question)) (PP (IN about) (NP (DT that))))) (. .)))
+BillBillNNPPERSONPER0GatesGatesNNPPERSONPER0andandCCOPER0DickDickNNPPERSONPER0ParsonParsonNNPPERSONPER0,,,OPER0thetheDTOPER0CEOsceoNNSOPER0ofofINOPER0thesetheseDTOPER0twotwoCDCARDINALPER0companiescompanyNNSOPER0,,,OPER0smokingsmokeVBGOPER0aaDTOPER0peacepeaceNNOPER0pipepipeNNOPER0rightrightRBOPER0nownowRBOPER0...OPER0(ROOT (FRAG (NP (NP (NNP Bill) (NNP Gates)) (CC and) (NP (NNP Dick) (NNP Parson))) (, ,) (NP (NP (DT the) (NNS CEOs)) (PP (IN of) (NP (DT these) (CD two) (NNS companies)))) (, ,) (VP (VBG smoking) (NP (DT a) (NN peace) (NN pipe)) (ADVP (RB right) (RB now))) (. .)))
+ThetheDTOPER0companiescompanyNNSOPER0settlingsettleVBGOPER0aaDTOPER0lawsuitlawsuitNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS companies)) (VP (VBG settling) (NP (DT a) (NN lawsuit))) (. .)))
+AOLAOLNNPORGPER0TimeTimeNNPORGPER0WarnerWarnerNNPORGPER0ourwePRP$OPER0corporatecorporateJJOPER0parentparentNNOPER0,,,OPER0willwillMDOPER0getgetVBOPER0$$$MONEYPER0750750CDMONEYPER0millionmillionCDMONEYPER0fromfromINOPER0MicrosoftMicrosoftNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP AOL) (NNP Time) (NNP Warner)) (NP (PRP$ our) (JJ corporate) (NN parent))) (, ,) (VP (MD will) (VP (VB get) (NP (QP ($ $) (CD 750) (CD million))) (PP (IN from) (NP (NNP Microsoft))))) (. .)))
+ThetheDTOPER0softwaresoftwareNNOPER0giantgiantNNOPER0payingpayVBGOPER0totoTOOPER0settlesettleVBOPER0chargeschargeNNSOPER0ititPRPOPER0useduseVBDOPER0itsitsPRP$OPER0monopolymonopolyNNOPER0powerpowerNNOPER0ininINOPER0afterafterINDATEPER0totoTOOPER0blockblockVBOPER0thetheDTOPER0AOLAOLNNPORGPER0NetscapeNetscapeNNPORGPER0browserbrowserNNOPER0...OPER0(ROOT (S (NP (DT The) (NN software) (NN giant)) (VP (VBG paying) (S (VP (TO to) (VP (VB settle) (NP (NP (NNS charges)) (SBAR (S (NP (PRP it)) (VP (VBD used) (NP (PRP$ its) (NN monopoly) (NN power)) (PP (IN in) (PP (IN after))) (S (VP (TO to) (VP (VB block) (NP (DT the) (NML (NNP AOL) (NNP Netscape)) (NN browser))))))))))))) (. .)))
+AsasINOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0dealdealNNOPER0,,,OPER0MicrosoftMicrosoftNNPORGPER0willwillMDOPER0licenselicenseVBOPER0itsitsPRP$OPER0browserbrowserNNOPER0totoINOPER0AOLAOLNNPORGPER0forforINOPER0sevensevenCDDATEPER0yearsyearNNSDATEPER0withoutwithoutINOPER0chargingchargeVBGOPER0royaltiesroyaltyNNSOPER0...OPER0(ROOT (S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN deal))))) (, ,) (NP (NNP Microsoft)) (VP (MD will) (VP (VB license) (NP (PRP$ its) (NN browser)) (PP (IN to) (NP (NNP AOL))) (PP (IN for) (NP (CD seven) (NNS years))) (PP (IN without) (S (VP (VBG charging) (NP (NNS royalties))))))) (. .)))
+AOLAOLNNPORGPER0isbeVBZOPER0allowedallowVBNOPER0totoTOOPER0collaboratecollaborateVBOPER0withwithINOPER0MicrosoftMicrosoftNNPORGPER0ononINOPER0makingmakeVBGOPER0theirtheyPRP$OPER0internetinternetNNOPER0messagersmessagerNNSOPER0workworkVBOPER0smoothlysmoothlyRBOPER0togethertogetherRBOPER0...OPER0(ROOT (S (NP (NNP AOL)) (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB collaborate) (PP (IN with) (NP (NNP Microsoft))) (PP (IN on) (S (VP (VBG making) (S (NP (PRP$ their) (NN internet) (NNS messagers)) (VP (VB work) (ADVP (RB smoothly)) (ADVP (RB together)))))))))))) (. .)))
+SosoRBOPER0,,,OPER0$$$MONEYPER0750750CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0thatthatDTOPER0'sbeVBZOPER0aaDTOPER0whalewhaleNNOPER0ofofINOPER0aaDTOPER0companycompanyNNOPER0ChristmasChristmasNNPDATEPER0partypartyNNOPER0...OPER0(ROOT (S (ADVP (RB So)) (, ,) (NP (QP ($ $) (CD 750) (CD million))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (NN whale)) (PP (IN of) (NP (DT a) (NN company) (NNP Christmas) (NN party))))) (. .)))
+WhatwhatWPOPER0arebeVBPOPER0theytheyPRPOPER0reallyreallyRBOPER0goinggoVBGOPER0totoTOOPER0bebeVBOPER0doingdoVBGOPER0withwithINOPER0thetheDTOPER0moneymoneyNNOPER0??.OPER0(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (PRP they)) (ADVP (RB really)) (VP (VBG going) (S (VP (TO to) (VP (VB be) (VP (VBG doing) (PP (IN with) (NP (DT the) (NN money))))))))) (. ?)))
+IfifINOPER0youyouPRPOPER0dodoVBOPER0n'tnotRBOPER0spendspendVBOPER0ititPRPOPER0allallDTOPER0ononINOPER0aaDTOPER0----:OPER0(ROOT (SBAR (IN If) (S (NP (PRP you)) (VP (VB do) (RB n't) (VP (VB spend) (NP (NP (PRP it)) (NP (DT all))) (PP (IN on) (NP (DT a)))))) (: --)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (NNP AOL) (NNP Time) (NNP Warner)) (CC and) (NP (NNP Microsoft)))
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP AOL) (NNP Time) (NNP Warner)) (CC and) (NP (NNP Microsoft)))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Microsoft))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NNP AOL) (NNP Time) (NNP Warner))
+sid=3 spanning 7 until 8 headed by 7 parsed as our
+sid=5 spanning 9 until 12 headed by 11 parsed as (NP (DT these) (CD two) (NNS companies))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS companies))
+sid=6 spanning 2 until 3 headed by 2 parsed as settling
+sid=7 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP AOL) (NNP Time) (NNP Warner)) (NP (PRP$ our) (JJ corporate) (NN parent)))
+sid=7 spanning 3 until 4 headed by 3 parsed as our
+sid=7 spanning 9 until 12 headed by 9 parsed as (NP (QP ($ $) (CD 750) (CD million)))
+sid=7 spanning 13 until 14 headed by 13 parsed as (NP (NNP Microsoft))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN software) (NN giant))
+sid=8 spanning 5 until 6 headed by 5 parsed as settle
+sid=8 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=8 spanning 9 until 10 headed by 9 parsed as its
+sid=8 spanning 17 until 18 headed by 17 parsed as AOL
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN deal))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (NNP Microsoft))
+sid=9 spanning 9 until 10 headed by 9 parsed as its
+sid=9 spanning 12 until 13 headed by 12 parsed as (NP (NNP AOL))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (NNP AOL))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (NNP Microsoft))
+sid=10 spanning 9 until 10 headed by 9 parsed as their
+sid=11 spanning 2 until 5 headed by 2 parsed as (NP (QP ($ $) (CD 750) (CD million)))
+sid=11 spanning 6 until 7 headed by 6 parsed as (NP (DT that))
+sid=12 spanning 2 until 3 headed by 2 parsed as (NP (PRP they))
+sid=12 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN money))
+sid=13 spanning 5 until 7 headed by 5 parsed as (NP (NP (PRP it)) (NP (DT all)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP AOL) (NNP Time) (NNP Warner)) (CC and) (NP (NNP Microsoft)))
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (NNP AOL) (NNP Time) (NNP Warner)) (CC and) (NP (NNP Microsoft)))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Microsoft))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN hatchet))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Allan) (NNP Chernoff))
+sid=1 spanning 4 until 9 headed by 8 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (JJR more))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP us))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NNP AOL) (NNP Time) (NNP Warner))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (PRP$ our) (NN parent) (NN company))
+sid=3 spanning 7 until 8 headed by 7 parsed as (PRP$ our)
+sid=4 spanning 2 until 5 headed by 2 parsed as (NP (NP (NN question)) (PP (IN about) (NP (DT that))))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (DT that))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Bill) (NNP Gates)) (CC and) (NP (NNP Dick) (NNP Parson)))
+sid=5 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Bill) (NNP Gates)) (CC and) (NP (NNP Dick) (NNP Parson)))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (NNP Dick) (NNP Parson))
+sid=5 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT the) (NNS CEOs)) (PP (IN of) (NP (DT these) (CD two) (NNS companies))))
+sid=5 spanning 9 until 12 headed by 11 parsed as (NP (DT these) (CD two) (NNS companies))
+sid=5 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (NN peace) (NN pipe))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS companies))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN lawsuit))
+sid=7 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP AOL) (NNP Time) (NNP Warner)) (NP (PRP$ our) (JJ corporate) (NN parent)))
+sid=7 spanning 3 until 6 headed by 5 parsed as (NP (PRP$ our) (JJ corporate) (NN parent))
+sid=7 spanning 3 until 4 headed by 3 parsed as (PRP$ our)
+sid=7 spanning 13 until 14 headed by 13 parsed as (NP (NNP Microsoft))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN software) (NN giant))
+sid=8 spanning 6 until 20 headed by 6 parsed as (NP (NP (NNS charges)) (SBAR (S (NP (PRP it)) (VP (VBD used) (NP (PRP$ its) (NN monopoly) (NN power)) (PP (IN in) (PP (IN after))) (S (VP (TO to) (VP (VB block) (NP (DT the) (NML (NNP AOL) (NNP Netscape)) (NN browser)))))))))
+sid=8 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=8 spanning 9 until 12 headed by 11 parsed as (NP (PRP$ its) (NN monopoly) (NN power))
+sid=8 spanning 9 until 10 headed by 9 parsed as (PRP$ its)
+sid=8 spanning 13 until 14 headed by 13 parsed as after
+sid=8 spanning 16 until 20 headed by 19 parsed as (NP (DT the) (NML (NNP AOL) (NNP Netscape)) (NN browser))
+sid=8 spanning 17 until 19 headed by 18 parsed as Netscape
+sid=9 spanning 1 until 5 headed by 1 parsed as (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN deal))))
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN deal))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (NNP Microsoft))
+sid=9 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ its) (NN browser))
+sid=9 spanning 9 until 10 headed by 9 parsed as (PRP$ its)
+sid=9 spanning 12 until 13 headed by 12 parsed as (NP (NNP AOL))
+sid=9 spanning 14 until 16 headed by 15 parsed as (NP (CD seven) (NNS years))
+sid=9 spanning 18 until 19 headed by 18 parsed as (NP (NNS royalties))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (NNP AOL))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (NNP Microsoft))
+sid=10 spanning 9 until 12 headed by 11 parsed as (NP (PRP$ their) (NN internet) (NNS messagers))
+sid=10 spanning 9 until 10 headed by 9 parsed as (PRP$ their)
+sid=11 spanning 6 until 7 headed by 6 parsed as (NP (DT that))
+sid=11 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT a) (NN whale)) (PP (IN of) (NP (DT a) (NN company) (NNP Christmas) (NN party))))
+sid=11 spanning 11 until 15 headed by 14 parsed as (NP (DT a) (NN company) (NNP Christmas) (NN party))
+sid=11 spanning 13 until 14 headed by 13 parsed as Christmas
+sid=12 spanning 2 until 3 headed by 2 parsed as (NP (PRP they))
+sid=12 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN money))
+sid=13 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=13 spanning 5 until 7 headed by 5 parsed as (NP (NP (PRP it)) (NP (DT all)))
+sid=13 spanning 8 until 9 headed by 8 parsed as (NP (DT a))
+(end predicted mentions)
+---------gold clusters--------
+17 7 13 | { 'the deal' 'settling' 'settle' }
+16 3 8 20 21 26 1 | { 'AOL' 'AOL Time Warner' 'AOL Time Warner our corporate parent' 'AOL' 'AOL' 'they' 'AOL Time Warner' }
+10 27 28 25 24 | { '$ 750 million' 'the money' 'it all' 'that' '$ 750 million' }
+5 6 0 23 | { 'these two companies' 'The companies' 'AOL Time Warner and Microsoft' 'their' }
+12 11 15 18 19 2 14 22 | { 'The software giant' 'Microsoft' 'its' 'Microsoft' 'its' 'Microsoft' 'it' 'Microsoft' }
+4 9 | { 'our' 'our' }
+(end gold clusters)

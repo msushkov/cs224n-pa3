@@ -1,0 +1,79 @@
+---------gloss--------
+(0) [3m[32m{US Defense Secretary William Cohen}[0m plans to travel next week to [3m[31m{nine Middle Eastern Gulf states}[0m for meetings with regional leaders . 
+(1) [3m[32m{Mr. Cohen}[0m will depart next Tuesday to visit [3m[31m{Saudi Arabia , Kuwait , Bahrain , Oman , the United Arab Emirates , Qatar , Israel , Jordan and Egypt}[0m . 
+(2) The Pentagon says , [3m[32m{the Secretary}[0m will consult with defense officials in [3m[31m{those countries}[0m and also visit US troops in the area . 
+(3) US forces in [3m[33m{the Gulf}[0m have been on high alert , since last month 's apparent terrorist bombing of [1m[36m{the USS Cole}[0m , which killed 17 sailors . 
+(4) An explosion struck [1m[36m{the Cole}[0m , as [1m[36m{it}[0m refueled in the Yemeni port of Aden . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0092); part 000
+sentences:
+USUSNNPORGPER0DefenseDefenseNNPORGPER0SecretarySecretaryNNPOPER0WilliamWilliamNNPPERSONPER0CohenCohenNNPPERSONPER0plansplanVBZOPER0totoTOOPER0traveltravelVBOPER0nextnextJJDATEPER0weekweekNNDATEPER0totoINOPER0ninenineCDCARDINALPER0MiddleMiddleNNPOPER0EasternEasternNNPOPER0GulfGulfNNPLOCPER0statesstateNNSOPER0forforINOPER0meetingsmeetingNNSOPER0withwithINOPER0regionalregionalJJOPER0leadersleaderNNSOPER0...OPER0(ROOT (S (NP (NML (NNP US) (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen)) (VP (VBZ plans) (S (VP (TO to) (VP (VB travel) (NP (JJ next) (NN week)) (PP (IN to) (NP (NP (CD nine) (NML (NNP Middle) (NNP Eastern)) (NNP Gulf) (NNS states)) (PP (IN for) (NP (NP (NNS meetings)) (PP (IN with) (NP (JJ regional) (NNS leaders))))))))))) (. .)))
+Mr.Mr.NNPOPER0CohenCohenNNPPERSONPER0willwillMDOPER0departdepartVBOPER0nextnextJJDATEPER0TuesdayTuesdayNNPDATEPER0totoTOOPER0visitvisitVBOPER0SaudiSaudiNNPGPEPER0ArabiaArabiaNNPGPEPER0,,,OPER0KuwaitKuwaitNNPGPEPER0,,,OPER0BahrainBahrainNNPGPEPER0,,,OPER0OmanOmanNNPGPEPER0,,,OPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0ArabArabNNPGPEPER0EmiratesEmiratesNNPSGPEPER0,,,OPER0QatarQatarNNPGPEPER0,,,OPER0IsraelIsraelNNPGPEPER0,,,OPER0JordanJordanNNPGPEPER0andandCCOPER0EgyptEgyptNNPGPEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Cohen)) (VP (MD will) (VP (VB depart) (NP (JJ next) (NNP Tuesday)) (S (VP (TO to) (VP (VB visit) (NP (NP (NP (NNP Saudi) (NNP Arabia)) (, ,) (NP (NNP Kuwait)) (, ,) (NP (NP (NNP Bahrain)) (, ,) (NP (NNP Oman)) (, ,) (NP (DT the) (NNP United) (NNP Arab) (NNPS Emirates)))) (, ,) (NP (NNP Qatar)) (, ,) (NP (NNP Israel)) (, ,) (NP (NNP Jordan)) (CC and) (NP (NNP Egypt)))))))) (. .)))
+ThetheDTOPER0PentagonPentagonNNPORGPER0sayssayVBZOPER0,,,OPER0thetheDTOPER0SecretarySecretaryNNPOPER0willwillMDOPER0consultconsultVBOPER0withwithINOPER0defensedefenseNNOPER0officialsofficialNNSOPER0ininINOPER0thosethoseDTOPER0countriescountryNNSOPER0andandCCOPER0alsoalsoRBOPER0visitvisitVBOPER0USUSNNPGPEPER0troopstroopsNNSOPER0ininINOPER0thetheDTOPER0areaareaNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Pentagon)) (VP (VBZ says) (, ,) (SBAR (S (NP (DT the) (NNP Secretary)) (VP (MD will) (VP (VP (VB consult) (PP (IN with) (NP (NP (NN defense) (NNS officials)) (PP (IN in) (NP (DT those) (NNS countries)))))) (CC and) (ADVP (RB also)) (VP (VB visit) (NP (NP (NNP US) (NNS troops)) (PP (IN in) (NP (DT the) (NN area)))))))))) (. .)))
+USUSNNPGPEPER0forcesforceNNSOPER0ininINOPER0thetheDTOPER0GulfGulfNNPLOCPER0havehaveVBPOPER0beenbeVBNOPER0ononINOPER0highhighJJOPER0alertalertNNOPER0,,,OPER0sincesinceINOPER0lastlastJJDATEPER0monthmonthNNDATEPER0's'sPOSDATEPER0apparentapparentJJOPER0terroristterroristJJOPER0bombingbombingNNOPER0ofofINOPER0thetheDTPRODUCTPER0USSUSSNNPPRODUCTPER0ColeColeNNPPRODUCTPER0,,,OPER0whichwhichWDTOPER0killedkillVBDOPER01717CDCARDINALPER0sailorssailorNNSOPER0...OPER0(ROOT (S (NP (NP (NNP US) (NNS forces)) (PP (IN in) (NP (DT the) (NNP Gulf)))) (VP (VBP have) (VP (VBN been) (PP (IN on) (NP (JJ high) (NN alert))) (, ,) (PP (IN since) (NP (NP (NP (JJ last) (NN month) (POS 's)) (JJ apparent) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NNP USS) (NNP Cole)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD killed) (NP (CD 17) (NNS sailors))))))))))) (. .)))
+AnaDTOPER0explosionexplosionNNOPER0struckstrikeVBDOPER0thetheDTOPER0ColeColeNNPPERSONPER0,,,OPER0asasINOPER0ititPRPOPER0refueledrefuelVBDOPER0ininINOPER0thetheDTOPER0YemeniYemeniNNPOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0...OPER0(ROOT (S (NP (DT An) (NN explosion)) (VP (VBD struck) (NP (DT the) (NNP Cole)) (, ,) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD refueled) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP US) (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen))
+sid=0 spanning 11 until 16 headed by 15 parsed as (NP (NP (CD nine) (NML (NNP Middle) (NNP Eastern)) (NNP Gulf) (NNS states)) (PP (IN for) (NP (NP (NNS meetings)) (PP (IN with) (NP (JJ regional) (NNS leaders))))))
+sid=0 spanning 12 until 15 headed by 14 parsed as Gulf
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Cohen))
+sid=1 spanning 8 until 29 headed by 9 parsed as (NP (NP (NP (NNP Saudi) (NNP Arabia)) (, ,) (NP (NNP Kuwait)) (, ,) (NP (NP (NNP Bahrain)) (, ,) (NP (NNP Oman)) (, ,) (NP (DT the) (NNP United) (NNP Arab) (NNPS Emirates)))) (, ,) (NP (NNP Qatar)) (, ,) (NP (NNP Israel)) (, ,) (NP (NNP Jordan)) (CC and) (NP (NNP Egypt)))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNP Secretary))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (DT those) (NNS countries))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP Gulf))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (NP (DT the) (NNP USS) (NNP Cole)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD killed) (NP (CD 17) (NNS sailors))))))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP Cole))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP US) (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen))
+sid=0 spanning 0 until 2 headed by 1 parsed as Defense
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (JJ next) (NN week))
+sid=0 spanning 11 until 21 headed by 15 parsed as (NP (NP (CD nine) (NML (NNP Middle) (NNP Eastern)) (NNP Gulf) (NNS states)) (PP (IN for) (NP (NP (NNS meetings)) (PP (IN with) (NP (JJ regional) (NNS leaders))))))
+sid=0 spanning 14 until 15 headed by 14 parsed as Gulf
+sid=0 spanning 17 until 21 headed by 17 parsed as (NP (NP (NNS meetings)) (PP (IN with) (NP (JJ regional) (NNS leaders))))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (JJ regional) (NNS leaders))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Cohen))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (JJ next) (NNP Tuesday))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (NP (NP (NNP Saudi) (NNP Arabia)) (, ,) (NP (NNP Kuwait)) (, ,) (NP (NP (NNP Bahrain)) (, ,) (NP (NNP Oman)) (, ,) (NP (DT the) (NNP United) (NNP Arab) (NNPS Emirates)))) (, ,) (NP (NNP Qatar)) (, ,) (NP (NNP Israel)) (, ,) (NP (NNP Jordan)) (CC and) (NP (NNP Egypt)))
+sid=1 spanning 8 until 29 headed by 9 parsed as (NP (NP (NP (NNP Saudi) (NNP Arabia)) (, ,) (NP (NNP Kuwait)) (, ,) (NP (NP (NNP Bahrain)) (, ,) (NP (NNP Oman)) (, ,) (NP (DT the) (NNP United) (NNP Arab) (NNPS Emirates)))) (, ,) (NP (NNP Qatar)) (, ,) (NP (NNP Israel)) (, ,) (NP (NNP Jordan)) (CC and) (NP (NNP Egypt)))
+sid=1 spanning 8 until 21 headed by 9 parsed as (NP (NP (NNP Saudi) (NNP Arabia)) (, ,) (NP (NNP Kuwait)) (, ,) (NP (NP (NNP Bahrain)) (, ,) (NP (NNP Oman)) (, ,) (NP (DT the) (NNP United) (NNP Arab) (NNPS Emirates))))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNP Kuwait))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NP (NNP Bahrain)) (, ,) (NP (NNP Oman)) (, ,) (NP (DT the) (NNP United) (NNP Arab) (NNPS Emirates)))
+sid=1 spanning 13 until 21 headed by 13 parsed as (NP (NP (NNP Bahrain)) (, ,) (NP (NNP Oman)) (, ,) (NP (DT the) (NNP United) (NNP Arab) (NNPS Emirates)))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Oman))
+sid=1 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (NNP United) (NNP Arab) (NNPS Emirates))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (NNP Qatar))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNP Israel))
+sid=1 spanning 26 until 27 headed by 26 parsed as (NP (NNP Jordan))
+sid=1 spanning 28 until 29 headed by 28 parsed as (NP (NNP Egypt))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Pentagon))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNP Secretary))
+sid=2 spanning 9 until 14 headed by 10 parsed as (NP (NP (NN defense) (NNS officials)) (PP (IN in) (NP (DT those) (NNS countries))))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (DT those) (NNS countries))
+sid=2 spanning 17 until 22 headed by 18 parsed as (NP (NP (NNP US) (NNS troops)) (PP (IN in) (NP (DT the) (NN area))))
+sid=2 spanning 17 until 18 headed by 17 parsed as US
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN area))
+sid=3 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP US) (NNS forces)) (PP (IN in) (NP (DT the) (NNP Gulf))))
+sid=3 spanning 0 until 1 headed by 0 parsed as US
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP Gulf))
+sid=3 spanning 12 until 15 headed by 13 parsed as (NP (JJ last) (NN month) (POS 's))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (NP (DT the) (NNP USS) (NNP Cole)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD killed) (NP (CD 17) (NNS sailors))))))
+sid=3 spanning 19 until 27 headed by 21 parsed as (NP (NP (DT the) (NNP USS) (NNP Cole)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD killed) (NP (CD 17) (NNS sailors))))))
+sid=3 spanning 25 until 27 headed by 26 parsed as (NP (CD 17) (NNS sailors))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT An) (NN explosion))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (DT the) (NNP Cole))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP Cole))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=4 spanning 10 until 15 headed by 12 parsed as (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Aden))
+(end predicted mentions)
+---------gold clusters--------
+9 8 10 | { 'the Cole' 'the USS Cole' 'it' }
+1 6 4 | { 'nine Middle Eastern Gulf states' 'those countries' 'Saudi Arabia , Kuwait , Bahrain , Oman , the United Arab Emirates , Qatar , Israel , Jordan and Egypt' }
+3 0 5 | { 'Mr. Cohen' 'US Defense Secretary William Cohen' 'the Secretary' }
+2 7 | { 'Middle Eastern Gulf' 'the Gulf' }
+(end gold clusters)

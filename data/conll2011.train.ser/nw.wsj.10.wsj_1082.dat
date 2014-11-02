@@ -1,0 +1,52 @@
+---------gloss--------
+(0) [4m[34m{Bob Evans Inc.}[0m said [4m[34m{its}[0m board authorized [4m[35m{the purchase of as many as 500,000 shares of its common}[0m . 
+(1) [4m[36m{The stock , to be purchased on the open market or through privately negotiated transactions ,}[0m will be held as treasury shares for stock options or other general corporate purposes . 
+(2) [4m[35m{The program}[0m expires April 27 . 
+(3) [4m[34m{The restaurant operator}[0m had 32.2 million shares outstanding as of Sept. 29 . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1082); part 000
+sentences:
+BobBobNNPPERSONPER0EvansEvansNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0boardboardNNOPER0authorizedauthorizeVBDOPER0thetheDTOPER0purchasepurchaseNNOPER0ofofINOPER0asasRBCARDINALPER0manymanyJJCARDINALPER0asasINCARDINALPER0500,000500,000CDCARDINALPER0sharesshareNNSOPER0ofofINOPER0itsitsPRP$OPER0commoncommonJJOPER0...OPER0(ROOT (S (NP (NNP Bob) (NNP Evans) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBD authorized) (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (QP (RB as) (JJ many) (IN as) (CD 500,000)) (NNS shares))) (PP (IN of) (NP (PRP$ its) (JJ common)))))))) (. .)))
+ThetheDTOPER0stockstockNNOPER0,,,OPER0totoTOOPER0bebeVBOPER0purchasedpurchaseVBNOPER0ononINOPER0thetheDTOPER0openopenJJOPER0marketmarketNNOPER0ororCCOPER0throughthroughINOPER0privatelyprivatelyRBOPER0negotiatednegotiateVBNOPER0transactionstransactionNNSOPER0,,,OPER0willwillMDOPER0bebeVBOPER0heldholdVBNOPER0asasINOPER0treasurytreasuryNNOPER0sharesshareNNSOPER0forforINOPER0stockstockNNOPER0optionsoptionNNSOPER0ororCCOPER0otherotherJJOPER0generalgeneralJJOPER0corporatecorporateJJOPER0purposespurposeNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN stock)) (, ,) (S (VP (TO to) (VP (VB be) (VP (VBN purchased) (PP (PP (IN on) (NP (DT the) (JJ open) (NN market))) (CC or) (PP (IN through) (NP (ADJP (RB privately) (VBN negotiated)) (NNS transactions)))))))) (, ,) (VP (MD will) (VP (VB be) (VP (VBN held) (PP (IN as) (NP (NN treasury) (NNS shares))) (PP (IN for) (NP (NP (NN stock) (NNS options)) (CC or) (NP (JJ other) (JJ general) (JJ corporate) (NNS purposes))))))) (. .)))
+ThetheDTOPER0programprogramNNOPER0expiresexpireVBZOPER0AprilAprilNNPDATEPER02727CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NN program)) (VP (VBZ expires) (NP (NNP April) (CD 27))) (. .)))
+ThetheDTOPER0restaurantrestaurantNNOPER0operatoroperatorNNOPER0hadhaveVBDOPER032.232.2CDCARDINALPER0millionmillionCDCARDINALPER0sharesshareNNSOPER0outstandingoutstandingJJOPER0asasINOPER0ofofINOPER0Sept.Sept.NNPDATEPER02929CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NN restaurant) (NN operator)) (VP (VBD had) (NP (NP (QP (CD 32.2) (CD million)) (NNS shares)) (ADJP (JJ outstanding) (PP (IN as) (PP (IN of) (NP (NNP Sept.) (CD 29))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Bob) (NNP Evans) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as its
+sid=0 spanning 7 until 18 headed by 8 parsed as (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (QP (RB as) (JJ many) (IN as) (CD 500,000)) (NNS shares))) (PP (IN of) (NP (PRP$ its) (JJ common))))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (PRP$ its) (JJ common))
+sid=0 spanning 16 until 17 headed by 16 parsed as its
+sid=1 spanning 0 until 16 headed by 1 parsed as (NP (DT The) (NN stock))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN program))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN restaurant) (NN operator))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Bob) (NNP Evans) (NNP Inc.))
+sid=0 spanning 0 until 1 headed by 0 parsed as Bob
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ its) (NN board))
+sid=0 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=0 spanning 7 until 18 headed by 8 parsed as (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (QP (RB as) (JJ many) (IN as) (CD 500,000)) (NNS shares))) (PP (IN of) (NP (PRP$ its) (JJ common))))
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (QP (RB as) (JJ many) (IN as) (CD 500,000)) (NNS shares))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (PRP$ its) (JJ common))
+sid=0 spanning 16 until 17 headed by 16 parsed as (PRP$ its)
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN stock))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ open) (NN market))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (ADJP (RB privately) (VBN negotiated)) (NNS transactions))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (NN treasury) (NNS shares))
+sid=1 spanning 23 until 30 headed by 24 parsed as (NP (NP (NN stock) (NNS options)) (CC or) (NP (JJ other) (JJ general) (JJ corporate) (NNS purposes)))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (NN stock) (NNS options))
+sid=1 spanning 26 until 30 headed by 29 parsed as (NP (JJ other) (JJ general) (JJ corporate) (NNS purposes))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN program))
+sid=2 spanning 3 until 5 headed by 3 parsed as (NP (NNP April) (CD 27))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN restaurant) (NN operator))
+sid=3 spanning 4 until 12 headed by 6 parsed as (NP (NP (QP (CD 32.2) (CD million)) (NNS shares)) (ADJP (JJ outstanding) (PP (IN as) (PP (IN of) (NP (NNP Sept.) (CD 29))))))
+sid=3 spanning 10 until 12 headed by 10 parsed as (NP (NNP Sept.) (CD 29))
+(end predicted mentions)
+---------gold clusters--------
+4 7 0 1 | { 'its' 'The restaurant operator' 'Bob Evans Inc.' 'its' }
+6 2 | { 'The program' 'the purchase of as many as 500,000 shares of its common' }
+5 3 | { 'The stock , to be purchased on the open market or through privately negotiated transactions ,' 'its common' }
+(end gold clusters)

@@ -1,0 +1,54 @@
+---------gloss--------
+(0) Israeli and Palestinian negotiators will resume peace talks today after a delay caused by [3m[36m{the abduction and killing of a Jewish settler in Gaza}[0m . 
+(1) A senior Palestinian negotiator says the session will be a follow - up to one held Saturday to discuss a set of peace compromises proposed by President Clinton . 
+(2) [3m[35m{Israeli Prime Minister Ehud Barak}[0m described [3m[36m{Sunday 's killing}[0m as a serious blow to the peace process . 
+(3) [3m[35m{He}[0m called on Palestinian leader Yasser Arafat to put an end to [4m[31m{acts of violence}[0m , saying [4m[31m{they}[0m do not serve any party . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0238); part 000
+sentences:
+IsraeliisraeliJJOPER0andandCCOPER0PalestinianpalestinianJJOPER0negotiatorsnegotiatorNNSOPER0willwillMDOPER0resumeresumeVBOPER0peacepeaceNNOPER0talkstalkNNSOPER0todaytodayNNDATEPER0afterafterINOPER0aaDTOPER0delaydelayNNOPER0causedcauseVBNOPER0bybyINOPER0thetheDTOPER0abductionabductionNNOPER0andandCCOPER0killingkillingNNOPER0ofofINOPER0aaDTOPER0JewishjewishJJOPER0settlersettlerNNOPER0ininINOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators)) (VP (MD will) (VP (VB resume) (NP (NN peace) (NNS talks)) (NP (NN today)) (PP (IN after) (NP (NP (DT a) (NN delay)) (VP (VBN caused) (PP (IN by) (NP (NP (DT the) (NN abduction) (CC and) (NN killing)) (PP (IN of) (NP (DT a) (JJ Jewish) (NN settler))) (PP (IN in) (NP (NNP Gaza)))))))))) (. .)))
+AaDTOPER0seniorseniorJJOPER0PalestinianpalestinianJJOPER0negotiatornegotiatorNNOPER0sayssayVBZOPER0thetheDTOPER0sessionsessionNNOPER0willwillMDOPER0bebeVBOPER0aaDTOPER0followfollowNNOPER0--HYPHOPER0upupNNCARDINALPER0totoINCARDINALPER0oneoneCDCARDINALPER0heldholdVBNOPER0SaturdaySaturdayNNPDATEPER0totoTOOPER0discussdiscussVBOPER0aaDTOPER0setsetNNOPER0ofofINOPER0peacepeaceNNOPER0compromisescompromiseNNSOPER0proposedproposeVBNOPER0bybyINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0...OPER0(ROOT (S (NP (DT A) (JJ senior) (JJ Palestinian) (NN negotiator)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN session)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (NN follow) (HYPH -) (NN up)) (PP (IN to) (NP (NP (CD one)) (VP (VBN held) (NP (NNP Saturday)) (S (VP (TO to) (VP (VB discuss) (NP (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN peace) (NNS compromises)))) (VP (VBN proposed) (PP (IN by) (NP (NNP President) (NNP Clinton))))))))))))))))) (. .)))
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0describeddescribeVBDOPER0SundaySundayNNPDATEPER0's'sPOSOPER0killingkillingNNOPER0asasINOPER0aaDTOPER0seriousseriousJJOPER0blowblowNNOPER0totoINOPER0thetheDTOPER0peacepeaceNNOPER0processprocessNNOPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD described) (NP (NP (NNP Sunday) (POS 's)) (NN killing)) (PP (IN as) (NP (NP (DT a) (JJ serious) (NN blow)) (PP (IN to) (NP (DT the) (NN peace) (NN process)))))) (. .)))
+HehePRPOPER0calledcallVBDOPER0ononINOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0totoTOOPER0putputVBOPER0anaDTOPER0endendNNOPER0totoINOPER0actsactNNSOPER0ofofINOPER0violenceviolenceNNOPER0,,,OPER0sayingsayVBGOPER0theytheyPRPOPER0dodoVBPOPER0notnotRBOPER0serveserveVBOPER0anyanyDTOPER0partypartyNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD called) (PP (IN on) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))) (S (VP (TO to) (VP (VB put) (NP (DT an) (NN end)) (PP (IN to) (NP (NP (NNS acts)) (PP (IN of) (NP (NN violence)))))))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (VBP do) (RB not) (VP (VB serve) (NP (DT any) (NN party))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 14 until 24 headed by 15 parsed as (NP (NP (DT the) (NN abduction) (CC and) (NN killing)) (PP (IN of) (NP (DT a) (JJ Jewish) (NN settler))) (PP (IN in) (NP (NNP Gaza))))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=2 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNP Sunday) (POS 's)) (NN killing))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNS acts)) (PP (IN of) (NP (NN violence))))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NN peace) (NNS talks))
+sid=0 spanning 10 until 24 headed by 11 parsed as (NP (NP (DT a) (NN delay)) (VP (VBN caused) (PP (IN by) (NP (NP (DT the) (NN abduction) (CC and) (NN killing)) (PP (IN of) (NP (DT a) (JJ Jewish) (NN settler))) (PP (IN in) (NP (NNP Gaza)))))))
+sid=0 spanning 14 until 24 headed by 15 parsed as (NP (NP (DT the) (NN abduction) (CC and) (NN killing)) (PP (IN of) (NP (DT a) (JJ Jewish) (NN settler))) (PP (IN in) (NP (NNP Gaza))))
+sid=0 spanning 19 until 22 headed by 21 parsed as (NP (DT a) (JJ Jewish) (NN settler))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NNP Gaza))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ senior) (JJ Palestinian) (NN negotiator))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN session))
+sid=1 spanning 9 until 28 headed by 12 parsed as (NP (NP (DT a) (NN follow) (HYPH -) (NN up)) (PP (IN to) (NP (NP (CD one)) (VP (VBN held) (NP (NNP Saturday)) (S (VP (TO to) (VP (VB discuss) (NP (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN peace) (NNS compromises)))) (VP (VBN proposed) (PP (IN by) (NP (NNP President) (NNP Clinton))))))))))))
+sid=1 spanning 14 until 28 headed by 14 parsed as (NP (NP (CD one)) (VP (VBN held) (NP (NNP Saturday)) (S (VP (TO to) (VP (VB discuss) (NP (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN peace) (NNS compromises)))) (VP (VBN proposed) (PP (IN by) (NP (NNP President) (NNP Clinton))))))))))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Saturday))
+sid=1 spanning 19 until 28 headed by 20 parsed as (NP (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN peace) (NNS compromises)))) (VP (VBN proposed) (PP (IN by) (NP (NNP President) (NNP Clinton)))))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (NN peace) (NNS compromises))
+sid=1 spanning 26 until 28 headed by 27 parsed as (NP (NNP President) (NNP Clinton))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=2 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNP Sunday) (POS 's)) (NN killing))
+sid=2 spanning 6 until 8 headed by 6 parsed as (NP (NNP Sunday) (POS 's))
+sid=2 spanning 10 until 17 headed by 12 parsed as (NP (NP (DT a) (JJ serious) (NN blow)) (PP (IN to) (NP (DT the) (NN peace) (NN process))))
+sid=2 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NN peace) (NN process))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 3 until 7 headed by 6 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (DT an) (NN end))
+sid=3 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNS acts)) (PP (IN of) (NP (NN violence))))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+(end predicted mentions)
+---------gold clusters--------
+1 3 | { 'Israeli Prime Minister Ehud Barak' 'He' }
+2 0 | { 'Sunday 's killing' 'the abduction and killing of a Jewish settler in Gaza' }
+5 4 | { 'they' 'acts of violence' }
+(end gold clusters)

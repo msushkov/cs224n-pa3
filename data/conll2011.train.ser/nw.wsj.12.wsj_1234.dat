@@ -1,0 +1,96 @@
+---------gloss--------
+(0) [4m[34m{Ronald B. Koenig , 55 years old ,}[0m was named a senior managing director of the [31m{Gruntal & Co.}[0m brokerage subsidiary of this insurance and financial - services firm . 
+(1) [4m[34m{Mr. Koenig}[0m will build the corporate - finance and investment - banking business of [31m{Gruntal , which has primarily been a retail - based firm}[0m . 
+(2) [4m[34m{He}[0m was chairman and co-chief executive officer of [4m[36m{Ladenburg , Thalmann & Co.}[0m until July , when [4m[34m{he}[0m was named co-chairman of [4m[36m{the investment - banking firm}[0m along with [4m[35m{Howard L. Blum Jr. , who then became the sole chief executive}[0m . 
+(3) Yesterday , [4m[35m{Mr. Blum , 41 ,}[0m said [4m[35m{he}[0m was n't aware of plans at [4m[36m{Ladenburg}[0m to name a co-chairman to succeed [4m[34m{Mr. Koenig}[0m and said the board would need to approve any appointments or title changes . 
+(4) [4m[35m{Mr. Blum}[0m added [4m[35m{he}[0m was n't surprised [4m[34m{Mr. Koenig}[0m resigned , but [4m[34m{his}[0m departure was `` nothing that [4m[36m{we}[0m desired or worked for . '' 
+(5) [4m[34m{Mr. Koenig}[0m said : `` [4m[34m{I}[0m just got a tremendous offer from [31m{Gruntal}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1234); part 000
+sentences:
+RonaldRonaldNNPPERSONPER0B.B.NNPPERSONPER0KoenigKoenigNNPPERSONPER0,,,OPER05555CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0aaDTOPER0seniorseniorJJOPER0managingmanageVBGOPER0directordirectorNNOPER0ofofINOPER0thetheDTOPER0GruntalGruntalNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0brokeragebrokerageNNOPER0subsidiarysubsidiaryNNOPER0ofofINOPER0thisthisDTOPER0insuranceinsuranceNNOPER0andandCCOPER0financialfinancialJJOPER0--HYPHOPER0servicesserviceNNSOPER0firmfirmNNOPER0...OPER0(ROOT (S (NP (NP (NNP Ronald) (NNP B.) (NNP Koenig)) (, ,) (ADJP (NML (CD 55) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NP (DT a) (JJ senior) (VBG managing) (NN director)) (PP (IN of) (NP (NP (DT the) (NML (NNP Gruntal) (CC &) (NNP Co.)) (NN brokerage) (NN subsidiary)) (PP (IN of) (NP (DT this) (NN insurance)))))) (CC and) (NP (NML (JJ financial) (HYPH -) (NNS services)) (NN firm)))))) (. .)))
+Mr.Mr.NNPOPER0KoenigKoenigNNPPERSONPER0willwillMDOPER0buildbuildVBOPER0thetheDTOPER0corporatecorporateJJOPER0--HYPHOPER0financefinanceNNOPER0andandCCOPER0investmentinvestmentNNOPER0--HYPHOPER0bankingbankingNNOPER0businessbusinessNNOPER0ofofINOPER0GruntalGruntalNNPORGPER0,,,OPER0whichwhichWDTOPER0hashaveVBZOPER0primarilyprimarilyRBOPER0beenbeVBNOPER0aaDTOPER0retailretailNNOPER0--HYPHOPER0basedbaseVBNOPER0firmfirmNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Koenig)) (VP (MD will) (VP (VB build) (NP (NP (DT the) (NML (NML (JJ corporate) (HYPH -) (NN finance)) (CC and) (NML (NN investment) (HYPH -) (NN banking))) (NN business)) (PP (IN of) (NP (NP (NNP Gruntal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB primarily)) (VP (VBN been) (NP (DT a) (ADJP (NN retail) (HYPH -) (VBN based)) (NN firm))))))))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0chairmanchairmanNNOPER0andandCCOPER0co-chiefco-chiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0LadenburgLadenburgNNPORGPER0,,,ORGPER0ThalmannThalmannNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0untiluntilINOPER0JulyJulyNNPDATEPER0,,,OPER0whenwhenWRBOPER0hehePRPOPER0wasbeVBDOPER0namednameVBNOPER0co-chairmanco-chairmanNNOPER0ofofINOPER0thetheDTOPER0investmentinvestmentNNOPER0--HYPHOPER0bankingbankingNNOPER0firmfirmNNOPER0alongalongINOPER0withwithINOPER0HowardHowardNNPPERSONPER0L.L.NNPPERSONPER0BlumBlumNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER0whowhoWPOPER0thenthenRBOPER0becamebecomeVBDOPER0thetheDTOPER0solesoleJJOPER0chiefchiefNNOPER0executiveexecutiveNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ co-chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Ladenburg) (, ,) (NNP Thalmann) (CC &) (NNP Co.)))) (PP (IN until) (NP (NP (NNP July)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN named) (NP (NP (NN co-chairman)) (PP (IN of) (NP (NP (DT the) (NML (NN investment) (HYPH -) (NN banking)) (NN firm)) (PP (IN along) (PP (IN with) (NP (NP (NNP Howard) (NNP L.) (NNP Blum) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB then)) (VP (VBD became) (NP (DT the) (JJ sole) (NN chief) (NN executive)))))))))))))))))) (. .)))
+YesterdayyesterdayNNDATEPER0,,,OPER0Mr.Mr.NNPOPER0BlumBlumNNPPERSONPER0,,,OPER04141CDDATEPER0,,,OPER0saidsayVBDOPER0hehePRPOPER0wasbeVBDOPER0n'tnotRBOPER0awareawareJJOPER0ofofINOPER0plansplanNNSOPER0atatINOPER0LadenburgLadenburgNNPORGPER0totoTOOPER0namenameVBOPER0aaDTOPER0co-chairmanco-chairmanNNOPER0totoTOOPER0succeedsucceedVBOPER0Mr.Mr.NNPOPER0KoenigKoenigNNPPERSONPER0andandCCOPER0saidsayVBDOPER0thetheDTOPER0boardboardNNOPER0wouldwouldMDOPER0needneedVBOPER0totoTOOPER0approveapproveVBOPER0anyanyDTOPER0appointmentsappointmentNNSOPER0ororCCOPER0titletitleNNOPER0changeschangeNNSOPER0...OPER0(ROOT (S (NP (NN Yesterday)) (, ,) (NP (NP (NNP Mr.) (NNP Blum)) (, ,) (NP (CD 41)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD was) (RB n't) (ADJP (JJ aware) (PP (IN of) (NP (NP (NNS plans)) (PP (IN at) (NP (NNP Ladenburg))) (S (VP (TO to) (VP (VB name) (NP (DT a) (NN co-chairman)) (S (VP (VP (TO to) (VP (VB succeed) (NP (NNP Mr.) (NNP Koenig)))) (CC and) (VP (VBD said) (SBAR (S (NP (DT the) (NN board)) (VP (MD would) (VP (VB need) (S (VP (TO to) (VP (VB approve) (NP (DT any) (NML (NNS appointments) (CC or) (NN title)) (NNS changes)))))))))))))))))))))) (. .)))
+Mr.Mr.NNPOPER0BlumBlumNNPPERSONPER0addedaddVBDOPER0hehePRPOPER0wasbeVBDOPER0n'tnotRBOPER0surprisedsurprisedJJOPER0Mr.Mr.NNPOPER0KoenigKoenigNNPPERSONPER0resignedresignVBDOPER0,,,OPER0butbutCCOPER0hishePRP$OPER0departuredepartureNNOPER0wasbeVBDOPER0``````OnothingnothingNNOPER1thatthatWDTOPER1wewePRPOPER1desireddesireVBDOPER1ororCCOPER1workedworkVBDOPER1forforINOPER1...OPER1''''''OPER0(ROOT (S (S (NP (NNP Mr.) (NNP Blum)) (VP (VBD added) (SBAR (S (NP (PRP he)) (VP (VBD was) (RB n't) (ADJP (JJ surprised) (SBAR (S (NP (NNP Mr.) (NNP Koenig)) (VP (VBD resigned)))))))))) (, ,) (CC but) (S (NP (PRP$ his) (NN departure)) (VP (VBD was) (`` ``) (NP (NP (NN nothing)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBD desired) (CC or) (VBD worked) (PP (IN for)))))))) (. .) ('' '')))
+Mr.Mr.NNPOPER0KoenigKoenigNNPPERSONPER0saidsayVBDOPER0:::OPER0``````OIIPRPOPER2justjustRBOPER2gotgetVBPOPER2aaDTOPER2tremendoustremendousJJOPER2offerofferNNOPER2fromfromINOPER2GruntalGruntalNNPORGPER2...OPER2(ROOT (S (NP (NNP Mr.) (NNP Koenig)) (VP (VBD said) (: :) (`` ``) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP got) (NP (NP (DT a) (JJ tremendous) (NN offer)) (PP (IN from) (NP (NNP Gruntal))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Ronald) (NNP B.) (NNP Koenig)) (, ,) (ADJP (NML (CD 55) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 16 until 19 headed by 16 parsed as Gruntal
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Koenig))
+sid=1 spanning 14 until 25 headed by 14 parsed as (NP (NP (NNP Gruntal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB primarily)) (VP (VBN been) (NP (DT a) (ADJP (NN retail) (HYPH -) (VBN based)) (NN firm)))))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 8 until 13 headed by 8 parsed as (NP (NNP Ladenburg) (, ,) (NNP Thalmann) (CC &) (NNP Co.))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (PRP he))
+sid=2 spanning 22 until 27 headed by 26 parsed as (NP (NP (DT the) (NML (NN investment) (HYPH -) (NN banking)) (NN firm)) (PP (IN along) (PP (IN with) (NP (NP (NNP Howard) (NNP L.) (NNP Blum) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB then)) (VP (VBD became) (NP (DT the) (JJ sole) (NN chief) (NN executive)))))))))
+sid=2 spanning 29 until 41 headed by 32 parsed as (NP (NP (NNP Howard) (NNP L.) (NNP Blum) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB then)) (VP (VBD became) (NP (DT the) (JJ sole) (NN chief) (NN executive))))))
+sid=3 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP Mr.) (NNP Blum)) (, ,) (NP (CD 41)) (, ,))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (NNP Ladenburg))
+sid=3 spanning 22 until 24 headed by 23 parsed as (NP (NNP Mr.) (NNP Koenig))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Blum))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NNP Mr.) (NNP Koenig))
+sid=4 spanning 12 until 13 headed by 12 parsed as his
+sid=4 spanning 18 until 19 headed by 18 parsed as (NP (PRP we))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Koenig))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNP Gruntal))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Ronald) (NNP B.) (NNP Koenig)) (, ,) (ADJP (NML (CD 55) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Ronald) (NNP B.) (NNP Koenig)) (, ,) (ADJP (NML (CD 55) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 4 until 7 headed by 6 parsed as old
+sid=0 spanning 10 until 29 headed by 13 parsed as (NP (NP (NP (DT a) (JJ senior) (VBG managing) (NN director)) (PP (IN of) (NP (NP (DT the) (NML (NNP Gruntal) (CC &) (NNP Co.)) (NN brokerage) (NN subsidiary)) (PP (IN of) (NP (DT this) (NN insurance)))))) (CC and) (NP (NML (JJ financial) (HYPH -) (NNS services)) (NN firm)))
+sid=0 spanning 10 until 24 headed by 13 parsed as (NP (NP (DT a) (JJ senior) (VBG managing) (NN director)) (PP (IN of) (NP (NP (DT the) (NML (NNP Gruntal) (CC &) (NNP Co.)) (NN brokerage) (NN subsidiary)) (PP (IN of) (NP (DT this) (NN insurance))))))
+sid=0 spanning 15 until 24 headed by 20 parsed as (NP (NP (DT the) (NML (NNP Gruntal) (CC &) (NNP Co.)) (NN brokerage) (NN subsidiary)) (PP (IN of) (NP (DT this) (NN insurance))))
+sid=0 spanning 16 until 19 headed by 16 parsed as Gruntal
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (DT this) (NN insurance))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Koenig))
+sid=1 spanning 4 until 25 headed by 12 parsed as (NP (NP (DT the) (NML (NML (JJ corporate) (HYPH -) (NN finance)) (CC and) (NML (NN investment) (HYPH -) (NN banking))) (NN business)) (PP (IN of) (NP (NP (NNP Gruntal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB primarily)) (VP (VBN been) (NP (DT a) (ADJP (NN retail) (HYPH -) (VBN based)) (NN firm)))))))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NP (NNP Gruntal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB primarily)) (VP (VBN been) (NP (DT a) (ADJP (NN retail) (HYPH -) (VBN based)) (NN firm)))))))
+sid=1 spanning 14 until 25 headed by 14 parsed as (NP (NP (NNP Gruntal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB primarily)) (VP (VBN been) (NP (DT a) (ADJP (NN retail) (HYPH -) (VBN based)) (NN firm)))))))
+sid=1 spanning 20 until 25 headed by 24 parsed as (NP (DT a) (ADJP (NN retail) (HYPH -) (VBN based)) (NN firm))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 13 headed by 2 parsed as (NP (NP (NP (NN chairman)) (CC and) (NP (JJ co-chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Ladenburg) (, ,) (NNP Thalmann) (CC &) (NNP Co.))))
+sid=2 spanning 8 until 13 headed by 8 parsed as (NP (NNP Ladenburg) (, ,) (NNP Thalmann) (CC &) (NNP Co.))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NP (NNP July)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN named) (NP (NP (NN co-chairman)) (PP (IN of) (NP (NP (DT the) (NML (NN investment) (HYPH -) (NN banking)) (NN firm)) (PP (IN along) (PP (IN with) (NP (NP (NNP Howard) (NNP L.) (NNP Blum) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB then)) (VP (VBD became) (NP (DT the) (JJ sole) (NN chief) (NN executive))))))))))))))))
+sid=2 spanning 14 until 41 headed by 14 parsed as (NP (NP (NNP July)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN named) (NP (NP (NN co-chairman)) (PP (IN of) (NP (NP (DT the) (NML (NN investment) (HYPH -) (NN banking)) (NN firm)) (PP (IN along) (PP (IN with) (NP (NP (NNP Howard) (NNP L.) (NNP Blum) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB then)) (VP (VBD became) (NP (DT the) (JJ sole) (NN chief) (NN executive))))))))))))))))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (PRP he))
+sid=2 spanning 20 until 41 headed by 20 parsed as (NP (NP (NN co-chairman)) (PP (IN of) (NP (NP (DT the) (NML (NN investment) (HYPH -) (NN banking)) (NN firm)) (PP (IN along) (PP (IN with) (NP (NP (NNP Howard) (NNP L.) (NNP Blum) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB then)) (VP (VBD became) (NP (DT the) (JJ sole) (NN chief) (NN executive)))))))))))
+sid=2 spanning 22 until 41 headed by 26 parsed as (NP (NP (DT the) (NML (NN investment) (HYPH -) (NN banking)) (NN firm)) (PP (IN along) (PP (IN with) (NP (NP (NNP Howard) (NNP L.) (NNP Blum) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB then)) (VP (VBD became) (NP (DT the) (JJ sole) (NN chief) (NN executive)))))))))
+sid=2 spanning 29 until 33 headed by 32 parsed as (NP (NP (NNP Howard) (NNP L.) (NNP Blum) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB then)) (VP (VBD became) (NP (DT the) (JJ sole) (NN chief) (NN executive))))))
+sid=2 spanning 29 until 41 headed by 32 parsed as (NP (NP (NNP Howard) (NNP L.) (NNP Blum) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB then)) (VP (VBD became) (NP (DT the) (JJ sole) (NN chief) (NN executive))))))
+sid=2 spanning 37 until 41 headed by 40 parsed as (NP (DT the) (JJ sole) (NN chief) (NN executive))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NN Yesterday))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NP (NNP Mr.) (NNP Blum)) (, ,) (NP (CD 41)) (, ,))
+sid=3 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP Mr.) (NNP Blum)) (, ,) (NP (CD 41)) (, ,))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NNP Mr.) (NNP Blum))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (CD 41))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=3 spanning 13 until 37 headed by 13 parsed as (NP (NP (NNS plans)) (PP (IN at) (NP (NNP Ladenburg))) (S (VP (TO to) (VP (VB name) (NP (DT a) (NN co-chairman)) (S (VP (VP (TO to) (VP (VB succeed) (NP (NNP Mr.) (NNP Koenig)))) (CC and) (VP (VBD said) (SBAR (S (NP (DT the) (NN board)) (VP (MD would) (VP (VB need) (S (VP (TO to) (VP (VB approve) (NP (DT any) (NML (NNS appointments) (CC or) (NN title)) (NNS changes))))))))))))))))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (NNP Ladenburg))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (DT a) (NN co-chairman))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (NNP Mr.) (NNP Koenig))
+sid=3 spanning 22 until 24 headed by 23 parsed as (NP (NNP Mr.) (NNP Koenig))
+sid=3 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NN board))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Blum))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NNP Mr.) (NNP Koenig))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (PRP$ his) (NN departure))
+sid=4 spanning 12 until 13 headed by 12 parsed as (PRP$ his)
+sid=4 spanning 18 until 19 headed by 18 parsed as (NP (PRP we))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Koenig))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=5 spanning 8 until 13 headed by 10 parsed as (NP (NP (DT a) (JJ tremendous) (NN offer)) (PP (IN from) (NP (NNP Gruntal))))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNP Gruntal))
+(end predicted mentions)
+---------gold clusters--------
+12 4 6 15 19 2 18 0 16 | { 'Mr. Koenig' 'He' 'he' 'Mr. Koenig' 'I' 'Mr. Koenig' 'Mr. Koenig' 'Ronald B. Koenig , 55 years old ,' 'his' }
+9 14 13 10 8 | { 'Mr. Blum , 41 ,' 'he' 'Mr. Blum' 'he' 'Howard L. Blum Jr. , who then became the sole chief executive' }
+5 11 17 7 | { 'Ladenburg , Thalmann & Co.' 'Ladenburg' 'we' 'the investment - banking firm' }
+3 1 20 | { 'Gruntal , which has primarily been a retail - based firm' 'Gruntal & Co.' 'Gruntal' }
+(end gold clusters)

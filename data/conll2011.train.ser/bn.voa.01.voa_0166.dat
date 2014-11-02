@@ -1,0 +1,29 @@
+---------gloss--------
+(0) [4m[35m{Russian President Vladimir Putin}[0m is set to meet with Cuban President Fidel Castro in Havana today . 
+(1) [4m[35m{The Russian leader}[0m is expected to discuss the possibility of collecting some of the billions of dollars in Soviet era debt still owed to Moscow by Cuba . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0166); part 000
+sentences:
+RussianrussianJJOPER0PresidentPresidentNNPOPER0VladimirVladimirNNPPERSONPER0PutinPutinNNPPERSONPER0isbeVBZOPER0setsetVBNOPER0totoTOOPER0meetmeetVBOPER0withwithINOPER0CubanCubanNNPOPER0PresidentPresidentNNPOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0ininINOPER0HavanaHavanaNNPGPEPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin)) (VP (VBZ is) (VP (VBN set) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (NP (NML (NNP Cuban) (NNP President)) (NNP Fidel) (NNP Castro)) (PP (IN in) (NP (NNP Havana))))) (NP (NN today))))))) (. .)))
+ThetheDTOPER0RussianrussianJJOPER0leaderleaderNNOPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0discussdiscussVBOPER0thetheDTOPER0possibilitypossibilityNNOPER0ofofINOPER0collectingcollectVBGOPER0somesomeDTOPER0ofofINOPER0thetheDTMONEYPER0billionsbillionNNSMONEYPER0ofofINMONEYPER0dollarsdollarNNSMONEYPER0ininINOPER0SovietSovietNNPOPER0eraeraNNOPER0debtdebtNNOPER0stillstillRBOPER0owedoweVBNOPER0totoINOPER0MoscowMoscowNNPGPEPER0bybyINOPER0CubaCubaNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (JJ Russian) (NN leader)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB discuss) (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG collecting) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS billions)) (PP (IN of) (NP (NNS dollars))) (PP (IN in) (NP (NP (NML (NNP Soviet) (NN era)) (NN debt)) (VP (ADVP (RB still)) (VBN owed) (PP (IN to) (NP (NNP Moscow))) (PP (IN by) (NP (NNP Cuba)))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Russian) (NN leader))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin))
+sid=0 spanning 9 until 15 headed by 12 parsed as (NP (NP (NML (NNP Cuban) (NNP President)) (NNP Fidel) (NNP Castro)) (PP (IN in) (NP (NNP Havana))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNP Havana))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Russian) (NN leader))
+sid=1 spanning 7 until 27 headed by 8 parsed as (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG collecting) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS billions)) (PP (IN of) (NP (NNS dollars))) (PP (IN in) (NP (NP (NML (NNP Soviet) (NN era)) (NN debt)) (VP (ADVP (RB still)) (VBN owed) (PP (IN to) (NP (NNP Moscow))) (PP (IN by) (NP (NNP Cuba)))))))))))))
+sid=1 spanning 11 until 27 headed by 11 parsed as (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS billions)) (PP (IN of) (NP (NNS dollars))) (PP (IN in) (NP (NP (NML (NNP Soviet) (NN era)) (NN debt)) (VP (ADVP (RB still)) (VBN owed) (PP (IN to) (NP (NNP Moscow))) (PP (IN by) (NP (NNP Cuba)))))))))
+sid=1 spanning 18 until 27 headed by 20 parsed as (NP (NP (NML (NNP Soviet) (NN era)) (NN debt)) (VP (ADVP (RB still)) (VBN owed) (PP (IN to) (NP (NNP Moscow))) (PP (IN by) (NP (NNP Cuba)))))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNP Moscow))
+sid=1 spanning 26 until 27 headed by 26 parsed as (NP (NNP Cuba))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Russian President Vladimir Putin' 'The Russian leader' }
+(end gold clusters)

@@ -1,0 +1,41 @@
+---------gloss--------
+(0) Yugoslav President Vojislav Kostunica held [3m[31m{a top level meeting}[0m Saturday near the Kosovo border concerning ethnic violence in [3m[33m{Serbia 's Presovo Valley region}[0m . 
+(1) [3m[31m{The meeting with federal and Serb officials}[0m was held amid concerns that [3m[32m{armed Albanian rebels}[0m are strengthening [3m[32m{their}[0m presence in [3m[33m{the region}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0173); part 000
+sentences:
+YugoslavyugoslavJJOPER0PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0heldholdVBDOPER0aaDTOPER0toptopJJOPER0levellevelNNOPER0meetingmeetingNNOPER0SaturdaySaturdayNNPDATEPER0nearnearINOPER0thetheDTOPER0KosovoKosovoNNPGPEPER0borderborderNNOPER0concerningconcernVBGOPER0ethnicethnicJJOPER0violenceviolenceNNOPER0ininINOPER0SerbiaSerbiaNNPGPEPER0's'sPOSOPER0PresovoPresovoNNPLOCPER0ValleyValleyNNPLOCPER0regionregionNNOPER0...OPER0(ROOT (S (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica)) (VP (VBD held) (NP (NP (DT a) (NML (JJ top) (NN level)) (NN meeting)) (NP (NNP Saturday))) (PP (IN near) (NP (DT the) (NNP Kosovo) (NN border))) (PP (VBG concerning) (NP (NP (JJ ethnic) (NN violence)) (PP (IN in) (NP (NP (NNP Serbia) (POS 's)) (NML (NNP Presovo) (NNP Valley)) (NN region)))))) (. .)))
+ThetheDTOPER0meetingmeetingNNOPER0withwithINOPER0federalfederalJJOPER0andandCCOPER0SerbSerbNNPOPER0officialsofficialNNSOPER0wasbeVBDOPER0heldholdVBNOPER0amidamidINOPER0concernsconcernNNSOPER0thatthatINOPER0armedarmedJJOPER0AlbanianalbanianJJOPER0rebelsrebelNNSOPER0arebeVBPOPER0strengtheningstrengthenVBGOPER0theirtheyPRP$OPER0presencepresenceNNOPER0ininINOPER0thetheDTOPER0regionregionNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN meeting)) (PP (IN with) (NP (ADJP (JJ federal) (CC and) (NNP Serb)) (NNS officials)))) (VP (VBD was) (VP (VBN held) (PP (IN amid) (NP (NNS concerns) (SBAR (IN that) (S (NP (ADJP (JJ armed) (JJ Albanian)) (NNS rebels)) (VP (VBP are) (S (VP (VBG strengthening) (NP (NP (PRP$ their) (NN presence)) (PP (IN in) (NP (DT the) (NN region))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 9 headed by 8 parsed as (NP (NP (DT a) (NML (JJ top) (NN level)) (NN meeting)) (NP (NNP Saturday)))
+sid=0 spanning 18 until 23 headed by 22 parsed as (NP (NP (NNP Serbia) (POS 's)) (NML (NNP Presovo) (NNP Valley)) (NN region))
+sid=1 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN meeting)) (PP (IN with) (NP (ADJP (JJ federal) (CC and) (NNP Serb)) (NNS officials))))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (ADJP (JJ armed) (JJ Albanian)) (NNS rebels))
+sid=1 spanning 17 until 18 headed by 17 parsed as their
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN region))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 5 until 10 headed by 8 parsed as (NP (NP (DT a) (NML (JJ top) (NN level)) (NN meeting)) (NP (NNP Saturday)))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Saturday))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP Kosovo) (NN border))
+sid=0 spanning 12 until 13 headed by 12 parsed as Kosovo
+sid=0 spanning 18 until 23 headed by 22 parsed as (NP (NP (NNP Serbia) (POS 's)) (NML (NNP Presovo) (NNP Valley)) (NN region))
+sid=0 spanning 18 until 20 headed by 18 parsed as (NP (NNP Serbia) (POS 's))
+sid=0 spanning 20 until 22 headed by 21 parsed as Valley
+sid=1 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN meeting)) (PP (IN with) (NP (ADJP (JJ federal) (CC and) (NNP Serb)) (NNS officials))))
+sid=1 spanning 3 until 7 headed by 6 parsed as (NP (ADJP (JJ federal) (CC and) (NNP Serb)) (NNS officials))
+sid=1 spanning 10 until 22 headed by 10 parsed as (NP (NNS concerns) (SBAR (IN that) (S (NP (ADJP (JJ armed) (JJ Albanian)) (NNS rebels)) (VP (VBP are) (S (VP (VBG strengthening) (NP (NP (PRP$ their) (NN presence)) (PP (IN in) (NP (DT the) (NN region))))))))))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (ADJP (JJ armed) (JJ Albanian)) (NNS rebels))
+sid=1 spanning 17 until 22 headed by 18 parsed as (NP (NP (PRP$ their) (NN presence)) (PP (IN in) (NP (DT the) (NN region))))
+sid=1 spanning 17 until 18 headed by 17 parsed as (PRP$ their)
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN region))
+(end predicted mentions)
+---------gold clusters--------
+2 0 | { 'The meeting with federal and Serb officials' 'a top level meeting' }
+4 3 | { 'their' 'armed Albanian rebels' }
+5 1 | { 'the region' 'Serbia 's Presovo Valley region' }
+(end gold clusters)

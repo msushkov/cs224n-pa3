@@ -1,0 +1,130 @@
+---------gloss--------
+(0) [32m{The state attorney general 's}[0m office filed [35m{suit}[0m against [4m[32m{five New York brokerage firms}[0m , charging [4m[32m{them}[0m with responsibility for much of [31m{a $ 200 million loss incurred by the state treasurer 's office in 1987}[0m . 
+(1) [35m{The suit}[0m sets [4m[32m{the firms '}[0m liability at more than $ 185 million . 
+(2) [4m[32m{The firms}[0m are Morgan Stanley & Co. , Salomon Brothers Inc. , County Natwest Government Securities Inc. , Greenwich Capital Markets Inc. and Goldman , Sachs & Co . 
+(3) [4m[32m{The firms}[0m have all said that [4m[34m{West Virginia 's}[0m suit is without merit . 
+(4) On Friday , [4m[32m{the firms}[0m filed [4m[31m{a suit}[0m against [4m[34m{West Virginia}[0m in [33m{New York}[0m state court asking for a declaratory judgment absolving [4m[32m{them}[0m of liability . 
+(5) [4m[31m{That suit}[0m is pending . 
+(6) The suits relate to [31m{a $ 200 million loss , disclosed in December , that was suffered by West Virginia 's consolidated investment pool}[0m . 
+(7) [4m[35m{The pool}[0m invested idle cash for many state agencies and local governments . 
+(8) In [4m[33m{its}[0m suit , [32m{the attorney general 's}[0m office alleges that [34m{brokers}[0m encouraged members of [3m[36m{the treasurer 's}[0m office to engage in high - volume , high - risk transactions that benefited [34m{the brokers}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1130); part 000
+sentences:
+ThetheDTOPER0statestateNNOPER0attorneyattorneyNNOPER0generalgeneralNNOPER0's'sPOSOPER0officeofficeNNOPER0filedfileVBDOPER0suitsuitNNOPER0againstagainstINOPER0fivefiveCDCARDINALPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0brokeragebrokerageNNOPER0firmsfirmNNSOPER0,,,OPER0chargingchargeVBGOPER0themtheyPRPOPER0withwithINOPER0responsibilityresponsibilityNNOPER0forforINOPER0muchmuchJJOPER0ofofINOPER0aaDTOPER0$$$MONEYPER0200200CDMONEYPER0millionmillionCDMONEYPER0losslossNNOPER0incurredincurVBNOPER0bybyINOPER0thetheDTOPER0statestateNNOPER0treasurertreasurerNNOPER0's'sPOSOPER0officeofficeNNOPER0ininINOPER019871987CDDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN state) (NN attorney) (NN general) (POS 's)) (NN office)) (VP (VBD filed) (NP (NN suit)) (PP (IN against) (NP (CD five) (NML (NNP New) (NNP York)) (NN brokerage) (NNS firms))) (, ,) (S (VP (VBG charging) (NP (PRP them)) (PP (IN with) (NP (NP (NN responsibility)) (PP (IN for) (NP (NP (JJ much)) (PP (IN of) (NP (NP (DT a) (NML (QP ($ $) (CD 200) (CD million))) (NN loss)) (VP (VBN incurred) (PP (IN by) (NP (NP (NP (DT the) (NN state) (NN treasurer) (POS 's)) (NN office)) (PP (IN in) (NP (CD 1987))))))))))))))) (. .)))
+ThetheDTOPER0suitsuitNNOPER0setssetVBZOPER0thetheDTOPER0firmsfirmNNSOPER0''POSOPER0liabilityliabilityNNOPER0atatINOPER0moremoreJJRMONEYPER0thanthanINMONEYPER0$$$MONEYPER0185185CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (DT The) (NN suit)) (VP (VBZ sets) (NP (NP (DT the) (NNS firms) (POS ')) (NN liability)) (PP (IN at) (NP (QP (JJR more) (IN than) ($ $) (CD 185) (CD million))))) (. .)))
+ThetheDTOPER0firmsfirmNNSOPER0arebeVBPOPER0MorganMorganNNPORGPER0StanleyStanleyNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0,,,OPER0SalomonSalomonNNPORGPER0BrothersBrothersNNPSORGPER0Inc.Inc.NNPORGPER0,,,OPER0CountyCountyNNPORGPER0NatwestNatwestNNPORGPER0GovernmentGovernmentNNPORGPER0SecuritiesSecuritiesNNPSORGPER0Inc.Inc.NNPORGPER0,,,OPER0GreenwichGreenwichNNPORGPER0CapitalCapitalNNPORGPER0MarketsMarketsNNPORGPER0Inc.Inc.NNPORGPER0andandCCOPER0GoldmanGoldmanNNPORGPER0,,,ORGPER0SachsSachsNNPORGPER0&&CCORGPER0CoCoNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NNS firms)) (VP (VBP are) (NP (NP (NNP Morgan) (NNP Stanley) (CC &) (NNP Co.)) (, ,) (NP (NNP Salomon) (NNPS Brothers) (NNP Inc.)) (, ,) (NP (NNP County) (NNP Natwest) (NNP Government) (NNPS Securities) (NNP Inc.)) (, ,) (NP (NNP Greenwich) (NNP Capital) (NNP Markets) (NNP Inc.)) (CC and) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co)))) (. .)))
+ThetheDTOPER0firmsfirmNNSOPER0havehaveVBPOPER0allallDTOPER0saidsayVBNOPER0thatthatINOPER0WestWestNNPGPEPER0VirginiaVirginiaNNPGPEPER0's'sPOSGPEPER0suitsuitNNOPER0isbeVBZOPER0withoutwithoutINOPER0meritmeritNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS firms)) (VP (VBP have) (DT all) (VP (VBN said) (SBAR (IN that) (S (NP (NP (NNP West) (NNP Virginia) (POS 's)) (NN suit)) (VP (VBZ is) (PP (IN without) (NP (NN merit)))))))) (. .)))
+OnonINOPER0FridayFridayNNPDATEPER0,,,OPER0thetheDTOPER0firmsfirmNNSOPER0filedfileVBDOPER0aaDTOPER0suitsuitNNOPER0againstagainstINOPER0WestWestNNPGPEPER0VirginiaVirginiaNNPGPEPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0statestateNNOPER0courtcourtNNOPER0askingaskVBGOPER0forforINOPER0aaDTOPER0declaratorydeclaratoryJJOPER0judgmentjudgmentNNOPER0absolvingabsolveVBGOPER0themtheyPRPOPER0ofofINOPER0liabilityliabilityNNOPER0...OPER0(ROOT (S (PP (IN On) (NP (NNP Friday))) (, ,) (NP (DT the) (NNS firms)) (VP (VBD filed) (NP (NP (DT a) (NN suit)) (PP (IN against) (NP (NNP West) (NNP Virginia)))) (PP (IN in) (NP (NML (NNP New) (NNP York)) (NN state) (NN court))) (S (VP (VBG asking) (PP (IN for) (NP (NP (DT a) (JJ declaratory) (NN judgment)) (VP (VBG absolving) (NP (PRP them))) (PP (IN of) (NP (NN liability)))))))) (. .)))
+ThatthatDTOPER0suitsuitNNOPER0isbeVBZOPER0pendingpendVBGOPER0...OPER0(ROOT (S (NP (DT That) (NN suit)) (VP (VBZ is) (VP (VBG pending))) (. .)))
+ThetheDTOPER0suitssuitNNSOPER0relaterelateVBPOPER0totoINOPER0aaDTOPER0$$$MONEYPER0200200CDMONEYPER0millionmillionCDMONEYPER0losslossNNOPER0,,,OPER0discloseddiscloseVBNOPER0ininINOPER0DecemberDecemberNNPDATEPER0,,,OPER0thatthatWDTOPER0wasbeVBDOPER0sufferedsufferVBNOPER0bybyINOPER0WestWestNNPGPEPER0VirginiaVirginiaNNPGPEPER0's'sPOSGPEPER0consolidatedconsolidatedJJOPER0investmentinvestmentNNOPER0poolpoolNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS suits)) (VP (VBP relate) (PP (IN to) (NP (NP (DT a) (NML (QP ($ $) (CD 200) (CD million))) (NN loss)) (, ,) (VP (VBN disclosed) (PP (IN in) (NP (NP (NNP December)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN suffered) (PP (IN by) (NP (NP (NNP West) (NNP Virginia) (POS 's)) (JJ consolidated) (NN investment) (NN pool))))))))))))) (. .)))
+ThetheDTOPER0poolpoolNNOPER0investedinvestVBDOPER0idleidleJJOPER0cashcashNNOPER0forforINOPER0manymanyJJOPER0statestateNNOPER0agenciesagencyNNSOPER0andandCCOPER0locallocalJJOPER0governmentsgovernmentNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN pool)) (VP (VBD invested) (NP (NP (JJ idle) (NN cash)) (PP (IN for) (NP (NP (JJ many) (NN state) (NNS agencies)) (CC and) (NP (JJ local) (NNS governments)))))) (. .)))
+IninINOPER0itsitsPRP$OPER0suitsuitNNOPER0,,,OPER0thetheDTOPER0attorneyattorneyNNOPER0generalgeneralNNOPER0's'sPOSOPER0officeofficeNNOPER0allegesallegeVBZOPER0thatthatINOPER0brokersbrokerNNSOPER0encouragedencourageVBDOPER0membersmemberNNSOPER0ofofINOPER0thetheDTOPER0treasurertreasurerNNOPER0's'sPOSOPER0officeofficeNNOPER0totoTOOPER0engageengageVBOPER0ininINOPER0highhighJJOPER0--HYPHOPER0volumevolumeNNOPER0,,,OPER0highhighJJOPER0--HYPHOPER0riskriskNNOPER0transactionstransactionNNSOPER0thatthatINOPER0benefitedbenefitVBDOPER0thetheDTOPER0brokersbrokerNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (PRP$ its) (NN suit))) (, ,) (NP (NP (DT the) (NN attorney) (NN general) (POS 's)) (NN office)) (VP (VBZ alleges) (SBAR (IN that) (S (NP (NNS brokers)) (VP (VBD encouraged) (NP (NP (NNS members)) (PP (IN of) (NP (NP (DT the) (NN treasurer) (POS 's)) (NN office)))) (S (VP (TO to) (VP (VB engage) (PP (IN in) (NP (NML (JJ high) (HYPH -) (NN volume)) (, ,) (NML (JJ high) (HYPH -) (NN risk)) (NNS transactions))) (SBAR (IN that) (S (VP (VBD benefited) (NP (DT the) (NNS brokers)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NP (DT The) (NN state) (NN attorney) (NN general) (POS 's)) (NN office))
+sid=0 spanning 0 until 5 headed by 3 parsed as (NP (DT The) (NN state) (NN attorney) (NN general) (POS 's))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NN suit))
+sid=0 spanning 9 until 14 headed by 13 parsed as (NP (CD five) (NML (NNP New) (NNP York)) (NN brokerage) (NNS firms))
+sid=0 spanning 10 until 12 headed by 11 parsed as York
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (PRP them))
+sid=0 spanning 22 until 36 headed by 26 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 200) (CD million))) (NN loss)) (VP (VBN incurred) (PP (IN by) (NP (NP (NP (DT the) (NN state) (NN treasurer) (POS 's)) (NN office)) (PP (IN in) (NP (CD 1987)))))))
+sid=0 spanning 29 until 34 headed by 33 parsed as (NP (NP (NP (DT the) (NN state) (NN treasurer) (POS 's)) (NN office)) (PP (IN in) (NP (CD 1987))))
+sid=0 spanning 29 until 33 headed by 31 parsed as (NP (DT the) (NN state) (NN treasurer) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN suit))
+sid=1 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NNS firms) (POS '))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS firms))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS firms))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (NP (NNP West) (NNP Virginia) (POS 's)) (NN suit))
+sid=3 spanning 6 until 9 headed by 7 parsed as (NP (NNP West) (NNP Virginia) (POS 's))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS firms))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (NP (DT a) (NN suit)) (PP (IN against) (NP (NNP West) (NNP Virginia))))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (NNP West) (NNP Virginia))
+sid=4 spanning 12 until 14 headed by 13 parsed as York
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (PRP them))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN suit))
+sid=6 spanning 4 until 24 headed by 8 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 200) (CD million))) (NN loss)) (, ,) (VP (VBN disclosed) (PP (IN in) (NP (NP (NNP December)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN suffered) (PP (IN by) (NP (NP (NNP West) (NNP Virginia) (POS 's)) (JJ consolidated) (NN investment) (NN pool)))))))))))
+sid=6 spanning 18 until 24 headed by 23 parsed as (NP (NP (NNP West) (NNP Virginia) (POS 's)) (JJ consolidated) (NN investment) (NN pool))
+sid=6 spanning 18 until 21 headed by 19 parsed as (NP (NNP West) (NNP Virginia) (POS 's))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN pool))
+sid=8 spanning 1 until 3 headed by 2 parsed as (NP (PRP$ its) (NN suit))
+sid=8 spanning 1 until 2 headed by 1 parsed as its
+sid=8 spanning 4 until 9 headed by 8 parsed as (NP (NP (DT the) (NN attorney) (NN general) (POS 's)) (NN office))
+sid=8 spanning 4 until 8 headed by 6 parsed as (NP (DT the) (NN attorney) (NN general) (POS 's))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (NNS brokers))
+sid=8 spanning 15 until 19 headed by 18 parsed as (NP (NP (DT the) (NN treasurer) (POS 's)) (NN office))
+sid=8 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN treasurer) (POS 's))
+sid=8 spanning 32 until 34 headed by 33 parsed as (NP (DT the) (NNS brokers))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NP (DT The) (NN state) (NN attorney) (NN general) (POS 's)) (NN office))
+sid=0 spanning 0 until 5 headed by 3 parsed as (NP (DT The) (NN state) (NN attorney) (NN general) (POS 's))
+sid=0 spanning 9 until 14 headed by 13 parsed as (NP (CD five) (NML (NNP New) (NNP York)) (NN brokerage) (NNS firms))
+sid=0 spanning 10 until 12 headed by 11 parsed as York
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (PRP them))
+sid=0 spanning 18 until 36 headed by 18 parsed as (NP (NP (NN responsibility)) (PP (IN for) (NP (NP (JJ much)) (PP (IN of) (NP (NP (DT a) (NML (QP ($ $) (CD 200) (CD million))) (NN loss)) (VP (VBN incurred) (PP (IN by) (NP (NP (NP (DT the) (NN state) (NN treasurer) (POS 's)) (NN office)) (PP (IN in) (NP (CD 1987)))))))))))
+sid=0 spanning 20 until 36 headed by 20 parsed as (NP (NP (JJ much)) (PP (IN of) (NP (NP (DT a) (NML (QP ($ $) (CD 200) (CD million))) (NN loss)) (VP (VBN incurred) (PP (IN by) (NP (NP (NP (DT the) (NN state) (NN treasurer) (POS 's)) (NN office)) (PP (IN in) (NP (CD 1987)))))))))
+sid=0 spanning 22 until 36 headed by 26 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 200) (CD million))) (NN loss)) (VP (VBN incurred) (PP (IN by) (NP (NP (NP (DT the) (NN state) (NN treasurer) (POS 's)) (NN office)) (PP (IN in) (NP (CD 1987)))))))
+sid=0 spanning 29 until 36 headed by 33 parsed as (NP (NP (NP (DT the) (NN state) (NN treasurer) (POS 's)) (NN office)) (PP (IN in) (NP (CD 1987))))
+sid=0 spanning 29 until 33 headed by 31 parsed as (NP (DT the) (NN state) (NN treasurer) (POS 's))
+sid=0 spanning 35 until 36 headed by 35 parsed as (NP (CD 1987))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN suit))
+sid=1 spanning 3 until 7 headed by 6 parsed as (NP (NP (DT the) (NNS firms) (POS ')) (NN liability))
+sid=1 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NNS firms) (POS '))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS firms))
+sid=2 spanning 3 until 7 headed by 4 parsed as (NP (NP (NNP Morgan) (NNP Stanley) (CC &) (NNP Co.)) (, ,) (NP (NNP Salomon) (NNPS Brothers) (NNP Inc.)) (, ,) (NP (NNP County) (NNP Natwest) (NNP Government) (NNPS Securities) (NNP Inc.)) (, ,) (NP (NNP Greenwich) (NNP Capital) (NNP Markets) (NNP Inc.)) (CC and) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co)))
+sid=2 spanning 3 until 28 headed by 4 parsed as (NP (NP (NNP Morgan) (NNP Stanley) (CC &) (NNP Co.)) (, ,) (NP (NNP Salomon) (NNPS Brothers) (NNP Inc.)) (, ,) (NP (NNP County) (NNP Natwest) (NNP Government) (NNPS Securities) (NNP Inc.)) (, ,) (NP (NNP Greenwich) (NNP Capital) (NNP Markets) (NNP Inc.)) (CC and) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co)))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (NNP Salomon) (NNPS Brothers) (NNP Inc.))
+sid=2 spanning 12 until 17 headed by 16 parsed as (NP (NNP County) (NNP Natwest) (NNP Government) (NNPS Securities) (NNP Inc.))
+sid=2 spanning 18 until 22 headed by 21 parsed as (NP (NNP Greenwich) (NNP Capital) (NNP Markets) (NNP Inc.))
+sid=2 spanning 23 until 28 headed by 23 parsed as (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS firms))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (NP (NNP West) (NNP Virginia) (POS 's)) (NN suit))
+sid=3 spanning 6 until 9 headed by 7 parsed as (NP (NNP West) (NNP Virginia) (POS 's))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (NNP Friday))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS firms))
+sid=4 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT a) (NN suit)) (PP (IN against) (NP (NNP West) (NNP Virginia))))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (NNP West) (NNP Virginia))
+sid=4 spanning 12 until 16 headed by 15 parsed as (NP (NML (NNP New) (NNP York)) (NN state) (NN court))
+sid=4 spanning 12 until 14 headed by 13 parsed as York
+sid=4 spanning 18 until 25 headed by 20 parsed as (NP (NP (DT a) (JJ declaratory) (NN judgment)) (VP (VBG absolving) (NP (PRP them))) (PP (IN of) (NP (NN liability))))
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (PRP them))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN suit))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS suits))
+sid=6 spanning 4 until 24 headed by 8 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 200) (CD million))) (NN loss)) (, ,) (VP (VBN disclosed) (PP (IN in) (NP (NP (NNP December)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN suffered) (PP (IN by) (NP (NP (NNP West) (NNP Virginia) (POS 's)) (JJ consolidated) (NN investment) (NN pool)))))))))))
+sid=6 spanning 4 until 9 headed by 8 parsed as (NP (DT a) (NML (QP ($ $) (CD 200) (CD million))) (NN loss))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP December)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN suffered) (PP (IN by) (NP (NP (NNP West) (NNP Virginia) (POS 's)) (JJ consolidated) (NN investment) (NN pool))))))))
+sid=6 spanning 12 until 24 headed by 12 parsed as (NP (NP (NNP December)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN suffered) (PP (IN by) (NP (NP (NNP West) (NNP Virginia) (POS 's)) (JJ consolidated) (NN investment) (NN pool))))))))
+sid=6 spanning 18 until 24 headed by 23 parsed as (NP (NP (NNP West) (NNP Virginia) (POS 's)) (JJ consolidated) (NN investment) (NN pool))
+sid=6 spanning 18 until 21 headed by 19 parsed as (NP (NNP West) (NNP Virginia) (POS 's))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN pool))
+sid=7 spanning 6 until 12 headed by 8 parsed as (NP (NP (JJ many) (NN state) (NNS agencies)) (CC and) (NP (JJ local) (NNS governments)))
+sid=7 spanning 6 until 9 headed by 8 parsed as (NP (JJ many) (NN state) (NNS agencies))
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (JJ local) (NNS governments))
+sid=8 spanning 1 until 3 headed by 2 parsed as (NP (PRP$ its) (NN suit))
+sid=8 spanning 1 until 2 headed by 1 parsed as (PRP$ its)
+sid=8 spanning 4 until 9 headed by 8 parsed as (NP (NP (DT the) (NN attorney) (NN general) (POS 's)) (NN office))
+sid=8 spanning 4 until 8 headed by 6 parsed as (NP (DT the) (NN attorney) (NN general) (POS 's))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (NNS brokers))
+sid=8 spanning 13 until 19 headed by 13 parsed as (NP (NP (NNS members)) (PP (IN of) (NP (NP (DT the) (NN treasurer) (POS 's)) (NN office))))
+sid=8 spanning 15 until 19 headed by 18 parsed as (NP (NP (DT the) (NN treasurer) (POS 's)) (NN office))
+sid=8 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN treasurer) (POS 's))
+sid=8 spanning 22 until 30 headed by 29 parsed as (NP (NML (JJ high) (HYPH -) (NN volume)) (, ,) (NML (JJ high) (HYPH -) (NN risk)) (NNS transactions))
+sid=8 spanning 32 until 34 headed by 33 parsed as (NP (DT the) (NNS brokers))
+(end predicted mentions)
+---------gold clusters--------
+31 8 | { 'the treasurer 's' 'the state treasurer 's' }
+20 16 | { 'That suit' 'a suit' }
+3 12 11 15 19 10 5 | { 'five New York brokerage firms' 'The firms' 'The firms' 'the firms' 'them' 'the firms '' 'them' }
+26 27 0 | { 'its' 'the attorney general 's office' 'The state attorney general 's office' }
+17 14 23 | { 'West Virginia' 'West Virginia 's' 'West Virginia 's' }
+22 24 | { 'West Virginia 's consolidated investment pool' 'The pool' }
+7 30 | { 'the state treasurer 's office' 'the treasurer 's office' }
+21 6 | { 'a $ 200 million loss , disclosed in December , that was suffered by West Virginia 's consolidated investment pool' 'a $ 200 million loss incurred by the state treasurer 's office in 1987' }
+28 1 | { 'the attorney general 's' 'The state attorney general 's' }
+4 18 | { 'New York' 'New York' }
+32 29 | { 'the brokers' 'brokers' }
+13 25 9 2 | { 'West Virginia 's suit' 'its suit' 'The suit' 'suit' }
+(end gold clusters)

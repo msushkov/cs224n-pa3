@@ -1,0 +1,24 @@
+---------gloss--------
+(0) Dennis R. Mangino , a general manager of EniChem Americas , was named vice president of research and development , a new post at this steel company . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1088); part 000
+sentences:
+DennisDennisNNPPERSONPER0R.R.NNPPERSONPER0ManginoManginoNNPPERSONPER0,,,OPER0aaDTOPER0generalgeneralJJOPER0managermanagerNNOPER0ofofINOPER0EniChemEniChemNNPORGPER0AmericasAmericasNNPSORGPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0researchresearchNNOPER0andandCCOPER0developmentdevelopmentNNOPER0,,,OPER0aaDTOPER0newnewJJOPER0postpostNNOPER0atatINOPER0thisthisDTOPER0steelsteelNNOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NP (NNP Dennis) (NNP R.) (NNP Mangino)) (, ,) (NP (NP (DT a) (JJ general) (NN manager)) (PP (IN of) (NP (NNP EniChem) (NNPS Americas)))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NN research) (CC and) (NN development)))) (, ,) (NP (NP (DT a) (JJ new) (NN post)) (PP (IN at) (NP (DT this) (NN steel) (NN company)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Dennis) (NNP R.) (NNP Mangino)) (, ,) (NP (NP (DT a) (JJ general) (NN manager)) (PP (IN of) (NP (NNP EniChem) (NNPS Americas)))) (, ,))
+sid=0 spanning 0 until 11 headed by 2 parsed as (NP (NP (NNP Dennis) (NNP R.) (NNP Mangino)) (, ,) (NP (NP (DT a) (JJ general) (NN manager)) (PP (IN of) (NP (NNP EniChem) (NNPS Americas)))) (, ,))
+sid=0 spanning 4 until 10 headed by 6 parsed as (NP (NP (DT a) (JJ general) (NN manager)) (PP (IN of) (NP (NNP EniChem) (NNPS Americas))))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP EniChem) (NNPS Americas))
+sid=0 spanning 13 until 27 headed by 14 parsed as (NP (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NN research) (CC and) (NN development)))) (, ,) (NP (NP (DT a) (JJ new) (NN post)) (PP (IN at) (NP (DT this) (NN steel) (NN company)))))
+sid=0 spanning 13 until 19 headed by 14 parsed as (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NN research) (CC and) (NN development))))
+sid=0 spanning 16 until 19 headed by 16 parsed as (NP (NN research) (CC and) (NN development))
+sid=0 spanning 20 until 27 headed by 22 parsed as (NP (NP (DT a) (JJ new) (NN post)) (PP (IN at) (NP (DT this) (NN steel) (NN company))))
+sid=0 spanning 24 until 27 headed by 26 parsed as (NP (DT this) (NN steel) (NN company))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

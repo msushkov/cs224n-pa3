@@ -1,0 +1,75 @@
+---------gloss--------
+(0) Welcome to another hour of news and information on [4m[36m{The Voice of America}[0m . 
+(1) I 'm David Chadwick , with [4m[36m{VOA}[0m News Now . 
+(2) [4m[35m{The death toll in Colombia from three days of heavy fighting between soldiers and rebels}[0m now stands at more than 100 . 
+(3) [4m[35m{At least 54 soldiers and 50 guerillas}[0m have died in [31m{clashes around the northeastern cities of Bagado and Dabiara}[0m . 
+(4) Nearly all of the government buildings in [32m{those two cities}[0m , have been reportedly destroyed . 
+(5) [31m{The clashes}[0m began Wednesday , when the rebel Revolutionary Armed Forces of [4m[34m{Columbia}[0m launched attacks on a number of northeastern towns . 
+(6) An Army helicopter went down close to the border with Panama , killing all 22 soldiers on board . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0042); part 000
+sentences:
+WelcomewelcomeVBPOPER0totoINOPER0anotheranotherDTTIMEPER0hourhourNNTIMEPER0ofofINOPER0newsnewsNNOPER0andandCCOPER0informationinformationNNOPER0ononINOPER0ThetheDTORGPER0VoiceVoiceNNPORGPER0ofofINORGPER0AmericaAmericaNNPORGPER0...OPER0(ROOT (S (VP (VBP Welcome) (PP (IN to) (NP (NP (DT another) (NN hour)) (PP (IN of) (NP (NP (NN news) (CC and) (NN information)) (PP (IN on) (NP (NP (DT The) (NNP Voice)) (PP (IN of) (NP (NNP America)))))))))) (. .)))
+IIPRPOPER0'mbeVBPOPER0DavidDavidNNPPERSONPER0ChadwickChadwickNNPPERSONPER0,,,OPER0withwithINOPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0NownowRBORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP David) (NNP Chadwick)) (, ,) (PP (IN with) (NP (NP (NNP VOA) (NNP News)) (ADVP (RB Now)))))) (. .)))
+ThetheDTOPER0deathdeathNNOPER0tolltollNNOPER0ininINOPER0ColombiaColombiaNNPGPEPER0fromfromINOPER0threethreeCDDATEPER0daysdayNNSDATEPER0ofofINOPER0heavyheavyJJOPER0fightingfightingNNOPER0betweenbetweenINOPER0soldierssoldierNNSOPER0andandCCOPER0rebelsrebelNNSOPER0nownowRBOPER0standsstandVBZOPER0atatINOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0100100CDCARDINALPER0...OPER0(ROOT (S (NP (NP (DT The) (NN death) (NN toll)) (PP (IN in) (NP (NNP Colombia))) (PP (IN from) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (JJ heavy) (NN fighting)) (PP (IN between) (NP (NNS soldiers) (CC and) (NNS rebels)))))))) (ADVP (RB now)) (VP (VBZ stands) (PP (IN at) (NP (QP (XS (JJR more) (IN than)) (CD 100))))) (. .)))
+AtatRBCARDINALPER0leastleastRBSCARDINALPER05454CDCARDINALPER0soldierssoldierNNSOPER0andandCCOPER05050CDCARDINALPER0guerillasguerillaNNSOPER0havehaveVBPOPER0dieddieVBNOPER0ininINOPER0clashesclashNNSOPER0aroundaroundINOPER0thetheDTOPER0northeasternnortheasternJJOPER0citiescityNNSOPER0ofofINOPER0BagadoBagadoNNPORGPER0andandCCOPER0DabiaraDabiaraNNPORGPER0...OPER0(ROOT (S (NP (NP (QP (ADVP (RB At) (RBS least)) (CD 54)) (NNS soldiers)) (CC and) (NP (CD 50) (NNS guerillas))) (VP (VBP have) (VP (VBN died) (PP (IN in) (NP (NP (NNS clashes)) (PP (IN around) (NP (NP (DT the) (JJ northeastern) (NNS cities)) (PP (IN of) (NP (NNP Bagado) (CC and) (NNP Dabiara))))))))) (. .)))
+NearlynearlyRBOPER0allallDTOPER0ofofINOPER0thetheDTOPER0governmentgovernmentNNOPER0buildingsbuildingNNSOPER0ininINOPER0thosethoseDTOPER0twotwoCDCARDINALPER0citiescityNNSOPER0,,,OPER0havehaveVBPOPER0beenbeVBNOPER0reportedlyreportedlyRBOPER0destroyeddestroyVBNOPER0...OPER0(ROOT (S (NP (NP (QP (RB Nearly) (DT all))) (PP (IN of) (NP (NP (DT the) (NN government) (NNS buildings)) (PP (IN in) (NP (DT those) (CD two) (NNS cities)))))) (, ,) (VP (VBP have) (VP (VBN been) (ADVP (RB reportedly)) (VP (VBN destroyed)))) (. .)))
+ThetheDTOPER0clashesclashNNSOPER0beganbeginVBDOPER0WednesdayWednesdayNNPDATEPER0,,,OPER0whenwhenWRBOPER0thetheDTOPER0rebelrebelJJOPER0RevolutionaryRevolutionaryNNPORGPER0ArmedArmedNNPORGPER0ForcesForcesNNPSORGPER0ofofINORGPER0ColumbiaColumbiaNNPORGPER0launchedlaunchVBDOPER0attacksattackNNSOPER0ononINOPER0aaDTOPER0numbernumberNNOPER0ofofINOPER0northeasternnortheasternJJOPER0townstownNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNS clashes)) (VP (VBD began) (NP (NP (NNP Wednesday)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ rebel) (NNP Revolutionary) (NNP Armed) (NNPS Forces)) (PP (IN of) (NP (NNP Columbia)))) (VP (VBD launched) (NP (NP (NNS attacks)) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ northeastern) (NNS towns))))))))))) (. .)))
+AnaDTOPER0ArmyArmyNNPORGPER0helicopterhelicopterNNOPER0wentgoVBDOPER0downdownRBOPER0closecloseJJOPER0totoINOPER0thetheDTOPER0borderborderNNOPER0withwithINOPER0PanamaPanamaNNPGPEPER0,,,OPER0killingkillVBGOPER0allallDTOPER02222CDCARDINALPER0soldierssoldierNNSOPER0ononINOPER0boardboardNNOPER0...OPER0(ROOT (S (NP (DT An) (NNP Army) (NN helicopter)) (VP (VBD went) (ADVP (RB down)) (ADJP (JJ close) (PP (IN to) (NP (NP (DT the) (NN border)) (PP (IN with) (NP (NNP Panama)))))) (, ,) (S (VP (VBG killing) (NP (NP (DT all) (CD 22) (NNS soldiers)) (PP (IN on) (NP (NN board))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT The) (NNP Voice)) (PP (IN of) (NP (NNP America))))
+sid=1 spanning 6 until 7 headed by 6 parsed as VOA
+sid=2 spanning 0 until 15 headed by 2 parsed as (NP (NP (DT The) (NN death) (NN toll)) (PP (IN in) (NP (NNP Colombia))) (PP (IN from) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (JJ heavy) (NN fighting)) (PP (IN between) (NP (NNS soldiers) (CC and) (NNS rebels))))))))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNP Colombia))
+sid=2 spanning 9 until 15 headed by 10 parsed as (NP (NP (JJ heavy) (NN fighting)) (PP (IN between) (NP (NNS soldiers) (CC and) (NNS rebels))))
+sid=3 spanning 0 until 7 headed by 3 parsed as (NP (NP (QP (ADVP (RB At) (RBS least)) (CD 54)) (NNS soldiers)) (CC and) (NP (CD 50) (NNS guerillas)))
+sid=3 spanning 10 until 19 headed by 10 parsed as (NP (NP (NNS clashes)) (PP (IN around) (NP (NP (DT the) (JJ northeastern) (NNS cities)) (PP (IN of) (NP (NNP Bagado) (CC and) (NNP Dabiara))))))
+sid=3 spanning 12 until 19 headed by 14 parsed as (NP (NP (DT the) (JJ northeastern) (NNS cities)) (PP (IN of) (NP (NNP Bagado) (CC and) (NNP Dabiara))))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (DT those) (CD two) (NNS cities))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS clashes))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNP Columbia))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 13 headed by 3 parsed as (NP (NP (DT another) (NN hour)) (PP (IN of) (NP (NP (NN news) (CC and) (NN information)) (PP (IN on) (NP (NP (DT The) (NNP Voice)) (PP (IN of) (NP (NNP America))))))))
+sid=0 spanning 5 until 13 headed by 5 parsed as (NP (NP (NN news) (CC and) (NN information)) (PP (IN on) (NP (NP (DT The) (NNP Voice)) (PP (IN of) (NP (NNP America))))))
+sid=0 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT The) (NNP Voice)) (PP (IN of) (NP (NNP America))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP David) (NNP Chadwick)) (, ,) (PP (IN with) (NP (NP (NNP VOA) (NNP News)) (ADVP (RB Now)))))
+sid=1 spanning 2 until 9 headed by 3 parsed as (NP (NP (NNP David) (NNP Chadwick)) (, ,) (PP (IN with) (NP (NP (NNP VOA) (NNP News)) (ADVP (RB Now)))))
+sid=1 spanning 6 until 9 headed by 7 parsed as (NP (NP (NNP VOA) (NNP News)) (ADVP (RB Now)))
+sid=2 spanning 0 until 15 headed by 2 parsed as (NP (NP (DT The) (NN death) (NN toll)) (PP (IN in) (NP (NNP Colombia))) (PP (IN from) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (JJ heavy) (NN fighting)) (PP (IN between) (NP (NNS soldiers) (CC and) (NNS rebels))))))))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNP Colombia))
+sid=2 spanning 6 until 15 headed by 7 parsed as (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (JJ heavy) (NN fighting)) (PP (IN between) (NP (NNS soldiers) (CC and) (NNS rebels))))))
+sid=2 spanning 12 until 15 headed by 12 parsed as (NP (NNS soldiers) (CC and) (NNS rebels))
+sid=2 spanning 18 until 21 headed by 20 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 100)))
+sid=3 spanning 0 until 7 headed by 3 parsed as (NP (NP (QP (ADVP (RB At) (RBS least)) (CD 54)) (NNS soldiers)) (CC and) (NP (CD 50) (NNS guerillas)))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (QP (ADVP (RB At) (RBS least)) (CD 54)) (NNS soldiers))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (CD 50) (NNS guerillas))
+sid=3 spanning 10 until 19 headed by 10 parsed as (NP (NP (NNS clashes)) (PP (IN around) (NP (NP (DT the) (JJ northeastern) (NNS cities)) (PP (IN of) (NP (NNP Bagado) (CC and) (NNP Dabiara))))))
+sid=3 spanning 12 until 19 headed by 14 parsed as (NP (NP (DT the) (JJ northeastern) (NNS cities)) (PP (IN of) (NP (NNP Bagado) (CC and) (NNP Dabiara))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Bagado) (CC and) (NNP Dabiara))
+sid=3 spanning 16 until 19 headed by 16 parsed as (NP (NNP Bagado) (CC and) (NNP Dabiara))
+sid=3 spanning 18 until 19 headed by 18 parsed as Dabiara
+sid=4 spanning 0 until 10 headed by 1 parsed as (NP (NP (QP (RB Nearly) (DT all))) (PP (IN of) (NP (NP (DT the) (NN government) (NNS buildings)) (PP (IN in) (NP (DT those) (CD two) (NNS cities))))))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (DT those) (CD two) (NNS cities))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS clashes))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NP (NNP Wednesday)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ rebel) (NNP Revolutionary) (NNP Armed) (NNPS Forces)) (PP (IN of) (NP (NNP Columbia)))) (VP (VBD launched) (NP (NP (NNS attacks)) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ northeastern) (NNS towns))))))))))
+sid=5 spanning 3 until 21 headed by 3 parsed as (NP (NP (NNP Wednesday)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ rebel) (NNP Revolutionary) (NNP Armed) (NNPS Forces)) (PP (IN of) (NP (NNP Columbia)))) (VP (VBD launched) (NP (NP (NNS attacks)) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ northeastern) (NNS towns))))))))))
+sid=5 spanning 6 until 13 headed by 10 parsed as (NP (NP (DT the) (JJ rebel) (NNP Revolutionary) (NNP Armed) (NNPS Forces)) (PP (IN of) (NP (NNP Columbia))))
+sid=5 spanning 14 until 21 headed by 14 parsed as (NP (NP (NNS attacks)) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ northeastern) (NNS towns))))))
+sid=5 spanning 16 until 21 headed by 17 parsed as (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ northeastern) (NNS towns))))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (NNP Army) (NN helicopter))
+sid=6 spanning 1 until 2 headed by 1 parsed as Army
+sid=6 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT the) (NN border)) (PP (IN with) (NP (NNP Panama))))
+sid=6 spanning 10 until 11 headed by 10 parsed as (NP (NNP Panama))
+(end predicted mentions)
+---------gold clusters--------
+10 3 | { 'Columbia' 'Colombia' }
+5 2 | { 'At least 54 soldiers and 50 guerillas' 'The death toll in Colombia from three days of heavy fighting between soldiers and rebels' }
+1 0 | { 'VOA' 'The Voice of America' }
+6 4 9 | { 'clashes around the northeastern cities of Bagado and Dabiara' 'heavy fighting between soldiers and rebels' 'The clashes' }
+8 7 | { 'those two cities' 'the northeastern cities of Bagado and Dabiara' }
+(end gold clusters)

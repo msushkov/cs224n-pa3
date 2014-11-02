@@ -1,0 +1,79 @@
+---------gloss--------
+(0) [3m[36m{Four former Cordis Corp. officials}[0m were acquitted of federal charges related to [4m[31m{the Miami - based company 's}[0m sale of [4m[32m{pacemakers}[0m , including conspiracy to hide pacemaker defects . 
+(1) Jurors in U.S. District Court in [3m[35m{Miami}[0m cleared [3m[36m{Harold Hershhenson , a former executive vice president ; John Pagones , a former vice president ; and Stephen Vadas and Dean Ciporkin , who had been engineers with Cordis}[0m . 
+(2) Earlier this year , [4m[31m{Cordis , a maker of medical devices ,}[0m agreed to plead guilty to felony and misdemeanor charges related to [4m[32m{the pacemakers}[0m and to pay the government about $ 5.7 million in fines and other costs . 
+(3) [4m[31m{Cordis}[0m sold [4m[31m{its}[0m pacemaker operations two years ago to Telectronics Holding Ltd. of Australia . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1544); part 000
+sentences:
+FourfourCDCARDINALPER0formerformerJJOPER0CordisCordisNNPORGPER0Corp.Corp.NNPORGPER0officialsofficialNNSOPER0werebeVBDOPER0acquittedacquitVBNOPER0ofofINOPER0federalfederalJJOPER0chargeschargeNNSOPER0relatedrelateVBNOPER0totoINOPER0thetheDTOPER0MiamiMiamiNNPGPEPER0--HYPHOPER0basedbaseVBNOPER0companycompanyNNOPER0's'sPOSOPER0salesaleNNOPER0ofofINOPER0pacemakerspacemakerNNSOPER0,,,OPER0includingincludeVBGOPER0conspiracyconspiracyNNOPER0totoTOOPER0hidehideVBOPER0pacemakerpacemakerJJROPER0defectsdefectNNSOPER0...OPER0(ROOT (S (NP (CD Four) (JJ former) (NML (NNP Cordis) (NNP Corp.)) (NNS officials)) (VP (VBD were) (VP (VBN acquitted) (PP (IN of) (NP (NP (JJ federal) (NNS charges)) (VP (VBN related) (PP (IN to) (NP (NP (NP (DT the) (ADJP (NNP Miami) (HYPH -) (VBN based)) (NN company) (POS 's)) (NN sale)) (PP (IN of) (NP (NP (NNS pacemakers)) (, ,) (PP (VBG including) (NP (NN conspiracy) (S (VP (TO to) (VP (VB hide) (NP (JJR pacemaker) (NNS defects)))))))))))))))) (. .)))
+JurorsjurorNNSOPER0ininINOPER0U.S.U.S.NNPGPEPER0DistrictDistrictNNPORGPER0CourtCourtNNPORGPER0ininINOPER0MiamiMiamiNNPGPEPER0clearedclearVBDOPER0HaroldHaroldNNPPERSONPER0HershhensonHershhensonNNPPERSONPER0,,,OPER0aaDTOPER0formerformerJJOPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0;;:OPER0JohnJohnNNPPERSONPER0PagonesPagonesNNPPERSONPER0,,,OPER0aaDTOPER0formerformerJJOPER0viceviceNNOPER0presidentpresidentNNOPER0;;:OPER0andandCCOPER0StephenStephenNNPPERSONPER0VadasVadasNNPPERSONPER0andandCCOPER0DeanDeanNNPPERSONPER0CiporkinCiporkinNNPPERSONPER0,,,OPER0whowhoWPOPER0hadhaveVBDOPER0beenbeVBNOPER0engineersengineerNNSOPER0withwithINOPER0CordisCordisNNPORGPER0...OPER0(ROOT (S (NP (NP (NNS Jurors)) (PP (IN in) (NP (NP (NNP U.S.) (NNP District) (NNP Court)) (PP (IN in) (NP (NNP Miami)))))) (VP (VBD cleared) (NP (NP (NP (NNP Harold) (NNP Hershhenson)) (, ,) (NP (DT a) (JJ former) (JJ executive) (NN vice) (NN president))) (: ;) (NP (NP (NNP John) (NNP Pagones)) (, ,) (NP (DT a) (JJ former) (NN vice) (NN president))) (: ;) (CC and) (NP (NP (NP (NNP Stephen) (NNP Vadas)) (CC and) (NP (NNP Dean) (NNP Ciporkin))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NNS engineers)) (PP (IN with) (NP (NNP Cordis))))))))))) (. .)))
+EarlierearlierRBRDATEPER0thisthisDTDATEPER0yearyearNNDATEPER0,,,OPER0CordisCordisNNPORGPER0,,,OPER0aaDTOPER0makermakerNNOPER0ofofINOPER0medicalmedicalJJOPER0devicesdeviceNNSOPER0,,,OPER0agreedagreeVBDOPER0totoTOOPER0pleadpleadVBOPER0guiltyguiltyJJOPER0totoINOPER0felonyfelonyNNOPER0andandCCOPER0misdemeanormisdemeanorNNOPER0chargeschargeNNSOPER0relatedrelateVBNOPER0totoINOPER0thetheDTOPER0pacemakerspacemakerNNSOPER0andandCCOPER0totoTOOPER0paypayVBOPER0thetheDTOPER0governmentgovernmentNNOPER0aboutaboutINMONEYPER0$$$MONEYPER05.75.7CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0finesfineNNSOPER0andandCCOPER0otherotherJJOPER0costscostNNSOPER0...OPER0(ROOT (S (NP (ADVP (RBR Earlier)) (DT this) (NN year)) (, ,) (NP (NP (NNP Cordis)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ medical) (NNS devices)))) (, ,)) (VP (VBD agreed) (S (VP (VP (TO to) (VP (VB plead) (ADJP (JJ guilty)) (PP (IN to) (NP (NP (NP (NN felony) (CC and) (NN misdemeanor)) (NNS charges)) (VP (VBN related) (PP (IN to) (NP (DT the) (NNS pacemakers)))))))) (CC and) (VP (TO to) (VP (VB pay) (NP (DT the) (NN government)) (PP (IN about) (NP (NP (QP ($ $) (CD 5.7) (CD million))) (PP (IN in) (NP (NP (NNS fines)) (CC and) (NP (JJ other) (NNS costs))))))))))) (. .)))
+CordisCordisNNPORGPER0soldsellVBDOPER0itsitsPRP$OPER0pacemakerpacemakerNNOPER0operationsoperationNNSOPER0twotwoCDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0totoINOPER0TelectronicsTelectronicsNNPORGPER0HoldingHoldingNNPORGPER0Ltd.Ltd.NNPORGPER0ofofINOPER0AustraliaAustraliaNNPGPEPER0...OPER0(ROOT (S (NP (NNP Cordis)) (VP (VBD sold) (NP (PRP$ its) (NN pacemaker) (NNS operations)) (ADVP (NP (CD two) (NNS years)) (RB ago)) (PP (IN to) (NP (NP (NNP Telectronics) (NNP Holding) (NNP Ltd.)) (PP (IN of) (NP (NNP Australia)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (CD Four) (JJ former) (NML (NNP Cordis) (NNP Corp.)) (NNS officials))
+sid=0 spanning 2 until 4 headed by 3 parsed as Corp.
+sid=0 spanning 12 until 18 headed by 13 parsed as Miami
+sid=0 spanning 13 until 16 headed by 15 parsed as based
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (NP (NNS pacemakers)) (, ,) (PP (VBG including) (NP (NN conspiracy) (S (VP (TO to) (VP (VB hide) (NP (JJR pacemaker) (NNS defects))))))))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNP Miami))
+sid=1 spanning 8 until 38 headed by 9 parsed as (NP (NP (NP (NNP Harold) (NNP Hershhenson)) (, ,) (NP (DT a) (JJ former) (JJ executive) (NN vice) (NN president))) (: ;) (NP (NP (NNP John) (NNP Pagones)) (, ,) (NP (DT a) (JJ former) (NN vice) (NN president))) (: ;) (CC and) (NP (NP (NP (NNP Stephen) (NNP Vadas)) (CC and) (NP (NNP Dean) (NNP Ciporkin))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NNS engineers)) (PP (IN with) (NP (NNP Cordis))))))))))
+sid=1 spanning 37 until 38 headed by 37 parsed as (NP (NNP Cordis))
+sid=2 spanning 4 until 12 headed by 4 parsed as (NP (NP (NNP Cordis)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ medical) (NNS devices)))) (, ,))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NNS pacemakers))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Cordis))
+sid=3 spanning 2 until 3 headed by 2 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (CD Four) (JJ former) (NML (NNP Cordis) (NNP Corp.)) (NNS officials))
+sid=0 spanning 2 until 4 headed by 3 parsed as Corp.
+sid=0 spanning 8 until 28 headed by 9 parsed as (NP (NP (JJ federal) (NNS charges)) (VP (VBN related) (PP (IN to) (NP (NP (NP (DT the) (ADJP (NNP Miami) (HYPH -) (VBN based)) (NN company) (POS 's)) (NN sale)) (PP (IN of) (NP (NP (NNS pacemakers)) (, ,) (PP (VBG including) (NP (NN conspiracy) (S (VP (TO to) (VP (VB hide) (NP (JJR pacemaker) (NNS defects)))))))))))))
+sid=0 spanning 12 until 28 headed by 18 parsed as (NP (NP (NP (DT the) (ADJP (NNP Miami) (HYPH -) (VBN based)) (NN company) (POS 's)) (NN sale)) (PP (IN of) (NP (NP (NNS pacemakers)) (, ,) (PP (VBG including) (NP (NN conspiracy) (S (VP (TO to) (VP (VB hide) (NP (JJR pacemaker) (NNS defects))))))))))
+sid=0 spanning 12 until 18 headed by 13 parsed as (NP (DT the) (ADJP (NNP Miami) (HYPH -) (VBN based)) (NN company) (POS 's))
+sid=0 spanning 20 until 28 headed by 20 parsed as (NP (NP (NNS pacemakers)) (, ,) (PP (VBG including) (NP (NN conspiracy) (S (VP (TO to) (VP (VB hide) (NP (JJR pacemaker) (NNS defects))))))))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (NNS pacemakers))
+sid=0 spanning 23 until 28 headed by 23 parsed as (NP (NN conspiracy) (S (VP (TO to) (VP (VB hide) (NP (JJR pacemaker) (NNS defects))))))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (JJR pacemaker) (NNS defects))
+sid=1 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNS Jurors)) (PP (IN in) (NP (NP (NNP U.S.) (NNP District) (NNP Court)) (PP (IN in) (NP (NNP Miami))))))
+sid=1 spanning 2 until 7 headed by 4 parsed as (NP (NP (NNP U.S.) (NNP District) (NNP Court)) (PP (IN in) (NP (NNP Miami))))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNP Miami))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (NP (NP (NNP Harold) (NNP Hershhenson)) (, ,) (NP (DT a) (JJ former) (JJ executive) (NN vice) (NN president))) (: ;) (NP (NP (NNP John) (NNP Pagones)) (, ,) (NP (DT a) (JJ former) (NN vice) (NN president))) (: ;) (CC and) (NP (NP (NP (NNP Stephen) (NNP Vadas)) (CC and) (NP (NNP Dean) (NNP Ciporkin))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NNS engineers)) (PP (IN with) (NP (NNP Cordis))))))))))
+sid=1 spanning 8 until 38 headed by 9 parsed as (NP (NP (NP (NNP Harold) (NNP Hershhenson)) (, ,) (NP (DT a) (JJ former) (JJ executive) (NN vice) (NN president))) (: ;) (NP (NP (NNP John) (NNP Pagones)) (, ,) (NP (DT a) (JJ former) (NN vice) (NN president))) (: ;) (CC and) (NP (NP (NP (NNP Stephen) (NNP Vadas)) (CC and) (NP (NNP Dean) (NNP Ciporkin))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NNS engineers)) (PP (IN with) (NP (NNP Cordis))))))))))
+sid=1 spanning 11 until 16 headed by 15 parsed as (NP (DT a) (JJ former) (JJ executive) (NN vice) (NN president))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (NP (NNP John) (NNP Pagones)) (, ,) (NP (DT a) (JJ former) (NN vice) (NN president)))
+sid=1 spanning 17 until 24 headed by 18 parsed as (NP (NP (NNP John) (NNP Pagones)) (, ,) (NP (DT a) (JJ former) (NN vice) (NN president)))
+sid=1 spanning 20 until 24 headed by 23 parsed as (NP (DT a) (JJ former) (NN vice) (NN president))
+sid=1 spanning 26 until 28 headed by 27 parsed as (NP (NP (NP (NNP Stephen) (NNP Vadas)) (CC and) (NP (NNP Dean) (NNP Ciporkin))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NNS engineers)) (PP (IN with) (NP (NNP Cordis)))))))))
+sid=1 spanning 26 until 38 headed by 27 parsed as (NP (NP (NP (NNP Stephen) (NNP Vadas)) (CC and) (NP (NNP Dean) (NNP Ciporkin))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NNS engineers)) (PP (IN with) (NP (NNP Cordis)))))))))
+sid=1 spanning 26 until 31 headed by 27 parsed as (NP (NP (NNP Stephen) (NNP Vadas)) (CC and) (NP (NNP Dean) (NNP Ciporkin)))
+sid=1 spanning 29 until 31 headed by 30 parsed as (NP (NNP Dean) (NNP Ciporkin))
+sid=1 spanning 35 until 38 headed by 35 parsed as (NP (NP (NNS engineers)) (PP (IN with) (NP (NNP Cordis))))
+sid=1 spanning 37 until 38 headed by 37 parsed as (NP (NNP Cordis))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (ADVP (RBR Earlier)) (DT this) (NN year))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NP (NNP Cordis)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ medical) (NNS devices)))) (, ,))
+sid=2 spanning 4 until 12 headed by 4 parsed as (NP (NP (NNP Cordis)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ medical) (NNS devices)))) (, ,))
+sid=2 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ medical) (NNS devices))))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (JJ medical) (NNS devices))
+sid=2 spanning 17 until 25 headed by 20 parsed as (NP (NP (NP (NN felony) (CC and) (NN misdemeanor)) (NNS charges)) (VP (VBN related) (PP (IN to) (NP (DT the) (NNS pacemakers)))))
+sid=2 spanning 17 until 20 headed by 17 parsed as (NP (NN felony) (CC and) (NN misdemeanor))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NNS pacemakers))
+sid=2 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN government))
+sid=2 spanning 35 until 39 headed by 35 parsed as (NP (NP (NNS fines)) (CC and) (NP (JJ other) (NNS costs)))
+sid=2 spanning 35 until 36 headed by 35 parsed as (NP (NNS fines))
+sid=2 spanning 37 until 39 headed by 38 parsed as (NP (JJ other) (NNS costs))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Cordis))
+sid=3 spanning 2 until 5 headed by 4 parsed as (NP (PRP$ its) (NN pacemaker) (NNS operations))
+sid=3 spanning 2 until 3 headed by 2 parsed as (PRP$ its)
+sid=3 spanning 5 until 8 headed by 7 parsed as ago
+sid=3 spanning 9 until 14 headed by 11 parsed as (NP (NP (NNP Telectronics) (NNP Holding) (NNP Ltd.)) (PP (IN of) (NP (NNP Australia))))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (NNP Australia))
+(end predicted mentions)
+---------gold clusters--------
+3 5 | { 'Miami - based' 'Miami' }
+6 0 | { 'Harold Hershhenson , a former executive vice president ; John Pagones , a former vice president ; and Stephen Vadas and Dean Ciporkin , who had been engineers with Cordis' 'Four former Cordis Corp. officials' }
+1 8 2 10 11 7 | { 'Cordis Corp.' 'Cordis , a maker of medical devices ,' 'the Miami - based company 's' 'Cordis' 'its' 'Cordis' }
+9 4 | { 'the pacemakers' 'pacemakers' }
+(end gold clusters)

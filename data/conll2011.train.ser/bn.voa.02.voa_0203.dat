@@ -1,0 +1,29 @@
+---------gloss--------
+(0) [31m{Yugoslav President Vojislav Kostunica}[0m has staged a major military reshuffle to remove [32m{officers associated with long time ruler Slobodan Milosevic}[0m . 
+(1) [31m{The President}[0m has retired [32m{fourteen senior officers}[0m from active duty . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0203); part 000
+sentences:
+YugoslavyugoslavJJOPER0PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0hashaveVBZOPER0stagedstageVBDOPER0aaDTOPER0majormajorJJOPER0militarymilitaryNNOPER0reshufflereshuffleNNOPER0totoTOOPER0removeremoveVBOPER0officersofficerNNSOPER0associatedassociateVBNOPER0withwithINOPER0longlongJJOPER0timetimeNNOPER0rulerrulerNNOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0...OPER0(ROOT (S (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica)) (VP (VBZ has) (VP (VBD staged) (NP (DT a) (JJ major) (NN military) (NN reshuffle)) (S (VP (TO to) (VP (VB remove) (NP (NP (NNS officers)) (VP (VBN associated) (PP (IN with) (NP (NML (NML (JJ long) (NN time)) (NN ruler)) (NNP Slobodan) (NNP Milosevic)))))))))) (. .)))
+ThetheDTOPER0PresidentPresidentNNPOPER0hashaveVBZOPER0retiredretireVBNOPER0fourteenfourteenCDCARDINALPER0seniorseniorJJOPER0officersofficerNNSOPER0fromfromINOPER0activeactiveJJOPER0dutydutyNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP President)) (VP (VBZ has) (VP (VBN retired) (NP (CD fourteen) (JJ senior) (NNS officers)) (PP (IN from) (NP (JJ active) (NN duty))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 12 until 20 headed by 12 parsed as (NP (NP (NNS officers)) (VP (VBN associated) (PP (IN with) (NP (NML (NML (JJ long) (NN time)) (NN ruler)) (NNP Slobodan) (NNP Milosevic)))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (CD fourteen) (JJ senior) (NNS officers))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (DT a) (JJ major) (NN military) (NN reshuffle))
+sid=0 spanning 12 until 20 headed by 12 parsed as (NP (NP (NNS officers)) (VP (VBN associated) (PP (IN with) (NP (NML (NML (JJ long) (NN time)) (NN ruler)) (NNP Slobodan) (NNP Milosevic)))))
+sid=0 spanning 15 until 20 headed by 19 parsed as (NP (NML (NML (JJ long) (NN time)) (NN ruler)) (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (CD fourteen) (JJ senior) (NNS officers))
+(end predicted mentions)
+---------gold clusters--------
+0 2 | { 'Yugoslav President Vojislav Kostunica' 'The President' }
+3 1 | { 'fourteen senior officers' 'officers associated with long time ruler Slobodan Milosevic' }
+(end gold clusters)

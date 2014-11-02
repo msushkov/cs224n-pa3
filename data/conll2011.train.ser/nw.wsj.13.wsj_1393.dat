@@ -1,0 +1,54 @@
+---------gloss--------
+(0) [1m[34m{New Canaan Investments Inc.}[0m said [1m[34m{it}[0m closed the acquisition of [1m[33m{Carr - Lowrey Glass Co.}[0m from Newell Co. , a Freeport , Ill. , maker of do - it - yourself home products . 
+(1) Terms were n't disclosed . 
+(2) [1m[33m{Carr - Lowrey , a maker of glass bottles for the cosmetics and toiletries industries ,}[0m had sales last year of about $ 40 million . 
+(3) [1m[34m{New Canaan Investments}[0m is a closely held investment partnership with interests primarily in the packaging industry . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1393); part 000
+sentences:
+NewNewNNPORGPER0CanaanCanaanNNPORGPER0InvestmentsInvestmentsNNPSORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0closedcloseVBDOPER0thetheDTOPER0acquisitionacquisitionNNOPER0ofofINOPER0CarrCarrNNPORGPER0--HYPHORGPER0LowreyLowreyNNPORGPER0GlassGlassNNPORGPER0Co.Co.NNPORGPER0fromfromINOPER0NewellNewellNNPORGPER0Co.Co.NNPORGPER0,,,OPER0aaDTOPER0FreeportFreeportNNPGPEPER0,,,OPER0Ill.Ill.NNPGPEPER0,,,OPER0makermakerNNOPER0ofofINOPER0dodoVBOPER0--HYPHOPER0ititPRPOPER0--HYPHOPER0yourselfyourselfPRPOPER0homehomeNNOPER0productsproductNNSOPER0...OPER0(ROOT (S (NP (NNP New) (NNP Canaan) (NNPS Investments) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD closed) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NNP Carr) (HYPH -) (NNP Lowrey) (NNP Glass) (NNP Co.))) (PP (IN from) (NP (NP (NP (NNP Newell) (NNP Co.)) (, ,) (NP (DT a) (NNP Freeport)) (, ,) (NP (NNP Ill.))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NML (VP (VB do) (HYPH -) (NP (PRP it)) (HYPH -) (NP (PRP yourself)))) (NN home) (NNS products))))))))))) (. .)))
+TermstermNNSOPER0werebeVBDOPER0n'tnotRBOPER0discloseddiscloseVBNOPER0...OPER0(ROOT (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+CarrCarrNNPPERSONPER0--HYPHPERSONPER0LowreyLowreyNNPPERSONPER0,,,OPER0aaDTOPER0makermakerNNOPER0ofofINOPER0glassglassNNOPER0bottlesbottleNNSOPER0forforINOPER0thetheDTOPER0cosmeticscosmeticNNSOPER0andandCCOPER0toiletriestoiletriesNNSOPER0industriesindustryNNSOPER0,,,OPER0hadhaveVBDOPER0salessaleNNSOPER0lastlastJJDATEPER0yearyearNNDATEPER0ofofINOPER0aboutaboutRBMONEYPER0$$$MONEYPER04040CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NP (NNP Carr) (HYPH -) (NNP Lowrey)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NN glass) (NNS bottles)) (PP (IN for) (NP (DT the) (NML (NNS cosmetics) (CC and) (NNS toiletries)) (NNS industries)))))) (, ,)) (VP (VBD had) (NP (NP (NNS sales)) (NP (JJ last) (NN year)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 40) (CD million)))))) (. .)))
+NewNewNNPORGPER0CanaanCanaanNNPORGPER0InvestmentsInvestmentsNNPORGPER0isbeVBZOPER0aaDTOPER0closelycloselyRBOPER0heldholdVBNOPER0investmentinvestmentNNOPER0partnershippartnershipNNOPER0withwithINOPER0interestsinterestNNSOPER0primarilyprimarilyRBOPER0ininINOPER0thetheDTOPER0packagingpackagingNNOPER0industryindustryNNOPER0...OPER0(ROOT (S (NP (NNP New) (NNP Canaan) (NNP Investments)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB closely) (VBN held)) (NN investment) (NN partnership)) (PP (IN with) (NP (NP (NNS interests)) (PP (ADVP (RB primarily)) (IN in) (NP (DT the) (NN packaging) (NN industry))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP New) (NNP Canaan) (NNPS Investments) (NNP Inc.))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (NNP Carr) (HYPH -) (NNP Lowrey) (NNP Glass) (NNP Co.))
+sid=2 spanning 0 until 16 headed by 2 parsed as (NP (NP (NNP Carr) (HYPH -) (NNP Lowrey)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NN glass) (NNS bottles)) (PP (IN for) (NP (DT the) (NML (NNS cosmetics) (CC and) (NNS toiletries)) (NNS industries)))))) (, ,))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NNP New) (NNP Canaan) (NNP Investments))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP New) (NNP Canaan) (NNPS Investments) (NNP Inc.))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 7 until 33 headed by 8 parsed as (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NNP Carr) (HYPH -) (NNP Lowrey) (NNP Glass) (NNP Co.))) (PP (IN from) (NP (NP (NP (NNP Newell) (NNP Co.)) (, ,) (NP (DT a) (NNP Freeport)) (, ,) (NP (NNP Ill.))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NML (VP (VB do) (HYPH -) (NP (PRP it)) (HYPH -) (NP (PRP yourself)))) (NN home) (NNS products)))))))
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (NNP Carr) (HYPH -) (NNP Lowrey) (NNP Glass) (NNP Co.))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (NP (NP (NNP Newell) (NNP Co.)) (, ,) (NP (DT a) (NNP Freeport)) (, ,) (NP (NNP Ill.))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NML (VP (VB do) (HYPH -) (NP (PRP it)) (HYPH -) (NP (PRP yourself)))) (NN home) (NNS products)))))
+sid=0 spanning 16 until 33 headed by 17 parsed as (NP (NP (NP (NNP Newell) (NNP Co.)) (, ,) (NP (DT a) (NNP Freeport)) (, ,) (NP (NNP Ill.))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NML (VP (VB do) (HYPH -) (NP (PRP it)) (HYPH -) (NP (PRP yourself)))) (NN home) (NNS products)))))
+sid=0 spanning 16 until 23 headed by 17 parsed as (NP (NP (NNP Newell) (NNP Co.)) (, ,) (NP (DT a) (NNP Freeport)) (, ,) (NP (NNP Ill.)))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (DT a) (NNP Freeport))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (DT a) (NNP Freeport))
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNP Ill.))
+sid=0 spanning 24 until 33 headed by 24 parsed as (NP (NP (NN maker)) (PP (IN of) (NP (NML (VP (VB do) (HYPH -) (NP (PRP it)) (HYPH -) (NP (PRP yourself)))) (NN home) (NNS products))))
+sid=0 spanning 26 until 33 headed by 32 parsed as (NP (NML (VP (VB do) (HYPH -) (NP (PRP it)) (HYPH -) (NP (PRP yourself)))) (NN home) (NNS products))
+sid=0 spanning 28 until 29 headed by 28 parsed as (NP (PRP it))
+sid=0 spanning 30 until 31 headed by 30 parsed as (NP (PRP yourself))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Terms))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Carr) (HYPH -) (NNP Lowrey)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NN glass) (NNS bottles)) (PP (IN for) (NP (DT the) (NML (NNS cosmetics) (CC and) (NNS toiletries)) (NNS industries)))))) (, ,))
+sid=2 spanning 0 until 16 headed by 2 parsed as (NP (NP (NNP Carr) (HYPH -) (NNP Lowrey)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NN glass) (NNS bottles)) (PP (IN for) (NP (DT the) (NML (NNS cosmetics) (CC and) (NNS toiletries)) (NNS industries)))))) (, ,))
+sid=2 spanning 4 until 15 headed by 5 parsed as (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NN glass) (NNS bottles)) (PP (IN for) (NP (DT the) (NML (NNS cosmetics) (CC and) (NNS toiletries)) (NNS industries))))))
+sid=2 spanning 7 until 15 headed by 8 parsed as (NP (NP (NN glass) (NNS bottles)) (PP (IN for) (NP (DT the) (NML (NNS cosmetics) (CC and) (NNS toiletries)) (NNS industries))))
+sid=2 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (NML (NNS cosmetics) (CC and) (NNS toiletries)) (NNS industries))
+sid=2 spanning 17 until 25 headed by 17 parsed as (NP (NP (NNS sales)) (NP (JJ last) (NN year)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 40) (CD million)))))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (JJ last) (NN year))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NNP New) (NNP Canaan) (NNP Investments))
+sid=3 spanning 4 until 16 headed by 8 parsed as (NP (NP (DT a) (ADJP (RB closely) (VBN held)) (NN investment) (NN partnership)) (PP (IN with) (NP (NP (NNS interests)) (PP (ADVP (RB primarily)) (IN in) (NP (DT the) (NN packaging) (NN industry))))))
+sid=3 spanning 10 until 16 headed by 10 parsed as (NP (NP (NNS interests)) (PP (ADVP (RB primarily)) (IN in) (NP (DT the) (NN packaging) (NN industry))))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NN packaging) (NN industry))
+(end predicted mentions)
+---------gold clusters--------
+3 2 | { 'Carr - Lowrey , a maker of glass bottles for the cosmetics and toiletries industries ,' 'Carr - Lowrey Glass Co.' }
+0 1 4 | { 'New Canaan Investments Inc.' 'it' 'New Canaan Investments' }
+(end gold clusters)

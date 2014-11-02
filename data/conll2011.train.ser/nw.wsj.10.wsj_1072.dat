@@ -1,0 +1,35 @@
+---------gloss--------
+(0) Robert L. Wood , 37 - year - old chief financial officer , was named chairman and chief executive officer of this independent power producer , succeeding [3m[32m{Raymond L. Hixson , 63}[0m . 
+(1) [3m[32m{Mr. Hixson , who resigned effective Jan. 1 for health reasons ,}[0m remains a director . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1072); part 000
+sentences:
+RobertRobertNNPPERSONPER0L.L.NNPPERSONPER0WoodWoodNNPPERSONPER0,,,OPER03737CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0chiefchiefJJOPER0financialfinancialJJOPER0officerofficerNNOPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0chairmanchairmanNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0thisthisDTOPER0independentindependentJJOPER0powerpowerNNOPER0producerproducerNNOPER0,,,OPER0succeedingsucceedVBGOPER0RaymondRaymondNNPPERSONPER0L.L.NNPPERSONPER0HixsonHixsonNNPPERSONPER0,,,OPER06363CDDATEPER0...OPER0(ROOT (S (NP (NP (NNP Robert) (NNP L.) (NNP Wood)) (, ,) (NP (ADJP (NML (CD 37) (HYPH -) (NN year)) (HYPH -) (JJ old)) (JJ chief) (JJ financial) (NN officer)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (DT this) (JJ independent) (NN power) (NN producer))))) (, ,) (S (VP (VBG succeeding) (NP (NP (NNP Raymond) (NNP L.) (NNP Hixson)) (, ,) (NP (CD 63))))))) (. .)))
+Mr.Mr.NNPOPER0HixsonHixsonNNPPERSONPER0,,,OPER0whowhoWPOPER0resignedresignVBDOPER0effectiveeffectiveJJOPER0Jan.Jan.NNPDATEPER011CDDATEPER0forforINOPER0healthhealthNNOPER0reasonsreasonNNSOPER0,,,OPER0remainsremainVBZOPER0aaDTOPER0directordirectorNNOPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Hixson)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (ADJP (JJ effective) (NP (NNP Jan.) (CD 1)) (PP (IN for) (NP (NN health) (NNS reasons)))))))) (, ,)) (VP (VBZ remains) (NP (DT a) (NN director))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 27 until 32 headed by 29 parsed as (NP (NP (NNP Raymond) (NNP L.) (NNP Hixson)) (, ,) (NP (CD 63)))
+sid=1 spanning 0 until 12 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Hixson)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (ADJP (JJ effective) (NP (NNP Jan.) (CD 1)) (PP (IN for) (NP (NN health) (NNS reasons)))))))) (, ,))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Robert) (NNP L.) (NNP Wood)) (, ,) (NP (ADJP (NML (CD 37) (HYPH -) (NN year)) (HYPH -) (JJ old)) (JJ chief) (JJ financial) (NN officer)) (, ,))
+sid=0 spanning 0 until 13 headed by 2 parsed as (NP (NP (NNP Robert) (NNP L.) (NNP Wood)) (, ,) (NP (ADJP (NML (CD 37) (HYPH -) (NN year)) (HYPH -) (JJ old)) (JJ chief) (JJ financial) (NN officer)) (, ,))
+sid=0 spanning 4 until 12 headed by 11 parsed as (NP (ADJP (NML (CD 37) (HYPH -) (NN year)) (HYPH -) (JJ old)) (JJ chief) (JJ financial) (NN officer))
+sid=0 spanning 4 until 9 headed by 8 parsed as old
+sid=0 spanning 15 until 25 headed by 15 parsed as (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (DT this) (JJ independent) (NN power) (NN producer))))
+sid=0 spanning 21 until 25 headed by 24 parsed as (NP (DT this) (JJ independent) (NN power) (NN producer))
+sid=0 spanning 27 until 30 headed by 29 parsed as (NP (NP (NNP Raymond) (NNP L.) (NNP Hixson)) (, ,) (NP (CD 63)))
+sid=0 spanning 27 until 32 headed by 29 parsed as (NP (NP (NNP Raymond) (NNP L.) (NNP Hixson)) (, ,) (NP (CD 63)))
+sid=0 spanning 31 until 32 headed by 31 parsed as (NP (CD 63))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Hixson)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (ADJP (JJ effective) (NP (NNP Jan.) (CD 1)) (PP (IN for) (NP (NN health) (NNS reasons)))))))) (, ,))
+sid=1 spanning 0 until 12 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Hixson)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (ADJP (JJ effective) (NP (NNP Jan.) (CD 1)) (PP (IN for) (NP (NN health) (NNS reasons)))))))) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Hixson))
+sid=1 spanning 6 until 8 headed by 6 parsed as (NP (NNP Jan.) (CD 1))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NN health) (NNS reasons))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT a) (NN director))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Raymond L. Hixson , 63' 'Mr. Hixson , who resigned effective Jan. 1 for health reasons ,' }
+(end gold clusters)

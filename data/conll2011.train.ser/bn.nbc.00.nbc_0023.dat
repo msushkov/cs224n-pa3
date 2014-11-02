@@ -1,0 +1,54 @@
+---------gloss--------
+(0) In [4m[34m{Yemen}[0m tonightttt , [4m[35m{four men}[0m are being questioned about [4m[35m{their}[0m possible role in [4m[36m{the attack on the `` USS Cole}[0m . '' 
+(1) [4m[35m{The four , all Yemenis ,}[0m were picked up over the weekend by [4m[34m{that country 's}[0m police . 
+(2) U.S. officials describe [4m[35m{them}[0m as `` serious suspects , '' who were in touch with the suicide bombers in the day before [4m[36m{the October 13th bombing}[0m . 
+(3) The FBI has not yet questioned [4m[35m{them}[0m , however . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0023); part 000
+sentences:
+IninINOPER0YemenYemenNNPGPEPER0tonightttttonighttttCDOPER0,,,OPER0fourfourCDCARDINALPER0menmanNNSOPER0arebeVBPOPER0beingbeVBGOPER0questionedquestionVBNOPER0aboutaboutINOPER0theirtheyPRP$OPER0possiblepossibleJJOPER0roleroleNNOPER0ininINOPER0thetheDTOPER0attackattackNNOPER0ononINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1...OPER1''''''OPER0(ROOT (S (PP (IN In) (NP (NNP Yemen) (CD tonightttt))) (, ,) (NP (CD four) (NNS men)) (VP (VBP are) (VP (VBG being) (VP (VBN questioned) (PP (IN about) (NP (NP (PRP$ their) (JJ possible) (NN role)) (PP (IN in) (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole)))))))))) (. .) ('' '')))
+ThetheDTOPER0fourfourCDCARDINALPER0,,,OPER0allallDTOPER0YemenisYemenisNNPSGPEPER0,,,OPER0werebeVBDOPER0pickedpickVBNOPER0upupRPOPER0overoverINOPER0thetheDTDATEPER0weekendweekendNNDATEPER0bybyINOPER0thatthatDTOPER0countrycountryNNOPER0's'sPOSOPER0policepoliceNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (CD four)) (, ,) (NP (DT all) (NNPS Yemenis)) (, ,)) (VP (VBD were) (VP (VBN picked) (PRT (RP up)) (PP (IN over) (NP (DT the) (NN weekend))) (PP (IN by) (NP (NP (DT that) (NN country) (POS 's)) (NN police))))) (. .)))
+U.S.U.S.NNPGPEPER0officialsofficialNNSOPER0describedescribeVBPOPER0themtheyPRPOPER0asasINOPER0``````OseriousseriousJJOPER2suspectssuspectNNSOPER2,,,OPER2''''''OPER0whowhoWPOPER0werebeVBDOPER0ininINOPER0touchtouchNNOPER0withwithINOPER0thetheDTOPER0suicidesuicideNNOPER0bombersbomberNNSOPER0ininINOPER0thetheDTDATEPER0daydayNNDATEPER0beforebeforeINDATEPER0thetheDTDATEPER0OctoberOctoberNNPDATEPER013th13thJJDATEPER0bombingbombingNNOPER0...OPER0(ROOT (S (NP (NNP U.S.) (NNS officials)) (VP (VBP describe) (NP (PRP them)) (PP (IN as) (NP (`` ``) (NP (JJ serious) (NNS suspects)) (, ,) ('' '') (SBAR (WHNP (WP who)) (S (VP (VBD were) (PP (IN in) (NP (NP (NN touch)) (PP (IN with) (NP (NP (DT the) (NN suicide) (NNS bombers)) (PP (IN in) (NP (NP (DT the) (NN day)) (PP (IN before) (NP (DT the) (NNP October) (JJ 13th) (NN bombing))))))))))))))) (. .)))
+ThetheDTOPER0FBIFBINNPORGPER0hashaveVBZOPER0notnotRBOPER0yetyetRBOPER0questionedquestionVBDOPER0themtheyPRPOPER0,,,OPER0howeverhoweverRBOPER0...OPER0(ROOT (S (NP (DT The) (NNP FBI)) (VP (VBZ has) (RB not) (ADVP (RB yet)) (VP (VBD questioned) (NP (PRP them)) (, ,) (ADVP (RB however)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Yemen) (CD tonightttt))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (CD four) (NNS men))
+sid=0 spanning 10 until 11 headed by 10 parsed as their
+sid=0 spanning 14 until 21 headed by 15 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=1 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (CD four)) (, ,) (NP (DT all) (NNPS Yemenis)) (, ,))
+sid=1 spanning 13 until 16 headed by 14 parsed as (NP (DT that) (NN country) (POS 's))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP them))
+sid=2 spanning 22 until 26 headed by 25 parsed as (NP (DT the) (NNP October) (JJ 13th) (NN bombing))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (PRP them))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 3 headed by 1 parsed as (NP (NNP Yemen) (CD tonightttt))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (CD four) (NNS men))
+sid=0 spanning 10 until 21 headed by 12 parsed as (NP (NP (PRP$ their) (JJ possible) (NN role)) (PP (IN in) (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))))
+sid=0 spanning 10 until 11 headed by 10 parsed as (PRP$ their)
+sid=0 spanning 14 until 21 headed by 15 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=0 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=1 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (CD four)) (, ,) (NP (DT all) (NNPS Yemenis)) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (CD four))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN weekend))
+sid=1 spanning 13 until 17 headed by 16 parsed as (NP (NP (DT that) (NN country) (POS 's)) (NN police))
+sid=1 spanning 13 until 16 headed by 14 parsed as (NP (DT that) (NN country) (POS 's))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP U.S.) (NNS officials))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP them))
+sid=2 spanning 5 until 26 headed by 7 parsed as (NP (`` ``) (NP (JJ serious) (NNS suspects)) (, ,) ('' '') (SBAR (WHNP (WP who)) (S (VP (VBD were) (PP (IN in) (NP (NP (NN touch)) (PP (IN with) (NP (NP (DT the) (NN suicide) (NNS bombers)) (PP (IN in) (NP (NP (DT the) (NN day)) (PP (IN before) (NP (DT the) (NNP October) (JJ 13th) (NN bombing)))))))))))))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (JJ serious) (NNS suspects))
+sid=2 spanning 13 until 26 headed by 13 parsed as (NP (NP (NN touch)) (PP (IN with) (NP (NP (DT the) (NN suicide) (NNS bombers)) (PP (IN in) (NP (NP (DT the) (NN day)) (PP (IN before) (NP (DT the) (NNP October) (JJ 13th) (NN bombing))))))))
+sid=2 spanning 15 until 26 headed by 17 parsed as (NP (NP (DT the) (NN suicide) (NNS bombers)) (PP (IN in) (NP (NP (DT the) (NN day)) (PP (IN before) (NP (DT the) (NNP October) (JJ 13th) (NN bombing))))))
+sid=2 spanning 19 until 26 headed by 20 parsed as (NP (NP (DT the) (NN day)) (PP (IN before) (NP (DT the) (NNP October) (JJ 13th) (NN bombing))))
+sid=2 spanning 22 until 26 headed by 25 parsed as (NP (DT the) (NNP October) (JJ 13th) (NN bombing))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP FBI))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (PRP them))
+(end predicted mentions)
+---------gold clusters--------
+5 0 | { 'that country 's' 'Yemen' }
+2 1 4 6 8 | { 'their' 'four men' 'The four , all Yemenis ,' 'them' 'them' }
+3 7 | { 'the attack on the `` USS Cole' 'the October 13th bombing' }
+(end gold clusters)

@@ -1,0 +1,83 @@
+---------gloss--------
+(0) [4m[32m{Russian President Vladimir Putin}[0m [3m[36m{says}[0m [4m[32m{he}[0m will pardon and release [4m[33m{American businessman Edmond Pope}[0m . 
+(1) A Russian court convicted [4m[33m{Pope}[0m Wednesday on [4m[34m{espionage charges}[0m and sentenced [4m[33m{him}[0m to 20 years in prison . 
+(2) [4m[33m{Pope}[0m denied [4m[34m{the charges}[0m and appealed to [4m[32m{Putin}[0m for clemency saying [4m[33m{he}[0m needs urgent medical aid . 
+(3) [4m[33m{He}[0m has suffered from a rare type of bone cancer . 
+(4) [4m[33m{The Pennsylvania man}[0m has been jailed in Russia since April on charges [4m[33m{he}[0m tried to obtain [4m[31m{secret plans for a high - speed torpedo}[0m . 
+(5) [4m[33m{Pope , who runs a technology information company ,}[0m insisted [4m[31m{the plans}[0m were freely available . 
+(6) The Clinton administration is praising [3m[36m{the decision to release Pope}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0133); part 000
+sentences:
+RussianrussianJJOPER0PresidentPresidentNNPOPER0VladimirVladimirNNPPERSONPER0PutinPutinNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0willwillMDOPER0pardonpardonVBOPER0andandCCOPER0releasereleaseVBOPER0AmericanamericanJJOPER0businessmanbusinessmanNNOPER0EdmondEdmondNNPPERSONPER0PopePopeNNPPERSONPER0...OPER0(ROOT (S (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB pardon) (CC and) (VB release) (NP (NML (JJ American) (NN businessman)) (NNP Edmond) (NNP Pope))))))) (. .)))
+AaDTOPER0RussianrussianJJOPER0courtcourtNNOPER0convictedconvictVBDOPER0PopePopeNNPPERSONPER0WednesdayWednesdayNNPDATEPER0ononINOPER0espionageespionageNNOPER0chargeschargeNNSOPER0andandCCOPER0sentencedsentenceVBDOPER0himhePRPOPER0totoINOPER02020CDDATEPER0yearsyearNNSDATEPER0ininINOPER0prisonprisonNNOPER0...OPER0(ROOT (S (NP (DT A) (JJ Russian) (NN court)) (VP (VP (VBD convicted) (NP (NNP Pope) (NNP Wednesday)) (PP (IN on) (NP (NN espionage) (NNS charges)))) (CC and) (VP (VBD sentenced) (NP (PRP him)) (PP (IN to) (NP (NP (CD 20) (NNS years)) (PP (IN in) (NP (NN prison))))))) (. .)))
+PopePopeNNPPERSONPER0denieddenyVBDOPER0thetheDTOPER0chargeschargeNNSOPER0andandCCOPER0appealedappealVBDOPER0totoINOPER0PutinPutinNNPPERSONPER0forforINOPER0clemencyclemencyNNOPER0sayingsayVBGOPER0hehePRPOPER0needsneedVBZOPER0urgenturgentJJOPER0medicalmedicalJJOPER0aidaidNNOPER0...OPER0(ROOT (S (NP (NNP Pope)) (VP (VP (VBD denied) (NP (DT the) (NNS charges))) (CC and) (VP (VBD appealed) (PP (IN to) (NP (NNP Putin))) (PP (IN for) (NP (NN clemency)))) (S (VP (VBG saying) (SBAR (S (NP (PRP he)) (VP (VBZ needs) (NP (JJ urgent) (JJ medical) (NN aid)))))))) (. .)))
+HehePRPOPER0hashaveVBZOPER0sufferedsufferVBNOPER0fromfromINOPER0aaDTOPER0rarerareJJOPER0typetypeNNOPER0ofofINOPER0boneboneNNOPER0cancercancerNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ has) (VP (VBN suffered) (PP (IN from) (NP (NP (DT a) (JJ rare) (NN type)) (PP (IN of) (NP (NN bone) (NN cancer))))))) (. .)))
+ThetheDTOPER0PennsylvaniaPennsylvaniaNNPGPEPER0manmanNNOPER0hashaveVBZOPER0beenbeVBNOPER0jailedjailVBNOPER0ininINOPER0RussiaRussiaNNPGPEPER0sincesinceINOPER0AprilAprilNNPDATEPER0ononINOPER0chargeschargeNNSOPER0hehePRPOPER0triedtryVBDOPER0totoTOOPER0obtainobtainVBOPER0secretsecretJJOPER0plansplanNNSOPER0forforINOPER0aaDTOPER0highhighJJOPER0--HYPHOPER0speedspeedNNOPER0torpedotorpedoNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Pennsylvania) (NN man)) (VP (VBZ has) (VP (VBN been) (VP (VBN jailed) (PP (IN in) (NP (NNP Russia))) (PP (IN since) (NP (NP (NNP April)) (PP (IN on) (NP (NNS charges) (SBAR (S (NP (PRP he)) (VP (VBD tried) (S (VP (TO to) (VP (VB obtain) (NP (NP (JJ secret) (NNS plans)) (PP (IN for) (NP (DT a) (NML (JJ high) (HYPH -) (NN speed)) (NN torpedo))))))))))))))))) (. .)))
+PopePopeNNPPERSONPER0,,,OPER0whowhoWPOPER0runsrunVBZOPER0aaDTOPER0technologytechnologyNNOPER0informationinformationNNOPER0companycompanyNNOPER0,,,OPER0insistedinsistVBDOPER0thetheDTOPER0plansplanNNSOPER0werebeVBDOPER0freelyfreelyRBOPER0availableavailableJJOPER0...OPER0(ROOT (S (NP (NP (NNP Pope)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ runs) (NP (DT a) (NML (NN technology) (NN information)) (NN company))))) (, ,)) (VP (VBD insisted) (SBAR (S (NP (DT the) (NNS plans)) (VP (VBD were) (ADJP (RB freely) (JJ available)))))) (. .)))
+ThetheDTOPER0ClintonClintonNNPPERSONPER0administrationadministrationNNOPER0isbeVBZOPER0praisingpraiseVBGOPER0thetheDTOPER0decisiondecisionNNOPER0totoTOOPER0releasereleaseVBOPER0PopePopeNNPPERSONPER0...OPER0(ROOT (S (NP (DT The) (NNP Clinton) (NN administration)) (VP (VBZ is) (VP (VBG praising) (S (NP (DT the) (NN decision)) (VP (TO to) (VP (VB release) (NP (NNP Pope))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin))
+sid=0 spanning 4 until 5 headed by 4 parsed as says
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NML (JJ American) (NN businessman)) (NNP Edmond) (NNP Pope))
+sid=1 spanning 4 until 5 headed by 4 parsed as Pope
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NN espionage) (NNS charges))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP him))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Pope))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS charges))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Putin))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Pennsylvania) (NN man))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP he))
+sid=4 spanning 16 until 24 headed by 17 parsed as (NP (NP (JJ secret) (NNS plans)) (PP (IN for) (NP (DT a) (NML (JJ high) (HYPH -) (NN speed)) (NN torpedo))))
+sid=5 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP Pope)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ runs) (NP (DT a) (NML (NN technology) (NN information)) (NN company))))) (, ,))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS plans))
+sid=6 spanning 5 until 10 headed by 8 parsed as release
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NNP Pope))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NML (JJ American) (NN businessman)) (NNP Edmond) (NNP Pope))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ Russian) (NN court))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NNP Pope) (NNP Wednesday))
+sid=1 spanning 4 until 5 headed by 4 parsed as Pope
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NN espionage) (NNS charges))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP him))
+sid=1 spanning 13 until 17 headed by 14 parsed as (NP (NP (CD 20) (NNS years)) (PP (IN in) (NP (NN prison))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Pope))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS charges))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Putin))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 4 until 10 headed by 6 parsed as (NP (NP (DT a) (JJ rare) (NN type)) (PP (IN of) (NP (NN bone) (NN cancer))))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (NN bone) (NN cancer))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Pennsylvania) (NN man))
+sid=4 spanning 1 until 2 headed by 1 parsed as Pennsylvania
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (NNP Russia))
+sid=4 spanning 9 until 24 headed by 9 parsed as (NP (NP (NNP April)) (PP (IN on) (NP (NNS charges) (SBAR (S (NP (PRP he)) (VP (VBD tried) (S (VP (TO to) (VP (VB obtain) (NP (NP (JJ secret) (NNS plans)) (PP (IN for) (NP (DT a) (NML (JJ high) (HYPH -) (NN speed)) (NN torpedo)))))))))))))
+sid=4 spanning 11 until 24 headed by 11 parsed as (NP (NNS charges) (SBAR (S (NP (PRP he)) (VP (VBD tried) (S (VP (TO to) (VP (VB obtain) (NP (NP (JJ secret) (NNS plans)) (PP (IN for) (NP (DT a) (NML (JJ high) (HYPH -) (NN speed)) (NN torpedo)))))))))))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP he))
+sid=4 spanning 16 until 24 headed by 17 parsed as (NP (NP (JJ secret) (NNS plans)) (PP (IN for) (NP (DT a) (NML (JJ high) (HYPH -) (NN speed)) (NN torpedo))))
+sid=4 spanning 19 until 24 headed by 23 parsed as (NP (DT a) (NML (JJ high) (HYPH -) (NN speed)) (NN torpedo))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Pope)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ runs) (NP (DT a) (NML (NN technology) (NN information)) (NN company))))) (, ,))
+sid=5 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP Pope)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ runs) (NP (DT a) (NML (NN technology) (NN information)) (NN company))))) (, ,))
+sid=5 spanning 4 until 8 headed by 7 parsed as (NP (DT a) (NML (NN technology) (NN information)) (NN company))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS plans))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Clinton) (NN administration))
+sid=6 spanning 1 until 2 headed by 1 parsed as Clinton
+sid=6 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN decision))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NNP Pope))
+(end predicted mentions)
+---------gold clusters--------
+17 1 | { 'the decision to release Pope' 'says' }
+14 16 | { 'secret plans for a high - speed torpedo' 'the plans' }
+9 0 2 | { 'Putin' 'Russian President Vladimir Putin' 'he' }
+13 7 6 12 11 3 10 15 4 18 | { 'he' 'Pope' 'him' 'The Pennsylvania man' 'He' 'American businessman Edmond Pope' 'he' 'Pope , who runs a technology information company ,' 'Pope' 'Pope' }
+8 5 | { 'the charges' 'espionage charges' }
+(end gold clusters)

@@ -1,0 +1,31 @@
+---------gloss--------
+(0) [3m[36m{Concord Camera Corp.}[0m completed the acquisition of Peter Bauser G.m.b . H. , a West German photographic products distributor . 
+(1) Terms were n't disclosed . 
+(2) [3m[36m{Concord}[0m is a camera and photographic products company . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1060); part 000
+sentences:
+ConcordConcordNNPORGPER0CameracameraNNORGPER0Corp.Corp.NNPORGPER0completedcompleteVBDOPER0thetheDTOPER0acquisitionacquisitionNNOPER0ofofINOPER0PeterPeterNNPORGPER0BauserBauserNNPORGPER0G.m.bG.m.bNNPORGPER0...ORGPER0H.H.NNPORGPER0,,,OPER0aaDTOPER0WestWestNNPOPER0GermanGermanNNPOPER0photographicphotographicNNOPER0productsproductNNSOPER0distributordistributorNNOPER0...OPER0(ROOT (S (NP (NNP Concord) (NN Camera) (NNP Corp.)) (VP (VBD completed) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (NNP Peter) (NNP Bauser) (NNP G.m.b) (. .) (NNP H.)) (, ,) (NP (DT a) (NML (NNP West) (NNP German)) (NML (NN photographic) (NNS products)) (NN distributor)))))) (. .)))
+TermstermNNSOPER0werebeVBDOPER0n'tnotRBOPER0discloseddiscloseVBNOPER0...OPER0(ROOT (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+ConcordConcordNNPORGPER0isbeVBZOPER0aaDTOPER0cameracameraNNOPER0andandCCOPER0photographicphotographicJJOPER0productsproductNNSOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NNP Concord)) (VP (VBZ is) (NP (NP (DT a) (NN camera)) (CC and) (NP (NML (JJ photographic) (NNS products)) (NN company)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Concord) (NN Camera) (NNP Corp.))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Concord))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Concord) (NN Camera) (NNP Corp.))
+sid=0 spanning 4 until 19 headed by 5 parsed as (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (NNP Peter) (NNP Bauser) (NNP G.m.b) (. .) (NNP H.)) (, ,) (NP (DT a) (NML (NNP West) (NNP German)) (NML (NN photographic) (NNS products)) (NN distributor)))))
+sid=0 spanning 7 until 12 headed by 11 parsed as (NP (NP (NNP Peter) (NNP Bauser) (NNP G.m.b) (. .) (NNP H.)) (, ,) (NP (DT a) (NML (NNP West) (NNP German)) (NML (NN photographic) (NNS products)) (NN distributor)))
+sid=0 spanning 7 until 19 headed by 11 parsed as (NP (NP (NNP Peter) (NNP Bauser) (NNP G.m.b) (. .) (NNP H.)) (, ,) (NP (DT a) (NML (NNP West) (NNP German)) (NML (NN photographic) (NNS products)) (NN distributor)))
+sid=0 spanning 13 until 19 headed by 18 parsed as (NP (DT a) (NML (NNP West) (NNP German)) (NML (NN photographic) (NNS products)) (NN distributor))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Terms))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Concord))
+sid=2 spanning 2 until 8 headed by 3 parsed as (NP (NP (DT a) (NN camera)) (CC and) (NP (NML (JJ photographic) (NNS products)) (NN company)))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT a) (NN camera))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Concord Camera Corp.' 'Concord' }
+(end gold clusters)

@@ -1,0 +1,57 @@
+---------gloss--------
+(0) For killing [1m[31m{his}[0m wife and three children the oldest of whom was three , [1m[31m{Christian Longo}[0m had been [1m[32m{sentenced}[0m to die . 
+(1) Prosecutors say [1m[31m{Longo}[0m killed [1m[31m{his}[0m family because [1m[33m{they}[0m stood before [1m[31m{him}[0m and the life [1m[31m{he}[0m craved . 
+(2) The jury deliberated for three hours before returning [1m[32m{a death sentence}[0m . 
+(3) Now CNN 's coverage of the new Iraq continues . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0292); part 000
+sentences:
+ForforINOPER0killingkillVBGOPER0hishePRP$OPER0wifewifeNNOPER0andandCCOPER0threethreeCDCARDINALPER0childrenchildNNSOPER0thetheDTOPER0oldestoldestJJSOPER0ofofINOPER0whomwhomWPOPER0wasbeVBDOPER0threethreeCDCARDINALPER0,,,OPER0ChristianChristianNNPPERSONPER0LongoLongoNNPPERSONPER0hadhaveVBDOPER0beenbeVBNOPER0sentencedsentenceVBNOPER0totoTOOPER0diedieVBOPER0...OPER0(ROOT (S (PP (IN For) (S (VP (VBG killing) (NP (NP (NP (PRP$ his) (NN wife)) (CC and) (NP (CD three) (NNS children))) (NP (NP (DT the) (JJS oldest)) (PP (IN of) (SBAR (WHNP (WP whom)) (S (VP (VBD was) (NP (CD three))))))))))) (, ,) (NP (NNP Christian) (NNP Longo)) (VP (VBD had) (VP (VBN been) (VP (VBN sentenced) (S (VP (TO to) (VP (VB die))))))) (. .)))
+ProsecutorsprosecutorNNSOPER0saysayVBPOPER0LongoLongoNNPORGPER0killedkillVBDOPER0hishePRP$OPER0familyfamilyNNOPER0becausebecauseINOPER0theytheyPRPOPER0stoodstandVBDOPER0beforebeforeINOPER0himhePRPOPER0andandCCOPER0thetheDTOPER0lifelifeNNOPER0hehePRPOPER0cravedcraveVBDOPER0...OPER0(ROOT (S (NP (NNS Prosecutors)) (VP (VBP say) (SBAR (S (NP (NNP Longo)) (VP (VBD killed) (NP (PRP$ his) (NN family)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBD stood) (PP (IN before) (NP (NP (PRP him)) (CC and) (NP (NP (DT the) (NN life)) (SBAR (S (NP (PRP he)) (VP (VBD craved)))))))))))))) (. .)))
+ThetheDTOPER0juryjuryNNOPER0deliberateddeliberateVBNOPER0forforINOPER0threethreeCDTIMEPER0hourshourNNSTIMEPER0beforebeforeINOPER0returningreturnVBGOPER0aaDTOPER0deathdeathNNOPER0sentencesentenceNNOPER0...OPER0(ROOT (S (NP (DT The) (NN jury)) (VP (VBN deliberated) (PP (IN for) (NP (CD three) (NNS hours))) (PP (IN before) (S (VP (VBG returning) (NP (DT a) (NN death) (NN sentence)))))) (. .)))
+NownowRBOPER0CNNCNNNNPORGPER0's'sPOSOPER0coveragecoverageNNOPER0ofofINOPER0thetheDTOPER0newnewJJOPER0IraqIraqNNPGPEPER0continuescontinueVBZOPER0...OPER0(ROOT (S (ADVP (RB Now)) (NP (NP (NP (NNP CNN) (POS 's)) (NN coverage)) (PP (IN of) (NP (DT the) (JJ new) (NNP Iraq)))) (VP (VBZ continues)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 13 headed by 3 parsed as (NP (NP (NP (PRP$ his) (NN wife)) (CC and) (NP (CD three) (NNS children))) (NP (NP (DT the) (JJS oldest)) (PP (IN of) (SBAR (WHNP (WP whom)) (S (VP (VBD was) (NP (CD three))))))))
+sid=0 spanning 2 until 3 headed by 2 parsed as his
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (NNP Christian) (NNP Longo))
+sid=0 spanning 18 until 19 headed by 18 parsed as sentenced
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Longo))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ his) (NN family))
+sid=1 spanning 4 until 5 headed by 4 parsed as his
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NP (PRP him)) (CC and) (NP (NP (DT the) (NN life)) (SBAR (S (NP (PRP he)) (VP (VBD craved))))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT a) (NN death) (NN sentence))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 13 headed by 3 parsed as (NP (NP (NP (PRP$ his) (NN wife)) (CC and) (NP (CD three) (NNS children))) (NP (NP (DT the) (JJS oldest)) (PP (IN of) (SBAR (WHNP (WP whom)) (S (VP (VBD was) (NP (CD three))))))))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ his) (NN wife))
+sid=0 spanning 2 until 3 headed by 2 parsed as (PRP$ his)
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (CD three) (NNS children))
+sid=0 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT the) (JJS oldest)) (PP (IN of) (SBAR (WHNP (WP whom)) (S (VP (VBD was) (NP (CD three)))))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (CD three))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (NNP Christian) (NNP Longo))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Prosecutors))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Longo))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ his) (NN family))
+sid=1 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=1 spanning 10 until 16 headed by 10 parsed as (NP (NP (PRP him)) (CC and) (NP (NP (DT the) (NN life)) (SBAR (S (NP (PRP he)) (VP (VBD craved))))))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (PRP him))
+sid=1 spanning 12 until 16 headed by 13 parsed as (NP (NP (DT the) (NN life)) (SBAR (S (NP (PRP he)) (VP (VBD craved)))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN jury))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (CD three) (NNS hours))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT a) (NN death) (NN sentence))
+sid=3 spanning 1 until 8 headed by 3 parsed as (NP (NP (NP (NNP CNN) (POS 's)) (NN coverage)) (PP (IN of) (NP (DT the) (JJ new) (NNP Iraq))))
+sid=3 spanning 1 until 3 headed by 1 parsed as (NP (NNP CNN) (POS 's))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ new) (NNP Iraq))
+(end predicted mentions)
+---------gold clusters--------
+1 4 6 9 2 8 | { 'his' 'Longo' 'his' 'he' 'Christian Longo' 'him' }
+3 10 | { 'sentenced' 'a death sentence' }
+0 7 5 | { 'his wife and three children the oldest of whom was three' 'they' 'his family' }
+(end gold clusters)

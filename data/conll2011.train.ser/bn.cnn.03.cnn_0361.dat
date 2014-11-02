@@ -1,0 +1,110 @@
+---------gloss--------
+(0) Night opens on [1m[32m{the `` USS John C. Stennis}[0m . '' 
+(1) On this deployment they primarily fly after dark so [1m[32m{the ship 's}[0m schedule is upside down , the crew sleeps by day and works all night . 
+(2) This is day two of war time operations for the `` [1m[32m{Stennis}[0m '' and `` Operation Iraqi Freedom . '' 
+(3) For the next 12 hours into the morning , planes from [1m[32m{the carrier}[0m will fly missions over Afghanistan . 
+(4) There is only a faint orange light on deck , punctuated by this . 
+(5) To adjust [1m[34m{their}[0m eyes for night vision , [1m[34m{crew members}[0m make [1m[34m{their}[0m way through passageways glowing in dim red light . 
+(6) On [1m[31m{the flight deck}[0m , a walkover check for debris is lit only by flashlight . 
+(7) The dangers of [1m[31m{the flight deck being blown overboard by jets , sliced by propellers or other hazards}[0m that are hard enough to avoid in daylight are all the more intense at night . 
+(8) [1m[35m{The intricate coordination of launch and recovery}[0m plays out as a dance in the darkness . 
+(9) The complexity of [1m[35m{it all}[0m has been described as a ballet and if [1m[35m{it}[0m is a ballet , [1m[33m{the choreographer of the flight deck}[0m is this man here . 
+(10) [1m[33m{He}[0m is the handler . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0361); part 000
+sentences:
+NightnightNNOPER0opensopenVBZOPER0ononINOPER0thetheDTOPER0``````OUSSUSSNNPPRODUCTPER1JohnJohnNNPPERSONPER1C.C.NNPPERSONPER1StennisStennisNNPPERSONPER1...OPER1''''''OPER0(ROOT (S (NP (NN Night)) (VP (VBZ opens) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP John) (NNP C.) (NNP Stennis)))) (. .) ('' '')))
+OnonINOPER0thisthisDTOPER0deploymentdeploymentNNOPER0theytheyPRPOPER0primarilyprimarilyRBOPER0flyflyVBPOPER0afterafterINOPER0darkdarkNNOPER0sosoINOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0schedulescheduleNNOPER0isbeVBZOPER0upsideupsideRBOPER0downdownRBOPER0,,,OPER0thetheDTOPER0crewcrewNNOPER0sleepssleepVBZOPER0bybyINOPER0daydayNNDATEPER0andandCCOPER0worksworkVBZOPER0allallDTTIMEPER0nightnightNNTIMEPER0...OPER0(ROOT (S (PP (IN On) (NP (NP (DT this) (NN deployment)) (SBAR (S (NP (PRP they)) (ADVP (RB primarily)) (VP (VBP fly) (PP (IN after) (NP (NN dark))) (SBAR (IN so) (S (NP (NP (DT the) (NN ship) (POS 's)) (NN schedule)) (VP (VBZ is) (ADVP (RB upside) (RB down)))))))))) (, ,) (NP (DT the) (NN crew)) (VP (VP (VBZ sleeps) (PP (IN by) (NP (NN day)))) (CC and) (VP (VBZ works) (NP (DT all) (NN night)))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0daydayNNOPER0twotwoCDCARDINALPER0ofofINOPER0warwarNNOPER0timetimeNNOPER0operationsoperationNNSOPER0forforINOPER0thetheDTOPER0``````OStennisStennisNNPWORK_OF_ARTPER2''''''OPER0andandCCOPER0``````OOperationOperationNNPWORK_OF_ARTPER3IraqiIraqiNNPWORK_OF_ARTPER3FreedomFreedomNNPWORK_OF_ARTPER3...OPER3''''''OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (NN day) (CD two)) (PP (IN of) (NP (NP (NML (NN war) (NN time)) (NNS operations)) (PP (IN for) (NP (NP (DT the) (`` ``) (NNP Stennis) ('' '')) (CC and) (NP (`` ``) (NNP Operation) (NNP Iraqi) (NNP Freedom)))))))) (. .) ('' '')))
+ForforINOPER0thetheDTTIMEPER0nextnextJJTIMEPER01212CDTIMEPER0hourshourNNSTIMEPER0intointoINOPER0thetheDTTIMEPER0morningmorningNNTIMEPER0,,,OPER0planesplaneNNSOPER0fromfromINOPER0thetheDTOPER0carriercarrierNNOPER0willwillMDOPER0flyflyVBOPER0missionsmissionNNSOPER0overoverINOPER0AfghanistanAfghanistanNNPGPEPER0...OPER0(ROOT (S (PP (IN For) (NP (NP (DT the) (JJ next) (CD 12) (NNS hours)) (PP (IN into) (NP (DT the) (NN morning))))) (, ,) (NP (NP (NNS planes)) (PP (IN from) (NP (DT the) (NN carrier)))) (VP (MD will) (VP (VB fly) (NP (NP (NNS missions)) (PP (IN over) (NP (NNP Afghanistan)))))) (. .)))
+TherethereEXOPER0isbeVBZOPER0onlyonlyRBOPER0aaDTOPER0faintfaintJJOPER0orangeorangeJJOPER0lightlightNNOPER0ononINOPER0deckdeckNNOPER0,,,OPER0punctuatedpunctuateVBNOPER0bybyINOPER0thisthisDTOPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBZ is) (NP (NP (RB only) (DT a) (JJ faint) (JJ orange) (NN light)) (PP (IN on) (NP (NP (NN deck)) (, ,) (VP (VBN punctuated) (PP (IN by) (NP (DT this)))))))) (. .)))
+TotoTOOPER0adjustadjustVBOPER0theirtheyPRP$OPER0eyeseyeNNSOPER0forforINOPER0nightnightNNOPER0visionvisionNNOPER0,,,OPER0crewcrewNNOPER0membersmemberNNSOPER0makemakeVBPOPER0theirtheyPRP$OPER0waywayNNOPER0throughthroughINOPER0passagewayspassagewayNNSOPER0glowingglowVBGOPER0ininINOPER0dimdimJJOPER0redredJJOPER0lightlightNNOPER0...OPER0(ROOT (S (S (VP (TO To) (VP (VB adjust) (NP (PRP$ their) (NNS eyes)) (PP (IN for) (NP (NN night) (NN vision)))))) (, ,) (NP (NN crew) (NNS members)) (VP (VBP make) (NP (NP (PRP$ their) (NN way)) (PP (IN through) (NP (NP (NNS passageways)) (VP (VBG glowing) (PP (IN in) (NP (JJ dim) (JJ red) (NN light)))))))) (. .)))
+OnonINOPER0thetheDTOPER0flightflightNNOPER0deckdeckNNOPER0,,,OPER0aaDTOPER0walkoverwalkoverNNOPER0checkcheckNNOPER0forforINOPER0debrisdebrisNNOPER0isbeVBZOPER0litlightVBNOPER0onlyonlyRBOPER0bybyINOPER0flashlightflashlightNNOPER0...OPER0(ROOT (S (PP (IN On) (NP (DT the) (NN flight) (NN deck))) (, ,) (NP (NP (DT a) (NN walkover) (NN check)) (PP (IN for) (NP (NN debris)))) (VP (VBZ is) (VP (VBN lit) (PP (ADVP (RB only)) (IN by) (NP (NN flashlight))))) (. .)))
+ThetheDTOPER0dangersdangerNNSOPER0ofofINOPER0thetheDTOPER0flightflightNNOPER0deckdeckNNOPER0beingbeVBGOPER0blownblowVBNOPER0overboardoverboardRBOPER0bybyINOPER0jetsjetNNSOPER0,,,OPER0slicedsliceVBNOPER0bybyINOPER0propellerspropellerNNSOPER0ororCCOPER0otherotherJJOPER0hazardshazardNNSOPER0thatthatWDTOPER0arebeVBPOPER0hardhardJJOPER0enoughenoughRBOPER0totoTOOPER0avoidavoidVBOPER0ininINOPER0daylightdaylightNNTIMEPER0arebeVBPOPER0allallPDTOPER0thetheDTOPER0moremoreRBROPER0intenseintenseJJOPER0atatINOPER0nightnightNNTIMEPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS dangers)) (PP (IN of) (NP (DT the) (NN flight) (NN deck)))) (VP (VBG being) (VP (VBN blown) (ADVP (RB overboard)) (PP (IN by) (NP (NP (NNS jets)) (, ,) (VP (VBN sliced) (PP (IN by) (NP (NP (NNS propellers)) (CC or) (NP (NP (JJ other) (NNS hazards)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ hard) (RB enough) (S (VP (TO to) (VP (VB avoid) (PP (IN in) (NP (NP (NN daylight)) (SBAR (S (VP (VBP are) (ADJP (ADVP (PDT all) (DT the) (RBR more)) (JJ intense) (PP (IN at) (NP (NN night)))))))))))))))))))))))) (. .)))
+ThetheDTOPER0intricateintricateJJOPER0coordinationcoordinationNNOPER0ofofINOPER0launchlaunchNNOPER0andandCCOPER0recoveryrecoveryNNOPER0playsplayVBZOPER0outoutRPOPER0asasINOPER0aaDTOPER0dancedanceNNOPER0ininINOPER0thetheDTOPER0darknessdarknessNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ intricate) (NN coordination)) (PP (IN of) (NP (NN launch) (CC and) (NN recovery)))) (VP (VBZ plays) (PRT (RP out)) (PP (IN as) (NP (NP (DT a) (NN dance)) (PP (IN in) (NP (DT the) (NN darkness)))))) (. .)))
+ThetheDTOPER0complexitycomplexityNNOPER0ofofINOPER0ititPRPOPER0allallDTOPER0hashaveVBZOPER0beenbeVBNOPER0describeddescribeVBNOPER0asasINOPER0aaDTOPER0balletballetNNOPER0andandCCOPER0ififINOPER0ititPRPOPER0isbeVBZOPER0aaDTOPER0balletballetNNOPER0,,,OPER0thetheDTOPER0choreographerchoreographerNNOPER0ofofINOPER0thetheDTOPER0flightflightNNOPER0deckdeckNNOPER0isbeVBZOPER0thisthisDTOPER0manmanNNOPER0herehereRBOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (NP (PRP it)) (NP (DT all))))) (VP (VBZ has) (VP (VBN been) (VP (VBN described) (PP (IN as) (NP (DT a) (NN ballet))))))) (CC and) (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (NP (DT a) (NN ballet))))) (, ,) (NP (NP (DT the) (NN choreographer)) (PP (IN of) (NP (DT the) (NN flight) (NN deck)))) (VP (VBZ is) (NP (NP (DT this) (NN man)) (ADVP (RB here))))) (. .)))
+HehePRPOPER0isbeVBZOPER0thetheDTOPER0handlerhandlerNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ is) (NP (DT the) (NN handler))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 9 headed by 8 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP John) (NNP C.) (NNP Stennis))
+sid=1 spanning 9 until 12 headed by 10 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NP (DT the) (`` ``) (NNP Stennis) ('' '')) (CC and) (NP (`` ``) (NNP Operation) (NNP Iraqi) (NNP Freedom)))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN carrier))
+sid=5 spanning 2 until 3 headed by 2 parsed as their
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (NN crew) (NNS members))
+sid=5 spanning 11 until 12 headed by 11 parsed as their
+sid=6 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NN flight) (NN deck))
+sid=7 spanning 3 until 18 headed by 5 parsed as (NP (DT the) (NN flight) (NN deck))
+sid=8 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT The) (JJ intricate) (NN coordination)) (PP (IN of) (NP (NN launch) (CC and) (NN recovery))))
+sid=9 spanning 3 until 5 headed by 3 parsed as (NP (NP (PRP it)) (NP (DT all)))
+sid=9 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=9 spanning 18 until 24 headed by 19 parsed as (NP (NP (DT the) (NN choreographer)) (PP (IN of) (NP (DT the) (NN flight) (NN deck))))
+sid=9 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN flight) (NN deck))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NN Night))
+sid=0 spanning 3 until 9 headed by 8 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP John) (NNP C.) (NNP Stennis))
+sid=0 spanning 5 until 6 headed by 5 parsed as USS
+sid=1 spanning 1 until 16 headed by 2 parsed as (NP (NP (DT this) (NN deployment)) (SBAR (S (NP (PRP they)) (ADVP (RB primarily)) (VP (VBP fly) (PP (IN after) (NP (NN dark))) (SBAR (IN so) (S (NP (NP (DT the) (NN ship) (POS 's)) (NN schedule)) (VP (VBZ is) (ADVP (RB upside) (RB down)))))))))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=1 spanning 9 until 13 headed by 12 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NN schedule))
+sid=1 spanning 9 until 12 headed by 10 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN crew))
+sid=1 spanning 21 until 22 headed by 21 parsed as (NP (NN day))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=2 spanning 2 until 18 headed by 2 parsed as (NP (NP (NN day) (CD two)) (PP (IN of) (NP (NP (NML (NN war) (NN time)) (NNS operations)) (PP (IN for) (NP (NP (DT the) (`` ``) (NNP Stennis) ('' '')) (CC and) (NP (`` ``) (NNP Operation) (NNP Iraqi) (NNP Freedom)))))))
+sid=2 spanning 9 until 18 headed by 11 parsed as (NP (NP (DT the) (`` ``) (NNP Stennis) ('' '')) (CC and) (NP (`` ``) (NNP Operation) (NNP Iraqi) (NNP Freedom)))
+sid=2 spanning 9 until 13 headed by 11 parsed as (NP (DT the) (`` ``) (NNP Stennis) ('' ''))
+sid=2 spanning 14 until 18 headed by 17 parsed as (NP (`` ``) (NNP Operation) (NNP Iraqi) (NNP Freedom))
+sid=3 spanning 1 until 8 headed by 4 parsed as (NP (NP (DT the) (JJ next) (CD 12) (NNS hours)) (PP (IN into) (NP (DT the) (NN morning))))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN morning))
+sid=3 spanning 9 until 13 headed by 9 parsed as (NP (NP (NNS planes)) (PP (IN from) (NP (DT the) (NN carrier))))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN carrier))
+sid=3 spanning 15 until 18 headed by 15 parsed as (NP (NP (NNS missions)) (PP (IN over) (NP (NNP Afghanistan))))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (NNP Afghanistan))
+sid=4 spanning 2 until 13 headed by 6 parsed as (NP (NP (RB only) (DT a) (JJ faint) (JJ orange) (NN light)) (PP (IN on) (NP (NP (NN deck)) (, ,) (VP (VBN punctuated) (PP (IN by) (NP (DT this)))))))
+sid=4 spanning 8 until 13 headed by 8 parsed as (NP (NP (NN deck)) (, ,) (VP (VBN punctuated) (PP (IN by) (NP (DT this)))))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (DT this))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ their) (NNS eyes))
+sid=5 spanning 2 until 3 headed by 2 parsed as (PRP$ their)
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (NN night) (NN vision))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (NN crew) (NNS members))
+sid=5 spanning 11 until 20 headed by 12 parsed as (NP (NP (PRP$ their) (NN way)) (PP (IN through) (NP (NP (NNS passageways)) (VP (VBG glowing) (PP (IN in) (NP (JJ dim) (JJ red) (NN light)))))))
+sid=5 spanning 11 until 12 headed by 11 parsed as (PRP$ their)
+sid=5 spanning 14 until 20 headed by 14 parsed as (NP (NP (NNS passageways)) (VP (VBG glowing) (PP (IN in) (NP (JJ dim) (JJ red) (NN light)))))
+sid=6 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NN flight) (NN deck))
+sid=6 spanning 5 until 10 headed by 7 parsed as (NP (NP (DT a) (NN walkover) (NN check)) (PP (IN for) (NP (NN debris))))
+sid=7 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NNS dangers)) (PP (IN of) (NP (DT the) (NN flight) (NN deck))))
+sid=7 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NN flight) (NN deck))
+sid=7 spanning 10 until 33 headed by 10 parsed as (NP (NP (NNS jets)) (, ,) (VP (VBN sliced) (PP (IN by) (NP (NP (NNS propellers)) (CC or) (NP (NP (JJ other) (NNS hazards)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ hard) (RB enough) (S (VP (TO to) (VP (VB avoid) (PP (IN in) (NP (NP (NN daylight)) (SBAR (S (VP (VBP are) (ADJP (ADVP (PDT all) (DT the) (RBR more)) (JJ intense) (PP (IN at) (NP (NN night)))))))))))))))))))))
+sid=7 spanning 10 until 11 headed by 10 parsed as (NP (NNS jets))
+sid=7 spanning 14 until 33 headed by 14 parsed as (NP (NP (NNS propellers)) (CC or) (NP (NP (JJ other) (NNS hazards)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ hard) (RB enough) (S (VP (TO to) (VP (VB avoid) (PP (IN in) (NP (NP (NN daylight)) (SBAR (S (VP (VBP are) (ADJP (ADVP (PDT all) (DT the) (RBR more)) (JJ intense) (PP (IN at) (NP (NN night))))))))))))))))))
+sid=7 spanning 14 until 15 headed by 14 parsed as (NP (NNS propellers))
+sid=7 spanning 16 until 33 headed by 17 parsed as (NP (NP (JJ other) (NNS hazards)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ hard) (RB enough) (S (VP (TO to) (VP (VB avoid) (PP (IN in) (NP (NP (NN daylight)) (SBAR (S (VP (VBP are) (ADJP (ADVP (PDT all) (DT the) (RBR more)) (JJ intense) (PP (IN at) (NP (NN night)))))))))))))))))
+sid=7 spanning 25 until 33 headed by 25 parsed as (NP (NP (NN daylight)) (SBAR (S (VP (VBP are) (ADJP (ADVP (PDT all) (DT the) (RBR more)) (JJ intense) (PP (IN at) (NP (NN night))))))))
+sid=7 spanning 32 until 33 headed by 32 parsed as (NP (NN night))
+sid=8 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT The) (JJ intricate) (NN coordination)) (PP (IN of) (NP (NN launch) (CC and) (NN recovery))))
+sid=8 spanning 4 until 7 headed by 4 parsed as (NP (NN launch) (CC and) (NN recovery))
+sid=8 spanning 10 until 15 headed by 11 parsed as (NP (NP (DT a) (NN dance)) (PP (IN in) (NP (DT the) (NN darkness))))
+sid=8 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN darkness))
+sid=9 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN complexity)) (PP (IN of) (NP (NP (PRP it)) (NP (DT all)))))
+sid=9 spanning 3 until 5 headed by 3 parsed as (NP (NP (PRP it)) (NP (DT all)))
+sid=9 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NN ballet))
+sid=9 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=9 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN ballet))
+sid=9 spanning 18 until 24 headed by 19 parsed as (NP (NP (DT the) (NN choreographer)) (PP (IN of) (NP (DT the) (NN flight) (NN deck))))
+sid=9 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN flight) (NN deck))
+sid=9 spanning 25 until 28 headed by 26 parsed as (NP (NP (DT this) (NN man)) (ADVP (RB here)))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN handler))
+(end predicted mentions)
+---------gold clusters--------
+8 7 13 | { 'the flight deck being blown overboard by jets , sliced by propellers or other hazards' 'the flight deck' 'the flight deck' }
+2 3 1 0 | { 'Stennis' 'the carrier' 'the ship 's' 'the `` USS John C. Stennis' }
+14 12 | { 'He' 'the choreographer of the flight deck' }
+4 6 5 | { 'their' 'their' 'crew members' }
+10 11 9 | { 'it all' 'it' 'The intricate coordination of launch and recovery' }
+(end gold clusters)

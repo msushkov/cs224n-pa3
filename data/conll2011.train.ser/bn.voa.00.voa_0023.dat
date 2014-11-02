@@ -1,0 +1,151 @@
+---------gloss--------
+(0) 01:45 Universal Time . 
+(1) This is [34m{VOA}[0m News now . 
+(2) [1m[31m{A new and simple blood test}[0m may soon be available to help [1m[32m{doctors}[0m tell which of [1m[32m{their}[0m diabetic patients is most likely to develop crippling and life - threatening complications . 
+(3) [34m{VOA 's}[0m Jessica Berman explains . 
+(4) [1m[36m{Researcher Andrew Levi}[0m says scientists have long been puzzled by the question of which diabetics develop [32m{complications}[0m and why . 
+(5) We know that [32m{the complications}[0m are directly related to a couple of things . 
+(6) One is how long you 've had [1m[33m{the diabetes}[0m , how well you 've been controlled , but it 's clear that [36m{people with the same level of control of their glucose , same duration of the diabetes}[0m differ dramatically in [36m{their}[0m susceptibility to [32m{these complications that are so devastating}[0m . 
+(7) [1m[36m{Dr. Levi}[0m says one third of insulin taking patients ends up with kidney failure and 80 % develop blinding eye disease . 
+(8) Scientists have suspected there must be [35m{something different about the genetic make - up of diabetics who develop complications}[0m ; and [35m{that difference}[0m may have to do with haptoglobin , a protein whose function is to mop up [1m[35m{blood vessel destroying free radicals}[0m . 
+(9) [1m[35m{The free radicals}[0m are released when oxygen carrying red blood cells called haemoglobin die . 
+(10) [1m[36m{Andrew Levi}[0m says there are three different types of haptoglobin and [1m[36m{he}[0m and [1m[36m{his}[0m colleagues at [1m[34m{Israel 's Technion Institute}[0m have found that one type of haptoglobin called Type 1 - 1 appears protective against diabetic complications while the other two types do not . 
+(11) [33m{Researchers at Technion Institute led by Dr. Levi}[0m have developed [1m[31m{a simple blood test to let doctors and patients know who is most likely to develop diabetic complications}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0023); part 000
+sentences:
+01:4501:45CDTIMEPER0UniversalUniversalNNPORGPER0TimeTimeNNPORGPER0...OPER0(ROOT (FRAG (NP (CD 01:45)) (NP (NNP Universal) (NNP Time)) (. .)))
+ThisthisDTOPER0isbeVBZOPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0nownowRBOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (NNP VOA) (NNP News)) (ADVP (RB now)))) (. .)))
+AaDTOPER0newnewJJOPER0andandCCOPER0simplesimpleJJOPER0bloodbloodNNOPER0testtestNNOPER0maymayMDOPER0soonsoonRBOPER0bebeVBOPER0availableavailableJJOPER0totoTOOPER0helphelpVBOPER0doctorsdoctorNNSOPER0telltellVBOPER0whichwhichWDTOPER0ofofINOPER0theirtheyPRP$OPER0diabeticdiabeticJJOPER0patientspatientNNSOPER0isbeVBZOPER0mostmostRBSOPER0likelylikelyJJOPER0totoTOOPER0developdevelopVBOPER0cripplingcripplingJJOPER0andandCCOPER0lifelifeNNOPER0--HYPHOPER0threateningthreatenVBGOPER0complicationscomplicationNNSOPER0...OPER0(ROOT (S (NP (DT A) (ADJP (JJ new) (CC and) (JJ simple)) (NN blood) (NN test)) (VP (MD may) (ADVP (RB soon)) (VP (VB be) (ADJP (JJ available) (S (VP (TO to) (VP (VB help) (S (NP (NNS doctors)) (VP (VB tell) (SBAR (WHNP (WHNP (WDT which)) (PP (IN of) (NP (PRP$ their) (JJ diabetic) (NNS patients)))) (S (VP (VBZ is) (ADJP (RBS most) (JJ likely) (S (VP (TO to) (VP (VB develop) (NP (ADJP (ADJP (JJ crippling)) (CC and) (ADJP (NN life) (HYPH -) (VBG threatening))) (NNS complications))))))))))))))))) (. .)))
+VOAVOANNPORGPER0's'sPOSOPER0JessicaJessicaNNPPERSONPER0BermanBermanNNPPERSONPER0explainsexplainVBZOPER0...OPER0(ROOT (S (NP (NP (NNP VOA) (POS 's)) (NNP Jessica) (NNP Berman)) (VP (VBZ explains)) (. .)))
+ResearcherresearcherNNPERSONPER0AndrewAndrewNNPPERSONPER0LeviLeviNNPPERSONPER0sayssayVBZOPER0scientistsscientistNNSOPER0havehaveVBPOPER0longlongRBOPER0beenbeVBNOPER0puzzledpuzzledJJOPER0bybyINOPER0thetheDTOPER0questionquestionNNOPER0ofofINOPER0whichwhichWDTOPER0diabeticsdiabeticNNSOPER0developdevelopVBPOPER0complicationscomplicationNNSOPER0andandCCOPER0whywhyWRBOPER0...OPER0(ROOT (S (NP (NN Researcher) (NNP Andrew) (NNP Levi)) (VP (VBZ says) (SBAR (S (NP (NNS scientists)) (VP (VBP have) (ADVP (RB long)) (VP (VBN been) (ADJP (JJ puzzled) (PP (IN by) (NP (NP (DT the) (NN question)) (SBAR (WHPP (IN of) (WHNP (WDT which))) (S (NP (NNS diabetics)) (VP (VP (VBP develop) (NP (NNS complications))) (CC and) (FRAG (WHADVP (WRB why)))))))))))))) (. .)))
+WewePRPOPER0knowknowVBPOPER0thatthatINOPER0thetheDTOPER0complicationscomplicationNNSOPER0arebeVBPOPER0directlydirectlyRBOPER0relatedrelateVBNOPER0totoINOPER0aaDTOPER0couplecoupleNNOPER0ofofINOPER0thingsthingNNSOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP know) (SBAR (IN that) (S (NP (DT the) (NNS complications)) (VP (VBP are) (ADJP (RB directly) (VBN related) (PP (IN to) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS things)))))))))) (. .)))
+OneoneCDOPER0isbeVBZOPER0howhowWRBOPER0longlongRBOPER0youyouPRPOPER0'vehaveVBPOPER0hadhaveVBNOPER0thetheDTOPER0diabetesdiabetesNNOPER0,,,OPER0howhowWRBOPER0wellwellRBOPER0youyouPRPOPER0'vehaveVBPOPER0beenbeVBNOPER0controlledcontrolVBNOPER0,,,OPER0butbutCCOPER0ititPRPOPER0'sbeVBZOPER0clearclearJJOPER0thatthatINOPER0peoplepeopleNNSOPER0withwithINOPER0thetheDTOPER0samesameJJOPER0levellevelNNOPER0ofofINOPER0controlcontrolNNOPER0ofofINOPER0theirtheyPRP$OPER0glucoseglucoseNNOPER0,,,OPER0samesameJJOPER0durationdurationNNOPER0ofofINOPER0thetheDTOPER0diabetesdiabetesNNOPER0differdifferVBPOPER0dramaticallydramaticallyRBOPER0ininINOPER0theirtheyPRP$OPER0susceptibilitysusceptibilityNNOPER0totoINOPER0thesetheseDTOPER0complicationscomplicationNNSOPER0thatthatWDTOPER0arebeVBPOPER0sosoRBOPER0devastatingdevastatingJJOPER0...OPER0(ROOT (S (S (NP (CD One)) (VP (VBZ is) (SBAR (SBAR (WHADVP (WRB how) (RB long)) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN had) (NP (DT the) (NN diabetes)))))) (, ,) (SBAR (WHADVP (WRB how) (RB well)) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN been) (VP (VBN controlled))))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ clear)) (SBAR (IN that) (S (NP (NP (NNS people)) (PP (IN with) (NP (NP (NP (DT the) (JJ same) (NN level)) (PP (IN of) (NP (NP (NN control)) (PP (IN of) (NP (PRP$ their) (NN glucose)))))) (, ,) (NP (NP (JJ same) (NN duration)) (PP (IN of) (NP (DT the) (NN diabetes))))))) (VP (VBP differ) (ADVP (RB dramatically)) (PP (IN in) (NP (NP (PRP$ their) (NN susceptibility)) (PP (IN to) (NP (NP (DT these) (NNS complications)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (RB so) (JJ devastating)))))))))))))) (. .)))
+Dr.Dr.NNPOPER0LeviLeviNNPPERSONPER0sayssayVBZOPER0oneoneCDCARDINALPER0thirdthirdNNCARDINALPER0ofofINOPER0insulininsulinNNOPER0takingtakeVBGOPER0patientspatientNNSOPER0endsendVBZOPER0upupRPOPER0withwithINOPER0kidneykidneyNNOPER0failurefailureNNOPER0andandCCOPER08080CDPERCENTPER0%%NNPERCENTPER0developdevelopNNOPER0blindingblindVBGOPER0eyeeyeNNOPER0diseasediseaseNNOPER0...OPER0(ROOT (S (NP (NNP Dr.) (NNP Levi)) (VP (VBZ says) (SBAR (S (NP (NP (CD one) (NN third)) (PP (IN of) (NP (NP (NN insulin)) (VP (VBG taking) (NP (NNS patients)))))) (VP (VBZ ends) (PRT (RP up)) (PP (IN with) (NP (NP (NN kidney) (NN failure)) (CC and) (NP (NML (CD 80) (NN %)) (NN develop)))) (S (VP (VBG blinding) (NP (NN eye) (NN disease)))))))) (. .)))
+ScientistsscientistNNSOPER0havehaveVBPOPER0suspectedsuspectVBNOPER0therethereEXOPER0mustmustMDOPER0bebeVBOPER0somethingsomethingNNOPER0differentdifferentJJOPER0aboutaboutINOPER0thetheDTOPER0geneticgeneticJJOPER0makemakeNNOPER0--HYPHOPER0upupNNOPER0ofofINOPER0diabeticsdiabeticNNSOPER0whowhoWPOPER0developdevelopVBPOPER0complicationscomplicationNNSOPER0;;:OPER0andandCCOPER0thatthatDTOPER0differencedifferenceNNOPER0maymayMDOPER0havehaveVBOPER0totoTOOPER0dodoVBOPER0withwithINOPER0haptoglobinhaptoglobinNNOPER0,,,OPER0aaDTOPER0proteinproteinNNOPER0whosewhoseWP$OPER0functionfunctionNNOPER0isbeVBZOPER0totoTOOPER0mopmopVBOPER0upupRPOPER0bloodbloodNNOPER0vesselvesselNNOPER0destroyingdestroyVBGOPER0freefreeJJOPER0radicalsradicalNNSOPER0...OPER0(ROOT (S (S (NP (NNS Scientists)) (VP (VBP have) (VP (VBN suspected) (SBAR (S (NP (EX there)) (VP (MD must) (VP (VB be) (NP (NP (NN something)) (ADJP (JJ different) (PP (IN about) (NP (NP (DT the) (JJ genetic) (NN make) (HYPH -) (NN up)) (PP (IN of) (NP (NP (NNS diabetics)) (SBAR (WHNP (WP who)) (S (VP (VBP develop) (NP (NNS complications)))))))))))))))))) (: ;) (CC and) (S (NP (DT that) (NN difference)) (VP (MD may) (VP (VB have) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NN haptoglobin))) (, ,) (NP (NP (DT a) (NN protein)) (SBAR (WHNP (WP$ whose) (NN function)) (S (VP (VBZ is) (S (VP (TO to) (VP (VB mop) (PRT (RP up)) (NP (NN blood) (NN vessel)) (S (VP (VBG destroying) (NP (JJ free) (NNS radicals))))))))))))))))) (. .)))
+ThetheDTOPER0freefreeJJOPER0radicalsradicalNNSOPER0arebeVBPOPER0releasedreleaseVBNOPER0whenwhenWRBOPER0oxygenoxygenNNOPER0carryingcarryVBGOPER0redredJJOPER0bloodbloodNNOPER0cellscellNNSOPER0calledcallVBDOPER0haemoglobinhaemoglobinNNOPER0diedieNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ free) (NNS radicals)) (VP (VBP are) (VP (VBN released) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN oxygen)) (VP (VBG carrying) (NP (JJ red) (NN blood) (NNS cells)))) (VP (VBD called) (S (NP (NN haemoglobin) (NN die)))))))) (. .)))
+AndrewAndrewNNPPERSONPER0LeviLeviNNPPERSONPER0sayssayVBZOPER0therethereEXOPER0arebeVBPOPER0threethreeCDCARDINALPER0differentdifferentJJOPER0typestypeNNSOPER0ofofINOPER0haptoglobinhaptoglobinNNOPER0andandCCOPER0hehePRPOPER0andandCCOPER0hishePRP$OPER0colleaguescolleagueNNSOPER0atatINOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0TechnionTechnionNNPORGPER0InstituteInstituteNNPORGPER0havehaveVBPOPER0foundfindVBNOPER0thatthatINOPER0oneoneCDCARDINALPER0typetypeNNOPER0ofofINOPER0haptoglobinhaptoglobinNNOPER0calledcallVBNOPER0TypeTypeNNPPRODUCTPER011CDPRODUCTPER0--HYPHPRODUCTPER011CDPRODUCTPER0appearsappearVBZOPER0protectiveprotectiveJJOPER0againstagainstINOPER0diabeticdiabeticJJOPER0complicationscomplicationNNSOPER0whilewhileINOPER0thetheDTOPER0otherotherJJOPER0twotwoCDCARDINALPER0typestypeNNSOPER0dodoVBPOPER0notnotRBOPER0...OPER0(ROOT (S (NP (NNP Andrew) (NNP Levi)) (VP (VBZ says) (SBAR (S (S (NP (EX there)) (VP (VBP are) (NP (NP (CD three) (JJ different) (NNS types)) (PP (IN of) (NP (NN haptoglobin)))))) (CC and) (S (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NNS colleagues)) (PP (IN at) (NP (NP (NNP Israel) (POS 's)) (NNP Technion) (NNP Institute))))) (VP (VBP have) (VP (VBN found) (SBAR (IN that) (S (NP (NP (CD one) (NN type)) (PP (IN of) (NP (NP (NN haptoglobin)) (VP (VBN called) (NP (NNP Type) (CD 1) (HYPH -) (CD 1)))))) (VP (VBZ appears) (ADJP (JJ protective) (PP (IN against) (NP (JJ diabetic) (NNS complications)))) (SBAR (IN while) (S (NP (DT the) (JJ other) (CD two) (NNS types)) (VP (VBP do) (RB not))))))))))))) (. .)))
+ResearchersresearcherNNSOPER0atatINOPER0TechnionTechnionNNPORGPER0InstituteInstituteNNPORGPER0ledleadVBNOPER0bybyINOPER0Dr.Dr.NNPOPER0LeviLeviNNPORGPER0havehaveVBPOPER0developeddevelopVBNOPER0aaDTOPER0simplesimpleJJOPER0bloodbloodNNOPER0testtestNNOPER0totoTOOPER0letletVBOPER0doctorsdoctorNNSOPER0andandCCOPER0patientspatientNNSOPER0knowknowVBOPER0whowhoWPOPER0isbeVBZOPER0mostmostRBSOPER0likelylikelyJJOPER0totoTOOPER0developdevelopVBOPER0diabeticdiabeticJJOPER0complicationscomplicationNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Researchers)) (PP (IN at) (NP (NP (NNP Technion) (NNP Institute)) (VP (VBN led) (PP (IN by) (NP (NNP Dr.) (NNP Levi))))))) (VP (VBP have) (VP (VBN developed) (NP (NP (DT a) (JJ simple) (NN blood) (NN test)) (SBAR (S (VP (TO to) (VP (VB let) (S (NP (NNS doctors) (CC and) (NNS patients)) (VP (VB know) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADJP (RBS most) (JJ likely) (S (VP (TO to) (VP (VB develop) (NP (JJ diabetic) (NNS complications)))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 2 until 3 headed by 2 parsed as VOA
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (DT A) (ADJP (JJ new) (CC and) (JJ simple)) (NN blood) (NN test))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNS doctors))
+sid=2 spanning 16 until 17 headed by 16 parsed as their
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP VOA) (POS 's))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NN Researcher) (NNP Andrew) (NNP Levi))
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (NNS complications))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS complications))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN diabetes))
+sid=6 spanning 22 until 38 headed by 22 parsed as (NP (NP (NNS people)) (PP (IN with) (NP (NP (NP (DT the) (JJ same) (NN level)) (PP (IN of) (NP (NP (NN control)) (PP (IN of) (NP (PRP$ their) (NN glucose)))))) (, ,) (NP (NP (JJ same) (NN duration)) (PP (IN of) (NP (DT the) (NN diabetes)))))))
+sid=6 spanning 30 until 31 headed by 30 parsed as their
+sid=6 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN diabetes))
+sid=6 spanning 41 until 42 headed by 41 parsed as their
+sid=6 spanning 44 until 50 headed by 45 parsed as (NP (NP (DT these) (NNS complications)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (RB so) (JJ devastating))))))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Dr.) (NNP Levi))
+sid=8 spanning 6 until 19 headed by 6 parsed as (NP (NP (NN something)) (ADJP (JJ different) (PP (IN about) (NP (NP (DT the) (JJ genetic) (NN make) (HYPH -) (NN up)) (PP (IN of) (NP (NP (NNS diabetics)) (SBAR (WHNP (WP who)) (S (VP (VBP develop) (NP (NNS complications)))))))))))
+sid=8 spanning 21 until 23 headed by 22 parsed as (NP (DT that) (NN difference))
+sid=8 spanning 38 until 43 headed by 39 parsed as (NP (NN blood) (NN vessel))
+sid=9 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ free) (NNS radicals))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Andrew) (NNP Levi))
+sid=10 spanning 11 until 20 headed by 11 parsed as (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NNS colleagues)) (PP (IN at) (NP (NP (NNP Israel) (POS 's)) (NNP Technion) (NNP Institute)))))
+sid=10 spanning 11 until 12 headed by 11 parsed as (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NNS colleagues)) (PP (IN at) (NP (NP (NNP Israel) (POS 's)) (NNP Technion) (NNP Institute)))))
+sid=10 spanning 13 until 14 headed by 13 parsed as his
+sid=10 spanning 16 until 20 headed by 19 parsed as (NP (NP (NNP Israel) (POS 's)) (NNP Technion) (NNP Institute))
+sid=11 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNS Researchers)) (PP (IN at) (NP (NP (NNP Technion) (NNP Institute)) (VP (VBN led) (PP (IN by) (NP (NNP Dr.) (NNP Levi)))))))
+sid=11 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP Technion) (NNP Institute)) (VP (VBN led) (PP (IN by) (NP (NNP Dr.) (NNP Levi)))))
+sid=11 spanning 6 until 8 headed by 7 parsed as (NP (NNP Dr.) (NNP Levi))
+sid=11 spanning 10 until 28 headed by 13 parsed as (NP (NP (DT a) (JJ simple) (NN blood) (NN test)) (SBAR (S (VP (TO to) (VP (VB let) (S (NP (NNS doctors) (CC and) (NNS patients)) (VP (VB know) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADJP (RBS most) (JJ likely) (S (VP (TO to) (VP (VB develop) (NP (JJ diabetic) (NNS complications))))))))))))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (CD 01:45))
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (NNP Universal) (NNP Time))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=1 spanning 2 until 5 headed by 3 parsed as (NP (NP (NNP VOA) (NNP News)) (ADVP (RB now)))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (DT A) (ADJP (JJ new) (CC and) (JJ simple)) (NN blood) (NN test))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNS doctors))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (PRP$ their) (JJ diabetic) (NNS patients))
+sid=2 spanning 16 until 17 headed by 16 parsed as (PRP$ their)
+sid=2 spanning 24 until 30 headed by 29 parsed as (NP (ADJP (ADJP (JJ crippling)) (CC and) (ADJP (NN life) (HYPH -) (VBG threatening))) (NNS complications))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP VOA) (POS 's)) (NNP Jessica) (NNP Berman))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP VOA) (POS 's))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NN Researcher) (NNP Andrew) (NNP Levi))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNS scientists))
+sid=4 spanning 10 until 19 headed by 11 parsed as (NP (NP (DT the) (NN question)) (SBAR (WHPP (IN of) (WHNP (WDT which))) (S (NP (NNS diabetics)) (VP (VP (VBP develop) (NP (NNS complications))) (CC and) (FRAG (WHADVP (WRB why)))))))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNS diabetics))
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (NNS complications))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS complications))
+sid=5 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS things))))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNS things))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (CD One))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP you))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN diabetes))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (PRP you))
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=6 spanning 22 until 38 headed by 22 parsed as (NP (NP (NNS people)) (PP (IN with) (NP (NP (NP (DT the) (JJ same) (NN level)) (PP (IN of) (NP (NP (NN control)) (PP (IN of) (NP (PRP$ their) (NN glucose)))))) (, ,) (NP (NP (JJ same) (NN duration)) (PP (IN of) (NP (DT the) (NN diabetes)))))))
+sid=6 spanning 24 until 38 headed by 26 parsed as (NP (NP (NP (DT the) (JJ same) (NN level)) (PP (IN of) (NP (NP (NN control)) (PP (IN of) (NP (PRP$ their) (NN glucose)))))) (, ,) (NP (NP (JJ same) (NN duration)) (PP (IN of) (NP (DT the) (NN diabetes)))))
+sid=6 spanning 24 until 32 headed by 26 parsed as (NP (NP (DT the) (JJ same) (NN level)) (PP (IN of) (NP (NP (NN control)) (PP (IN of) (NP (PRP$ their) (NN glucose))))))
+sid=6 spanning 28 until 32 headed by 28 parsed as (NP (NP (NN control)) (PP (IN of) (NP (PRP$ their) (NN glucose))))
+sid=6 spanning 30 until 32 headed by 31 parsed as (NP (PRP$ their) (NN glucose))
+sid=6 spanning 30 until 31 headed by 30 parsed as (PRP$ their)
+sid=6 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN diabetes))
+sid=6 spanning 41 until 50 headed by 42 parsed as (NP (NP (PRP$ their) (NN susceptibility)) (PP (IN to) (NP (NP (DT these) (NNS complications)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (RB so) (JJ devastating))))))))
+sid=6 spanning 41 until 42 headed by 41 parsed as (PRP$ their)
+sid=6 spanning 44 until 50 headed by 45 parsed as (NP (NP (DT these) (NNS complications)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (RB so) (JJ devastating))))))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Dr.) (NNP Levi))
+sid=7 spanning 3 until 9 headed by 4 parsed as (NP (NP (CD one) (NN third)) (PP (IN of) (NP (NP (NN insulin)) (VP (VBG taking) (NP (NNS patients))))))
+sid=7 spanning 6 until 9 headed by 6 parsed as (NP (NP (NN insulin)) (VP (VBG taking) (NP (NNS patients))))
+sid=7 spanning 8 until 9 headed by 8 parsed as (NP (NNS patients))
+sid=7 spanning 12 until 18 headed by 13 parsed as (NP (NP (NN kidney) (NN failure)) (CC and) (NP (NML (CD 80) (NN %)) (NN develop)))
+sid=7 spanning 12 until 14 headed by 13 parsed as (NP (NN kidney) (NN failure))
+sid=7 spanning 15 until 18 headed by 17 parsed as (NP (NML (CD 80) (NN %)) (NN develop))
+sid=7 spanning 19 until 21 headed by 20 parsed as (NP (NN eye) (NN disease))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNS Scientists))
+sid=8 spanning 6 until 19 headed by 6 parsed as (NP (NP (NN something)) (ADJP (JJ different) (PP (IN about) (NP (NP (DT the) (JJ genetic) (NN make) (HYPH -) (NN up)) (PP (IN of) (NP (NP (NNS diabetics)) (SBAR (WHNP (WP who)) (S (VP (VBP develop) (NP (NNS complications)))))))))))
+sid=8 spanning 9 until 19 headed by 13 parsed as (NP (NP (DT the) (JJ genetic) (NN make) (HYPH -) (NN up)) (PP (IN of) (NP (NP (NNS diabetics)) (SBAR (WHNP (WP who)) (S (VP (VBP develop) (NP (NNS complications))))))))
+sid=8 spanning 15 until 19 headed by 15 parsed as (NP (NP (NNS diabetics)) (SBAR (WHNP (WP who)) (S (VP (VBP develop) (NP (NNS complications))))))
+sid=8 spanning 18 until 19 headed by 18 parsed as (NP (NNS complications))
+sid=8 spanning 21 until 23 headed by 22 parsed as (NP (DT that) (NN difference))
+sid=8 spanning 30 until 43 headed by 31 parsed as (NP (NP (DT a) (NN protein)) (SBAR (WHNP (WP$ whose) (NN function)) (S (VP (VBZ is) (S (VP (TO to) (VP (VB mop) (PRT (RP up)) (NP (NN blood) (NN vessel)) (S (VP (VBG destroying) (NP (JJ free) (NNS radicals)))))))))))
+sid=8 spanning 38 until 40 headed by 39 parsed as (NP (NN blood) (NN vessel))
+sid=8 spanning 41 until 43 headed by 42 parsed as (NP (JJ free) (NNS radicals))
+sid=9 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ free) (NNS radicals))
+sid=9 spanning 6 until 11 headed by 6 parsed as (NP (NP (NN oxygen)) (VP (VBG carrying) (NP (JJ red) (NN blood) (NNS cells))))
+sid=9 spanning 8 until 11 headed by 10 parsed as (NP (JJ red) (NN blood) (NNS cells))
+sid=9 spanning 12 until 14 headed by 13 parsed as (NP (NN haemoglobin) (NN die))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Andrew) (NNP Levi))
+sid=10 spanning 5 until 10 headed by 7 parsed as (NP (NP (CD three) (JJ different) (NNS types)) (PP (IN of) (NP (NN haptoglobin))))
+sid=10 spanning 11 until 20 headed by 11 parsed as (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NNS colleagues)) (PP (IN at) (NP (NP (NNP Israel) (POS 's)) (NNP Technion) (NNP Institute)))))
+sid=10 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=10 spanning 13 until 20 headed by 14 parsed as (NP (NP (PRP$ his) (NNS colleagues)) (PP (IN at) (NP (NP (NNP Israel) (POS 's)) (NNP Technion) (NNP Institute))))
+sid=10 spanning 13 until 14 headed by 13 parsed as (PRP$ his)
+sid=10 spanning 16 until 20 headed by 19 parsed as (NP (NP (NNP Israel) (POS 's)) (NNP Technion) (NNP Institute))
+sid=10 spanning 16 until 18 headed by 16 parsed as (NP (NNP Israel) (POS 's))
+sid=10 spanning 23 until 32 headed by 24 parsed as (NP (NP (CD one) (NN type)) (PP (IN of) (NP (NP (NN haptoglobin)) (VP (VBN called) (NP (NNP Type) (CD 1) (HYPH -) (CD 1))))))
+sid=10 spanning 26 until 32 headed by 26 parsed as (NP (NP (NN haptoglobin)) (VP (VBN called) (NP (NNP Type) (CD 1) (HYPH -) (CD 1))))
+sid=10 spanning 28 until 32 headed by 28 parsed as (NP (NNP Type) (CD 1) (HYPH -) (CD 1))
+sid=10 spanning 35 until 37 headed by 36 parsed as (NP (JJ diabetic) (NNS complications))
+sid=10 spanning 38 until 42 headed by 41 parsed as (NP (DT the) (JJ other) (CD two) (NNS types))
+sid=11 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNS Researchers)) (PP (IN at) (NP (NP (NNP Technion) (NNP Institute)) (VP (VBN led) (PP (IN by) (NP (NNP Dr.) (NNP Levi)))))))
+sid=11 spanning 2 until 8 headed by 3 parsed as (NP (NP (NNP Technion) (NNP Institute)) (VP (VBN led) (PP (IN by) (NP (NNP Dr.) (NNP Levi)))))
+sid=11 spanning 6 until 8 headed by 7 parsed as (NP (NNP Dr.) (NNP Levi))
+sid=11 spanning 10 until 28 headed by 13 parsed as (NP (NP (DT a) (JJ simple) (NN blood) (NN test)) (SBAR (S (VP (TO to) (VP (VB let) (S (NP (NNS doctors) (CC and) (NNS patients)) (VP (VB know) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADJP (RBS most) (JJ likely) (S (VP (TO to) (VP (VB develop) (NP (JJ diabetic) (NNS complications))))))))))))))))
+sid=11 spanning 16 until 19 headed by 16 parsed as (NP (NNS doctors) (CC and) (NNS patients))
+sid=11 spanning 26 until 28 headed by 27 parsed as (NP (JJ diabetic) (NNS complications))
+(end predicted mentions)
+---------gold clusters--------
+13 7 6 | { 'these complications that are so devastating' 'the complications' 'complications' }
+24 20 | { 'Researchers at Technion Institute led by Dr. Levi' 'he and his colleagues at Israel 's Technion Institute' }
+0 4 | { 'VOA' 'VOA 's' }
+15 16 | { 'something different about the genetic make - up of diabetics who develop complications' 'that difference' }
+9 10 12 | { 'people with the same level of control of their glucose , same duration of the diabetes' 'their' 'their' }
+1 27 | { 'A new and simple blood test' 'a simple blood test to let doctors and patients know who is most likely to develop diabetic complications' }
+3 2 | { 'their' 'doctors' }
+11 8 | { 'the diabetes' 'the diabetes' }
+25 23 | { 'Technion Institute' 'Israel 's Technion Institute' }
+17 18 | { 'blood vessel destroying free radicals' 'The free radicals' }
+26 21 22 14 5 19 | { 'Dr. Levi' 'he' 'his' 'Dr. Levi' 'Researcher Andrew Levi' 'Andrew Levi' }
+(end gold clusters)

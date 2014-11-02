@@ -1,0 +1,119 @@
+---------gloss--------
+(0) Coalition forces in [32m{Iraq}[0m have captured [33m{a member of a terrorist group with links to al Qaeda}[0m . 
+(1) Sources tell [35m{our national security correspondent}[0m , [35m{David Ensor}[0m , that [33m{the terrorist}[0m is a member of [4m[36m{a group operating in the west of Baghdad}[0m . 
+(2) [4m[36m{That group}[0m is led by [4m[33m{Abu Musab Zarqawi}[0m . 
+(3) U.S. officials believe [4m[33m{Zarqawi}[0m planned the assassination of U.S. diplomat Lawrence Foley in Jordan last October . 
+(4) Coalition forces also said [4m[35m{Saddam Hussein 's}[0m former Oil Minister has surrendered . 
+(5) [34m{He}[0m was an expert on [32m{Iraq 's}[0m missile systems as well . 
+(6) [34m{The former minister , the 6 of spades in the deck of cards , showing the most wanted members of the Saddam Hussein regime .}[0m 
+(7) [34m{He}[0m is married to [31m{the Iraqi microbiologist known as Dr. Germ}[0m . 
+(8) [31m{She}[0m was in charge of the Iraqi facility that weaponized anthrax . 
+(9) [4m[34m{The former governor of Basra Province}[0m also surrendered to coalition forces today . 
+(10) [4m[34m{He}[0m was the 8 of clubs . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0321); part 000
+sentences:
+CoalitioncoalitionNNOPER0forcesforceNNSOPER0ininINOPER0IraqIraqNNPGPEPER0havehaveVBPOPER0capturedcaptureVBNOPER0aaDTOPER0membermemberNNOPER0ofofINOPER0aaDTOPER0terroristterroristJJOPER0groupgroupNNOPER0withwithINOPER0linkslinkNNSOPER0totoINOPER0alalDTLOCPER0QaedaQaedaNNPLOCPER0...OPER0(ROOT (S (NP (NP (NN Coalition) (NNS forces)) (PP (IN in) (NP (NNP Iraq)))) (VP (VBP have) (VP (VBN captured) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT a) (JJ terrorist) (NN group)) (PP (IN with) (NP (NP (NNS links)) (PP (IN to) (NP (DT al) (NNP Qaeda)))))))))) (. .)))
+SourcessourceNNSOPER0telltellVBPOPER0ourwePRP$OPER0nationalnationalJJOPER0securitysecurityNNOPER0correspondentcorrespondentNNOPER0,,,OPER0DavidDavidNNPPERSONPER0EnsorEnsorNNPPERSONPER0,,,OPER0thatthatINOPER0thetheDTOPER0terroristterroristNNOPER0isbeVBZOPER0aaDTOPER0membermemberNNOPER0ofofINOPER0aaDTOPER0groupgroupNNOPER0operatingoperateVBGOPER0ininINOPER0thetheDTOPER0westwestNNOPER0ofofINOPER0BaghdadBaghdadNNPGPEPER0...OPER0(ROOT (S (NP (NNS Sources)) (VP (VBP tell) (NP (PRP$ our) (NML (NML (JJ national) (NN security)) (NN correspondent)) (, ,) (NNP David) (NNP Ensor) (, ,)) (SBAR (IN that) (S (NP (DT the) (NN terrorist)) (VP (VBZ is) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT a) (NN group)) (VP (VBG operating) (PP (IN in) (NP (NP (DT the) (NN west)) (PP (IN of) (NP (NNP Baghdad))))))))))))) (. .)))
+ThatthatDTOPER0groupgroupNNOPER0isbeVBZOPER0ledleadVBNOPER0bybyINOPER0AbuAbuNNPORGPER0MusabMusabNNPORGPER0ZarqawiZarqawiNNPORGPER0...OPER0(ROOT (S (NP (DT That) (NN group)) (VP (VBZ is) (VP (VBN led) (PP (IN by) (NP (NNP Abu) (NNP Musab) (NNP Zarqawi))))) (. .)))
+U.S.U.S.NNPGPEPER0officialsofficialNNSOPER0believebelieveVBPOPER0ZarqawiZarqawiNNPPERSONPER0plannedplanVBDOPER0thetheDTOPER0assassinationassassinationNNOPER0ofofINOPER0U.S.U.S.NNPGPEPER0diplomatdiplomatNNOPER0LawrenceLawrenceNNPPERSONPER0FoleyFoleyNNPPERSONPER0ininINOPER0JordanJordanNNPGPEPER0lastlastJJDATEPER0OctoberOctoberNNPDATEPER0...OPER0(ROOT (S (NP (NNP U.S.) (NNS officials)) (VP (VBP believe) (SBAR (S (NP (NNP Zarqawi)) (VP (VBD planned) (NP (NP (DT the) (NN assassination)) (PP (IN of) (NP (NML (NNP U.S.) (NN diplomat)) (NNP Lawrence) (NNP Foley))) (PP (IN in) (NP (NNP Jordan)))) (NP (JJ last) (NNP October)))))) (. .)))
+CoalitioncoalitionNNOPER0forcesforceNNSOPER0alsoalsoRBOPER0saidsayVBDOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0's'sPOSPERSONPER0formerformerJJOPER0OilOilNNPORGPER0MinisterMinisterNNPOPER0hashaveVBZOPER0surrenderedsurrenderVBNOPER0...OPER0(ROOT (S (NP (NN Coalition) (NNS forces)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (JJ former) (NNP Oil) (NNP Minister)) (VP (VBZ has) (VP (VBN surrendered)))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0anaDTOPER0expertexpertNNOPER0ononINOPER0IraqIraqNNPGPEPER0's'sPOSOPER0missilemissileNNOPER0systemssystemNNSOPER0asasRBOPER0wellwellRBOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (NP (NP (DT an) (NN expert)) (PP (IN on) (NP (NP (NP (NNP Iraq) (POS 's)) (NN missile) (NNS systems)) (ADVP (RB as) (RB well)))))) (. .)))
+ThetheDTOPER0formerformerJJOPER0ministerministerNNOPER0,,,OPER0thetheDTOPER066CDCARDINALPER0ofofINOPER0spadesspadeNNSOPER0ininINOPER0thetheDTOPER0deckdeckNNOPER0ofofINOPER0cardscardNNSOPER0,,,OPER0showingshowVBGOPER0thetheDTOPER0mostmostJJSOPER0wantedwantVBDOPER0membersmemberNNSOPER0ofofINOPER0thetheDTOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0regimeregimeNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ former) (NN minister)) (, ,) (NP (NP (DT the) (CD 6)) (PP (IN of) (NP (NP (NNS spades)) (PP (IN in) (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (NNS cards)))))))) (, ,) (PP (VBG showing) (NP (DT the) (JJS most)))) (VP (VBD wanted) (NP (NP (NNS members)) (PP (IN of) (NP (DT the) (NML (NNP Saddam) (NNP Hussein)) (NN regime))))) (. .)))
+HehePRPOPER0isbeVBZOPER0marriedmarriedJJOPER0totoINOPER0thetheDTOPER0IraqiiraqiJJOPER0microbiologistmicrobiologistNNOPER0knownknowVBNOPER0asasINOPER0Dr.Dr.NNPOPER0GermGermNNPPERSONPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ is) (ADJP (JJ married) (PP (IN to) (NP (NP (DT the) (JJ Iraqi) (NN microbiologist)) (VP (VBN known) (PP (IN as) (NP (NNP Dr.) (NNP Germ)))))))) (. .)))
+SheshePRPOPER0wasbeVBDOPER0ininINOPER0chargechargeNNOPER0ofofINOPER0thetheDTOPER0IraqiiraqiJJOPER0facilityfacilityNNOPER0thatthatDTOPER0weaponizedweaponizeVBNOPER0anthraxanthraxNNOPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBD was) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (JJ Iraqi) (NN facility))))) (NP (DT that) (VBN weaponized) (NN anthrax))) (. .)))
+ThetheDTOPER0formerformerJJOPER0governorgovernorNNOPER0ofofINOPER0BasraBasraNNPGPEPER0ProvinceProvinceNNPGPEPER0alsoalsoRBOPER0surrenderedsurrenderVBDOPER0totoINOPER0coalitioncoalitionNNOPER0forcesforceNNSOPER0todaytodayNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ former) (NN governor)) (PP (IN of) (NP (NNP Basra) (NNP Province)))) (ADVP (RB also)) (VP (VBD surrendered) (PP (IN to) (NP (NN coalition) (NNS forces))) (NP (NN today))) (. .)))
+HehePRPOPER0wasbeVBDOPER0thetheDTOPER088CDCARDINALPER0ofofINOPER0clubsclubNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (NP (NP (DT the) (CD 8)) (PP (IN of) (NP (NNS clubs))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Iraq))
+sid=0 spanning 6 until 17 headed by 7 parsed as (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT a) (JJ terrorist) (NN group)) (PP (IN with) (NP (NP (NNS links)) (PP (IN to) (NP (DT al) (NNP Qaeda))))))))
+sid=0 spanning 9 until 17 headed by 11 parsed as (NP (NP (DT a) (JJ terrorist) (NN group)) (PP (IN with) (NP (NP (NNS links)) (PP (IN to) (NP (DT al) (NNP Qaeda))))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ our) (NML (NML (JJ national) (NN security)) (NN correspondent)) (, ,) (NNP David) (NNP Ensor) (, ,))
+sid=1 spanning 2 until 6 headed by 5 parsed as correspondent
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN terrorist))
+sid=1 spanning 17 until 25 headed by 18 parsed as (NP (NP (DT a) (NN group)) (VP (VBG operating) (PP (IN in) (NP (NP (DT the) (NN west)) (PP (IN of) (NP (NNP Baghdad)))))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN group))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (NNP Abu) (NNP Musab) (NNP Zarqawi))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Zarqawi))
+sid=4 spanning 4 until 10 headed by 9 parsed as (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (JJ former) (NNP Oil) (NNP Minister))
+sid=4 spanning 4 until 7 headed by 5 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 5 until 7 headed by 5 parsed as (NP (NNP Iraq) (POS 's))
+sid=6 spanning 0 until 25 headed by 17 parsed as wanted
+sid=6 spanning 21 until 23 headed by 22 parsed as Hussein
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 4 until 11 headed by 6 parsed as (NP (NP (DT the) (JJ Iraqi) (NN microbiologist)) (VP (VBN known) (PP (IN as) (NP (NNP Dr.) (NNP Germ)))))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=9 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (JJ former) (NN governor)) (PP (IN of) (NP (NNP Basra) (NNP Province))))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NP (NN Coalition) (NNS forces)) (PP (IN in) (NP (NNP Iraq))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Iraq))
+sid=0 spanning 6 until 17 headed by 7 parsed as (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT a) (JJ terrorist) (NN group)) (PP (IN with) (NP (NP (NNS links)) (PP (IN to) (NP (DT al) (NNP Qaeda))))))))
+sid=0 spanning 9 until 17 headed by 11 parsed as (NP (NP (DT a) (JJ terrorist) (NN group)) (PP (IN with) (NP (NP (NNS links)) (PP (IN to) (NP (DT al) (NNP Qaeda))))))
+sid=0 spanning 13 until 17 headed by 13 parsed as (NP (NP (NNS links)) (PP (IN to) (NP (DT al) (NNP Qaeda))))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (DT al) (NNP Qaeda))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Sources))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ our) (NML (NML (JJ national) (NN security)) (NN correspondent)) (, ,) (NNP David) (NNP Ensor) (, ,))
+sid=1 spanning 2 until 10 headed by 8 parsed as (NP (PRP$ our) (NML (NML (JJ national) (NN security)) (NN correspondent)) (, ,) (NNP David) (NNP Ensor) (, ,))
+sid=1 spanning 2 until 3 headed by 2 parsed as (PRP$ our)
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN terrorist))
+sid=1 spanning 14 until 25 headed by 15 parsed as (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT a) (NN group)) (VP (VBG operating) (PP (IN in) (NP (NP (DT the) (NN west)) (PP (IN of) (NP (NNP Baghdad)))))))))
+sid=1 spanning 17 until 25 headed by 18 parsed as (NP (NP (DT a) (NN group)) (VP (VBG operating) (PP (IN in) (NP (NP (DT the) (NN west)) (PP (IN of) (NP (NNP Baghdad)))))))
+sid=1 spanning 21 until 25 headed by 22 parsed as (NP (NP (DT the) (NN west)) (PP (IN of) (NP (NNP Baghdad))))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNP Baghdad))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN group))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (NNP Abu) (NNP Musab) (NNP Zarqawi))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP U.S.) (NNS officials))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Zarqawi))
+sid=3 spanning 5 until 14 headed by 6 parsed as (NP (NP (DT the) (NN assassination)) (PP (IN of) (NP (NML (NNP U.S.) (NN diplomat)) (NNP Lawrence) (NNP Foley))) (PP (IN in) (NP (NNP Jordan))))
+sid=3 spanning 8 until 12 headed by 11 parsed as (NP (NML (NNP U.S.) (NN diplomat)) (NNP Lawrence) (NNP Foley))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (NNP Jordan))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (JJ last) (NNP October))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NN Coalition) (NNS forces))
+sid=4 spanning 4 until 10 headed by 9 parsed as (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (JJ former) (NNP Oil) (NNP Minister))
+sid=4 spanning 4 until 7 headed by 5 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+sid=4 spanning 8 until 9 headed by 8 parsed as Oil
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 2 until 11 headed by 3 parsed as (NP (NP (DT an) (NN expert)) (PP (IN on) (NP (NP (NP (NNP Iraq) (POS 's)) (NN missile) (NNS systems)) (ADVP (RB as) (RB well)))))
+sid=5 spanning 5 until 11 headed by 8 parsed as (NP (NP (NP (NNP Iraq) (POS 's)) (NN missile) (NNS systems)) (ADVP (RB as) (RB well)))
+sid=5 spanning 5 until 7 headed by 5 parsed as (NP (NNP Iraq) (POS 's))
+sid=6 spanning 0 until 17 headed by 2 parsed as (NP (NP (DT The) (JJ former) (NN minister)) (, ,) (NP (NP (DT the) (CD 6)) (PP (IN of) (NP (NP (NNS spades)) (PP (IN in) (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (NNS cards)))))))) (, ,) (PP (VBG showing) (NP (DT the) (JJS most))))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ former) (NN minister))
+sid=6 spanning 4 until 13 headed by 5 parsed as (NP (NP (DT the) (CD 6)) (PP (IN of) (NP (NP (NNS spades)) (PP (IN in) (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (NNS cards))))))))
+sid=6 spanning 7 until 13 headed by 7 parsed as (NP (NP (NNS spades)) (PP (IN in) (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (NNS cards))))))
+sid=6 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (NNS cards))))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (NNS cards))
+sid=6 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (JJS most))
+sid=6 spanning 18 until 24 headed by 18 parsed as (NP (NP (NNS members)) (PP (IN of) (NP (DT the) (NML (NNP Saddam) (NNP Hussein)) (NN regime))))
+sid=6 spanning 20 until 24 headed by 23 parsed as (NP (DT the) (NML (NNP Saddam) (NNP Hussein)) (NN regime))
+sid=6 spanning 21 until 23 headed by 22 parsed as Hussein
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 4 until 11 headed by 6 parsed as (NP (NP (DT the) (JJ Iraqi) (NN microbiologist)) (VP (VBN known) (PP (IN as) (NP (NNP Dr.) (NNP Germ)))))
+sid=7 spanning 9 until 11 headed by 10 parsed as (NP (NNP Dr.) (NNP Germ))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=8 spanning 3 until 8 headed by 3 parsed as (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (JJ Iraqi) (NN facility))))
+sid=8 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ Iraqi) (NN facility))
+sid=8 spanning 8 until 11 headed by 10 parsed as (NP (DT that) (VBN weaponized) (NN anthrax))
+sid=9 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (JJ former) (NN governor)) (PP (IN of) (NP (NNP Basra) (NNP Province))))
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (NNP Basra) (NNP Province))
+sid=9 spanning 9 until 11 headed by 10 parsed as (NP (NN coalition) (NNS forces))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 2 until 6 headed by 3 parsed as (NP (NP (DT the) (CD 8)) (PP (IN of) (NP (NNS clubs))))
+sid=10 spanning 5 until 6 headed by 5 parsed as (NP (NNS clubs))
+(end predicted mentions)
+---------gold clusters--------
+9 8 | { 'Zarqawi' 'Abu Musab Zarqawi' }
+20 19 | { 'He' 'The former governor of Basra Province' }
+11 15 | { 'Saddam Hussein 's' 'Saddam Hussein' }
+7 2 6 | { 'That group' 'a terrorist group with links to al Qaeda' 'a group operating in the west of Baghdad' }
+18 17 | { 'She' 'the Iraqi microbiologist known as Dr. Germ' }
+0 13 | { 'Iraq' 'Iraq 's' }
+1 5 | { 'a member of a terrorist group with links to al Qaeda' 'the terrorist' }
+12 10 16 14 | { 'He' 'Saddam Hussein 's former Oil Minister' 'He' 'The former minister , the 6 of spades in the deck of cards , showing the most wanted members of the Saddam Hussein regime .' }
+3 4 | { 'David Ensor' 'our national security correspondent' }
+(end gold clusters)

@@ -1,0 +1,44 @@
+---------gloss--------
+(0) A United Nations special envoy is warning of a `` increasingly desperate '' situation for Palestinians in [1m[32m{Gaza and the West Bank}[0m . 
+(1) Israeli security restrictions on cross-border movement have cut humanitarian aid and fuel supplies to [1m[32m{the Palestinian territories}[0m . 
+(2) At a Cairo meeting of the Arab League , Finance Ministers agreed on a method to funnel up to $ 1 billion in support to [1m[33m{Palestinians in their uprising against Israel}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0102); part 000
+sentences:
+AaDTOPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0specialspecialJJOPER0envoyenvoyNNOPER0isbeVBZOPER0warningwarnVBGOPER0ofofINOPER0aaDTOPER0``````OincreasinglyincreasinglyRBOPER1desperatedesperateJJOPER1''''''OPER0situationsituationNNOPER0forforINOPER0PalestiniansPalestiniansNNPSOPER0ininINOPER0GazaGazaNNPLOCPER0andandCCOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0...OPER0(ROOT (S (NP (DT A) (NML (NNP United) (NNP Nations)) (JJ special) (NN envoy)) (VP (VBZ is) (VP (VBG warning) (PP (IN of) (NP (NP (DT a) (ADJP (`` ``) (RB increasingly) (JJ desperate) ('' '')) (NN situation)) (PP (IN for) (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))))))))) (. .)))
+IsraeliisraeliJJOPER0securitysecurityNNOPER0restrictionsrestrictionNNSOPER0ononINOPER0cross-bordercross-borderJJOPER0movementmovementNNOPER0havehaveVBPOPER0cutcutVBNOPER0humanitarianhumanitarianJJOPER0aidaidNNOPER0andandCCOPER0fuelfuelNNOPER0suppliessuppliesNNSOPER0totoINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0territoriesterritoryNNSOPER0...OPER0(ROOT (S (NP (NP (NML (JJ Israeli) (NN security)) (NNS restrictions)) (PP (IN on) (NP (JJ cross-border) (NN movement)))) (VP (VBP have) (VP (VBN cut) (NP (NP (NP (JJ humanitarian) (NN aid)) (CC and) (NP (NN fuel) (NNS supplies))) (PP (IN to) (NP (DT the) (JJ Palestinian) (NNS territories)))))) (. .)))
+AtatINOPER0aaDTOPER0CairoCairoNNPGPEPER0meetingmeetingNNOPER0ofofINOPER0thetheDTORGPER0ArabArabNNPORGPER0LeagueLeagueNNPORGPER0,,,OPER0FinanceFinanceNNPORGPER0MinistersMinistersNNPORGPER0agreedagreeVBDOPER0ononINOPER0aaDTOPER0methodmethodNNOPER0totoTOOPER0funnelfunnelVBOPER0upupINMONEYPER0totoTOMONEYPER0$$$MONEYPER011CDMONEYPER0billionbillionCDMONEYPER0ininINOPER0supportsupportNNOPER0totoINOPER0PalestiniansPalestiniansNNPSOPER0ininINOPER0theirtheyPRP$OPER0uprisinguprisingNNOPER0againstagainstINOPER0IsraelIsraelNNPGPEPER0...OPER0(ROOT (S (PP (IN At) (NP (NP (DT a) (NNP Cairo) (NN meeting)) (PP (IN of) (NP (DT the) (NNP Arab) (NNP League))))) (, ,) (NP (NNP Finance) (NNP Ministers)) (VP (VBD agreed) (PP (IN on) (NP (NP (DT a) (NN method)) (SBAR (S (VP (TO to) (VP (VB funnel) (NP (NP (QP (IN up) (TO to) ($ $) (CD 1) (CD billion))) (PP (IN in) (NP (NN support)))) (PP (IN to) (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (PRP$ their) (NN uprising)) (PP (IN against) (NP (NNP Israel)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 17 until 22 headed by 17 parsed as (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))
+sid=1 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (JJ Palestinian) (NNS territories))
+sid=2 spanning 25 until 31 headed by 25 parsed as (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (PRP$ their) (NN uprising)) (PP (IN against) (NP (NNP Israel))))))
+sid=2 spanning 27 until 28 headed by 27 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT A) (NML (NNP United) (NNP Nations)) (JJ special) (NN envoy))
+sid=0 spanning 1 until 3 headed by 2 parsed as Nations
+sid=0 spanning 8 until 22 headed by 13 parsed as (NP (NP (DT a) (ADJP (`` ``) (RB increasingly) (JJ desperate) ('' '')) (NN situation)) (PP (IN for) (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))))))
+sid=0 spanning 15 until 22 headed by 15 parsed as (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))
+sid=0 spanning 17 until 22 headed by 17 parsed as (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))
+sid=0 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (NML (JJ Israeli) (NN security)) (NNS restrictions)) (PP (IN on) (NP (JJ cross-border) (NN movement))))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NN fuel) (NNS supplies))
+sid=1 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (JJ Palestinian) (NNS territories))
+sid=2 spanning 1 until 8 headed by 3 parsed as (NP (NP (DT a) (NNP Cairo) (NN meeting)) (PP (IN of) (NP (DT the) (NNP Arab) (NNP League))))
+sid=2 spanning 2 until 3 headed by 2 parsed as Cairo
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Arab) (NNP League))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NNP Finance) (NNP Ministers))
+sid=2 spanning 13 until 31 headed by 14 parsed as (NP (NP (DT a) (NN method)) (SBAR (S (VP (TO to) (VP (VB funnel) (NP (NP (QP (IN up) (TO to) ($ $) (CD 1) (CD billion))) (PP (IN in) (NP (NN support)))) (PP (IN to) (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (PRP$ their) (NN uprising)) (PP (IN against) (NP (NNP Israel))))))))))))
+sid=2 spanning 25 until 31 headed by 25 parsed as (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (PRP$ their) (NN uprising)) (PP (IN against) (NP (NNP Israel))))))
+sid=2 spanning 27 until 31 headed by 28 parsed as (NP (NP (PRP$ their) (NN uprising)) (PP (IN against) (NP (NNP Israel))))
+sid=2 spanning 27 until 28 headed by 27 parsed as (PRP$ their)
+sid=2 spanning 30 until 31 headed by 30 parsed as (NP (NNP Israel))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'the Palestinian territories' 'Gaza and the West Bank' }
+3 2 | { 'their' 'Palestinians in their uprising against Israel' }
+(end gold clusters)

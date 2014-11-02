@@ -1,0 +1,276 @@
+---------gloss--------
+(0) Officials and the people . 
+(1) 613305 
+(2) Huolianguang . 
+(3) [4m[33m{Officials}[0m say the people are whom [4m[33m{they}[0m depend on for livelihood , while the people call officials public servants . 
+(4) Officials have meals to supplement nutrition , while [4m[31m{the people}[0m have meals to fill [4m[31m{their}[0m stomachs . 
+(5) Words from officials are instructions , while words from the people are comments . 
+(6) Children of officials are ten - thousand gold daughter , while children of the people are girls . 
+(7) Officials move to exchange , while the people move to emigrate . 
+(8) Officials drink liquor without buying , the people buy liquor without drinking . 
+(9) Officials receive gifts on [4m[36m{New Years and holidays}[0m , while the people give away gifts on [4m[36m{New Years and holidays}[0m . 
+(10) [4m[32m{Officials living on the third floor}[0m indicate [4m[32m{they}[0m are among the people , the people living on the top floor indicate people 's interests are the priority . 
+(11) Eating and drinking by officials are called business and receptions , while eating and drinking by the people are called extravagant and wasteful . 
+(12) Officials who go to dancing clubs are getting close to people , while [3m[36m{the people who go to dancing clubs}[0m are neglecting [3m[36m{their}[0m duties . 
+(13) Officials go out to travel , while the people go out to make a living . 
+(14) Officials go to school to update knowledge , while the people go to school to grab a diploma ; 
+(15) Officials travel around to inspect , while the people travel around to lead a vagrant life . 
+(16) Officials enter [3m[32m{the government office}[0m to work , while the people enter [3m[32m{the government office}[0m to petition . 
+(17) Officials beat others to keep the society stable , while the people beat others to disrupt the social order . 
+(18) All officials want to lose weight , while all the people are short of calcium . 
+(19) Officials go to the countryside with a big entourage , while the people go to petition all alone . 
+(20) Officials look forward to the New Year , while the people are worried about holidays . 
+(21) [32m{Officials}[0m strike the table when [32m{they}[0m fly into a rage , while [4m[34m{the people}[0m strike the table when [4m[34m{they}[0m attempt a crime . 
+(22) Officials ' children want to go abroad , while the people ' kids want to go to school . 
+(23) Officials bask in the sun to enjoy a sun bath , while the people rest in the shade to enjoy a carefree life . 
+(24) Officials go to the countryside to experience life , while [3m[33m{the people}[0m go to city to open [3m[33m{their}[0m eyes wide . 
+(25) Officials fear the people petition , while the people fear officials press for grains . 
+(26) Officials make mistakes that are pardonable , while the people make mistakes on purpose . 
+(27) Officials have a concubine to share joy with people , while the people play with street girls to go whoring . 
+(28) Officials make a fortune that is called gray income , while the people have money that is called illegal gains . 
+(29) Violation of law by officials is called an error , while violation of law by the people is called a crime . 
+(30) Officials short of money are integral , while the people short of money are impoverished . 
+(31) [31m{Officials}[0m work [31m{their}[0m heart out if [31m{they}[0m are ill , [3m[35m{the people}[0m experience a natural and man - made disaster if [3m[35m{they}[0m are ill . 
+(32) [4m[35m{Officials}[0m are immortal when [4m[35m{they}[0m die , while [33m{the people}[0m get out of misery when [33m{they}[0m die . 
+(end gloss)
+---------document--------
+(wb/c2e/00/c2e_0013); part 000
+sentences:
+OfficialsofficialNNSOPER0andandCCOPER0thetheDTOPER0peoplepeopleNNSOPER0...OPER0(ROOT (NP (NP (NNS Officials)) (CC and) (NP (DT the) (NNS people)) (. .)))
+613305613305CDCARDINALPER0(ROOT (FRAG (NP (CD 613305))))
+HuolianguanghuolianguangNNORG 613305 ...O 613305 (ROOT (NP (NN Huolianguang) (. .)))
+OfficialsofficialNNSO 613305 saysayVBPO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 arebeVBPO 613305 whomwhomWPO 613305 theytheyPRPO 613305 dependdependVBPO 613305 ononINO 613305 forforINO 613305 livelihoodlivelihoodNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 callcallVBPO 613305 officialsofficialNNSO 613305 publicpublicJJO 613305 servantsservantNNSO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP say) (SBAR (S (NP (DT the) (NNS people)) (VP (VBP are) (SBAR (WHNP (WP whom)) (S (NP (PRP they)) (VP (VBP depend) (PP (IN on)) (PP (IN for) (NP (NN livelihood))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP call) (S (NP (NNS officials)) (NP (JJ public) (NNS servants))))))))))))) (. .)))
+OfficialsofficialNNSO 613305 havehaveVBPO 613305 mealsmealNNSO 613305 totoTOO 613305 supplementsupplementVBO 613305 nutritionnutritionNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 havehaveVBPO 613305 mealsmealNNSO 613305 totoTOO 613305 fillfillVBO 613305 theirtheyPRP$O 613305 stomachsstomachNNSO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP have) (S (NP (NNS meals)) (VP (TO to) (VP (VB supplement) (NP (NN nutrition))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP have) (S (NP (NNS meals)) (VP (TO to) (VP (VB fill) (NP (PRP$ their) (NNS stomachs))))))))) (. .)))
+WordswordNNSO 613305 fromfromINO 613305 officialsofficialNNSO 613305 arebeVBPO 613305 instructionsinstructionNNSO 613305 ,,,O 613305 whilewhileINO 613305 wordswordNNSO 613305 fromfromINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 arebeVBPO 613305 commentscommentNNSO 613305 ...O 613305 (ROOT (S (NP (NP (NNS Words)) (PP (IN from) (NP (NNS officials)))) (VP (VBP are) (NP (NNS instructions)) (, ,) (SBAR (IN while) (S (NP (NP (NNS words)) (PP (IN from) (NP (DT the) (NNS people)))) (VP (VBP are) (NP (NNS comments)))))) (. .)))
+ChildrenchildNNSO 613305 ofofINO 613305 officialsofficialNNSO 613305 arebeVBPO 613305 tentenCDCARDINAL 613305 --HYPHCARDINAL 613305 thousandthousandCDCARDINAL 613305 goldgoldNNO 613305 daughterdaughterNNO 613305 ,,,O 613305 whilewhileINO 613305 childrenchildNNSO 613305 ofofINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 arebeVBPO 613305 girlsgirlNNSO 613305 ...O 613305 (ROOT (S (NP (NP (NNS Children)) (PP (IN of) (NP (NNS officials)))) (VP (VBP are) (NP (NP (QP (CD ten) (HYPH -) (CD thousand))) (NP (NN gold) (NN daughter))) (, ,) (SBAR (IN while) (S (NP (NP (NNS children)) (PP (IN of) (NP (DT the) (NNS people)))) (VP (VBP are) (NP (NNS girls)))))) (. .)))
+OfficialsofficialNNSO 613305 movemoveVBPO 613305 totoINO 613305 exchangeexchangeNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 movemoveVBPO 613305 totoTOO 613305 emigrateemigrateVBO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP move) (PP (IN to) (NP (NN exchange))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP move) (S (VP (TO to) (VP (VB emigrate)))))))) (. .)))
+OfficialsofficialNNSO 613305 drinkdrinkVBPO 613305 liquorliquorNNO 613305 withoutwithoutINO 613305 buyingbuyVBGO 613305 ,,,O 613305 thetheDTO 613305 peoplepeopleNNSO 613305 buybuyVBPO 613305 liquorliquorNNO 613305 withoutwithoutINO 613305 drinkingdrinkingNNO 613305 ...O 613305 (ROOT (S (S (NP (NNS Officials)) (VP (VBP drink) (NP (NN liquor)) (PP (IN without) (S (VP (VBG buying)))))) (, ,) (S (NP (DT the) (NNS people)) (VP (VBP buy) (NP (NN liquor)) (PP (IN without) (NP (NN drinking))))) (. .)))
+OfficialsofficialNNSO 613305 receivereceiveVBPO 613305 giftsgiftNNSO 613305 ononINO 613305 NewnewJJDATE 613305 YearsyearNNSDATE 613305 andandCCO 613305 holidaysholidayNNSO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 givegiveVBPO 613305 awayawayRPO 613305 giftsgiftNNSO 613305 ononINO 613305 NewnewJJDATE 613305 YearsyearNNSDATE 613305 andandCCO 613305 holidaysholidayNNSO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP receive) (NP (NP (NNS gifts)) (PP (IN on) (NP (JJ New) (NNS Years) (CC and) (NNS holidays)))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP give) (PRT (RP away)) (NP (NP (NNS gifts)) (PP (IN on) (NP (JJ New) (NNS Years) (CC and) (NNS holidays)))))))) (. .)))
+OfficialsofficialNNSO 613305 livingliveVBGO 613305 ononINO 613305 thetheDTO 613305 thirdthirdJJORDINAL 613305 floorfloorNNO 613305 indicateindicateVBPO 613305 theytheyPRPO 613305 arebeVBPO 613305 amongamongINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 ,,,O 613305 thetheDTO 613305 peoplepeopleNNSO 613305 livingliveVBGO 613305 ononINO 613305 thetheDTO 613305 toptopJJO 613305 floorfloorNNO 613305 indicateindicateVBPO 613305 peoplepeopleNNSO 613305 's'sPOSO 613305 interestsinterestNNSO 613305 arebeVBPO 613305 thetheDTO 613305 prioritypriorityNNO 613305 ...O 613305 (ROOT (S (S (NP (NP (NNS Officials)) (VP (VBG living) (PP (IN on) (NP (DT the) (JJ third) (NN floor))))) (VP (VBP indicate) (SBAR (S (NP (PRP they)) (VP (VBP are) (PP (IN among) (NP (DT the) (NNS people)))))))) (, ,) (NP (NP (DT the) (NNS people)) (VP (VBG living) (PP (IN on) (NP (DT the) (JJ top) (NN floor))))) (VP (VBP indicate) (SBAR (S (NP (NP (NNS people) (POS 's)) (NNS interests)) (VP (VBP are) (NP (DT the) (NN priority)))))) (. .)))
+EatingeatingNNO 613305 andandCCO 613305 drinkingdrinkingNNO 613305 bybyINO 613305 officialsofficialNNSO 613305 arebeVBPO 613305 calledcallVBNO 613305 businessbusinessNNO 613305 andandCCO 613305 receptionsreceptionNNSO 613305 ,,,O 613305 whilewhileINO 613305 eatingeatingNNO 613305 andandCCO 613305 drinkingdrinkingNNO 613305 bybyINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 arebeVBPO 613305 calledcallVBNO 613305 extravagantextravagantJJO 613305 andandCCO 613305 wastefulwastefulJJO 613305 ...O 613305 (ROOT (S (NP (NP (NN Eating) (CC and) (NN drinking)) (PP (IN by) (NP (NNS officials)))) (VP (VBP are) (VP (VBN called) (NP (NN business) (CC and) (NNS receptions)) (, ,) (SBAR (IN while) (S (NP (NP (NN eating) (CC and) (NN drinking)) (PP (IN by) (NP (DT the) (NNS people)))) (VP (VBP are) (VP (VBN called) (S (ADJP (JJ extravagant) (CC and) (JJ wasteful))))))))) (. .)))
+OfficialsofficialNNSO 613305 whowhoWPO 613305 gogoVBPO 613305 totoINO 613305 dancingdancingNNO 613305 clubsclubNNSO 613305 arebeVBPO 613305 gettinggetVBGO 613305 closecloseJJO 613305 totoINO 613305 peoplepeopleNNSO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 whowhoWPO 613305 gogoVBPO 613305 totoINO 613305 dancingdancingNNO 613305 clubsclubNNSO 613305 arebeVBPO 613305 neglectingneglectVBGO 613305 theirtheyPRP$O 613305 dutiesdutyNNSO 613305 ...O 613305 (ROOT (S (NP (NP (NNS Officials)) (SBAR (WHNP (WP who)) (S (VP (VBP go) (PP (IN to) (NP (NN dancing) (NNS clubs))))))) (VP (VBP are) (VP (VBG getting) (ADJP (JJ close) (PP (IN to) (NP (NNS people)))) (, ,) (SBAR (IN while) (S (NP (NP (DT the) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP go) (PP (IN to) (NP (NN dancing) (NNS clubs))))))) (VP (VBP are) (VP (VBG neglecting) (NP (PRP$ their) (NNS duties)))))))) (. .)))
+OfficialsofficialNNSO 613305 gogoVBPO 613305 outoutRPO 613305 totoINO 613305 traveltravelNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 gogoVBPO 613305 outoutRPO 613305 totoTOO 613305 makemakeVBO 613305 aaDTO 613305 livinglivingNNO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP go) (PRT (RP out)) (PP (IN to) (NP (NN travel))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP go) (PRT (RP out)) (S (VP (TO to) (VP (VB make) (NP (DT a) (NN living))))))))) (. .)))
+OfficialsofficialNNSO 613305 gogoVBPO 613305 totoINO 613305 schoolschoolNNO 613305 totoTOO 613305 updateupdateVBO 613305 knowledgeknowledgeNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 gogoVBPO 613305 totoINO 613305 schoolschoolNNO 613305 totoTOO 613305 grabgrabVBO 613305 aaDTO 613305 diplomadiplomaNNO 613305 ;;:O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP go) (PP (IN to) (NP (NN school))) (S (VP (TO to) (VP (VB update) (NP (NN knowledge))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP go) (PP (IN to) (NP (NN school))) (S (VP (TO to) (VP (VB grab) (NP (DT a) (NN diploma))))))))) (: ;)))
+OfficialsofficialNNSO 613305 traveltravelVBPO 613305 aroundaroundRPO 613305 totoTOO 613305 inspectinspectVBO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 traveltravelVBPO 613305 aroundaroundINO 613305 totoTOO 613305 leadleadVBO 613305 aaDTO 613305 vagrantvagrantJJO 613305 lifelifeNNO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP travel) (PRT (RP around)) (S (VP (TO to) (VP (VB inspect)))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP travel) (PP (IN around)) (S (VP (TO to) (VP (VB lead) (NP (DT a) (JJ vagrant) (NN life))))))))) (. .)))
+OfficialsofficialNNSO 613305 enterenterVBPO 613305 thetheDTO 613305 governmentgovernmentNNO 613305 officeofficeNNO 613305 totoTOO 613305 workworkVBO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 enterenterVBPO 613305 thetheDTO 613305 governmentgovernmentNNO 613305 officeofficeNNO 613305 totoTOO 613305 petitionpetitionVBO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP enter) (NP (DT the) (NN government) (NN office)) (S (VP (TO to) (VP (VB work)))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP enter) (NP (DT the) (NN government) (NN office)) (S (VP (TO to) (VP (VB petition)))))))) (. .)))
+OfficialsofficialNNSO 613305 beatbeatVBPO 613305 othersotherNNSO 613305 totoTOO 613305 keepkeepVBO 613305 thetheDTO 613305 societysocietyNNO 613305 stablestableJJO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 beatbeatVBPO 613305 othersotherNNSO 613305 totoTOO 613305 disruptdisruptVBO 613305 thetheDTO 613305 socialsocialJJO 613305 orderorderNNO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP beat) (NP (NP (NNS others)) (SBAR (S (VP (TO to) (VP (VB keep) (NP (DT the) (NN society)) (S (ADJP (JJ stable)))))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP beat) (NP (NP (NNS others)) (SBAR (S (VP (TO to) (VP (VB disrupt) (NP (DT the) (JJ social) (NN order))))))))))) (. .)))
+AllallDTO 613305 officialsofficialNNSO 613305 wantwantVBPO 613305 totoTOO 613305 loseloseVBO 613305 weightweightNNO 613305 ,,,O 613305 whilewhileINO 613305 allallPDTO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 arebeVBPO 613305 shortshortJJO 613305 ofofINO 613305 calciumcalciumNNO 613305 ...O 613305 (ROOT (S (NP (DT All) (NNS officials)) (VP (VBP want) (S (VP (TO to) (VP (VB lose) (NP (NN weight))))) (, ,) (SBAR (IN while) (S (NP (PDT all) (DT the) (NNS people)) (VP (VBP are) (ADJP (JJ short) (PP (IN of) (NP (NN calcium)))))))) (. .)))
+OfficialsofficialNNSO 613305 gogoVBPO 613305 totoINO 613305 thetheDTO 613305 countrysidecountrysideNNO 613305 withwithINO 613305 aaDTO 613305 bigbigJJO 613305 entourageentourageNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 gogoVBPO 613305 totoTOO 613305 petitionpetitionVBO 613305 allallRBO 613305 alonealoneJJO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP go) (PP (IN to) (NP (NP (DT the) (NN countryside)) (PP (IN with) (NP (DT a) (JJ big) (NN entourage))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP go) (S (VP (TO to) (VP (VB petition) (ADJP (RB all) (JJ alone))))))))) (. .)))
+OfficialsofficialNNSO 613305 looklookVBPO 613305 forwardforwardRBO 613305 totoINO 613305 thetheDTDATE 613305 NewNewNNPDATE 613305 YearYearNNPDATE 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 arebeVBPO 613305 worriedworriedJJO 613305 aboutaboutINO 613305 holidaysholidayNNSDATE 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP look) (ADVP (RB forward) (PP (IN to) (NP (DT the) (NNP New) (NNP Year)))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP are) (ADJP (JJ worried) (PP (IN about) (NP (NNS holidays)))))))) (. .)))
+OfficialsofficialNNSO 613305 strikestrikeVBPO 613305 thetheDTO 613305 tabletableNNO 613305 whenwhenWRBO 613305 theytheyPRPO 613305 flyflyVBPO 613305 intointoINO 613305 aaDTO 613305 ragerageNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 strikestrikeVBPO 613305 thetheDTO 613305 tabletableNNO 613305 whenwhenWRBO 613305 theytheyPRPO 613305 attemptattemptVBPO 613305 aaDTO 613305 crimecrimeNNO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP strike) (NP (NP (DT the) (NN table)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP fly) (PP (IN into) (NP (DT a) (NN rage))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP strike) (NP (NP (DT the) (NN table)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP attempt) (NP (DT a) (NN crime)))))))))))))) (. .)))
+OfficialsofficialNNSO 613305 ''POSO 613305 childrenchildNNSO 613305 wantwantVBPO 613305 totoTOO 613305 gogoVBO 613305 abroadabroadRBO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 ''POSO 613305 kidskidNNSO 613305 wantwantVBPO 613305 totoTOO 613305 gogoVBO 613305 totoINO 613305 schoolschoolNNO 613305 ...O 613305 (ROOT (S (NP (NP (NNS Officials) (POS ')) (NNS children)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (ADVP (RB abroad))))) (, ,) (SBAR (IN while) (S (NP (NP (DT the) (NNS people) (POS ')) (NNS kids)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (PP (IN to) (NP (NN school)))))))))) (. .)))
+OfficialsofficialNNSO 613305 baskbaskVBDO 613305 ininINO 613305 thetheDTO 613305 sunsunNNO 613305 totoTOO 613305 enjoyenjoyVBO 613305 aaDTO 613305 sunsunNNO 613305 bathbathNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 restrestVBPO 613305 ininINO 613305 thetheDTO 613305 shadeshadeNNO 613305 totoTOO 613305 enjoyenjoyVBO 613305 aaDTO 613305 carefreecarefreeJJDATE 613305 lifelifeNNO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBD bask) (PP (IN in) (NP (DT the) (NN sun))) (S (VP (TO to) (VP (VB enjoy) (NP (DT a) (NN sun) (NN bath))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP rest) (PP (IN in) (NP (DT the) (NN shade) (S (VP (TO to) (VP (VB enjoy) (NP (DT a) (JJ carefree) (NN life))))))))))) (. .)))
+OfficialsofficialNNSO 613305 gogoVBPO 613305 totoINO 613305 thetheDTO 613305 countrysidecountrysideNNO 613305 totoTOO 613305 experienceexperienceVBO 613305 lifelifeNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 gogoVBPO 613305 totoINO 613305 citycityNNO 613305 totoTOO 613305 openopenVBO 613305 theirtheyPRP$O 613305 eyeseyeNNSO 613305 widewideRBO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP go) (PP (IN to) (NP (DT the) (NN countryside))) (S (VP (TO to) (VP (VB experience) (NP (NN life))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP go) (PP (IN to) (NP (NN city))) (S (VP (TO to) (VP (VB open) (NP (PRP$ their) (NNS eyes)) (ADVP (RB wide))))))))) (. .)))
+OfficialsofficialNNSO 613305 fearfearVBPO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 petitionpetitionVBO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 fearfearVBPO 613305 officialsofficialNNSO 613305 presspressVBPO 613305 forforINO 613305 grainsgrainNNSO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP fear) (SBAR (S (NP (DT the) (NNS people)) (VP (VB petition) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP fear) (SBAR (S (NP (NNS officials)) (VP (VBP press) (PP (IN for) (NP (NNS grains))))))))))))) (. .)))
+OfficialsofficialNNSO 613305 makemakeVBPO 613305 mistakesmistakeNNSO 613305 thatthatWDTO 613305 arebeVBPO 613305 pardonablepardonableJJO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 makemakeVBPO 613305 mistakesmistakeNNSO 613305 ononINO 613305 purposepurposeNNO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP make) (NP (NP (NNS mistakes)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ pardonable)))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP make) (NP (NNS mistakes)) (PP (IN on) (NP (NN purpose))))))) (. .)))
+OfficialsofficialNNSO 613305 havehaveVBPO 613305 aaDTO 613305 concubineconcubineNNO 613305 totoTOO 613305 shareshareVBO 613305 joyjoyNNO 613305 withwithINO 613305 peoplepeopleNNSO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 playplayVBPO 613305 withwithINO 613305 streetstreetNNO 613305 girlsgirlNNSO 613305 totoTOO 613305 gogoVBO 613305 whoringwhoringNNO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP have) (NP (DT a) (NN concubine) (S (VP (TO to) (VP (VB share) (NP (NN joy)) (PP (IN with) (NP (NNS people))))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP play) (PP (IN with) (NP (NN street) (NNS girls))) (S (VP (TO to) (VP (VB go) (NP (NN whoring))))))))) (. .)))
+OfficialsofficialNNSO 613305 makemakeVBPO 613305 aaDTO 613305 fortunefortuneNNO 613305 thatthatWDTO 613305 isbeVBZO 613305 calledcallVBNO 613305 graygrayJJO 613305 incomeincomeNNO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 havehaveVBPO 613305 moneymoneyNNO 613305 thatthatWDTO 613305 isbeVBZO 613305 calledcallVBNO 613305 illegalillegalJJO 613305 gainsgainNNSO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP make) (NP (NP (DT a) (NN fortune)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN called) (S (NP (JJ gray) (NN income))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP have) (NP (NP (NN money)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN called) (NP (JJ illegal) (NNS gains)))))))))))))))) (. .)))
+ViolationviolationNNO 613305 ofofINO 613305 lawlawNNO 613305 bybyINO 613305 officialsofficialNNSO 613305 isbeVBZO 613305 calledcallVBNO 613305 anaDTO 613305 errorerrorNNO 613305 ,,,O 613305 whilewhileINO 613305 violationviolationNNO 613305 ofofINO 613305 lawlawNNO 613305 bybyINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 isbeVBZO 613305 calledcallVBNO 613305 aaDTO 613305 crimecrimeNNO 613305 ...O 613305 (ROOT (S (NP (NP (NN Violation)) (PP (IN of) (NP (NN law))) (PP (IN by) (NP (NNS officials)))) (VP (VBZ is) (VP (VBN called) (NP (DT an) (NN error)) (, ,) (SBAR (IN while) (S (NP (NP (NN violation)) (PP (IN of) (NP (NN law))) (PP (IN by) (NP (DT the) (NNS people)))) (VP (VBZ is) (VP (VBN called) (S (NP (DT a) (NN crime))))))))) (. .)))
+OfficialsofficialNNSO 613305 shortshortJJO 613305 ofofINO 613305 moneymoneyNNO 613305 arebeVBPO 613305 integralintegralJJO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 shortshortJJO 613305 ofofINO 613305 moneymoneyNNO 613305 arebeVBPO 613305 impoverishedimpoverishedJJO 613305 ...O 613305 (ROOT (S (NP (NP (NNS Officials)) (ADJP (JJ short) (PP (IN of) (NP (NN money))))) (VP (VBP are) (ADJP (JJ integral)) (, ,) (SBAR (IN while) (S (NP (NP (DT the) (NNS people)) (ADJP (JJ short) (PP (IN of) (NP (NN money))))) (VP (VBP are) (ADJP (JJ impoverished)))))) (. .)))
+OfficialsofficialNNSO 613305 workworkVBO 613305 theirtheyPRP$O 613305 heartheartNNO 613305 outoutRPO 613305 ififINO 613305 theytheyPRPO 613305 arebeVBPO 613305 illillJJO 613305 ,,,O 613305 thetheDTO 613305 peoplepeopleNNSO 613305 experienceexperienceVBPO 613305 aaDTO 613305 naturalnaturalJJO 613305 andandCCO 613305 manmanNNO 613305 --HYPHO 613305 mademakeVBNO 613305 disasterdisasterNNO 613305 ififINO 613305 theytheyPRPO 613305 arebeVBPO 613305 illillJJO 613305 ...O 613305 (ROOT (S (S (NP (NNS Officials)) (VP (VB work) (NP (PRP$ their) (NN heart)) (PRT (RP out)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ ill))))))) (, ,) (S (NP (DT the) (NNS people)) (VP (VBP experience) (NP (DT a) (ADJP (JJ natural) (CC and) (ADJP (NN man) (HYPH -) (VBN made))) (NN disaster)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ ill))))))) (. .)))
+OfficialsofficialNNSO 613305 arebeVBPO 613305 immortalimmortalNNPO 613305 whenwhenWRBO 613305 theytheyPRPO 613305 diedieVBPO 613305 ,,,O 613305 whilewhileINO 613305 thetheDTO 613305 peoplepeopleNNSO 613305 getgetVBPO 613305 outoutINO 613305 ofofINO 613305 miserymiseryNNO 613305 whenwhenWRBO 613305 theytheyPRPO 613305 diedieVBPO 613305 ...O 613305 (ROOT (S (NP (NNS Officials)) (VP (VBP are) (NP (NNP immortal)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP die)))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP get) (PP (IN out) (PP (IN of) (NP (NN misery)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP die)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS people))
+sid=4 spanning 14 until 15 headed by 14 parsed as their
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (JJ New) (NNS Years) (CC and) (NNS holidays))
+sid=9 spanning 4 until 8 headed by 5 parsed as (NP (JJ New) (NNS Years) (CC and) (NNS holidays))
+sid=9 spanning 16 until 18 headed by 17 parsed as (NP (JJ New) (NNS Years) (CC and) (NNS holidays))
+sid=9 spanning 16 until 20 headed by 17 parsed as (NP (JJ New) (NNS Years) (CC and) (NNS holidays))
+sid=10 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Officials)) (VP (VBG living) (PP (IN on) (NP (DT the) (JJ third) (NN floor)))))
+sid=10 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=12 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT the) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP go) (PP (IN to) (NP (NN dancing) (NNS clubs)))))))
+sid=12 spanning 22 until 23 headed by 22 parsed as their
+sid=16 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NN government) (NN office))
+sid=16 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NN government) (NN office))
+sid=21 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=21 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=21 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS people))
+sid=21 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=24 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS people))
+sid=24 spanning 17 until 18 headed by 17 parsed as their
+sid=31 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=31 spanning 2 until 3 headed by 2 parsed as their
+sid=31 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=31 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS people))
+sid=31 spanning 21 until 22 headed by 21 parsed as (NP (PRP they))
+sid=32 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=32 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=32 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS people))
+sid=32 spanning 15 until 16 headed by 15 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 0 parsed as (NP (NP (NNS Officials)) (CC and) (NP (DT the) (NNS people)) (. .))
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS people))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (CD 613305))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NN Huolianguang) (. .))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS people))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNS people))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNS officials))
+sid=3 spanning 17 until 19 headed by 18 parsed as (NP (JJ public) (NNS servants))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (NNS meals))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS people))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNS meals))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ their) (NNS stomachs))
+sid=4 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+sid=5 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Words)) (PP (IN from) (NP (NNS officials))))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNS officials))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (NNS instructions))
+sid=5 spanning 7 until 11 headed by 7 parsed as (NP (NP (NNS words)) (PP (IN from) (NP (DT the) (NNS people))))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS people))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNS comments))
+sid=6 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Children)) (PP (IN of) (NP (NNS officials))))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (NNS officials))
+sid=6 spanning 4 until 9 headed by 6 parsed as (NP (NP (QP (CD ten) (HYPH -) (CD thousand))) (NP (NN gold) (NN daughter)))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (NN gold) (NN daughter))
+sid=6 spanning 11 until 15 headed by 11 parsed as (NP (NP (NNS children)) (PP (IN of) (NP (DT the) (NNS people))))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNS people))
+sid=6 spanning 16 until 17 headed by 16 parsed as (NP (NNS girls))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=7 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS people))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=8 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS people))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=9 spanning 2 until 8 headed by 2 parsed as (NP (NP (NNS gifts)) (PP (IN on) (NP (JJ New) (NNS Years) (CC and) (NNS holidays))))
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (JJ New) (NNS Years) (CC and) (NNS holidays))
+sid=9 spanning 4 until 8 headed by 5 parsed as (NP (JJ New) (NNS Years) (CC and) (NNS holidays))
+sid=9 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS people))
+sid=9 spanning 14 until 20 headed by 14 parsed as (NP (NP (NNS gifts)) (PP (IN on) (NP (JJ New) (NNS Years) (CC and) (NNS holidays))))
+sid=9 spanning 16 until 18 headed by 17 parsed as (NP (JJ New) (NNS Years) (CC and) (NNS holidays))
+sid=9 spanning 16 until 20 headed by 17 parsed as (NP (JJ New) (NNS Years) (CC and) (NNS holidays))
+sid=10 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Officials)) (VP (VBG living) (PP (IN on) (NP (DT the) (JJ third) (NN floor)))))
+sid=10 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ third) (NN floor))
+sid=10 spanning 4 until 5 headed by 4 parsed as third
+sid=10 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=10 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS people))
+sid=10 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT the) (NNS people)) (VP (VBG living) (PP (IN on) (NP (DT the) (JJ top) (NN floor)))))
+sid=10 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (JJ top) (NN floor))
+sid=10 spanning 21 until 24 headed by 23 parsed as (NP (NP (NNS people) (POS 's)) (NNS interests))
+sid=10 spanning 21 until 23 headed by 21 parsed as (NP (NNS people) (POS 's))
+sid=10 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN priority))
+sid=11 spanning 0 until 5 headed by 0 parsed as (NP (NP (NN Eating) (CC and) (NN drinking)) (PP (IN by) (NP (NNS officials))))
+sid=11 spanning 4 until 5 headed by 4 parsed as (NP (NNS officials))
+sid=11 spanning 7 until 10 headed by 7 parsed as (NP (NN business) (CC and) (NNS receptions))
+sid=11 spanning 12 until 18 headed by 12 parsed as (NP (NP (NN eating) (CC and) (NN drinking)) (PP (IN by) (NP (DT the) (NNS people))))
+sid=11 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NNS people))
+sid=12 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Officials)) (SBAR (WHNP (WP who)) (S (VP (VBP go) (PP (IN to) (NP (NN dancing) (NNS clubs)))))))
+sid=12 spanning 4 until 6 headed by 5 parsed as (NP (NN dancing) (NNS clubs))
+sid=12 spanning 10 until 11 headed by 10 parsed as (NP (NNS people))
+sid=12 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT the) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP go) (PP (IN to) (NP (NN dancing) (NNS clubs)))))))
+sid=12 spanning 18 until 20 headed by 19 parsed as (NP (NN dancing) (NNS clubs))
+sid=12 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ their) (NNS duties))
+sid=12 spanning 22 until 23 headed by 22 parsed as (PRP$ their)
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=13 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNS people))
+sid=13 spanning 13 until 15 headed by 14 parsed as (NP (DT a) (NN living))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=14 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS people))
+sid=14 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN diploma))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=15 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNS people))
+sid=15 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ vagrant) (NN life))
+sid=16 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=16 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NN government) (NN office))
+sid=16 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS people))
+sid=16 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NN government) (NN office))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=17 spanning 2 until 8 headed by 2 parsed as (NP (NP (NNS others)) (SBAR (S (VP (TO to) (VP (VB keep) (NP (DT the) (NN society)) (S (ADJP (JJ stable))))))))
+sid=17 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN society))
+sid=17 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS people))
+sid=17 spanning 13 until 19 headed by 13 parsed as (NP (NP (NNS others)) (SBAR (S (VP (TO to) (VP (VB disrupt) (NP (DT the) (JJ social) (NN order)))))))
+sid=17 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ social) (NN order))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=19 spanning 3 until 9 headed by 4 parsed as (NP (NP (DT the) (NN countryside)) (PP (IN with) (NP (DT a) (JJ big) (NN entourage))))
+sid=19 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (JJ big) (NN entourage))
+sid=19 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNS people))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=20 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP New) (NNP Year))
+sid=20 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS people))
+sid=20 spanning 14 until 15 headed by 14 parsed as (NP (NNS holidays))
+sid=21 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=21 spanning 2 until 22 headed by 3 parsed as (NP (NP (DT the) (NN table)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP fly) (PP (IN into) (NP (DT a) (NN rage))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP strike) (NP (NP (DT the) (NN table)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP attempt) (NP (DT a) (NN crime)))))))))))))
+sid=21 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=21 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN rage))
+sid=21 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS people))
+sid=21 spanning 15 until 22 headed by 16 parsed as (NP (NP (DT the) (NN table)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP attempt) (NP (DT a) (NN crime))))))
+sid=21 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=21 spanning 20 until 22 headed by 21 parsed as (NP (DT a) (NN crime))
+sid=22 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNS Officials) (POS ')) (NNS children))
+sid=22 spanning 0 until 2 headed by 0 parsed as (NP (NNS Officials) (POS '))
+sid=22 spanning 9 until 13 headed by 12 parsed as (NP (NP (DT the) (NNS people) (POS ')) (NNS kids))
+sid=22 spanning 9 until 12 headed by 10 parsed as (NP (DT the) (NNS people) (POS '))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=23 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN sun))
+sid=23 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (NN sun) (NN bath))
+sid=23 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS people))
+sid=23 spanning 16 until 23 headed by 17 parsed as (NP (DT the) (NN shade) (S (VP (TO to) (VP (VB enjoy) (NP (DT a) (JJ carefree) (NN life))))))
+sid=23 spanning 20 until 23 headed by 22 parsed as (NP (DT a) (JJ carefree) (NN life))
+sid=23 spanning 21 until 22 headed by 21 parsed as carefree
+sid=24 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=24 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN countryside))
+sid=24 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS people))
+sid=24 spanning 17 until 19 headed by 18 parsed as (NP (PRP$ their) (NNS eyes))
+sid=24 spanning 17 until 18 headed by 17 parsed as (PRP$ their)
+sid=25 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=25 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS people))
+sid=25 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNS people))
+sid=25 spanning 10 until 11 headed by 10 parsed as (NP (NNS officials))
+sid=25 spanning 13 until 14 headed by 13 parsed as (NP (NNS grains))
+sid=26 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=26 spanning 2 until 6 headed by 2 parsed as (NP (NP (NNS mistakes)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ pardonable))))))
+sid=26 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS people))
+sid=26 spanning 11 until 12 headed by 11 parsed as (NP (NNS mistakes))
+sid=27 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=27 spanning 2 until 9 headed by 3 parsed as (NP (DT a) (NN concubine) (S (VP (TO to) (VP (VB share) (NP (NN joy)) (PP (IN with) (NP (NNS people)))))))
+sid=27 spanning 8 until 9 headed by 8 parsed as (NP (NNS people))
+sid=27 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNS people))
+sid=27 spanning 15 until 17 headed by 16 parsed as (NP (NN street) (NNS girls))
+sid=28 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=28 spanning 2 until 20 headed by 3 parsed as (NP (NP (DT a) (NN fortune)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN called) (S (NP (JJ gray) (NN income))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNS people)) (VP (VBP have) (NP (NP (NN money)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN called) (NP (JJ illegal) (NNS gains)))))))))))))))
+sid=28 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNS people))
+sid=28 spanning 14 until 20 headed by 14 parsed as (NP (NP (NN money)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN called) (NP (JJ illegal) (NNS gains)))))))
+sid=28 spanning 18 until 20 headed by 19 parsed as (NP (JJ illegal) (NNS gains))
+sid=29 spanning 0 until 5 headed by 0 parsed as (NP (NP (NN Violation)) (PP (IN of) (NP (NN law))) (PP (IN by) (NP (NNS officials))))
+sid=29 spanning 4 until 5 headed by 4 parsed as (NP (NNS officials))
+sid=29 spanning 7 until 9 headed by 8 parsed as (NP (DT an) (NN error))
+sid=29 spanning 11 until 17 headed by 11 parsed as (NP (NP (NN violation)) (PP (IN of) (NP (NN law))) (PP (IN by) (NP (DT the) (NNS people))))
+sid=29 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NNS people))
+sid=29 spanning 19 until 21 headed by 20 parsed as (NP (DT a) (NN crime))
+sid=30 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Officials)) (ADJP (JJ short) (PP (IN of) (NP (NN money)))))
+sid=30 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT the) (NNS people)) (ADJP (JJ short) (PP (IN of) (NP (NN money)))))
+sid=31 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=31 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ their) (NN heart))
+sid=31 spanning 2 until 3 headed by 2 parsed as (PRP$ their)
+sid=31 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=31 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS people))
+sid=31 spanning 13 until 20 headed by 19 parsed as (NP (DT a) (ADJP (JJ natural) (CC and) (ADJP (NN man) (HYPH -) (VBN made))) (NN disaster))
+sid=31 spanning 21 until 22 headed by 21 parsed as (NP (PRP they))
+sid=32 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=32 spanning 2 until 3 headed by 2 parsed as (NP (NNP immortal))
+sid=32 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=32 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS people))
+sid=32 spanning 15 until 16 headed by 15 parsed as (NP (PRP they))
+(end predicted mentions)
+---------gold clusters--------
+13 12 | { 'the government office' 'the government office' }
+18 19 | { 'the people' 'their' }
+4 6 | { 'New Years' 'New Years' }
+23 24 | { 'the people' 'they' }
+11 10 | { 'their' 'the people who go to dancing clubs' }
+2 3 | { 'the people' 'their' }
+9 8 | { 'they' 'Officials living on the third floor' }
+1 0 | { 'they' 'Officials' }
+16 17 | { 'the people' 'they' }
+26 25 | { 'they' 'Officials' }
+5 7 | { 'New Years and holidays' 'New Years and holidays' }
+22 20 21 | { 'they' 'Officials' 'their' }
+14 15 | { 'Officials' 'they' }
+28 27 | { 'they' 'the people' }
+(end gold clusters)

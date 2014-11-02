@@ -1,0 +1,38 @@
+---------gloss--------
+(0) [1m[32m{A Pentagon report}[0m calls for improved intelligence gathering to prevent terrorist attacks such as the one against the USS Cole in Yemen last October . 
+(1) [1m[32m{The report}[0m also proposes anti-terrorist training for all US troops and recommends a new effort to react more quickly to emerging terrorist threats . 
+(2) [1m[32m{The report released today}[0m was commissioned by Defense Secretary William Cohen . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0226); part 000
+sentences:
+AaDTOPER0PentagonPentagonNNPORGPER0reportreportNNOPER0callscallVBZOPER0forforINOPER0improvedimproveVBNOPER0intelligenceintelligenceNNOPER0gatheringgatheringNNOPER0totoTOOPER0preventpreventVBOPER0terroristterroristJJOPER0attacksattackNNSOPER0suchsuchJJOPER0asasINOPER0thetheDTOPER0oneoneCDCARDINALPER0againstagainstINOPER0thetheDTPRODUCTPER0USSUSSNNPPRODUCTPER0ColeColeNNPPRODUCTPER0ininINOPER0YemenYemenNNPGPEPER0lastlastJJDATEPER0OctoberOctoberNNPDATEPER0...OPER0(ROOT (S (NP (DT A) (NNP Pentagon) (NN report)) (VP (VBZ calls) (PP (IN for) (NP (VBN improved) (NN intelligence) (NN gathering))) (S (VP (TO to) (VP (VB prevent) (NP (NP (NP (JJ terrorist) (NNS attacks)) (PP (JJ such) (IN as) (NP (DT the) (CD one)))) (PP (IN against) (NP (DT the) (NNP USS) (NNP Cole)))) (PP (IN in) (NP (NP (NNP Yemen)) (NP (JJ last) (NNP October)))))))) (. .)))
+ThetheDTOPER0reportreportNNOPER0alsoalsoRBOPER0proposesproposeVBZOPER0anti-terroristanti-terroristJJOPER0trainingtrainingNNOPER0forforINOPER0allallDTOPER0USUSNNPGPEPER0troopstroopsNNSOPER0andandCCOPER0recommendsrecommendVBZOPER0aaDTOPER0newnewJJOPER0efforteffortNNOPER0totoTOOPER0reactreactVBOPER0moremoreRBROPER0quicklyquicklyRBOPER0totoINOPER0emergingemergeVBGOPER0terroristterroristNNOPER0threatsthreatNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN report)) (ADVP (RB also)) (VP (VP (VBZ proposes) (NP (NP (JJ anti-terrorist) (NN training)) (PP (IN for) (NP (DT all) (NNP US) (NNS troops))))) (CC and) (VP (VBZ recommends) (NP (DT a) (JJ new) (NN effort) (S (VP (TO to) (VP (VB react) (ADVP (RBR more) (RB quickly)) (PP (IN to) (NP (VBG emerging) (NN terrorist) (NNS threats))))))))) (. .)))
+ThetheDTOPER0reportreportNNOPER0releasedreleaseVBNOPER0todaytodayNNDATEPER0wasbeVBDOPER0commissionedcommissionVBNOPER0bybyINOPER0DefenseDefenseNNPORGPER0SecretarySecretaryNNPOPER0WilliamWilliamNNPPERSONPER0CohenCohenNNPPERSONPER0...OPER0(ROOT (S (NP (NP (DT The) (NN report)) (VP (VBN released) (NP (NN today)))) (VP (VBD was) (VP (VBN commissioned) (PP (IN by) (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Pentagon) (NN report))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN report))
+sid=2 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN report)) (VP (VBN released) (NP (NN today))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Pentagon) (NN report))
+sid=0 spanning 1 until 2 headed by 1 parsed as Pentagon
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (VBN improved) (NN intelligence) (NN gathering))
+sid=0 spanning 10 until 20 headed by 11 parsed as (NP (NP (NP (JJ terrorist) (NNS attacks)) (PP (JJ such) (IN as) (NP (DT the) (CD one)))) (PP (IN against) (NP (DT the) (NNP USS) (NNP Cole))))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (CD one))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP USS) (NNP Cole))
+sid=0 spanning 21 until 24 headed by 21 parsed as (NP (NP (NNP Yemen)) (NP (JJ last) (NNP October)))
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (JJ last) (NNP October))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN report))
+sid=1 spanning 8 until 9 headed by 8 parsed as US
+sid=1 spanning 12 until 23 headed by 14 parsed as (NP (DT a) (JJ new) (NN effort) (S (VP (TO to) (VP (VB react) (ADVP (RBR more) (RB quickly)) (PP (IN to) (NP (VBG emerging) (NN terrorist) (NNS threats)))))))
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (VBG emerging) (NN terrorist) (NNS threats))
+sid=2 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN report)) (VP (VBN released) (NP (NN today))))
+sid=2 spanning 7 until 11 headed by 10 parsed as (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen))
+sid=2 spanning 7 until 8 headed by 7 parsed as Defense
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'The report released today' 'A Pentagon report' 'The report' }
+(end gold clusters)

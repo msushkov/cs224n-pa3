@@ -1,0 +1,31 @@
+---------gloss--------
+(0) Richard W. Lock , retired vice president and treasurer of [4m[34m{Owens - Illinois Inc.}[0m , was named a director of [4m[34m{this transportation industry supplier}[0m , increasing [4m[34m{its}[0m board to six members . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1114); part 000
+sentences:
+RichardRichardNNPPERSONPER0W.W.NNPPERSONPER0LocklockNNPERSONPER0,,,OPER0retiredretireVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0treasurertreasurerNNOPER0ofofINOPER0OwensOwensNNPPERSONPER0--HYPHOPER0IllinoisIllinoisNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0aaDTOPER0directordirectorNNOPER0ofofINOPER0thisthisDTOPER0transportationtransportationNNOPER0industryindustryNNOPER0suppliersupplierNNOPER0,,,OPER0increasingincreaseVBGOPER0itsitsPRP$OPER0boardboardNNOPER0totoINOPER0sixsixCDCARDINALPER0membersmemberNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Richard) (NNP W.) (NN Lock)) (, ,) (NP (NP (NP (VBN retired) (NN vice) (NN president)) (CC and) (NP (NN treasurer))) (PP (IN of) (NP (NNP Owens) (HYPH -) (NNP Illinois) (NNP Inc.)))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (DT a) (NN director)) (PP (IN of) (NP (DT this) (NML (NN transportation) (NN industry)) (NN supplier))))) (, ,) (S (VP (VBG increasing) (NP (PRP$ its) (NN board)) (PP (IN to) (NP (CD six) (NNS members))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NNP Owens) (HYPH -) (NNP Illinois) (NNP Inc.))
+sid=0 spanning 20 until 24 headed by 23 parsed as (NP (DT this) (NML (NN transportation) (NN industry)) (NN supplier))
+sid=0 spanning 26 until 27 headed by 26 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Richard) (NNP W.) (NN Lock)) (, ,) (NP (NP (NP (VBN retired) (NN vice) (NN president)) (CC and) (NP (NN treasurer))) (PP (IN of) (NP (NNP Owens) (HYPH -) (NNP Illinois) (NNP Inc.)))) (, ,))
+sid=0 spanning 0 until 15 headed by 2 parsed as (NP (NP (NNP Richard) (NNP W.) (NN Lock)) (, ,) (NP (NP (NP (VBN retired) (NN vice) (NN president)) (CC and) (NP (NN treasurer))) (PP (IN of) (NP (NNP Owens) (HYPH -) (NNP Illinois) (NNP Inc.)))) (, ,))
+sid=0 spanning 4 until 14 headed by 6 parsed as (NP (NP (NP (VBN retired) (NN vice) (NN president)) (CC and) (NP (NN treasurer))) (PP (IN of) (NP (NNP Owens) (HYPH -) (NNP Illinois) (NNP Inc.))))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (VBN retired) (NN vice) (NN president))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (NNP Owens) (HYPH -) (NNP Illinois) (NNP Inc.))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NNP Owens) (HYPH -) (NNP Illinois) (NNP Inc.))
+sid=0 spanning 10 until 11 headed by 10 parsed as Owens
+sid=0 spanning 17 until 24 headed by 18 parsed as (NP (NP (DT a) (NN director)) (PP (IN of) (NP (DT this) (NML (NN transportation) (NN industry)) (NN supplier))))
+sid=0 spanning 20 until 24 headed by 23 parsed as (NP (DT this) (NML (NN transportation) (NN industry)) (NN supplier))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (PRP$ its) (NN board))
+sid=0 spanning 26 until 27 headed by 26 parsed as (PRP$ its)
+sid=0 spanning 29 until 31 headed by 30 parsed as (NP (CD six) (NNS members))
+(end predicted mentions)
+---------gold clusters--------
+1 2 0 | { 'this transportation industry supplier' 'its' 'Owens - Illinois Inc.' }
+(end gold clusters)

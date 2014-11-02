@@ -1,0 +1,27 @@
+---------gloss--------
+(0) Japan 's wholesale prices in the first 10 days of October fell 0.3 % from the previous 10 days but rose 3.3 % from a year ago , the Bank of Japan said . 
+(1) The wholesale price index stood at 89.6 -LRB- 1985 equals 100 -RRB- . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1406); part 000
+sentences:
+JapanJapanNNPGPEPER0's'sPOSOPER0wholesalewholesaleJJOPER0pricespriceNNSOPER0ininINOPER0thetheDTDATEPER0firstfirstJJDATEPER01010CDDATEPER0daysdayNNSDATEPER0ofofINDATEPER0OctoberOctoberNNPDATEPER0fellfallVBDOPER00.30.3CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0thetheDTDATEPER0previouspreviousJJDATEPER01010CDDATEPER0daysdayNNSDATEPER0butbutCCOPER0roseriseVBDOPER03.33.3CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0,,,OPER0thetheDTORGPER0BankBankNNPORGPER0ofofINORGPER0JapanJapanNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NNP Japan) (POS 's)) (JJ wholesale) (NNS prices)) (PP (IN in) (NP (NP (DT the) (JJ first) (CD 10) (NNS days)) (PP (IN of) (NP (NNP October))))) (VP (VP (VBD fell) (NP (CD 0.3) (NN %)) (PP (IN from) (NP (DT the) (JJ previous) (CD 10) (NNS days)))) (CC but) (VP (VBD rose) (NP (CD 3.3) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago)))))) (, ,) (NP (NP (DT the) (NNP Bank)) (PP (IN of) (NP (NNP Japan)))) (VP (VBD said)) (. .)))
+ThetheDTOPER0wholesalewholesaleJJOPER0pricepriceNNOPER0indexindexNNOPER0stoodstandVBDOPER0atatINOPER089.689.6CDCARDINALPER0-LRB--lrb--LRB-OPER019851985CDDATEPER0equalsequalVBZOPER0100100CDCARDINALPER0-RRB--rrb--RRB-OPER0...OPER0(ROOT (S (NP (DT The) (JJ wholesale) (NN price) (NN index)) (VP (VBD stood) (PP (IN at) (NP (CD 89.6))) (PRN (-LRB- -LRB-) (S (NP (CD 1985)) (VP (VBZ equals) (NP (CD 100)))) (-RRB- -RRB-))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Japan) (POS 's)) (JJ wholesale) (NNS prices))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Japan) (POS 's))
+sid=0 spanning 5 until 11 headed by 8 parsed as (NP (NP (DT the) (JJ first) (CD 10) (NNS days)) (PP (IN of) (NP (NNP October))))
+sid=0 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (JJ previous) (CD 10) (NNS days))
+sid=0 spanning 24 until 27 headed by 26 parsed as ago
+sid=0 spanning 28 until 32 headed by 29 parsed as (NP (NP (DT the) (NNP Bank)) (PP (IN of) (NP (NNP Japan))))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ wholesale) (NN price) (NN index))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (CD 89.6))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (CD 1985))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (CD 100))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

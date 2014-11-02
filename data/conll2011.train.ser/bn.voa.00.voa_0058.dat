@@ -1,0 +1,69 @@
+---------gloss--------
+(0) In Yemen , [35m{a bomb threat}[0m has forced the tightening of security at [1m[31m{the hotel housing US investigators probing the attack on the USS Cole}[0m . 
+(1) Pentagon spokesman Ken Bacon told reporters [35m{the situation}[0m caused [36m{the Secretary of Defense}[0m to call US field commanders . 
+(2) [36m{The Secretary}[0m held a video conference call with all the Commanders in Chiefs , as well as the Service Chiefs and the Service Secretaries and the topic was force protection . 
+(3) [1m[31m{The hotel}[0m has been hosting scores of investigators who are looking into [34m{the apparent suicide bomb attack on the Navy destroyer that killed 17 US sailors two weeks ago}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0058); part 000
+sentences:
+IninINOPER0YemenYemenNNPGPEPER0,,,OPER0aaDTOPER0bombbombNNOPER0threatthreatNNOPER0hashaveVBZOPER0forcedforceVBNOPER0thetheDTOPER0tighteningtighteningNNOPER0ofofINOPER0securitysecurityNNOPER0atatINOPER0thetheDTOPER0hotelhotelNNOPER0housinghousingNNOPER0USUSNNPGPEPER0investigatorsinvestigatorNNSOPER0probingprobeVBGOPER0thetheDTOPER0attackattackNNOPER0ononINOPER0thetheDTPRODUCTPER0USSUSSNNPPRODUCTPER0ColeColeNNPPRODUCTPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Yemen))) (, ,) (NP (DT a) (NN bomb) (NN threat)) (VP (VBZ has) (VP (VBN forced) (NP (NP (DT the) (NN tightening)) (PP (IN of) (NP (NP (NN security)) (PP (IN at) (NP (DT the) (NN hotel) (NN housing)))))) (S (NP (NNP US) (NNS investigators)) (VP (VBG probing) (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (NNP USS) (NNP Cole)))))))) (. .)))
+PentagonPentagonNNPORGPER0spokesmanspokesmanNNOPER0KenKenNNPPERSONPER0BaconBaconNNPPERSONPER0toldtellVBDOPER0reportersreporterNNSOPER0thetheDTOPER0situationsituationNNOPER0causedcauseVBDOPER0thetheDTOPER0SecretarySecretaryNNPOPER0ofofINOPER0DefenseDefenseNNPORGPER0totoTOOPER0callcallVBOPER0USUSNNPGPEPER0fieldfieldNNOPER0commanderscommanderNNSOPER0...OPER0(ROOT (S (NP (NML (NNP Pentagon) (NN spokesman)) (NNP Ken) (NNP Bacon)) (VP (VBD told) (NP (NNS reporters)) (SBAR (S (NP (DT the) (NN situation)) (VP (VBD caused) (S (NP (NP (DT the) (NNP Secretary)) (PP (IN of) (NP (NNP Defense)))) (VP (TO to) (VP (VB call) (NP (NNP US) (NN field) (NNS commanders))))))))) (. .)))
+ThetheDTOPER0SecretarySecretaryNNPOPER0heldholdVBDOPER0aaDTOPER0videovideoJJOPER0conferenceconferenceNNOPER0callcallNNOPER0withwithINOPER0allallPDTOPER0thetheDTOPER0CommanderscommanderNNSOPER0ininINOPER0ChiefsChiefsNNPSORGPER0,,,OPER0asasRBOPER0wellwellRBOPER0asasINOPER0thetheDTORGPER0ServiceServiceNNPORGPER0ChiefsChiefsNNPSORGPER0andandCCOPER0thetheDTORGPER0ServiceserviceNNORGPER0SecretariessecretaryNNSORGPER0andandCCOPER0thetheDTOPER0topictopicNNOPER0wasbeVBDOPER0forceforceVBOPER0protectionprotectionNNOPER0...OPER0(ROOT (S (S (NP (DT The) (NNP Secretary)) (VP (VBD held) (NP (NP (DT a) (JJ video) (NN conference) (NN call)) (PP (IN with) (NP (NP (PDT all) (DT the) (NNS Commanders)) (PP (IN in) (NP (NP (NNPS Chiefs)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NNP Service) (NNPS Chiefs)) (CC and) (NP (DT the) (NN Service) (NNS Secretaries))))))))) (CC and) (S (NP (DT the) (NN topic)) (VP (VBD was) (VP (VB force) (NP (NN protection))))) (. .)))
+ThetheDTOPER0hotelhotelNNOPER0hashaveVBZOPER0beenbeVBNOPER0hostinghostVBGOPER0scoresscoreNNSOPER0ofofINOPER0investigatorsinvestigatorNNSOPER0whowhoWPOPER0arebeVBPOPER0lookinglookVBGOPER0intointoINOPER0thetheDTOPER0apparentapparentJJOPER0suicidesuicideNNOPER0bombbombNNOPER0attackattackNNOPER0ononINOPER0thetheDTOPER0NavyNavyNNPORGPER0destroyerdestroyerNNOPER0thatthatWDTOPER0killedkillVBDOPER01717CDCARDINALPER0USUSNNPGPEPER0sailorssailorNNSOPER0twotwoCDDATEPER0weeksweekNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (DT The) (NN hotel)) (VP (VBZ has) (VP (VBN been) (VP (VBG hosting) (NP (NP (NNS scores)) (PP (IN of) (NP (NP (NNS investigators)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG looking) (PP (IN into) (NP (NP (DT the) (JJ apparent) (NN suicide) (NN bomb) (NN attack)) (PP (IN on) (NP (DT the) (NNP Navy) (NN destroyer))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors)) (ADVP (NP (CD two) (NNS weeks)) (RB ago))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (DT a) (NN bomb) (NN threat))
+sid=0 spanning 13 until 25 headed by 17 parsed as (NP (NNP US) (NNS investigators))
+sid=0 spanning 19 until 25 headed by 20 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (NNP USS) (NNP Cole))))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (NNP USS) (NNP Cole))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN situation))
+sid=1 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT the) (NNP Secretary)) (PP (IN of) (NP (NNP Defense))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Secretary))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN hotel))
+sid=3 spanning 12 until 29 headed by 16 parsed as (NP (NP (DT the) (JJ apparent) (NN suicide) (NN bomb) (NN attack)) (PP (IN on) (NP (DT the) (NNP Navy) (NN destroyer))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors)) (ADVP (NP (CD two) (NNS weeks)) (RB ago))))))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP Navy) (NN destroyer))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Yemen))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (DT a) (NN bomb) (NN threat))
+sid=0 spanning 8 until 16 headed by 9 parsed as (NP (NP (DT the) (NN tightening)) (PP (IN of) (NP (NP (NN security)) (PP (IN at) (NP (DT the) (NN hotel) (NN housing))))))
+sid=0 spanning 11 until 16 headed by 11 parsed as (NP (NP (NN security)) (PP (IN at) (NP (DT the) (NN hotel) (NN housing))))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NN hotel) (NN housing))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (NNP US) (NNS investigators))
+sid=0 spanning 16 until 17 headed by 16 parsed as US
+sid=0 spanning 19 until 25 headed by 20 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (NNP USS) (NNP Cole))))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (NNP USS) (NNP Cole))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Pentagon) (NN spokesman)) (NNP Ken) (NNP Bacon))
+sid=1 spanning 0 until 1 headed by 0 parsed as Pentagon
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNS reporters))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN situation))
+sid=1 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT the) (NNP Secretary)) (PP (IN of) (NP (NNP Defense))))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Defense))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (NNP US) (NN field) (NNS commanders))
+sid=1 spanning 15 until 16 headed by 15 parsed as US
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Secretary))
+sid=2 spanning 3 until 24 headed by 6 parsed as (NP (NP (DT a) (JJ video) (NN conference) (NN call)) (PP (IN with) (NP (NP (PDT all) (DT the) (NNS Commanders)) (PP (IN in) (NP (NP (NNPS Chiefs)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NNP Service) (NNPS Chiefs)) (CC and) (NP (DT the) (NN Service) (NNS Secretaries)))))))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNPS Chiefs)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NNP Service) (NNPS Chiefs)) (CC and) (NP (DT the) (NN Service) (NNS Secretaries)))
+sid=2 spanning 12 until 24 headed by 12 parsed as (NP (NP (NNPS Chiefs)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NNP Service) (NNPS Chiefs)) (CC and) (NP (DT the) (NN Service) (NNS Secretaries)))
+sid=2 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP Service) (NNPS Chiefs))
+sid=2 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN Service) (NNS Secretaries))
+sid=2 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN topic))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN hotel))
+sid=3 spanning 5 until 29 headed by 5 parsed as (NP (NP (NNS scores)) (PP (IN of) (NP (NP (NNS investigators)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG looking) (PP (IN into) (NP (NP (DT the) (JJ apparent) (NN suicide) (NN bomb) (NN attack)) (PP (IN on) (NP (DT the) (NNP Navy) (NN destroyer))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors)) (ADVP (NP (CD two) (NNS weeks)) (RB ago))))))))))))))
+sid=3 spanning 7 until 29 headed by 7 parsed as (NP (NP (NNS investigators)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG looking) (PP (IN into) (NP (NP (DT the) (JJ apparent) (NN suicide) (NN bomb) (NN attack)) (PP (IN on) (NP (DT the) (NNP Navy) (NN destroyer))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors)) (ADVP (NP (CD two) (NNS weeks)) (RB ago))))))))))))
+sid=3 spanning 12 until 29 headed by 16 parsed as (NP (NP (DT the) (JJ apparent) (NN suicide) (NN bomb) (NN attack)) (PP (IN on) (NP (DT the) (NNP Navy) (NN destroyer))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors)) (ADVP (NP (CD two) (NNS weeks)) (RB ago))))))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP Navy) (NN destroyer))
+sid=3 spanning 19 until 20 headed by 19 parsed as Navy
+sid=3 spanning 23 until 26 headed by 25 parsed as (NP (CD 17) (NNP US) (NNS sailors))
+sid=3 spanning 24 until 25 headed by 24 parsed as US
+sid=3 spanning 26 until 29 headed by 28 parsed as ago
+(end predicted mentions)
+---------gold clusters--------
+9 3 | { 'the Navy destroyer' 'the USS Cole' }
+2 8 | { 'the attack on the USS Cole' 'the apparent suicide bomb attack on the Navy destroyer that killed 17 US sailors two weeks ago' }
+0 4 | { 'a bomb threat' 'the situation' }
+6 5 | { 'The Secretary' 'the Secretary of Defense' }
+7 1 | { 'The hotel' 'the hotel housing US investigators probing the attack on the USS Cole' }
+(end gold clusters)

@@ -1,0 +1,25 @@
+---------gloss--------
+(0) [3m[31m{Financial printer Bowne & Co.}[0m said [3m[31m{it}[0m formed a business translation service , which will provide legal , financial and other services in most major languages , including Japanese , Chinese and Russian . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1420); part 000
+sentences:
+FinancialfinancialJJOPER0printerprinterNNOPER0BowneBowneNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0ititPRPOPER0formedformVBDOPER0aaDTOPER0businessbusinessNNOPER0translationtranslationNNOPER0serviceserviceNNOPER0,,,OPER0whichwhichWDTOPER0willwillMDOPER0provideprovideVBOPER0legallegalJJOPER0,,,OPER0financialfinancialJJOPER0andandCCOPER0otherotherJJOPER0servicesserviceNNSOPER0ininINOPER0mostmostJJSOPER0majormajorJJOPER0languageslanguageNNSOPER0,,,OPER0includingincludeVBGOPER0JapaneseJapaneseNNPSOPER0,,,OPER0ChineseChineseNNPSOPER0andandCCOPER0RussianRussianNNPLANGUAGEPER0...OPER0(ROOT (S (NP (NML (JJ Financial) (NN printer)) (NNP Bowne) (CC &) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD formed) (NP (NP (DT a) (NML (NN business) (NN translation)) (NN service)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB provide) (NP (ADJP (JJ legal) (, ,) (JJ financial) (CC and) (JJ other)) (NNS services)) (PP (IN in) (NP (JJS most) (JJ major) (NNS languages)))))))) (, ,) (PP (VBG including) (NP (NP (NNPS Japanese)) (, ,) (NP (NNPS Chinese)) (CC and) (NP (NNP Russian)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NML (JJ Financial) (NN printer)) (NNP Bowne) (CC &) (NNP Co.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NML (JJ Financial) (NN printer)) (NNP Bowne) (CC &) (NNP Co.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 8 until 26 headed by 11 parsed as (NP (NP (DT a) (NML (NN business) (NN translation)) (NN service)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB provide) (NP (ADJP (JJ legal) (, ,) (JJ financial) (CC and) (JJ other)) (NNS services)) (PP (IN in) (NP (JJS most) (JJ major) (NNS languages))))))))
+sid=0 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (NML (NN business) (NN translation)) (NN service))
+sid=0 spanning 16 until 22 headed by 21 parsed as (NP (ADJP (JJ legal) (, ,) (JJ financial) (CC and) (JJ other)) (NNS services))
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (JJS most) (JJ major) (NNS languages))
+sid=0 spanning 28 until 33 headed by 28 parsed as (NP (NP (NNPS Japanese)) (, ,) (NP (NNPS Chinese)) (CC and) (NP (NNP Russian)))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'it' 'Financial printer Bowne & Co.' }
+(end gold clusters)

@@ -1,0 +1,54 @@
+---------gloss--------
+(0) Investors on Wall Street are waiting for the word from [1m[34m{Federal Reserve}[0m Chairman Alan Greenspan on interest rates . 
+(1) [1m[33m{Greenspan}[0m will meet with the [1m[34m{Federal Reserve Board}[0m policymakers today for the last time this year . 
+(2) There 's widespread hope [1m[34m{the Fed}[0m will [1m[32m{do}[0m something to stop the economic slowdown . 
+(3) [1m[32m{That}[0m could mean a rate slash . 
+(4) Earlier this month , [1m[33m{Greenspan}[0m suggests cuts could be on the way . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0146); part 000
+sentences:
+InvestorsinvestorNNSOPER0ononINOPER0WallWallNNPOPER0StreetStreetNNPOPER0arebeVBPOPER0waitingwaitVBGOPER0forforINOPER0thetheDTOPER0wordwordNNOPER0fromfromINOPER0FederalFederalNNPORGPER0ReserveReserveNNPORGPER0ChairmanChairmanNNPOPER0AlanAlanNNPPERSONPER0GreenspanGreenspanNNPPERSONPER0ononINOPER0interestinterestNNOPER0ratesrateNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Investors)) (PP (IN on) (NP (NNP Wall) (NNP Street)))) (VP (VBP are) (VP (VBG waiting) (PP (IN for) (NP (NP (DT the) (NN word)) (PP (IN from) (NP (NML (NML (NNP Federal) (NNP Reserve)) (NNP Chairman)) (NNP Alan) (NNP Greenspan))) (PP (IN on) (NP (NN interest) (NNS rates))))))) (. .)))
+GreenspanGreenspanNNPPERSONPER0willwillMDOPER0meetmeetVBOPER0withwithINOPER0thetheDTOPER0FederalFederalNNPORGPER0ReserveReserveNNPORGPER0BoardBoardNNPORGPER0policymakerspolicymakerNNSOPER0todaytodayNNDATEPER0forforINOPER0thetheDTOPER0lastlastJJOPER0timetimeNNOPER0thisthisDTDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NNP Greenspan)) (VP (MD will) (VP (VB meet) (PP (IN with) (NP (DT the) (NML (NML (NNP Federal) (NNP Reserve)) (NNP Board)) (NNS policymakers))) (NP (NN today)) (PP (IN for) (NP (NP (DT the) (JJ last) (NN time)) (NP (DT this) (NN year)))))) (. .)))
+TherethereEXOPER0'sbeVBZOPER0widespreadwidespreadJJOPER0hopehopeVBPOPER0thetheDTOPER0FedFedNNPORGPER0willwillMDOPER0dodoVBOPER0somethingsomethingNNOPER0totoTOOPER0stopstopVBOPER0thetheDTOPER0economiceconomicJJOPER0slowdownslowdownNNOPER0...OPER0(ROOT (S (S (NP (EX There)) (VP (VBZ 's) (ADJP (JJ widespread)))) (VP (VBP hope) (SBAR (S (NP (DT the) (NNP Fed)) (VP (MD will) (VP (VB do) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB stop) (NP (DT the) (JJ economic) (NN slowdown)))))))))))) (. .)))
+ThatthatDTOPER0couldcouldMDOPER0meanmeanVBOPER0aaDTOPER0raterateNNOPER0slashslashVBOPER0...OPER0(ROOT (S (NP (DT That)) (VP (MD could) (VP (VB mean) (S (NP (DT a) (NN rate)) (VP (VB slash))))) (. .)))
+EarlierearlierRBRDATEPER0thisthisDTDATEPER0monthmonthNNDATEPER0,,,OPER0GreenspanGreenspanNNPPERSONPER0suggestssuggestVBZOPER0cutscutNNSOPER0couldcouldMDOPER0bebeVBOPER0ononINOPER0thetheDTOPER0waywayNNOPER0...OPER0(ROOT (S (NP (ADVP (RBR Earlier)) (DT this) (NN month)) (, ,) (NP (NNP Greenspan)) (VP (VBZ suggests) (SBAR (S (NP (NNS cuts)) (VP (MD could) (VP (VB be) (PP (IN on) (NP (DT the) (NN way)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (NML (NML (NNP Federal) (NNP Reserve)) (NNP Chairman)) (NNP Alan) (NNP Greenspan))
+sid=0 spanning 10 until 12 headed by 11 parsed as Reserve
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Greenspan))
+sid=1 spanning 5 until 8 headed by 7 parsed as Board
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNP Fed))
+sid=2 spanning 7 until 8 headed by 7 parsed as do
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNP Greenspan))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Investors)) (PP (IN on) (NP (NNP Wall) (NNP Street))))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NNP Wall) (NNP Street))
+sid=0 spanning 7 until 18 headed by 8 parsed as (NP (NP (DT the) (NN word)) (PP (IN from) (NP (NML (NML (NNP Federal) (NNP Reserve)) (NNP Chairman)) (NNP Alan) (NNP Greenspan))) (PP (IN on) (NP (NN interest) (NNS rates))))
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (NML (NML (NNP Federal) (NNP Reserve)) (NNP Chairman)) (NNP Alan) (NNP Greenspan))
+sid=0 spanning 10 until 12 headed by 11 parsed as Reserve
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (NN interest) (NNS rates))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Greenspan))
+sid=1 spanning 4 until 9 headed by 8 parsed as (NP (DT the) (NML (NML (NNP Federal) (NNP Reserve)) (NNP Board)) (NNS policymakers))
+sid=1 spanning 5 until 8 headed by 7 parsed as Board
+sid=1 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT the) (JJ last) (NN time)) (NP (DT this) (NN year)))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT this) (NN year))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNP Fed))
+sid=2 spanning 8 until 14 headed by 8 parsed as (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB stop) (NP (DT the) (JJ economic) (NN slowdown)))))))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (JJ economic) (NN slowdown))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN rate))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (ADVP (RBR Earlier)) (DT this) (NN month))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNP Greenspan))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNS cuts))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN way))
+(end predicted mentions)
+---------gold clusters--------
+5 6 | { 'do' 'That' }
+0 7 2 | { 'Federal Reserve Chairman Alan Greenspan' 'Greenspan' 'Greenspan' }
+3 4 1 | { 'Federal Reserve Board' 'the Fed' 'Federal Reserve' }
+(end gold clusters)

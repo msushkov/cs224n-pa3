@@ -1,0 +1,176 @@
+---------gloss--------
+(0) [4m[36m{The Gulf War}[0m began 10 years ago tonight and ended 6 weeks later with a decisive US victory over [4m[33m{Iraq}[0m , but little has changed since then . 
+(1) The two nations are still bitter enemies . 
+(2) The United States continues to insist that [33m{UN}[0m sanctions remain against [4m[33m{Iraq}[0m until [4m[33m{Baghdad}[0m completely dismantles [4m[33m{its}[0m programs of weapons of mass destruction . 
+(3) The only exception to [32m{the trade embargo}[0m is [4m[31m{the UN Oil for Food Program , which President Saddam Hussein grudgingly accepted 5 years ago}[0m . 
+(4) [4m[31m{That program}[0m has helped provide Iraqis with basic foods and stabilize the economy somewhat , but [4m[33m{Iraq}[0m complains that [4m[31m{the program}[0m is inadequate . 
+(5) Under [4m[31m{it}[0m [4m[33m{Baghdad}[0m has sold 40 billion dollars worth of oil and has received only 10 billion dollars worth of goods . 
+(6) The rest of the money , 30 billion dollars , has gone to pay war reparations , assist the Kurds in northern Iraq and pay for [4m[31m{the UN operation}[0m . 
+(7) [4m[35m{Today}[0m [4m[33m{Iraq}[0m 's Oil Minister , Omar Mohammed Rashid called for an end to [4m[31m{the Oil for Food Program}[0m . 
+(8) You can not run [4m[34m{a country with 23 million people}[0m with revenues of 16 billion to 20 billion dollars . 
+(9) You run [4m[34m{it}[0m from a security council . 
+(10) This is totally impossible , even with all the good faith . 
+(11) So just imagine with all the bad faith . 
+(12) We know there is absolutely no hope for this [4m[31m{program}[0m to succeed . 
+(13) There were other signs [4m[35m{today}[0m that [4m[33m{Iraq 's}[0m leaders have few regrets over [4m[32m{the action that precipitated the Gulf War}[0m . 
+(14) [4m[33m{Iraq 's}[0m Deputy Prime Minister defended [4m[32m{the 1990 invasion of Kuwait}[0m and claimed that [31m{his}[0m country was the victim of a conspiracy , and [35m{Saddam Hussein 's}[0m eldest son Uday , who is a member of the Parliament , proposed that [34m{Kuwait}[0m should be included in a new map of [4m[33m{Iraq}[0m . 
+(end gloss)
+---------document--------
+(bn/pri/01/pri_0108); part 000
+sentences:
+ThetheDTEVENTPER0GulfGulfNNPEVENTPER0WarWarNNPEVENTPER0beganbeginVBDOPER01010CDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0tonighttonightNNOPER0andandCCOPER0endedendVBDOPER066CDDATEPER0weeksweekNNSDATEPER0laterlaterRBDATEPER0withwithINOPER0aaDTOPER0decisivedecisiveJJOPER0USUSNNPORGPER0victoryvictoryNNOPER0overoverINOPER0IraqIraqNNPGPEPER0,,,OPER0butbutCCOPER0littlelittleJJOPER0hashaveVBZOPER0changedchangeVBNOPER0sincesinceINOPER0thenthenRBOPER0...OPER0(ROOT (S (S (NP (DT The) (NNP Gulf) (NNP War)) (VP (VP (VBD began) (ADVP (NP (CD 10) (NNS years)) (RB ago)) (NP (NN tonight))) (CC and) (VP (VBD ended) (ADVP (NP (CD 6) (NNS weeks)) (RB later)) (PP (IN with) (NP (NP (DT a) (JJ decisive) (NNP US) (NN victory)) (PP (IN over) (NP (NNP Iraq)))))))) (, ,) (CC but) (S (NP (JJ little)) (VP (VBZ has) (VP (VBN changed) (PP (IN since) (ADVP (RB then)))))) (. .)))
+ThetheDTOPER0twotwoCDCARDINALPER0nationsnationNNSOPER0arebeVBPOPER0stillstillRBOPER0bitterbitterJJOPER0enemiesenemyNNSOPER0...OPER0(ROOT (S (NP (DT The) (CD two) (NNS nations)) (VP (VBP are) (ADVP (RB still)) (NP (JJ bitter) (NNS enemies))) (. .)))
+ThetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0continuescontinueVBZOPER0totoTOOPER0insistinsistVBOPER0thatthatINOPER0UNUNNNPORGPER0sanctionssanctionNNSOPER0remainremainVBPOPER0againstagainstINOPER0IraqIraqNNPGPEPER0untiluntilINOPER0BaghdadBaghdadNNPGPEPER0completelycompletelyRBOPER0dismantlesdismantleVBZOPER0itsitsPRP$OPER0programsprogramNNSOPER0ofofINOPER0weaponsweaponNNSOPER0ofofINOPER0massmassJJOPER0destructiondestructionNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP States)) (VP (VBZ continues) (S (VP (TO to) (VP (VB insist) (SBAR (IN that) (S (NP (NNP UN) (NNS sanctions)) (VP (VBP remain) (PP (IN against) (NP (NNP Iraq))) (SBAR (IN until) (S (NP (NNP Baghdad)) (ADVP (RB completely)) (VP (VBZ dismantles) (NP (NP (PRP$ its) (NNS programs)) (PP (IN of) (NP (NP (NNS weapons)) (PP (IN of) (NP (JJ mass) (NN destruction)))))))))))))))) (. .)))
+ThetheDTOPER0onlyonlyJJOPER0exceptionexceptionNNOPER0totoINOPER0thetheDTOPER0tradetradeNNOPER0embargoembargoNNOPER0isbeVBZOPER0thetheDTORGPER0UNUNNNPORGPER0OiloilNNORGPER0forforINOPER0FoodFoodNNPORGPER0ProgramProgramNNPORGPER0,,,OPER0whichwhichWDTOPER0PresidentPresidentNNPOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0grudginglygrudginglyRBOPER0acceptedacceptVBDOPER055CDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ only) (NN exception)) (PP (IN to) (NP (DT the) (NN trade) (NN embargo)))) (VP (VBZ is) (NP (NP (DT the) (NNP UN) (NN Oil)) (PP (IN for) (NP (NP (NNP Food) (NNP Program)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP President) (NNP Saddam) (NNP Hussein)) (ADVP (RB grudgingly)) (VP (VBD accepted) (ADVP (NP (CD 5) (NNS years)) (RB ago))))))))) (. .)))
+ThatthatDTOPER0programprogramNNOPER0hashaveVBZOPER0helpedhelpVBNOPER0provideprovideVBOPER0IraqisIraqisNNPSGPEPER0withwithINOPER0basicbasicJJOPER0foodsfoodNNSOPER0andandCCOPER0stabilizestabilizeVBOPER0thetheDTOPER0economyeconomyNNOPER0somewhatsomewhatRBOPER0,,,OPER0butbutCCOPER0IraqIraqNNPGPEPER0complainscomplainVBZOPER0thatthatINOPER0thetheDTOPER0programprogramNNOPER0isbeVBZOPER0inadequateinadequateJJOPER0...OPER0(ROOT (S (S (NP (DT That) (NN program)) (VP (VBZ has) (VP (VBN helped) (S (VP (VP (VB provide) (NP (NNPS Iraqis)) (PP (IN with) (NP (JJ basic) (NNS foods)))) (CC and) (VP (VB stabilize) (NP (DT the) (NN economy)) (ADVP (RB somewhat)))))))) (, ,) (CC but) (S (NP (NNP Iraq)) (VP (VBZ complains) (SBAR (IN that) (S (NP (DT the) (NN program)) (VP (VBZ is) (ADJP (JJ inadequate))))))) (. .)))
+UnderunderINOPER0ititPRPOPER0BaghdadBaghdadNNPGPEPER0hashaveVBZOPER0soldsellVBNOPER04040CDMONEYPER0billionbillionCDMONEYPER0dollarsdollarNNSMONEYPER0worthworthJJOPER0ofofINOPER0oiloilNNOPER0andandCCOPER0hashaveVBZOPER0receivedreceiveVBNOPER0onlyonlyRBMONEYPER01010CDMONEYPER0billionbillionCDMONEYPER0dollarsdollarNNSMONEYPER0worthworthJJOPER0ofofINOPER0goodsgoodsNNSOPER0...OPER0(ROOT (S (PP (IN Under) (NP (PRP it))) (NP (NNP Baghdad)) (VP (VP (VBZ has) (VP (VBN sold) (NP (NP (QP (CD 40) (CD billion)) (NNS dollars)) (ADJP (JJ worth) (PP (IN of) (NP (NN oil))))))) (CC and) (VP (VBZ has) (VP (VBN received) (NP (NP (QP (RB only) (CD 10) (CD billion)) (NNS dollars)) (ADJP (JJ worth) (PP (IN of) (NP (NNS goods)))))))) (. .)))
+ThetheDTOPER0restrestNNOPER0ofofINOPER0thetheDTOPER0moneymoneyNNOPER0,,,OPER03030CDMONEYPER0billionbillionCDMONEYPER0dollarsdollarNNSMONEYPER0,,,OPER0hashaveVBZOPER0gonegoVBNOPER0totoTOOPER0paypayVBOPER0warwarNNOPER0reparationsreparationNNSOPER0,,,OPER0assistassistVBOPER0thetheDTOPER0KurdsKurdsNNPSOPER0ininINOPER0northernnorthernJJOPER0IraqIraqNNPGPEPER0andandCCOPER0paypayVBOPER0forforINOPER0thetheDTOPER0UNUNNNPORGPER0operationoperationNNOPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NN rest)) (PP (IN of) (NP (DT the) (NN money)))) (, ,) (NP (QP (CD 30) (CD billion)) (NNS dollars)) (, ,)) (VP (VBZ has) (VP (VBN gone) (S (VP (TO to) (VP (VP (VB pay) (NP (NN war) (NNS reparations))) (, ,) (VP (VB assist) (NP (DT the) (NNPS Kurds)) (PP (IN in) (NP (JJ northern) (NNP Iraq)))) (CC and) (VP (VB pay) (PP (IN for) (NP (DT the) (NNP UN) (NN operation))))))))) (. .)))
+TodayTodayNNPOPER0IraqIraqNNPGPEPER0's'sPOSOPER0OilOilNNPORGPER0MinisterMinisterNNPOPER0,,,OPER0OmarOmarNNPPERSONPER0MohammedMohammedNNPPERSONPER0RashidRashidNNPPERSONPER0calledcallVBDOPER0forforINOPER0anaDTOPER0endendNNOPER0totoINOPER0thetheDTOPER0OilOilNNPORGPER0forforINOPER0FoodFoodNNPORGPER0ProgramProgramNNPORGPER0...OPER0(ROOT (S (NP (NP (NP (NNP Today) (NNP Iraq) (POS 's)) (NNP Oil) (NNP Minister)) (, ,) (NP (NNP Omar) (NNP Mohammed) (NNP Rashid))) (VP (VBD called) (PP (IN for) (NP (NP (DT an) (NN end)) (PP (IN to) (NP (DT the) (NML (NML (NNP Oil)) (PP (IN for) (NP (NNP Food)))) (NNP Program)))))) (. .)))
+YouyouPRPOPER0cancanMDOPER0notnotRBOPER0runrunVBOPER0aaDTOPER0countrycountryNNOPER0withwithINOPER02323CDCARDINALPER0millionmillionCDCARDINALPER0peoplepeopleNNSOPER0withwithINOPER0revenuesrevenueNNSOPER0ofofINOPER01616CDMONEYPER0billionbillionCDMONEYPER0totoTOMONEYPER02020CDMONEYPER0billionbillionCDMONEYPER0dollarsdollarNNSMONEYPER0...OPER0(ROOT (S (NP (PRP You)) (VP (MD can) (RB not) (VP (VB run) (NP (NP (DT a) (NN country)) (PP (IN with) (NP (NP (QP (CD 23) (CD million)) (NNS people)) (PP (IN with) (NP (NP (NNS revenues)) (PP (IN of) (NP (QP (CD 16) (CD billion) (TO to) (CD 20) (CD billion)) (NNS dollars)))))))))) (. .)))
+YouyouPRPOPER0runrunVBPOPER0ititPRPOPER0fromfromINOPER0aaDTOPER0securitysecurityNNOPER0councilcouncilNNOPER0...OPER0(ROOT (S (NP (PRP You)) (VP (VBP run) (NP (PRP it)) (PP (IN from) (NP (DT a) (NN security) (NN council)))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0totallytotallyRBOPER0impossibleimpossibleJJOPER0,,,OPER0evenevenRBOPER0withwithINOPER0allallPDTOPER0thetheDTOPER0goodgoodJJOPER0faithfaithNNOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (ADJP (RB totally) (JJ impossible)) (, ,) (PP (ADVP (RB even)) (IN with) (NP (PDT all) (DT the) (JJ good) (NN faith)))) (. .)))
+SosoCCOPER0justjustRBOPER0imagineimagineVBOPER0withwithINOPER0allallPDTOPER0thetheDTOPER0badbadJJOPER0faithfaithNNOPER0...OPER0(ROOT (S (CC So) (ADVP (RB just)) (VP (VB imagine) (PP (IN with) (NP (PDT all) (DT the) (JJ bad) (NN faith)))) (. .)))
+WewePRPOPER0knowknowVBPOPER0therethereEXOPER0isbeVBZOPER0absolutelyabsolutelyRBOPER0nonoDTOPER0hopehopeNNOPER0forforINOPER0thisthisDTOPER0programprogramNNOPER0totoTOOPER0succeedsucceedVBOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP know) (SBAR (S (NP (EX there)) (VP (VBZ is) (ADVP (RB absolutely)) (NP (NP (DT no) (NN hope)) (PP (IN for) (NP (DT this) (NN program) (S (VP (TO to) (VP (VB succeed))))))))))) (. .)))
+TherethereEXOPER0werebeVBDOPER0otherotherJJOPER0signssignNNSOPER0todaytodayNNDATEPER0thatthatINOPER0IraqIraqNNPGPEPER0's'sPOSOPER0leadersleaderNNSOPER0havehaveVBPOPER0fewfewJJOPER0regretsregretNNSOPER0overoverINOPER0thetheDTOPER0actionactionNNOPER0thatthatWDTOPER0precipitatedprecipitateVBDOPER0thetheDTEVENTPER0GulfGulfNNPEVENTPER0WarWarNNPEVENTPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBD were) (NP (NP (JJ other) (NNS signs)) (NP (NN today))) (SBAR (IN that) (S (NP (NP (NNP Iraq) (POS 's)) (NNS leaders)) (VP (VBP have) (NP (NP (JJ few) (NNS regrets)) (PP (IN over) (NP (NP (DT the) (NN action)) (SBAR (WHNP (WDT that)) (S (VP (VBD precipitated) (NP (DT the) (NNP Gulf) (NNP War)))))))))))) (. .)))
+IraqIraqNNPGPEPER0's'sPOSOPER0DeputyDeputyNNPOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0defendeddefendVBDOPER0thetheDTOPER019901990CDDATEPER0invasioninvasionNNOPER0ofofINOPER0KuwaitKuwaitNNPGPEPER0andandCCOPER0claimedclaimVBDOPER0thatthatINOPER0hishePRP$OPER0countrycountryNNOPER0wasbeVBDOPER0thetheDTOPER0victimvictimNNOPER0ofofINOPER0aaDTOPER0conspiracyconspiracyNNOPER0,,,OPER0andandCCOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0's'sPOSPERSONPER0eldesteldestJJSOPER0sonsonNNOPER0UdayUdayNNPPERSONPER0,,,OPER0whowhoWPOPER0isbeVBZOPER0aaDTOPER0membermemberNNOPER0ofofINOPER0thetheDTOPER0ParliamentParliamentNNPORGPER0,,,OPER0proposedproposeVBDOPER0thatthatINOPER0KuwaitKuwaitNNPGPEPER0shouldshouldMDOPER0bebeVBOPER0includedincludeVBNOPER0ininINOPER0aaDTOPER0newnewJJOPER0mapmapNNOPER0ofofINOPER0IraqIraqNNPGPEPER0...OPER0(ROOT (S (S (NP (NP (NNP Iraq) (POS 's)) (NNP Deputy) (NNP Prime) (NNP Minister)) (VP (VP (VBD defended) (NP (NP (DT the) (CD 1990) (NN invasion)) (PP (IN of) (NP (NNP Kuwait))))) (CC and) (VP (VBD claimed) (SBAR (IN that) (S (NP (PRP$ his) (NN country)) (VP (VBD was) (NP (NP (DT the) (NN victim)) (PP (IN of) (NP (DT a) (NN conspiracy)))))))))) (, ,) (CC and) (S (NP (NP (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (JJS eldest) (NN son)) (NP (NNP Uday))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT the) (NNP Parliament))))))) (, ,)) (VP (VBD proposed) (SBAR (IN that) (S (NP (NNP Kuwait)) (VP (MD should) (VP (VB be) (VP (VBN included) (PP (IN in) (NP (NP (DT a) (JJ new) (NN map)) (PP (IN of) (NP (NNP Iraq)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Gulf) (NNP War))
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (NNP Iraq))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NNP UN) (NNS sanctions))
+sid=2 spanning 7 until 8 headed by 7 parsed as UN
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP Iraq))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNP Baghdad))
+sid=2 spanning 16 until 17 headed by 16 parsed as its
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN trade) (NN embargo))
+sid=3 spanning 8 until 24 headed by 10 parsed as (NP (NP (DT the) (NNP UN) (NN Oil)) (PP (IN for) (NP (NP (NNP Food) (NNP Program)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP President) (NNP Saddam) (NNP Hussein)) (ADVP (RB grudgingly)) (VP (VBD accepted) (ADVP (NP (CD 5) (NNS years)) (RB ago))))))))
+sid=3 spanning 9 until 10 headed by 9 parsed as UN
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (NNP President) (NNP Saddam) (NNP Hussein))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN program))
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (NNP Iraq))
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN program))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Baghdad))
+sid=6 spanning 26 until 29 headed by 28 parsed as (NP (DT the) (NNP UN) (NN operation))
+sid=6 spanning 27 until 28 headed by 27 parsed as UN
+sid=7 spanning 1 until 2 headed by 1 parsed as (NP (NNP Today) (NNP Iraq) (POS 's))
+sid=7 spanning 0 until 1 headed by 0 parsed as Today
+sid=7 spanning 14 until 19 headed by 18 parsed as (NP (DT the) (NML (NML (NNP Oil)) (PP (IN for) (NP (NNP Food)))) (NNP Program))
+sid=8 spanning 4 until 10 headed by 5 parsed as (NP (NP (DT a) (NN country)) (PP (IN with) (NP (NP (QP (CD 23) (CD million)) (NNS people)) (PP (IN with) (NP (NP (NNS revenues)) (PP (IN of) (NP (QP (CD 16) (CD billion) (TO to) (CD 20) (CD billion)) (NNS dollars))))))))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=12 spanning 9 until 10 headed by 9 parsed as (NP (DT this) (NN program) (S (VP (TO to) (VP (VB succeed)))))
+sid=13 spanning 4 until 5 headed by 4 parsed as (NP (NN today))
+sid=13 spanning 6 until 8 headed by 6 parsed as (NP (NNP Iraq) (POS 's))
+sid=13 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT the) (NN action)) (SBAR (WHNP (WDT that)) (S (VP (VBD precipitated) (NP (DT the) (NNP Gulf) (NNP War))))))
+sid=13 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP Gulf) (NNP War))
+sid=14 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Iraq) (POS 's)) (NNP Deputy) (NNP Prime) (NNP Minister))
+sid=14 spanning 0 until 2 headed by 0 parsed as (NP (NNP Iraq) (POS 's))
+sid=14 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT the) (CD 1990) (NN invasion)) (PP (IN of) (NP (NNP Kuwait))))
+sid=14 spanning 10 until 11 headed by 10 parsed as (NP (NNP Kuwait))
+sid=14 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ his) (NN country))
+sid=14 spanning 14 until 15 headed by 14 parsed as his
+sid=14 spanning 24 until 27 headed by 25 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+sid=14 spanning 41 until 42 headed by 41 parsed as (NP (NNP Kuwait))
+sid=14 spanning 50 until 51 headed by 50 parsed as (NP (NNP Iraq))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Gulf) (NNP War))
+sid=0 spanning 4 until 7 headed by 6 parsed as ago
+sid=0 spanning 10 until 13 headed by 12 parsed as later
+sid=0 spanning 14 until 20 headed by 17 parsed as (NP (NP (DT a) (JJ decisive) (NNP US) (NN victory)) (PP (IN over) (NP (NNP Iraq))))
+sid=0 spanning 16 until 17 headed by 16 parsed as US
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (NNP Iraq))
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (JJ little))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD two) (NNS nations))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (JJ bitter) (NNS enemies))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP States))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NNP UN) (NNS sanctions))
+sid=2 spanning 7 until 8 headed by 7 parsed as UN
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP Iraq))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNP Baghdad))
+sid=2 spanning 16 until 23 headed by 17 parsed as (NP (NP (PRP$ its) (NNS programs)) (PP (IN of) (NP (NP (NNS weapons)) (PP (IN of) (NP (JJ mass) (NN destruction))))))
+sid=2 spanning 16 until 17 headed by 16 parsed as (PRP$ its)
+sid=2 spanning 19 until 23 headed by 19 parsed as (NP (NP (NNS weapons)) (PP (IN of) (NP (JJ mass) (NN destruction))))
+sid=3 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT The) (JJ only) (NN exception)) (PP (IN to) (NP (DT the) (NN trade) (NN embargo))))
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN trade) (NN embargo))
+sid=3 spanning 8 until 24 headed by 10 parsed as (NP (NP (DT the) (NNP UN) (NN Oil)) (PP (IN for) (NP (NP (NNP Food) (NNP Program)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP President) (NNP Saddam) (NNP Hussein)) (ADVP (RB grudgingly)) (VP (VBD accepted) (ADVP (NP (CD 5) (NNS years)) (RB ago))))))))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (NP (NNP Food) (NNP Program)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP President) (NNP Saddam) (NNP Hussein)) (ADVP (RB grudgingly)) (VP (VBD accepted) (ADVP (NP (CD 5) (NNS years)) (RB ago))))))
+sid=3 spanning 12 until 24 headed by 13 parsed as (NP (NP (NNP Food) (NNP Program)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP President) (NNP Saddam) (NNP Hussein)) (ADVP (RB grudgingly)) (VP (VBD accepted) (ADVP (NP (CD 5) (NNS years)) (RB ago))))))
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (NNP President) (NNP Saddam) (NNP Hussein))
+sid=3 spanning 21 until 24 headed by 23 parsed as ago
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN program))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (JJ basic) (NNS foods))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN economy))
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (NNP Iraq))
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN program))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Baghdad))
+sid=5 spanning 20 until 21 headed by 20 parsed as (NP (NNS goods))
+sid=6 spanning 0 until 10 headed by 1 parsed as (NP (NP (NP (DT The) (NN rest)) (PP (IN of) (NP (DT the) (NN money)))) (, ,) (NP (QP (CD 30) (CD billion)) (NNS dollars)) (, ,))
+sid=6 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN rest)) (PP (IN of) (NP (DT the) (NN money))))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN money))
+sid=6 spanning 14 until 16 headed by 15 parsed as (NP (NN war) (NNS reparations))
+sid=6 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NNPS Kurds))
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (JJ northern) (NNP Iraq))
+sid=6 spanning 21 until 23 headed by 22 parsed as (NP (JJ northern) (NNP Iraq))
+sid=6 spanning 26 until 29 headed by 28 parsed as (NP (DT the) (NNP UN) (NN operation))
+sid=6 spanning 27 until 28 headed by 27 parsed as UN
+sid=7 spanning 0 until 9 headed by 4 parsed as (NP (NP (NP (NNP Today) (NNP Iraq) (POS 's)) (NNP Oil) (NNP Minister)) (, ,) (NP (NNP Omar) (NNP Mohammed) (NNP Rashid)))
+sid=7 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Today) (NNP Iraq) (POS 's)) (NNP Oil) (NNP Minister))
+sid=7 spanning 0 until 3 headed by 1 parsed as (NP (NNP Today) (NNP Iraq) (POS 's))
+sid=7 spanning 3 until 4 headed by 3 parsed as Oil
+sid=7 spanning 6 until 9 headed by 8 parsed as (NP (NNP Omar) (NNP Mohammed) (NNP Rashid))
+sid=7 spanning 11 until 19 headed by 12 parsed as (NP (NP (DT an) (NN end)) (PP (IN to) (NP (DT the) (NML (NML (NNP Oil)) (PP (IN for) (NP (NNP Food)))) (NNP Program))))
+sid=7 spanning 14 until 19 headed by 18 parsed as (NP (DT the) (NML (NML (NNP Oil)) (PP (IN for) (NP (NNP Food)))) (NNP Program))
+sid=7 spanning 15 until 16 headed by 15 parsed as Oil
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=8 spanning 4 until 19 headed by 5 parsed as (NP (NP (DT a) (NN country)) (PP (IN with) (NP (NP (QP (CD 23) (CD million)) (NNS people)) (PP (IN with) (NP (NP (NNS revenues)) (PP (IN of) (NP (QP (CD 16) (CD billion) (TO to) (CD 20) (CD billion)) (NNS dollars))))))))
+sid=8 spanning 7 until 19 headed by 9 parsed as (NP (NP (QP (CD 23) (CD million)) (NNS people)) (PP (IN with) (NP (NP (NNS revenues)) (PP (IN of) (NP (QP (CD 16) (CD billion) (TO to) (CD 20) (CD billion)) (NNS dollars))))))
+sid=8 spanning 11 until 19 headed by 11 parsed as (NP (NP (NNS revenues)) (PP (IN of) (NP (QP (CD 16) (CD billion) (TO to) (CD 20) (CD billion)) (NNS dollars))))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=9 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NN security) (NN council))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=12 spanning 5 until 12 headed by 6 parsed as (NP (NP (DT no) (NN hope)) (PP (IN for) (NP (DT this) (NN program) (S (VP (TO to) (VP (VB succeed)))))))
+sid=12 spanning 8 until 12 headed by 9 parsed as (NP (DT this) (NN program) (S (VP (TO to) (VP (VB succeed)))))
+sid=13 spanning 2 until 5 headed by 3 parsed as (NP (NP (JJ other) (NNS signs)) (NP (NN today)))
+sid=13 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNP Iraq) (POS 's)) (NNS leaders))
+sid=13 spanning 6 until 8 headed by 6 parsed as (NP (NNP Iraq) (POS 's))
+sid=13 spanning 10 until 20 headed by 11 parsed as (NP (NP (JJ few) (NNS regrets)) (PP (IN over) (NP (NP (DT the) (NN action)) (SBAR (WHNP (WDT that)) (S (VP (VBD precipitated) (NP (DT the) (NNP Gulf) (NNP War))))))))
+sid=13 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT the) (NN action)) (SBAR (WHNP (WDT that)) (S (VP (VBD precipitated) (NP (DT the) (NNP Gulf) (NNP War))))))
+sid=13 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP Gulf) (NNP War))
+sid=14 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Iraq) (POS 's)) (NNP Deputy) (NNP Prime) (NNP Minister))
+sid=14 spanning 0 until 2 headed by 0 parsed as (NP (NNP Iraq) (POS 's))
+sid=14 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT the) (CD 1990) (NN invasion)) (PP (IN of) (NP (NNP Kuwait))))
+sid=14 spanning 7 until 8 headed by 7 parsed as 1990
+sid=14 spanning 10 until 11 headed by 10 parsed as (NP (NNP Kuwait))
+sid=14 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ his) (NN country))
+sid=14 spanning 14 until 15 headed by 14 parsed as (PRP$ his)
+sid=14 spanning 17 until 22 headed by 18 parsed as (NP (NP (DT the) (NN victim)) (PP (IN of) (NP (DT a) (NN conspiracy))))
+sid=14 spanning 20 until 22 headed by 21 parsed as (NP (DT a) (NN conspiracy))
+sid=14 spanning 24 until 39 headed by 28 parsed as (NP (NP (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (JJS eldest) (NN son)) (NP (NNP Uday))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT the) (NNP Parliament))))))) (, ,))
+sid=14 spanning 24 until 30 headed by 28 parsed as (NP (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (JJS eldest) (NN son)) (NP (NNP Uday)))
+sid=14 spanning 24 until 27 headed by 25 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+sid=14 spanning 29 until 30 headed by 29 parsed as (NP (NNP Uday))
+sid=14 spanning 33 until 38 headed by 34 parsed as (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT the) (NNP Parliament))))
+sid=14 spanning 37 until 38 headed by 37 parsed as (NP (DT the) (NNP Parliament))
+sid=14 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NNP Parliament))
+sid=14 spanning 41 until 42 headed by 41 parsed as (NP (NNP Kuwait))
+sid=14 spanning 46 until 51 headed by 48 parsed as (NP (NP (DT a) (JJ new) (NN map)) (PP (IN of) (NP (NNP Iraq))))
+sid=14 spanning 50 until 51 headed by 50 parsed as (NP (NNP Iraq))
+(end predicted mentions)
+---------gold clusters--------
+8 23 14 16 11 13 20 | { 'the UN Oil for Food Program , which President Saddam Hussein grudgingly accepted 5 years ago' 'program' 'it' 'the UN operation' 'That program' 'the program' 'the Oil for Food Program' }
+26 30 | { 'the action that precipitated the Gulf War' 'the 1990 invasion of Kuwait' }
+18 6 32 1 25 36 29 12 15 5 4 | { 'Iraq' 'its' 'his country' 'Iraq' 'Iraq 's' 'Iraq' 'Iraq 's' 'Iraq' 'Baghdad' 'Baghdad' 'Iraq' }
+22 21 | { 'it' 'a country with 23 million people' }
+19 24 | { 'Today' 'today' }
+0 27 | { 'The Gulf War' 'the Gulf War' }
+33 28 | { 'his' 'Iraq 's Deputy Prime Minister' }
+7 2 | { 'the trade embargo' 'UN sanctions' }
+3 9 17 | { 'UN' 'UN' 'UN' }
+31 35 | { 'Kuwait' 'Kuwait' }
+10 34 | { 'President Saddam Hussein' 'Saddam Hussein 's' }
+(end gold clusters)

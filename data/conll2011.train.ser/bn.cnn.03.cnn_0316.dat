@@ -1,0 +1,72 @@
+---------gloss--------
+(0) [4m[33m{Another six executives from Enron}[0m could be [4m[32m{charged}[0m with securities fraud and other crimes . 
+(1) Federal prosecutors notified [4m[33m{the former employees}[0m that [4m[33m{they}[0m could face [4m[32m{charges}[0m as early as this week . 
+(2) [4m[33m{They}[0m would join [4m[34m{seven other executives already charged}[0m . 
+(3) Abe our [3m[36m{Enron}[0m corporate America score board sets [4m[31m{50 executives}[0m now charged in America , [4m[34m{seven of them}[0m , as I said , at [3m[36m{Enron}[0m . 
+(4) No one , no one is sent to prison . 
+(5) Been 511 days since [3m[36m{Enron}[0m filed for bankruptcies . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0316); part 000
+sentences:
+AnotheranotherDTOPER0sixsixCDCARDINALPER0executivesexecutiveNNSOPER0fromfromINOPER0EnronEnronNNPORGPER0couldcouldMDOPER0bebeVBOPER0chargedchargeVBNOPER0withwithINOPER0securitiessecurityNNSOPER0fraudfraudNNOPER0andandCCOPER0otherotherJJOPER0crimescrimeNNSOPER0...OPER0(ROOT (S (NP (NP (DT Another) (CD six) (NNS executives)) (PP (IN from) (NP (NNP Enron)))) (VP (MD could) (VP (VB be) (VP (VBN charged) (PP (IN with) (NP (NP (NNS securities) (NN fraud)) (CC and) (NP (JJ other) (NNS crimes))))))) (. .)))
+FederalfederalJJOPER0prosecutorsprosecutorNNSOPER0notifiednotifyVBDOPER0thetheDTOPER0formerformerJJOPER0employeesemployeeNNSOPER0thatthatINOPER0theytheyPRPOPER0couldcouldMDOPER0facefaceVBOPER0chargeschargeNNSOPER0asasRBDATEPER0earlyearlyRBDATEPER0asasINDATEPER0thisthisDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (JJ Federal) (NNS prosecutors)) (VP (VBD notified) (NP (DT the) (JJ former) (NNS employees)) (SBAR (IN that) (S (NP (PRP they)) (VP (MD could) (VP (VB face) (NP (NNS charges)) (ADVP (ADVP (RB as) (RB early)) (PP (IN as) (NP (DT this) (NN week))))))))) (. .)))
+TheytheyPRPOPER0wouldwouldMDOPER0joinjoinVBOPER0sevensevenCDCARDINALPER0otherotherJJOPER0executivesexecutiveNNSOPER0alreadyalreadyRBOPER0chargedchargeVBNOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (MD would) (VP (VB join) (S (NP (CD seven) (JJ other) (NNS executives)) (ADVP (RB already)) (VP (VBN charged))))) (. .)))
+AbeAbeNNPOPER0ourwePRP$OPER0EnronEnronNNPORGPER0corporatecorporateJJOPER0AmericaAmericaNNPGPEPER0scorescoreNNOPER0boardboardNNOPER0setssetVBZOPER05050CDCARDINALPER0executivesexecutiveNNSOPER0nownowRBOPER0chargedchargeVBNOPER0ininINOPER0AmericaAmericaNNPGPEPER0,,,OPER0sevensevenCDCARDINALPER0ofofINOPER0themtheyPRPOPER0,,,OPER0asasINOPER0IIPRPOPER0saidsayVBDOPER0,,,OPER0atatINOPER0EnronEnronNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP Abe)) (NP (PRP$ our) (NNP Enron) (NML (JJ corporate) (NNP America) (NN score)) (NN board))) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NP (NNP America)) (, ,) (NP (NP (CD seven)) (PP (IN of) (NP (PRP them)))))))) (, ,) (SBAR (IN as) (S (NP (PRP I)) (VP (VBD said)))) (, ,) (PP (IN at) (NP (NNP Enron)))) (. .)))
+NonoDTOPER0oneoneNNOPER0,,,OPER0nonoDTOPER0oneoneNNOPER0isbeVBZOPER0sentsendVBNOPER0totoINOPER0prisonprisonNNOPER0...OPER0(ROOT (S (NP (DT No) (NN one)) (, ,) (NP (DT no) (NN one)) (VP (VBZ is) (VP (VBN sent) (PP (IN to) (NP (NN prison))))) (. .)))
+BeenbeVBNOPER0511511CDDATEPER0daysdayNNSDATEPER0sincesinceINOPER0EnronEnronNNPORGPER0filedfileVBDOPER0forforINOPER0bankruptciesbankruptcyNNSOPER0...OPER0(ROOT (S (VP (VBN Been) (SBAR (NP (CD 511) (NNS days)) (IN since) (S (NP (NNP Enron)) (VP (VBD filed) (PP (IN for) (NP (NNS bankruptcies))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT Another) (CD six) (NNS executives)) (PP (IN from) (NP (NNP Enron))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Enron))
+sid=0 spanning 7 until 8 headed by 7 parsed as charged
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ former) (NNS employees))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNS charges))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 3 until 8 headed by 7 parsed as charged
+sid=3 spanning 2 until 3 headed by 2 parsed as Enron
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NP (NNP America)) (, ,) (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))))))))
+sid=3 spanning 15 until 18 headed by 15 parsed as (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (PRP them))
+sid=3 spanning 24 until 25 headed by 24 parsed as (NP (NNP Enron))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (NNP Enron))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT Another) (CD six) (NNS executives)) (PP (IN from) (NP (NNP Enron))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Enron))
+sid=0 spanning 9 until 14 headed by 10 parsed as (NP (NP (NNS securities) (NN fraud)) (CC and) (NP (JJ other) (NNS crimes)))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NNS securities) (NN fraud))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (JJ other) (NNS crimes))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Federal) (NNS prosecutors))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ former) (NNS employees))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNS charges))
+sid=1 spanning 11 until 16 headed by 12 parsed as early
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (CD seven) (JJ other) (NNS executives))
+sid=3 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNP Abe)) (NP (PRP$ our) (NNP Enron) (NML (JJ corporate) (NNP America) (NN score)) (NN board)))
+sid=3 spanning 1 until 7 headed by 6 parsed as (NP (PRP$ our) (NNP Enron) (NML (JJ corporate) (NNP America) (NN score)) (NN board))
+sid=3 spanning 1 until 2 headed by 1 parsed as (PRP$ our)
+sid=3 spanning 2 until 3 headed by 2 parsed as Enron
+sid=3 spanning 4 until 5 headed by 4 parsed as America
+sid=3 spanning 8 until 18 headed by 9 parsed as (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NP (NNP America)) (, ,) (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))))))))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (NP (NNP America)) (, ,) (NP (NP (CD seven)) (PP (IN of) (NP (PRP them)))))
+sid=3 spanning 13 until 18 headed by 13 parsed as (NP (NP (NNP America)) (, ,) (NP (NP (CD seven)) (PP (IN of) (NP (PRP them)))))
+sid=3 spanning 15 until 18 headed by 15 parsed as (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))))
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (PRP I))
+sid=3 spanning 24 until 25 headed by 24 parsed as (NP (NNP Enron))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT No) (NN one))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT no) (NN one))
+sid=5 spanning 1 until 3 headed by 2 parsed as (NP (CD 511) (NNS days))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (NNP Enron))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (NNS bankruptcies))
+(end predicted mentions)
+---------gold clusters--------
+12 8 1 13 | { 'Enron' 'Enron' 'Enron' 'Enron' }
+9 11 | { '50 executives' 'them' }
+5 2 | { 'charges' 'charged' }
+4 0 3 6 | { 'they' 'Another six executives from Enron' 'the former employees' 'They' }
+7 10 | { 'seven other executives already charged' 'seven of them' }
+(end gold clusters)

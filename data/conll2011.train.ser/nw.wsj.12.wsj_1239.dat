@@ -1,0 +1,45 @@
+---------gloss--------
+(0) Canadian retail sales [1m[36m{rose}[0m 0.2 % in [1m[33m{August}[0m from [1m[34m{July}[0m , [1m[35m{Statistics Canada , a federal agency ,}[0m said . 
+(1) [1m[36m{The August increase}[0m followed a 0.3 % decline in [1m[34m{July}[0m . 
+(2) During the past four months , retail sales have remained generally weak , advancing an average 0.2 % a month , [1m[35m{the agency}[0m said . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1239); part 000
+sentences:
+CanadiancanadianJJOPER0retailretailJJOPER0salessaleNNSOPER0roseriseVBDOPER00.20.2CDPERCENTPER0%%NNPERCENTPER0ininINOPER0AugustAugustNNPDATEPER0fromfromINOPER0JulyJulyNNPDATEPER0,,,OPER0StatisticsStatisticsNNPORGPER0CanadaCanadaNNPORGPER0,,,OPER0aaDTOPER0federalfederalJJOPER0agencyagencyNNOPER0,,,OPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (JJ Canadian) (JJ retail) (NNS sales)) (VP (VBD rose) (NP (CD 0.2) (NN %)) (PP (IN in) (NP (NNP August))) (PP (IN from) (NP (NNP July))))) (, ,) (NP (NP (NNP Statistics) (NNP Canada)) (, ,) (NP (DT a) (JJ federal) (NN agency)) (, ,)) (VP (VBD said)) (. .)))
+ThetheDTOPER0AugustAugustNNPDATEPER0increaseincreaseNNOPER0followedfollowVBDOPER0aaDTOPER00.30.3CDPERCENTPER0%%NNPERCENTPER0declinedeclineNNOPER0ininINOPER0JulyJulyNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP August) (NN increase)) (VP (VBD followed) (NP (NP (DT a) (NML (CD 0.3) (NN %)) (NN decline)) (PP (IN in) (NP (NNP July))))) (. .)))
+DuringduringINOPER0thetheDTDATEPER0pastpastJJDATEPER0fourfourCDDATEPER0monthsmonthNNSDATEPER0,,,OPER0retailretailJJOPER0salessaleNNSOPER0havehaveVBPOPER0remainedremainVBNOPER0generallygenerallyRBOPER0weakweakJJOPER0,,,OPER0advancingadvanceVBGOPER0anaDTOPER0averageaverageJJOPER00.20.2CDPERCENTPER0%%NNPERCENTPER0aaDTDATEPER0monthmonthNNDATEPER0,,,OPER0thetheDTOPER0agencyagencyNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (PP (IN During) (NP (DT the) (JJ past) (CD four) (NNS months))) (, ,) (NP (JJ retail) (NNS sales)) (VP (VBP have) (VP (VBN remained) (ADJP (RB generally) (JJ weak)) (, ,) (PP (VBG advancing) (NP (NP (DT an) (JJ average) (CD 0.2) (NN %)) (NP (DT a) (NN month))))))) (, ,) (NP (DT the) (NN agency)) (VP (VBD said)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 4 headed by 3 parsed as rose
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP August))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP July))
+sid=0 spanning 11 until 18 headed by 12 parsed as (NP (NP (NNP Statistics) (NNP Canada)) (, ,) (NP (DT a) (JJ federal) (NN agency)) (, ,))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP August) (NN increase))
+sid=1 spanning 1 until 2 headed by 1 parsed as August
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP July))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN agency))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (JJ Canadian) (JJ retail) (NNS sales))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP August))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP July))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (NP (NNP Statistics) (NNP Canada)) (, ,) (NP (DT a) (JJ federal) (NN agency)) (, ,))
+sid=0 spanning 11 until 18 headed by 12 parsed as (NP (NP (NNP Statistics) (NNP Canada)) (, ,) (NP (DT a) (JJ federal) (NN agency)) (, ,))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (JJ federal) (NN agency))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP August) (NN increase))
+sid=1 spanning 1 until 2 headed by 1 parsed as August
+sid=1 spanning 4 until 10 headed by 7 parsed as (NP (NP (DT a) (NML (CD 0.3) (NN %)) (NN decline)) (PP (IN in) (NP (NNP July))))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP July))
+sid=2 spanning 1 until 5 headed by 4 parsed as (NP (DT the) (JJ past) (CD four) (NNS months))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (JJ retail) (NNS sales))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (DT a) (NN month))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN agency))
+(end predicted mentions)
+---------gold clusters--------
+1 5 | { 'August' 'August' }
+2 6 | { 'July' 'July' }
+3 7 | { 'Statistics Canada , a federal agency ,' 'the agency' }
+0 4 | { 'rose' 'The August increase' }
+(end gold clusters)

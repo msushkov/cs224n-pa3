@@ -1,0 +1,61 @@
+---------gloss--------
+(0) The board of [33m{this Ponce , Puerto Rico concern}[0m voted to [31m{suspend}[0m payment of [33m{its}[0m quarterly of 11 cents a share for [4m[36m{the third quarter}[0m . 
+(1) [33m{The third - largest thrift institution in Puerto Rico}[0m also said [33m{it}[0m expects a return to profitability in [4m[36m{the third quarter when it reports operating results this week}[0m . 
+(2) [33m{Ponce Federal}[0m said [4m[35m{the dividend}[0m was [31m{suspended}[0m in anticipation of more stringent capital requirements under the Financial Institutions Reform , Recovery , and Enforcement Act of 1989 . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1530); part 000
+sentences:
+ThetheDTOPER0boardboardNNOPER0ofofINOPER0thisthisDTOPER0PoncePonceNNPGPEPER0,,,OPER0PuertoPuertoNNPGPEPER0RicoRicoNNPGPEPER0concernconcernNNOPER0votedvoteVBDOPER0totoTOOPER0suspendsuspendVBOPER0paymentpaymentNNOPER0ofofINOPER0itsitsPRP$OPER0quarterlyquarterlyNNDATEPER0ofofINOPER01111CDMONEYPER0centscentNNSMONEYPER0aaDTOPER0shareshareNNOPER0forforINOPER0thetheDTDATEPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN board)) (PP (IN of) (NP (DT this) (NML (NML (NNP Ponce)) (, ,) (NML (NNP Puerto) (NNP Rico))) (NN concern)))) (VP (VBD voted) (S (VP (TO to) (VP (VB suspend) (NP (NP (NN payment)) (PP (IN of) (NP (NP (PRP$ its) (NN quarterly)) (PP (IN of) (NP (NP (CD 11) (NNS cents)) (NP (DT a) (NN share))))))) (PP (IN for) (NP (DT the) (JJ third) (NN quarter))))))) (. .)))
+ThetheDTOPER0thirdthirdRBORDINALPER0--HYPHOPER0largestlargestJJSOPER0thriftthriftNNOPER0institutioninstitutionNNOPER0ininINOPER0PuertoPuertoNNPGPEPER0RicoRicoNNPGPEPER0alsoalsoRBOPER0saidsayVBDOPER0ititPRPOPER0expectsexpectVBZOPER0aaDTOPER0returnreturnNNOPER0totoINOPER0profitabilityprofitabilityNNOPER0ininINOPER0thetheDTDATEPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0whenwhenWRBOPER0ititPRPOPER0reportsreportVBZOPER0operatingoperatingNNOPER0resultsresultNNSOPER0thisthisDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (ADJP (RB third) (HYPH -) (JJS largest)) (NN thrift) (NN institution)) (PP (IN in) (NP (NNP Puerto) (NNP Rico)))) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (NP (NP (DT a) (NN return)) (PP (IN to) (NP (NN profitability)))) (PP (IN in) (NP (NP (DT the) (JJ third) (NN quarter)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ reports) (NP (NP (NN operating) (NNS results)) (NP (DT this) (NN week)))))))))))) (. .)))
+PoncePonceNNPORGPER0FederalFederalNNPORGPER0saidsayVBDOPER0thetheDTOPER0dividenddividendNNOPER0wasbeVBDOPER0suspendedsuspendVBNOPER0ininINOPER0anticipationanticipationNNOPER0ofofINOPER0moremoreRBROPER0stringentstringentJJOPER0capitalcapitalNNOPER0requirementsrequirementNNSOPER0underunderINOPER0thetheDTLAWPER0FinancialFinancialNNPLAWPER0InstitutionsInstitutionsNNPSLAWPER0ReformReformNNPLAWPER0,,,LAWPER0RecoveryRecoveryNNPLAWPER0,,,LAWPER0andandCCLAWPER0EnforcementEnforcementNNPLAWPER0ActActNNPLAWPER0ofofINLAWPER019891989CDLAWPER0...OPER0(ROOT (S (NP (NNP Ponce) (NNP Federal)) (VP (VBD said) (SBAR (S (NP (DT the) (NN dividend)) (VP (VBD was) (VP (VBN suspended) (PP (IN in) (NP (NP (NN anticipation)) (PP (IN of) (NP (NP (ADJP (RBR more) (JJ stringent)) (NN capital) (NNS requirements)) (PP (IN under) (NP (NP (DT the) (NML (NNP Financial) (NNPS Institutions)) (NML (NNP Reform) (, ,) (NNP Recovery) (, ,) (CC and) (NNP Enforcement)) (NNP Act)) (PP (IN of) (NP (CD 1989)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 9 headed by 8 parsed as (NP (DT this) (NML (NML (NNP Ponce)) (, ,) (NML (NNP Puerto) (NNP Rico))) (NN concern))
+sid=0 spanning 6 until 8 headed by 7 parsed as Rico
+sid=0 spanning 11 until 12 headed by 11 parsed as suspend
+sid=0 spanning 14 until 25 headed by 15 parsed as (NP (NP (PRP$ its) (NN quarterly)) (PP (IN of) (NP (NP (CD 11) (NNS cents)) (NP (DT a) (NN share)))))
+sid=0 spanning 14 until 15 headed by 14 parsed as its
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (JJ third) (NN quarter))
+sid=1 spanning 0 until 9 headed by 5 parsed as (NP (NP (DT The) (ADJP (RB third) (HYPH -) (JJS largest)) (NN thrift) (NN institution)) (PP (IN in) (NP (NNP Puerto) (NNP Rico))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP Puerto) (NNP Rico))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=1 spanning 18 until 28 headed by 20 parsed as (NP (NP (DT the) (JJ third) (NN quarter)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ reports) (NP (NP (NN operating) (NNS results)) (NP (DT this) (NN week)))))))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ponce) (NNP Federal))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN dividend))
+sid=2 spanning 6 until 7 headed by 6 parsed as suspended
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NN board)) (PP (IN of) (NP (DT this) (NML (NML (NNP Ponce)) (, ,) (NML (NNP Puerto) (NNP Rico))) (NN concern))))
+sid=0 spanning 3 until 9 headed by 8 parsed as (NP (DT this) (NML (NML (NNP Ponce)) (, ,) (NML (NNP Puerto) (NNP Rico))) (NN concern))
+sid=0 spanning 4 until 5 headed by 4 parsed as Ponce
+sid=0 spanning 6 until 8 headed by 7 parsed as Rico
+sid=0 spanning 12 until 21 headed by 12 parsed as (NP (NP (NN payment)) (PP (IN of) (NP (NP (PRP$ its) (NN quarterly)) (PP (IN of) (NP (NP (CD 11) (NNS cents)) (NP (DT a) (NN share)))))))
+sid=0 spanning 14 until 21 headed by 15 parsed as (NP (NP (PRP$ its) (NN quarterly)) (PP (IN of) (NP (NP (CD 11) (NNS cents)) (NP (DT a) (NN share)))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (PRP$ its)
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (DT a) (NN share))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (JJ third) (NN quarter))
+sid=1 spanning 0 until 9 headed by 5 parsed as (NP (NP (DT The) (ADJP (RB third) (HYPH -) (JJS largest)) (NN thrift) (NN institution)) (PP (IN in) (NP (NNP Puerto) (NNP Rico))))
+sid=1 spanning 1 until 2 headed by 1 parsed as third
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP Puerto) (NNP Rico))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=1 spanning 13 until 17 headed by 14 parsed as (NP (NP (DT a) (NN return)) (PP (IN to) (NP (NN profitability))))
+sid=1 spanning 18 until 28 headed by 20 parsed as (NP (NP (DT the) (JJ third) (NN quarter)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ reports) (NP (NP (NN operating) (NNS results)) (NP (DT this) (NN week)))))))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=1 spanning 24 until 28 headed by 25 parsed as (NP (NP (NN operating) (NNS results)) (NP (DT this) (NN week)))
+sid=1 spanning 26 until 28 headed by 27 parsed as (NP (DT this) (NN week))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ponce) (NNP Federal))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN dividend))
+sid=2 spanning 8 until 27 headed by 8 parsed as (NP (NP (NN anticipation)) (PP (IN of) (NP (NP (ADJP (RBR more) (JJ stringent)) (NN capital) (NNS requirements)) (PP (IN under) (NP (NP (DT the) (NML (NNP Financial) (NNPS Institutions)) (NML (NNP Reform) (, ,) (NNP Recovery) (, ,) (CC and) (NNP Enforcement)) (NNP Act)) (PP (IN of) (NP (CD 1989))))))))
+sid=2 spanning 10 until 27 headed by 13 parsed as (NP (NP (ADJP (RBR more) (JJ stringent)) (NN capital) (NNS requirements)) (PP (IN under) (NP (NP (DT the) (NML (NNP Financial) (NNPS Institutions)) (NML (NNP Reform) (, ,) (NNP Recovery) (, ,) (CC and) (NNP Enforcement)) (NNP Act)) (PP (IN of) (NP (CD 1989))))))
+sid=2 spanning 15 until 27 headed by 24 parsed as (NP (NP (DT the) (NML (NNP Financial) (NNPS Institutions)) (NML (NNP Reform) (, ,) (NNP Recovery) (, ,) (CC and) (NNP Enforcement)) (NNP Act)) (PP (IN of) (NP (CD 1989))))
+(end predicted mentions)
+---------gold clusters--------
+12 3 | { 'the dividend' 'its quarterly of 11 cents a share for the third quarter' }
+5 9 | { 'the third quarter' 'the third quarter when it reports operating results this week' }
+13 2 | { 'suspended' 'suspend' }
+1 7 | { 'Puerto Rico' 'Puerto Rico' }
+4 10 0 6 8 11 | { 'its' 'it' 'this Ponce , Puerto Rico concern' 'The third - largest thrift institution in Puerto Rico' 'it' 'Ponce Federal' }
+(end gold clusters)

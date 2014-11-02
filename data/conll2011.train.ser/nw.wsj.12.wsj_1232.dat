@@ -1,0 +1,52 @@
+---------gloss--------
+(0) [4m[35m{Walter M. Brady}[0m was named a senior vice president of this insurer in [4m[33m{the Canadian head office}[0m . 
+(1) [4m[35m{He}[0m had been vice president in [4m[33m{that office}[0m . 
+(2) John B. Foy was named senior vice president and remains responsible for the individual policy services department . 
+(3) [4m[32m{Frank J. Ollari}[0m was named senior vice president in charge of [4m[34m{the mortgage finance department}[0m . 
+(4) [4m[32m{He}[0m had been vice president of [4m[34m{the department , which was formerly called the real estate department}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1232); part 000
+sentences:
+WalterWalterNNPPERSONPER0M.M.NNPPERSONPER0BradyBradyNNPPERSONPER0wasbeVBDOPER0namednameVBNOPER0aaDTOPER0seniorseniorJJOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0thisthisDTOPER0insurerinsurerNNOPER0ininINOPER0thetheDTOPER0CanadiancanadianJJOPER0headheadNNOPER0officeofficeNNOPER0...OPER0(ROOT (S (NP (NNP Walter) (NNP M.) (NNP Brady)) (VP (VBD was) (VP (VBN named) (S (NP (NP (DT a) (JJ senior) (NN vice) (NN president)) (PP (IN of) (NP (NP (DT this) (NN insurer)) (PP (IN in) (NP (DT the) (JJ Canadian) (NN head) (NN office))))))))) (. .)))
+HehePRPOPER0hadhaveVBDOPER0beenbeVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0ininINOPER0thatthatDTOPER0officeofficeNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD had) (VP (VBN been) (NP (NP (NN vice) (NN president)) (PP (IN in) (NP (DT that) (NN office)))))) (. .)))
+JohnJohnNNPPERSONPER0B.B.NNPPERSONPER0FoyFoyNNPPERSONPER0wasbeVBDOPER0namednameVBNOPER0seniorseniorJJOPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0remainsremainVBZOPER0responsibleresponsibleJJOPER0forforINOPER0thetheDTOPER0individualindividualJJOPER0policypolicyNNOPER0servicesserviceNNSOPER0departmentdepartmentNNOPER0...OPER0(ROOT (S (NP (NNP John) (NNP B.) (NNP Foy)) (VP (VP (VBD was) (VP (VBN named) (S (NP (JJ senior) (NN vice) (NN president))))) (CC and) (VP (VBZ remains) (ADJP (JJ responsible) (PP (IN for) (NP (DT the) (JJ individual) (NML (NN policy) (NNS services)) (NN department)))))) (. .)))
+FrankFrankNNPPERSONPER0J.J.NNPPERSONPER0OllariOllariNNPPERSONPER0wasbeVBDOPER0namednameVBNOPER0seniorseniorJJOPER0viceviceNNOPER0presidentpresidentNNOPER0ininINOPER0chargechargeNNOPER0ofofINOPER0thetheDTOPER0mortgagemortgageNNOPER0financefinanceNNOPER0departmentdepartmentNNOPER0...OPER0(ROOT (S (NP (NNP Frank) (NNP J.) (NNP Ollari)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ senior) (NN vice) (NN president)) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (NML (NN mortgage) (NN finance)) (NN department))))))))) (. .)))
+HehePRPOPER0hadhaveVBDOPER0beenbeVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0thetheDTOPER0departmentdepartmentNNOPER0,,,OPER0whichwhichWDTOPER0wasbeVBDOPER0formerlyformerlyRBOPER0calledcallVBNOPER0thetheDTOPER0realrealJJOPER0estateestateNNOPER0departmentdepartmentNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD had) (VP (VBN been) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (DT the) (NN department)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB formerly)) (VP (VBN called) (NP (DT the) (NML (JJ real) (NN estate)) (NN department))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Walter) (NNP M.) (NNP Brady))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (JJ Canadian) (NN head) (NN office))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT that) (NN office))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NNP Frank) (NNP J.) (NNP Ollari))
+sid=3 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (NML (NN mortgage) (NN finance)) (NN department))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 6 until 17 headed by 7 parsed as (NP (NP (DT the) (NN department)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB formerly)) (VP (VBN called) (NP (DT the) (NML (JJ real) (NN estate)) (NN department)))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Walter) (NNP M.) (NNP Brady))
+sid=0 spanning 5 until 17 headed by 8 parsed as (NP (NP (DT a) (JJ senior) (NN vice) (NN president)) (PP (IN of) (NP (NP (DT this) (NN insurer)) (PP (IN in) (NP (DT the) (JJ Canadian) (NN head) (NN office))))))
+sid=0 spanning 10 until 17 headed by 11 parsed as (NP (NP (DT this) (NN insurer)) (PP (IN in) (NP (DT the) (JJ Canadian) (NN head) (NN office))))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (JJ Canadian) (NN head) (NN office))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 3 until 8 headed by 4 parsed as (NP (NP (NN vice) (NN president)) (PP (IN in) (NP (DT that) (NN office))))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT that) (NN office))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NNP John) (NNP B.) (NNP Foy))
+sid=2 spanning 12 until 17 headed by 16 parsed as (NP (DT the) (JJ individual) (NML (NN policy) (NNS services)) (NN department))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NNP Frank) (NNP J.) (NNP Ollari))
+sid=3 spanning 9 until 15 headed by 9 parsed as (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (NML (NN mortgage) (NN finance)) (NN department))))
+sid=3 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (NML (NN mortgage) (NN finance)) (NN department))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 3 until 17 headed by 4 parsed as (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (DT the) (NN department)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB formerly)) (VP (VBN called) (NP (DT the) (NML (JJ real) (NN estate)) (NN department)))))))))
+sid=4 spanning 6 until 17 headed by 7 parsed as (NP (NP (DT the) (NN department)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB formerly)) (VP (VBN called) (NP (DT the) (NML (JJ real) (NN estate)) (NN department)))))))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN department))
+sid=4 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (NML (JJ real) (NN estate)) (NN department))
+(end predicted mentions)
+---------gold clusters--------
+4 6 | { 'Frank J. Ollari' 'He' }
+3 1 | { 'that office' 'the Canadian head office' }
+5 7 | { 'the mortgage finance department' 'the department , which was formerly called the real estate department' }
+2 0 | { 'He' 'Walter M. Brady' }
+(end gold clusters)

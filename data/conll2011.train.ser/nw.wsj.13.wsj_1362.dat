@@ -1,0 +1,106 @@
+---------gloss--------
+(0) [1m[36m{Detrex Corp.}[0m said [1m[34m{a reserve it is establishing to cover expected pollution cleanup costs at an Ohio plant}[0m reduced [1m[36m{its}[0m third - quarter net income by $ 1.9 million . 
+(1) [1m[36m{Detrex , which has annual sales of about $ 100 million ,}[0m declined to say if [1m[36m{it}[0m would post a loss in the third quarter . 
+(2) [1m[36m{The Southfield , Mich. - based company}[0m earned $ 774,000 in the quarter last year . 
+(3) [1m[36m{Detrex}[0m is setting aside $ 3.1 million for [3m[32m{the cleanup}[0m , but said [1m[34m{the reserve}[0m reduced [1m[36m{its}[0m quarterly income by only $ 1.9 million because of tax considerations . 
+(4) In addition , [1m[36m{the manufacturer}[0m said [1m[36m{it}[0m signed a consent decree with [1m[32m{Ohio}[0m to build a $ 1.4 million pollution - control facility at [3m[31m{the Ashtabula chemical manufacturing plant}[0m by Aug. 1 , 1990 . 
+(5) [1m[36m{Detrex}[0m said [1m[36m{it}[0m is one of at least 17 companies notified by [1m[33m{the Environmental Protection Agency}[0m that they may be potentially responsible for [3m[32m{cleaning}[0m up the Fields Brook watershed near [1m[36m{Detrex 's}[0m [1m[35m{Ashtabula}[0m plant at a total cost [1m[33m{the EPA}[0m estimates at $ 48 million -- a figure [1m[36m{Detrex}[0m said the companies dispute . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1362); part 000
+sentences:
+DetrexDetrexNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0aaDTOPER0reservereserveNNOPER0ititPRPOPER0isbeVBZOPER0establishingestablishVBGOPER0totoTOOPER0covercoverVBOPER0expectedexpectedJJOPER0pollutionpollutionNNOPER0cleanupcleanupNNOPER0costscostNNSOPER0atatINOPER0anaDTOPER0OhioOhioNNPGPEPER0plantplantNNOPER0reducedreduceVBDOPER0itsitsPRP$DATEPER0thirdthirdJJDATEPER0--HYPHDATEPER0quarterquarterNNDATEPER0netnetJJOPER0incomeincomeNNOPER0bybyINOPER0$$$MONEYPER01.91.9CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NNP Detrex) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (DT a) (NN reserve)) (NP (PRP it)) (VP (VBZ is) (VP (VBG establishing) (S (VP (TO to) (VP (VB cover) (NP (JJ expected) (NN pollution) (NN cleanup) (NNS costs)) (PP (IN at) (NP (NP (DT an) (NNP Ohio) (NN plant)) (SBAR (S (VP (VBD reduced) (NP (PRP$ its) (NML (JJ third) (HYPH -) (NN quarter)) (JJ net) (NN income)) (PP (IN by) (NP (QP ($ $) (CD 1.9) (CD million))))))))))))))))) (. .)))
+DetrexDetrexNNPORGPER0,,,OPER0whichwhichWDTOPER0hashaveVBZOPER0annualannualJJOPER0salessaleNNSOPER0ofofINOPER0aboutaboutRBMONEYPER0$$$MONEYPER0100100CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0declineddeclineVBDOPER0totoTOOPER0saysayVBOPER0ififINOPER0ititPRPOPER0wouldwouldMDOPER0postpostVBOPER0aaDTOPER0losslossNNOPER0ininINOPER0thetheDTDATEPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP Detrex)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (JJ annual) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 100) (CD million)))))))) (, ,)) (VP (VBD declined) (S (VP (TO to) (VP (VB say) (SBAR (IN if) (S (NP (PRP it)) (VP (MD would) (VP (VB post) (NP (NP (DT a) (NN loss)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter)))))))))))) (. .)))
+ThetheDTOPER0SouthfieldSouthfieldNNPGPEPER0,,,OPER0Mich.Mich.NNPGPEPER0--HYPHOPER0basedbaseVBNOPER0companycompanyNNOPER0earnedearnVBDOPER0$$$MONEYPER0774,000774,000CDMONEYPER0ininINOPER0thetheDTDATEPER0quarterquarterNNDATEPER0lastlastJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (DT The) (ADJP (NML (NNP Southfield) (, ,) (NNP Mich.)) (HYPH -) (VBN based)) (NN company)) (VP (VBD earned) (NP (NP ($ $) (CD 774,000)) (PP (IN in) (NP (DT the) (NN quarter)))) (NP (JJ last) (NN year))) (. .)))
+DetrexDetrexNNPORGPER0isbeVBZOPER0settingsetVBGOPER0asideasideRPOPER0$$$MONEYPER03.13.1CDMONEYPER0millionmillionCDMONEYPER0forforINOPER0thetheDTOPER0cleanupcleanupNNOPER0,,,OPER0butbutCCOPER0saidsayVBDOPER0thetheDTOPER0reservereserveNNOPER0reducedreduceVBDOPER0itsitsPRP$OPER0quarterlyquarterlyJJDATEPER0incomeincomeNNOPER0bybyINOPER0onlyonlyRBMONEYPER0$$$MONEYPER01.91.9CDMONEYPER0millionmillionCDMONEYPER0becausebecauseINOPER0ofofINOPER0taxtaxNNOPER0considerationsconsiderationNNSOPER0...OPER0(ROOT (S (NP (NNP Detrex)) (VP (VBZ is) (VP (VBG setting) (PRT (RP aside)) (NP (QP ($ $) (CD 3.1) (CD million))) (PP (IN for) (NP (DT the) (NN cleanup))))) (, ,) (CC but) (VP (VBD said) (SBAR (S (NP (DT the) (NN reserve)) (VP (VBD reduced) (NP (PRP$ its) (JJ quarterly) (NN income)) (PP (IN by) (NP (QP (RB only) ($ $) (CD 1.9) (CD million)))) (PP (IN because) (IN of) (NP (NN tax) (NNS considerations))))))) (. .)))
+IninINOPER0additionadditionNNOPER0,,,OPER0thetheDTOPER0manufacturermanufacturerNNOPER0saidsayVBDOPER0ititPRPOPER0signedsignVBDOPER0aaDTOPER0consentconsentNNOPER0decreedecreeNNOPER0withwithINOPER0OhioOhioNNPGPEPER0totoTOOPER0buildbuildVBOPER0aaDTOPER0$$$MONEYPER01.41.4CDMONEYPER0millionmillionCDMONEYPER0pollutionpollutionNNOPER0--HYPHOPER0controlcontrolNNOPER0facilityfacilityNNOPER0atatINOPER0thetheDTOPER0AshtabulaashtabulumNNGPEPER0chemicalchemicalNNOPER0manufacturingmanufacturingNNOPER0plantplantNNOPER0bybyINOPER0Aug.Aug.NNPDATEPER011CDDATEPER0,,,DATEPER019901990CDDATEPER0...OPER0(ROOT (S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NN manufacturer)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD signed) (NP (DT a) (NN consent) (NN decree)) (PP (IN with) (NP (NNP Ohio))) (S (VP (TO to) (VP (VB build) (NP (NP (DT a) (NML (QP ($ $) (CD 1.4) (CD million))) (NML (NN pollution) (HYPH -) (NN control)) (NN facility)) (PP (IN at) (NP (DT the) (NN Ashtabula) (NN chemical) (NN manufacturing) (NN plant)))) (PP (IN by) (NP (NNP Aug.) (CD 1) (, ,) (CD 1990)))))))))) (. .)))
+DetrexDetrexNNPORGPER0saidsayVBDOPER0ititPRPOPER0isbeVBZOPER0oneoneCDOPER0ofofINOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER01717CDCARDINALPER0companiescompanyNNSOPER0notifiednotifyVBNOPER0bybyINOPER0thetheDTORGPER0EnvironmentalEnvironmentalNNPORGPER0ProtectionProtectionNNPORGPER0AgencyAgencyNNPORGPER0thatthatINOPER0theytheyPRPOPER0maymayMDOPER0bebeVBOPER0potentiallypotentiallyRBOPER0responsibleresponsibleJJOPER0forforINOPER0cleaningcleanVBGOPER0upupRPOPER0thetheDTOPER0FieldsfieldNNSLOCPER0BrookBrookNNPLOCPER0watershedwatershedJJOPER0nearnearINOPER0DetrexDetrexNNPORGPER0's'sPOSOPER0AshtabulaAshtabulaNNPGPEPER0plantplantNNOPER0atatINOPER0aaDTOPER0totaltotalJJOPER0costcostNNOPER0thetheDTOPER0EPAEPANNPORGPER0estimatesestimateVBZOPER0atatINOPER0$$$MONEYPER04848CDMONEYPER0millionmillionCDMONEYPER0----:OPER0aaDTOPER0figurefigureNNOPER0DetrexDetrexNNPORGPER0saidsayVBDOPER0thetheDTOPER0companiescompanyNNSOPER0disputedisputeVBPOPER0...OPER0(ROOT (S (NP (NNP Detrex)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (QP (ADVP (RB at) (RBS least)) (CD 17)) (NNS companies)) (VP (VBN notified) (PP (IN by) (NP (DT the) (NML (NNP Environmental) (NNP Protection)) (NNP Agency))))))) (SBAR (IN that) (S (NP (PRP they)) (VP (MD may) (VP (VB be) (ADJP (RB potentially) (JJ responsible) (PP (IN for) (S (VP (VBG cleaning) (PRT (RP up)) (NP (DT the) (NNS Fields)) (S (NP (NNP Brook)) (ADJP (JJ watershed) (PP (IN near) (NP (NP (NP (NNP Detrex) (POS 's)) (NNP Ashtabula) (NN plant)) (PP (IN at) (NP (NP (NP (DT a) (JJ total) (NN cost)) (SBAR (S (NP (DT the) (NNP EPA)) (VP (VBZ estimates) (PP (IN at) (NP (QP ($ $) (CD 48) (CD million)))))))) (: --) (NP (NP (DT a) (NN figure)) (SBAR (S (NP (NNP Detrex)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS companies)) (VP (VBP dispute)))))))))))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Detrex) (NNP Corp.))
+sid=0 spanning 3 until 18 headed by 4 parsed as (NP (DT a) (NN reserve))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 15 until 18 headed by 17 parsed as (NP (NP (DT an) (NNP Ohio) (NN plant)) (SBAR (S (VP (VBD reduced) (NP (PRP$ its) (NML (JJ third) (HYPH -) (NN quarter)) (JJ net) (NN income)) (PP (IN by) (NP (QP ($ $) (CD 1.9) (CD million))))))))
+sid=0 spanning 16 until 17 headed by 16 parsed as Ohio
+sid=0 spanning 19 until 20 headed by 19 parsed as its
+sid=1 spanning 0 until 12 headed by 0 parsed as (NP (NP (NNP Detrex)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (JJ annual) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 100) (CD million)))))))) (, ,))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=2 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (NML (NNP Southfield) (, ,) (NNP Mich.)) (HYPH -) (VBN based)) (NN company))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Detrex))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN cleanup))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN reserve))
+sid=3 spanning 16 until 17 headed by 16 parsed as its
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN manufacturer))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NNP Ohio))
+sid=4 spanning 24 until 29 headed by 28 parsed as (NP (DT the) (NN Ashtabula) (NN chemical) (NN manufacturing) (NN plant))
+sid=4 spanning 25 until 26 headed by 25 parsed as Ashtabula
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Detrex))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=5 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (NML (NNP Environmental) (NNP Protection)) (NNP Agency))
+sid=5 spanning 23 until 24 headed by 23 parsed as cleaning
+sid=5 spanning 30 until 34 headed by 33 parsed as (NP (NP (NP (NNP Detrex) (POS 's)) (NNP Ashtabula) (NN plant)) (PP (IN at) (NP (NP (NP (DT a) (JJ total) (NN cost)) (SBAR (S (NP (DT the) (NNP EPA)) (VP (VBZ estimates) (PP (IN at) (NP (QP ($ $) (CD 48) (CD million)))))))) (: --) (NP (NP (DT a) (NN figure)) (SBAR (S (NP (NNP Detrex)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS companies)) (VP (VBP dispute)))))))))))
+sid=5 spanning 30 until 32 headed by 30 parsed as (NP (NNP Detrex) (POS 's))
+sid=5 spanning 32 until 33 headed by 32 parsed as Ashtabula
+sid=5 spanning 38 until 40 headed by 39 parsed as (NP (DT the) (NNP EPA))
+sid=5 spanning 48 until 49 headed by 48 parsed as (NP (NNP Detrex))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Detrex) (NNP Corp.))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN reserve))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (JJ expected) (NN pollution) (NN cleanup) (NNS costs))
+sid=0 spanning 15 until 29 headed by 17 parsed as (NP (NP (DT an) (NNP Ohio) (NN plant)) (SBAR (S (VP (VBD reduced) (NP (PRP$ its) (NML (JJ third) (HYPH -) (NN quarter)) (JJ net) (NN income)) (PP (IN by) (NP (QP ($ $) (CD 1.9) (CD million))))))))
+sid=0 spanning 16 until 17 headed by 16 parsed as Ohio
+sid=0 spanning 19 until 25 headed by 24 parsed as (NP (PRP$ its) (NML (JJ third) (HYPH -) (NN quarter)) (JJ net) (NN income))
+sid=0 spanning 19 until 23 headed by 22 parsed as quarter
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Detrex)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (JJ annual) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 100) (CD million)))))))) (, ,))
+sid=1 spanning 0 until 12 headed by 0 parsed as (NP (NP (NNP Detrex)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (JJ annual) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 100) (CD million)))))))) (, ,))
+sid=1 spanning 4 until 11 headed by 5 parsed as (NP (NP (JJ annual) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 100) (CD million)))))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=1 spanning 19 until 25 headed by 20 parsed as (NP (NP (DT a) (NN loss)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))
+sid=1 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (JJ third) (NN quarter))
+sid=2 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (NML (NNP Southfield) (, ,) (NNP Mich.)) (HYPH -) (VBN based)) (NN company))
+sid=2 spanning 1 until 2 headed by 1 parsed as Southfield
+sid=2 spanning 3 until 4 headed by 3 parsed as Mich.
+sid=2 spanning 11 until 15 headed by 12 parsed as (NP (DT the) (NN quarter))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Detrex))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN cleanup))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN reserve))
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (PRP$ its) (JJ quarterly) (NN income))
+sid=3 spanning 16 until 17 headed by 16 parsed as (PRP$ its)
+sid=3 spanning 17 until 18 headed by 17 parsed as quarterly
+sid=3 spanning 26 until 28 headed by 27 parsed as (NP (NN tax) (NNS considerations))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN manufacturer))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=4 spanning 8 until 11 headed by 10 parsed as (NP (DT a) (NN consent) (NN decree))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NNP Ohio))
+sid=4 spanning 15 until 29 headed by 22 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 1.4) (CD million))) (NML (NN pollution) (HYPH -) (NN control)) (NN facility)) (PP (IN at) (NP (DT the) (NN Ashtabula) (NN chemical) (NN manufacturing) (NN plant))))
+sid=4 spanning 24 until 29 headed by 28 parsed as (NP (DT the) (NN Ashtabula) (NN chemical) (NN manufacturing) (NN plant))
+sid=4 spanning 30 until 34 headed by 30 parsed as (NP (NNP Aug.) (CD 1) (, ,) (CD 1990))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Detrex))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=5 spanning 4 until 16 headed by 4 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (QP (ADVP (RB at) (RBS least)) (CD 17)) (NNS companies)) (VP (VBN notified) (PP (IN by) (NP (DT the) (NML (NNP Environmental) (NNP Protection)) (NNP Agency)))))))
+sid=5 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (NML (NNP Environmental) (NNP Protection)) (NNP Agency))
+sid=5 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=5 spanning 26 until 28 headed by 26 parsed as (NP (DT the) (NNS Fields))
+sid=5 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NNS Fields))
+sid=5 spanning 30 until 53 headed by 33 parsed as (NP (NP (NP (NNP Detrex) (POS 's)) (NNP Ashtabula) (NN plant)) (PP (IN at) (NP (NP (NP (DT a) (JJ total) (NN cost)) (SBAR (S (NP (DT the) (NNP EPA)) (VP (VBZ estimates) (PP (IN at) (NP (QP ($ $) (CD 48) (CD million)))))))) (: --) (NP (NP (DT a) (NN figure)) (SBAR (S (NP (NNP Detrex)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS companies)) (VP (VBP dispute)))))))))))
+sid=5 spanning 30 until 32 headed by 30 parsed as (NP (NNP Detrex) (POS 's))
+sid=5 spanning 32 until 33 headed by 32 parsed as Ashtabula
+sid=5 spanning 35 until 53 headed by 37 parsed as (NP (NP (NP (DT a) (JJ total) (NN cost)) (SBAR (S (NP (DT the) (NNP EPA)) (VP (VBZ estimates) (PP (IN at) (NP (QP ($ $) (CD 48) (CD million)))))))) (: --) (NP (NP (DT a) (NN figure)) (SBAR (S (NP (NNP Detrex)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS companies)) (VP (VBP dispute)))))))))
+sid=5 spanning 38 until 40 headed by 39 parsed as (NP (DT the) (NNP EPA))
+sid=5 spanning 46 until 53 headed by 47 parsed as (NP (NP (DT a) (NN figure)) (SBAR (S (NP (NNP Detrex)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS companies)) (VP (VBP dispute))))))))
+sid=5 spanning 48 until 49 headed by 48 parsed as (NP (NNP Detrex))
+sid=5 spanning 50 until 52 headed by 51 parsed as (NP (DT the) (NNS companies))
+(end predicted mentions)
+---------gold clusters--------
+4 15 | { 'Ohio' 'Ohio' }
+20 25 | { 'the Environmental Protection Agency' 'the EPA' }
+11 1 | { 'the reserve' 'a reserve it is establishing to cover expected pollution cleanup costs at an Ohio plant' }
+24 17 | { 'Ashtabula' 'Ashtabula' }
+23 2 8 13 0 18 7 5 12 26 14 19 9 6 | { 'Detrex 's' 'it' 'The Southfield , Mich. - based company' 'the manufacturer' 'Detrex Corp.' 'Detrex' 'it' 'its' 'its' 'Detrex' 'it' 'it' 'Detrex' 'Detrex , which has annual sales of about $ 100 million ,' }
+3 16 22 | { 'an Ohio plant' 'the Ashtabula chemical manufacturing plant' 'Detrex 's Ashtabula plant' }
+10 21 | { 'the cleanup' 'cleaning' }
+(end gold clusters)

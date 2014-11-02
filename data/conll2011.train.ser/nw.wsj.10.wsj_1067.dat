@@ -1,0 +1,24 @@
+---------gloss--------
+(0) Philip L. Hall , president of J. Lawrence Hall Co. , Nashua , was named a director of this thrift holding company , filling a vacancy . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1067); part 000
+sentences:
+PhilipPhilipNNPPERSONPER0L.L.NNPPERSONPER0HallHallNNPPERSONPER0,,,OPER0presidentpresidentNNOPER0ofofINOPER0J.J.NNPORGPER0LawrenceLawrenceNNPORGPER0HallHallNNPORGPER0Co.Co.NNPORGPER0,,,OPER0NashuaNashuaNNPORGPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0aaDTOPER0directordirectorNNOPER0ofofINOPER0thisthisDTOPER0thriftthriftNNOPER0holdingholdVBGOPER0companycompanyNNOPER0,,,OPER0fillingfillVBGOPER0aaDTOPER0vacancyvacancyNNOPER0...OPER0(ROOT (S (NP (NP (NNP Philip) (NNP L.) (NNP Hall)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP J.) (NNP Lawrence) (NNP Hall) (NNP Co.)) (, ,) (NP (NNP Nashua))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (DT a) (NN director)) (PP (IN of) (NP (DT this) (ADJP (NN thrift) (VBG holding)) (NN company))))) (, ,) (S (VP (VBG filling) (NP (DT a) (NN vacancy)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Philip) (NNP L.) (NNP Hall)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP J.) (NNP Lawrence) (NNP Hall) (NNP Co.)) (, ,) (NP (NNP Nashua))))) (, ,))
+sid=0 spanning 0 until 13 headed by 2 parsed as (NP (NP (NNP Philip) (NNP L.) (NNP Hall)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP J.) (NNP Lawrence) (NNP Hall) (NNP Co.)) (, ,) (NP (NNP Nashua))))) (, ,))
+sid=0 spanning 4 until 12 headed by 4 parsed as (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP J.) (NNP Lawrence) (NNP Hall) (NNP Co.)) (, ,) (NP (NNP Nashua)))))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (NP (NNP J.) (NNP Lawrence) (NNP Hall) (NNP Co.)) (, ,) (NP (NNP Nashua)))
+sid=0 spanning 6 until 12 headed by 9 parsed as (NP (NP (NNP J.) (NNP Lawrence) (NNP Hall) (NNP Co.)) (, ,) (NP (NNP Nashua)))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Nashua))
+sid=0 spanning 15 until 22 headed by 16 parsed as (NP (NP (DT a) (NN director)) (PP (IN of) (NP (DT this) (ADJP (NN thrift) (VBG holding)) (NN company))))
+sid=0 spanning 18 until 22 headed by 21 parsed as (NP (DT this) (ADJP (NN thrift) (VBG holding)) (NN company))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (DT a) (NN vacancy))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

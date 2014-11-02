@@ -1,0 +1,37 @@
+---------gloss--------
+(0) [1m[36m{President Clinton}[0m played a supporting role today in New York City , where the first lady , Senator Clinton , was honored at Madison Square Garden . 
+(1) It was the first time since the election that [1m[36m{the President}[0m and Vice President Al Gore appeared on the same stage . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0058); part 000
+sentences:
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0playedplayVBDOPER0aaDTOPER0supportingsupportVBGOPER0roleroleNNOPER0todaytodayNNDATEPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0CityCityNNPGPEPER0,,,OPER0wherewhereWRBOPER0thetheDTOPER0firstfirstJJOPER0ladyladyNNOPER0,,,OPER0SenatorSenatorNNPOPER0ClintonClintonNNPPERSONPER0,,,OPER0wasbeVBDOPER0honoredhonorVBNOPER0atatINOPER0MadisonMadisonNNPFACPER0SquareSquareNNPFACPER0GardenGardenNNPFACPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (VP (VBD played) (NP (DT a) (VBG supporting) (NN role)) (NP (NN today)) (PP (IN in) (NP (NP (NML (NNP New) (NNP York)) (NNP City)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (JJ first) (NN lady)) (, ,) (NP (NNP Senator) (NNP Clinton)) (, ,)) (VP (VBD was) (VP (VBN honored) (PP (IN at) (NP (NNP Madison) (NNP Square) (NNP Garden)))))))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0thetheDTOPER0firstfirstJJORDINALPER0timetimeNNOPER0sincesinceINOPER0thetheDTOPER0electionelectionNNOPER0thatthatINOPER0thetheDTOPER0PresidentPresidentNNPOPER0andandCCOPER0ViceViceNNPOPER0PresidentPresidentNNPOPER0AlAlNNPPERSONPER0GoreGoreNNPPERSONPER0appearedappearVBDOPER0ononINOPER0thetheDTOPER0samesameJJOPER0stagestageNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN since) (NP (DT the) (NN election)))) (SBAR (IN that) (S (NP (NP (DT the) (NNP President)) (CC and) (NP (NML (NNP Vice) (NNP President)) (NNP Al) (NNP Gore))) (VP (VBD appeared) (PP (IN on) (NP (DT the) (JJ same) (NN stage))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NP (DT the) (NNP President)) (CC and) (NP (NML (NNP Vice) (NNP President)) (NNP Al) (NNP Gore)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (DT a) (VBG supporting) (NN role))
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (NP (NML (NNP New) (NNP York)) (NNP City)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (JJ first) (NN lady)) (, ,) (NP (NNP Senator) (NNP Clinton)) (, ,)) (VP (VBD was) (VP (VBN honored) (PP (IN at) (NP (NNP Madison) (NNP Square) (NNP Garden))))))))
+sid=0 spanning 8 until 26 headed by 10 parsed as (NP (NP (NML (NNP New) (NNP York)) (NNP City)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (JJ first) (NN lady)) (, ,) (NP (NNP Senator) (NNP Clinton)) (, ,)) (VP (VBD was) (VP (VBN honored) (PP (IN at) (NP (NNP Madison) (NNP Square) (NNP Garden))))))))
+sid=0 spanning 13 until 20 headed by 15 parsed as (NP (NP (DT the) (JJ first) (NN lady)) (, ,) (NP (NNP Senator) (NNP Clinton)) (, ,))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ first) (NN lady))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Senator) (NNP Clinton))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (NNP Senator) (NNP Clinton))
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (NNP Madison) (NNP Square) (NNP Garden))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 2 until 8 headed by 4 parsed as (NP (NP (DT the) (JJ first) (NN time)) (PP (IN since) (NP (DT the) (NN election))))
+sid=1 spanning 3 until 4 headed by 3 parsed as first
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN election))
+sid=1 spanning 9 until 16 headed by 10 parsed as (NP (NP (DT the) (NNP President)) (CC and) (NP (NML (NNP Vice) (NNP President)) (NNP Al) (NNP Gore)))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNP President))
+sid=1 spanning 12 until 16 headed by 15 parsed as (NP (NML (NNP Vice) (NNP President)) (NNP Al) (NNP Gore))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (JJ same) (NN stage))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'the President' 'President Clinton' }
+(end gold clusters)

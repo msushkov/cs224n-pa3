@@ -1,0 +1,33 @@
+---------gloss--------
+(0) [3m[35m{Brush Wellman Inc.}[0m said [3m[35m{its}[0m board increased the number of shares of common stock to be purchased under [3m[36m{a previously authorized program}[0m to 3.9 million from 2.9 million . 
+(1) [3m[35m{The maker of engineered materials}[0m has acquired more than 2.7 million shares under [3m[36m{the program}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1129); part 000
+sentences:
+BrushBrushNNPORGPER0WellmanWellmanNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0boardboardNNOPER0increasedincreaseVBDOPER0thetheDTOPER0numbernumberNNOPER0ofofINOPER0sharesshareNNSOPER0ofofINOPER0commoncommonJJOPER0stockstockNNOPER0totoTOOPER0bebeVBOPER0purchasedpurchaseVBNOPER0underunderINOPER0aaDTOPER0previouslypreviouslyRBOPER0authorizedauthorizeVBNOPER0programprogramNNOPER0totoINOPER03.93.9CDMONEYPER0millionmillionCDMONEYPER0fromfromINOPER02.92.9CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NNP Brush) (NNP Wellman) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBD increased) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS shares)) (PP (IN of) (NP (JJ common) (NN stock)))))) (S (VP (TO to) (VP (VB be) (VP (VBN purchased) (PP (IN under) (NP (NP (DT a) (ADJP (RB previously) (VBN authorized)) (NN program)) (PP (IN to) (NP (QP (CD 3.9) (CD million)))))) (PP (IN from) (NP (QP (CD 2.9) (CD million)))))))))))) (. .)))
+ThetheDTOPER0makermakerNNOPER0ofofINOPER0engineeredengineeredJJOPER0materialsmaterialNNSOPER0hashaveVBZOPER0acquiredacquireVBNOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER02.72.7CDCARDINALPER0millionmillionCDCARDINALPER0sharesshareNNSOPER0underunderINOPER0thetheDTOPER0programprogramNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (JJ engineered) (NNS materials)))) (VP (VBZ has) (VP (VBN acquired) (NP (QP (XS (JJR more) (IN than)) (CD 2.7) (CD million)) (NNS shares)) (PP (IN under) (NP (DT the) (NN program))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Brush) (NNP Wellman) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as its
+sid=0 spanning 18 until 22 headed by 21 parsed as (NP (NP (DT a) (ADJP (RB previously) (VBN authorized)) (NN program)) (PP (IN to) (NP (QP (CD 3.9) (CD million)))))
+sid=1 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (JJ engineered) (NNS materials))))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN program))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Brush) (NNP Wellman) (NNP Inc.))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ its) (NN board))
+sid=0 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=0 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS shares)) (PP (IN of) (NP (JJ common) (NN stock))))))
+sid=0 spanning 18 until 25 headed by 21 parsed as (NP (NP (DT a) (ADJP (RB previously) (VBN authorized)) (NN program)) (PP (IN to) (NP (QP (CD 3.9) (CD million)))))
+sid=1 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (JJ engineered) (NNS materials))))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (JJ engineered) (NNS materials))
+sid=1 spanning 7 until 12 headed by 11 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 2.7) (CD million)) (NNS shares))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN program))
+(end predicted mentions)
+---------gold clusters--------
+0 1 3 | { 'Brush Wellman Inc.' 'its' 'The maker of engineered materials' }
+2 4 | { 'a previously authorized program' 'the program' }
+(end gold clusters)

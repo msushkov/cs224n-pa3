@@ -1,0 +1,40 @@
+---------gloss--------
+(0) [1m[36m{Hughes Aircraft Co. , a General Motors Corp. unit ,}[0m said [3m[31m{the Intelsat VI commercial communications satellite}[0m is set to be launched Friday . 
+(1) [3m[31m{The satellite , built by Hughes for the International Telecommunications Satellite Organization ,}[0m is part of a $ 700 million contract awarded to [1m[36m{Hughes}[0m in 1982 to develop five of the three - ton satellites . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1077); part 000
+sentences:
+HughesHughesNNPORGPER0AircraftAircraftNNPORGPER0Co.Co.NNPORGPER0,,,OPER0aaDTOPER0GeneralGeneralNNPORGPER0MotorsMotorsNNPSORGPER0Corp.Corp.NNPORGPER0unitunitNNOPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0IntelsatIntelsatNNPORGPER0VIVINNPORGPER0commercialcommercialJJOPER0communicationscommunicationNNOPER0satellitesatelliteNNOPER0isbeVBZOPER0setsetVBNOPER0totoTOOPER0bebeVBOPER0launchedlaunchVBNOPER0FridayFridayNNPDATEPER0...OPER0(ROOT (S (NP (NP (NNP Hughes) (NNP Aircraft) (NNP Co.)) (, ,) (NP (DT a) (NML (NNP General) (NNPS Motors) (NNP Corp.)) (NN unit)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NML (NNP Intelsat) (NNP VI)) (JJ commercial) (NN communications) (NN satellite)) (VP (VBZ is) (VP (VBN set) (S (VP (TO to) (VP (VB be) (VP (VBN launched) (NP (NNP Friday))))))))))) (. .)))
+ThetheDTOPER0satellitesatelliteNNOPER0,,,OPER0builtbuildVBNOPER0bybyINOPER0HughesHughesNNPORGPER0forforINOPER0thetheDTORGPER0InternationalInternationalNNPORGPER0TelecommunicationsTelecommunicationsNNPSORGPER0SatelliteSatelliteNNPORGPER0OrganizationOrganizationNNPORGPER0,,,OPER0isbeVBZOPER0partpartNNOPER0ofofINOPER0aaDTOPER0$$$MONEYPER0700700CDMONEYPER0millionmillionCDMONEYPER0contractcontractNNOPER0awardedawardVBDOPER0totoINOPER0HughesHughesNNPORGPER0ininINOPER019821982CDDATEPER0totoTOOPER0developdevelopVBOPER0fivefiveCDCARDINALPER0ofofINOPER0thetheDTOPER0threethreeCDQUANTITYPER0--HYPHQUANTITYPER0tontonNNQUANTITYPER0satellitessatelliteNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN satellite)) (, ,) (VP (VBN built) (PP (IN by) (NP (NP (NNP Hughes)) (PP (IN for) (NP (DT the) (NML (NNP International) (NNPS Telecommunications) (NNP Satellite)) (NNP Organization)))))) (, ,)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NML (QP ($ $) (CD 700) (CD million))) (NN contract)) (SBAR (S (VP (VBD awarded) (PP (IN to) (NP (NNP Hughes))) (PP (IN in) (NP (CD 1982))) (S (VP (TO to) (VP (VB develop) (NP (NP (CD five)) (PP (IN of) (NP (DT the) (NML (CD three) (HYPH -) (NN ton)) (NNS satellites)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Hughes) (NNP Aircraft) (NNP Co.)) (, ,) (NP (DT a) (NML (NNP General) (NNPS Motors) (NNP Corp.)) (NN unit)) (, ,))
+sid=0 spanning 11 until 17 headed by 16 parsed as (NP (DT the) (NML (NNP Intelsat) (NNP VI)) (JJ commercial) (NN communications) (NN satellite))
+sid=1 spanning 0 until 13 headed by 1 parsed as (NP (NP (DT The) (NN satellite)) (, ,) (VP (VBN built) (PP (IN by) (NP (NP (NNP Hughes)) (PP (IN for) (NP (DT the) (NML (NNP International) (NNPS Telecommunications) (NNP Satellite)) (NNP Organization)))))) (, ,))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NP (NNP Hughes)) (PP (IN for) (NP (DT the) (NML (NNP International) (NNPS Telecommunications) (NNP Satellite)) (NNP Organization))))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (NNP Hughes))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Hughes) (NNP Aircraft) (NNP Co.)) (, ,) (NP (DT a) (NML (NNP General) (NNPS Motors) (NNP Corp.)) (NN unit)) (, ,))
+sid=0 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Hughes) (NNP Aircraft) (NNP Co.)) (, ,) (NP (DT a) (NML (NNP General) (NNPS Motors) (NNP Corp.)) (NN unit)) (, ,))
+sid=0 spanning 4 until 9 headed by 8 parsed as (NP (DT a) (NML (NNP General) (NNPS Motors) (NNP Corp.)) (NN unit))
+sid=0 spanning 5 until 8 headed by 7 parsed as Corp.
+sid=0 spanning 11 until 17 headed by 16 parsed as (NP (DT the) (NML (NNP Intelsat) (NNP VI)) (JJ commercial) (NN communications) (NN satellite))
+sid=0 spanning 12 until 14 headed by 13 parsed as VI
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNP Friday))
+sid=1 spanning 0 until 13 headed by 1 parsed as (NP (NP (DT The) (NN satellite)) (, ,) (VP (VBN built) (PP (IN by) (NP (NP (NNP Hughes)) (PP (IN for) (NP (DT the) (NML (NNP International) (NNPS Telecommunications) (NNP Satellite)) (NNP Organization)))))) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN satellite))
+sid=1 spanning 5 until 12 headed by 5 parsed as (NP (NP (NNP Hughes)) (PP (IN for) (NP (DT the) (NML (NNP International) (NNPS Telecommunications) (NNP Satellite)) (NNP Organization))))
+sid=1 spanning 7 until 12 headed by 11 parsed as (NP (DT the) (NML (NNP International) (NNPS Telecommunications) (NNP Satellite)) (NNP Organization))
+sid=1 spanning 14 until 35 headed by 14 parsed as (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NML (QP ($ $) (CD 700) (CD million))) (NN contract)) (SBAR (S (VP (VBD awarded) (PP (IN to) (NP (NNP Hughes))) (PP (IN in) (NP (CD 1982))) (S (VP (TO to) (VP (VB develop) (NP (NP (CD five)) (PP (IN of) (NP (DT the) (NML (CD three) (HYPH -) (NN ton)) (NNS satellites)))))))))))))
+sid=1 spanning 16 until 35 headed by 20 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 700) (CD million))) (NN contract)) (SBAR (S (VP (VBD awarded) (PP (IN to) (NP (NNP Hughes))) (PP (IN in) (NP (CD 1982))) (S (VP (TO to) (VP (VB develop) (NP (NP (CD five)) (PP (IN of) (NP (DT the) (NML (CD three) (HYPH -) (NN ton)) (NNS satellites)))))))))))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (NNP Hughes))
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (CD 1982))
+sid=1 spanning 28 until 35 headed by 28 parsed as (NP (NP (CD five)) (PP (IN of) (NP (DT the) (NML (CD three) (HYPH -) (NN ton)) (NNS satellites))))
+(end predicted mentions)
+---------gold clusters--------
+3 0 4 | { 'Hughes' 'Hughes Aircraft Co. , a General Motors Corp. unit ,' 'Hughes' }
+1 2 | { 'the Intelsat VI commercial communications satellite' 'The satellite , built by Hughes for the International Telecommunications Satellite Organization ,' }
+(end gold clusters)

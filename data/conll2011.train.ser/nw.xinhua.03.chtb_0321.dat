@@ -1,0 +1,111 @@
+---------gloss--------
+(0) Xinhua News Agency , Changping , [3m[31m{September 1st}[0m 
+(1) The National Stadium Cycling Racing Championship Competition entered a second day [3m[31m{today}[0m . 
+(2) In the finals of [1m[36m{the 4 km individual chase event}[0m , [3m[33m{Longchen Guo , from the Liaoning team}[0m broke the national record again with a time of 4 minutes and 44.82 seconds , and clinched the gold medal for [1m[36m{this event}[0m . 
+(3) In the qualifying competition for [1m[36m{this event}[0m yesterday , [3m[33m{Longchen Guo}[0m broke the national record of 4 minutes and 49.70 seconds which [3m[33m{he}[0m created at the 7th National Sports Meeting , with a score of 4 minutes and 46.77 seconds . 
+(4) Xuezhong Tang from the Beijing team and Guangchun Pan from [3m[32m{the Liaoning team}[0m won the second and third positions in [1m[36m{this event}[0m respectively . 
+(5) In the finals of the women 's 3 km individual chase event , Xinghong Guo from the Hebei team won the gold medal with a result of 3 minutes 57.665 seconds . 
+(6) Haijuan Zhao from the Jilin team and Huizhen Ma from the Henan team won the second and third positions respectively . 
+(7) -LRB- Guilin Yang , Xinhua Chang -RRB- 
+(8) -LRB- End -RRB- 
+(end gloss)
+---------document--------
+(nw/xinhua/03/chtb_0321); part 000
+sentences:
+XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0,,,OPER0ChangpingChangpingNNPGPEPER0,,,OPER0SeptemberSeptemberNNPDATEPER01st1stNNOPER0(ROOT (FRAG (NP (NNP Xinhua) (NNP News) (NNP Agency)) (, ,) (NP (NNP Changping)) (, ,) (NP (NNP September) (NN 1st))))
+ThetheDTEVENTPER0NationalNationalNNPEVENTPER0StadiumStadiumNNPEVENTPER0CyclingCyclingNNPEVENTPER0RacingRacingNNPEVENTPER0ChampionshipChampionshipNNPEVENTPER0CompetitionCompetitionNNPEVENTPER0enteredenterVBDOPER0aaDTDATEPER0secondsecondJJDATEPER0daydayNNDATEPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP National) (NML (NNP Stadium) (NNP Cycling) (NNP Racing)) (NNP Championship) (NNP Competition)) (VP (VBD entered) (NP (DT a) (JJ second) (NN day)) (NP (NN today))) (. .)))
+IninINOPER0thetheDTOPER0finalsfinalNNSOPER0ofofINOPER0thetheDTOPER044CDQUANTITYPER0kmkmNNQUANTITYPER0individualindividualJJOPER0chasechaseNNOPER0eventeventNNOPER0,,,OPER0LongchenLongchenNNPPERSONPER0GuoGuoNNPPERSONPER0,,,OPER0fromfromINOPER0thetheDTOPER0LiaoningLiaoningNNPGPEPER0teamteamNNOPER0brokebreakVBDOPER0thetheDTOPER0nationalnationalJJOPER0recordrecordNNOPER0againagainRBOPER0withwithINOPER0aaDTOPER0timetimeNNOPER0ofofINOPER044CDTIMEPER0minutesminuteNNSTIMEPER0andandCCTIMEPER044.8244.82CDTIMEPER0secondssecondsNNSTIMEPER0,,,OPER0andandCCOPER0clinchedclinchVBDOPER0thetheDTOPER0goldgoldNNOPER0medalmedalNNOPER0forforINOPER0thisthisDTOPER0eventeventNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (NNS finals)) (PP (IN of) (NP (DT the) (NML (NML (CD 4) (NN km)) (JJ individual) (NN chase)) (NN event))))) (, ,) (NP (NP (NNP Longchen) (NNP Guo)) (, ,) (PP (IN from) (NP (DT the) (NNP Liaoning) (NN team)))) (VP (VP (VBD broke) (NP (DT the) (JJ national) (NN record)) (ADVP (RB again)) (PP (IN with) (NP (NP (DT a) (NN time)) (PP (IN of) (NP (NP (CD 4) (NNS minutes)) (CC and) (NP (CD 44.82) (NNS seconds))))))) (, ,) (CC and) (VP (VBD clinched) (NP (NP (DT the) (NN gold) (NN medal)) (PP (IN for) (NP (DT this) (NN event)))))) (. .)))
+IninINOPER0thetheDTOPER0qualifyingqualifyingNNOPER0competitioncompetitionNNOPER0forforINOPER0thisthisDTOPER0eventeventNNOPER0yesterdayyesterdayNNDATEPER0,,,OPER0LongchenLongchenNNPPERSONPER0GuoGuoNNPPERSONPER0brokebreakVBDOPER0thetheDTOPER0nationalnationalJJOPER0recordrecordNNOPER0ofofINOPER044CDTIMEPER0minutesminuteNNSTIMEPER0andandCCTIMEPER049.7049.70CDTIMEPER0secondssecondsNNSTIMEPER0whichwhichWDTOPER0hehePRPOPER0createdcreateVBDOPER0atatINOPER0thetheDTOPER07th7thJJDATEPER0NationalNationalNNPEVENTPER0SportsSportsNNPSEVENTPER0MeetingMeetingNNPEVENTPER0,,,OPER0withwithINOPER0aaDTOPER0scorescoreNNOPER0ofofINOPER044CDTIMEPER0minutesminuteNNSTIMEPER0andandCCTIMEPER046.7746.77CDTIMEPER0secondssecondsNNSTIMEPER0...OPER0(ROOT (S (PP (IN In) (NP (DT the) (NN qualifying) (NN competition))) (PP (IN for) (NP (DT this) (NN event))) (NP (NN yesterday)) (, ,) (NP (NNP Longchen) (NNP Guo)) (VP (VBD broke) (NP (NP (DT the) (JJ national) (NN record)) (PP (IN of) (NP (NP (CD 4) (NNS minutes)) (CC and) (NP (NP (NP (CD 49.70) (NNS seconds)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VBD created) (PP (IN at) (NP (DT the) (JJ 7th) (NML (NNP National) (NNPS Sports)) (NNP Meeting))) (, ,) (PP (IN with) (NP (NP (DT a) (NN score)) (PP (IN of) (NP (CD 4) (NNS minutes))))))))) (CC and) (NP (CD 46.77) (NNS seconds))))))) (. .)))
+XuezhongXuezhongNNPPERSONPER0TangTangNNPPERSONPER0fromfromINOPER0thetheDTOPER0BeijingBeijingNNPGPEPER0teamteamNNOPER0andandCCOPER0GuangchunGuangchunNNPORGPER0PanPanNNPORGPER0fromfromINOPER0thetheDTOPER0LiaoningLiaoningNNPGPEPER0teamteamNNOPER0wonwinVBDOPER0thetheDTOPER0secondsecondJJORDINALPER0andandCCOPER0thirdthirdJJORDINALPER0positionspositionNNSOPER0ininINOPER0thisthisDTOPER0eventeventNNOPER0respectivelyrespectivelyRBOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Xuezhong) (NNP Tang)) (PP (IN from) (NP (DT the) (NNP Beijing) (NN team)))) (CC and) (NP (NP (NNP Guangchun) (NNP Pan)) (PP (IN from) (NP (DT the) (NNP Liaoning) (NN team))))) (VP (VBD won) (NP (DT the) (ADJP (JJ second) (CC and) (JJ third)) (NNS positions)) (PP (IN in) (NP (DT this) (NN event))) (ADVP (RB respectively))) (. .)))
+IninINOPER0thetheDTOPER0finalsfinalNNSOPER0ofofINOPER0thetheDTOPER0womenwomanNNSOPER0's'sPOSOPER033CDQUANTITYPER0kmkmNNQUANTITYPER0individualindividualJJOPER0chasechaseJJOPER0eventeventNNOPER0,,,OPER0XinghongXinghongNNPPERSONPER0GuoGuoNNPPERSONPER0fromfromINOPER0thetheDTOPER0HebeiHebeiNNPGPEPER0teamteamNNOPER0wonwinVBDOPER0thetheDTOPER0goldgoldNNOPER0medalmedalNNOPER0withwithINOPER0aaDTOPER0resultresultNNOPER0ofofINOPER033CDTIMEPER0minutesminuteNNSTIMEPER057.66557.665CDTIMEPER0secondssecondsNNSTIMEPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (NNS finals)) (PP (IN of) (NP (NP (DT the) (NNS women) (POS 's)) (NML (CD 3) (NN km)) (JJ individual) (JJ chase) (NN event))))) (, ,) (NP (NP (NNP Xinghong) (NNP Guo)) (PP (IN from) (NP (DT the) (NNP Hebei) (NN team)))) (VP (VBD won) (NP (DT the) (NN gold) (NN medal)) (PP (IN with) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (CD 3) (NNS minutes)) (NP (CD 57.665) (NNS seconds))))))) (. .)))
+HaijuanHaijuanNNPPERSONPER0ZhaoZhaoNNPPERSONPER0fromfromINOPER0thetheDTOPER0JilinJilinNNPORGPER0teamteamNNOPER0andandCCOPER0HuizhenHuizhenNNPORGPER0MaMaNNPOPER0fromfromINOPER0thetheDTOPER0HenanHenanNNPGPEPER0teamteamNNOPER0wonwinVBDOPER0thetheDTOPER0secondsecondJJORDINALPER0andandCCOPER0thirdthirdJJORDINALPER0positionspositionNNSOPER0respectivelyrespectivelyRBOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Haijuan) (NNP Zhao)) (PP (IN from) (NP (DT the) (NNP Jilin) (NN team)))) (CC and) (NP (NP (NNP Huizhen) (NNP Ma)) (PP (IN from) (NP (DT the) (NNP Henan) (NN team))))) (VP (VBD won) (NP (DT the) (ADJP (JJ second) (CC and) (JJ third)) (NNS positions)) (ADVP (RB respectively))) (. .)))
+-LRB--lrb--LRB-OPER0GuilinGuilinNNPPERSONPER0YangYangNNPPERSONPER0,,,OPER0XinhuaXinhuaNNPORGPER0ChangChangNNPORGPER0-RRB--rrb--RRB-OPER0(ROOT (FRAG (-LRB- -LRB-) (NP (NNP Guilin) (NNP Yang)) (, ,) (NP (NNP Xinhua) (NNP Chang)) (-RRB- -RRB-)))
+-LRB--lrb--LRB-OPER0EndendNNORGPER0-RRB--rrb--RRB-OPER0(ROOT (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP September) (NN 1st))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NN today))
+sid=2 spanning 4 until 10 headed by 9 parsed as (NP (DT the) (NML (NML (CD 4) (NN km)) (JJ individual) (NN chase)) (NN event))
+sid=2 spanning 11 until 18 headed by 12 parsed as (NP (NP (NNP Longchen) (NNP Guo)) (, ,) (PP (IN from) (NP (DT the) (NNP Liaoning) (NN team))))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP Liaoning) (NN team))
+sid=2 spanning 39 until 41 headed by 40 parsed as (NP (DT this) (NN event))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT this) (NN event))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (NNP Longchen) (NNP Guo))
+sid=3 spanning 22 until 23 headed by 22 parsed as (NP (PRP he))
+sid=4 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP Liaoning) (NN team))
+sid=4 spanning 20 until 22 headed by 21 parsed as (NP (DT this) (NN event))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Xinhua) (NNP News) (NNP Agency))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Changping))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP September) (NN 1st))
+sid=0 spanning 6 until 7 headed by 6 parsed as September
+sid=1 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NNP National) (NML (NNP Stadium) (NNP Cycling) (NNP Racing)) (NNP Championship) (NNP Competition))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (NN today))
+sid=2 spanning 1 until 10 headed by 2 parsed as (NP (NP (DT the) (NNS finals)) (PP (IN of) (NP (DT the) (NML (NML (CD 4) (NN km)) (JJ individual) (NN chase)) (NN event))))
+sid=2 spanning 4 until 10 headed by 9 parsed as (NP (DT the) (NML (NML (CD 4) (NN km)) (JJ individual) (NN chase)) (NN event))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NP (NNP Longchen) (NNP Guo)) (, ,) (PP (IN from) (NP (DT the) (NNP Liaoning) (NN team))))
+sid=2 spanning 11 until 18 headed by 12 parsed as (NP (NP (NNP Longchen) (NNP Guo)) (, ,) (PP (IN from) (NP (DT the) (NNP Liaoning) (NN team))))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP Liaoning) (NN team))
+sid=2 spanning 16 until 17 headed by 16 parsed as Liaoning
+sid=2 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (JJ national) (NN record))
+sid=2 spanning 24 until 32 headed by 25 parsed as (NP (NP (DT a) (NN time)) (PP (IN of) (NP (NP (CD 4) (NNS minutes)) (CC and) (NP (CD 44.82) (NNS seconds)))))
+sid=2 spanning 27 until 32 headed by 28 parsed as (NP (NP (CD 4) (NNS minutes)) (CC and) (NP (CD 44.82) (NNS seconds)))
+sid=2 spanning 35 until 41 headed by 37 parsed as (NP (NP (DT the) (NN gold) (NN medal)) (PP (IN for) (NP (DT this) (NN event))))
+sid=2 spanning 39 until 41 headed by 40 parsed as (NP (DT this) (NN event))
+sid=3 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NN qualifying) (NN competition))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT this) (NN event))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NN yesterday))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (NNP Longchen) (NNP Guo))
+sid=3 spanning 12 until 40 headed by 14 parsed as (NP (NP (DT the) (JJ national) (NN record)) (PP (IN of) (NP (NP (CD 4) (NNS minutes)) (CC and) (NP (NP (NP (CD 49.70) (NNS seconds)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VBD created) (PP (IN at) (NP (DT the) (JJ 7th) (NML (NNP National) (NNPS Sports)) (NNP Meeting))) (, ,) (PP (IN with) (NP (NP (DT a) (NN score)) (PP (IN of) (NP (CD 4) (NNS minutes))))))))) (CC and) (NP (CD 46.77) (NNS seconds))))))
+sid=3 spanning 16 until 40 headed by 17 parsed as (NP (NP (CD 4) (NNS minutes)) (CC and) (NP (NP (NP (CD 49.70) (NNS seconds)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VBD created) (PP (IN at) (NP (DT the) (JJ 7th) (NML (NNP National) (NNPS Sports)) (NNP Meeting))) (, ,) (PP (IN with) (NP (NP (DT a) (NN score)) (PP (IN of) (NP (CD 4) (NNS minutes))))))))) (CC and) (NP (CD 46.77) (NNS seconds))))
+sid=3 spanning 19 until 40 headed by 20 parsed as (NP (NP (NP (CD 49.70) (NNS seconds)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VBD created) (PP (IN at) (NP (DT the) (JJ 7th) (NML (NNP National) (NNPS Sports)) (NNP Meeting))) (, ,) (PP (IN with) (NP (NP (DT a) (NN score)) (PP (IN of) (NP (CD 4) (NNS minutes))))))))) (CC and) (NP (CD 46.77) (NNS seconds)))
+sid=3 spanning 19 until 37 headed by 20 parsed as (NP (NP (CD 49.70) (NNS seconds)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VBD created) (PP (IN at) (NP (DT the) (JJ 7th) (NML (NNP National) (NNPS Sports)) (NNP Meeting))) (, ,) (PP (IN with) (NP (NP (DT a) (NN score)) (PP (IN of) (NP (CD 4) (NNS minutes)))))))))
+sid=3 spanning 22 until 23 headed by 22 parsed as (NP (PRP he))
+sid=3 spanning 27 until 30 headed by 29 parsed as (NP (DT the) (JJ 7th) (NML (NNP National) (NNPS Sports)) (NNP Meeting))
+sid=3 spanning 25 until 30 headed by 29 parsed as (NP (DT the) (JJ 7th) (NML (NNP National) (NNPS Sports)) (NNP Meeting))
+sid=3 spanning 26 until 27 headed by 26 parsed as 7th
+sid=3 spanning 32 until 37 headed by 33 parsed as (NP (NP (DT a) (NN score)) (PP (IN of) (NP (CD 4) (NNS minutes))))
+sid=3 spanning 35 until 40 headed by 36 parsed as (NP (CD 4) (NNS minutes))
+sid=4 spanning 0 until 13 headed by 1 parsed as (NP (NP (NP (NNP Xuezhong) (NNP Tang)) (PP (IN from) (NP (DT the) (NNP Beijing) (NN team)))) (CC and) (NP (NP (NNP Guangchun) (NNP Pan)) (PP (IN from) (NP (DT the) (NNP Liaoning) (NN team)))))
+sid=4 spanning 0 until 6 headed by 1 parsed as (NP (NP (NNP Xuezhong) (NNP Tang)) (PP (IN from) (NP (DT the) (NNP Beijing) (NN team))))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Beijing) (NN team))
+sid=4 spanning 4 until 5 headed by 4 parsed as Beijing
+sid=4 spanning 7 until 13 headed by 8 parsed as (NP (NP (NNP Guangchun) (NNP Pan)) (PP (IN from) (NP (DT the) (NNP Liaoning) (NN team))))
+sid=4 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP Liaoning) (NN team))
+sid=4 spanning 11 until 12 headed by 11 parsed as Liaoning
+sid=4 spanning 14 until 19 headed by 18 parsed as (NP (DT the) (ADJP (JJ second) (CC and) (JJ third)) (NNS positions))
+sid=4 spanning 15 until 16 headed by 15 parsed as second
+sid=4 spanning 17 until 18 headed by 17 parsed as third
+sid=4 spanning 20 until 22 headed by 21 parsed as (NP (DT this) (NN event))
+sid=5 spanning 1 until 12 headed by 2 parsed as (NP (NP (DT the) (NNS finals)) (PP (IN of) (NP (NP (DT the) (NNS women) (POS 's)) (NML (CD 3) (NN km)) (JJ individual) (JJ chase) (NN event))))
+sid=5 spanning 4 until 12 headed by 11 parsed as (NP (NP (DT the) (NNS women) (POS 's)) (NML (CD 3) (NN km)) (JJ individual) (JJ chase) (NN event))
+sid=5 spanning 4 until 7 headed by 5 parsed as (NP (DT the) (NNS women) (POS 's))
+sid=5 spanning 13 until 19 headed by 14 parsed as (NP (NP (NNP Xinghong) (NNP Guo)) (PP (IN from) (NP (DT the) (NNP Hebei) (NN team))))
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP Hebei) (NN team))
+sid=5 spanning 17 until 18 headed by 17 parsed as Hebei
+sid=5 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (NN gold) (NN medal))
+sid=5 spanning 24 until 31 headed by 25 parsed as (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (CD 3) (NNS minutes)) (NP (CD 57.665) (NNS seconds)))))
+sid=5 spanning 27 until 31 headed by 28 parsed as (NP (NP (CD 3) (NNS minutes)) (NP (CD 57.665) (NNS seconds)))
+sid=6 spanning 0 until 13 headed by 1 parsed as (NP (NP (NP (NNP Haijuan) (NNP Zhao)) (PP (IN from) (NP (DT the) (NNP Jilin) (NN team)))) (CC and) (NP (NP (NNP Huizhen) (NNP Ma)) (PP (IN from) (NP (DT the) (NNP Henan) (NN team)))))
+sid=6 spanning 0 until 6 headed by 1 parsed as (NP (NP (NNP Haijuan) (NNP Zhao)) (PP (IN from) (NP (DT the) (NNP Jilin) (NN team))))
+sid=6 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Jilin) (NN team))
+sid=6 spanning 4 until 5 headed by 4 parsed as Jilin
+sid=6 spanning 7 until 13 headed by 8 parsed as (NP (NP (NNP Huizhen) (NNP Ma)) (PP (IN from) (NP (DT the) (NNP Henan) (NN team))))
+sid=6 spanning 7 until 8 headed by 7 parsed as Huizhen
+sid=6 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP Henan) (NN team))
+sid=6 spanning 11 until 12 headed by 11 parsed as Henan
+sid=6 spanning 14 until 19 headed by 18 parsed as (NP (DT the) (ADJP (JJ second) (CC and) (JJ third)) (NNS positions))
+sid=6 spanning 15 until 16 headed by 15 parsed as second
+sid=6 spanning 17 until 18 headed by 17 parsed as third
+sid=7 spanning 1 until 3 headed by 2 parsed as (NP (NNP Guilin) (NNP Yang))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (NNP Xinhua) (NNP Chang))
+sid=8 spanning 0 until 3 headed by 1 parsed as (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-))
+(end predicted mentions)
+---------gold clusters--------
+5 6 10 2 | { 'this event' 'this event' 'this event' 'the 4 km individual chase event' }
+1 0 | { 'today' 'September 1st' }
+9 4 | { 'the Liaoning team' 'the Liaoning team' }
+3 8 7 | { 'Longchen Guo , from the Liaoning team' 'he' 'Longchen Guo' }
+(end gold clusters)

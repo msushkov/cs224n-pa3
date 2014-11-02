@@ -1,0 +1,94 @@
+---------gloss--------
+(0) [35m{Another story}[0m in the 1:00 p.m. hour in Canada . 
+(1) [35m{The top story there today , the World Health Organization announced it is lifting its advisory against travel to Toronto because of fear of SARS .}[0m 
+(2) It 's been 20 days since the last cases of locally transmitted SARS in [34m{Toronto}[0m , and there have been no new confirmed cases of [36m{SARS}[0m exported out of [34m{Toronto}[0m . 
+(3) [31m{The WHO}[0m says [36m{SARS}[0m advisories against travel to [4m[36m{Hong Kong}[0m , Beijing and the Chinese provences will remain in effect . 
+(4) China has [32m{more SARS cases than any country in the world}[0m . 
+(5) [32m{3303}[0m by [33m{today 's}[0m count . 
+(6) [32m{That}[0m 's more than twice as many as [4m[36m{Hong Kong which ranks second}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0322); part 000
+sentences:
+AnotheranotherDTOPER0storystoryNNOPER0ininINOPER0thetheDTTIMEPER01:001:00CDTIMEPER0p.m.p.m.NNTIMEPER0hourhourNNTIMEPER0ininINOPER0CanadaCanadaNNPGPEPER0...OPER0(ROOT (NP (NP (DT Another) (NN story)) (PP (IN in) (NP (NP (DT the) (NML (CD 1:00) (NN p.m.)) (NN hour)) (PP (IN in) (NP (NNP Canada))))) (. .)))
+ThetheDTOPER0toptopJJOPER0storystoryNNOPER0therethereRBOPER0todaytodayNNDATEPER0,,,OPER0thetheDTORGPER0WorldWorldNNPORGPER0HealthHealthNNPORGPER0OrganizationOrganizationNNPORGPER0announcedannounceVBDOPER0ititPRPOPER0isbeVBZOPER0liftingliftVBGOPER0itsitsPRP$OPER0advisoryadvisoryNNOPER0againstagainstINOPER0traveltravelNNOPER0totoINOPER0TorontoTorontoNNPGPEPER0becausebecauseINOPER0ofofINOPER0fearfearNNOPER0ofofINOPER0SARSSARSNNPORGPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ top) (NN story)) (NP (ADVP (RB there)) (NN today))) (, ,) (NP (DT the) (NNP World) (NNP Health) (NNP Organization)) (VP (VBD announced) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG lifting) (NP (NP (PRP$ its) (NN advisory)) (PP (IN against) (NP (NP (NN travel)) (PP (IN to) (NP (NNP Toronto)))))) (PP (IN because) (IN of) (NP (NP (NN fear)) (PP (IN of) (NP (NNP SARS)))))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0beenbeVBNOPER02020CDDATEPER0daysdayNNSDATEPER0sincesinceINOPER0thetheDTOPER0lastlastJJOPER0casescaseNNSOPER0ofofINOPER0locallylocallyRBOPER0transmittedtransmitVBNOPER0SARSSARSNNPORGPER0ininINOPER0TorontoTorontoNNPGPEPER0,,,OPER0andandCCOPER0therethereEXOPER0havehaveVBPOPER0beenbeVBNOPER0nonoDTOPER0newnewJJOPER0confirmedconfirmVBNOPER0casescaseNNSOPER0ofofINOPER0SARSSARSNNPORGPER0exportedexportVBNOPER0outoutINOPER0ofofINOPER0TorontoTorontoNNPGPEPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN been) (NP (CD 20) (NNS days)) (PP (IN since) (NP (NP (DT the) (JJ last) (NNS cases)) (PP (IN of) (NP (NP (ADJP (RB locally) (VBN transmitted)) (NNP SARS)) (PP (IN in) (NP (NNP Toronto)))))))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (NP (DT no) (JJ new) (VBN confirmed) (NNS cases)) (PP (IN of) (NP (NP (NNP SARS)) (VP (VBN exported) (PP (IN out) (PP (IN of) (NP (NNP Toronto))))))))))) (. .)))
+ThetheDTOPER0WHOwhoWPOPER0sayssayVBZOPER0SARSSARSNNPORGPER0advisoriesadvisoryNNSOPER0againstagainstINOPER0traveltravelNNOPER0totoINOPER0HongHongNNPGPEPER0KongKongNNPGPEPER0,,,OPER0BeijingBeijingNNPGPEPER0andandCCOPER0thetheDTOPER0ChinesechineseJJOPER0provencesprovenceNNSOPER0willwillMDOPER0remainremainVBOPER0ininINOPER0effecteffectNNOPER0...OPER0(ROOT (S (NP (DT The) (WP WHO)) (VP (VBZ says) (SBAR (S (NP (NP (NNP SARS) (NNS advisories)) (PP (IN against) (NP (NP (NN travel)) (PP (IN to) (NP (NP (NNP Hong) (NNP Kong)) (, ,) (NP (NNP Beijing)) (CC and) (NP (DT the) (JJ Chinese) (NNS provences))))))) (VP (MD will) (VP (VB remain) (PP (IN in) (NP (NN effect)))))))) (. .)))
+ChinaChinaNNPGPEPER0hashaveVBZOPER0moremoreJJROPER0SARSSARSNNPOPER0casescaseNNSOPER0thanthanINOPER0anyanyDTOPER0countrycountryNNOPER0ininINOPER0thetheDTOPER0worldworldNNOPER0...OPER0(ROOT (S (NP (NNP China)) (VP (VBZ has) (NP (NP (JJR more)) (PP (NP (NNP SARS) (NNS cases)) (IN than) (NP (NP (DT any) (NN country)) (PP (IN in) (NP (DT the) (NN world))))))) (. .)))
+33033303CDDATEPER0bybyINOPER0todaytodayNNDATEPER0's'sPOSOPER0countcountNNOPER0...OPER0(ROOT (FRAG (NP (CD 3303)) (PP (IN by) (NP (NP (NN today) (POS 's)) (NN count))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0moremoreJJROPER0thanthanINOPER0twicetwicePDTOPER0asasRBOPER0manymanyJJOPER0asasINOPER0HongHongNNPGPEPER0KongKongNNPGPEPER0whichwhichWDTOPER0ranksrankVBZOPER0secondsecondJJORDINALPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (QP (JJR more) (IN than) (PDT twice) (RB as) (JJ many))) (PP (IN as) (NP (NNP Hong) (NNP Kong)))) (SBAR (WHNP (WDT which)) (S (VP (VBZ ranks) (S (ADJP (JJ second))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NP (DT Another) (NN story)) (PP (IN in) (NP (NP (DT the) (NML (CD 1:00) (NN p.m.)) (NN hour)) (PP (IN in) (NP (NNP Canada))))) (. .))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (ADVP (RB there)) (NN today))
+sid=1 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (NNP World) (NNP Health) (NNP Organization))
+sid=1 spanning 0 until 26 headed by 10 parsed as announced
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=1 spanning 14 until 15 headed by 14 parsed as its
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NNP Toronto))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNP SARS))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNP Toronto))
+sid=2 spanning 25 until 26 headed by 25 parsed as (NP (NP (NNP SARS)) (VP (VBN exported) (PP (IN out) (PP (IN of) (NP (NNP Toronto))))))
+sid=2 spanning 29 until 30 headed by 29 parsed as (NP (NNP Toronto))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (DT The) (WP WHO))
+sid=3 spanning 3 until 4 headed by 3 parsed as SARS
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (NP (NNP Hong) (NNP Kong)) (, ,) (NP (NNP Beijing)) (CC and) (NP (DT the) (JJ Chinese) (NNS provences)))
+sid=4 spanning 2 until 11 headed by 2 parsed as (NP (NP (JJR more)) (PP (NP (NNP SARS) (NNS cases)) (IN than) (NP (NP (DT any) (NN country)) (PP (IN in) (NP (DT the) (NN world))))))
+sid=4 spanning 3 until 4 headed by 3 parsed as SARS
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (CD 3303))
+sid=5 spanning 2 until 4 headed by 2 parsed as (NP (NN today) (POS 's))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=6 spanning 8 until 13 headed by 9 parsed as (NP (NNP Hong) (NNP Kong))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT Another) (NN story)) (PP (IN in) (NP (NP (DT the) (NML (CD 1:00) (NN p.m.)) (NN hour)) (PP (IN in) (NP (NNP Canada))))) (. .))
+sid=0 spanning 3 until 9 headed by 6 parsed as (NP (NP (DT the) (NML (CD 1:00) (NN p.m.)) (NN hour)) (PP (IN in) (NP (NNP Canada))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Canada))
+sid=1 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT The) (JJ top) (NN story)) (NP (ADVP (RB there)) (NN today)))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (ADVP (RB there)) (NN today))
+sid=1 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (NNP World) (NNP Health) (NNP Organization))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=1 spanning 14 until 20 headed by 15 parsed as (NP (NP (PRP$ its) (NN advisory)) (PP (IN against) (NP (NP (NN travel)) (PP (IN to) (NP (NNP Toronto))))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (PRP$ its)
+sid=1 spanning 17 until 20 headed by 17 parsed as (NP (NP (NN travel)) (PP (IN to) (NP (NNP Toronto))))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NNP Toronto))
+sid=1 spanning 22 until 25 headed by 22 parsed as (NP (NP (NN fear)) (PP (IN of) (NP (NNP SARS))))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNP SARS))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (CD 20) (NNS days))
+sid=2 spanning 6 until 15 headed by 8 parsed as (NP (NP (DT the) (JJ last) (NNS cases)) (PP (IN of) (NP (NP (ADJP (RB locally) (VBN transmitted)) (NNP SARS)) (PP (IN in) (NP (NNP Toronto))))))
+sid=2 spanning 10 until 15 headed by 12 parsed as (NP (NP (ADJP (RB locally) (VBN transmitted)) (NNP SARS)) (PP (IN in) (NP (NNP Toronto))))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNP Toronto))
+sid=2 spanning 20 until 30 headed by 23 parsed as (NP (NP (DT no) (JJ new) (VBN confirmed) (NNS cases)) (PP (IN of) (NP (NP (NNP SARS)) (VP (VBN exported) (PP (IN out) (PP (IN of) (NP (NNP Toronto))))))))
+sid=2 spanning 25 until 30 headed by 25 parsed as (NP (NP (NNP SARS)) (VP (VBN exported) (PP (IN out) (PP (IN of) (NP (NNP Toronto))))))
+sid=2 spanning 29 until 30 headed by 29 parsed as (NP (NNP Toronto))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (DT The) (WP WHO))
+sid=3 spanning 3 until 16 headed by 4 parsed as (NP (NP (NNP SARS) (NNS advisories)) (PP (IN against) (NP (NP (NN travel)) (PP (IN to) (NP (NP (NNP Hong) (NNP Kong)) (, ,) (NP (NNP Beijing)) (CC and) (NP (DT the) (JJ Chinese) (NNS provences)))))))
+sid=3 spanning 3 until 4 headed by 3 parsed as SARS
+sid=3 spanning 6 until 16 headed by 6 parsed as (NP (NP (NN travel)) (PP (IN to) (NP (NP (NNP Hong) (NNP Kong)) (, ,) (NP (NNP Beijing)) (CC and) (NP (DT the) (JJ Chinese) (NNS provences)))))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (NP (NNP Hong) (NNP Kong)) (, ,) (NP (NNP Beijing)) (CC and) (NP (DT the) (JJ Chinese) (NNS provences)))
+sid=3 spanning 8 until 16 headed by 9 parsed as (NP (NP (NNP Hong) (NNP Kong)) (, ,) (NP (NNP Beijing)) (CC and) (NP (DT the) (JJ Chinese) (NNS provences)))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNP Beijing))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ Chinese) (NNS provences))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP China))
+sid=4 spanning 2 until 11 headed by 2 parsed as (NP (NP (JJR more)) (PP (NP (NNP SARS) (NNS cases)) (IN than) (NP (NP (DT any) (NN country)) (PP (IN in) (NP (DT the) (NN world))))))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (NNP SARS) (NNS cases))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN world))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (CD 3303))
+sid=5 spanning 2 until 5 headed by 4 parsed as (NP (NP (NN today) (POS 's)) (NN count))
+sid=5 spanning 2 until 4 headed by 2 parsed as (NP (NN today) (POS 's))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=6 spanning 2 until 10 headed by 6 parsed as (NP (NP (QP (JJR more) (IN than) (PDT twice) (RB as) (JJ many))) (PP (IN as) (NP (NNP Hong) (NNP Kong))))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (NNP Hong) (NNP Kong))
+sid=6 spanning 12 until 13 headed by 12 parsed as second
+(end predicted mentions)
+---------gold clusters--------
+13 19 | { 'Hong Kong' 'Hong Kong which ranks second' }
+2 5 11 4 | { 'the World Health Organization' 'its' 'The WHO' 'it' }
+16 18 14 | { '3303' 'That' 'more SARS cases than any country in the world' }
+1 17 | { 'today' 'today 's' }
+8 10 6 | { 'Toronto' 'Toronto' 'Toronto' }
+0 3 | { 'Another story' 'The top story there today , the World Health Organization announced it is lifting its advisory against travel to Toronto because of fear of SARS .' }
+15 9 12 7 | { 'SARS' 'SARS' 'SARS' 'SARS' }
+(end gold clusters)

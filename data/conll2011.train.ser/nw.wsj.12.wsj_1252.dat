@@ -1,0 +1,67 @@
+---------gloss--------
+(0) Well - Seasoned Reasoning 
+(1) -LRB- `` Food manufacturer changes spelling of ` catsup ' to ` [3m[31m{ketchup}[0m , ' saying [3m[31m{that}[0m 's the spelling people now prefer . '' 
+(2) -- WSJ Business Bulletin -RRB- 
+(3) Public preference is important , So product names should match up , And firms that find they 're lagging behind Should now take steps to ketchup ! 
+(4) -- George O. Ludcke . 
+(5) Judge Not 
+(6) How easy [3m[33m{it}[0m is To [3m[33m{attack}[0m [3m[32m{others '}[0m views Without ever setting A foot in [3m[32m{their}[0m shoes ! 
+(7) -- G. Sterling Leiby . 
+(8) Daffynition 
+(9) Money - making course : wad - working . 
+(10) -- Thomas Henry . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1252); part 000
+sentences:
+WellwellRBOPER0--HYPHOPER0SeasonedseasonedJJOPER0ReasoningreasoningNNOPER0(ROOT (NP (ADJP (RB Well) (HYPH -) (JJ Seasoned)) (NN Reasoning)))
+-LRB--lrb--LRB-ORGPER0``````OFoodFoodNNPOPER1manufacturermanufacturerNNOPER1changeschangeVBZOPER1spellingspellVBGOPER1ofofINOPER1````OPER1catsupcatsupNNOPER1''''OPER1totoINOPER1````OPER1ketchupketchupNNOPER1,,,OPER1''''OPER1sayingsayVBGOPER1thatthatDTOPER1'sbeVBZOPER1thetheDTOPER1spellingspellVBGOPER1peoplepeopleNNSOPER1nownowRBOPER1preferpreferVBPOPER1...OPER1''''''OPER0(ROOT (S (-LRB- -LRB-) (`` ``) (NP (NNP Food) (NN manufacturer)) (VP (VBZ changes) (VP (VBG spelling) (PP (IN of) (`` `) (NP (NN catsup)) ('' ')) (PP (IN to) (NP (`` `) (NP (NN ketchup)) (, ,) ('' ') (VP (VBG saying) (SBAR (S (NP (DT that)) (VP (VBZ 's) (SBAR (S (NP (DT the) (VBG spelling) (NNS people)) (ADVP (RB now)) (VP (VBP prefer)))))))))))) (. .) ('' '')))
+----:OPER0WSJWSJNNPOPER0BusinessBusinessNNPOPER0BulletinbulletinNNOPER0-RRB--rrb--RRB-OPER0(ROOT (PRN (: --) (NP (NML (NNP WSJ) (NNP Business)) (NN Bulletin)) (-RRB- -RRB-)))
+PublicpublicJJOPER0preferencepreferenceNNOPER0isbeVBZOPER0importantimportantJJOPER0,,,OPER0SosoCCOPER0productproductNNOPER0namesnameNNSOPER0shouldshouldMDOPER0matchmatchVBOPER0upupRPOPER0,,,OPER0AndandCCOPER0firmsfirmNNSOPER0thatthatWDTOPER0findfindVBPOPER0theytheyPRPOPER0'rebeVBPOPER0lagginglagVBGOPER0behindbehindINOPER0ShouldshouldMDOPER0nownowRBOPER0taketakeVBOPER0stepsstepNNSOPER0totoINOPER0ketchupketchupNNOPER0!!.OPER0(ROOT (S (S (NP (JJ Public) (NN preference)) (VP (VBZ is) (ADJP (JJ important)))) (, ,) (CC So) (S (NP (NN product) (NNS names)) (VP (MD should) (VP (VB match) (PRT (RP up)) (, ,) (NAC (CC And) (NP (NP (NNS firms)) (SBAR (WHNP (WDT that)) (S (VP (VBP find) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG lagging) (PP (IN behind) (S (VP (MD Should) (ADVP (RB now)) (VP (VB take) (NP (NNS steps)) (PP (IN to) (NP (NN ketchup))))))))))))))))))) (. !)))
+----:PERSONPER0GeorgeGeorgeNNPPERSONPER0O.O.NNPPERSONPER0LudckeLudckeNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .)))
+JudgeJudgeNNPOPER0NotNotNNPOPER0(ROOT (FRAG (NP (NNP Judge) (NNP Not))))
+HowhowWRBOPER0easyeasyJJOPER0ititPRPOPER0isbeVBZOPER0TotoTOOPER0attackattackVBOPER0othersotherNNSOPER0''POSOPER0viewsviewNNSOPER0WithoutwithoutINOPER0evereverRBOPER0settingsetVBGOPER0AaDTOPER0footfootNNOPER0ininINOPER0theirtheyPRP$OPER0shoesshoeNNSOPER0!!.OPER0(ROOT (SBAR (WHADJP (WRB How) (JJ easy)) (S (NP (PRP it)) (VP (VBZ is) (S (VP (TO To) (VP (VB attack) (NP (NP (NNS others) (POS ')) (NNS views)) (PP (IN Without) (S (ADVP (RB ever)) (VP (VBG setting) (NP (NP (DT A) (NN foot)) (PP (IN in) (NP (PRP$ their) (NNS shoes)))))))))))) (. !)))
+----:PERSONPER0G.G.NNPPERSONPER0SterlingSterlingNNPPERSONPER0LeibyLeibyNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP G.) (NNP Sterling) (NNP Leiby) (. .)))
+DaffynitiondaffynitionNNOPER0(ROOT (NP (NN Daffynition)))
+MoneymoneyNNOPER0--HYPHOPER0makingmakeVBGOPER0coursecourseNNOPER0:::OPER0wadwadNNOPER0--HYPHOPER0workingworkVBGOPER0...OPER0(ROOT (NP (NP (ADJP (NN Money) (HYPH -) (VBG making)) (NN course)) (: :) (NP (NN wad) (HYPH -) (VBG working)) (. .)))
+----:PERSONPER0ThomasThomasNNPPERSONPER0HenryHenryNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP Thomas) (NNP Henry) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (`` `) (NP (NN ketchup)) (, ,) ('' ') (VP (VBG saying) (SBAR (S (NP (DT that)) (VP (VBZ 's) (SBAR (S (NP (DT the) (VBG spelling) (NNS people)) (ADVP (RB now)) (VP (VBP prefer)))))))))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (DT that))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=6 spanning 5 until 6 headed by 5 parsed as attack
+sid=6 spanning 6 until 8 headed by 6 parsed as (NP (NNS others) (POS '))
+sid=6 spanning 15 until 16 headed by 15 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (RB Well) (HYPH -) (JJ Seasoned)) (NN Reasoning))
+sid=1 spanning 0 until 1 headed by 0 parsed as -LRB-
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (NNP Food) (NN manufacturer))
+sid=1 spanning 11 until 23 headed by 12 parsed as (NP (`` `) (NP (NN ketchup)) (, ,) ('' ') (VP (VBG saying) (SBAR (S (NP (DT that)) (VP (VBZ 's) (SBAR (S (NP (DT the) (VBG spelling) (NNS people)) (ADVP (RB now)) (VP (VBP prefer)))))))))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (DT that))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (VBG spelling) (NNS people))
+sid=2 spanning 1 until 4 headed by 3 parsed as (NP (NML (NNP WSJ) (NNP Business)) (NN Bulletin))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (NN product) (NNS names))
+sid=3 spanning 13 until 26 headed by 13 parsed as (NP (NP (NNS firms)) (SBAR (WHNP (WDT that)) (S (VP (VBP find) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG lagging) (PP (IN behind) (S (VP (MD Should) (ADVP (RB now)) (VP (VB take) (NP (NNS steps)) (PP (IN to) (NP (NN ketchup)))))))))))))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (NNS steps))
+sid=4 spanning 0 until 5 headed by 3 parsed as (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Judge) (NNP Not))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=6 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNS others) (POS ')) (NNS views))
+sid=6 spanning 6 until 8 headed by 6 parsed as (NP (NNS others) (POS '))
+sid=6 spanning 12 until 17 headed by 13 parsed as (NP (NP (DT A) (NN foot)) (PP (IN in) (NP (PRP$ their) (NNS shoes))))
+sid=6 spanning 15 until 17 headed by 16 parsed as (NP (PRP$ their) (NNS shoes))
+sid=6 spanning 15 until 16 headed by 15 parsed as (PRP$ their)
+sid=7 spanning 0 until 5 headed by 3 parsed as (NP (: --) (NNP G.) (NNP Sterling) (NNP Leiby) (. .))
+sid=9 spanning 0 until 9 headed by 3 parsed as (NP (NP (ADJP (NN Money) (HYPH -) (VBG making)) (NN course)) (: :) (NP (NN wad) (HYPH -) (VBG working)) (. .))
+sid=9 spanning 5 until 8 headed by 5 parsed as (NP (NN wad) (HYPH -) (VBG working))
+sid=10 spanning 0 until 4 headed by 2 parsed as (NP (: --) (NNP Thomas) (NNP Henry) (. .))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'that' 'ketchup' }
+4 5 | { 'others '' 'their' }
+3 2 | { 'attack' 'it' }
+(end gold clusters)

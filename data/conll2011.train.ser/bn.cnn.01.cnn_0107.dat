@@ -1,0 +1,52 @@
+---------gloss--------
+(0) [3m[33m{Slobodan Milosevic}[0m is back in the public eye . 
+(1) Today , [3m[33m{the former Yugoslav President}[0m made [3m[33m{his}[0m first public appearance since losing power . 
+(2) [3m[33m{Milosevic}[0m addressed a special meeting of the Socialist Party of Serbia in Belgrade . 
+(3) [3m[33m{He}[0m denounced [3m[32m{the democratic Yugoslav government that unseated him}[0m , calling the election a coup . 
+(4) [3m[33m{He}[0m also accused the West of trying to break up [3m[32m{the country}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0107); part 000
+sentences:
+SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0isbeVBZOPER0backbackRBOPER0ininINOPER0thetheDTOPER0publicpublicJJOPER0eyeeyeNNOPER0...OPER0(ROOT (S (NP (NNP Slobodan) (NNP Milosevic)) (VP (VBZ is) (PP (ADVP (RB back)) (IN in) (NP (DT the) (JJ public) (NN eye)))) (. .)))
+TodaytodayNNOPER0,,,OPER0thetheDTOPER0formerformerJJOPER0YugoslavyugoslavJJOPER0PresidentPresidentNNPOPER0mademakeVBDOPER0hishePRP$OPER0firstfirstJJOPER0publicpublicJJOPER0appearanceappearanceNNOPER0sincesinceINOPER0losingloseVBGOPER0powerpowerNNOPER0...OPER0(ROOT (S (NP (NN Today)) (, ,) (NP (DT the) (JJ former) (JJ Yugoslav) (NNP President)) (VP (VBD made) (NP (PRP$ his) (JJ first) (JJ public) (NN appearance)) (PP (IN since) (S (VP (VBG losing) (NP (NN power)))))) (. .)))
+MilosevicMilosevicNNPPERSONPER0addressedaddressVBDOPER0aaDTOPER0specialspecialJJOPER0meetingmeetingNNOPER0ofofINOPER0thetheDTORGPER0SocialistSocialistNNPORGPER0PartyPartyNNPORGPER0ofofINOPER0SerbiaSerbiaNNPGPEPER0ininINOPER0BelgradeBelgradeNNPGPEPER0...OPER0(ROOT (S (NP (NNP Milosevic)) (VP (VBD addressed) (NP (NP (DT a) (JJ special) (NN meeting)) (PP (IN of) (NP (DT the) (NNP Socialist) (NNP Party))) (PP (IN of) (NP (NNP Serbia)))) (PP (IN in) (NP (NNP Belgrade)))) (. .)))
+HehePRPOPER0denounceddenounceVBDOPER0thetheDTOPER0democraticdemocraticJJOPER0YugoslavyugoslavJJOPER0governmentgovernmentNNOPER0thatthatWDTOPER0unseatedunseatVBDOPER0himhePRPOPER0,,,OPER0callingcallVBGOPER0thetheDTOPER0electionelectionNNOPER0aaDTOPER0coupcoupNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD denounced) (NP (NP (DT the) (JJ democratic) (JJ Yugoslav) (NN government)) (SBAR (WHNP (WDT that)) (S (VP (VBD unseated) (NP (PRP him)))))) (, ,) (S (VP (VBG calling) (NP (DT the) (NN election)) (S (NP (DT a) (NN coup)))))) (. .)))
+HehePRPOPER0alsoalsoRBOPER0accusedaccuseVBDOPER0thetheDTOPER0WestWestNNPOPER0ofofINOPER0tryingtryVBGOPER0totoTOOPER0breakbreakVBOPER0upupRPOPER0thetheDTOPER0countrycountryNNOPER0...OPER0(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD accused) (NP (DT the) (NNP West)) (PP (IN of) (S (VP (VBG trying) (S (VP (TO to) (VP (VB break) (PRT (RP up)) (NP (DT the) (NN country))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (JJ former) (JJ Yugoslav) (NNP President))
+sid=1 spanning 7 until 8 headed by 7 parsed as his
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Milosevic))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 9 headed by 5 parsed as (NP (NP (DT the) (JJ democratic) (JJ Yugoslav) (NN government)) (SBAR (WHNP (WDT that)) (S (VP (VBD unseated) (NP (PRP him))))))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP him))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN country))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Slobodan) (NNP Milosevic))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ public) (NN eye))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (JJ former) (JJ Yugoslav) (NNP President))
+sid=1 spanning 7 until 11 headed by 10 parsed as (NP (PRP$ his) (JJ first) (JJ public) (NN appearance))
+sid=1 spanning 7 until 8 headed by 7 parsed as (PRP$ his)
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Milosevic))
+sid=2 spanning 2 until 11 headed by 4 parsed as (NP (NP (DT a) (JJ special) (NN meeting)) (PP (IN of) (NP (DT the) (NNP Socialist) (NNP Party))) (PP (IN of) (NP (NNP Serbia))))
+sid=2 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Socialist) (NNP Party))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Serbia))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Belgrade))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 9 headed by 5 parsed as (NP (NP (DT the) (JJ democratic) (JJ Yugoslav) (NN government)) (SBAR (WHNP (WDT that)) (S (VP (VBD unseated) (NP (PRP him))))))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP him))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN election))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT a) (NN coup))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP West))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN country))
+(end predicted mentions)
+---------gold clusters--------
+5 8 | { 'the democratic Yugoslav government that unseated him' 'the country' }
+1 4 2 3 7 6 0 | { 'the former Yugoslav President' 'He' 'his' 'Milosevic' 'He' 'him' 'Slobodan Milosevic' }
+(end gold clusters)

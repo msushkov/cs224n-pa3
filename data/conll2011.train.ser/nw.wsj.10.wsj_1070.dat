@@ -1,0 +1,34 @@
+---------gloss--------
+(0) [32m{THE AMERICAN CANCER SOCIETY 'S}[0m 1988 costs of fund raising and administration were $ 72.4 million , or 23.2 % of [32m{its}[0m revenue . 
+(1) A chart in last Friday 's special report on personal finance contained an incorrect figure supplied by NonProfit Times , a monthly newspaper covering charities . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1070); part 000
+sentences:
+THEtheDTORGPER0AMERICANAMERICANNNPORGPER0CANCERCANCERNNPORGPER0SOCIETYSOCIETYNNPORGPER0'SbeVBZOPER019881988CDDATEPER0costscostNNSOPER0ofofINOPER0fundfundNNOPER0raisingraisingNNOPER0andandCCOPER0administrationadministrationNNOPER0werebeVBDOPER0$$$MONEYPER072.472.4CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0ororCCOPER023.223.2CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0itsitsPRP$OPER0revenuerevenueNNOPER0...OPER0(ROOT (S (NP (DT THE) (NNP AMERICAN) (NNP CANCER) (NNP SOCIETY)) (VP (VBZ 'S) (SBAR (S (NP (NP (CD 1988) (NNS costs)) (PP (IN of) (NP (NML (NN fund) (NN raising)) (CC and) (NN administration)))) (VP (VBD were) (NP (NP (QP ($ $) (CD 72.4) (CD million))) (, ,) (CC or) (NP (NP (CD 23.2) (NN %)) (PP (IN of) (NP (PRP$ its) (NN revenue))))))))) (. .)))
+AaDTOPER0chartchartNNOPER0ininINOPER0lastlastJJDATEPER0FridayFridayNNPDATEPER0's'sPOSDATEPER0specialspecialJJOPER0reportreportNNOPER0ononINOPER0personalpersonalJJOPER0financefinanceNNOPER0containedcontainVBDOPER0anaDTOPER0incorrectincorrectJJOPER0figurefigureNNOPER0suppliedsupplyVBNOPER0bybyINOPER0NonProfitnonprofitJJORGPER0TimesTimesNNPORGPER0,,,OPER0aaDTOPER0monthlymonthlyJJDATEPER0newspapernewspaperNNOPER0coveringcoverVBGOPER0charitiescharityNNSOPER0...OPER0(ROOT (S (NP (NP (DT A) (NN chart)) (PP (IN in) (NP (NP (NP (JJ last) (NNP Friday) (POS 's)) (JJ special) (NN report)) (PP (IN on) (NP (JJ personal) (NN finance)))))) (VP (VBD contained) (NP (NP (DT an) (JJ incorrect) (NN figure)) (VP (VBN supplied) (PP (IN by) (NP (NP (JJ NonProfit) (NNP Times)) (, ,) (NP (NP (DT a) (JJ monthly) (NN newspaper)) (VP (VBG covering) (NP (NNS charities))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 3 parsed as (NP (DT THE) (NNP AMERICAN) (NNP CANCER) (NNP SOCIETY))
+sid=0 spanning 21 until 22 headed by 21 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT THE) (NNP AMERICAN) (NNP CANCER) (NNP SOCIETY))
+sid=0 spanning 5 until 12 headed by 6 parsed as (NP (NP (CD 1988) (NNS costs)) (PP (IN of) (NP (NML (NN fund) (NN raising)) (CC and) (NN administration))))
+sid=0 spanning 5 until 6 headed by 5 parsed as 1988
+sid=0 spanning 8 until 12 headed by 9 parsed as (NP (NML (NN fund) (NN raising)) (CC and) (NN administration))
+sid=0 spanning 21 until 23 headed by 22 parsed as (NP (PRP$ its) (NN revenue))
+sid=0 spanning 21 until 22 headed by 21 parsed as (PRP$ its)
+sid=1 spanning 0 until 11 headed by 1 parsed as (NP (NP (DT A) (NN chart)) (PP (IN in) (NP (NP (NP (JJ last) (NNP Friday) (POS 's)) (JJ special) (NN report)) (PP (IN on) (NP (JJ personal) (NN finance))))))
+sid=1 spanning 3 until 6 headed by 4 parsed as (NP (JJ last) (NNP Friday) (POS 's))
+sid=1 spanning 12 until 25 headed by 14 parsed as (NP (NP (DT an) (JJ incorrect) (NN figure)) (VP (VBN supplied) (PP (IN by) (NP (NP (JJ NonProfit) (NNP Times)) (, ,) (NP (NP (DT a) (JJ monthly) (NN newspaper)) (VP (VBG covering) (NP (NNS charities))))))))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (NP (JJ NonProfit) (NNP Times)) (, ,) (NP (NP (DT a) (JJ monthly) (NN newspaper)) (VP (VBG covering) (NP (NNS charities)))))
+sid=1 spanning 17 until 25 headed by 18 parsed as (NP (NP (JJ NonProfit) (NNP Times)) (, ,) (NP (NP (DT a) (JJ monthly) (NN newspaper)) (VP (VBG covering) (NP (NNS charities)))))
+sid=1 spanning 20 until 25 headed by 22 parsed as (NP (NP (DT a) (JJ monthly) (NN newspaper)) (VP (VBG covering) (NP (NNS charities))))
+sid=1 spanning 21 until 22 headed by 21 parsed as monthly
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNS charities))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'its' 'THE AMERICAN CANCER SOCIETY 'S' }
+(end gold clusters)

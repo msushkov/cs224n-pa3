@@ -1,0 +1,74 @@
+---------gloss--------
+(0) It is 11:00 a.m. on the East Coast . 
+(1) From the CNN Center in Atlanta , I 'm Fred Fred . 
+(2) A first here on `` CNN Live Today , '' a spiraling cycle of violence threatening the latest Middle East peace efforts . 
+(3) This morning [33m{Hamas}[0m vows revenge for [32m{an Israeli missile attack}[0m . 
+(4) Israeli hospital gun ships [32m{fired}[0m on a jeep in Gaza . 
+(5) [32m{The strike}[0m targeted a [33m{Hamas}[0m leader , and two other people were killed including a mother and bodyguard . 
+(6) [31m{Mike Hanna}[0m is tracking the latest developments from there . 
+(7) [31m{He}[0m joins us live with the details . 
+(8) [31m{Mike ?}[0m 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0392); part 000
+sentences:
+ItitPRPOPER0isbeVBZOPER011:0011:00CDTIMEPER0a.m.a.m.NNTIMEPER0ononINOPER0thetheDTLOCPER0EastEastNNPLOCPER0CoastCoastNNPLOCPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (CD 11:00) (NN a.m.)) (PP (IN on) (NP (DT the) (NNP East) (NNP Coast))))) (. .)))
+FromfromINOPER0thetheDTORGPER0CNNCNNNNPORGPER0CentercenterNNORGPER0ininINOPER0AtlantaAtlantaNNPGPEPER0,,,OPER0IIPRPOPER0'mbeVBPOPER0FredFredNNPPERSONPER0FredFredNNPPERSONPER0...OPER0(ROOT (S (PP (IN From) (NP (NP (DT the) (NNP CNN) (NN Center)) (PP (IN in) (NP (NNP Atlanta))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (NP (NNP Fred) (NNP Fred))) (. .)))
+AaDTOPER0firstfirstJJORDINALPER0herehereRBOPER0ononINOPER0``````OCNNCNNNNPWORK_OF_ARTPER1LiveLiveNNPWORK_OF_ARTPER1TodayTodayNNPWORK_OF_ARTPER1,,,OPER1''''''OPER0aaDTOPER0spiralingspiralingJJOPER0cyclecycleNNOPER0ofofINOPER0violenceviolenceNNOPER0threateningthreatenVBGOPER0thetheDTOPER0latestlatestJJSOPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0peacepeaceNNOPER0effortseffortNNSOPER0...OPER0(ROOT (FRAG (NP (DT A) (JJ first)) (ADVP (RB here)) (PP (IN on) (NP (`` ``) (NP (NNP CNN) (NNP Live) (NNP Today)) (, ,) ('' '') (NP (NP (DT a) (JJ spiraling) (NN cycle)) (PP (IN of) (NP (NP (NN violence)) (VP (VBG threatening) (NP (DT the) (JJS latest) (NML (NNP Middle) (NNP East)) (NN peace) (NNS efforts)))))))) (. .)))
+ThisthisDTTIMEPER0morningmorningNNTIMEPER0HamasHamasNNPORGPER0vowsvowVBZOPER0revengerevengeNNOPER0forforINOPER0anaDTOPER0IsraeliisraeliJJOPER0missilemissileNNOPER0attackattackNNOPER0...OPER0(ROOT (S (NP (DT This) (NN morning)) (NP (NNP Hamas)) (VP (VBZ vows) (NP (NP (NN revenge)) (PP (IN for) (NP (DT an) (JJ Israeli) (NN missile) (NN attack))))) (. .)))
+IsraeliisraeliJJOPER0hospitalhospitalNNOPER0gungunNNOPER0shipsshipNNSOPER0firedfireVBDOPER0ononINOPER0aaDTOPER0jeepjeepNNOPER0ininINOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (NP (JJ Israeli) (NN hospital) (NN gun) (NNS ships)) (VP (VBD fired) (PP (IN on) (NP (NP (DT a) (NN jeep)) (PP (IN in) (NP (NNP Gaza)))))) (. .)))
+ThetheDTOPER0strikestrikeNNOPER0targetedtargetVBDOPER0aaDTOPER0HamasHamasNNPORGPER0leaderleaderNNOPER0,,,OPER0andandCCOPER0twotwoCDCARDINALPER0otherotherJJOPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0includingincludeVBGOPER0aaDTOPER0mothermotherNNOPER0andandCCOPER0bodyguardbodyguardNNOPER0...OPER0(ROOT (S (S (NP (DT The) (NN strike)) (VP (VBD targeted) (NP (DT a) (NNP Hamas) (NN leader)))) (, ,) (CC and) (S (NP (CD two) (JJ other) (NNS people)) (VP (VBD were) (VP (VBN killed) (PP (VBG including) (NP (DT a) (NN mother) (CC and) (NN bodyguard)))))) (. .)))
+MikeMikeNNPPERSONPER0HannaHannaNNPPERSONPER0isbeVBZOPER0trackingtrackVBGOPER0thetheDTOPER0latestlatestJJSOPER0developmentsdevelopmentNNSOPER0fromfromINOPER0therethereRBOPER0...OPER0(ROOT (S (NP (NNP Mike) (NNP Hanna)) (VP (VBZ is) (VP (VBG tracking) (NP (NP (DT the) (JJS latest) (NNS developments)) (PP (IN from) (ADVP (RB there)))))) (. .)))
+HehePRPOPER0joinsjoinVBZOPER0uswePRPOPER0liveliveRBOPER0withwithINOPER0thetheDTOPER0detailsdetailNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ joins) (NP (PRP us)) (ADVP (RB live)) (PP (IN with) (NP (DT the) (NNS details)))) (. .)))
+MikeMikeNNPPERSONPER0??.OPER0(ROOT (NP (NNP Mike) (. ?)))
+<end>
+(end document)
+---------gold mentions--------
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Hamas))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (DT an) (JJ Israeli) (NN missile) (NN attack))
+sid=4 spanning 4 until 5 headed by 4 parsed as fired
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN strike))
+sid=5 spanning 4 until 5 headed by 4 parsed as Hamas
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mike) (NNP Hanna))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 0 until 2 headed by 0 parsed as (NP (NNP Mike) (. ?))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=0 spanning 2 until 8 headed by 3 parsed as (NP (NP (CD 11:00) (NN a.m.)) (PP (IN on) (NP (DT the) (NNP East) (NNP Coast))))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP East) (NNP Coast))
+sid=1 spanning 1 until 6 headed by 3 parsed as (NP (NP (DT the) (NNP CNN) (NN Center)) (PP (IN in) (NP (NNP Atlanta))))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP Atlanta))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP I))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Fred) (NNP Fred))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT A) (JJ first))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (`` ``) (NP (NNP CNN) (NNP Live) (NNP Today)) (, ,) ('' '') (NP (NP (DT a) (JJ spiraling) (NN cycle)) (PP (IN of) (NP (NP (NN violence)) (VP (VBG threatening) (NP (DT the) (JJS latest) (NML (NNP Middle) (NNP East)) (NN peace) (NNS efforts)))))))
+sid=2 spanning 4 until 22 headed by 7 parsed as (NP (`` ``) (NP (NNP CNN) (NNP Live) (NNP Today)) (, ,) ('' '') (NP (NP (DT a) (JJ spiraling) (NN cycle)) (PP (IN of) (NP (NP (NN violence)) (VP (VBG threatening) (NP (DT the) (JJS latest) (NML (NNP Middle) (NNP East)) (NN peace) (NNS efforts)))))))
+sid=2 spanning 10 until 22 headed by 12 parsed as (NP (NP (DT a) (JJ spiraling) (NN cycle)) (PP (IN of) (NP (NP (NN violence)) (VP (VBG threatening) (NP (DT the) (JJS latest) (NML (NNP Middle) (NNP East)) (NN peace) (NNS efforts))))))
+sid=2 spanning 14 until 22 headed by 14 parsed as (NP (NP (NN violence)) (VP (VBG threatening) (NP (DT the) (JJS latest) (NML (NNP Middle) (NNP East)) (NN peace) (NNS efforts))))
+sid=2 spanning 16 until 22 headed by 21 parsed as (NP (DT the) (JJS latest) (NML (NNP Middle) (NNP East)) (NN peace) (NNS efforts))
+sid=2 spanning 18 until 20 headed by 19 parsed as East
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT This) (NN morning))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Hamas))
+sid=3 spanning 4 until 10 headed by 4 parsed as (NP (NP (NN revenge)) (PP (IN for) (NP (DT an) (JJ Israeli) (NN missile) (NN attack))))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (DT an) (JJ Israeli) (NN missile) (NN attack))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (JJ Israeli) (NN hospital) (NN gun) (NNS ships))
+sid=4 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT a) (NN jeep)) (PP (IN in) (NP (NNP Gaza))))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (NNP Gaza))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN strike))
+sid=5 spanning 3 until 6 headed by 5 parsed as (NP (DT a) (NNP Hamas) (NN leader))
+sid=5 spanning 4 until 5 headed by 4 parsed as Hamas
+sid=5 spanning 8 until 11 headed by 10 parsed as (NP (CD two) (JJ other) (NNS people))
+sid=5 spanning 14 until 18 headed by 15 parsed as (NP (DT a) (NN mother) (CC and) (NN bodyguard))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mike) (NNP Hanna))
+sid=6 spanning 4 until 9 headed by 6 parsed as (NP (NP (DT the) (JJS latest) (NNS developments)) (PP (IN from) (ADVP (RB there))))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (PRP us))
+sid=7 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS details))
+sid=8 spanning 0 until 2 headed by 0 parsed as (NP (NNP Mike) (. ?))
+(end predicted mentions)
+---------gold clusters--------
+7 6 5 | { 'Mike ?' 'He' 'Mike Hanna' }
+3 2 1 | { 'The strike' 'fired' 'an Israeli missile attack' }
+0 4 | { 'Hamas' 'Hamas' }
+(end gold clusters)

@@ -1,0 +1,63 @@
+---------gloss--------
+(0) [1m[33m{Israel 's Labor Party}[0m has [1m[31m{named}[0m [1m[34m{Ehud Barak}[0m [1m[33m{its}[0m candidate for [36m{Prime Minister}[0m . 
+(1) Hours before the [1m[31m{announcement}[0m , [1m[34m{Barak}[0m [1m[35m{tendered}[0m [1m[34m{his}[0m resignation from [36m{the post}[0m , [1m[35m{a move that forces a special election within 60 days}[0m . 
+(2) [1m[34m{He}[0m 'll remain in office until [1m[32m{that election}[0m is held . 
+(3) The opposition Likud party has not yet named a candidate for [36m{Prime Minister}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0136); part 000
+sentences:
+IsraelIsraelNNPGPEPER0's'sPOSOPER0LaborLaborNNPORGPER0PartyPartyNNPORGPER0hashaveVBZOPER0namednameVBNOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0itsitsPRP$OPER0candidatecandidateNNOPER0forforINOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0...OPER0(ROOT (S (NP (NP (NNP Israel) (POS 's)) (NNP Labor) (NNP Party)) (VP (VBZ has) (VP (VBN named) (NP (NNP Ehud) (NNP Barak)) (NP (NP (PRP$ its) (NN candidate)) (PP (IN for) (NP (NNP Prime) (NNP Minister)))))) (. .)))
+HourshourNNSTIMEPER0beforebeforeINOPER0thetheDTOPER0announcementannouncementNNOPER0,,,OPER0BarakBarakNNPPERSONPER0tenderedtenderVBDOPER0hishePRP$OPER0resignationresignationNNOPER0fromfromINOPER0thetheDTOPER0postpostNNOPER0,,,OPER0aaDTOPER0movemoveNNOPER0thatthatWDTOPER0forcesforceVBZOPER0aaDTOPER0specialspecialJJOPER0electionelectionNNOPER0withinwithinINOPER06060CDDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (PP (NP (NNS Hours)) (IN before) (NP (DT the) (NN announcement))) (, ,) (NP (NNP Barak)) (VP (VBD tendered) (NP (PRP$ his) (NN resignation)) (PP (IN from) (NP (DT the) (NN post))) (, ,) (NP (NP (DT a) (NN move)) (SBAR (WHNP (WDT that)) (S (VP (VBZ forces) (NP (NP (DT a) (JJ special) (NN election)) (PP (IN within) (NP (CD 60) (NNS days))))))))) (. .)))
+HehePRPOPER0'll'llMDOPER0remainremainVBOPER0ininINOPER0officeofficeNNOPER0untiluntilINOPER0thatthatDTOPER0electionelectionNNOPER0isbeVBZOPER0heldholdVBNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (MD 'll) (VP (VB remain) (PP (IN in) (NP (NN office))) (SBAR (IN until) (S (NP (DT that) (NN election)) (VP (VBZ is) (VP (VBN held))))))) (. .)))
+ThetheDTOPER0oppositionoppositionNNOPER0LikudLikudNNPORGPER0partypartyNNPOPER0hashaveVBZOPER0notnotRBOPER0yetyetRBOPER0namednameVBNOPER0aaDTOPER0candidatecandidateNNOPER0forforINOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0...OPER0(ROOT (S (NP (DT The) (NN opposition) (NNP Likud) (NNP party)) (VP (VBZ has) (RB not) (ADVP (RB yet)) (VP (VBN named) (S (NP (NP (DT a) (NN candidate)) (PP (IN for) (NP (NNP Prime) (NNP Minister))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Israel) (POS 's)) (NNP Labor) (NNP Party))
+sid=0 spanning 5 until 6 headed by 5 parsed as named
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 9 headed by 8 parsed as its
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (NNP Prime) (NNP Minister))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (DT the) (NN announcement))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP Barak))
+sid=1 spanning 6 until 7 headed by 6 parsed as tendered
+sid=1 spanning 7 until 8 headed by 7 parsed as his
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN post))
+sid=1 spanning 13 until 23 headed by 14 parsed as (NP (NP (DT a) (NN move)) (SBAR (WHNP (WDT that)) (S (VP (VBZ forces) (NP (NP (DT a) (JJ special) (NN election)) (PP (IN within) (NP (CD 60) (NNS days))))))))
+sid=1 spanning 17 until 20 headed by 19 parsed as (NP (NP (DT a) (JJ special) (NN election)) (PP (IN within) (NP (CD 60) (NNS days))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT that) (NN election))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (NNP Prime) (NNP Minister))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Israel) (POS 's)) (NNP Labor) (NNP Party))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Israel) (POS 's))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 13 headed by 9 parsed as (NP (NP (PRP$ its) (NN candidate)) (PP (IN for) (NP (NNP Prime) (NNP Minister))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (PRP$ its)
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (NNP Prime) (NNP Minister))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Hours))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN announcement))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP Barak))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ his) (NN resignation))
+sid=1 spanning 7 until 8 headed by 7 parsed as (PRP$ his)
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN post))
+sid=1 spanning 13 until 23 headed by 14 parsed as (NP (NP (DT a) (NN move)) (SBAR (WHNP (WDT that)) (S (VP (VBZ forces) (NP (NP (DT a) (JJ special) (NN election)) (PP (IN within) (NP (CD 60) (NNS days))))))))
+sid=1 spanning 17 until 23 headed by 19 parsed as (NP (NP (DT a) (JJ special) (NN election)) (PP (IN within) (NP (CD 60) (NNS days))))
+sid=1 spanning 21 until 23 headed by 22 parsed as (NP (CD 60) (NNS days))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT that) (NN election))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NN opposition) (NNP Likud) (NNP party))
+sid=3 spanning 2 until 3 headed by 2 parsed as Likud
+sid=3 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT a) (NN candidate)) (PP (IN for) (NP (NNP Prime) (NNP Minister))))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (NNP Prime) (NNP Minister))
+(end predicted mentions)
+---------gold clusters--------
+14 9 4 | { 'Prime Minister' 'the post' 'Prime Minister' }
+5 1 | { 'announcement' 'named' }
+11 13 | { 'a special election' 'that election' }
+3 0 | { 'its' 'Israel 's Labor Party' }
+12 8 6 2 | { 'He' 'his' 'Barak' 'Ehud Barak' }
+10 7 | { 'a move that forces a special election within 60 days' 'tendered' }
+(end gold clusters)

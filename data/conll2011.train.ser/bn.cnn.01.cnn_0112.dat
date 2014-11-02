@@ -1,0 +1,61 @@
+---------gloss--------
+(0) [4m[31m{A United Nations report on AIDS}[0m finds the number of people infected with [4m[34m{HIV}[0m worldwide is growing , but there 's a decrease of new cases in Sub-saharan Africa . 
+(1) According to [4m[31m{the report}[0m , there are [4m[33m{36.1 million people around the world}[0m 25 million of [4m[33m{those cases}[0m can be found in Africa . 
+(2) About 5.3 million were infected this year . 
+(3) Women account for 47 % of [4m[34m{HIV}[0m - positive adults . 
+(4) [4m[34m{The disease}[0m is spread mainly through sex and needle sharing . 
+(5) [4m[31m{The report}[0m says [4m[32m{the world 's}[0m richest countries are becoming complacent because of the treatments available . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0112); part 000
+sentences:
+AaDTOPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0reportreportNNOPER0ononINOPER0AIDSAIDSNNPOPER0findsfindVBZOPER0thetheDTOPER0numbernumberNNOPER0ofofINOPER0peoplepeopleNNSOPER0infectedinfectVBNOPER0withwithINOPER0HIVHIVNNPOPER0worldwideworldwideRBOPER0isbeVBZOPER0growinggrowVBGOPER0,,,OPER0butbutCCOPER0therethereEXOPER0'sbeVBZOPER0aaDTOPER0decreasedecreaseNNOPER0ofofINOPER0newnewJJOPER0casescaseNNSOPER0ininINOPER0Sub-saharanSub-saharanNNPGPEPER0AfricaAfricaNNPGPEPER0...OPER0(ROOT (S (S (NP (NP (DT A) (NML (NNP United) (NNP Nations)) (NN report)) (PP (IN on) (NP (NNP AIDS)))) (VP (VBZ finds) (SBAR (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBN infected) (PP (IN with) (NP (NNP HIV)))))) (ADVP (RB worldwide))) (VP (VBZ is) (VP (VBG growing))))))) (, ,) (CC but) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN decrease)) (PP (IN of) (NP (NP (JJ new) (NNS cases)) (PP (IN in) (NP (NNP Sub-saharan) (NNP Africa)))))))) (. .)))
+AccordingaccordVBGOPER0totoINOPER0thetheDTOPER0reportreportNNOPER0,,,OPER0therethereEXOPER0arebeVBPOPER036.136.1CDCARDINALPER0millionmillionCDCARDINALPER0peoplepeopleNNSOPER0aroundaroundINOPER0thetheDTOPER0worldworldNNOPER02525CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0thosethoseDTOPER0casescaseNNSOPER0cancanMDOPER0bebeVBOPER0foundfindVBNOPER0ininINOPER0AfricaAfricaNNPLOCPER0...OPER0(ROOT (S (PP (VBG According) (PP (IN to) (NP (DT the) (NN report)))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (NP (QP (CD 36.1) (CD million)) (NNS people)) (PP (IN around) (NP (DT the) (NN world)))) (SBAR (S (NP (NP (QP (CD 25) (CD million))) (PP (IN of) (NP (DT those) (NNS cases)))) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (NNP Africa)))))))))) (. .)))
+AboutaboutRBCARDINALPER05.35.3CDCARDINALPER0millionmillionCDCARDINALPER0werebeVBDOPER0infectedinfectVBNOPER0thisthisDTDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (QP (RB About) (CD 5.3) (CD million))) (VP (VBD were) (VP (VBN infected) (NP (DT this) (NN year)))) (. .)))
+WomenwomanNNSOPER0accountaccountVBPOPER0forforINOPER04747CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0HIVHIVNNPOPER0--HYPHOPER0positivepositiveJJOPER0adultsadultNNSOPER0...OPER0(ROOT (S (NP (NNS Women)) (VP (VBP account) (PP (IN for) (NP (NP (CD 47) (NN %)) (PP (IN of) (NP (ADJP (NNP HIV) (HYPH -) (JJ positive)) (NNS adults)))))) (. .)))
+ThetheDTOPER0diseasediseaseNNOPER0isbeVBZOPER0spreadspreadVBNOPER0mainlymainlyRBOPER0throughthroughINOPER0sexsexNNOPER0andandCCOPER0needleneedleNNOPER0sharingsharingNNOPER0...OPER0(ROOT (S (NP (DT The) (NN disease)) (VP (VBZ is) (VP (VBN spread) (ADVP (RB mainly)) (PP (IN through) (NP (NML (NN sex) (CC and) (NN needle)) (NN sharing))))) (. .)))
+ThetheDTOPER0reportreportNNOPER0sayssayVBZOPER0thetheDTOPER0worldworldNNOPER0's'sPOSOPER0richestrichestJJSOPER0countriescountryNNSOPER0arebeVBPOPER0becomingbecomeVBGOPER0complacentcomplacentJJOPER0becausebecauseINOPER0ofofINOPER0thetheDTOPER0treatmentstreatmentNNSOPER0availableavailableJJOPER0...OPER0(ROOT (S (NP (DT The) (NN report)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (NN world) (POS 's)) (JJS richest) (NNS countries)) (VP (VBP are) (VP (VBG becoming) (ADJP (JJ complacent)) (PP (IN because) (IN of) (NP (NP (DT the) (NNS treatments)) (ADJP (JJ available))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 3 parsed as (NP (NP (DT A) (NML (NNP United) (NNP Nations)) (NN report)) (PP (IN on) (NP (NNP AIDS))))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP HIV))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN report))
+sid=1 spanning 7 until 13 headed by 9 parsed as (NP (NP (NP (QP (CD 36.1) (CD million)) (NNS people)) (PP (IN around) (NP (DT the) (NN world)))) (SBAR (S (NP (NP (QP (CD 25) (CD million))) (PP (IN of) (NP (DT those) (NNS cases)))) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (NNP Africa)))))))))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN world))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT those) (NNS cases))
+sid=3 spanning 6 until 7 headed by 6 parsed as HIV
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN disease))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN report))
+sid=5 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NN world) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 3 parsed as (NP (NP (DT A) (NML (NNP United) (NNP Nations)) (NN report)) (PP (IN on) (NP (NNP AIDS))))
+sid=0 spanning 1 until 3 headed by 2 parsed as Nations
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP AIDS))
+sid=0 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBN infected) (PP (IN with) (NP (NNP HIV)))))) (ADVP (RB worldwide)))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP HIV))
+sid=0 spanning 21 until 29 headed by 22 parsed as (NP (NP (DT a) (NN decrease)) (PP (IN of) (NP (NP (JJ new) (NNS cases)) (PP (IN in) (NP (NNP Sub-saharan) (NNP Africa))))))
+sid=0 spanning 24 until 29 headed by 25 parsed as (NP (NP (JJ new) (NNS cases)) (PP (IN in) (NP (NNP Sub-saharan) (NNP Africa))))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (NNP Sub-saharan) (NNP Africa))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN report))
+sid=1 spanning 7 until 23 headed by 9 parsed as (NP (NP (NP (QP (CD 36.1) (CD million)) (NNS people)) (PP (IN around) (NP (DT the) (NN world)))) (SBAR (S (NP (NP (QP (CD 25) (CD million))) (PP (IN of) (NP (DT those) (NNS cases)))) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (NNP Africa)))))))))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN world))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (NNP Africa))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (QP (RB About) (CD 5.3) (CD million)))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT this) (NN year))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Women))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (ADJP (NNP HIV) (HYPH -) (JJ positive)) (NNS adults))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN disease))
+sid=4 spanning 6 until 10 headed by 9 parsed as (NP (NML (NN sex) (CC and) (NN needle)) (NN sharing))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN report))
+sid=5 spanning 3 until 8 headed by 7 parsed as (NP (NP (DT the) (NN world) (POS 's)) (JJS richest) (NNS countries))
+sid=5 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NN world) (POS 's))
+sid=5 spanning 13 until 16 headed by 14 parsed as (NP (NP (DT the) (NNS treatments)) (ADJP (JJ available)))
+(end predicted mentions)
+---------gold clusters--------
+0 2 8 | { 'A United Nations report on AIDS' 'the report' 'The report' }
+9 4 | { 'the world 's' 'the world' }
+3 5 | { '36.1 million people around the world' 'those cases' }
+1 6 7 | { 'HIV' 'HIV' 'The disease' }
+(end gold clusters)

@@ -1,0 +1,58 @@
+---------gloss--------
+(0) Human rights groups are criticizing [36m{an agreement between the United Nations and China on human rights co-operation}[0m saying [36m{it}[0m lacks the substance to bring about any real change . 
+(1) [1m[31m{Un}[0m Human Rights Chief Mary Robinson signed [36m{the agreement with Chinese officials}[0m in Beijing on Monday . 
+(2) [1m[32m{Ms. Robinson}[0m called [36m{it}[0m a significant move that brings [1m[33m{China}[0m closer to ratifying two international rights treaties ; the [1m[31m{UN}[0m Covenant on Economic Social and Cultural Rights , as well as a covenant on political and civil rights . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0112); part 000
+sentences:
+HumanhumanJJOPER0rightsrightsNNSOPER0groupsgroupNNSOPER0arebeVBPOPER0criticizingcriticizeVBGOPER0anaDTOPER0agreementagreementNNOPER0betweenbetweenINOPER0thetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0andandCCOPER0ChinaChinaNNPGPEPER0ononINOPER0humanhumanJJOPER0rightsrightsNNSOPER0co-operationco-operationNNOPER0sayingsayVBGOPER0ititPRPOPER0lackslackVBZOPER0thetheDTOPER0substancesubstanceNNOPER0totoTOOPER0bringbringVBOPER0aboutaboutRPOPER0anyanyDTOPER0realrealJJOPER0changechangeNNOPER0...OPER0(ROOT (S (NP (NML (JJ Human) (NNS rights)) (NNS groups)) (VP (VBP are) (VP (VBG criticizing) (NP (NP (DT an) (NN agreement)) (PP (IN between) (NP (NP (DT the) (NNP United) (NNP Nations)) (CC and) (NP (NNP China)))) (PP (IN on) (NP (NML (JJ human) (NNS rights)) (NN co-operation)))) (S (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (VBZ lacks) (NP (NP (DT the) (NN substance)) (SBAR (S (VP (TO to) (VP (VB bring) (PRT (RP about)) (NP (DT any) (JJ real) (NN change)))))))))))))) (. .)))
+UnUnNNPORGPER0HumanHumanNNPORGPER0RightsRightsNNPSORGPER0ChiefChiefNNPOPER0MaryMaryNNPPERSONPER0RobinsonRobinsonNNPPERSONPER0signedsignVBDOPER0thetheDTOPER0agreementagreementNNOPER0withwithINOPER0ChinesechineseJJOPER0officialsofficialNNSOPER0ininINOPER0BeijingBeijingNNPGPEPER0ononINOPER0MondayMondayNNPDATEPER0...OPER0(ROOT (S (NP (NML (NNP Un) (NML (NNP Human) (NNPS Rights)) (NNP Chief)) (NNP Mary) (NNP Robinson)) (VP (VBD signed) (NP (NP (DT the) (NN agreement)) (PP (IN with) (NP (JJ Chinese) (NNS officials)))) (PP (IN in) (NP (NNP Beijing))) (PP (IN on) (NP (NNP Monday)))) (. .)))
+Ms.Ms.NNPOPER0RobinsonRobinsonNNPPERSONPER0calledcallVBDOPER0ititPRPOPER0aaDTOPER0significantsignificantJJOPER0movemoveNNOPER0thatthatWDTOPER0bringsbringVBZOPER0ChinaChinaNNPGPEPER0closercloserRBROPER0totoINOPER0ratifyingratifyVBGOPER0twotwoCDCARDINALPER0internationalinternationalJJOPER0rightsrightsNNSOPER0treatiestreatyNNSOPER0;;:OPER0thetheDTOPER0UNUNNNPORGPER0CovenantCovenantNNPORGPER0ononINORGPER0EconomicEconomicNNPORGPER0SocialSocialNNPORGPER0andandCCOPER0CulturalCulturalNNPOPER0RightsRightsNNPSOPER0,,,OPER0asasRBOPER0wellwellRBOPER0asasINOPER0aaDTOPER0covenantcovenantNNOPER0ononINOPER0politicalpoliticalJJOPER0andandCCOPER0civilcivilJJOPER0rightsrightsNNSOPER0...OPER0(ROOT (S (NP (NNP Ms.) (NNP Robinson)) (VP (VBD called) (NP (PRP it)) (S (NP (NP (DT a) (JJ significant) (NN move)) (SBAR (WHNP (WDT that)) (S (VP (VBZ brings) (NP (NNP China)) (ADVP (RBR closer) (PP (IN to) (S (VP (VBG ratifying) (NP (CD two) (NML (JJ international) (NNS rights)) (NNS treaties)))))) (: ;) (NP (NP (NP (DT the) (NNP UN) (NNP Covenant)) (PP (IN on) (NP (NML (NNP Economic) (NNP Social) (CC and) (NNP Cultural)) (NNPS Rights)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT a) (NN covenant)) (PP (IN on) (NP (ADJP (JJ political) (CC and) (JJ civil)) (NNS rights))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 17 headed by 6 parsed as (NP (NP (DT an) (NN agreement)) (PP (IN between) (NP (NP (DT the) (NNP United) (NNP Nations)) (CC and) (NP (NNP China)))) (PP (IN on) (NP (NML (JJ human) (NNS rights)) (NN co-operation))))
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (NP (DT the) (NNP United) (NNP Nations)) (CC and) (NP (NNP China)))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP China))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (NML (NNP Un) (NML (NNP Human) (NNPS Rights)) (NNP Chief)) (NNP Mary) (NNP Robinson))
+sid=1 spanning 0 until 1 headed by 0 parsed as Un
+sid=1 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT the) (NN agreement)) (PP (IN with) (NP (JJ Chinese) (NNS officials))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ms.) (NNP Robinson))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP China))
+sid=2 spanning 19 until 20 headed by 19 parsed as UN
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NML (JJ Human) (NNS rights)) (NNS groups))
+sid=0 spanning 5 until 17 headed by 6 parsed as (NP (NP (DT an) (NN agreement)) (PP (IN between) (NP (NP (DT the) (NNP United) (NNP Nations)) (CC and) (NP (NNP China)))) (PP (IN on) (NP (NML (JJ human) (NNS rights)) (NN co-operation))))
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (NP (DT the) (NNP United) (NNP Nations)) (CC and) (NP (NNP China)))
+sid=0 spanning 8 until 13 headed by 10 parsed as (NP (NP (DT the) (NNP United) (NNP Nations)) (CC and) (NP (NNP China)))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP China))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=0 spanning 20 until 28 headed by 21 parsed as (NP (NP (DT the) (NN substance)) (SBAR (S (VP (TO to) (VP (VB bring) (PRT (RP about)) (NP (DT any) (JJ real) (NN change)))))))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (NML (NNP Un) (NML (NNP Human) (NNPS Rights)) (NNP Chief)) (NNP Mary) (NNP Robinson))
+sid=1 spanning 0 until 3 headed by 2 parsed as Rights
+sid=1 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT the) (NN agreement)) (PP (IN with) (NP (JJ Chinese) (NNS officials))))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (JJ Chinese) (NNS officials))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NNP Beijing))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Monday))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ms.) (NNP Robinson))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=2 spanning 4 until 38 headed by 6 parsed as (NP (NP (DT a) (JJ significant) (NN move)) (SBAR (WHNP (WDT that)) (S (VP (VBZ brings) (NP (NNP China)) (ADVP (RBR closer) (PP (IN to) (S (VP (VBG ratifying) (NP (CD two) (NML (JJ international) (NNS rights)) (NNS treaties)))))) (: ;) (NP (NP (NP (DT the) (NNP UN) (NNP Covenant)) (PP (IN on) (NP (NML (NNP Economic) (NNP Social) (CC and) (NNP Cultural)) (NNPS Rights)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT a) (NN covenant)) (PP (IN on) (NP (ADJP (JJ political) (CC and) (JJ civil)) (NNS rights)))))))))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP China))
+sid=2 spanning 13 until 17 headed by 16 parsed as (NP (CD two) (NML (JJ international) (NNS rights)) (NNS treaties))
+sid=2 spanning 19 until 24 headed by 20 parsed as (NP (NP (NP (DT the) (NNP UN) (NNP Covenant)) (PP (IN on) (NP (NML (NNP Economic) (NNP Social) (CC and) (NNP Cultural)) (NNPS Rights)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT a) (NN covenant)) (PP (IN on) (NP (ADJP (JJ political) (CC and) (JJ civil)) (NNS rights)))))
+sid=2 spanning 18 until 38 headed by 20 parsed as (NP (NP (NP (DT the) (NNP UN) (NNP Covenant)) (PP (IN on) (NP (NML (NNP Economic) (NNP Social) (CC and) (NNP Cultural)) (NNPS Rights)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT a) (NN covenant)) (PP (IN on) (NP (ADJP (JJ political) (CC and) (JJ civil)) (NNS rights)))))
+sid=2 spanning 18 until 27 headed by 20 parsed as (NP (NP (DT the) (NNP UN) (NNP Covenant)) (PP (IN on) (NP (NML (NNP Economic) (NNP Social) (CC and) (NNP Cultural)) (NNPS Rights))))
+sid=2 spanning 22 until 27 headed by 26 parsed as (NP (NML (NNP Economic) (NNP Social) (CC and) (NNP Cultural)) (NNPS Rights))
+sid=2 spanning 31 until 38 headed by 32 parsed as (NP (NP (DT a) (NN covenant)) (PP (IN on) (NP (ADJP (JJ political) (CC and) (JJ civil)) (NNS rights))))
+sid=2 spanning 34 until 38 headed by 37 parsed as (NP (ADJP (JJ political) (CC and) (JJ civil)) (NNS rights))
+(end predicted mentions)
+---------gold clusters--------
+3 8 0 6 | { 'it' 'it' 'an agreement between the United Nations and China on human rights co-operation' 'the agreement with Chinese officials' }
+1 5 10 | { 'the United Nations' 'Un' 'UN' }
+7 4 | { 'Ms. Robinson' 'Un Human Rights Chief Mary Robinson' }
+2 9 | { 'China' 'China' }
+(end gold clusters)

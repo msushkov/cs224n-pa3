@@ -1,0 +1,131 @@
+---------gloss--------
+(0) [3m[31m{The nations of southern Africa}[0m know a lot about managing elephants ; [3m[31m{their}[0m herds are thriving . 
+(1) But [1m[31m{the nations of Europe and North America}[0m have decided [1m[31m{they}[0m know better . 
+(2) At this week 's U.N. conference in Lausanne , [1m[31m{they}[0m imposed [3m[32m{a global ivory ban that seeks to overturn local policies}[0m . 
+(3) A Zimbabwean delegate argued that [3m[32m{the ban}[0m would `` guarantee the extinction of the elephant . '' 
+(4) Legitimate ranchers , who have an interest in preserving [1m[36m{the herds}[0m , would go out of business . 
+(5) Poachers would control the underground trade . 
+(6) Many delegates were willing to craft [1m[34m{a compromise}[0m , but U.S. delegate Constance Harriman and others thundered [1m[34m{that}[0m down . 
+(7) The Greens from the First World wanted a morality play , not a negotiation . 
+(8) Fortunately , [3m[31m{the nations of southern Africa}[0m have n't totally surrendered [3m[31m{their}[0m sovereignty . 
+(9) [1m[33m{Five countries}[0m announced [1m[33m{they}[0m would not honor what one Zimbabwean delegate wryly called [3m[32m{the `` made in Switzerland '' solution}[0m . 
+(10) In fact , [1m[33m{they}[0m seemed a mite resentful . 
+(11) The director of Zimbabwe 's Wildlife Department [36m{described}[0m [1m[35m{American conservationists}[0m as `` fat little puppies from urban environments who do n't know a thing about Africa . '' 
+(12) [36m{That}[0m 's not fair ; [1m[35m{they}[0m 're not all fat . 
+(end gloss)
+---------document--------
+(nw/wsj/20/wsj_2047); part 000
+sentences:
+ThetheDTOPER0nationsnationNNSOPER0ofofINOPER0southernsouthernJJOPER0AfricaAfricaNNPLOCPER0knowknowVBPOPER0aaDTOPER0lotlotNNOPER0aboutaboutINOPER0managingmanageVBGOPER0elephantselephantNNSOPER0;;:OPER0theirtheyPRP$OPER0herdsherdNNSOPER0arebeVBPOPER0thrivingthriveVBGOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (NNS nations)) (PP (IN of) (NP (JJ southern) (NNP Africa)))) (VP (VBP know) (NP (NP (DT a) (NN lot)) (PP (IN about) (NP (VBG managing) (NNS elephants)))))) (: ;) (S (NP (PRP$ their) (NNS herds)) (VP (VBP are) (VP (VBG thriving)))) (. .)))
+ButbutCCOPER0thetheDTOPER0nationsnationNNSOPER0ofofINOPER0EuropeEuropeNNPLOCPER0andandCCOPER0NorthNorthNNPLOCPER0AmericaAmericaNNPLOCPER0havehaveVBPOPER0decideddecideVBNOPER0theytheyPRPOPER0knowknowVBPOPER0betterbetterRBROPER0...OPER0(ROOT (S (CC But) (NP (NP (DT the) (NNS nations)) (PP (IN of) (NP (NP (NNP Europe)) (CC and) (NP (NNP North) (NNP America))))) (VP (VBP have) (VP (VBN decided) (SBAR (S (NP (PRP they)) (VP (VBP know) (ADVP (RBR better))))))) (. .)))
+AtatINOPER0thisthisDTOPER0weekweekNNDATEPER0's'sPOSOPER0U.N.U.N.NNPORGPER0conferenceconferenceNNOPER0ininINOPER0LausanneLausanneNNPGPEPER0,,,OPER0theytheyPRPOPER0imposedimposeVBDOPER0aaDTOPER0globalglobalJJOPER0ivoryivoryNNOPER0banbanNNOPER0thatthatWDTOPER0seeksseekVBZOPER0totoTOOPER0overturnoverturnVBOPER0locallocalJJOPER0policiespolicyNNSOPER0...OPER0(ROOT (S (PP (IN At) (NP (NP (NP (DT this) (NN week) (POS 's)) (NNP U.N.) (NN conference)) (PP (IN in) (NP (NNP Lausanne))))) (, ,) (NP (PRP they)) (VP (VBD imposed) (NP (NP (DT a) (JJ global) (NN ivory) (NN ban)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seeks) (S (VP (TO to) (VP (VB overturn) (NP (JJ local) (NNS policies)))))))))) (. .)))
+AaDTOPER0ZimbabweanZimbabweanNNPOPER0delegatedelegateNNOPER0arguedargueVBDOPER0thatthatINOPER0thetheDTOPER0banbanNNOPER0wouldwouldMDOPER0``````OguaranteeguaranteeVBOPER1thetheDTOPER1extinctionextinctionNNOPER1ofofINOPER1thetheDTOPER1elephantelephantNNOPER1...OPER1''''''OPER0(ROOT (S (NP (DT A) (NNP Zimbabwean) (NN delegate)) (VP (VBD argued) (SBAR (IN that) (S (NP (DT the) (NN ban)) (VP (MD would) (`` ``) (VP (VB guarantee) (NP (NP (DT the) (NN extinction)) (PP (IN of) (NP (DT the) (NN elephant))))))))) (. .) ('' '')))
+LegitimatelegitimateJJOPER0ranchersrancherNNSOPER0,,,OPER0whowhoWPOPER0havehaveVBPOPER0anaDTOPER0interestinterestNNOPER0ininINOPER0preservingpreserveVBGOPER0thetheDTOPER0herdsherdNNSOPER0,,,OPER0wouldwouldMDOPER0gogoVBOPER0outoutINOPER0ofofINOPER0businessbusinessNNOPER0...OPER0(ROOT (S (NP (NP (JJ Legitimate) (NNS ranchers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP have) (NP (NP (DT an) (NN interest)) (PP (IN in) (S (VP (VBG preserving) (NP (DT the) (NNS herds))))))))) (, ,)) (VP (MD would) (VP (VB go) (PP (IN out) (PP (IN of) (NP (NN business)))))) (. .)))
+PoacherspoacherNNSOPER0wouldwouldMDOPER0controlcontrolVBOPER0thetheDTOPER0undergroundundergroundJJOPER0tradetradeNNOPER0...OPER0(ROOT (S (NP (NNS Poachers)) (VP (MD would) (VP (VB control) (NP (DT the) (JJ underground) (NN trade)))) (. .)))
+ManymanyJJOPER0delegatesdelegateNNSOPER0werebeVBDOPER0willingwillingJJOPER0totoTOOPER0craftcraftVBOPER0aaDTOPER0compromisecompromiseNNOPER0,,,OPER0butbutCCOPER0U.S.U.S.NNPGPEPER0delegatedelegateNNOPER0ConstanceConstanceNNPPERSONPER0HarrimanHarrimanNNPPERSONPER0andandCCOPER0othersotherNNSOPER0thunderedthunderVBDOPER0thatthatRBOPER0downdownRBOPER0...OPER0(ROOT (S (S (NP (JJ Many) (NNS delegates)) (VP (VBD were) (ADJP (JJ willing) (S (VP (TO to) (VP (VB craft) (NP (DT a) (NN compromise)))))))) (, ,) (CC but) (S (NP (NP (NML (NNP U.S.) (NN delegate)) (NNP Constance) (NNP Harriman)) (CC and) (NP (NNS others))) (VP (VBD thundered) (ADVP (RB that) (RB down)))) (. .)))
+ThetheDTOPER0GreensGreensNNPOPER0fromfromINOPER0thetheDTOPER0FirstFirstNNPOPER0WorldWorldNNPOPER0wantedwantVBDOPER0aaDTOPER0moralitymoralityNNOPER0playplayNNOPER0,,,OPER0notnotRBOPER0aaDTOPER0negotiationnegotiationNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP Greens)) (PP (IN from) (NP (DT the) (NNP First) (NNP World)))) (VP (VBD wanted) (NP (NP (DT a) (NN morality) (NN play)) (, ,) (RB not) (NP (DT a) (NN negotiation)))) (. .)))
+FortunatelyfortunatelyRBOPER0,,,OPER0thetheDTOPER0nationsnationNNSOPER0ofofINOPER0southernsouthernJJOPER0AfricaAfricaNNPLOCPER0havehaveVBPOPER0n'tnotRBOPER0totallytotallyRBOPER0surrenderedsurrenderVBNOPER0theirtheyPRP$OPER0sovereigntysovereigntyNNOPER0...OPER0(ROOT (S (ADVP (RB Fortunately)) (, ,) (NP (NP (DT the) (NNS nations)) (PP (IN of) (NP (JJ southern) (NNP Africa)))) (VP (VBP have) (RB n't) (ADVP (RB totally)) (VP (VBN surrendered) (NP (PRP$ their) (NN sovereignty)))) (. .)))
+FivefiveCDCARDINALPER0countriescountryNNSOPER0announcedannounceVBDOPER0theytheyPRPOPER0wouldwouldMDOPER0notnotRBOPER0honorhonorVBOPER0whatwhatWPOPER0oneoneCDCARDINALPER0ZimbabweanZimbabweanNNPOPER0delegatedelegateNNOPER0wrylywrylyRBOPER0calledcallVBDOPER0thetheDTOPER0``````OmademakeVBNOPER2ininINOPER2SwitzerlandSwitzerlandNNPGPEPER2''''''OPER0solutionsolutionNNOPER0...OPER0(ROOT (S (NP (CD Five) (NNS countries)) (VP (VBD announced) (SBAR (S (NP (PRP they)) (VP (MD would) (RB not) (VP (VB honor) (SBAR (WHNP (WP what)) (S (NP (CD one) (NNP Zimbabwean) (NN delegate)) (ADVP (RB wryly)) (VP (VBD called) (NP (DT the) (`` ``) (ADJP (VBN made) (PP (IN in) (NP (NNP Switzerland)))) ('' '') (NN solution)))))))))) (. .)))
+IninINOPER0factfactNNOPER0,,,OPER0theytheyPRPOPER0seemedseemVBDOPER0aaDTOPER0mitemiteNNOPER0resentfulresentfulJJOPER0...OPER0(ROOT (S (PP (IN In) (NP (NN fact))) (, ,) (NP (PRP they)) (VP (VBD seemed) (S (NP (DT a) (NN mite)) (ADJP (JJ resentful)))) (. .)))
+ThetheDTOPER0directordirectorNNOPER0ofofINOPER0ZimbabweZimbabweNNPGPEPER0's'sPOSOPER0WildlifeWildlifeNNPORGPER0DepartmentDepartmentNNPORGPER0describeddescribeVBDOPER0AmericanamericanJJOPER0conservationistsconservationistNNSOPER0asasINOPER0``````OfatfatJJOPER3littlelittleJJOPER3puppiespuppyNNSOPER3fromfromINOPER3urbanurbanJJOPER3environmentsenvironmentNNSOPER3whowhoWPOPER3dodoVBPOPER3n'tnotRBOPER3knowknowVBOPER3aaDTOPER3thingthingNNOPER3aboutaboutINOPER3AfricaAfricaNNPLOCPER3...OPER3''''''OPER0(ROOT (S (NP (NP (DT The) (NN director)) (PP (IN of) (NP (NP (NNP Zimbabwe) (POS 's)) (NNP Wildlife) (NNP Department)))) (VP (VBD described) (NP (JJ American) (NNS conservationists)) (PP (IN as) (`` ``) (NP (NP (JJ fat) (JJ little) (NNS puppies)) (PP (IN from) (NP (NP (JJ urban) (NNS environments)) (SBAR (WHNP (WP who)) (S (VP (VBP do) (RB n't) (VP (VB know) (NP (NP (DT a) (NN thing)) (PP (IN about) (NP (NNP Africa))))))))))))) (. .) ('' '')))
+ThatthatDTOPER0'sbeVBZOPER0notnotRBOPER0fairfairJJOPER0;;:OPER0theytheyPRPOPER0'rebeVBPOPER0notnotRBOPER0allallRBOPER0fatfatJJOPER0...OPER0(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (RB not) (ADJP (JJ fair)))) (: ;) (S (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (RB all) (JJ fat)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NNS nations)) (PP (IN of) (NP (JJ southern) (NNP Africa))))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (JJ southern) (NNP Africa))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (PRP$ their) (NNS herds))
+sid=0 spanning 12 until 13 headed by 12 parsed as their
+sid=1 spanning 1 until 8 headed by 2 parsed as (NP (NP (DT the) (NNS nations)) (PP (IN of) (NP (NP (NNP Europe)) (CC and) (NP (NNP North) (NNP America)))))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP they))
+sid=2 spanning 11 until 21 headed by 14 parsed as (NP (NP (DT a) (JJ global) (NN ivory) (NN ban)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seeks) (S (VP (TO to) (VP (VB overturn) (NP (JJ local) (NNS policies)))))))))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN ban))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS herds))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN compromise))
+sid=6 spanning 17 until 18 headed by 17 parsed as that
+sid=8 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT the) (NNS nations)) (PP (IN of) (NP (JJ southern) (NNP Africa))))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (JJ southern) (NNP Africa))
+sid=8 spanning 11 until 12 headed by 11 parsed as their
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (CD Five) (NNS countries))
+sid=9 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=9 spanning 13 until 20 headed by 19 parsed as (NP (DT the) (`` ``) (ADJP (VBN made) (PP (IN in) (NP (NNP Switzerland)))) ('' '') (NN solution))
+sid=10 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=11 spanning 7 until 8 headed by 7 parsed as described
+sid=11 spanning 8 until 10 headed by 9 parsed as (NP (JJ American) (NNS conservationists))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=12 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NNS nations)) (PP (IN of) (NP (JJ southern) (NNP Africa))))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (JJ southern) (NNP Africa))
+sid=0 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT a) (NN lot)) (PP (IN about) (NP (VBG managing) (NNS elephants))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (VBG managing) (NNS elephants))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (PRP$ their) (NNS herds))
+sid=0 spanning 12 until 13 headed by 12 parsed as (PRP$ their)
+sid=1 spanning 1 until 8 headed by 2 parsed as (NP (NP (DT the) (NNS nations)) (PP (IN of) (NP (NP (NNP Europe)) (CC and) (NP (NNP North) (NNP America)))))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NP (NNP Europe)) (CC and) (NP (NNP North) (NNP America)))
+sid=1 spanning 4 until 8 headed by 4 parsed as (NP (NP (NNP Europe)) (CC and) (NP (NNP North) (NNP America)))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (NNP North) (NNP America))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=2 spanning 1 until 8 headed by 5 parsed as (NP (NP (NP (DT this) (NN week) (POS 's)) (NNP U.N.) (NN conference)) (PP (IN in) (NP (NNP Lausanne))))
+sid=2 spanning 1 until 4 headed by 2 parsed as (NP (DT this) (NN week) (POS 's))
+sid=2 spanning 4 until 5 headed by 4 parsed as U.N.
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Lausanne))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP they))
+sid=2 spanning 11 until 21 headed by 14 parsed as (NP (NP (DT a) (JJ global) (NN ivory) (NN ban)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seeks) (S (VP (TO to) (VP (VB overturn) (NP (JJ local) (NNS policies)))))))))
+sid=2 spanning 19 until 21 headed by 20 parsed as (NP (JJ local) (NNS policies))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Zimbabwean) (NN delegate))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN ban))
+sid=3 spanning 10 until 15 headed by 11 parsed as (NP (NP (DT the) (NN extinction)) (PP (IN of) (NP (DT the) (NN elephant))))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN elephant))
+sid=4 spanning 0 until 12 headed by 1 parsed as (NP (NP (JJ Legitimate) (NNS ranchers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP have) (NP (NP (DT an) (NN interest)) (PP (IN in) (S (VP (VBG preserving) (NP (DT the) (NNS herds))))))))) (, ,))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (JJ Legitimate) (NNS ranchers))
+sid=4 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT an) (NN interest)) (PP (IN in) (S (VP (VBG preserving) (NP (DT the) (NNS herds))))))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS herds))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Poachers))
+sid=5 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ underground) (NN trade))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (JJ Many) (NNS delegates))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN compromise))
+sid=6 spanning 12 until 14 headed by 13 parsed as (NP (NP (NML (NNP U.S.) (NN delegate)) (NNP Constance) (NNP Harriman)) (CC and) (NP (NNS others)))
+sid=6 spanning 10 until 16 headed by 13 parsed as (NP (NP (NML (NNP U.S.) (NN delegate)) (NNP Constance) (NNP Harriman)) (CC and) (NP (NNS others)))
+sid=6 spanning 10 until 14 headed by 13 parsed as (NP (NML (NNP U.S.) (NN delegate)) (NNP Constance) (NNP Harriman))
+sid=6 spanning 15 until 16 headed by 15 parsed as (NP (NNS others))
+sid=7 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NNP Greens)) (PP (IN from) (NP (DT the) (NNP First) (NNP World))))
+sid=7 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP First) (NNP World))
+sid=7 spanning 7 until 14 headed by 9 parsed as (NP (NP (DT a) (NN morality) (NN play)) (, ,) (RB not) (NP (DT a) (NN negotiation)))
+sid=7 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (NN morality) (NN play))
+sid=7 spanning 12 until 14 headed by 13 parsed as (NP (DT a) (NN negotiation))
+sid=8 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT the) (NNS nations)) (PP (IN of) (NP (JJ southern) (NNP Africa))))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (JJ southern) (NNP Africa))
+sid=8 spanning 11 until 13 headed by 12 parsed as (NP (PRP$ their) (NN sovereignty))
+sid=8 spanning 11 until 12 headed by 11 parsed as (PRP$ their)
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (CD Five) (NNS countries))
+sid=9 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=9 spanning 8 until 11 headed by 10 parsed as (NP (CD one) (NNP Zimbabwean) (NN delegate))
+sid=9 spanning 13 until 20 headed by 19 parsed as (NP (DT the) (`` ``) (ADJP (VBN made) (PP (IN in) (NP (NNP Switzerland)))) ('' '') (NN solution))
+sid=9 spanning 17 until 18 headed by 17 parsed as (NP (NNP Switzerland))
+sid=10 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=10 spanning 5 until 7 headed by 6 parsed as (NP (DT a) (NN mite))
+sid=11 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN director)) (PP (IN of) (NP (NP (NNP Zimbabwe) (POS 's)) (NNP Wildlife) (NNP Department))))
+sid=11 spanning 3 until 7 headed by 6 parsed as (NP (NP (NNP Zimbabwe) (POS 's)) (NNP Wildlife) (NNP Department))
+sid=11 spanning 3 until 5 headed by 3 parsed as (NP (NNP Zimbabwe) (POS 's))
+sid=11 spanning 8 until 10 headed by 9 parsed as (NP (JJ American) (NNS conservationists))
+sid=11 spanning 12 until 26 headed by 14 parsed as (NP (NP (JJ fat) (JJ little) (NNS puppies)) (PP (IN from) (NP (NP (JJ urban) (NNS environments)) (SBAR (WHNP (WP who)) (S (VP (VBP do) (RB n't) (VP (VB know) (NP (NP (DT a) (NN thing)) (PP (IN about) (NP (NNP Africa)))))))))))
+sid=11 spanning 16 until 26 headed by 17 parsed as (NP (NP (JJ urban) (NNS environments)) (SBAR (WHNP (WP who)) (S (VP (VBP do) (RB n't) (VP (VB know) (NP (NP (DT a) (NN thing)) (PP (IN about) (NP (NNP Africa)))))))))
+sid=11 spanning 22 until 26 headed by 23 parsed as (NP (NP (DT a) (NN thing)) (PP (IN about) (NP (NNP Africa))))
+sid=11 spanning 25 until 26 headed by 25 parsed as (NP (NNP Africa))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=12 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+(end predicted mentions)
+---------gold clusters--------
+21 19 | { 'That' 'described' }
+4 5 6 | { 'the nations of Europe and North America' 'they' 'they' }
+1 13 | { 'southern Africa' 'southern Africa' }
+18 16 15 | { 'they' 'they' 'Five countries' }
+10 11 | { 'a compromise' 'that' }
+20 22 | { 'American conservationists' 'they' }
+2 9 | { 'their herds' 'the herds' }
+0 14 12 3 | { 'The nations of southern Africa' 'their' 'the nations of southern Africa' 'their' }
+8 7 17 | { 'the ban' 'a global ivory ban that seeks to overturn local policies' 'the `` made in Switzerland '' solution' }
+(end gold clusters)

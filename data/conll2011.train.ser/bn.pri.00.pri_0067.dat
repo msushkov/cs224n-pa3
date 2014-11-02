@@ -1,0 +1,64 @@
+---------gloss--------
+(0) [3m[36m{Israeli Prime Minister Ehud Barak}[0m said today that [3m[36m{he}[0m is willing to hold [4m[32m{early elections}[0m and the decision comes as [3m[36m{Barak 's}[0m popularity is sinking in the polls after two months of violent conflict with Palestinians in the West Bank and Gaza . 
+(1) The government is expected to negotiate a date for [4m[32m{the elections}[0m in talks with [4m[31m{the opposition}[0m over the next few days . 
+(2) [4m[31m{The opposition}[0m has recommended that [4m[32m{elections}[0m be set for May . 
+(3) [4m[32m{The elections}[0m would mean that [3m[36m{Barak 's}[0m current term in office would end about two years ahead of schedule . 
+(4) Corey Flintoff , NPR News , Washington . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0067); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0saidsayVBDOPER0todaytodayNNDATEPER0thatthatINOPER0hehePRPOPER0isbeVBZOPER0willingwillingJJOPER0totoTOOPER0holdholdVBOPER0earlyearlyJJOPER0electionselectionNNSOPER0andandCCOPER0thetheDTOPER0decisiondecisionNNOPER0comescomeVBZOPER0asasINOPER0BarakBarakNNPPERSONPER0's'sPOSOPER0popularitypopularityNNOPER0isbeVBZOPER0sinkingsinkVBGOPER0ininINOPER0thetheDTOPER0pollspollNNSOPER0afterafterINOPER0twotwoCDDATEPER0monthsmonthNNSDATEPER0ofofINOPER0violentviolentJJOPER0conflictconflictNNOPER0withwithINOPER0PalestiniansPalestiniansNNPSOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD said) (NP (NN today)) (SBAR (IN that) (S (S (NP (PRP he)) (VP (VBZ is) (ADJP (JJ willing) (S (VP (TO to) (VP (VB hold) (NP (JJ early) (NNS elections)))))))) (CC and) (S (NP (DT the) (NN decision)) (VP (VBZ comes) (SBAR (IN as) (S (NP (NP (NNP Barak) (POS 's)) (NN popularity)) (VP (VBZ is) (VP (VBG sinking) (PP (IN in) (NP (DT the) (NNS polls))) (PP (IN after) (NP (NP (CD two) (NNS months)) (PP (IN of) (NP (NP (JJ violent) (NN conflict)) (PP (IN with) (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza))))))))))))))))))) (. .)))
+ThetheDTOPER0governmentgovernmentNNOPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0negotiatenegotiateVBOPER0aaDTOPER0datedateNNOPER0forforINOPER0thetheDTOPER0electionselectionNNSOPER0ininINOPER0talkstalkNNSOPER0withwithINOPER0thetheDTOPER0oppositionoppositionNNOPER0overoverINOPER0thetheDTDATEPER0nextnextJJDATEPER0fewfewJJDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NN government)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB negotiate) (NP (NP (DT a) (NN date)) (PP (IN for) (NP (NP (DT the) (NNS elections)) (PP (IN in) (NP (NP (NNS talks)) (PP (IN with) (NP (NP (DT the) (NN opposition)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS days))))))))))))))) (. .)))
+ThetheDTOPER0oppositionoppositionNNOPER0hashaveVBZOPER0recommendedrecommendVBNOPER0thatthatINOPER0electionselectionNNSOPER0bebeVBOPER0setsetVBNOPER0forforINOPER0MayMayNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NN opposition)) (VP (VBZ has) (VP (VBN recommended) (SBAR (IN that) (S (NP (NNS elections)) (VP (VB be) (VP (VBN set) (PP (IN for) (NP (NNP May))))))))) (. .)))
+ThetheDTOPER0electionselectionNNSOPER0wouldwouldMDOPER0meanmeanVBOPER0thatthatINOPER0BarakBarakNNPPERSONPER0's'sPOSOPER0currentcurrentJJOPER0termtermNNOPER0ininINOPER0officeofficeNNOPER0wouldwouldMDOPER0endendVBOPER0aboutaboutRBDATEPER0twotwoCDDATEPER0yearsyearNNSDATEPER0aheadaheadRBOPER0ofofINOPER0schedulescheduleNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS elections)) (VP (MD would) (VP (VB mean) (SBAR (IN that) (S (NP (NP (NP (NNP Barak) (POS 's)) (JJ current) (NN term)) (PP (IN in) (NP (NN office)))) (VP (MD would) (VP (VB end) (ADVP (NP (QP (RB about) (CD two)) (NNS years)) (RB ahead) (PP (IN of) (NP (NN schedule)))))))))) (. .)))
+CoreyCoreyNNPPERSONPER0FlintoffFlintoffNNPPERSONPER0,,,OPER0NPRNPRNNPORGPER0NewsNewsNNPORGPER0,,,OPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Corey) (NNP Flintoff)) (, ,) (NP (NNP NPR) (NNP News)) (, ,) (NP (NNP Washington)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (JJ early) (NNS elections))
+sid=0 spanning 20 until 22 headed by 20 parsed as (NP (NNP Barak) (POS 's))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NP (DT the) (NNS elections)) (PP (IN in) (NP (NP (NNS talks)) (PP (IN with) (NP (NP (DT the) (NN opposition)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS days))))))))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NP (DT the) (NN opposition)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS days))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN opposition))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNS elections))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS elections))
+sid=3 spanning 5 until 7 headed by 5 parsed as (NP (NNP Barak) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (JJ early) (NNS elections))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN decision))
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (NP (NNP Barak) (POS 's)) (NN popularity))
+sid=0 spanning 20 until 22 headed by 20 parsed as (NP (NNP Barak) (POS 's))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NNS polls))
+sid=0 spanning 29 until 42 headed by 30 parsed as (NP (NP (CD two) (NNS months)) (PP (IN of) (NP (NP (JJ violent) (NN conflict)) (PP (IN with) (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))))))
+sid=0 spanning 35 until 42 headed by 35 parsed as (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))
+sid=0 spanning 37 until 40 headed by 39 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=0 spanning 37 until 42 headed by 39 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=0 spanning 41 until 42 headed by 41 parsed as (NP (NNP Gaza))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN government))
+sid=1 spanning 6 until 21 headed by 7 parsed as (NP (NP (DT a) (NN date)) (PP (IN for) (NP (NP (DT the) (NNS elections)) (PP (IN in) (NP (NP (NNS talks)) (PP (IN with) (NP (NP (DT the) (NN opposition)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS days))))))))))
+sid=1 spanning 9 until 21 headed by 10 parsed as (NP (NP (DT the) (NNS elections)) (PP (IN in) (NP (NP (NNS talks)) (PP (IN with) (NP (NP (DT the) (NN opposition)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS days))))))))
+sid=1 spanning 12 until 21 headed by 12 parsed as (NP (NP (NNS talks)) (PP (IN with) (NP (NP (DT the) (NN opposition)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS days))))))
+sid=1 spanning 14 until 21 headed by 15 parsed as (NP (NP (DT the) (NN opposition)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS days))))
+sid=1 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (JJ next) (JJ few) (NNS days))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN opposition))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNS elections))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP May))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS elections))
+sid=3 spanning 5 until 11 headed by 8 parsed as (NP (NP (NP (NNP Barak) (POS 's)) (JJ current) (NN term)) (PP (IN in) (NP (NN office))))
+sid=3 spanning 5 until 7 headed by 5 parsed as (NP (NNP Barak) (POS 's))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (QP (RB about) (CD two)) (NNS years))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Corey) (NNP Flintoff))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (NNP NPR) (NNP News))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+0 9 3 1 | { 'Israeli Prime Minister Ehud Barak' 'Barak 's' 'Barak 's' 'he' }
+6 5 | { 'The opposition' 'the opposition' }
+7 4 2 8 | { 'elections' 'the elections' 'early elections' 'The elections' }
+(end gold clusters)

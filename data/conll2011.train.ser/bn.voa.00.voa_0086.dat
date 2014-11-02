@@ -1,0 +1,54 @@
+---------gloss--------
+(0) [4m[36m{Clashes between Palestinians and Israeli troops}[0m have followed [31m{Friday}[0m prayers in the [4m[35m{West Bank}[0m and Gaza Strip , even as leaders of the two sides take steps to end five weeks of violence . 
+(1) In [31m{Friday 's}[0m violence , two Palestinians were killed by gunfire in [4m[35m{the West Bank}[0m and a number were wounded in other clashes . 
+(2) The top advisor to Israel 's Prime Minister acknowledged that the Palestinian Authority is making efforts to implement a truce even as attacks against Israeli forces continued . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0086); part 000
+sentences:
+ClashesclashNNSOPER0betweenbetweenINOPER0PalestiniansPalestiniansNNPSOPER0andandCCOPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0havehaveVBPOPER0followedfollowVBNOPER0FridayFridayNNPDATEPER0prayersprayerNNSOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0,,,OPER0evenevenRBOPER0asasINOPER0leadersleaderNNSOPER0ofofINOPER0thetheDTOPER0twotwoCDCARDINALPER0sidessideNNSOPER0taketakeVBPOPER0stepsstepNNSOPER0totoTOOPER0endendVBOPER0fivefiveCDDATEPER0weeksweekNNSDATEPER0ofofINOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (NP (NNS Clashes)) (PP (IN between) (NP (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNS troops))))) (VP (VBP have) (VP (VBN followed) (NP (NNP Friday)) (NP (NP (NNS prayers)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))))) (, ,) (SBAR (ADVP (RB even)) (IN as) (S (NP (NP (NNS leaders)) (PP (IN of) (NP (DT the) (CD two) (NNS sides)))) (VP (VBP take) (NP (NP (NNS steps)) (SBAR (S (VP (TO to) (VP (VB end) (NP (NP (CD five) (NNS weeks)) (PP (IN of) (NP (NN violence)))))))))))))) (. .)))
+IninINOPER0FridayFridayNNPDATEPER0's'sPOSOPER0violenceviolenceNNOPER0,,,OPER0twotwoCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0killedkillVBNOPER0bybyINOPER0gunfiregunfireNNOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0aaDTOPER0numbernumberNNOPER0werebeVBDOPER0woundedwoundVBNOPER0ininINOPER0otherotherJJOPER0clashesclashNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NNP Friday) (POS 's)) (NN violence))) (, ,) (S (NP (CD two) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NN gunfire))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank)))))) (CC and) (S (NP (DT a) (NN number)) (VP (VBD were) (VP (VBN wounded) (PP (IN in) (NP (JJ other) (NNS clashes)))))) (. .)))
+ThetheDTOPER0toptopJJOPER0advisoradvisorNNOPER0totoINOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0acknowledgedacknowledgeVBDOPER0thatthatINOPER0thetheDTORGPER0PalestinianPalestinianNNPORGPER0AuthorityAuthorityNNPORGPER0isbeVBZOPER0makingmakeVBGOPER0effortseffortNNSOPER0totoTOOPER0implementimplementVBOPER0aaDTOPER0trucetruceNNOPER0evenevenRBOPER0asasINOPER0attacksattackNNSOPER0againstagainstINOPER0IsraeliisraeliJJOPER0forcesforceNNSOPER0continuedcontinueVBDOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ top) (NN advisor)) (PP (IN to) (NP (NP (NNP Israel) (POS 's)) (NNP Prime) (NNP Minister)))) (VP (VBD acknowledged) (SBAR (IN that) (S (NP (DT the) (NNP Palestinian) (NNP Authority)) (VP (VBZ is) (VP (VBG making) (NP (NNS efforts) (S (VP (TO to) (VP (VB implement) (NP (DT a) (NN truce)))))) (SBAR (ADVP (RB even)) (IN as) (S (NP (NP (NNS attacks)) (PP (IN against) (NP (JJ Israeli) (NNS forces)))) (VP (VBD continued))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Clashes)) (PP (IN between) (NP (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNS troops)))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Friday))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=1 spanning 1 until 4 headed by 3 parsed as (NP (NP (NNP Friday) (POS 's)) (NN violence))
+sid=1 spanning 1 until 3 headed by 1 parsed as (NP (NNP Friday) (POS 's))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP West) (NNP Bank))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Clashes)) (PP (IN between) (NP (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNS troops)))))
+sid=0 spanning 2 until 6 headed by 2 parsed as (NP (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNS troops)))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (JJ Israeli) (NNS troops))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Friday))
+sid=0 spanning 9 until 17 headed by 9 parsed as (NP (NP (NNS prayers)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=0 spanning 11 until 17 headed by 13 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=0 spanning 15 until 17 headed by 16 parsed as Strip
+sid=0 spanning 20 until 25 headed by 20 parsed as (NP (NP (NNS leaders)) (PP (IN of) (NP (DT the) (CD two) (NNS sides))))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (CD two) (NNS sides))
+sid=0 spanning 26 until 33 headed by 26 parsed as (NP (NP (NNS steps)) (SBAR (S (VP (TO to) (VP (VB end) (NP (NP (CD five) (NNS weeks)) (PP (IN of) (NP (NN violence)))))))))
+sid=0 spanning 29 until 33 headed by 30 parsed as (NP (NP (CD five) (NNS weeks)) (PP (IN of) (NP (NN violence))))
+sid=1 spanning 1 until 4 headed by 3 parsed as (NP (NP (NNP Friday) (POS 's)) (NN violence))
+sid=1 spanning 1 until 3 headed by 1 parsed as (NP (NNP Friday) (POS 's))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (CD two) (NNPS Palestinians))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN number))
+sid=1 spanning 21 until 23 headed by 22 parsed as (NP (JJ other) (NNS clashes))
+sid=2 spanning 0 until 8 headed by 2 parsed as (NP (NP (DT The) (JJ top) (NN advisor)) (PP (IN to) (NP (NP (NNP Israel) (POS 's)) (NNP Prime) (NNP Minister))))
+sid=2 spanning 4 until 8 headed by 7 parsed as (NP (NP (NNP Israel) (POS 's)) (NNP Prime) (NNP Minister))
+sid=2 spanning 4 until 6 headed by 4 parsed as (NP (NNP Israel) (POS 's))
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP Palestinian) (NNP Authority))
+sid=2 spanning 15 until 20 headed by 15 parsed as (NP (NNS efforts) (S (VP (TO to) (VP (VB implement) (NP (DT a) (NN truce))))))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (DT a) (NN truce))
+sid=2 spanning 22 until 26 headed by 22 parsed as (NP (NP (NNS attacks)) (PP (IN against) (NP (JJ Israeli) (NNS forces))))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (JJ Israeli) (NNS forces))
+(end predicted mentions)
+---------gold clusters--------
+2 5 | { 'West Bank' 'the West Bank' }
+0 3 | { 'Clashes between Palestinians and Israeli troops' 'Friday 's violence' }
+4 1 | { 'Friday 's' 'Friday' }
+(end gold clusters)

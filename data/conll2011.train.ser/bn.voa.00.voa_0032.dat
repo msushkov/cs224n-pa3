@@ -1,0 +1,187 @@
+---------gloss--------
+(0) Here in the United States [33m{county workers in Los Angeles , California}[0m have [1m[35m{returned}[0m to [33m{their}[0m jobs as union negotiators continue contract talks with local officials . 
+(1) [1m[32m{VOA 's}[0m Michael Sullivan reports that workers are responding to [3m[31m{a request from the city 's Roman Catholic archbishop}[0m . 
+(2) [33m{More than 40,000 workers}[0m were back at [33m{their}[0m jobs [4m[35m{Thursday}[0m following [34m{a 1 - day walkout that closed social welfare offices and crippled public medical services}[0m . 
+(3) During [34m{the work stoppage Wednesday}[0m , local residents were unable to register marriages or get documents for a real estate transaction . 
+(4) [31m{People at one records office}[0m found no one on duty to help [31m{them}[0m . 
+(5) [1m[35m{The return to work Thursday}[0m came at [3m[31m{the urging of Catholic cardinal Roger Mahodi who said the labor dispute was hurting the poor who rely on public services}[0m . 
+(6) In response to [4m[36m{his}[0m plea , [4m[34m{union officials}[0m [1m[34m{agreed}[0m to try to resolve [4m[34m{their}[0m differences through negotiations . 
+(7) [1m[34m{The back - to - work agreement}[0m angered some of [33m{the strikers}[0m , however , who called [1m[34m{the decision}[0m a sellout . 
+(8) [32m{The labor dispute}[0m is over wages . 
+(9) Workers want a 15.5 % pay raise over three years , the county has offered 9 % . 
+(10) [1m[31m{A separate work stoppage by Los Angeles transit workers}[0m is now in [1m[31m{its}[0m 27th day . 
+(11) [1m[31m{That strike}[0m affects [36m{450,000 bus and subway riders}[0m , many of [36m{them}[0m low - income workers . 
+(12) An issue in [1m[31m{that strike}[0m is a management plan to hire more part - time drivers and limit overtime pay . 
+(13) Talks are at a standstill , but 4,000 striking drivers have promised to respond to the latest management offer , [4m[35m{Thursday}[0m . 
+(14) [1m[36m{Mike O'Sullivan}[0m , [1m[32m{VOA News}[0m , [1m[33m{Los Angeles}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0032); part 000
+sentences:
+HerehereRBOPER0ininINOPER0thetheDTOPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0countycountyNNGPEPER0workersworkerNNSOPER0ininINOPER0LosLosNNPGPEPER0AngelesAngelesNNPGPEPER0,,,OPER0CaliforniaCaliforniaNNPGPEPER0havehaveVBPOPER0returnedreturnVBNOPER0totoINOPER0theirtheyPRP$OPER0jobsjobNNSOPER0asasINOPER0unionunionNNOPER0negotiatorsnegotiatorNNSOPER0continuecontinueVBPOPER0contractcontractNNOPER0talkstalkNNSOPER0withwithINOPER0locallocalJJOPER0officialsofficialNNSOPER0...OPER0(ROOT (S (ADVP (RB Here) (PP (IN in) (NP (DT the) (NNP United) (NNP States)))) (NP (NP (NN county) (NNS workers)) (PP (IN in) (NP (NP (NNP Los) (NNP Angeles)) (, ,) (NP (NNP California))))) (VP (VBP have) (VP (VBN returned) (PP (IN to) (NP (PRP$ their) (NNS jobs))) (SBAR (IN as) (S (NP (NN union) (NNS negotiators)) (VP (VBP continue) (NP (NP (NN contract) (NNS talks)) (PP (IN with) (NP (JJ local) (NNS officials))))))))) (. .)))
+VOAVOANNPORGPER0's'sPOSOPER0MichaelMichaelNNPPERSONPER0SullivanSullivanNNPPERSONPER0reportsreportVBZOPER0thatthatINOPER0workersworkerNNSOPER0arebeVBPOPER0respondingrespondVBGOPER0totoINOPER0aaDTOPER0requestrequestNNOPER0fromfromINOPER0thetheDTOPER0citycityNNOPER0's'sPOSOPER0RomanRomanNNPORGPER0CatholicCatholicNNPORGPER0archbishoparchbishopNNPOPER0...OPER0(ROOT (S (NP (NP (NNP VOA) (POS 's)) (NNP Michael) (NNP Sullivan)) (VP (VBZ reports) (SBAR (IN that) (S (NP (NNS workers)) (VP (VBP are) (VP (VBG responding) (PP (IN to) (NP (NP (DT a) (NN request)) (PP (IN from) (NP (NP (DT the) (NN city) (POS 's)) (NNP Roman) (NNP Catholic) (NNP archbishop)))))))))) (. .)))
+MoremoreJJRCARDINALPER0thanthanINCARDINALPER040,00040,000CDCARDINALPER0workersworkerNNSOPER0werebeVBDOPER0backbackRBOPER0atatINOPER0theirtheyPRP$OPER0jobsjobNNSOPER0ThursdayThursdayNNPDATEPER0followingfollowVBGOPER0aaDTOPER011CDCARDINALPER0--HYPHOPER0daydayNNOPER0walkoutwalkoutNNOPER0thatthatWDTOPER0closedcloseVBDOPER0socialsocialJJOPER0welfarewelfareNNOPER0officesofficeNNSOPER0andandCCOPER0crippledcrippledJJOPER0publicpublicJJOPER0medicalmedicalJJOPER0servicesserviceNNSOPER0...OPER0(ROOT (S (NP (QP (XS (JJR More) (IN than)) (CD 40,000)) (NNS workers)) (VP (VBD were) (PP (ADVP (RB back)) (IN at) (NP (PRP$ their) (NNS jobs))) (NP (NNP Thursday)) (PP (VBG following) (NP (NP (DT a) (NML (CD 1) (HYPH -) (NN day)) (NN walkout)) (SBAR (WHNP (WDT that)) (S (VP (VBD closed) (NP (NP (NML (JJ social) (NN welfare)) (NNS offices)) (CC and) (NP (JJ crippled) (JJ public) (JJ medical) (NNS services))))))))) (. .)))
+DuringduringINOPER0thetheDTOPER0workworkNNOPER0stoppagestoppageNNOPER0WednesdayWednesdayNNPDATEPER0,,,OPER0locallocalJJOPER0residentsresidentNNSOPER0werebeVBDOPER0unableunableJJOPER0totoTOOPER0registerregisterVBOPER0marriagesmarriageNNSOPER0ororCCOPER0getgetVBOPER0documentsdocumentNNSOPER0forforINOPER0aaDTOPER0realrealJJOPER0estateestateNNOPER0transactiontransactionNNOPER0...OPER0(ROOT (S (PP (IN During) (NP (NP (DT the) (NN work) (NN stoppage)) (NP (NNP Wednesday)))) (, ,) (NP (JJ local) (NNS residents)) (VP (VBD were) (ADJP (JJ unable) (S (VP (TO to) (VP (VP (VB register) (NP (NNS marriages))) (CC or) (VP (VB get) (NP (NP (NNS documents)) (PP (IN for) (NP (DT a) (NML (JJ real) (NN estate)) (NN transaction)))))))))) (. .)))
+PeoplepeopleNNSOPER0atatINOPER0oneoneCDCARDINALPER0recordsrecordNNSOPER0officeofficeNNOPER0foundfindVBDOPER0nonoDTOPER0oneoneNNOPER0ononINOPER0dutydutyNNOPER0totoTOOPER0helphelpVBOPER0themtheyPRPOPER0...OPER0(ROOT (S (NP (NP (NNS People)) (PP (IN at) (NP (CD one) (NNS records) (NN office)))) (VP (VBD found) (NP (DT no) (NN one)) (PP (IN on) (NP (NN duty) (S (VP (TO to) (VP (VB help) (NP (PRP them)))))))) (. .)))
+ThetheDTOPER0returnreturnNNOPER0totoINOPER0workworkNNOPER0ThursdayThursdayNNPDATEPER0camecomeVBDOPER0atatINOPER0thetheDTOPER0urgingurgeVBGOPER0ofofINOPER0CatholicCatholicNNPOPER0cardinalcardinalNNPOPER0RogerRogerNNPPERSONPER0MahodiMahodiNNPPERSONPER0whowhoWPOPER0saidsayVBDOPER0thetheDTOPER0laborlaborNNOPER0disputedisputeNNOPER0wasbeVBDOPER0hurtinghurtVBGOPER0thetheDTOPER0poorpoorJJOPER0whowhoWPOPER0relyrelyVBPOPER0ononINOPER0publicpublicJJOPER0servicesserviceNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN return)) (PP (IN to) (NP (NN work)))) (NP (NNP Thursday)) (VP (VBD came) (PP (IN at) (NP (NP (DT the) (VBG urging)) (PP (IN of) (NP (NP (NNP Catholic) (NNP cardinal) (NNP Roger) (NNP Mahodi)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (DT the) (NN labor) (NN dispute)) (VP (VBD was) (VP (VBG hurting) (NP (NP (DT the) (JJ poor)) (SBAR (WHNP (WP who)) (S (VP (VBP rely) (PP (IN on) (NP (JJ public) (NNS services))))))))))))))))))) (. .)))
+IninINOPER0responseresponseNNOPER0totoINOPER0hishePRP$OPER0pleapleaNNOPER0,,,OPER0unionunionNNOPER0officialsofficialNNSOPER0agreedagreeVBDOPER0totoTOOPER0trytryVBOPER0totoTOOPER0resolveresolveVBOPER0theirtheyPRP$OPER0differencesdifferenceNNSOPER0throughthroughINOPER0negotiationsnegotiationNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NN response)) (PP (IN to) (NP (PRP$ his) (NN plea))))) (, ,) (NP (NN union) (NNS officials)) (VP (VBD agreed) (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB resolve) (NP (PRP$ their) (NNS differences)) (PP (IN through) (NP (NNS negotiations)))))))))) (. .)))
+ThetheDTOPER0backbackRPOPER0--HYPHOPER0totoINOPER0--HYPHOPER0workworkNNOPER0agreementagreementNNOPER0angeredangerVBDOPER0somesomeDTOPER0ofofINOPER0thetheDTOPER0strikersstrikerNNSOPER0,,,OPER0howeverhoweverRBOPER0,,,OPER0whowhoWPOPER0calledcallVBDOPER0thetheDTOPER0decisiondecisionNNOPER0aaDTOPER0selloutselloutNNOPER0...OPER0(ROOT (S (NP (DT The) (ADJP (RP back) (HYPH -) (IN to) (HYPH -) (NN work)) (NN agreement)) (VP (VBD angered) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS strikers)))) (, ,) (ADVP (RB however)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD called) (NP (DT the) (NN decision)) (S (NP (DT a) (NN sellout))))))) (. .)))
+ThetheDTOPER0laborlaborNNOPER0disputedisputeNNOPER0isbeVBZOPER0overoverINOPER0wageswagesNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN labor) (NN dispute)) (VP (VBZ is) (PP (IN over) (NP (NNS wages)))) (. .)))
+WorkersworkerNNSOPER0wantwantVBPOPER0aaDTOPER015.515.5CDPERCENTPER0%%NNPERCENTPER0paypayNNOPER0raiseraiseNNOPER0overoverINOPER0threethreeCDDATEPER0yearsyearNNSDATEPER0,,,OPER0thetheDTOPER0countycountyNNOPER0hashaveVBZOPER0offeredofferVBNOPER099CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (S (NP (NNS Workers)) (VP (VBP want) (NP (NP (DT a) (NML (CD 15.5) (NN %)) (NN pay) (NN raise)) (PP (IN over) (NP (CD three) (NNS years)))))) (, ,) (S (NP (DT the) (NN county)) (VP (VBZ has) (VP (VBN offered) (NP (CD 9) (NN %))))) (. .)))
+AaDTOPER0separateseparateJJOPER0workworkNNOPER0stoppagestoppageNNOPER0bybyINOPER0LosLosNNPORGPER0AngelesAngelesNNPORGPER0transittransitNNOPER0workersworkerNNSOPER0isbeVBZOPER0nownowRBOPER0ininINOPER0itsitsPRP$DATEPER027th27thNNDATEPER0daydayNNDATEPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ separate) (NN work) (NN stoppage)) (PP (IN by) (NP (NML (NML (NNP Los) (NNP Angeles)) (NN transit)) (NNS workers)))) (VP (VBZ is) (ADVP (RB now)) (PP (IN in) (NP (PRP$ its) (NN 27th) (NN day)))) (. .)))
+ThatthatDTOPER0strikestrikeNNOPER0affectsaffectVBZOPER0450,000450,000CDCARDINALPER0busbusNNOPER0andandCCOPER0subwaysubwayNNOPER0ridersriderNNSOPER0,,,OPER0manymanyJJOPER0ofofINOPER0themtheyPRPOPER0lowlowJJOPER0--HYPHOPER0incomeincomeNNOPER0workersworkerNNSOPER0...OPER0(ROOT (S (NP (DT That) (NN strike)) (VP (VBZ affects) (NP (CD 450,000) (NML (NN bus) (CC and) (NN subway)) (NNS riders)) (, ,) (S (NP (NP (JJ many)) (PP (IN of) (NP (PRP them)))) (NP (NML (JJ low) (HYPH -) (NN income)) (NNS workers)))) (. .)))
+AnaDTOPER0issueissueNNOPER0ininINOPER0thatthatDTOPER0strikestrikeNNOPER0isbeVBZOPER0aaDTOPER0managementmanagementNNOPER0planplanNNOPER0totoTOOPER0hirehireVBOPER0moremoreJJROPER0partpartNNOPER0--HYPHOPER0timetimeNNOPER0driversdriverNNSOPER0andandCCOPER0limitlimitVBOPER0overtimeovertimeNNOPER0paypayVBOPER0...OPER0(ROOT (S (NP (NP (DT An) (NN issue)) (PP (IN in) (NP (DT that) (NN strike)))) (VP (VBZ is) (NP (NP (DT a) (NN management) (NN plan)) (SBAR (S (VP (TO to) (VP (VP (VB hire) (NP (JJR more) (NML (NN part) (HYPH -) (NN time)) (NNS drivers))) (CC and) (VP (VB limit) (S (NP (NN overtime)) (VP (VB pay)))))))))) (. .)))
+TalkstalkNNSOPER0arebeVBPOPER0atatINOPER0aaDTOPER0standstillstandstillNNOPER0,,,OPER0butbutCCOPER04,0004,000CDCARDINALPER0strikingstrikingJJOPER0driversdriverNNSOPER0havehaveVBPOPER0promisedpromiseVBNOPER0totoTOOPER0respondrespondVBOPER0totoINOPER0thetheDTOPER0latestlatestJJSOPER0managementmanagementNNOPER0offerofferNNOPER0,,,OPER0ThursdayThursdayNNPDATEPER0...OPER0(ROOT (S (S (NP (NNS Talks)) (VP (VBP are) (PP (IN at) (NP (DT a) (NN standstill))))) (, ,) (CC but) (S (NP (CD 4,000) (JJ striking) (NNS drivers)) (VP (VBP have) (VP (VBN promised) (S (VP (TO to) (VP (VB respond) (PP (IN to) (NP (NP (DT the) (JJS latest) (NN management) (NN offer)) (, ,) (NP (NNP Thursday)))))))))) (. .)))
+MikeMikeNNPPERSONPER0O'SullivanO'SullivanNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0,,,OPER0LosLosNNPGPEPER0AngelesAngelesNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Mike) (NNP O'Sullivan)) (, ,) (NP (NNP VOA) (NNP News)) (, ,) (NP (NNP Los) (NNP Angeles)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 12 headed by 6 parsed as (NP (NP (NN county) (NNS workers)) (PP (IN in) (NP (NP (NNP Los) (NNP Angeles)) (, ,) (NP (NNP California)))))
+sid=0 spanning 8 until 12 headed by 9 parsed as (NP (NP (NNP Los) (NNP Angeles)) (, ,) (NP (NNP California)))
+sid=0 spanning 13 until 14 headed by 13 parsed as returned
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (PRP$ their) (NNS jobs))
+sid=0 spanning 15 until 16 headed by 15 parsed as their
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP VOA) (POS 's)) (NNP Michael) (NNP Sullivan))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP VOA) (POS 's))
+sid=1 spanning 10 until 19 headed by 11 parsed as (NP (NP (DT a) (NN request)) (PP (IN from) (NP (NP (DT the) (NN city) (POS 's)) (NNP Roman) (NNP Catholic) (NNP archbishop))))
+sid=1 spanning 13 until 19 headed by 18 parsed as (NP (NP (DT the) (NN city) (POS 's)) (NNP Roman) (NNP Catholic) (NNP archbishop))
+sid=1 spanning 13 until 16 headed by 14 parsed as (NP (DT the) (NN city) (POS 's))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (QP (XS (JJR More) (IN than)) (CD 40,000)) (NNS workers))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ their) (NNS jobs))
+sid=2 spanning 7 until 8 headed by 7 parsed as their
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Thursday))
+sid=2 spanning 11 until 26 headed by 15 parsed as (NP (NP (DT a) (NML (CD 1) (HYPH -) (NN day)) (NN walkout)) (SBAR (WHNP (WDT that)) (S (VP (VBD closed) (NP (NP (NML (JJ social) (NN welfare)) (NNS offices)) (CC and) (NP (JJ crippled) (JJ public) (JJ medical) (NNS services)))))))
+sid=3 spanning 1 until 5 headed by 3 parsed as (NP (NP (DT the) (NN work) (NN stoppage)) (NP (NNP Wednesday)))
+sid=4 spanning 0 until 5 headed by 0 parsed as (NP (NP (NNS People)) (PP (IN at) (NP (CD one) (NNS records) (NN office))))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP them))
+sid=5 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN return)) (PP (IN to) (NP (NN work))))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NN work))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (NNP Thursday))
+sid=5 spanning 7 until 28 headed by 7 parsed as (NP (NP (DT the) (VBG urging)) (PP (IN of) (NP (NP (NNP Catholic) (NNP cardinal) (NNP Roger) (NNP Mahodi)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (DT the) (NN labor) (NN dispute)) (VP (VBD was) (VP (VBG hurting) (NP (NP (DT the) (JJ poor)) (SBAR (WHNP (WP who)) (S (VP (VBP rely) (PP (IN on) (NP (JJ public) (NNS services)))))))))))))))))
+sid=5 spanning 10 until 28 headed by 13 parsed as (NP (NP (NNP Catholic) (NNP cardinal) (NNP Roger) (NNP Mahodi)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (DT the) (NN labor) (NN dispute)) (VP (VBD was) (VP (VBG hurting) (NP (NP (DT the) (JJ poor)) (SBAR (WHNP (WP who)) (S (VP (VBP rely) (PP (IN on) (NP (JJ public) (NNS services)))))))))))))))
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NN labor) (NN dispute))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN plea))
+sid=6 spanning 3 until 4 headed by 3 parsed as his
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (NN union) (NNS officials))
+sid=6 spanning 8 until 9 headed by 8 parsed as agreed
+sid=6 spanning 13 until 14 headed by 13 parsed as their
+sid=7 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (RP back) (HYPH -) (IN to) (HYPH -) (NN work)) (NN agreement))
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS strikers))
+sid=7 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN decision))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN labor) (NN dispute))
+sid=10 spanning 0 until 9 headed by 3 parsed as (NP (NP (DT A) (JJ separate) (NN work) (NN stoppage)) (PP (IN by) (NP (NML (NML (NNP Los) (NNP Angeles)) (NN transit)) (NNS workers))))
+sid=10 spanning 5 until 7 headed by 6 parsed as Angeles
+sid=10 spanning 12 until 13 headed by 12 parsed as its
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN strike))
+sid=11 spanning 3 until 8 headed by 7 parsed as (NP (CD 450,000) (NML (NN bus) (CC and) (NN subway)) (NNS riders))
+sid=11 spanning 11 until 12 headed by 11 parsed as (NP (PRP them))
+sid=12 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN strike))
+sid=13 spanning 20 until 21 headed by 20 parsed as (NP (NNP Thursday))
+sid=14 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mike) (NNP O'Sullivan))
+sid=14 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=14 spanning 6 until 8 headed by 7 parsed as (NP (NNP Los) (NNP Angeles))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=0 spanning 5 until 12 headed by 6 parsed as (NP (NP (NN county) (NNS workers)) (PP (IN in) (NP (NP (NNP Los) (NNP Angeles)) (, ,) (NP (NNP California)))))
+sid=0 spanning 3 until 6 headed by 5 parsed as county
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NP (NNP Los) (NNP Angeles)) (, ,) (NP (NNP California)))
+sid=0 spanning 8 until 12 headed by 9 parsed as (NP (NP (NNP Los) (NNP Angeles)) (, ,) (NP (NNP California)))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP California))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (PRP$ their) (NNS jobs))
+sid=0 spanning 15 until 16 headed by 15 parsed as (PRP$ their)
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (NN union) (NNS negotiators))
+sid=0 spanning 21 until 26 headed by 22 parsed as (NP (NP (NN contract) (NNS talks)) (PP (IN with) (NP (JJ local) (NNS officials))))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (JJ local) (NNS officials))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP VOA) (POS 's)) (NNP Michael) (NNP Sullivan))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP VOA) (POS 's))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNS workers))
+sid=1 spanning 10 until 19 headed by 11 parsed as (NP (NP (DT a) (NN request)) (PP (IN from) (NP (NP (DT the) (NN city) (POS 's)) (NNP Roman) (NNP Catholic) (NNP archbishop))))
+sid=1 spanning 13 until 19 headed by 18 parsed as (NP (NP (DT the) (NN city) (POS 's)) (NNP Roman) (NNP Catholic) (NNP archbishop))
+sid=1 spanning 13 until 16 headed by 14 parsed as (NP (DT the) (NN city) (POS 's))
+sid=1 spanning 16 until 18 headed by 17 parsed as Catholic
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (QP (XS (JJR More) (IN than)) (CD 40,000)) (NNS workers))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ their) (NNS jobs))
+sid=2 spanning 7 until 8 headed by 7 parsed as (PRP$ their)
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Thursday))
+sid=2 spanning 11 until 26 headed by 15 parsed as (NP (NP (DT a) (NML (CD 1) (HYPH -) (NN day)) (NN walkout)) (SBAR (WHNP (WDT that)) (S (VP (VBD closed) (NP (NP (NML (JJ social) (NN welfare)) (NNS offices)) (CC and) (NP (JJ crippled) (JJ public) (JJ medical) (NNS services)))))))
+sid=2 spanning 18 until 26 headed by 20 parsed as (NP (NP (NML (JJ social) (NN welfare)) (NNS offices)) (CC and) (NP (JJ crippled) (JJ public) (JJ medical) (NNS services)))
+sid=2 spanning 18 until 21 headed by 20 parsed as (NP (NML (JJ social) (NN welfare)) (NNS offices))
+sid=2 spanning 22 until 26 headed by 25 parsed as (NP (JJ crippled) (JJ public) (JJ medical) (NNS services))
+sid=3 spanning 1 until 5 headed by 3 parsed as (NP (NP (DT the) (NN work) (NN stoppage)) (NP (NNP Wednesday)))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Wednesday))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (JJ local) (NNS residents))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (NNS marriages))
+sid=3 spanning 15 until 21 headed by 15 parsed as (NP (NP (NNS documents)) (PP (IN for) (NP (DT a) (NML (JJ real) (NN estate)) (NN transaction))))
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (DT a) (NML (JJ real) (NN estate)) (NN transaction))
+sid=4 spanning 0 until 5 headed by 0 parsed as (NP (NP (NNS People)) (PP (IN at) (NP (CD one) (NNS records) (NN office))))
+sid=4 spanning 2 until 5 headed by 4 parsed as (NP (CD one) (NNS records) (NN office))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT no) (NN one))
+sid=4 spanning 9 until 13 headed by 9 parsed as (NP (NN duty) (S (VP (TO to) (VP (VB help) (NP (PRP them))))))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP them))
+sid=5 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN return)) (PP (IN to) (NP (NN work))))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (NNP Thursday))
+sid=5 spanning 7 until 28 headed by 7 parsed as (NP (NP (DT the) (VBG urging)) (PP (IN of) (NP (NP (NNP Catholic) (NNP cardinal) (NNP Roger) (NNP Mahodi)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (DT the) (NN labor) (NN dispute)) (VP (VBD was) (VP (VBG hurting) (NP (NP (DT the) (JJ poor)) (SBAR (WHNP (WP who)) (S (VP (VBP rely) (PP (IN on) (NP (JJ public) (NNS services)))))))))))))))))
+sid=5 spanning 10 until 28 headed by 13 parsed as (NP (NP (NNP Catholic) (NNP cardinal) (NNP Roger) (NNP Mahodi)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (DT the) (NN labor) (NN dispute)) (VP (VBD was) (VP (VBG hurting) (NP (NP (DT the) (JJ poor)) (SBAR (WHNP (WP who)) (S (VP (VBP rely) (PP (IN on) (NP (JJ public) (NNS services)))))))))))))))
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NN labor) (NN dispute))
+sid=5 spanning 21 until 28 headed by 22 parsed as (NP (NP (DT the) (JJ poor)) (SBAR (WHNP (WP who)) (S (VP (VBP rely) (PP (IN on) (NP (JJ public) (NNS services)))))))
+sid=5 spanning 26 until 28 headed by 27 parsed as (NP (JJ public) (NNS services))
+sid=6 spanning 1 until 5 headed by 1 parsed as (NP (NP (NN response)) (PP (IN to) (NP (PRP$ his) (NN plea))))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN plea))
+sid=6 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (NN union) (NNS officials))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ their) (NNS differences))
+sid=6 spanning 13 until 14 headed by 13 parsed as (PRP$ their)
+sid=6 spanning 16 until 17 headed by 16 parsed as (NP (NNS negotiations))
+sid=7 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (RP back) (HYPH -) (IN to) (HYPH -) (NN work)) (NN agreement))
+sid=7 spanning 8 until 12 headed by 8 parsed as (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS strikers))))
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS strikers))
+sid=7 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN decision))
+sid=7 spanning 19 until 21 headed by 20 parsed as (NP (DT a) (NN sellout))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN labor) (NN dispute))
+sid=8 spanning 5 until 6 headed by 5 parsed as (NP (NNS wages))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNS Workers))
+sid=9 spanning 2 until 10 headed by 6 parsed as (NP (NP (DT a) (NML (CD 15.5) (NN %)) (NN pay) (NN raise)) (PP (IN over) (NP (CD three) (NNS years))))
+sid=9 spanning 8 until 10 headed by 9 parsed as (NP (CD three) (NNS years))
+sid=9 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN county))
+sid=10 spanning 0 until 9 headed by 3 parsed as (NP (NP (DT A) (JJ separate) (NN work) (NN stoppage)) (PP (IN by) (NP (NML (NML (NNP Los) (NNP Angeles)) (NN transit)) (NNS workers))))
+sid=10 spanning 5 until 9 headed by 8 parsed as (NP (NML (NML (NNP Los) (NNP Angeles)) (NN transit)) (NNS workers))
+sid=10 spanning 5 until 7 headed by 6 parsed as Angeles
+sid=10 spanning 12 until 15 headed by 14 parsed as (NP (PRP$ its) (NN 27th) (NN day))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN strike))
+sid=11 spanning 3 until 8 headed by 7 parsed as (NP (CD 450,000) (NML (NN bus) (CC and) (NN subway)) (NNS riders))
+sid=11 spanning 9 until 12 headed by 9 parsed as (NP (NP (JJ many)) (PP (IN of) (NP (PRP them))))
+sid=11 spanning 11 until 12 headed by 11 parsed as (NP (PRP them))
+sid=11 spanning 12 until 16 headed by 15 parsed as (NP (NML (JJ low) (HYPH -) (NN income)) (NNS workers))
+sid=12 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT An) (NN issue)) (PP (IN in) (NP (DT that) (NN strike))))
+sid=12 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN strike))
+sid=12 spanning 6 until 20 headed by 8 parsed as (NP (NP (DT a) (NN management) (NN plan)) (SBAR (S (VP (TO to) (VP (VP (VB hire) (NP (JJR more) (NML (NN part) (HYPH -) (NN time)) (NNS drivers))) (CC and) (VP (VB limit) (S (NP (NN overtime)) (VP (VB pay)))))))))
+sid=12 spanning 11 until 16 headed by 15 parsed as (NP (JJR more) (NML (NN part) (HYPH -) (NN time)) (NNS drivers))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (NNS Talks))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN standstill))
+sid=13 spanning 7 until 10 headed by 9 parsed as (NP (CD 4,000) (JJ striking) (NNS drivers))
+sid=13 spanning 15 until 21 headed by 18 parsed as (NP (NP (DT the) (JJS latest) (NN management) (NN offer)) (, ,) (NP (NNP Thursday)))
+sid=13 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (JJS latest) (NN management) (NN offer))
+sid=13 spanning 20 until 21 headed by 20 parsed as (NP (NNP Thursday))
+sid=14 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mike) (NNP O'Sullivan))
+sid=14 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=14 spanning 6 until 8 headed by 7 parsed as (NP (NNP Los) (NNP Angeles))
+(end predicted mentions)
+---------gold clusters--------
+26 28 | { 'union officials' 'their' }
+40 13 20 | { 'Thursday' 'Thursday' 'Thursday' }
+22 25 8 | { 'Catholic cardinal Roger Mahodi who said the labor dispute was hurting the poor who rely on public services' 'his' 'the city 's Roman Catholic archbishop' }
+16 17 | { 'People at one records office' 'them' }
+23 32 | { 'the labor dispute' 'The labor dispute' }
+0 4 30 12 10 | { 'county workers in Los Angeles , California' 'their' 'the strikers' 'their' 'More than 40,000 workers' }
+14 15 | { 'a 1 - day walkout that closed social welfare offices and crippled public medical services' 'the work stoppage Wednesday' }
+19 11 3 | { 'work' 'their jobs' 'their jobs' }
+37 38 | { '450,000 bus and subway riders' 'them' }
+35 36 39 33 | { 'its' 'That strike' 'that strike' 'A separate work stoppage by Los Angeles transit workers' }
+42 6 | { 'VOA News' 'VOA 's' }
+9 43 34 1 | { 'the city 's' 'Los Angeles' 'Los Angeles' 'Los Angeles , California' }
+27 31 29 | { 'agreed' 'the decision' 'The back - to - work agreement' }
+18 2 | { 'The return to work Thursday' 'returned' }
+5 41 | { 'VOA 's Michael Sullivan' 'Mike O'Sullivan' }
+21 7 24 | { 'the urging of Catholic cardinal Roger Mahodi who said the labor dispute was hurting the poor who rely on public services' 'a request from the city 's Roman Catholic archbishop' 'his plea' }
+(end gold clusters)

@@ -1,0 +1,69 @@
+---------gloss--------
+(0) [1m[33m{Comair Holdings Inc.}[0m said in Cincinnati that [1m[33m{it}[0m [1m[31m{bought}[0m [1m[32m{Airline Aviation Academy , a pilot training school based at Sanford Regional Airport near Orlando , Fla}[0m . 
+(1) [1m[33m{Comair}[0m said [1m[33m{it}[0m [1m[31m{paid}[0m cash but declined to disclose the price . 
+(2) Comair Holdings is the parent of Comair Inc. , a regional air carrier . 
+(3) [1m[32m{Airline Aviation , which has annual revenue of $ 5 million to $ 6 million ,}[0m has great growth potential because of the large number of U.S. pilots nearing retirement age , [1m[33m{Comair}[0m said . 
+(4) [1m[32m{The unit}[0m will be renamed Comair Aviation Academy and will continue to be headed by Scott Williams , a son of [1m[32m{its}[0m founder , [1m[33m{Comair}[0m said . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1489); part 000
+sentences:
+ComairComairNNPORGPER0HoldingsHoldingsNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ininINOPER0CincinnatiCincinnatiNNPGPEPER0thatthatINOPER0ititPRPOPER0boughtbuyVBDOPER0AirlineAirlineNNPORGPER0AviationAviationNNPORGPER0AcademyAcademyNNPORGPER0,,,OPER0aaDTOPER0pilotpilotNNOPER0trainingtrainingNNOPER0schoolschoolNNOPER0basedbaseVBNOPER0atatINOPER0SanfordSanfordNNPFACPER0RegionalRegionalNNPFACPER0AirportAirportNNPFACPER0nearnearINOPER0OrlandoOrlandoNNPGPEPER0,,,OPER0FlaFlaNNPGPEPER0...OPER0(ROOT (S (NP (NNP Comair) (NNP Holdings) (NNP Inc.)) (VP (VBD said) (PP (IN in) (NP (NNP Cincinnati))) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD bought) (NP (NP (NNP Airline) (NNP Aviation) (NNP Academy)) (, ,) (NP (NP (DT a) (NN pilot) (NN training) (NN school)) (VP (VBN based) (PP (IN at) (NP (NNP Sanford) (NNP Regional) (NNP Airport)))))) (PP (IN near) (NP (NP (NNP Orlando)) (, ,) (NP (NNP Fla)))))))) (. .)))
+ComairComairNNPORGPER0saidsayVBDOPER0ititPRPOPER0paidpayVBDOPER0cashcashNNOPER0butbutCCOPER0declineddeclineVBDOPER0totoTOOPER0disclosediscloseVBOPER0thetheDTOPER0pricepriceNNOPER0...OPER0(ROOT (S (NP (NNP Comair)) (VP (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD paid) (NP (NN cash)))))) (CC but) (VP (VBD declined) (S (VP (TO to) (VP (VB disclose) (NP (DT the) (NN price))))))) (. .)))
+ComairComairNNPORGPER0HoldingsHoldingsNNPORGPER0isbeVBZOPER0thetheDTOPER0parentparentNNOPER0ofofINOPER0ComairComairNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0aaDTOPER0regionalregionalJJOPER0airairNNOPER0carriercarrierNNOPER0...OPER0(ROOT (S (NP (NNP Comair) (NNP Holdings)) (VP (VBZ is) (NP (NP (DT the) (NN parent)) (PP (IN of) (NP (NP (NNP Comair) (NNP Inc.)) (, ,) (NP (DT a) (JJ regional) (NN air) (NN carrier)))))) (. .)))
+AirlineAirlineNNPORGPER0AviationAviationNNPORGPER0,,,OPER0whichwhichWDTOPER0hashaveVBZOPER0annualannualJJOPER0revenuerevenueNNOPER0ofofINOPER0$$$MONEYPER055CDMONEYPER0millionmillionCDMONEYPER0totoTOMONEYPER0$$$MONEYPER066CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0hashaveVBZOPER0greatgreatJJOPER0growthgrowthNNOPER0potentialpotentialNNOPER0becausebecauseINOPER0ofofINOPER0thetheDTOPER0largelargeJJOPER0numbernumberNNOPER0ofofINOPER0U.S.U.S.NNPGPEPER0pilotspilotNNSOPER0nearingnearVBGOPER0retirementretirementNNOPER0ageageNNOPER0,,,OPER0ComairComairNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NNP Airline) (NNP Aviation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (JJ annual) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million)))))))) (, ,)) (VP (VBZ has) (NP (JJ great) (NN growth) (NN potential)) (PP (IN because) (IN of) (NP (NP (DT the) (JJ large) (NN number)) (PP (IN of) (NP (NP (NNP U.S.) (NNS pilots)) (VP (VBG nearing) (NP (NN retirement) (NN age))))))))) (, ,) (NP (NNP Comair)) (VP (VBD said)) (. .)))
+ThetheDTOPER0unitunitNNOPER0willwillMDOPER0bebeVBOPER0renamedrenameVBDOPER0ComairComairNNPORGPER0AviationAviationNNPORGPER0AcademyAcademyNNPORGPER0andandCCOPER0willwillMDOPER0continuecontinueVBOPER0totoTOOPER0bebeVBOPER0headedheadVBNOPER0bybyINOPER0ScottScottNNPPERSONPER0WilliamsWilliamsNNPPERSONPER0,,,OPER0aaDTOPER0sonsonNNOPER0ofofINOPER0itsitsPRP$OPER0founderfounderNNOPER0,,,OPER0ComairComairNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT The) (NN unit)) (VP (VP (MD will) (VP (VB be) (VP (VBD renamed) (NP (NML (NNP Comair) (NNP Aviation)) (NNP Academy))))) (CC and) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB be) (VP (VBN headed) (PP (IN by) (NP (NP (NNP Scott) (NNP Williams)) (, ,) (NP (NP (DT a) (NN son)) (PP (IN of) (NP (PRP$ its) (NN founder)))))))))))))) (, ,) (NP (NNP Comair)) (VP (VBD said)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Comair) (NNP Holdings) (NNP Inc.))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=0 spanning 8 until 9 headed by 8 parsed as bought
+sid=0 spanning 9 until 26 headed by 11 parsed as (NP (NP (NNP Airline) (NNP Aviation) (NNP Academy)) (, ,) (NP (NP (DT a) (NN pilot) (NN training) (NN school)) (VP (VBN based) (PP (IN at) (NP (NNP Sanford) (NNP Regional) (NNP Airport))))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Comair))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=1 spanning 3 until 4 headed by 3 parsed as paid
+sid=3 spanning 0 until 16 headed by 1 parsed as (NP (NP (NNP Airline) (NNP Aviation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (JJ annual) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million)))))))) (, ,))
+sid=3 spanning 32 until 33 headed by 32 parsed as (NP (NNP Comair))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN unit))
+sid=4 spanning 21 until 22 headed by 21 parsed as its
+sid=4 spanning 24 until 25 headed by 24 parsed as (NP (NNP Comair))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Comair) (NNP Holdings) (NNP Inc.))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Cincinnati))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (NP (NNP Airline) (NNP Aviation) (NNP Academy)) (, ,) (NP (NP (DT a) (NN pilot) (NN training) (NN school)) (VP (VBN based) (PP (IN at) (NP (NNP Sanford) (NNP Regional) (NNP Airport))))))
+sid=0 spanning 9 until 22 headed by 11 parsed as (NP (NP (NNP Airline) (NNP Aviation) (NNP Academy)) (, ,) (NP (NP (DT a) (NN pilot) (NN training) (NN school)) (VP (VBN based) (PP (IN at) (NP (NNP Sanford) (NNP Regional) (NNP Airport))))))
+sid=0 spanning 13 until 22 headed by 16 parsed as (NP (NP (DT a) (NN pilot) (NN training) (NN school)) (VP (VBN based) (PP (IN at) (NP (NNP Sanford) (NNP Regional) (NNP Airport)))))
+sid=0 spanning 19 until 22 headed by 21 parsed as (NP (NNP Sanford) (NNP Regional) (NNP Airport))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NP (NNP Orlando)) (, ,) (NP (NNP Fla)))
+sid=0 spanning 23 until 26 headed by 23 parsed as (NP (NP (NNP Orlando)) (, ,) (NP (NNP Fla)))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNP Fla))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Comair))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN price))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Comair) (NNP Holdings))
+sid=2 spanning 3 until 13 headed by 4 parsed as (NP (NP (DT the) (NN parent)) (PP (IN of) (NP (NP (NNP Comair) (NNP Inc.)) (, ,) (NP (DT a) (JJ regional) (NN air) (NN carrier)))))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NP (NNP Comair) (NNP Inc.)) (, ,) (NP (DT a) (JJ regional) (NN air) (NN carrier)))
+sid=2 spanning 6 until 13 headed by 7 parsed as (NP (NP (NNP Comair) (NNP Inc.)) (, ,) (NP (DT a) (JJ regional) (NN air) (NN carrier)))
+sid=2 spanning 9 until 13 headed by 12 parsed as (NP (DT a) (JJ regional) (NN air) (NN carrier))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Airline) (NNP Aviation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (JJ annual) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million)))))))) (, ,))
+sid=3 spanning 0 until 16 headed by 1 parsed as (NP (NP (NNP Airline) (NNP Aviation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (JJ annual) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million)))))))) (, ,))
+sid=3 spanning 22 until 31 headed by 24 parsed as (NP (NP (DT the) (JJ large) (NN number)) (PP (IN of) (NP (NP (NNP U.S.) (NNS pilots)) (VP (VBG nearing) (NP (NN retirement) (NN age))))))
+sid=3 spanning 29 until 31 headed by 30 parsed as (NP (NN retirement) (NN age))
+sid=3 spanning 32 until 33 headed by 32 parsed as (NP (NNP Comair))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN unit))
+sid=4 spanning 5 until 8 headed by 7 parsed as (NP (NML (NNP Comair) (NNP Aviation)) (NNP Academy))
+sid=4 spanning 15 until 17 headed by 16 parsed as (NP (NP (NNP Scott) (NNP Williams)) (, ,) (NP (NP (DT a) (NN son)) (PP (IN of) (NP (PRP$ its) (NN founder)))))
+sid=4 spanning 15 until 23 headed by 16 parsed as (NP (NP (NNP Scott) (NNP Williams)) (, ,) (NP (NP (DT a) (NN son)) (PP (IN of) (NP (PRP$ its) (NN founder)))))
+sid=4 spanning 18 until 23 headed by 19 parsed as (NP (NP (DT a) (NN son)) (PP (IN of) (NP (PRP$ its) (NN founder))))
+sid=4 spanning 21 until 23 headed by 22 parsed as (NP (PRP$ its) (NN founder))
+sid=4 spanning 21 until 22 headed by 21 parsed as (PRP$ its)
+sid=4 spanning 24 until 25 headed by 24 parsed as (NP (NNP Comair))
+(end predicted mentions)
+---------gold clusters--------
+2 6 | { 'bought' 'paid' }
+3 10 7 9 | { 'Airline Aviation Academy , a pilot training school based at Sanford Regional Airport near Orlando , Fla' 'its' 'Airline Aviation , which has annual revenue of $ 5 million to $ 6 million ,' 'The unit' }
+1 11 8 4 0 5 | { 'it' 'Comair' 'Comair' 'Comair' 'Comair Holdings Inc.' 'it' }
+(end gold clusters)

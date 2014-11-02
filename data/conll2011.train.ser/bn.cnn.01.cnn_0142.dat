@@ -1,0 +1,75 @@
+---------gloss--------
+(0) [32m{Russian President Vladimir Putin}[0m is visiting Havana for [33m{talks with Cuban President Fidel Castro}[0m . 
+(1) [32m{Putin}[0m is the first Russian President to visit [4m[35m{Cuba}[0m since [34m{the collapse of the Soviet Union}[0m . 
+(2) [4m[36m{Castro}[0m greeted [32m{the Russian leader}[0m when [32m{he}[0m arrived late last night . 
+(3) [35m{Both Russia and Cuba}[0m want to renew [35m{their}[0m decades - old relationship that cooled after [34m{the collapse of the Soviet Union}[0m . 
+(4) The leaders will [33m{discuss}[0m trade and other issues , including [4m[35m{Cuba 's}[0m $ 11 billion Soviet - era debt . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0142); part 000
+sentences:
+RussianrussianJJOPER0PresidentPresidentNNPOPER0VladimirVladimirNNPPERSONPER0PutinPutinNNPPERSONPER0isbeVBZOPER0visitingvisitVBGOPER0HavanaHavanaNNPGPEPER0forforINOPER0talkstalkNNSOPER0withwithINOPER0CubanCubanNNPOPER0PresidentPresidentNNPOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0...OPER0(ROOT (S (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin)) (VP (VBZ is) (VP (VBG visiting) (NP (NNP Havana)) (PP (IN for) (NP (NP (NNS talks)) (PP (IN with) (NP (NML (NNP Cuban) (NNP President)) (NNP Fidel) (NNP Castro))))))) (. .)))
+PutinPutinNNPPERSONPER0isbeVBZOPER0thetheDTOPER0firstfirstJJORDINALPER0RussianrussianJJOPER0PresidentPresidentNNPOPER0totoTOOPER0visitvisitVBOPER0CubaCubaNNPGPEPER0sincesinceINOPER0thetheDTOPER0collapsecollapseNNOPER0ofofINOPER0thetheDTGPEPER0SovietSovietNNPGPEPER0UnionUnionNNPGPEPER0...OPER0(ROOT (S (NP (NNP Putin)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NML (JJ Russian) (NNP President))) (SBAR (S (VP (TO to) (VP (VB visit) (NP (NNP Cuba)) (PP (IN since) (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union))))))))))) (. .)))
+CastroCastroNNPPERSONPER0greetedgreetVBDOPER0thetheDTOPER0RussianrussianJJOPER0leaderleaderNNOPER0whenwhenWRBOPER0hehePRPOPER0arrivedarriveVBDOPER0latelateRBTIMEPER0lastlastJJTIMEPER0nightnightNNTIMEPER0...OPER0(ROOT (S (NP (NNP Castro)) (VP (VBD greeted) (NP (DT the) (JJ Russian) (NN leader)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD arrived) (ADVP (RB late)) (NP (JJ last) (NN night)))))) (. .)))
+BothbothDTOPER0RussiaRussiaNNPGPEPER0andandCCOPER0CubaCubaNNPGPEPER0wantwantVBPOPER0totoTOOPER0renewrenewVBOPER0theirtheyPRP$OPER0decadesdecadeNNSDATEPER0--HYPHDATEPER0oldoldJJDATEPER0relationshiprelationshipNNOPER0thatthatWDTOPER0cooledcoolVBDOPER0afterafterINOPER0thetheDTOPER0collapsecollapseNNOPER0ofofINOPER0thetheDTGPEPER0SovietSovietNNPGPEPER0UnionUnionNNPGPEPER0...OPER0(ROOT (S (NP (DT Both) (NP (NNP Russia)) (CC and) (NP (NNP Cuba))) (VP (VBP want) (S (VP (TO to) (VP (VB renew) (NP (NP (PRP$ their) (ADJP (NNS decades) (HYPH -) (JJ old)) (NN relationship)) (SBAR (WHNP (WDT that)) (S (VP (VBD cooled) (PP (IN after) (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union))))))))))))) (. .)))
+ThetheDTOPER0leadersleaderNNSOPER0willwillMDOPER0discussdiscussVBOPER0tradetradeNNOPER0andandCCOPER0otherotherJJOPER0issuesissueNNSOPER0,,,OPER0includingincludeVBGOPER0CubaCubaNNPGPEPER0's'sPOSOPER0$$$MONEYPER01111CDMONEYPER0billionbillionCDMONEYPER0SovietSovietNNPOPER0--HYPHOPER0eraeraNNOPER0debtdebtNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS leaders)) (VP (MD will) (VP (VB discuss) (NP (NP (NP (NN trade) (CC and) (JJ other)) (NNS issues)) (, ,) (PP (VBG including) (NP (NP (NNP Cuba) (POS 's)) (NML (QP ($ $) (CD 11) (CD billion))) (NML (NNP Soviet) (HYPH -) (NN era)) (NN debt)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin))
+sid=0 spanning 8 until 14 headed by 8 parsed as (NP (NP (NNS talks)) (PP (IN with) (NP (NML (NNP Cuban) (NNP President)) (NNP Fidel) (NNP Castro))))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NML (NNP Cuban) (NNP President)) (NNP Fidel) (NNP Castro))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Putin))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Cuba))
+sid=1 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NNP Soviet) (NNP Union))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Castro))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ Russian) (NN leader))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (DT Both) (NP (NNP Russia)) (CC and) (NP (NNP Cuba)))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Cuba))
+sid=3 spanning 7 until 8 headed by 7 parsed as their
+sid=3 spanning 15 until 21 headed by 16 parsed as (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union))))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP Soviet) (NNP Union))
+sid=4 spanning 3 until 4 headed by 3 parsed as discuss
+sid=4 spanning 10 until 12 headed by 10 parsed as (NP (NNP Cuba) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Havana))
+sid=0 spanning 8 until 14 headed by 8 parsed as (NP (NP (NNS talks)) (PP (IN with) (NP (NML (NNP Cuban) (NNP President)) (NNP Fidel) (NNP Castro))))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NML (NNP Cuban) (NNP President)) (NNP Fidel) (NNP Castro))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Putin))
+sid=1 spanning 2 until 16 headed by 5 parsed as (NP (NP (DT the) (JJ first) (NML (JJ Russian) (NNP President))) (SBAR (S (VP (TO to) (VP (VB visit) (NP (NNP Cuba)) (PP (IN since) (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union))))))))))
+sid=1 spanning 3 until 4 headed by 3 parsed as first
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Cuba))
+sid=1 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NNP Soviet) (NNP Union))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Castro))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ Russian) (NN leader))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (JJ last) (NN night))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (DT Both) (NP (NNP Russia)) (CC and) (NP (NNP Cuba)))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (DT Both) (NP (NNP Russia)) (CC and) (NP (NNP Cuba)))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Cuba))
+sid=3 spanning 7 until 21 headed by 11 parsed as (NP (NP (PRP$ their) (ADJP (NNS decades) (HYPH -) (JJ old)) (NN relationship)) (SBAR (WHNP (WDT that)) (S (VP (VBD cooled) (PP (IN after) (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union)))))))))
+sid=3 spanning 7 until 8 headed by 7 parsed as (PRP$ their)
+sid=3 spanning 8 until 11 headed by 10 parsed as old
+sid=3 spanning 15 until 21 headed by 16 parsed as (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union))))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP Soviet) (NNP Union))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS leaders))
+sid=4 spanning 4 until 19 headed by 7 parsed as (NP (NP (NP (NN trade) (CC and) (JJ other)) (NNS issues)) (, ,) (PP (VBG including) (NP (NP (NNP Cuba) (POS 's)) (NML (QP ($ $) (CD 11) (CD billion))) (NML (NNP Soviet) (HYPH -) (NN era)) (NN debt))))
+sid=4 spanning 4 until 8 headed by 7 parsed as (NP (NP (NN trade) (CC and) (JJ other)) (NNS issues))
+sid=4 spanning 4 until 7 headed by 4 parsed as (NP (NN trade) (CC and) (JJ other))
+sid=4 spanning 10 until 19 headed by 18 parsed as (NP (NP (NNP Cuba) (POS 's)) (NML (QP ($ $) (CD 11) (CD billion))) (NML (NNP Soviet) (HYPH -) (NN era)) (NN debt))
+sid=4 spanning 10 until 12 headed by 10 parsed as (NP (NNP Cuba) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+16 11 4 | { 'Cuba 's' 'Cuba' 'Cuba' }
+7 2 | { 'Castro' 'Cuban President Fidel Castro' }
+14 6 | { 'the Soviet Union' 'the Soviet Union' }
+9 8 3 0 | { 'he' 'the Russian leader' 'Putin' 'Russian President Vladimir Putin' }
+1 15 | { 'talks with Cuban President Fidel Castro' 'discuss' }
+13 5 | { 'the collapse of the Soviet Union' 'the collapse of the Soviet Union' }
+10 12 | { 'Both Russia and Cuba' 'their' }
+(end gold clusters)

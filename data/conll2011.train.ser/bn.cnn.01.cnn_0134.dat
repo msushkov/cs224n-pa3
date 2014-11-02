@@ -1,0 +1,107 @@
+---------gloss--------
+(0) In [34m{a move to force a special election}[0m , [4m[35m{Ehud Barak}[0m has formally [34m{resigned}[0m as Prime Minister of Israel . 
+(1) [4m[35m{He}[0m plans to run in [31m{a parliamentary election}[0m within two months . 
+(2) [4m[35m{Barak}[0m will remain in office until [31m{the election}[0m . 
+(3) Opposition leaders criticized [34m{the move}[0m , saying [4m[35m{the Prime Minister}[0m is trying to avoid [32m{a showdown}[0m . 
+(4) We try to prevent any way of competing against [4m[34m{Mr. Netanyahu}[0m . 
+(5) [33m{I}[0m think that maybe [4m[35m{he}[0m now has more chance than [4m[35m{he}[0m had before , but [33m{I}[0m want to assure [4m[35m{him}[0m that no matter who is going to be [4m[36m{our}[0m candidate , [4m[36m{we}[0m will be back in power , while the Likud will be back in power . 
+(6) Opposition leaders criticized [34m{the move}[0m , saying [4m[35m{the Prime Minister}[0m is trying to avoid [32m{a showdown with his right - wing predecessor , Benjamin Netanyahu}[0m . 
+(7) [4m[34m{Netanyahu}[0m has recently moved ahead of [4m[35m{Barak}[0m in popularity polls . 
+(8) However , [4m[34m{the former Prime Minister}[0m ca n't run in [31m{the special vote}[0m because [4m[34m{he}[0m 's not currently a member of parliament . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0134); part 000
+sentences:
+IninINOPER0aaDTOPER0movemoveNNOPER0totoTOOPER0forceforceVBOPER0aaDTOPER0specialspecialJJOPER0electionelectionNNOPER0,,,OPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0hashaveVBZOPER0formallyformallyRBOPER0resignedresignVBNOPER0asasINOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0ofofINOPER0IsraelIsraelNNPGPEPER0...OPER0(ROOT (S (PP (IN In) (NP (DT a) (NN move) (S (VP (TO to) (VP (VB force) (NP (DT a) (JJ special) (NN election))))))) (, ,) (NP (NNP Ehud) (NNP Barak)) (VP (VBZ has) (ADVP (RB formally)) (VP (VBN resigned) (PP (IN as) (NP (NP (NNP Prime) (NNP Minister)) (PP (IN of) (NP (NNP Israel))))))) (. .)))
+HehePRPOPER0plansplanVBZOPER0totoTOOPER0runrunVBOPER0ininINOPER0aaDTOPER0parliamentaryparliamentaryJJOPER0electionelectionNNOPER0withinwithinINOPER0twotwoCDDATEPER0monthsmonthNNSDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ plans) (S (VP (TO to) (VP (VB run) (PP (IN in) (NP (NP (DT a) (JJ parliamentary) (NN election)) (PP (IN within) (NP (CD two) (NNS months))))))))) (. .)))
+BarakBarakNNPPERSONPER0willwillMDOPER0remainremainVBOPER0ininINOPER0officeofficeNNOPER0untiluntilINOPER0thetheDTOPER0electionelectionNNOPER0...OPER0(ROOT (S (NP (NNP Barak)) (VP (MD will) (VP (VB remain) (PP (IN in) (NP (NN office))) (PP (IN until) (NP (DT the) (NN election))))) (. .)))
+OppositionoppositionNNOPER0leadersleaderNNSOPER0criticizedcriticizeVBDOPER0thetheDTOPER0movemoveNNOPER0,,,OPER0sayingsayVBGOPER0thetheDTOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0isbeVBZOPER0tryingtryVBGOPER0totoTOOPER0avoidavoidVBOPER0aaDTOPER0showdownshowdownNNOPER0...OPER0(ROOT (S (NP (NN Opposition) (NNS leaders)) (VP (VBD criticized) (NP (DT the) (NN move)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (DT the) (NNP Prime) (NNP Minister)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB avoid) (NP (DT a) (NN showdown)))))))))))) (. .)))
+WewePRPOPER0trytryVBPOPER0totoTOOPER0preventpreventVBOPER0anyanyDTOPER0waywayNNOPER0ofofINOPER0competingcompeteVBGOPER0againstagainstINOPER0Mr.Mr.NNPOPER0NetanyahuNetanyahuNNPPERSONPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP try) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT any) (NN way)) (PP (IN of) (S (VP (VBG competing) (PP (IN against) (NP (NNP Mr.) (NNP Netanyahu))))))))))) (. .)))
+IIPRPOPER0thinkthinkVBPOPER0thatthatINOPER0maybemaybeRBOPER0hehePRPOPER0nownowRBOPER0hashaveVBZOPER0moremoreJJROPER0chancechanceNNOPER0thanthanINOPER0hehePRPOPER0hadhaveVBDOPER0beforebeforeRBOPER0,,,OPER0butbutCCOPER0IIPRPOPER0wantwantVBPOPER0totoTOOPER0assureassureVBOPER0himhePRPOPER0thatthatINOPER0nonoRBOPER0mattermatterRBOPER0whowhoWPOPER0isbeVBZOPER0goinggoVBGOPER0totoTOOPER0bebeVBOPER0ourwePRP$OPER0candidatecandidateNNOPER0,,,OPER0wewePRPOPER0willwillMDOPER0bebeVBOPER0backbackRBOPER0ininINOPER0powerpowerNNOPER0,,,OPER0whilewhileINOPER0thetheDTOPER0LikudLikudNNPORGPER0willwillMDOPER0bebeVBOPER0backbackRBOPER0ininINOPER0powerpowerNNOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (S (ADVP (RB maybe)) (NP (PRP he)) (ADVP (RB now)) (VP (VBZ has) (NP (NP (JJR more) (NN chance)) (SBAR (IN than) (S (NP (PRP he)) (VP (VBD had) (ADVP (RB before)))))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB assure) (NP (PRP him)) (SBAR (IN that) (S (ADVP (RB no) (RB matter) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (NP (PRP$ our) (NN candidate)))))))))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB be) (ADVP (RB back) (PP (IN in) (NP (NN power))))))))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNP Likud)) (VP (MD will) (VP (VB be) (ADVP (RB back) (PP (IN in) (NP (NN power))))))))))))) (. .)))
+OppositionoppositionNNOPER0leadersleaderNNSOPER0criticizedcriticizeVBDOPER0thetheDTOPER0movemoveNNOPER0,,,OPER0sayingsayVBGOPER0thetheDTOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0isbeVBZOPER0tryingtryVBGOPER0totoTOOPER0avoidavoidVBOPER0aaDTOPER0showdownshowdownNNOPER0withwithINOPER0hishePRP$OPER0rightrightJJOPER0--HYPHOPER0wingwingNNOPER0predecessorpredecessorNNOPER0,,,OPER0BenjaminBenjaminNNPPERSONPER0NetanyahuNetanyahuNNPPERSONPER0...OPER0(ROOT (S (NP (NN Opposition) (NNS leaders)) (VP (VBD criticized) (NP (DT the) (NN move)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (DT the) (NNP Prime) (NNP Minister)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB avoid) (NP (DT a) (NN showdown)) (PP (IN with) (NP (NP (PRP$ his) (ADJP (JJ right) (HYPH -) (NN wing)) (NN predecessor)) (, ,) (NP (NNP Benjamin) (NNP Netanyahu)))))))))))))) (. .)))
+NetanyahuNetanyahuNNPPERSONPER0hashaveVBZOPER0recentlyrecentlyRBOPER0movedmoveVBNOPER0aheadaheadRBOPER0ofofINOPER0BarakBarakNNPPERSONPER0ininINOPER0popularitypopularityNNOPER0pollspollNNSOPER0...OPER0(ROOT (S (NP (NNP Netanyahu)) (VP (VBZ has) (ADVP (RB recently)) (VP (VBN moved) (ADVP (RB ahead) (PP (IN of) (NP (NNP Barak)))) (PP (IN in) (NP (NN popularity) (NNS polls))))) (. .)))
+HoweverhoweverRBOPER0,,,OPER0thetheDTOPER0formerformerJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0cacanMDOPER0n'tnotRBOPER0runrunVBOPER0ininINOPER0thetheDTOPER0specialspecialJJOPER0votevoteNNOPER0becausebecauseINOPER0hehePRPOPER0'sbeVBZOPER0notnotRBOPER0currentlycurrentlyRBOPER0aaDTOPER0membermemberNNOPER0ofofINOPER0parliamentparliamentNNORGPER0...OPER0(ROOT (S (ADVP (RB However)) (, ,) (NP (DT the) (JJ former) (NNP Prime) (NNP Minister)) (VP (MD ca) (RB n't) (VP (VB run) (PP (IN in) (NP (DT the) (JJ special) (NN vote))) (SBAR (IN because) (S (NP (PRP he)) (VP (VBZ 's) (RB not) (ADVP (RB currently)) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NN parliament))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 8 headed by 2 parsed as (NP (DT a) (NN move) (S (VP (TO to) (VP (VB force) (NP (DT a) (JJ special) (NN election))))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NNP Ehud) (NNP Barak))
+sid=0 spanning 13 until 14 headed by 13 parsed as resigned
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (NP (DT a) (JJ parliamentary) (NN election)) (PP (IN within) (NP (CD two) (NNS months))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN election))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN move))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Prime) (NNP Minister))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN showdown))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (NNP Mr.) (NNP Netanyahu))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (PRP I))
+sid=5 spanning 19 until 20 headed by 19 parsed as (NP (PRP him))
+sid=5 spanning 28 until 29 headed by 28 parsed as our
+sid=5 spanning 31 until 32 headed by 31 parsed as (NP (PRP we))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN move))
+sid=6 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Prime) (NNP Minister))
+sid=6 spanning 14 until 25 headed by 15 parsed as (NP (DT a) (NN showdown))
+sid=6 spanning 17 until 25 headed by 21 parsed as (NP (NP (PRP$ his) (ADJP (JJ right) (HYPH -) (NN wing)) (NN predecessor)) (, ,) (NP (NNP Benjamin) (NNP Netanyahu)))
+sid=6 spanning 17 until 18 headed by 17 parsed as his
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Netanyahu))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Barak))
+sid=8 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (JJ former) (NNP Prime) (NNP Minister))
+sid=8 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ special) (NN vote))
+sid=8 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 8 headed by 2 parsed as (NP (DT a) (NN move) (S (VP (TO to) (VP (VB force) (NP (DT a) (JJ special) (NN election))))))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ special) (NN election))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NNP Ehud) (NNP Barak))
+sid=0 spanning 15 until 19 headed by 16 parsed as (NP (NP (NNP Prime) (NNP Minister)) (PP (IN of) (NP (NNP Israel))))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Israel))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 5 until 11 headed by 7 parsed as (NP (NP (DT a) (JJ parliamentary) (NN election)) (PP (IN within) (NP (CD two) (NNS months))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (CD two) (NNS months))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN election))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NN Opposition) (NNS leaders))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN move))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Prime) (NNP Minister))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN showdown))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (NNP Mr.) (NNP Netanyahu))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=5 spanning 7 until 13 headed by 8 parsed as (NP (NP (JJR more) (NN chance)) (SBAR (IN than) (S (NP (PRP he)) (VP (VBD had) (ADVP (RB before))))))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (PRP I))
+sid=5 spanning 19 until 20 headed by 19 parsed as (NP (PRP him))
+sid=5 spanning 28 until 30 headed by 29 parsed as (NP (PRP$ our) (NN candidate))
+sid=5 spanning 28 until 29 headed by 28 parsed as (PRP$ our)
+sid=5 spanning 31 until 32 headed by 31 parsed as (NP (PRP we))
+sid=5 spanning 39 until 41 headed by 40 parsed as (NP (DT the) (NNP Likud))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NN Opposition) (NNS leaders))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN move))
+sid=6 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Prime) (NNP Minister))
+sid=6 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN showdown))
+sid=6 spanning 17 until 25 headed by 21 parsed as (NP (NP (PRP$ his) (ADJP (JJ right) (HYPH -) (NN wing)) (NN predecessor)) (, ,) (NP (NNP Benjamin) (NNP Netanyahu)))
+sid=6 spanning 17 until 22 headed by 21 parsed as (NP (PRP$ his) (ADJP (JJ right) (HYPH -) (NN wing)) (NN predecessor))
+sid=6 spanning 17 until 18 headed by 17 parsed as (PRP$ his)
+sid=6 spanning 23 until 25 headed by 24 parsed as (NP (NNP Benjamin) (NNP Netanyahu))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Netanyahu))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Barak))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (NN popularity) (NNS polls))
+sid=8 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (JJ former) (NNP Prime) (NNP Minister))
+sid=8 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ special) (NN vote))
+sid=8 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=8 spanning 18 until 22 headed by 19 parsed as (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NN parliament))))
+(end predicted mentions)
+---------gold clusters--------
+27 25 10 21 23 | { 'he' 'the former Prime Minister' 'Mr. Netanyahu' 'his right - wing predecessor , Benjamin Netanyahu' 'Netanyahu' }
+5 15 1 22 12 3 13 19 24 8 | { 'Barak' 'him' 'Ehud Barak' 'his' 'he' 'He' 'he' 'the Prime Minister' 'Barak' 'the Prime Minister' }
+16 17 | { 'our' 'we' }
+4 26 6 | { 'a parliamentary election' 'the special vote' 'the election' }
+20 9 | { 'a showdown with his right - wing predecessor , Benjamin Netanyahu' 'a showdown' }
+11 14 | { 'I' 'I' }
+0 7 18 2 | { 'a move to force a special election' 'the move' 'the move' 'resigned' }
+(end gold clusters)

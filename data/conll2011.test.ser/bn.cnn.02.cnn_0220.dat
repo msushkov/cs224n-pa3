@@ -1,0 +1,54 @@
+---------gloss--------
+(0) A week after these pictures surfaced , and after saying [4m[31m{he}[0m 'd fight for [4m[31m{his}[0m job , [4m[31m{Larry Eustachy}[0m resigned as [3m[36m{basketball coach at Iowa State}[0m . 
+(1) The damage to [4m[31m{his}[0m credibility was too much after [4m[31m{Eustachy}[0m admitted [4m[31m{he}[0m partied with students at rival schools , and that [4m[31m{he}[0m 's an alcoholic . 
+(2) [4m[31m{He}[0m seeped a $ 960,000 buyout from [3m[35m{the university}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0220); part 000
+sentences:
+AaDTDATEPER0weekweekNNDATEPER0afterafterINOPER0thesetheseDTOPER0picturespictureNNSOPER0surfacedsurfaceVBDOPER0,,,OPER0andandCCOPER0afterafterINOPER0sayingsayVBGOPER0hehePRPOPER0'dwouldMDOPER0fightfightVBOPER0forforINOPER0hishePRP$OPER0jobjobNNOPER0,,,OPER0LarryLarryNNPPERSONPER0EustachyEustachyNNPPERSONPER0resignedresignVBDOPER0asasINOPER0basketballbasketballNNOPER0coachcoachNNOPER0atatINOPER0IowaIowaNNPGPEPER0StateStateNNPGPEPER0...OPER0(ROOT (S (SBAR (NP (DT A) (NN week)) (IN after) (S (NP (DT these) (NNS pictures)) (VP (VBD surfaced)))) (, ,) (CC and) (PP (IN after) (S (VP (VBG saying) (SBAR (S (NP (PRP he)) (VP (MD 'd) (VP (VB fight) (PP (IN for) (NP (PRP$ his) (NN job)))))))))) (, ,) (NP (NNP Larry) (NNP Eustachy)) (VP (VBD resigned) (PP (IN as) (NP (NP (NN basketball) (NN coach)) (PP (IN at) (NP (NNP Iowa) (NNP State)))))) (. .)))
+ThetheDTOPER0damagedamageNNOPER0totoINOPER0hishePRP$OPER0credibilitycredibilityNNOPER0wasbeVBDOPER0tootooRBOPER0muchmuchJJOPER0afterafterINOPER0EustachyEustachyNNPPERSONPER0admittedadmitVBDOPER0hehePRPOPER0partiedpartyVBDOPER0withwithINOPER0studentsstudentNNSOPER0atatINOPER0rivalrivalJJOPER0schoolsschoolNNSOPER0,,,OPER0andandCCOPER0thatthatINOPER0hehePRPOPER0'sbeVBZOPER0anaDTOPER0alcoholicalcoholicNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN damage)) (PP (IN to) (NP (PRP$ his) (NN credibility)))) (VP (VBD was) (ADJP (RB too) (JJ much)) (SBAR (IN after) (S (NP (NNP Eustachy)) (VP (VBD admitted) (SBAR (SBAR (S (NP (PRP he)) (VP (VBD partied) (PP (IN with) (NP (NP (NNS students)) (PP (IN at) (NP (JJ rival) (NNS schools)))))))) (, ,) (CC and) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ 's) (NP (DT an) (NN alcoholic)))))))))) (. .)))
+HehePRPOPER0seepedseepVBDOPER0aaDTOPER0$$$MONEYPER0960,000960,000CDMONEYPER0buyoutbuyoutNNOPER0fromfromINOPER0thetheDTOPER0universityuniversityNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD seeped) (NP (DT a) (NML ($ $) (CD 960,000)) (NN buyout)) (PP (IN from) (NP (DT the) (NN university)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ his) (NN job))
+sid=0 spanning 14 until 15 headed by 14 parsed as his
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (NNP Larry) (NNP Eustachy))
+sid=0 spanning 21 until 26 headed by 22 parsed as (NP (NP (NN basketball) (NN coach)) (PP (IN at) (NP (NNP Iowa) (NNP State))))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (NNP Iowa) (NNP State))
+sid=1 spanning 3 until 4 headed by 3 parsed as his
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Eustachy))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=1 spanning 21 until 22 headed by 21 parsed as (NP (PRP he))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN university))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT A) (NN week))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (DT these) (NNS pictures))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ his) (NN job))
+sid=0 spanning 14 until 15 headed by 14 parsed as (PRP$ his)
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (NNP Larry) (NNP Eustachy))
+sid=0 spanning 21 until 26 headed by 22 parsed as (NP (NP (NN basketball) (NN coach)) (PP (IN at) (NP (NNP Iowa) (NNP State))))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (NNP Iowa) (NNP State))
+sid=1 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN damage)) (PP (IN to) (NP (PRP$ his) (NN credibility))))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN credibility))
+sid=1 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Eustachy))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=1 spanning 14 until 18 headed by 14 parsed as (NP (NP (NNS students)) (PP (IN at) (NP (JJ rival) (NNS schools))))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (JJ rival) (NNS schools))
+sid=1 spanning 21 until 22 headed by 21 parsed as (NP (PRP he))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT an) (NN alcoholic))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 6 headed by 5 parsed as (NP (DT a) (NML ($ $) (CD 960,000)) (NN buyout))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN university))
+(end predicted mentions)
+---------gold clusters--------
+5 11 | { 'Iowa State' 'the university' }
+1 4 | { 'his job' 'basketball coach at Iowa State' }
+0 3 9 2 7 8 6 10 | { 'he' 'Larry Eustachy' 'he' 'his' 'Eustachy' 'he' 'his' 'He' }
+(end gold clusters)

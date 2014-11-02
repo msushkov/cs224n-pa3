@@ -1,0 +1,102 @@
+---------gloss--------
+(0) Several Islamic groups are claiming responsibility for [4m[32m{the attacks in Yemen on a US destroyer and the British embassy}[0m . 
+(1) Seventeen sailors died when an explosion ripped a hole into [3m[35m{the USS Cole}[0m in the port of [3m[34m{Aden}[0m yesterday . 
+(2) [4m[34m{The BBC 's Barbara Platt}[0m reports . 
+(3) [3m[33m{A previously unknown group calling itself ` Martyrs of the Oaxa Mosque Uprising '}[0m said [3m[33m{it}[0m had bombed [3m[35m{the US destroyer}[0m to defend Islamic honor and to avenge the blood of Palestinians killed by Israelis with [4m[33m{America 's}[0m blessing . 
+(4) Arab anger at the high Palestinian death toll and overwhelming Israeli force is also directed at [4m[33m{the United States , which is seen as biased towards Israel}[0m , and Britain is often associated with American policies here . 
+(5) [3m[36m{A second group called ` Mohammed 's Army '}[0m said [3m[36m{it}[0m carried out [4m[32m{both the ship and the embassy attacks}[0m and that [3m[36m{it}[0m planned to bomb all US and British embassies . 
+(6) [4m[34m{Barbara Platt in Aden .}[0m 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0022); part 000
+sentences:
+SeveralseveralJJOPER0IslamicislamicJJOPER0groupsgroupNNSOPER0arebeVBPOPER0claimingclaimVBGOPER0responsibilityresponsibilityNNOPER0forforINOPER0thetheDTOPER0attacksattackNNSOPER0ininINOPER0YemenYemenNNPGPEPER0ononINOPER0aaDTOPER0USUSNNPGPEPER0destroyerdestroyerNNOPER0andandCCOPER0thetheDTOPER0BritishbritishJJOPER0embassyembassyNNOPER0...OPER0(ROOT (S (NP (JJ Several) (JJ Islamic) (NNS groups)) (VP (VBP are) (VP (VBG claiming) (NP (NP (NN responsibility)) (PP (IN for) (NP (NP (DT the) (NNS attacks)) (PP (IN in) (NP (NNP Yemen))) (PP (IN on) (NP (NP (DT a) (NNP US) (NN destroyer)) (CC and) (NP (DT the) (JJ British) (NN embassy))))))))) (. .)))
+SeventeenseventeenCDCARDINALPER0sailorssailorNNSOPER0dieddieVBDOPER0whenwhenWRBOPER0anaDTOPER0explosionexplosionNNOPER0rippedripVBDOPER0aaDTOPER0holeholeNNOPER0intointoINOPER0thetheDTPRODUCTPER0USSUSSNNPPRODUCTPER0ColeColeNNPPRODUCTPER0ininINOPER0thetheDTOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (CD Seventeen) (NNS sailors)) (VP (VBD died) (SBAR (WHADVP (WRB when)) (S (NP (DT an) (NN explosion)) (VP (VBD ripped) (NP (NP (DT a) (NN hole)) (PP (IN into) (NP (DT the) (NNP USS) (NNP Cole)))) (PP (IN in) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))))) (NP (NN yesterday)))))) (. .)))
+ThetheDTOPER0BBCBBCNNPORGPER0's'sPOSOPER0BarbaraBarbaraNNPPERSONPER0PlattPlattNNPPERSONPER0reportsreportVBZOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP BBC) (POS 's)) (NNP Barbara) (NNP Platt)) (VP (VBZ reports)) (. .)))
+AaDTOPER0previouslypreviouslyRBOPER0unknownunknownJJOPER0groupgroupNNOPER0callingcallVBGOPER0itselfitselfPRPOPER0````OPER0MartyrsmartyrNNSWORK_OF_ARTPER0ofofINWORK_OF_ARTPER0thetheDTWORK_OF_ARTPER0OaxaOaxaNNPWORK_OF_ARTPER0MosqueMosqueNNPWORK_OF_ARTPER0UprisinguprisingNNWORK_OF_ARTPER0''''OPER0saidsayVBDOPER0ititPRPOPER0hadhaveVBDOPER0bombedbombVBNOPER0thetheDTOPER0USUSNNPGPEPER0destroyerdestroyerNNOPER0totoTOOPER0defenddefendVBOPER0IslamicislamicJJOPER0honorhonorNNOPER0andandCCOPER0totoTOOPER0avengeavengeVBOPER0thetheDTOPER0bloodbloodNNOPER0ofofINOPER0PalestiniansPalestiniansNNPSOPER0killedkillVBNOPER0bybyINOPER0IsraelisIsraelisNNPSOPER0withwithINOPER0AmericaAmericaNNPGPEPER0's'sPOSOPER0blessingblessingNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (ADJP (RB previously) (JJ unknown)) (NN group)) (VP (VBG calling) (NP (PRP itself)) (S (`` `) (NP (NP (NNS Martyrs)) (PP (IN of) (NP (DT the) (NML (NNP Oaxa) (NNP Mosque)) (NN Uprising)))) ('' ')))) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD had) (VP (VBN bombed) (NP (DT the) (NNP US) (NN destroyer)) (S (VP (VP (TO to) (VP (VB defend) (NP (JJ Islamic) (NN honor)))) (CC and) (VP (TO to) (VP (VB avenge) (NP (NP (DT the) (NN blood)) (PP (IN of) (NP (NP (NNPS Palestinians)) (VP (VBN killed) (PP (IN by) (NP (NNPS Israelis))))))) (PP (IN with) (NP (NP (NNP America) (POS 's)) (NN blessing)))))))))))) (. .)))
+ArabarabJJOPER0angerangerNNOPER0atatINOPER0thetheDTOPER0highhighJJOPER0PalestinianpalestinianJJOPER0deathdeathNNOPER0tolltollNNOPER0andandCCOPER0overwhelmingoverwhelmingJJOPER0IsraeliisraeliJJOPER0forceforceNNOPER0isbeVBZOPER0alsoalsoRBOPER0directeddirectVBNOPER0atatINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0,,,OPER0whichwhichWDTOPER0isbeVBZOPER0seenseeVBNOPER0asasINOPER0biasedbiasedJJOPER0towardstowardsINOPER0IsraelIsraelNNPGPEPER0,,,OPER0andandCCOPER0BritainBritainNNPGPEPER0isbeVBZOPER0oftenoftenRBOPER0associatedassociateVBNOPER0withwithINOPER0AmericanamericanJJOPER0policiespolicyNNSOPER0herehereRBOPER0...OPER0(ROOT (S (S (NP (NP (JJ Arab) (NN anger)) (PP (IN at) (NP (NP (DT the) (JJ high) (JJ Palestinian) (NN death) (NN toll)) (CC and) (NP (JJ overwhelming) (JJ Israeli) (NN force))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN directed) (PP (IN at) (NP (NP (DT the) (NNP United) (NNP States)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN seen) (PP (IN as) (ADJP (JJ biased))) (PP (IN towards) (NP (NNP Israel)))))))))))) (, ,) (CC and) (S (NP (NNP Britain)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN associated) (PP (IN with) (NP (NP (JJ American) (NNS policies)) (ADVP (RB here))))))) (. .)))
+AaDTOPER0secondsecondJJORDINALPER0groupgroupNNOPER0calledcallVBNOPER0````OPER0MohammedMohammedNNPPERSONPER0's'sPOSOPER0ArmyArmyNNPORGPER0''''OPER0saidsayVBDOPER0ititPRPOPER0carriedcarryVBDOPER0outoutRPOPER0bothbothCCOPER0thetheDTOPER0shipshipNNOPER0andandCCOPER0thetheDTOPER0embassyembassyNNOPER0attacksattackNNSOPER0andandCCOPER0thatthatINOPER0ititPRPOPER0plannedplanVBDOPER0totoTOOPER0bombbombVBOPER0allallDTOPER0USUSNNPGPEPER0andandCCOPER0BritishbritishJJOPER0embassiesembassyNNSOPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ second) (NN group)) (VP (VBN called) (S (NP (`` `) (NP (NP (NNP Mohammed) (POS 's)) (NNP Army)) ('' '))))) (VP (VBD said) (SBAR (SBAR (S (NP (PRP it)) (VP (VBD carried) (PRT (RP out)) (NP (CC both) (NP (DT the) (NN ship)) (CC and) (NP (DT the) (NN embassy) (NNS attacks)))))) (CC and) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD planned) (S (VP (TO to) (VP (VB bomb) (NP (DT all) (NP (NNP US) (CC and) (JJ British)) (NNS embassies)))))))))) (. .)))
+BarbaraBarbaraNNPPERSONPER0PlattPlattNNPPERSONPER0ininINOPER0AdenAdenNNPLOCPER0...OPER0(ROOT (NP (NP (NNP Barbara) (NNP Platt)) (PP (IN in) (NP (NNP Aden))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 7 until 19 headed by 8 parsed as (NP (NP (DT the) (NNS attacks)) (PP (IN in) (NP (NNP Yemen))) (PP (IN on) (NP (NP (DT a) (NNP US) (NN destroyer)) (CC and) (NP (DT the) (JJ British) (NN embassy)))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (NP (DT a) (NNP US) (NN destroyer)) (CC and) (NP (DT the) (JJ British) (NN embassy)))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ British) (NN embassy))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP USS) (NNP Cole))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Aden))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NNP BBC) (POS 's)) (NNP Barbara) (NNP Platt))
+sid=3 spanning 0 until 14 headed by 3 parsed as (NP (NP (DT A) (ADJP (RB previously) (JJ unknown)) (NN group)) (VP (VBG calling) (NP (PRP itself)) (S (`` `) (NP (NP (NNS Martyrs)) (PP (IN of) (NP (DT the) (NML (NNP Oaxa) (NNP Mosque)) (NN Uprising)))) ('' '))))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP itself))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (PRP it))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP US) (NN destroyer))
+sid=3 spanning 36 until 38 headed by 36 parsed as (NP (NNP America) (POS 's))
+sid=4 spanning 16 until 27 headed by 18 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN seen) (PP (IN as) (ADJP (JJ biased))) (PP (IN towards) (NP (NNP Israel))))))))
+sid=5 spanning 0 until 9 headed by 2 parsed as (NP (NP (DT A) (JJ second) (NN group)) (VP (VBN called) (S (NP (`` `) (NP (NP (NNP Mohammed) (POS 's)) (NNP Army)) ('' ')))))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (CC both) (NP (DT the) (NN ship)) (CC and) (NP (DT the) (NN embassy) (NNS attacks)))
+sid=5 spanning 13 until 20 headed by 15 parsed as (NP (CC both) (NP (DT the) (NN ship)) (CC and) (NP (DT the) (NN embassy) (NNS attacks)))
+sid=5 spanning 18 until 19 headed by 18 parsed as embassy
+sid=5 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=6 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Barbara) (NNP Platt)) (PP (IN in) (NP (NNP Aden))) (. .))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (NNP Aden))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (JJ Several) (JJ Islamic) (NNS groups))
+sid=0 spanning 5 until 19 headed by 5 parsed as (NP (NP (NN responsibility)) (PP (IN for) (NP (NP (DT the) (NNS attacks)) (PP (IN in) (NP (NNP Yemen))) (PP (IN on) (NP (NP (DT a) (NNP US) (NN destroyer)) (CC and) (NP (DT the) (JJ British) (NN embassy)))))))
+sid=0 spanning 7 until 19 headed by 8 parsed as (NP (NP (DT the) (NNS attacks)) (PP (IN in) (NP (NNP Yemen))) (PP (IN on) (NP (NP (DT a) (NNP US) (NN destroyer)) (CC and) (NP (DT the) (JJ British) (NN embassy)))))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Yemen))
+sid=0 spanning 12 until 19 headed by 14 parsed as (NP (NP (DT a) (NNP US) (NN destroyer)) (CC and) (NP (DT the) (JJ British) (NN embassy)))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (NNP US) (NN destroyer))
+sid=0 spanning 13 until 14 headed by 13 parsed as US
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ British) (NN embassy))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (CD Seventeen) (NNS sailors))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT an) (NN explosion))
+sid=1 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT a) (NN hole)) (PP (IN into) (NP (DT the) (NNP USS) (NNP Cole))))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP USS) (NNP Cole))
+sid=1 spanning 14 until 18 headed by 15 parsed as (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Aden))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (NN yesterday))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NNP BBC) (POS 's)) (NNP Barbara) (NNP Platt))
+sid=2 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NNP BBC) (POS 's))
+sid=3 spanning 0 until 14 headed by 3 parsed as (NP (NP (DT A) (ADJP (RB previously) (JJ unknown)) (NN group)) (VP (VBG calling) (NP (PRP itself)) (S (`` `) (NP (NP (NNS Martyrs)) (PP (IN of) (NP (DT the) (NML (NNP Oaxa) (NNP Mosque)) (NN Uprising)))) ('' '))))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP itself))
+sid=3 spanning 7 until 13 headed by 7 parsed as (NP (NP (NNS Martyrs)) (PP (IN of) (NP (DT the) (NML (NNP Oaxa) (NNP Mosque)) (NN Uprising))))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (PRP it))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP US) (NN destroyer))
+sid=3 spanning 19 until 20 headed by 19 parsed as US
+sid=3 spanning 28 until 35 headed by 29 parsed as (NP (NP (DT the) (NN blood)) (PP (IN of) (NP (NP (NNPS Palestinians)) (VP (VBN killed) (PP (IN by) (NP (NNPS Israelis)))))))
+sid=3 spanning 31 until 35 headed by 31 parsed as (NP (NP (NNPS Palestinians)) (VP (VBN killed) (PP (IN by) (NP (NNPS Israelis)))))
+sid=3 spanning 36 until 39 headed by 38 parsed as (NP (NP (NNP America) (POS 's)) (NN blessing))
+sid=3 spanning 36 until 38 headed by 36 parsed as (NP (NNP America) (POS 's))
+sid=4 spanning 3 until 12 headed by 7 parsed as (NP (NP (DT the) (JJ high) (JJ Palestinian) (NN death) (NN toll)) (CC and) (NP (JJ overwhelming) (JJ Israeli) (NN force)))
+sid=4 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (JJ high) (JJ Palestinian) (NN death) (NN toll))
+sid=4 spanning 16 until 19 headed by 18 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN seen) (PP (IN as) (ADJP (JJ biased))) (PP (IN towards) (NP (NNP Israel))))))))
+sid=4 spanning 16 until 27 headed by 18 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN seen) (PP (IN as) (ADJP (JJ biased))) (PP (IN towards) (NP (NNP Israel))))))))
+sid=4 spanning 26 until 27 headed by 26 parsed as (NP (NNP Israel))
+sid=4 spanning 29 until 30 headed by 29 parsed as (NP (NNP Britain))
+sid=4 spanning 34 until 37 headed by 35 parsed as (NP (NP (JJ American) (NNS policies)) (ADVP (RB here)))
+sid=5 spanning 0 until 9 headed by 2 parsed as (NP (NP (DT A) (JJ second) (NN group)) (VP (VBN called) (S (NP (`` `) (NP (NP (NNP Mohammed) (POS 's)) (NNP Army)) ('' ')))))
+sid=5 spanning 1 until 2 headed by 1 parsed as second
+sid=5 spanning 4 until 9 headed by 7 parsed as (NP (`` `) (NP (NP (NNP Mohammed) (POS 's)) (NNP Army)) ('' '))
+sid=5 spanning 5 until 7 headed by 5 parsed as (NP (NNP Mohammed) (POS 's))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=5 spanning 13 until 20 headed by 15 parsed as (NP (CC both) (NP (DT the) (NN ship)) (CC and) (NP (DT the) (NN embassy) (NNS attacks)))
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN ship))
+sid=5 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NN embassy) (NNS attacks))
+sid=5 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=5 spanning 27 until 28 headed by 27 parsed as (NP (NNP US) (CC and) (JJ British))
+sid=5 spanning 27 until 30 headed by 27 parsed as (NP (NNP US) (CC and) (JJ British))
+sid=6 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Barbara) (NNP Platt)) (PP (IN in) (NP (NNP Aden))) (. .))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (NNP Aden))
+(end predicted mentions)
+---------gold clusters--------
+6 8 7 | { 'A previously unknown group calling itself ` Martyrs of the Oaxa Mosque Uprising '' 'it' 'itself' }
+4 19 | { 'Aden' 'Aden' }
+9 1 14 3 | { 'the US destroyer' 'a US destroyer' 'the ship' 'the USS Cole' }
+12 13 17 | { 'A second group called ` Mohammed 's Army '' 'it' 'it' }
+2 16 | { 'the British embassy' 'embassy' }
+15 0 | { 'both the ship and the embassy attacks' 'the attacks in Yemen on a US destroyer and the British embassy' }
+10 11 | { 'America 's' 'the United States , which is seen as biased towards Israel' }
+5 18 | { 'The BBC 's Barbara Platt' 'Barbara Platt in Aden .' }
+(end gold clusters)

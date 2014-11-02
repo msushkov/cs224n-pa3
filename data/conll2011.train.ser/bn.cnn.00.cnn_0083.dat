@@ -1,0 +1,79 @@
+---------gloss--------
+(0) [1m[34m{WorldCom}[0m hits Wall Street with two big announcements . 
+(1) I 'm Myron Kandel at the CNNFN newsdesk in New York . 
+(2) [1m[34m{The nation 's second biggest long distance phone company}[0m cut [1m[34m{its}[0m revenue and profit growth outlooks through next year . 
+(3) [1m[34m{It}[0m blames competitive pressures and increased expenses . 
+(4) [1m[34m{WorldCom}[0m also confirms [1m[34m{its}[0m restructuring of [1m[34m{the company}[0m and creating two tracking stocks . 
+(5) One called WorldCom will follow the faster growing data and internet business . 
+(6) The other , called MCI , will track [1m[34m{the company 's}[0m long distance units . 
+(7) [1m[34m{WorldCom 's}[0m rival , AT&T , announced a similar restructuring plan last week . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0083); part 000
+sentences:
+WorldComWorldComNNPORGPER0hitshitVBZOPER0WallWallNNPOPER0StreetStreetNNPOPER0withwithINOPER0twotwoCDCARDINALPER0bigbigJJOPER0announcementsannouncementNNSOPER0...OPER0(ROOT (S (NP (NNP WorldCom)) (VP (VBZ hits) (NP (NNP Wall) (NNP Street)) (PP (IN with) (NP (CD two) (JJ big) (NNS announcements)))) (. .)))
+IIPRPOPER0'mbeVBPOPER0MyronMyronNNPPERSONPER0KandelKandelNNPPERSONPER0atatINOPER0thetheDTOPER0CNNFNCNNFNNNPORGPER0newsdesknewsdeskNNOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP Myron) (NNP Kandel)) (PP (IN at) (NP (NP (DT the) (NNP CNNFN) (NN newsdesk)) (PP (IN in) (NP (NNP New) (NNP York))))))) (. .)))
+ThetheDTOPER0nationnationNNOPER0's'sPOSOPER0secondsecondRBORDINALPER0biggestbiggestJJSOPER0longlongJJOPER0distancedistanceNNOPER0phonephoneNNOPER0companycompanyNNOPER0cutcutVBDOPER0itsitsPRP$OPER0revenuerevenueNNOPER0andandCCOPER0profitprofitNNOPER0growthgrowthNNOPER0outlooksoutlookNNSOPER0throughthroughINOPER0nextnextJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN nation) (POS 's)) (ADJP (RB second) (JJS biggest)) (NML (JJ long) (NN distance)) (NN phone) (NN company)) (VP (VBD cut) (NP (PRP$ its) (NN revenue) (CC and) (NN profit)) (PP (NP (NN growth) (NNS outlooks)) (IN through) (NP (JJ next) (NN year)))) (. .)))
+ItitPRPOPER0blamesblameVBZOPER0competitivecompetitiveJJOPER0pressurespressureNNSOPER0andandCCOPER0increasedincreaseVBNOPER0expensesexpenseNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ blames) (NP (NP (JJ competitive) (NNS pressures)) (CC and) (NP (VBN increased) (NNS expenses)))) (. .)))
+WorldComWorldComNNPORGPER0alsoalsoRBOPER0confirmsconfirmVBZOPER0itsitsPRP$OPER0restructuringrestructuringNNOPER0ofofINOPER0thetheDTOPER0companycompanyNNOPER0andandCCOPER0creatingcreateVBGOPER0twotwoCDCARDINALPER0trackingtrackingNNOPER0stocksstockNNSOPER0...OPER0(ROOT (S (NP (NNP WorldCom)) (ADVP (RB also)) (VP (VBZ confirms) (NP (NP (PRP$ its) (NN restructuring)) (PP (IN of) (NP (NP (DT the) (NN company)) (CC and) (S (VP (VBG creating) (NP (CD two) (NN tracking) (NNS stocks)))))))) (. .)))
+OneoneNNCARDINALPER0calledcallVBDOPER0WorldComWorldComNNPORGPER0willwillMDOPER0followfollowVBOPER0thetheDTOPER0fasterfasterJJROPER0growinggrowingNNOPER0datadatumNNSOPER0andandCCOPER0internetinternetNNOPER0businessbusinessNNOPER0...OPER0(ROOT (S (NP (NN One)) (VP (VBD called) (SBAR (S (NP (NNP WorldCom)) (VP (MD will) (VP (VB follow) (NP (NP (DT the) (JJR faster) (NN growing) (NNS data)) (CC and) (NP (NN internet) (NN business)))))))) (. .)))
+ThetheDTOPER0otherotherJJOPER0,,,OPER0calledcallVBNOPER0MCIMCINNPORGPER0,,,OPER0willwillMDOPER0tracktrackVBOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0longlongJJOPER0distancedistanceNNOPER0unitsunitNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ other)) (, ,) (VP (VBN called) (S (NP (NNP MCI)))) (, ,)) (VP (MD will) (VP (VB track) (NP (NP (DT the) (NN company) (POS 's)) (NML (JJ long) (NN distance)) (NNS units)))) (. .)))
+WorldComWorldComNNPORGPER0's'sPOSOPER0rivalrivalNNOPER0,,,OPER0AT&TAT&TNNPORGPER0,,,OPER0announcedannounceVBDOPER0aaDTOPER0similarsimilarJJOPER0restructuringrestructureVBGOPER0planplanNNOPER0lastlastJJDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (NP (NP (NNP WorldCom) (POS 's)) (NN rival)) (, ,) (NP (NNP AT&T)) (, ,)) (VP (VBD announced) (NP (DT a) (JJ similar) (VBG restructuring) (NN plan)) (NP (JJ last) (NN week))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=2 spanning 0 until 9 headed by 8 parsed as (NP (NP (DT The) (NN nation) (POS 's)) (ADJP (RB second) (JJS biggest)) (NML (JJ long) (NN distance)) (NN phone) (NN company))
+sid=2 spanning 10 until 11 headed by 10 parsed as its
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=4 spanning 3 until 4 headed by 3 parsed as its
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (NP (DT the) (NN company)) (CC and) (S (VP (VBG creating) (NP (CD two) (NN tracking) (NNS stocks)))))
+sid=6 spanning 8 until 11 headed by 9 parsed as (NP (DT the) (NN company) (POS 's))
+sid=7 spanning 0 until 2 headed by 0 parsed as (NP (NNP WorldCom) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NNP Wall) (NNP Street))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (CD two) (JJ big) (NNS announcements))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=1 spanning 2 until 11 headed by 3 parsed as (NP (NP (NNP Myron) (NNP Kandel)) (PP (IN at) (NP (NP (DT the) (NNP CNNFN) (NN newsdesk)) (PP (IN in) (NP (NNP New) (NNP York))))))
+sid=1 spanning 5 until 11 headed by 7 parsed as (NP (NP (DT the) (NNP CNNFN) (NN newsdesk)) (PP (IN in) (NP (NNP New) (NNP York))))
+sid=1 spanning 6 until 7 headed by 6 parsed as CNNFN
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP New) (NNP York))
+sid=2 spanning 0 until 9 headed by 8 parsed as (NP (NP (DT The) (NN nation) (POS 's)) (ADJP (RB second) (JJS biggest)) (NML (JJ long) (NN distance)) (NN phone) (NN company))
+sid=2 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN nation) (POS 's))
+sid=2 spanning 3 until 4 headed by 3 parsed as second
+sid=2 spanning 10 until 14 headed by 11 parsed as (NP (PRP$ its) (NN revenue) (CC and) (NN profit))
+sid=2 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (NN growth) (NNS outlooks))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (JJ next) (NN year))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 2 until 7 headed by 3 parsed as (NP (NP (JJ competitive) (NNS pressures)) (CC and) (NP (VBN increased) (NNS expenses)))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (JJ competitive) (NNS pressures))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (VBN increased) (NNS expenses))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=4 spanning 3 until 13 headed by 4 parsed as (NP (NP (PRP$ its) (NN restructuring)) (PP (IN of) (NP (NP (DT the) (NN company)) (CC and) (S (VP (VBG creating) (NP (CD two) (NN tracking) (NNS stocks)))))))
+sid=4 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=4 spanning 6 until 13 headed by 7 parsed as (NP (NP (DT the) (NN company)) (CC and) (S (VP (VBG creating) (NP (CD two) (NN tracking) (NNS stocks)))))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN company))
+sid=4 spanning 10 until 13 headed by 12 parsed as (NP (CD two) (NN tracking) (NNS stocks))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP WorldCom))
+sid=5 spanning 5 until 12 headed by 8 parsed as (NP (NP (DT the) (JJR faster) (NN growing) (NNS data)) (CC and) (NP (NN internet) (NN business)))
+sid=5 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (JJR faster) (NN growing) (NNS data))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (NN internet) (NN business))
+sid=6 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (JJ other)) (, ,) (VP (VBN called) (S (NP (NNP MCI)))) (, ,))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (JJ other))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (NNP MCI))
+sid=6 spanning 8 until 14 headed by 13 parsed as (NP (NP (DT the) (NN company) (POS 's)) (NML (JJ long) (NN distance)) (NNS units))
+sid=6 spanning 8 until 11 headed by 9 parsed as (NP (DT the) (NN company) (POS 's))
+sid=7 spanning 0 until 6 headed by 2 parsed as (NP (NP (NP (NNP WorldCom) (POS 's)) (NN rival)) (, ,) (NP (NNP AT&T)) (, ,))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP WorldCom) (POS 's)) (NN rival))
+sid=7 spanning 0 until 2 headed by 0 parsed as (NP (NNP WorldCom) (POS 's))
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (NNP AT&T))
+sid=7 spanning 7 until 11 headed by 10 parsed as (NP (DT a) (JJ similar) (VBG restructuring) (NN plan))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (JJ last) (NN week))
+(end predicted mentions)
+---------gold clusters--------
+0 6 2 8 5 3 1 4 7 | { 'WorldCom' 'the company' 'its' 'WorldCom 's' 'its' 'It' 'The nation 's second biggest long distance phone company' 'WorldCom' 'the company 's' }
+(end gold clusters)

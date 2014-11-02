@@ -1,0 +1,253 @@
+---------gloss--------
+(0) The [4m[36m{Bridgestone / Firestone Company}[0m [1m[35m{today}[0m blamed a combination of factors for the flawed tires linked to more than 150 deaths . 
+(1) [4m[36m{Firestone}[0m says there was a design flaw . 
+(2) The pockets between the tread on the tire shoulder are too steep . 
+(3) [4m[36m{The company}[0m also blamed [3m[31m{consumers who underinflate their tires}[0m , Ford -- for recommending a low tire pressure and the manufacturing process at [1m[34m{one plant in Decatur , Illinois}[0m . 
+(4) [1m[31m{ABC 's}[0m Bob Jamieson is in [33m{Decatur}[0m tonight . 
+(5) Few workers were inside [1m[34m{the Decatur plant}[0m [1m[35m{today}[0m , virtually closed for the next two weeks because [4m[36m{Firestone}[0m sales have plummeted . 
+(6) [1m[32m{Firestone 's finding that the process , not the quality of workmanship that brought about the failures}[0m has brought a sense of relief . 
+(7) Many feared that [4m[36m{Firestone}[0m would close the plants for work . 
+(8) It 's always been a concern , being pointed to and singled out as a problem plant . 
+(9) [4m[36m{Firestone}[0m is [33m{Decatur 's}[0m third - largest employer . 
+(10) Though one - fourth of the workers were laid off , [4m[36m{the tiremaker}[0m still employs 1,400 . 
+(11) [1m[32m{It}[0m 's very good news . 
+(12) [1m[32m{It}[0m 's very good news for us . 
+(13) Economic Development Director Richard Eggars lobbied [4m[36m{Firestone}[0m to keep [1m[34m{the plant}[0m open . 
+(14) In terms of payroll and selective services , [4m[36m{Firestone}[0m infuses approximately $ 5 million a month into the local economy . 
+(15) But in the tidy , modest neighborhoods where [4m[36m{Firestone}[0m workers live , the damage has already been done . 
+(16) Until [1m[33m{the problems}[0m , [4m[36m{Firestone}[0m was a family business for [1m[36m{the Coppenbargers}[0m . 
+(17) [31m{Richard and Shirley , together}[0m , have nearly 60 years on the job . 
+(18) [32m{Richard Jr.}[0m had 14 months , before [32m{he}[0m was laid off in October . 
+(19) [35m{The job}[0m -- [35m{it}[0m 's a big history here in [1m[36m{the family}[0m , so to speak , following [32m{my}[0m parents here . 
+(20) [32m{My}[0m job meant more to [32m{me}[0m than just a paycheck . 
+(21) [4m[35m{I}[0m am worried . 
+(22) [4m[35m{I}[0m 'd like to finish out until [4m[35m{my}[0m actual retirement , when [4m[35m{I}[0m was really ready to quit , but , yeah , [4m[35m{I}[0m have some doubts . 
+(23) It is an uncertain Christmas here . 
+(24) [1m[32m{The report}[0m absolves [36m{the workers}[0m , [36m{they}[0m know [36m{their}[0m jobs will only be safe if [4m[36m{Firestone}[0m restores faith in [4m[36m{its}[0m products and sells more tires . 
+(25) [34m{Bob Jamieson}[0m , [1m[31m{ABC News}[0m , [33m{Decatur}[0m . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0052); part 000
+sentences:
+ThetheDTOPER0BridgestoneBridgestoneNNPORGPER0//SYMORGPER0FirestoneFirestoneNNPORGPER0CompanyCompanyNNPORGPER0todaytodayNNDATEPER0blamedblameVBDOPER0aaDTOPER0combinationcombinationNNOPER0ofofINOPER0factorsfactorNNSOPER0forforINOPER0thetheDTOPER0flawedflawedJJOPER0tirestireNNSOPER0linkedlinkVBNOPER0totoINOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0150150CDCARDINALPER0deathsdeathNNSOPER0...OPER0(ROOT (S (NP (DT The) (NML (NML (NNP Bridgestone) (SYM /) (NNP Firestone)) (NNP Company)) (NN today)) (VP (VBD blamed) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NNS factors)))) (PP (IN for) (NP (NP (DT the) (JJ flawed) (NNS tires)) (VP (VBN linked) (PP (IN to) (NP (QP (XS (JJR more) (IN than)) (CD 150)) (NNS deaths))))))) (. .)))
+FirestoneFirestoneNNPPERSONPER0sayssayVBZOPER0therethereEXOPER0wasbeVBDOPER0aaDTOPER0designdesignNNOPER0flawflawNNOPER0...OPER0(ROOT (S (NP (NNP Firestone)) (VP (VBZ says) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (DT a) (NN design) (NN flaw)))))) (. .)))
+ThetheDTOPER0pocketspocketNNSOPER0betweenbetweenINOPER0thetheDTOPER0treadtreadNNOPER0ononINOPER0thetheDTOPER0tiretireNNOPER0shouldershoulderNNOPER0arebeVBPOPER0tootooRBOPER0steepsteepJJOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS pockets)) (PP (IN between) (NP (NP (DT the) (NN tread)) (PP (IN on) (NP (DT the) (NN tire) (NN shoulder)))))) (VP (VBP are) (ADJP (RB too) (JJ steep))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0alsoalsoRBOPER0blamedblameVBDOPER0consumersconsumerNNSOPER0whowhoWPOPER0underinflateunderinflateVBPOPER0theirtheyPRP$OPER0tirestireNNSOPER0,,,OPER0FordFordNNPORGPER0----:OPER0forforINOPER0recommendingrecommendVBGOPER0aaDTOPER0lowlowJJOPER0tiretireNNOPER0pressurepressureNNOPER0andandCCOPER0thetheDTOPER0manufacturingmanufacturingNNOPER0processprocessNNOPER0atatINOPER0oneoneCDCARDINALPER0plantplantNNOPER0ininINOPER0DecaturDecaturNNPGPEPER0,,,OPER0IllinoisIllinoisNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBD blamed) (NP (NP (NNS consumers)) (SBAR (WHNP (WP who)) (S (VP (VBP underinflate) (NP (PRP$ their) (NNS tires)))))) (, ,) (NP (NNP Ford)) (: --) (PP (IN for) (S (VP (VBG recommending) (NP (NP (DT a) (JJ low) (NN tire) (NN pressure)) (CC and) (NP (DT the) (NN manufacturing) (NN process))) (PP (IN at) (NP (NP (CD one) (NN plant)) (PP (IN in) (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois)))))))))) (. .)))
+ABCABCNNPORGPER0's'sPOSOPER0BobBobNNPORGPER0JamiesonJamiesonNNPORGPER0isbeVBZOPER0ininINOPER0DecaturDecaturNNPGPEPER0tonighttonightNNOPER0...OPER0(ROOT (S (NP (NP (NNP ABC) (POS 's)) (NNP Bob) (NNP Jamieson)) (VP (VBZ is) (PP (IN in) (NP (NNP Decatur))) (NP (NN tonight))) (. .)))
+FewfewJJOPER0workersworkerNNSOPER0werebeVBDOPER0insideinsideINOPER0thetheDTOPER0DecaturDecaturNNPGPEPER0plantplantNNOPER0todaytodayNNDATEPER0,,,OPER0virtuallyvirtuallyRBOPER0closedcloseVBNOPER0forforINOPER0thetheDTDATEPER0nextnextJJDATEPER0twotwoCDDATEPER0weeksweekNNSDATEPER0becausebecauseINOPER0FirestoneFirestoneNNPORGPER0salessaleNNSOPER0havehaveVBPOPER0plummetedplummetVBNOPER0...OPER0(ROOT (S (NP (JJ Few) (NNS workers)) (VP (VBD were) (PP (IN inside) (NP (DT the) (NNP Decatur) (NN plant))) (NP (NN today)) (, ,) (ADVP (RB virtually)) (VP (VBN closed) (PP (IN for) (NP (DT the) (JJ next) (CD two) (NNS weeks))) (SBAR (IN because) (S (NP (NNP Firestone) (NNS sales)) (VP (VBP have) (VP (VBN plummeted))))))) (. .)))
+FirestoneFirestoneNNPORGPER0'sbeVBZOPER0findingfindVBGOPER0thatthatINOPER0thetheDTOPER0processprocessNNOPER0,,,OPER0notnotRBOPER0thetheDTOPER0qualityqualityNNOPER0ofofINOPER0workmanshipworkmanshipNNOPER0thatthatWDTOPER0broughtbringVBDOPER0aboutaboutRPOPER0thetheDTOPER0failuresfailureNNSOPER0hashaveVBZOPER0broughtbringVBNOPER0aaDTOPER0sensesenseNNOPER0ofofINOPER0reliefreliefNNOPER0...OPER0(ROOT (S (NP (NNP Firestone)) (VP (VBZ 's) (VP (VBG finding) (SBAR (IN that) (S (NP (NP (DT the) (NN process)) (, ,) (RB not) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (NN workmanship)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (PRT (RP about)) (NP (DT the) (NNS failures))))))))) (VP (VBZ has) (VP (VBN brought) (NP (NP (DT a) (NN sense)) (PP (IN of) (NP (NN relief)))))))))) (. .)))
+ManymanyJJOPER0fearedfearVBDOPER0thatthatINOPER0FirestoneFirestoneNNPORGPER0wouldwouldMDOPER0closecloseVBOPER0thetheDTOPER0plantsplantNNSOPER0forforINOPER0workworkNNOPER0...OPER0(ROOT (S (NP (JJ Many)) (VP (VBD feared) (SBAR (IN that) (S (NP (NNP Firestone)) (VP (MD would) (VP (VB close) (NP (NP (DT the) (NNS plants)) (PP (IN for) (NP (NN work))))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0alwaysalwaysRBOPER0beenbeVBNOPER0aaDTOPER0concernconcernNNOPER0,,,OPER0beingbeVBGOPER0pointedpointVBNOPER0totoINOPER0andandCCOPER0singledsingleVBDOPER0outoutRPOPER0asasINOPER0aaDTOPER0problemproblemNNOPER0plantplantNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (NN concern)) (, ,) (S (VP (VBG being) (VP (VP (VBN pointed) (PP (IN to))) (CC and) (VP (VBD singled) (PRT (RP out)) (PP (IN as) (NP (DT a) (NN problem) (NN plant))))))))) (. .)))
+FirestoneFirestoneNNPPERSONPER0isbeVBZOPER0DecaturDecaturNNPGPEPER0's'sPOSOPER0thirdthirdRBORDINALPER0--HYPHOPER0largestlargestJJSOPER0employeremployerNNOPER0...OPER0(ROOT (S (NP (NNP Firestone)) (VP (VBZ is) (NP (NP (NNP Decatur) (POS 's)) (ADJP (RB third) (HYPH -) (JJS largest)) (NN employer))) (. .)))
+ThoughthoughINOPER0oneoneCDCARDINALPER0--HYPHOPER0fourthfourthNNCARDINALPER0ofofINOPER0thetheDTOPER0workersworkerNNSOPER0werebeVBDOPER0laidlayVBNOPER0offoffRPOPER0,,,OPER0thetheDTOPER0tiremakertiremakerNNOPER0stillstillRBOPER0employsemployVBZOPER01,4001,400CDCARDINALPER0...OPER0(ROOT (S (SBAR (IN Though) (S (NP (NP (CD one) (HYPH -) (NN fourth)) (PP (IN of) (NP (DT the) (NNS workers)))) (VP (VBD were) (VP (VBN laid) (PRT (RP off)))))) (, ,) (NP (DT the) (NN tiremaker)) (ADVP (RB still)) (VP (VBZ employs) (NP (CD 1,400))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0veryveryRBOPER0goodgoodJJOPER0newsnewsNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (ADJP (RB very) (JJ good)) (NN news))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0veryveryRBOPER0goodgoodJJOPER0newsnewsNNOPER0forforINOPER0uswePRPOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (ADJP (RB very) (JJ good)) (NN news)) (PP (IN for) (NP (PRP us))))) (. .)))
+EconomicEconomicNNPORGPER0DevelopmentDevelopmentNNPORGPER0DirectorDirectorNNPOPER0RichardRichardNNPPERSONPER0EggarsEggarsNNPPERSONPER0lobbiedlobbyVBDOPER0FirestoneFirestoneNNPORGPER0totoTOOPER0keepkeepVBOPER0thetheDTOPER0plantplantNNOPER0openopenJJOPER0...OPER0(ROOT (S (NP (NML (NML (NNP Economic) (NNP Development)) (NNP Director)) (NNP Richard) (NNP Eggars)) (VP (VBD lobbied) (NP (NNP Firestone)) (S (VP (TO to) (VP (VB keep) (NP (DT the) (NN plant)) (S (ADJP (JJ open))))))) (. .)))
+IninINOPER0termstermNNSOPER0ofofINOPER0payrollpayrollNNOPER0andandCCOPER0selectiveselectiveJJOPER0servicesserviceNNSOPER0,,,OPER0FirestoneFirestoneNNPORGPER0infusesinfuseVBZOPER0approximatelyapproximatelyRBMONEYPER0$$$MONEYPER055CDMONEYPER0millionmillionCDMONEYPER0aaDTDATEPER0monthmonthNNDATEPER0intointoINOPER0thetheDTOPER0locallocalJJOPER0economyeconomyNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN payroll) (CC and) (JJ selective)) (NNS services))))) (, ,) (NP (NNP Firestone)) (VP (VBZ infuses) (NP (NP (QP (RB approximately) ($ $) (CD 5) (CD million))) (NP (DT a) (NN month))) (PP (IN into) (NP (DT the) (JJ local) (NN economy)))) (. .)))
+ButbutCCOPER0ininINOPER0thetheDTOPER0tidytidyJJOPER0,,,OPER0modestmodestJJOPER0neighborhoodsneighborhoodNNSOPER0wherewhereWRBOPER0FirestoneFirestoneNNPORGPER0workersworkerNNSOPER0liveliveVBPOPER0,,,OPER0thetheDTOPER0damagedamageNNOPER0hashaveVBZOPER0alreadyalreadyRBOPER0beenbeVBNOPER0donedoVBNOPER0...OPER0(ROOT (S (CC But) (PP (IN in) (NP (NP (DT the) (JJ tidy) (, ,) (JJ modest) (NNS neighborhoods)) (SBAR (WHADVP (WRB where)) (S (NP (NNP Firestone) (NNS workers)) (VP (VBP live)))))) (, ,) (NP (DT the) (NN damage)) (VP (VBZ has) (ADVP (RB already)) (VP (VBN been) (VP (VBN done)))) (. .)))
+UntiluntilINOPER0thetheDTOPER0problemsproblemNNSOPER0,,,OPER0FirestoneFirestoneNNPORGPER0wasbeVBDOPER0aaDTOPER0familyfamilyNNOPER0businessbusinessNNOPER0forforINOPER0thetheDTOPER0CoppenbargersCoppenbargersNNPSORGPER0...OPER0(ROOT (S (PP (IN Until) (NP (DT the) (NNS problems))) (, ,) (NP (NNP Firestone)) (VP (VBD was) (NP (NP (DT a) (NN family) (NN business)) (PP (IN for) (NP (DT the) (NNPS Coppenbargers))))) (. .)))
+RichardRichardNNPPERSONPER0andandCCOPER0ShirleyShirleyNNPPERSONPER0,,,OPER0togethertogetherRBOPER0,,,OPER0havehaveVBOPER0nearlynearlyRBOPER06060CDDATEPER0yearsyearNNSDATEPER0ononINOPER0thetheDTOPER0jobjobNNOPER0...OPER0(ROOT (S (NP (NNP Richard) (CC and) (NNP Shirley)) (, ,) (ADVP (RB together)) (, ,) (VP (VB have) (NP (QP (RB nearly) (CD 60)) (NNS years)) (PP (IN on) (NP (DT the) (NN job)))) (. .)))
+RichardRichardNNPPERSONPER0Jr.Jr.NNPPERSONPER0hadhaveVBDOPER01414CDDATEPER0monthsmonthNNSDATEPER0,,,OPER0beforebeforeINOPER0hehePRPOPER0wasbeVBDOPER0laidlayVBNOPER0offoffRPOPER0ininINOPER0OctoberOctoberNNPDATEPER0...OPER0(ROOT (S (NP (NNP Richard) (NNP Jr.)) (VP (VBD had) (NP (CD 14) (NNS months)) (, ,) (SBAR (IN before) (S (NP (PRP he)) (VP (VBD was) (VP (VBN laid) (PRT (RP off)) (PP (IN in) (NP (NNP October)))))))) (. .)))
+ThetheDTOPER0jobjobNNOPER0----:OPER0ititPRPOPER0'sbeVBZOPER0aaDTOPER0bigbigJJOPER0historyhistoryNNOPER0herehereRBOPER0ininINOPER0thetheDTOPER0familyfamilyNNOPER0,,,OPER0sosoRBOPER0totoTOOPER0speakspeakVBOPER0,,,OPER0followingfollowVBGOPER0mymyPRP$OPER0parentsparentNNSOPER0herehereRBOPER0...OPER0(ROOT (NP (NP (DT The) (NN job)) (: --) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (JJ big) (NN history)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN family))))) (PRN (, ,) (S (ADVP (RB so)) (VP (TO to) (VP (VB speak)))) (, ,)) (PP (VBG following) (NP (PRP$ my) (NNS parents))) (ADVP (RB here)))) (. .)))
+MymyPRP$OPER0jobjobNNOPER0meantmeanVBDOPER0moremoreJJROPER0totoINOPER0meIPRPOPER0thanthanINOPER0justjustRBOPER0aaDTOPER0paycheckpaycheckNNOPER0...OPER0(ROOT (S (NP (PRP$ My) (NN job)) (VP (VBD meant) (ADJP (ADJP (JJR more) (PP (IN to) (NP (PRP me)))) (PP (IN than) (NP (QP (RB just) (DT a)) (NN paycheck))))) (. .)))
+IIPRPOPER0ambeVBPOPER0worriedworriedJJOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP am) (ADJP (JJ worried))) (. .)))
+IIPRPOPER0'dwouldMDOPER0likelikeVBOPER0totoTOOPER0finishfinishVBOPER0outoutRPOPER0untiluntilINOPER0mymyPRP$OPER0actualactualJJOPER0retirementretirementNNOPER0,,,OPER0whenwhenWRBOPER0IIPRPOPER0wasbeVBDOPER0reallyreallyRBOPER0readyreadyJJOPER0totoTOOPER0quitquitVBOPER0,,,OPER0butbutCCOPER0,,,OPER0yeahyeahUHOPER0,,,OPER0IIPRPOPER0havehaveVBPOPER0somesomeDTOPER0doubtsdoubtNNSOPER0...OPER0(ROOT (S (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB finish) (PRT (RP out)) (PP (IN until) (NP (NP (PRP$ my) (JJ actual) (NN retirement)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB really)) (ADJP (JJ ready) (S (VP (TO to) (VP (VB quit)))))))))))))))) (, ,) (CC but) (S (, ,) (INTJ (UH yeah)) (, ,) (NP (PRP I)) (VP (VBP have) (NP (DT some) (NNS doubts)))) (. .)))
+ItitPRPOPER0isbeVBZOPER0anaDTOPER0uncertainuncertainJJOPER0ChristmasChristmasNNPDATEPER0herehereRBOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT an) (JJ uncertain) (NNP Christmas)) (ADVP (RB here)))) (. .)))
+ThetheDTOPER0reportreportNNOPER0absolvesabsolveVBZOPER0thetheDTOPER0workersworkerNNSOPER0,,,OPER0theytheyPRPOPER0knowknowVBPOPER0theirtheyPRP$OPER0jobsjobNNSOPER0willwillMDOPER0onlyonlyRBOPER0bebeVBOPER0safesafeJJOPER0ififINOPER0FirestoneFirestoneNNPORGPER0restoresrestoreVBZOPER0faithfaithNNOPER0ininINOPER0itsitsPRP$OPER0productsproductNNSOPER0andandCCOPER0sellssellVBZOPER0moremoreJJROPER0tirestireNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN report)) (VP (VBZ absolves) (NP (DT the) (NNS workers)) (, ,) (PRN (S (NP (PRP they)) (VP (VBP know) (SBAR (S (NP (PRP$ their) (NNS jobs)) (VP (MD will) (ADVP (RB only)) (VP (VB be) (ADJP (JJ safe)) (SBAR (IN if) (S (NP (NNP Firestone)) (VP (VP (VBZ restores) (NP (NP (NN faith)) (PP (IN in) (NP (PRP$ its) (NNS products))))) (CC and) (VP (VBZ sells) (NP (JJR more) (NNS tires)))))))))))))) (. .)))
+BobBobNNPPERSONPER0JamiesonJamiesonNNPPERSONPER0,,,OPER0ABCABCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0DecaturDecaturNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Bob) (NNP Jamieson)) (, ,) (NP (NNP ABC) (NNP News)) (, ,) (NP (NNP Decatur)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (DT The) (NML (NML (NNP Bridgestone) (SYM /) (NNP Firestone)) (NNP Company)) (NN today))
+sid=0 spanning 1 until 5 headed by 4 parsed as Company
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Firestone))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=3 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNS consumers)) (SBAR (WHNP (WP who)) (S (VP (VBP underinflate) (NP (PRP$ their) (NNS tires))))))
+sid=3 spanning 7 until 8 headed by 7 parsed as their
+sid=3 spanning 23 until 29 headed by 24 parsed as (NP (NP (CD one) (NN plant)) (PP (IN in) (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois)))))
+sid=3 spanning 26 until 29 headed by 26 parsed as (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois)))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Bob) (NNP Jamieson))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP ABC) (POS 's))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Decatur))
+sid=5 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Decatur) (NN plant))
+sid=5 spanning 5 until 6 headed by 5 parsed as Decatur
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (NN today))
+sid=5 spanning 17 until 18 headed by 17 parsed as Firestone
+sid=6 spanning 0 until 2 headed by 0 parsed as (NP (NNP Firestone))
+sid=6 spanning 0 until 17 headed by 0 parsed as (NP (NNP Firestone))
+sid=6 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NNS failures))
+sid=7 spanning 3 until 4 headed by 3 parsed as (NP (NNP Firestone))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNP Firestone))
+sid=9 spanning 2 until 4 headed by 2 parsed as (NP (NNP Decatur) (POS 's))
+sid=10 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN tiremaker))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=13 spanning 6 until 7 headed by 6 parsed as (NP (NNP Firestone))
+sid=13 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN plant))
+sid=14 spanning 8 until 9 headed by 8 parsed as (NP (NNP Firestone))
+sid=15 spanning 8 until 9 headed by 8 parsed as Firestone
+sid=16 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNS problems))
+sid=16 spanning 4 until 5 headed by 4 parsed as (NP (NNP Firestone))
+sid=16 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNPS Coppenbargers))
+sid=17 spanning 0 until 5 headed by 0 parsed as (NP (NNP Richard) (CC and) (NNP Shirley))
+sid=18 spanning 0 until 2 headed by 1 parsed as (NP (NNP Richard) (NNP Jr.))
+sid=18 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=19 spanning 0 until 2 headed by 1 parsed as (NP (NP (DT The) (NN job)) (: --) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (JJ big) (NN history)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN family))))) (PRN (, ,) (S (ADVP (RB so)) (VP (TO to) (VP (VB speak)))) (, ,)) (PP (VBG following) (NP (PRP$ my) (NNS parents))) (ADVP (RB here)))) (. .))
+sid=19 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=19 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN family))
+sid=19 spanning 18 until 20 headed by 19 parsed as (NP (PRP$ my) (NNS parents))
+sid=19 spanning 18 until 19 headed by 18 parsed as my
+sid=20 spanning 0 until 1 headed by 0 parsed as My
+sid=20 spanning 5 until 6 headed by 5 parsed as (NP (PRP me))
+sid=21 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=22 spanning 7 until 8 headed by 7 parsed as my
+sid=22 spanning 12 until 13 headed by 12 parsed as (NP (PRP I))
+sid=22 spanning 23 until 24 headed by 23 parsed as (NP (PRP I))
+sid=24 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN report))
+sid=24 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS workers))
+sid=24 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=24 spanning 8 until 9 headed by 8 parsed as their
+sid=24 spanning 15 until 16 headed by 15 parsed as (NP (NNP Firestone))
+sid=24 spanning 19 until 20 headed by 19 parsed as its
+sid=25 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Jamieson))
+sid=25 spanning 3 until 5 headed by 4 parsed as (NP (NNP ABC) (NNP News))
+sid=25 spanning 6 until 7 headed by 6 parsed as (NP (NNP Decatur))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (NML (NNP Bridgestone) (SYM /) (NNP Firestone)) (NNP Company)) (NN today))
+sid=0 spanning 1 until 5 headed by 4 parsed as Company
+sid=0 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NNS factors))))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNS factors))
+sid=0 spanning 12 until 21 headed by 14 parsed as (NP (NP (DT the) (JJ flawed) (NNS tires)) (VP (VBN linked) (PP (IN to) (NP (QP (XS (JJR more) (IN than)) (CD 150)) (NNS deaths)))))
+sid=0 spanning 17 until 21 headed by 20 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 150)) (NNS deaths))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Firestone))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NN design) (NN flaw))
+sid=2 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NNS pockets)) (PP (IN between) (NP (NP (DT the) (NN tread)) (PP (IN on) (NP (DT the) (NN tire) (NN shoulder))))))
+sid=2 spanning 3 until 9 headed by 4 parsed as (NP (NP (DT the) (NN tread)) (PP (IN on) (NP (DT the) (NN tire) (NN shoulder))))
+sid=2 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN tire) (NN shoulder))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=3 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNS consumers)) (SBAR (WHNP (WP who)) (S (VP (VBP underinflate) (NP (PRP$ their) (NNS tires))))))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ their) (NNS tires))
+sid=3 spanning 7 until 8 headed by 7 parsed as (PRP$ their)
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (NNP Ford))
+sid=3 spanning 14 until 22 headed by 17 parsed as (NP (NP (DT a) (JJ low) (NN tire) (NN pressure)) (CC and) (NP (DT the) (NN manufacturing) (NN process)))
+sid=3 spanning 14 until 18 headed by 17 parsed as (NP (DT a) (JJ low) (NN tire) (NN pressure))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (NN manufacturing) (NN process))
+sid=3 spanning 23 until 29 headed by 24 parsed as (NP (NP (CD one) (NN plant)) (PP (IN in) (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois)))))
+sid=3 spanning 26 until 27 headed by 26 parsed as (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois)))
+sid=3 spanning 26 until 29 headed by 26 parsed as (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois)))
+sid=3 spanning 28 until 29 headed by 28 parsed as (NP (NNP Illinois))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Bob) (NNP Jamieson))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP ABC) (POS 's))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Decatur))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJ Few) (NNS workers))
+sid=5 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Decatur) (NN plant))
+sid=5 spanning 5 until 6 headed by 5 parsed as Decatur
+sid=5 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (JJ next) (CD two) (NNS weeks))
+sid=5 spanning 17 until 19 headed by 18 parsed as (NP (NNP Firestone) (NNS sales))
+sid=5 spanning 17 until 18 headed by 17 parsed as Firestone
+sid=6 spanning 0 until 2 headed by 0 parsed as (NP (NNP Firestone))
+sid=6 spanning 4 until 17 headed by 5 parsed as (NP (NP (DT the) (NN process)) (, ,) (RB not) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (NN workmanship)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (PRT (RP about)) (NP (DT the) (NNS failures)))))))))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN process))
+sid=6 spanning 8 until 17 headed by 9 parsed as (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (NN workmanship)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (PRT (RP about)) (NP (DT the) (NNS failures))))))))
+sid=6 spanning 11 until 17 headed by 11 parsed as (NP (NP (NN workmanship)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (PRT (RP about)) (NP (DT the) (NNS failures))))))
+sid=6 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NNS failures))
+sid=6 spanning 19 until 23 headed by 20 parsed as (NP (NP (DT a) (NN sense)) (PP (IN of) (NP (NN relief))))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (JJ Many))
+sid=7 spanning 3 until 4 headed by 3 parsed as (NP (NNP Firestone))
+sid=7 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT the) (NNS plants)) (PP (IN for) (NP (NN work))))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=8 spanning 4 until 6 headed by 5 parsed as (NP (DT a) (NN concern))
+sid=8 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (NN problem) (NN plant))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNP Firestone))
+sid=9 spanning 2 until 8 headed by 7 parsed as (NP (NP (NNP Decatur) (POS 's)) (ADJP (RB third) (HYPH -) (JJS largest)) (NN employer))
+sid=9 spanning 2 until 4 headed by 2 parsed as (NP (NNP Decatur) (POS 's))
+sid=9 spanning 4 until 5 headed by 4 parsed as third
+sid=10 spanning 1 until 7 headed by 3 parsed as (NP (NP (CD one) (HYPH -) (NN fourth)) (PP (IN of) (NP (DT the) (NNS workers))))
+sid=10 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS workers))
+sid=10 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN tiremaker))
+sid=10 spanning 15 until 16 headed by 15 parsed as (NP (CD 1,400))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=11 spanning 2 until 5 headed by 4 parsed as (NP (ADJP (RB very) (JJ good)) (NN news))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=12 spanning 2 until 7 headed by 4 parsed as (NP (NP (ADJP (RB very) (JJ good)) (NN news)) (PP (IN for) (NP (PRP us))))
+sid=12 spanning 6 until 7 headed by 6 parsed as (NP (PRP us))
+sid=13 spanning 0 until 5 headed by 4 parsed as (NP (NML (NML (NNP Economic) (NNP Development)) (NNP Director)) (NNP Richard) (NNP Eggars))
+sid=13 spanning 0 until 2 headed by 1 parsed as Development
+sid=13 spanning 6 until 7 headed by 6 parsed as (NP (NNP Firestone))
+sid=13 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN plant))
+sid=14 spanning 1 until 7 headed by 1 parsed as (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NN payroll) (CC and) (JJ selective)) (NNS services))))
+sid=14 spanning 3 until 7 headed by 6 parsed as (NP (NP (NN payroll) (CC and) (JJ selective)) (NNS services))
+sid=14 spanning 3 until 6 headed by 3 parsed as (NP (NN payroll) (CC and) (JJ selective))
+sid=14 spanning 8 until 9 headed by 8 parsed as (NP (NNP Firestone))
+sid=14 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN month))
+sid=14 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (JJ local) (NN economy))
+sid=15 spanning 2 until 11 headed by 6 parsed as (NP (NP (DT the) (JJ tidy) (, ,) (JJ modest) (NNS neighborhoods)) (SBAR (WHADVP (WRB where)) (S (NP (NNP Firestone) (NNS workers)) (VP (VBP live)))))
+sid=15 spanning 8 until 10 headed by 9 parsed as (NP (NNP Firestone) (NNS workers))
+sid=15 spanning 8 until 9 headed by 8 parsed as Firestone
+sid=15 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN damage))
+sid=16 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNS problems))
+sid=16 spanning 4 until 5 headed by 4 parsed as (NP (NNP Firestone))
+sid=16 spanning 6 until 12 headed by 8 parsed as (NP (NP (DT a) (NN family) (NN business)) (PP (IN for) (NP (DT the) (NNPS Coppenbargers))))
+sid=16 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNPS Coppenbargers))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (NNP Richard) (CC and) (NNP Shirley))
+sid=17 spanning 0 until 3 headed by 0 parsed as (NP (NNP Richard) (CC and) (NNP Shirley))
+sid=17 spanning 2 until 3 headed by 2 parsed as Shirley
+sid=17 spanning 7 until 10 headed by 9 parsed as (NP (QP (RB nearly) (CD 60)) (NNS years))
+sid=17 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN job))
+sid=18 spanning 0 until 2 headed by 1 parsed as (NP (NNP Richard) (NNP Jr.))
+sid=18 spanning 3 until 5 headed by 4 parsed as (NP (CD 14) (NNS months))
+sid=18 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=18 spanning 12 until 13 headed by 12 parsed as (NP (NNP October))
+sid=19 spanning 0 until 22 headed by 1 parsed as (NP (NP (DT The) (NN job)) (: --) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (JJ big) (NN history)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN family))))) (PRN (, ,) (S (ADVP (RB so)) (VP (TO to) (VP (VB speak)))) (, ,)) (PP (VBG following) (NP (PRP$ my) (NNS parents))) (ADVP (RB here)))) (. .))
+sid=19 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=19 spanning 5 until 12 headed by 7 parsed as (NP (NP (DT a) (JJ big) (NN history)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN family)))))
+sid=19 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN family))
+sid=19 spanning 18 until 20 headed by 19 parsed as (NP (PRP$ my) (NNS parents))
+sid=19 spanning 18 until 19 headed by 18 parsed as (PRP$ my)
+sid=20 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ My) (NN job))
+sid=20 spanning 0 until 1 headed by 0 parsed as (PRP$ My)
+sid=20 spanning 5 until 6 headed by 5 parsed as (NP (PRP me))
+sid=20 spanning 7 until 10 headed by 9 parsed as (NP (QP (RB just) (DT a)) (NN paycheck))
+sid=21 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=22 spanning 7 until 18 headed by 9 parsed as (NP (NP (PRP$ my) (JJ actual) (NN retirement)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB really)) (ADJP (JJ ready) (S (VP (TO to) (VP (VB quit)))))))))
+sid=22 spanning 7 until 10 headed by 9 parsed as (NP (PRP$ my) (JJ actual) (NN retirement))
+sid=22 spanning 7 until 8 headed by 7 parsed as (PRP$ my)
+sid=22 spanning 12 until 13 headed by 12 parsed as (NP (PRP I))
+sid=22 spanning 23 until 24 headed by 23 parsed as (NP (PRP I))
+sid=22 spanning 25 until 27 headed by 26 parsed as (NP (DT some) (NNS doubts))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=23 spanning 2 until 6 headed by 4 parsed as (NP (NP (DT an) (JJ uncertain) (NNP Christmas)) (ADVP (RB here)))
+sid=24 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN report))
+sid=24 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS workers))
+sid=24 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=24 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ their) (NNS jobs))
+sid=24 spanning 8 until 9 headed by 8 parsed as (PRP$ their)
+sid=24 spanning 15 until 16 headed by 15 parsed as (NP (NNP Firestone))
+sid=24 spanning 17 until 21 headed by 17 parsed as (NP (NP (NN faith)) (PP (IN in) (NP (PRP$ its) (NNS products))))
+sid=24 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ its) (NNS products))
+sid=24 spanning 19 until 20 headed by 19 parsed as (PRP$ its)
+sid=24 spanning 23 until 25 headed by 24 parsed as (NP (JJR more) (NNS tires))
+sid=25 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Jamieson))
+sid=25 spanning 3 until 5 headed by 4 parsed as (NP (NNP ABC) (NNP News))
+sid=25 spanning 6 until 7 headed by 6 parsed as (NP (NNP Decatur))
+(end predicted mentions)
+---------gold clusters--------
+45 42 41 43 44 | { 'I' 'I' 'I' 'my' 'I' }
+24 2 51 1 3 18 21 15 29 14 26 27 50 19 | { 'Firestone' 'Firestone' 'its' 'Bridgestone / Firestone Company' 'The company' 'Firestone' 'the tiremaker' 'Firestone 's' 'Firestone' 'Firestone' 'Firestone' 'Firestone' 'Firestone' 'Firestone' }
+37 31 | { 'my parents' 'Richard and Shirley , together' }
+38 40 39 33 32 | { 'my' 'me' 'My' 'he' 'Richard Jr.' }
+10 54 20 7 12 | { 'Decatur' 'Decatur' 'Decatur 's' 'Decatur , Illinois' 'Decatur' }
+52 8 | { 'Bob Jamieson' 'ABC 's Bob Jamieson' }
+35 34 | { 'it' 'The job' }
+47 48 49 | { 'the workers' 'they' 'their' }
+53 9 | { 'ABC News' 'ABC 's' }
+46 16 22 23 | { 'The report' 'Firestone 's finding that the process , not the quality of workmanship that brought about the failures' 'It' 'It' }
+17 28 | { 'the failures' 'the problems' }
+11 6 25 | { 'the Decatur plant' 'one plant in Decatur , Illinois' 'the plant' }
+0 13 | { 'today' 'today' }
+30 36 | { 'the Coppenbargers' 'the family' }
+5 4 | { 'their' 'consumers who underinflate their tires' }
+(end gold clusters)

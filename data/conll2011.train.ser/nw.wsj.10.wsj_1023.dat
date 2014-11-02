@@ -1,0 +1,86 @@
+---------gloss--------
+(0) [4m[36m{Businessland Inc.}[0m said [4m[36m{it}[0m [4m[34m{purchased}[0m [31m{a major regional computer retailer , Data Systems Computer Centre Inc. , Springfield , New Jersey}[0m . 
+(1) Terms were n't disclosed . 
+(2) [4m[34m{The purchase}[0m strengthens [4m[36m{San Jose , Calif. - based Businessland 's}[0m links to the large corporations who are among the biggest buyers of computers . 
+(3) [31m{Data Systems}[0m has five retail stores in the northeast , but specializes in selling personal computers made by International Business Machines Corp. and Apple Computer Inc. to banks , brokerage firms and other big businesses based in the New York metropolitan area . 
+(4) John Fitzsimmons , chief executive officer of [31m{Data Systems}[0m , said [31m{the company}[0m was profitable and expected sales of nearly $ 100 million this year . 
+(5) [4m[35m{He}[0m said [4m[36m{Businessland , which operates stores in 50 U.S. metropolitan areas ,}[0m planned to absorb [4m[35m{his}[0m firm 's operations . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1023); part 000
+sentences:
+BusinesslandBusinesslandNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0purchasedpurchaseVBDOPER0aaDTOPER0majormajorJJOPER0regionalregionalJJOPER0computercomputerNNOPER0retailerretailerNNOPER0,,,OPER0DataDataNNPORGPER0SystemsSystemsNNPORGPER0ComputerComputerNNPORGPER0CentrecentreNNORGPER0Inc.Inc.NNPORGPER0,,,OPER0SpringfieldSpringfieldNNPGPEPER0,,,OPER0NewNewNNPGPEPER0JerseyJerseyNNPGPEPER0...OPER0(ROOT (S (NP (NNP Businessland) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD purchased) (NP (DT a) (JJ major) (JJ regional) (NN computer) (NN retailer)) (, ,) (NP (NP (NNP Data) (NNP Systems) (NNP Computer) (NN Centre) (NNP Inc.)) (, ,) (NP (NNP Springfield)) (, ,) (NP (NNP New) (NNP Jersey))))))) (. .)))
+TermstermNNSOPER0werebeVBDOPER0n'tnotRBOPER0discloseddiscloseVBNOPER0...OPER0(ROOT (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+ThetheDTOPER0purchasepurchaseNNOPER0strengthensstrengthenVBZOPER0SanSanNNPGPEPER0JoseJoseNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0--HYPHOPER0basedbaseVBNOPER0BusinesslandBusinesslandNNPORGPER0's'sPOSOPER0linkslinkNNSOPER0totoINOPER0thetheDTOPER0largelargeJJOPER0corporationscorporationNNSOPER0whowhoWPOPER0arebeVBPOPER0amongamongINOPER0thetheDTOPER0biggestbiggestJJSOPER0buyersbuyerNNSOPER0ofofINOPER0computerscomputerNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN purchase)) (VP (VBZ strengthens) (NP (NP (NP (ADJP (NML (NML (NNP San) (NNP Jose)) (, ,) (NML (NNP Calif.))) (HYPH -) (VBN based)) (NNP Businessland) (POS 's)) (NNS links)) (PP (IN to) (NP (NP (DT the) (JJ large) (NNS corporations)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (PP (IN among) (NP (NP (DT the) (JJS biggest) (NNS buyers)) (PP (IN of) (NP (NNS computers)))))))))))) (. .)))
+DataDataNNPORGPER0SystemsSystemsNNPORGPER0hashaveVBZOPER0fivefiveCDCARDINALPER0retailretailJJOPER0storesstoreNNSOPER0ininINOPER0thetheDTOPER0northeastnortheastNNOPER0,,,OPER0butbutCCOPER0specializesspecializeVBZOPER0ininINOPER0sellingsellVBGOPER0personalpersonalJJOPER0computerscomputerNNSOPER0mademakeVBNOPER0bybyINOPER0InternationalInternationalNNPORGPER0BusinessBusinessNNPORGPER0MachinesMachinesNNPSORGPER0Corp.Corp.NNPORGPER0andandCCOPER0AppleAppleNNPORGPER0ComputerComputerNNPORGPER0Inc.Inc.NNPORGPER0totoINOPER0banksbankNNSOPER0,,,OPER0brokeragebrokerageNNOPER0firmsfirmNNSOPER0andandCCOPER0otherotherJJOPER0bigbigJJOPER0businessesbusinessNNSOPER0basedbaseVBNOPER0ininINOPER0thetheDTOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0metropolitanmetropolitanJJOPER0areaareaNNOPER0...OPER0(ROOT (S (S (NP (NNP Data) (NNP Systems)) (VP (VBZ has) (NP (CD five) (JJ retail) (NNS stores)) (PP (IN in) (NP (DT the) (NN northeast))))) (, ,) (CC but) (S (VP (VBZ specializes) (PP (IN in) (S (VP (VBG selling) (NP (NP (JJ personal) (NNS computers)) (VP (VBN made) (PP (IN by) (NP (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (CC and) (NP (NNP Apple) (NNP Computer) (NNP Inc.)))))) (PP (IN to) (NP (NP (NP (NNS banks)) (, ,) (NP (NN brokerage) (NNS firms)) (CC and) (NP (JJ other) (JJ big) (NNS businesses))) (VP (VBN based) (PP (IN in) (NP (DT the) (NML (NNP New) (NNP York)) (JJ metropolitan) (NN area))))))))))) (. .)))
+JohnJohnNNPPERSONPER0FitzsimmonsFitzsimmonsNNPPERSONPER0,,,OPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0DataDataNNPORGPER0SystemsSystemsNNPORGPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0companycompanyNNOPER0wasbeVBDOPER0profitableprofitableJJOPER0andandCCOPER0expectedexpectVBDOPER0salessaleNNSOPER0ofofINOPER0nearlynearlyRBMONEYPER0$$$MONEYPER0100100CDMONEYPER0millionmillionCDMONEYPER0thisthisDTDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP John) (NNP Fitzsimmons)) (, ,) (NP (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NNP Data) (NNP Systems)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VP (VBD was) (ADJP (JJ profitable))) (CC and) (VP (VBD expected) (NP (NP (NNS sales)) (PP (IN of) (NP (NP (QP (RB nearly) ($ $) (CD 100) (CD million))) (NP (DT this) (NN year)))))))))) (. .)))
+HehePRPOPER0saidsayVBDOPER0BusinesslandBusinesslandNNPORGPER0,,,OPER0whichwhichWDTOPER0operatesoperateVBZOPER0storesstoreNNSOPER0ininINOPER05050CDCARDINALPER0U.S.U.S.NNPGPEPER0metropolitanmetropolitanJJOPER0areasareaNNSOPER0,,,OPER0plannedplanVBDOPER0totoTOOPER0absorbabsorbVBOPER0hishePRP$OPER0firmfirmNNOPER0's'sPOSOPER0operationsoperationNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NP (NNP Businessland)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ operates) (NP (NP (NNS stores)) (PP (IN in) (NP (CD 50) (NNP U.S.) (JJ metropolitan) (NNS areas))))))) (, ,)) (VP (VBD planned) (S (VP (TO to) (VP (VB absorb) (NP (NP (PRP$ his) (NN firm) (POS 's)) (NNS operations))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Businessland) (NNP Inc.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 4 until 5 headed by 4 parsed as purchased
+sid=0 spanning 5 until 21 headed by 9 parsed as (NP (DT a) (JJ major) (JJ regional) (NN computer) (NN retailer))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN purchase))
+sid=2 spanning 3 until 11 headed by 4 parsed as Jose
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Data) (NNP Systems))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NNP Data) (NNP Systems))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN company))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 2 until 13 headed by 2 parsed as (NP (NP (NNP Businessland)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ operates) (NP (NP (NNS stores)) (PP (IN in) (NP (CD 50) (NNP U.S.) (JJ metropolitan) (NNS areas))))))) (, ,))
+sid=5 spanning 16 until 19 headed by 17 parsed as (NP (PRP$ his) (NN firm) (POS 's))
+sid=5 spanning 16 until 17 headed by 16 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Businessland) (NNP Inc.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (DT a) (JJ major) (JJ regional) (NN computer) (NN retailer))
+sid=0 spanning 11 until 16 headed by 15 parsed as (NP (NP (NNP Data) (NNP Systems) (NNP Computer) (NN Centre) (NNP Inc.)) (, ,) (NP (NNP Springfield)) (, ,) (NP (NNP New) (NNP Jersey)))
+sid=0 spanning 11 until 21 headed by 15 parsed as (NP (NP (NNP Data) (NNP Systems) (NNP Computer) (NN Centre) (NNP Inc.)) (, ,) (NP (NNP Springfield)) (, ,) (NP (NNP New) (NNP Jersey)))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NNP Springfield))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (NNP New) (NNP Jersey))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Terms))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN purchase))
+sid=2 spanning 3 until 24 headed by 11 parsed as (NP (NP (NP (ADJP (NML (NML (NNP San) (NNP Jose)) (, ,) (NML (NNP Calif.))) (HYPH -) (VBN based)) (NNP Businessland) (POS 's)) (NNS links)) (PP (IN to) (NP (NP (DT the) (JJ large) (NNS corporations)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (PP (IN among) (NP (NP (DT the) (JJS biggest) (NNS buyers)) (PP (IN of) (NP (NNS computers)))))))))))
+sid=2 spanning 9 until 11 headed by 9 parsed as (NP (ADJP (NML (NML (NNP San) (NNP Jose)) (, ,) (NML (NNP Calif.))) (HYPH -) (VBN based)) (NNP Businessland) (POS 's))
+sid=2 spanning 3 until 11 headed by 4 parsed as (NP (ADJP (NML (NML (NNP San) (NNP Jose)) (, ,) (NML (NNP Calif.))) (HYPH -) (VBN based)) (NNP Businessland) (POS 's))
+sid=2 spanning 3 until 5 headed by 4 parsed as Jose
+sid=2 spanning 6 until 7 headed by 6 parsed as Calif.
+sid=2 spanning 13 until 24 headed by 15 parsed as (NP (NP (DT the) (JJ large) (NNS corporations)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (PP (IN among) (NP (NP (DT the) (JJS biggest) (NNS buyers)) (PP (IN of) (NP (NNS computers)))))))))
+sid=2 spanning 19 until 24 headed by 21 parsed as (NP (NP (DT the) (JJS biggest) (NNS buyers)) (PP (IN of) (NP (NNS computers))))
+sid=2 spanning 23 until 24 headed by 23 parsed as (NP (NNS computers))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Data) (NNP Systems))
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (CD five) (JJ retail) (NNS stores))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN northeast))
+sid=3 spanning 14 until 26 headed by 15 parsed as (NP (NP (JJ personal) (NNS computers)) (VP (VBN made) (PP (IN by) (NP (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (CC and) (NP (NNP Apple) (NNP Computer) (NNP Inc.))))))
+sid=3 spanning 18 until 22 headed by 21 parsed as (NP (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (CC and) (NP (NNP Apple) (NNP Computer) (NNP Inc.)))
+sid=3 spanning 18 until 26 headed by 21 parsed as (NP (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (CC and) (NP (NNP Apple) (NNP Computer) (NNP Inc.)))
+sid=3 spanning 23 until 26 headed by 25 parsed as (NP (NNP Apple) (NNP Computer) (NNP Inc.))
+sid=3 spanning 27 until 42 headed by 27 parsed as (NP (NP (NP (NNS banks)) (, ,) (NP (NN brokerage) (NNS firms)) (CC and) (NP (JJ other) (JJ big) (NNS businesses))) (VP (VBN based) (PP (IN in) (NP (DT the) (NML (NNP New) (NNP York)) (JJ metropolitan) (NN area)))))
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (NNS banks))
+sid=3 spanning 29 until 31 headed by 30 parsed as (NP (NN brokerage) (NNS firms))
+sid=3 spanning 32 until 35 headed by 34 parsed as (NP (JJ other) (JJ big) (NNS businesses))
+sid=3 spanning 37 until 42 headed by 41 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (JJ metropolitan) (NN area))
+sid=3 spanning 38 until 40 headed by 39 parsed as York
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP John) (NNP Fitzsimmons)) (, ,) (NP (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NNP Data) (NNP Systems)))) (, ,))
+sid=4 spanning 0 until 10 headed by 1 parsed as (NP (NP (NNP John) (NNP Fitzsimmons)) (, ,) (NP (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NNP Data) (NNP Systems)))) (, ,))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NNP Data) (NNP Systems))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN company))
+sid=4 spanning 17 until 25 headed by 17 parsed as (NP (NP (NNS sales)) (PP (IN of) (NP (NP (QP (RB nearly) ($ $) (CD 100) (CD million))) (NP (DT this) (NN year)))))
+sid=4 spanning 23 until 25 headed by 24 parsed as (NP (DT this) (NN year))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NP (NNP Businessland)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ operates) (NP (NP (NNS stores)) (PP (IN in) (NP (CD 50) (NNP U.S.) (JJ metropolitan) (NNS areas))))))) (, ,))
+sid=5 spanning 2 until 13 headed by 2 parsed as (NP (NP (NNP Businessland)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ operates) (NP (NP (NNS stores)) (PP (IN in) (NP (CD 50) (NNP U.S.) (JJ metropolitan) (NNS areas))))))) (, ,))
+sid=5 spanning 6 until 12 headed by 6 parsed as (NP (NP (NNS stores)) (PP (IN in) (NP (CD 50) (NNP U.S.) (JJ metropolitan) (NNS areas))))
+sid=5 spanning 8 until 12 headed by 11 parsed as (NP (CD 50) (NNP U.S.) (JJ metropolitan) (NNS areas))
+sid=5 spanning 16 until 20 headed by 19 parsed as (NP (NP (PRP$ his) (NN firm) (POS 's)) (NNS operations))
+sid=5 spanning 16 until 19 headed by 17 parsed as (NP (PRP$ his) (NN firm) (POS 's))
+sid=5 spanning 16 until 17 headed by 16 parsed as (PRP$ his)
+(end predicted mentions)
+---------gold clusters--------
+2 4 | { 'purchased' 'The purchase' }
+12 9 | { 'his' 'He' }
+11 5 1 0 10 | { 'his firm 's' 'San Jose , Calif. - based Businessland 's' 'it' 'Businessland Inc.' 'Businessland , which operates stores in 50 U.S. metropolitan areas ,' }
+3 7 8 6 | { 'a major regional computer retailer , Data Systems Computer Centre Inc. , Springfield , New Jersey' 'Data Systems' 'the company' 'Data Systems' }
+(end gold clusters)

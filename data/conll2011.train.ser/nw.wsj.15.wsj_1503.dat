@@ -1,0 +1,54 @@
+---------gloss--------
+(0) [1m[31m{MGM Grand Inc.}[0m said [1m[31m{it}[0m filed a registration statement with the Securities and Exchange Commission for [1m[32m{a public offering of six million common shares}[0m . 
+(1) [1m[31m{The Beverly Hills , Calif. - based company}[0m said [1m[31m{it}[0m would have 26.9 million common shares outstanding after [1m[32m{the offering}[0m . 
+(2) [1m[31m{The hotel and Gaming company}[0m said Merrill Lynch Capital Markets will lead the underwriters . 
+(3) Proceeds from [1m[32m{the sale}[0m will be used for remodeling and refurbishing projects , as well as for the planned [1m[31m{MGM Grand}[0m hotel / casino and theme park . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1503); part 000
+sentences:
+MGMMGMNNPORGPER0GrandGrandNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0filedfileVBDOPER0aaDTOPER0registrationregistrationNNOPER0statementstatementNNOPER0withwithINOPER0thetheDTORGPER0SecuritiesSecuritiesNNPSORGPER0andandCCORGPER0ExchangeExchangeNNPORGPER0CommissionCommissionNNPORGPER0forforINOPER0aaDTOPER0publicpublicJJOPER0offeringofferingNNOPER0ofofINOPER0sixsixCDCARDINALPER0millionmillionCDCARDINALPER0commoncommonJJOPER0sharesshareNNSOPER0...OPER0(ROOT (S (NP (NNP MGM) (NNP Grand) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD filed) (NP (DT a) (NN registration) (NN statement)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))) (PP (IN for) (NP (NP (DT a) (JJ public) (NN offering)) (PP (IN of) (NP (QP (CD six) (CD million)) (JJ common) (NNS shares))))))))) (. .)))
+ThetheDTOPER0BeverlyBeverlyNNPGPEPER0HillsHillsNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0--HYPHOPER0basedbaseVBNOPER0companycompanyNNOPER0saidsayVBDOPER0ititPRPOPER0wouldwouldMDOPER0havehaveVBOPER026.926.9CDCARDINALPER0millionmillionCDCARDINALPER0commoncommonJJOPER0sharesshareNNSOPER0outstandingoutstandingJJOPER0afterafterINOPER0thetheDTOPER0offeringofferingNNOPER0...OPER0(ROOT (S (NP (DT The) (ADJP (NML (NML (NNP Beverly) (NNP Hills)) (, ,) (NML (NNP Calif.))) (HYPH -) (VBN based)) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB have) (NP (NP (QP (CD 26.9) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding))) (PP (IN after) (NP (DT the) (NN offering)))))))) (. .)))
+ThetheDTOPER0hotelhotelNNOPER0andandCCOPER0GaminggamingNNOPER0companycompanyNNOPER0saidsayVBDOPER0MerrillMerrillNNPORGPER0LynchLynchNNPORGPER0CapitalCapitalNNPORGPER0MarketsMarketsNNPSORGPER0willwillMDOPER0leadleadVBOPER0thetheDTOPER0underwritersunderwriterNNSOPER0...OPER0(ROOT (S (NP (DT The) (NML (NN hotel) (CC and) (NN Gaming)) (NN company)) (VP (VBD said) (SBAR (S (NP (NML (NNP Merrill) (NNP Lynch)) (NNP Capital) (NNPS Markets)) (VP (MD will) (VP (VB lead) (NP (DT the) (NNS underwriters))))))) (. .)))
+ProceedsproceedsNNSOPER0fromfromINOPER0thetheDTOPER0salesaleNNOPER0willwillMDOPER0bebeVBOPER0useduseVBNOPER0forforINOPER0remodelingremodelVBGOPER0andandCCOPER0refurbishingrefurbishVBGOPER0projectsprojectNNSOPER0,,,OPER0asasRBOPER0wellwellRBOPER0asasINOPER0forforINOPER0thetheDTOPER0plannedplanVBNOPER0MGMMGMNNPORGPER0GrandGrandNNPORGPER0hotelhotelNNOPER0//SYMOPER0casinocasinoNNOPER0andandCCOPER0themethemeNNOPER0parkparkNNOPER0...OPER0(ROOT (S (NP (NP (NNS Proceeds)) (PP (IN from) (NP (DT the) (NN sale)))) (VP (MD will) (VP (VB be) (VP (VBN used) (PP (PP (IN for) (S (VP (VBG remodeling) (CC and) (VBG refurbishing) (NP (NNS projects))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (PP (IN for) (NP (NP (DT the) (VBN planned) (NML (NNP MGM) (NNP Grand)) (NN hotel) (SYM /) (NN casino)) (CC and) (NP (NN theme) (NN park)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP MGM) (NNP Grand) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 16 until 24 headed by 18 parsed as (NP (NP (DT a) (JJ public) (NN offering)) (PP (IN of) (NP (QP (CD six) (CD million)) (JJ common) (NNS shares))))
+sid=1 spanning 0 until 8 headed by 7 parsed as (NP (DT The) (ADJP (NML (NML (NNP Beverly) (NNP Hills)) (, ,) (NML (NNP Calif.))) (HYPH -) (VBN based)) (NN company))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN offering))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NN hotel) (CC and) (NN Gaming)) (NN company))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN sale))
+sid=3 spanning 19 until 21 headed by 20 parsed as Grand
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP MGM) (NNP Grand) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (NN registration) (NN statement))
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))
+sid=0 spanning 16 until 24 headed by 18 parsed as (NP (NP (DT a) (JJ public) (NN offering)) (PP (IN of) (NP (QP (CD six) (CD million)) (JJ common) (NNS shares))))
+sid=0 spanning 20 until 24 headed by 23 parsed as (NP (QP (CD six) (CD million)) (JJ common) (NNS shares))
+sid=1 spanning 0 until 8 headed by 7 parsed as (NP (DT The) (ADJP (NML (NML (NNP Beverly) (NNP Hills)) (, ,) (NML (NNP Calif.))) (HYPH -) (VBN based)) (NN company))
+sid=1 spanning 1 until 3 headed by 2 parsed as Hills
+sid=1 spanning 4 until 5 headed by 4 parsed as Calif.
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=1 spanning 12 until 17 headed by 15 parsed as (NP (NP (QP (CD 26.9) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding)))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN offering))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NN hotel) (CC and) (NN Gaming)) (NN company))
+sid=2 spanning 6 until 10 headed by 9 parsed as (NP (NML (NNP Merrill) (NNP Lynch)) (NNP Capital) (NNPS Markets))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS underwriters))
+sid=3 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Proceeds)) (PP (IN from) (NP (DT the) (NN sale))))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN sale))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNS projects))
+sid=3 spanning 17 until 27 headed by 23 parsed as (NP (NP (DT the) (VBN planned) (NML (NNP MGM) (NNP Grand)) (NN hotel) (SYM /) (NN casino)) (CC and) (NP (NN theme) (NN park)))
+sid=3 spanning 17 until 24 headed by 23 parsed as (NP (DT the) (VBN planned) (NML (NNP MGM) (NNP Grand)) (NN hotel) (SYM /) (NN casino))
+sid=3 spanning 19 until 21 headed by 20 parsed as Grand
+sid=3 spanning 25 until 27 headed by 26 parsed as (NP (NN theme) (NN park))
+(end predicted mentions)
+---------gold clusters--------
+0 8 3 1 6 4 | { 'MGM Grand Inc.' 'MGM Grand' 'The Beverly Hills , Calif. - based company' 'it' 'The hotel and Gaming company' 'it' }
+2 7 5 | { 'a public offering of six million common shares' 'the sale' 'the offering' }
+(end gold clusters)

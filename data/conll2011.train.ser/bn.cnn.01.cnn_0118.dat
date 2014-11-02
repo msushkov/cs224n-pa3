@@ -1,0 +1,50 @@
+---------gloss--------
+(0) It will likely cost more money to fix [1m[32m{the `` USS Cole ''}[0m than was first thought . 
+(1) [1m[33m{The Navy}[0m has sent Congress a revised repair estimate of $ 240 million . 
+(2) Earlier , [1m[33m{the Navy}[0m put the figure at $ 150 million to $ 170 million . 
+(3) [1m[32m{The destroyer}[0m was damaged October in a suicide bombing in Yemen . 
+(4) 17 sailors were killed and 39 others injured . 
+(5) [1m[32m{The `` Cole ''}[0m is due to arrive in Mississippi in a little more than a week for repairs . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0118); part 000
+sentences:
+ItitPRPOPER0willwillMDOPER0likelylikelyRBOPER0costcostVBOPER0moremoreJJROPER0moneymoneyNNOPER0totoTOOPER0fixfixVBOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0thanthanINOPER0wasbeVBDOPER0firstfirstJJOPER0thoughtthoughtNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (MD will) (ADVP (RB likely)) (VP (VB cost) (NP (JJR more) (NN money)) (S (VP (TO to) (VP (VB fix) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')) (SBAR (IN than) (S (VP (VBD was) (NP (JJ first) (NN thought)))))))))) (. .)))
+ThetheDTOPER0NavyNavyNNPORGPER0hashaveVBZOPER0sentsendVBNOPER0CongressCongressNNPORGPER0aaDTOPER0revisedreviseVBNOPER0repairrepairNNOPER0estimateestimateNNOPER0ofofINOPER0$$$MONEYPER0240240CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (DT The) (NNP Navy)) (VP (VBZ has) (VP (VBN sent) (NP (NNP Congress)) (NP (NP (DT a) (VBN revised) (NN repair) (NN estimate)) (PP (IN of) (NP (QP ($ $) (CD 240) (CD million))))))) (. .)))
+EarlierearlierRBROPER0,,,OPER0thetheDTOPER0NavyNavyNNPORGPER0putputVBDOPER0thetheDTOPER0figurefigureNNOPER0atatINOPER0$$$MONEYPER0150150CDMONEYPER0millionmillionCDMONEYPER0totoTOMONEYPER0$$$MONEYPER0170170CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (ADVP (RBR Earlier)) (, ,) (NP (DT the) (NNP Navy)) (VP (VBD put) (NP (DT the) (NN figure)) (PP (IN at) (NP (QP ($ $) (CD 150) (CD million) (TO to) ($ $) (CD 170) (CD million))))) (. .)))
+ThetheDTOPER0destroyerdestroyerNNOPER0wasbeVBDOPER0damageddamageVBNOPER0OctoberOctoberNNPDATEPER0ininINOPER0aaDTOPER0suicidesuicideNNOPER0bombingbombingNNOPER0ininINOPER0YemenYemenNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN destroyer)) (VP (VBD was) (VP (VBN damaged) (NP (NNP October)) (PP (IN in) (NP (NP (DT a) (NN suicide) (NN bombing)) (PP (IN in) (NP (NNP Yemen))))))) (. .)))
+1717CDCARDINALPER0sailorssailorNNSOPER0werebeVBDOPER0killedkillVBNOPER0andandCCOPER03939CDCARDINALPER0othersotherNNSOPER0injuredinjureVBNOPER0...OPER0(ROOT (S (S (NP (CD 17) (NNS sailors)) (VP (VBD were) (VP (VBN killed)))) (CC and) (S (NP (CD 39) (NNS others)) (VP (VBN injured))) (. .)))
+ThetheDTOPER0``````OColeColeNNPWORK_OF_ARTPER2''''''OPER0isbeVBZOPER0duedueJJOPER0totoTOOPER0arrivearriveVBOPER0ininINOPER0MississippiMississippiNNPGPEPER0ininINOPER0aaDTOPER0littlelittleJJOPER0moremoreJJROPER0thanthanINOPER0aaDTOPER0weekweekNNOPER0forforINOPER0repairsrepairNNSOPER0...OPER0(ROOT (S (NP (DT The) (`` ``) (NNP Cole) ('' '')) (VP (VBZ is) (ADJP (JJ due) (S (VP (TO to) (VP (VB arrive) (PP (IN in) (NP (NNP Mississippi))) (PP (IN in) (NP (QP (DT a) (JJ little) (JJR more) (IN than) (DT a)) (NN week))))))) (PP (IN for) (NP (NNS repairs)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 8 until 13 headed by 11 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Navy))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Navy))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN destroyer))
+sid=5 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (`` ``) (NNP Cole) ('' ''))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (JJR more) (NN money))
+sid=0 spanning 8 until 13 headed by 11 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Navy))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Congress))
+sid=1 spanning 5 until 13 headed by 8 parsed as (NP (NP (DT a) (VBN revised) (NN repair) (NN estimate)) (PP (IN of) (NP (QP ($ $) (CD 240) (CD million)))))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Navy))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN figure))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN destroyer))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP October))
+sid=3 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT a) (NN suicide) (NN bombing)) (PP (IN in) (NP (NNP Yemen))))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (NNP Yemen))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (CD 17) (NNS sailors))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (CD 39) (NNS others))
+sid=5 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (`` ``) (NNP Cole) ('' ''))
+sid=5 spanning 9 until 10 headed by 9 parsed as (NP (NNP Mississippi))
+sid=5 spanning 11 until 17 headed by 16 parsed as (NP (QP (DT a) (JJ little) (JJR more) (IN than) (DT a)) (NN week))
+sid=5 spanning 18 until 19 headed by 18 parsed as (NP (NNS repairs))
+(end predicted mentions)
+---------gold clusters--------
+3 4 0 | { 'The destroyer' 'The `` Cole ''' 'the `` USS Cole ''' }
+2 1 | { 'the Navy' 'The Navy' }
+(end gold clusters)

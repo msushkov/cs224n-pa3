@@ -1,0 +1,64 @@
+---------gloss--------
+(0) [3m[31m{Al Gore}[0m is spending the Thanksgiving holiday in Washington with [3m[31m{his}[0m family . 
+(1) Yesterday , [3m[31m{he}[0m and [3m[31m{his}[0m wife , Tipper , made [3m[33m{their}[0m annual visit to a local food bank . 
+(2) [3m[31m{The Vice President}[0m joked whether volunteers ought to recount the boxes of food . 
+(3) [3m[31m{Gore}[0m also says [3m[31m{he}[0m 's focusing on [3m[32m{building}[0m a possible administration , [3m[32m{a move he thinks George W. Bush should make as well}[0m , in spite of the election uncertainty . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0100); part 000
+sentences:
+AlAlNNPPERSONPER0GoreGoreNNPPERSONPER0isbeVBZOPER0spendingspendVBGOPER0thetheDTDATEPER0ThanksgivingThanksgivingNNPDATEPER0holidayholidayNNDATEPER0ininINOPER0WashingtonWashingtonNNPGPEPER0withwithINOPER0hishePRP$OPER0familyfamilyNNOPER0...OPER0(ROOT (S (NP (NNP Al) (NNP Gore)) (VP (VBZ is) (VP (VBG spending) (NP (NP (DT the) (NNP Thanksgiving) (NN holiday)) (PP (IN in) (NP (NNP Washington)))) (PP (IN with) (NP (PRP$ his) (NN family))))) (. .)))
+YesterdayyesterdayNNDATEPER0,,,OPER0hehePRPOPER0andandCCOPER0hishePRP$OPER0wifewifeNNOPER0,,,OPER0TipperTipperNNPPERSONPER0,,,OPER0mademakeVBDOPER0theirtheyPRP$OPER0annualannualJJDATEPER0visitvisitNNOPER0totoINOPER0aaDTOPER0locallocalJJOPER0foodfoodNNOPER0bankbankNNOPER0...OPER0(ROOT (S (NP (NN Yesterday)) (, ,) (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (NP (NNP Tipper)) (, ,))) (VP (VBD made) (NP (NP (PRP$ their) (JJ annual) (NN visit)) (PP (IN to) (NP (DT a) (JJ local) (NN food) (NN bank))))) (. .)))
+ThetheDTOPER0ViceViceNNPOPER0PresidentPresidentNNPOPER0jokedjokeVBDOPER0whetherwhetherINOPER0volunteersvolunteerNNSOPER0oughtoughtMDOPER0totoTOOPER0recountrecountVBOPER0thetheDTOPER0boxesboxNNSOPER0ofofINOPER0foodfoodNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Vice) (NNP President)) (VP (VBD joked) (SBAR (IN whether) (S (NP (NNS volunteers)) (VP (MD ought) (S (VP (TO to) (VP (VB recount) (NP (NP (DT the) (NNS boxes)) (PP (IN of) (NP (NN food))))))))))) (. .)))
+GoreGoreNNPPERSONPER0alsoalsoRBOPER0sayssayVBZOPER0hehePRPOPER0'sbeVBZOPER0focusingfocusVBGOPER0ononINOPER0buildingbuildVBGOPER0aaDTOPER0possiblepossibleJJOPER0administrationadministrationNNOPER0,,,OPER0aaDTOPER0movemoveNNOPER0hehePRPOPER0thinksthinkVBZOPER0GeorgeGeorgeNNPPERSONPER0W.W.NNPPERSONPER0BushBushNNPPERSONPER0shouldshouldMDOPER0makemakeVBOPER0asasRBOPER0wellwellRBOPER0,,,OPER0ininINOPER0spitespiteNNOPER0ofofINOPER0thetheDTOPER0electionelectionNNOPER0uncertaintyuncertaintyNNOPER0...OPER0(ROOT (S (NP (NNP Gore)) (ADVP (RB also)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG focusing) (PP (IN on) (S (VP (VBG building) (NP (NP (DT a) (JJ possible) (NN administration)) (, ,) (NP (NP (DT a) (NN move)) (SBAR (S (NP (PRP he)) (VP (VBZ thinks) (SBAR (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (MD should) (VP (VB make) (ADVP (RB as) (RB well)))))))))) (, ,)) (PP (IN in) (NP (NP (NN spite)) (PP (IN of) (NP (DT the) (NN election) (NN uncertainty))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Al) (NNP Gore))
+sid=0 spanning 10 until 11 headed by 10 parsed as his
+sid=1 spanning 2 until 9 headed by 2 parsed as (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (NP (NNP Tipper)) (, ,)))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (NP (NNP Tipper)) (, ,)))
+sid=1 spanning 4 until 5 headed by 4 parsed as his
+sid=1 spanning 10 until 11 headed by 10 parsed as their
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Vice) (NNP President))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Gore))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=3 spanning 7 until 8 headed by 7 parsed as building
+sid=3 spanning 12 until 23 headed by 13 parsed as (NP (NP (DT a) (NN move)) (SBAR (S (NP (PRP he)) (VP (VBZ thinks) (SBAR (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (MD should) (VP (VB make) (ADVP (RB as) (RB well))))))))))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Al) (NNP Gore))
+sid=0 spanning 4 until 9 headed by 6 parsed as (NP (NP (DT the) (NNP Thanksgiving) (NN holiday)) (PP (IN in) (NP (NNP Washington))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Washington))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ his) (NN family))
+sid=0 spanning 10 until 11 headed by 10 parsed as (PRP$ his)
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NN Yesterday))
+sid=1 spanning 2 until 9 headed by 2 parsed as (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (NP (NNP Tipper)) (, ,)))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=1 spanning 4 until 9 headed by 5 parsed as (NP (NP (PRP$ his) (NN wife)) (, ,) (NP (NNP Tipper)) (, ,))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ his) (NN wife))
+sid=1 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (NNP Tipper))
+sid=1 spanning 10 until 18 headed by 12 parsed as (NP (NP (PRP$ their) (JJ annual) (NN visit)) (PP (IN to) (NP (DT a) (JJ local) (NN food) (NN bank))))
+sid=1 spanning 10 until 11 headed by 10 parsed as (PRP$ their)
+sid=1 spanning 11 until 12 headed by 11 parsed as annual
+sid=1 spanning 14 until 18 headed by 17 parsed as (NP (DT a) (JJ local) (NN food) (NN bank))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Vice) (NNP President))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNS volunteers))
+sid=2 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT the) (NNS boxes)) (PP (IN of) (NP (NN food))))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Gore))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=3 spanning 8 until 24 headed by 10 parsed as (NP (NP (DT a) (JJ possible) (NN administration)) (, ,) (NP (NP (DT a) (NN move)) (SBAR (S (NP (PRP he)) (VP (VBZ thinks) (SBAR (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (MD should) (VP (VB make) (ADVP (RB as) (RB well)))))))))) (, ,))
+sid=3 spanning 8 until 11 headed by 10 parsed as (NP (DT a) (JJ possible) (NN administration))
+sid=3 spanning 12 until 23 headed by 13 parsed as (NP (NP (DT a) (NN move)) (SBAR (S (NP (PRP he)) (VP (VBZ thinks) (SBAR (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (MD should) (VP (VB make) (ADVP (RB as) (RB well))))))))))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (NNP George) (NNP W.) (NNP Bush))
+sid=3 spanning 25 until 30 headed by 25 parsed as (NP (NP (NN spite)) (PP (IN of) (NP (DT the) (NN election) (NN uncertainty))))
+sid=3 spanning 27 until 30 headed by 29 parsed as (NP (DT the) (NN election) (NN uncertainty))
+(end predicted mentions)
+---------gold clusters--------
+6 3 7 4 0 1 11 8 | { 'The Vice President' 'he' 'Gore' 'his' 'Al Gore' 'his' 'he' 'he' }
+10 9 | { 'a move he thinks George W. Bush should make as well' 'building' }
+2 5 | { 'he and his wife , Tipper ,' 'their' }
+(end gold clusters)

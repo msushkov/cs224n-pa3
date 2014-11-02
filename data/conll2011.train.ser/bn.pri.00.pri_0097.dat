@@ -1,0 +1,25 @@
+---------gloss--------
+(0) President Clinton is due to meet Israeli and Palestinian negotiators in Washington tomorrow . 
+(1) They will discuss prospects for peace in the Middle East . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0097); part 000
+sentences:
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0isbeVBZOPER0duedueJJOPER0totoTOOPER0meetmeetVBOPER0IsraeliisraeliJJOPER0andandCCOPER0PalestinianpalestinianJJOPER0negotiatorsnegotiatorNNSOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0tomorrowtomorrowNNDATEPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (VP (VBZ is) (ADJP (JJ due) (S (VP (TO to) (VP (VB meet) (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators)) (PP (IN in) (NP (NNP Washington))) (NP (NN tomorrow))))))) (. .)))
+TheytheyPRPOPER0willwillMDOPER0discussdiscussVBOPER0prospectsprospectsNNSOPER0forforINOPER0peacepeaceNNOPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0...OPER0(ROOT (S (NP (PRP They)) (VP (MD will) (VP (VB discuss) (NP (NP (NNS prospects)) (PP (IN for) (NP (NP (NN peace)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Washington))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NN tomorrow))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=1 spanning 3 until 10 headed by 3 parsed as (NP (NP (NNS prospects)) (PP (IN for) (NP (NP (NN peace)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))))
+sid=1 spanning 5 until 10 headed by 5 parsed as (NP (NP (NN peace)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Middle) (NNP East))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

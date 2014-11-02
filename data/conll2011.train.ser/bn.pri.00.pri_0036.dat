@@ -1,0 +1,73 @@
+---------gloss--------
+(0) From NPR News in Washington , I am Corey Flintoff . 
+(1) Palestinians and Israeli soldiers fought in the streets one day after [4m[34m{Israeli Prime Minister Ehud Barak}[0m said [4m[34m{his}[0m nation is taking a break from peace talks . 
+(2) [4m[34m{Barak}[0m began negotiations [4m[36m{today}[0m with [4m[34m{his}[0m hard line opponents in parliament , considering ways to bring [4m[33m{them}[0m into a coalition government , a development that could keep [4m[35m{Israel}[0m out of the peace process for months . 
+(3) [4m[36m{Today}[0m Israeli security forces closed the Palestinian airport and the Gaza Strip and blockaded a West Bank town , where gunmen had allegedly fired on a Jewish neighborhood that [4m[35m{Israel}[0m claims is part of Jerusalem . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0036); part 000
+sentences:
+FromfromINOPER0NPRNPRNNPORGPER0NewsNewsNNPORGPER0ininINOPER0WashingtonWashingtonNNPGPEPER0,,,OPER0IIPRPOPER0ambeVBPOPER0CoreyCoreyNNPPERSONPER0FlintoffFlintoffNNPPERSONPER0...OPER0(ROOT (S (PP (IN From) (NP (NP (NNP NPR) (NNP News)) (PP (IN in) (NP (NNP Washington))))) (, ,) (NP (PRP I)) (VP (VBP am) (NP (NNP Corey) (NNP Flintoff))) (. .)))
+PalestiniansPalestiniansNNPSOPER0andandCCOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0foughtfightVBDOPER0ininINOPER0thetheDTOPER0streetsstreetNNSOPER0oneoneCDDATEPER0daydayNNDATEPER0afterafterINOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0saidsayVBDOPER0hishePRP$OPER0nationnationNNOPER0isbeVBZOPER0takingtakeVBGOPER0aaDTOPER0breakbreakNNOPER0fromfromINOPER0peacepeaceNNOPER0talkstalkNNSOPER0...OPER0(ROOT (S (NP (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNS soldiers))) (VP (VBD fought) (PP (IN in) (NP (DT the) (NNS streets))) (SBAR (NP (CD one) (NN day)) (IN after) (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD said) (SBAR (S (NP (PRP$ his) (NN nation)) (VP (VBZ is) (VP (VBG taking) (NP (NP (DT a) (NN break)) (PP (IN from) (NP (NN peace) (NNS talks)))))))))))) (. .)))
+BarakBarakNNPPERSONPER0beganbeginVBDOPER0negotiationsnegotiationNNSOPER0todaytodayNNDATEPER0withwithINOPER0hishePRP$OPER0hardhardJJOPER0linelineNNOPER0opponentsopponentNNSOPER0ininINOPER0parliamentparliamentNNORGPER0,,,OPER0consideringconsiderVBGOPER0wayswayNNSOPER0totoTOOPER0bringbringVBOPER0themtheyPRPOPER0intointoINOPER0aaDTOPER0coalitioncoalitionNNOPER0governmentgovernmentNNOPER0,,,OPER0aaDTOPER0developmentdevelopmentNNOPER0thatthatWDTOPER0couldcouldMDOPER0keepkeepVBOPER0IsraelIsraelNNPGPEPER0outoutINOPER0ofofINOPER0thetheDTOPER0peacepeaceNNOPER0processprocessNNOPER0forforINOPER0monthsmonthNNSDATEPER0...OPER0(ROOT (S (NP (NNP Barak)) (VP (VBD began) (NP (NP (NNS negotiations)) (NP (NN today))) (PP (IN with) (NP (PRP$ his) (NML (JJ hard) (NN line)) (NNS opponents))) (PP (IN in) (NP (NN parliament))) (, ,) (S (VP (VBG considering) (NP (NP (NNS ways)) (SBAR (S (VP (TO to) (VP (VB bring) (NP (PRP them)) (PP (IN into) (NP (NP (DT a) (NN coalition) (NN government)) (, ,) (NP (NP (DT a) (NN development)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB keep) (NP (NNP Israel)) (PP (IN out) (PP (IN of) (NP (NP (DT the) (NN peace) (NN process)) (PP (IN for) (NP (NNS months))))))))))))))))))))) (. .)))
+TodaytodayNNOPER0IsraeliisraeliJJOPER0securitysecurityNNOPER0forcesforceNNSOPER0closedcloseVBDOPER0thetheDTOPER0PalestinianpalestinianJJOPER0airportairportNNOPER0andandCCOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0andandCCOPER0blockadedblockadeVBDOPER0aaDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0towntownNNOPER0,,,OPER0wherewhereWRBOPER0gunmengunmanNNSOPER0hadhaveVBDOPER0allegedlyallegedlyRBOPER0firedfireVBNOPER0ononINOPER0aaDTOPER0JewishjewishJJOPER0neighborhoodneighborhoodNNOPER0thatthatWDTOPER0IsraelIsraelNNPGPEPER0claimsclaimVBZOPER0isbeVBZOPER0partpartNNOPER0ofofINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (NN Today)) (NP (JJ Israeli) (NN security) (NNS forces)) (VP (VP (VBD closed) (NP (NP (DT the) (JJ Palestinian) (NN airport)) (CC and) (NP (DT the) (NNP Gaza) (NNP Strip)))) (CC and) (VP (VBD blockaded) (NP (NP (DT a) (NML (NNP West) (NNP Bank)) (NN town)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS gunmen)) (VP (VBD had) (ADVP (RB allegedly)) (VP (VBN fired) (PP (IN on) (NP (NP (DT a) (JJ Jewish) (NN neighborhood)) (SBAR (WHNP (WDT that)) (S (NP (NNP Israel)) (VP (VBZ claims) (SBAR (S (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NNP Jerusalem))))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 11 until 16 headed by 15 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (PRP$ his) (NN nation))
+sid=1 spanning 17 until 18 headed by 17 parsed as his
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NN today))
+sid=2 spanning 5 until 11 headed by 8 parsed as (NP (PRP$ his) (NML (JJ hard) (NN line)) (NNS opponents))
+sid=2 spanning 5 until 6 headed by 5 parsed as his
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (PRP them))
+sid=2 spanning 27 until 28 headed by 27 parsed as (NP (NNP Israel))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NN Today))
+sid=3 spanning 29 until 30 headed by 29 parsed as (NP (NNP Israel))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 5 headed by 2 parsed as (NP (NP (NNP NPR) (NNP News)) (PP (IN in) (NP (NNP Washington))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Washington))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP I))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Corey) (NNP Flintoff))
+sid=1 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNS soldiers)))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS streets))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (CD one) (NN day))
+sid=1 spanning 11 until 16 headed by 15 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (PRP$ his) (NN nation))
+sid=1 spanning 17 until 18 headed by 17 parsed as (PRP$ his)
+sid=1 spanning 21 until 26 headed by 22 parsed as (NP (NP (DT a) (NN break)) (PP (IN from) (NP (NN peace) (NNS talks))))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (NN peace) (NNS talks))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=2 spanning 2 until 4 headed by 2 parsed as (NP (NP (NNS negotiations)) (NP (NN today)))
+sid=2 spanning 5 until 9 headed by 8 parsed as (NP (PRP$ his) (NML (JJ hard) (NN line)) (NNS opponents))
+sid=2 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=2 spanning 13 until 35 headed by 13 parsed as (NP (NP (NNS ways)) (SBAR (S (VP (TO to) (VP (VB bring) (NP (PRP them)) (PP (IN into) (NP (NP (DT a) (NN coalition) (NN government)) (, ,) (NP (NP (DT a) (NN development)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB keep) (NP (NNP Israel)) (PP (IN out) (PP (IN of) (NP (NP (DT the) (NN peace) (NN process)) (PP (IN for) (NP (NNS months))))))))))))))))))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (PRP them))
+sid=2 spanning 18 until 35 headed by 20 parsed as (NP (NP (DT a) (NN coalition) (NN government)) (, ,) (NP (NP (DT a) (NN development)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB keep) (NP (NNP Israel)) (PP (IN out) (PP (IN of) (NP (NP (DT the) (NN peace) (NN process)) (PP (IN for) (NP (NNS months))))))))))))
+sid=2 spanning 18 until 21 headed by 20 parsed as (NP (DT a) (NN coalition) (NN government))
+sid=2 spanning 22 until 35 headed by 23 parsed as (NP (NP (DT a) (NN development)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB keep) (NP (NNP Israel)) (PP (IN out) (PP (IN of) (NP (NP (DT the) (NN peace) (NN process)) (PP (IN for) (NP (NNS months)))))))))))
+sid=2 spanning 27 until 28 headed by 27 parsed as (NP (NNP Israel))
+sid=2 spanning 30 until 35 headed by 32 parsed as (NP (NP (DT the) (NN peace) (NN process)) (PP (IN for) (NP (NNS months))))
+sid=2 spanning 34 until 35 headed by 34 parsed as (NP (NNS months))
+sid=3 spanning 1 until 4 headed by 3 parsed as (NP (JJ Israeli) (NN security) (NNS forces))
+sid=3 spanning 5 until 12 headed by 7 parsed as (NP (NP (DT the) (JJ Palestinian) (NN airport)) (CC and) (NP (DT the) (NNP Gaza) (NNP Strip)))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ Palestinian) (NN airport))
+sid=3 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=3 spanning 14 until 35 headed by 17 parsed as (NP (NP (DT a) (NML (NNP West) (NNP Bank)) (NN town)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS gunmen)) (VP (VBD had) (ADVP (RB allegedly)) (VP (VBN fired) (PP (IN on) (NP (NP (DT a) (JJ Jewish) (NN neighborhood)) (SBAR (WHNP (WDT that)) (S (NP (NNP Israel)) (VP (VBZ claims) (SBAR (S (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NNP Jerusalem)))))))))))))))))
+sid=3 spanning 14 until 18 headed by 17 parsed as (NP (DT a) (NML (NNP West) (NNP Bank)) (NN town))
+sid=3 spanning 15 until 17 headed by 16 parsed as Bank
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (NNS gunmen))
+sid=3 spanning 25 until 35 headed by 27 parsed as (NP (NP (DT a) (JJ Jewish) (NN neighborhood)) (SBAR (WHNP (WDT that)) (S (NP (NNP Israel)) (VP (VBZ claims) (SBAR (S (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NNP Jerusalem)))))))))))
+sid=3 spanning 29 until 30 headed by 29 parsed as (NP (NNP Israel))
+sid=3 spanning 32 until 35 headed by 32 parsed as (NP (NP (NN part)) (PP (IN of) (NP (NNP Jerusalem))))
+sid=3 spanning 34 until 35 headed by 34 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+7 5 | { 'them' 'his hard line opponents in parliament' }
+0 6 2 3 | { 'Israeli Prime Minister Ehud Barak' 'his' 'his' 'Barak' }
+1 10 8 | { 'his nation' 'Israel' 'Israel' }
+4 9 | { 'today' 'Today' }
+(end gold clusters)

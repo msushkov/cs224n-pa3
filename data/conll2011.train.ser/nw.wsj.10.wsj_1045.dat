@@ -1,0 +1,188 @@
+---------gloss--------
+(0) [3m[35m{Adolph Coors Co.}[0m said [4m[36m{William K. Coors , chairman ,}[0m [31m{assumed}[0m the additional responsibilities of president , succeeding [4m[34m{Jeffrey H. Coors}[0m . 
+(1) [4m[34m{Jeffrey Coors , 44 years old ,}[0m had been [4m[32m{president}[0m since 1985 , when [4m[34m{he}[0m succeeded [4m[34m{his}[0m father Joseph in [4m[32m{the job}[0m . 
+(2) But [3m[35m{the brewer}[0m said [4m[34m{Jeffrey Coors}[0m voluntarily gave up [4m[32m{the position}[0m to focus more of [4m[34m{his}[0m energy on Coors Technology Co. , a small unit of [3m[35m{Coors}[0m [4m[34m{he}[0m has run for several years . 
+(3) [4m[31m{A Coors spokesman}[0m said [3m[35m{the company}[0m does n't believe [31m{the move}[0m will further increase [4m[36m{William Coors 's}[0m influence or reduce the influence of [32m{Jeffrey Coors , Peter Coors or Joseph Coors Jr. , who run the company 's three operating units}[0m . 
+(4) `` [31m{It}[0m certainly was n't intended to be a demotion , '' [4m[31m{the spokesman}[0m said . 
+(5) `` [32m{Pete and Jeff and Joe Jr.}[0m have [3m[36m{taken}[0m over the reins and are doing most of the work . 
+(6) [3m[35m{We}[0m do n't think [31m{this}[0m will affect [3m[36m{that}[0m . '' 
+(7) [32m{Jeffrey , Peter and Joseph Jr.}[0m are brothers . 
+(8) [4m[36m{William Coors}[0m is [32m{their}[0m uncle . 
+(9) [4m[34m{Jeffrey}[0m , [4m[35m{Peter}[0m , [34m{Joseph Jr.}[0m , [4m[36m{William}[0m and [33m{Joseph Sr.}[0m constitute [3m[35m{the company 's}[0m board . 
+(10) [4m[35m{Peter Coors}[0m runs the Coors Brewing Co. unit , the nation 's fourth - largest brewery that accounted for $ 1.24 billion of [3m[35m{Adolph Coors 's}[0m $ 1.52 billion in [4m[33m{1988}[0m sales . 
+(11) [34m{Joseph Jr.}[0m runs Coors Ceramics Co. , the other operating unit , which had about $ 150 million in [4m[33m{1988}[0m sales . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1045); part 000
+sentences:
+AdolphAdolphNNPORGPER0CoorsCoorsNNPORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0WilliamWilliamNNPPERSONPER0K.K.NNPPERSONPER0CoorsCoorsNNPPERSONPER0,,,OPER0chairmanchairmanNNOPER0,,,OPER0assumedassumeVBDOPER0thetheDTOPER0additionaladditionalJJOPER0responsibilitiesresponsibilityNNSOPER0ofofINOPER0presidentpresidentNNOPER0,,,OPER0succeedingsucceedVBGOPER0JeffreyJeffreyNNPPERSONPER0H.H.NNPPERSONPER0CoorsCoorsNNPPERSONPER0...OPER0(ROOT (S (NP (NNP Adolph) (NNP Coors) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (NP (NNP William) (NNP K.) (NNP Coors)) (, ,) (NP (NN chairman)) (, ,)) (VP (VBD assumed) (NP (NP (DT the) (JJ additional) (NNS responsibilities)) (PP (IN of) (NP (NN president)))) (, ,) (S (VP (VBG succeeding) (NP (NNP Jeffrey) (NNP H.) (NNP Coors)))))))) (. .)))
+JeffreyJeffreyNNPPERSONPER0CoorsCoorsNNPPERSONPER0,,,OPER04444CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0hadhaveVBDOPER0beenbeVBNOPER0presidentpresidentNNOPER0sincesinceINOPER019851985CDDATEPER0,,,OPER0whenwhenWRBOPER0hehePRPOPER0succeededsucceedVBDOPER0hishePRP$OPER0fatherfatherNNOPER0JosephJosephNNPPERSONPER0ininINOPER0thetheDTOPER0jobjobNNOPER0...OPER0(ROOT (S (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (ADJP (NML (CD 44) (NNS years)) (JJ old)) (, ,)) (VP (VBD had) (VP (VBN been) (NP (NN president)) (PP (IN since) (NP (NP (CD 1985)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD succeeded) (NP (NP (NP (PRP$ his) (NN father)) (NP (NNP Joseph))) (PP (IN in) (NP (DT the) (NN job))))))))))) (. .)))
+ButbutCCOPER0thetheDTOPER0brewerbrewerNNOPER0saidsayVBDOPER0JeffreyJeffreyNNPPERSONPER0CoorsCoorsNNPPERSONPER0voluntarilyvoluntarilyRBOPER0gavegiveVBDOPER0upupRPOPER0thetheDTOPER0positionpositionNNOPER0totoTOOPER0focusfocusVBOPER0moremoreJJROPER0ofofINOPER0hishePRP$OPER0energyenergyNNOPER0ononINOPER0CoorsCoorsNNPORGPER0TechnologyTechnologyNNPORGPER0Co.Co.NNPORGPER0,,,OPER0aaDTOPER0smallsmallJJOPER0unitunitNNOPER0ofofINOPER0CoorsCoorsNNPORGPER0hehePRPOPER0hashaveVBZOPER0runrunVBNOPER0forforINOPER0severalseveralJJDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (CC But) (NP (DT the) (NN brewer)) (VP (VBD said) (SBAR (S (NP (NNP Jeffrey) (NNP Coors)) (ADVP (RB voluntarily)) (VP (VBD gave) (PRT (RP up)) (NP (NP (DT the) (NN position)) (SBAR (S (VP (TO to) (VP (VB focus) (NP (NP (JJR more)) (PP (IN of) (NP (PRP$ his) (NN energy)))) (PP (IN on) (NP (NP (NNP Coors) (NNP Technology) (NNP Co.)) (, ,) (NP (NP (DT a) (JJ small) (NN unit)) (PP (IN of) (NP (NNP Coors))))))))))) (SBAR (S (NP (PRP he)) (VP (VBZ has) (VP (VBN run) (PP (IN for) (NP (JJ several) (NNS years))))))))))) (. .)))
+AaDTOPER0CoorsCoorsNNPORGPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0thetheDTOPER0companycompanyNNOPER0doesdoVBZOPER0n'tnotRBOPER0believebelieveVBOPER0thetheDTOPER0movemoveNNOPER0willwillMDOPER0furtherfurtherRBOPER0increaseincreaseVBOPER0WilliamWilliamNNPPERSONPER0CoorsCoorsNNPPERSONPER0's'sPOSPERSONPER0influenceinfluenceNNOPER0ororCCOPER0reducereduceVBOPER0thetheDTOPER0influenceinfluenceNNOPER0ofofINOPER0JeffreyJeffreyNNPPERSONPER0CoorsCoorsNNPPERSONPER0,,,OPER0PeterPeterNNPPERSONPER0CoorsCoorsNNPPERSONPER0ororCCOPER0JosephJosephNNPPERSONPER0CoorsCoorsNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER0whowhoWPOPER0runrunVBPOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0threethreeCDCARDINALPER0operatingoperatingNNOPER0unitsunitNNSOPER0...OPER0(ROOT (S (NP (DT A) (NNP Coors) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBZ does) (RB n't) (VP (VB believe) (SBAR (S (NP (DT the) (NN move)) (VP (MD will) (ADVP (RB further)) (VP (VP (VB increase) (NP (NP (NNP William) (NNP Coors) (POS 's)) (NN influence))) (CC or) (VP (VB reduce) (NP (NP (DT the) (NN influence)) (PP (IN of) (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (NP (NNP Peter) (NNP Coors)) (CC or) (NP (NP (NNP Joseph) (NNP Coors) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP run) (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units))))))))))))))))))) (. .)))
+``````OItitPRPOPER1certainlycertainlyRBOPER1wasbeVBDOPER1n'tnotRBOPER1intendedintendVBNOPER1totoTOOPER1bebeVBOPER1aaDTOPER1demotiondemotionNNOPER1,,,OPER1''''''OPER0thetheDTOPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (`` ``) (S (NP (PRP It)) (ADVP (RB certainly)) (VP (VBD was) (RB n't) (VP (VBN intended) (S (VP (TO to) (VP (VB be) (NP (DT a) (NN demotion)))))))) (, ,) ('' '') (NP (DT the) (NN spokesman)) (VP (VBD said)) (. .)))
+``````OPetePeteNNPPERSONPER2andandCCOPER2JeffJeffNNPPERSONPER2andandCCOPER2JoeJoeNNPPERSONPER2Jr.Jr.NNPPERSONPER2havehaveVBPOPER2takentakeVBNOPER2overoverRPOPER2thetheDTOPER2reinsreinNNSOPER2andandCCOPER2arebeVBPOPER2doingdoVBGOPER2mostmostJJSOPER2ofofINOPER2thetheDTOPER2workworkNNOPER2...OPER2(ROOT (S (`` ``) (NP (NP (NNP Pete) (CC and) (NNP Jeff)) (CC and) (NP (NNP Joe) (NNP Jr.))) (VP (VP (VBP have) (VP (VBN taken) (PRT (RP over)) (NP (DT the) (NNS reins)))) (CC and) (VP (VBP are) (VP (VBG doing) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN work))))))) (. .)))
+WewePRPOPER2dodoVBPOPER2n'tnotRBOPER2thinkthinkVBOPER2thisthisDTOPER2willwillMDOPER2affectaffectVBOPER2thatthatDTOPER2...OPER2''''''OPER0(ROOT (S (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (DT this)) (VP (MD will) (VP (VB affect) (NP (DT that)))))))) (. .) ('' '')))
+JeffreyJeffreyNNPPERSONPER0,,,OPER0PeterPeterNNPPERSONPER0andandCCOPER0JosephJosephNNPPERSONPER0Jr.Jr.NNPPERSONPER0arebeVBPOPER0brothersbrotherNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Jeffrey)) (, ,) (NP (NNP Peter)) (CC and) (NP (NNP Joseph) (NNP Jr.))) (VP (VBP are) (NP (NNS brothers))) (. .)))
+WilliamWilliamNNPPERSONPER0CoorsCoorsNNPPERSONPER0isbeVBZOPER0theirtheyPRP$OPER0uncleuncleNNOPER0...OPER0(ROOT (S (NP (NNP William) (NNP Coors)) (VP (VBZ is) (NP (PRP$ their) (NN uncle))) (. .)))
+JeffreyJeffreyNNPPERSONPER0,,,OPER0PeterPeterNNPPERSONPER0,,,OPER0JosephJosephNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER0WilliamWilliamNNPPERSONPER0andandCCOPER0JosephJosephNNPPERSONPER0Sr.Sr.NNPPERSONPER0constituteconstituteVBPOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0boardboardNNOPER0...OPER0(ROOT (S (NP (NP (NNP Jeffrey)) (, ,) (NP (NNP Peter)) (, ,) (NP (NNP Joseph) (NNP Jr.)) (, ,) (NP (NNP William)) (CC and) (NP (NNP Joseph) (NNP Sr.))) (VP (VBP constitute) (NP (NP (DT the) (NN company) (POS 's)) (NN board))) (. .)))
+PeterPeterNNPPERSONPER0CoorsCoorsNNPPERSONPER0runsrunVBZOPER0thetheDTOPER0CoorsCoorsNNPORGPER0BrewingBrewingNNPORGPER0Co.Co.NNPORGPER0unitunitNNOPER0,,,OPER0thetheDTOPER0nationnationNNOPER0's'sPOSOPER0fourthfourthRBORDINALPER0--HYPHOPER0largestlargestJJSOPER0brewerybreweryNNOPER0thatthatWDTOPER0accountedaccountVBDOPER0forforINOPER0$$$MONEYPER01.241.24CDMONEYPER0billionbillionCDMONEYPER0ofofINOPER0AdolphAdolphNNPORGPER0CoorsCoorsNNPORGPER0's'sPOSORGPER0$$$MONEYPER01.521.52CDMONEYPER0billionbillionCDMONEYPER0ininINOPER019881988CDDATEPER0salessaleNNSOPER0...OPER0(ROOT (S (NP (NNP Peter) (NNP Coors)) (VP (VBZ runs) (NP (NP (DT the) (NML (NNP Coors) (NNP Brewing) (NNP Co.)) (NN unit)) (, ,) (NP (NP (NP (DT the) (NN nation) (POS 's)) (ADJP (RB fourth) (HYPH -) (JJS largest)) (NN brewery)) (SBAR (WHNP (WDT that)) (S (VP (VBD accounted) (PP (IN for) (NP (NP (NP (QP ($ $) (CD 1.24) (CD billion))) (PP (IN of) (NP (NP (NNP Adolph) (NNP Coors) (POS 's)) (QP ($ $) (CD 1.52) (CD billion))))) (PP (IN in) (NP (CD 1988) (NNS sales))))))))))) (. .)))
+JosephJosephNNPPERSONPER0Jr.Jr.NNPPERSONPER0runsrunVBZOPER0CoorsCoorsNNPORGPER0CeramicsCeramicsNNPSORGPER0Co.Co.NNPORGPER0,,,OPER0thetheDTOPER0otherotherJJOPER0operatingoperatingNNOPER0unitunitNNOPER0,,,OPER0whichwhichWDTOPER0hadhaveVBDOPER0aboutaboutRBMONEYPER0$$$MONEYPER0150150CDMONEYPER0millionmillionCDMONEYPER0ininINOPER019881988CDDATEPER0salessaleNNSOPER0...OPER0(ROOT (S (NP (NNP Joseph) (NNP Jr.)) (VP (VBZ runs) (NP (NP (NP (NNP Coors) (NNPS Ceramics) (NNP Co.)) (, ,) (NP (DT the) (JJ other) (NN operating) (NN unit))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (QP (RB about) ($ $) (CD 150) (CD million))) (PP (IN in) (NP (CD 1988) (NNS sales))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Adolph) (NNP Coors) (NNP Co.))
+sid=0 spanning 4 until 10 headed by 6 parsed as (NP (NP (NNP William) (NNP K.) (NNP Coors)) (, ,) (NP (NN chairman)) (, ,))
+sid=0 spanning 10 until 11 headed by 10 parsed as assumed
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (NNP Jeffrey) (NNP H.) (NNP Coors))
+sid=1 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (ADJP (NML (CD 44) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NN president))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=1 spanning 16 until 19 headed by 17 parsed as (NP (NP (NP (PRP$ his) (NN father)) (NP (NNP Joseph))) (PP (IN in) (NP (DT the) (NN job))))
+sid=1 spanning 16 until 17 headed by 16 parsed as his
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN job))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN brewer))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NNP Jeffrey) (NNP Coors))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NP (DT the) (NN position)) (SBAR (S (VP (TO to) (VP (VB focus) (NP (NP (JJR more)) (PP (IN of) (NP (PRP$ his) (NN energy)))) (PP (IN on) (NP (NP (NNP Coors) (NNP Technology) (NNP Co.)) (, ,) (NP (NP (DT a) (JJ small) (NN unit)) (PP (IN of) (NP (NNP Coors)))))))))))
+sid=2 spanning 15 until 16 headed by 15 parsed as his
+sid=2 spanning 26 until 27 headed by 26 parsed as (NP (NNP Coors))
+sid=2 spanning 27 until 28 headed by 27 parsed as (NP (PRP he))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Coors) (NN spokesman))
+sid=3 spanning 1 until 2 headed by 1 parsed as Coors
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN company))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN move))
+sid=3 spanning 14 until 17 headed by 15 parsed as (NP (NNP William) (NNP Coors) (POS 's))
+sid=3 spanning 23 until 25 headed by 24 parsed as (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (NP (NNP Peter) (NNP Coors)) (CC or) (NP (NP (NNP Joseph) (NNP Coors) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP run) (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units)))))))
+sid=3 spanning 23 until 41 headed by 24 parsed as (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (NP (NNP Peter) (NNP Coors)) (CC or) (NP (NP (NNP Joseph) (NNP Coors) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP run) (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units)))))))
+sid=3 spanning 26 until 28 headed by 27 parsed as (NP (NNP Peter) (NNP Coors))
+sid=3 spanning 29 until 32 headed by 31 parsed as (NP (NP (NNP Joseph) (NNP Coors) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP run) (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units))))))
+sid=3 spanning 35 until 38 headed by 36 parsed as (NP (DT the) (NN company) (POS 's))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (PRP It))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN spokesman))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Pete) (CC and) (NNP Jeff)) (CC and) (NP (NNP Joe) (NNP Jr.)))
+sid=5 spanning 1 until 7 headed by 1 parsed as (NP (NP (NNP Pete) (CC and) (NNP Jeff)) (CC and) (NP (NNP Joe) (NNP Jr.)))
+sid=5 spanning 3 until 4 headed by 3 parsed as Jeff
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (NNP Joe) (NNP Jr.))
+sid=5 spanning 8 until 9 headed by 8 parsed as taken
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (DT this))
+sid=6 spanning 7 until 8 headed by 7 parsed as (NP (DT that))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Jeffrey)) (, ,) (NP (NNP Peter)) (CC and) (NP (NNP Joseph) (NNP Jr.)))
+sid=7 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Jeffrey)) (, ,) (NP (NNP Peter)) (CC and) (NP (NNP Joseph) (NNP Jr.)))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (NNP Peter))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (NNP Joseph) (NNP Jr.))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (NNP William) (NNP Coors))
+sid=8 spanning 3 until 4 headed by 3 parsed as their
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Jeffrey)) (, ,) (NP (NNP Peter)) (, ,) (NP (NNP Joseph) (NNP Jr.)) (, ,) (NP (NNP William)) (CC and) (NP (NNP Joseph) (NNP Sr.)))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (NNP Peter))
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (NNP Joseph) (NNP Jr.))
+sid=9 spanning 7 until 8 headed by 7 parsed as (NP (NNP William))
+sid=9 spanning 9 until 11 headed by 10 parsed as (NP (NNP Joseph) (NNP Sr.))
+sid=9 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN company) (POS 's))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Peter) (NNP Coors))
+sid=10 spanning 23 until 26 headed by 24 parsed as (NP (NP (NNP Adolph) (NNP Coors) (POS 's)) (QP ($ $) (CD 1.52) (CD billion)))
+sid=10 spanning 30 until 31 headed by 30 parsed as 1988
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Joseph) (NNP Jr.))
+sid=11 spanning 19 until 20 headed by 19 parsed as 1988
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Adolph) (NNP Coors) (NNP Co.))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNP William) (NNP K.) (NNP Coors)) (, ,) (NP (NN chairman)) (, ,))
+sid=0 spanning 4 until 10 headed by 6 parsed as (NP (NP (NNP William) (NNP K.) (NNP Coors)) (, ,) (NP (NN chairman)) (, ,))
+sid=0 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT the) (JJ additional) (NNS responsibilities)) (PP (IN of) (NP (NN president))))
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (NNP Jeffrey) (NNP H.) (NNP Coors))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (ADJP (NML (CD 44) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (ADJP (NML (CD 44) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 3 until 6 headed by 5 parsed as old
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NP (CD 1985)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD succeeded) (NP (NP (NP (PRP$ his) (NN father)) (NP (NNP Joseph))) (PP (IN in) (NP (DT the) (NN job))))))))
+sid=1 spanning 11 until 22 headed by 11 parsed as (NP (NP (CD 1985)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD succeeded) (NP (NP (NP (PRP$ his) (NN father)) (NP (NNP Joseph))) (PP (IN in) (NP (DT the) (NN job))))))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=1 spanning 16 until 22 headed by 17 parsed as (NP (NP (NP (PRP$ his) (NN father)) (NP (NNP Joseph))) (PP (IN in) (NP (DT the) (NN job))))
+sid=1 spanning 16 until 17 headed by 16 parsed as (PRP$ his)
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (NNP Joseph))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN job))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN brewer))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NNP Jeffrey) (NNP Coors))
+sid=2 spanning 9 until 27 headed by 10 parsed as (NP (NP (DT the) (NN position)) (SBAR (S (VP (TO to) (VP (VB focus) (NP (NP (JJR more)) (PP (IN of) (NP (PRP$ his) (NN energy)))) (PP (IN on) (NP (NP (NNP Coors) (NNP Technology) (NNP Co.)) (, ,) (NP (NP (DT a) (JJ small) (NN unit)) (PP (IN of) (NP (NNP Coors)))))))))))
+sid=2 spanning 13 until 17 headed by 13 parsed as (NP (NP (JJR more)) (PP (IN of) (NP (PRP$ his) (NN energy))))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (PRP$ his) (NN energy))
+sid=2 spanning 15 until 16 headed by 15 parsed as (PRP$ his)
+sid=2 spanning 18 until 21 headed by 20 parsed as (NP (NP (NNP Coors) (NNP Technology) (NNP Co.)) (, ,) (NP (NP (DT a) (JJ small) (NN unit)) (PP (IN of) (NP (NNP Coors)))))
+sid=2 spanning 18 until 27 headed by 20 parsed as (NP (NP (NNP Coors) (NNP Technology) (NNP Co.)) (, ,) (NP (NP (DT a) (JJ small) (NN unit)) (PP (IN of) (NP (NNP Coors)))))
+sid=2 spanning 22 until 27 headed by 24 parsed as (NP (NP (DT a) (JJ small) (NN unit)) (PP (IN of) (NP (NNP Coors))))
+sid=2 spanning 26 until 27 headed by 26 parsed as (NP (NNP Coors))
+sid=2 spanning 27 until 28 headed by 27 parsed as (NP (PRP he))
+sid=2 spanning 31 until 33 headed by 32 parsed as (NP (JJ several) (NNS years))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Coors) (NN spokesman))
+sid=3 spanning 1 until 2 headed by 1 parsed as Coors
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN company))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN move))
+sid=3 spanning 14 until 18 headed by 17 parsed as (NP (NP (NNP William) (NNP Coors) (POS 's)) (NN influence))
+sid=3 spanning 14 until 17 headed by 15 parsed as (NP (NNP William) (NNP Coors) (POS 's))
+sid=3 spanning 20 until 41 headed by 21 parsed as (NP (NP (DT the) (NN influence)) (PP (IN of) (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (NP (NNP Peter) (NNP Coors)) (CC or) (NP (NP (NNP Joseph) (NNP Coors) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP run) (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units)))))))))
+sid=3 spanning 23 until 25 headed by 24 parsed as (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (NP (NNP Peter) (NNP Coors)) (CC or) (NP (NP (NNP Joseph) (NNP Coors) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP run) (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units)))))))
+sid=3 spanning 23 until 41 headed by 24 parsed as (NP (NP (NNP Jeffrey) (NNP Coors)) (, ,) (NP (NNP Peter) (NNP Coors)) (CC or) (NP (NP (NNP Joseph) (NNP Coors) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP run) (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units)))))))
+sid=3 spanning 26 until 28 headed by 27 parsed as (NP (NNP Peter) (NNP Coors))
+sid=3 spanning 29 until 32 headed by 31 parsed as (NP (NP (NNP Joseph) (NNP Coors) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP run) (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units))))))
+sid=3 spanning 29 until 41 headed by 31 parsed as (NP (NP (NNP Joseph) (NNP Coors) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP run) (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units))))))
+sid=3 spanning 35 until 41 headed by 40 parsed as (NP (NP (DT the) (NN company) (POS 's)) (CD three) (NN operating) (NNS units))
+sid=3 spanning 35 until 38 headed by 36 parsed as (NP (DT the) (NN company) (POS 's))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN demotion))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN spokesman))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Pete) (CC and) (NNP Jeff)) (CC and) (NP (NNP Joe) (NNP Jr.)))
+sid=5 spanning 1 until 7 headed by 1 parsed as (NP (NP (NNP Pete) (CC and) (NNP Jeff)) (CC and) (NP (NNP Joe) (NNP Jr.)))
+sid=5 spanning 1 until 4 headed by 1 parsed as (NP (NNP Pete) (CC and) (NNP Jeff))
+sid=5 spanning 3 until 4 headed by 3 parsed as Jeff
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (NNP Joe) (NNP Jr.))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS reins))
+sid=5 spanning 15 until 19 headed by 15 parsed as (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN work))))
+sid=5 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN work))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (DT this))
+sid=6 spanning 7 until 8 headed by 7 parsed as (NP (DT that))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Jeffrey)) (, ,) (NP (NNP Peter)) (CC and) (NP (NNP Joseph) (NNP Jr.)))
+sid=7 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Jeffrey)) (, ,) (NP (NNP Peter)) (CC and) (NP (NNP Joseph) (NNP Jr.)))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (NNP Peter))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (NNP Joseph) (NNP Jr.))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (NNS brothers))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (NNP William) (NNP Coors))
+sid=8 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ their) (NN uncle))
+sid=8 spanning 3 until 4 headed by 3 parsed as (PRP$ their)
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Jeffrey)) (, ,) (NP (NNP Peter)) (, ,) (NP (NNP Joseph) (NNP Jr.)) (, ,) (NP (NNP William)) (CC and) (NP (NNP Joseph) (NNP Sr.)))
+sid=9 spanning 0 until 11 headed by 0 parsed as (NP (NP (NNP Jeffrey)) (, ,) (NP (NNP Peter)) (, ,) (NP (NNP Joseph) (NNP Jr.)) (, ,) (NP (NNP William)) (CC and) (NP (NNP Joseph) (NNP Sr.)))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (NNP Peter))
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (NNP Joseph) (NNP Jr.))
+sid=9 spanning 7 until 8 headed by 7 parsed as (NP (NNP William))
+sid=9 spanning 9 until 11 headed by 10 parsed as (NP (NNP Joseph) (NNP Sr.))
+sid=9 spanning 12 until 16 headed by 15 parsed as (NP (NP (DT the) (NN company) (POS 's)) (NN board))
+sid=9 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN company) (POS 's))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Peter) (NNP Coors))
+sid=10 spanning 3 until 32 headed by 7 parsed as (NP (NP (DT the) (NML (NNP Coors) (NNP Brewing) (NNP Co.)) (NN unit)) (, ,) (NP (NP (NP (DT the) (NN nation) (POS 's)) (ADJP (RB fourth) (HYPH -) (JJS largest)) (NN brewery)) (SBAR (WHNP (WDT that)) (S (VP (VBD accounted) (PP (IN for) (NP (NP (NP (QP ($ $) (CD 1.24) (CD billion))) (PP (IN of) (NP (NP (NNP Adolph) (NNP Coors) (POS 's)) (QP ($ $) (CD 1.52) (CD billion))))) (PP (IN in) (NP (CD 1988) (NNS sales))))))))))
+sid=10 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (NML (NNP Coors) (NNP Brewing) (NNP Co.)) (NN unit))
+sid=10 spanning 4 until 7 headed by 6 parsed as Co.
+sid=10 spanning 9 until 32 headed by 15 parsed as (NP (NP (NP (DT the) (NN nation) (POS 's)) (ADJP (RB fourth) (HYPH -) (JJS largest)) (NN brewery)) (SBAR (WHNP (WDT that)) (S (VP (VBD accounted) (PP (IN for) (NP (NP (NP (QP ($ $) (CD 1.24) (CD billion))) (PP (IN of) (NP (NP (NNP Adolph) (NNP Coors) (POS 's)) (QP ($ $) (CD 1.52) (CD billion))))) (PP (IN in) (NP (CD 1988) (NNS sales)))))))))
+sid=10 spanning 9 until 12 headed by 10 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=10 spanning 12 until 13 headed by 12 parsed as fourth
+sid=10 spanning 30 until 32 headed by 31 parsed as (NP (CD 1988) (NNS sales))
+sid=10 spanning 30 until 31 headed by 30 parsed as 1988
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Joseph) (NNP Jr.))
+sid=11 spanning 3 until 6 headed by 5 parsed as (NP (NP (NP (NNP Coors) (NNPS Ceramics) (NNP Co.)) (, ,) (NP (DT the) (JJ other) (NN operating) (NN unit))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (QP (RB about) ($ $) (CD 150) (CD million))) (PP (IN in) (NP (CD 1988) (NNS sales))))))))
+sid=11 spanning 3 until 21 headed by 5 parsed as (NP (NP (NP (NNP Coors) (NNPS Ceramics) (NNP Co.)) (, ,) (NP (DT the) (JJ other) (NN operating) (NN unit))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (QP (RB about) ($ $) (CD 150) (CD million))) (PP (IN in) (NP (CD 1988) (NNS sales))))))))
+sid=11 spanning 3 until 11 headed by 5 parsed as (NP (NP (NNP Coors) (NNPS Ceramics) (NNP Co.)) (, ,) (NP (DT the) (JJ other) (NN operating) (NN unit)))
+sid=11 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (JJ other) (NN operating) (NN unit))
+sid=11 spanning 19 until 21 headed by 20 parsed as (NP (CD 1988) (NNS sales))
+sid=11 spanning 19 until 20 headed by 19 parsed as 1988
+(end predicted mentions)
+---------gold clusters--------
+49 18 47 17 25 14 33 0 10 | { 'Adolph Coors 's' 'the company' 'the company 's' 'Coors' 'the company 's' 'Coors' 'We' 'Adolph Coors Co.' 'the brewer' }
+35 32 | { 'that' 'taken' }
+27 16 | { 'the spokesman' 'A Coors spokesman' }
+12 5 9 | { 'the position' 'president' 'the job' }
+50 52 | { '1988' '1988' }
+11 13 4 15 21 3 36 6 8 42 30 | { 'Jeffrey Coors' 'his' 'Jeffrey Coors , 44 years old ,' 'he' 'Jeffrey Coors' 'Jeffrey H. Coors' 'Jeffrey' 'he' 'his' 'Jeffrey' 'Jeff' }
+23 38 48 43 28 | { 'Peter Coors' 'Peter' 'Peter Coors' 'Peter' 'Pete' }
+40 45 1 20 | { 'William Coors' 'William' 'William K. Coors , chairman ,' 'William Coors 's' }
+2 19 26 34 | { 'assumed' 'the move' 'It' 'this' }
+41 29 37 22 | { 'their' 'Pete and Jeff and Joe Jr.' 'Jeffrey , Peter and Joseph Jr.' 'Jeffrey Coors , Peter Coors or Joseph Coors Jr. , who run the company 's three operating units' }
+46 7 | { 'Joseph Sr.' 'his father Joseph' }
+31 44 39 24 51 | { 'Joe Jr.' 'Joseph Jr.' 'Joseph Jr.' 'Joseph Coors Jr.' 'Joseph Jr.' }
+(end gold clusters)

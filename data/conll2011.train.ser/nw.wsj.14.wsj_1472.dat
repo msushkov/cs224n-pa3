@@ -1,0 +1,102 @@
+---------gloss--------
+(0) [31m{Moody 's Investors Service Inc.}[0m said [31m{it}[0m [32m{lowered}[0m the ratings of some $ 145 million of [4m[34m{Pinnacle}[0m debt because of `` accelerating deficiency in liquidity , '' which [31m{it}[0m said was evidenced by [4m[34m{Pinnacle 's}[0m elimination of dividend payments . 
+(1) [4m[36m{Henry Sargent Jr. , Pinnacle executive vice president ,}[0m said [32m{the action}[0m `` wo n't really have any effect on [4m[34m{us}[0m . 
+(2) [4m[34m{We}[0m are n't selling bonds right now , and [4m[36m{I}[0m do n't think [32m{it}[0m will affect the value of [4m[34m{our}[0m existing bonds . '' 
+(3) [31m{The rating agency}[0m said [31m{it}[0m lowered the ratings on $ 75 million of [31m{the holding company 's}[0m convertible subordinated Eurodebentures to B - 3 from B - 1 . 
+(4) [31m{Moody 's}[0m said [31m{it}[0m also lowered the ratings of $ 70 million of [4m[34m{Pinnacle 's}[0m [4m[35m{MeraBank}[0m thrift unit long - term deposits to B - 3 from B - 2 , and on [4m[34m{its}[0m subordinated debt to Ca from Caa . 
+(5) [4m[35m{MeraBank 's}[0m rating for short - term deposits remains Not Prime . 
+(6) Securities of [4m[35m{MeraBank}[0m were placed under review last May , and will remain under review for downgrade , [31m{the agency}[0m said . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1472); part 000
+sentences:
+MoodyMoodyNNPORGPER0's'sPOSORGPER0InvestorsInvestorsNNPSORGPER0ServiceServiceNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0loweredlowerVBDOPER0thetheDTOPER0ratingsratingNNSOPER0ofofINOPER0somesomeDTMONEYPER0$$$MONEYPER0145145CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0PinnaclePinnacleNNPORGPER0debtdebtNNOPER0becausebecauseINOPER0ofofINOPER0``````OacceleratingaccelerateVBGOPER1deficiencydeficiencyNNOPER1ininINOPER1liquidityliquidityNNOPER1,,,OPER1''''''OPER0whichwhichWDTOPER0ititPRPOPER0saidsayVBDOPER0wasbeVBDOPER0evidencedevidenceVBNOPER0bybyINOPER0PinnaclePinnacleNNPORGPER0's'sPOSOPER0eliminationeliminationNNOPER0ofofINOPER0dividenddividendNNOPER0paymentspaymentNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Moody) (POS 's)) (NNPS Investors) (NNP Service) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD lowered) (NP (NP (DT the) (NNS ratings)) (PP (IN of) (NP (NP (DT some) (QP ($ $) (CD 145) (CD million))) (PP (IN of) (NP (NNP Pinnacle) (NN debt)))))) (PP (IN because) (IN of) (NP (`` ``) (NP (NP (VBG accelerating) (NN deficiency)) (PP (IN in) (NP (NN liquidity)))) (, ,) ('' '') (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBD said) (SBAR (S (VP (VBD was) (VP (VBN evidenced) (PP (IN by) (NP (NP (NP (NNP Pinnacle) (POS 's)) (NN elimination)) (PP (IN of) (NP (NN dividend) (NNS payments)))))))))))))))))) (. .)))
+HenryHenryNNPPERSONPER0SargentSargentNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER0PinnaclePinnacleNNPORGPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0actionactionNNOPER0``````OwowillMDOPER2n'tnotRBOPER2reallyreallyRBOPER2havehaveVBOPER2anyanyDTOPER2effecteffectNNOPER2ononINOPER2uswePRPOPER2...OPER2(ROOT (S (NP (NP (NNP Henry) (NNP Sargent) (NNP Jr.)) (, ,) (NP (NNP Pinnacle) (JJ executive) (NN vice) (NN president)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN action)) (`` ``) (VP (MD wo) (RB n't) (ADVP (RB really)) (VP (VB have) (NP (NP (DT any) (NN effect)) (PP (IN on) (NP (PRP us))))))))) (. .)))
+WewePRPOPER2arebeVBPOPER2n'tnotRBOPER2sellingsellVBGOPER2bondsbondNNSOPER2rightrightRBOPER2nownowRBOPER2,,,OPER2andandCCOPER2IIPRPOPER2dodoVBPOPER2n'tnotRBOPER2thinkthinkVBOPER2ititPRPOPER2willwillMDOPER2affectaffectVBOPER2thetheDTOPER2valuevalueNNOPER2ofofINOPER2ourwePRP$OPER2existingexistVBGOPER2bondsbondNNSOPER2...OPER2''''''OPER0(ROOT (S (S (NP (PRP We)) (VP (VBP are) (RB n't) (VP (VBG selling) (NP (NNS bonds)) (ADVP (RB right) (RB now))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB affect) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (PRP$ our) (VBG existing) (NNS bonds))))))))))) (. .) ('' '')))
+ThetheDTOPER0ratingratingNNOPER0agencyagencyNNOPER0saidsayVBDOPER0ititPRPOPER0loweredlowerVBDOPER0thetheDTOPER0ratingsratingNNSOPER0ononINOPER0$$$MONEYPER07575CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0thetheDTOPER0holdingholdVBGOPER0companycompanyNNOPER0's'sPOSOPER0convertibleconvertibleJJOPER0subordinatedsubordinatedJJOPER0EurodebentureseurodebentureNNSOPER0totoINOPER0BbNNOPER0--HYPHOPER033CDOPER0fromfromINOPER0BbNNOPER0--HYPHOPER011CDCARDINALPER0...OPER0(ROOT (S (NP (DT The) (NN rating) (NN agency)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD lowered) (NP (NP (DT the) (NNS ratings)) (PP (IN on) (NP (NP (QP ($ $) (CD 75) (CD million))) (PP (IN of) (NP (NP (DT the) (VBG holding) (NN company) (POS 's)) (JJ convertible) (JJ subordinated) (NNS Eurodebentures)))))) (PP (IN to) (NP (NN B) (HYPH -) (CD 3))) (PP (IN from) (NP (NN B) (HYPH -) (CD 1))))))) (. .)))
+MoodyMoodyNNPORGPER0's'sPOSORGPER0saidsayVBDOPER0ititPRPOPER0alsoalsoRBOPER0loweredlowerVBDOPER0thetheDTOPER0ratingsratingNNSOPER0ofofINOPER0$$$MONEYPER07070CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0PinnaclePinnacleNNPORGPER0's'sPOSOPER0MeraBankMeraBankNNPORGPER0thriftthriftNNOPER0unitunitNNOPER0longlongJJOPER0--HYPHOPER0termtermNNOPER0depositsdepositNNSOPER0totoINOPER0BbNNOPER0--HYPHOPER033CDOPER0fromfromINOPER0BbNNPRODUCTPER0--HYPHPRODUCTPER022CDPRODUCTPER0,,,OPER0andandCCOPER0ononINOPER0itsitsPRP$OPER0subordinatedsubordinatedJJOPER0debtdebtNNOPER0totoINOPER0CaCaNNPOPER0fromfromINOPER0CaaCaaNNPOPER0...OPER0(ROOT (S (NP (NNP Moody) (POS 's)) (VP (VBD said) (SBAR (S (NP (PRP it)) (ADVP (RB also)) (VP (VBD lowered) (NP (NP (DT the) (NNS ratings)) (PP (IN of) (NP (NP (QP ($ $) (CD 70) (CD million))) (PP (IN of) (NP (NP (NNP Pinnacle) (POS 's)) (NML (NNP MeraBank) (NN thrift) (NN unit)) (NML (JJ long) (HYPH -) (NN term)) (NNS deposits)))))) (PP (IN to) (NP (NN B) (HYPH -) (CD 3))) (PP (PP (IN from) (NP (NN B) (HYPH -) (CD 2))) (, ,) (CC and) (PP (IN on) (NP (NP (PRP$ its) (JJ subordinated) (NN debt)) (PP (IN to) (NP (NNP Ca)))))) (PP (IN from) (NP (NNP Caa))))))) (. .)))
+MeraBankMeraBankNNPORGPER0's'sPOSOPER0ratingratingNNOPER0forforINOPER0shortshortJJOPER0--HYPHOPER0termtermNNOPER0depositsdepositNNSOPER0remainsremainVBZOPER0NotnotRBOPER0PrimeprimeJJOPER0...OPER0(ROOT (S (NP (NP (NP (NNP MeraBank) (POS 's)) (NN rating)) (PP (IN for) (NP (NML (JJ short) (HYPH -) (NN term)) (NNS deposits)))) (VP (VBZ remains) (ADJP (RB Not) (JJ Prime))) (. .)))
+SecuritiessecurityNNSOPER0ofofINOPER0MeraBankMeraBankNNPORGPER0werebeVBDOPER0placedplaceVBNOPER0underunderINOPER0reviewreviewNNOPER0lastlastJJDATEPER0MayMayNNPDATEPER0,,,OPER0andandCCOPER0willwillMDOPER0remainremainVBOPER0underunderINOPER0reviewreviewNNOPER0forforINOPER0downgradedowngradeNNOPER0,,,OPER0thetheDTOPER0agencyagencyNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NNS Securities)) (PP (IN of) (NP (NNP MeraBank)))) (VP (VP (VBD were) (VP (VBN placed) (PP (IN under) (NP (NP (NN review)) (NP (JJ last) (NNP May)))))) (, ,) (CC and) (VP (MD will) (VP (VB remain) (PP (IN under) (NP (NN review))) (PP (IN for) (NP (NN downgrade))))))) (, ,) (NP (DT the) (NN agency)) (VP (VBD said)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Moody) (POS 's)) (NNPS Investors) (NNP Service) (NNP Inc.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 7 until 8 headed by 7 parsed as lowered
+sid=0 spanning 16 until 17 headed by 16 parsed as Pinnacle
+sid=0 spanning 28 until 29 headed by 28 parsed as (NP (PRP it))
+sid=0 spanning 33 until 35 headed by 33 parsed as (NP (NNP Pinnacle) (POS 's))
+sid=1 spanning 0 until 9 headed by 2 parsed as (NP (NP (NNP Henry) (NNP Sargent) (NNP Jr.)) (, ,) (NP (NNP Pinnacle) (JJ executive) (NN vice) (NN president)) (, ,))
+sid=1 spanning 4 until 5 headed by 4 parsed as Pinnacle
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN action))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (PRP us))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP I))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=2 spanning 19 until 20 headed by 19 parsed as our
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN rating) (NN agency))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=3 spanning 13 until 17 headed by 15 parsed as (NP (DT the) (VBG holding) (NN company) (POS 's))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Moody) (POS 's))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=4 spanning 13 until 15 headed by 13 parsed as (NP (NNP Pinnacle) (POS 's))
+sid=4 spanning 15 until 16 headed by 15 parsed as MeraBank
+sid=4 spanning 33 until 34 headed by 33 parsed as its
+sid=5 spanning 0 until 2 headed by 0 parsed as (NP (NNP MeraBank) (POS 's))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (NNP MeraBank))
+sid=6 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN agency))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Moody) (POS 's)) (NNPS Investors) (NNP Service) (NNP Inc.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 8 until 18 headed by 9 parsed as (NP (NP (DT the) (NNS ratings)) (PP (IN of) (NP (NP (DT some) (QP ($ $) (CD 145) (CD million))) (PP (IN of) (NP (NNP Pinnacle) (NN debt))))))
+sid=0 spanning 20 until 39 headed by 22 parsed as (NP (`` ``) (NP (NP (VBG accelerating) (NN deficiency)) (PP (IN in) (NP (NN liquidity)))) (, ,) ('' '') (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBD said) (SBAR (S (VP (VBD was) (VP (VBN evidenced) (PP (IN by) (NP (NP (NP (NNP Pinnacle) (POS 's)) (NN elimination)) (PP (IN of) (NP (NN dividend) (NNS payments)))))))))))))
+sid=0 spanning 21 until 25 headed by 22 parsed as (NP (NP (VBG accelerating) (NN deficiency)) (PP (IN in) (NP (NN liquidity))))
+sid=0 spanning 28 until 29 headed by 28 parsed as (NP (PRP it))
+sid=0 spanning 33 until 39 headed by 35 parsed as (NP (NP (NP (NNP Pinnacle) (POS 's)) (NN elimination)) (PP (IN of) (NP (NN dividend) (NNS payments))))
+sid=0 spanning 33 until 35 headed by 33 parsed as (NP (NNP Pinnacle) (POS 's))
+sid=0 spanning 37 until 39 headed by 38 parsed as (NP (NN dividend) (NNS payments))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Henry) (NNP Sargent) (NNP Jr.)) (, ,) (NP (NNP Pinnacle) (JJ executive) (NN vice) (NN president)) (, ,))
+sid=1 spanning 0 until 9 headed by 2 parsed as (NP (NP (NNP Henry) (NNP Sargent) (NNP Jr.)) (, ,) (NP (NNP Pinnacle) (JJ executive) (NN vice) (NN president)) (, ,))
+sid=1 spanning 4 until 8 headed by 7 parsed as (NP (NNP Pinnacle) (JJ executive) (NN vice) (NN president))
+sid=1 spanning 4 until 5 headed by 4 parsed as Pinnacle
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN action))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (PRP us))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNS bonds))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP I))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=2 spanning 16 until 22 headed by 17 parsed as (NP (NP (DT the) (NN value)) (PP (IN of) (NP (PRP$ our) (VBG existing) (NNS bonds))))
+sid=2 spanning 19 until 22 headed by 21 parsed as (NP (PRP$ our) (VBG existing) (NNS bonds))
+sid=2 spanning 19 until 20 headed by 19 parsed as (PRP$ our)
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN rating) (NN agency))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=3 spanning 6 until 20 headed by 7 parsed as (NP (NP (DT the) (NNS ratings)) (PP (IN on) (NP (NP (QP ($ $) (CD 75) (CD million))) (PP (IN of) (NP (NP (DT the) (VBG holding) (NN company) (POS 's)) (JJ convertible) (JJ subordinated) (NNS Eurodebentures))))))
+sid=3 spanning 21 until 24 headed by 21 parsed as (NP (NN B) (HYPH -) (CD 3))
+sid=3 spanning 25 until 28 headed by 25 parsed as (NP (NN B) (HYPH -) (CD 1))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Moody) (POS 's))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=4 spanning 6 until 22 headed by 7 parsed as (NP (NP (DT the) (NNS ratings)) (PP (IN of) (NP (NP (QP ($ $) (CD 70) (CD million))) (PP (IN of) (NP (NP (NNP Pinnacle) (POS 's)) (NML (NNP MeraBank) (NN thrift) (NN unit)) (NML (JJ long) (HYPH -) (NN term)) (NNS deposits))))))
+sid=4 spanning 15 until 16 headed by 15 parsed as MeraBank
+sid=4 spanning 23 until 26 headed by 23 parsed as (NP (NN B) (HYPH -) (CD 3))
+sid=4 spanning 27 until 30 headed by 27 parsed as (NP (NN B) (HYPH -) (CD 2))
+sid=4 spanning 33 until 38 headed by 35 parsed as (NP (NP (PRP$ its) (JJ subordinated) (NN debt)) (PP (IN to) (NP (NNP Ca))))
+sid=4 spanning 33 until 34 headed by 33 parsed as (PRP$ its)
+sid=4 spanning 37 until 38 headed by 37 parsed as (NP (NNP Ca))
+sid=4 spanning 39 until 40 headed by 39 parsed as (NP (NNP Caa))
+sid=5 spanning 0 until 8 headed by 2 parsed as (NP (NP (NP (NNP MeraBank) (POS 's)) (NN rating)) (PP (IN for) (NP (NML (JJ short) (HYPH -) (NN term)) (NNS deposits))))
+sid=5 spanning 0 until 2 headed by 0 parsed as (NP (NNP MeraBank) (POS 's))
+sid=5 spanning 4 until 8 headed by 7 parsed as (NP (NML (JJ short) (HYPH -) (NN term)) (NNS deposits))
+sid=6 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Securities)) (PP (IN of) (NP (NNP MeraBank))))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (NNP MeraBank))
+sid=6 spanning 6 until 9 headed by 6 parsed as (NP (NP (NN review)) (NP (JJ last) (NNP May)))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (JJ last) (NNP May))
+sid=6 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN agency))
+(end predicted mentions)
+---------gold clusters--------
+10 13 3 7 5 21 19 9 | { 'We' 'our' 'Pinnacle' 'Pinnacle' 'Pinnacle 's' 'its' 'Pinnacle 's' 'us' }
+23 22 20 | { 'MeraBank' 'MeraBank 's' 'MeraBank' }
+11 6 | { 'I' 'Henry Sargent Jr. , Pinnacle executive vice president ,' }
+24 16 1 15 14 17 18 4 0 | { 'the agency' 'the holding company 's' 'it' 'it' 'The rating agency' 'Moody 's' 'it' 'it' 'Moody 's Investors Service Inc.' }
+12 8 2 | { 'it' 'the action' 'lowered' }
+(end gold clusters)

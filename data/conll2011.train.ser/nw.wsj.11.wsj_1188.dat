@@ -1,0 +1,92 @@
+---------gloss--------
+(0) [1m[35m{Directors of Bergen Bank and Den Norske Creditbank , two of Norway 's leading banks ,}[0m announced [1m[35m{they}[0m had agreed to [1m[32m{the formal merger of the banks}[0m . 
+(1) [1m[32m{The merger}[0m would create [1m[31m{Scandinavia 's seventh largest bank , with combined assets of 210 billion Norwegian kroner -LRB- $ 30.3 billion -RRB-}[0m . 
+(2) [36m{The banks}[0m said an application for a concession to [1m[32m{merge}[0m into [1m[31m{one entity to be called Den Norske Bank AS}[0m was sent [1m[33m{Monday}[0m to the Finance Ministry . 
+(3) [1m[36m{The two boards}[0m said in a joint statement that [1m[34m{the proposed merger agreement}[0m was considered in separate board meetings in Oslo [1m[33m{Monday}[0m . 
+(4) [1m[36m{They}[0m said [1m[34m{the agreement}[0m will be submitted to [1m[36m{their}[0m respective supervisory boards next Wednesday . 
+(5) Extraordinary general meetings , to be held Nov. 28 , will decide the share exchange ratio . 
+(6) [1m[32m{The merger}[0m requires the approval of Norwegian authorities . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1188); part 000
+sentences:
+DirectorsdirectorNNSOPER0ofofINOPER0BergenBergenNNPORGPER0BankBankNNPORGPER0andandCCOPER0DenDenNNPORGPER0NorskeNorskeNNPORGPER0CreditbankCreditbankNNPORGPER0,,,OPER0twotwoCDCARDINALPER0ofofINOPER0NorwayNorwayNNPGPEPER0's'sPOSOPER0leadingleadVBGOPER0banksbankNNSOPER0,,,OPER0announcedannounceVBDOPER0theytheyPRPOPER0hadhaveVBDOPER0agreedagreeVBNOPER0totoINOPER0thetheDTOPER0formalformalJJOPER0mergermergerNNOPER0ofofINOPER0thetheDTOPER0banksbankNNSOPER0...OPER0(ROOT (S (NP (NP (NP (NNS Directors)) (PP (IN of) (NP (NP (NNP Bergen) (NNP Bank)) (CC and) (NP (NNP Den) (NNP Norske) (NNP Creditbank))))) (, ,) (NP (NP (CD two)) (PP (IN of) (NP (NP (NNP Norway) (POS 's)) (VBG leading) (NNS banks)))) (, ,)) (VP (VBD announced) (SBAR (S (NP (PRP they)) (VP (VBD had) (VP (VBN agreed) (PP (IN to) (NP (NP (DT the) (JJ formal) (NN merger)) (PP (IN of) (NP (DT the) (NNS banks)))))))))) (. .)))
+ThetheDTOPER0mergermergerNNOPER0wouldwouldMDOPER0createcreateVBOPER0ScandinaviaScandinaviaNNPLOCPER0's'sPOSOPER0seventhseventhJJORDINALPER0largestlargestJJSOPER0bankbankNNOPER0,,,OPER0withwithINOPER0combinedcombineVBNOPER0assetsassetNNSOPER0ofofINOPER0210210CDMONEYPER0billionbillionCDMONEYPER0NorwegiannorwegianJJMONEYPER0kronerkroneNNSMONEYPER0-LRB--lrb--LRB-OPER0$$$MONEYPER030.330.3CDMONEYPER0billionbillionCDMONEYPER0-RRB--rrb--RRB-OPER0...OPER0(ROOT (S (NP (DT The) (NN merger)) (VP (MD would) (VP (VB create) (NP (NP (NP (NNP Scandinavia) (POS 's)) (ADJP (JJ seventh) (JJS largest)) (NN bank)) (, ,) (PP (IN with) (NP (NP (VBN combined) (NNS assets)) (PP (IN of) (NP (NP (QP (CD 210) (CD billion)) (JJ Norwegian) (NNS kroner)) (-LRB- -LRB-) (NP (QP ($ $) (CD 30.3) (CD billion))) (-RRB- -RRB-)))))))) (. .)))
+ThetheDTOPER0banksbankNNSOPER0saidsayVBDOPER0anaDTOPER0applicationapplicationNNOPER0forforINOPER0aaDTOPER0concessionconcessionNNOPER0totoTOOPER0mergemergeVBOPER0intointoINOPER0oneoneCDOPER0entityentityNNOPER0totoTOOPER0bebeVBOPER0calledcallVBNOPER0DenDenNNPORGPER0NorskeNorskeNNPORGPER0BankBankNNPORGPER0ASasINORGPER0wasbeVBDOPER0sentsendVBNOPER0MondayMondayNNPDATEPER0totoINOPER0thetheDTORGPER0FinanceFinanceNNPORGPER0MinistryMinistryNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NNS banks)) (VP (VBD said) (NP (DT an) (NN application) (SBAR (IN for) (S (NP (DT a) (NN concession)) (VP (TO to) (VP (VB merge) (PP (IN into) (NP (CD one) (NN entity))) (S (VP (TO to) (VP (VB be) (VP (VBN called) (S (NP (NP (NNP Den) (NNP Norske) (NNP Bank)) (PP (IN AS) (S (VP (VBD was) (VP (VBN sent) (NP (NNP Monday)) (PP (IN to) (NP (DT the) (NNP Finance) (NNP Ministry))))))))))))))))))) (. .)))
+ThetheDTOPER0twotwoCDCARDINALPER0boardsboardNNSOPER0saidsayVBDOPER0ininINOPER0aaDTOPER0jointjointJJOPER0statementstatementNNOPER0thatthatINOPER0thetheDTOPER0proposedproposeVBNOPER0mergermergerNNOPER0agreementagreementNNOPER0wasbeVBDOPER0consideredconsiderVBNOPER0ininINOPER0separateseparateJJOPER0boardboardNNOPER0meetingsmeetingNNSOPER0ininINOPER0OsloOsloNNPGPEPER0MondayMondayNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (CD two) (NNS boards)) (VP (VBD said) (PP (IN in) (NP (DT a) (JJ joint) (NN statement))) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN merger) (NN agreement)) (VP (VBD was) (VP (VBN considered) (PP (IN in) (NP (NP (JJ separate) (NN board) (NNS meetings)) (PP (IN in) (NP (NNP Oslo) (NNP Monday)))))))))) (. .)))
+TheytheyPRPOPER0saidsayVBDOPER0thetheDTOPER0agreementagreementNNOPER0willwillMDOPER0bebeVBOPER0submittedsubmitVBNOPER0totoINOPER0theirtheyPRP$OPER0respectiverespectiveJJOPER0supervisorysupervisoryJJOPER0boardsboardNNSOPER0nextnextJJDATEPER0WednesdayWednesdayNNPDATEPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBD said) (SBAR (S (NP (DT the) (NN agreement)) (VP (MD will) (VP (VB be) (VP (VBN submitted) (PP (IN to) (NP (PRP$ their) (JJ respective) (JJ supervisory) (NNS boards))) (NP (JJ next) (NNP Wednesday)))))))) (. .)))
+ExtraordinaryextraordinaryJJOPER0generalgeneralJJOPER0meetingsmeetingNNSOPER0,,,OPER0totoTOOPER0bebeVBOPER0heldholdVBNOPER0Nov.Nov.NNPDATEPER02828CDDATEPER0,,,OPER0willwillMDOPER0decidedecideVBOPER0thetheDTOPER0shareshareNNOPER0exchangeexchangeNNOPER0ratioratioNNOPER0...OPER0(ROOT (S (NP (NP (JJ Extraordinary) (JJ general) (NNS meetings)) (, ,) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN held) (NP (NNP Nov.) (CD 28))))))) (, ,)) (VP (MD will) (VP (VB decide) (NP (DT the) (NML (NN share) (NN exchange)) (NN ratio)))) (. .)))
+ThetheDTOPER0mergermergerNNOPER0requiresrequireVBZOPER0thetheDTOPER0approvalapprovalNNOPER0ofofINOPER0NorwegiannorwegianJJOPER0authoritiesauthorityNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN merger)) (VP (VBZ requires) (NP (NP (DT the) (NN approval)) (PP (IN of) (NP (JJ Norwegian) (NNS authorities))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 16 headed by 0 parsed as (NP (NP (NP (NNS Directors)) (PP (IN of) (NP (NP (NNP Bergen) (NNP Bank)) (CC and) (NP (NNP Den) (NNP Norske) (NNP Creditbank))))) (, ,) (NP (NP (CD two)) (PP (IN of) (NP (NP (NNP Norway) (POS 's)) (VBG leading) (NNS banks)))) (, ,))
+sid=0 spanning 2 until 16 headed by 3 parsed as (NP (NP (NNP Bergen) (NNP Bank)) (CC and) (NP (NNP Den) (NNP Norske) (NNP Creditbank)))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=0 spanning 21 until 27 headed by 23 parsed as (NP (NP (DT the) (JJ formal) (NN merger)) (PP (IN of) (NP (DT the) (NNS banks))))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NNS banks))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN merger))
+sid=1 spanning 4 until 23 headed by 8 parsed as (NP (NP (NP (NNP Scandinavia) (POS 's)) (ADJP (JJ seventh) (JJS largest)) (NN bank)) (, ,) (PP (IN with) (NP (NP (VBN combined) (NNS assets)) (PP (IN of) (NP (NP (QP (CD 210) (CD billion)) (JJ Norwegian) (NNS kroner)) (-LRB- -LRB-) (NP (QP ($ $) (CD 30.3) (CD billion))) (-RRB- -RRB-))))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS banks))
+sid=2 spanning 9 until 10 headed by 9 parsed as merge
+sid=2 spanning 11 until 20 headed by 12 parsed as (NP (CD one) (NN entity))
+sid=2 spanning 22 until 23 headed by 22 parsed as (NP (NNP Monday))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD two) (NNS boards))
+sid=3 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (VBN proposed) (NN merger) (NN agreement))
+sid=3 spanning 21 until 22 headed by 21 parsed as (NP (NNP Oslo) (NNP Monday))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN agreement))
+sid=4 spanning 8 until 9 headed by 8 parsed as their
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN merger))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 16 headed by 0 parsed as (NP (NP (NP (NNS Directors)) (PP (IN of) (NP (NP (NNP Bergen) (NNP Bank)) (CC and) (NP (NNP Den) (NNP Norske) (NNP Creditbank))))) (, ,) (NP (NP (CD two)) (PP (IN of) (NP (NP (NNP Norway) (POS 's)) (VBG leading) (NNS banks)))) (, ,))
+sid=0 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNS Directors)) (PP (IN of) (NP (NP (NNP Bergen) (NNP Bank)) (CC and) (NP (NNP Den) (NNP Norske) (NNP Creditbank)))))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP Bergen) (NNP Bank)) (CC and) (NP (NNP Den) (NNP Norske) (NNP Creditbank)))
+sid=0 spanning 2 until 8 headed by 3 parsed as (NP (NP (NNP Bergen) (NNP Bank)) (CC and) (NP (NNP Den) (NNP Norske) (NNP Creditbank)))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (NNP Den) (NNP Norske) (NNP Creditbank))
+sid=0 spanning 9 until 15 headed by 9 parsed as (NP (NP (CD two)) (PP (IN of) (NP (NP (NNP Norway) (POS 's)) (VBG leading) (NNS banks))))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=0 spanning 21 until 27 headed by 23 parsed as (NP (NP (DT the) (JJ formal) (NN merger)) (PP (IN of) (NP (DT the) (NNS banks))))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NNS banks))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN merger))
+sid=1 spanning 4 until 23 headed by 8 parsed as (NP (NP (NP (NNP Scandinavia) (POS 's)) (ADJP (JJ seventh) (JJS largest)) (NN bank)) (, ,) (PP (IN with) (NP (NP (VBN combined) (NNS assets)) (PP (IN of) (NP (NP (QP (CD 210) (CD billion)) (JJ Norwegian) (NNS kroner)) (-LRB- -LRB-) (NP (QP ($ $) (CD 30.3) (CD billion))) (-RRB- -RRB-))))))
+sid=1 spanning 4 until 9 headed by 8 parsed as (NP (NP (NNP Scandinavia) (POS 's)) (ADJP (JJ seventh) (JJS largest)) (NN bank))
+sid=1 spanning 4 until 6 headed by 4 parsed as (NP (NNP Scandinavia) (POS 's))
+sid=1 spanning 6 until 7 headed by 6 parsed as seventh
+sid=1 spanning 11 until 23 headed by 12 parsed as (NP (NP (VBN combined) (NNS assets)) (PP (IN of) (NP (NP (QP (CD 210) (CD billion)) (JJ Norwegian) (NNS kroner)) (-LRB- -LRB-) (NP (QP ($ $) (CD 30.3) (CD billion))) (-RRB- -RRB-))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS banks))
+sid=2 spanning 3 until 27 headed by 4 parsed as (NP (DT an) (NN application) (SBAR (IN for) (S (NP (DT a) (NN concession)) (VP (TO to) (VP (VB merge) (PP (IN into) (NP (CD one) (NN entity))) (S (VP (TO to) (VP (VB be) (VP (VBN called) (S (NP (NP (NNP Den) (NNP Norske) (NNP Bank)) (PP (IN AS) (S (VP (VBD was) (VP (VBN sent) (NP (NNP Monday)) (PP (IN to) (NP (DT the) (NNP Finance) (NNP Ministry))))))))))))))))))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN concession))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (CD one) (NN entity))
+sid=2 spanning 16 until 27 headed by 18 parsed as (NP (NP (NNP Den) (NNP Norske) (NNP Bank)) (PP (IN AS) (S (VP (VBD was) (VP (VBN sent) (NP (NNP Monday)) (PP (IN to) (NP (DT the) (NNP Finance) (NNP Ministry))))))))
+sid=2 spanning 22 until 23 headed by 22 parsed as (NP (NNP Monday))
+sid=2 spanning 24 until 27 headed by 26 parsed as (NP (DT the) (NNP Finance) (NNP Ministry))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD two) (NNS boards))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ joint) (NN statement))
+sid=3 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (VBN proposed) (NN merger) (NN agreement))
+sid=3 spanning 16 until 22 headed by 18 parsed as (NP (NP (JJ separate) (NN board) (NNS meetings)) (PP (IN in) (NP (NNP Oslo) (NNP Monday))))
+sid=3 spanning 20 until 22 headed by 21 parsed as (NP (NNP Oslo) (NNP Monday))
+sid=3 spanning 20 until 21 headed by 20 parsed as Oslo
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN agreement))
+sid=4 spanning 8 until 12 headed by 11 parsed as (NP (PRP$ their) (JJ respective) (JJ supervisory) (NNS boards))
+sid=4 spanning 8 until 9 headed by 8 parsed as (PRP$ their)
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (JJ next) (NNP Wednesday))
+sid=5 spanning 0 until 10 headed by 2 parsed as (NP (NP (JJ Extraordinary) (JJ general) (NNS meetings)) (, ,) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN held) (NP (NNP Nov.) (CD 28))))))) (, ,))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (JJ Extraordinary) (JJ general) (NNS meetings))
+sid=5 spanning 7 until 9 headed by 7 parsed as (NP (NNP Nov.) (CD 28))
+sid=5 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (NML (NN share) (NN exchange)) (NN ratio))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN merger))
+sid=6 spanning 3 until 8 headed by 4 parsed as (NP (NP (DT the) (NN approval)) (PP (IN of) (NP (JJ Norwegian) (NNS authorities))))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (JJ Norwegian) (NNS authorities))
+(end predicted mentions)
+---------gold clusters--------
+1 4 7 | { 'Bergen Bank and Den Norske Creditbank , two of Norway 's leading banks ,' 'the banks' 'The banks' }
+6 9 | { 'Scandinavia 's seventh largest bank , with combined assets of 210 billion Norwegian kroner -LRB- $ 30.3 billion -RRB-' 'one entity to be called Den Norske Bank AS' }
+5 8 17 3 | { 'The merger' 'merge' 'The merger' 'the formal merger of the banks' }
+13 10 | { 'Monday' 'Monday' }
+15 12 | { 'the agreement' 'the proposed merger agreement' }
+0 2 | { 'Directors of Bergen Bank and Den Norske Creditbank , two of Norway 's leading banks ,' 'they' }
+16 14 11 | { 'their' 'They' 'The two boards' }
+(end gold clusters)

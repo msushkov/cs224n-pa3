@@ -1,0 +1,76 @@
+---------gloss--------
+(0) [36m{American Telephone & Telegraph Co.}[0m said [36m{it}[0m will spend $ 20 million to build [34m{a factory in Guadalajara , Mexico , to make telephone answering machines}[0m . 
+(1) Construction of [34m{the 265,000 - square - foot facility}[0m will begin next year , with production expected to start in late 1991 . 
+(2) When fully operational , [34m{the Guadalajara factory}[0m will employ about 1,500 workers and have annual operating expenses of $ 5 million to $ 6 million . 
+(3) An [36m{AT&T}[0m representative said that [34m{the Guadalajara factory}[0m will make a full line of answering machines . 
+(4) [36m{AT&T}[0m already has a factory in Matamoros , [33m{Mexico}[0m , to make electrical devices . 
+(5) [36m{It}[0m also purchases data systems products from a manufacturer based in Monterrey . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1343); part 000
+sentences:
+AmericanAmericanNNPORGPER0TelephoneTelephoneNNPORGPER0&&CCORGPER0TelegraphTelegraphNNPORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0spendspendVBOPER0$$$MONEYPER02020CDMONEYPER0millionmillionCDMONEYPER0totoTOOPER0buildbuildVBOPER0aaDTOPER0factoryfactoryNNOPER0ininINOPER0GuadalajaraGuadalajaraNNPGPEPER0,,,OPER0MexicoMexicoNNPGPEPER0,,,OPER0totoTOOPER0makemakeVBOPER0telephonetelephoneNNOPER0answeringansweringNNOPER0machinesmachineNNSOPER0...OPER0(ROOT (S (NP (NP (NNP American) (NNP Telephone)) (CC &) (NP (NNP Telegraph) (NNP Co.))) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB spend) (NP (QP ($ $) (CD 20) (CD million))) (S (VP (TO to) (VP (VB build) (NP (DT a) (NN factory)) (PP (IN in) (NP (NP (NNP Guadalajara)) (, ,) (NP (NNP Mexico)) (, ,))) (S (VP (TO to) (VP (VB make) (NP (NN telephone) (NN answering) (NNS machines))))))))))))) (. .)))
+ConstructionconstructionNNOPER0ofofINOPER0thetheDTOPER0265,000265,000CDQUANTITYPER0--HYPHQUANTITYPER0squaresquareJJQUANTITYPER0--HYPHQUANTITYPER0footfootNNQUANTITYPER0facilityfacilityNNOPER0willwillMDOPER0beginbeginVBOPER0nextnextJJDATEPER0yearyearNNDATEPER0,,,OPER0withwithINOPER0productionproductionNNOPER0expectedexpectVBNOPER0totoTOOPER0startstartVBOPER0ininINOPER0latelateJJDATEPER019911991CDDATEPER0...OPER0(ROOT (S (NP (NP (NN Construction)) (PP (IN of) (NP (DT the) (NML (CD 265,000) (HYPH -) (JJ square) (HYPH -) (NN foot)) (NN facility)))) (VP (MD will) (VP (VB begin) (NP (JJ next) (NN year)) (, ,) (PP (IN with) (NP (NP (NN production)) (VP (VBN expected) (S (VP (TO to) (VP (VB start) (PP (IN in) (NP (JJ late) (CD 1991))))))))))) (. .)))
+WhenwhenWRBOPER0fullyfullyRBOPER0operationaloperationalJJOPER0,,,OPER0thetheDTOPER0GuadalajaraGuadalajaraNNPGPEPER0factoryfactoryNNOPER0willwillMDOPER0employemployVBOPER0aboutaboutINCARDINALPER01,5001,500CDCARDINALPER0workersworkerNNSOPER0andandCCOPER0havehaveVBOPER0annualannualJJDATEPER0operatingoperatingNNOPER0expensesexpenseNNSOPER0ofofINOPER0$$$MONEYPER055CDMONEYPER0millionmillionCDMONEYPER0totoTOMONEYPER0$$$MONEYPER066CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (SBAR (WHADVP (WRB When)) (FRAG (ADJP (RB fully) (JJ operational)))) (, ,) (NP (DT the) (NNP Guadalajara) (NN factory)) (VP (MD will) (VP (VP (VB employ) (NP (QP (IN about) (CD 1,500)) (NNS workers))) (CC and) (VP (VB have) (NP (NP (JJ annual) (NN operating) (NNS expenses)) (PP (IN of) (NP (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million)))))))) (. .)))
+AnaDTOPER0AT&TAT&TNNPORGPER0representativerepresentativeNNOPER0saidsayVBDOPER0thatthatINOPER0thetheDTOPER0GuadalajaraGuadalajaraNNPGPEPER0factoryfactoryNNOPER0willwillMDOPER0makemakeVBOPER0aaDTOPER0fullfullJJOPER0linelineNNOPER0ofofINOPER0answeringanswerVBGOPER0machinesmachineNNSOPER0...OPER0(ROOT (S (NP (DT An) (NNP AT&T) (NN representative)) (VP (VBD said) (SBAR (IN that) (S (NP (DT the) (NNP Guadalajara) (NN factory)) (VP (MD will) (VP (VB make) (NP (NP (DT a) (JJ full) (NN line)) (PP (IN of) (NP (VBG answering) (NNS machines))))))))) (. .)))
+AT&TAT&TNNPORGPER0alreadyalreadyRBOPER0hashaveVBZOPER0aaDTOPER0factoryfactoryNNOPER0ininINOPER0MatamorosMatamorosNNPGPEPER0,,,OPER0MexicoMexicoNNPGPEPER0,,,OPER0totoTOOPER0makemakeVBOPER0electricalelectricalJJOPER0devicesdeviceNNSOPER0...OPER0(ROOT (S (NP (NNP AT&T)) (ADVP (RB already)) (VP (VBZ has) (NP (NP (DT a) (NN factory)) (PP (IN in) (NP (NP (NNP Matamoros)) (, ,) (NP (NNP Mexico)) (, ,))) (SBAR (S (VP (TO to) (VP (VB make) (NP (JJ electrical) (NNS devices)))))))) (. .)))
+ItitPRPOPER0alsoalsoRBOPER0purchasespurchaseVBZOPER0datadatumNNSOPER0systemssystemNNSOPER0productsproductNNSOPER0fromfromINOPER0aaDTOPER0manufacturermanufacturerNNOPER0basedbaseVBNOPER0ininINOPER0MonterreyMonterreyNNPGPEPER0...OPER0(ROOT (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ purchases) (NP (NML (NNS data) (NNS systems)) (NNS products)) (PP (IN from) (NP (NP (DT a) (NN manufacturer)) (VP (VBN based) (PP (IN in) (NP (NNP Monterrey))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP American) (NNP Telephone)) (CC &) (NP (NNP Telegraph) (NNP Co.)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 14 until 26 headed by 15 parsed as (NP (DT a) (NN factory))
+sid=0 spanning 17 until 21 headed by 17 parsed as (NP (NP (NNP Guadalajara)) (, ,) (NP (NNP Mexico)) (, ,))
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (NNP Mexico))
+sid=1 spanning 2 until 9 headed by 8 parsed as (NP (DT the) (NML (CD 265,000) (HYPH -) (JJ square) (HYPH -) (NN foot)) (NN facility))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Guadalajara) (NN factory))
+sid=2 spanning 5 until 6 headed by 5 parsed as Guadalajara
+sid=3 spanning 1 until 2 headed by 1 parsed as AT&T
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Guadalajara) (NN factory))
+sid=3 spanning 6 until 7 headed by 6 parsed as Guadalajara
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP AT&T))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP Mexico))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP American) (NNP Telephone)) (CC &) (NP (NNP Telegraph) (NNP Co.)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN factory))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NP (NNP Guadalajara)) (, ,) (NP (NNP Mexico)) (, ,))
+sid=0 spanning 17 until 21 headed by 17 parsed as (NP (NP (NNP Guadalajara)) (, ,) (NP (NNP Mexico)) (, ,))
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (NNP Mexico))
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (NN telephone) (NN answering) (NNS machines))
+sid=1 spanning 0 until 9 headed by 0 parsed as (NP (NP (NN Construction)) (PP (IN of) (NP (DT the) (NML (CD 265,000) (HYPH -) (JJ square) (HYPH -) (NN foot)) (NN facility))))
+sid=1 spanning 2 until 9 headed by 8 parsed as (NP (DT the) (NML (CD 265,000) (HYPH -) (JJ square) (HYPH -) (NN foot)) (NN facility))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (JJ next) (NN year))
+sid=1 spanning 15 until 22 headed by 15 parsed as (NP (NP (NN production)) (VP (VBN expected) (S (VP (TO to) (VP (VB start) (PP (IN in) (NP (JJ late) (CD 1991))))))))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (JJ late) (CD 1991))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Guadalajara) (NN factory))
+sid=2 spanning 5 until 6 headed by 5 parsed as Guadalajara
+sid=2 spanning 9 until 12 headed by 11 parsed as (NP (QP (IN about) (CD 1,500)) (NNS workers))
+sid=2 spanning 14 until 25 headed by 16 parsed as (NP (NP (JJ annual) (NN operating) (NNS expenses)) (PP (IN of) (NP (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million)))))
+sid=2 spanning 14 until 15 headed by 14 parsed as annual
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (NNP AT&T) (NN representative))
+sid=3 spanning 1 until 2 headed by 1 parsed as AT&T
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Guadalajara) (NN factory))
+sid=3 spanning 6 until 7 headed by 6 parsed as Guadalajara
+sid=3 spanning 10 until 16 headed by 12 parsed as (NP (NP (DT a) (JJ full) (NN line)) (PP (IN of) (NP (VBG answering) (NNS machines))))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (VBG answering) (NNS machines))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP AT&T))
+sid=4 spanning 3 until 14 headed by 4 parsed as (NP (NP (DT a) (NN factory)) (PP (IN in) (NP (NP (NNP Matamoros)) (, ,) (NP (NNP Mexico)) (, ,))) (SBAR (S (VP (TO to) (VP (VB make) (NP (JJ electrical) (NNS devices)))))))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP Matamoros)) (, ,) (NP (NNP Mexico)) (, ,))
+sid=4 spanning 6 until 10 headed by 6 parsed as (NP (NP (NNP Matamoros)) (, ,) (NP (NNP Mexico)) (, ,))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP Mexico))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (JJ electrical) (NNS devices))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=5 spanning 3 until 6 headed by 5 parsed as (NP (NML (NNS data) (NNS systems)) (NNS products))
+sid=5 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT a) (NN manufacturer)) (VP (VBN based) (PP (IN in) (NP (NNP Monterrey)))))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NNP Monterrey))
+(end predicted mentions)
+---------gold clusters--------
+4 12 | { 'Mexico' 'Mexico' }
+6 9 2 5 | { 'the Guadalajara factory' 'the Guadalajara factory' 'a factory in Guadalajara , Mexico , to make telephone answering machines' 'the 265,000 - square - foot facility' }
+10 3 7 | { 'Guadalajara' 'Guadalajara , Mexico ,' 'Guadalajara' }
+0 1 8 13 11 | { 'American Telephone & Telegraph Co.' 'it' 'AT&T' 'It' 'AT&T' }
+(end gold clusters)

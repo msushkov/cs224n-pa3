@@ -1,0 +1,60 @@
+---------gloss--------
+(0) [4m[31m{Chad 's}[0m New President Idriss Deby arrived in Paris on the 12th for a visit . 
+(1) President Mitterrand had a half - hour 's secret meeting with [4m[32m{him}[0m . 
+(2) [4m[32m{Deby}[0m hoped that [4m[33m{France}[0m will give [4m[31m{Chad}[0m " full support " . 
+(3) While expressing agreement to provide co-operation , [4m[33m{France}[0m expressed that [4m[33m{they}[0m would end the military agreement with [4m[31m{Chad}[0m . 
+(4) Currently , [4m[33m{France}[0m has 1200 soldiers stationed in [4m[31m{Chad}[0m . 
+(5) -LRB- Xinhua News Agency special telegram -RRB- 
+(end gloss)
+---------document--------
+(nw/xinhua/01/chtb_0173); part 000
+sentences:
+ChadChadNNPORGPER0's'sPOSOPER0NewNewNNPOPER0PresidentPresidentNNPOPER0IdrissIdrissNNPPERSONPER0DebyDebyNNPPERSONPER0arrivedarriveVBDOPER0ininINOPER0ParisParisNNPGPEPER0ononINOPER0thetheDTDATEPER012th12thNNDATEPER0forforINOPER0aaDTOPER0visitvisitNNOPER0...OPER0(ROOT (S (NP (NP (NNP Chad) (POS 's)) (NML (NNP New) (NNP President)) (NNP Idriss) (NNP Deby)) (VP (VBD arrived) (PP (IN in) (NP (NNP Paris))) (PP (IN on) (NP (DT the) (NN 12th))) (PP (IN for) (NP (DT a) (NN visit)))) (. .)))
+PresidentPresidentNNPOPER0MitterrandMitterrandNNPPERSONPER0hadhaveVBDOPER0aaDTOPER0halfhalfJJTIMEPER0--HYPHTIMEPER0hourhourNNTIMEPER0's'sPOSOPER0secretsecretJJOPER0meetingmeetingNNOPER0withwithINOPER0himhePRPOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Mitterrand)) (VP (VBD had) (NP (NP (NP (DT a) (NML (JJ half) (HYPH -) (NN hour)) (POS 's)) (JJ secret) (NN meeting)) (PP (IN with) (NP (PRP him))))) (. .)))
+DebyDebyNNPORGPER0hopedhopeVBDOPER0thatthatINOPER0FranceFranceNNPGPEPER0willwillMDOPER0givegiveVBOPER0ChadChadNNPORGPER0""``OPER0fullfullJJOPER1supportsupportNNOPER1""''OPER0...OPER0(ROOT (S (NP (NNP Deby)) (VP (VBD hoped) (SBAR (IN that) (S (NP (NNP France)) (VP (MD will) (VP (VB give) (NP (NNP Chad)) (NP (`` ") (JJ full) (NN support) ('' "))))))) (. .)))
+WhilewhileINOPER0expressingexpressVBGOPER0agreementagreementNNOPER0totoTOOPER0provideprovideVBOPER0co-operationco-operationNNOPER0,,,OPER0FranceFranceNNPGPEPER0expressedexpressVBDOPER0thatthatINOPER0theytheyPRPOPER0wouldwouldMDOPER0endendVBOPER0thetheDTOPER0militarymilitaryJJOPER0agreementagreementNNOPER0withwithINOPER0ChadChadNNPORGPER0...OPER0(ROOT (S (SBAR (IN While) (S (VP (VBG expressing) (NP (NN agreement)) (S (VP (TO to) (VP (VB provide) (NP (NN co-operation)))))))) (, ,) (NP (NNP France)) (VP (VBD expressed) (SBAR (IN that) (S (NP (PRP they)) (VP (MD would) (VP (VB end) (NP (NP (DT the) (JJ military) (NN agreement)) (PP (IN with) (NP (NNP Chad))))))))) (. .)))
+CurrentlycurrentlyRBOPER0,,,OPER0FranceFranceNNPGPEPER0hashaveVBZOPER012001200CDCARDINALPER0soldierssoldierNNSOPER0stationedstationVBNOPER0ininINOPER0ChadChadNNPGPEPER0...OPER0(ROOT (S (ADVP (RB Currently)) (, ,) (NP (NNP France)) (VP (VBZ has) (VP (NP (CD 1200) (NNS soldiers)) (VBN stationed) (PP (IN in) (NP (NNP Chad))))) (. .)))
+-LRB--lrb--LRB-OPER0XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0specialspecialJJOPER0telegramtelegramNNOPER0-RRB--rrb--RRB-OPER0(ROOT (FRAG (-LRB- -LRB-) (NP (NNP Xinhua) (NNP News) (NNP Agency)) (NP (JJ special) (NN telegram)) (-RRB- -RRB-)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NP (NNP Chad) (POS 's)) (NML (NNP New) (NNP President)) (NNP Idriss) (NNP Deby))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Chad) (POS 's))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP him))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Deby))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP France))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Chad))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP France))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (NNP Chad))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (NNP France))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP Chad))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NP (NNP Chad) (POS 's)) (NML (NNP New) (NNP President)) (NNP Idriss) (NNP Deby))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Chad) (POS 's))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Paris))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN 12th))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (DT a) (NN visit))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Mitterrand))
+sid=1 spanning 3 until 12 headed by 9 parsed as (NP (NP (NP (DT a) (NML (JJ half) (HYPH -) (NN hour)) (POS 's)) (JJ secret) (NN meeting)) (PP (IN with) (NP (PRP him))))
+sid=1 spanning 3 until 8 headed by 6 parsed as (NP (DT a) (NML (JJ half) (HYPH -) (NN hour)) (POS 's))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP him))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Deby))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP France))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Chad))
+sid=2 spanning 7 until 11 headed by 9 parsed as (NP (`` ") (JJ full) (NN support) ('' "))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP France))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=3 spanning 13 until 18 headed by 15 parsed as (NP (NP (DT the) (JJ military) (NN agreement)) (PP (IN with) (NP (NNP Chad))))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (NNP Chad))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (NNP France))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (CD 1200) (NNS soldiers))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP Chad))
+sid=5 spanning 1 until 4 headed by 3 parsed as (NP (NNP Xinhua) (NNP News) (NNP Agency))
+(end predicted mentions)
+---------gold clusters--------
+1 5 8 10 | { 'Chad 's' 'Chad' 'Chad' 'Chad' }
+0 2 3 | { 'Chad 's New President Idriss Deby' 'him' 'Deby' }
+6 9 7 4 | { 'France' 'France' 'they' 'France' }
+(end gold clusters)

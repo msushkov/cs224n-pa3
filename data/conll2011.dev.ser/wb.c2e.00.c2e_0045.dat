@@ -1,0 +1,63 @@
+---------gloss--------
+(0) No Soap in the Morning . 
+(1) [1m[31m{Michael Zhou}[0m 
+(2) Every morning when [35m{we}[0m wash face for [36m{Yaya}[0m -LRB- especially when kid 's mother does that -RRB- , [36m{Yaya}[0m would remind [35m{us}[0m not to use any face wash . 
+(3) The little one has always remembered what [1m[31m{I}[0m once said about a TV program , which documented [1m[32m{people going to Tibet}[0m . 
+(4) [1m[32m{They}[0m would n't wash [1m[32m{their}[0m faces in the morning in order to retain the grease that coped with the strong sunlight and ultraviolet radiation and would only wash off the dusts with soap at night . 
+(end gloss)
+---------document--------
+(wb/c2e/00/c2e_0045); part 000
+sentences:
+NonoDTOPER0SoapSoapNNPORGPER0ininINOPER0thetheDTOPER0MorningmorningNNORGPER0...OPER0(ROOT (NP (NP (DT No) (NNP Soap)) (PP (IN in) (NP (DT the) (NN Morning))) (. .)))
+MichaelMichaelNNPPERSONPER0ZhouZhouNNPPERSONPER0(ROOT (FRAG (NP (NNP Michael) (NNP Zhou))))
+EveryeveryDTTIME Michael Zhou morningmorningNNTIME Michael Zhou whenwhenWRBO Michael Zhou wewePRPO Michael Zhou washwashVBO Michael Zhou facefaceNNO Michael Zhou forforINO Michael Zhou YayaYayaNNPORG Michael Zhou -LRB--lrb--LRB-O Michael Zhou especiallyespeciallyRBO Michael Zhou whenwhenWRBO Michael Zhou kidkidNNO Michael Zhou 's'sPOSO Michael Zhou mothermotherNNO Michael Zhou doesdoVBZO Michael Zhou thatthatDTO Michael Zhou -RRB--rrb--RRB-O Michael Zhou ,,,O Michael Zhou YayaYayaNNPORG Michael Zhou wouldwouldMDO Michael Zhou remindremindVBO Michael Zhou uswePRPO Michael Zhou notnotRBO Michael Zhou totoTOO Michael Zhou useuseVBO Michael Zhou anyanyDTO Michael Zhou facefaceNNO Michael Zhou washwashNNO Michael Zhou ...O Michael Zhou (ROOT (FRAG (NP (DT Every) (NN morning)) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VP (VB wash) (NP (NN face)) (PP (IN for) (NP (NNP Yaya)))) (-LRB- -LRB-) (SBAR (ADVP (RB especially)) (WHADVP (WRB when)) (S (NP (NP (NN kid) (POS 's)) (NN mother)) (VP (VBZ does) (NP (DT that))))) (-RRB- -RRB-)))) (, ,) (NP (NNP Yaya)) (VP (MD would) (VP (VB remind) (NP (PRP us)) (S (RB not) (VP (TO to) (VP (VB use) (NP (DT any) (NN face) (NN wash)))))))) (. .)))
+ThetheDTO Michael Zhou littlelittleJJO Michael Zhou oneoneCDO Michael Zhou hashaveVBZO Michael Zhou alwaysalwaysRBO Michael Zhou rememberedrememberVBNO Michael Zhou whatwhatWPO Michael Zhou IIPRPO Michael Zhou onceonceRBO Michael Zhou saidsayVBDO Michael Zhou aboutaboutINO Michael Zhou aaDTO Michael Zhou TVtvNNO Michael Zhou programprogramNNO Michael Zhou ,,,O Michael Zhou whichwhichWDTO Michael Zhou documenteddocumentVBNO Michael Zhou peoplepeopleNNSO Michael Zhou goinggoVBGO Michael Zhou totoINO Michael Zhou TibetTibetNNPGPE Michael Zhou ...O Michael Zhou (ROOT (S (NP (DT The) (JJ little) (CD one)) (VP (VBZ has) (ADVP (RB always)) (VP (VBN remembered) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (ADVP (RB once)) (VP (VBD said) (PP (IN about) (NP (NP (DT a) (NN TV) (NN program)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBN documented) (S (NP (NNS people)) (VP (VBG going) (PP (IN to) (NP (NNP Tibet))))))))))))))) (. .)))
+TheytheyPRPO Michael Zhou wouldwouldMDO Michael Zhou n'tnotRBO Michael Zhou washwashVBO Michael Zhou theirtheyPRP$O Michael Zhou facesfaceNNSO Michael Zhou ininINO Michael Zhou thetheDTTIME Michael Zhou morningmorningNNTIME Michael Zhou ininINO Michael Zhou orderorderNNO Michael Zhou totoTOO Michael Zhou retainretainVBO Michael Zhou thetheDTO Michael Zhou greasegreaseNNO Michael Zhou thatthatWDTO Michael Zhou copedcopeVBDO Michael Zhou withwithINO Michael Zhou thetheDTO Michael Zhou strongstrongJJO Michael Zhou sunlightsunlightNNO Michael Zhou andandCCO Michael Zhou ultravioletultravioletNNO Michael Zhou radiationradiationNNO Michael Zhou andandCCO Michael Zhou wouldwouldMDO Michael Zhou onlyonlyRBO Michael Zhou washwashVBO Michael Zhou offoffRPO Michael Zhou thetheDTO Michael Zhou dustsdustNNSO Michael Zhou withwithINO Michael Zhou soapsoapNNO Michael Zhou atatINO Michael Zhou nightnightNNTIME Michael Zhou ...O Michael Zhou (ROOT (S (NP (PRP They)) (VP (VP (MD would) (RB n't) (VP (VB wash) (NP (PRP$ their) (NNS faces)) (PP (IN in) (NP (DT the) (NN morning))) (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB retain) (NP (NP (DT the) (NN grease)) (SBAR (WHNP (WDT that)) (S (VP (VBD coped) (PP (IN with) (NP (NP (DT the) (JJ strong) (NN sunlight)) (CC and) (NP (NN ultraviolet) (NN radiation))))))))))))))) (CC and) (VP (MD would) (ADVP (RB only)) (VP (VB wash) (PRT (RP off)) (NP (NP (DT the) (NNS dusts)) (PP (IN with) (NP (NN soap)))) (PP (IN at) (NP (NN night)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Michael) (NNP Zhou))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP we))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Yaya))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NNP Yaya))
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (PRP us))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (PRP I))
+sid=3 spanning 17 until 21 headed by 18 parsed as going
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=4 spanning 4 until 5 headed by 4 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT No) (NNP Soap)) (PP (IN in) (NP (DT the) (NN Morning))) (. .))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN Morning))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Michael) (NNP Zhou))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP we))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Yaya))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (NP (NN kid) (POS 's)) (NN mother))
+sid=2 spanning 11 until 13 headed by 11 parsed as (NP (NN kid) (POS 's))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (DT that))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NNP Yaya))
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (PRP us))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ little) (CD one))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (PRP I))
+sid=3 spanning 11 until 21 headed by 13 parsed as (NP (NP (DT a) (NN TV) (NN program)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBN documented) (S (NP (NNS people)) (VP (VBG going) (PP (IN to) (NP (NNP Tibet)))))))))
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (NN TV) (NN program))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (NNS people))
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (NNP Tibet))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ their) (NNS faces))
+sid=4 spanning 4 until 5 headed by 4 parsed as (PRP$ their)
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN morning))
+sid=4 spanning 10 until 24 headed by 10 parsed as (NP (NN order) (S (VP (TO to) (VP (VB retain) (NP (NP (DT the) (NN grease)) (SBAR (WHNP (WDT that)) (S (VP (VBD coped) (PP (IN with) (NP (NP (DT the) (JJ strong) (NN sunlight)) (CC and) (NP (NN ultraviolet) (NN radiation))))))))))))
+sid=4 spanning 13 until 24 headed by 14 parsed as (NP (NP (DT the) (NN grease)) (SBAR (WHNP (WDT that)) (S (VP (VBD coped) (PP (IN with) (NP (NP (DT the) (JJ strong) (NN sunlight)) (CC and) (NP (NN ultraviolet) (NN radiation))))))))
+sid=4 spanning 18 until 24 headed by 20 parsed as (NP (NP (DT the) (JJ strong) (NN sunlight)) (CC and) (NP (NN ultraviolet) (NN radiation)))
+sid=4 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (JJ strong) (NN sunlight))
+sid=4 spanning 22 until 24 headed by 23 parsed as (NP (NN ultraviolet) (NN radiation))
+sid=4 spanning 29 until 33 headed by 30 parsed as (NP (NP (DT the) (NNS dusts)) (PP (IN with) (NP (NN soap))))
+sid=4 spanning 34 until 35 headed by 34 parsed as (NP (NN night))
+(end predicted mentions)
+---------gold clusters--------
+1 4 | { 'we' 'us' }
+3 2 | { 'Yaya' 'Yaya' }
+5 0 | { 'I' 'Michael Zhou' }
+6 7 8 | { 'people going to Tibet' 'They' 'their' }
+(end gold clusters)

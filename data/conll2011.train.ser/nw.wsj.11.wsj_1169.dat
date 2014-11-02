@@ -1,0 +1,81 @@
+---------gloss--------
+(0) [3m[36m{Murata Mfg. Co.}[0m said [3m[36m{it}[0m is establishing [4m[31m{a subsidiary}[0m in Britain to produce electric parts , including ceramic condensers . 
+(1) [3m[36m{The Tokyo maker of ceramic capacitors}[0m said [3m[36m{it}[0m purchased a plant in Plymouth . 
+(2) [3m[36m{The company}[0m did n't disclose a purchase price or capitalization figures . 
+(3) [3m[36m{Murata}[0m said , however , [3m[36m{it}[0m will invest about 1.4 billion yen -LRB- $ 9.9 million -RRB- in [4m[31m{the new company}[0m . 
+(4) Production is slated to begin in April . 
+(5) [3m[36m{The company , which has a European foothold , Murata Europe Management G.m.b . H. in Germany ,}[0m said [4m[31m{the latest venture}[0m is designed to meet demand for electric parts in European Community countries ahead of the creation of the unified market by the end of 1992 . 
+(6) [3m[36m{Murata}[0m expects sales at [4m[31m{the unit}[0m of about 1.5 billion yen in the first year . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1169); part 000
+sentences:
+MurataMurataNNPORGPER0Mfg.Mfg.NNPORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0ititPRPOPER0isbeVBZOPER0establishingestablishVBGOPER0aaDTOPER0subsidiarysubsidiaryNNOPER0ininINOPER0BritainBritainNNPGPEPER0totoTOOPER0produceproduceVBOPER0electricelectricJJOPER0partspartNNSOPER0,,,OPER0includingincludeVBGOPER0ceramicceramicJJOPER0condenserscondenserNNSOPER0...OPER0(ROOT (S (NP (NNP Murata) (NNP Mfg.) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG establishing) (NP (NP (DT a) (NN subsidiary)) (PP (IN in) (NP (NNP Britain)))) (S (VP (TO to) (VP (VB produce) (NP (NP (JJ electric) (NNS parts)) (, ,) (PP (VBG including) (NP (JJ ceramic) (NNS condensers)))))))))))) (. .)))
+ThetheDTOPER0TokyoTokyoNNPGPEPER0makermakerNNOPER0ofofINOPER0ceramicceramicJJOPER0capacitorscapacitorNNSOPER0saidsayVBDOPER0ititPRPOPER0purchasedpurchaseVBDOPER0aaDTOPER0plantplantNNOPER0ininINOPER0PlymouthPlymouthNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP Tokyo) (NN maker)) (PP (IN of) (NP (JJ ceramic) (NNS capacitors)))) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD purchased) (NP (NP (DT a) (NN plant)) (PP (IN in) (NP (NNP Plymouth)))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0diddoVBDOPER0n'tnotRBOPER0disclosediscloseVBOPER0aaDTOPER0purchasepurchaseNNOPER0pricepriceNNOPER0ororCCOPER0capitalizationcapitalizationNNOPER0figuresfigureNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (VP (VBD did) (RB n't) (VP (VB disclose) (NP (NP (DT a) (NN purchase) (NN price)) (CC or) (NP (NN capitalization) (NNS figures))))) (. .)))
+MurataMurataNNPORGPER0saidsayVBDOPER0,,,OPER0howeverhoweverRBOPER0,,,OPER0ititPRPOPER0willwillMDOPER0investinvestVBOPER0aboutaboutRBMONEYPER01.41.4CDMONEYPER0billionbillionCDMONEYPER0yenyenNNSMONEYPER0-LRB--lrb--LRB-OPER0$$$MONEYPER09.99.9CDMONEYPER0millionmillionCDMONEYPER0-RRB--rrb--RRB-OPER0ininINOPER0thetheDTOPER0newnewJJOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NNP Murata)) (VP (VBD said) (, ,) (ADVP (RB however)) (, ,) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB invest) (NP (NP (QP (RB about) (CD 1.4) (CD billion)) (NNS yen)) (-LRB- -LRB-) (NP (QP ($ $) (CD 9.9) (CD million))) (-RRB- -RRB-)) (PP (IN in) (NP (DT the) (JJ new) (NN company)))))))) (. .)))
+ProductionproductionNNOPER0isbeVBZOPER0slatedslateVBNOPER0totoTOOPER0beginbeginVBOPER0ininINOPER0AprilAprilNNPDATEPER0...OPER0(ROOT (S (NP (NN Production)) (VP (VBZ is) (VP (VBN slated) (S (VP (TO to) (VP (VB begin) (PP (IN in) (NP (NNP April)))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0,,,OPER0whichwhichWDTOPER0hashaveVBZOPER0aaDTOPER0EuropeanEuropeanNNPOPER0footholdfootholdNNOPER0,,,OPER0MurataMurataNNPORGPER0EuropeEuropeNNPORGPER0ManagementManagementNNPORGPER0G.m.bG.m.bNNPORGPER0...ORGPER0H.H.NNPORGPER0ininINOPER0GermanyGermanyNNPGPEPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0latestlatestJJSOPER0ventureventureNNOPER0isbeVBZOPER0designeddesignVBNOPER0totoTOOPER0meetmeetVBOPER0demanddemandNNOPER0forforINOPER0electricelectricJJOPER0partspartNNSOPER0ininINOPER0EuropeanEuropeanNNPORGPER0CommunityCommunityNNPORGPER0countriescountryNNSOPER0aheadaheadRBOPER0ofofINOPER0thetheDTOPER0creationcreationNNOPER0ofofINOPER0thetheDTOPER0unifiedunifiedJJOPER0marketmarketNNOPER0bybyINOPER0thetheDTDATEPER0endendNNDATEPER0ofofINDATEPER019921992CDDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NP (DT a) (NNP European) (NN foothold)) (, ,) (NP (NNP Murata) (NNP Europe) (NNP Management) (NNP G.m.b) (. .) (NNP H.))) (PP (IN in) (NP (NNP Germany))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (JJS latest) (NN venture)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB meet) (NP (NP (NN demand)) (PP (IN for) (NP (NP (JJ electric) (NNS parts)) (PP (IN in) (NP (NML (NNP European) (NNP Community)) (NNS countries)))))) (ADVP (RB ahead) (PP (IN of) (NP (NP (DT the) (NN creation)) (PP (IN of) (NP (NP (DT the) (JJ unified) (NN market)) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1992)))))))))))))))))) (. .)))
+MurataMurataNNPORGPER0expectsexpectVBZOPER0salessaleNNSOPER0atatINOPER0thetheDTOPER0unitunitNNOPER0ofofINOPER0aboutaboutRBMONEYPER01.51.5CDMONEYPER0billionbillionCDMONEYPER0yenyenNNSMONEYPER0ininINOPER0thetheDTDATEPER0firstfirstJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NNP Murata)) (VP (VBZ expects) (NP (NP (NNS sales)) (PP (IN at) (NP (NP (DT the) (NN unit)) (PP (IN of) (NP (NP (QP (RB about) (CD 1.5) (CD billion)) (NNS yen)) (PP (IN in) (NP (DT the) (JJ first) (NN year))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Murata) (NNP Mfg.) (NNP Co.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NP (DT a) (NN subsidiary)) (PP (IN in) (NP (NNP Britain))))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (NNP Tokyo) (NN maker)) (PP (IN of) (NP (JJ ceramic) (NNS capacitors))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Murata))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (JJ new) (NN company))
+sid=5 spanning 0 until 18 headed by 1 parsed as (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NP (DT a) (NNP European) (NN foothold)) (, ,) (NP (NNP Murata) (NNP Europe) (NNP Management) (NNP G.m.b) (. .) (NNP H.))) (PP (IN in) (NP (NNP Germany))))))) (, ,))
+sid=5 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (JJS latest) (NN venture))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP Murata))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (NP (DT the) (NN unit)) (PP (IN of) (NP (NP (QP (RB about) (CD 1.5) (CD billion)) (NNS yen)) (PP (IN in) (NP (DT the) (JJ first) (NN year))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Murata) (NNP Mfg.) (NNP Co.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT a) (NN subsidiary)) (PP (IN in) (NP (NNP Britain))))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Britain))
+sid=0 spanning 13 until 19 headed by 14 parsed as (NP (NP (JJ electric) (NNS parts)) (, ,) (PP (VBG including) (NP (JJ ceramic) (NNS condensers))))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (JJ electric) (NNS parts))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (JJ ceramic) (NNS condensers))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (NNP Tokyo) (NN maker)) (PP (IN of) (NP (JJ ceramic) (NNS capacitors))))
+sid=1 spanning 1 until 2 headed by 1 parsed as Tokyo
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (JJ ceramic) (NNS capacitors))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=1 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT a) (NN plant)) (PP (IN in) (NP (NNP Plymouth))))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Plymouth))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=2 spanning 5 until 11 headed by 7 parsed as (NP (NP (DT a) (NN purchase) (NN price)) (CC or) (NP (NN capitalization) (NNS figures)))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (NN purchase) (NN price))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NN capitalization) (NNS figures))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Murata))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (JJ new) (NN company))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP April))
+sid=5 spanning 0 until 18 headed by 1 parsed as (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NP (DT a) (NNP European) (NN foothold)) (, ,) (NP (NNP Murata) (NNP Europe) (NNP Management) (NNP G.m.b) (. .) (NNP H.))) (PP (IN in) (NP (NNP Germany))))))) (, ,))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=5 spanning 5 until 17 headed by 7 parsed as (NP (NP (NP (DT a) (NNP European) (NN foothold)) (, ,) (NP (NNP Murata) (NNP Europe) (NNP Management) (NNP G.m.b) (. .) (NNP H.))) (PP (IN in) (NP (NNP Germany))))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (NNP European) (NN foothold))
+sid=5 spanning 9 until 15 headed by 14 parsed as (NP (NNP Murata) (NNP Europe) (NNP Management) (NNP G.m.b) (. .) (NNP H.))
+sid=5 spanning 16 until 17 headed by 16 parsed as (NP (NNP Germany))
+sid=5 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (JJS latest) (NN venture))
+sid=5 spanning 26 until 34 headed by 26 parsed as (NP (NP (NN demand)) (PP (IN for) (NP (NP (JJ electric) (NNS parts)) (PP (IN in) (NP (NML (NNP European) (NNP Community)) (NNS countries))))))
+sid=5 spanning 28 until 34 headed by 29 parsed as (NP (NP (JJ electric) (NNS parts)) (PP (IN in) (NP (NML (NNP European) (NNP Community)) (NNS countries))))
+sid=5 spanning 31 until 34 headed by 33 parsed as (NP (NML (NNP European) (NNP Community)) (NNS countries))
+sid=5 spanning 31 until 33 headed by 32 parsed as Community
+sid=5 spanning 36 until 47 headed by 37 parsed as (NP (NP (DT the) (NN creation)) (PP (IN of) (NP (NP (DT the) (JJ unified) (NN market)) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1992))))))))
+sid=5 spanning 39 until 47 headed by 41 parsed as (NP (NP (DT the) (JJ unified) (NN market)) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1992))))))
+sid=5 spanning 43 until 47 headed by 44 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1992))))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP Murata))
+sid=6 spanning 2 until 15 headed by 2 parsed as (NP (NP (NNS sales)) (PP (IN at) (NP (NP (DT the) (NN unit)) (PP (IN of) (NP (NP (QP (RB about) (CD 1.5) (CD billion)) (NNS yen)) (PP (IN in) (NP (DT the) (JJ first) (NN year))))))))
+sid=6 spanning 4 until 15 headed by 5 parsed as (NP (NP (DT the) (NN unit)) (PP (IN of) (NP (NP (QP (RB about) (CD 1.5) (CD billion)) (NNS yen)) (PP (IN in) (NP (DT the) (JJ first) (NN year))))))
+sid=6 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (JJ first) (NN year))
+(end predicted mentions)
+---------gold clusters--------
+6 11 1 9 3 4 5 7 0 | { 'Murata' 'Murata' 'it' 'The company , which has a European foothold , Murata Europe Management G.m.b . H. in Germany ,' 'The Tokyo maker of ceramic capacitors' 'it' 'The company' 'it' 'Murata Mfg. Co.' }
+8 10 12 2 | { 'the new company' 'the latest venture' 'the unit' 'a subsidiary' }
+(end gold clusters)

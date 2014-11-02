@@ -1,0 +1,130 @@
+---------gloss--------
+(0) In [4m[32m{Yemen}[0m , U.S. investigators have been blocked from interviewing potential witnesses about [4m[33m{the bombing of the `` USS Cole}[0m . '' 
+(1) [3m[35m{FBI director Louis Freeh , and Secretary of State Madeleine Albright ,}[0m are calling on [4m[32m{Yemen}[0m 's President for more cooperation . 
+(2) [3m[35m{They}[0m thanked [4m[32m{the country}[0m for help in gathering forensic evidence , but say the investigation must now move to the next phase . 
+(3) Yemeni authorities have been questioning potential witnesses . 
+(4) [4m[36m{The `` USS Cole ''}[0m will begin [4m[36m{its}[0m trip home next week . 
+(5) [4m[36m{The destroyer}[0m is still at port in [4m[32m{Yemen , where it was bombed October}[0m . 
+(6) We are now getting [4m[34m{the first closeup view of the damage}[0m . 
+(7) [4m[34m{These pictures}[0m were obtained by the National Security News Service , an independent [4m[35m{Pentagon}[0m watchdog group . 
+(8) [4m[35m{The Pentagon}[0m has refused to allow the media to get close to the inside of the damaged area . 
+(9) [4m[31m{A U.S. official}[0m says , recent reports about [3m[36m{Saudi dissident Osama Bin Laden}[0m and [3m[36m{his}[0m possible role in [4m[33m{the `` Cole '' attack}[0m are unfounded . 
+(10) [4m[31m{The official}[0m says investigators do not have `` specific '' or `` reliable '' evidence [3m[36m{Bin Laden}[0m financed [4m[33m{the attack}[0m or sent an agent to oversee [4m[33m{it}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0076); part 000
+sentences:
+IninINOPER0YemenYemenNNPGPEPER0,,,OPER0U.S.U.S.NNPGPEPER0investigatorsinvestigatorNNSOPER0havehaveVBPOPER0beenbeVBNOPER0blockedblockVBNOPER0fromfromINOPER0interviewinginterviewVBGOPER0potentialpotentialJJOPER0witnesseswitnessNNSOPER0aboutaboutINOPER0thetheDTOPER0bombingbombingNNOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1...OPER1''''''OPER0(ROOT (S (PP (IN In) (NP (NNP Yemen))) (, ,) (NP (NNP U.S.) (NNS investigators)) (VP (VBP have) (VP (VBN been) (VP (VBN blocked) (PP (IN from) (S (VP (VBG interviewing) (NP (JJ potential) (NNS witnesses)) (PP (IN about) (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))))))))) (. .) ('' '')))
+FBIFBINNPORGPER0directordirectorNNOPER0LouisLouisNNPPERSONPER0FreehFreehNNPPERSONPER0,,,OPER0andandCCOPER0SecretarySecretaryNNPOPER0ofofINOPER0StateStateNNPORGPER0MadeleineMadeleineNNPPERSONPER0AlbrightAlbrightNNPPERSONPER0,,,OPER0arebeVBPOPER0callingcallVBGOPER0ononINOPER0YemenYemenNNPGPEPER0's'sPOSOPER0PresidentPresidentNNPOPER0forforINOPER0moremoreJJROPER0cooperationcooperationNNOPER0...OPER0(ROOT (S (NP (NP (NML (NNP FBI) (NN director)) (NNP Louis) (NNP Freeh)) (, ,) (CC and) (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright))) (, ,)) (VP (VBP are) (VP (VBG calling) (PP (IN on) (NP (NNP Yemen) (POS 's) (NNP President))) (PP (IN for) (NP (JJR more) (NN cooperation))))) (. .)))
+TheytheyPRPOPER0thankedthankVBDOPER0thetheDTOPER0countrycountryNNOPER0forforINOPER0helphelpNNOPER0ininINOPER0gatheringgatherVBGOPER0forensicforensicJJOPER0evidenceevidenceNNOPER0,,,OPER0butbutCCOPER0saysayVBOPER0thetheDTOPER0investigationinvestigationNNOPER0mustmustMDOPER0nownowRBOPER0movemoveVBOPER0totoINOPER0thetheDTOPER0nextnextJJOPER0phasephaseNNOPER0...OPER0(ROOT (S (S (NP (PRP They)) (VP (VBD thanked) (NP (DT the) (NN country)) (PP (IN for) (NP (NP (NN help)) (PP (IN in) (S (VP (VBG gathering) (NP (JJ forensic) (NN evidence))))))))) (, ,) (CC but) (S (VP (VB say) (SBAR (S (NP (DT the) (NN investigation)) (VP (MD must) (ADVP (RB now)) (VP (VB move) (PP (IN to) (NP (DT the) (JJ next) (NN phase))))))))) (. .)))
+YemeniyemeniJJOPER0authoritiesauthorityNNSOPER0havehaveVBPOPER0beenbeVBNOPER0questioningquestionVBGOPER0potentialpotentialJJOPER0witnesseswitnessNNSOPER0...OPER0(ROOT (S (NP (JJ Yemeni) (NNS authorities)) (VP (VBP have) (VP (VBN been) (VP (VBG questioning) (NP (JJ potential) (NNS witnesses))))) (. .)))
+ThetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER2ColeColeNNPPRODUCTPER2''''''PRODUCTPER0willwillMDOPER0beginbeginVBOPER0itsitsPRP$OPER0triptripNNOPER0homehomeRBOPER0nextnextJJDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (DT The) (`` ``) (NNP USS) (NNP Cole) ('' '')) (VP (MD will) (VP (VB begin) (NP (NP (PRP$ its) (NN trip)) (ADVP (RB home))) (NP (JJ next) (NN week)))) (. .)))
+ThetheDTOPER0destroyerdestroyerNNOPER0isbeVBZOPER0stillstillRBOPER0atatINOPER0portportNNOPER0ininINOPER0YemenYemenNNPGPEPER0,,,OPER0wherewhereWRBOPER0ititPRPOPER0wasbeVBDOPER0bombedbombVBNOPER0OctoberOctoberNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NN destroyer)) (VP (VBZ is) (ADVP (RB still)) (PP (IN at) (NP (NP (NN port)) (PP (IN in) (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBD was) (VP (VBN bombed) (NP (NNP October))))))))))) (. .)))
+WewePRPOPER0arebeVBPOPER0nownowRBOPER0gettinggetVBGOPER0thetheDTOPER0firstfirstJJORDINALPER0closeupcloseupNNOPER0viewviewNNOPER0ofofINOPER0thetheDTOPER0damagedamageNNOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP are) (ADVP (RB now)) (VP (VBG getting) (NP (NP (DT the) (JJ first) (NN closeup) (NN view)) (PP (IN of) (NP (DT the) (NN damage)))))) (. .)))
+ThesetheseDTOPER0picturespictureNNSOPER0werebeVBDOPER0obtainedobtainVBNOPER0bybyINOPER0thetheDTORGPER0NationalNationalNNPORGPER0SecuritySecurityNNPORGPER0NewsNewsNNPORGPER0ServiceServiceNNPORGPER0,,,OPER0anaDTOPER0independentindependentJJOPER0PentagonPentagonNNPORGPER0watchdogwatchdogNNOPER0groupgroupNNOPER0...OPER0(ROOT (S (NP (DT These) (NNS pictures)) (VP (VBD were) (VP (VBN obtained) (PP (IN by) (NP (NP (DT the) (NML (NNP National) (NNP Security)) (NNP News) (NNP Service)) (, ,) (NP (DT an) (JJ independent) (NNP Pentagon) (NN watchdog) (NN group)))))) (. .)))
+ThetheDTOPER0PentagonPentagonNNPORGPER0hashaveVBZOPER0refusedrefuseVBNOPER0totoTOOPER0allowallowVBOPER0thetheDTOPER0mediamediaNNSOPER0totoTOOPER0getgetVBOPER0closecloseRBOPER0totoINOPER0thetheDTOPER0insideinsideNNOPER0ofofINOPER0thetheDTOPER0damageddamageVBNOPER0areaareaNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Pentagon)) (VP (VBZ has) (VP (VBN refused) (S (VP (TO to) (VP (VB allow) (S (NP (DT the) (NNS media)) (VP (TO to) (VP (VB get) (ADVP (RB close) (PP (IN to) (NP (NP (DT the) (NN inside)) (PP (IN of) (NP (DT the) (VBN damaged) (NN area)))))))))))))) (. .)))
+AaDTOPER0U.S.U.S.NNPGPEPER0officialofficialNNOPER0sayssayVBZOPER0,,,OPER0recentrecentJJOPER0reportsreportNNSOPER0aboutaboutINOPER0SaudiSaudiNNPOPER0dissidentdissidentJJOPER0OsamaOsamaNNPPERSONPER0BinBinNNPPERSONPER0LadenLadenNNPPERSONPER0andandCCOPER0hishePRP$OPER0possiblepossibleJJOPER0roleroleNNOPER0ininINOPER0thetheDTOPER0``````OColeColeNNPWORK_OF_ARTPER3''''''OPER0attackattackNNOPER0arebeVBPOPER0unfoundedunfoundedJJOPER0...OPER0(ROOT (S (NP (DT A) (NNP U.S.) (NN official)) (VP (VBZ says) (, ,) (SBAR (S (NP (NP (NP (JJ recent) (NNS reports)) (PP (IN about) (NP (NNP Saudi) (JJ dissident) (NNP Osama) (NNP Bin) (NNP Laden)))) (CC and) (NP (NP (PRP$ his) (JJ possible) (NN role)) (PP (IN in) (NP (DT the) (`` ``) (NNP Cole) ('' '') (NN attack))))) (VP (VBP are) (ADJP (JJ unfounded)))))) (. .)))
+ThetheDTOPER0officialofficialNNOPER0sayssayVBZOPER0investigatorsinvestigatorNNSOPER0dodoVBPOPER0notnotRBOPER0havehaveVBOPER0``````OspecificspecificJJOPER4''''''OPER0ororCCOPER0``````OreliablereliableJJOPER5''''''OPER0evidenceevidenceNNOPER0BinBinNNPORGPER0LadenLadenNNPORGPER0financedfinanceVBDOPER0thetheDTOPER0attackattackNNOPER0ororCCOPER0sentsendVBDOPER0anaDTOPER0agentagentNNOPER0totoTOOPER0overseeoverseeVBOPER0ititPRPOPER0...OPER0(ROOT (S (NP (DT The) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS investigators)) (VP (VBP do) (RB not) (VP (VB have) (NP (NP (ADJP (`` ``) (JJ specific) ('' '') (CC or) (`` ``) (JJ reliable) ('' '')) (NN evidence)) (SBAR (S (NP (NNP Bin) (NNP Laden)) (VP (VP (VBD financed) (NP (DT the) (NN attack))) (CC or) (VP (VBD sent) (NP (DT an) (NN agent)) (S (VP (TO to) (VP (VB oversee) (NP (PRP it))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Yemen))
+sid=0 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=0 spanning 16 until 20 headed by 19 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=1 spanning 0 until 12 headed by 3 parsed as (NP (NP (NML (NNP FBI) (NN director)) (NNP Louis) (NNP Freeh)) (, ,) (CC and) (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright))) (, ,))
+sid=1 spanning 15 until 16 headed by 15 parsed as Yemen
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN country))
+sid=4 spanning 0 until 5 headed by 3 parsed as (NP (DT The) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=4 spanning 7 until 8 headed by 7 parsed as its
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN destroyer))
+sid=5 spanning 7 until 14 headed by 7 parsed as (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBD was) (VP (VBN bombed) (NP (NNP October)))))))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=5 spanning 12 until 13 headed by 12 parsed as bombed
+sid=6 spanning 4 until 11 headed by 7 parsed as (NP (NP (DT the) (JJ first) (NN closeup) (NN view)) (PP (IN of) (NP (DT the) (NN damage))))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT These) (NNS pictures))
+sid=7 spanning 13 until 14 headed by 13 parsed as Pentagon
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Pentagon))
+sid=9 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP U.S.) (NN official))
+sid=9 spanning 8 until 13 headed by 12 parsed as (NP (NNP Saudi) (JJ dissident) (NNP Osama) (NNP Bin) (NNP Laden))
+sid=9 spanning 14 until 15 headed by 14 parsed as his
+sid=9 spanning 18 until 23 headed by 22 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' '') (NN attack))
+sid=9 spanning 20 until 21 headed by 20 parsed as Cole
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN official))
+sid=10 spanning 15 until 17 headed by 16 parsed as (NP (NNP Bin) (NNP Laden))
+sid=10 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN attack))
+sid=10 spanning 26 until 27 headed by 26 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Yemen))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NNP U.S.) (NNS investigators))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (JJ potential) (NNS witnesses))
+sid=0 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=0 spanning 16 until 20 headed by 19 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (NP (NML (NNP FBI) (NN director)) (NNP Louis) (NNP Freeh)) (, ,) (CC and) (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright))) (, ,))
+sid=1 spanning 0 until 12 headed by 3 parsed as (NP (NP (NML (NNP FBI) (NN director)) (NNP Louis) (NNP Freeh)) (, ,) (CC and) (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright))) (, ,))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP FBI) (NN director)) (NNP Louis) (NNP Freeh))
+sid=1 spanning 0 until 1 headed by 0 parsed as FBI
+sid=1 spanning 6 until 11 headed by 6 parsed as (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright)))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP State))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Madeleine) (NNP Albright))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (NNP Yemen) (POS 's) (NNP President))
+sid=1 spanning 15 until 17 headed by 15 parsed as Yemen
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (JJR more) (NN cooperation))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN country))
+sid=2 spanning 5 until 10 headed by 5 parsed as (NP (NP (NN help)) (PP (IN in) (S (VP (VBG gathering) (NP (JJ forensic) (NN evidence))))))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN investigation))
+sid=2 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (JJ next) (NN phase))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Yemeni) (NNS authorities))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (JJ potential) (NNS witnesses))
+sid=4 spanning 0 until 5 headed by 3 parsed as (NP (DT The) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=4 spanning 7 until 10 headed by 8 parsed as (NP (NP (PRP$ its) (NN trip)) (ADVP (RB home)))
+sid=4 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (JJ next) (NN week))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN destroyer))
+sid=5 spanning 5 until 14 headed by 5 parsed as (NP (NP (NN port)) (PP (IN in) (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBD was) (VP (VBN bombed) (NP (NNP October)))))))))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBD was) (VP (VBN bombed) (NP (NNP October)))))))
+sid=5 spanning 7 until 14 headed by 7 parsed as (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBD was) (VP (VBN bombed) (NP (NNP October)))))))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=5 spanning 13 until 14 headed by 13 parsed as (NP (NNP October))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=6 spanning 4 until 11 headed by 7 parsed as (NP (NP (DT the) (JJ first) (NN closeup) (NN view)) (PP (IN of) (NP (DT the) (NN damage))))
+sid=6 spanning 5 until 6 headed by 5 parsed as first
+sid=6 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN damage))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT These) (NNS pictures))
+sid=7 spanning 5 until 10 headed by 9 parsed as (NP (NP (DT the) (NML (NNP National) (NNP Security)) (NNP News) (NNP Service)) (, ,) (NP (DT an) (JJ independent) (NNP Pentagon) (NN watchdog) (NN group)))
+sid=7 spanning 5 until 16 headed by 9 parsed as (NP (NP (DT the) (NML (NNP National) (NNP Security)) (NNP News) (NNP Service)) (, ,) (NP (DT an) (JJ independent) (NNP Pentagon) (NN watchdog) (NN group)))
+sid=7 spanning 11 until 16 headed by 15 parsed as (NP (DT an) (JJ independent) (NNP Pentagon) (NN watchdog) (NN group))
+sid=7 spanning 13 until 14 headed by 13 parsed as Pentagon
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Pentagon))
+sid=8 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS media))
+sid=8 spanning 12 until 18 headed by 13 parsed as (NP (NP (DT the) (NN inside)) (PP (IN of) (NP (DT the) (VBN damaged) (NN area))))
+sid=8 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (VBN damaged) (NN area))
+sid=9 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP U.S.) (NN official))
+sid=9 spanning 5 until 23 headed by 6 parsed as (NP (NP (NP (JJ recent) (NNS reports)) (PP (IN about) (NP (NNP Saudi) (JJ dissident) (NNP Osama) (NNP Bin) (NNP Laden)))) (CC and) (NP (NP (PRP$ his) (JJ possible) (NN role)) (PP (IN in) (NP (DT the) (`` ``) (NNP Cole) ('' '') (NN attack)))))
+sid=9 spanning 5 until 13 headed by 6 parsed as (NP (NP (JJ recent) (NNS reports)) (PP (IN about) (NP (NNP Saudi) (JJ dissident) (NNP Osama) (NNP Bin) (NNP Laden))))
+sid=9 spanning 10 until 13 headed by 12 parsed as (NP (NNP Saudi) (JJ dissident) (NNP Osama) (NNP Bin) (NNP Laden))
+sid=9 spanning 8 until 13 headed by 12 parsed as (NP (NNP Saudi) (JJ dissident) (NNP Osama) (NNP Bin) (NNP Laden))
+sid=9 spanning 14 until 23 headed by 16 parsed as (NP (NP (PRP$ his) (JJ possible) (NN role)) (PP (IN in) (NP (DT the) (`` ``) (NNP Cole) ('' '') (NN attack))))
+sid=9 spanning 14 until 15 headed by 14 parsed as (PRP$ his)
+sid=9 spanning 18 until 23 headed by 22 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' '') (NN attack))
+sid=9 spanning 20 until 21 headed by 20 parsed as Cole
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN official))
+sid=10 spanning 3 until 4 headed by 3 parsed as (NP (NNS investigators))
+sid=10 spanning 7 until 27 headed by 14 parsed as (NP (NP (ADJP (`` ``) (JJ specific) ('' '') (CC or) (`` ``) (JJ reliable) ('' '')) (NN evidence)) (SBAR (S (NP (NNP Bin) (NNP Laden)) (VP (VP (VBD financed) (NP (DT the) (NN attack))) (CC or) (VP (VBD sent) (NP (DT an) (NN agent)) (S (VP (TO to) (VP (VB oversee) (NP (PRP it))))))))))
+sid=10 spanning 15 until 17 headed by 16 parsed as (NP (NNP Bin) (NNP Laden))
+sid=10 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN attack))
+sid=10 spanning 22 until 24 headed by 23 parsed as (NP (DT an) (NN agent))
+sid=10 spanning 26 until 27 headed by 26 parsed as (NP (PRP it))
+(end predicted mentions)
+---------gold clusters--------
+5 3 | { 'They' 'FBI director Louis Freeh , and Secretary of State Madeleine Albright ,' }
+23 19 18 | { 'Bin Laden' 'his' 'Saudi dissident Osama Bin Laden' }
+17 22 | { 'A U.S. official' 'The official' }
+0 6 10 4 | { 'Yemen' 'the country' 'Yemen , where it was bombed October' 'Yemen' }
+24 1 25 20 12 | { 'the attack' 'the bombing of the `` USS Cole' 'it' 'the `` Cole '' attack' 'bombed' }
+14 13 | { 'These pictures' 'the first closeup view of the damage' }
+15 16 | { 'Pentagon' 'The Pentagon' }
+7 2 8 11 9 21 | { 'The `` USS Cole ''' 'the `` USS Cole' 'its' 'it' 'The destroyer' 'Cole' }
+(end gold clusters)

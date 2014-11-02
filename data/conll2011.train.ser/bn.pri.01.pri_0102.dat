@@ -1,0 +1,120 @@
+---------gloss--------
+(0) From [34m{BBC News in London}[0m , I 'm James Cowling for The World . 
+(1) [31m{A senior Israeli official}[0m has concluded talks in Washington with President Clinton . 
+(2) [4m[36m{Prime Minister Barak 's}[0m Chief of Staff Giliad Share has delivered [33m{Israel 's}[0m response to American peace proposals , but at home [4m[36m{Barak might face a devastating defeat in the forthcoming elections}[0m . 
+(3) [32m{Paul Adams}[0m reports . 
+(4) [33m{Israel 's}[0m Prime Minister is in trouble . 
+(5) [4m[36m{His}[0m efforts to reach a comprehensive peace agreement with the Palestinians have so far yielded nothing . 
+(6) Now with less than 5 weeks to go before [4m[35m{elections}[0m , the latest opinion poll suggests [4m[36m{he}[0m is in for a drubbing at the hands of [4m[36m{his}[0m right wing challenger Ariel Sharon . 
+(7) For the first time [35m{Mr. Sharon}[0m has topped 50 % with [4m[36m{Mr. Barak}[0m trailing by as much as 28 points . 
+(8) [33m{Israel 's}[0m political commentators are unanimous . 
+(9) In the words of one of the best , `` [4m[36m{The Prime Minister 's}[0m situation is nearly terminal . '' 
+(10) [4m[36m{Mr. Barak}[0m is trying to sell an historic peace agreement to a public that would n't even buy a used car from [4m[36m{him}[0m . 
+(11) [32m{Paul Adams}[0m , [34m{BBC News}[0m , Jerusalem . 
+(end gloss)
+---------document--------
+(bn/pri/01/pri_0102); part 000
+sentences:
+FromfromINOPER0BBCBBCNNPORGPER0NewsNewsNNPORGPER0ininINOPER0LondonLondonNNPGPEPER0,,,OPER0IIPRPOPER0'mbeVBPOPER0JamesJamesNNPPERSONPER0CowlingCowlingNNPPERSONPER0forforINOPER0ThetheDTORGPER0WorldWorldNNPORGPER0...OPER0(ROOT (S (PP (IN From) (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP James) (NNP Cowling)) (PP (IN for) (NP (DT The) (NNP World))))) (. .)))
+AaDTOPER0seniorseniorJJOPER0IsraeliisraeliJJOPER0officialofficialNNOPER0hashaveVBZOPER0concludedconcludeVBNOPER0talkstalkNNSOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0withwithINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0...OPER0(ROOT (S (NP (DT A) (JJ senior) (JJ Israeli) (NN official)) (VP (VBZ has) (VP (VBN concluded) (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Washington))) (PP (IN with) (NP (NNP President) (NNP Clinton)))))) (. .)))
+PrimePrimeNNPOPER0MinisterMinisterNNPOPER0BarakBarakNNPPERSONPER0's'sPOSOPER0ChiefChiefNNPOPER0ofofINOPER0StaffStaffNNPOPER0GiliadGiliadNNPPERSONPER0ShareShareNNPPERSONPER0hashaveVBZOPER0delivereddeliverVBNOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0responseresponseNNOPER0totoINOPER0AmericanamericanJJOPER0peacepeaceNNOPER0proposalsproposalNNSOPER0,,,OPER0butbutCCOPER0atatINOPER0homehomeNNOPER0BarakBarakNNPPERSONPER0mightmightMDOPER0facefaceVBOPER0aaDTOPER0devastatingdevastatingJJOPER0defeatdefeatNNOPER0ininINOPER0thetheDTOPER0forthcomingforthcomingJJOPER0electionselectionNNSOPER0...OPER0(ROOT (S (S (NP (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak) (POS 's)) (NNP Chief)) (PP (IN of) (NP (NP (NNP Staff)) (NP (NNP Giliad) (NNP Share))))) (VP (VBZ has) (VP (VBN delivered) (NP (NP (NP (NNP Israel) (POS 's)) (NN response)) (PP (IN to) (NP (JJ American) (NN peace) (NNS proposals))))))) (, ,) (CC but) (S (PP (IN at) (NP (NN home))) (NP (NNP Barak)) (VP (MD might) (VP (VB face) (NP (NP (DT a) (JJ devastating) (NN defeat)) (PP (IN in) (NP (DT the) (JJ forthcoming) (NNS elections))))))) (. .)))
+PaulPaulNNPPERSONPER0AdamsAdamsNNPPERSONPER0reportsreportVBZOPER0...OPER0(ROOT (S (NP (NNP Paul) (NNP Adams)) (VP (VBZ reports)) (. .)))
+IsraelIsraelNNPGPEPER0's'sPOSOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0isbeVBZOPER0ininINOPER0troubletroubleNNOPER0...OPER0(ROOT (S (NP (NP (NNP Israel) (POS 's)) (NNP Prime) (NNP Minister)) (VP (VBZ is) (PP (IN in) (NP (NN trouble)))) (. .)))
+HishePRP$OPER0effortseffortNNSOPER0totoTOOPER0reachreachVBOPER0aaDTOPER0comprehensivecomprehensiveJJOPER0peacepeaceNNOPER0agreementagreementNNOPER0withwithINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0havehaveVBPOPER0sosoRBOPER0farfarRBOPER0yieldedyieldVBNOPER0nothingnothingNNOPER0...OPER0(ROOT (S (NP (PRP$ His) (NNS efforts) (S (VP (TO to) (VP (VB reach) (NP (NP (DT a) (JJ comprehensive) (NN peace) (NN agreement)) (PP (IN with) (NP (DT the) (NNPS Palestinians)))))))) (VP (VBP have) (ADVP (RB so) (RB far)) (VP (VBN yielded) (NP (NN nothing)))) (. .)))
+NownowRBOPER0withwithINOPER0lesslessJJRDATEPER0thanthanINDATEPER055CDDATEPER0weeksweekNNSDATEPER0totoTOOPER0gogoVBOPER0beforebeforeINOPER0electionselectionNNSOPER0,,,OPER0thetheDTOPER0latestlatestJJSOPER0opinionopinionNNOPER0pollpollNNOPER0suggestssuggestVBZOPER0hehePRPOPER0isbeVBZOPER0ininRBOPER0forforINOPER0aaDTOPER0drubbingdrubbingNNOPER0atatINOPER0thetheDTOPER0handshandNNSOPER0ofofINOPER0hishePRP$OPER0rightrightJJOPER0wingwingNNOPER0challengerchallengerNNOPER0ArielArielNNPPERSONPER0SharonSharonNNPPERSONPER0...OPER0(ROOT (S (PP (ADVP (RB Now)) (IN with) (NP (NP (QP (XS (JJR less) (IN than)) (CD 5)) (NNS weeks)) (SBAR (S (VP (TO to) (VP (VB go) (PP (IN before) (NP (NNS elections))))))))) (, ,) (NP (DT the) (JJS latest) (NN opinion) (NN poll)) (VP (VBZ suggests) (SBAR (S (NP (PRP he)) (VP (VBZ is) (ADVP (RB in)) (PP (IN for) (NP (DT a) (NN drubbing))) (PP (IN at) (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (PRP$ his) (NML (NML (JJ right) (NN wing)) (NN challenger)) (NNP Ariel) (NNP Sharon))))))))) (. .)))
+ForforINOPER0thetheDTOPER0firstfirstJJORDINALPER0timetimeNNOPER0Mr.Mr.NNPOPER0SharonSharonNNPPERSONPER0hashaveVBZOPER0toppedtopVBNOPER05050CDPERCENTPER0%%NNPERCENTPER0withwithINOPER0Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0trailingtrailVBGOPER0bybyINOPER0asasRBCARDINALPER0muchmuchJJCARDINALPER0asasINCARDINALPER02828CDCARDINALPER0pointspointNNSOPER0...OPER0(ROOT (S (PP (IN For) (NP (DT the) (JJ first) (NN time))) (NP (NNP Mr.) (NNP Sharon)) (VP (VBZ has) (VP (VBN topped) (NP (CD 50) (NN %)) (PP (IN with) (S (NP (NNP Mr.) (NNP Barak)) (VP (VBG trailing) (PP (IN by) (NP (QP (RB as) (JJ much) (IN as) (CD 28)) (NNS points)))))))) (. .)))
+IsraelIsraelNNPGPEPER0's'sPOSOPER0politicalpoliticalJJOPER0commentatorscommentatorNNSOPER0arebeVBPOPER0unanimousunanimousJJOPER0...OPER0(ROOT (S (NP (NP (NNP Israel) (POS 's)) (JJ political) (NNS commentators)) (VP (VBP are) (ADJP (JJ unanimous))) (. .)))
+IninINOPER0thetheDTOPER0wordswordNNSOPER0ofofINOPER0oneoneCDCARDINALPER0ofofINOPER0thetheDTOPER0bestbestJJSOPER0,,,OPER0``````OThetheDTOPER1PrimePrimeNNPOPER1MinisterMinisterNNPOPER1's'sPOSOPER1situationsituationNNOPER1isbeVBZOPER1nearlynearlyRBOPER1terminalterminalJJOPER1...OPER1''''''OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (NNS words)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS best))))))) (, ,) (`` ``) (NP (NP (DT The) (NML (NNP Prime) (NNP Minister)) (POS 's)) (NN situation)) (VP (VBZ is) (ADJP (RB nearly) (JJ terminal))) (. .) ('' '')))
+Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0isbeVBZOPER0tryingtryVBGOPER0totoTOOPER0sellsellVBOPER0anaDTOPER0historichistoricJJOPER0peacepeaceNNOPER0agreementagreementNNOPER0totoINOPER0aaDTOPER0publicpublicNNOPER0thatthatWDTOPER0wouldwouldMDOPER0n'tnotRBOPER0evenevenRBOPER0buybuyVBOPER0aaDTOPER0usedusedJJOPER0carcarNNOPER0fromfromINOPER0himhePRPOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Barak)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB sell) (NP (DT an) (JJ historic) (NN peace) (NN agreement)) (PP (IN to) (NP (NP (DT a) (NN public)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (RB n't) (ADVP (RB even)) (VP (VB buy) (NP (DT a) (JJ used) (NN car)) (PP (IN from) (NP (PRP him)))))))))))))) (. .)))
+PaulPaulNNPPERSONPER0AdamsAdamsNNPPERSONPER0,,,OPER0BBCBBCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Paul) (NNP Adams)) (, ,) (NP (NNP BBC) (NNP News)) (, ,) (NP (NNP Jerusalem)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 5 headed by 2 parsed as (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ senior) (JJ Israeli) (NN official))
+sid=2 spanning 0 until 9 headed by 4 parsed as (NP (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak) (POS 's)) (NNP Chief)) (PP (IN of) (NP (NP (NNP Staff)) (NP (NNP Giliad) (NNP Share)))))
+sid=2 spanning 0 until 4 headed by 2 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak) (POS 's))
+sid=2 spanning 11 until 13 headed by 11 parsed as (NP (NNP Israel) (POS 's))
+sid=2 spanning 22 until 32 headed by 22 parsed as (NP (NNP Barak))
+sid=2 spanning 29 until 32 headed by 31 parsed as (NP (DT the) (JJ forthcoming) (NNS elections))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Paul) (NNP Adams))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Israel) (POS 's)) (NNP Prime) (NNP Minister))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Israel) (POS 's))
+sid=5 spanning 0 until 1 headed by 0 parsed as His
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NNS elections))
+sid=6 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=6 spanning 26 until 32 headed by 31 parsed as (NP (PRP$ his) (NML (NML (JJ right) (NN wing)) (NN challenger)) (NNP Ariel) (NNP Sharon))
+sid=6 spanning 26 until 27 headed by 26 parsed as his
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (NNP Mr.) (NNP Sharon))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=8 spanning 0 until 2 headed by 0 parsed as (NP (NNP Israel) (POS 's))
+sid=9 spanning 10 until 14 headed by 12 parsed as (NP (DT The) (NML (NNP Prime) (NNP Minister)) (POS 's))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=10 spanning 22 until 23 headed by 22 parsed as (NP (PRP him))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Paul) (NNP Adams))
+sid=11 spanning 3 until 5 headed by 4 parsed as (NP (NNP BBC) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 5 headed by 2 parsed as (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP London))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP I))
+sid=0 spanning 8 until 13 headed by 9 parsed as (NP (NP (NNP James) (NNP Cowling)) (PP (IN for) (NP (DT The) (NNP World))))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT The) (NNP World))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ senior) (JJ Israeli) (NN official))
+sid=1 spanning 6 until 12 headed by 6 parsed as (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Washington))) (PP (IN with) (NP (NNP President) (NNP Clinton))))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Washington))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NNP President) (NNP Clinton))
+sid=2 spanning 0 until 9 headed by 4 parsed as (NP (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak) (POS 's)) (NNP Chief)) (PP (IN of) (NP (NP (NNP Staff)) (NP (NNP Giliad) (NNP Share)))))
+sid=2 spanning 0 until 4 headed by 2 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak) (POS 's))
+sid=2 spanning 6 until 9 headed by 6 parsed as (NP (NP (NNP Staff)) (NP (NNP Giliad) (NNP Share)))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NNP Giliad) (NNP Share))
+sid=2 spanning 11 until 18 headed by 13 parsed as (NP (NP (NP (NNP Israel) (POS 's)) (NN response)) (PP (IN to) (NP (JJ American) (NN peace) (NNS proposals))))
+sid=2 spanning 11 until 13 headed by 11 parsed as (NP (NNP Israel) (POS 's))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (JJ American) (NN peace) (NNS proposals))
+sid=2 spanning 22 until 23 headed by 22 parsed as (NP (NNP Barak))
+sid=2 spanning 25 until 32 headed by 27 parsed as (NP (NP (DT a) (JJ devastating) (NN defeat)) (PP (IN in) (NP (DT the) (JJ forthcoming) (NNS elections))))
+sid=2 spanning 29 until 32 headed by 31 parsed as (NP (DT the) (JJ forthcoming) (NNS elections))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Paul) (NNP Adams))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Israel) (POS 's)) (NNP Prime) (NNP Minister))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Israel) (POS 's))
+sid=5 spanning 0 until 11 headed by 1 parsed as (NP (PRP$ His) (NNS efforts) (S (VP (TO to) (VP (VB reach) (NP (NP (DT a) (JJ comprehensive) (NN peace) (NN agreement)) (PP (IN with) (NP (DT the) (NNPS Palestinians))))))))
+sid=5 spanning 0 until 1 headed by 0 parsed as (PRP$ His)
+sid=5 spanning 4 until 11 headed by 7 parsed as (NP (NP (DT a) (JJ comprehensive) (NN peace) (NN agreement)) (PP (IN with) (NP (DT the) (NNPS Palestinians))))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNPS Palestinians))
+sid=6 spanning 2 until 10 headed by 5 parsed as (NP (NP (QP (XS (JJR less) (IN than)) (CD 5)) (NNS weeks)) (SBAR (S (VP (TO to) (VP (VB go) (PP (IN before) (NP (NNS elections))))))))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NNS elections))
+sid=6 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (JJS latest) (NN opinion) (NN poll))
+sid=6 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=6 spanning 20 until 22 headed by 21 parsed as (NP (DT a) (NN drubbing))
+sid=6 spanning 23 until 32 headed by 24 parsed as (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (PRP$ his) (NML (NML (JJ right) (NN wing)) (NN challenger)) (NNP Ariel) (NNP Sharon))))
+sid=6 spanning 26 until 32 headed by 31 parsed as (NP (PRP$ his) (NML (NML (JJ right) (NN wing)) (NN challenger)) (NNP Ariel) (NNP Sharon))
+sid=6 spanning 26 until 27 headed by 26 parsed as (PRP$ his)
+sid=7 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (JJ first) (NN time))
+sid=7 spanning 2 until 3 headed by 2 parsed as first
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (NNP Mr.) (NNP Sharon))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=7 spanning 15 until 20 headed by 19 parsed as (NP (QP (RB as) (JJ much) (IN as) (CD 28)) (NNS points))
+sid=8 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Israel) (POS 's)) (JJ political) (NNS commentators))
+sid=8 spanning 0 until 2 headed by 0 parsed as (NP (NNP Israel) (POS 's))
+sid=9 spanning 1 until 8 headed by 2 parsed as (NP (NP (DT the) (NNS words)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS best))))))
+sid=9 spanning 4 until 8 headed by 4 parsed as (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS best))))
+sid=9 spanning 10 until 15 headed by 14 parsed as (NP (NP (DT The) (NML (NNP Prime) (NNP Minister)) (POS 's)) (NN situation))
+sid=9 spanning 10 until 14 headed by 12 parsed as (NP (DT The) (NML (NNP Prime) (NNP Minister)) (POS 's))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=10 spanning 6 until 10 headed by 9 parsed as (NP (DT an) (JJ historic) (NN peace) (NN agreement))
+sid=10 spanning 11 until 23 headed by 12 parsed as (NP (NP (DT a) (NN public)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (RB n't) (ADVP (RB even)) (VP (VB buy) (NP (DT a) (JJ used) (NN car)) (PP (IN from) (NP (PRP him))))))))
+sid=10 spanning 18 until 21 headed by 20 parsed as (NP (DT a) (JJ used) (NN car))
+sid=10 spanning 22 until 23 headed by 22 parsed as (NP (PRP him))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Paul) (NNP Adams))
+sid=11 spanning 3 until 5 headed by 4 parsed as (NP (NNP BBC) (NNP News))
+sid=11 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+6 11 | { 'the forthcoming elections' 'elections' }
+12 10 5 3 18 16 19 14 8 20 | { 'he' 'His' 'Barak might face a devastating defeat in the forthcoming elections' 'Prime Minister Barak 's' 'The Prime Minister 's' 'Mr. Barak' 'Mr. Barak' 'his' 'Israel 's Prime Minister' 'him' }
+1 2 | { 'A senior Israeli official' 'Prime Minister Barak 's Chief of Staff Giliad Share' }
+7 21 | { 'Paul Adams' 'Paul Adams' }
+4 17 9 | { 'Israel 's' 'Israel 's' 'Israel 's' }
+22 0 | { 'BBC News' 'BBC News in London' }
+13 15 | { 'his right wing challenger Ariel Sharon' 'Mr. Sharon' }
+(end gold clusters)

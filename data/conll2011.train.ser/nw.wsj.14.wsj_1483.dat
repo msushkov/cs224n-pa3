@@ -1,0 +1,56 @@
+---------gloss--------
+(0) [31m{MCI COMMUNICATIONS Corp.}[0m said [31m{it}[0m filed [34m{a shelf registration}[0m with [33m{the Securities and Exchange Commission}[0m for issuance of [32m{as much as $ 750 million of debt securities}[0m . 
+(1) [32m{The debt}[0m will include medium - term notes sold through Merrill Lynch Capital Markets ; Drexel Burnham Lambert Inc. ; Goldman , Sachs & Co. and Salomon Brothers Inc . 
+(2) [32m{The funds}[0m will be used for refinancing existing debt of [31m{the Washington , D.C. , concern}[0m at lower interest rates and for other general purposes . 
+(3) The effective date of [34m{the registration}[0m is to be determined by [33m{the SEC}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1483); part 000
+sentences:
+MCIMCINNPORGPER0COMMUNICATIONSCOMMUNICATIONSNNPSORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0filedfileVBDOPER0aaDTOPER0shelfshelfNNOPER0registrationregistrationNNOPER0withwithINOPER0thetheDTORGPER0SecuritiesSecuritiesNNPSORGPER0andandCCORGPER0ExchangeExchangeNNPORGPER0CommissionCommissionNNPORGPER0forforINOPER0issuanceissuanceNNOPER0ofofINOPER0asasRBMONEYPER0muchmuchJJMONEYPER0asasINMONEYPER0$$$MONEYPER0750750CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0debtdebtNNOPER0securitiessecurityNNSOPER0...OPER0(ROOT (S (NP (NNP MCI) (NNPS COMMUNICATIONS) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD filed) (NP (NP (DT a) (NN shelf) (NN registration)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission)))) (PP (IN for) (NP (NP (NN issuance)) (PP (IN of) (NP (NP (QP (RB as) (JJ much) (IN as) ($ $) (CD 750) (CD million))) (PP (IN of) (NP (NN debt) (NNS securities))))))))))) (. .)))
+ThetheDTOPER0debtdebtNNOPER0willwillMDOPER0includeincludeVBOPER0mediummediumJJOPER0--HYPHOPER0termtermNNOPER0notesnoteNNSOPER0soldsellVBNOPER0throughthroughINOPER0MerrillMerrillNNPORGPER0LynchLynchNNPORGPER0CapitalCapitalNNPORGPER0MarketsMarketsNNPORGPER0;;:OPER0DrexelDrexelNNPORGPER0BurnhamBurnhamNNPORGPER0LambertLambertNNPORGPER0Inc.Inc.NNPORGPER0;;:OPER0GoldmanGoldmanNNPORGPER0,,,ORGPER0SachsSachsNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0andandCCOPER0SalomonSalomonNNPORGPER0BrothersBrothersNNPSORGPER0IncIncNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NN debt)) (VP (MD will) (VP (VB include) (NP (NP (NP (NML (JJ medium) (HYPH -) (NN term)) (NNS notes)) (VP (VBN sold) (PP (IN through) (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets))))) (: ;) (NP (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.)) (: ;) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co.)) (CC and) (NP (NNP Salomon) (NNPS Brothers) (NNP Inc)))))) (. .)))
+ThetheDTOPER0fundsfundNNSOPER0willwillMDOPER0bebeVBOPER0useduseVBNOPER0forforINOPER0refinancingrefinanceVBGOPER0existingexistVBGOPER0debtdebtNNOPER0ofofINOPER0thetheDTOPER0WashingtonWashingtonNNPGPEPER0,,,OPER0D.C.D.C.NNPGPEPER0,,,OPER0concernconcernNNOPER0atatINOPER0lowerlowerJJROPER0interestinterestNNOPER0ratesrateNNSOPER0andandCCOPER0forforINOPER0otherotherJJOPER0generalgeneralJJOPER0purposespurposeNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNS funds)) (VP (MD will) (VP (VB be) (VP (VBN used) (PP (PP (IN for) (S (VP (VBG refinancing) (NP (NP (VBG existing) (NN debt)) (PP (IN of) (NP (DT the) (NML (NNP Washington) (, ,) (NNP D.C.) (, ,)) (NN concern)))) (PP (IN at) (NP (JJR lower) (NN interest) (NNS rates)))))) (CC and) (PP (IN for) (NP (JJ other) (JJ general) (NNS purposes))))))) (. .)))
+ThetheDTOPER0effectiveeffectiveJJOPER0datedateNNOPER0ofofINOPER0thetheDTOPER0registrationregistrationNNOPER0isbeVBZOPER0totoTOOPER0bebeVBOPER0determineddetermineVBNOPER0bybyINOPER0thetheDTOPER0SECSECNNPORGPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ effective) (NN date)) (PP (IN of) (NP (DT the) (NN registration)))) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN determined) (PP (IN by) (NP (DT the) (NNP SEC)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP MCI) (NNPS COMMUNICATIONS) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (NP (DT a) (NN shelf) (NN registration)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))))
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))
+sid=0 spanning 18 until 27 headed by 21 parsed as (NP (NP (QP (RB as) (JJ much) (IN as) ($ $) (CD 750) (CD million))) (PP (IN of) (NP (NN debt) (NNS securities))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN debt))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS funds))
+sid=2 spanning 10 until 16 headed by 15 parsed as (NP (DT the) (NML (NNP Washington) (, ,) (NNP D.C.) (, ,)) (NN concern))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN registration))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNP SEC))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP MCI) (NNPS COMMUNICATIONS) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 15 headed by 8 parsed as (NP (NP (DT a) (NN shelf) (NN registration)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))))
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))
+sid=0 spanning 16 until 27 headed by 16 parsed as (NP (NP (NN issuance)) (PP (IN of) (NP (NP (QP (RB as) (JJ much) (IN as) ($ $) (CD 750) (CD million))) (PP (IN of) (NP (NN debt) (NNS securities))))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN debt))
+sid=1 spanning 4 until 29 headed by 7 parsed as (NP (NP (NP (NML (JJ medium) (HYPH -) (NN term)) (NNS notes)) (VP (VBN sold) (PP (IN through) (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets))))) (: ;) (NP (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.)) (: ;) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co.)) (CC and) (NP (NNP Salomon) (NNPS Brothers) (NNP Inc))))
+sid=1 spanning 10 until 14 headed by 13 parsed as (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets))
+sid=1 spanning 15 until 29 headed by 18 parsed as (NP (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.)) (: ;) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co.)) (CC and) (NP (NNP Salomon) (NNPS Brothers) (NNP Inc)))
+sid=1 spanning 20 until 25 headed by 20 parsed as (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co.))
+sid=1 spanning 26 until 29 headed by 28 parsed as (NP (NNP Salomon) (NNPS Brothers) (NNP Inc))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS funds))
+sid=2 spanning 7 until 16 headed by 8 parsed as (NP (NP (VBG existing) (NN debt)) (PP (IN of) (NP (DT the) (NML (NNP Washington) (, ,) (NNP D.C.) (, ,)) (NN concern))))
+sid=2 spanning 10 until 16 headed by 15 parsed as (NP (DT the) (NML (NNP Washington) (, ,) (NNP D.C.) (, ,)) (NN concern))
+sid=2 spanning 11 until 12 headed by 11 parsed as Washington
+sid=2 spanning 13 until 14 headed by 13 parsed as D.C.
+sid=2 spanning 17 until 20 headed by 19 parsed as (NP (JJR lower) (NN interest) (NNS rates))
+sid=2 spanning 22 until 25 headed by 24 parsed as (NP (JJ other) (JJ general) (NNS purposes))
+sid=3 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (JJ effective) (NN date)) (PP (IN of) (NP (DT the) (NN registration))))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN registration))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNP SEC))
+(end predicted mentions)
+---------gold clusters--------
+7 1 0 | { 'the Washington , D.C. , concern' 'it' 'MCI COMMUNICATIONS Corp.' }
+4 5 6 | { 'as much as $ 750 million of debt securities' 'The debt' 'The funds' }
+3 9 | { 'the Securities and Exchange Commission' 'the SEC' }
+8 2 | { 'the registration' 'a shelf registration' }
+(end gold clusters)

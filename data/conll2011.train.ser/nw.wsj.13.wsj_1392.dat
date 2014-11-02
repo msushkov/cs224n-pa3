@@ -1,0 +1,45 @@
+---------gloss--------
+(0) [3m[35m{Roche Holding AG , parent of the Swiss chemical and pharmaceutical group ,}[0m said [3m[35m{its}[0m group sales rose 22 % in the first nine months of [3m[36m{the year}[0m to 7.32 billion francs -LRB- $ 4.51 billion -RRB- . 
+(1) [3m[35m{The company}[0m reported good gains in all of [3m[35m{its}[0m divisions . 
+(2) [3m[35m{Roche}[0m also said [3m[35m{it}[0m expects a `` considerable rise '' in [3m[36m{1989}[0m group profit from the 641.5 million - franc -LRB- $ 396 million -RRB- net in 1988 . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1392); part 000
+sentences:
+RocheRocheNNPORGPER0HoldingHoldingNNPORGPER0AGAGNNPORGPER0,,,OPER0parentparentNNOPER0ofofINOPER0thetheDTOPER0SwissSwissNNPOPER0chemicalchemicalNNOPER0andandCCOPER0pharmaceuticalpharmaceuticalNNOPER0groupgroupNNOPER0,,,OPER0saidsayVBDOPER0itsitsPRP$OPER0groupgroupNNOPER0salessaleNNSOPER0roseriseVBDOPER02222CDPERCENTPER0%%NNPERCENTPER0ininINOPER0thetheDTDATEPER0firstfirstJJDATEPER0ninenineCDDATEPER0monthsmonthNNSDATEPER0ofofINDATEPER0thetheDTDATEPER0yearyearNNDATEPER0totoINOPER07.327.32CDMONEYPER0billionbillionCDMONEYPER0francsfrancNNSMONEYPER0-LRB--lrb--LRB-OPER0$$$MONEYPER04.514.51CDMONEYPER0billionbillionCDMONEYPER0-RRB--rrb--RRB-OPER0...OPER0(ROOT (S (NP (NP (NNP Roche) (NNP Holding) (NNP AG)) (, ,) (NP (NP (NN parent)) (PP (IN of) (NP (DT the) (NNP Swiss) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN group)))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN group) (NNS sales)) (VP (VBD rose) (NP (CD 22) (NN %)) (PP (IN in) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))) (PP (IN to) (NP (NP (QP (CD 7.32) (CD billion)) (NNS francs)) (-LRB- -LRB-) (NP (QP ($ $) (CD 4.51) (CD billion))) (-RRB- -RRB-))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0reportedreportVBDOPER0goodgoodJJOPER0gainsgainNNSOPER0ininINOPER0allallDTOPER0ofofINOPER0itsitsPRP$OPER0divisionsdivisionNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (VP (VBD reported) (NP (NP (JJ good) (NNS gains)) (PP (IN in) (NP (NP (DT all)) (PP (IN of) (NP (PRP$ its) (NNS divisions))))))) (. .)))
+RocheRocheNNPORGPER0alsoalsoRBOPER0saidsayVBDOPER0ititPRPOPER0expectsexpectVBZOPER0aaDTOPER0``````OconsiderableconsiderableJJOPER1riseriseNNOPER1''''''OPER0ininINOPER019891989CDDATEPER0groupgroupNNOPER0profitprofitNNOPER0fromfromINOPER0thetheDTOPER0641.5641.5CDMONEYPER0millionmillionCDMONEYPER0--HYPHMONEYPER0francfrancNNMONEYPER0-LRB--lrb--LRB-OPER0$$$MONEYPER0396396CDMONEYPER0millionmillionCDMONEYPER0-RRB--rrb--RRB-OPER0netnetNNOPER0ininINOPER019881988CDDATEPER0...OPER0(ROOT (S (NP (NNP Roche)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (NP (NP (DT a) (`` ``) (JJ considerable) (NN rise) ('' '')) (PP (IN in) (NP (CD 1989) (NN group) (NN profit)))) (PP (IN from) (NP (DT the) (NML (NML (QP (CD 641.5) (CD million)) (HYPH -) (NN franc)) (-LRB- -LRB-) (NML (QP ($ $) (CD 396) (CD million))) (-RRB- -RRB-)) (NN net))) (PP (IN in) (NP (CD 1988))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 13 headed by 2 parsed as (NP (NP (NNP Roche) (NNP Holding) (NNP AG)) (, ,) (NP (NP (NN parent)) (PP (IN of) (NP (DT the) (NNP Swiss) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN group)))) (, ,))
+sid=0 spanning 14 until 15 headed by 14 parsed as its
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NN year))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=1 spanning 8 until 9 headed by 8 parsed as its
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Roche))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=2 spanning 11 until 12 headed by 11 parsed as 1989
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Roche) (NNP Holding) (NNP AG)) (, ,) (NP (NP (NN parent)) (PP (IN of) (NP (DT the) (NNP Swiss) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN group)))) (, ,))
+sid=0 spanning 0 until 13 headed by 2 parsed as (NP (NP (NNP Roche) (NNP Holding) (NNP AG)) (, ,) (NP (NP (NN parent)) (PP (IN of) (NP (DT the) (NNP Swiss) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN group)))) (, ,))
+sid=0 spanning 4 until 12 headed by 4 parsed as (NP (NP (NN parent)) (PP (IN of) (NP (DT the) (NNP Swiss) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN group))))
+sid=0 spanning 6 until 12 headed by 11 parsed as (NP (DT the) (NNP Swiss) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN group))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (PRP$ its) (NN group) (NNS sales))
+sid=0 spanning 14 until 15 headed by 14 parsed as (PRP$ its)
+sid=0 spanning 21 until 28 headed by 24 parsed as (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=1 spanning 3 until 10 headed by 4 parsed as (NP (NP (JJ good) (NNS gains)) (PP (IN in) (NP (NP (DT all)) (PP (IN of) (NP (PRP$ its) (NNS divisions))))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Roche))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=2 spanning 5 until 14 headed by 8 parsed as (NP (NP (DT a) (`` ``) (JJ considerable) (NN rise) ('' '')) (PP (IN in) (NP (CD 1989) (NN group) (NN profit))))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (CD 1989) (NN group) (NN profit))
+sid=2 spanning 11 until 12 headed by 11 parsed as 1989
+sid=2 spanning 15 until 26 headed by 25 parsed as (NP (DT the) (NML (NML (QP (CD 641.5) (CD million)) (HYPH -) (NN franc)) (-LRB- -LRB-) (NML (QP ($ $) (CD 396) (CD million))) (-RRB- -RRB-)) (NN net))
+sid=2 spanning 27 until 28 headed by 27 parsed as (NP (CD 1988))
+(end predicted mentions)
+---------gold clusters--------
+1 6 3 4 0 5 | { 'its' 'it' 'The company' 'its' 'Roche Holding AG , parent of the Swiss chemical and pharmaceutical group ,' 'Roche' }
+2 7 | { 'the year' '1989' }
+(end gold clusters)

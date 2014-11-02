@@ -1,0 +1,46 @@
+---------gloss--------
+(0) [33m{Albert Fried Jr. , a 59 - year - old director and holder of a 9.5 % stake in the company ,}[0m was named chairman of [32m{this maker of products for the construction equipment , material handling and railroad industries}[0m . 
+(1) [33m{He}[0m succeeds L.L. White Jr. , 62 , who resigned but continues as a director . 
+(2) [33m{Mr. Fried}[0m also is the managing partner of Albert Fried & Co . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1224); part 000
+sentences:
+AlbertAlbertNNPPERSONPER0FriedFriedNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER0aaDTOPER05959CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0directordirectorNNOPER0andandCCOPER0holderholderNNOPER0ofofINOPER0aaDTOPER09.59.5CDPERCENTPER0%%NNPERCENTPER0stakestakeNNOPER0ininINOPER0thetheDTOPER0companycompanyNNOPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0chairmanchairmanNNOPER0ofofINOPER0thisthisDTOPER0makermakerNNOPER0ofofINOPER0productsproductNNSOPER0forforINOPER0thetheDTOPER0constructionconstructionNNOPER0equipmentequipmentNNOPER0,,,OPER0materialmaterialNNOPER0handlinghandlingNNOPER0andandCCOPER0railroadrailroadNNOPER0industriesindustryNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Albert) (NNP Fried) (NNP Jr.)) (, ,) (NP (NP (NP (DT a) (ADJP (NML (CD 59) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN director)) (CC and) (NP (NN holder))) (PP (IN of) (NP (NP (DT a) (NML (CD 9.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN company)))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN chairman)) (PP (IN of) (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (DT the) (NML (NML (NN construction) (NN equipment)) (, ,) (NML (NN material) (NN handling)) (CC and) (NML (NN railroad))) (NNS industries))))))))))) (. .)))
+HehePRPOPER0succeedssucceedVBZOPER0L.L.L.L.NNPPERSONPER0WhiteWhiteNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER06262CDDATEPER0,,,OPER0whowhoWPOPER0resignedresignVBDOPER0butbutCCOPER0continuescontinueVBZOPER0asasINOPER0aaDTOPER0directordirectorNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ succeeds) (NP (NP (NP (NNP L.L.) (NNP White) (NNP Jr.)) (, ,) (NP (CD 62))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD resigned)) (CC but) (VP (VBZ continues) (PP (IN as) (NP (DT a) (NN director))))))))) (. .)))
+Mr.Mr.NNPOPER0FriedFriedNNPPERSONPER0alsoalsoRBOPER0isbeVBZOPER0thetheDTOPER0managingmanageVBGOPER0partnerpartnerNNOPER0ofofINOPER0AlbertAlbertNNPORGPER0FriedFriedNNPORGPER0&&CCORGPER0CoCoNNPORGPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Fried)) (ADVP (RB also)) (VP (VBZ is) (NP (NP (DT the) (VBG managing) (NN partner)) (PP (IN of) (NP (NNP Albert) (NNP Fried) (CC &) (NNP Co))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 22 headed by 2 parsed as (NP (NP (NNP Albert) (NNP Fried) (NNP Jr.)) (, ,) (NP (NP (NP (DT a) (ADJP (NML (CD 59) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN director)) (CC and) (NP (NN holder))) (PP (IN of) (NP (NP (DT a) (NML (CD 9.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN company)))))) (, ,))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN company))
+sid=0 spanning 26 until 40 headed by 27 parsed as (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (DT the) (NML (NML (NN construction) (NN equipment)) (, ,) (NML (NN material) (NN handling)) (CC and) (NML (NN railroad))) (NNS industries))))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Fried))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Albert) (NNP Fried) (NNP Jr.)) (, ,) (NP (NP (NP (DT a) (ADJP (NML (CD 59) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN director)) (CC and) (NP (NN holder))) (PP (IN of) (NP (NP (DT a) (NML (CD 9.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN company)))))) (, ,))
+sid=0 spanning 0 until 22 headed by 2 parsed as (NP (NP (NNP Albert) (NNP Fried) (NNP Jr.)) (, ,) (NP (NP (NP (DT a) (ADJP (NML (CD 59) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN director)) (CC and) (NP (NN holder))) (PP (IN of) (NP (NP (DT a) (NML (CD 9.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN company)))))) (, ,))
+sid=0 spanning 4 until 21 headed by 10 parsed as (NP (NP (NP (DT a) (ADJP (NML (CD 59) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN director)) (CC and) (NP (NN holder))) (PP (IN of) (NP (NP (DT a) (NML (CD 9.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN company))))))
+sid=0 spanning 4 until 11 headed by 10 parsed as (NP (DT a) (ADJP (NML (CD 59) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN director))
+sid=0 spanning 5 until 10 headed by 9 parsed as old
+sid=0 spanning 14 until 21 headed by 17 parsed as (NP (NP (DT a) (NML (CD 9.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN company))))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN company))
+sid=0 spanning 24 until 40 headed by 24 parsed as (NP (NP (NN chairman)) (PP (IN of) (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (DT the) (NML (NML (NN construction) (NN equipment)) (, ,) (NML (NN material) (NN handling)) (CC and) (NML (NN railroad))) (NNS industries))))))))
+sid=0 spanning 26 until 40 headed by 27 parsed as (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (DT the) (NML (NML (NN construction) (NN equipment)) (, ,) (NML (NN material) (NN handling)) (CC and) (NML (NN railroad))) (NNS industries))))))
+sid=0 spanning 29 until 40 headed by 29 parsed as (NP (NP (NNS products)) (PP (IN for) (NP (DT the) (NML (NML (NN construction) (NN equipment)) (, ,) (NML (NN material) (NN handling)) (CC and) (NML (NN railroad))) (NNS industries))))
+sid=0 spanning 31 until 40 headed by 39 parsed as (NP (DT the) (NML (NML (NN construction) (NN equipment)) (, ,) (NML (NN material) (NN handling)) (CC and) (NML (NN railroad))) (NNS industries))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 5 headed by 4 parsed as (NP (NP (NP (NNP L.L.) (NNP White) (NNP Jr.)) (, ,) (NP (CD 62))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD resigned)) (CC but) (VP (VBZ continues) (PP (IN as) (NP (DT a) (NN director))))))))
+sid=1 spanning 2 until 15 headed by 4 parsed as (NP (NP (NP (NNP L.L.) (NNP White) (NNP Jr.)) (, ,) (NP (CD 62))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD resigned)) (CC but) (VP (VBZ continues) (PP (IN as) (NP (DT a) (NN director))))))))
+sid=1 spanning 2 until 7 headed by 4 parsed as (NP (NP (NNP L.L.) (NNP White) (NNP Jr.)) (, ,) (NP (CD 62)))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (CD 62))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT a) (NN director))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Fried))
+sid=2 spanning 4 until 12 headed by 6 parsed as (NP (NP (DT the) (VBG managing) (NN partner)) (PP (IN of) (NP (NNP Albert) (NNP Fried) (CC &) (NNP Co))))
+sid=2 spanning 8 until 12 headed by 9 parsed as (NP (NNP Albert) (NNP Fried) (CC &) (NNP Co))
+(end predicted mentions)
+---------gold clusters--------
+1 2 | { 'the company' 'this maker of products for the construction equipment , material handling and railroad industries' }
+4 3 0 | { 'Mr. Fried' 'He' 'Albert Fried Jr. , a 59 - year - old director and holder of a 9.5 % stake in the company ,' }
+(end gold clusters)

@@ -1,0 +1,24 @@
+---------gloss--------
+(0) The explosion in Yemen did not help an already tense situation in the Middle East , but there is the very slightest hope tonight , because there 's word of a possible Israeli / Palestinian summit in Egypt in the next several days . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0008); part 000
+sentences:
+ThetheDTOPER0explosionexplosionNNOPER0ininINOPER0YemenYemenNNPGPEPER0diddoVBDOPER0notnotRBOPER0helphelpVBOPER0anaDTOPER0alreadyalreadyRBOPER0tensetenseJJOPER0situationsituationNNOPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0,,,OPER0butbutCCOPER0therethereEXOPER0isbeVBZOPER0thetheDTOPER0veryveryRBOPER0slightestslightestJJSOPER0hopehopeNNOPER0tonighttonightNNTIMEPER0,,,OPER0becausebecauseINOPER0therethereEXOPER0'sbeVBZOPER0wordwordNNOPER0ofofINOPER0aaDTOPER0possiblepossibleJJOPER0IsraeliisraeliJJOPER0//SYMOPER0PalestinianpalestinianJJOPER0summitsummitNNOPER0ininINOPER0EgyptEgyptNNPGPEPER0ininINOPER0thetheDTDATEPER0nextnextJJDATEPER0severalseveralJJDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (S (NP (NP (DT The) (NN explosion)) (PP (IN in) (NP (NNP Yemen)))) (VP (VBD did) (RB not) (VP (VB help) (NP (NP (DT an) (ADJP (RB already) (JJ tense)) (NN situation)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))))) (, ,) (CC but) (S (NP (EX there)) (VP (VBZ is) (NP (DT the) (ADJP (RB very) (JJS slightest)) (NN hope) (NN tonight)) (, ,) (SBAR (IN because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NN word)) (PP (IN of) (NP (NP (DT a) (JJ possible) (ADJP (JJ Israeli) (SYM /) (JJ Palestinian)) (NN summit)) (PP (IN in) (NP (NNP Egypt))) (PP (IN in) (NP (DT the) (JJ next) (JJ several) (NNS days))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN explosion)) (PP (IN in) (NP (NNP Yemen))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Yemen))
+sid=0 spanning 7 until 15 headed by 10 parsed as (NP (NP (DT an) (ADJP (RB already) (JJ tense)) (NN situation)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=0 spanning 19 until 24 headed by 23 parsed as (NP (DT the) (ADJP (RB very) (JJS slightest)) (NN hope) (NN tonight))
+sid=0 spanning 28 until 43 headed by 28 parsed as (NP (NP (NN word)) (PP (IN of) (NP (NP (DT a) (JJ possible) (ADJP (JJ Israeli) (SYM /) (JJ Palestinian)) (NN summit)) (PP (IN in) (NP (NNP Egypt))) (PP (IN in) (NP (DT the) (JJ next) (JJ several) (NNS days))))))
+sid=0 spanning 30 until 43 headed by 35 parsed as (NP (NP (DT a) (JJ possible) (ADJP (JJ Israeli) (SYM /) (JJ Palestinian)) (NN summit)) (PP (IN in) (NP (NNP Egypt))) (PP (IN in) (NP (DT the) (JJ next) (JJ several) (NNS days))))
+sid=0 spanning 37 until 38 headed by 37 parsed as (NP (NNP Egypt))
+sid=0 spanning 39 until 43 headed by 42 parsed as (NP (DT the) (JJ next) (JJ several) (NNS days))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

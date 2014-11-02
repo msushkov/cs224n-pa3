@@ -1,0 +1,215 @@
+---------gloss--------
+(0) Hello , let 's check out the weather together . 
+(1) Over the weekend , the weather in the South will change significantly . 
+(2) It has been overcast and rainy continuously for nearly 10 days in some places here . 
+(3) This is coming to an end for a while . 
+(4) Although it is still overcast and rainy tomorrow from the eastern part of the southwestern region to [4m[35m{this area south of the Yangtze River}[0m , it will turn cloudy by the day after tomorrow in [4m[35m{the area south of the Yangtze River}[0m . 
+(5) Well , it is a very pleasant thing that the long - awaited sunny weather following a long period of rain should occur on Sunday because people can arrange some outings . 
+(6) However , I need to caution you that as the temperature is not climbing up significantly after the rain is over , the weather will still feel somewhat gloomy and cold . 
+(7) All right . 
+(8) Let 's take a look at [31m{North China}[0m . 
+(9) Tomorrow morning it will be foggy in parts of [31m{North China}[0m . 
+(10) On the weekend winds of forces 4 will blow across the northeast region . 
+(11) In addition , there will be snowfall in southern Gansu . 
+(12) Okay , let 's turn our attention to the city weather forecasts . 
+(13) Beijing , cloudy , 2 to 8 degrees . 
+(14) Harbin , sunny , 11 degrees below zero to zero degree . 
+(15) Changchun , sunny , 9 degrees below zero to 1 degree . 
+(16) Xi'an , cloudy , 6 to 12 degrees . 
+(17) Shijiazhuang , foggy changing to sunny , 1 to 9 degrees . 
+(18) Shanghai , overcast changing to light rain , 11 to 15 degrees . 
+(19) Nanjing , overcast , 8 to 13 degrees . 
+(20) Taipei , light rain , 18 to 22 degrees . 
+(21) Guangzhou , cloudy , 16 to 24 degrees . 
+(22) Dalian , cloudy changing to sunny , 2 to 8 degrees . 
+(23) Luoyang , cloudy , 5 to 13 degrees . 
+(24) Bangkok , cloudy changing to showers , 25 to 34 degrees . 
+(25) New Delhi , sunny , 13 to 29 degrees . 
+(26) Seoul , sunny , 1 degree below zero to 8 degrees . 
+(27) Tokyo , sunny changing to cloudy , 8 to 14 degrees . 
+(28) London , sunny changing to cloudy , 1 degree below zero to 8 degrees . 
+(29) Moscow , medium rain changing to light rain , 1 degree below zero to 2 degrees . 
+(30) Paris , sunny , 1 degree below zero to 9 degrees . 
+(31) Vienna , sunny , 3 to 7 degrees . 
+(32) New York , cloudy , 7 to 9 degrees . 
+(33) Seattle , cloudy changing to sunny , 5 to 8 degrees . 
+(34) Washington , sunny changing to cloudy , 4 to 6 degrees . 
+(end gloss)
+---------document--------
+(bc/cctv/00/cctv_0002); part 020
+sentences:
+HellohelloUHOspeaker#2,,,Ospeaker#2letletVBOspeaker#2's'sPRPOspeaker#2checkcheckVBOspeaker#2outoutRPOspeaker#2thetheDTOspeaker#2weatherweatherNNOspeaker#2togethertogetherRBOspeaker#2...Ospeaker#2(ROOT (S (INTJ (UH Hello)) (, ,) (VP (VB let) (S (NP (PRP 's)) (VP (VB check) (PRT (RP out)) (NP (DT the) (NN weather)))) (ADVP (RB together))) (. .)))
+OveroverINOspeaker#2thetheDTDATEspeaker#2weekendweekendNNDATEspeaker#2,,,Ospeaker#2thetheDTOspeaker#2weatherweatherNNOspeaker#2ininINOspeaker#2thetheDTOspeaker#2SouthSouthNNPLOCspeaker#2willwillMDOspeaker#2changechangeVBOspeaker#2significantlysignificantlyRBOspeaker#2...Ospeaker#2(ROOT (S (PP (IN Over) (NP (DT the) (NN weekend))) (, ,) (NP (NP (DT the) (NN weather)) (PP (IN in) (NP (DT the) (NNP South)))) (VP (MD will) (VP (VB change) (ADVP (RB significantly)))) (. .)))
+ItitPRPOspeaker#2hashaveVBZOspeaker#2beenbeVBNOspeaker#2overcastovercastJJOspeaker#2andandCCOspeaker#2rainyrainyJJOspeaker#2continuouslycontinuouslyRBOspeaker#2forforINOspeaker#2nearlynearlyRBDATEspeaker#21010CDDATEspeaker#2daysdayNNSDATEspeaker#2ininINOspeaker#2somesomeDTOspeaker#2placesplaceNNSOspeaker#2herehereRBOspeaker#2...Ospeaker#2(ROOT (S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ overcast) (CC and) (JJ rainy)) (ADVP (RB continuously)) (PP (IN for) (NP (NP (QP (RB nearly) (CD 10)) (NNS days)) (PP (IN in) (NP (NP (DT some) (NNS places)) (ADVP (RB here)))))))) (. .)))
+ThisthisDTOspeaker#2isbeVBZOspeaker#2comingcomeVBGOspeaker#2totoINOspeaker#2anaDTOspeaker#2endendNNOspeaker#2forforINOspeaker#2aaDTOspeaker#2whilewhileNNOspeaker#2...Ospeaker#2(ROOT (S (NP (DT This)) (VP (VBZ is) (VP (VBG coming) (PP (IN to) (NP (DT an) (NN end))) (PP (IN for) (NP (DT a) (NN while))))) (. .)))
+AlthoughalthoughINOspeaker#2ititPRPOspeaker#2isbeVBZOspeaker#2stillstillRBOspeaker#2overcastovercastJJOspeaker#2andandCCOspeaker#2rainyrainyJJOspeaker#2tomorrowtomorrowNNDATEspeaker#2fromfromINOspeaker#2thetheDTOspeaker#2easterneasternJJOspeaker#2partpartNNOspeaker#2ofofINOspeaker#2thetheDTLOCspeaker#2southwesternsouthwesternJJLOCspeaker#2regionregionNNLOCspeaker#2totoINOspeaker#2thisthisDTOspeaker#2areaareaNNOspeaker#2southsouthRBOspeaker#2ofofINOspeaker#2thetheDTLOCspeaker#2YangtzeYangtzeNNPLOCspeaker#2RiverRiverNNPLOCspeaker#2,,,Ospeaker#2ititPRPOspeaker#2willwillMDOspeaker#2turnturnVBOspeaker#2cloudycloudyJJOspeaker#2bybyINOspeaker#2thetheDTDATEspeaker#2daydayNNDATEspeaker#2afterafterINOspeaker#2tomorrowtomorrowNNDATEspeaker#2ininINOspeaker#2thetheDTOspeaker#2areaareaNNOspeaker#2southsouthRBOspeaker#2ofofINOspeaker#2thetheDTLOCspeaker#2YangtzeYangtzeNNPLOCspeaker#2RiverRiverNNPLOCspeaker#2...Ospeaker#2(ROOT (S (SBAR (IN Although) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ overcast) (CC and) (JJ rainy)) (NP (NN tomorrow)) (PP (PP (IN from) (NP (NP (DT the) (JJ eastern) (NN part)) (PP (IN of) (NP (DT the) (JJ southwestern) (NN region))))) (PP (IN to) (NP (NP (DT this) (NN area)) (ADVP (RB south) (PP (IN of) (NP (DT the) (NNP Yangtze) (NNP River)))))))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB turn) (ADJP (JJ cloudy) (PP (IN by) (NP (NP (DT the) (NN day)) (PP (IN after) (NP (NN tomorrow))) (PP (IN in) (NP (NP (DT the) (NN area)) (ADVP (RB south) (PP (IN of) (NP (DT the) (NNP Yangtze) (NNP River))))))))))) (. .)))
+WellwellUHOspeaker#2,,,Ospeaker#2ititPRPOspeaker#2isbeVBZOspeaker#2aaDTOspeaker#2veryveryRBOspeaker#2pleasantpleasantJJOspeaker#2thingthingNNOspeaker#2thatthatINOspeaker#2thetheDTOspeaker#2longlongRBOspeaker#2--HYPHOspeaker#2awaitedawaitVBNOspeaker#2sunnysunnyJJOspeaker#2weatherweatherNNOspeaker#2followingfollowVBGOspeaker#2aaDTOspeaker#2longlongJJOspeaker#2periodperiodNNOspeaker#2ofofINOspeaker#2rainrainNNOspeaker#2shouldshouldMDOspeaker#2occuroccurVBOspeaker#2ononINOspeaker#2SundaySundayNNPDATEspeaker#2becausebecauseINOspeaker#2peoplepeopleNNSOspeaker#2cancanMDOspeaker#2arrangearrangeVBOspeaker#2somesomeDTOspeaker#2outingsoutingNNSOspeaker#2...Ospeaker#2(ROOT (S (INTJ (UH Well)) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ pleasant)) (NN thing)) (SBAR (IN that) (S (NP (NP (DT the) (ADJP (RB long) (HYPH -) (VBN awaited)) (JJ sunny) (NN weather)) (VP (VBG following) (NP (NP (DT a) (JJ long) (NN period)) (PP (IN of) (NP (NN rain)))))) (VP (MD should) (VP (VB occur) (PP (IN on) (NP (NNP Sunday))) (SBAR (IN because) (S (NP (NNS people)) (VP (MD can) (VP (VB arrange) (NP (DT some) (NNS outings))))))))))) (. .)))
+HoweverhoweverRBOspeaker#2,,,Ospeaker#2IIPRPOspeaker#2needneedVBPOspeaker#2totoTOOspeaker#2cautioncautionVBOspeaker#2youyouPRPOspeaker#2thatthatINOspeaker#2asasINOspeaker#2thetheDTOspeaker#2temperaturetemperatureNNOspeaker#2isbeVBZOspeaker#2notnotRBOspeaker#2climbingclimbVBGOspeaker#2upupRPOspeaker#2significantlysignificantlyRBOspeaker#2afterafterINOspeaker#2thetheDTOspeaker#2rainrainNNOspeaker#2isbeVBZOspeaker#2overoverRBOspeaker#2,,,Ospeaker#2thetheDTOspeaker#2weatherweatherNNOspeaker#2willwillMDOspeaker#2stillstillRBOspeaker#2feelfeelVBOspeaker#2somewhatsomewhatRBOspeaker#2gloomygloomyJJOspeaker#2andandCCOspeaker#2coldcoldJJOspeaker#2...Ospeaker#2(ROOT (S (ADVP (RB However)) (, ,) (NP (PRP I)) (VP (VBP need) (S (VP (TO to) (VP (VB caution) (NP (PRP you)) (SBAR (IN that) (S (SBAR (IN as) (S (NP (DT the) (NN temperature)) (VP (VBZ is) (RB not) (VP (VBG climbing) (PRT (RP up)) (SBAR (ADVP (RB significantly)) (IN after) (S (NP (DT the) (NN rain)) (VP (VBZ is) (ADVP (RB over))))))))) (, ,) (NP (DT the) (NN weather)) (VP (MD will) (ADVP (RB still)) (VP (VB feel) (ADJP (RB somewhat) (JJ gloomy) (CC and) (JJ cold)))))))))) (. .)))
+AllallRBOspeaker#2rightrightRBOspeaker#2...Ospeaker#2(ROOT (ADVP (RB All) (RB right) (. .)))
+LetletVBOspeaker#2's'sPRPOspeaker#2taketakeVBOspeaker#2aaDTOspeaker#2looklookNNOspeaker#2atatINOspeaker#2NorthNorthNNPGPEspeaker#2ChinaChinaNNPGPEspeaker#2...Ospeaker#2(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB take) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNP North) (NNP China))))))) (. .)))
+TomorrowtomorrowNNDATEspeaker#2morningmorningNNTIMEspeaker#2ititPRPOspeaker#2willwillMDOspeaker#2bebeVBOspeaker#2foggyfoggyJJOspeaker#2ininINOspeaker#2partspartNNSOspeaker#2ofofINOspeaker#2NorthNorthNNPGPEspeaker#2ChinaChinaNNPGPEspeaker#2...Ospeaker#2(ROOT (S (NP (NN Tomorrow) (NN morning)) (NP (PRP it)) (VP (MD will) (VP (VB be) (ADJP (JJ foggy)) (PP (IN in) (NP (NP (NNS parts)) (PP (IN of) (NP (NNP North) (NNP China))))))) (. .)))
+OnonINOspeaker#2thetheDTDATEspeaker#2weekendweekendNNDATEspeaker#2windswindNNSOspeaker#2ofofINOspeaker#2forcesforceNNSOspeaker#244CDCARDINALspeaker#2willwillMDOspeaker#2blowblowVBOspeaker#2acrossacrossINOspeaker#2thetheDTOspeaker#2northeastnortheastJJOspeaker#2regionregionNNOspeaker#2...Ospeaker#2(ROOT (S (PP (IN On) (NP (DT the) (NN weekend))) (NP (QP (NNS winds) (IN of) (NNS forces) (CD 4))) (VP (MD will) (VP (VB blow) (PP (IN across) (NP (DT the) (JJ northeast) (NN region))))) (. .)))
+IninINOspeaker#2additionadditionNNOspeaker#2,,,Ospeaker#2therethereEXOspeaker#2willwillMDOspeaker#2bebeVBOspeaker#2snowfallsnowfallNNOspeaker#2ininINOspeaker#2southernsouthernJJOspeaker#2GansuGansuNNPGPEspeaker#2...Ospeaker#2(ROOT (S (PP (IN In) (NP (NN addition))) (, ,) (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (NN snowfall)) (PP (IN in) (NP (JJ southern) (NNP Gansu)))))) (. .)))
+OkayokayUHPERSONspeaker#2,,,Ospeaker#2letletVBOspeaker#2's'sPRPOspeaker#2turnturnVBOspeaker#2ourwePRP$Ospeaker#2attentionattentionNNOspeaker#2totoINOspeaker#2thetheDTOspeaker#2citycityNNOspeaker#2weatherweatherNNOspeaker#2forecastsforecastNNSOspeaker#2...Ospeaker#2(ROOT (S (INTJ (UH Okay)) (, ,) (VP (VB let) (S (NP (PRP 's)) (VP (VB turn) (NP (PRP$ our) (NN attention)) (PP (IN to) (NP (DT the) (NN city) (NN weather) (NNS forecasts)))))) (. .)))
+BeijingBeijingNNPGPEspeaker#2,,,Ospeaker#2cloudycloudyJJOspeaker#2,,,Ospeaker#222CDQUANTITYspeaker#2totoTOQUANTITYspeaker#288CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Beijing)) (, ,) (ADJP (JJ cloudy)) (, ,) (NP (QP (CD 2) (TO to) (CD 8)) (NNS degrees)) (. .)))
+HarbinHarbinNNPORGspeaker#2,,,Ospeaker#2sunnysunnyJJOspeaker#2,,,Ospeaker#21111CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2belowbelowINOspeaker#2zerozeroCDCARDINALspeaker#2totoINOspeaker#2zerozeroCDCARDINALspeaker#2degreedegreeNNOspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Harbin)) (, ,) (ADJP (JJ sunny)) (, ,) (NP (NP (NP (CD 11) (NNS degrees)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD zero) (NN degree)))) (. .)))
+ChangchunChangchunNNPGPEspeaker#2,,,Ospeaker#2sunnysunnyJJOspeaker#2,,,Ospeaker#299CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2belowbelowINOspeaker#2zerozeroCDCARDINALspeaker#2totoINOspeaker#211CDCARDINALspeaker#2degreedegreeNNOspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Changchun)) (, ,) (ADJP (JJ sunny)) (, ,) (NP (NP (NP (CD 9) (NNS degrees)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD 1) (NN degree)))) (. .)))
+Xi'anXi'anNNPGPEspeaker#2,,,Ospeaker#2cloudycloudyJJOspeaker#2,,,Ospeaker#266CDQUANTITYspeaker#2totoTOQUANTITYspeaker#21212CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Xi'an)) (, ,) (ADJP (JJ cloudy)) (, ,) (NP (QP (CD 6) (TO to) (CD 12)) (NNS degrees)) (. .)))
+ShijiazhuangShijiazhuangNNPGPEspeaker#2,,,Ospeaker#2foggyfoggyJJOspeaker#2changingchangeVBGOspeaker#2totoINOspeaker#2sunnysunnyJJOspeaker#2,,,Ospeaker#211CDQUANTITYspeaker#2totoTOQUANTITYspeaker#299CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Shijiazhuang)) (, ,) (NP (NP (JJ foggy)) (VP (VBG changing) (PP (IN to) (NP (JJ sunny))))) (, ,) (NP (QP (CD 1) (TO to) (CD 9)) (NNS degrees)) (. .)))
+ShanghaiShanghaiNNPGPEspeaker#2,,,Ospeaker#2overcastovercastJJOspeaker#2changingchangeVBGOspeaker#2totoINOspeaker#2lightlightJJOspeaker#2rainrainNNOspeaker#2,,,Ospeaker#21111CDCARDINALspeaker#2totoTOOspeaker#21515CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Shanghai)) (, ,) (NP (NP (JJ overcast)) (VP (VBG changing) (PP (IN to) (NP (JJ light) (NN rain))))) (, ,) (NP (QP (CD 11) (TO to) (CD 15)) (NNS degrees)) (. .)))
+NanjingNanjingNNPGPEspeaker#2,,,Ospeaker#2overcastovercastJJOspeaker#2,,,Ospeaker#288CDQUANTITYspeaker#2totoTOQUANTITYspeaker#21313CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Nanjing)) (, ,) (ADJP (JJ overcast)) (, ,) (NP (QP (CD 8) (TO to) (CD 13)) (NNS degrees)) (. .)))
+TaipeiTaipeiNNPGPEspeaker#2,,,Ospeaker#2lightlightJJOspeaker#2rainrainNNOspeaker#2,,,Ospeaker#21818CDCARDINALspeaker#2totoTOOspeaker#22222CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Taipei)) (, ,) (NP (JJ light) (NN rain)) (, ,) (NP (QP (CD 18) (TO to) (CD 22)) (NNS degrees)) (. .)))
+GuangzhouGuangzhouNNPORGspeaker#2,,,Ospeaker#2cloudycloudyJJOspeaker#2,,,Ospeaker#21616CDCARDINALspeaker#2totoTOOspeaker#22424CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Guangzhou)) (, ,) (ADJP (JJ cloudy)) (, ,) (NP (QP (CD 16) (TO to) (CD 24)) (NNS degrees)) (. .)))
+DalianDalianNNPGPEspeaker#2,,,Ospeaker#2cloudycloudyJJOspeaker#2changingchangeVBGOspeaker#2totoINOspeaker#2sunnysunnyJJOspeaker#2,,,Ospeaker#222CDQUANTITYspeaker#2totoTOQUANTITYspeaker#288CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Dalian)) (, ,) (NP (NP (JJ cloudy)) (VP (VBG changing) (PP (IN to) (NP (JJ sunny))))) (, ,) (NP (QP (CD 2) (TO to) (CD 8)) (NNS degrees)) (. .)))
+LuoyangLuoyangNNPOspeaker#2,,,Ospeaker#2cloudycloudyJJOspeaker#2,,,Ospeaker#255CDQUANTITYspeaker#2totoTOQUANTITYspeaker#21313CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Luoyang)) (, ,) (ADJP (JJ cloudy)) (, ,) (NP (QP (CD 5) (TO to) (CD 13)) (NNS degrees)) (. .)))
+BangkokBangkokNNPGPEspeaker#2,,,Ospeaker#2cloudycloudyJJOspeaker#2changingchangeVBGOspeaker#2totoINOspeaker#2showersshowerNNSOspeaker#2,,,Ospeaker#22525CDCARDINALspeaker#2totoTOOspeaker#23434CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Bangkok)) (, ,) (NP (NP (JJ cloudy)) (VP (VBG changing) (PP (IN to) (NP (NNS showers))))) (, ,) (NP (QP (CD 25) (TO to) (CD 34)) (NNS degrees)) (. .)))
+NewNewNNPGPEspeaker#2DelhiDelhiNNPGPEspeaker#2,,,Ospeaker#2sunnysunnyJJOspeaker#2,,,Ospeaker#21313CDCARDINALspeaker#2totoTOOspeaker#22929CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP New) (NNP Delhi)) (, ,) (ADJP (JJ sunny)) (, ,) (NP (QP (CD 13) (TO to) (CD 29)) (NNS degrees)) (. .)))
+SeoulSeoulNNPGPEspeaker#2,,,Ospeaker#2sunnysunnyJJOspeaker#2,,,Ospeaker#211CDCARDINALspeaker#2degreedegreeNNOspeaker#2belowbelowINCARDINALspeaker#2zerozeroCDCARDINALspeaker#2totoINOspeaker#288CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Seoul)) (, ,) (ADJP (JJ sunny)) (, ,) (NP (NP (NP (CD 1) (NN degree)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD 8) (NNS degrees)))) (. .)))
+TokyoTokyoNNPGPEspeaker#2,,,Ospeaker#2sunnysunnyJJOspeaker#2changingchangeVBGOspeaker#2totoINOspeaker#2cloudycloudyJJOspeaker#2,,,Ospeaker#288CDQUANTITYspeaker#2totoTOQUANTITYspeaker#21414CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Tokyo)) (, ,) (NP (NP (JJ sunny)) (VP (VBG changing) (PP (IN to) (NP (JJ cloudy))))) (, ,) (NP (QP (CD 8) (TO to) (CD 14)) (NNS degrees)) (. .)))
+LondonLondonNNPGPEspeaker#2,,,Ospeaker#2sunnysunnyJJOspeaker#2changingchangeVBGOspeaker#2totoINOspeaker#2cloudycloudyJJOspeaker#2,,,Ospeaker#211CDCARDINALspeaker#2degreedegreeNNOspeaker#2belowbelowINCARDINALspeaker#2zerozeroCDCARDINALspeaker#2totoINOspeaker#288CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP London)) (, ,) (NP (NP (JJ sunny)) (VP (VBG changing) (PP (IN to) (NP (JJ cloudy))))) (, ,) (NP (NP (NP (CD 1) (NN degree)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD 8) (NNS degrees)))) (. .)))
+MoscowMoscowNNPGPEspeaker#2,,,Ospeaker#2mediummediumJJOspeaker#2rainrainNNOspeaker#2changingchangeVBGOspeaker#2totoINOspeaker#2lightlightJJOspeaker#2rainrainNNOspeaker#2,,,Ospeaker#211CDCARDINALspeaker#2degreedegreeNNOspeaker#2belowbelowINCARDINALspeaker#2zerozeroCDCARDINALspeaker#2totoINOspeaker#222CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Moscow)) (, ,) (NP (NP (JJ medium) (NN rain)) (VP (VBG changing) (PP (IN to) (NP (JJ light) (NN rain))))) (, ,) (NP (NP (CD 1) (NN degree)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD 2) (NNS degrees))) (. .)))
+ParisParisNNPGPEspeaker#2,,,Ospeaker#2sunnysunnyJJOspeaker#2,,,Ospeaker#211CDCARDINALspeaker#2degreedegreeNNOspeaker#2belowbelowINCARDINALspeaker#2zerozeroCDCARDINALspeaker#2totoINOspeaker#299CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Paris)) (, ,) (ADJP (JJ sunny)) (, ,) (NP (NP (NP (CD 1) (NN degree)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD 9) (NNS degrees)))) (. .)))
+ViennaViennaNNPGPEspeaker#2,,,Ospeaker#2sunnysunnyJJOspeaker#2,,,Ospeaker#233CDQUANTITYspeaker#2totoTOQUANTITYspeaker#277CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Vienna)) (, ,) (ADJP (JJ sunny)) (, ,) (NP (QP (CD 3) (TO to) (CD 7)) (NNS degrees)) (. .)))
+NewNewNNPGPEspeaker#2YorkYorkNNPGPEspeaker#2,,,Ospeaker#2cloudycloudyJJOspeaker#2,,,Ospeaker#277CDQUANTITYspeaker#2totoTOQUANTITYspeaker#299CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP New) (NNP York)) (, ,) (ADJP (JJ cloudy)) (, ,) (NP (QP (CD 7) (TO to) (CD 9)) (NNS degrees)) (. .)))
+SeattleSeattleNNPORGspeaker#2,,,Ospeaker#2cloudycloudyJJOspeaker#2changingchangeVBGOspeaker#2totoINOspeaker#2sunnysunnyJJOspeaker#2,,,Ospeaker#255CDQUANTITYspeaker#2totoTOQUANTITYspeaker#288CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Seattle)) (, ,) (NP (NP (JJ cloudy)) (VP (VBG changing) (PP (IN to) (NP (JJ sunny))))) (, ,) (NP (QP (CD 5) (TO to) (CD 8)) (NNS degrees)) (. .)))
+WashingtonWashingtonNNPGPEspeaker#2,,,Ospeaker#2sunnysunnyJJOspeaker#2changingchangeVBGOspeaker#2totoINOspeaker#2cloudycloudyJJOspeaker#2,,,Ospeaker#244CDQUANTITYspeaker#2totoTOQUANTITYspeaker#266CDQUANTITYspeaker#2degreesdegreeNNSQUANTITYspeaker#2...Ospeaker#2(ROOT (FRAG (NP (NNP Washington)) (, ,) (NP (NP (JJ sunny)) (VP (VBG changing) (PP (IN to) (NP (JJ cloudy))))) (, ,) (NP (QP (CD 4) (TO to) (CD 6)) (NNS degrees)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=4 spanning 17 until 24 headed by 18 parsed as (NP (NP (DT this) (NN area)) (ADVP (RB south) (PP (IN of) (NP (DT the) (NNP Yangtze) (NNP River)))))
+sid=4 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NNP Yangtze) (NNP River))
+sid=4 spanning 35 until 42 headed by 36 parsed as (NP (NP (DT the) (NN area)) (ADVP (RB south) (PP (IN of) (NP (DT the) (NNP Yangtze) (NNP River)))))
+sid=4 spanning 39 until 42 headed by 41 parsed as (NP (DT the) (NNP Yangtze) (NNP River))
+sid=8 spanning 6 until 8 headed by 7 parsed as (NP (NNP North) (NNP China))
+sid=9 spanning 9 until 11 headed by 10 parsed as (NP (NNP North) (NNP China))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP 's))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN weather))
+sid=1 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN weekend))
+sid=1 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT the) (NN weather)) (PP (IN in) (NP (DT the) (NNP South))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNP South))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 8 until 15 headed by 10 parsed as (NP (NP (QP (RB nearly) (CD 10)) (NNS days)) (PP (IN in) (NP (NP (DT some) (NNS places)) (ADVP (RB here)))))
+sid=2 spanning 12 until 15 headed by 13 parsed as (NP (NP (DT some) (NNS places)) (ADVP (RB here)))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT an) (NN end))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT a) (NN while))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (NN tomorrow))
+sid=4 spanning 9 until 16 headed by 11 parsed as (NP (NP (DT the) (JJ eastern) (NN part)) (PP (IN of) (NP (DT the) (JJ southwestern) (NN region))))
+sid=4 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ southwestern) (NN region))
+sid=4 spanning 17 until 24 headed by 18 parsed as (NP (NP (DT this) (NN area)) (ADVP (RB south) (PP (IN of) (NP (DT the) (NNP Yangtze) (NNP River)))))
+sid=4 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NNP Yangtze) (NNP River))
+sid=4 spanning 25 until 26 headed by 25 parsed as (NP (PRP it))
+sid=4 spanning 30 until 42 headed by 31 parsed as (NP (NP (DT the) (NN day)) (PP (IN after) (NP (NN tomorrow))) (PP (IN in) (NP (NP (DT the) (NN area)) (ADVP (RB south) (PP (IN of) (NP (DT the) (NNP Yangtze) (NNP River)))))))
+sid=4 spanning 33 until 34 headed by 33 parsed as (NP (NN tomorrow))
+sid=4 spanning 35 until 42 headed by 36 parsed as (NP (NP (DT the) (NN area)) (ADVP (RB south) (PP (IN of) (NP (DT the) (NNP Yangtze) (NNP River)))))
+sid=4 spanning 39 until 42 headed by 41 parsed as (NP (DT the) (NNP Yangtze) (NNP River))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=5 spanning 4 until 8 headed by 7 parsed as (NP (DT a) (ADJP (RB very) (JJ pleasant)) (NN thing))
+sid=5 spanning 9 until 21 headed by 14 parsed as (NP (NP (DT the) (ADJP (RB long) (HYPH -) (VBN awaited)) (JJ sunny) (NN weather)) (VP (VBG following) (NP (NP (DT a) (JJ long) (NN period)) (PP (IN of) (NP (NN rain))))))
+sid=5 spanning 16 until 21 headed by 18 parsed as (NP (NP (DT a) (JJ long) (NN period)) (PP (IN of) (NP (NN rain))))
+sid=5 spanning 24 until 25 headed by 24 parsed as (NP (NNP Sunday))
+sid=5 spanning 26 until 27 headed by 26 parsed as (NP (NNS people))
+sid=5 spanning 29 until 31 headed by 30 parsed as (NP (DT some) (NNS outings))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP I))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP you))
+sid=6 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN temperature))
+sid=6 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN rain))
+sid=6 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN weather))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (PRP 's))
+sid=8 spanning 3 until 8 headed by 4 parsed as (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNP North) (NNP China))))
+sid=8 spanning 6 until 8 headed by 7 parsed as (NP (NNP North) (NNP China))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (NN Tomorrow) (NN morning))
+sid=9 spanning 0 until 1 headed by 0 parsed as Tomorrow
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=9 spanning 7 until 11 headed by 7 parsed as (NP (NP (NNS parts)) (PP (IN of) (NP (NNP North) (NNP China))))
+sid=9 spanning 9 until 11 headed by 10 parsed as (NP (NNP North) (NNP China))
+sid=10 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN weekend))
+sid=10 spanning 3 until 7 headed by 5 parsed as (NP (QP (NNS winds) (IN of) (NNS forces) (CD 4)))
+sid=10 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ northeast) (NN region))
+sid=11 spanning 6 until 10 headed by 6 parsed as (NP (NP (NN snowfall)) (PP (IN in) (NP (JJ southern) (NNP Gansu))))
+sid=11 spanning 8 until 10 headed by 9 parsed as (NP (JJ southern) (NNP Gansu))
+sid=12 spanning 0 until 1 headed by 0 parsed as Okay
+sid=12 spanning 3 until 4 headed by 3 parsed as (NP (PRP 's))
+sid=12 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ our) (NN attention))
+sid=12 spanning 5 until 6 headed by 5 parsed as (PRP$ our)
+sid=12 spanning 8 until 12 headed by 11 parsed as (NP (DT the) (NN city) (NN weather) (NNS forecasts))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (NNP Beijing))
+sid=13 spanning 4 until 8 headed by 7 parsed as (NP (QP (CD 2) (TO to) (CD 8)) (NNS degrees))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (NNP Harbin))
+sid=14 spanning 4 until 11 headed by 5 parsed as (NP (NP (NP (CD 11) (NNS degrees)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD zero) (NN degree))))
+sid=14 spanning 7 until 8 headed by 7 parsed as (NP (CD zero))
+sid=14 spanning 9 until 11 headed by 10 parsed as (NP (CD zero) (NN degree))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (NNP Changchun))
+sid=15 spanning 4 until 11 headed by 5 parsed as (NP (NP (NP (CD 9) (NNS degrees)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD 1) (NN degree))))
+sid=15 spanning 7 until 8 headed by 7 parsed as (NP (CD zero))
+sid=15 spanning 9 until 11 headed by 10 parsed as (NP (CD 1) (NN degree))
+sid=16 spanning 0 until 1 headed by 0 parsed as (NP (NNP Xi'an))
+sid=16 spanning 4 until 8 headed by 7 parsed as (NP (QP (CD 6) (TO to) (CD 12)) (NNS degrees))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (NNP Shijiazhuang))
+sid=17 spanning 2 until 6 headed by 2 parsed as (NP (NP (JJ foggy)) (VP (VBG changing) (PP (IN to) (NP (JJ sunny)))))
+sid=17 spanning 5 until 6 headed by 5 parsed as (NP (JJ sunny))
+sid=17 spanning 7 until 11 headed by 10 parsed as (NP (QP (CD 1) (TO to) (CD 9)) (NNS degrees))
+sid=18 spanning 0 until 1 headed by 0 parsed as (NP (NNP Shanghai))
+sid=18 spanning 2 until 7 headed by 2 parsed as (NP (NP (JJ overcast)) (VP (VBG changing) (PP (IN to) (NP (JJ light) (NN rain)))))
+sid=18 spanning 8 until 12 headed by 11 parsed as (NP (QP (CD 11) (TO to) (CD 15)) (NNS degrees))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (NNP Nanjing))
+sid=19 spanning 4 until 8 headed by 7 parsed as (NP (QP (CD 8) (TO to) (CD 13)) (NNS degrees))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (NNP Taipei))
+sid=20 spanning 5 until 9 headed by 8 parsed as (NP (QP (CD 18) (TO to) (CD 22)) (NNS degrees))
+sid=21 spanning 0 until 1 headed by 0 parsed as (NP (NNP Guangzhou))
+sid=21 spanning 4 until 8 headed by 7 parsed as (NP (QP (CD 16) (TO to) (CD 24)) (NNS degrees))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (NNP Dalian))
+sid=22 spanning 2 until 6 headed by 2 parsed as (NP (NP (JJ cloudy)) (VP (VBG changing) (PP (IN to) (NP (JJ sunny)))))
+sid=22 spanning 5 until 6 headed by 5 parsed as (NP (JJ sunny))
+sid=22 spanning 7 until 11 headed by 10 parsed as (NP (QP (CD 2) (TO to) (CD 8)) (NNS degrees))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (NNP Luoyang))
+sid=23 spanning 4 until 8 headed by 7 parsed as (NP (QP (CD 5) (TO to) (CD 13)) (NNS degrees))
+sid=24 spanning 0 until 1 headed by 0 parsed as (NP (NNP Bangkok))
+sid=24 spanning 2 until 6 headed by 2 parsed as (NP (NP (JJ cloudy)) (VP (VBG changing) (PP (IN to) (NP (NNS showers)))))
+sid=24 spanning 5 until 6 headed by 5 parsed as (NP (NNS showers))
+sid=24 spanning 7 until 11 headed by 10 parsed as (NP (QP (CD 25) (TO to) (CD 34)) (NNS degrees))
+sid=25 spanning 0 until 2 headed by 1 parsed as (NP (NNP New) (NNP Delhi))
+sid=25 spanning 5 until 9 headed by 8 parsed as (NP (QP (CD 13) (TO to) (CD 29)) (NNS degrees))
+sid=26 spanning 0 until 1 headed by 0 parsed as (NP (NNP Seoul))
+sid=26 spanning 4 until 11 headed by 5 parsed as (NP (NP (NP (CD 1) (NN degree)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD 8) (NNS degrees))))
+sid=26 spanning 7 until 8 headed by 7 parsed as (NP (CD zero))
+sid=26 spanning 9 until 11 headed by 10 parsed as (NP (CD 8) (NNS degrees))
+sid=27 spanning 0 until 1 headed by 0 parsed as (NP (NNP Tokyo))
+sid=27 spanning 2 until 6 headed by 2 parsed as (NP (NP (JJ sunny)) (VP (VBG changing) (PP (IN to) (NP (JJ cloudy)))))
+sid=27 spanning 5 until 6 headed by 5 parsed as (NP (JJ cloudy))
+sid=27 spanning 7 until 11 headed by 10 parsed as (NP (QP (CD 8) (TO to) (CD 14)) (NNS degrees))
+sid=28 spanning 0 until 1 headed by 0 parsed as (NP (NNP London))
+sid=28 spanning 2 until 6 headed by 2 parsed as (NP (NP (JJ sunny)) (VP (VBG changing) (PP (IN to) (NP (JJ cloudy)))))
+sid=28 spanning 5 until 6 headed by 5 parsed as (NP (JJ cloudy))
+sid=28 spanning 7 until 14 headed by 8 parsed as (NP (NP (NP (CD 1) (NN degree)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD 8) (NNS degrees))))
+sid=28 spanning 10 until 11 headed by 10 parsed as (NP (CD zero))
+sid=28 spanning 12 until 14 headed by 13 parsed as (NP (CD 8) (NNS degrees))
+sid=29 spanning 0 until 1 headed by 0 parsed as (NP (NNP Moscow))
+sid=29 spanning 9 until 13 headed by 10 parsed as (NP (NP (CD 1) (NN degree)) (PP (IN below) (NP (CD zero))))
+sid=29 spanning 12 until 13 headed by 12 parsed as (NP (CD zero))
+sid=29 spanning 14 until 16 headed by 15 parsed as (NP (CD 2) (NNS degrees))
+sid=30 spanning 0 until 1 headed by 0 parsed as (NP (NNP Paris))
+sid=30 spanning 4 until 11 headed by 5 parsed as (NP (NP (NP (CD 1) (NN degree)) (PP (IN below) (NP (CD zero)))) (PP (IN to) (NP (CD 9) (NNS degrees))))
+sid=30 spanning 7 until 8 headed by 7 parsed as (NP (CD zero))
+sid=30 spanning 9 until 11 headed by 10 parsed as (NP (CD 9) (NNS degrees))
+sid=31 spanning 0 until 1 headed by 0 parsed as (NP (NNP Vienna))
+sid=31 spanning 4 until 8 headed by 7 parsed as (NP (QP (CD 3) (TO to) (CD 7)) (NNS degrees))
+sid=32 spanning 0 until 2 headed by 1 parsed as (NP (NNP New) (NNP York))
+sid=32 spanning 5 until 9 headed by 8 parsed as (NP (QP (CD 7) (TO to) (CD 9)) (NNS degrees))
+sid=33 spanning 0 until 1 headed by 0 parsed as (NP (NNP Seattle))
+sid=33 spanning 2 until 6 headed by 2 parsed as (NP (NP (JJ cloudy)) (VP (VBG changing) (PP (IN to) (NP (JJ sunny)))))
+sid=33 spanning 5 until 6 headed by 5 parsed as (NP (JJ sunny))
+sid=33 spanning 7 until 11 headed by 10 parsed as (NP (QP (CD 5) (TO to) (CD 8)) (NNS degrees))
+sid=34 spanning 0 until 1 headed by 0 parsed as (NP (NNP Washington))
+sid=34 spanning 2 until 6 headed by 2 parsed as (NP (NP (JJ sunny)) (VP (VBG changing) (PP (IN to) (NP (JJ cloudy)))))
+sid=34 spanning 5 until 6 headed by 5 parsed as (NP (JJ cloudy))
+sid=34 spanning 7 until 11 headed by 10 parsed as (NP (QP (CD 4) (TO to) (CD 6)) (NNS degrees))
+(end predicted mentions)
+---------gold clusters--------
+0 2 | { 'this area south of the Yangtze River' 'the area south of the Yangtze River' }
+1 3 | { 'the Yangtze River' 'the Yangtze River' }
+5 4 | { 'North China' 'North China' }
+(end gold clusters)

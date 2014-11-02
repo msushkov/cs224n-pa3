@@ -1,0 +1,62 @@
+---------gloss--------
+(0) [1m[34m{Reformist allies of Yugoslav President Vojislav Kostunica}[0m have scored a decisive victory in today 's Serbian parliamentary elections . 
+(1) [1m[34m{The Democratic opposition of Serbia , which supports the President ,}[0m estimates [1m[34m{it}[0m has won 65 % of [1m[35m{the vote}[0m . 
+(2) [1m[34m{The coalition}[0m took power after a popular uprising ousted [1m[36m{long time Yugoslav President Slobodan Milosevic}[0m in October . 
+(3) [1m[36m{Mr. Milosevic 's}[0m Socialist Party and [3m[31m{its}[0m allies won about 1 / 5th of [1m[35m{the vote}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0184); part 000
+sentences:
+ReformistreformistJJOPER0alliesallyNNSOPER0ofofINOPER0YugoslavyugoslavJJOPER0PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0havehaveVBPOPER0scoredscoreVBNOPER0aaDTOPER0decisivedecisiveJJOPER0victoryvictoryNNOPER0ininINOPER0todaytodayNNDATEPER0's'sPOSOPER0SerbianserbianJJOPER0parliamentaryparliamentaryJJOPER0electionselectionNNSOPER0...OPER0(ROOT (S (NP (NP (JJ Reformist) (NNS allies)) (PP (IN of) (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica)))) (VP (VBP have) (VP (VBN scored) (NP (NP (DT a) (JJ decisive) (NN victory)) (PP (IN in) (NP (NP (NN today) (POS 's)) (JJ Serbian) (JJ parliamentary) (NNS elections)))))) (. .)))
+ThetheDTOPER0DemocraticdemocraticJJOPER0oppositionoppositionNNOPER0ofofINOPER0SerbiaSerbiaNNPGPEPER0,,,OPER0whichwhichWDTOPER0supportssupportVBZOPER0thetheDTOPER0PresidentPresidentNNPOPER0,,,OPER0estimatesestimateVBZOPER0ititPRPOPER0hashaveVBZOPER0wonwinVBNOPER06565CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thetheDTOPER0votevoteNNOPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (JJ Democratic) (NN opposition)) (PP (IN of) (NP (NNP Serbia)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ supports) (NP (DT the) (NNP President))))) (, ,)) (VP (VBZ estimates) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN won) (NP (NP (CD 65) (NN %)) (PP (IN of) (NP (DT the) (NN vote))))))))) (. .)))
+ThetheDTOPER0coalitioncoalitionNNOPER0tooktakeVBDOPER0powerpowerNNOPER0afterafterINOPER0aaDTOPER0popularpopularJJOPER0uprisinguprisingNNOPER0oustedoustVBDOPER0longlongJJOPER0timetimeNNOPER0YugoslavyugoslavJJOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0ininINOPER0OctoberOctoberNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NN coalition)) (VP (VBD took) (NP (NN power)) (SBAR (IN after) (S (NP (DT a) (JJ popular) (NN uprising)) (VP (VBD ousted) (NP (JJ long) (NN time)) (NP (NML (JJ Yugoslav) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (PP (IN in) (NP (NNP October))))))) (. .)))
+Mr.Mr.NNPOPER0MilosevicMilosevicNNPPERSONPER0's'sPOSOPER0SocialistSocialistNNPORGPER0PartyPartyNNPORGPER0andandCCOPER0itsitsPRP$OPER0alliesallyNNSOPER0wonwinVBDOPER0aboutaboutRBOPER011CDOPER0//SYMOPER05th5thNNOPER0ofofINOPER0thetheDTOPER0votevoteNNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Mr.) (NNP Milosevic) (POS 's)) (NNP Socialist) (NNP Party)) (CC and) (NP (PRP$ its) (NNS allies))) (VP (VBD won) (NP (NP (QP (RB about) (CD 1) (SYM /) (NN 5th))) (PP (IN of) (NP (DT the) (NN vote))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 1 parsed as (NP (NP (JJ Reformist) (NNS allies)) (PP (IN of) (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica))))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica))
+sid=1 spanning 0 until 11 headed by 2 parsed as (NP (NP (NP (DT The) (JJ Democratic) (NN opposition)) (PP (IN of) (NP (NNP Serbia)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ supports) (NP (DT the) (NNP President))))) (, ,))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNP President))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN vote))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN coalition))
+sid=2 spanning 9 until 15 headed by 14 parsed as (NP (NML (JJ Yugoslav) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=3 spanning 0 until 5 headed by 4 parsed as (NP (NP (NP (NNP Mr.) (NNP Milosevic) (POS 's)) (NNP Socialist) (NNP Party)) (CC and) (NP (PRP$ its) (NNS allies)))
+sid=3 spanning 0 until 3 headed by 1 parsed as (NP (NNP Mr.) (NNP Milosevic) (POS 's))
+sid=3 spanning 6 until 7 headed by 6 parsed as its
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN vote))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 1 parsed as (NP (NP (JJ Reformist) (NNS allies)) (PP (IN of) (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica))))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 9 until 18 headed by 11 parsed as (NP (NP (DT a) (JJ decisive) (NN victory)) (PP (IN in) (NP (NP (NN today) (POS 's)) (JJ Serbian) (JJ parliamentary) (NNS elections))))
+sid=0 spanning 13 until 18 headed by 17 parsed as (NP (NP (NN today) (POS 's)) (JJ Serbian) (JJ parliamentary) (NNS elections))
+sid=0 spanning 13 until 15 headed by 13 parsed as (NP (NN today) (POS 's))
+sid=1 spanning 0 until 11 headed by 2 parsed as (NP (NP (NP (DT The) (JJ Democratic) (NN opposition)) (PP (IN of) (NP (NNP Serbia)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ supports) (NP (DT the) (NNP President))))) (, ,))
+sid=1 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT The) (JJ Democratic) (NN opposition)) (PP (IN of) (NP (NNP Serbia))))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Serbia))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNP President))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN vote))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN coalition))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ popular) (NN uprising))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (JJ long) (NN time))
+sid=2 spanning 11 until 15 headed by 14 parsed as (NP (NML (JJ Yugoslav) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NNP October))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NP (NP (NNP Mr.) (NNP Milosevic) (POS 's)) (NNP Socialist) (NNP Party)) (CC and) (NP (PRP$ its) (NNS allies)))
+sid=3 spanning 0 until 8 headed by 4 parsed as (NP (NP (NP (NNP Mr.) (NNP Milosevic) (POS 's)) (NNP Socialist) (NNP Party)) (CC and) (NP (PRP$ its) (NNS allies)))
+sid=3 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Mr.) (NNP Milosevic) (POS 's)) (NNP Socialist) (NNP Party))
+sid=3 spanning 0 until 3 headed by 1 parsed as (NP (NNP Mr.) (NNP Milosevic) (POS 's))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ its) (NNS allies))
+sid=3 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=3 spanning 9 until 16 headed by 12 parsed as (NP (NP (QP (RB about) (CD 1) (SYM /) (NN 5th))) (PP (IN of) (NP (DT the) (NN vote))))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN vote))
+(end predicted mentions)
+---------gold clusters--------
+3 1 | { 'the President' 'Yugoslav President Vojislav Kostunica' }
+4 2 0 6 | { 'it' 'The Democratic opposition of Serbia , which supports the President ,' 'Reformist allies of Yugoslav President Vojislav Kostunica' 'The coalition' }
+11 5 | { 'the vote' 'the vote' }
+9 7 | { 'Mr. Milosevic 's' 'long time Yugoslav President Slobodan Milosevic' }
+8 10 | { 'Mr. Milosevic 's Socialist Party' 'its' }
+(end gold clusters)

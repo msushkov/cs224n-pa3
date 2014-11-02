@@ -1,0 +1,68 @@
+---------gloss--------
+(0) [4m[31m{Venezuela 's}[0m leftist President has awarded [4m[33m{Fidel Castro}[0m the keys to [4m[35m{the city of Caracas}[0m . 
+(1) [4m[33m{The Cuban President}[0m is on a five - day visit to [4m[31m{Venezuela}[0m to sign an oil - supply deal . 
+(2) Hundreds of Venezuelans lined the streets of [4m[35m{the capital}[0m to welcome [4m[33m{Castro}[0m . 
+(3) Opposition legislators boycotted [4m[33m{Castro 's}[0m speech in the Venezuelan Congress to protest so - called `` human rights abuses '' in [4m[34m{Cuba}[0m . 
+(4) Some said [4m[32m{President Hugo Chavez 's}[0m move to strengthen ties with [4m[34m{the communist island}[0m could hurt relations with the United States . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0078); part 000
+sentences:
+VenezuelaVenezuelaNNPGPEPER0's'sPOSOPER0leftistleftistJJOPER0PresidentPresidentNNPOPER0hashaveVBZOPER0awardedawardVBNOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0thetheDTOPER0keyskeyNNSOPER0totoINOPER0thetheDTOPER0citycityNNOPER0ofofINOPER0CaracasCaracasNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP Venezuela) (POS 's)) (JJ leftist) (NNP President)) (VP (VBZ has) (VP (VBN awarded) (NP (NNP Fidel) (NNP Castro)) (PP (NP (DT the) (NNS keys)) (IN to) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NNP Caracas))))))) (. .)))
+ThetheDTOPER0CubanCubanNNPOPER0PresidentPresidentNNPOPER0isbeVBZOPER0ononINOPER0aaDTOPER0fivefiveCDDATEPER0--HYPHDATEPER0daydayNNDATEPER0visitvisitNNOPER0totoINOPER0VenezuelaVenezuelaNNPGPEPER0totoTOOPER0signsignVBOPER0anaDTOPER0oiloilNNOPER0--HYPHOPER0supplysupplyNNOPER0dealdealNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Cuban) (NNP President)) (VP (VBZ is) (PP (IN on) (NP (NP (DT a) (NML (CD five) (HYPH -) (NN day)) (NN visit)) (PP (IN to) (NP (NNP Venezuela))))) (S (VP (TO to) (VP (VB sign) (NP (DT an) (NML (NN oil) (HYPH -) (NN supply)) (NN deal)))))) (. .)))
+HundredshundredNNSCARDINALPER0ofofINOPER0VenezuelansVenezuelansNNPSORGPER0linedlineVBDOPER0thetheDTOPER0streetsstreetNNSOPER0ofofINOPER0thetheDTOPER0capitalcapitalNNOPER0totoTOOPER0welcomewelcomeVBOPER0CastroCastroNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NNS Hundreds)) (PP (IN of) (NP (NNPS Venezuelans)))) (VP (VBD lined) (S (NP (NP (DT the) (NNS streets)) (PP (IN of) (NP (DT the) (NN capital)))) (VP (TO to) (VP (VB welcome) (NP (NNP Castro)))))) (. .)))
+OppositionoppositionNNOPER0legislatorslegislatorNNSOPER0boycottedboycottVBDOPER0CastroCastroNNPPERSONPER0's'sPOSOPER0speechspeechNNOPER0ininINOPER0thetheDTOPER0VenezuelanvenezuelanJJOPER0CongressCongressNNPORGPER0totoTOOPER0protestprotestVBOPER0sosoRBOPER0--HYPHOPER0calledcallVBNOPER0``````OhumanhumanJJOPER1rightsrightsNNSOPER1abusesabuseNNSOPER1''''''OPER0ininINOPER0CubaCubaNNPGPEPER0...OPER0(ROOT (S (NP (NN Opposition) (NNS legislators)) (VP (VBD boycotted) (NP (NP (NNP Castro) (POS 's)) (NN speech)) (PP (IN in) (NP (DT the) (JJ Venezuelan) (NNP Congress))) (S (VP (TO to) (VP (VB protest) (NP (NP (ADJP (RB so) (HYPH -) (VBN called)) (`` ``) (NML (JJ human) (NNS rights)) (NNS abuses) ('' '')) (PP (IN in) (NP (NNP Cuba)))))))) (. .)))
+SomesomeDTOPER0saidsayVBDOPER0PresidentPresidentNNPOPER0HugoHugoNNPPERSONPER0ChavezChavezNNPPERSONPER0's'sPOSOPER0movemoveNNOPER0totoTOOPER0strengthenstrengthenVBOPER0tiestieNNSOPER0withwithINOPER0thetheDTOPER0communistcommunistJJOPER0islandislandNNOPER0couldcouldMDOPER0hurthurtVBOPER0relationsrelationNNSOPER0withwithINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (NP (DT Some)) (VP (VBD said) (SBAR (S (NP (NP (NNP President) (NNP Hugo) (NNP Chavez) (POS 's)) (NN move) (S (VP (TO to) (VP (VB strengthen) (NP (NP (NNS ties)) (PP (IN with) (NP (DT the) (JJ communist) (NN island)))))))) (VP (MD could) (VP (VB hurt) (NP (NP (NNS relations)) (PP (IN with) (NP (DT the) (NNP United) (NNP States))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Venezuela) (POS 's)) (JJ leftist) (NNP President))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Venezuela) (POS 's))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP Fidel) (NNP Castro))
+sid=0 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NNP Caracas))))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Cuban) (NNP President))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNP Venezuela))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN capital))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP Castro))
+sid=3 spanning 3 until 5 headed by 3 parsed as (NP (NNP Castro) (POS 's))
+sid=3 spanning 21 until 22 headed by 21 parsed as (NP (NNP Cuba))
+sid=4 spanning 2 until 6 headed by 4 parsed as (NP (NNP President) (NNP Hugo) (NNP Chavez) (POS 's))
+sid=4 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (JJ communist) (NN island))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Venezuela) (POS 's)) (JJ leftist) (NNP President))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Venezuela) (POS 's))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP Fidel) (NNP Castro))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS keys))
+sid=0 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NNP Caracas))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNP Caracas))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Cuban) (NNP President))
+sid=1 spanning 5 until 12 headed by 9 parsed as (NP (NP (DT a) (NML (CD five) (HYPH -) (NN day)) (NN visit)) (PP (IN to) (NP (NNP Venezuela))))
+sid=1 spanning 6 until 9 headed by 8 parsed as day
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNP Venezuela))
+sid=1 spanning 14 until 19 headed by 18 parsed as (NP (DT an) (NML (NN oil) (HYPH -) (NN supply)) (NN deal))
+sid=2 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Hundreds)) (PP (IN of) (NP (NNPS Venezuelans))))
+sid=2 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT the) (NNS streets)) (PP (IN of) (NP (DT the) (NN capital))))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN capital))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP Castro))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NN Opposition) (NNS legislators))
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (NP (NNP Castro) (POS 's)) (NN speech))
+sid=3 spanning 3 until 5 headed by 3 parsed as (NP (NNP Castro) (POS 's))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ Venezuelan) (NNP Congress))
+sid=3 spanning 12 until 22 headed by 18 parsed as (NP (NP (ADJP (RB so) (HYPH -) (VBN called)) (`` ``) (NML (JJ human) (NNS rights)) (NNS abuses) ('' '')) (PP (IN in) (NP (NNP Cuba))))
+sid=3 spanning 21 until 22 headed by 21 parsed as (NP (NNP Cuba))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT Some))
+sid=4 spanning 2 until 14 headed by 6 parsed as (NP (NP (NNP President) (NNP Hugo) (NNP Chavez) (POS 's)) (NN move) (S (VP (TO to) (VP (VB strengthen) (NP (NP (NNS ties)) (PP (IN with) (NP (DT the) (JJ communist) (NN island))))))))
+sid=4 spanning 2 until 6 headed by 4 parsed as (NP (NNP President) (NNP Hugo) (NNP Chavez) (POS 's))
+sid=4 spanning 9 until 14 headed by 9 parsed as (NP (NP (NNS ties)) (PP (IN with) (NP (DT the) (JJ communist) (NN island))))
+sid=4 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (JJ communist) (NN island))
+sid=4 spanning 16 until 21 headed by 16 parsed as (NP (NP (NNS relations)) (PP (IN with) (NP (DT the) (NNP United) (NNP States))))
+sid=4 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP United) (NNP States))
+(end predicted mentions)
+---------gold clusters--------
+1 5 | { 'Venezuela 's' 'Venezuela' }
+0 10 | { 'Venezuela 's leftist President' 'President Hugo Chavez 's' }
+2 7 8 4 | { 'Fidel Castro' 'Castro' 'Castro 's' 'The Cuban President' }
+11 9 | { 'the communist island' 'Cuba' }
+6 3 | { 'the capital' 'the city of Caracas' }
+(end gold clusters)

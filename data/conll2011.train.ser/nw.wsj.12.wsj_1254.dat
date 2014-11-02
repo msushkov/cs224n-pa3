@@ -1,0 +1,100 @@
+---------gloss--------
+(0) [4m[33m{The government}[0m said [4m[33m{it}[0m would streamline [4m[33m{its}[0m enormous and often - criticized food marketing and distribution network , Compania Nacional de Subsistencias Populares , or Conasupo . 
+(1) [4m[35m{Conasupo}[0m Director Ignacio Ovalle Fernandez said [4m[35m{the agency}[0m will sell 589 midsized supermarkets and several food - production plants and warehouses beginning early next year . 
+(2) [4m[35m{The agency}[0m will withdraw from the production of nine food products , maintaining production of the two most important ones , corn and milk . 
+(3) Mr. Ovalle also said [4m[35m{Conasupo}[0m will cut back subsidies to producers of nonessential farm products and close retail outlets in wealthy neighborhoods . 
+(4) [4m[35m{The agency 's}[0m workers and private companies would be allowed to bid for the assets up for sale . 
+(5) [4m[35m{Conasupo}[0m controls prices on agricultural goods and operates retail outlets where basic consumer items are sold at state - subsidized prices . 
+(6) Business leaders have long criticized [4m[35m{the agency}[0m as a leading example of bureacratic waste . 
+(7) Private - sector leaders praised [4m[34m{the Conasupo restructuring}[0m . 
+(8) But most economists doubt [4m[34m{the streamlining}[0m would cut deeply into [4m[35m{Conasupo}[0m government subsidy , which largely goes to reduce consumer prices for corn and milk . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1254); part 000
+sentences:
+ThetheDTOPER0governmentgovernmentNNOPER0saidsayVBDOPER0ititPRPOPER0wouldwouldMDOPER0streamlinestreamlineVBOPER0itsitsPRP$OPER0enormousenormousJJOPER0andandCCOPER0oftenoftenRBOPER0--HYPHOPER0criticizedcriticizeVBNOPER0foodfoodNNOPER0marketingmarketingNNOPER0andandCCOPER0distributiondistributionNNOPER0networknetworkNNOPER0,,,OPER0CompaniaCompaniaNNPORGPER0NacionalNacionalNNPORGPER0dedeFWORGPER0SubsistenciasSubsistenciasNNPORGPER0PopularesPopularesNNPORGPER0,,,OPER0ororCCOPER0ConasupoConasupoNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NN government)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB streamline) (NP (NP (PRP$ its) (ADJP (JJ enormous) (CC and) (ADVP (RB often)) (HYPH -) (VBN criticized)) (NML (NN food) (NN marketing) (CC and) (NN distribution)) (NN network)) (, ,) (NP (NP (NNP Compania) (NNP Nacional) (FW de) (NNP Subsistencias) (NNP Populares)) (, ,) (CC or) (NP (NNP Conasupo))))))))) (. .)))
+ConasupoConasupoNNPORGPER0DirectorDirectorNNPOPER0IgnacioIgnacioNNPPERSONPER0OvalleOvalleNNPPERSONPER0FernandezFernandezNNPPERSONPER0saidsayVBDOPER0thetheDTOPER0agencyagencyNNOPER0willwillMDOPER0sellsellVBOPER0589589CDCARDINALPER0midsizedmidsizedJJOPER0supermarketssupermarketNNSOPER0andandCCOPER0severalseveralJJOPER0foodfoodNNOPER0--HYPHOPER0productionproductionNNOPER0plantsplantNNSOPER0andandCCOPER0warehouseswarehouseNNSOPER0beginningbeginVBGOPER0earlyearlyRBDATEPER0nextnextJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NML (NNP Conasupo) (NNP Director)) (NNP Ignacio) (NNP Ovalle) (NNP Fernandez)) (VP (VBD said) (SBAR (S (NP (DT the) (NN agency)) (VP (MD will) (VP (VB sell) (NP (NP (CD 589) (JJ midsized) (NNS supermarkets)) (CC and) (NP (JJ several) (NML (NN food) (HYPH -) (NN production)) (NNS plants) (CC and) (NNS warehouses))) (PP (VBG beginning) (NP (ADVP (RB early)) (JJ next) (NN year)))))))) (. .)))
+ThetheDTOPER0agencyagencyNNOPER0willwillMDOPER0withdrawwithdrawVBOPER0fromfromINOPER0thetheDTOPER0productionproductionNNOPER0ofofINOPER0ninenineCDCARDINALPER0foodfoodNNOPER0productsproductNNSOPER0,,,OPER0maintainingmaintainVBGOPER0productionproductionNNOPER0ofofINOPER0thetheDTOPER0twotwoCDCARDINALPER0mostmostRBSOPER0importantimportantJJOPER0onesoneNNSOPER0,,,OPER0corncornNNOPER0andandCCOPER0milkmilkNNOPER0...OPER0(ROOT (S (NP (DT The) (NN agency)) (VP (MD will) (VP (VB withdraw) (PP (IN from) (NP (NP (DT the) (NN production)) (PP (IN of) (NP (CD nine) (NN food) (NNS products))))) (, ,) (S (VP (VBG maintaining) (NP (NP (NN production)) (PP (IN of) (NP (DT the) (CD two) (ADJP (RBS most) (JJ important)) (NNS ones) (, ,) (NN corn) (CC and) (NN milk)))))))) (. .)))
+Mr.Mr.NNPOPER0OvalleOvalleNNPPERSONPER0alsoalsoRBOPER0saidsayVBDOPER0ConasupoConasupoNNPORGPER0willwillMDOPER0cutcutVBOPER0backbackRPOPER0subsidiessubsidyNNSOPER0totoINOPER0producersproducerNNSOPER0ofofINOPER0nonessentialnonessentialJJOPER0farmfarmNNOPER0productsproductNNSOPER0andandCCOPER0closecloseJJOPER0retailretailJJOPER0outletsoutletNNSOPER0ininINOPER0wealthywealthyJJOPER0neighborhoodsneighborhoodNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Ovalle)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (NNP Conasupo)) (VP (MD will) (VP (VB cut) (PRT (RP back)) (NP (NP (NNS subsidies)) (PP (IN to) (NP (NP (NNS producers)) (PP (IN of) (NP (NP (JJ nonessential) (NN farm) (NNS products)) (CC and) (NP (NP (JJ close) (JJ retail) (NNS outlets)) (PP (IN in) (NP (JJ wealthy) (NNS neighborhoods)))))))))))))) (. .)))
+ThetheDTOPER0agencyagencyNNOPER0's'sPOSOPER0workersworkerNNSOPER0andandCCOPER0privateprivateJJOPER0companiescompanyNNSOPER0wouldwouldMDOPER0bebeVBOPER0allowedallowVBNOPER0totoTOOPER0bidbidVBOPER0forforINOPER0thetheDTOPER0assetsassetNNSOPER0upupINOPER0forforINOPER0salesaleNNOPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NN agency) (POS 's)) (NNS workers)) (CC and) (NP (JJ private) (NNS companies))) (VP (MD would) (VP (VB be) (VP (VBN allowed) (S (VP (TO to) (VP (VB bid) (PP (IN for) (NP (NP (DT the) (NNS assets)) (PP (IN up) (PP (IN for) (NP (NN sale)))))))))))) (. .)))
+ConasupoConasupoNNPORGPER0controlscontrolVBZOPER0pricespriceNNSOPER0ononINOPER0agriculturalagriculturalJJOPER0goodsgoodsNNSOPER0andandCCOPER0operatesoperateVBZOPER0retailretailJJOPER0outletsoutletNNSOPER0wherewhereWRBOPER0basicbasicJJOPER0consumerconsumerNNOPER0itemsitemNNSOPER0arebeVBPOPER0soldsellVBNOPER0atatINOPER0statestateNNOPER0--HYPHOPER0subsidizedsubsidizeVBNOPER0pricespriceNNSOPER0...OPER0(ROOT (S (NP (NNP Conasupo)) (VP (VP (VBZ controls) (NP (NP (NNS prices)) (PP (IN on) (NP (JJ agricultural) (NNS goods))))) (CC and) (VP (VBZ operates) (NP (JJ retail) (NNS outlets)) (SBAR (WHADVP (WRB where)) (S (NP (JJ basic) (NN consumer) (NNS items)) (VP (VBP are) (VP (VBN sold) (PP (IN at) (NP (ADJP (NN state) (HYPH -) (VBN subsidized)) (NNS prices))))))))) (. .)))
+BusinessbusinessNNOPER0leadersleaderNNSOPER0havehaveVBPOPER0longlongRBOPER0criticizedcriticizeVBNOPER0thetheDTOPER0agencyagencyNNOPER0asasINOPER0aaDTOPER0leadingleadVBGOPER0exampleexampleNNOPER0ofofINOPER0bureacraticbureacraticJJOPER0wastewasteNNOPER0...OPER0(ROOT (S (NP (NN Business) (NNS leaders)) (VP (VBP have) (ADVP (RB long)) (VP (VBN criticized) (NP (DT the) (NN agency)) (PP (IN as) (NP (NP (DT a) (VBG leading) (NN example)) (PP (IN of) (NP (JJ bureacratic) (NN waste))))))) (. .)))
+PrivateprivateJJOPER0--HYPHOPER0sectorsectorNNOPER0leadersleaderNNSOPER0praisedpraiseVBDOPER0thetheDTOPER0ConasupoConasupoNNPORGPER0restructuringrestructuringNNOPER0...OPER0(ROOT (S (NP (NML (JJ Private) (HYPH -) (NN sector)) (NNS leaders)) (VP (VBD praised) (NP (DT the) (NNP Conasupo) (NN restructuring))) (. .)))
+ButbutCCOPER0mostmostJJSOPER0economistseconomistNNSOPER0doubtdoubtVBPOPER0thetheDTOPER0streamliningstreamlineVBGOPER0wouldwouldMDOPER0cutcutVBOPER0deeplydeeplyRBOPER0intointoINOPER0ConasupoConasupoNNPORGPER0governmentgovernmentNNOPER0subsidysubsidyNNOPER0,,,OPER0whichwhichWDTOPER0largelylargelyRBOPER0goesgoVBZOPER0totoTOOPER0reducereduceVBOPER0consumerconsumerNNOPER0pricespriceNNSOPER0forforINOPER0corncornNNOPER0andandCCOPER0milkmilkNNOPER0...OPER0(ROOT (S (CC But) (NP (JJS most) (NNS economists)) (VP (VBP doubt) (SBAR (S (NP (DT the) (VBG streamlining)) (VP (MD would) (VP (VB cut) (ADVP (RB deeply)) (PP (IN into) (NP (NNP Conasupo) (NN government) (NN subsidy))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB largely)) (VP (VBZ goes) (S (VP (TO to) (VP (VB reduce) (NP (NP (NN consumer) (NNS prices)) (PP (IN for) (NP (NN corn) (CC and) (NN milk))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN government))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 6 until 26 headed by 16 parsed as (NP (NP (PRP$ its) (ADJP (JJ enormous) (CC and) (ADVP (RB often)) (HYPH -) (VBN criticized)) (NML (NN food) (NN marketing) (CC and) (NN distribution)) (NN network)) (, ,) (NP (NP (NNP Compania) (NNP Nacional) (FW de) (NNP Subsistencias) (NNP Populares)) (, ,) (CC or) (NP (NNP Conasupo))))
+sid=0 spanning 6 until 7 headed by 6 parsed as its
+sid=1 spanning 0 until 1 headed by 0 parsed as Conasupo
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN agency))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agency))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Conasupo))
+sid=4 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN agency) (POS 's))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Conasupo))
+sid=6 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN agency))
+sid=7 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Conasupo) (NN restructuring))
+sid=7 spanning 6 until 7 headed by 6 parsed as Conasupo
+sid=8 spanning 4 until 6 headed by 4 parsed as (NP (DT the) (VBG streamlining))
+sid=8 spanning 10 until 11 headed by 10 parsed as Conasupo
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN government))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 6 until 26 headed by 16 parsed as (NP (NP (PRP$ its) (ADJP (JJ enormous) (CC and) (ADVP (RB often)) (HYPH -) (VBN criticized)) (NML (NN food) (NN marketing) (CC and) (NN distribution)) (NN network)) (, ,) (NP (NP (NNP Compania) (NNP Nacional) (FW de) (NNP Subsistencias) (NNP Populares)) (, ,) (CC or) (NP (NNP Conasupo))))
+sid=0 spanning 6 until 17 headed by 16 parsed as (NP (PRP$ its) (ADJP (JJ enormous) (CC and) (ADVP (RB often)) (HYPH -) (VBN criticized)) (NML (NN food) (NN marketing) (CC and) (NN distribution)) (NN network))
+sid=0 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=0 spanning 18 until 23 headed by 22 parsed as (NP (NP (NNP Compania) (NNP Nacional) (FW de) (NNP Subsistencias) (NNP Populares)) (, ,) (CC or) (NP (NNP Conasupo)))
+sid=0 spanning 18 until 26 headed by 22 parsed as (NP (NP (NNP Compania) (NNP Nacional) (FW de) (NNP Subsistencias) (NNP Populares)) (, ,) (CC or) (NP (NNP Conasupo)))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNP Conasupo))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP Conasupo) (NNP Director)) (NNP Ignacio) (NNP Ovalle) (NNP Fernandez))
+sid=1 spanning 0 until 1 headed by 0 parsed as Conasupo
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN agency))
+sid=1 spanning 10 until 21 headed by 12 parsed as (NP (NP (CD 589) (JJ midsized) (NNS supermarkets)) (CC and) (NP (JJ several) (NML (NN food) (HYPH -) (NN production)) (NNS plants) (CC and) (NNS warehouses)))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (CD 589) (JJ midsized) (NNS supermarkets))
+sid=1 spanning 14 until 21 headed by 18 parsed as (NP (JJ several) (NML (NN food) (HYPH -) (NN production)) (NNS plants) (CC and) (NNS warehouses))
+sid=1 spanning 22 until 25 headed by 24 parsed as (NP (ADVP (RB early)) (JJ next) (NN year))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agency))
+sid=2 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT the) (NN production)) (PP (IN of) (NP (CD nine) (NN food) (NNS products))))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (CD nine) (NN food) (NNS products))
+sid=2 spanning 13 until 24 headed by 13 parsed as (NP (NP (NN production)) (PP (IN of) (NP (DT the) (CD two) (ADJP (RBS most) (JJ important)) (NNS ones) (, ,) (NN corn) (CC and) (NN milk))))
+sid=2 spanning 15 until 24 headed by 19 parsed as (NP (DT the) (CD two) (ADJP (RBS most) (JJ important)) (NNS ones) (, ,) (NN corn) (CC and) (NN milk))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Ovalle))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Conasupo))
+sid=3 spanning 8 until 22 headed by 8 parsed as (NP (NP (NNS subsidies)) (PP (IN to) (NP (NP (NNS producers)) (PP (IN of) (NP (NP (JJ nonessential) (NN farm) (NNS products)) (CC and) (NP (NP (JJ close) (JJ retail) (NNS outlets)) (PP (IN in) (NP (JJ wealthy) (NNS neighborhoods)))))))))
+sid=3 spanning 10 until 22 headed by 10 parsed as (NP (NP (NNS producers)) (PP (IN of) (NP (NP (JJ nonessential) (NN farm) (NNS products)) (CC and) (NP (NP (JJ close) (JJ retail) (NNS outlets)) (PP (IN in) (NP (JJ wealthy) (NNS neighborhoods)))))))
+sid=3 spanning 12 until 22 headed by 14 parsed as (NP (NP (JJ nonessential) (NN farm) (NNS products)) (CC and) (NP (NP (JJ close) (JJ retail) (NNS outlets)) (PP (IN in) (NP (JJ wealthy) (NNS neighborhoods)))))
+sid=3 spanning 12 until 15 headed by 14 parsed as (NP (JJ nonessential) (NN farm) (NNS products))
+sid=3 spanning 16 until 22 headed by 18 parsed as (NP (NP (JJ close) (JJ retail) (NNS outlets)) (PP (IN in) (NP (JJ wealthy) (NNS neighborhoods))))
+sid=3 spanning 20 until 22 headed by 21 parsed as (NP (JJ wealthy) (NNS neighborhoods))
+sid=4 spanning 0 until 7 headed by 3 parsed as (NP (NP (NP (DT The) (NN agency) (POS 's)) (NNS workers)) (CC and) (NP (JJ private) (NNS companies)))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NN agency) (POS 's)) (NNS workers))
+sid=4 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN agency) (POS 's))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (JJ private) (NNS companies))
+sid=4 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT the) (NNS assets)) (PP (IN up) (PP (IN for) (NP (NN sale)))))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Conasupo))
+sid=5 spanning 2 until 6 headed by 2 parsed as (NP (NP (NNS prices)) (PP (IN on) (NP (JJ agricultural) (NNS goods))))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (JJ agricultural) (NNS goods))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (JJ retail) (NNS outlets))
+sid=5 spanning 11 until 14 headed by 13 parsed as (NP (JJ basic) (NN consumer) (NNS items))
+sid=5 spanning 17 until 21 headed by 20 parsed as (NP (ADJP (NN state) (HYPH -) (VBN subsidized)) (NNS prices))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NN Business) (NNS leaders))
+sid=6 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN agency))
+sid=6 spanning 8 until 14 headed by 10 parsed as (NP (NP (DT a) (VBG leading) (NN example)) (PP (IN of) (NP (JJ bureacratic) (NN waste))))
+sid=7 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Private) (HYPH -) (NN sector)) (NNS leaders))
+sid=7 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Conasupo) (NN restructuring))
+sid=7 spanning 6 until 7 headed by 6 parsed as Conasupo
+sid=8 spanning 1 until 3 headed by 2 parsed as (NP (JJS most) (NNS economists))
+sid=8 spanning 4 until 6 headed by 4 parsed as (NP (DT the) (VBG streamlining))
+sid=8 spanning 10 until 13 headed by 12 parsed as (NP (NNP Conasupo) (NN government) (NN subsidy))
+sid=8 spanning 10 until 11 headed by 10 parsed as Conasupo
+sid=8 spanning 19 until 25 headed by 20 parsed as (NP (NP (NN consumer) (NNS prices)) (PP (IN for) (NP (NN corn) (CC and) (NN milk))))
+sid=8 spanning 22 until 25 headed by 22 parsed as (NP (NN corn) (CC and) (NN milk))
+(end predicted mentions)
+---------gold clusters--------
+3 0 1 | { 'its' 'The government' 'it' }
+11 13 | { 'the Conasupo restructuring' 'the streamlining' }
+9 2 7 5 6 4 8 14 10 12 | { 'Conasupo' 'its enormous and often - criticized food marketing and distribution network , Compania Nacional de Subsistencias Populares , or Conasupo' 'Conasupo' 'the agency' 'The agency' 'Conasupo' 'The agency 's' 'Conasupo' 'the agency' 'Conasupo' }
+(end gold clusters)

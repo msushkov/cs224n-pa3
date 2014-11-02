@@ -1,0 +1,30 @@
+---------gloss--------
+(0) After [1m[33m{Mingxia Fu}[0m won the champion for the women platform diving , the coach of the Soviet Union team congratulated [1m[33m{her}[0m warmly . 
+(1) Photo taken by Xinhua News Agency reporter , Zhishan Cheng . 
+(end gloss)
+---------document--------
+(nw/xinhua/02/chtb_0200); part 000
+sentences:
+AfterafterINOPER0MingxiaMingxiaNNPORGPER0FuFuNNPORGPER0wonwinVBDOPER0thetheDTOPER0championchampionNNOPER0forforINOPER0thetheDTOPER0womenwomanNNSOPER0platformplatformNNOPER0divingdivingNNOPER0,,,OPER0thetheDTOPER0coachcoachNNOPER0ofofINOPER0thetheDTOPER0SovietSovietNNPGPEPER0UnionUnionNNPGPEPER0teamteamNNOPER0congratulatedcongratulateVBDOPER0hershePRPOPER0warmlywarmlyRBOPER0...OPER0(ROOT (S (SBAR (IN After) (S (NP (NNP Mingxia) (NNP Fu)) (VP (VBD won) (NP (NP (DT the) (NN champion)) (PP (IN for) (NP (DT the) (NNS women) (NN platform) (NN diving))))))) (, ,) (NP (NP (DT the) (NN coach)) (PP (IN of) (NP (DT the) (NML (NNP Soviet) (NNP Union)) (NN team)))) (VP (VBD congratulated) (NP (PRP her)) (ADVP (RB warmly))) (. .)))
+PhotophotoNNOPER0takentakeVBNOPER0bybyINOPER0XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0reporterreporterNNOPER0,,,OPER0ZhishanZhishanNNPPERSONPER0ChengChengNNPPERSONPER0...OPER0(ROOT (FRAG (NP (NN Photo)) (VP (VBN taken) (PP (IN by) (NP (NML (NML (NNP Xinhua) (NNP News) (NNP Agency)) (NN reporter)) (, ,) (NNP Zhishan) (NNP Cheng)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (NNP Mingxia) (NNP Fu))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (PRP her))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (NNP Mingxia) (NNP Fu))
+sid=0 spanning 4 until 11 headed by 5 parsed as (NP (NP (DT the) (NN champion)) (PP (IN for) (NP (DT the) (NNS women) (NN platform) (NN diving))))
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (NNS women) (NN platform) (NN diving))
+sid=0 spanning 12 until 19 headed by 13 parsed as (NP (NP (DT the) (NN coach)) (PP (IN of) (NP (DT the) (NML (NNP Soviet) (NNP Union)) (NN team))))
+sid=0 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (NML (NNP Soviet) (NNP Union)) (NN team))
+sid=0 spanning 16 until 18 headed by 17 parsed as Union
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (PRP her))
+sid=1 spanning 3 until 10 headed by 9 parsed as (NP (NML (NML (NNP Xinhua) (NNP News) (NNP Agency)) (NN reporter)) (, ,) (NNP Zhishan) (NNP Cheng))
+sid=1 spanning 3 until 7 headed by 6 parsed as (NML (NML (NNP Xinhua) (NNP News) (NNP Agency)) (NN reporter))
+sid=1 spanning 3 until 6 headed by 5 parsed as Agency
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'her' 'Mingxia Fu' }
+(end gold clusters)

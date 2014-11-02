@@ -1,0 +1,25 @@
+---------gloss--------
+(0) President Clinton and the Democratic presidential candidate were among thousands of mourners who gathered in Missouri at a memorial service for Democratic Governor Mel Carnahan who died Monday in a plane crash . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0043); part 000
+sentences:
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0andandCCOPER0thetheDTOPER0DemocraticdemocraticJJOPER0presidentialpresidentialJJOPER0candidatecandidateNNOPER0werebeVBDOPER0amongamongINOPER0thousandsthousandNNSCARDINALPER0ofofINOPER0mournersmournerNNSOPER0whowhoWPOPER0gatheredgatherVBDOPER0ininINOPER0MissouriMissouriNNPGPEPER0atatINOPER0aaDTOPER0memorialmemorialJJOPER0serviceserviceNNOPER0forforINOPER0DemocraticDemocraticNNPOPER0GovernorGovernorNNPOPER0MelMelNNPPERSONPER0CarnahanCarnahanNNPPERSONPER0whowhoWPOPER0dieddieVBDOPER0MondayMondayNNPDATEPER0ininINOPER0aaDTOPER0planeplaneNNOPER0crashcrashNNOPER0...OPER0(ROOT (S (NP (NP (NNP President) (NNP Clinton)) (CC and) (NP (DT the) (JJ Democratic) (JJ presidential) (NN candidate))) (VP (VBD were) (PP (IN among) (NP (NP (NNS thousands)) (PP (IN of) (NP (NP (NNS mourners)) (SBAR (WHNP (WP who)) (S (VP (VBD gathered) (PP (IN in) (NP (NNP Missouri))) (PP (IN at) (NP (NP (DT a) (JJ memorial) (NN service)) (PP (IN for) (NP (NP (NML (NNP Democratic) (NNP Governor)) (NNP Mel) (NNP Carnahan)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (NNP Monday)) (PP (IN in) (NP (DT a) (NN plane) (NN crash)))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP President) (NNP Clinton)) (CC and) (NP (DT the) (JJ Democratic) (JJ presidential) (NN candidate)))
+sid=0 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP President) (NNP Clinton)) (CC and) (NP (DT the) (JJ Democratic) (JJ presidential) (NN candidate)))
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (DT the) (JJ Democratic) (JJ presidential) (NN candidate))
+sid=0 spanning 9 until 32 headed by 9 parsed as (NP (NP (NNS thousands)) (PP (IN of) (NP (NP (NNS mourners)) (SBAR (WHNP (WP who)) (S (VP (VBD gathered) (PP (IN in) (NP (NNP Missouri))) (PP (IN at) (NP (NP (DT a) (JJ memorial) (NN service)) (PP (IN for) (NP (NP (NML (NNP Democratic) (NNP Governor)) (NNP Mel) (NNP Carnahan)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (NNP Monday)) (PP (IN in) (NP (DT a) (NN plane) (NN crash))))))))))))))))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNP Missouri))
+sid=0 spanning 17 until 32 headed by 19 parsed as (NP (NP (DT a) (JJ memorial) (NN service)) (PP (IN for) (NP (NP (NML (NNP Democratic) (NNP Governor)) (NNP Mel) (NNP Carnahan)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (NNP Monday)) (PP (IN in) (NP (DT a) (NN plane) (NN crash)))))))))
+sid=0 spanning 21 until 32 headed by 24 parsed as (NP (NP (NML (NNP Democratic) (NNP Governor)) (NNP Mel) (NNP Carnahan)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (NNP Monday)) (PP (IN in) (NP (DT a) (NN plane) (NN crash)))))))
+sid=0 spanning 27 until 28 headed by 27 parsed as (NP (NNP Monday))
+sid=0 spanning 29 until 32 headed by 31 parsed as (NP (DT a) (NN plane) (NN crash))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

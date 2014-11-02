@@ -1,0 +1,185 @@
+---------gloss--------
+(0) [4m[32m{Freddie Mac}[0m is giving [3m[34m{golden parachutes}[0m to two of [4m[32m{its}[0m ousted executives . 
+(1) [1m[36m{Our}[0m Rhonda Schaffler is near New York Stock Exchange with the latest on [1m[35m{this unfolding story , certainly one we have been hearing a lot about}[0m . 
+(2) Reporter : 
+(3) That 's right . 
+(4) There 's a new development out . 
+(5) [1m[35m{This particular scandal}[0m has really captivated Wall Street this month . 
+(6) Before [3m[36m{I}[0m tell [4m[33m{you}[0m how big [3m[34m{those parachutes}[0m are , let [3m[36m{me}[0m tell [4m[33m{you}[0m what [4m[34m{the U.S. Treasury Secretary}[0m is saying about it now . 
+(7) [4m[34m{John Snow}[0m making some comments a short time ago saying [4m[34m{he}[0m backs tougher oversight for [4m[32m{the company}[0m . 
+(8) [4m[34m{He}[0m also says [4m[34m{his}[0m department is trying to determine if it has implication for the nation 's financial system . 
+(9) [4m[32m{Freddie Mac}[0m stock is down another 6.5 % today . 
+(10) [4m[35m{It}[0m has lost more than 207 % -- or about 20 % since [4m[31m{Monday}[0m . 
+(11) [4m[31m{Monday}[0m , of course , is when [4m[32m{the company}[0m fired [4m[32m{its}[0m President for not cooperating with efforts to restate earnings for the last few years . 
+(12) [4m[32m{Freddie Mac 's}[0m Chairman and CEO forced out [4m[31m{the same day}[0m . 
+(13) Investors learned last night [3m[31m{the CEO}[0m is getting a severance package worth $ 24 million . 
+(14) [3m[33m{The ousted President}[0m is going to walk away with more than $ 6 million in vested openings . 
+(15) Yesterday Federal Prosecutions announced a criminal probe into [4m[32m{the company}[0m . 
+(16) Probably tough number for the rest of the company employees to hear . 
+(17) [3m[35m{I}[0m want to ask you a little bit about cell phones now . 
+(18) [3m[32m{All of us}[0m use [3m[32m{our}[0m phones , [3m[35m{I}[0m think , maybe too much . 
+(19) The companies that [3m[32m{we}[0m pay for probably love it . 
+(20) Who talks more ? 
+(21) Men or -- 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0400); part 000
+sentences:
+FreddieFreddieNNPORGPER0MacMacNNPORGPER0isbeVBZOPER0givinggiveVBGOPER0goldengoldenJJOPER0parachutesparachuteNNSOPER0totoINOPER0twotwoCDCARDINALPER0ofofINOPER0itsitsPRP$OPER0oustedoustVBNOPER0executivesexecutiveNNSOPER0...OPER0(ROOT (S (NP (NNP Freddie) (NNP Mac)) (VP (VBZ is) (VP (VBG giving) (NP (JJ golden) (NNS parachutes)) (PP (IN to) (NP (NP (CD two)) (PP (IN of) (NP (PRP$ its) (VBN ousted) (NNS executives))))))) (. .)))
+OurwePRP$OPER0RhondaRhondaNNPORGPER0SchafflerSchafflerNNPORGPER0isbeVBZOPER0nearnearINOPER0NewNewNNPORGPER0YorkYorkNNPORGPER0StockStockNNPORGPER0ExchangeExchangeNNPORGPER0withwithINOPER0thetheDTOPER0latestlatestJJSOPER0ononINOPER0thisthisDTOPER0unfoldingunfoldVBGOPER0storystoryNNOPER0,,,OPER0certainlycertainlyRBOPER0oneoneCDOPER0wewePRPOPER0havehaveVBPOPER0beenbeVBNOPER0hearinghearVBGOPER0aaDTOPER0lotlotNNOPER0aboutaboutINOPER0...OPER0(ROOT (S (NP (PRP$ Our) (NNP Rhonda) (NNP Schaffler)) (VP (VBZ is) (PP (IN near) (NP (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))) (PP (IN with) (NP (NP (DT the) (JJS latest)) (PP (IN on) (NP (DT this) (VBG unfolding) (NN story))))) (, ,) (ADVP (RB certainly)) (NP (NP (CD one)) (SBAR (S (NP (PRP we)) (VP (VBP have) (VP (VBN been) (VP (VBG hearing) (NP (DT a) (NN lot)) (PP (IN about))))))))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+ThatthatDTOPER0'sbeVBZOPER0rightrightJJOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ right))) (. .)))
+TherethereEXOPER0's'sPOSOPER0aaDTOPER0newnewJJOPER0developmentdevelopmentNNOPER0outoutRBOPER0...OPER0(ROOT (S (NP (EX There)) (VP (POS 's) (NP (DT a) (JJ new) (NN development)) (ADVP (RB out))) (. .)))
+ThisthisDTOPER0particularparticularJJOPER0scandalscandalNNOPER0hashaveVBZOPER0reallyreallyRBOPER0captivatedcaptivateVBNOPER0WallWallNNPOPER0StreetStreetNNPOPER0thisthisDTDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (NP (DT This) (JJ particular) (NN scandal)) (VP (VBZ has) (ADVP (RB really)) (VP (VBN captivated) (NP (NNP Wall) (NNP Street)) (NP (DT this) (NN month)))) (. .)))
+BeforebeforeINOPER0IIPRPOPER0telltellVBPOPER0youyouPRPOPER0howhowWRBOPER0bigbigJJOPER0thosethoseDTOPER0parachutesparachuteNNSOPER0arebeVBPOPER0,,,OPER0letletVBOPER0meIPRPOPER0telltellVBOPER0youyouPRPOPER0whatwhatWPOPER0thetheDTOPER0U.S.U.S.NNPORGPER0TreasuryTreasuryNNPORGPER0SecretarySecretaryNNPOPER0isbeVBZOPER0sayingsayVBGOPER0aboutaboutINOPER0ititPRPOPER0nownowRBOPER0...OPER0(ROOT (S (SBAR (IN Before) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (SBAR (WHADJP (WRB how) (JJ big)) (S (NP (DT those) (NNS parachutes)) (VP (VBP are))))))) (, ,) (VP (VB let) (S (NP (PRP me)) (VP (VB tell) (NP (PRP you)) (SBAR (WHNP (WP what)) (S (NP (DT the) (NNP U.S.) (NNP Treasury) (NNP Secretary)) (VP (VBZ is) (VP (VBG saying) (PP (IN about) (NP (PRP it))) (ADVP (RB now))))))))) (. .)))
+JohnJohnNNPPERSONPER0SnowSnowNNPPERSONPER0makingmakeVBGOPER0somesomeDTOPER0commentscommentNNSOPER0aaDTOPER0shortshortJJOPER0timetimeNNOPER0agoagoRBOPER0sayingsayVBGOPER0hehePRPOPER0backsbackVBZOPER0toughertougherJJROPER0oversightoversightNNOPER0forforINOPER0thetheDTOPER0companycompanyNNOPER0...OPER0(ROOT (FRAG (NP (NNP John) (NNP Snow)) (VP (VBG making) (NP (DT some) (NNS comments)) (ADVP (NP (DT a) (JJ short) (NN time)) (RB ago)) (S (VP (VBG saying) (SBAR (S (NP (PRP he)) (VP (VBZ backs) (NP (NP (JJR tougher) (NN oversight)) (PP (IN for) (NP (DT the) (NN company)))))))))) (. .)))
+HehePRPOPER0alsoalsoRBOPER0sayssayVBZOPER0hishePRP$OPER0departmentdepartmentNNOPER0isbeVBZOPER0tryingtryVBGOPER0totoTOOPER0determinedetermineVBOPER0ififINOPER0ititPRPOPER0hashaveVBZOPER0implicationimplicationNNOPER0forforINOPER0thetheDTOPER0nationnationNNOPER0's'sPOSOPER0financialfinancialJJOPER0systemsystemNNOPER0...OPER0(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NN department)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB determine) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (NN implication)) (PP (IN for) (NP (NP (DT the) (NN nation) (POS 's)) (JJ financial) (NN system))))))))))))))) (. .)))
+FreddieFreddieNNPORGPER0MacMacNNPORGPER0stockstockNNOPER0isbeVBZOPER0downdownRBOPER0anotheranotherDTOPER06.56.5CDPERCENTPER0%%NNPERCENTPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NML (NNP Freddie) (NNP Mac)) (NN stock)) (VP (VBZ is) (ADVP (RB down)) (NP (DT another) (NML (CD 6.5) (NN %)) (NN today))) (. .)))
+ItitPRPOPER0hashaveVBZOPER0lostloseVBNOPER0moremoreJJRPERCENTPER0thanthanINPERCENTPER0207207CDPERCENTPER0%%NNPERCENTPER0----:OPER0ororCCOPER0aboutaboutRBPERCENTPER02020CDPERCENTPER0%%NNPERCENTPER0sincesinceINOPER0MondayMondayNNPDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ has) (VP (VBN lost) (NP (NP (QP (XS (JJR more) (IN than)) (CD 207)) (NN %)) (: --) (CC or) (NP (NP (QP (RB about) (CD 20)) (NN %)) (PP (IN since) (NP (NNP Monday))))))) (. .)))
+MondayMondayNNPDATEPER0,,,OPER0ofofRBOPER0coursecourseRBOPER0,,,OPER0isbeVBZOPER0whenwhenWRBOPER0thetheDTOPER0companycompanyNNOPER0firedfireVBDOPER0itsitsPRP$OPER0PresidentpresidentNNOPER0forforINOPER0notnotRBOPER0cooperatingcooperateVBGOPER0withwithINOPER0effortseffortNNSOPER0totoTOOPER0restaterestateVBOPER0earningsearningsNNSOPER0forforINOPER0thetheDTDATEPER0lastlastJJDATEPER0fewfewJJDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NNP Monday)) (, ,) (ADVP (RB of) (RB course)) (, ,) (VP (VBZ is) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN company)) (VP (VBD fired) (NP (PRP$ its) (NN President)) (PP (IN for) (S (RB not) (VP (VBG cooperating) (PP (IN with) (NP (NNS efforts) (S (VP (TO to) (VP (VB restate) (NP (NP (NNS earnings)) (PP (IN for) (NP (DT the) (JJ last) (JJ few) (NNS years)))))))))))))))) (. .)))
+FreddieFreddieNNPORGPER0MacMacNNPORGPER0's'sPOSORGPER0ChairmanChairmanNNPOPER0andandCCOPER0CEOCEONNPOPER0forcedforceVBDOPER0outoutRPOPER0thetheDTDATEPER0samesameJJDATEPER0daydayNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP Freddie) (NNP Mac) (POS 's)) (NNP Chairman) (CC and) (NNP CEO)) (VP (VBD forced) (PRT (RP out)) (NP (DT the) (JJ same) (NN day))) (. .)))
+InvestorsinvestorNNSOPER0learnedlearnVBDOPER0lastlastJJOPER0nightnightNNOPER0thetheDTOPER0CEOceoNNOPER0isbeVBZOPER0gettinggetVBGOPER0aaDTOPER0severanceseveranceNNOPER0packagepackageNNOPER0worthworthJJOPER0$$$MONEYPER02424CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NNS Investors)) (VP (VBD learned) (NP (JJ last) (NN night)) (SBAR (S (NP (DT the) (NN CEO)) (VP (VBZ is) (VP (VBG getting) (NP (NP (DT a) (NN severance) (NN package)) (ADJP (JJ worth) (NP (QP ($ $) (CD 24) (CD million)))))))))) (. .)))
+ThetheDTOPER0oustedoustedJJOPER0PresidentPresidentNNPOPER0isbeVBZOPER0goinggoVBGOPER0totoTOOPER0walkwalkVBOPER0awayawayRBOPER0withwithINOPER0moremoreJJRMONEYPER0thanthanINMONEYPER0$$$MONEYPER066CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0vestedvestedJJOPER0openingsopeningNNSOPER0...OPER0(ROOT (S (NP (DT The) (JJ ousted) (NNP President)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB walk) (ADVP (RB away)) (PP (IN with) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 6) (CD million))) (PP (IN in) (NP (JJ vested) (NNS openings)))))))))) (. .)))
+YesterdayyesterdayNNDATEPER0FederalfederalJJORGPER0ProsecutionsprosecutionNNSORGPER0announcedannounceVBDOPER0aaDTOPER0criminalcriminalJJOPER0probeprobeNNOPER0intointoINOPER0thetheDTOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NN Yesterday)) (NP (JJ Federal) (NNS Prosecutions)) (VP (VBD announced) (NP (NP (DT a) (JJ criminal) (NN probe)) (PP (IN into) (NP (DT the) (NN company))))) (. .)))
+ProbablyprobablyRBOPER0toughtoughJJOPER0numbernumberNNOPER0forforINOPER0thetheDTOPER0restrestNNOPER0ofofINOPER0thetheDTOPER0companycompanyNNOPER0employeesemployeeNNSOPER0totoTOOPER0hearhearVBOPER0...OPER0(ROOT (S (ADVP (RB Probably)) (NP (NP (JJ tough) (NN number)) (PP (IN for) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN company)))))) (VP (NNS employees) (S (VP (TO to) (VP (VB hear))))) (. .)))
+IIPRPOPER0wantwantVBPOPER0totoTOOPER0askaskVBOPER0youyouPRPOPER0aaDTOPER0littlelittleJJOPER0bitbitNNOPER0aboutaboutINOPER0cellcellNNOPER0phonesphoneNNSOPER0nownowRBOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB ask) (NP (PRP you)) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN about) (NP (NN cell) (NNS phones)))) (ADVP (RB now)))))) (. .)))
+AllallDTOPER0ofofINOPER0uswePRPOPER0useuseVBPOPER0ourwePRP$OPER0phonesphoneNNSOPER0,,,OPER0IIPRPOPER0thinkthinkVBPOPER0,,,OPER0maybemaybeRBOPER0tootooRBOPER0muchmuchJJOPER0...OPER0(ROOT (S (S (NP (NP (DT All)) (PP (IN of) (NP (PRP us)))) (VP (VBP use) (NP (PRP$ our) (NNS phones)))) (, ,) (S (NP (PRP I)) (VP (VBP think))) (, ,) (S (ADVP (RB maybe)) (ADJP (RB too) (JJ much))) (. .)))
+ThetheDTOPER0companiescompanyNNSOPER0thatthatWDTOPER0wewePRPOPER0paypayVBPOPER0forforINOPER0probablyprobablyRBOPER0loveloveVBPOPER0ititPRPOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS companies)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBP pay) (PP (IN for) (ADVP (RB probably))))))) (VP (VBP love) (NP (PRP it))) (. .)))
+WhowhoWPOPER0talkstalkVBZOPER0moremoreJJROPER0??.OPER0(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ talks) (ADJP (JJR more)))) (. ?)))
+MenmanNNSOPER0ororCCOPER0----:OPER0(ROOT (X (NNS Men) (CC or) (: --)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Freddie) (NNP Mac))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (JJ golden) (NNS parachutes))
+sid=0 spanning 9 until 10 headed by 9 parsed as its
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (PRP$ Our) (NNP Rhonda) (NNP Schaffler))
+sid=1 spanning 0 until 1 headed by 0 parsed as Our
+sid=1 spanning 13 until 26 headed by 15 parsed as (NP (DT this) (VBG unfolding) (NN story))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (PRP we))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT This) (JJ particular) (NN scandal))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (DT those) (NNS parachutes))
+sid=6 spanning 11 until 12 headed by 11 parsed as (NP (PRP me))
+sid=6 spanning 13 until 14 headed by 13 parsed as (NP (PRP you))
+sid=6 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (NNP U.S.) (NNP Treasury) (NNP Secretary))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP John) (NNP Snow))
+sid=7 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=7 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN company))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 3 until 4 headed by 3 parsed as his
+sid=9 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP Freddie) (NNP Mac)) (NN stock))
+sid=9 spanning 0 until 2 headed by 1 parsed as Mac
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=10 spanning 13 until 14 headed by 13 parsed as (NP (NNP Monday))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (NNP Monday))
+sid=11 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN company))
+sid=11 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ its) (NN President))
+sid=11 spanning 10 until 11 headed by 10 parsed as its
+sid=12 spanning 0 until 6 headed by 3 parsed as (NP (NP (NNP Freddie) (NNP Mac) (POS 's)) (NNP Chairman) (CC and) (NNP CEO))
+sid=12 spanning 0 until 3 headed by 1 parsed as (NP (NNP Freddie) (NNP Mac) (POS 's))
+sid=12 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (JJ same) (NN day))
+sid=13 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN CEO))
+sid=14 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ ousted) (NNP President))
+sid=15 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN company))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=18 spanning 0 until 3 headed by 0 parsed as (NP (NP (DT All)) (PP (IN of) (NP (PRP us))))
+sid=18 spanning 4 until 5 headed by 4 parsed as our
+sid=18 spanning 7 until 8 headed by 7 parsed as (NP (PRP I))
+sid=19 spanning 3 until 4 headed by 3 parsed as (NP (PRP we))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Freddie) (NNP Mac))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (JJ golden) (NNS parachutes))
+sid=0 spanning 7 until 12 headed by 7 parsed as (NP (NP (CD two)) (PP (IN of) (NP (PRP$ its) (VBN ousted) (NNS executives))))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (PRP$ Our) (NNP Rhonda) (NNP Schaffler))
+sid=1 spanning 0 until 1 headed by 0 parsed as (PRP$ Our)
+sid=1 spanning 5 until 9 headed by 8 parsed as (NP (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=1 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT the) (JJS latest)) (PP (IN on) (NP (DT this) (VBG unfolding) (NN story))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT this) (VBG unfolding) (NN story))
+sid=1 spanning 18 until 26 headed by 18 parsed as (NP (NP (CD one)) (SBAR (S (NP (PRP we)) (VP (VBP have) (VP (VBN been) (VP (VBG hearing) (NP (DT a) (NN lot)) (PP (IN about))))))))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (PRP we))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT a) (NN lot))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=4 spanning 2 until 5 headed by 4 parsed as (NP (DT a) (JJ new) (NN development))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT This) (JJ particular) (NN scandal))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (NNP Wall) (NNP Street))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (DT this) (NN month))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (DT those) (NNS parachutes))
+sid=6 spanning 11 until 12 headed by 11 parsed as (NP (PRP me))
+sid=6 spanning 13 until 14 headed by 13 parsed as (NP (PRP you))
+sid=6 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (NNP U.S.) (NNP Treasury) (NNP Secretary))
+sid=6 spanning 16 until 18 headed by 17 parsed as Treasury
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP John) (NNP Snow))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (DT some) (NNS comments))
+sid=7 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ short) (NN time))
+sid=7 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=7 spanning 12 until 17 headed by 13 parsed as (NP (NP (JJR tougher) (NN oversight)) (PP (IN for) (NP (DT the) (NN company))))
+sid=7 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN company))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN department))
+sid=8 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=8 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=8 spanning 12 until 19 headed by 12 parsed as (NP (NP (NN implication)) (PP (IN for) (NP (NP (DT the) (NN nation) (POS 's)) (JJ financial) (NN system))))
+sid=8 spanning 14 until 19 headed by 18 parsed as (NP (NP (DT the) (NN nation) (POS 's)) (JJ financial) (NN system))
+sid=8 spanning 14 until 17 headed by 15 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=9 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP Freddie) (NNP Mac)) (NN stock))
+sid=9 spanning 0 until 2 headed by 1 parsed as Mac
+sid=9 spanning 5 until 9 headed by 8 parsed as (NP (DT another) (NML (CD 6.5) (NN %)) (NN today))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=10 spanning 13 until 14 headed by 13 parsed as (NP (NNP Monday))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (NNP Monday))
+sid=11 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN company))
+sid=11 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ its) (NN President))
+sid=11 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=11 spanning 16 until 25 headed by 16 parsed as (NP (NNS efforts) (S (VP (TO to) (VP (VB restate) (NP (NP (NNS earnings)) (PP (IN for) (NP (DT the) (JJ last) (JJ few) (NNS years))))))))
+sid=11 spanning 19 until 25 headed by 19 parsed as (NP (NP (NNS earnings)) (PP (IN for) (NP (DT the) (JJ last) (JJ few) (NNS years))))
+sid=11 spanning 21 until 25 headed by 24 parsed as (NP (DT the) (JJ last) (JJ few) (NNS years))
+sid=12 spanning 0 until 6 headed by 3 parsed as (NP (NP (NNP Freddie) (NNP Mac) (POS 's)) (NNP Chairman) (CC and) (NNP CEO))
+sid=12 spanning 0 until 3 headed by 1 parsed as (NP (NNP Freddie) (NNP Mac) (POS 's))
+sid=12 spanning 3 until 4 headed by 3 parsed as (NNP Chairman)
+sid=12 spanning 5 until 6 headed by 5 parsed as (NNP CEO)
+sid=12 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (JJ same) (NN day))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (NNS Investors))
+sid=13 spanning 2 until 4 headed by 3 parsed as (NP (JJ last) (NN night))
+sid=13 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN CEO))
+sid=13 spanning 8 until 15 headed by 10 parsed as (NP (NP (DT a) (NN severance) (NN package)) (ADJP (JJ worth) (NP (QP ($ $) (CD 24) (CD million)))))
+sid=14 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ ousted) (NNP President))
+sid=14 spanning 15 until 17 headed by 16 parsed as (NP (JJ vested) (NNS openings))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (NN Yesterday))
+sid=15 spanning 1 until 3 headed by 2 parsed as (NP (JJ Federal) (NNS Prosecutions))
+sid=15 spanning 4 until 10 headed by 6 parsed as (NP (NP (DT a) (JJ criminal) (NN probe)) (PP (IN into) (NP (DT the) (NN company))))
+sid=15 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN company))
+sid=16 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN company))))
+sid=16 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN company))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=17 spanning 4 until 5 headed by 4 parsed as (NP (PRP you))
+sid=17 spanning 5 until 11 headed by 7 parsed as (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN about) (NP (NN cell) (NNS phones))))
+sid=17 spanning 9 until 11 headed by 10 parsed as (NP (NN cell) (NNS phones))
+sid=18 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ our) (NNS phones))
+sid=18 spanning 4 until 5 headed by 4 parsed as (PRP$ our)
+sid=18 spanning 7 until 8 headed by 7 parsed as (NP (PRP I))
+sid=19 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NNS companies)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBP pay) (PP (IN for) (ADVP (RB probably)))))))
+sid=19 spanning 3 until 4 headed by 3 parsed as (NP (PRP we))
+sid=19 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+(end predicted mentions)
+---------gold clusters--------
+7 5 | { 'This particular scandal' 'this unfolding story , certainly one we have been hearing a lot about' }
+4 6 | { 'Our' 'we' }
+27 30 | { 'Freddie Mac 's Chairman and CEO' 'the CEO' }
+35 34 37 | { 'our' 'All of us' 'we' }
+25 31 | { 'its President' 'The ousted President' }
+10 1 | { 'those parachutes' 'golden parachutes' }
+33 36 | { 'I' 'I' }
+3 11 8 | { 'Our Rhonda Schaffler' 'me' 'I' }
+29 23 22 | { 'the same day' 'Monday' 'Monday' }
+2 26 32 28 20 0 24 16 | { 'its' 'its' 'the company' 'Freddie Mac 's' 'Freddie Mac' 'Freddie Mac' 'the company' 'the company' }
+12 9 | { 'you' 'you' }
+14 13 17 15 18 | { 'John Snow' 'the U.S. Treasury Secretary' 'He' 'he' 'his' }
+19 21 | { 'Freddie Mac stock' 'It' }
+(end gold clusters)

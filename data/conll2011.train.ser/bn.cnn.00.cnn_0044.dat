@@ -1,0 +1,83 @@
+---------gloss--------
+(0) The Senate has overwhelmingly approved [3m[34m{an agriculture spending bill that includes a provision to ease trade sanctions against China}[0m . 
+(1) [3m[34m{The measure}[0m allows [3m[35m{the sale of food and medicine to Cuba}[0m for the first time in 40 years . 
+(2) [3m[34m{It}[0m prohibits public or private U.S. financial institutions from financing [3m[35m{the sales}[0m . 
+(3) As a result , [3m[36m{Cuba}[0m will have to pay cash or get credit from a third country to buy U.S. products . 
+(4) [4m[31m{President Clinton}[0m has said [4m[31m{he}[0m will sign [3m[34m{it}[0m . 
+(5) In Havana , [4m[32m{800,000 Cubans}[0m , led by Fidel Castro , marched in protest . 
+(6) [4m[32m{They}[0m insist [3m[34m{the bill}[0m would actually toughen the embargo , primarily by making U.S. travel to [3m[36m{the island}[0m more difficult . 
+(7) Rules that generally ban tourism to [3m[36m{Cuba}[0m would become law . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0044); part 000
+sentences:
+ThetheDTOPER0SenateSenateNNPORGPER0hashaveVBZOPER0overwhelminglyoverwhelminglyRBOPER0approvedapproveVBNOPER0anaDTOPER0agricultureagricultureNNOPER0spendingspendingNNOPER0billbillNNOPER0thatthatWDTOPER0includesincludeVBZOPER0aaDTOPER0provisionprovisionNNOPER0totoTOOPER0easeeaseVBOPER0tradetradeNNOPER0sanctionssanctionNNSOPER0againstagainstINOPER0ChinaChinaNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NNP Senate)) (VP (VBZ has) (ADVP (RB overwhelmingly)) (VP (VBN approved) (NP (NP (DT an) (NN agriculture) (NN spending) (NN bill)) (SBAR (WHNP (WDT that)) (S (VP (VBZ includes) (NP (NP (DT a) (NN provision)) (SBAR (S (VP (TO to) (VP (VB ease) (NP (NP (NN trade) (NNS sanctions)) (PP (IN against) (NP (NNP China))))))))))))))) (. .)))
+ThetheDTOPER0measuremeasureNNOPER0allowsallowVBZOPER0thetheDTOPER0salesaleNNOPER0ofofINOPER0foodfoodNNOPER0andandCCOPER0medicinemedicineNNOPER0totoINOPER0CubaCubaNNPGPEPER0forforINOPER0thetheDTOPER0firstfirstJJORDINALPER0timetimeNNOPER0ininINOPER04040CDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NN measure)) (VP (VBZ allows) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NN food) (CC and) (NN medicine))) (PP (IN to) (NP (NNP Cuba)))) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN in) (NP (CD 40) (NNS years)))))) (. .)))
+ItitPRPOPER0prohibitsprohibitVBZOPER0publicpublicJJOPER0ororCCOPER0privateprivateJJOPER0U.S.U.S.NNPGPEPER0financialfinancialJJOPER0institutionsinstitutionNNSOPER0fromfromINOPER0financingfinanceVBGOPER0thetheDTOPER0salessaleNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ prohibits) (NP (ADJP (JJ public) (CC or) (JJ private)) (NNP U.S.)) (PP (NP (JJ financial) (NNS institutions)) (IN from) (S (VP (VBG financing) (NP (DT the) (NNS sales)))))) (. .)))
+AsasINOPER0aaDTOPER0resultresultNNOPER0,,,OPER0CubaCubaNNPGPEPER0willwillMDOPER0havehaveVBOPER0totoTOOPER0paypayVBOPER0cashcashNNOPER0ororCCOPER0getgetVBOPER0creditcreditNNOPER0fromfromINOPER0aaDTOPER0thirdthirdJJCARDINALPER0countrycountryNNOPER0totoTOOPER0buybuyVBOPER0U.S.U.S.NNPGPEPER0productsproductNNSOPER0...OPER0(ROOT (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NNP Cuba)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VP (VB pay) (NP (NN cash))) (CC or) (VP (VB get) (NP (NN credit)) (PP (IN from) (NP (DT a) (JJ third) (NN country))) (S (VP (TO to) (VP (VB buy) (NP (NNP U.S.) (NNS products))))))))))) (. .)))
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0hashaveVBZOPER0saidsayVBDOPER0hehePRPOPER0willwillMDOPER0signsignVBOPER0ititPRPOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (VP (VBZ has) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB sign) (NP (PRP it)))))))) (. .)))
+IninINOPER0HavanaHavanaNNPGPEPER0,,,OPER0800,000800,000CDCARDINALPER0CubansCubansNNPSOPER0,,,OPER0ledleadVBNOPER0bybyINOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0,,,OPER0marchedmarchVBDOPER0ininINOPER0protestprotestNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Havana))) (, ,) (NP (CD 800,000) (NNPS Cubans)) (, ,) (S (VP (VBN led) (PP (IN by) (NP (NNP Fidel) (NNP Castro))))) (, ,) (VP (VBD marched) (PP (IN in) (NP (NN protest)))) (. .)))
+TheytheyPRPOPER0insistinsistVBPOPER0thetheDTOPER0billbillNNOPER0wouldwouldMDOPER0actuallyactuallyRBOPER0toughentoughenVBOPER0thetheDTOPER0embargoembargoNNOPER0,,,OPER0primarilyprimarilyRBOPER0bybyINOPER0makingmakeVBGOPER0U.S.U.S.NNPGPEPER0traveltravelNNOPER0totoINOPER0thetheDTOPER0islandislandNNOPER0moremoreRBROPER0difficultdifficultJJOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP insist) (SBAR (S (NP (DT the) (NN bill)) (VP (MD would) (ADVP (RB actually)) (VP (VB toughen) (NP (DT the) (NN embargo)) (, ,) (PP (ADVP (RB primarily)) (IN by) (S (VP (VBG making) (S (NP (NP (NNP U.S.) (NN travel)) (PP (IN to) (NP (DT the) (NN island)))) (ADJP (RBR more) (JJ difficult))))))))))) (. .)))
+RulesruleNNSOPER0thatthatWDTOPER0generallygenerallyRBOPER0banbanVBPOPER0tourismtourismNNOPER0totoINOPER0CubaCubaNNPGPEPER0wouldwouldMDOPER0becomebecomeVBOPER0lawlawNNOPER0...OPER0(ROOT (NP (NP (NNS Rules)) (SBAR (WHNP (WDT that)) (S (ADVP (RB generally)) (VP (VBP ban) (SBAR (S (NP (NP (NN tourism)) (PP (IN to) (NP (NNP Cuba)))) (VP (MD would) (VP (VB become) (NP (NN law))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 19 headed by 8 parsed as (NP (NP (DT an) (NN agriculture) (NN spending) (NN bill)) (SBAR (WHNP (WDT that)) (S (VP (VBZ includes) (NP (NP (DT a) (NN provision)) (SBAR (S (VP (TO to) (VP (VB ease) (NP (NP (NN trade) (NNS sanctions)) (PP (IN against) (NP (NNP China)))))))))))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN measure))
+sid=1 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NN food) (CC and) (NN medicine))) (PP (IN to) (NP (NNP Cuba))))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNP Cuba))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS sales))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Cuba))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (CD 800,000) (NNPS Cubans))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN bill))
+sid=6 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN island))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Cuba))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Senate))
+sid=0 spanning 5 until 19 headed by 8 parsed as (NP (NP (DT an) (NN agriculture) (NN spending) (NN bill)) (SBAR (WHNP (WDT that)) (S (VP (VBZ includes) (NP (NP (DT a) (NN provision)) (SBAR (S (VP (TO to) (VP (VB ease) (NP (NP (NN trade) (NNS sanctions)) (PP (IN against) (NP (NNP China)))))))))))))
+sid=0 spanning 11 until 19 headed by 12 parsed as (NP (NP (DT a) (NN provision)) (SBAR (S (VP (TO to) (VP (VB ease) (NP (NP (NN trade) (NNS sanctions)) (PP (IN against) (NP (NNP China)))))))))
+sid=0 spanning 15 until 19 headed by 16 parsed as (NP (NP (NN trade) (NNS sanctions)) (PP (IN against) (NP (NNP China))))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP China))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN measure))
+sid=1 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NN food) (CC and) (NN medicine))) (PP (IN to) (NP (NNP Cuba))))
+sid=1 spanning 6 until 9 headed by 6 parsed as (NP (NN food) (CC and) (NN medicine))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNP Cuba))
+sid=1 spanning 12 until 18 headed by 14 parsed as (NP (NP (DT the) (JJ first) (NN time)) (PP (IN in) (NP (CD 40) (NNS years))))
+sid=1 spanning 13 until 14 headed by 13 parsed as first
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (CD 40) (NNS years))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 2 until 6 headed by 5 parsed as (NP (ADJP (JJ public) (CC or) (JJ private)) (NNP U.S.))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (JJ financial) (NNS institutions))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS sales))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (DT a) (NN result))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Cuba))
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (JJ third) (NN country))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (NNP U.S.) (NNS products))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (NNP Havana))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (CD 800,000) (NNPS Cubans))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (NNP Fidel) (NNP Castro))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN bill))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN embargo))
+sid=6 spanning 13 until 18 headed by 14 parsed as (NP (NP (NNP U.S.) (NN travel)) (PP (IN to) (NP (DT the) (NN island))))
+sid=6 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN island))
+sid=7 spanning 0 until 11 headed by 0 parsed as (NP (NP (NNS Rules)) (SBAR (WHNP (WDT that)) (S (ADVP (RB generally)) (VP (VBP ban) (SBAR (S (NP (NP (NN tourism)) (PP (IN to) (NP (NNP Cuba)))) (VP (MD would) (VP (VB become) (NP (NN law))))))))) (. .))
+sid=7 spanning 4 until 7 headed by 4 parsed as (NP (NP (NN tourism)) (PP (IN to) (NP (NNP Cuba))))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Cuba))
+(end predicted mentions)
+---------gold clusters--------
+12 9 0 4 1 | { 'the bill' 'it' 'an agriculture spending bill that includes a provision to ease trade sanctions against China' 'It' 'The measure' }
+2 5 | { 'the sale of food and medicine to Cuba' 'the sales' }
+14 3 6 13 | { 'Cuba' 'Cuba' 'Cuba' 'the island' }
+7 8 | { 'President Clinton' 'he' }
+10 11 | { '800,000 Cubans' 'They' }
+(end gold clusters)

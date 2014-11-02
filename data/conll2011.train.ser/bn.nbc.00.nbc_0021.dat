@@ -1,0 +1,31 @@
+---------gloss--------
+(0) [1m[31m{The new democratic government of Yugoslavia}[0m was readmitted to [1m[32m{the U.N.}[0m after being ostracized for eight years while under the rule of Slobodan Milosevic . 
+(1) [1m[31m{It}[0m 's now back in [1m[32m{the U.N}[0m . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0021); part 000
+sentences:
+ThetheDTOPER0newnewJJOPER0democraticdemocraticJJOPER0governmentgovernmentNNOPER0ofofINOPER0YugoslaviaYugoslaviaNNPGPEPER0wasbeVBDOPER0readmittedreadmitVBNOPER0totoINOPER0thetheDTOPER0U.N.U.N.NNPORGPER0afterafterINOPER0beingbeVBGOPER0ostracizedostracizeVBNOPER0forforINOPER0eighteightCDDATEPER0yearsyearNNSDATEPER0whilewhileINOPER0underunderINOPER0thetheDTOPER0ruleruleNNOPER0ofofINOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ new) (JJ democratic) (NN government)) (PP (IN of) (NP (NNP Yugoslavia)))) (VP (VBD was) (VP (VBN readmitted) (PP (IN to) (NP (DT the) (NNP U.N.))) (PP (IN after) (S (VP (VBG being) (VP (VBN ostracized) (PP (IN for) (NP (CD eight) (NNS years))) (SBAR (IN while) (S (PP (IN under) (NP (NP (DT the) (NN rule)) (PP (IN of) (NP (NNP Slobodan) (NNP Milosevic))))))))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0nownowRBOPER0backbackRBOPER0ininINOPER0thetheDTOPER0U.NU.NNNPORGPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB now)) (ADVP (RB back) (PP (IN in) (NP (DT the) (NNP U.N))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 3 parsed as (NP (NP (DT The) (JJ new) (JJ democratic) (NN government)) (PP (IN of) (NP (NNP Yugoslavia))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNP U.N.))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP U.N))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 3 parsed as (NP (NP (DT The) (JJ new) (JJ democratic) (NN government)) (PP (IN of) (NP (NNP Yugoslavia))))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNP U.N.))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (CD eight) (NNS years))
+sid=0 spanning 19 until 24 headed by 20 parsed as (NP (NP (DT the) (NN rule)) (PP (IN of) (NP (NNP Slobodan) (NNP Milosevic))))
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP U.N))
+(end predicted mentions)
+---------gold clusters--------
+2 0 | { 'It' 'The new democratic government of Yugoslavia' }
+1 3 | { 'the U.N.' 'the U.N' }
+(end gold clusters)

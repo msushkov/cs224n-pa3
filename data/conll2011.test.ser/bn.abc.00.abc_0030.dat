@@ -1,0 +1,113 @@
+---------gloss--------
+(0) We have an exclusive report tonight about [1m[31m{the `` USS Cole}[0m , '' and [36m{an identical attack that was planned , but failed , several months earlier}[0m . 
+(1) Here 's [35m{ABC 's}[0m John M Wethy . 
+(2) [35m{ABC News}[0m has learned that the terrorists who attacked [1m[31m{the `` USS Cole ''}[0m originally planned to [36m{hit}[0m [1m[32m{a different American warship in the same port}[0m ten months earlier . 
+(3) [36m{The attack}[0m was to be part of a worldwide effort during celebration of the millennium that included targets in Jordan and Seattle . 
+(4) Intelligence sources say the target was to be [1m[32m{a destroyer , the `` USS The Sullivans , '' which refueled in Yemen 's port of Aden in January}[0m . 
+(5) Sources tell [35m{ABC News}[0m that [1m[33m{a suspect who has been in custody for several weeks}[0m told Yemeni investigators that [1m[33m{his}[0m group failed in [33m{their}[0m attack because [33m{their}[0m small boat , overloaded with explosives , sank just off the beach . 
+(6) [1m[33m{The suspect}[0m said it took months to repackage and redesign the load of high explosives that was eventually used against `` the [1m[31m{Cole}[0m . '' 
+(7) [34m{John M Wethy}[0m , [35m{ABC News}[0m , the Pentagon . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0030); part 000
+sentences:
+WewePRPOPER0havehaveVBPOPER0anaDTOPER0exclusiveexclusiveJJOPER0reportreportNNOPER0tonighttonightNNTIMEPER0aboutaboutINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1,,,OPER1''''''OPER0andandCCOPER0anaDTOPER0identicalidenticalJJOPER0attackattackNNOPER0thatthatWDTOPER0wasbeVBDOPER0plannedplanVBNOPER0,,,OPER0butbutCCOPER0failedfailVBNOPER0,,,OPER0severalseveralJJDATEPER0monthsmonthNNSDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP have) (NP (NP (NP (DT an) (JJ exclusive) (NN report)) (NP (NN tonight)) (PP (IN about) (NP (DT the) (`` ``) (NNP USS) (NNP Cole)))) (, ,) ('' '') (CC and) (NP (NP (DT an) (JJ identical) (NN attack)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD was) (VP (VBN planned))) (, ,) (CC but) (VP (VBN failed)))))) (, ,) (ADVP (NP (JJ several) (NNS months)) (RBR earlier)))) (. .)))
+HerehereRBOPER0'sbeVBZOPER0ABCABCNNPORGPER0's'sPOSOPER0JohnJohnNNPPERSONPER0MMNNPPERSONPER0WethyWethyNNPPERSONPER0...OPER0(ROOT (SINV (ADVP (RB Here)) (VP (VBZ 's)) (NP (NP (NNP ABC) (POS 's)) (NNP John) (NNP M) (NNP Wethy)) (. .)))
+ABCABCNNPORGPER0NewsNewsNNPORGPER0hashaveVBZOPER0learnedlearnVBNOPER0thatthatINOPER0thetheDTOPER0terroriststerroristNNSOPER0whowhoWPOPER0attackedattackVBDOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER2ColeColeNNPPRODUCTPER2''''''PRODUCTPER0originallyoriginallyRBOPER0plannedplanVBDOPER0totoTOOPER0hithitVBOPER0aaDTOPER0differentdifferentJJOPER0AmericanamericanJJOPER0warshipwarshipNNOPER0ininINOPER0thetheDTOPER0samesameJJOPER0portportNNOPER0tentenCDDATEPER0monthsmonthNNSDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (NNP ABC) (NNP News)) (VP (VBZ has) (VP (VBN learned) (SBAR (IN that) (S (NP (NP (DT the) (NNS terrorists)) (SBAR (WHNP (WP who)) (S (VP (VBD attacked) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))))) (ADVP (RB originally)) (VP (VBD planned) (S (VP (TO to) (VP (VB hit) (NP (DT a) (JJ different) (JJ American) (NN warship)) (PP (IN in) (NP (NP (DT the) (JJ same) (NN port)) (ADVP (NP (CD ten) (NNS months)) (RBR earlier)))))))))))) (. .)))
+ThetheDTOPER0attackattackNNOPER0wasbeVBDOPER0totoTOOPER0bebeVBOPER0partpartNNOPER0ofofINOPER0aaDTOPER0worldwideworldwideJJOPER0efforteffortNNOPER0duringduringINOPER0celebrationcelebrationNNOPER0ofofINOPER0thetheDTDATEPER0millenniummillenniumNNDATEPER0thatthatWDTOPER0includedincludeVBDOPER0targetstargetNNSOPER0ininINOPER0JordanJordanNNPGPEPER0andandCCOPER0SeattleSeattleNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN attack)) (VP (VBD was) (S (VP (TO to) (VP (VB be) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (JJ worldwide) (NN effort)) (PP (IN during) (NP (NP (NN celebration)) (PP (IN of) (NP (NP (DT the) (NN millennium)) (SBAR (WHNP (WDT that)) (S (VP (VBD included) (NP (NP (NNS targets)) (PP (IN in) (NP (NP (NNP Jordan)) (CC and) (NP (NNP Seattle))))))))))))))))))) (. .)))
+IntelligenceintelligenceNNORGPER0sourcessourceNNSOPER0saysayVBPOPER0thetheDTOPER0targettargetNNOPER0wasbeVBDOPER0totoTOOPER0bebeVBOPER0aaDTOPER0destroyerdestroyerNNOPER0,,,OPER0thetheDTOPER0``````OUSSUSSNNPPRODUCTPER3TheTheNNPPRODUCTPER3SullivansSullivansNNPPRODUCTPER3,,,OPER3''''''OPER0whichwhichWDTOPER0refueledrefuelVBDOPER0ininINOPER0YemenYemenNNPGPEPER0's'sPOSOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0ininINOPER0JanuaryJanuaryNNPDATEPER0...OPER0(ROOT (S (NP (NN Intelligence) (NNS sources)) (VP (VBP say) (SBAR (S (NP (DT the) (NN target)) (VP (VBD was) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN destroyer)) (, ,) (NP (DT the) (`` ``) (NP (NNP USS) (NNP The) (NNP Sullivans)) (, ,) ('' '') (SBAR (WHNP (WDT which)) (S (VP (VBD refueled) (PP (IN in) (NP (NP (NP (NNP Yemen) (POS 's)) (NN port)) (PP (IN of) (NP (NNP Aden))))) (PP (IN in) (NP (NNP January))))))))))))))) (. .)))
+SourcessourceNNSOPER0telltellVBPOPER0ABCABCNNPORGPER0NewsNewsNNPORGPER0thatthatINOPER0aaDTOPER0suspectsuspectNNOPER0whowhoWPOPER0hashaveVBZOPER0beenbeVBNOPER0ininINOPER0custodycustodyNNOPER0forforINOPER0severalseveralJJDATEPER0weeksweekNNSDATEPER0toldtellVBDOPER0YemeniyemeniJJOPER0investigatorsinvestigatorNNSOPER0thatthatINOPER0hishePRP$OPER0groupgroupNNOPER0failedfailVBDOPER0ininINOPER0theirtheyPRP$OPER0attackattackNNOPER0becausebecauseINOPER0theirtheyPRP$OPER0smallsmallJJOPER0boatboatNNOPER0,,,OPER0overloadedoverloadVBNOPER0withwithINOPER0explosivesexplosiveNNSOPER0,,,OPER0sanksinkVBDOPER0justjustRBOPER0offoffINOPER0thetheDTOPER0beachbeachNNOPER0...OPER0(ROOT (S (NP (NNS Sources)) (VP (VBP tell) (NP (NNP ABC) (NNP News)) (SBAR (IN that) (S (NP (NP (DT a) (NN suspect)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN been) (PP (IN in) (NP (NN custody))) (PP (IN for) (NP (JJ several) (NNS weeks)))))))) (VP (VBD told) (NP (JJ Yemeni) (NNS investigators)) (SBAR (IN that) (S (NP (PRP$ his) (NN group)) (VP (VBD failed) (PP (IN in) (NP (PRP$ their) (NN attack))) (SBAR (IN because) (S (NP (NP (PRP$ their) (JJ small) (NN boat)) (, ,) (VP (VBN overloaded) (PP (IN with) (NP (NNS explosives)))) (, ,)) (VP (VBD sank) (PP (ADVP (RB just)) (IN off) (NP (DT the) (NN beach))))))))))))) (. .)))
+ThetheDTOPER0suspectsuspectNNOPER0saidsayVBDOPER0ititPRPOPER0tooktakeVBDOPER0monthsmonthNNSDATEPER0totoTOOPER0repackagerepackageVBOPER0andandCCOPER0redesignredesignVBOPER0thetheDTOPER0loadloadNNOPER0ofofINOPER0highhighJJOPER0explosivesexplosiveNNSOPER0thatthatWDTOPER0wasbeVBDOPER0eventuallyeventuallyRBOPER0useduseVBNOPER0againstagainstINOPER0``````OthetheDTOPER4ColeColeNNPPERSONPER4...OPER4''''''OPER0(ROOT (S (NP (DT The) (NN suspect)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD took) (NP (NNS months)) (S (VP (TO to) (VP (VB repackage) (CC and) (VB redesign) (NP (NP (DT the) (NN load)) (PP (IN of) (NP (NP (JJ high) (NNS explosives)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB eventually)) (VP (VBN used) (PP (IN against) (`` ``) (NP (DT the) (NNP Cole))))))))))))))))) (. .) ('' '')))
+JohnJohnNNPPERSONPER0MMNNPPERSONPER0WethyWethyNNPPERSONPER0,,,OPER0ABCABCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0thetheDTOPER0PentagonPentagonNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP John) (NNP M) (NNP Wethy)) (, ,) (NP (NNP ABC) (NNP News)) (, ,) (NP (DT the) (NNP Pentagon)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=0 spanning 14 until 27 headed by 16 parsed as (NP (NP (DT an) (JJ identical) (NN attack)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD was) (VP (VBN planned))) (, ,) (CC but) (VP (VBN failed))))))
+sid=1 spanning 2 until 7 headed by 6 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP John) (NNP M) (NNP Wethy))
+sid=1 spanning 2 until 4 headed by 2 parsed as (NP (NNP ABC) (POS 's))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP ABC) (NNP News))
+sid=2 spanning 9 until 14 headed by 12 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=2 spanning 17 until 18 headed by 17 parsed as hit
+sid=2 spanning 18 until 26 headed by 21 parsed as (NP (DT a) (JJ different) (JJ American) (NN warship))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN attack))
+sid=4 spanning 8 until 28 headed by 9 parsed as (NP (NP (DT a) (NN destroyer)) (, ,) (NP (DT the) (`` ``) (NP (NNP USS) (NNP The) (NNP Sullivans)) (, ,) ('' '') (SBAR (WHNP (WDT which)) (S (VP (VBD refueled) (PP (IN in) (NP (NP (NP (NNP Yemen) (POS 's)) (NN port)) (PP (IN of) (NP (NNP Aden))))) (PP (IN in) (NP (NNP January))))))))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (NNP ABC) (NNP News))
+sid=5 spanning 5 until 15 headed by 6 parsed as (NP (NP (DT a) (NN suspect)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN been) (PP (IN in) (NP (NN custody))) (PP (IN for) (NP (JJ several) (NNS weeks))))))))
+sid=5 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ his) (NN group))
+sid=5 spanning 19 until 20 headed by 19 parsed as his
+sid=5 spanning 23 until 25 headed by 24 parsed as (NP (PRP$ their) (NN attack))
+sid=5 spanning 23 until 24 headed by 23 parsed as their
+sid=5 spanning 26 until 27 headed by 26 parsed as their
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN suspect))
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (DT the) (NNP Cole))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (NNP John) (NNP M) (NNP Wethy))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (NNP ABC) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=0 spanning 2 until 27 headed by 4 parsed as (NP (NP (NP (DT an) (JJ exclusive) (NN report)) (NP (NN tonight)) (PP (IN about) (NP (DT the) (`` ``) (NNP USS) (NNP Cole)))) (, ,) ('' '') (CC and) (NP (NP (DT an) (JJ identical) (NN attack)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD was) (VP (VBN planned))) (, ,) (CC but) (VP (VBN failed)))))) (, ,) (ADVP (NP (JJ several) (NNS months)) (RBR earlier)))
+sid=0 spanning 2 until 11 headed by 4 parsed as (NP (NP (DT an) (JJ exclusive) (NN report)) (NP (NN tonight)) (PP (IN about) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=0 spanning 14 until 23 headed by 16 parsed as (NP (NP (DT an) (JJ identical) (NN attack)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD was) (VP (VBN planned))) (, ,) (CC but) (VP (VBN failed))))))
+sid=0 spanning 24 until 27 headed by 26 parsed as earlier
+sid=1 spanning 2 until 7 headed by 6 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP John) (NNP M) (NNP Wethy))
+sid=1 spanning 2 until 4 headed by 2 parsed as (NP (NNP ABC) (POS 's))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP ABC) (NNP News))
+sid=2 spanning 5 until 14 headed by 6 parsed as (NP (NP (DT the) (NNS terrorists)) (SBAR (WHNP (WP who)) (S (VP (VBD attacked) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))))
+sid=2 spanning 9 until 14 headed by 12 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=2 spanning 18 until 22 headed by 21 parsed as (NP (DT a) (JJ different) (JJ American) (NN warship))
+sid=2 spanning 23 until 29 headed by 25 parsed as (NP (NP (DT the) (JJ same) (NN port)) (ADVP (NP (CD ten) (NNS months)) (RBR earlier)))
+sid=2 spanning 26 until 29 headed by 28 parsed as earlier
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN attack))
+sid=3 spanning 5 until 22 headed by 5 parsed as (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (JJ worldwide) (NN effort)) (PP (IN during) (NP (NP (NN celebration)) (PP (IN of) (NP (NP (DT the) (NN millennium)) (SBAR (WHNP (WDT that)) (S (VP (VBD included) (NP (NP (NNS targets)) (PP (IN in) (NP (NP (NNP Jordan)) (CC and) (NP (NNP Seattle)))))))))))))))
+sid=3 spanning 7 until 22 headed by 9 parsed as (NP (NP (DT a) (JJ worldwide) (NN effort)) (PP (IN during) (NP (NP (NN celebration)) (PP (IN of) (NP (NP (DT the) (NN millennium)) (SBAR (WHNP (WDT that)) (S (VP (VBD included) (NP (NP (NNS targets)) (PP (IN in) (NP (NP (NNP Jordan)) (CC and) (NP (NNP Seattle)))))))))))))
+sid=3 spanning 11 until 22 headed by 11 parsed as (NP (NP (NN celebration)) (PP (IN of) (NP (NP (DT the) (NN millennium)) (SBAR (WHNP (WDT that)) (S (VP (VBD included) (NP (NP (NNS targets)) (PP (IN in) (NP (NP (NNP Jordan)) (CC and) (NP (NNP Seattle)))))))))))
+sid=3 spanning 13 until 22 headed by 14 parsed as (NP (NP (DT the) (NN millennium)) (SBAR (WHNP (WDT that)) (S (VP (VBD included) (NP (NP (NNS targets)) (PP (IN in) (NP (NP (NNP Jordan)) (CC and) (NP (NNP Seattle)))))))))
+sid=3 spanning 17 until 22 headed by 17 parsed as (NP (NP (NNS targets)) (PP (IN in) (NP (NP (NNP Jordan)) (CC and) (NP (NNP Seattle)))))
+sid=3 spanning 19 until 20 headed by 19 parsed as (NP (NP (NNP Jordan)) (CC and) (NP (NNP Seattle)))
+sid=3 spanning 19 until 22 headed by 19 parsed as (NP (NP (NNP Jordan)) (CC and) (NP (NNP Seattle)))
+sid=3 spanning 21 until 22 headed by 21 parsed as (NP (NNP Seattle))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NN Intelligence) (NNS sources))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN target))
+sid=4 spanning 8 until 28 headed by 9 parsed as (NP (NP (DT a) (NN destroyer)) (, ,) (NP (DT the) (`` ``) (NP (NNP USS) (NNP The) (NNP Sullivans)) (, ,) ('' '') (SBAR (WHNP (WDT which)) (S (VP (VBD refueled) (PP (IN in) (NP (NP (NP (NNP Yemen) (POS 's)) (NN port)) (PP (IN of) (NP (NNP Aden))))) (PP (IN in) (NP (NNP January))))))))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN destroyer))
+sid=4 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (`` ``) (NP (NNP USS) (NNP The) (NNP Sullivans)) (, ,) ('' '') (SBAR (WHNP (WDT which)) (S (VP (VBD refueled) (PP (IN in) (NP (NP (NP (NNP Yemen) (POS 's)) (NN port)) (PP (IN of) (NP (NNP Aden))))) (PP (IN in) (NP (NNP January)))))))
+sid=4 spanning 11 until 28 headed by 15 parsed as (NP (DT the) (`` ``) (NP (NNP USS) (NNP The) (NNP Sullivans)) (, ,) ('' '') (SBAR (WHNP (WDT which)) (S (VP (VBD refueled) (PP (IN in) (NP (NP (NP (NNP Yemen) (POS 's)) (NN port)) (PP (IN of) (NP (NNP Aden))))) (PP (IN in) (NP (NNP January)))))))
+sid=4 spanning 21 until 26 headed by 23 parsed as (NP (NP (NP (NNP Yemen) (POS 's)) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=4 spanning 21 until 23 headed by 21 parsed as (NP (NNP Yemen) (POS 's))
+sid=4 spanning 25 until 26 headed by 25 parsed as (NP (NNP Aden))
+sid=4 spanning 27 until 28 headed by 27 parsed as (NP (NNP January))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Sources))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (NNP ABC) (NNP News))
+sid=5 spanning 5 until 15 headed by 6 parsed as (NP (NP (DT a) (NN suspect)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN been) (PP (IN in) (NP (NN custody))) (PP (IN for) (NP (JJ several) (NNS weeks))))))))
+sid=5 spanning 13 until 15 headed by 14 parsed as (NP (JJ several) (NNS weeks))
+sid=5 spanning 16 until 18 headed by 17 parsed as (NP (JJ Yemeni) (NNS investigators))
+sid=5 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ his) (NN group))
+sid=5 spanning 19 until 20 headed by 19 parsed as (PRP$ his)
+sid=5 spanning 23 until 25 headed by 24 parsed as (NP (PRP$ their) (NN attack))
+sid=5 spanning 23 until 24 headed by 23 parsed as (PRP$ their)
+sid=5 spanning 26 until 34 headed by 28 parsed as (NP (NP (PRP$ their) (JJ small) (NN boat)) (, ,) (VP (VBN overloaded) (PP (IN with) (NP (NNS explosives)))) (, ,))
+sid=5 spanning 26 until 29 headed by 28 parsed as (NP (PRP$ their) (JJ small) (NN boat))
+sid=5 spanning 26 until 27 headed by 26 parsed as (PRP$ their)
+sid=5 spanning 32 until 33 headed by 32 parsed as (NP (NNS explosives))
+sid=5 spanning 37 until 39 headed by 38 parsed as (NP (DT the) (NN beach))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN suspect))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=6 spanning 5 until 6 headed by 5 parsed as (NP (NNS months))
+sid=6 spanning 10 until 23 headed by 11 parsed as (NP (NP (DT the) (NN load)) (PP (IN of) (NP (NP (JJ high) (NNS explosives)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB eventually)) (VP (VBN used) (PP (IN against) (`` ``) (NP (DT the) (NNP Cole))))))))))
+sid=6 spanning 13 until 23 headed by 14 parsed as (NP (NP (JJ high) (NNS explosives)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB eventually)) (VP (VBN used) (PP (IN against) (`` ``) (NP (DT the) (NNP Cole))))))))
+sid=6 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NNP Cole))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (NNP John) (NNP M) (NNP Wethy))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (NNP ABC) (NNP News))
+sid=7 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNP Pentagon))
+(end predicted mentions)
+---------gold clusters--------
+15 16 12 | { 'their' 'their' 'his group' }
+2 19 | { 'ABC 's John M Wethy' 'John M Wethy' }
+3 4 20 10 | { 'ABC 's' 'ABC News' 'ABC News' 'ABC News' }
+1 8 14 6 | { 'an identical attack that was planned , but failed , several months earlier' 'The attack' 'their attack' 'hit' }
+18 0 5 | { 'Cole' 'the `` USS Cole' 'the `` USS Cole ''' }
+7 9 | { 'a different American warship in the same port' 'a destroyer , the `` USS The Sullivans , '' which refueled in Yemen 's port of Aden in January' }
+13 11 17 | { 'his' 'a suspect who has been in custody for several weeks' 'The suspect' }
+(end gold clusters)

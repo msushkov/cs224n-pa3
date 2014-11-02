@@ -1,0 +1,102 @@
+---------gloss--------
+(0) [1m[31m{The founder and former CEO}[0m of [1m[33m{ImClone}[0m just learned the penalty for [1m[31m{his}[0m role in [1m[33m{the pharmaceutical company 's}[0m insider trading scandal . 
+(1) [1m[31m{Sam Waksal}[0m was sentenced to seven years and three months in federal prison . 
+(2) [1m[31m{He}[0m 's also being fined $ 3 million and was ordered to pay $ 1.2 million in restitution to the New York State Tax Commission . 
+(3) [1m[31m{Waksal}[0m pleaded guilty last fall to six counts of security fraud , bank fraud , conspiracy to obstruct justice and perjury . 
+(4) [1m[31m{He}[0m 's being released on [1m[31m{his}[0m own cognizance before [1m[31m{he}[0m 's to report to jail . 
+(5) [1m[31m{Waksal}[0m admitted to tipping [1m[31m{his}[0m daughter to dump [1m[33m{ImClone}[0m stock market just ahead of a drug rejection [1m[33m{the company}[0m was developing and [1m[31m{he}[0m pleaded guilty to bank fraud by forging a signature on a $ 44 million loan . 
+(6) [36m{The ImClone scandal}[0m led to charges against [1m[31m{Waksal 's}[0m friend , Martha Stewart , last week over [1m[32m{her}[0m sale of the stock the day before the price collapsed . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0232); part 000
+sentences:
+ThetheDTOPER0founderfounderNNOPER0andandCCOPER0formerformerJJOPER0CEOceoNNOPER0ofofINOPER0ImCloneImCloneNNPORGPER0justjustRBOPER0learnedlearnVBDOPER0thetheDTOPER0penaltypenaltyNNOPER0forforINOPER0hishePRP$OPER0roleroleNNOPER0ininINOPER0thetheDTOPER0pharmaceuticalpharmaceuticalNNOPER0companycompanyNNOPER0's'sPOSOPER0insiderinsiderNNOPER0tradingtradingNNOPER0scandalscandalNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NML (NML (NN founder)) (CC and) (NML (JJ former) (NN CEO)))) (PP (IN of) (NP (NNP ImClone)))) (ADVP (RB just)) (VP (VBD learned) (NP (NP (DT the) (NN penalty)) (PP (IN for) (NP (NP (PRP$ his) (NN role)) (PP (IN in) (NP (NP (DT the) (NN pharmaceutical) (NN company) (POS 's)) (NML (NN insider) (NN trading)) (NN scandal))))))) (. .)))
+SamSamNNPPERSONPER0WaksalWaksalNNPPERSONPER0wasbeVBDOPER0sentencedsentenceVBNOPER0totoINOPER0sevensevenCDDATEPER0yearsyearNNSDATEPER0andandCCOPER0threethreeCDDATEPER0monthsmonthNNSDATEPER0ininINOPER0federalfederalJJOPER0prisonprisonNNOPER0...OPER0(ROOT (S (NP (NNP Sam) (NNP Waksal)) (VP (VBD was) (VP (VBN sentenced) (PP (IN to) (NP (NP (CD seven) (NNS years)) (CC and) (NP (CD three) (NNS months)))) (PP (IN in) (NP (JJ federal) (NN prison))))) (. .)))
+HehePRPOPER0'sbeVBZOPER0alsoalsoRBOPER0beingbeVBGOPER0finedfineVBNOPER0$$$MONEYPER033CDMONEYPER0millionmillionCDMONEYPER0andandCCOPER0wasbeVBDOPER0orderedorderVBNOPER0totoTOOPER0paypayVBOPER0$$$MONEYPER01.21.2CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0restitutionrestitutionNNOPER0totoINOPER0thetheDTORGPER0NewNewNNPORGPER0YorkYorkNNPORGPER0StateStateNNPORGPER0TaxTaxNNPORGPER0CommissionCommissionNNPORGPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB also)) (VP (VBG being) (VP (VP (VBN fined) (NP (QP ($ $) (CD 3) (CD million)))) (CC and) (VP (VBD was) (VP (VBN ordered) (S (VP (TO to) (VP (VB pay) (NP (NP (QP ($ $) (CD 1.2) (CD million))) (PP (IN in) (NP (NP (NN restitution)) (PP (IN to) (NP (DT the) (NML (NNP New) (NNP York)) (NNP State) (NNP Tax) (NNP Commission)))))))))))))) (. .)))
+WaksalWaksalNNPORGPER0pleadedpleadVBDOPER0guiltyguiltyJJOPER0lastlastJJDATEPER0fallfallNNDATEPER0totoINOPER0sixsixCDCARDINALPER0countscountNNSOPER0ofofINOPER0securitysecurityNNOPER0fraudfraudNNOPER0,,,OPER0bankbankNNOPER0fraudfraudNNOPER0,,,OPER0conspiracyconspiracyNNOPER0totoTOOPER0obstructobstructVBOPER0justicejusticeNNOPER0andandCCOPER0perjuryperjuryNNOPER0...OPER0(ROOT (S (NP (NNP Waksal)) (VP (VBD pleaded) (ADJP (JJ guilty)) (NP (JJ last) (NN fall)) (PP (IN to) (NP (NP (CD six) (NNS counts)) (PP (IN of) (NP (NP (NN security) (NN fraud)) (, ,) (NP (NN bank) (NN fraud)) (, ,) (NP (NN conspiracy) (S (VP (TO to) (VP (VB obstruct) (NP (NN justice) (CC and) (NN perjury))))))))))) (. .)))
+HehePRPOPER0'sbeVBZOPER0beingbeVBGOPER0releasedreleaseVBNOPER0ononINOPER0hishePRP$OPER0ownownJJOPER0cognizancecognizanceNNOPER0beforebeforeINOPER0hehePRPOPER0'sbeVBZOPER0totoTOOPER0reportreportVBOPER0totoINOPER0jailjailNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG being) (VP (VBN released) (PP (IN on) (NP (PRP$ his) (JJ own) (NN cognizance))) (SBAR (IN before) (S (NP (PRP he)) (VP (VBZ 's) (S (VP (TO to) (VP (VB report) (PP (IN to) (NP (NN jail)))))))))))) (. .)))
+WaksalWaksalNNPORGPER0admittedadmitVBDOPER0totoINOPER0tippingtipVBGOPER0hishePRP$OPER0daughterdaughterNNOPER0totoTOOPER0dumpdumpVBOPER0ImCloneImCloneNNPORGPER0stockstockNNOPER0marketmarketNNOPER0justjustRBOPER0aheadaheadRBOPER0ofofINOPER0aaDTOPER0drugdrugNNOPER0rejectionrejectionNNOPER0thetheDTOPER0companycompanyNNOPER0wasbeVBDOPER0developingdevelopVBGOPER0andandCCOPER0hehePRPOPER0pleadedpleadVBDOPER0guiltyguiltyJJOPER0totoINOPER0bankbankNNOPER0fraudfraudNNOPER0bybyINOPER0forgingforgeVBGOPER0aaDTOPER0signaturesignatureNNOPER0ononINOPER0aaDTOPER0$$$MONEYPER04444CDMONEYPER0millionmillionCDMONEYPER0loanloanNNOPER0...OPER0(ROOT (S (NP (NNP Waksal)) (VP (VBD admitted) (PP (IN to) (S (VP (VBG tipping) (NP (PRP$ his) (NN daughter) (S (VP (TO to) (VP (VB dump) (NP (NNP ImClone) (NN stock) (NN market)))))) (ADVP (RB just) (RB ahead) (PP (IN of) (NP (DT a) (NN drug) (NN rejection))))))) (SBAR (S (S (NP (DT the) (NN company)) (VP (VBD was) (VP (VBG developing)))) (CC and) (S (NP (PRP he)) (VP (VBD pleaded) (ADJP (JJ guilty) (PP (IN to) (NP (NN bank) (NN fraud)))) (PP (IN by) (S (VP (VBG forging) (NP (NP (DT a) (NN signature)) (PP (IN on) (NP (DT a) (NML (QP ($ $) (CD 44) (CD million))) (NN loan)))))))))))) (. .)))
+ThetheDTOPER0ImCloneImCloneNNPORGPER0scandalscandalNNOPER0ledleadVBDOPER0totoINOPER0chargeschargeNNSOPER0againstagainstINOPER0WaksalWaksalNNPORGPER0's'sPOSOPER0friendfriendNNOPER0,,,OPER0MarthaMarthaNNPPERSONPER0StewartStewartNNPPERSONPER0,,,OPER0lastlastJJDATEPER0weekweekNNDATEPER0overoverINOPER0hershePRP$OPER0salesaleNNOPER0ofofINOPER0thetheDTOPER0stockstockNNOPER0thetheDTDATEPER0daydayNNDATEPER0beforebeforeINOPER0thetheDTOPER0pricepriceNNOPER0collapsedcollapseVBDOPER0...OPER0(ROOT (S (NP (DT The) (NNP ImClone) (NN scandal)) (VP (VBD led) (PP (IN to) (NP (NP (NNS charges)) (PP (IN against) (S (NP (NP (NP (NNP Waksal) (POS 's)) (NN friend)) (, ,) (NP (NNP Martha) (NNP Stewart)) (, ,)) (VP (NP (JJ last) (NN week)) (PP (IN over) (NP (NP (PRP$ her) (NN sale)) (PP (IN of) (NP (DT the) (NN stock))) (SBAR (NP (DT the) (NN day)) (IN before) (S (NP (DT the) (NN price)) (VP (VBD collapsed)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NML (NML (NN founder)) (CC and) (NML (JJ former) (NN CEO)))) (PP (IN of) (NP (NNP ImClone))))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP ImClone))
+sid=0 spanning 12 until 13 headed by 12 parsed as his
+sid=0 spanning 15 until 22 headed by 21 parsed as (NP (NP (DT the) (NN pharmaceutical) (NN company) (POS 's)) (NML (NN insider) (NN trading)) (NN scandal))
+sid=0 spanning 15 until 19 headed by 17 parsed as (NP (DT the) (NN pharmaceutical) (NN company) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Sam) (NNP Waksal))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 5 until 6 headed by 5 parsed as his
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=5 spanning 4 until 5 headed by 4 parsed as his
+sid=5 spanning 8 until 9 headed by 8 parsed as ImClone
+sid=5 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN company))
+sid=5 spanning 22 until 23 headed by 22 parsed as (NP (PRP he))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP ImClone) (NN scandal))
+sid=6 spanning 1 until 2 headed by 1 parsed as ImClone
+sid=6 spanning 7 until 14 headed by 9 parsed as (NP (NP (NP (NNP Waksal) (POS 's)) (NN friend)) (, ,) (NP (NNP Martha) (NNP Stewart)) (, ,))
+sid=6 spanning 7 until 9 headed by 7 parsed as (NP (NNP Waksal) (POS 's))
+sid=6 spanning 17 until 18 headed by 17 parsed as her
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NML (NML (NN founder)) (CC and) (NML (JJ former) (NN CEO)))) (PP (IN of) (NP (NNP ImClone))))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP ImClone))
+sid=0 spanning 9 until 22 headed by 10 parsed as (NP (NP (DT the) (NN penalty)) (PP (IN for) (NP (NP (PRP$ his) (NN role)) (PP (IN in) (NP (NP (DT the) (NN pharmaceutical) (NN company) (POS 's)) (NML (NN insider) (NN trading)) (NN scandal))))))
+sid=0 spanning 12 until 22 headed by 13 parsed as (NP (NP (PRP$ his) (NN role)) (PP (IN in) (NP (NP (DT the) (NN pharmaceutical) (NN company) (POS 's)) (NML (NN insider) (NN trading)) (NN scandal))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (PRP$ his)
+sid=0 spanning 15 until 22 headed by 21 parsed as (NP (NP (DT the) (NN pharmaceutical) (NN company) (POS 's)) (NML (NN insider) (NN trading)) (NN scandal))
+sid=0 spanning 15 until 19 headed by 17 parsed as (NP (DT the) (NN pharmaceutical) (NN company) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Sam) (NNP Waksal))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NP (CD seven) (NNS years)) (CC and) (NP (CD three) (NNS months)))
+sid=1 spanning 5 until 10 headed by 6 parsed as (NP (NP (CD seven) (NNS years)) (CC and) (NP (CD three) (NNS months)))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (CD three) (NNS months))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 17 until 25 headed by 17 parsed as (NP (NP (NN restitution)) (PP (IN to) (NP (DT the) (NML (NNP New) (NNP York)) (NNP State) (NNP Tax) (NNP Commission))))
+sid=2 spanning 19 until 25 headed by 24 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP State) (NNP Tax) (NNP Commission))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (JJ last) (NN fall))
+sid=3 spanning 6 until 21 headed by 7 parsed as (NP (NP (CD six) (NNS counts)) (PP (IN of) (NP (NP (NN security) (NN fraud)) (, ,) (NP (NN bank) (NN fraud)) (, ,) (NP (NN conspiracy) (S (VP (TO to) (VP (VB obstruct) (NP (NN justice) (CC and) (NN perjury)))))))))
+sid=3 spanning 9 until 21 headed by 10 parsed as (NP (NP (NN security) (NN fraud)) (, ,) (NP (NN bank) (NN fraud)) (, ,) (NP (NN conspiracy) (S (VP (TO to) (VP (VB obstruct) (NP (NN justice) (CC and) (NN perjury)))))))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (NN security) (NN fraud))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (NN bank) (NN fraud))
+sid=3 spanning 15 until 21 headed by 15 parsed as (NP (NN conspiracy) (S (VP (TO to) (VP (VB obstruct) (NP (NN justice) (CC and) (NN perjury))))))
+sid=3 spanning 18 until 21 headed by 18 parsed as (NP (NN justice) (CC and) (NN perjury))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 5 until 8 headed by 7 parsed as (NP (PRP$ his) (JJ own) (NN cognizance))
+sid=4 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=5 spanning 4 until 11 headed by 5 parsed as (NP (PRP$ his) (NN daughter) (S (VP (TO to) (VP (VB dump) (NP (NNP ImClone) (NN stock) (NN market))))))
+sid=5 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=5 spanning 8 until 11 headed by 10 parsed as (NP (NNP ImClone) (NN stock) (NN market))
+sid=5 spanning 8 until 9 headed by 8 parsed as ImClone
+sid=5 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (NN drug) (NN rejection))
+sid=5 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN company))
+sid=5 spanning 22 until 23 headed by 22 parsed as (NP (PRP he))
+sid=5 spanning 26 until 28 headed by 27 parsed as (NP (NN bank) (NN fraud))
+sid=5 spanning 30 until 38 headed by 31 parsed as (NP (NP (DT a) (NN signature)) (PP (IN on) (NP (DT a) (NML (QP ($ $) (CD 44) (CD million))) (NN loan))))
+sid=5 spanning 33 until 38 headed by 37 parsed as (NP (DT a) (NML (QP ($ $) (CD 44) (CD million))) (NN loan))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP ImClone) (NN scandal))
+sid=6 spanning 1 until 2 headed by 1 parsed as ImClone
+sid=6 spanning 5 until 28 headed by 5 parsed as (NP (NP (NNS charges)) (PP (IN against) (S (NP (NP (NP (NNP Waksal) (POS 's)) (NN friend)) (, ,) (NP (NNP Martha) (NNP Stewart)) (, ,)) (VP (NP (JJ last) (NN week)) (PP (IN over) (NP (NP (PRP$ her) (NN sale)) (PP (IN of) (NP (DT the) (NN stock))) (SBAR (NP (DT the) (NN day)) (IN before) (S (NP (DT the) (NN price)) (VP (VBD collapsed))))))))))
+sid=6 spanning 7 until 14 headed by 9 parsed as (NP (NP (NP (NNP Waksal) (POS 's)) (NN friend)) (, ,) (NP (NNP Martha) (NNP Stewart)) (, ,))
+sid=6 spanning 7 until 10 headed by 9 parsed as (NP (NP (NNP Waksal) (POS 's)) (NN friend))
+sid=6 spanning 7 until 9 headed by 7 parsed as (NP (NNP Waksal) (POS 's))
+sid=6 spanning 11 until 13 headed by 12 parsed as (NP (NNP Martha) (NNP Stewart))
+sid=6 spanning 14 until 16 headed by 15 parsed as (NP (JJ last) (NN week))
+sid=6 spanning 17 until 28 headed by 18 parsed as (NP (NP (PRP$ her) (NN sale)) (PP (IN of) (NP (DT the) (NN stock))) (SBAR (NP (DT the) (NN day)) (IN before) (S (NP (DT the) (NN price)) (VP (VBD collapsed)))))
+sid=6 spanning 17 until 18 headed by 17 parsed as (PRP$ her)
+sid=6 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN stock))
+sid=6 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN day))
+sid=6 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN price))
+(end predicted mentions)
+---------gold clusters--------
+16 3 | { 'The ImClone scandal' 'the pharmaceutical company 's insider trading scandal' }
+9 2 19 5 15 0 11 10 7 8 6 12 | { 'his' 'his' 'Waksal 's' 'Sam Waksal' 'he' 'The founder and former CEO' 'Waksal' 'he' 'Waksal' 'He' 'He' 'his' }
+20 18 | { 'her' 'Waksal 's friend , Martha Stewart ,' }
+14 13 17 4 1 | { 'the company' 'ImClone' 'ImClone' 'the pharmaceutical company 's' 'ImClone' }
+(end gold clusters)

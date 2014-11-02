@@ -1,0 +1,81 @@
+---------gloss--------
+(0) Iraqi forces are overwhelmed and could soon collapse . 
+(1) [4m[35m{Jessica Lynch}[0m says [4m[35m{she}[0m can not wait to get home to West Virginia . 
+(2) [4m[35m{The 19 - year - old Army private}[0m spoke to [4m[35m{her}[0m parents yesterday by phone from a hospital in Germany . 
+(3) [31m{Greg Lynch}[0m says that when [31m{he}[0m talked to [31m{his}[0m daughter [4m[35m{she}[0m had n't eaten in eight days and was quite hungry . 
+(4) The Washington Post is reporting [4m[35m{she}[0m shot several Iraqi soldiers before [4m[35m{she}[0m was captured and [4m[35m{she}[0m was shot [4m[35m{herself}[0m , too . 
+(5) Coming up on [32m{our}[0m next hour , [4m[36m{U.S. forces}[0m edged toward the outskirts of Baghdad and [32m{we}[0m 'll tell you what kind of resistance [4m[36m{they}[0m 're facing from Saddam Hussein 's elite Republican Guard . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0264); part 000
+sentences:
+IraqiiraqiJJOPER0forcesforceNNSOPER0arebeVBPOPER0overwhelmedoverwhelmedJJOPER0andandCCOPER0couldcouldMDOPER0soonsoonRBOPER0collapsecollapseVBOPER0...OPER0(ROOT (S (NP (JJ Iraqi) (NNS forces)) (VP (VP (VBP are) (ADJP (JJ overwhelmed))) (CC and) (VP (MD could) (ADVP (RB soon)) (VP (VB collapse)))) (. .)))
+JessicaJessicaNNPPERSONPER0LynchLynchNNPPERSONPER0sayssayVBZOPER0sheshePRPOPER0cancanMDOPER0notnotRBOPER0waitwaitVBOPER0totoTOOPER0getgetVBOPER0homehomeRBOPER0totoINOPER0WestWestNNPGPEPER0VirginiaVirginiaNNPGPEPER0...OPER0(ROOT (S (NP (NNP Jessica) (NNP Lynch)) (VP (VBZ says) (SBAR (S (NP (PRP she)) (VP (MD can) (RB not) (VP (VB wait) (S (VP (TO to) (VP (VB get) (ADVP (RB home) (PP (IN to) (NP (NNP West) (NNP Virginia)))))))))))) (. .)))
+ThetheDTOPER01919CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHOPER0oldoldJJOPER0ArmyArmyNNPORGPER0privateprivateJJOPER0spokespeakVBDOPER0totoINOPER0hershePRP$OPER0parentsparentNNSOPER0yesterdayyesterdayNNDATEPER0bybyINOPER0phonephoneNNOPER0fromfromINOPER0aaDTOPER0hospitalhospitalNNOPER0ininINOPER0GermanyGermanyNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (ADJP (NML (CD 19) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Army)) (ADVP (JJ private)) (VP (VBD spoke) (PP (IN to) (NP (PRP$ her) (NNS parents))) (NP (NN yesterday)) (PP (IN by) (NP (NP (NN phone)) (PP (IN from) (NP (NP (DT a) (NN hospital)) (PP (IN in) (NP (NNP Germany)))))))) (. .)))
+GregGregNNPPERSONPER0LynchLynchNNPPERSONPER0sayssayVBZOPER0thatthatINOPER0whenwhenWRBOPER0hehePRPOPER0talkedtalkVBDOPER0totoINOPER0hishePRP$OPER0daughterdaughterNNOPER0sheshePRPOPER0hadhaveVBDOPER0n'tnotRBOPER0eateneatVBNOPER0ininINOPER0eighteightCDDATEPER0daysdayNNSDATEPER0andandCCOPER0wasbeVBDOPER0quitequiteRBOPER0hungryhungryJJOPER0...OPER0(ROOT (S (NP (NNP Greg) (NNP Lynch)) (VP (VBZ says) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD talked) (PP (IN to) (NP (PRP$ his) (NN daughter)))))) (NP (PRP she)) (VP (VP (VBD had) (RB n't) (VP (VBN eaten) (PP (IN in) (NP (CD eight) (NNS days))))) (CC and) (VP (VBD was) (ADJP (RB quite) (JJ hungry))))))) (. .)))
+ThetheDTORGPER0WashingtonWashingtonNNPORGPER0PostPostNNPORGPER0isbeVBZOPER0reportingreportVBGOPER0sheshePRPOPER0shotshootVBDOPER0severalseveralJJOPER0IraqiiraqiJJOPER0soldierssoldierNNSOPER0beforebeforeINOPER0sheshePRPOPER0wasbeVBDOPER0capturedcaptureVBNOPER0andandCCOPER0sheshePRPOPER0wasbeVBDOPER0shotshootVBNOPER0herselfherselfPRPOPER0,,,OPER0tootooRBOPER0...OPER0(ROOT (S (NP (DT The) (NNP Washington) (NNP Post)) (VP (VBZ is) (VP (VBG reporting) (SBAR (S (NP (PRP she)) (VP (VBD shot) (NP (JJ several) (JJ Iraqi) (NNS soldiers)) (SBAR (IN before) (S (S (NP (PRP she)) (VP (VBD was) (VP (VBN captured)))) (CC and) (S (NP (PRP she)) (VP (VBD was) (VP (VBN shot) (NP (NP (PRP herself)) (, ,) (ADVP (RB too))))))))))))) (. .)))
+ComingcomeVBGOPER0upupRPOPER0ononINOPER0ourwePRP$OPER0nextnextJJOPER0hourhourNNOPER0,,,OPER0U.S.U.S.NNPGPEPER0forcesforceNNSOPER0edgededgeVBDOPER0towardtowardINOPER0thetheDTOPER0outskirtsoutskirtsNNSOPER0ofofINOPER0BaghdadBaghdadNNPGPEPER0andandCCOPER0wewePRPOPER0'll'llMDOPER0telltellVBOPER0youyouPRPOPER0whatwhatWPOPER0kindkindNNOPER0ofofINOPER0resistanceresistanceNNOPER0theytheyPRPOPER0'rebeVBPOPER0facingfaceVBGOPER0fromfromINOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0's'sPOSPERSONPER0eliteeliteJJOPER0RepublicanRepublicanNNPOPER0GuardGuardNNPOPER0...OPER0(ROOT (S (S (VP (VBG Coming) (PRT (RP up)) (PP (IN on) (NP (PRP$ our) (JJ next) (NN hour))))) (, ,) (NP (NNP U.S.) (NNS forces)) (VP (VBD edged) (UCP (PP (IN toward) (NP (NP (DT the) (NNS outskirts)) (PP (IN of) (NP (NNP Baghdad))))) (CC and) (S (NP (PRP we)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)) (SBAR (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NN resistance)))) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG facing) (PP (IN from) (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (JJ elite) (NNP Republican) (NNP Guard)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jessica) (NNP Lynch))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP she))
+sid=2 spanning 0 until 8 headed by 3 parsed as year
+sid=2 spanning 10 until 11 headed by 10 parsed as her
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Greg) (NNP Lynch))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ his) (NN daughter))
+sid=3 spanning 8 until 9 headed by 8 parsed as his
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP she))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (PRP she))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (PRP she))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (PRP she))
+sid=4 spanning 18 until 19 headed by 18 parsed as (NP (NP (PRP herself)) (, ,) (ADVP (RB too)))
+sid=5 spanning 3 until 4 headed by 3 parsed as our
+sid=5 spanning 7 until 9 headed by 8 parsed as (NP (NNP U.S.) (NNS forces))
+sid=5 spanning 16 until 17 headed by 16 parsed as (NP (PRP we))
+sid=5 spanning 24 until 25 headed by 24 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ Iraqi) (NNS forces))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jessica) (NNP Lynch))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP she))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NNP West) (NNP Virginia))
+sid=2 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (NML (CD 19) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Army))
+sid=2 spanning 1 until 4 headed by 3 parsed as year
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ her) (NNS parents))
+sid=2 spanning 10 until 11 headed by 10 parsed as (PRP$ her)
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NN yesterday))
+sid=2 spanning 14 until 20 headed by 14 parsed as (NP (NP (NN phone)) (PP (IN from) (NP (NP (DT a) (NN hospital)) (PP (IN in) (NP (NNP Germany))))))
+sid=2 spanning 16 until 20 headed by 17 parsed as (NP (NP (DT a) (NN hospital)) (PP (IN in) (NP (NNP Germany))))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (NNP Germany))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Greg) (NNP Lynch))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ his) (NN daughter))
+sid=3 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP she))
+sid=3 spanning 15 until 17 headed by 16 parsed as (NP (CD eight) (NNS days))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Washington) (NNP Post))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (PRP she))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (JJ several) (JJ Iraqi) (NNS soldiers))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (PRP she))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (PRP she))
+sid=4 spanning 18 until 21 headed by 18 parsed as (NP (NP (PRP herself)) (, ,) (ADVP (RB too)))
+sid=4 spanning 18 until 19 headed by 18 parsed as (NP (PRP herself))
+sid=5 spanning 3 until 6 headed by 5 parsed as (NP (PRP$ our) (JJ next) (NN hour))
+sid=5 spanning 3 until 4 headed by 3 parsed as (PRP$ our)
+sid=5 spanning 7 until 9 headed by 8 parsed as (NP (NNP U.S.) (NNS forces))
+sid=5 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT the) (NNS outskirts)) (PP (IN of) (NP (NNP Baghdad))))
+sid=5 spanning 14 until 15 headed by 14 parsed as (NP (NNP Baghdad))
+sid=5 spanning 16 until 17 headed by 16 parsed as (NP (PRP we))
+sid=5 spanning 19 until 20 headed by 19 parsed as (NP (PRP you))
+sid=5 spanning 24 until 25 headed by 24 parsed as (NP (PRP they))
+sid=5 spanning 28 until 34 headed by 33 parsed as (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (JJ elite) (NNP Republican) (NNP Guard))
+sid=5 spanning 28 until 31 headed by 29 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+3 2 10 6 12 0 11 1 9 8 | { 'her' 'The 19 - year - old Army private' 'she' 'his daughter' 'herself' 'Jessica Lynch' 'she' 'she' 'she' 'she' }
+16 14 | { 'they' 'U.S. forces' }
+4 5 7 | { 'Greg Lynch' 'he' 'his' }
+13 15 | { 'our' 'we' }
+(end gold clusters)

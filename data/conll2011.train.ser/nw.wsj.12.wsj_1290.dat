@@ -1,0 +1,56 @@
+---------gloss--------
+(0) [36m{Francis D. John , 35 - year - old president ,}[0m will assume the additional job of chief executive officer . 
+(1) [36m{He}[0m succeeds Paul J. Montle , 42 , who will remain chairman . 
+(2) [1m[31m{National Environmental}[0m also said [1m[31m{it}[0m will move [1m[31m{its}[0m headquarters from Hingham to Folcroft , Pa. , the site of [1m[31m{its}[0m sludge dewatering facility . 
+(3) [1m[31m{National Environmental , formerly Yankee Cos. ,}[0m is a sludge treatment company . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1290); part 000
+sentences:
+FrancisFrancisNNPPERSONPER0D.D.NNPPERSONPER0JohnJohnNNPPERSONPER0,,,OPER03535CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0presidentpresidentNNOPER0,,,OPER0willwillMDOPER0assumeassumeVBOPER0thetheDTOPER0additionaladditionalJJOPER0jobjobNNOPER0ofofINOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0...OPER0(ROOT (S (NP (NP (NNP Francis) (NNP D.) (NNP John)) (, ,) (NP (ADJP (NML (CD 35) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN president)) (, ,)) (VP (MD will) (VP (VB assume) (NP (NP (DT the) (JJ additional) (NN job)) (PP (IN of) (NP (JJ chief) (JJ executive) (NN officer)))))) (. .)))
+HehePRPOPER0succeedssucceedVBZOPER0PaulPaulNNPPERSONPER0J.J.NNPPERSONPER0MontleMontleNNPPERSONPER0,,,OPER04242CDDATEPER0,,,OPER0whowhoWPOPER0willwillMDOPER0remainremainVBOPER0chairmanchairmanNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ succeeds) (NP (NP (NP (NNP Paul) (NNP J.) (NNP Montle)) (, ,) (NP (CD 42))) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB remain) (NP (NN chairman)))))))) (. .)))
+NationalNationalNNPORGPER0EnvironmentalEnvironmentalNNPORGPER0alsoalsoRBOPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0movemoveVBOPER0itsitsPRP$OPER0headquartersheadquartersNNOPER0fromfromINOPER0HinghamHinghamNNPGPEPER0totoINOPER0FolcroftFolcroftNNPGPEPER0,,,OPER0Pa.Pa.NNPGPEPER0,,,OPER0thetheDTOPER0sitesiteNNOPER0ofofINOPER0itsitsPRP$OPER0sludgesludgeNNOPER0dewateringdewateringNNOPER0facilityfacilityNNOPER0...OPER0(ROOT (S (NP (NNP National) (NNP Environmental)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB move) (NP (PRP$ its) (NN headquarters)) (PP (IN from) (NP (NNP Hingham))) (PP (IN to) (NP (NP (NP (NNP Folcroft)) (, ,) (NP (NNP Pa.))) (, ,) (NP (NP (DT the) (NN site)) (PP (IN of) (NP (PRP$ its) (NML (NN sludge) (NN dewatering)) (NN facility))))))))))) (. .)))
+NationalNationalNNPORGPER0EnvironmentalEnvironmentalNNPORGPER0,,,OPER0formerlyformerlyRBOPER0YankeeYankeeNNPORGPER0Cos.Cos.NNPORGPER0,,,OPER0isbeVBZOPER0aaDTOPER0sludgesludgeNNOPER0treatmenttreatmentNNOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NP (NNP National) (NNP Environmental)) (, ,) (RRC (ADVP (RB formerly)) (NP (NNP Yankee) (NNP Cos.))) (, ,)) (VP (VBZ is) (NP (DT a) (NML (NN sludge) (NN treatment)) (NN company))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 11 headed by 2 parsed as (NP (NP (NNP Francis) (NNP D.) (NNP John)) (, ,) (NP (ADJP (NML (CD 35) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN president)) (, ,))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP National) (NNP Environmental))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=2 spanning 7 until 8 headed by 7 parsed as its
+sid=2 spanning 19 until 20 headed by 19 parsed as its
+sid=3 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP National) (NNP Environmental)) (, ,) (RRC (ADVP (RB formerly)) (NP (NNP Yankee) (NNP Cos.))) (, ,))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Francis) (NNP D.) (NNP John)) (, ,) (NP (ADJP (NML (CD 35) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN president)) (, ,))
+sid=0 spanning 0 until 11 headed by 2 parsed as (NP (NP (NNP Francis) (NNP D.) (NNP John)) (, ,) (NP (ADJP (NML (CD 35) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN president)) (, ,))
+sid=0 spanning 4 until 10 headed by 9 parsed as (NP (ADJP (NML (CD 35) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN president))
+sid=0 spanning 4 until 9 headed by 8 parsed as old
+sid=0 spanning 13 until 20 headed by 15 parsed as (NP (NP (DT the) (JJ additional) (NN job)) (PP (IN of) (NP (JJ chief) (JJ executive) (NN officer))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 5 headed by 4 parsed as (NP (NP (NP (NNP Paul) (NNP J.) (NNP Montle)) (, ,) (NP (CD 42))) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB remain) (NP (NN chairman)))))))
+sid=1 spanning 2 until 12 headed by 4 parsed as (NP (NP (NP (NNP Paul) (NNP J.) (NNP Montle)) (, ,) (NP (CD 42))) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB remain) (NP (NN chairman)))))))
+sid=1 spanning 2 until 7 headed by 4 parsed as (NP (NP (NNP Paul) (NNP J.) (NNP Montle)) (, ,) (NP (CD 42)))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (CD 42))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP National) (NNP Environmental))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ its) (NN headquarters))
+sid=2 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Hingham))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NP (NP (NNP Folcroft)) (, ,) (NP (NNP Pa.))) (, ,) (NP (NP (DT the) (NN site)) (PP (IN of) (NP (PRP$ its) (NML (NN sludge) (NN dewatering)) (NN facility)))))
+sid=2 spanning 12 until 23 headed by 12 parsed as (NP (NP (NP (NNP Folcroft)) (, ,) (NP (NNP Pa.))) (, ,) (NP (NP (DT the) (NN site)) (PP (IN of) (NP (PRP$ its) (NML (NN sludge) (NN dewatering)) (NN facility)))))
+sid=2 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNP Folcroft)) (, ,) (NP (NNP Pa.)))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNP Pa.))
+sid=2 spanning 16 until 23 headed by 17 parsed as (NP (NP (DT the) (NN site)) (PP (IN of) (NP (PRP$ its) (NML (NN sludge) (NN dewatering)) (NN facility))))
+sid=2 spanning 19 until 23 headed by 22 parsed as (NP (PRP$ its) (NML (NN sludge) (NN dewatering)) (NN facility))
+sid=2 spanning 19 until 20 headed by 19 parsed as (PRP$ its)
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP National) (NNP Environmental)) (, ,) (RRC (ADVP (RB formerly)) (NP (NNP Yankee) (NNP Cos.))) (, ,))
+sid=3 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP National) (NNP Environmental)) (, ,) (RRC (ADVP (RB formerly)) (NP (NNP Yankee) (NNP Cos.))) (, ,))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (NNP Yankee) (NNP Cos.))
+sid=3 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (NML (NN sludge) (NN treatment)) (NN company))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Francis D. John , 35 - year - old president ,' 'He' }
+5 3 2 4 6 | { 'its' 'it' 'National Environmental' 'its' 'National Environmental , formerly Yankee Cos. ,' }
+(end gold clusters)

@@ -1,0 +1,30 @@
+---------gloss--------
+(0) At least ten people have been injured and at least five homes have burned in Benton Harbor since the rioting began . 
+(1) Police are still looking for the arsonists , but city officials say several people have been arrested on civil disobedience charges . 
+(2) One person was arrested for assault with a deadly weapon . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0240); part 000
+sentences:
+AtatRBOPER0leastleastRBSOPER0tentenCDCARDINALPER0peoplepeopleNNSOPER0havehaveVBPOPER0beenbeVBNOPER0injuredinjureVBNOPER0andandCCOPER0atatINCARDINALPER0leastleastJJSCARDINALPER0fivefiveCDCARDINALPER0homeshomeNNSOPER0havehaveVBPOPER0burnedburnVBNOPER0ininINOPER0BentonBentonNNPGPEPER0HarborHarborNNPGPEPER0sincesinceINOPER0thetheDTOPER0riotingriotingNNOPER0beganbeginVBDOPER0...OPER0(ROOT (S (S (NP (QP (ADVP (RB At) (RBS least)) (CD ten)) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN injured))))) (CC and) (S (NP (QP (ADVP (IN at) (JJS least)) (CD five)) (NNS homes)) (VP (VBP have) (VP (VBN burned) (PP (IN in) (NP (NNP Benton) (NNP Harbor))) (SBAR (IN since) (S (NP (DT the) (NN rioting)) (VP (VBD began))))))) (. .)))
+PolicepoliceNNSOPER0arebeVBPOPER0stillstillRBOPER0lookinglookVBGOPER0forforINOPER0thetheDTOPER0arsonistsarsonistNNSOPER0,,,OPER0butbutCCOPER0citycityNNOPER0officialsofficialNNSOPER0saysayVBPOPER0severalseveralJJOPER0peoplepeopleNNSOPER0havehaveVBPOPER0beenbeVBNOPER0arrestedarrestVBNOPER0ononINOPER0civilcivilJJOPER0disobediencedisobedienceNNOPER0chargeschargeNNSOPER0...OPER0(ROOT (S (S (NP (NNS Police)) (VP (VBP are) (ADVP (RB still)) (VP (VBG looking) (PP (IN for) (NP (DT the) (NNS arsonists)))))) (, ,) (CC but) (S (NP (NN city) (NNS officials)) (VP (VBP say) (SBAR (S (NP (JJ several) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN arrested) (PP (IN on) (NP (NML (JJ civil) (NN disobedience)) (NNS charges)))))))))) (. .)))
+OneoneCDCARDINALPER0personpersonNNOPER0wasbeVBDOPER0arrestedarrestVBNOPER0forforINOPER0assaultassaultNNOPER0withwithINOPER0aaDTOPER0deadlydeadlyJJOPER0weaponweaponNNOPER0...OPER0(ROOT (S (NP (CD One) (NN person)) (VP (VBD was) (VP (VBN arrested) (PP (IN for) (NP (NN assault))) (PP (IN with) (NP (DT a) (JJ deadly) (NN weapon))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (QP (ADVP (RB At) (RBS least)) (CD ten)) (NNS people))
+sid=0 spanning 8 until 12 headed by 11 parsed as (NP (QP (ADVP (IN at) (JJS least)) (CD five)) (NNS homes))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (NNP Benton) (NNP Harbor))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN rioting))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Police))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS arsonists))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NN city) (NNS officials))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (JJ several) (NNS people))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (NML (JJ civil) (NN disobedience)) (NNS charges))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (CD One) (NN person))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (JJ deadly) (NN weapon))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

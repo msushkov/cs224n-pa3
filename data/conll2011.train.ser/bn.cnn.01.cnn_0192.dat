@@ -1,0 +1,81 @@
+---------gloss--------
+(0) [4m[36m{One of four men on trial in the bombings of two U.S. embassies in Africa}[0m is asking the judge to throw out [4m[36m{his}[0m confession . 
+(1) [4m[36m{The Saudi man}[0m says U.S. authorities threatened to hang [4m[36m{him}[0m if [4m[36m{he}[0m did n't cooperate . 
+(2) [4m[36m{He}[0m had [32m{admitted}[0m to throwing a stun grenade at a guard outside the U.S. Embassy in [4m[35m{Kenya}[0m just before the explosion . 
+(3) U.S. government officials say [4m[36m{the man 's}[0m confession was voluntary . 
+(4) 224 people were killed and more than 5,000 wounded in [31m{the 1998 bombings in Kenya and Tanzania}[0m . 
+(5) 77 
+(6) I 'm the Naked Cowboy 77 77 coming to a town near you . 
+(7) 77 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0192); part 000
+sentences:
+OneoneCDCARDINALPER0ofofINOPER0fourfourCDCARDINALPER0menmanNNSOPER0ononINOPER0trialtrialNNOPER0ininINOPER0thetheDTOPER0bombingsbombingNNSOPER0ofofINOPER0twotwoCDCARDINALPER0U.S.U.S.NNPGPEPER0embassiesembassyNNSOPER0ininINOPER0AfricaAfricaNNPLOCPER0isbeVBZOPER0askingaskVBGOPER0thetheDTOPER0judgejudgeNNOPER0totoTOOPER0throwthrowVBOPER0outoutRPOPER0hishePRP$OPER0confessionconfessionNNOPER0...OPER0(ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (NP (CD four) (NNS men)) (PP (IN on) (NP (NP (NN trial)) (PP (IN in) (NP (NP (DT the) (NNS bombings)) (PP (IN of) (NP (NP (CD two) (NNP U.S.) (NNS embassies)) (PP (IN in) (NP (NNP Africa)))))))))))) (VP (VBZ is) (VP (VBG asking) (NP (DT the) (NN judge)) (S (VP (TO to) (VP (VB throw) (PRT (RP out)) (NP (PRP$ his) (NN confession))))))) (. .)))
+ThetheDTOPER0SaudisaudiJJOPER0manmanNNOPER0sayssayVBZOPER0U.S.U.S.NNPGPEPER0authoritiesauthorityNNSOPER0threatenedthreatenVBDOPER0totoTOOPER0hanghangVBOPER0himhePRPOPER0ififINOPER0hehePRPOPER0diddoVBDOPER0n'tnotRBOPER0cooperatecooperateVBOPER0...OPER0(ROOT (S (NP (DT The) (JJ Saudi) (NN man)) (VP (VBZ says) (SBAR (S (NP (NNP U.S.) (NNS authorities)) (VP (VBD threatened) (S (VP (TO to) (VP (VB hang) (NP (PRP him)) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB cooperate)))))))))))) (. .)))
+HehePRPOPER0hadhaveVBDOPER0admittedadmitVBNOPER0totoINOPER0throwingthrowVBGOPER0aaDTOPER0stunstunJJQUANTITYPER0grenadegrenadeNNPRODUCTPER0atatINOPER0aaDTOPER0guardguardNNOPER0outsideoutsideINOPER0thetheDTORGPER0U.S.U.S.NNPORGPER0EmbassyEmbassyNNPORGPER0ininINOPER0KenyaKenyaNNPGPEPER0justjustRBOPER0beforebeforeINOPER0thetheDTOPER0explosionexplosionNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD had) (VP (VBN admitted) (PP (IN to) (S (VP (VBG throwing) (NP (DT a) (JJ stun) (NN grenade)) (PP (IN at) (NP (NP (DT a) (NN guard)) (PP (IN outside) (NP (NP (DT the) (NNP U.S.) (NNP Embassy)) (PP (IN in) (NP (NNP Kenya))))))) (PP (ADVP (RB just)) (IN before) (NP (DT the) (NN explosion)))))))) (. .)))
+U.S.U.S.NNPGPEPER0governmentgovernmentNNOPER0officialsofficialNNSOPER0saysayVBPOPER0thetheDTOPER0manmanNNOPER0's'sPOSOPER0confessionconfessionNNOPER0wasbeVBDOPER0voluntaryvoluntaryJJOPER0...OPER0(ROOT (S (NP (NML (NNP U.S.) (NN government)) (NNS officials)) (VP (VBP say) (SBAR (S (NP (NP (DT the) (NN man) (POS 's)) (NN confession)) (VP (VBD was) (ADJP (JJ voluntary)))))) (. .)))
+224224CDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0andandCCOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER05,0005,000CDCARDINALPER0woundedwoundVBNOPER0ininINOPER0thetheDTOPER019981998CDDATEPER0bombingsbombingNNSOPER0ininINOPER0KenyaKenyaNNPGPEPER0andandCCOPER0TanzaniaTanzaniaNNPGPEPER0...OPER0(ROOT (S (S (NP (CD 224) (NNS people)) (VP (VBD were) (VP (VBN killed)))) (CC and) (S (NP (QP (XS (JJR more) (IN than)) (CD 5,000))) (VP (VBN wounded) (PP (IN in) (NP (NP (DT the) (CD 1998) (NNS bombings)) (PP (IN in) (NP (NNP Kenya) (CC and) (NNP Tanzania))))))) (. .)))
+7777CDOPER0(ROOT (NP (CD 77)))
+IIPRPOPER0'mbeVBPOPER0thetheDTOPER0NakednakedJJLAWPER0CowboycowboyNNLAWPER07777CDLAWPER07777CDLAWPER0comingcomeVBGOPER0totoINOPER0aaDTOPER0towntownNNOPER0nearnearINOPER0youyouPRPOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (DT the) (JJ Naked) (NN Cowboy)) (S (NP (QP (CD 77) (CD 77))) (VP (VBG coming) (PP (IN to) (NP (NP (DT a) (NN town)) (PP (IN near) (NP (PRP you)))))))) (. .)))
+7777CDOPER0(ROOT (NP (CD 77)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 15 headed by 0 parsed as (NP (NP (CD One)) (PP (IN of) (NP (NP (CD four) (NNS men)) (PP (IN on) (NP (NP (NN trial)) (PP (IN in) (NP (NP (DT the) (NNS bombings)) (PP (IN of) (NP (NP (CD two) (NNP U.S.) (NNS embassies)) (PP (IN in) (NP (NNP Africa))))))))))))
+sid=0 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT the) (NNS bombings)) (PP (IN of) (NP (NP (CD two) (NNP U.S.) (NNS embassies)) (PP (IN in) (NP (NNP Africa))))))
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ his) (NN confession))
+sid=0 spanning 22 until 23 headed by 22 parsed as his
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Saudi) (NN man))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP him))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 3 headed by 2 parsed as admitted
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NNP Kenya))
+sid=3 spanning 4 until 8 headed by 7 parsed as (NP (NP (DT the) (NN man) (POS 's)) (NN confession))
+sid=3 spanning 4 until 7 headed by 5 parsed as (NP (DT the) (NN man) (POS 's))
+sid=4 spanning 10 until 17 headed by 12 parsed as (NP (NP (DT the) (CD 1998) (NNS bombings)) (PP (IN in) (NP (NNP Kenya) (CC and) (NNP Tanzania))))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Kenya) (CC and) (NNP Tanzania))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 15 headed by 0 parsed as (NP (NP (CD One)) (PP (IN of) (NP (NP (CD four) (NNS men)) (PP (IN on) (NP (NP (NN trial)) (PP (IN in) (NP (NP (DT the) (NNS bombings)) (PP (IN of) (NP (NP (CD two) (NNP U.S.) (NNS embassies)) (PP (IN in) (NP (NNP Africa))))))))))))
+sid=0 spanning 5 until 15 headed by 5 parsed as (NP (NP (NN trial)) (PP (IN in) (NP (NP (DT the) (NNS bombings)) (PP (IN of) (NP (NP (CD two) (NNP U.S.) (NNS embassies)) (PP (IN in) (NP (NNP Africa))))))))
+sid=0 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT the) (NNS bombings)) (PP (IN of) (NP (NP (CD two) (NNP U.S.) (NNS embassies)) (PP (IN in) (NP (NNP Africa))))))
+sid=0 spanning 10 until 15 headed by 12 parsed as (NP (NP (CD two) (NNP U.S.) (NNS embassies)) (PP (IN in) (NP (NNP Africa))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNP Africa))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN judge))
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ his) (NN confession))
+sid=0 spanning 22 until 23 headed by 22 parsed as (PRP$ his)
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Saudi) (NN man))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NNP U.S.) (NNS authorities))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP him))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ stun) (NN grenade))
+sid=2 spanning 9 until 17 headed by 10 parsed as (NP (NP (DT a) (NN guard)) (PP (IN outside) (NP (NP (DT the) (NNP U.S.) (NNP Embassy)) (PP (IN in) (NP (NNP Kenya))))))
+sid=2 spanning 12 until 17 headed by 14 parsed as (NP (NP (DT the) (NNP U.S.) (NNP Embassy)) (PP (IN in) (NP (NNP Kenya))))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NNP Kenya))
+sid=2 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN explosion))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP U.S.) (NN government)) (NNS officials))
+sid=3 spanning 4 until 8 headed by 7 parsed as (NP (NP (DT the) (NN man) (POS 's)) (NN confession))
+sid=3 spanning 4 until 7 headed by 5 parsed as (NP (DT the) (NN man) (POS 's))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (CD 224) (NNS people))
+sid=4 spanning 5 until 8 headed by 7 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 5,000)))
+sid=4 spanning 10 until 17 headed by 12 parsed as (NP (NP (DT the) (CD 1998) (NNS bombings)) (PP (IN in) (NP (NNP Kenya) (CC and) (NNP Tanzania))))
+sid=4 spanning 11 until 12 headed by 11 parsed as 1998
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Kenya) (CC and) (NNP Tanzania))
+sid=4 spanning 14 until 17 headed by 14 parsed as (NP (NNP Kenya) (CC and) (NNP Tanzania))
+sid=4 spanning 16 until 17 headed by 16 parsed as Tanzania
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (CD 77))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=6 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ Naked) (NN Cowboy))
+sid=6 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT a) (NN town)) (PP (IN near) (NP (PRP you))))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (PRP you))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (CD 77))
+(end predicted mentions)
+---------gold clusters--------
+9 13 | { 'Kenya' 'Kenya' }
+3 6 5 4 0 7 11 | { 'his' 'he' 'him' 'The Saudi man' 'One of four men on trial in the bombings of two U.S. embassies in Africa' 'He' 'the man 's' }
+12 1 | { 'the 1998 bombings in Kenya and Tanzania' 'the bombings of two U.S. embassies in Africa' }
+10 8 2 | { 'the man 's confession' 'admitted' 'his confession' }
+(end gold clusters)

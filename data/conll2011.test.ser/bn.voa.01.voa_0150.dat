@@ -1,0 +1,85 @@
+---------gloss--------
+(0) It 's now official , [1m[33m{former star Mario Lemieux}[0m is coming out of retirement to play for [1m[35m{the National Ice Hockey League team that he owns , the Pittsburgh Penguins}[0m . 
+(1) [1m[33m{Lemieux}[0m was the first [1m[34m{NHL}[0m player to become a team owner . 
+(2) Now , [1m[33m{he}[0m is the first owner to become a player . 
+(3) In a news release , Friday , [1m[33m{Lemieux}[0m said [1m[33m{he}[0m missed the game and missed the challenge of competing . 
+(4) [1m[33m{He}[0m added that [1m[33m{he}[0m was excited by the challenge of attempting a comeback and looks forward to the chance to get back on the ice with the players . 
+(5) [1m[33m{The 35 - year - old Lemieux}[0m retired as a player three and one half years ago with 613 goals in 745 regular season games . 
+(6) [1m[33m{He}[0m won three most valuable player awards and led [1m[35m{the Penguins}[0m to two Stanley Cup championships in 1991 and 92 . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0150); part 000
+sentences:
+ItitPRPOPER0'sbeVBZOPER0nownowRBOPER0officialofficialJJOPER0,,,OPER0formerformerJJOPER0starstarNNOPER0MarioMarioNNPPERSONPER0LemieuxLemieuxNNPPERSONPER0isbeVBZOPER0comingcomeVBGOPER0outoutINOPER0ofofINOPER0retirementretirementNNOPER0totoTOOPER0playplayVBOPER0forforINOPER0thetheDTORGPER0NationalNationalNNPORGPER0IceIceNNPORGPER0HockeyHockeyNNPORGPER0LeagueLeagueNNPORGPER0teamteamNNOPER0thatthatWDTOPER0hehePRPOPER0ownsownVBZOPER0,,,OPER0thetheDTORGPER0PittsburghPittsburghNNPORGPER0PenguinspenguinNNSORGPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB now)) (ADJP (JJ official)))) (, ,) (S (NP (NML (JJ former) (NN star)) (NNP Mario) (NNP Lemieux)) (VP (VBZ is) (VP (VBG coming) (PP (IN out) (PP (IN of) (NP (NN retirement)))) (S (VP (TO to) (VP (VB play) (PP (IN for) (NP (DT the) (NNP National) (NNP Ice) (NNP Hockey) (NNP League))) (NP (NP (NN team)) (SBAR (WHNP (WDT that)) (S (NP (PRP he)) (VP (VBZ owns))))))))))) (, ,) (S (NP (DT the) (NNP Pittsburgh)) (NP (NNS Penguins))) (. .)))
+LemieuxLemieuxNNPOPER0wasbeVBDOPER0thetheDTOPER0firstfirstJJORDINALPER0NHLNHLNNPORGPER0playerplayerNNOPER0totoTOOPER0becomebecomeVBOPER0aaDTOPER0teamteamNNOPER0ownerownerNNOPER0...OPER0(ROOT (S (NP (NNP Lemieux)) (VP (VBD was) (NP (NP (DT the) (JJ first) (NNP NHL) (NN player)) (SBAR (S (VP (TO to) (VP (VB become) (NP (DT a) (NN team) (NN owner)))))))) (. .)))
+NownowRBOPER0,,,OPER0hehePRPOPER0isbeVBZOPER0thetheDTOPER0firstfirstJJORDINALPER0ownerownerNNOPER0totoTOOPER0becomebecomeVBOPER0aaDTOPER0playerplayerNNOPER0...OPER0(ROOT (S (ADVP (RB Now)) (, ,) (NP (PRP he)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN owner)) (SBAR (S (VP (TO to) (VP (VB become) (NP (DT a) (NN player)))))))) (. .)))
+IninINOPER0aaDTOPER0newsnewsNNOPER0releasereleaseNNOPER0,,,OPER0FridayFridayNNPDATEPER0,,,OPER0LemieuxLemieuxNNPPERSONPER0saidsayVBDOPER0hehePRPOPER0missedmissVBDOPER0thetheDTOPER0gamegameNNOPER0andandCCOPER0missedmissVBDOPER0thetheDTOPER0challengechallengeNNOPER0ofofINOPER0competingcompeteVBGOPER0...OPER0(ROOT (S (PP (IN In) (NP (DT a) (NN news) (NN release))) (, ,) (NP (NP (NNP Friday)) (, ,) (NP (NNP Lemieux))) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VP (VBD missed) (NP (DT the) (NN game))) (CC and) (VP (VBD missed) (NP (NP (DT the) (NN challenge)) (PP (IN of) (S (VP (VBG competing)))))))))) (. .)))
+HehePRPOPER0addedaddVBDOPER0thatthatINOPER0hehePRPOPER0wasbeVBDOPER0excitedexciteVBNOPER0bybyINOPER0thetheDTOPER0challengechallengeNNOPER0ofofINOPER0attemptingattemptVBGOPER0aaDTOPER0comebackcomebackNNOPER0andandCCOPER0lookslookVBZOPER0forwardforwardRBOPER0totoINOPER0thetheDTOPER0chancechanceNNOPER0totoTOOPER0getgetVBOPER0backbackRPOPER0ononINOPER0thetheDTOPER0iceiceNNOPER0withwithINOPER0thetheDTOPER0playersplayerNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD added) (SBAR (IN that) (S (NP (PRP he)) (VP (VP (VBD was) (VP (VBN excited) (PP (IN by) (NP (NP (DT the) (NN challenge)) (PP (IN of) (S (VP (VBG attempting) (NP (DT a) (NN comeback))))))))) (CC and) (VP (VBZ looks) (ADVP (RB forward)) (PP (IN to) (NP (DT the) (NN chance) (S (VP (TO to) (VP (VB get) (PRT (RP back)) (PP (IN on) (NP (NP (DT the) (NN ice)) (PP (IN with) (NP (DT the) (NNS players))))))))))))))) (. .)))
+ThetheDTOPER03535CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0LemieuxLemieuxNNPOPER0retiredretireVBDOPER0asasINOPER0aaDTOPER0playerplayerNNOPER0threethreeCDDATEPER0andandCCDATEPER0oneoneCDDATEPER0halfhalfNNDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0withwithINOPER0613613CDCARDINALPER0goalsgoalNNSOPER0ininINOPER0745745CDDATEPER0regularregularJJDATEPER0seasonseasonNNDATEPER0gamesgameNNSOPER0...OPER0(ROOT (S (NP (DT The) (ADJP (NML (CD 35) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Lemieux)) (VP (VBD retired) (PP (IN as) (NP (DT a) (NN player))) (ADVP (NP (QP (CD three) (CC and) (CD one) (NN half)) (NNS years)) (RB ago)) (PP (IN with) (NP (NP (CD 613) (NNS goals)) (PP (IN in) (NP (CD 745) (NML (JJ regular) (NN season)) (NNS games)))))) (. .)))
+HehePRPOPER0wonwinVBDOPER0threethreeCDCARDINALPER0mostmostRBSOPER0valuablevaluableJJOPER0playerplayerNNOPER0awardsawardNNSOPER0andandCCOPER0ledleadVBDOPER0thetheDTOPER0PenguinspenguinNNSORGPER0totoINOPER0twotwoCDCARDINALPER0StanleyStanleyNNPEVENTPER0CupCupNNPEVENTPER0championshipschampionshipNNSEVENTPER0ininINOPER019911991CDDATEPER0andandCCDATEPER09292CDDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VP (VBD won) (NP (CD three) (ADJP (RBS most) (JJ valuable)) (NN player) (NNS awards))) (CC and) (VP (VBD led) (NP (DT the) (NNS Penguins)) (PP (IN to) (NP (NP (CD two) (NML (NNP Stanley) (NNP Cup)) (NNS championships)) (PP (IN in) (NP (CD 1991) (CC and) (CD 92))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 9 headed by 8 parsed as (NP (NML (JJ former) (NN star)) (NNP Mario) (NNP Lemieux))
+sid=0 spanning 17 until 22 headed by 21 parsed as (NP (DT the) (NNP National) (NNP Ice) (NNP Hockey) (NNP League))
+sid=0 spanning 17 until 30 headed by 22 parsed as (NP (NP (NN team)) (SBAR (WHNP (WDT that)) (S (NP (PRP he)) (VP (VBZ owns)))))
+sid=0 spanning 24 until 25 headed by 24 parsed as (NP (PRP he))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Lemieux))
+sid=1 spanning 4 until 5 headed by 4 parsed as NHL
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP Lemieux))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=5 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (NML (CD 35) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Lemieux))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS Penguins))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=0 spanning 5 until 9 headed by 8 parsed as (NP (NML (JJ former) (NN star)) (NNP Mario) (NNP Lemieux))
+sid=0 spanning 17 until 22 headed by 21 parsed as (NP (DT the) (NNP National) (NNP Ice) (NNP Hockey) (NNP League))
+sid=0 spanning 22 until 26 headed by 22 parsed as (NP (NP (NN team)) (SBAR (WHNP (WDT that)) (S (NP (PRP he)) (VP (VBZ owns)))))
+sid=0 spanning 24 until 25 headed by 24 parsed as (NP (PRP he))
+sid=0 spanning 27 until 30 headed by 29 parsed as (NP (NNS Penguins))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Lemieux))
+sid=1 spanning 2 until 11 headed by 5 parsed as (NP (NP (DT the) (JJ first) (NNP NHL) (NN player)) (SBAR (S (VP (TO to) (VP (VB become) (NP (DT a) (NN team) (NN owner)))))))
+sid=1 spanning 3 until 4 headed by 3 parsed as first
+sid=1 spanning 4 until 5 headed by 4 parsed as NHL
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (DT a) (NN team) (NN owner))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=2 spanning 4 until 11 headed by 6 parsed as (NP (NP (DT the) (JJ first) (NN owner)) (SBAR (S (VP (TO to) (VP (VB become) (NP (DT a) (NN player)))))))
+sid=2 spanning 5 until 6 headed by 5 parsed as first
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NN player))
+sid=3 spanning 1 until 4 headed by 3 parsed as (NP (DT a) (NN news) (NN release))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NP (NNP Friday)) (, ,) (NP (NNP Lemieux)))
+sid=3 spanning 5 until 8 headed by 5 parsed as (NP (NP (NNP Friday)) (, ,) (NP (NNP Lemieux)))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP Lemieux))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN game))
+sid=3 spanning 15 until 19 headed by 16 parsed as (NP (NP (DT the) (NN challenge)) (PP (IN of) (S (VP (VBG competing)))))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=4 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT the) (NN challenge)) (PP (IN of) (S (VP (VBG attempting) (NP (DT a) (NN comeback))))))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (DT a) (NN comeback))
+sid=4 spanning 17 until 28 headed by 18 parsed as (NP (DT the) (NN chance) (S (VP (TO to) (VP (VB get) (PRT (RP back)) (PP (IN on) (NP (NP (DT the) (NN ice)) (PP (IN with) (NP (DT the) (NNS players)))))))))
+sid=4 spanning 23 until 28 headed by 24 parsed as (NP (NP (DT the) (NN ice)) (PP (IN with) (NP (DT the) (NNS players))))
+sid=4 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NNS players))
+sid=5 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (NML (CD 35) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Lemieux))
+sid=5 spanning 1 until 6 headed by 5 parsed as old
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NN player))
+sid=5 spanning 11 until 17 headed by 16 parsed as ago
+sid=5 spanning 18 until 25 headed by 19 parsed as (NP (NP (CD 613) (NNS goals)) (PP (IN in) (NP (CD 745) (NML (JJ regular) (NN season)) (NNS games))))
+sid=5 spanning 21 until 25 headed by 24 parsed as (NP (CD 745) (NML (JJ regular) (NN season)) (NNS games))
+sid=5 spanning 21 until 24 headed by 23 parsed as season
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 2 until 7 headed by 6 parsed as (NP (CD three) (ADJP (RBS most) (JJ valuable)) (NN player) (NNS awards))
+sid=6 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS Penguins))
+sid=6 spanning 12 until 20 headed by 15 parsed as (NP (NP (CD two) (NML (NNP Stanley) (NNP Cup)) (NNS championships)) (PP (IN in) (NP (CD 1991) (CC and) (CD 92))))
+sid=6 spanning 17 until 20 headed by 17 parsed as (NP (CD 1991) (CC and) (CD 92))
+(end predicted mentions)
+---------gold clusters--------
+7 4 9 11 6 3 10 8 0 12 | { 'Lemieux' 'Lemieux' 'He' 'The 35 - year - old Lemieux' 'he' 'he' 'he' 'he' 'former star Mario Lemieux' 'He' }
+5 1 | { 'NHL' 'the National Ice Hockey League' }
+13 2 | { 'the Penguins' 'the National Ice Hockey League team that he owns , the Pittsburgh Penguins' }
+(end gold clusters)

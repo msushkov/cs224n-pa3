@@ -1,0 +1,47 @@
+---------gloss--------
+(0) [33m{Former NFL star Dan Marino}[0m is presiding as the grand marshal of the annual New York Columbus Day parade . 
+(1) [33m{Marino}[0m is leading a star - studded political cast , including Mayor Rudy Giuliani and former presidential candidate John M Cain . 
+(2) U.S. Senate hopefuls Rick Lazio and Hillary Clinton are marching , too . 
+(3) The parade route was altered this year to avoid disturbing worshipers at a Jewish temple during the observance of Yom Kippur . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0024); part 000
+sentences:
+FormerformerJJOPER0NFLNFLNNPORGPER0starstarNNOPER0DanDanNNPPERSONPER0MarinoMarinoNNPPERSONPER0isbeVBZOPER0presidingpresideVBGOPER0asasINOPER0thetheDTOPER0grandgrandJJOPER0marshalmarshalNNOPER0ofofINOPER0thetheDTOPER0annualannualJJDATEPER0NewNewNNPEVENTPER0YorkYorkNNPEVENTPER0ColumbusColumbusNNPEVENTPER0DayDayNNPEVENTPER0paradeparadeNNEVENTPER0...OPER0(ROOT (S (NP (NML (JJ Former) (NNP NFL) (NN star)) (NNP Dan) (NNP Marino)) (VP (VBZ is) (VP (VBG presiding) (PP (IN as) (NP (NP (DT the) (JJ grand) (NN marshal)) (PP (IN of) (NP (DT the) (JJ annual) (NML (NML (NNP New) (NNP York)) (NNP Columbus) (NNP Day)) (NN parade))))))) (. .)))
+MarinoMarinoNNPPERSONPER0isbeVBZOPER0leadingleadVBGOPER0aaDTOPER0starstarNNOPER0--HYPHOPER0studdedstudVBNOPER0politicalpoliticalJJOPER0castcastNNOPER0,,,OPER0includingincludeVBGOPER0MayorMayorNNPOPER0RudyRudyNNPPERSONPER0GiulianiGiulianiNNPPERSONPER0andandCCOPER0formerformerJJOPER0presidentialpresidentialJJOPER0candidatecandidateNNOPER0JohnJohnNNPPERSONPER0MMNNPPERSONPER0CainCainNNPPERSONPER0...OPER0(ROOT (S (NP (NNP Marino)) (VP (VBZ is) (VP (VBG leading) (NP (NP (DT a) (ADJP (NN star) (HYPH -) (VBN studded)) (JJ political) (NN cast)) (, ,) (PP (VBG including) (NP (NP (NNP Mayor) (NNP Rudy) (NNP Giuliani)) (CC and) (NP (NML (JJ former) (JJ presidential) (NN candidate)) (NNP John) (NNP M) (NNP Cain))))))) (. .)))
+U.S.U.S.NNPORGPER0SenateSenateNNPORGPER0hopefulshopefulNNSOPER0RickRickNNPPERSONPER0LazioLazioNNPPERSONPER0andandCCOPER0HillaryHillaryNNPPERSONPER0ClintonClintonNNPPERSONPER0arebeVBPOPER0marchingmarchVBGOPER0,,,OPER0tootooRBOPER0...OPER0(ROOT (S (NP (NP (NML (NNP U.S.) (NNP Senate)) (NNS hopefuls)) (NP (NP (NNP Rick) (NNP Lazio)) (CC and) (NP (NNP Hillary) (NNP Clinton)))) (VP (VBP are) (VP (VBG marching) (, ,) (ADVP (RB too)))) (. .)))
+ThetheDTOPER0paradeparadeNNOPER0routerouteNNOPER0wasbeVBDOPER0alteredalterVBNOPER0thisthisDTOPER0yearyearNNDATEPER0totoTOOPER0avoidavoidVBOPER0disturbingdisturbVBGOPER0worshipersworshiperNNSOPER0atatINOPER0aaDTOPER0JewishjewishJJOPER0templetempleNNOPER0duringduringINOPER0thetheDTOPER0observanceobservanceNNOPER0ofofINOPER0YomYomNNPEVENTPER0KippurKippurNNPEVENTPER0...OPER0(ROOT (S (NP (DT The) (NN parade) (NN route)) (VP (VBD was) (VP (VBN altered) (NP (DT this) (NN year) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG disturbing) (NP (NNS worshipers)) (PP (IN at) (NP (NP (DT a) (JJ Jewish) (NN temple)) (PP (IN during) (NP (NP (DT the) (NN observance)) (PP (IN of) (NP (NNP Yom) (NNP Kippur))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Former) (NNP NFL) (NN star)) (NNP Dan) (NNP Marino))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Marino))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Former) (NNP NFL) (NN star)) (NNP Dan) (NNP Marino))
+sid=0 spanning 1 until 2 headed by 1 parsed as NFL
+sid=0 spanning 8 until 19 headed by 10 parsed as (NP (NP (DT the) (JJ grand) (NN marshal)) (PP (IN of) (NP (DT the) (JJ annual) (NML (NML (NNP New) (NNP York)) (NNP Columbus) (NNP Day)) (NN parade))))
+sid=0 spanning 12 until 19 headed by 18 parsed as (NP (DT the) (JJ annual) (NML (NML (NNP New) (NNP York)) (NNP Columbus) (NNP Day)) (NN parade))
+sid=0 spanning 13 until 14 headed by 13 parsed as annual
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Marino))
+sid=1 spanning 3 until 21 headed by 8 parsed as (NP (NP (DT a) (ADJP (NN star) (HYPH -) (VBN studded)) (JJ political) (NN cast)) (, ,) (PP (VBG including) (NP (NP (NNP Mayor) (NNP Rudy) (NNP Giuliani)) (CC and) (NP (NML (JJ former) (JJ presidential) (NN candidate)) (NNP John) (NNP M) (NNP Cain)))))
+sid=1 spanning 3 until 9 headed by 8 parsed as (NP (DT a) (ADJP (NN star) (HYPH -) (VBN studded)) (JJ political) (NN cast))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NP (NNP Mayor) (NNP Rudy) (NNP Giuliani)) (CC and) (NP (NML (JJ former) (JJ presidential) (NN candidate)) (NNP John) (NNP M) (NNP Cain)))
+sid=1 spanning 11 until 21 headed by 13 parsed as (NP (NP (NNP Mayor) (NNP Rudy) (NNP Giuliani)) (CC and) (NP (NML (JJ former) (JJ presidential) (NN candidate)) (NNP John) (NNP M) (NNP Cain)))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (NNP Mayor) (NNP Rudy) (NNP Giuliani))
+sid=1 spanning 15 until 21 headed by 20 parsed as (NP (NML (JJ former) (JJ presidential) (NN candidate)) (NNP John) (NNP M) (NNP Cain))
+sid=2 spanning 0 until 8 headed by 2 parsed as (NP (NP (NML (NNP U.S.) (NNP Senate)) (NNS hopefuls)) (NP (NP (NNP Rick) (NNP Lazio)) (CC and) (NP (NNP Hillary) (NNP Clinton))))
+sid=2 spanning 0 until 2 headed by 1 parsed as Senate
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (NP (NNP Rick) (NNP Lazio)) (CC and) (NP (NNP Hillary) (NNP Clinton)))
+sid=2 spanning 3 until 8 headed by 4 parsed as (NP (NP (NNP Rick) (NNP Lazio)) (CC and) (NP (NNP Hillary) (NNP Clinton)))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NNP Hillary) (NNP Clinton))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN parade) (NN route))
+sid=3 spanning 5 until 21 headed by 6 parsed as (NP (DT this) (NN year) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG disturbing) (NP (NNS worshipers)) (PP (IN at) (NP (NP (DT a) (JJ Jewish) (NN temple)) (PP (IN during) (NP (NP (DT the) (NN observance)) (PP (IN of) (NP (NNP Yom) (NNP Kippur)))))))))))))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (NNS worshipers))
+sid=3 spanning 12 until 21 headed by 14 parsed as (NP (NP (DT a) (JJ Jewish) (NN temple)) (PP (IN during) (NP (NP (DT the) (NN observance)) (PP (IN of) (NP (NNP Yom) (NNP Kippur))))))
+sid=3 spanning 16 until 21 headed by 17 parsed as (NP (NP (DT the) (NN observance)) (PP (IN of) (NP (NNP Yom) (NNP Kippur))))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (NNP Yom) (NNP Kippur))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Former NFL star Dan Marino' 'Marino' }
+(end gold clusters)

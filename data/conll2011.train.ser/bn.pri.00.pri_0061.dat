@@ -1,0 +1,49 @@
+---------gloss--------
+(0) [3m[36m{The Palestinian faction headed by Yasser Arafat}[0m said [4m[31m{today}[0m that , [3m[36m{it}[0m will avenge the deaths of four of [3m[36m{its}[0m members who were killed [4m[31m{today}[0m by Israeli soldiers . 
+(1) Later in [4m[31m{the day}[0m , a car bombing in the northern Israeli town of Hadera , killed two people and injured at least 50 . 
+(2) [4m[32m{Israeli Prime Minister Ehud Barak}[0m said [4m[32m{he}[0m would retaliate . 
+(3) Corey Flintoff , NPR News , Washington . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0061); part 000
+sentences:
+ThetheDTOPER0PalestinianpalestinianJJOPER0factionfactionNNOPER0headedheadVBNOPER0bybyINOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0saidsayVBDOPER0todaytodayNNDATEPER0thatthatINOPER0,,,OPER0ititPRPOPER0willwillMDOPER0avengeavengeVBOPER0thetheDTOPER0deathsdeathNNSOPER0ofofINOPER0fourfourCDCARDINALPER0ofofINOPER0itsitsPRP$OPER0membersmemberNNSOPER0whowhoWPOPER0werebeVBDOPER0killedkillVBNOPER0todaytodayNNDATEPER0bybyINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ Palestinian) (NN faction)) (VP (VBN headed) (PP (IN by) (NP (NNP Yasser) (NNP Arafat))))) (VP (VBD said) (NP (NN today)) (SBAR (IN that) (, ,) (S (NP (PRP it)) (VP (MD will) (VP (VB avenge) (NP (NP (DT the) (NNS deaths)) (PP (IN of) (NP (NP (CD four)) (PP (IN of) (NP (NP (PRP$ its) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN killed) (NP (NN today)) (PP (IN by) (NP (JJ Israeli) (NNS soldiers))))))))))))))))) (. .)))
+LaterlaterRBOPER0ininINOPER0thetheDTDATEPER0daydayNNDATEPER0,,,OPER0aaDTOPER0carcarNNOPER0bombingbombingNNOPER0ininINOPER0thetheDTOPER0northernnorthernJJOPER0IsraeliisraeliJJOPER0towntownNNOPER0ofofINOPER0HaderaHaderaNNPORGPER0,,,OPER0killedkillVBDOPER0twotwoCDCARDINALPER0peoplepeopleNNSOPER0andandCCOPER0injuredinjureVBDOPER0atatINCARDINALPER0leastleastJJSCARDINALPER05050CDCARDINALPER0...OPER0(ROOT (S (ADVP (RB Later) (PP (IN in) (NP (DT the) (NN day)))) (, ,) (NP (NP (DT a) (NN car) (NN bombing)) (PP (IN in) (NP (NP (DT the) (JJ northern) (JJ Israeli) (NN town)) (PP (IN of) (NP (NNP Hadera)))))) (, ,) (VP (VP (VBD killed) (NP (CD two) (NNS people))) (CC and) (VP (VBD injured) (NP (QP (ADVP (IN at) (JJS least)) (CD 50))))) (. .)))
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0saidsayVBDOPER0hehePRPOPER0wouldwouldMDOPER0retaliateretaliateVBOPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB retaliate)))))) (. .)))
+CoreyCoreyNNPPERSONPER0FlintoffFlintoffNNPPERSONPER0,,,OPER0NPRNPRNNPORGPER0NewsNewsNNPORGPER0,,,OPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Corey) (NNP Flintoff)) (, ,) (NP (NNP NPR) (NNP News)) (, ,) (NP (NNP Washington)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT The) (JJ Palestinian) (NN faction)) (VP (VBN headed) (PP (IN by) (NP (NNP Yasser) (NNP Arafat)))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NN today))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=0 spanning 19 until 20 headed by 19 parsed as its
+sid=0 spanning 24 until 25 headed by 24 parsed as (NP (NN today))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN day))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT The) (JJ Palestinian) (NN faction)) (VP (VBN headed) (PP (IN by) (NP (NNP Yasser) (NNP Arafat)))))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP Yasser) (NNP Arafat))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=0 spanning 14 until 28 headed by 15 parsed as (NP (NP (DT the) (NNS deaths)) (PP (IN of) (NP (NP (CD four)) (PP (IN of) (NP (NP (PRP$ its) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN killed) (NP (NN today)) (PP (IN by) (NP (JJ Israeli) (NNS soldiers))))))))))))
+sid=0 spanning 17 until 28 headed by 17 parsed as (NP (NP (CD four)) (PP (IN of) (NP (NP (PRP$ its) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN killed) (NP (NN today)) (PP (IN by) (NP (JJ Israeli) (NNS soldiers))))))))))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN day))
+sid=1 spanning 5 until 15 headed by 7 parsed as (NP (NP (DT a) (NN car) (NN bombing)) (PP (IN in) (NP (NP (DT the) (JJ northern) (JJ Israeli) (NN town)) (PP (IN of) (NP (NNP Hadera))))))
+sid=1 spanning 9 until 15 headed by 12 parsed as (NP (NP (DT the) (JJ northern) (JJ Israeli) (NN town)) (PP (IN of) (NP (NNP Hadera))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Hadera))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (CD two) (NNS people))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (QP (ADVP (IN at) (JJS least)) (CD 50)))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Corey) (NNP Flintoff))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NNP NPR) (NNP News))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+0 3 2 | { 'The Palestinian faction headed by Yasser Arafat' 'its' 'it' }
+5 4 1 | { 'the day' 'today' 'today' }
+6 7 | { 'Israeli Prime Minister Ehud Barak' 'he' }
+(end gold clusters)

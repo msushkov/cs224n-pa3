@@ -1,0 +1,44 @@
+---------gloss--------
+(0) [36m{A wildfire in California}[0m forced [1m[31m{hundreds of people}[0m from [1m[31m{their}[0m homes . 
+(1) [36m{The fire , near the historic State Park}[0m started yesterday when a trailer , hauled by a pickup , ignited on the Golden State Freeway . 
+(2) [36m{The fire}[0m consumed more than 500 acres is only about 35 % contained . 
+(3) No injuries have been reported thankfully at this time . 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0437); part 000
+sentences:
+AaDTOPER0wildfirewildfireNNOPER0ininINOPER0CaliforniaCaliforniaNNPGPEPER0forcedforceVBDOPER0hundredshundredNNSCARDINALPER0ofofINOPER0peoplepeopleNNSOPER0fromfromINOPER0theirtheyPRP$OPER0homeshomeNNSOPER0...OPER0(ROOT (S (NP (NP (DT A) (NN wildfire)) (PP (IN in) (NP (NNP California)))) (VP (VBD forced) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS people)) (PP (IN from) (NP (PRP$ their) (NNS homes))))))) (. .)))
+ThetheDTOPER0firefireNNOPER0,,,OPER0nearnearINOPER0thetheDTOPER0historichistoricJJOPER0StateStateNNPGPEPER0ParkParkNNPGPEPER0startedstartVBDOPER0yesterdayyesterdayNNDATEPER0whenwhenWRBOPER0aaDTOPER0trailertrailerNNOPER0,,,OPER0hauledhaulVBDOPER0bybyINOPER0aaDTOPER0pickuppickupNNOPER0,,,OPER0ignitedigniteVBDOPER0ononINOPER0thetheDTFACPER0GoldenGoldenNNPFACPER0StateStateNNPFACPER0FreewayFreewayNNPFACPER0...OPER0(ROOT (S (NP (DT The) (NN fire)) (, ,) (PP (IN near) (NP (DT the) (JJ historic) (NNP State) (NNP Park))) (VP (VBD started) (NP (NP (NN yesterday)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (NN trailer)) (, ,) (VP (VBD hauled) (PP (IN by) (NP (DT a) (NN pickup)))) (, ,)) (VP (VBD ignited) (PP (IN on) (NP (DT the) (NML (NNP Golden) (NNP State)) (NNP Freeway)))))))) (. .)))
+ThetheDTOPER0firefireNNOPER0consumedconsumeVBNOPER0moremoreJJRQUANTITYPER0thanthanINQUANTITYPER0500500CDQUANTITYPER0acresacreNNSQUANTITYPER0isbeVBZOPER0onlyonlyRBPERCENTPER0aboutaboutRBPERCENTPER03535CDPERCENTPER0%%NNPERCENTPER0containedcontainVBDOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN fire)) (VP (VBN consumed) (NP (QP (XS (JJR more) (IN than)) (CD 500)) (NNS acres)))) (VP (VBZ is) (SBAR (S (NP (QP (RB only) (RB about) (CD 35)) (NN %)) (VP (VBD contained))))) (. .)))
+NonoDTOPER0injuriesinjuryNNSOPER0havehaveVBPOPER0beenbeVBNOPER0reportedreportVBNOPER0thankfullythankfullyRBOPER0atatINOPER0thisthisDTOPER0timetimeNNOPER0...OPER0(ROOT (S (NP (DT No) (NNS injuries)) (VP (VBP have) (VP (VBN been) (VP (VBN reported) (ADVP (RB thankfully)) (PP (IN at) (NP (DT this) (NN time)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT A) (NN wildfire)) (PP (IN in) (NP (NNP California))))
+sid=0 spanning 5 until 8 headed by 5 parsed as (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS people)) (PP (IN from) (NP (PRP$ their) (NNS homes))))))
+sid=0 spanning 9 until 10 headed by 9 parsed as their
+sid=1 spanning 0 until 8 headed by 1 parsed as (NP (DT The) (NN fire))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NP (DT The) (NN fire)) (VP (VBN consumed) (NP (QP (XS (JJR more) (IN than)) (CD 500)) (NNS acres))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT A) (NN wildfire)) (PP (IN in) (NP (NNP California))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP California))
+sid=0 spanning 5 until 11 headed by 5 parsed as (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS people)) (PP (IN from) (NP (PRP$ their) (NNS homes))))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ their) (NNS homes))
+sid=0 spanning 9 until 10 headed by 9 parsed as (PRP$ their)
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN fire))
+sid=1 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (JJ historic) (NNP State) (NNP Park))
+sid=1 spanning 9 until 25 headed by 9 parsed as (NP (NP (NN yesterday)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (NN trailer)) (, ,) (VP (VBD hauled) (PP (IN by) (NP (DT a) (NN pickup)))) (, ,)) (VP (VBD ignited) (PP (IN on) (NP (DT the) (NML (NNP Golden) (NNP State)) (NNP Freeway)))))))
+sid=1 spanning 11 until 19 headed by 12 parsed as (NP (NP (DT a) (NN trailer)) (, ,) (VP (VBD hauled) (PP (IN by) (NP (DT a) (NN pickup)))) (, ,))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT a) (NN trailer))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN pickup))
+sid=1 spanning 21 until 25 headed by 24 parsed as (NP (DT the) (NML (NNP Golden) (NNP State)) (NNP Freeway))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN fire)) (VP (VBN consumed) (NP (QP (XS (JJR more) (IN than)) (CD 500)) (NNS acres))))
+sid=2 spanning 3 until 7 headed by 6 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 500)) (NNS acres))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT No) (NNS injuries))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN time))
+(end predicted mentions)
+---------gold clusters--------
+0 4 3 | { 'A wildfire in California' 'The fire' 'The fire , near the historic State Park' }
+1 2 | { 'hundreds of people' 'their' }
+(end gold clusters)

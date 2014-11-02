@@ -1,0 +1,54 @@
+---------gloss--------
+(0) [1m[35m{ALBERTA ENERGY Co. , Calgary ,}[0m said [1m[35m{it}[0m filed a preliminary prospectus for [1m[36m{an offering of common shares}[0m . 
+(1) [1m[35m{The natural resources development concern}[0m said proceeds will be used to repay long - term debt , which stood at 598 million Canadian dollars -LRB- US$ 510.6 million -RRB- at the end of 1988 . 
+(2) [1m[35m{The company}[0m plans to raise between C$ 75 million and C$ 100 million from [1m[36m{the offering}[0m , according to [3m[31m{a spokeswoman at Richardson Greenshields of Canada Ltd. , lead underwriter}[0m . 
+(3) [1m[34m{The shares}[0m will be priced in early November , [3m[31m{she}[0m said . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1183); part 000
+sentences:
+ALBERTAALBERTANNPORGPER0ENERGYENERGYNNPORGPER0Co.Co.NNPORGPER0,,,OPER0CalgaryCalgaryNNPGPEPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0filedfileVBDOPER0aaDTOPER0preliminarypreliminaryJJOPER0prospectusprospectusNNOPER0forforINOPER0anaDTOPER0offeringofferingNNOPER0ofofINOPER0commoncommonJJOPER0sharesshareNNSOPER0...OPER0(ROOT (S (NP (NP (NNP ALBERTA) (NNP ENERGY) (NNP Co.)) (, ,) (NP (NNP Calgary)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD filed) (NP (DT a) (JJ preliminary) (NN prospectus)) (PP (IN for) (NP (NP (DT an) (NN offering)) (PP (IN of) (NP (JJ common) (NNS shares))))))))) (. .)))
+ThetheDTOPER0naturalnaturalJJOPER0resourcesresourceNNSOPER0developmentdevelopmentNNOPER0concernconcernNNOPER0saidsayVBDOPER0proceedsproceedsNNSOPER0willwillMDOPER0bebeVBOPER0useduseVBNOPER0totoTOOPER0repayrepayVBOPER0longlongJJOPER0--HYPHOPER0termtermNNOPER0debtdebtNNOPER0,,,OPER0whichwhichWDTOPER0stoodstandVBDOPER0atatINOPER0598598CDMONEYPER0millionmillionCDMONEYPER0CanadiancanadianJJMONEYPER0dollarsdollarNNSMONEYPER0-LRB--lrb--LRB-OPER0US$us$$MONEYPER0510.6510.6CDMONEYPER0millionmillionCDMONEYPER0-RRB--rrb--RRB-OPER0atatINOPER0thetheDTDATEPER0endendNNDATEPER0ofofINDATEPER019881988CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NML (JJ natural) (NNS resources)) (NN development) (NN concern)) (VP (VBD said) (SBAR (S (NP (NNS proceeds)) (VP (MD will) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB repay) (NP (NP (NML (JJ long) (HYPH -) (NN term)) (NN debt)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD stood) (PP (IN at) (NP (NP (QP (CD 598) (CD million)) (JJ Canadian) (NNS dollars)) (-LRB- -LRB-) (NP (QP ($ US$) (CD 510.6) (CD million))) (-RRB- -RRB-))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1988)))))))))))))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0plansplanVBZOPER0totoTOOPER0raiseraiseVBOPER0betweenbetweenINMONEYPER0C$c$$MONEYPER07575CDMONEYPER0millionmillionCDMONEYPER0andandCCMONEYPER0C$c$$MONEYPER0100100CDMONEYPER0millionmillionCDMONEYPER0fromfromINOPER0thetheDTOPER0offeringofferingNNOPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0aaDTOPER0spokeswomanspokeswomanNNOPER0atatINOPER0RichardsonRichardsonNNPORGPER0GreenshieldsGreenshieldsNNPORGPER0ofofINORGPER0CanadaCanadaNNPORGPER0Ltd.Ltd.NNPORGPER0,,,OPER0leadleadJJOPER0underwriterunderwriterNNOPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (VP (VBZ plans) (S (VP (TO to) (VP (VB raise) (NP (QP (IN between) ($ C$) (CD 75) (CD million) (CC and) ($ C$) (CD 100) (CD million))) (PP (IN from) (NP (DT the) (NN offering))) (, ,) (PP (VBG according) (PP (IN to) (NP (NP (DT a) (NN spokeswoman)) (PP (IN at) (NP (NP (NNP Richardson) (NNP Greenshields)) (PP (IN of) (NP (NP (NNP Canada) (NNP Ltd.)) (, ,) (NP (JJ lead) (NN underwriter))))))))))))) (. .)))
+ThetheDTOPER0sharesshareNNSOPER0willwillMDOPER0bebeVBOPER0pricedpriceVBNOPER0ininINOPER0earlyearlyJJDATEPER0NovemberNovemberNNPDATEPER0,,,OPER0sheshePRPOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT The) (NNS shares)) (VP (MD will) (VP (VB be) (VP (VBN priced) (PP (IN in) (NP (JJ early) (NNP November))))))) (, ,) (NP (PRP she)) (VP (VBD said)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP ALBERTA) (NNP ENERGY) (NNP Co.)) (, ,) (NP (NNP Calgary)) (, ,))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=0 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT an) (NN offering)) (PP (IN of) (NP (JJ common) (NNS shares))))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (JJ common) (NNS shares))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (JJ natural) (NNS resources)) (NN development) (NN concern))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN offering))
+sid=2 spanning 19 until 30 headed by 20 parsed as (NP (NP (DT a) (NN spokeswoman)) (PP (IN at) (NP (NP (NNP Richardson) (NNP Greenshields)) (PP (IN of) (NP (NP (NNP Canada) (NNP Ltd.)) (, ,) (NP (JJ lead) (NN underwriter)))))))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS shares))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (PRP she))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP ALBERTA) (NNP ENERGY) (NNP Co.)) (, ,) (NP (NNP Calgary)) (, ,))
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP ALBERTA) (NNP ENERGY) (NNP Co.)) (, ,) (NP (NNP Calgary)) (, ,))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Calgary))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (JJ preliminary) (NN prospectus))
+sid=0 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT an) (NN offering)) (PP (IN of) (NP (JJ common) (NNS shares))))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (JJ common) (NNS shares))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (JJ natural) (NNS resources)) (NN development) (NN concern))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNS proceeds))
+sid=1 spanning 30 until 34 headed by 31 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1988))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN offering))
+sid=2 spanning 19 until 30 headed by 20 parsed as (NP (NP (DT a) (NN spokeswoman)) (PP (IN at) (NP (NP (NNP Richardson) (NNP Greenshields)) (PP (IN of) (NP (NP (NNP Canada) (NNP Ltd.)) (, ,) (NP (JJ lead) (NN underwriter)))))))
+sid=2 spanning 22 until 27 headed by 23 parsed as (NP (NP (NNP Richardson) (NNP Greenshields)) (PP (IN of) (NP (NP (NNP Canada) (NNP Ltd.)) (, ,) (NP (JJ lead) (NN underwriter)))))
+sid=2 spanning 22 until 30 headed by 23 parsed as (NP (NP (NNP Richardson) (NNP Greenshields)) (PP (IN of) (NP (NP (NNP Canada) (NNP Ltd.)) (, ,) (NP (JJ lead) (NN underwriter)))))
+sid=2 spanning 25 until 30 headed by 26 parsed as (NP (NP (NNP Canada) (NNP Ltd.)) (, ,) (NP (JJ lead) (NN underwriter)))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS shares))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (JJ early) (NNP November))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (PRP she))
+(end predicted mentions)
+---------gold clusters--------
+3 8 | { 'common shares' 'The shares' }
+4 1 0 5 | { 'The natural resources development concern' 'it' 'ALBERTA ENERGY Co. , Calgary ,' 'The company' }
+6 2 | { 'the offering' 'an offering of common shares' }
+9 7 | { 'she' 'a spokeswoman at Richardson Greenshields of Canada Ltd. , lead underwriter' }
+(end gold clusters)

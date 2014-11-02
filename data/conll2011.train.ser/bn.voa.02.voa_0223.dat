@@ -1,0 +1,22 @@
+---------gloss--------
+(0) In Cairo Sunday , Palestinian and Israeli security officials met with CIA Chief George Tenet to discuss reducing violence in the Palestinian territories . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0223); part 000
+sentences:
+IninINOPER0CairoCairoNNPGPEPER0SundaySundayNNPDATEPER0,,,OPER0PalestinianpalestinianJJOPER0andandCCOPER0IsraeliisraeliJJOPER0securitysecurityNNOPER0officialsofficialNNSOPER0metmeetVBDOPER0withwithINOPER0CIACIANNPORGPER0ChiefChiefNNPOPER0GeorgeGeorgeNNPPERSONPER0TenettenetNNPERSONPER0totoTOOPER0discussdiscussVBOPER0reducingreduceVBGOPER0violenceviolenceNNOPER0ininINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0territoriesterritoryNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Cairo))) (NP (NNP Sunday)) (, ,) (NP (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NN security) (NNS officials)) (VP (VBD met) (PP (IN with) (NP (NML (NNP CIA) (NNP Chief) (NNP George)) (NN Tenet))) (S (VP (TO to) (VP (VB discuss) (NP (NP (VBG reducing) (NN violence)) (PP (IN in) (NP (DT the) (JJ Palestinian) (NNS territories)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Cairo))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NNP Sunday))
+sid=0 spanning 4 until 9 headed by 8 parsed as (NP (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NN security) (NNS officials))
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (NML (NNP CIA) (NNP Chief) (NNP George)) (NN Tenet))
+sid=0 spanning 11 until 12 headed by 11 parsed as CIA
+sid=0 spanning 17 until 23 headed by 18 parsed as (NP (NP (VBG reducing) (NN violence)) (PP (IN in) (NP (DT the) (JJ Palestinian) (NNS territories))))
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (JJ Palestinian) (NNS territories))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

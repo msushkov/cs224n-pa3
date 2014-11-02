@@ -1,0 +1,76 @@
+---------gloss--------
+(0) [1m[35m{Whittle Communications Limited Partnership}[0m , Knoxville , Tenn. , will launch [1m[35m{its}[0m first media property targeting Hispanic women . 
+(1) [1m[32m{`` La Familia de Hoy , '' or `` Today 's Family , ''}[0m will debut this spring and will combine [1m[33m{a national bimonthly magazine}[0m and [1m[31m{TV programming}[0m . 
+(2) [1m[31m{The television element of `` La Familia ''}[0m includes a series of [1m[34m{two - minute informational features}[0m to air seven days a week on the Spanish - language Univision network , a unit of Univision Holdings Inc. , which is 80%-owned by Hallmark Cards Inc . 
+(3) [1m[34m{The features}[0m will focus on `` parenting , family health and nutrition , and financial management , '' and will carry 30 seconds of advertising . 
+(4) [1m[33m{The magazines , also ad - supported ,}[0m will be distributed in more than 10,000 doctors ' offices , clinics , and health centers in Hispanic and largely Hispanic communities . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1532); part 000
+sentences:
+WhittleWhittleNNPORGPER0CommunicationsCommunicationsNNPORGPER0LimitedLimitedNNPORGPER0PartnershipPartnershipNNPORGPER0,,,OPER0KnoxvilleKnoxvilleNNPGPEPER0,,,OPER0Tenn.Tenn.NNPGPEPER0,,,OPER0willwillMDOPER0launchlaunchVBOPER0itsitsPRP$OPER0firstfirstJJOPER0mediamediaNNOPER0propertypropertyNNOPER0targetingtargetVBGOPER0HispanichispanicJJOPER0womenwomanNNSOPER0...OPER0(ROOT (S (NP (NNP Whittle) (NNP Communications) (NNP Limited) (NNP Partnership) (, ,) (NML (NNP Knoxville) (, ,) (NNP Tenn.) (, ,))) (VP (MD will) (VP (VB launch) (NP (NP (PRP$ its) (JJ first) (NN media) (NN property)) (VP (VBG targeting) (NP (JJ Hispanic) (NNS women)))))) (. .)))
+``````OLaLaNNPWORK_OF_ARTPER1FamiliaFamiliaNNPWORK_OF_ARTPER1dedeINWORK_OF_ARTPER1HoyHoyNNPWORK_OF_ARTPER1,,,OPER1''''''OPER0ororCCOPER0``````OTodayTodayNNPWORK_OF_ARTPER2's'sPOSWORK_OF_ARTPER2FamilyfamilyNNWORK_OF_ARTPER2,,,OPER2''''''OPER0willwillMDOPER0debutdebutNNOPER0thisthisDTDATEPER0springspringNNDATEPER0andandCCOPER0willwillMDOPER0combinecombineVBOPER0aaDTOPER0nationalnationalJJOPER0bimonthlybimonthlyJJDATEPER0magazinemagazineNNOPER0andandCCOPER0TVtvNNOPER0programmingprogrammingNNOPER0...OPER0(ROOT (S (NP (`` ``) (NP (NP (NNP La) (NNP Familia)) (PP (IN de) (NP (NNP Hoy)))) (, ,) ('' '') (CC or) (`` ``) (NP (NP (NNP Today) (POS 's)) (NN Family)) (, ,) ('' '')) (VP (VP (MD will) (VP (NN debut) (NP (DT this) (NN spring)))) (CC and) (VP (MD will) (VP (VB combine) (NP (DT a) (JJ national) (JJ bimonthly) (NML (NN magazine) (CC and) (NN TV)) (NN programming))))) (. .)))
+ThetheDTOPER0televisiontelevisionNNOPER0elementelementNNOPER0ofofINOPER0``````WORK_OF_ARTLaLaNNPWORK_OF_ARTPER3FamiliaFamiliaNNPWORK_OF_ARTPER3''''''WORK_OF_ARTPER0includesincludeVBZOPER0aaDTOPER0seriesseriesNNOPER0ofofINOPER0twotwoCDTIMEPER0--HYPHTIMEPER0minuteminuteNNTIMEPER0informationalinformationalJJOPER0featuresfeatureNNSOPER0totoTOOPER0airairVBOPER0sevensevenCDDATEPER0daysdayNNSDATEPER0aaDTDATEPER0weekweekNNDATEPER0ononINOPER0thetheDTOPER0SpanishspanishJJOPER0--HYPHOPER0languagelanguageNNOPER0UnivisionUnivisionNNPORGPER0networknetworkNNOPER0,,,OPER0aaDTOPER0unitunitNNOPER0ofofINOPER0UnivisionUnivisionNNPORGPER0HoldingsHoldingsNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0whichwhichWDTOPER0isbeVBZOPER080%-owned80%-ownVBNPERCENTPER0bybyINOPER0HallmarkHallmarkNNPORGPER0CardscardNNSORGPER0IncIncNNPORGPER0...OPER0(ROOT (S (NP (NP (DT The) (NN television) (NN element)) (PP (IN of) (NP (`` ``) (NNP La) (NNP Familia) ('' '')))) (VP (VBZ includes) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NML (CD two) (HYPH -) (NN minute)) (JJ informational) (NNS features))) (S (VP (TO to) (VP (VB air) (NP (NP (CD seven) (NNS days)) (NP (DT a) (NN week))) (PP (IN on) (NP (NP (DT the) (NML (JJ Spanish) (HYPH -) (NN language)) (NNP Univision) (NN network)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Univision) (NNP Holdings) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN 80%-owned) (PP (IN by) (NP (NML (NNP Hallmark) (NNS Cards)) (NNP Inc))))))))))))))))) (. .)))
+ThetheDTOPER0featuresfeatureNNSOPER0willwillMDOPER0focusfocusVBOPER0ononINOPER0``````OparentingparentingNNOPER4,,,OPER4familyfamilyNNOPER4healthhealthNNOPER4andandCCOPER4nutritionnutritionNNOPER4,,,OPER4andandCCOPER4financialfinancialJJOPER4managementmanagementNNOPER4,,,OPER4''''''OPER0andandCCOPER0willwillMDOPER0carrycarryVBOPER03030CDTIMEPER0secondssecondsNNSTIMEPER0ofofINOPER0advertisingadvertisingNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS features)) (VP (VP (MD will) (VP (VB focus) (PP (IN on) (`` ``) (NP (NP (NN parenting)) (, ,) (NP (NN family) (NN health) (CC and) (NN nutrition)) (, ,) (CC and) (NP (JJ financial) (NN management)))))) (, ,) ('' '') (CC and) (VP (MD will) (VP (VB carry) (NP (NP (CD 30) (NNS seconds)) (PP (IN of) (NP (NN advertising))))))) (. .)))
+ThetheDTOPER0magazinesmagazineNNSOPER0,,,OPER0alsoalsoRBOPER0adadNNOPER0--HYPHOPER0supportedsupportVBNOPER0,,,OPER0willwillMDOPER0bebeVBOPER0distributeddistributeVBNOPER0ininINOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER010,00010,000CDCARDINALPER0doctorsdoctorNNSOPER0''POSOPER0officesofficeNNSOPER0,,,OPER0clinicsclinicNNSOPER0,,,OPER0andandCCOPER0healthhealthNNOPER0centerscenterNNSOPER0ininINOPER0HispanichispanicJJOPER0andandCCOPER0largelylargelyRBOPER0HispanichispanicJJOPER0communitiescommunityNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNS magazines)) (, ,) (S (ADVP (RB also)) (ADJP (NN ad) (HYPH -) (VBN supported))) (, ,) (VP (MD will) (VP (VB be) (VP (VBN distributed) (PP (IN in) (NP (NP (NP (QP (XS (JJR more) (IN than)) (CD 10,000)) (NNS doctors) (POS ')) (NNS offices)) (, ,) (NP (NNS clinics)) (, ,) (CC and) (NP (NP (NN health) (NNS centers)) (PP (IN in) (NP (ADJP (ADJP (JJ Hispanic)) (CC and) (ADJP (RB largely) (JJ Hispanic))) (NNS communities))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as Partnership
+sid=0 spanning 11 until 18 headed by 14 parsed as (NP (NP (PRP$ its) (JJ first) (NN media) (NN property)) (VP (VBG targeting) (NP (JJ Hispanic) (NNS women))))
+sid=0 spanning 11 until 12 headed by 11 parsed as its
+sid=1 spanning 0 until 14 headed by 2 parsed as (NP (`` ``) (NP (NP (NNP La) (NNP Familia)) (PP (IN de) (NP (NNP Hoy)))) (, ,) ('' '') (CC or) (`` ``) (NP (NP (NNP Today) (POS 's)) (NN Family)) (, ,) ('' ''))
+sid=1 spanning 26 until 28 headed by 27 parsed as (NP (DT a) (JJ national) (JJ bimonthly) (NML (NN magazine) (CC and) (NN TV)) (NN programming))
+sid=1 spanning 21 until 25 headed by 24 parsed as magazine
+sid=2 spanning 0 until 8 headed by 2 parsed as (NP (NP (DT The) (NN television) (NN element)) (PP (IN of) (NP (`` ``) (NNP La) (NNP Familia) ('' ''))))
+sid=2 spanning 4 until 8 headed by 6 parsed as (NP (`` ``) (NNP La) (NNP Familia) ('' ''))
+sid=2 spanning 12 until 17 headed by 16 parsed as (NP (NML (CD two) (HYPH -) (NN minute)) (JJ informational) (NNS features))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS features))
+sid=4 spanning 0 until 8 headed by 1 parsed as (NP (DT The) (NNS magazines))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP Whittle) (NNP Communications) (NNP Limited) (NNP Partnership) (, ,) (NML (NNP Knoxville) (, ,) (NNP Tenn.) (, ,)))
+sid=0 spanning 0 until 9 headed by 7 parsed as (NP (NNP Whittle) (NNP Communications) (NNP Limited) (NNP Partnership) (, ,) (NML (NNP Knoxville) (, ,) (NNP Tenn.) (, ,)))
+sid=0 spanning 0 until 4 headed by 3 parsed as Partnership
+sid=0 spanning 5 until 6 headed by 5 parsed as Knoxville
+sid=0 spanning 11 until 18 headed by 14 parsed as (NP (NP (PRP$ its) (JJ first) (NN media) (NN property)) (VP (VBG targeting) (NP (JJ Hispanic) (NNS women))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (JJ Hispanic) (NNS women))
+sid=1 spanning 1 until 5 headed by 2 parsed as (NP (`` ``) (NP (NP (NNP La) (NNP Familia)) (PP (IN de) (NP (NNP Hoy)))) (, ,) ('' '') (CC or) (`` ``) (NP (NP (NNP Today) (POS 's)) (NN Family)) (, ,) ('' ''))
+sid=1 spanning 0 until 14 headed by 2 parsed as (NP (`` ``) (NP (NP (NNP La) (NNP Familia)) (PP (IN de) (NP (NNP Hoy)))) (, ,) ('' '') (CC or) (`` ``) (NP (NP (NNP Today) (POS 's)) (NN Family)) (, ,) ('' ''))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (NP (NNP Today) (POS 's)) (NN Family))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT this) (NN spring))
+sid=1 spanning 21 until 28 headed by 27 parsed as (NP (DT a) (JJ national) (JJ bimonthly) (NML (NN magazine) (CC and) (NN TV)) (NN programming))
+sid=1 spanning 23 until 24 headed by 23 parsed as bimonthly
+sid=2 spanning 0 until 8 headed by 2 parsed as (NP (NP (DT The) (NN television) (NN element)) (PP (IN of) (NP (`` ``) (NNP La) (NNP Familia) ('' ''))))
+sid=2 spanning 4 until 8 headed by 6 parsed as (NP (`` ``) (NNP La) (NNP Familia) ('' ''))
+sid=2 spanning 9 until 45 headed by 10 parsed as (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NML (CD two) (HYPH -) (NN minute)) (JJ informational) (NNS features))) (S (VP (TO to) (VP (VB air) (NP (NP (CD seven) (NNS days)) (NP (DT a) (NN week))) (PP (IN on) (NP (NP (DT the) (NML (JJ Spanish) (HYPH -) (NN language)) (NNP Univision) (NN network)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Univision) (NNP Holdings) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN 80%-owned) (PP (IN by) (NP (NML (NNP Hallmark) (NNS Cards)) (NNP Inc))))))))))))))))
+sid=2 spanning 12 until 17 headed by 16 parsed as (NP (NML (CD two) (HYPH -) (NN minute)) (JJ informational) (NNS features))
+sid=2 spanning 12 until 15 headed by 14 parsed as minute
+sid=2 spanning 19 until 23 headed by 20 parsed as (NP (NP (CD seven) (NNS days)) (NP (DT a) (NN week)))
+sid=2 spanning 24 until 45 headed by 29 parsed as (NP (NP (DT the) (NML (JJ Spanish) (HYPH -) (NN language)) (NNP Univision) (NN network)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Univision) (NNP Holdings) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN 80%-owned) (PP (IN by) (NP (NML (NNP Hallmark) (NNS Cards)) (NNP Inc)))))))))))
+sid=2 spanning 24 until 30 headed by 29 parsed as (NP (DT the) (NML (JJ Spanish) (HYPH -) (NN language)) (NNP Univision) (NN network))
+sid=2 spanning 28 until 29 headed by 28 parsed as Univision
+sid=2 spanning 31 until 45 headed by 32 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Univision) (NNP Holdings) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN 80%-owned) (PP (IN by) (NP (NML (NNP Hallmark) (NNS Cards)) (NNP Inc))))))))))
+sid=2 spanning 34 until 37 headed by 36 parsed as (NP (NP (NNP Univision) (NNP Holdings) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN 80%-owned) (PP (IN by) (NP (NML (NNP Hallmark) (NNS Cards)) (NNP Inc))))))))
+sid=2 spanning 34 until 45 headed by 36 parsed as (NP (NP (NNP Univision) (NNP Holdings) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN 80%-owned) (PP (IN by) (NP (NML (NNP Hallmark) (NNS Cards)) (NNP Inc))))))))
+sid=2 spanning 42 until 45 headed by 44 parsed as (NP (NML (NNP Hallmark) (NNS Cards)) (NNP Inc))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS features))
+sid=3 spanning 6 until 16 headed by 6 parsed as (NP (NP (NN parenting)) (, ,) (NP (NN family) (NN health) (CC and) (NN nutrition)) (, ,) (CC and) (NP (JJ financial) (NN management)))
+sid=3 spanning 8 until 12 headed by 9 parsed as (NP (NN family) (NN health) (CC and) (NN nutrition))
+sid=3 spanning 21 until 25 headed by 22 parsed as (NP (NP (CD 30) (NNS seconds)) (PP (IN of) (NP (NN advertising))))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS magazines))
+sid=4 spanning 12 until 30 headed by 17 parsed as (NP (NP (NP (QP (XS (JJR more) (IN than)) (CD 10,000)) (NNS doctors) (POS ')) (NNS offices)) (, ,) (NP (NNS clinics)) (, ,) (CC and) (NP (NP (NN health) (NNS centers)) (PP (IN in) (NP (ADJP (ADJP (JJ Hispanic)) (CC and) (ADJP (RB largely) (JJ Hispanic))) (NNS communities)))))
+sid=4 spanning 12 until 18 headed by 17 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD 10,000)) (NNS doctors) (POS ')) (NNS offices))
+sid=4 spanning 12 until 17 headed by 15 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 10,000)) (NNS doctors) (POS '))
+sid=4 spanning 19 until 20 headed by 19 parsed as (NP (NNS clinics))
+sid=4 spanning 22 until 30 headed by 23 parsed as (NP (NP (NN health) (NNS centers)) (PP (IN in) (NP (ADJP (ADJP (JJ Hispanic)) (CC and) (ADJP (RB largely) (JJ Hispanic))) (NNS communities))))
+sid=4 spanning 25 until 30 headed by 29 parsed as (NP (ADJP (ADJP (JJ Hispanic)) (CC and) (ADJP (RB largely) (JJ Hispanic))) (NNS communities))
+(end predicted mentions)
+---------gold clusters--------
+6 4 | { 'The television element of `` La Familia ''' 'TV programming' }
+1 7 3 | { 'its first media property targeting Hispanic women' '`` La Familia ''' '`` La Familia de Hoy , '' or `` Today 's Family , ''' }
+10 5 | { 'The magazines , also ad - supported ,' 'a national bimonthly magazine' }
+9 8 | { 'The features' 'two - minute informational features' }
+0 2 | { 'Whittle Communications Limited Partnership' 'its' }
+(end gold clusters)

@@ -1,0 +1,32 @@
+---------gloss--------
+(0) Well Tony , President Clinton will host a meeting at the White House Saturday , with Israeli and Palestinian negotiators who are holding [34m{talks in Washington}[0m . 
+(1) [34m{The talks}[0m are aimed at putting the peace process back on track after three months of violence . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0182); part 000
+sentences:
+WellwellUHOPER0TonyTonyNNPPERSONPER0,,,OPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0willwillMDOPER0hosthostVBOPER0aaDTOPER0meetingmeetingNNOPER0atatINOPER0thetheDTORGPER0WhiteWhiteNNPORGPER0HouseHouseNNPORGPER0SaturdaySaturdayNNPDATEPER0,,,OPER0withwithINOPER0IsraeliisraeliJJOPER0andandCCOPER0PalestinianpalestinianJJOPER0negotiatorsnegotiatorNNSOPER0whowhoWPOPER0arebeVBPOPER0holdingholdVBGOPER0talkstalkNNSOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (INTJ (UH Well)) (NP (NNP Tony)) (, ,) (NP (NNP President) (NNP Clinton)) (VP (MD will) (VP (VB host) (NP (NP (DT a) (NN meeting)) (PP (IN at) (NP (DT the) (NNP White) (NNP House)))) (NP (NNP Saturday)) (, ,) (PP (IN with) (NP (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG holding) (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Washington)))))))))))) (. .)))
+ThetheDTOPER0talkstalkNNSOPER0arebeVBPOPER0aimedaimVBNOPER0atatINOPER0puttingputVBGOPER0thetheDTOPER0peacepeaceNNOPER0processprocessNNOPER0backbackRBOPER0ononINOPER0tracktrackNNOPER0afterafterINOPER0threethreeCDDATEPER0monthsmonthNNSDATEPER0ofofINOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS talks)) (VP (VBP are) (VP (VBN aimed) (PP (IN at) (S (VP (VBG putting) (NP (DT the) (NN peace) (NN process)) (ADVP (RB back) (PP (IN on) (NP (NP (NN track)) (PP (IN after) (NP (NP (CD three) (NNS months)) (PP (IN of) (NP (NN violence))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 23 until 26 headed by 23 parsed as (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Washington))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS talks))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Tony))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT a) (NN meeting)) (PP (IN at) (NP (DT the) (NNP White) (NNP House))))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP White) (NNP House))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP Saturday))
+sid=0 spanning 16 until 26 headed by 19 parsed as (NP (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG holding) (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Washington)))))))))
+sid=0 spanning 23 until 26 headed by 23 parsed as (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Washington))))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNP Washington))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS talks))
+sid=1 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN peace) (NN process))
+sid=1 spanning 11 until 17 headed by 11 parsed as (NP (NP (NN track)) (PP (IN after) (NP (NP (CD three) (NNS months)) (PP (IN of) (NP (NN violence))))))
+sid=1 spanning 13 until 17 headed by 14 parsed as (NP (NP (CD three) (NNS months)) (PP (IN of) (NP (NN violence))))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'talks in Washington' 'The talks' }
+(end gold clusters)

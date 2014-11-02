@@ -1,0 +1,55 @@
+---------gloss--------
+(0) [1m[31m{The KMT vice chairman}[0m arrived at party headquarters to meet with [35m{KMT}[0m Chairman Lien Chan on the afternoon of %pw . 
+(1) After a long talk of over an hour , [1m[31m{Wang Jin - pyng}[0m expressed [1m[31m{his}[0m wish not to renew [1m[31m{his}[0m term as [35m{KMT}[0m vice chairman . 
+(2) [1m[31m{He}[0m said that [1m[31m{he}[0m will follow [36m{Lien Chan}[0m as a lifelong volunteer . 
+(3) %pw 
+(end gloss)
+---------document--------
+(bc/cctv/00/cctv_0000); part 011
+sentences:
+ThetheDTOSpeaker#9KMTKMTNNPORGSpeaker#9viceviceNNOSpeaker#9chairmanchairmanNNOSpeaker#9arrivedarriveVBDOSpeaker#9atatINOSpeaker#9partypartyNNOSpeaker#9headquartersheadquartersNNSOSpeaker#9totoTOOSpeaker#9meetmeetVBOSpeaker#9withwithINOSpeaker#9KMTKMTNNPORGSpeaker#9ChairmanChairmanNNPOSpeaker#9LienLienNNPPERSONSpeaker#9ChanChanNNPPERSONSpeaker#9ononINOSpeaker#9thetheDTOSpeaker#9afternoonafternoonNNOSpeaker#9ofofINOSpeaker#9%pw%pwXXPERCENTSpeaker#9...OSpeaker#9(ROOT (S (NP (DT The) (NNP KMT) (NN vice) (NN chairman)) (VP (VBD arrived) (PP (IN at) (NP (NN party) (NNS headquarters))) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (NML (NNP KMT) (NNP Chairman)) (NNP Lien) (NNP Chan))) (PP (IN on) (NP (NP (DT the) (NN afternoon)) (PP (IN of) (NP (XX %pw))))))))) (. .)))
+AfterafterINOSpeaker#9aaDTOSpeaker#9longlongJJOSpeaker#9talktalkNNOSpeaker#9ofofINOSpeaker#9overoverINOSpeaker#9anaDTOSpeaker#9hourhourNNOSpeaker#9,,,OSpeaker#9WangWangNNPORGSpeaker#9JinJinNNPOSpeaker#9--HYPHOSpeaker#9pyngpyngNNPOSpeaker#9expressedexpressVBDOSpeaker#9hishePRP$OSpeaker#9wishwishNNOSpeaker#9notnotRBOSpeaker#9totoTOOSpeaker#9renewrenewVBOSpeaker#9hishePRP$OSpeaker#9termtermNNOSpeaker#9asasINOSpeaker#9KMTKMTNNPORGSpeaker#9viceviceNNOSpeaker#9chairmanchairmanNNOSpeaker#9...OSpeaker#9(ROOT (S (PP (IN After) (NP (NP (DT a) (JJ long) (NN talk)) (PP (IN of) (NP (QP (IN over) (DT an)) (NN hour))))) (, ,) (NP (NNP Wang) (NNP Jin) (HYPH -) (NNP pyng)) (VP (VBD expressed) (NP (PRP$ his) (NN wish) (S (RB not) (VP (TO to) (VP (VB renew) (NP (NP (PRP$ his) (NN term)) (PP (IN as) (NP (NNP KMT) (NN vice) (NN chairman))))))))) (. .)))
+HehePRPOSpeaker#9saidsayVBDOSpeaker#9thatthatINOSpeaker#9hehePRPOSpeaker#9willwillMDOSpeaker#9followfollowVBOSpeaker#9LienLienNNPPERSONSpeaker#9ChanChanNNPPERSONSpeaker#9asasINOSpeaker#9aaDTOSpeaker#9lifelonglifelongJJOSpeaker#9volunteervolunteerNNOSpeaker#9...OSpeaker#9(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP he)) (VP (MD will) (VP (VB follow) (NP (NNP Lien) (NNP Chan)) (PP (IN as) (NP (DT a) (JJ lifelong) (NN volunteer)))))))) (. .)))
+%pw%pwXXPERCENTSpeaker#9(ROOT (X (XX %pw)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP KMT) (NN vice) (NN chairman))
+sid=0 spanning 1 until 2 headed by 1 parsed as KMT
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (NML (NNP KMT) (NNP Chairman)) (NNP Lien) (NNP Chan))
+sid=0 spanning 11 until 12 headed by 11 parsed as KMT
+sid=1 spanning 9 until 13 headed by 12 parsed as (NP (NNP Wang) (NNP Jin) (HYPH -) (NNP pyng))
+sid=1 spanning 14 until 15 headed by 14 parsed as his
+sid=1 spanning 19 until 20 headed by 19 parsed as his
+sid=1 spanning 22 until 23 headed by 22 parsed as KMT
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NNP Lien) (NNP Chan))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP KMT) (NN vice) (NN chairman))
+sid=0 spanning 1 until 2 headed by 1 parsed as KMT
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NN party) (NNS headquarters))
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (NML (NNP KMT) (NNP Chairman)) (NNP Lien) (NNP Chan))
+sid=0 spanning 11 until 12 headed by 11 parsed as KMT
+sid=0 spanning 16 until 20 headed by 17 parsed as (NP (NP (DT the) (NN afternoon)) (PP (IN of) (NP (XX %pw))))
+sid=1 spanning 1 until 8 headed by 3 parsed as (NP (NP (DT a) (JJ long) (NN talk)) (PP (IN of) (NP (QP (IN over) (DT an)) (NN hour))))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (QP (IN over) (DT an)) (NN hour))
+sid=1 spanning 9 until 13 headed by 12 parsed as (NP (NNP Wang) (NNP Jin) (HYPH -) (NNP pyng))
+sid=1 spanning 9 until 10 headed by 9 parsed as Wang
+sid=1 spanning 14 until 25 headed by 15 parsed as (NP (PRP$ his) (NN wish) (S (RB not) (VP (TO to) (VP (VB renew) (NP (NP (PRP$ his) (NN term)) (PP (IN as) (NP (NNP KMT) (NN vice) (NN chairman))))))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (PRP$ his)
+sid=1 spanning 19 until 25 headed by 20 parsed as (NP (NP (PRP$ his) (NN term)) (PP (IN as) (NP (NNP KMT) (NN vice) (NN chairman))))
+sid=1 spanning 19 until 20 headed by 19 parsed as (PRP$ his)
+sid=1 spanning 22 until 25 headed by 24 parsed as (NP (NNP KMT) (NN vice) (NN chairman))
+sid=1 spanning 22 until 23 headed by 22 parsed as KMT
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NNP Lien) (NNP Chan))
+sid=2 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (JJ lifelong) (NN volunteer))
+(end predicted mentions)
+---------gold clusters--------
+3 7 1 | { 'KMT' 'KMT' 'KMT' }
+10 2 | { 'Lien Chan' 'KMT Chairman Lien Chan' }
+6 8 5 9 0 4 | { 'his' 'He' 'his' 'he' 'The KMT vice chairman' 'Wang Jin - pyng' }
+(end gold clusters)

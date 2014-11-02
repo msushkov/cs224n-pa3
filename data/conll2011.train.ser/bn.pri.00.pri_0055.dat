@@ -1,0 +1,78 @@
+---------gloss--------
+(0) In a historic speech , [3m[34m{President Clinton}[0m has addressed [4m[31m{the people of Vietnam}[0m , urging [4m[31m{them}[0m to work with Americans to heal [3m[36m{the wounds of war}[0m . 
+(1) [3m[34m{The President}[0m also spoke of the staggering sacrifice of the 3 million Vietnamese soldiers and civilians who died during the conflict . 
+(2) Let [3m[35m{us}[0m continue to help each other heal [3m[36m{the wounds of war}[0m , not by forgetting the bravery shown and the tragedy suffered by all sides , but by embracing the spirit of reconciliation and the courage to build better tomorrows for [3m[35m{our}[0m children . 
+(3) [3m[34m{President Clinton}[0m also raised the issue of human rights but went on to stress [4m[32m{the US}[0m was not trying to impose [4m[32m{its}[0m own ideals . 
+(4) [4m[31m{You}[0m have already shown the world [3m[34m{he}[0m said that [3m[33m{Vietnam}[0m takes [3m[33m{its}[0m own decisions . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0055); part 000
+sentences:
+IninINOPER0aaDTOPER0historichistoricJJOPER0speechspeechNNOPER0,,,OPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0hashaveVBZOPER0addressedaddressVBNOPER0thetheDTOPER0peoplepeopleNNSOPER0ofofINOPER0VietnamVietnamNNPGPEPER0,,,OPER0urgingurgeVBGOPER0themtheyPRPOPER0totoTOOPER0workworkVBOPER0withwithINOPER0AmericansAmericansNNPSOPER0totoTOOPER0healhealVBOPER0thetheDTOPER0woundswoundNNSOPER0ofofINOPER0warwarNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (DT a) (JJ historic) (NN speech))) (, ,) (NP (NNP President) (NNP Clinton)) (VP (VBZ has) (VP (VBN addressed) (NP (NP (DT the) (NNS people)) (PP (IN of) (NP (NNP Vietnam)))) (, ,) (S (VP (VBG urging) (NP (PRP them)) (S (VP (TO to) (VP (VB work) (PP (IN with) (NP (NNPS Americans))) (S (VP (TO to) (VP (VB heal) (NP (NP (DT the) (NNS wounds)) (PP (IN of) (NP (NN war)))))))))))))) (. .)))
+ThetheDTOPER0PresidentPresidentNNPOPER0alsoalsoRBOPER0spokespeakVBDOPER0ofofINOPER0thetheDTOPER0staggeringstaggeringJJOPER0sacrificesacrificeNNOPER0ofofINOPER0thetheDTOPER033CDCARDINALPER0millionmillionCDCARDINALPER0VietnamesevietnameseJJOPER0soldierssoldierNNSOPER0andandCCOPER0civilianscivilianNNSOPER0whowhoWPOPER0dieddieVBDOPER0duringduringINOPER0thetheDTOPER0conflictconflictNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP President)) (ADVP (RB also)) (VP (VBD spoke) (PP (IN of) (NP (NP (DT the) (JJ staggering) (NN sacrifice)) (PP (IN of) (NP (NP (DT the) (QP (CD 3) (CD million)) (JJ Vietnamese) (NNS soldiers) (CC and) (NNS civilians)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN during) (NP (DT the) (NN conflict))))))))))) (. .)))
+LetletVBOPER0uswePRPOPER0continuecontinueVBOPER0totoTOOPER0helphelpVBOPER0eacheachDTOPER0otherotherJJOPER0healhealVBOPER0thetheDTOPER0woundswoundNNSOPER0ofofINOPER0warwarNNOPER0,,,OPER0notnotRBOPER0bybyINOPER0forgettingforgetVBGOPER0thetheDTOPER0braverybraveryNNOPER0shownshowVBNOPER0andandCCOPER0thetheDTOPER0tragedytragedyNNOPER0sufferedsufferVBNOPER0bybyINOPER0allallDTOPER0sidessideNNSOPER0,,,OPER0butbutCCOPER0bybyINOPER0embracingembraceVBGOPER0thetheDTOPER0spiritspiritNNOPER0ofofINOPER0reconciliationreconciliationNNOPER0andandCCOPER0thetheDTOPER0couragecourageNNOPER0totoTOOPER0buildbuildVBOPER0betterbetterJJROPER0tomorrowstomorrowNNSOPER0forforINOPER0ourwePRP$OPER0childrenchildNNSOPER0...OPER0(ROOT (S (VP (VB Let) (NP (PRP us)) (VP (VB continue) (S (VP (TO to) (VP (VB help) (S (NP (DT each) (JJ other)) (VP (VB heal) (NP (NP (DT the) (NNS wounds)) (PP (IN of) (NP (NN war)))))) (, ,) (PP (RB not) (PP (IN by) (S (VP (VBG forgetting) (S (S (NP (DT the) (NN bravery)) (VP (VBN shown))) (CC and) (S (NP (DT the) (NN tragedy)) (VP (VBN suffered) (PP (IN by) (NP (DT all) (NNS sides))))))))) (, ,) (CC but) (PP (IN by) (S (VP (VBG embracing) (NP (NP (NP (DT the) (NN spirit)) (PP (IN of) (NP (NN reconciliation)))) (CC and) (NP (NP (DT the) (NN courage)) (SBAR (S (VP (TO to) (VP (VB build) (NP (NP (JJR better) (NNS tomorrows)) (PP (IN for) (NP (PRP$ our) (NNS children))))))))))))))))))) (. .)))
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0alsoalsoRBOPER0raisedraiseVBDOPER0thetheDTOPER0issueissueNNOPER0ofofINOPER0humanhumanJJOPER0rightsrightsNNSOPER0butbutCCOPER0wentgoVBDOPER0ononRBOPER0totoTOOPER0stressstressVBOPER0thetheDTOPER0USUSNNPGPEPER0wasbeVBDOPER0notnotRBOPER0tryingtryVBGOPER0totoTOOPER0imposeimposeVBOPER0itsitsPRP$OPER0ownownJJOPER0idealsidealNNSOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (ADVP (RB also)) (VP (VP (VBD raised) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (JJ human) (NNS rights))))) (CC but) (VP (VBD went) (ADVP (RB on)) (S (VP (TO to) (VP (VB stress) (SBAR (S (NP (DT the) (NNP US)) (VP (VBD was) (RB not) (VP (VBG trying) (S (VP (TO to) (VP (VB impose) (NP (PRP$ its) (JJ own) (NNS ideals)))))))))))))) (. .)))
+YouyouPRPOPER0havehaveVBPOPER0alreadyalreadyRBOPER0shownshowVBNOPER0thetheDTOPER0worldworldNNOPER0hehePRPOPER0saidsayVBDOPER0thatthatINOPER0VietnamVietnamNNPGPEPER0takestakeVBZOPER0itsitsPRP$OPER0ownownJJOPER0decisionsdecisionNNSOPER0...OPER0(ROOT (S (S (NP (PRP You)) (VP (VBP have) (ADVP (RB already)) (VP (VBN shown) (NP (DT the) (NN world))))) (NP (PRP he)) (VP (VBD said) (SBAR (IN that) (S (NP (NNP Vietnam)) (VP (VBZ takes) (NP (PRP$ its) (JJ own) (NNS decisions)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT the) (NNS people)) (PP (IN of) (NP (NNP Vietnam))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Vietnam))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (PRP them))
+sid=0 spanning 22 until 26 headed by 23 parsed as (NP (NP (DT the) (NNS wounds)) (PP (IN of) (NP (NN war))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP us))
+sid=2 spanning 8 until 12 headed by 9 parsed as (NP (NP (DT the) (NNS wounds)) (PP (IN of) (NP (NN war))))
+sid=2 spanning 42 until 43 headed by 42 parsed as our
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NNP US))
+sid=3 spanning 21 until 22 headed by 21 parsed as its
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (NNP Vietnam))
+sid=4 spanning 11 until 12 headed by 11 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT a) (JJ historic) (NN speech))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT the) (NNS people)) (PP (IN of) (NP (NNP Vietnam))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Vietnam))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (PRP them))
+sid=0 spanning 22 until 26 headed by 23 parsed as (NP (NP (DT the) (NNS wounds)) (PP (IN of) (NP (NN war))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=1 spanning 5 until 21 headed by 7 parsed as (NP (NP (DT the) (JJ staggering) (NN sacrifice)) (PP (IN of) (NP (NP (DT the) (QP (CD 3) (CD million)) (JJ Vietnamese) (NNS soldiers) (CC and) (NNS civilians)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN during) (NP (DT the) (NN conflict)))))))))
+sid=1 spanning 9 until 21 headed by 13 parsed as (NP (NP (DT the) (QP (CD 3) (CD million)) (JJ Vietnamese) (NNS soldiers) (CC and) (NNS civilians)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN during) (NP (DT the) (NN conflict)))))))
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN conflict))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP us))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT each) (JJ other))
+sid=2 spanning 8 until 12 headed by 9 parsed as (NP (NP (DT the) (NNS wounds)) (PP (IN of) (NP (NN war))))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN bravery))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN tragedy))
+sid=2 spanning 30 until 44 headed by 31 parsed as (NP (NP (NP (DT the) (NN spirit)) (PP (IN of) (NP (NN reconciliation)))) (CC and) (NP (NP (DT the) (NN courage)) (SBAR (S (VP (TO to) (VP (VB build) (NP (NP (JJR better) (NNS tomorrows)) (PP (IN for) (NP (PRP$ our) (NNS children))))))))))
+sid=2 spanning 30 until 34 headed by 31 parsed as (NP (NP (DT the) (NN spirit)) (PP (IN of) (NP (NN reconciliation))))
+sid=2 spanning 35 until 44 headed by 36 parsed as (NP (NP (DT the) (NN courage)) (SBAR (S (VP (TO to) (VP (VB build) (NP (NP (JJR better) (NNS tomorrows)) (PP (IN for) (NP (PRP$ our) (NNS children)))))))))
+sid=2 spanning 39 until 44 headed by 40 parsed as (NP (NP (JJR better) (NNS tomorrows)) (PP (IN for) (NP (PRP$ our) (NNS children))))
+sid=2 spanning 42 until 44 headed by 43 parsed as (NP (PRP$ our) (NNS children))
+sid=2 spanning 42 until 43 headed by 42 parsed as (PRP$ our)
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=3 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (JJ human) (NNS rights))))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (JJ human) (NNS rights))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NNP US))
+sid=3 spanning 21 until 24 headed by 23 parsed as (NP (PRP$ its) (JJ own) (NNS ideals))
+sid=3 spanning 21 until 22 headed by 21 parsed as (PRP$ its)
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN world))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (NNP Vietnam))
+sid=4 spanning 11 until 14 headed by 13 parsed as (NP (PRP$ its) (JJ own) (NNS decisions))
+sid=4 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+(end predicted mentions)
+---------gold clusters--------
+14 15 2 | { 'Vietnam' 'its' 'Vietnam' }
+0 9 5 13 | { 'President Clinton' 'President Clinton' 'The President' 'he' }
+8 6 | { 'our' 'us' }
+4 7 | { 'the wounds of war' 'the wounds of war' }
+12 1 3 | { 'You' 'the people of Vietnam' 'them' }
+10 11 | { 'the US' 'its' }
+(end gold clusters)

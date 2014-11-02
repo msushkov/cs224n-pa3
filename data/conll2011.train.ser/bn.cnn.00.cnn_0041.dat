@@ -1,0 +1,161 @@
+---------gloss--------
+(0) [3m[32m{A memorial service}[0m is under way at the Norfolk Naval Air Station for the 17 U.S. sailors killed last week in [1m[33m{the terrorist bombing of the `` USS Cole}[0m . '' 
+(1) [3m[32m{The service}[0m is being held at pier 12 in the shadow of docked warships . 
+(2) [36m{President Clinton}[0m took part in [3m[32m{the memorial}[0m , accompanied by Defense Secretary William Cohen and Joint Chiefs chairman General Hugh Shelton . 
+(3) Also present are [1m[31m{several of the 39 `` Cole '' crew members who were wounded in the blast}[0m . 
+(4) [36m{President Clinton}[0m met privately with [1m[31m{those sailors}[0m this morning to thank [1m[31m{them}[0m for [1m[31m{their}[0m service to [1m[32m{the nation}[0m . 
+(5) [36m{Mr. Clinton}[0m is vowing that [3m[31m{those responsible for the bombing}[0m will be brought to justice . 
+(6) To [3m[31m{those who attacked them}[0m , [1m[32m{we}[0m say , [3m[31m{You}[0m will not find a safe harbor , [1m[32m{we}[0m will find [3m[31m{you}[0m , and justice will prevail . 
+(7) [1m[32m{America}[0m will not stop standing guard for peace or freedom or stability in the Middle East and around the world . 
+(8) [1m[33m{The attack}[0m took place as [35m{the `` Cole ''}[0m was refueling at Aden , [1m[36m{Yemen}[0m . 
+(9) [1m[33m{The explosion}[0m blew a foot hole in the midsection of [35m{the destroyer}[0m . 
+(10) [1m[35m{FBI}[0m director Louis Freeh is flying to [1m[36m{Yemen}[0m to meet with [1m[34m{the investigators who are working to determine who was responsible}[0m . 
+(11) Yemeni authorities questioned members of Islamic militant groups yesterday , and investigators said significant leads had been developed . 
+(12) U.S. officials tell CNN bomb - making materials were found at an apartment in [1m[36m{Yemen}[0m but gave no details . 
+(13) Evidence gathered by [1m[34m{the investigators}[0m is being sent to Washington for analysis at the [1m[35m{FBI}[0m crime lab . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0041); part 000
+sentences:
+AaDTOPER0memorialmemorialJJOPER0serviceserviceNNOPER0isbeVBZOPER0underunderINOPER0waywayNNOPER0atatINOPER0thetheDTORGPER0NorfolkNorfolkNNPORGPER0NavalNavalNNPORGPER0AirAirNNPORGPER0StationStationNNPORGPER0forforINOPER0thetheDTOPER01717CDCARDINALPER0U.S.U.S.NNPGPEPER0sailorssailorNNSOPER0killedkillVBDOPER0lastlastJJDATEPER0weekweekNNDATEPER0ininINOPER0thetheDTOPER0terroristterroristJJOPER0bombingbombingNNOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1...OPER1''''''OPER0(ROOT (S (NP (DT A) (JJ memorial) (NN service)) (VP (VBZ is) (PP (IN under) (NP (NP (NN way)) (PP (IN at) (NP (DT the) (NNP Norfolk) (NNP Naval) (NNP Air) (NNP Station))))) (SBAR (IN for) (S (NP (DT the) (CD 17) (NNP U.S.) (NNS sailors)) (VP (VBD killed) (NP (JJ last) (NN week)) (PP (IN in) (NP (NP (DT the) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))))))) (. .) ('' '')))
+ThetheDTOPER0serviceserviceNNOPER0isbeVBZOPER0beingbeVBGOPER0heldholdVBNOPER0atatINOPER0pierpierNNOPER01212CDCARDINALPER0ininINOPER0thetheDTOPER0shadowshadowNNOPER0ofofINOPER0dockeddockVBNOPER0warshipswarshipNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN service)) (VP (VBZ is) (VP (VBG being) (VP (VBN held) (PP (IN at) (NP (NN pier) (CD 12))) (PP (IN in) (NP (NP (DT the) (NN shadow)) (PP (IN of) (NP (VBN docked) (NNS warships)))))))) (. .)))
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0tooktakeVBDOPER0partpartNNOPER0ininINOPER0thetheDTOPER0memorialmemorialNNOPER0,,,OPER0accompaniedaccompanyVBNOPER0bybyINOPER0DefenseDefenseNNPORGPER0SecretarySecretaryNNPOPER0WilliamWilliamNNPPERSONPER0CohenCohenNNPPERSONPER0andandCCOPER0JointJointNNPORGPER0ChiefsChiefsNNPSORGPER0chairmanchairmanNNOPER0GeneralGeneralNNPOPER0HughHughNNPPERSONPER0SheltonSheltonNNPPERSONPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (VP (VBD took) (NP (NN part)) (PP (IN in) (NP (DT the) (NN memorial))) (, ,) (S (VP (VBN accompanied) (PP (IN by) (NP (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen)) (CC and) (NP (NML (NML (NNP Joint) (NNPS Chiefs)) (NN chairman)) (NNP General) (NNP Hugh) (NNP Shelton))))))) (. .)))
+AlsoalsoRBOPER0presentpresentJJOPER0arebeVBPOPER0severalseveralJJOPER0ofofINOPER0thetheDTOPER03939CDCARDINALPER0``````OColeColeNNPWORK_OF_ARTPER2''''''OPER0crewcrewNNOPER0membersmemberNNSOPER0whowhoWPOPER0werebeVBDOPER0woundedwoundVBNOPER0ininINOPER0thetheDTOPER0blastblastNNOPER0...OPER0(ROOT (S (ADVP (RB Also)) (NP (JJ present)) (VP (VBP are) (NP (NP (ADJP (JJ several) (PP (IN of) (NP (DT the) (CD 39) (`` ``) (NNP Cole) ('' '')))) (NN crew) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN wounded) (PP (IN in) (NP (DT the) (NN blast))))))))) (. .)))
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0metmeetVBDOPER0privatelyprivatelyRBOPER0withwithINOPER0thosethoseDTOPER0sailorssailorNNSOPER0thisthisDTOPER0morningmorningNNTIMEPER0totoTOOPER0thankthankVBOPER0themtheyPRPOPER0forforINOPER0theirtheyPRP$OPER0serviceserviceNNOPER0totoINOPER0thetheDTOPER0nationnationNNOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (VP (VBD met) (ADVP (RB privately)) (PP (IN with) (NP (DT those) (NNS sailors))) (NP (DT this) (NN morning) (S (VP (TO to) (VP (VB thank) (NP (PRP them)) (PP (IN for) (NP (NP (PRP$ their) (NN service)) (PP (IN to) (NP (DT the) (NN nation)))))))))) (. .)))
+Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0isbeVBZOPER0vowingvowVBGOPER0thatthatINOPER0thosethoseDTOPER0responsibleresponsibleJJOPER0forforINOPER0thetheDTOPER0bombingbombingNNOPER0willwillMDOPER0bebeVBOPER0broughtbringVBNOPER0totoINOPER0justicejusticeNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Clinton)) (VP (VBZ is) (VP (VBG vowing) (SBAR (IN that) (S (NP (NP (DT those)) (ADJP (JJ responsible) (PP (IN for) (NP (DT the) (NN bombing))))) (VP (MD will) (VP (VB be) (VP (VBN brought) (PP (IN to) (NP (NN justice)))))))))) (. .)))
+TotoINOPER0thosethoseDTOPER0whowhoWPOPER0attackedattackVBDOPER0themtheyPRPOPER0,,,OPER0wewePRPOPER0saysayVBPOPER0,,,OPER0YouyouPRPOPER0willwillMDOPER0notnotRBOPER0findfindVBOPER0aaDTOPER0safesafeJJOPER0harborharborNNOPER0,,,OPER0wewePRPOPER0willwillMDOPER0findfindVBOPER0youyouPRPOPER0,,,OPER0andandCCOPER0justicejusticeNNOPER0willwillMDOPER0prevailprevailVBOPER0...OPER0(ROOT (S (PP (IN To) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBD attacked) (NP (PRP them))))))) (PRN (, ,) (S (NP (PRP we)) (VP (VBP say))) (, ,)) (S (NP (PRP You)) (VP (MD will) (RB not) (VP (VB find) (NP (DT a) (JJ safe) (NN harbor))))) (, ,) (S (NP (PRP we)) (VP (MD will) (VP (VB find) (NP (PRP you))))) (, ,) (CC and) (S (NP (NN justice)) (VP (MD will) (VP (VB prevail)))) (. .)))
+AmericaAmericaNNPGPEPER0willwillMDOPER0notnotRBOPER0stopstopVBOPER0standingstandVBGOPER0guardguardNNOPER0forforINOPER0peacepeaceNNOPER0ororCCOPER0freedomfreedomNNOPER0ororCCOPER0stabilitystabilityNNOPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0andandCCOPER0aroundaroundINOPER0thetheDTOPER0worldworldNNOPER0...OPER0(ROOT (S (NP (NNP America)) (VP (MD will) (RB not) (VP (VB stop) (S (VP (VBG standing) (NP (NP (NN guard)) (PP (IN for) (NP (NP (NN peace)) (CC or) (NP (NN freedom)) (CC or) (NP (NN stability))))) (PP (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))) (CC and) (PP (IN around) (NP (DT the) (NN world)))))))) (. .)))
+ThetheDTOPER0attackattackNNOPER0tooktakeVBDOPER0placeplaceNNOPER0asasINOPER0thetheDTOPER0``````OColeColeNNPWORK_OF_ARTPER3''''''OPER0wasbeVBDOPER0refuelingrefuelVBGOPER0atatINOPER0AdenAdenNNPLOCPER0,,,OPER0YemenYemenNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN attack)) (VP (VBD took) (NP (NN place)) (SBAR (IN as) (S (NP (DT the) (`` ``) (NNP Cole) ('' '')) (VP (VBD was) (VP (VBG refueling) (PP (IN at) (NP (NP (NNP Aden)) (, ,) (NP (NNP Yemen))))))))) (. .)))
+ThetheDTOPER0explosionexplosionNNOPER0blewblowVBDOPER0aaDTOPER0footfootNNOPER0holeholeNNOPER0ininINOPER0thetheDTOPER0midsectionmidsectionNNOPER0ofofINOPER0thetheDTOPER0destroyerdestroyerNNOPER0...OPER0(ROOT (S (NP (DT The) (NN explosion)) (VP (VBD blew) (NP (NP (DT a) (NN foot) (NN hole)) (PP (IN in) (NP (NP (DT the) (NN midsection)) (PP (IN of) (NP (DT the) (NN destroyer))))))) (. .)))
+FBIFBINNPORGPER0directordirectorNNOPER0LouisLouisNNPPERSONPER0FreehFreehNNPPERSONPER0isbeVBZOPER0flyingflyVBGOPER0totoINOPER0YemenYemenNNPGPEPER0totoTOOPER0meetmeetVBOPER0withwithINOPER0thetheDTOPER0investigatorsinvestigatorNNSOPER0whowhoWPOPER0arebeVBPOPER0workingworkVBGOPER0totoTOOPER0determinedetermineVBOPER0whowhoWPOPER0wasbeVBDOPER0responsibleresponsibleJJOPER0...OPER0(ROOT (S (NP (NML (NNP FBI) (NN director)) (NNP Louis) (NNP Freeh)) (VP (VBZ is) (VP (VBG flying) (PP (IN to) (NP (NNP Yemen))) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (NP (DT the) (NNS investigators)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG working) (S (VP (TO to) (VP (VB determine) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADJP (JJ responsible))))))))))))))))))) (. .)))
+YemeniyemeniJJOPER0authoritiesauthorityNNSOPER0questionedquestionVBDOPER0membersmemberNNSOPER0ofofINOPER0IslamicislamicJJOPER0militantmilitantJJOPER0groupsgroupNNSOPER0yesterdayyesterdayNNOPER0,,,OPER0andandCCOPER0investigatorsinvestigatorNNSOPER0saidsayVBDOPER0significantsignificantJJOPER0leadsleadNNSOPER0hadhaveVBDOPER0beenbeVBNOPER0developeddevelopVBNOPER0...OPER0(ROOT (S (S (NP (JJ Yemeni) (NNS authorities)) (VP (VBD questioned) (NP (NP (NNS members)) (PP (IN of) (NP (JJ Islamic) (JJ militant) (NNS groups)))) (NP (NN yesterday)))) (, ,) (CC and) (S (NP (NNS investigators)) (VP (VBD said) (SBAR (S (NP (JJ significant) (NNS leads)) (VP (VBD had) (VP (VBN been) (VP (VBN developed)))))))) (. .)))
+U.S.U.S.NNPGPEPER0officialsofficialNNSOPER0telltellVBPOPER0CNNCNNNNPORGPER0bombbombNNOPER0--HYPHOPER0makingmakeVBGOPER0materialsmaterialNNSOPER0werebeVBDOPER0foundfindVBNOPER0atatINOPER0anaDTOPER0apartmentapartmentNNOPER0ininINOPER0YemenYemenNNPGPEPER0butbutCCOPER0gavegiveVBDOPER0nonoDTOPER0detailsdetailNNSOPER0...OPER0(ROOT (S (NP (NNP U.S.) (NNS officials)) (VP (VBP tell) (NP (NNP CNN)) (SBAR (S (NP (ADJP (NN bomb) (HYPH -) (VBG making)) (NNS materials)) (VP (VP (VBD were) (VP (VBN found) (PP (IN at) (NP (NP (DT an) (NN apartment)) (PP (IN in) (NP (NNP Yemen))))))) (CC but) (VP (VBD gave) (NP (DT no) (NNS details))))))) (. .)))
+EvidenceevidenceNNOPER0gatheredgatherVBNOPER0bybyINOPER0thetheDTOPER0investigatorsinvestigatorNNSOPER0isbeVBZOPER0beingbeVBGOPER0sentsendVBNOPER0totoINOPER0WashingtonWashingtonNNPGPEPER0forforINOPER0analysisanalysisNNOPER0atatINOPER0thetheDTOPER0FBIFBINNPORGPER0crimecrimeNNOPER0lablabNNOPER0...OPER0(ROOT (S (NP (NP (NN Evidence)) (VP (VBN gathered) (PP (IN by) (NP (DT the) (NNS investigators))))) (VP (VBZ is) (VP (VBG being) (VP (VBN sent) (PP (IN to) (NP (NNP Washington))) (PP (IN for) (NP (NN analysis))) (PP (IN at) (NP (DT the) (NNP FBI) (NN crime) (NN lab)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ memorial) (NN service))
+sid=0 spanning 21 until 29 headed by 23 parsed as (NP (NP (DT the) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=0 spanning 25 until 29 headed by 28 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN service))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN memorial))
+sid=3 spanning 3 until 18 headed by 11 parsed as (NP (NP (ADJP (JJ several) (PP (IN of) (NP (DT the) (CD 39) (`` ``) (NNP Cole) ('' '')))) (NN crew) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN wounded) (PP (IN in) (NP (DT the) (NN blast))))))))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (DT the) (CD 39) (`` ``) (NNP Cole) ('' ''))
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN blast))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT those) (NNS sailors))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (PRP them))
+sid=4 spanning 13 until 14 headed by 13 parsed as their
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN nation))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=5 spanning 5 until 10 headed by 5 parsed as (NP (NP (DT those)) (ADJP (JJ responsible) (PP (IN for) (NP (DT the) (NN bombing)))))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN bombing))
+sid=6 spanning 1 until 5 headed by 1 parsed as (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBD attacked) (NP (PRP them))))))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP them))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP we))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (PRP You))
+sid=6 spanning 17 until 18 headed by 17 parsed as (NP (PRP we))
+sid=6 spanning 20 until 21 headed by 20 parsed as (NP (PRP you))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP America))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN attack))
+sid=8 spanning 5 until 9 headed by 7 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=8 spanning 14 until 15 headed by 14 parsed as (NP (NNP Yemen))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN explosion))
+sid=9 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN destroyer))
+sid=10 spanning 0 until 1 headed by 0 parsed as FBI
+sid=10 spanning 7 until 8 headed by 7 parsed as (NP (NNP Yemen))
+sid=10 spanning 11 until 21 headed by 12 parsed as (NP (NP (DT the) (NNS investigators)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG working) (S (VP (TO to) (VP (VB determine) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADJP (JJ responsible)))))))))))))
+sid=12 spanning 14 until 15 headed by 14 parsed as (NP (NNP Yemen))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS investigators))
+sid=13 spanning 14 until 15 headed by 14 parsed as FBI
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ memorial) (NN service))
+sid=0 spanning 5 until 12 headed by 5 parsed as (NP (NP (NN way)) (PP (IN at) (NP (DT the) (NNP Norfolk) (NNP Naval) (NNP Air) (NNP Station))))
+sid=0 spanning 7 until 12 headed by 11 parsed as (NP (DT the) (NNP Norfolk) (NNP Naval) (NNP Air) (NNP Station))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (CD 17) (NNP U.S.) (NNS sailors))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (JJ last) (NN week))
+sid=0 spanning 21 until 29 headed by 23 parsed as (NP (NP (DT the) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=0 spanning 25 until 29 headed by 28 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN service))
+sid=1 spanning 6 until 8 headed by 6 parsed as (NP (NN pier) (CD 12))
+sid=1 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT the) (NN shadow)) (PP (IN of) (NP (VBN docked) (NNS warships))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (VBN docked) (NNS warships))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN memorial))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen)) (CC and) (NP (NML (NML (NNP Joint) (NNPS Chiefs)) (NN chairman)) (NNP General) (NNP Hugh) (NNP Shelton)))
+sid=2 spanning 10 until 21 headed by 13 parsed as (NP (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen)) (CC and) (NP (NML (NML (NNP Joint) (NNPS Chiefs)) (NN chairman)) (NNP General) (NNP Hugh) (NNP Shelton)))
+sid=2 spanning 10 until 14 headed by 13 parsed as (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen))
+sid=2 spanning 10 until 11 headed by 10 parsed as Defense
+sid=2 spanning 15 until 21 headed by 20 parsed as (NP (NML (NML (NNP Joint) (NNPS Chiefs)) (NN chairman)) (NNP General) (NNP Hugh) (NNP Shelton))
+sid=2 spanning 15 until 17 headed by 16 parsed as Chiefs
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (JJ present))
+sid=3 spanning 3 until 18 headed by 11 parsed as (NP (NP (ADJP (JJ several) (PP (IN of) (NP (DT the) (CD 39) (`` ``) (NNP Cole) ('' '')))) (NN crew) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN wounded) (PP (IN in) (NP (DT the) (NN blast))))))))
+sid=3 spanning 5 until 10 headed by 8 parsed as (NP (DT the) (CD 39) (`` ``) (NNP Cole) ('' ''))
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN blast))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT those) (NNS sailors))
+sid=4 spanning 7 until 18 headed by 8 parsed as (NP (DT this) (NN morning) (S (VP (TO to) (VP (VB thank) (NP (PRP them)) (PP (IN for) (NP (NP (PRP$ their) (NN service)) (PP (IN to) (NP (DT the) (NN nation)))))))))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (PRP them))
+sid=4 spanning 13 until 18 headed by 14 parsed as (NP (NP (PRP$ their) (NN service)) (PP (IN to) (NP (DT the) (NN nation))))
+sid=4 spanning 13 until 14 headed by 13 parsed as (PRP$ their)
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN nation))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=5 spanning 5 until 10 headed by 5 parsed as (NP (NP (DT those)) (ADJP (JJ responsible) (PP (IN for) (NP (DT the) (NN bombing)))))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN bombing))
+sid=6 spanning 1 until 5 headed by 1 parsed as (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBD attacked) (NP (PRP them))))))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP them))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP we))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (PRP You))
+sid=6 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ safe) (NN harbor))
+sid=6 spanning 17 until 18 headed by 17 parsed as (NP (PRP we))
+sid=6 spanning 20 until 21 headed by 20 parsed as (NP (PRP you))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP America))
+sid=7 spanning 5 until 12 headed by 5 parsed as (NP (NP (NN guard)) (PP (IN for) (NP (NP (NN peace)) (CC or) (NP (NN freedom)) (CC or) (NP (NN stability)))))
+sid=7 spanning 7 until 12 headed by 7 parsed as (NP (NP (NN peace)) (CC or) (NP (NN freedom)) (CC or) (NP (NN stability)))
+sid=7 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=7 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN world))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN attack))
+sid=8 spanning 5 until 9 headed by 7 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=8 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP Aden)) (, ,) (NP (NNP Yemen)))
+sid=8 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNP Aden)) (, ,) (NP (NNP Yemen)))
+sid=8 spanning 14 until 15 headed by 14 parsed as (NP (NNP Yemen))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN explosion))
+sid=9 spanning 3 until 12 headed by 5 parsed as (NP (NP (DT a) (NN foot) (NN hole)) (PP (IN in) (NP (NP (DT the) (NN midsection)) (PP (IN of) (NP (DT the) (NN destroyer))))))
+sid=9 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT the) (NN midsection)) (PP (IN of) (NP (DT the) (NN destroyer))))
+sid=9 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN destroyer))
+sid=10 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP FBI) (NN director)) (NNP Louis) (NNP Freeh))
+sid=10 spanning 0 until 1 headed by 0 parsed as FBI
+sid=10 spanning 7 until 8 headed by 7 parsed as (NP (NNP Yemen))
+sid=10 spanning 11 until 21 headed by 12 parsed as (NP (NP (DT the) (NNS investigators)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG working) (S (VP (TO to) (VP (VB determine) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADJP (JJ responsible)))))))))))))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (JJ Yemeni) (NNS authorities))
+sid=11 spanning 3 until 8 headed by 3 parsed as (NP (NP (NNS members)) (PP (IN of) (NP (JJ Islamic) (JJ militant) (NNS groups))))
+sid=11 spanning 5 until 8 headed by 7 parsed as (NP (JJ Islamic) (JJ militant) (NNS groups))
+sid=11 spanning 8 until 9 headed by 8 parsed as (NP (NN yesterday))
+sid=11 spanning 11 until 12 headed by 11 parsed as (NP (NNS investigators))
+sid=11 spanning 13 until 15 headed by 14 parsed as (NP (JJ significant) (NNS leads))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (NNP U.S.) (NNS officials))
+sid=12 spanning 3 until 4 headed by 3 parsed as (NP (NNP CNN))
+sid=12 spanning 4 until 8 headed by 7 parsed as (NP (ADJP (NN bomb) (HYPH -) (VBG making)) (NNS materials))
+sid=12 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT an) (NN apartment)) (PP (IN in) (NP (NNP Yemen))))
+sid=12 spanning 14 until 15 headed by 14 parsed as (NP (NNP Yemen))
+sid=12 spanning 17 until 19 headed by 18 parsed as (NP (DT no) (NNS details))
+sid=13 spanning 0 until 5 headed by 0 parsed as (NP (NP (NN Evidence)) (VP (VBN gathered) (PP (IN by) (NP (DT the) (NNS investigators)))))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS investigators))
+sid=13 spanning 9 until 10 headed by 9 parsed as (NP (NNP Washington))
+sid=13 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (NNP FBI) (NN crime) (NN lab))
+sid=13 spanning 14 until 15 headed by 14 parsed as FBI
+(end predicted mentions)
+---------gold clusters--------
+25 2 28 7 | { 'the `` Cole ''' 'the `` USS Cole' 'the destroyer' 'Cole' }
+4 14 9 | { 'President Clinton' 'Mr. Clinton' 'President Clinton' }
+12 11 6 10 18 | { 'their' 'them' 'several of the 39 `` Cole '' crew members who were wounded in the blast' 'those sailors' 'them' }
+13 23 21 19 | { 'the nation' 'America' 'we' 'we' }
+8 27 1 16 24 | { 'the blast' 'The explosion' 'the terrorist bombing of the `` USS Cole' 'the bombing' 'The attack' }
+33 31 | { 'the investigators' 'the investigators who are working to determine who was responsible' }
+34 29 | { 'FBI' 'FBI' }
+30 26 32 | { 'Yemen' 'Yemen' 'Yemen' }
+22 15 17 20 | { 'you' 'those responsible for the bombing' 'those who attacked them' 'You' }
+0 3 5 | { 'A memorial service' 'The service' 'the memorial' }
+(end gold clusters)

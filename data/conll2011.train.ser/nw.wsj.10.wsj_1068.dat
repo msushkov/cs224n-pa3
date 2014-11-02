@@ -1,0 +1,48 @@
+---------gloss--------
+(0) [4m[31m{Kennametal Inc.}[0m said [4m[31m{it}[0m intends to [3m[36m{acquire}[0m [3m[35m{J&L America Inc.}[0m for $ 44 million plus a consideration of as much as an additional $ 12 million , payable over five years . 
+(1) [4m[31m{Kennametal}[0m is a carbide - products and cutting - tools company . 
+(2) [3m[35m{J&L , whose principal offices are in Detroit ,}[0m is a mail - order distributer of industrial tools and supplies . 
+(3) [3m[36m{The acquisition}[0m is subject to approval by [4m[31m{Kennametal 's}[0m board . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1068); part 000
+sentences:
+KennametalKennametalNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0intendsintendVBZOPER0totoTOOPER0acquireacquireVBOPER0J&Lj&lNNORGPER0AmericaAmericaNNPORGPER0Inc.Inc.NNPORGPER0forforINOPER0$$$MONEYPER04444CDMONEYPER0millionmillionCDMONEYPER0plusplusCCOPER0aaDTOPER0considerationconsiderationNNOPER0ofofINOPER0asasRBMONEYPER0muchmuchRBMONEYPER0asasINMONEYPER0anaDTMONEYPER0additionaladditionalJJMONEYPER0$$$MONEYPER01212CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0payablepayableJJOPER0overoverINOPER0fivefiveCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NNP Kennametal) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ intends) (S (VP (TO to) (VP (VB acquire) (NP (NN J&L) (NNP America) (NNP Inc.)) (PP (IN for) (NP (NP (QP ($ $) (CD 44) (CD million))) (CC plus) (NP (NP (DT a) (NN consideration)) (PP (IN of) (NP (CONJP (RB as) (RB much) (IN as)) (NP (DT an) (JJ additional) (QP ($ $) (CD 12) (CD million))) (, ,) (ADJP (JJ payable) (PP (IN over) (NP (CD five) (NNS years)))))))))))))))) (. .)))
+KennametalKennametalNNPORGPER0isbeVBZOPER0aaDTOPER0carbidecarbideNNPOPER0--HYPHOPER0productsproductNNSOPER0andandCCOPER0cuttingcuttingNNOPER0--HYPHOPER0toolstoolNNSOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NNP Kennametal)) (VP (VBZ is) (NP (DT a) (NML (NML (NNP carbide) (HYPH -) (NNS products)) (CC and) (NML (NN cutting) (HYPH -) (NNS tools))) (NN company))) (. .)))
+J&LJ&LNNPOPER0,,,OPER0whosewhoseWP$OPER0principalprincipalJJOPER0officesofficeNNSOPER0arebeVBPOPER0ininINOPER0DetroitDetroitNNPGPEPER0,,,OPER0isbeVBZOPER0aaDTOPER0mailmailNNOPER0--HYPHOPER0orderorderNNOPER0distributerdistributerNNOPER0ofofINOPER0industrialindustrialJJOPER0toolstoolNNSOPER0andandCCOPER0suppliessuppliesNNSOPER0...OPER0(ROOT (S (NP (NP (NNP J&L)) (, ,) (SBAR (WHNP (WP$ whose) (JJ principal) (NNS offices)) (S (VP (VBP are) (PP (IN in) (NP (NNP Detroit)))))) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NML (NN mail) (HYPH -) (NN order)) (NN distributer)) (PP (IN of) (NP (JJ industrial) (NNS tools) (CC and) (NNS supplies))))) (. .)))
+ThetheDTOPER0acquisitionacquisitionNNOPER0isbeVBZOPER0subjectsubjectJJOPER0totoINOPER0approvalapprovalNNOPER0bybyINOPER0KennametalKennametalNNPORGPER0's'sPOSOPER0boardboardNNOPER0...OPER0(ROOT (S (NP (DT The) (NN acquisition)) (VP (VBZ is) (ADJP (JJ subject) (PP (IN to) (NP (NP (NN approval)) (PP (IN by) (NP (NP (NNP Kennametal) (POS 's)) (NN board))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Kennametal) (NNP Inc.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 6 until 7 headed by 6 parsed as acquire
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (NN J&L) (NNP America) (NNP Inc.))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Kennametal))
+sid=2 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP J&L)) (, ,) (SBAR (WHNP (WP$ whose) (JJ principal) (NNS offices)) (S (VP (VBP are) (PP (IN in) (NP (NNP Detroit)))))) (, ,))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN acquisition))
+sid=3 spanning 7 until 9 headed by 7 parsed as (NP (NNP Kennametal) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Kennametal) (NNP Inc.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (NN J&L) (NNP America) (NNP Inc.))
+sid=0 spanning 15 until 31 headed by 16 parsed as (NP (NP (DT a) (NN consideration)) (PP (IN of) (NP (CONJP (RB as) (RB much) (IN as)) (NP (DT an) (JJ additional) (QP ($ $) (CD 12) (CD million))) (, ,) (ADJP (JJ payable) (PP (IN over) (NP (CD five) (NNS years)))))))
+sid=0 spanning 29 until 31 headed by 30 parsed as (NP (CD five) (NNS years))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Kennametal))
+sid=1 spanning 2 until 11 headed by 10 parsed as (NP (DT a) (NML (NML (NNP carbide) (HYPH -) (NNS products)) (CC and) (NML (NN cutting) (HYPH -) (NNS tools))) (NN company))
+sid=2 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP J&L)) (, ,) (SBAR (WHNP (WP$ whose) (JJ principal) (NNS offices)) (S (VP (VBP are) (PP (IN in) (NP (NNP Detroit)))))) (, ,))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP J&L))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Detroit))
+sid=2 spanning 10 until 20 headed by 14 parsed as (NP (NP (DT a) (NML (NN mail) (HYPH -) (NN order)) (NN distributer)) (PP (IN of) (NP (JJ industrial) (NNS tools) (CC and) (NNS supplies))))
+sid=2 spanning 16 until 20 headed by 17 parsed as (NP (JJ industrial) (NNS tools) (CC and) (NNS supplies))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN acquisition))
+sid=3 spanning 5 until 10 headed by 5 parsed as (NP (NP (NN approval)) (PP (IN by) (NP (NP (NNP Kennametal) (POS 's)) (NN board))))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (NP (NNP Kennametal) (POS 's)) (NN board))
+sid=3 spanning 7 until 9 headed by 7 parsed as (NP (NNP Kennametal) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+5 3 | { 'J&L , whose principal offices are in Detroit ,' 'J&L America Inc.' }
+6 2 | { 'The acquisition' 'acquire' }
+4 0 1 7 | { 'Kennametal' 'Kennametal Inc.' 'it' 'Kennametal 's' }
+(end gold clusters)

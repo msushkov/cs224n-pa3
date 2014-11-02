@@ -1,0 +1,147 @@
+---------gloss--------
+(0) [31m{George W. Bush}[0m is campaigning in [4m[33m{the hotly contested Sunshine State}[0m [4m[35m{today}[0m . 
+(1) [31m{Bush}[0m is stumping with [31m{his}[0m brother Jeb , who is governor of [4m[33m{the state}[0m . 
+(2) Also on hand , Arizona Senator John M Cain . 
+(3) Meanwhile , [32m{Gore}[0m is expected to deliver what aides are calling a major speech on education in [4m[31m{Tennessee}[0m this morning . 
+(4) [32m{The Vice President}[0m is campaigning with running mate Joe Lieberman . 
+(5) Polls in [32m{Gore 's}[0m home state show [32m{him}[0m nearly even with [31m{Bush}[0m . 
+(6) Nationwide , the race appears to be seesawing back and forth . 
+(7) We have not seen the lead change hands , after [4m[34m{Labor Day}[0m , according to the Gallup Poll , in a presidential election since 1980 . 
+(8) This is the first time . 
+(9) In 1984 , 1988 , 1992 and 1996 , the candidate who was ahead on [4m[34m{Labor Day}[0m never went behind . 
+(10) Now , unless I 've lost track , because it 's been a little hard to keep track , [4m[35m{today}[0m is the fifth lead change in [3m[36m{Gallup}[0m polling after Labor Day between [32m{Gore}[0m and [31m{Bush}[0m . 
+(11) The lead did [4m[36m{change}[0m hands . 
+(12) [4m[32m{Yesterday 's CNN / `` USA Today '' / Gallup tracking poll}[0m shows [32m{Gore}[0m with a slight edge for the first time in two weeks . 
+(13) [4m[32m{The new numbers}[0m show that if the election were held [4m[35m{today}[0m , 46 % of the likely voters questioned would choose [32m{Gore}[0m . 
+(14) 45 % would choose [31m{Bush}[0m , but the pollsters say [4m[36m{the change}[0m is statistically insignificant when the margin of error is considered . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0067); part 000
+sentences:
+GeorgeGeorgeNNPPERSONPER0W.W.NNPPERSONPER0BushBushNNPPERSONPER0isbeVBZOPER0campaigningcampaignVBGOPER0ininINOPER0thetheDTOPER0hotlyhotlyRBOPER0contestedcontestVBNOPER0SunshineSunshineNNPFACPER0StateStateNNPFACPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (VBZ is) (VP (VBG campaigning) (PP (IN in) (NP (DT the) (ADJP (RB hotly) (VBN contested)) (NNP Sunshine) (NNP State))) (NP (NN today)))) (. .)))
+BushBushNNPPERSONPER0isbeVBZOPER0stumpingstumpVBGOPER0withwithINOPER0hishePRP$OPER0brotherbrotherNNOPER0JebJebNNPPERSONPER0,,,OPER0whowhoWPOPER0isbeVBZOPER0governorgovernorNNOPER0ofofINOPER0thetheDTOPER0statestateNNOPER0...OPER0(ROOT (S (NP (NNP Bush)) (VP (VBZ is) (VP (VBG stumping) (PP (IN with) (NP (NP (NP (PRP$ his) (NN brother)) (NP (NNP Jeb))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (NN governor)) (PP (IN of) (NP (DT the) (NN state))))))))))) (. .)))
+AlsoalsoRBOPER0ononINOPER0handhandNNOPER0,,,OPER0ArizonaArizonaNNPGPEPER0SenatorSenatorNNPOPER0JohnJohnNNPPERSONPER0MMNNPPERSONPER0CainCainNNPPERSONPER0...OPER0(ROOT (FRAG (ADVP (RB Also)) (PP (IN on) (NP (NN hand))) (, ,) (NP (NML (NNP Arizona) (NNP Senator)) (NNP John) (NNP M) (NNP Cain)) (. .)))
+MeanwhilemeanwhileRBOPER0,,,OPER0GoreGoreNNPPERSONPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0deliverdeliverVBOPER0whatwhatWPOPER0aidesaideNNSOPER0arebeVBPOPER0callingcallVBGOPER0aaDTOPER0majormajorJJOPER0speechspeechNNOPER0ononINOPER0educationeducationNNOPER0ininINOPER0TennesseeTennesseeNNPORGPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (NP (NNP Gore)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB deliver) (SBAR (WHNP (WP what)) (S (NP (NNS aides)) (VP (VBP are) (VP (VBG calling) (NP (NP (DT a) (JJ major) (NN speech)) (PP (IN on) (NP (NN education))) (PP (IN in) (NP (NNP Tennessee)))) (NP (DT this) (NN morning))))))))))) (. .)))
+ThetheDTOPER0ViceViceNNPOPER0PresidentPresidentNNPOPER0isbeVBZOPER0campaigningcampaignVBGOPER0withwithINOPER0runningrunningNNOPER0matemateNNOPER0JoeJoeNNPPERSONPER0LiebermanLiebermanNNPPERSONPER0...OPER0(ROOT (S (NP (DT The) (NNP Vice) (NNP President)) (VP (VBZ is) (VP (VBG campaigning) (PP (IN with) (NP (NN running) (NN mate))) (NP (NNP Joe) (NNP Lieberman)))) (. .)))
+PollspollNNSOPER0ininINOPER0GoreGoreNNPPERSONPER0's'sPOSOPER0homehomeNNOPER0statestateNNOPER0showshowVBPOPER0himhePRPOPER0nearlynearlyRBOPER0evenevenRBOPER0withwithINOPER0BushBushNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NNS Polls)) (PP (IN in) (NP (NP (NNP Gore) (POS 's)) (NN home) (NN state)))) (VP (VBP show) (NP (PRP him)) (PP (ADVP (RB nearly) (RB even)) (IN with) (NP (NNP Bush)))) (. .)))
+NationwidenationwideJJOPER0,,,OPER0thetheDTOPER0raceraceNNOPER0appearsappearVBZOPER0totoTOOPER0bebeVBOPER0seesawingseesawVBGOPER0backbackRBOPER0andandCCOPER0forthforthRBOPER0...OPER0(ROOT (S (ADVP (JJ Nationwide)) (, ,) (NP (DT the) (NN race)) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (VP (VBG seesawing) (ADVP (RB back) (CC and) (RB forth))))))) (. .)))
+WewePRPOPER0havehaveVBPOPER0notnotRBOPER0seenseeVBNOPER0thetheDTOPER0leadleadNNOPER0changechangeVBOPER0handshandNNSOPER0,,,OPER0afterafterINOPER0LaborLaborNNPDATEPER0DayDayNNPDATEPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0thetheDTORGPER0GallupGallupNNPORGPER0PollPollNNPORGPER0,,,OPER0ininINOPER0aaDTOPER0presidentialpresidentialJJOPER0electionelectionNNOPER0sincesinceINOPER019801980CDDATEPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP have) (RB not) (VP (VBN seen) (NP (DT the) (NN lead)) (VP (VB change) (NP (NNS hands)) (, ,) (PP (IN after) (NP (NNP Labor) (NNP Day))) (, ,) (PP (VBG according) (PP (IN to) (NP (DT the) (NNP Gallup) (NNP Poll)))) (, ,) (PP (IN in) (NP (NP (DT a) (JJ presidential) (NN election)) (PP (IN since) (NP (CD 1980)))))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0thetheDTOPER0firstfirstJJORDINALPER0timetimeNNOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT the) (JJ first) (NN time))) (. .)))
+IninINOPER019841984CDDATEPER0,,,DATEPER019881988CDDATEPER0,,,DATEPER019921992CDDATEPER0andandCCDATEPER019961996CDDATEPER0,,,OPER0thetheDTOPER0candidatecandidateNNOPER0whowhoWPOPER0wasbeVBDOPER0aheadaheadRBOPER0ononINOPER0LaborLaborNNPDATEPER0DayDayNNPDATEPER0neverneverRBOPER0wentgoVBDOPER0behindbehindRBOPER0...OPER0(ROOT (S (PP (IN In) (NP (CD 1984) (, ,) (CD 1988) (, ,) (CD 1992) (CC and) (CD 1996))) (, ,) (NP (NP (DT the) (NN candidate)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADVP (RB ahead)) (PP (IN on) (NP (NNP Labor) (NNP Day))))))) (ADVP (RB never)) (VP (VBD went) (ADVP (RB behind))) (. .)))
+NownowRBOPER0,,,OPER0unlessunlessINOPER0IIPRPOPER0'vehaveVBPOPER0lostloseVBNOPER0tracktrackNNOPER0,,,OPER0becausebecauseINOPER0ititPRPOPER0'sbeVBZOPER0beenbeVBNOPER0aaDTOPER0littlelittleJJOPER0hardhardRBOPER0totoTOOPER0keepkeepVBOPER0tracktrackNNOPER0,,,OPER0todaytodayNNDATEPER0isbeVBZOPER0thetheDTOPER0fifthfifthJJORDINALPER0leadleadNNOPER0changechangeNNOPER0ininINOPER0GallupGallupNNPOPER0pollingpollingNNOPER0afterafterINOPER0LaborLaborNNPDATEPER0DayDayNNPDATEPER0betweenbetweenINOPER0GoreGoreNNPPERSONPER0andandCCOPER0BushBushNNPPERSONPER0...OPER0(ROOT (S (ADVP (RB Now)) (, ,) (SBAR (IN unless) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN lost) (NP (NN track)) (, ,) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (JJ little)) (ADVP (RB hard)) (S (VP (TO to) (VP (VB keep) (NP (NN track))))))))))))) (, ,) (NP (NN today)) (VP (VBZ is) (NP (NP (DT the) (JJ fifth) (NN lead) (NN change)) (PP (IN in) (NP (NNP Gallup) (NN polling))) (PP (IN after) (NP (NNP Labor) (NNP Day))) (PP (IN between) (NP (NP (NNP Gore)) (CC and) (NP (NNP Bush)))))) (. .)))
+ThetheDTOPER0leadleadNNOPER0diddoVBDOPER0changechangeVBOPER0handshandNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN lead)) (VP (VBD did) (VP (VB change) (NP (NNS hands)))) (. .)))
+YesterdayyesterdayNNDATEPER0's'sPOSOPER0CNNCNNNNPORGPER0//SYMOPER0``````ORGUSAUSANNPORGPER1TodayTodayNNPORGPER1''''''ORGPER0//SYMOPER0GallupGallupNNPOPER0trackingtrackingNNOPER0pollpollNNOPER0showsshowVBZOPER0GoreGoreNNPPERSONPER0withwithINOPER0aaDTOPER0slightslightJJOPER0edgeedgeNNOPER0forforINOPER0thetheDTOPER0firstfirstJJORDINALPER0timetimeNNOPER0ininINOPER0twotwoCDDATEPER0weeksweekNNSDATEPER0...OPER0(ROOT (S (NP (NP (NN Yesterday) (POS 's)) (NML (NML (NNP CNN)) (SYM /) (NML (`` ``) (NNP USA) (NNP Today) ('' '')) (SYM /)) (NNP Gallup) (NN tracking) (NN poll)) (VP (VBZ shows) (NP (NNP Gore)) (PP (IN with) (NP (NP (DT a) (JJ slight) (NN edge)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN in) (NP (CD two) (NNS weeks)))))))) (. .)))
+ThetheDTOPER0newnewJJOPER0numbersnumberNNSOPER0showshowVBPOPER0thatthatINOPER0ififINOPER0thetheDTOPER0electionelectionNNOPER0werebeVBDOPER0heldholdVBNOPER0todaytodayNNDATEPER0,,,OPER04646CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thetheDTOPER0likelylikelyJJOPER0votersvoterNNSOPER0questionedquestionVBNOPER0wouldwouldMDOPER0choosechooseVBOPER0GoreGoreNNPPERSONPER0...OPER0(ROOT (S (NP (DT The) (JJ new) (NNS numbers)) (VP (VBP show) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT the) (NN election)) (VP (VBD were) (VP (VBN held) (NP (NN today)))))) (, ,) (NP (NP (CD 46) (NN %)) (PP (IN of) (NP (NP (DT the) (JJ likely) (NNS voters)) (VP (VBN questioned))))) (VP (MD would) (VP (VB choose) (NP (NNP Gore))))))) (. .)))
+4545CDPERCENTPER0%%NNPERCENTPER0wouldwouldMDOPER0choosechooseVBOPER0BushBushNNPPERSONPER0,,,OPER0butbutCCOPER0thetheDTOPER0pollsterspollsterNNSOPER0saysayVBPOPER0thetheDTOPER0changechangeNNOPER0isbeVBZOPER0statisticallystatisticallyRBOPER0insignificantinsignificantJJOPER0whenwhenWRBOPER0thetheDTOPER0marginmarginNNOPER0ofofINOPER0errorerrorNNOPER0isbeVBZOPER0consideredconsiderVBNOPER0...OPER0(ROOT (S (S (NP (CD 45) (NN %)) (VP (MD would) (VP (VB choose) (NP (NNP Bush))))) (, ,) (CC but) (S (NP (DT the) (NNS pollsters)) (VP (VBP say) (SBAR (S (NP (DT the) (NN change)) (VP (VBZ is) (ADJP (RB statistically) (JJ insignificant)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN margin)) (PP (IN of) (NP (NN error)))) (VP (VBZ is) (VP (VBN considered)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP George) (NNP W.) (NNP Bush))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (DT the) (ADJP (RB hotly) (VBN contested)) (NNP Sunshine) (NNP State))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NN today))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Bush))
+sid=1 spanning 4 until 5 headed by 4 parsed as his
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN state))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Gore))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (NNP Tennessee))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Vice) (NNP President))
+sid=5 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP Gore) (POS 's)) (NN home) (NN state))
+sid=5 spanning 2 until 4 headed by 2 parsed as (NP (NNP Gore) (POS 's))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP him))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NNP Bush))
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (NNP Labor) (NNP Day))
+sid=9 spanning 15 until 17 headed by 16 parsed as (NP (NNP Labor) (NNP Day))
+sid=10 spanning 19 until 20 headed by 19 parsed as (NP (NN today))
+sid=10 spanning 26 until 27 headed by 26 parsed as Gallup
+sid=10 spanning 32 until 33 headed by 32 parsed as (NP (NP (NNP Gore)) (CC and) (NP (NNP Bush)))
+sid=10 spanning 34 until 35 headed by 34 parsed as (NP (NNP Bush))
+sid=11 spanning 3 until 4 headed by 3 parsed as change
+sid=12 spanning 0 until 12 headed by 11 parsed as (NP (NP (NN Yesterday) (POS 's)) (NML (NML (NNP CNN)) (SYM /) (NML (`` ``) (NNP USA) (NNP Today) ('' '')) (SYM /)) (NNP Gallup) (NN tracking) (NN poll))
+sid=12 spanning 9 until 10 headed by 9 parsed as Gallup
+sid=12 spanning 13 until 14 headed by 13 parsed as (NP (NNP Gore))
+sid=13 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ new) (NNS numbers))
+sid=13 spanning 10 until 11 headed by 10 parsed as (NP (NN today))
+sid=13 spanning 21 until 22 headed by 21 parsed as (NP (NNP Gore))
+sid=14 spanning 4 until 5 headed by 4 parsed as (NP (NNP Bush))
+sid=14 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN change))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP George) (NNP W.) (NNP Bush))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (DT the) (ADJP (RB hotly) (VBN contested)) (NNP Sunshine) (NNP State))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Bush))
+sid=1 spanning 4 until 14 headed by 5 parsed as (NP (NP (NP (PRP$ his) (NN brother)) (NP (NNP Jeb))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (NN governor)) (PP (IN of) (NP (DT the) (NN state))))))))
+sid=1 spanning 4 until 7 headed by 5 parsed as (NP (NP (PRP$ his) (NN brother)) (NP (NNP Jeb)))
+sid=1 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jeb))
+sid=1 spanning 10 until 14 headed by 10 parsed as (NP (NP (NN governor)) (PP (IN of) (NP (DT the) (NN state))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN state))
+sid=2 spanning 4 until 9 headed by 8 parsed as (NP (NML (NNP Arizona) (NNP Senator)) (NNP John) (NNP M) (NNP Cain))
+sid=2 spanning 4 until 5 headed by 4 parsed as Arizona
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Gore))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNS aides))
+sid=3 spanning 11 until 18 headed by 13 parsed as (NP (NP (DT a) (JJ major) (NN speech)) (PP (IN on) (NP (NN education))) (PP (IN in) (NP (NNP Tennessee))))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (NNP Tennessee))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (DT this) (NN morning))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Vice) (NNP President))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (NN running) (NN mate))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (NNP Joe) (NNP Lieberman))
+sid=5 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Polls)) (PP (IN in) (NP (NP (NNP Gore) (POS 's)) (NN home) (NN state))))
+sid=5 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP Gore) (POS 's)) (NN home) (NN state))
+sid=5 spanning 2 until 4 headed by 2 parsed as (NP (NNP Gore) (POS 's))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP him))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NNP Bush))
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN race))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN lead))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (NNS hands))
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (NNP Labor) (NNP Day))
+sid=7 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP Gallup) (NNP Poll))
+sid=7 spanning 20 until 25 headed by 22 parsed as (NP (NP (DT a) (JJ presidential) (NN election)) (PP (IN since) (NP (CD 1980))))
+sid=7 spanning 24 until 25 headed by 24 parsed as (NP (CD 1980))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=8 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ first) (NN time))
+sid=8 spanning 3 until 4 headed by 3 parsed as first
+sid=9 spanning 1 until 8 headed by 1 parsed as (NP (CD 1984) (, ,) (CD 1988) (, ,) (CD 1992) (CC and) (CD 1996))
+sid=9 spanning 9 until 17 headed by 10 parsed as (NP (NP (DT the) (NN candidate)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADVP (RB ahead)) (PP (IN on) (NP (NNP Labor) (NNP Day)))))))
+sid=9 spanning 15 until 17 headed by 16 parsed as (NP (NNP Labor) (NNP Day))
+sid=10 spanning 3 until 4 headed by 3 parsed as (NP (PRP I))
+sid=10 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=10 spanning 12 until 14 headed by 13 parsed as (NP (DT a) (JJ little))
+sid=10 spanning 21 until 35 headed by 24 parsed as (NP (NP (DT the) (JJ fifth) (NN lead) (NN change)) (PP (IN in) (NP (NNP Gallup) (NN polling))) (PP (IN after) (NP (NNP Labor) (NNP Day))) (PP (IN between) (NP (NP (NNP Gore)) (CC and) (NP (NNP Bush)))))
+sid=10 spanning 22 until 23 headed by 22 parsed as fifth
+sid=10 spanning 26 until 28 headed by 27 parsed as (NP (NNP Gallup) (NN polling))
+sid=10 spanning 29 until 31 headed by 30 parsed as (NP (NNP Labor) (NNP Day))
+sid=10 spanning 32 until 33 headed by 32 parsed as (NP (NP (NNP Gore)) (CC and) (NP (NNP Bush)))
+sid=10 spanning 32 until 35 headed by 32 parsed as (NP (NP (NNP Gore)) (CC and) (NP (NNP Bush)))
+sid=10 spanning 34 until 35 headed by 34 parsed as (NP (NNP Bush))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN lead))
+sid=11 spanning 4 until 5 headed by 4 parsed as (NP (NNS hands))
+sid=12 spanning 0 until 12 headed by 11 parsed as (NP (NP (NN Yesterday) (POS 's)) (NML (NML (NNP CNN)) (SYM /) (NML (`` ``) (NNP USA) (NNP Today) ('' '')) (SYM /)) (NNP Gallup) (NN tracking) (NN poll))
+sid=12 spanning 0 until 2 headed by 0 parsed as (NP (NN Yesterday) (POS 's))
+sid=12 spanning 2 until 3 headed by 2 parsed as CNN
+sid=12 spanning 4 until 8 headed by 6 parsed as Today
+sid=12 spanning 13 until 14 headed by 13 parsed as (NP (NNP Gore))
+sid=12 spanning 15 until 25 headed by 17 parsed as (NP (NP (DT a) (JJ slight) (NN edge)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN in) (NP (CD two) (NNS weeks))))))
+sid=12 spanning 19 until 25 headed by 21 parsed as (NP (NP (DT the) (JJ first) (NN time)) (PP (IN in) (NP (CD two) (NNS weeks))))
+sid=12 spanning 20 until 21 headed by 20 parsed as first
+sid=12 spanning 23 until 25 headed by 24 parsed as (NP (CD two) (NNS weeks))
+sid=13 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ new) (NNS numbers))
+sid=13 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN election))
+sid=13 spanning 15 until 19 headed by 17 parsed as (NP (NP (DT the) (JJ likely) (NNS voters)) (VP (VBN questioned)))
+sid=13 spanning 21 until 22 headed by 21 parsed as (NP (NNP Gore))
+sid=14 spanning 4 until 5 headed by 4 parsed as (NP (NNP Bush))
+sid=14 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNS pollsters))
+sid=14 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN change))
+sid=14 spanning 16 until 20 headed by 17 parsed as (NP (NP (DT the) (NN margin)) (PP (IN of) (NP (NN error))))
+(end predicted mentions)
+---------gold clusters--------
+21 16 | { 'Gallup' 'Gallup' }
+9 7 | { 'Gore 's home state' 'Tennessee' }
+23 20 | { 'The new numbers' 'Yesterday 's CNN / `` USA Today '' / Gallup tracking poll' }
+1 5 | { 'the hotly contested Sunshine State' 'the state' }
+14 13 | { 'Labor Day' 'Labor Day' }
+2 24 15 | { 'today' 'today' 'today' }
+27 19 | { 'the change' 'change' }
+26 3 0 4 18 12 | { 'Bush' 'Bush' 'George W. Bush' 'his' 'Bush' 'Bush' }
+11 8 10 22 25 6 17 | { 'him' 'The Vice President' 'Gore 's' 'Gore' 'Gore' 'Gore' 'Gore' }
+(end gold clusters)

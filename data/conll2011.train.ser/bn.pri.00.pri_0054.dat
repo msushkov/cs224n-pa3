@@ -1,0 +1,55 @@
+---------gloss--------
+(0) If [32m{the United States}[0m has officially [35m{restored}[0m diplomatic relations with [34m{Yugoslavia}[0m , [33m{President Clinton}[0m announced [35m{the move}[0m during [33m{his}[0m visit to Vietnam , calling the changes in [34m{Yugoslavia}[0m remarkable , following the democratic election of President Vojislav Kostunica and the ouster of Slobodan Milosevic . 
+(1) The White House said [32m{the United States}[0m will provide 45 million dollars in food aid to [34m{Yugoslavia}[0m . 
+(2) This is NPR News from Washington . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0054); part 000
+sentences:
+IfifINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0hashaveVBZOPER0officiallyofficiallyRBOPER0restoredrestoreVBNOPER0diplomaticdiplomaticJJOPER0relationsrelationNNSOPER0withwithINOPER0YugoslaviaYugoslaviaNNPGPEPER0,,,OPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0announcedannounceVBDOPER0thetheDTOPER0movemoveNNOPER0duringduringINOPER0hishePRP$OPER0visitvisitNNOPER0totoINOPER0VietnamVietnamNNPGPEPER0,,,OPER0callingcallVBGOPER0thetheDTOPER0changeschangeNNSOPER0ininINOPER0YugoslaviaYugoslaviaNNPGPEPER0remarkableremarkableJJOPER0,,,OPER0followingfollowVBGOPER0thetheDTOPER0democraticdemocraticJJOPER0electionelectionNNOPER0ofofINOPER0PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0andandCCOPER0thetheDTOPER0ousterousterNNOPER0ofofINOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (DT the) (NNP United) (NNP States)) (VP (VBZ has) (ADVP (RB officially)) (VP (VBN restored) (NP (NP (JJ diplomatic) (NNS relations)) (PP (IN with) (NP (NNP Yugoslavia)))))))) (, ,) (NP (NNP President) (NNP Clinton)) (VP (VBD announced) (NP (DT the) (NN move)) (PP (IN during) (NP (NP (PRP$ his) (NN visit)) (PP (IN to) (NP (NNP Vietnam))))) (, ,) (S (VP (VBG calling) (NP (NP (DT the) (NNS changes)) (PP (IN in) (NP (NNP Yugoslavia)))) (S (ADJP (JJ remarkable))))) (, ,) (PP (VBG following) (NP (NP (NP (DT the) (JJ democratic) (NN election)) (PP (IN of) (NP (NNP President) (NNP Vojislav) (NNP Kostunica)))) (CC and) (NP (NP (DT the) (NN ouster)) (PP (IN of) (NP (NNP Slobodan) (NNP Milosevic))))))) (. .)))
+ThetheDTORGPER0WhiteWhiteNNPORGPER0HouseHouseNNPORGPER0saidsayVBDOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0willwillMDOPER0provideprovideVBOPER04545CDMONEYPER0millionmillionCDMONEYPER0dollarsdollarNNSMONEYPER0ininINOPER0foodfoodNNOPER0aidaidNNOPER0totoINOPER0YugoslaviaYugoslaviaNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NNP White) (NNP House)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP United) (NNP States)) (VP (MD will) (VP (VB provide) (NP (NP (QP (CD 45) (CD million)) (NNS dollars)) (PP (IN in) (NP (NN food) (NN aid)))) (PP (IN to) (NP (NNP Yugoslavia)))))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0NPRNPRNNPORGPER0NewsNewsNNPORGPER0fromfromINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (NNP NPR) (NNP News)) (PP (IN from) (NP (NNP Washington))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=0 spanning 6 until 7 headed by 6 parsed as restored
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN move))
+sid=0 spanning 18 until 19 headed by 18 parsed as his
+sid=0 spanning 27 until 28 headed by 27 parsed as (NP (NNP Yugoslavia))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Yugoslavia))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=0 spanning 7 until 11 headed by 8 parsed as (NP (NP (JJ diplomatic) (NNS relations)) (PP (IN with) (NP (NNP Yugoslavia))))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN move))
+sid=0 spanning 18 until 22 headed by 19 parsed as (NP (NP (PRP$ his) (NN visit)) (PP (IN to) (NP (NNP Vietnam))))
+sid=0 spanning 18 until 19 headed by 18 parsed as (PRP$ his)
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP Vietnam))
+sid=0 spanning 24 until 28 headed by 25 parsed as (NP (NP (DT the) (NNS changes)) (PP (IN in) (NP (NNP Yugoslavia))))
+sid=0 spanning 27 until 28 headed by 27 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 31 until 44 headed by 33 parsed as (NP (NP (NP (DT the) (JJ democratic) (NN election)) (PP (IN of) (NP (NNP President) (NNP Vojislav) (NNP Kostunica)))) (CC and) (NP (NP (DT the) (NN ouster)) (PP (IN of) (NP (NNP Slobodan) (NNP Milosevic)))))
+sid=0 spanning 31 until 38 headed by 33 parsed as (NP (NP (DT the) (JJ democratic) (NN election)) (PP (IN of) (NP (NNP President) (NNP Vojislav) (NNP Kostunica))))
+sid=0 spanning 36 until 38 headed by 37 parsed as (NP (NNP President) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 35 until 38 headed by 37 parsed as (NP (NNP President) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 39 until 44 headed by 40 parsed as (NP (NP (DT the) (NN ouster)) (PP (IN of) (NP (NNP Slobodan) (NNP Milosevic))))
+sid=0 spanning 42 until 44 headed by 43 parsed as (NP (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP White) (NNP House))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (NN food) (NN aid))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Yugoslavia))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=2 spanning 2 until 6 headed by 3 parsed as (NP (NP (NNP NPR) (NNP News)) (PP (IN from) (NP (NNP Washington))))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+0 7 | { 'the United States' 'the United States' }
+5 3 | { 'his' 'President Clinton' }
+8 2 6 | { 'Yugoslavia' 'Yugoslavia' 'Yugoslavia' }
+4 1 | { 'the move' 'restored' }
+(end gold clusters)

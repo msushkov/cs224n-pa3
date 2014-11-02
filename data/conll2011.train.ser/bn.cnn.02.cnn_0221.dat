@@ -1,0 +1,76 @@
+---------gloss--------
+(0) 24 hours after [1m[33m{a coordinated series of suicide bombings in Saudi Arabia}[0m , [1m[35m{the death toll}[0m is still rising . 
+(1) An eighth American has died . 
+(2) In all , [1m[35m{21 people}[0m were killed , not including the nine suspected bombers . 
+(3) Nearly 200 people were injured . 
+(4) U.S. and Saudi officials say [1m[33m{the bombings}[0m bear the trademark of al Qaeda . 
+(5) [1m[33m{They}[0m may have been timed to coincide with the arrival of Secretary of State Colin Powell in Riyadh . 
+(6) The State Department is ordering all non-essential diplomats and dependents out of [1m[34m{the country}[0m . 
+(7) An FBI team is heading to [1m[34m{Saudi Arabia}[0m to help investigate [1m[33m{the attacks}[0m . 
+(8) [1m[33m{They}[0m targeted three residential compounds for Americans and other Westerners . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0221); part 000
+sentences:
+2424CDTIMEPER0hourshourNNSTIMEPER0afterafterINOPER0aaDTOPER0coordinatedcoordinatedJJOPER0seriesseriesNNOPER0ofofINOPER0suicidesuicideNNOPER0bombingsbombingNNSOPER0ininINOPER0SaudiSaudiNNPGPEPER0ArabiaArabiaNNPGPEPER0,,,OPER0thetheDTOPER0deathdeathNNOPER0tolltollNNOPER0isbeVBZOPER0stillstillRBOPER0risingriseVBGOPER0...OPER0(ROOT (S (PP (NP (CD 24) (NNS hours)) (IN after) (NP (NP (DT a) (JJ coordinated) (NN series)) (PP (IN of) (NP (NP (NN suicide) (NNS bombings)) (PP (IN in) (NP (NNP Saudi) (NNP Arabia))))))) (, ,) (NP (DT the) (NN death) (NN toll)) (VP (VBZ is) (ADVP (RB still)) (VP (VBG rising))) (. .)))
+AnaDTOPER0eightheighthJJDATEPER0AmericanAmericanNNPORGPER0hashaveVBZOPER0dieddieVBNOPER0...OPER0(ROOT (S (NP (DT An) (JJ eighth) (NNP American)) (VP (VBZ has) (VP (VBN died))) (. .)))
+IninINOPER0allallDTOPER0,,,OPER02121CDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0,,,OPER0notnotRBOPER0includingincludeVBGOPER0thetheDTOPER0ninenineCDCARDINALPER0suspectedsuspectVBNOPER0bombersbomberNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (DT all))) (, ,) (NP (CD 21) (NNS people)) (VP (VBD were) (VP (VBN killed) (, ,) (PP (RB not) (VBG including) (NP (DT the) (CD nine) (VBN suspected) (NNS bombers))))) (. .)))
+NearlynearlyRBCARDINALPER0200200CDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0injuredinjureVBNOPER0...OPER0(ROOT (S (NP (QP (RB Nearly) (CD 200)) (NNS people)) (VP (VBD were) (VP (VBN injured))) (. .)))
+U.S.U.S.NNPGPEPER0andandCCOPER0SaudiSaudiNNPOPER0officialsofficialNNSOPER0saysayVBPOPER0thetheDTOPER0bombingsbombingNNSOPER0bearbearVBPOPER0thetheDTOPER0trademarktrademarkNNOPER0ofofINOPER0alalDTORGPER0QaedaQaedaNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP U.S.) (CC and) (NNP Saudi)) (NNS officials)) (VP (VBP say) (SBAR (S (NP (DT the) (NNS bombings)) (VP (VBP bear) (NP (NP (DT the) (NN trademark)) (PP (IN of) (NP (DT al) (NNP Qaeda)))))))) (. .)))
+TheytheyPRPOPER0maymayMDOPER0havehaveVBOPER0beenbeVBNOPER0timedtimeVBNOPER0totoTOOPER0coincidecoincideVBOPER0withwithINOPER0thetheDTOPER0arrivalarrivalNNOPER0ofofINOPER0SecretarySecretaryNNPOPER0ofofINOPER0StateStateNNPOPER0ColinColinNNPPERSONPER0PowellPowellNNPPERSONPER0ininINOPER0RiyadhRiyadhNNPGPEPER0...OPER0(ROOT (S (NP (PRP They)) (VP (MD may) (VP (VB have) (VP (VBN been) (VP (VBN timed) (S (VP (TO to) (VP (VB coincide) (PP (IN with) (NP (NP (DT the) (NN arrival)) (PP (IN of) (NP (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Colin) (NNP Powell))) (PP (IN in) (NP (NNP Riyadh)))))))))))))) (. .)))
+ThetheDTORGPER0StateStateNNPORGPER0DepartmentDepartmentNNPORGPER0isbeVBZOPER0orderingorderVBGOPER0allallDTOPER0non-essentialnon-essentialJJOPER0diplomatsdiplomatNNSOPER0andandCCOPER0dependentsdependentNNSOPER0outoutINOPER0ofofINOPER0thetheDTOPER0countrycountryNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP State) (NNP Department)) (VP (VBZ is) (VP (VBG ordering) (NP (NP (DT all) (JJ non-essential) (NNS diplomats)) (CC and) (NP (NNS dependents))) (PP (IN out) (PP (IN of) (NP (DT the) (NN country)))))) (. .)))
+AnaDTOPER0FBIFBINNPORGPER0teamteamNNOPER0isbeVBZOPER0headingheadVBGOPER0totoINOPER0SaudiSaudiNNPGPEPER0ArabiaArabiaNNPGPEPER0totoTOOPER0helphelpVBOPER0investigateinvestigateVBOPER0thetheDTOPER0attacksattackNNSOPER0...OPER0(ROOT (S (NP (DT An) (NNP FBI) (NN team)) (VP (VBZ is) (VP (VBG heading) (PP (IN to) (NP (NNP Saudi) (NNP Arabia))) (S (VP (TO to) (VP (VB help) (S (VP (VB investigate) (NP (DT the) (NNS attacks))))))))) (. .)))
+TheytheyPRPOPER0targetedtargetVBDOPER0threethreeCDCARDINALPER0residentialresidentialJJOPER0compoundscompoundNNSOPER0forforINOPER0AmericansAmericansNNPSOPER0andandCCOPER0otherotherJJOPER0WesternersWesternersNNPSOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBD targeted) (NP (NP (CD three) (JJ residential) (NNS compounds)) (PP (IN for) (NP (NP (NNPS Americans)) (CC and) (NP (JJ other) (NNPS Westerners)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 12 headed by 5 parsed as (NP (NP (DT a) (JJ coordinated) (NN series)) (PP (IN of) (NP (NP (NN suicide) (NNS bombings)) (PP (IN in) (NP (NNP Saudi) (NNP Arabia))))))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (NNP Saudi) (NNP Arabia))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NN death) (NN toll))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (CD 21) (NNS people))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS bombings))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=6 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN country))
+sid=7 spanning 6 until 8 headed by 7 parsed as (NP (NNP Saudi) (NNP Arabia))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNS attacks))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (CD 24) (NNS hours))
+sid=0 spanning 3 until 12 headed by 5 parsed as (NP (NP (DT a) (JJ coordinated) (NN series)) (PP (IN of) (NP (NP (NN suicide) (NNS bombings)) (PP (IN in) (NP (NNP Saudi) (NNP Arabia))))))
+sid=0 spanning 7 until 12 headed by 8 parsed as (NP (NP (NN suicide) (NNS bombings)) (PP (IN in) (NP (NNP Saudi) (NNP Arabia))))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (NNP Saudi) (NNP Arabia))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NN death) (NN toll))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (JJ eighth) (NNP American))
+sid=1 spanning 1 until 2 headed by 1 parsed as eighth
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (CD 21) (NNS people))
+sid=2 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (CD nine) (VBN suspected) (NNS bombers))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (QP (RB Nearly) (CD 200)) (NNS people))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP U.S.) (CC and) (NNP Saudi)) (NNS officials))
+sid=4 spanning 0 until 3 headed by 0 parsed as (NP (NNP U.S.) (CC and) (NNP Saudi))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS bombings))
+sid=4 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT the) (NN trademark)) (PP (IN of) (NP (DT al) (NNP Qaeda))))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (DT al) (NNP Qaeda))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=5 spanning 8 until 18 headed by 9 parsed as (NP (NP (DT the) (NN arrival)) (PP (IN of) (NP (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Colin) (NNP Powell))) (PP (IN in) (NP (NNP Riyadh))))))
+sid=5 spanning 11 until 18 headed by 11 parsed as (NP (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Colin) (NNP Powell))) (PP (IN in) (NP (NNP Riyadh))))
+sid=5 spanning 13 until 14 headed by 13 parsed as (NP (NNP State))
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (NNP Colin) (NNP Powell))
+sid=5 spanning 17 until 18 headed by 17 parsed as (NP (NNP Riyadh))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP State) (NNP Department))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NNS dependents))
+sid=6 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN country))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (NNP FBI) (NN team))
+sid=7 spanning 1 until 2 headed by 1 parsed as FBI
+sid=7 spanning 6 until 8 headed by 7 parsed as (NP (NNP Saudi) (NNP Arabia))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNS attacks))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=8 spanning 2 until 10 headed by 4 parsed as (NP (NP (CD three) (JJ residential) (NNS compounds)) (PP (IN for) (NP (NP (NNPS Americans)) (CC and) (NP (JJ other) (NNPS Westerners)))))
+sid=8 spanning 6 until 10 headed by 6 parsed as (NP (NP (NNPS Americans)) (CC and) (NP (JJ other) (NNPS Westerners)))
+sid=8 spanning 8 until 10 headed by 9 parsed as (NP (JJ other) (NNPS Westerners))
+(end predicted mentions)
+---------gold clusters--------
+8 9 0 4 5 | { 'the attacks' 'They' 'a coordinated series of suicide bombings in Saudi Arabia' 'the bombings' 'They' }
+6 7 1 | { 'the country' 'Saudi Arabia' 'Saudi Arabia' }
+3 2 | { '21 people' 'the death toll' }
+(end gold clusters)

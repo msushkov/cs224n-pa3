@@ -1,0 +1,82 @@
+---------gloss--------
+(0) [4m[36m{The top state environmental official in Massachusetts}[0m said [4m[34m{Clean Harbors Inc. 's}[0m environmental - impact statement for [4m[35m{a proposed incinerator in Braintree}[0m was inadequate . 
+(1) [4m[36m{The official , John DeVillars ,}[0m asked [4m[34m{Clean Harbors}[0m for [31m{more information}[0m before ruling on a permit for the site . 
+(2) Critics of the plan , including [4m[33m{the town of Braintree}[0m , say [4m[35m{the incinerator}[0m is a health hazard . 
+(3) [4m[34m{Clean Harbors , based in Quincy ,}[0m said [4m[34m{it}[0m `` will proceed expeditiously '' to submit [31m{the data requested}[0m . 
+(4) [32m{Alan McKim , chief executive officer of Clean Harbors}[0m said [32m{he}[0m was `` very much encouraged '' by [4m[36m{the official 's}[0m praise of [4m[34m{Clean Harbors}[0m for the quality of some of the data in the report . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1476); part 000
+sentences:
+ThetheDTOPER0toptopJJOPER0statestateNNOPER0environmentalenvironmentalJJOPER0officialofficialNNOPER0ininINOPER0MassachusettsMassachusettsNNPGPEPER0saidsayVBDOPER0CleanCleanNNPORGPER0HarborsHarborsNNPSORGPER0Inc.Inc.NNPORGPER0's'sPOSOPER0environmentalenvironmentalJJOPER0--HYPHOPER0impactimpactNNOPER0statementstatementNNOPER0forforINOPER0aaDTOPER0proposedproposeVBNOPER0incineratorincineratorNNOPER0ininINOPER0BraintreeBraintreeNNPGPEPER0wasbeVBDOPER0inadequateinadequateJJOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ top) (NN state) (JJ environmental) (NN official)) (PP (IN in) (NP (NNP Massachusetts)))) (VP (VBD said) (NP (NNP Clean) (NNPS Harbors)) (SBAR (S (NP (NP (NP (NNP Inc.) (POS 's)) (NML (JJ environmental) (HYPH -) (NN impact)) (NN statement)) (PP (IN for) (NP (NP (DT a) (VBN proposed) (NN incinerator)) (PP (IN in) (NP (NNP Braintree)))))) (VP (VBD was) (ADJP (JJ inadequate)))))) (. .)))
+ThetheDTOPER0officialofficialNNOPER0,,,OPER0JohnJohnNNPPERSONPER0DeVillarsDeVillarsNNPPERSONPER0,,,OPER0askedaskVBDOPER0CleanCleanNNPORGPER0HarborsHarborsNNPSORGPER0forforINOPER0moremoreJJROPER0informationinformationNNOPER0beforebeforeINOPER0rulingrulingNNOPER0ononINOPER0aaDTOPER0permitpermitNNOPER0forforINOPER0thetheDTOPER0sitesiteNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN official)) (, ,) (NP (NNP John) (NNP DeVillars)) (, ,)) (VP (VBD asked) (NP (NP (NNP Clean) (NNPS Harbors)) (PP (IN for) (NP (NP (JJR more) (NN information)) (PP (IN before) (NP (NP (NN ruling)) (PP (IN on) (NP (DT a) (NN permit)))))))) (PP (IN for) (NP (DT the) (NN site)))) (. .)))
+CriticscriticNNSOPER0ofofINOPER0thetheDTOPER0planplanNNOPER0,,,OPER0includingincludeVBGOPER0thetheDTOPER0towntownNNOPER0ofofINOPER0BraintreeBraintreeNNPGPEPER0,,,OPER0saysayVBPOPER0thetheDTOPER0incineratorincineratorNNOPER0isbeVBZOPER0aaDTOPER0healthhealthNNOPER0hazardhazardNNOPER0...OPER0(ROOT (S (NP (NP (NNS Critics)) (PP (IN of) (NP (DT the) (NN plan))) (, ,) (PP (VBG including) (NP (NP (DT the) (NN town)) (PP (IN of) (NP (NNP Braintree))))) (, ,)) (VP (VBP say) (SBAR (S (NP (DT the) (NN incinerator)) (VP (VBZ is) (NP (DT a) (NN health) (NN hazard)))))) (. .)))
+CleanCleanNNPORGPER0HarborsHarborsNNPSORGPER0,,,OPER0basedbaseVBNOPER0ininINOPER0QuincyQuincyNNPGPEPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0``````OwillwillMDOPER1proceedproceedVBOPER1expeditiouslyexpeditiouslyRBOPER1''''''OPER0totoTOOPER0submitsubmitVBOPER0thetheDTOPER0datadatumNNSOPER0requestedrequestVBNOPER0...OPER0(ROOT (S (NP (NP (NNP Clean) (NNPS Harbors)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP Quincy)))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (`` ``) (VP (MD will) (VP (VB proceed) (ADVP (RB expeditiously)) (S ('' '') (VP (TO to) (VP (VB submit) (NP (NP (DT the) (NNS data)) (VP (VBN requested))))))))))) (. .)))
+AlanAlanNNPPERSONPER0McKimMcKimNNPPERSONPER0,,,OPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0CleanCleanNNPORGPER0HarborsHarborsNNPSORGPER0saidsayVBDOPER0hehePRPOPER0wasbeVBDOPER0``````OveryveryRBOPER2muchmuchRBOPER2encouragedencourageVBNOPER2''''''OPER0bybyINOPER0thetheDTOPER0officialofficialNNOPER0's'sPOSOPER0praisepraiseNNOPER0ofofINOPER0CleanCleanNNPORGPER0HarborsHarborsNNPSORGPER0forforINOPER0thetheDTOPER0qualityqualityNNOPER0ofofINOPER0somesomeDTOPER0ofofINOPER0thetheDTOPER0datadatumNNSOPER0ininINOPER0thetheDTOPER0reportreportNNOPER0...OPER0(ROOT (S (NP (NP (NNP Alan) (NNP McKim)) (, ,) (NP (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NNP Clean) (NNPS Harbors))))) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (`` ``) (ADVP (RB very) (RB much)) (VBN encouraged) ('' '') (PP (IN by) (NP (NP (NP (DT the) (NN official) (POS 's)) (NN praise)) (PP (IN of) (NP (NP (NNP Clean) (NNPS Harbors)) (PP (IN for) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS data)) (PP (IN in) (NP (DT the) (NN report)))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 4 parsed as (NP (NP (DT The) (JJ top) (NN state) (JJ environmental) (NN official)) (PP (IN in) (NP (NNP Massachusetts))))
+sid=0 spanning 8 until 12 headed by 10 parsed as (NP (NNP Inc.) (POS 's))
+sid=0 spanning 17 until 22 headed by 19 parsed as (NP (NP (DT a) (VBN proposed) (NN incinerator)) (PP (IN in) (NP (NNP Braintree))))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP Braintree))
+sid=1 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NN official)) (, ,) (NP (NNP John) (NNP DeVillars)) (, ,))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NP (NNP Clean) (NNPS Harbors)) (PP (IN for) (NP (NP (JJR more) (NN information)) (PP (IN before) (NP (NP (NN ruling)) (PP (IN on) (NP (DT a) (NN permit))))))))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NP (JJR more) (NN information)) (PP (IN before) (NP (NP (NN ruling)) (PP (IN on) (NP (DT a) (NN permit))))))
+sid=2 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT the) (NN town)) (PP (IN of) (NP (NNP Braintree))))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN incinerator))
+sid=3 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Clean) (NNPS Harbors)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP Quincy)))) (, ,))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=3 spanning 16 until 19 headed by 17 parsed as (NP (NP (DT the) (NNS data)) (VP (VBN requested)))
+sid=4 spanning 0 until 9 headed by 1 parsed as (NP (NP (NNP Alan) (NNP McKim)) (, ,) (NP (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NNP Clean) (NNPS Harbors)))))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NNP Clean) (NNPS Harbors))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=4 spanning 18 until 21 headed by 19 parsed as (NP (DT the) (NN official) (POS 's))
+sid=4 spanning 23 until 25 headed by 24 parsed as (NP (NP (NNP Clean) (NNPS Harbors)) (PP (IN for) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS data)) (PP (IN in) (NP (DT the) (NN report))))))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 4 parsed as (NP (NP (DT The) (JJ top) (NN state) (JJ environmental) (NN official)) (PP (IN in) (NP (NNP Massachusetts))))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Massachusetts))
+sid=0 spanning 10 until 22 headed by 15 parsed as (NP (NP (NP (NNP Inc.) (POS 's)) (NML (JJ environmental) (HYPH -) (NN impact)) (NN statement)) (PP (IN for) (NP (NP (DT a) (VBN proposed) (NN incinerator)) (PP (IN in) (NP (NNP Braintree))))))
+sid=0 spanning 8 until 12 headed by 10 parsed as (NP (NNP Inc.) (POS 's))
+sid=0 spanning 17 until 22 headed by 19 parsed as (NP (NP (DT a) (VBN proposed) (NN incinerator)) (PP (IN in) (NP (NNP Braintree))))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP Braintree))
+sid=1 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NN official)) (, ,) (NP (NNP John) (NNP DeVillars)) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN official))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NNP John) (NNP DeVillars))
+sid=1 spanning 7 until 17 headed by 8 parsed as (NP (NP (NNP Clean) (NNPS Harbors)) (PP (IN for) (NP (NP (JJR more) (NN information)) (PP (IN before) (NP (NP (NN ruling)) (PP (IN on) (NP (DT a) (NN permit))))))))
+sid=1 spanning 10 until 17 headed by 11 parsed as (NP (NP (JJR more) (NN information)) (PP (IN before) (NP (NP (NN ruling)) (PP (IN on) (NP (DT a) (NN permit))))))
+sid=1 spanning 13 until 17 headed by 13 parsed as (NP (NP (NN ruling)) (PP (IN on) (NP (DT a) (NN permit))))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN permit))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN site))
+sid=2 spanning 0 until 11 headed by 0 parsed as (NP (NP (NNS Critics)) (PP (IN of) (NP (DT the) (NN plan))) (, ,) (PP (VBG including) (NP (NP (DT the) (NN town)) (PP (IN of) (NP (NNP Braintree))))) (, ,))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN plan))
+sid=2 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT the) (NN town)) (PP (IN of) (NP (NNP Braintree))))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Braintree))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN incinerator))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT a) (NN health) (NN hazard))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Clean) (NNPS Harbors)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP Quincy)))) (, ,))
+sid=3 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Clean) (NNPS Harbors)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP Quincy)))) (, ,))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NNP Quincy))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=3 spanning 16 until 19 headed by 17 parsed as (NP (NP (DT the) (NNS data)) (VP (VBN requested)))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Alan) (NNP McKim)) (, ,) (NP (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NNP Clean) (NNPS Harbors)))))
+sid=4 spanning 0 until 9 headed by 1 parsed as (NP (NP (NNP Alan) (NNP McKim)) (, ,) (NP (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NNP Clean) (NNPS Harbors)))))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NNP Clean) (NNPS Harbors))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=4 spanning 18 until 36 headed by 21 parsed as (NP (NP (NP (DT the) (NN official) (POS 's)) (NN praise)) (PP (IN of) (NP (NP (NNP Clean) (NNPS Harbors)) (PP (IN for) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS data)) (PP (IN in) (NP (DT the) (NN report))))))))))))
+sid=4 spanning 18 until 21 headed by 19 parsed as (NP (DT the) (NN official) (POS 's))
+sid=4 spanning 23 until 36 headed by 24 parsed as (NP (NP (NNP Clean) (NNPS Harbors)) (PP (IN for) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS data)) (PP (IN in) (NP (DT the) (NN report))))))))))
+sid=4 spanning 26 until 36 headed by 27 parsed as (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS data)) (PP (IN in) (NP (DT the) (NN report))))))))
+sid=4 spanning 29 until 36 headed by 29 parsed as (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS data)) (PP (IN in) (NP (DT the) (NN report))))))
+sid=4 spanning 31 until 36 headed by 32 parsed as (NP (NP (DT the) (NNS data)) (PP (IN in) (NP (DT the) (NN report))))
+sid=4 spanning 34 until 36 headed by 35 parsed as (NP (DT the) (NN report))
+(end predicted mentions)
+---------gold clusters--------
+3 7 | { 'Braintree' 'the town of Braintree' }
+16 9 5 10 1 13 | { 'Clean Harbors' 'Clean Harbors , based in Quincy ,' 'Clean Harbors' 'it' 'Clean Harbors Inc. 's' 'Clean Harbors' }
+8 2 | { 'the incinerator' 'a proposed incinerator in Braintree' }
+4 15 0 | { 'The official , John DeVillars ,' 'the official 's' 'The top state environmental official in Massachusetts' }
+6 11 | { 'more information' 'the data requested' }
+14 12 | { 'he' 'Alan McKim , chief executive officer of Clean Harbors' }
+(end gold clusters)

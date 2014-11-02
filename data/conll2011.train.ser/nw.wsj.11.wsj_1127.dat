@@ -1,0 +1,41 @@
+---------gloss--------
+(0) [4m[33m{David Shaffer}[0m was named to the new post of executive vice president of the Maxwell Macmillan group of this communications giant . 
+(1) [4m[33m{Mr. Shaffer}[0m takes primary responsibility for the electronic and technical - services group . 
+(2) [4m[33m{He}[0m had been group vice president of the electronic - publishing group . 
+(3) Also , Sheldon Aboff , formerly a vice president at Maxwell , was named group vice president with responsibility for various electronic and publishing - group companies . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1127); part 000
+sentences:
+DavidDavidNNPPERSONPER0ShafferShafferNNPPERSONPER0wasbeVBDOPER0namednameVBNOPER0totoINOPER0thetheDTOPER0newnewJJOPER0postpostNNOPER0ofofINOPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0thetheDTOPER0MaxwellMaxwellNNPORGPER0MacmillanMacmillanNNPORGPER0groupgroupNNOPER0ofofINOPER0thisthisDTOPER0communicationscommunicationNNSOPER0giantgiantNNOPER0...OPER0(ROOT (S (NP (NNP David) (NNP Shaffer)) (VP (VBD was) (VP (VBN named) (PP (IN to) (NP (NP (DT the) (JJ new) (NN post)) (PP (IN of) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN of) (NP (NP (DT the) (NML (NNP Maxwell) (NNP Macmillan)) (NN group)) (PP (IN of) (NP (DT this) (NNS communications) (NN giant))))))))))) (. .)))
+Mr.Mr.NNPOPER0ShafferShafferNNPPERSONPER0takestakeVBZOPER0primaryprimaryJJOPER0responsibilityresponsibilityNNOPER0forforINOPER0thetheDTOPER0electronicelectronicJJOPER0andandCCOPER0technicaltechnicalJJOPER0--HYPHOPER0servicesserviceNNSOPER0groupgroupNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Shaffer)) (VP (VBZ takes) (NP (NP (JJ primary) (NN responsibility)) (PP (IN for) (NP (DT the) (ADJP (ADJP (JJ electronic)) (CC and) (NML (JJ technical) (HYPH -) (NNS services))) (NN group))))) (. .)))
+HehePRPOPER0hadhaveVBDOPER0beenbeVBNOPER0groupgroupNNOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0thetheDTOPER0electronicelectronicJJOPER0--HYPHOPER0publishingpublishingNNOPER0groupgroupNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD had) (VP (VBN been) (NP (NP (NN group) (NN vice) (NN president)) (PP (IN of) (NP (DT the) (NML (JJ electronic) (HYPH -) (NN publishing)) (NN group)))))) (. .)))
+AlsoalsoRBOPER0,,,OPER0SheldonSheldonNNPPERSONPER0AboffAboffNNPPERSONPER0,,,OPER0formerlyformerlyRBOPER0aaDTOPER0viceviceNNOPER0presidentpresidentNNOPER0atatINOPER0MaxwellMaxwellNNPORGPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0groupgroupNNOPER0viceviceNNOPER0presidentpresidentNNOPER0withwithINOPER0responsibilityresponsibilityNNOPER0forforINOPER0variousvariousJJOPER0electronicelectronicJJOPER0andandCCOPER0publishingpublishingNNOPER0--HYPHOPER0groupgroupNNOPER0companiescompanyNNSOPER0...OPER0(ROOT (S (ADVP (RB Also)) (, ,) (NP (NP (NNP Sheldon) (NNP Aboff)) (, ,) (RRC (ADVP (RB formerly)) (NP (NP (DT a) (NN vice) (NN president)) (PP (IN at) (NP (NNP Maxwell))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN group) (NN vice) (NN president)) (PP (IN with) (NP (NP (NN responsibility)) (PP (IN for) (NP (JJ various) (NML (ADJP (JJ electronic) (CC and) (NN publishing)) (HYPH -) (NN group)) (NNS companies))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP David) (NNP Shaffer))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Shaffer))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP David) (NNP Shaffer))
+sid=0 spanning 5 until 21 headed by 7 parsed as (NP (NP (DT the) (JJ new) (NN post)) (PP (IN of) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN of) (NP (NP (DT the) (NML (NNP Maxwell) (NNP Macmillan)) (NN group)) (PP (IN of) (NP (DT this) (NNS communications) (NN giant))))))))
+sid=0 spanning 13 until 21 headed by 16 parsed as (NP (NP (DT the) (NML (NNP Maxwell) (NNP Macmillan)) (NN group)) (PP (IN of) (NP (DT this) (NNS communications) (NN giant))))
+sid=0 spanning 14 until 16 headed by 15 parsed as Macmillan
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Shaffer))
+sid=1 spanning 6 until 13 headed by 12 parsed as (NP (DT the) (ADJP (ADJP (JJ electronic)) (CC and) (NML (JJ technical) (HYPH -) (NNS services))) (NN group))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 3 until 12 headed by 5 parsed as (NP (NP (NN group) (NN vice) (NN president)) (PP (IN of) (NP (DT the) (NML (JJ electronic) (HYPH -) (NN publishing)) (NN group))))
+sid=2 spanning 7 until 12 headed by 11 parsed as (NP (DT the) (NML (JJ electronic) (HYPH -) (NN publishing)) (NN group))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP Sheldon) (NNP Aboff)) (, ,) (RRC (ADVP (RB formerly)) (NP (NP (DT a) (NN vice) (NN president)) (PP (IN at) (NP (NNP Maxwell))))) (, ,))
+sid=3 spanning 2 until 12 headed by 3 parsed as (NP (NP (NNP Sheldon) (NNP Aboff)) (, ,) (RRC (ADVP (RB formerly)) (NP (NP (DT a) (NN vice) (NN president)) (PP (IN at) (NP (NNP Maxwell))))) (, ,))
+sid=3 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT a) (NN vice) (NN president)) (PP (IN at) (NP (NNP Maxwell))))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (NNP Maxwell))
+sid=3 spanning 14 until 27 headed by 16 parsed as (NP (NP (NN group) (NN vice) (NN president)) (PP (IN with) (NP (NP (NN responsibility)) (PP (IN for) (NP (JJ various) (NML (ADJP (JJ electronic) (CC and) (NN publishing)) (HYPH -) (NN group)) (NNS companies))))))
+sid=3 spanning 18 until 27 headed by 18 parsed as (NP (NP (NN responsibility)) (PP (IN for) (NP (JJ various) (NML (ADJP (JJ electronic) (CC and) (NN publishing)) (HYPH -) (NN group)) (NNS companies))))
+sid=3 spanning 20 until 27 headed by 26 parsed as (NP (JJ various) (NML (ADJP (JJ electronic) (CC and) (NN publishing)) (HYPH -) (NN group)) (NNS companies))
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'He' 'David Shaffer' 'Mr. Shaffer' }
+(end gold clusters)

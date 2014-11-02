@@ -1,0 +1,67 @@
+---------gloss--------
+(0) Richard D. Sutton , 64 years old , chairman of [4m[35m{this bank - holding company}[0m , was named [4m[36m{acting president and chief executive officer of the company and its First National Bank of Toms River subsidiary}[0m . 
+(1) [31m{Joseph W. Robertson , 61 ,}[0m was [32m{dismissed}[0m from [4m[36m{those posts}[0m , [4m[35m{the company}[0m said . 
+(2) [31m{He}[0m could n't be reached and a company spokesman would n't comment on [32m{the dismissal}[0m . 
+(3) [31m{Mr. Robertson}[0m was also removed from the board of First National Bank of New Jersey - Salem County , another unit , and [4m[34m{the Toms River bank}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1027); part 000
+sentences:
+RichardRichardNNPPERSONPER0D.D.NNPPERSONPER0SuttonSuttonNNPPERSONPER0,,,OPER06464CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0chairmanchairmanNNOPER0ofofINOPER0thisthisDTOPER0bankbankNNOPER0--HYPHOPER0holdingholdVBGOPER0companycompanyNNOPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0actingactVBGOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0thetheDTOPER0companycompanyNNOPER0andandCCOPER0itsitsPRP$OPER0FirstFirstNNPORGPER0NationalNationalNNPORGPER0BankBankNNPORGPER0ofofINORGPER0TomsTomsNNPORGPER0RiverRiverNNPORGPER0subsidiarysubsidiaryNNOPER0...OPER0(ROOT (S (NP (NP (NNP Richard) (NNP D.) (NNP Sutton)) (, ,) (ADJP (NML (CD 64) (NNS years)) (JJ old)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (DT this) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company)))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (VBG acting) (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NP (DT the) (NN company)) (CC and) (NP (NP (PRP$ its) (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NML (NNP Toms) (NNP River)) (NN subsidiary)))))))))) (. .)))
+JosephJosephNNPPERSONPER0W.W.NNPPERSONPER0RobertsonRobertsonNNPPERSONPER0,,,OPER06161CDDATEPER0,,,OPER0wasbeVBDOPER0dismisseddismissVBNOPER0fromfromINOPER0thosethoseDTOPER0postspostNNSOPER0,,,OPER0thetheDTOPER0companycompanyNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NNP Joseph) (NNP W.) (NNP Robertson)) (, ,) (NP (CD 61)) (, ,)) (VP (VBD was) (VP (VBN dismissed) (PP (IN from) (NP (DT those) (NNS posts)))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+HehePRPOPER0couldcouldMDOPER0n'tnotRBOPER0bebeVBOPER0reachedreachVBNOPER0andandCCOPER0aaDTOPER0companycompanyNNOPER0spokesmanspokesmanNNOPER0wouldwouldMDOPER0n'tnotRBOPER0commentcommentVBOPER0ononINOPER0thetheDTOPER0dismissaldismissalNNOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached))))) (CC and) (S (NP (DT a) (NN company) (NN spokesman)) (VP (MD would) (RB n't) (VP (VB comment) (PP (IN on) (NP (DT the) (NN dismissal)))))) (. .)))
+Mr.Mr.NNPOPER0RobertsonRobertsonNNPPERSONPER0wasbeVBDOPER0alsoalsoRBOPER0removedremoveVBNOPER0fromfromINOPER0thetheDTOPER0boardboardNNOPER0ofofINOPER0FirstFirstNNPORGPER0NationalNationalNNPORGPER0BankBankNNPORGPER0ofofINORGPER0NewNewNNPORGPER0JerseyJerseyNNPORGPER0--,OPER0SalemSalemNNPGPEPER0CountyCountyNNPGPEPER0,,,OPER0anotheranotherDTOPER0unitunitNNOPER0,,,OPER0andandCCOPER0thetheDTOPER0TomsTomsNNPGPEPER0RiverRiverNNPGPEPER0bankbankNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Robertson)) (VP (VBD was) (ADVP (RB also)) (VP (VBN removed) (PP (IN from) (NP (NP (DT the) (NN board)) (PP (IN of) (NP (NP (NP (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NNP New) (NNP Jersey)))) (, -) (NP (NNP Salem) (NNP County)) (, ,) (NP (DT another) (NN unit)) (, ,) (CC and) (NP (DT the) (NML (NNP Toms) (NNP River)) (NN bank)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (DT this) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company))
+sid=0 spanning 18 until 36 headed by 19 parsed as (NP (NP (VBG acting) (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NP (DT the) (NN company)) (CC and) (NP (NP (PRP$ its) (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NML (NNP Toms) (NNP River)) (NN subsidiary)))))))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (NP (DT the) (NN company)) (CC and) (NP (NP (PRP$ its) (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NML (NNP Toms) (NNP River)) (NN subsidiary)))))
+sid=0 spanning 28 until 36 headed by 31 parsed as (NP (NP (PRP$ its) (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NML (NNP Toms) (NNP River)) (NN subsidiary))))
+sid=0 spanning 28 until 29 headed by 28 parsed as its
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP Joseph) (NNP W.) (NNP Robertson)) (, ,) (NP (CD 61)) (, ,))
+sid=1 spanning 7 until 8 headed by 7 parsed as dismissed
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT those) (NNS posts))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN company))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN dismissal))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Robertson))
+sid=3 spanning 23 until 27 headed by 26 parsed as (NP (DT the) (NML (NNP Toms) (NNP River)) (NN bank))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Richard) (NNP D.) (NNP Sutton)) (, ,) (ADJP (NML (CD 64) (NNS years)) (JJ old)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (DT this) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company)))) (, ,))
+sid=0 spanning 0 until 16 headed by 2 parsed as (NP (NP (NNP Richard) (NNP D.) (NNP Sutton)) (, ,) (ADJP (NML (CD 64) (NNS years)) (JJ old)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (DT this) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company)))) (, ,))
+sid=0 spanning 4 until 7 headed by 6 parsed as old
+sid=0 spanning 8 until 15 headed by 8 parsed as (NP (NP (NN chairman)) (PP (IN of) (NP (DT this) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company))))
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (DT this) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company))
+sid=0 spanning 18 until 36 headed by 19 parsed as (NP (NP (VBG acting) (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NP (DT the) (NN company)) (CC and) (NP (NP (PRP$ its) (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NML (NNP Toms) (NNP River)) (NN subsidiary)))))))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (VBG acting) (NN president))
+sid=0 spanning 25 until 36 headed by 26 parsed as (NP (NP (DT the) (NN company)) (CC and) (NP (NP (PRP$ its) (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NML (NNP Toms) (NNP River)) (NN subsidiary)))))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN company))
+sid=0 spanning 28 until 36 headed by 31 parsed as (NP (NP (PRP$ its) (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NML (NNP Toms) (NNP River)) (NN subsidiary))))
+sid=0 spanning 28 until 29 headed by 28 parsed as (PRP$ its)
+sid=0 spanning 33 until 36 headed by 35 parsed as (NP (NML (NNP Toms) (NNP River)) (NN subsidiary))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Joseph) (NNP W.) (NNP Robertson)) (, ,) (NP (CD 61)) (, ,))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP Joseph) (NNP W.) (NNP Robertson)) (, ,) (NP (CD 61)) (, ,))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (CD 61))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT those) (NNS posts))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN company))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (NN company) (NN spokesman))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN dismissal))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Robertson))
+sid=3 spanning 6 until 27 headed by 7 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (NP (NP (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NNP New) (NNP Jersey)))) (, -) (NP (NNP Salem) (NNP County)) (, ,) (NP (DT another) (NN unit)) (, ,) (CC and) (NP (DT the) (NML (NNP Toms) (NNP River)) (NN bank)))))
+sid=3 spanning 9 until 15 headed by 11 parsed as (NP (NP (NP (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NNP New) (NNP Jersey)))) (, -) (NP (NNP Salem) (NNP County)) (, ,) (NP (DT another) (NN unit)) (, ,) (CC and) (NP (DT the) (NML (NNP Toms) (NNP River)) (NN bank)))
+sid=3 spanning 9 until 27 headed by 11 parsed as (NP (NP (NP (NNP First) (NNP National) (NNP Bank)) (PP (IN of) (NP (NNP New) (NNP Jersey)))) (, -) (NP (NNP Salem) (NNP County)) (, ,) (NP (DT another) (NN unit)) (, ,) (CC and) (NP (DT the) (NML (NNP Toms) (NNP River)) (NN bank)))
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (NNP Salem) (NNP County))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (DT another) (NN unit))
+sid=3 spanning 23 until 27 headed by 26 parsed as (NP (DT the) (NML (NNP Toms) (NNP River)) (NN bank))
+sid=3 spanning 24 until 26 headed by 25 parsed as River
+(end predicted mentions)
+---------gold clusters--------
+3 12 | { 'its First National Bank of Toms River subsidiary' 'the Toms River bank' }
+4 2 8 0 | { 'its' 'the company' 'the company' 'this bank - holding company' }
+1 7 | { 'acting president and chief executive officer of the company and its First National Bank of Toms River subsidiary' 'those posts' }
+9 11 5 | { 'He' 'Mr. Robertson' 'Joseph W. Robertson , 61 ,' }
+10 6 | { 'the dismissal' 'dismissed' }
+(end gold clusters)

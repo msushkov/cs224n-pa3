@@ -1,0 +1,46 @@
+---------gloss--------
+(0) In the title and one of the paragraphs of the draft No. -LRB- CB003011 -RRB- " A talk on the achievements and future of finance reform by Dezhu Gao , [1m[34m{vice president of the People 's Bank of China}[0m " broadcast [1m[33m{today}[0m , [1m[34m{the phrase " vice president of the People 's Bank of China "}[0m should be changed to " vice president of the Bank of China " -LRB- two places in all -RRB- . 
+(1) Foreign Department of Xinhua News Agency , [1m[33m{December 11th}[0m . 
+(end gloss)
+---------document--------
+(nw/xinhua/00/chtb_0045); part 000
+sentences:
+IninINOPER0thetheDTOPER0titletitleNNOPER0andandCCOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0paragraphsparagraphNNSOPER0ofofINOPER0thetheDTOPER0draftdraftNNOPER0No.No.NNPWORK_OF_ARTPER0-LRB--lrb--LRB-WORK_OF_ARTPER0CB003011cb003011CDWORK_OF_ARTPER0-RRB--rrb--RRB-WORK_OF_ARTPER0""``OPER0AaDTOPER1talktalkNNOPER1ononINOPER1thetheDTOPER1achievementsachievementNNSOPER1andandCCOPER1futurefutureNNOPER1ofofINOPER1financefinanceNNOPER1reformreformNNOPER1bybyINOPER1DezhuDezhuNNPPERSONPER1GaoGaoNNPPERSONPER1,,,OPER1viceviceNNOPER1presidentpresidentNNOPER1ofofINOPER1thetheDTOPER1PeoplePeopleNNPSORGPER1's'sPOSORGPER1BankBankNNPORGPER1ofofINORGPER1ChinaChinaNNPORGPER1""''OPER0broadcastbroadcastVBNOPER0todaytodayNNDATEPER0,,,OPER0thetheDTOPER0phrasephraseNNOPER0""''OPER0viceviceNNOPER2presidentpresidentNNOPER2ofofINOPER2thetheDTORGPER2PeoplePeopleNNPSORGPER2's'sPOSORGPER2BankBankNNPORGPER2ofofINORGPER2ChinaChinaNNPORGPER2""''OPER0shouldshouldMDOPER0bebeVBOPER0changedchangeVBNOPER0totoINOPER0""``OPER0viceviceNNOPER3presidentpresidentNNOPER3ofofINOPER3thetheDTORGPER3BankBankNNPORGPER3ofofINORGPER3ChinaChinaNNPORGPER3""''OPER0-LRB--lrb--LRB-OPER0twotwoCDCARDINALPER0placesplaceNNSOPER0ininINOPER0allallDTOPER0-RRB--rrb--RRB-OPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (NN title)) (CC and) (NP (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS paragraphs)) (PP (IN of) (NP (DT the) (NN draft)))))) (NP (NNP No.))))) (NP (-LRB- -LRB-) (CD CB003011) (-RRB- -RRB-) (`` ") (NP (NP (NP (DT A) (NN talk)) (PP (IN on) (NP (NP (DT the) (NNS achievements) (CC and) (NN future)) (PP (IN of) (NP (NP (NN finance) (NN reform)) (PP (IN by) (NP (NP (NNP Dezhu) (NNP Gao)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today))))))))))))))) (, ,) (NP (DT the) (NN phrase))) ('' ") (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NNP China))))) ('' ")) (VP (MD should) (VP (VB be) (VP (VBN changed) (PP (IN to) (`` ") (NP (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (DT the) (NNP Bank)) (PP (IN of) (NP (NNP China)))))) ('' ") (-LRB- -LRB-) (NP (NP (CD two) (NNS places)) (PP (IN in) (NP (DT all)))) (-RRB- -RRB-)))))) (. .)))
+ForeignForeignNNPORGPER0DepartmentDepartmentNNPORGPER0ofofINORGPER0XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0,,,OPER0DecemberDecemberNNPDATEPER011th11thNNDATEPER0...OPER0(ROOT (FRAG (NP (NNP Foreign) (NNP Department) (IN of) (NNP Xinhua) (NNP News) (NNP Agency)) (, ,) (NP (NNP December) (NN 11th)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 30 until 39 headed by 31 parsed as (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today))))))))
+sid=0 spanning 41 until 42 headed by 41 parsed as (NP (NN today))
+sid=0 spanning 43 until 56 headed by 47 parsed as (NP (NN vice) (NN president))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP December) (NN 11th))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 12 headed by 2 parsed as (NP (NP (DT the) (NN title)) (CC and) (NP (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS paragraphs)) (PP (IN of) (NP (DT the) (NN draft)))))) (NP (NNP No.))))
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN title))
+sid=0 spanning 4 until 12 headed by 4 parsed as (NP (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS paragraphs)) (PP (IN of) (NP (DT the) (NN draft)))))) (NP (NNP No.)))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN draft))
+sid=0 spanning 11 until 15 headed by 11 parsed as (NP (NNP No.))
+sid=0 spanning 12 until 56 headed by 17 parsed as (NP (-LRB- -LRB-) (CD CB003011) (-RRB- -RRB-) (`` ") (NP (NP (NP (DT A) (NN talk)) (PP (IN on) (NP (NP (DT the) (NNS achievements) (CC and) (NN future)) (PP (IN of) (NP (NP (NN finance) (NN reform)) (PP (IN by) (NP (NP (NNP Dezhu) (NNP Gao)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today))))))))))))))) (, ,) (NP (DT the) (NN phrase))) ('' ") (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NNP China))))) ('' "))
+sid=0 spanning 16 until 42 headed by 17 parsed as (NP (NP (DT A) (NN talk)) (PP (IN on) (NP (NP (DT the) (NNS achievements) (CC and) (NN future)) (PP (IN of) (NP (NP (NN finance) (NN reform)) (PP (IN by) (NP (NP (NNP Dezhu) (NNP Gao)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today)))))))))))))))
+sid=0 spanning 19 until 42 headed by 20 parsed as (NP (NP (DT the) (NNS achievements) (CC and) (NN future)) (PP (IN of) (NP (NP (NN finance) (NN reform)) (PP (IN by) (NP (NP (NNP Dezhu) (NNP Gao)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today)))))))))))))
+sid=0 spanning 24 until 42 headed by 25 parsed as (NP (NP (NN finance) (NN reform)) (PP (IN by) (NP (NP (NNP Dezhu) (NNP Gao)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today)))))))))))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (NP (NNP Dezhu) (NNP Gao)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today)))))))))
+sid=0 spanning 27 until 42 headed by 28 parsed as (NP (NP (NNP Dezhu) (NNP Gao)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today)))))))))
+sid=0 spanning 30 until 42 headed by 31 parsed as (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today))))))))
+sid=0 spanning 33 until 42 headed by 36 parsed as (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today))))))
+sid=0 spanning 33 until 36 headed by 34 parsed as (NP (DT the) (NNPS People) (POS 's))
+sid=0 spanning 38 until 42 headed by 38 parsed as (NP (NP (NNP China)) ('' ") (VP (VBN broadcast) (NP (NN today))))
+sid=0 spanning 43 until 45 headed by 44 parsed as (NP (DT the) (NN phrase))
+sid=0 spanning 46 until 48 headed by 47 parsed as (NP (NN vice) (NN president))
+sid=0 spanning 49 until 55 headed by 52 parsed as (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NNP China))))
+sid=0 spanning 61 until 75 headed by 62 parsed as (NP (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (DT the) (NNP Bank)) (PP (IN of) (NP (NNP China)))))) ('' ") (-LRB- -LRB-) (NP (NP (CD two) (NNS places)) (PP (IN in) (NP (DT all)))) (-RRB- -RRB-))
+sid=0 spanning 64 until 68 headed by 65 parsed as (NP (NP (DT the) (NNP Bank)) (PP (IN of) (NP (NNP China))))
+sid=0 spanning 70 until 74 headed by 71 parsed as (NP (NP (CD two) (NNS places)) (PP (IN in) (NP (DT all))))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (NNP Foreign) (NNP Department) (IN of) (NNP Xinhua) (NNP News) (NNP Agency))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP December) (NN 11th))
+(end predicted mentions)
+---------gold clusters--------
+1 3 | { 'today' 'December 11th' }
+0 2 | { 'vice president of the People 's Bank of China' 'the phrase " vice president of the People 's Bank of China "' }
+(end gold clusters)

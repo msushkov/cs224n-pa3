@@ -1,0 +1,68 @@
+---------gloss--------
+(0) What type of skin fits for beautification ? 
+(1) Beauty Lover 
+(2) -- Shock treatments can easily make you hypersensitive ; for getting rid of blemishes it 's best to go to the hospital . 
+(3) In the public 's eyes , [4m[31m{the beauty industry}[0m has always been both praised and blamed : on the one hand , [4m[31m{it}[0m meets everybody 's demand for beauty , but on the other , after much major work on the face , many people feel that the results are limited , and in extreme cases the result is n't beauty but disfigurement . 
+(4) Why is this ? 
+(5) In the view of clinical dermatologists , the results at beauty salons are not obvious and there may even be problems . 
+(6) In fact because not only is [4m[32m{the consumer}[0m unlucky , not choosing the right beauty salon , but to a great extent this is determined by whether [4m[32m{they}[0m choose the right occasion for beautification and understand the results . 
+(7) To learn more , click www.120zy.com . 
+(end gloss)
+---------document--------
+(wb/c2e/00/c2e_0000); part 000
+sentences:
+WhatwhatWDTOPER0typetypeNNOPER0ofofINOPER0skinskinNNOPER0fitsfitVBZOPER0forforINOPER0beautificationbeautificationNNOPER0??.OPER0(ROOT (SBARQ (WHNP (WHNP (WDT What) (NN type)) (PP (IN of) (NP (NN skin)))) (SQ (VP (VBZ fits) (PP (IN for) (NP (NN beautification))))) (. ?)))
+BeautyBeautyNNPPERSONPER0LoverLoverNNPPERSONPER0(ROOT (FRAG (NP (NNP Beauty) (NNP Lover))))
+----:O 爱美 ShockshockNNO 爱美 treatmentstreatmentNNSO 爱美 cancanMDO 爱美 easilyeasilyRBO 爱美 makemakeVBO 爱美 youyouPRPO 爱美 hypersensitivehypersensitiveJJO 爱美 ;;:O 爱美 forforINO 爱美 gettinggetVBGO 爱美 ridridVBNO 爱美 ofofINO 爱美 blemishesblemishNNSO 爱美 ititPRPO 爱美 'sbeVBZO 爱美 bestbestJJSO 爱美 totoTOO 爱美 gogoVBO 爱美 totoINO 爱美 thetheDTO 爱美 hospitalhospitalNNO 爱美 ...O 爱美 (ROOT (S (: --) (S (NP (NN Shock) (NNS treatments)) (VP (MD can) (ADVP (RB easily)) (VP (VB make) (S (NP (PRP you)) (ADJP (JJ hypersensitive)))))) (: ;) (S (PP (IN for) (S (VP (VBG getting) (VP (VBN rid) (PP (IN of) (NP (NNS blemishes))))))) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJS best)) (S (VP (TO to) (VP (VB go) (PP (IN to) (NP (DT the) (NN hospital)))))))) (. .)))
+IninINO 爱美 thetheDTO 爱美 publicpublicNNO 爱美 's'sPOSO 爱美 eyeseyeNNSO 爱美 ,,,O 爱美 thetheDTO 爱美 beautybeautyNNO 爱美 industryindustryNNO 爱美 hashaveVBZO 爱美 alwaysalwaysRBO 爱美 beenbeVBNO 爱美 bothbothCCO 爱美 praisedpraiseVBNO 爱美 andandCCO 爱美 blamedblameVBNO 爱美 :::O 爱美 ononINO 爱美 thetheDTO 爱美 oneoneCDO 爱美 handhandNNO 爱美 ,,,O 爱美 ititPRPO 爱美 meetsmeetVBZO 爱美 everybodyeverybodyNNO 爱美 'sbeVBZO 爱美 demanddemandNNO 爱美 forforINO 爱美 beautybeautyNNO 爱美 ,,,O 爱美 butbutCCO 爱美 ononINO 爱美 thetheDTO 爱美 otherotherJJO 爱美 ,,,O 爱美 afterafterINO 爱美 muchmuchJJO 爱美 majormajorJJO 爱美 workworkNNO 爱美 ononINO 爱美 thetheDTO 爱美 facefaceNNO 爱美 ,,,O 爱美 manymanyJJO 爱美 peoplepeopleNNSO 爱美 feelfeelVBPO 爱美 thatthatINO 爱美 thetheDTO 爱美 resultsresultNNSO 爱美 arebeVBPO 爱美 limitedlimitedJJO 爱美 ,,,O 爱美 andandCCO 爱美 ininINO 爱美 extremeextremeJJO 爱美 casescaseNNSO 爱美 thetheDTO 爱美 resultresultNNO 爱美 isbeVBZO 爱美 n'tnotRBO 爱美 beautybeautyNNO 爱美 butbutCCO 爱美 disfigurementdisfigurementNNO 爱美 ...O 爱美 (ROOT (S (S (PP (IN In) (NP (NP (DT the) (NN public) (POS 's)) (NNS eyes))) (, ,) (NP (DT the) (NN beauty) (NN industry)) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (VP (CC both) (VBN praised) (CC and) (VBN blamed))))) (: :) (S (PP (IN on) (NP (DT the) (CD one) (NN hand))) (, ,) (NP (PRP it)) (VP (VBZ meets) (SBAR (S (NP (NN everybody)) (VP (VBZ 's) (NP (NP (NN demand)) (PP (PP (IN for) (NP (NN beauty))) (, ,) (CC but) (PP (IN on) (NP (DT the) (JJ other))))) (, ,) (S (S (PP (IN after) (NP (NP (JJ much) (JJ major) (NN work)) (PP (IN on) (NP (DT the) (NN face))))) (, ,) (NP (JJ many) (NNS people)) (VP (VBP feel) (SBAR (IN that) (S (NP (DT the) (NNS results)) (VP (VBP are) (ADJP (JJ limited))))))) (, ,) (CC and) (S (PP (IN in) (NP (JJ extreme) (NNS cases))) (NP (DT the) (NN result)) (VP (VBZ is) (RB n't) (NP (NN beauty) (CC but) (NN disfigurement)))))))))) (. .)))
+WhywhyWRBO 爱美 isbeVBZO 爱美 thisthisDTO 爱美 ??.O 爱美 (ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBZ is) (NP (DT this))) (. ?)))
+IninINO 爱美 thetheDTO 爱美 viewviewNNO 爱美 ofofINO 爱美 clinicalclinicalJJO 爱美 dermatologistsdermatologistNNSO 爱美 ,,,O 爱美 thetheDTO 爱美 resultsresultNNSO 爱美 atatINO 爱美 beautybeautyNNO 爱美 salonssalonNNSO 爱美 arebeVBPO 爱美 notnotRBO 爱美 obviousobviousJJO 爱美 andandCCO 爱美 therethereEXO 爱美 maymayMDO 爱美 evenevenRBO 爱美 bebeVBO 爱美 problemsproblemNNSO 爱美 ...O 爱美 (ROOT (S (S (PP (IN In) (NP (NP (DT the) (NN view)) (PP (IN of) (NP (JJ clinical) (NNS dermatologists))))) (, ,) (NP (NP (DT the) (NNS results)) (PP (IN at) (NP (NN beauty) (NNS salons)))) (VP (VBP are) (RB not) (ADJP (JJ obvious)))) (CC and) (S (NP (EX there)) (VP (MD may) (ADVP (RB even)) (VP (VB be) (NP (NNS problems))))) (. .)))
+IninINO 爱美 factfactNNO 爱美 becausebecauseINO 爱美 notnotRBO 爱美 onlyonlyRBO 爱美 isbeVBZO 爱美 thetheDTO 爱美 consumerconsumerNNO 爱美 unluckyunluckyJJO 爱美 ,,,O 爱美 notnotRBO 爱美 choosingchooseVBGO 爱美 thetheDTO 爱美 rightrightJJO 爱美 beautybeautyNNO 爱美 salonsalonNNO 爱美 ,,,O 爱美 butbutCCO 爱美 totoINO 爱美 aaDTO 爱美 greatgreatJJO 爱美 extentextentNNO 爱美 thisthisDTO 爱美 isbeVBZO 爱美 determineddetermineVBNO 爱美 bybyINO 爱美 whetherwhetherINO 爱美 theytheyPRPO 爱美 choosechooseVBPO 爱美 thetheDTO 爱美 rightrightJJO 爱美 occasionoccasionNNO 爱美 forforINO 爱美 beautificationbeautificationNNO 爱美 andandCCO 爱美 understandunderstandVBPO 爱美 thetheDTO 爱美 resultsresultNNSO 爱美 ...O 爱美 (ROOT (FRAG (PP (IN In) (NP (NN fact))) (SBAR (IN because) (S (S (CONJP (RB not) (RB only)) (VP (VBZ is) (NP (NP (DT the) (NN consumer)) (ADJP (JJ unlucky))) (, ,) (S (RB not) (VP (VBG choosing) (NP (DT the) (JJ right) (NN beauty) (NN salon)))))) (, ,) (CC but) (S (PP (IN to) (NP (DT a) (JJ great) (NN extent))) (NP (DT this)) (VP (VBZ is) (VP (VBN determined) (PP (IN by) (SBAR (IN whether) (S (NP (PRP they)) (VP (VP (VBP choose) (NP (NP (DT the) (JJ right) (NN occasion)) (PP (IN for) (NP (NN beautification))))) (CC and) (VP (VBP understand) (NP (DT the) (NNS results)))))))))))) (. .)))
+TotoTOO 爱美 learnlearnVBO 爱美 moremoreJJRO 爱美 ,,,O 爱美 clickclickVBO 爱美 www.120zy.comwww.120zy.comNNCARDINAL 爱美 ...O 爱美 (ROOT (S (S (VP (TO To) (VP (VB learn) (NP (JJR more))))) (, ,) (VP (VB click) (NP (NN www.120zy.com))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN beauty) (NN industry))
+sid=3 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (NP (DT the) (NN consumer)) (ADJP (JJ unlucky)))
+sid=6 spanning 27 until 28 headed by 27 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Beauty) (NNP Lover))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (NN Shock) (NNS treatments))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP you))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNS blemishes))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN hospital))
+sid=3 spanning 1 until 5 headed by 4 parsed as (NP (NP (DT the) (NN public) (POS 's)) (NNS eyes))
+sid=3 spanning 1 until 4 headed by 2 parsed as (NP (DT the) (NN public) (POS 's))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN beauty) (NN industry))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (CD one) (NN hand))
+sid=3 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=3 spanning 26 until 34 headed by 26 parsed as (NP (NP (NN demand)) (PP (PP (IN for) (NP (NN beauty))) (, ,) (CC but) (PP (IN on) (NP (DT the) (JJ other)))))
+sid=3 spanning 32 until 34 headed by 33 parsed as (NP (DT the) (JJ other))
+sid=3 spanning 40 until 42 headed by 41 parsed as (NP (DT the) (NN face))
+sid=3 spanning 43 until 45 headed by 44 parsed as (NP (JJ many) (NNS people))
+sid=3 spanning 47 until 49 headed by 48 parsed as (NP (DT the) (NNS results))
+sid=3 spanning 54 until 56 headed by 55 parsed as (NP (JJ extreme) (NNS cases))
+sid=3 spanning 56 until 58 headed by 57 parsed as (NP (DT the) (NN result))
+sid=3 spanning 60 until 63 headed by 60 parsed as (NP (NN beauty) (CC but) (NN disfigurement))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (DT this))
+sid=5 spanning 1 until 6 headed by 2 parsed as (NP (NP (DT the) (NN view)) (PP (IN of) (NP (JJ clinical) (NNS dermatologists))))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (JJ clinical) (NNS dermatologists))
+sid=5 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT the) (NNS results)) (PP (IN at) (NP (NN beauty) (NNS salons))))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (NN beauty) (NNS salons))
+sid=5 spanning 20 until 21 headed by 20 parsed as (NP (NNS problems))
+sid=6 spanning 6 until 9 headed by 7 parsed as (NP (NP (DT the) (NN consumer)) (ADJP (JJ unlucky)))
+sid=6 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (JJ right) (NN beauty) (NN salon))
+sid=6 spanning 19 until 22 headed by 21 parsed as (NP (DT a) (JJ great) (NN extent))
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (DT this))
+sid=6 spanning 27 until 28 headed by 27 parsed as (NP (PRP they))
+sid=6 spanning 29 until 34 headed by 31 parsed as (NP (NP (DT the) (JJ right) (NN occasion)) (PP (IN for) (NP (NN beautification))))
+sid=6 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NNS results))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (JJR more))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'the beauty industry' 'it' }
+2 3 | { 'the consumer' 'they' }
+(end gold clusters)

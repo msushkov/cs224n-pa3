@@ -1,0 +1,45 @@
+---------gloss--------
+(0) Prices for seats on [36m{the New York Stock Exchange}[0m are recovering a bit after hitting a four - year low earlier this month . 
+(1) Two seats on [36m{the Big Board}[0m were sold yesterday for $ 455,000 , and then $ 500,000 . 
+(2) The previous sale was $ 436,000 on Oct. 17 ; the last time prices were that low was November 1985 , when a seat sold for $ 425,000 . 
+(3) Prices peaked at $ 1,150,000 in September 1987 . 
+(4) Seats are currently quoted at $ 430,000 bid and $ 525,000 asked . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1573); part 000
+sentences:
+PricespriceNNSOPER0forforINOPER0seatsseatNNSOPER0ononINOPER0thetheDTORGPER0NewNewNNPORGPER0YorkYorkNNPORGPER0StockStockNNPORGPER0ExchangeExchangeNNPORGPER0arebeVBPOPER0recoveringrecoverVBGOPER0aaDTOPER0bitbitNNOPER0afterafterINOPER0hittinghitVBGOPER0aaDTOPER0fourfourCDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0lowlowNNOPER0earlierearlierRBRDATEPER0thisthisDTDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (NP (NP (NNS Prices)) (PP (IN for) (NP (NP (NNS seats)) (PP (IN on) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange)))))) (VP (VBP are) (VP (VBG recovering) (NP (DT a) (NN bit)) (PP (IN after) (S (VP (VBG hitting) (NP (DT a) (NML (CD four) (HYPH -) (NN year)) (NN low)) (NP (ADVP (RBR earlier)) (DT this) (NN month))))))) (. .)))
+TwotwoCDCARDINALPER0seatsseatNNSOPER0ononINOPER0thetheDTORGPER0BigBigNNPORGPER0BoardBoardNNPORGPER0werebeVBDOPER0soldsellVBNOPER0yesterdayyesterdayNNDATEPER0forforINOPER0$$$MONEYPER0455,000455,000CDMONEYPER0,,,OPER0andandCCOPER0thenthenRBOPER0$$$MONEYPER0500,000500,000CDMONEYPER0...OPER0(ROOT (S (NP (NP (CD Two) (NNS seats)) (PP (IN on) (NP (DT the) (NNP Big) (NNP Board)))) (VP (VBD were) (VP (VBN sold) (NP (NN yesterday)) (PP (IN for) (NP (NP ($ $) (CD 455,000)) (, ,) (CC and) (RB then) (NP ($ $) (CD 500,000)))))) (. .)))
+ThetheDTOPER0previouspreviousJJOPER0salesaleNNOPER0wasbeVBDOPER0$$$MONEYPER0436,000436,000CDMONEYPER0ononINOPER0Oct.Oct.NNPDATEPER01717CDDATEPER0;;:OPER0thetheDTOPER0lastlastJJOPER0timetimeNNOPER0pricespriceNNSOPER0werebeVBDOPER0thatthatINOPER0lowlowNNOPER0wasbeVBDOPER0NovemberNovemberNNPDATEPER019851985CDDATEPER0,,,OPER0whenwhenWRBOPER0aaDTOPER0seatseatNNOPER0soldsellVBNOPER0forforINOPER0$$$MONEYPER0425,000425,000CDMONEYPER0...OPER0(ROOT (S (S (NP (DT The) (JJ previous) (NN sale)) (VP (VBD was) (NP ($ $) (CD 436,000)) (PP (IN on) (NP (NNP Oct.) (CD 17))))) (: ;) (S (NP (NP (DT the) (JJ last) (NN time)) (SBAR (S (NP (NNS prices)) (VP (VBD were) (SBAR (IN that) (S (NP (NN low)) (VP (VBD was) (NP (NNP November) (CD 1985)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN seat)) (VP (VBN sold) (PP (IN for) (NP ($ $) (CD 425,000)))))))))))))) (. .)))
+PricespriceNNSOPER0peakedpeakVBDOPER0atatINOPER0$$$MONEYPER01,150,0001,150,000CDMONEYPER0ininINOPER0SeptemberSeptemberNNPDATEPER019871987CDDATEPER0...OPER0(ROOT (S (NP (NNS Prices)) (VP (VBD peaked) (PP (IN at) (NP (NP ($ $) (CD 1,150,000)) (PP (IN in) (NP (NNP September) (CD 1987)))))) (. .)))
+SeatsseatNNSOPER0arebeVBPOPER0currentlycurrentlyRBOPER0quotedquoteVBNOPER0atatINOPER0$$$MONEYPER0430,000430,000CDMONEYPER0bidbidNNOPER0andandCCOPER0$$$MONEYPER0525,000525,000CDMONEYPER0askedaskVBNOPER0...OPER0(ROOT (S (NP (NNS Seats)) (VP (VBP are) (ADVP (RB currently)) (VP (VBN quoted) (PP (IN at) (NP (NP (NP ($ $) (CD 430,000)) (VP (NN bid))) (CC and) (NP (NP ($ $) (CD 525,000)) (VP (VBN asked))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 9 headed by 8 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Big) (NNP Board))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNS Prices)) (PP (IN for) (NP (NP (NNS seats)) (PP (IN on) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))))))
+sid=0 spanning 2 until 9 headed by 2 parsed as (NP (NP (NNS seats)) (PP (IN on) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))))
+sid=0 spanning 4 until 9 headed by 8 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT a) (NN bit))
+sid=0 spanning 15 until 20 headed by 19 parsed as (NP (DT a) (NML (CD four) (HYPH -) (NN year)) (NN low))
+sid=0 spanning 16 until 19 headed by 18 parsed as year
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (ADVP (RBR earlier)) (DT this) (NN month))
+sid=1 spanning 0 until 6 headed by 1 parsed as (NP (NP (CD Two) (NNS seats)) (PP (IN on) (NP (DT the) (NNP Big) (NNP Board))))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Big) (NNP Board))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NN yesterday))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ previous) (NN sale))
+sid=2 spanning 7 until 9 headed by 7 parsed as (NP (NNP Oct.) (CD 17))
+sid=2 spanning 10 until 28 headed by 12 parsed as (NP (NP (DT the) (JJ last) (NN time)) (SBAR (S (NP (NNS prices)) (VP (VBD were) (SBAR (IN that) (S (NP (NN low)) (VP (VBD was) (NP (NNP November) (CD 1985)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN seat)) (VP (VBN sold) (PP (IN for) (NP ($ $) (CD 425,000)))))))))))))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNS prices))
+sid=2 spanning 18 until 20 headed by 18 parsed as (NP (NNP November) (CD 1985))
+sid=2 spanning 22 until 24 headed by 23 parsed as (NP (DT a) (NN seat))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Prices))
+sid=3 spanning 6 until 8 headed by 6 parsed as (NP (NNP September) (CD 1987))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNS Seats))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'the Big Board' 'the New York Stock Exchange' }
+(end gold clusters)

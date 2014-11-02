@@ -1,0 +1,45 @@
+---------gloss--------
+(0) [3m[32m{Israeli Prime Minister Ehud Barak}[0m is heading to Washington for talks today with [3m[33m{President Clinton}[0m as deadly clashes continue in the Gaza Strip and West Bank . 
+(1) [3m[32m{Mr. Barak}[0m says expectations are low for a quick end to the six weeks of violence . 
+(2) [3m[33m{Mr. Clinton}[0m met with Palestinian leader Yasser Arafat on Thursday . 
+(3) Meanwhile , six more Palestinians and another Israeli soldier have been killed in the latest violence . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0093); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0isbeVBZOPER0headingheadVBGOPER0totoINOPER0WashingtonWashingtonNNPGPEPER0forforINOPER0talkstalkNNSOPER0todaytodayNNDATEPER0withwithINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0asasINOPER0deadlydeadlyJJOPER0clashesclashNNSOPER0continuecontinueVBPOPER0ininINOPER0thetheDTOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0andandCCOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ is) (VP (VBG heading) (PP (IN to) (NP (NNP Washington))) (PP (IN for) (NP (NP (NNS talks)) (NP (NN today)) (PP (IN with) (NP (NNP President) (NNP Clinton))))) (SBAR (IN as) (S (NP (JJ deadly) (NNS clashes)) (VP (VBP continue) (PP (IN in) (NP (DT the) (NML (NML (NNP Gaza) (NNP Strip)) (CC and) (NML (NNP West) (NNP Bank)))))))))) (. .)))
+Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0sayssayVBZOPER0expectationsexpectationNNSOPER0arebeVBPOPER0lowlowJJOPER0forforINOPER0aaDTOPER0quickquickJJOPER0endendNNOPER0totoINOPER0thetheDTDATEPER0sixsixCDDATEPER0weeksweekNNSDATEPER0ofofINOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (NNS expectations)) (VP (VBP are) (ADJP (JJ low) (PP (IN for) (NP (NP (DT a) (JJ quick) (NN end)) (PP (IN to) (NP (NP (DT the) (CD six) (NNS weeks)) (PP (IN of) (NP (NN violence)))))))))))) (. .)))
+Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0metmeetVBDOPER0withwithINOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0ononINOPER0ThursdayThursdayNNPDATEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Clinton)) (VP (VBD met) (PP (IN with) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))) (PP (IN on) (NP (NNP Thursday)))) (. .)))
+MeanwhilemeanwhileRBOPER0,,,OPER0sixsixCDCARDINALPER0moremoreJJROPER0PalestiniansPalestiniansNNPSOPER0andandCCOPER0anotheranotherDTOPER0IsraeliisraeliJJOPER0soldiersoldierNNOPER0havehaveVBPOPER0beenbeVBNOPER0killedkillVBNOPER0ininINOPER0thetheDTOPER0latestlatestJJSOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (NP (QP (CD six) (JJR more)) (NNPS Palestinians) (CC and) (NP (DT another) (JJ Israeli) (NN soldier))) (VP (VBP have) (VP (VBN been) (VP (VBN killed) (PP (IN in) (NP (DT the) (JJS latest) (NN violence)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NNP President) (NNP Clinton))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Washington))
+sid=0 spanning 10 until 15 headed by 10 parsed as (NP (NP (NNS talks)) (NP (NN today)) (PP (IN with) (NP (NNP President) (NNP Clinton))))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (JJ deadly) (NNS clashes))
+sid=0 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NML (NML (NNP Gaza) (NNP Strip)) (CC and) (NML (NNP West) (NNP Bank))))
+sid=0 spanning 20 until 26 headed by 22 parsed as (NP (DT the) (NML (NML (NNP Gaza) (NNP Strip)) (CC and) (NML (NNP West) (NNP Bank))))
+sid=0 spanning 24 until 26 headed by 25 parsed as Bank
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNS expectations))
+sid=1 spanning 7 until 16 headed by 9 parsed as (NP (NP (DT a) (JJ quick) (NN end)) (PP (IN to) (NP (NP (DT the) (CD six) (NNS weeks)) (PP (IN of) (NP (NN violence))))))
+sid=1 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT the) (CD six) (NNS weeks)) (PP (IN of) (NP (NN violence))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=2 spanning 4 until 8 headed by 7 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Thursday))
+sid=3 spanning 2 until 9 headed by 4 parsed as (NP (QP (CD six) (JJR more)) (NNPS Palestinians) (CC and) (NP (DT another) (JJ Israeli) (NN soldier)))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT another) (JJ Israeli) (NN soldier))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJS latest) (NN violence))
+(end predicted mentions)
+---------gold clusters--------
+0 2 | { 'Israeli Prime Minister Ehud Barak' 'Mr. Barak' }
+1 3 | { 'President Clinton' 'Mr. Clinton' }
+(end gold clusters)

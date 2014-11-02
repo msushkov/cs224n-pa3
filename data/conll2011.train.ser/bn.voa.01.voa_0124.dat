@@ -1,0 +1,42 @@
+---------gloss--------
+(0) [3m[31m{Iraq 's Deputy Prime Minister}[0m [3m[31m{Tariq Aziz}[0m and [1m[36m{Syria 's}[0m Foreign Minister Farooq Al Shah held talks Saturday on ways of improving bilateral relations . 
+(1) [3m[32m{Mr. Aziz}[0m arrived in Damascus aboard the first direct Iraqi flight to [1m[36m{Syria}[0m in nearly 20 years . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0124); part 000
+sentences:
+IraqIraqNNPGPEPER0's'sPOSOPER0DeputyDeputyNNPOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0TariqTariqNNPPERSONPER0AzizAzizNNPPERSONPER0andandCCOPER0SyriaSyriaNNPGPEPER0's'sPOSOPER0ForeignForeignNNPOPER0MinisterMinisterNNPOPER0FarooqFarooqNNPPERSONPER0AlAlNNPPERSONPER0ShahShahNNPPERSONPER0heldholdVBDOPER0talkstalkNNSOPER0SaturdaySaturdayNNPDATEPER0ononINOPER0wayswayNNSOPER0ofofINOPER0improvingimproveVBGOPER0bilateralbilateralJJOPER0relationsrelationNNSOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Iraq) (POS 's)) (NML (NNP Deputy) (NNP Prime) (NNP Minister)) (NNP Tariq) (NNP Aziz)) (CC and) (NP (NP (NNP Syria) (POS 's)) (NML (NNP Foreign) (NNP Minister)) (NNP Farooq) (NNP Al) (NNP Shah))) (VP (VBD held) (NP (NP (NNS talks)) (NP (NNP Saturday)) (PP (IN on) (NP (NP (NNS ways)) (PP (IN of) (S (VP (VBG improving) (NP (JJ bilateral) (NNS relations))))))))) (. .)))
+Mr.Mr.NNPOPER0AzizAzizNNPPERSONPER0arrivedarriveVBDOPER0ininINOPER0DamascusDamascusNNPGPEPER0aboardaboardINOPER0thetheDTOPER0firstfirstJJORDINALPER0directdirectJJOPER0IraqiiraqiJJOPER0flightflightNNOPER0totoINOPER0SyriaSyriaNNPGPEPER0ininINOPER0nearlynearlyRBDATEPER02020CDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Aziz)) (VP (VBD arrived) (PP (IN in) (NP (NNP Damascus))) (PP (IN aboard) (NP (NP (DT the) (JJ first) (JJ direct) (JJ Iraqi) (NN flight)) (PP (IN to) (NP (NNP Syria))))) (PP (IN in) (NP (QP (RB nearly) (CD 20)) (NNS years)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 6 parsed as (NP (NP (NP (NNP Iraq) (POS 's)) (NML (NNP Deputy) (NNP Prime) (NNP Minister)) (NNP Tariq) (NNP Aziz)) (CC and) (NP (NP (NNP Syria) (POS 's)) (NML (NNP Foreign) (NNP Minister)) (NNP Farooq) (NNP Al) (NNP Shah)))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NP (NP (NNP Iraq) (POS 's)) (NML (NNP Deputy) (NNP Prime) (NNP Minister)) (NNP Tariq) (NNP Aziz)) (CC and) (NP (NP (NNP Syria) (POS 's)) (NML (NNP Foreign) (NNP Minister)) (NNP Farooq) (NNP Al) (NNP Shah)))
+sid=0 spanning 0 until 5 headed by 4 parsed as Minister
+sid=0 spanning 8 until 10 headed by 8 parsed as (NP (NNP Syria) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Aziz))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Syria))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NP (NP (NNP Iraq) (POS 's)) (NML (NNP Deputy) (NNP Prime) (NNP Minister)) (NNP Tariq) (NNP Aziz)) (CC and) (NP (NP (NNP Syria) (POS 's)) (NML (NNP Foreign) (NNP Minister)) (NNP Farooq) (NNP Al) (NNP Shah)))
+sid=0 spanning 0 until 15 headed by 6 parsed as (NP (NP (NP (NNP Iraq) (POS 's)) (NML (NNP Deputy) (NNP Prime) (NNP Minister)) (NNP Tariq) (NNP Aziz)) (CC and) (NP (NP (NNP Syria) (POS 's)) (NML (NNP Foreign) (NNP Minister)) (NNP Farooq) (NNP Al) (NNP Shah)))
+sid=0 spanning 0 until 7 headed by 6 parsed as (NP (NP (NNP Iraq) (POS 's)) (NML (NNP Deputy) (NNP Prime) (NNP Minister)) (NNP Tariq) (NNP Aziz))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Iraq) (POS 's))
+sid=0 spanning 8 until 15 headed by 14 parsed as (NP (NP (NNP Syria) (POS 's)) (NML (NNP Foreign) (NNP Minister)) (NNP Farooq) (NNP Al) (NNP Shah))
+sid=0 spanning 8 until 10 headed by 8 parsed as (NP (NNP Syria) (POS 's))
+sid=0 spanning 16 until 24 headed by 16 parsed as (NP (NP (NNS talks)) (NP (NNP Saturday)) (PP (IN on) (NP (NP (NNS ways)) (PP (IN of) (S (VP (VBG improving) (NP (JJ bilateral) (NNS relations))))))))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NNP Saturday))
+sid=0 spanning 19 until 24 headed by 19 parsed as (NP (NP (NNS ways)) (PP (IN of) (S (VP (VBG improving) (NP (JJ bilateral) (NNS relations))))))
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (JJ bilateral) (NNS relations))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Aziz))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Damascus))
+sid=1 spanning 6 until 13 headed by 10 parsed as (NP (NP (DT the) (JJ first) (JJ direct) (JJ Iraqi) (NN flight)) (PP (IN to) (NP (NNP Syria))))
+sid=1 spanning 7 until 8 headed by 7 parsed as first
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Syria))
+sid=1 spanning 14 until 17 headed by 16 parsed as (NP (QP (RB nearly) (CD 20)) (NNS years))
+(end predicted mentions)
+---------gold clusters--------
+5 3 | { 'Syria' 'Syria 's' }
+2 1 | { 'Iraq 's Deputy Prime Minister' 'Tariq Aziz' }
+0 4 | { 'Iraq 's Deputy Prime Minister Tariq Aziz' 'Mr. Aziz' }
+(end gold clusters)

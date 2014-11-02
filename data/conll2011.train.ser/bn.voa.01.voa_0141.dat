@@ -1,0 +1,68 @@
+---------gloss--------
+(0) [3m[34m{The city of Los Angeles}[0m has announced that [3m[34m{it}[0m wants to become the first city to host the Olympics three times . 
+(1) [3m[34m{The city that staged the summer games in 1932 and 1984}[0m is hoping to host [3m[33m{the summer games}[0m in 2012 . 
+(2) Other US cities expected to submit bids by the December 15th deadline are Dallas , Washington , Baltimore , Cincinnati , Houston , New York , San Francisco and Tampa , Florida . 
+(3) [3m[35m{The US Olympic Committee}[0m will make [3m[35m{its}[0m choice in late 2002 and the International Olympic Committee will select the host city in 2005 . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0141); part 000
+sentences:
+ThetheDTOPER0citycityNNOPER0ofofINOPER0LosLosNNPGPEPER0AngelesAngelesNNPGPEPER0hashaveVBZOPER0announcedannounceVBNOPER0thatthatINOPER0ititPRPOPER0wantswantVBZOPER0totoTOOPER0becomebecomeVBOPER0thetheDTOPER0firstfirstJJOPER0citycityNNOPER0totoTOOPER0hosthostVBOPER0thetheDTOPER0OlympicsOlympicsNNPSEVENTPER0threethreeCDCARDINALPER0timestimeNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN city)) (PP (IN of) (NP (NNP Los) (NNP Angeles)))) (VP (VBZ has) (VP (VBN announced) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ wants) (S (VP (TO to) (VP (VB become) (NP (NP (DT the) (JJ first) (NN city)) (SBAR (S (VP (TO to) (VP (VB host) (NP (DT the) (NNPS Olympics)) (NP (CD three) (NNS times))))))))))))))) (. .)))
+ThetheDTOPER0citycityNNOPER0thatthatWDTOPER0stagedstageVBDOPER0thetheDTOPER0summersummerNNDATEPER0gamesgameNNSOPER0ininINOPER019321932CDDATEPER0andandCCDATEPER019841984CDDATEPER0isbeVBZOPER0hopinghopeVBGOPER0totoTOOPER0hosthostVBOPER0thetheDTOPER0summersummerNNDATEPER0gamesgameNNSOPER0ininINOPER020122012CDDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN city)) (SBAR (WHNP (WDT that)) (S (VP (VBD staged) (NP (DT the) (NN summer) (NNS games)) (PP (IN in) (NP (CD 1932) (CC and) (CD 1984))))))) (VP (VBZ is) (VP (VBG hoping) (S (VP (TO to) (VP (VB host) (NP (NP (DT the) (NN summer) (NNS games)) (PP (IN in) (NP (CD 2012))))))))) (. .)))
+OtherotherJJOPER0USUSNNPGPEPER0citiescityNNSOPER0expectedexpectVBNOPER0totoTOOPER0submitsubmitVBOPER0bidsbidNNSOPER0bybyINOPER0thetheDTOPER0DecemberDecemberNNPDATEPER015th15thNNDATEPER0deadlinedeadlineNNOPER0arebeVBPOPER0DallasDallasNNPGPEPER0,,,OPER0WashingtonWashingtonNNPGPEPER0,,,OPER0BaltimoreBaltimoreNNPGPEPER0,,,OPER0CincinnatiCincinnatiNNPGPEPER0,,,OPER0HoustonHoustonNNPGPEPER0,,,OPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0,,,OPER0SanSanNNPGPEPER0FranciscoFranciscoNNPGPEPER0andandCCOPER0TampaTampaNNPGPEPER0,,,OPER0FloridaFloridaNNPGPEPER0...OPER0(ROOT (S (NP (NP (JJ Other) (NNP US) (NNS cities)) (VP (VBN expected) (S (VP (TO to) (VP (VB submit) (NP (NNS bids)) (PP (IN by) (NP (DT the) (NNP December) (NN 15th) (NN deadline)))))))) (VP (VBP are) (NP (NP (NNP Dallas) (, ,) (NNP Washington) (, ,) (NNP Baltimore) (, ,) (NNP Cincinnati)) (, ,) (NP (NNP Houston)) (, ,) (NP (NNP New) (NNP York)) (, ,) (NP (NNP San) (NNP Francisco)) (CC and) (NP (NP (NNP Tampa)) (, ,) (NP (NNP Florida))))) (. .)))
+ThetheDTORGPER0USUSNNPORGPER0OlympicOlympicNNPORGPER0CommitteeCommitteeNNPORGPER0willwillMDOPER0makemakeVBOPER0itsitsPRP$OPER0choicechoiceNNOPER0ininINOPER0latelateJJDATEPER020022002CDDATEPER0andandCCOPER0thetheDTORGPER0InternationalInternationalNNPORGPER0OlympicOlympicNNPORGPER0CommitteeCommitteeNNPORGPER0willwillMDOPER0selectselectVBOPER0thetheDTOPER0hosthostNNOPER0citycityNNOPER0ininINOPER020052005CDDATEPER0...OPER0(ROOT (S (S (NP (DT The) (NNP US) (NNP Olympic) (NNP Committee)) (VP (MD will) (VP (VB make) (NP (PRP$ its) (NN choice)) (PP (IN in) (NP (JJ late) (CD 2002)))))) (CC and) (S (NP (DT the) (NNP International) (NNP Olympic) (NNP Committee)) (VP (MD will) (VP (VB select) (NP (NP (DT the) (NN host) (NN city)) (PP (IN in) (NP (CD 2005))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN city)) (PP (IN of) (NP (NNP Los) (NNP Angeles))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=1 spanning 0 until 11 headed by 1 parsed as (NP (NP (DT The) (NN city)) (SBAR (WHNP (WDT that)) (S (VP (VBD staged) (NP (DT the) (NN summer) (NNS games)) (PP (IN in) (NP (CD 1932) (CC and) (CD 1984)))))))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN summer) (NNS games))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (NP (DT the) (NN summer) (NNS games)) (PP (IN in) (NP (CD 2012))))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP US) (NNP Olympic) (NNP Committee))
+sid=3 spanning 6 until 7 headed by 6 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN city)) (PP (IN of) (NP (NNP Los) (NNP Angeles))))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NNP Los) (NNP Angeles))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=0 spanning 12 until 21 headed by 14 parsed as (NP (NP (DT the) (JJ first) (NN city)) (SBAR (S (VP (TO to) (VP (VB host) (NP (DT the) (NNPS Olympics)) (NP (CD three) (NNS times)))))))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNPS Olympics))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (CD three) (NNS times))
+sid=1 spanning 0 until 11 headed by 1 parsed as (NP (NP (DT The) (NN city)) (SBAR (WHNP (WDT that)) (S (VP (VBD staged) (NP (DT the) (NN summer) (NNS games)) (PP (IN in) (NP (CD 1932) (CC and) (CD 1984)))))))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN summer) (NNS games))
+sid=1 spanning 5 until 6 headed by 5 parsed as summer
+sid=1 spanning 8 until 11 headed by 8 parsed as (NP (CD 1932) (CC and) (CD 1984))
+sid=1 spanning 15 until 20 headed by 17 parsed as (NP (NP (DT the) (NN summer) (NNS games)) (PP (IN in) (NP (CD 2012))))
+sid=1 spanning 16 until 17 headed by 16 parsed as summer
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (CD 2012))
+sid=2 spanning 0 until 12 headed by 2 parsed as (NP (NP (JJ Other) (NNP US) (NNS cities)) (VP (VBN expected) (S (VP (TO to) (VP (VB submit) (NP (NNS bids)) (PP (IN by) (NP (DT the) (NNP December) (NN 15th) (NN deadline))))))))
+sid=2 spanning 1 until 2 headed by 1 parsed as US
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNS bids))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (DT the) (NNP December) (NN 15th) (NN deadline))
+sid=2 spanning 9 until 11 headed by 10 parsed as 15th
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (NP (NNP Dallas) (, ,) (NNP Washington) (, ,) (NNP Baltimore) (, ,) (NNP Cincinnati)) (, ,) (NP (NNP Houston)) (, ,) (NP (NNP New) (NNP York)) (, ,) (NP (NNP San) (NNP Francisco)) (CC and) (NP (NP (NNP Tampa)) (, ,) (NP (NNP Florida))))
+sid=2 spanning 13 until 32 headed by 19 parsed as (NP (NP (NNP Dallas) (, ,) (NNP Washington) (, ,) (NNP Baltimore) (, ,) (NNP Cincinnati)) (, ,) (NP (NNP Houston)) (, ,) (NP (NNP New) (NNP York)) (, ,) (NP (NNP San) (NNP Francisco)) (CC and) (NP (NP (NNP Tampa)) (, ,) (NP (NNP Florida))))
+sid=2 spanning 13 until 20 headed by 19 parsed as (NP (NNP Dallas) (, ,) (NNP Washington) (, ,) (NNP Baltimore) (, ,) (NNP Cincinnati))
+sid=2 spanning 13 until 14 headed by 13 parsed as Dallas
+sid=2 spanning 15 until 16 headed by 15 parsed as Washington
+sid=2 spanning 17 until 18 headed by 17 parsed as Baltimore
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (NNP Houston))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (NNP New) (NNP York))
+sid=2 spanning 26 until 28 headed by 27 parsed as (NP (NNP San) (NNP Francisco))
+sid=2 spanning 29 until 30 headed by 29 parsed as (NP (NP (NNP Tampa)) (, ,) (NP (NNP Florida)))
+sid=2 spanning 29 until 32 headed by 29 parsed as (NP (NP (NNP Tampa)) (, ,) (NP (NNP Florida)))
+sid=2 spanning 31 until 32 headed by 31 parsed as (NP (NNP Florida))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP US) (NNP Olympic) (NNP Committee))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ its) (NN choice))
+sid=3 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (JJ late) (CD 2002))
+sid=3 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (NNP International) (NNP Olympic) (NNP Committee))
+sid=3 spanning 18 until 23 headed by 20 parsed as (NP (NP (DT the) (NN host) (NN city)) (PP (IN in) (NP (CD 2005))))
+sid=3 spanning 22 until 23 headed by 22 parsed as (NP (CD 2005))
+(end predicted mentions)
+---------gold clusters--------
+4 3 | { 'the summer games' 'the summer games' }
+1 2 0 | { 'it' 'The city that staged the summer games in 1932 and 1984' 'The city of Los Angeles' }
+6 5 | { 'its' 'The US Olympic Committee' }
+(end gold clusters)

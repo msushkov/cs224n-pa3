@@ -1,0 +1,66 @@
+---------gloss--------
+(0) A Pentagon official says [1m[36m{Defense Secretary William Cohen}[0m may ask for a broader review of [3m[32m{the `` USS Cole '' suicide bombing}[0m . 
+(1) Specifically , [1m[36m{he}[0m wants to know if other officers in the chain of command above [1m[35m{the ship 's}[0m captain should be held accountable for security lapses . 
+(2) [3m[33m{A Navy inquiry under way}[0m is looking at [1m[35m{the ship 's}[0m self - protection plan . 
+(3) According to `` the Washington Post , '' the officer in charge of [3m[33m{the inquiry}[0m says no one should be punished for security lapses . 
+(4) [3m[31m{17 sailors}[0m lost [3m[31m{their}[0m lives in [3m[32m{the attack}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0166); part 000
+sentences:
+AaDTOPER0PentagonPentagonNNPORGPER0officialofficialNNOPER0sayssayVBZOPER0DefenseDefenseNNPORGPER0SecretarySecretaryNNPOPER0WilliamWilliamNNPPERSONPER0CohenCohenNNPPERSONPER0maymayMDOPER0askaskVBOPER0forforINOPER0aaDTOPER0broaderbroaderJJROPER0reviewreviewNNOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0suicidesuicideNNOPER0bombingbombingNNOPER0...OPER0(ROOT (S (NP (DT A) (NNP Pentagon) (NN official)) (VP (VBZ says) (SBAR (S (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen)) (VP (MD may) (VP (VB ask) (PP (IN for) (NP (NP (NP (DT a) (JJR broader) (NN review)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))) (NP (NN suicide) (NN bombing))))))))) (. .)))
+SpecificallyspecificallyRBOPER0,,,OPER0hehePRPOPER0wantswantVBZOPER0totoTOOPER0knowknowVBOPER0ififINOPER0otherotherJJOPER0officersofficerNNSOPER0ininINOPER0thetheDTOPER0chainchainNNOPER0ofofINOPER0commandcommandNNOPER0aboveaboveINOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0captaincaptainNNOPER0shouldshouldMDOPER0bebeVBOPER0heldholdVBNOPER0accountableaccountableJJOPER0forforINOPER0securitysecurityNNOPER0lapseslapseNNSOPER0...OPER0(ROOT (S (ADVP (RB Specifically)) (, ,) (NP (PRP he)) (VP (VBZ wants) (S (VP (TO to) (VP (VB know) (SBAR (IN if) (S (NP (NP (JJ other) (NNS officers)) (PP (IN in) (NP (NP (DT the) (NN chain)) (PP (IN of) (NP (NN command))) (PP (IN above) (NP (NP (DT the) (NN ship) (POS 's)) (NN captain)))))) (VP (MD should) (VP (VB be) (VP (VBN held) (S (ADJP (JJ accountable) (PP (IN for) (NP (NN security) (NNS lapses)))))))))))))) (. .)))
+AaDTOPER0NavyNavyNNPORGPER0inquiryinquiryNNOPER0underunderINOPER0waywayNNOPER0isbeVBZOPER0lookinglookVBGOPER0atatINOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0selfselfNNOPER0--HYPHOPER0protectionprotectionNNOPER0planplanNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (NNP Navy) (NN inquiry)) (PP (IN under) (NP (NN way)))) (VP (VBZ is) (VP (VBG looking) (PP (IN at) (NP (NP (DT the) (NN ship) (POS 's)) (NML (NN self) (HYPH -) (NN protection)) (NN plan))))) (. .)))
+AccordingaccordVBGOPER0totoINOPER0``````ORGthetheDTORGPER2WashingtonWashingtonNNPORGPER2PostPostNNPORGPER2,,,OPER2''''''OPER0thetheDTOPER0officerofficerNNOPER0ininINOPER0chargechargeNNOPER0ofofINOPER0thetheDTOPER0inquiryinquiryNNOPER0sayssayVBZOPER0nonoDTOPER0oneonePRPOPER0shouldshouldMDOPER0bebeVBOPER0punishedpunishVBNOPER0forforINOPER0securitysecurityNNOPER0lapseslapseNNSOPER0...OPER0(ROOT (S (PP (VBG According) (PP (IN to) (NP (`` ``) (DT the) (NNP Washington) (NNP Post)))) (, ,) ('' '') (NP (NP (DT the) (NN officer)) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (NN inquiry)))))) (VP (VBZ says) (SBAR (S (NP (DT no) (PRP one)) (VP (MD should) (VP (VB be) (VP (VBN punished) (PP (IN for) (NP (NN security) (NNS lapses))))))))) (. .)))
+1717CDCARDINALPER0sailorssailorNNSOPER0lostloseVBDOPER0theirtheyPRP$OPER0liveslifeNNSOPER0ininINOPER0thetheDTOPER0attackattackNNOPER0...OPER0(ROOT (S (NP (CD 17) (NNS sailors)) (VP (VBD lost) (NP (PRP$ their) (NNS lives)) (PP (IN in) (NP (DT the) (NN attack)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 8 headed by 7 parsed as (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen))
+sid=0 spanning 15 until 20 headed by 18 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 15 until 22 headed by 21 parsed as (NP (NN suicide) (NN bombing))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=1 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=2 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT A) (NNP Navy) (NN inquiry)) (PP (IN under) (NP (NN way))))
+sid=2 spanning 8 until 11 headed by 9 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN inquiry))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (CD 17) (NNS sailors))
+sid=4 spanning 3 until 4 headed by 3 parsed as their
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN attack))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Pentagon) (NN official))
+sid=0 spanning 1 until 2 headed by 1 parsed as Pentagon
+sid=0 spanning 4 until 8 headed by 7 parsed as (NP (NML (NNP Defense) (NNP Secretary)) (NNP William) (NNP Cohen))
+sid=0 spanning 4 until 5 headed by 4 parsed as Defense
+sid=0 spanning 11 until 22 headed by 13 parsed as (NP (NP (NP (DT a) (JJR broader) (NN review)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))) (NP (NN suicide) (NN bombing)))
+sid=0 spanning 15 until 20 headed by 18 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (NN suicide) (NN bombing))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=1 spanning 7 until 19 headed by 8 parsed as (NP (NP (JJ other) (NNS officers)) (PP (IN in) (NP (NP (DT the) (NN chain)) (PP (IN of) (NP (NN command))) (PP (IN above) (NP (NP (DT the) (NN ship) (POS 's)) (NN captain))))))
+sid=1 spanning 10 until 19 headed by 11 parsed as (NP (NP (DT the) (NN chain)) (PP (IN of) (NP (NN command))) (PP (IN above) (NP (NP (DT the) (NN ship) (POS 's)) (NN captain))))
+sid=1 spanning 15 until 19 headed by 18 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NN captain))
+sid=1 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (NN security) (NNS lapses))
+sid=2 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT A) (NNP Navy) (NN inquiry)) (PP (IN under) (NP (NN way))))
+sid=2 spanning 1 until 2 headed by 1 parsed as Navy
+sid=2 spanning 8 until 15 headed by 14 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NML (NN self) (HYPH -) (NN protection)) (NN plan))
+sid=2 spanning 8 until 11 headed by 9 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=3 spanning 2 until 6 headed by 5 parsed as (NP (`` ``) (DT the) (NNP Washington) (NNP Post))
+sid=3 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT the) (NN officer)) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (NN inquiry))))))
+sid=3 spanning 11 until 15 headed by 11 parsed as (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (NN inquiry))))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN inquiry))
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (DT no) (PRP one))
+sid=3 spanning 22 until 24 headed by 23 parsed as (NP (NN security) (NNS lapses))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (CD 17) (NNS sailors))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ their) (NNS lives))
+sid=4 spanning 3 until 4 headed by 3 parsed as (PRP$ their)
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN attack))
+(end predicted mentions)
+---------gold clusters--------
+4 1 6 | { 'the ship 's' 'the `` USS Cole ''' 'the ship 's' }
+0 3 | { 'Defense Secretary William Cohen' 'he' }
+9 8 | { 'their' '17 sailors' }
+10 2 | { 'the attack' 'the `` USS Cole '' suicide bombing' }
+5 7 | { 'A Navy inquiry under way' 'the inquiry' }
+(end gold clusters)

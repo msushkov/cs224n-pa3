@@ -1,0 +1,44 @@
+---------gloss--------
+(0) And investigators in Taiwan raise more questions about the disintegration and crash of [32m{a China Airlines jet}[0m last May . 
+(1) All 225 people aboard were killed . 
+(2) A probe has determined [32m{the plane}[0m had [31m{metal fatigue cracks}[0m and metal corrosion . 
+(3) Investigators say [31m{the cracks}[0m may have been the result of a runway accident 20 years earlier . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0378); part 000
+sentences:
+AndandCCOPER0investigatorsinvestigatorNNSOPER0ininINOPER0TaiwanTaiwanNNPOPER0raiseraiseVBPOPER0moremoreJJROPER0questionsquestionNNSOPER0aboutaboutINOPER0thetheDTOPER0disintegrationdisintegrationNNOPER0andandCCOPER0crashcrashNNOPER0ofofINOPER0aaDTOPER0ChinaChinaNNPORGPER0AirlinesAirlinesNNPORGPER0jetjetNNOPER0lastlastJJDATEPER0MayMayNNPDATEPER0...OPER0(ROOT (S (CC And) (NP (NP (NNS investigators)) (PP (IN in) (NP (NNP Taiwan)))) (VP (VBP raise) (NP (NP (JJR more) (NNS questions)) (PP (IN about) (NP (NP (DT the) (NN disintegration) (CC and) (NN crash)) (PP (IN of) (NP (DT a) (NML (NNP China) (NNP Airlines)) (NN jet)))))) (NP (JJ last) (NNP May))) (. .)))
+AllallDTOPER0225225CDCARDINALPER0peoplepeopleNNSOPER0aboardaboardRBOPER0werebeVBDOPER0killedkillVBNOPER0...OPER0(ROOT (S (NP (NP (DT All) (CD 225) (NNS people)) (ADVP (RB aboard))) (VP (VBD were) (VP (VBN killed))) (. .)))
+AaDTOPER0probeprobeNNOPER0hashaveVBZOPER0determineddetermineVBNOPER0thetheDTOPER0planeplaneNNOPER0hadhaveVBDOPER0metalmetalNNOPER0fatiguefatigueNNOPER0crackscrackNNSOPER0andandCCOPER0metalmetalNNOPER0corrosioncorrosionNNOPER0...OPER0(ROOT (S (NP (DT A) (NN probe)) (VP (VBZ has) (VP (VBN determined) (SBAR (S (NP (DT the) (NN plane)) (VP (VBD had) (NP (NP (NN metal) (NN fatigue) (NNS cracks)) (CC and) (NP (NN metal) (NN corrosion)))))))) (. .)))
+InvestigatorsinvestigatorNNSOPER0saysayVBPOPER0thetheDTOPER0crackscrackNNSOPER0maymayMDOPER0havehaveVBOPER0beenbeVBNOPER0thetheDTOPER0resultresultNNOPER0ofofINOPER0aaDTOPER0runwayrunwayNNOPER0accidentaccidentNNOPER02020CDDATEPER0yearsyearNNSDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (NNS Investigators)) (VP (VBP say) (SBAR (S (NP (DT the) (NNS cracks)) (VP (MD may) (VP (VB have) (VP (VBN been) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (DT a) (NN runway) (NN accident)) (ADVP (NP (CD 20) (NNS years)) (RBR earlier))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT a) (NML (NNP China) (NNP Airlines)) (NN jet))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN plane))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (NP (NN metal) (NN fatigue) (NNS cracks)) (CC and) (NP (NN metal) (NN corrosion)))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS cracks))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 1 parsed as (NP (NP (NNS investigators)) (PP (IN in) (NP (NNP Taiwan))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Taiwan))
+sid=0 spanning 5 until 17 headed by 6 parsed as (NP (NP (JJR more) (NNS questions)) (PP (IN about) (NP (NP (DT the) (NN disintegration) (CC and) (NN crash)) (PP (IN of) (NP (DT a) (NML (NNP China) (NNP Airlines)) (NN jet))))))
+sid=0 spanning 8 until 17 headed by 9 parsed as (NP (NP (DT the) (NN disintegration) (CC and) (NN crash)) (PP (IN of) (NP (DT a) (NML (NNP China) (NNP Airlines)) (NN jet))))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT a) (NML (NNP China) (NNP Airlines)) (NN jet))
+sid=0 spanning 14 until 16 headed by 15 parsed as Airlines
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (JJ last) (NNP May))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT A) (NN probe))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN plane))
+sid=2 spanning 7 until 13 headed by 9 parsed as (NP (NP (NN metal) (NN fatigue) (NNS cracks)) (CC and) (NP (NN metal) (NN corrosion)))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (NN metal) (NN fatigue) (NNS cracks))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NN metal) (NN corrosion))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Investigators))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS cracks))
+sid=3 spanning 7 until 16 headed by 8 parsed as (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (DT a) (NN runway) (NN accident)) (ADVP (NP (CD 20) (NNS years)) (RBR earlier)))))
+sid=3 spanning 10 until 16 headed by 12 parsed as (NP (NP (DT a) (NN runway) (NN accident)) (ADVP (NP (CD 20) (NNS years)) (RBR earlier)))
+sid=3 spanning 13 until 16 headed by 15 parsed as earlier
+(end predicted mentions)
+---------gold clusters--------
+2 3 | { 'metal fatigue cracks' 'the cracks' }
+1 0 | { 'the plane' 'a China Airlines jet' }
+(end gold clusters)

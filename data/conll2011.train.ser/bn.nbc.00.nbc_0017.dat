@@ -1,0 +1,56 @@
+---------gloss--------
+(0) From the [3m[34m{Middle East}[0m tonight there 's word from Yemen that security has been [3m[35m{beefed}[0m up around the hotel where Americans investigating [3m[33m{the attack on the `` USS Cole ''}[0m are staying because of a truck bomb threat . 
+(1) [3m[35m{This}[0m as the Pentagon said [3m[36m{today}[0m that the military is reviewing force protection measures worldwide in the wake of [3m[33m{that incident involving the `` Cole}[0m . '' 
+(2) A spokesman said [3m[36m{today}[0m that security for U.S. troops is a concern not just in [3m[34m{the Middle East}[0m but everywhere , including here in the United States . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0017); part 000
+sentences:
+FromfromINOPER0thetheDTOPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0tonighttonightNNOPER0therethereEXOPER0'sbeVBZOPER0wordwordNNOPER0fromfromINOPER0YemenYemenNNPGPEPER0thatthatINOPER0securitysecurityNNOPER0hashaveVBZOPER0beenbeVBNOPER0beefedbeefVBDOPER0upupRPOPER0aroundaroundINOPER0thetheDTOPER0hotelhotelNNOPER0wherewhereWRBOPER0AmericansAmericansNNPSOPER0investigatinginvestigateVBGOPER0thetheDTOPER0attackattackNNOPER0ononINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0arebeVBPOPER0stayingstayVBGOPER0becausebecauseINOPER0ofofINOPER0aaDTOPER0trucktruckNNOPER0bombbombNNOPER0threatthreatNNOPER0...OPER0(ROOT (S (PP (IN From) (NP (DT the) (NML (NNP Middle) (NNP East)) (NN tonight))) (NP (EX there)) (VP (VBZ 's) (NP (NP (NN word)) (PP (IN from) (NP (NNP Yemen))) (SBAR (IN that) (S (NP (NN security)) (VP (VBZ has) (VP (VBN been) (VP (VBD beefed) (PRT (RP up)) (PP (IN around) (NP (NP (DT the) (NN hotel)) (SBAR (WHADVP (WRB where)) (S (NP (NP (NNPS Americans)) (VP (VBG investigating) (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))))) (VP (VBP are) (VP (VBG staying) (PP (IN because) (IN of) (NP (DT a) (NN truck) (NN bomb) (NN threat)))))))))))))))) (. .)))
+ThisthisDTOPER0asasINOPER0thetheDTOPER0PentagonPentagonNNPORGPER0saidsayVBDOPER0todaytodayNNDATEPER0thatthatINOPER0thetheDTOPER0militarymilitaryNNOPER0isbeVBZOPER0reviewingreviewVBGOPER0forceforceNNOPER0protectionprotectionNNOPER0measuresmeasureNNSOPER0worldwideworldwideRBOPER0ininINOPER0thetheDTOPER0wakewakeNNOPER0ofofINOPER0thatthatDTOPER0incidentincidentNNOPER0involvinginvolveVBGOPER0thetheDTOPER0``````OColeColeNNPPERSONPER2...OPER2''''''OPER0(ROOT (FRAG (NP (DT This)) (SBAR (IN as) (S (NP (DT the) (NNP Pentagon)) (VP (VBD said) (NP (NN today)) (SBAR (IN that) (S (NP (DT the) (NN military)) (VP (VBZ is) (VP (VBG reviewing) (NP (NN force) (NN protection) (NNS measures)) (ADVP (RB worldwide)) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (NP (DT that) (NN incident)) (VP (VBG involving) (NP (DT the) (`` ``) (NNP Cole)))))))))))))) (. .) ('' '')))
+AaDTOPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0todaytodayNNDATEPER0thatthatINOPER0securitysecurityNNOPER0forforINOPER0U.S.U.S.NNPGPEPER0troopstroopsNNSOPER0isbeVBZOPER0aaDTOPER0concernconcernNNOPER0notnotRBOPER0justjustRBOPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0butbutCCOPER0everywhereeverywhereRBOPER0,,,OPER0includingincludeVBGOPER0herehereRBOPER0ininINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (NP (DT A) (NN spokesman)) (VP (VBD said) (NP (NN today)) (SBAR (IN that) (S (NP (NP (NN security)) (PP (IN for) (NP (NNP U.S.) (NNS troops)))) (VP (VBZ is) (NP (DT a) (NN concern)) (PP (CONJP (RB not) (RB just)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))) (CC but) (ADVP (RB everywhere))) (, ,) (S (VP (VBG including) (ADVP (RB here) (PP (IN in) (NP (DT the) (NNP United) (NNP States)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 4 headed by 3 parsed as East
+sid=0 spanning 14 until 15 headed by 14 parsed as beefed
+sid=0 spanning 22 until 30 headed by 23 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 25 until 30 headed by 28 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NN today))
+sid=1 spanning 19 until 25 headed by 20 parsed as (NP (NP (DT that) (NN incident)) (VP (VBG involving) (NP (DT the) (`` ``) (NNP Cole))))
+sid=1 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (`` ``) (NNP Cole))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NN today))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP Middle) (NNP East))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 5 headed by 4 parsed as (NP (DT the) (NML (NNP Middle) (NNP East)) (NN tonight))
+sid=0 spanning 2 until 4 headed by 3 parsed as East
+sid=0 spanning 7 until 38 headed by 7 parsed as (NP (NP (NN word)) (PP (IN from) (NP (NNP Yemen))) (SBAR (IN that) (S (NP (NN security)) (VP (VBZ has) (VP (VBN been) (VP (VBD beefed) (PRT (RP up)) (PP (IN around) (NP (NP (DT the) (NN hotel)) (SBAR (WHADVP (WRB where)) (S (NP (NP (NNPS Americans)) (VP (VBG investigating) (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))))) (VP (VBP are) (VP (VBG staying) (PP (IN because) (IN of) (NP (DT a) (NN truck) (NN bomb) (NN threat)))))))))))))))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Yemen))
+sid=0 spanning 17 until 38 headed by 18 parsed as (NP (NP (DT the) (NN hotel)) (SBAR (WHADVP (WRB where)) (S (NP (NP (NNPS Americans)) (VP (VBG investigating) (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))))) (VP (VBP are) (VP (VBG staying) (PP (IN because) (IN of) (NP (DT a) (NN truck) (NN bomb) (NN threat))))))))
+sid=0 spanning 20 until 30 headed by 20 parsed as (NP (NP (NNPS Americans)) (VP (VBG investigating) (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))))
+sid=0 spanning 22 until 30 headed by 23 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 25 until 30 headed by 28 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 34 until 38 headed by 37 parsed as (NP (DT a) (NN truck) (NN bomb) (NN threat))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Pentagon))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN military))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (NN force) (NN protection) (NNS measures))
+sid=1 spanning 16 until 25 headed by 17 parsed as (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (NP (DT that) (NN incident)) (VP (VBG involving) (NP (DT the) (`` ``) (NNP Cole))))))
+sid=1 spanning 19 until 25 headed by 20 parsed as (NP (NP (DT that) (NN incident)) (VP (VBG involving) (NP (DT the) (`` ``) (NNP Cole))))
+sid=1 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (`` ``) (NNP Cole))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT A) (NN spokesman))
+sid=2 spanning 5 until 9 headed by 5 parsed as (NP (NP (NN security)) (PP (IN for) (NP (NNP U.S.) (NNS troops))))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NNP U.S.) (NNS troops))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT a) (NN concern))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=2 spanning 24 until 27 headed by 26 parsed as (NP (DT the) (NNP United) (NNP States))
+(end predicted mentions)
+---------gold clusters--------
+3 7 | { 'the `` USS Cole ''' 'the `` Cole' }
+2 6 | { 'the attack on the `` USS Cole ''' 'that incident involving the `` Cole' }
+9 0 | { 'the Middle East' 'Middle East' }
+4 1 | { 'This' 'beefed' }
+8 5 | { 'today' 'today' }
+(end gold clusters)

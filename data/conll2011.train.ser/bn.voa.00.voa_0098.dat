@@ -1,0 +1,51 @@
+---------gloss--------
+(0) Israeli troops killed [31m{four Palestinians}[0m Tuesday as Israeli forces blockaded Palestinian towns and villages in reprisal for the killing of four Israelis . 
+(1) Two of [31m{the Palestinians '}[0m deaths were in the Gaza Strip , the third was in the West Bank town of Ramallah . 
+(2) Late Tuesday , [4m[36m{Israeli Prime Minister Ehud Barak}[0m met with UN Secretary General Kofi Annan in London during a stopover at Heathrow airport on [4m[36m{his}[0m way home from a visit in the United States . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0098); part 000
+sentences:
+IsraeliisraeliJJOPER0troopstroopsNNSOPER0killedkillVBDOPER0fourfourCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0TuesdayTuesdayNNPDATEPER0asasINOPER0IsraeliisraeliJJOPER0forcesforceNNSOPER0blockadedblockadeVBDOPER0PalestinianpalestinianJJOPER0townstownNNSOPER0andandCCOPER0villagesvillageNNSOPER0ininINOPER0reprisalreprisalNNOPER0forforINOPER0thetheDTOPER0killingkillingNNOPER0ofofINOPER0fourfourCDCARDINALPER0IsraelisIsraelisNNPSOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS troops)) (VP (VBD killed) (NP (CD four) (NNPS Palestinians)) (NP (NNP Tuesday)) (SBAR (IN as) (S (NP (JJ Israeli) (NNS forces)) (VP (VBD blockaded) (NP (NP (JJ Palestinian) (NNS towns) (CC and) (NNS villages)) (PP (IN in) (NP (NN reprisal)))) (PP (IN for) (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD four) (NNPS Israelis))))))))) (. .)))
+TwotwoCDCARDINALPER0ofofINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0''POSOPER0deathsdeathNNSOPER0werebeVBDOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0,,,OPER0thetheDTOPER0thirdthirdNNORDINALPER0wasbeVBDOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0towntownNNOPER0ofofINOPER0RamallahRamallahNNPGPEPER0...OPER0(ROOT (S (S (NP (NP (CD Two)) (PP (IN of) (NP (NP (DT the) (NNPS Palestinians) (POS ')) (NNS deaths)))) (VP (VBD were) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))) (, ,) (S (NP (DT the) (NN third)) (VP (VBD was) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Ramallah))))))) (. .)))
+LatelateJJOPER0TuesdayTuesdayNNPDATEPER0,,,OPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0metmeetVBDOPER0withwithINOPER0UNUNNNPORGPER0SecretarySecretaryNNPOPER0GeneralGeneralNNPOPER0KofiKofiNNPPERSONPER0AnnanAnnanNNPPERSONPER0ininINOPER0LondonLondonNNPGPEPER0duringduringINOPER0aaDTOPER0stopoverstopoverNNOPER0atatINOPER0HeathrowHeathrowNNPFACPER0airportairportNNPOPER0ononINOPER0hishePRP$OPER0waywayNNOPER0homehomeRBOPER0fromfromINOPER0aaDTOPER0visitvisitNNOPER0ininINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (NP (JJ Late) (NNP Tuesday)) (, ,) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD met) (PP (IN with) (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))) (PP (IN in) (NP (NNP London))) (PP (IN during) (NP (NP (DT a) (NN stopover)) (PP (IN at) (NP (NNP Heathrow) (NNP airport))))) (PP (IN on) (NP (NP (PRP$ his) (NN way)) (ADVP (RB home) (PP (IN from) (NP (NP (DT a) (NN visit)) (PP (IN in) (NP (DT the) (NNP United) (NNP States))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (CD four) (NNPS Palestinians))
+sid=1 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NNPS Palestinians) (POS '))
+sid=2 spanning 3 until 8 headed by 7 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=2 spanning 24 until 25 headed by 24 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS troops))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (CD four) (NNPS Palestinians))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Tuesday))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (JJ Israeli) (NNS forces))
+sid=0 spanning 10 until 16 headed by 11 parsed as (NP (NP (JJ Palestinian) (NNS towns) (CC and) (NNS villages)) (PP (IN in) (NP (NN reprisal))))
+sid=0 spanning 17 until 22 headed by 18 parsed as (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD four) (NNPS Israelis))))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (CD four) (NNPS Israelis))
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (CD Two)) (PP (IN of) (NP (NP (DT the) (NNPS Palestinians) (POS ')) (NNS deaths))))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN third))
+sid=1 spanning 16 until 22 headed by 19 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Ramallah))))
+sid=1 spanning 17 until 19 headed by 18 parsed as Bank
+sid=1 spanning 21 until 22 headed by 21 parsed as (NP (NNP Ramallah))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (JJ Late) (NNP Tuesday))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (JJ Late) (NNP Tuesday))
+sid=2 spanning 3 until 8 headed by 7 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=2 spanning 10 until 15 headed by 14 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=2 spanning 10 until 11 headed by 10 parsed as UN
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NNP London))
+sid=2 spanning 18 until 23 headed by 19 parsed as (NP (NP (DT a) (NN stopover)) (PP (IN at) (NP (NNP Heathrow) (NNP airport))))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (NNP Heathrow) (NNP airport))
+sid=2 spanning 21 until 22 headed by 21 parsed as Heathrow
+sid=2 spanning 24 until 34 headed by 25 parsed as (NP (NP (PRP$ his) (NN way)) (ADVP (RB home) (PP (IN from) (NP (NP (DT a) (NN visit)) (PP (IN in) (NP (DT the) (NNP United) (NNP States)))))))
+sid=2 spanning 24 until 25 headed by 24 parsed as (PRP$ his)
+sid=2 spanning 28 until 34 headed by 29 parsed as (NP (NP (DT a) (NN visit)) (PP (IN in) (NP (DT the) (NNP United) (NNP States))))
+sid=2 spanning 31 until 34 headed by 33 parsed as (NP (DT the) (NNP United) (NNP States))
+(end predicted mentions)
+---------gold clusters--------
+2 3 | { 'Israeli Prime Minister Ehud Barak' 'his' }
+1 0 | { 'the Palestinians '' 'four Palestinians' }
+(end gold clusters)

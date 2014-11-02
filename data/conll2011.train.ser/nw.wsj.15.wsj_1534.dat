@@ -1,0 +1,74 @@
+---------gloss--------
+(0) [3m[31m{Lep Group PLC}[0m of Britain , which holds a 62.42 % stake in [1m[36m{Profit Systems Inc.}[0m , said [3m[31m{it}[0m is considering courses of action that could result in [3m[31m{its}[0m having `` active control '' of [1m[36m{the company}[0m . 
+(1) In [3m[32m{a filing with the Securities and Exchange Commission}[0m , [3m[31m{Lep Group}[0m said a possible course of action may include acquiring some or all of [1m[36m{the Profit Systems}[0m shares [3m[31m{it}[0m does n't already own . 
+(2) [3m[31m{It}[0m noted , however , that [3m[31m{it}[0m has n't determined any specific terms of a possible transaction . 
+(3) [3m[31m{Lep Group}[0m and affiliates currently control 3,513,072 [1m[36m{Profit Systems}[0m common shares , or 62.42 % , [3m[32m{the filing}[0m said . 
+(4) [1m[36m{Profit Systems , Valley Stream , N.Y. ,}[0m is an air freight forwarding concern . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1534); part 000
+sentences:
+LepLepNNPORGPER0GroupGroupNNPORGPER0PLCPLCNNPORGPER0ofofINOPER0BritainBritainNNPGPEPER0,,,OPER0whichwhichWDTOPER0holdsholdVBZOPER0aaDTOPER062.4262.42CDPERCENTPER0%%NNPERCENTPER0stakestakeNNOPER0ininINOPER0ProfitProfitNNPORGPER0SystemsSystemsNNPSORGPER0Inc.Inc.NNPORGPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0isbeVBZOPER0consideringconsiderVBGOPER0coursescourseNNSOPER0ofofINOPER0actionactionNNOPER0thatthatWDTOPER0couldcouldMDOPER0resultresultVBOPER0ininINOPER0itsitsPRP$OPER0havinghaveVBGOPER0``````OactiveactiveJJOPER1controlcontrolNNOPER1''''''OPER0ofofINOPER0thetheDTOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Lep) (NNP Group) (NNP PLC)) (PP (IN of) (NP (NNP Britain)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ holds) (NP (NP (DT a) (NML (CD 62.42) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Profit) (NNPS Systems) (NNP Inc.))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG considering) (NP (NP (NNS courses)) (PP (IN of) (NP (NP (NN action)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB result) (PP (IN in) (S (NP (PRP$ its)) (VP (VBG having) (NP (NP (`` ``) (JJ active) (NN control) ('' '')) (PP (IN of) (NP (DT the) (NN company))))))))))))))))))) (. .)))
+IninINOPER0aaDTOPER0filingfilingNNOPER0withwithINOPER0thetheDTORGPER0SecuritiesSecuritiesNNPSORGPER0andandCCORGPER0ExchangeExchangeNNPORGPER0CommissionCommissionNNPORGPER0,,,OPER0LepLepNNPORGPER0GroupGroupNNPORGPER0saidsayVBDOPER0aaDTOPER0possiblepossibleJJOPER0coursecourseNNOPER0ofofINOPER0actionactionNNOPER0maymayMDOPER0includeincludeVBOPER0acquiringacquireVBGOPER0somesomeDTOPER0ororCCOPER0allallDTOPER0ofofINOPER0thetheDTORGPER0ProfitProfitNNPORGPER0SystemsSystemsNNPORGPER0sharesshareNNSOPER0ititPRPOPER0doesdoVBZOPER0n'tnotRBOPER0alreadyalreadyRBOPER0ownownJJOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT a) (NN filing)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))))) (, ,) (NP (NNP Lep) (NNP Group)) (VP (VBD said) (SBAR (S (NP (NP (DT a) (JJ possible) (NN course)) (PP (IN of) (NP (NN action)))) (VP (MD may) (VP (VB include) (S (VP (VBG acquiring) (NP (NP (QP (DT some) (CC or) (DT all))) (PP (IN of) (NP (NP (NP (DT the) (NNP Profit) (NNP Systems)) (NNS shares)) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB already)) (VP (JJ own))))))))))))))) (. .)))
+ItitPRPOPER0notednoteVBDOPER0,,,OPER0howeverhoweverRBOPER0,,,OPER0thatthatINOPER0ititPRPOPER0hashaveVBZOPER0n'tnotRBOPER0determineddetermineVBNOPER0anyanyDTOPER0specificspecificJJOPER0termstermNNSOPER0ofofINOPER0aaDTOPER0possiblepossibleJJOPER0transactiontransactionNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD noted) (, ,) (ADVP (RB however)) (, ,) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ has) (RB n't) (VP (VBN determined) (NP (NP (DT any) (JJ specific) (NNS terms)) (PP (IN of) (NP (DT a) (JJ possible) (NN transaction))))))))) (. .)))
+LepLepNNPORGPER0GroupGroupNNPORGPER0andandCCOPER0affiliatesaffiliateNNSOPER0currentlycurrentlyRBOPER0controlcontrolVBPOPER03,513,0723,513,072CDCARDINALPER0ProfitProfitNNPORGPER0SystemsSystemsNNPORGPER0commoncommonJJOPER0sharesshareNNSOPER0,,,OPER0ororCCOPER062.4262.42CDPERCENTPER0%%NNPERCENTPER0,,,OPER0thetheDTOPER0filingfilingNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NNP Lep) (NNP Group)) (CC and) (NP (NNS affiliates))) (ADVP (RB currently)) (VP (VBP control) (NP (NP (CD 3,513,072) (NML (NNP Profit) (NNP Systems)) (JJ common) (NNS shares)) (, ,) (CC or) (NP (CD 62.42) (NN %))))) (, ,) (NP (DT the) (NN filing)) (VP (VBD said)) (. .)))
+ProfitProfitNNPORGPER0SystemsSystemsNNPORGPER0,,,OPER0ValleyValleyNNPGPEPER0StreamstreamNNGPEPER0,,,OPER0N.Y.N.Y.NNPGPEPER0,,,OPER0isbeVBZOPER0anaDTOPER0airairNNOPER0freightfreightNNOPER0forwardingforwardVBGOPER0concernconcernNNOPER0...OPER0(ROOT (S (NP (NP (NML (NML (NNP Profit) (NNP Systems)) (, ,) (NML (NNP Valley))) (NN Stream)) (, ,) (NP (NNP N.Y.)) (, ,)) (VP (VBZ is) (NP (DT an) (ADJP (NML (NN air) (NN freight)) (VBG forwarding)) (NN concern))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NP (NNP Lep) (NNP Group) (NNP PLC)) (PP (IN of) (NP (NNP Britain)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ holds) (NP (NP (DT a) (NML (CD 62.42) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Profit) (NNPS Systems) (NNP Inc.))))))) (, ,))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (NNP Profit) (NNPS Systems) (NNP Inc.))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=0 spanning 28 until 29 headed by 28 parsed as (NP (PRP$ its))
+sid=0 spanning 35 until 37 headed by 36 parsed as (NP (DT the) (NN company))
+sid=1 spanning 1 until 9 headed by 2 parsed as (NP (NP (DT a) (NN filing)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NNP Lep) (NNP Group))
+sid=1 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (NNP Profit) (NNP Systems))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (PRP it))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Lep) (NNP Group)) (CC and) (NP (NNS affiliates)))
+sid=3 spanning 7 until 9 headed by 8 parsed as Systems
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN filing))
+sid=4 spanning 0 until 8 headed by 4 parsed as (NP (NP (NML (NML (NNP Profit) (NNP Systems)) (, ,) (NML (NNP Valley))) (NN Stream)) (, ,) (NP (NNP N.Y.)) (, ,))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 17 headed by 2 parsed as (NP (NP (NP (NNP Lep) (NNP Group) (NNP PLC)) (PP (IN of) (NP (NNP Britain)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ holds) (NP (NP (DT a) (NML (CD 62.42) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Profit) (NNPS Systems) (NNP Inc.))))))) (, ,))
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (NNP Lep) (NNP Group) (NNP PLC)) (PP (IN of) (NP (NNP Britain))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Britain))
+sid=0 spanning 8 until 16 headed by 11 parsed as (NP (NP (DT a) (NML (CD 62.42) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Profit) (NNPS Systems) (NNP Inc.))))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (NNP Profit) (NNPS Systems) (NNP Inc.))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=0 spanning 21 until 37 headed by 21 parsed as (NP (NP (NNS courses)) (PP (IN of) (NP (NP (NN action)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB result) (PP (IN in) (S (NP (PRP$ its)) (VP (VBG having) (NP (NP (`` ``) (JJ active) (NN control) ('' '')) (PP (IN of) (NP (DT the) (NN company))))))))))))))
+sid=0 spanning 23 until 37 headed by 23 parsed as (NP (NP (NN action)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB result) (PP (IN in) (S (NP (PRP$ its)) (VP (VBG having) (NP (NP (`` ``) (JJ active) (NN control) ('' '')) (PP (IN of) (NP (DT the) (NN company))))))))))))
+sid=0 spanning 28 until 29 headed by 28 parsed as (NP (PRP$ its))
+sid=0 spanning 30 until 37 headed by 32 parsed as (NP (NP (`` ``) (JJ active) (NN control) ('' '')) (PP (IN of) (NP (DT the) (NN company))))
+sid=0 spanning 35 until 37 headed by 36 parsed as (NP (DT the) (NN company))
+sid=1 spanning 1 until 9 headed by 2 parsed as (NP (NP (DT a) (NN filing)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))))
+sid=1 spanning 4 until 9 headed by 8 parsed as (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NNP Lep) (NNP Group))
+sid=1 spanning 13 until 18 headed by 15 parsed as (NP (NP (DT a) (JJ possible) (NN course)) (PP (IN of) (NP (NN action))))
+sid=1 spanning 21 until 34 headed by 21 parsed as (NP (NP (QP (DT some) (CC or) (DT all))) (PP (IN of) (NP (NP (NP (DT the) (NNP Profit) (NNP Systems)) (NNS shares)) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB already)) (VP (JJ own))))))))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (PRP it))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=2 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (JJ possible) (NN transaction))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Lep) (NNP Group)) (CC and) (NP (NNS affiliates)))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (NP (NNP Lep) (NNP Group)) (CC and) (NP (NNS affiliates)))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNS affiliates))
+sid=3 spanning 6 until 15 headed by 10 parsed as (NP (NP (CD 3,513,072) (NML (NNP Profit) (NNP Systems)) (JJ common) (NNS shares)) (, ,) (CC or) (NP (CD 62.42) (NN %)))
+sid=3 spanning 6 until 11 headed by 10 parsed as (NP (CD 3,513,072) (NML (NNP Profit) (NNP Systems)) (JJ common) (NNS shares))
+sid=3 spanning 7 until 9 headed by 8 parsed as Systems
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN filing))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (NP (NML (NML (NNP Profit) (NNP Systems)) (, ,) (NML (NNP Valley))) (NN Stream)) (, ,) (NP (NNP N.Y.)) (, ,))
+sid=4 spanning 0 until 8 headed by 4 parsed as (NP (NP (NML (NML (NNP Profit) (NNP Systems)) (, ,) (NML (NNP Valley))) (NN Stream)) (, ,) (NP (NNP N.Y.)) (, ,))
+sid=4 spanning 0 until 5 headed by 4 parsed as (NP (NML (NML (NNP Profit) (NNP Systems)) (, ,) (NML (NNP Valley))) (NN Stream))
+sid=4 spanning 0 until 2 headed by 1 parsed as Systems
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP N.Y.))
+sid=4 spanning 9 until 14 headed by 13 parsed as (NP (DT an) (ADJP (NML (NN air) (NN freight)) (VBG forwarding)) (NN concern))
+(end predicted mentions)
+---------gold clusters--------
+1 14 7 4 12 | { 'Profit Systems Inc.' 'Profit Systems , Valley Stream , N.Y. ,' 'the Profit Systems' 'the company' 'Profit Systems' }
+11 8 2 9 0 3 6 10 | { 'Lep Group' 'it' 'it' 'It' 'Lep Group PLC' 'its' 'Lep Group' 'it' }
+13 5 | { 'the filing' 'a filing with the Securities and Exchange Commission' }
+(end gold clusters)

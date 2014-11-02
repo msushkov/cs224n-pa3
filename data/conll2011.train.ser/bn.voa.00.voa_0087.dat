@@ -1,0 +1,56 @@
+---------gloss--------
+(0) I 'm David Coler , VOA News . 
+(1) [3m[35m{The White House}[0m announced , [4m[31m{Sunday}[0m that President Bill Clinton will [3m[36m{meet}[0m Palestinian leader Yasser Arafat on Thursday and Israeli Prime Minister Ehud Barak next Sunday . 
+(2) A [3m[35m{White House}[0m spokesman said [3m[36m{the talks}[0m will be held separately and [3m[36m{their}[0m goal is the ending of violence in the Middle East . 
+(3) Sporadic clashes continued [4m[31m{Sunday}[0m in the Gaza Strip and two Palestinians were killed by Israeli forces . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0087); part 000
+sentences:
+IIPRPOPER0'mbeVBPOPER0DavidDavidNNPPERSONPER0ColerColerNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP David) (NNP Coler)) (, ,) (NP (NNP VOA) (NNP News)))) (. .)))
+ThetheDTORGPER0WhiteWhiteNNPORGPER0HouseHouseNNPORGPER0announcedannounceVBDOPER0,,,OPER0SundaySundayNNPDATEPER0thatthatINOPER0PresidentPresidentNNPOPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0willwillMDOPER0meetmeetVBOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0ononINOPER0ThursdayThursdayNNPDATEPER0andandCCOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0nextnextJJOPER0SundaySundayNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP White) (NNP House)) (VP (VBD announced) (NP (, ,) (NNP Sunday)) (SBAR (IN that) (S (NP (NNP President) (NNP Bill) (NNP Clinton)) (VP (MD will) (VP (VB meet) (NP (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (PP (IN on) (NP (NNP Thursday)))) (CC and) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))) (NP (JJ next) (NNP Sunday))))))) (. .)))
+AaDTOPER0WhiteWhiteNNPORGPER0HouseHouseNNPORGPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0thetheDTOPER0talkstalkNNSOPER0willwillMDOPER0bebeVBOPER0heldholdVBNOPER0separatelyseparatelyRBOPER0andandCCOPER0theirtheyPRP$OPER0goalgoalNNOPER0isbeVBZOPER0thetheDTOPER0endingendingNNOPER0ofofINOPER0violenceviolenceNNOPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0...OPER0(ROOT (S (NP (DT A) (NML (NNP White) (NNP House)) (NN spokesman)) (VP (VBD said) (SBAR (S (S (NP (DT the) (NNS talks)) (VP (MD will) (VP (VB be) (VP (VBN held) (ADVP (RB separately)))))) (CC and) (S (NP (PRP$ their) (NN goal)) (VP (VBZ is) (NP (NP (DT the) (NN ending)) (PP (IN of) (NP (NP (NN violence)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))))))))) (. .)))
+SporadicsporadicJJOPER0clashesclashNNSOPER0continuedcontinueVBDOPER0SundaySundayNNPDATEPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0andandCCOPER0twotwoCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0killedkillVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0forcesforceNNSOPER0...OPER0(ROOT (S (S (NP (JJ Sporadic) (NNS clashes)) (VP (VBD continued) (NP (NNP Sunday)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))) (CC and) (S (NP (CD two) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (JJ Israeli) (NNS forces)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP White) (NNP House))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (, ,) (NNP Sunday))
+sid=1 spanning 11 until 12 headed by 11 parsed as meet
+sid=2 spanning 1 until 3 headed by 2 parsed as House
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS talks))
+sid=2 spanning 12 until 13 headed by 12 parsed as their
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Sunday))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP David) (NNP Coler)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP David) (NNP Coler)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP White) (NNP House))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (, ,) (NNP Sunday))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (NNP President) (NNP Bill) (NNP Clinton))
+sid=1 spanning 12 until 24 headed by 15 parsed as (NP (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (PP (IN on) (NP (NNP Thursday)))) (CC and) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))
+sid=1 spanning 12 until 18 headed by 15 parsed as (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (PP (IN on) (NP (NNP Thursday))))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Thursday))
+sid=1 spanning 19 until 24 headed by 23 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (JJ next) (NNP Sunday))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (NML (NNP White) (NNP House)) (NN spokesman))
+sid=2 spanning 1 until 3 headed by 2 parsed as House
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS talks))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (PRP$ their) (NN goal))
+sid=2 spanning 12 until 13 headed by 12 parsed as (PRP$ their)
+sid=2 spanning 15 until 23 headed by 16 parsed as (NP (NP (DT the) (NN ending)) (PP (IN of) (NP (NP (NN violence)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))))
+sid=2 spanning 18 until 23 headed by 18 parsed as (NP (NP (NN violence)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))
+sid=2 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Sporadic) (NNS clashes))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Sunday))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (CD two) (NNPS Palestinians))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (JJ Israeli) (NNS forces))
+(end predicted mentions)
+---------gold clusters--------
+3 0 | { 'White House' 'The White House' }
+4 2 5 | { 'the talks' 'meet' 'their' }
+6 1 | { 'Sunday' 'Sunday' }
+(end gold clusters)

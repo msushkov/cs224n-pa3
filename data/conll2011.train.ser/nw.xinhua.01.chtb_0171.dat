@@ -1,0 +1,64 @@
+---------gloss--------
+(0) [35m{The eighth Andes parliament meeting}[0m was convened in Lima on the 13th . 
+(1) [1m[31m{Alberto Fujimori , president of Peru}[0m presided over [34m{the opening ceremony}[0m . 
+(2) [1m[31m{President Fujimori}[0m appealed at [34m{the opening ceremony}[0m for [36m{the countries of the Andes}[0m to strive together to achieve local integration , in order to shake off the state of being undeveloped . 
+(3) [1m[31m{He}[0m also appealed for [36m{all countries}[0m to unite as one to deal with foreign debt , drug trafficking and violent activities . 
+(4) [35m{This session of the Andes parliament meeting}[0m will last until the 16th . 
+(end gloss)
+---------document--------
+(nw/xinhua/01/chtb_0171); part 000
+sentences:
+ThetheDTOPER0eightheighthJJORDINALPER0AndesAndesNNPGPEPER0parliamentparliamentNNOPER0meetingmeetingNNOPER0wasbeVBDOPER0convenedconveneVBNOPER0ininINOPER0LimaLimaNNPGPEPER0ononINOPER0thetheDTDATEPER013th13thNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NML (JJ eighth) (NNP Andes) (NN parliament)) (NN meeting)) (VP (VBD was) (VP (VBN convened) (PP (IN in) (NP (NNP Lima))) (PP (IN on) (NP (DT the) (NN 13th))))) (. .)))
+AlbertoAlbertoNNPPERSONPER0FujimoriFujimoriNNPPERSONPER0,,,OPER0presidentpresidentNNOPER0ofofINOPER0PeruPeruNNPGPEPER0presidedpresideVBDOPER0overoverINOPER0thetheDTOPER0openingopeningNNOPER0ceremonyceremonyNNOPER0...OPER0(ROOT (S (NP (NP (NNP Alberto) (NNP Fujimori)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Peru))))) (VP (VBD presided) (PP (IN over) (NP (DT the) (NN opening) (NN ceremony)))) (. .)))
+PresidentPresidentNNPOPER0FujimoriFujimoriNNPPERSONPER0appealedappealVBDOPER0atatINOPER0thetheDTOPER0openingopeningNNOPER0ceremonyceremonyNNOPER0forforINOPER0thetheDTOPER0countriescountryNNSOPER0ofofINOPER0thetheDTOPER0AndesAndesNNPORGPER0totoTOOPER0strivestriveVBOPER0togethertogetherRBOPER0totoTOOPER0achieveachieveVBOPER0locallocalJJOPER0integrationintegrationNNOPER0,,,OPER0ininINOPER0orderorderNNOPER0totoTOOPER0shakeshakeVBOPER0offoffRPOPER0thetheDTOPER0statestateNNOPER0ofofINOPER0beingbeVBGOPER0undevelopedundevelopedJJOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Fujimori)) (VP (VBD appealed) (PP (IN at) (NP (NP (DT the) (NN opening) (NN ceremony)) (PP (IN for) (NP (NP (DT the) (NNS countries)) (PP (IN of) (NP (DT the) (NNP Andes))))))) (S (VP (TO to) (VP (VB strive) (ADVP (RB together)) (S (VP (TO to) (VP (VB achieve) (NP (JJ local) (NN integration))))) (, ,) (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB shake) (PRT (RP off)) (NP (NP (DT the) (NN state)) (PP (IN of) (S (VP (VBG being) (ADJP (JJ undeveloped))))))))))))))) (. .)))
+HehePRPOPER0alsoalsoRBOPER0appealedappealVBDOPER0forforINOPER0allallDTOPER0countriescountryNNSOPER0totoTOOPER0uniteuniteVBOPER0asasINOPER0oneoneCDOPER0totoTOOPER0dealdealVBOPER0withwithINOPER0foreignforeignJJOPER0debtdebtNNOPER0,,,OPER0drugdrugNNOPER0traffickingtraffickingNNOPER0andandCCOPER0violentviolentJJOPER0activitiesactivityNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD appealed) (PP (IN for) (NP (DT all) (NNS countries))) (S (VP (TO to) (VP (VB unite) (PP (IN as) (NP (CD one))) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (NP (JJ foreign) (NN debt)) (, ,) (NP (NN drug) (NN trafficking)) (CC and) (NP (JJ violent) (NNS activities))))))))))) (. .)))
+ThisthisDTOPER0sessionsessionNNOPER0ofofINOPER0thetheDTOPER0AndesAndesNNPORGPER0parliamentparliamentNNOPER0meetingmeetingNNOPER0willwillMDOPER0lastlastVBOPER0untiluntilINOPER0thetheDTDATEPER016th16thNNDATEPER0...OPER0(ROOT (S (NP (NP (DT This) (NN session)) (PP (IN of) (NP (DT the) (NML (NNP Andes) (NN parliament)) (NN meeting)))) (VP (MD will) (VP (VB last) (PP (IN until) (NP (DT the) (NN 16th))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (JJ eighth) (NNP Andes) (NN parliament)) (NN meeting))
+sid=0 spanning 2 until 3 headed by 2 parsed as Andes
+sid=1 spanning 0 until 6 headed by 1 parsed as (NP (NP (NNP Alberto) (NNP Fujimori)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Peru)))))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN opening) (NN ceremony))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Fujimori))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (NP (DT the) (NN opening) (NN ceremony)) (PP (IN for) (NP (NP (DT the) (NNS countries)) (PP (IN of) (NP (DT the) (NNP Andes))))))
+sid=2 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT the) (NNS countries)) (PP (IN of) (NP (DT the) (NNP Andes))))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNP Andes))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT all) (NNS countries))
+sid=4 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT This) (NN session)) (PP (IN of) (NP (DT the) (NML (NNP Andes) (NN parliament)) (NN meeting))))
+sid=4 spanning 4 until 5 headed by 4 parsed as Andes
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (JJ eighth) (NNP Andes) (NN parliament)) (NN meeting))
+sid=0 spanning 1 until 2 headed by 1 parsed as eighth
+sid=0 spanning 2 until 3 headed by 2 parsed as Andes
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Lima))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN 13th))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Alberto) (NNP Fujimori)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Peru)))))
+sid=1 spanning 0 until 6 headed by 1 parsed as (NP (NP (NNP Alberto) (NNP Fujimori)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Peru)))))
+sid=1 spanning 3 until 6 headed by 3 parsed as (NP (NP (NN president)) (PP (IN of) (NP (NNP Peru))))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP Peru))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN opening) (NN ceremony))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Fujimori))
+sid=2 spanning 4 until 13 headed by 6 parsed as (NP (NP (DT the) (NN opening) (NN ceremony)) (PP (IN for) (NP (NP (DT the) (NNS countries)) (PP (IN of) (NP (DT the) (NNP Andes))))))
+sid=2 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT the) (NNS countries)) (PP (IN of) (NP (DT the) (NNP Andes))))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNP Andes))
+sid=2 spanning 22 until 31 headed by 22 parsed as (NP (NN order) (S (VP (TO to) (VP (VB shake) (PRT (RP off)) (NP (NP (DT the) (NN state)) (PP (IN of) (S (VP (VBG being) (ADJP (JJ undeveloped))))))))))
+sid=2 spanning 26 until 31 headed by 27 parsed as (NP (NP (DT the) (NN state)) (PP (IN of) (S (VP (VBG being) (ADJP (JJ undeveloped))))))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (CD one))
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (NN drug) (NN trafficking))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (JJ violent) (NNS activities))
+sid=4 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT This) (NN session)) (PP (IN of) (NP (DT the) (NML (NNP Andes) (NN parliament)) (NN meeting))))
+sid=4 spanning 3 until 7 headed by 6 parsed as (NP (DT the) (NML (NNP Andes) (NN parliament)) (NN meeting))
+sid=4 spanning 4 until 5 headed by 4 parsed as Andes
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN 16th))
+(end predicted mentions)
+---------gold clusters--------
+1 11 7 | { 'Andes' 'Andes' 'the Andes' }
+5 3 | { 'the opening ceremony' 'the opening ceremony' }
+10 0 | { 'This session of the Andes parliament meeting' 'The eighth Andes parliament meeting' }
+9 6 | { 'all countries' 'the countries of the Andes' }
+8 4 2 | { 'He' 'President Fujimori' 'Alberto Fujimori , president of Peru' }
+(end gold clusters)

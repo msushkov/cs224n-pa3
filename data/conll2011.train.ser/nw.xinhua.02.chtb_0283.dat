@@ -1,0 +1,74 @@
+---------gloss--------
+(0) Xinhua News Agency , [35m{Shanghai}[0m , August 31st , by reporter Jierong Zhou 
+(1) [34m{Malaysian vice-prime minister Anwar}[0m ended a visit to China this afternoon , and left [35m{Shanghai}[0m for Tokyo . 
+(2) [34m{Anwar}[0m arrived in [35m{Shanghai}[0m from Nanjing yesterday afternoon . 
+(3) Last night , the vice-mayor of [35m{Shanghai}[0m , Qizheng Zhao represented mayor Ju Huang by meeting and inviting [34m{Anwar}[0m and [34m{his}[0m delegation to a banquet . 
+(4) This morning , [34m{Anwar}[0m [33m{attended}[0m the foundation laying ceremony of the Minhang China - Malaysia joint - venture enterprise , and after [33m{that}[0m toured Pudong 's Jingqiao export processing district . 
+(5) -LRB- End -RRB- 
+(end gloss)
+---------document--------
+(nw/xinhua/02/chtb_0283); part 000
+sentences:
+XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0,,,OPER0ShanghaiShanghaiNNPGPEPER0,,,OPER0AugustAugustNNPDATEPER031st31stNNDATEPER0,,,OPER0bybyINOPER0reporterreporterNNOPER0JierongJierongNNPPERSONPER0ZhouZhouNNPPERSONPER0(ROOT (FRAG (NP (NNP Xinhua) (NNP News) (NNP Agency)) (, ,) (NP (NNP Shanghai)) (, ,) (NP (NNP August) (NN 31st)) (, ,) (PP (IN by) (NP (NN reporter) (NNP Jierong) (NNP Zhou)))))
+MalaysianmalaysianJJOPER0vice-primevice-primeJJOPER0ministerministerNNOPER0AnwarAnwarNNPPERSONPER0endedendVBDOPER0aaDTOPER0visitvisitNNOPER0totoINOPER0ChinaChinaNNPORGPER0thisthisDTTIMEPER0afternoonafternoonNNTIMEPER0,,,OPER0andandCCOPER0leftleaveVBDOPER0ShanghaiShanghaiNNPGPEPER0forforINOPER0TokyoTokyoNNPGPEPER0...OPER0(ROOT (S (NP (NML (JJ Malaysian) (JJ vice-prime) (NN minister)) (NNP Anwar)) (VP (VP (VBD ended) (NP (NP (DT a) (NN visit)) (PP (IN to) (NP (NNP China)))) (NP (DT this) (NN afternoon))) (, ,) (CC and) (VP (VBD left) (NP (NNP Shanghai)) (PP (IN for) (NP (NNP Tokyo))))) (. .)))
+AnwarAnwarNNPPERSONPER0arrivedarriveVBDOPER0ininINOPER0ShanghaiShanghaiNNPGPEPER0fromfromINOPER0NanjingNanjingNNPGPEPER0yesterdayyesterdayNNDATEPER0afternoonafternoonNNTIMEPER0...OPER0(ROOT (S (NP (NNP Anwar)) (VP (VBD arrived) (PP (IN in) (NP (NNP Shanghai))) (PP (IN from) (NP (NNP Nanjing))) (NP (NN yesterday) (NN afternoon))) (. .)))
+LastlastJJOPER0nightnightNNOPER0,,,OPER0thetheDTOPER0vice-mayorvice-mayorNNOPER0ofofINOPER0ShanghaiShanghaiNNPGPEPER0,,,OPER0QizhengQizhengNNPPERSONPER0ZhaoZhaoNNPPERSONPER0representedrepresentVBDOPER0mayormayorNNPOPER0JuJuNNPPERSONPER0HuangHuangNNPPERSONPER0bybyINOPER0meetingmeetVBGOPER0andandCCOPER0invitinginviteVBGOPER0AnwarAnwarNNPPERSONPER0andandCCOPER0hishePRP$OPER0delegationdelegationNNOPER0totoINOPER0aaDTOPER0banquetbanquetNNOPER0...OPER0(ROOT (S (NP (JJ Last) (NN night)) (, ,) (NP (NP (DT the) (NN vice-mayor)) (PP (IN of) (NP (NNP Shanghai)))) (, ,) (NP (NNP Qizheng) (NNP Zhao)) (VP (VBD represented) (NP (NNP mayor) (NNP Ju) (NNP Huang)) (PP (IN by) (S (VP (VBG meeting) (CC and) (VBG inviting) (NP (NP (NNP Anwar)) (CC and) (NP (PRP$ his) (NN delegation))) (PP (IN to) (NP (DT a) (NN banquet))))))) (. .)))
+ThisthisDTTIMEPER0morningmorningNNTIMEPER0,,,OPER0AnwarAnwarNNPPERSONPER0attendedattendVBDOPER0thetheDTOPER0foundationfoundationNNOPER0layinglayVBGOPER0ceremonyceremonyNNOPER0ofofINOPER0thetheDTOPER0MinhangMinhangNNPGPEPER0ChinaChinaNNPGPEPER0--HYPHOPER0MalaysiaMalaysiaNNPGPEPER0jointjointJJOPER0--HYPHOPER0ventureventureNNOPER0enterpriseenterpriseNNOPER0,,,OPER0andandCCOPER0afterafterINOPER0thatthatDTOPER0touredtourVBDOPER0PudongPudongNNPORGPER0's'sPOSOPER0JingqiaoJingqiaoNNPOPER0exportexportNNOPER0processingprocessingNNOPER0districtdistrictNNOPER0...OPER0(ROOT (S (NP (DT This) (NN morning)) (, ,) (NP (NNP Anwar)) (VP (VP (VBD attended) (NP (NP (DT the) (NN foundation) (VBG laying) (NN ceremony)) (PP (IN of) (NP (DT the) (NML (NML (NNP Minhang) (NNP China)) (HYPH -) (NP (NNP Malaysia))) (NML (JJ joint) (HYPH -) (NN venture)) (NN enterprise))))) (, ,) (CC and) (PP (IN after) (NP (DT that))) (VP (VBD toured) (NP (NP (NNP Pudong) (POS 's)) (NNP Jingqiao) (NML (NN export) (NN processing)) (NN district)))) (. .)))
+-LRB--lrb--LRB-OPER0EndendNNORGPER0-RRB--rrb--RRB-OPER0(ROOT (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Shanghai))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Malaysian) (JJ vice-prime) (NN minister)) (NNP Anwar))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Shanghai))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Anwar))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Shanghai))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Shanghai))
+sid=3 spanning 18 until 19 headed by 18 parsed as (NP (NP (NNP Anwar)) (CC and) (NP (PRP$ his) (NN delegation)))
+sid=3 spanning 20 until 21 headed by 20 parsed as his
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Anwar))
+sid=4 spanning 4 until 5 headed by 4 parsed as attended
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (DT that))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Xinhua) (NNP News) (NNP Agency))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Shanghai))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP August) (NN 31st))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (NN reporter) (NNP Jierong) (NNP Zhou))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Malaysian) (JJ vice-prime) (NN minister)) (NNP Anwar))
+sid=1 spanning 5 until 9 headed by 6 parsed as (NP (NP (DT a) (NN visit)) (PP (IN to) (NP (NNP China))))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP China))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT this) (NN afternoon))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Shanghai))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Tokyo))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Anwar))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Shanghai))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Nanjing))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NN yesterday) (NN afternoon))
+sid=2 spanning 6 until 7 headed by 6 parsed as yesterday
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Last) (NN night))
+sid=3 spanning 3 until 7 headed by 4 parsed as (NP (NP (DT the) (NN vice-mayor)) (PP (IN of) (NP (NNP Shanghai))))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Shanghai))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (NNP Qizheng) (NNP Zhao))
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (NNP mayor) (NNP Ju) (NNP Huang))
+sid=3 spanning 18 until 19 headed by 18 parsed as (NP (NP (NNP Anwar)) (CC and) (NP (PRP$ his) (NN delegation)))
+sid=3 spanning 18 until 22 headed by 18 parsed as (NP (NP (NNP Anwar)) (CC and) (NP (PRP$ his) (NN delegation)))
+sid=3 spanning 20 until 22 headed by 21 parsed as (NP (PRP$ his) (NN delegation))
+sid=3 spanning 20 until 21 headed by 20 parsed as (PRP$ his)
+sid=3 spanning 23 until 25 headed by 24 parsed as (NP (DT a) (NN banquet))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT This) (NN morning))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Anwar))
+sid=4 spanning 5 until 19 headed by 8 parsed as (NP (NP (DT the) (NN foundation) (VBG laying) (NN ceremony)) (PP (IN of) (NP (DT the) (NML (NML (NNP Minhang) (NNP China)) (HYPH -) (NP (NNP Malaysia))) (NML (JJ joint) (HYPH -) (NN venture)) (NN enterprise))))
+sid=4 spanning 10 until 19 headed by 18 parsed as (NP (DT the) (NML (NML (NNP Minhang) (NNP China)) (HYPH -) (NP (NNP Malaysia))) (NML (JJ joint) (HYPH -) (NN venture)) (NN enterprise))
+sid=4 spanning 11 until 13 headed by 12 parsed as China
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Malaysia))
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (DT that))
+sid=4 spanning 24 until 30 headed by 29 parsed as (NP (NP (NNP Pudong) (POS 's)) (NNP Jingqiao) (NML (NN export) (NN processing)) (NN district))
+sid=4 spanning 24 until 26 headed by 24 parsed as (NP (NNP Pudong) (POS 's))
+sid=5 spanning 0 until 3 headed by 1 parsed as (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-))
+(end predicted mentions)
+---------gold clusters--------
+10 9 | { 'that' 'attended' }
+8 3 1 6 7 | { 'Anwar' 'Anwar' 'Malaysian vice-prime minister Anwar' 'Anwar' 'his' }
+2 5 0 4 | { 'Shanghai' 'Shanghai' 'Shanghai' 'Shanghai' }
+(end gold clusters)

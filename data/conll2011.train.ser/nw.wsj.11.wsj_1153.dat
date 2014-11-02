@@ -1,0 +1,58 @@
+---------gloss--------
+(0) [3m[34m{Boeing Co.}[0m said Trans European Airways ordered [3m[35m{a dozen 737 jetliners valued at a total of about $ 450 million}[0m . 
+(1) [3m[35m{The 300 and 400 series aircraft}[0m will be powered by engines jointly produced by General Electric Co. and Snecma of France . 
+(2) Currently , [3m[34m{Boeing}[0m has a backlog of about $ 80 billion , but production has been slowed by a strike of [3m[36m{55,000 machinists}[0m , which entered its 22nd day today . 
+(3) Last week , a mediator failed to rekindle talks between [3m[34m{the company}[0m and [3m[36m{the strikers , who have rejected a pay raise offer of 10 % over three years}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1153); part 000
+sentences:
+BoeingBoeingNNPORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0TransTransNNPORGPER0EuropeanEuropeanNNPORGPER0AirwaysAirwaysNNPORGPER0orderedorderVBDOPER0aaDTOPER0dozendozenNNCARDINALPER0737737CDPRODUCTPER0jetlinersjetlinerNNSOPER0valuedvalueVBNOPER0atatINOPER0aaDTOPER0totaltotalNNOPER0ofofINOPER0aboutaboutRBMONEYPER0$$$MONEYPER0450450CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NNP Boeing) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (NNP Trans) (NNP European) (NNP Airways)) (VP (VBD ordered) (NP (NP (QP (DT a) (NN dozen) (CD 737)) (NNS jetliners)) (VP (VBN valued) (PP (IN at) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 450) (CD million)))))))))))) (. .)))
+ThetheDTOPER0300300CDCARDINALPER0andandCCOPER0400400CDPRODUCTPER0seriesseriesNNPRODUCTPER0aircraftaircraftNNOPER0willwillMDOPER0bebeVBOPER0poweredpowerVBNOPER0bybyINOPER0enginesengineNNSOPER0jointlyjointlyRBOPER0producedproduceVBNOPER0bybyINOPER0GeneralGeneralNNPORGPER0ElectricElectricNNPORGPER0Co.Co.NNPORGPER0andandCCOPER0SnecmaSnecmaNNPORGPER0ofofINOPER0FranceFranceNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NML (NML (CD 300) (CC and) (CD 400)) (NN series)) (NN aircraft)) (VP (MD will) (VP (VB be) (VP (VBN powered) (PP (IN by) (NP (NP (NNS engines)) (VP (ADVP (RB jointly)) (VBN produced) (PP (IN by) (NP (NP (NNP General) (NNP Electric) (NNP Co.)) (CC and) (NP (NP (NNP Snecma)) (PP (IN of) (NP (NNP France)))))))))))) (. .)))
+CurrentlycurrentlyRBOPER0,,,OPER0BoeingBoeingNNPORGPER0hashaveVBZOPER0aaDTOPER0backlogbacklogNNOPER0ofofINOPER0aboutaboutRBMONEYPER0$$$MONEYPER08080CDMONEYPER0billionbillionCDMONEYPER0,,,OPER0butbutCCOPER0productionproductionNNOPER0hashaveVBZOPER0beenbeVBNOPER0slowedslowVBNOPER0bybyINOPER0aaDTOPER0strikestrikeNNOPER0ofofINOPER055,00055,000CDCARDINALPER0machinistsmachinistNNSOPER0,,,OPER0whichwhichWDTOPER0enteredenterVBDOPER0itsitsPRP$DATEPER022nd22ndJJDATEPER0daydayNNDATEPER0todaytodayNNDATEPER0...OPER0(ROOT (S (S (ADVP (RB Currently)) (, ,) (NP (NNP Boeing)) (VP (VBZ has) (NP (NP (DT a) (NN backlog)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 80) (CD billion))))))) (, ,) (CC but) (S (NP (NN production)) (VP (VBZ has) (VP (VBN been) (VP (VBN slowed) (PP (IN by) (NP (NP (DT a) (NN strike)) (PP (IN of) (NP (CD 55,000) (NNS machinists))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD entered) (NP (PRP$ its) (JJ 22nd) (NN day)) (NP (NN today))))))))) (. .)))
+LastlastJJDATEPER0weekweekNNDATEPER0,,,OPER0aaDTOPER0mediatormediatorNNOPER0failedfailVBDOPER0totoTOOPER0rekindlerekindleVBOPER0talkstalkNNSOPER0betweenbetweenINOPER0thetheDTOPER0companycompanyNNOPER0andandCCOPER0thetheDTOPER0strikersstrikerNNSOPER0,,,OPER0whowhoWPOPER0havehaveVBPOPER0rejectedrejectVBDOPER0aaDTOPER0paypayNNOPER0raiseraiseNNOPER0offerofferNNOPER0ofofINOPER01010CDPERCENTPER0%%NNPERCENTPER0overoverINOPER0threethreeCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (JJ Last) (NN week)) (, ,) (NP (DT a) (NN mediator)) (VP (VBD failed) (S (VP (TO to) (VP (VB rekindle) (NP (NP (NP (NNS talks)) (PP (IN between) (NP (DT the) (NN company)))) (CC and) (NP (NP (DT the) (NNS strikers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBD rejected) (NP (DT a) (NN pay) (NN raise)) (NP (NP (NN offer)) (PP (IN of) (NP (NP (CD 10) (NN %)) (PP (IN over) (NP (CD three) (NNS years)))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Boeing) (NNP Co.))
+sid=0 spanning 7 until 20 headed by 10 parsed as (NP (NP (QP (DT a) (NN dozen) (CD 737)) (NNS jetliners)) (VP (VBN valued) (PP (IN at) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 450) (CD million))))))))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (NML (CD 300) (CC and) (CD 400)) (NN series)) (NN aircraft))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP Boeing))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (CD 55,000) (NNS machinists))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN company))
+sid=3 spanning 13 until 29 headed by 14 parsed as (NP (NP (DT the) (NNS strikers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBD rejected) (NP (DT a) (NN pay) (NN raise)) (NP (NP (NN offer)) (PP (IN of) (NP (NP (CD 10) (NN %)) (PP (IN over) (NP (CD three) (NNS years)))))))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Boeing) (NNP Co.))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (NNP Trans) (NNP European) (NNP Airways))
+sid=0 spanning 7 until 20 headed by 10 parsed as (NP (NP (QP (DT a) (NN dozen) (CD 737)) (NNS jetliners)) (VP (VBN valued) (PP (IN at) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 450) (CD million))))))))
+sid=0 spanning 9 until 10 headed by 9 parsed as 737
+sid=0 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 450) (CD million)))))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (NML (CD 300) (CC and) (CD 400)) (NN series)) (NN aircraft))
+sid=1 spanning 3 until 5 headed by 4 parsed as series
+sid=1 spanning 10 until 21 headed by 10 parsed as (NP (NP (NNS engines)) (VP (ADVP (RB jointly)) (VBN produced) (PP (IN by) (NP (NP (NNP General) (NNP Electric) (NNP Co.)) (CC and) (NP (NP (NNP Snecma)) (PP (IN of) (NP (NNP France))))))))
+sid=1 spanning 14 until 17 headed by 16 parsed as (NP (NP (NNP General) (NNP Electric) (NNP Co.)) (CC and) (NP (NP (NNP Snecma)) (PP (IN of) (NP (NNP France)))))
+sid=1 spanning 14 until 21 headed by 16 parsed as (NP (NP (NNP General) (NNP Electric) (NNP Co.)) (CC and) (NP (NP (NNP Snecma)) (PP (IN of) (NP (NNP France)))))
+sid=1 spanning 18 until 21 headed by 18 parsed as (NP (NP (NNP Snecma)) (PP (IN of) (NP (NNP France))))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (NNP France))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP Boeing))
+sid=2 spanning 4 until 11 headed by 5 parsed as (NP (NP (DT a) (NN backlog)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 80) (CD billion)))))
+sid=2 spanning 18 until 23 headed by 19 parsed as (NP (NP (DT a) (NN strike)) (PP (IN of) (NP (CD 55,000) (NNS machinists))))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (CD 55,000) (NNS machinists))
+sid=2 spanning 26 until 30 headed by 29 parsed as (NP (NN today))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Last) (NN week))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN mediator))
+sid=3 spanning 8 until 29 headed by 8 parsed as (NP (NP (NP (NNS talks)) (PP (IN between) (NP (DT the) (NN company)))) (CC and) (NP (NP (DT the) (NNS strikers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBD rejected) (NP (DT a) (NN pay) (NN raise)) (NP (NP (NN offer)) (PP (IN of) (NP (NP (CD 10) (NN %)) (PP (IN over) (NP (CD three) (NNS years))))))))))))
+sid=3 spanning 8 until 12 headed by 8 parsed as (NP (NP (NNS talks)) (PP (IN between) (NP (DT the) (NN company))))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN company))
+sid=3 spanning 13 until 29 headed by 14 parsed as (NP (NP (DT the) (NNS strikers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBD rejected) (NP (DT a) (NN pay) (NN raise)) (NP (NP (NN offer)) (PP (IN of) (NP (NP (CD 10) (NN %)) (PP (IN over) (NP (CD three) (NNS years)))))))))))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNS strikers))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (DT a) (NN pay) (NN raise))
+sid=3 spanning 22 until 29 headed by 22 parsed as (NP (NP (NN offer)) (PP (IN of) (NP (NP (CD 10) (NN %)) (PP (IN over) (NP (CD three) (NNS years))))))
+sid=3 spanning 27 until 29 headed by 28 parsed as (NP (CD three) (NNS years))
+(end predicted mentions)
+---------gold clusters--------
+0 5 3 | { 'Boeing Co.' 'the company' 'Boeing' }
+2 1 | { 'The 300 and 400 series aircraft' 'a dozen 737 jetliners valued at a total of about $ 450 million' }
+6 4 | { 'the strikers , who have rejected a pay raise offer of 10 % over three years' '55,000 machinists' }
+(end gold clusters)

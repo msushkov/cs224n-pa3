@@ -1,0 +1,69 @@
+---------gloss--------
+(0) The violence did continue Friday in the West Bank . 
+(1) Two Palestinians were killed during a gun battle with Israeli troops . 
+(2) In Jerusalem , witnesses said Israeli police seized [1m[34m{two Arab teens throwing stones at the U.S. Consulate}[0m and hit [1m[34m{them}[0m while holding [1m[34m{them}[0m in a chokehold . 
+(3) Israeli tank crews also fired machine guns into a crowd during a clash with Palestinians in Ramallah . 
+(4) No casualties were reported . 
+(5) In Gaza , Palestinian police say demonstrators set fire to several buildings , including a liquor store , several bars and a hotel . 
+(6) Nearly 100 people have been killed in more than two weeks of clashes . 
+(7) Most of the victims are Palestinians . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0034); part 000
+sentences:
+ThetheDTOPER0violenceviolenceNNOPER0diddoVBDOPER0continuecontinueVBOPER0FridayFridayNNPDATEPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0...OPER0(ROOT (S (NP (DT The) (NN violence)) (VP (VBD did) (VP (VB continue) (NP (NP (NNP Friday)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank)))))) (. .)))
+TwotwoCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0killedkillVBNOPER0duringduringINOPER0aaDTOPER0gungunNNOPER0battlebattleNNOPER0withwithINOPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0...OPER0(ROOT (S (NP (CD Two) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed) (PP (IN during) (NP (NP (DT a) (NN gun) (NN battle)) (PP (IN with) (NP (JJ Israeli) (NNS troops))))))) (. .)))
+IninINOPER0JerusalemJerusalemNNPGPEPER0,,,OPER0witnesseswitnessNNSOPER0saidsayVBDOPER0IsraeliisraeliJJOPER0policepoliceNNSOPER0seizedseizeVBDOPER0twotwoCDCARDINALPER0ArabarabJJOPER0teensteensNNSOPER0throwingthrowVBGOPER0stonesstoneNNSOPER0atatINOPER0thetheDTORGPER0U.S.U.S.NNPORGPER0ConsulateConsulateNNPORGPER0andandCCOPER0hithitVBDOPER0themtheyPRPOPER0whilewhileINOPER0holdingholdVBGOPER0themtheyPRPOPER0ininINOPER0aaDTOPER0chokeholdchokeholdNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Jerusalem))) (, ,) (NP (NNS witnesses)) (VP (VBD said) (SBAR (S (NP (JJ Israeli) (NNS police)) (VP (VP (VBD seized) (NP (NP (CD two) (JJ Arab) (NNS teens)) (VP (VBG throwing) (NP (NNS stones)) (PP (IN at) (NP (DT the) (NNP U.S.) (NNP Consulate)))))) (CC and) (VP (VBD hit) (NP (PRP them)) (SBAR (IN while) (S (VP (VBG holding) (NP (PRP them)) (PP (IN in) (NP (DT a) (NN chokehold))))))))))) (. .)))
+IsraeliisraeliJJOPER0tanktankNNOPER0crewscrewNNSOPER0alsoalsoRBOPER0firedfireVBDOPER0machinemachineNNOPER0gunsgunNNSOPER0intointoINOPER0aaDTOPER0crowdcrowdNNOPER0duringduringINOPER0aaDTOPER0clashclashNNOPER0withwithINOPER0PalestiniansPalestiniansNNPSOPER0ininINOPER0RamallahRamallahNNPGPEPER0...OPER0(ROOT (S (NP (JJ Israeli) (NN tank) (NNS crews)) (ADVP (RB also)) (VP (VBD fired) (NP (NN machine) (NNS guns)) (PP (IN into) (NP (DT a) (NN crowd))) (PP (IN during) (NP (NP (DT a) (NN clash)) (PP (IN with) (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NNP Ramallah)))))))) (. .)))
+NonoDTOPER0casualtiescasualtyNNSOPER0werebeVBDOPER0reportedreportVBNOPER0...OPER0(ROOT (S (NP (DT No) (NNS casualties)) (VP (VBD were) (VP (VBN reported))) (. .)))
+IninINOPER0GazaGazaNNPGPEPER0,,,OPER0PalestinianpalestinianJJOPER0policepoliceNNSOPER0saysayVBPOPER0demonstratorsdemonstratorNNSOPER0setsetVBDOPER0firefireNNOPER0totoINOPER0severalseveralJJCARDINALPER0buildingsbuildingNNSOPER0,,,OPER0includingincludeVBGOPER0aaDTOPER0liquorliquorNNOPER0storestoreNNOPER0,,,OPER0severalseveralJJOPER0barsbarNNSOPER0andandCCOPER0aaDTOPER0hotelhotelNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Gaza))) (, ,) (NP (JJ Palestinian) (NNS police)) (VP (VBP say) (SBAR (S (NP (NNS demonstrators)) (VP (VBD set) (NP (NN fire)) (PP (IN to) (NP (NP (JJ several) (NNS buildings)) (, ,) (PP (VBG including) (NP (NP (DT a) (NN liquor) (NN store)) (, ,) (NP (JJ several) (NNS bars)) (CC and) (NP (DT a) (NN hotel)))))))))) (. .)))
+NearlynearlyRBCARDINALPER0100100CDCARDINALPER0peoplepeopleNNSOPER0havehaveVBPOPER0beenbeVBNOPER0killedkillVBNOPER0ininINOPER0moremoreJJRDATEPER0thanthanINDATEPER0twotwoCDDATEPER0weeksweekNNSDATEPER0ofofINOPER0clashesclashNNSOPER0...OPER0(ROOT (S (NP (QP (RB Nearly) (CD 100)) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN killed) (PP (IN in) (NP (NP (QP (XS (JJR more) (IN than)) (CD two)) (NNS weeks)) (PP (IN of) (NP (NNS clashes)))))))) (. .)))
+MostmostJJSOPER0ofofINOPER0thetheDTOPER0victimsvictimNNSOPER0arebeVBPOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NNS victims)))) (VP (VBP are) (NP (NNPS Palestinians))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=2 spanning 8 until 17 headed by 10 parsed as (NP (NP (CD two) (JJ Arab) (NNS teens)) (VP (VBG throwing) (NP (NNS stones)) (PP (IN at) (NP (DT the) (NNP U.S.) (NNP Consulate)))))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (PRP them))
+sid=2 spanning 22 until 23 headed by 22 parsed as (NP (PRP them))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN violence))
+sid=0 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNP Friday)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (CD Two) (NNPS Palestinians))
+sid=1 spanning 5 until 11 headed by 7 parsed as (NP (NP (DT a) (NN gun) (NN battle)) (PP (IN with) (NP (JJ Israeli) (NNS troops))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (JJ Israeli) (NNS troops))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (NNP Jerusalem))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNS witnesses))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (JJ Israeli) (NNS police))
+sid=2 spanning 8 until 17 headed by 10 parsed as (NP (NP (CD two) (JJ Arab) (NNS teens)) (VP (VBG throwing) (NP (NNS stones)) (PP (IN at) (NP (DT the) (NNP U.S.) (NNP Consulate)))))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNS stones))
+sid=2 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP U.S.) (NNP Consulate))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (PRP them))
+sid=2 spanning 22 until 23 headed by 22 parsed as (NP (PRP them))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (DT a) (NN chokehold))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (JJ Israeli) (NN tank) (NNS crews))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (NN machine) (NNS guns))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN crowd))
+sid=3 spanning 11 until 17 headed by 12 parsed as (NP (NP (DT a) (NN clash)) (PP (IN with) (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NNP Ramallah))))))
+sid=3 spanning 14 until 17 headed by 14 parsed as (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NNP Ramallah))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Ramallah))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT No) (NNS casualties))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (NNP Gaza))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (JJ Palestinian) (NNS police))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNS demonstrators))
+sid=5 spanning 10 until 23 headed by 11 parsed as (NP (NP (JJ several) (NNS buildings)) (, ,) (PP (VBG including) (NP (NP (DT a) (NN liquor) (NN store)) (, ,) (NP (JJ several) (NNS bars)) (CC and) (NP (DT a) (NN hotel)))))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (JJ several) (NNS buildings))
+sid=5 spanning 14 until 23 headed by 16 parsed as (NP (NP (DT a) (NN liquor) (NN store)) (, ,) (NP (JJ several) (NNS bars)) (CC and) (NP (DT a) (NN hotel)))
+sid=5 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (NN liquor) (NN store))
+sid=5 spanning 18 until 20 headed by 19 parsed as (NP (JJ several) (NNS bars))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (DT a) (NN hotel))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (QP (RB Nearly) (CD 100)) (NNS people))
+sid=6 spanning 7 until 13 headed by 10 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD two)) (NNS weeks)) (PP (IN of) (NP (NNS clashes))))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (NNS clashes))
+sid=7 spanning 0 until 4 headed by 0 parsed as (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NNS victims))))
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS victims))
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'them' 'two Arab teens throwing stones at the U.S. Consulate' 'them' }
+(end gold clusters)

@@ -1,0 +1,97 @@
+---------gloss--------
+(0) [1m[31m{The Better Business Bureau of San Diego}[0m and [31m{the state Attorney General 's}[0m office entered into [34m{a settlement stemming from an investigation of bureau - sponsored business directories published by an outside firm , Better Book Inc}[0m . 
+(1) [34m{The settlement}[0m stems from charges that [1m[33m{Better Book , now defunct ,}[0m made misrepresentations in selling advertising for the [1m[32m{directories}[0m and memberships in [1m[31m{the bureau}[0m from 1984 to 1986 . 
+(2) Without admitting any guilt , [1m[31m{the bureau}[0m agreed to [35m{several conditions}[0m if [1m[31m{it}[0m again contracts with an outside firm to publish [1m[31m{its}[0m directories . 
+(3) [35m{The conditions}[0m include not misrepresenting how many directories will be distributed , and agreeing to make refunds to directory advertisers if any misrepresentations are involved in the sale . 
+(4) [31m{The Attorney General 's}[0m investigation was sparked by [36m{lawsuits and charges by angry California businesspeople that they were swindled in a bureau - sponsored directory project contracted by Better Book}[0m . 
+(5) [36m{The uproar}[0m led to the closing of the Los Angeles Better Business Bureau in late 1987 . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1466); part 000
+sentences:
+ThetheDTORGPER0BetterBetterNNPORGPER0BusinessBusinessNNPORGPER0BureauBureauNNPORGPER0ofofINORGPER0SanSanNNPORGPER0DiegoDiegoNNPORGPER0andandCCOPER0thetheDTOPER0statestateNNOPER0AttorneyAttorneyNNPOPER0GeneralGeneralNNPOPER0's'sPOSOPER0officeofficeNNOPER0enteredenterVBDOPER0intointoINOPER0aaDTOPER0settlementsettlementNNOPER0stemmingstemVBGOPER0fromfromINOPER0anaDTOPER0investigationinvestigationNNOPER0ofofINOPER0bureaubureauNNOPER0--HYPHOPER0sponsoredsponsorVBNOPER0businessbusinessNNOPER0directoriesdirectoryNNSOPER0publishedpublishVBNOPER0bybyINOPER0anaDTOPER0outsideoutsideJJOPER0firmfirmNNOPER0,,,OPER0BetterBetterNNPORGPER0BookBookNNPORGPER0IncIncNNPORGPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NML (NNP Better) (NNP Business)) (NNP Bureau)) (PP (IN of) (NP (NNP San) (NNP Diego)))) (CC and) (NP (NP (DT the) (NN state) (NNP Attorney) (NNP General) (POS 's)) (NN office))) (VP (VBD entered) (PP (IN into) (NP (NP (DT a) (NN settlement)) (VP (VBG stemming) (PP (IN from) (NP (NP (DT an) (NN investigation)) (PP (IN of) (NP (NP (ADJP (NN bureau) (HYPH -) (VBN sponsored)) (NN business) (NNS directories)) (VP (VBN published) (PP (IN by) (NP (NP (DT an) (JJ outside) (NN firm)) (, ,) (NP (NNP Better) (NNP Book) (NNP Inc))))))))))))) (. .)))
+ThetheDTOPER0settlementsettlementNNOPER0stemsstemVBZOPER0fromfromINOPER0chargeschargeNNSOPER0thatthatINOPER0BetterBetterNNPORGPER0BookBookNNPORGPER0,,,OPER0nownowRBOPER0defunctdefunctJJOPER0,,,OPER0mademakeVBDOPER0misrepresentationsmisrepresentationNNSOPER0ininINOPER0sellingsellVBGOPER0advertisingadvertisingNNOPER0forforINOPER0thetheDTOPER0directoriesdirectoryNNSOPER0andandCCOPER0membershipsmembershipNNSOPER0ininINOPER0thetheDTOPER0bureaubureauNNOPER0fromfromINDATEPER019841984CDDATEPER0totoINDATEPER019861986CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NN settlement)) (VP (VBZ stems) (PP (IN from) (NP (NNS charges) (SBAR (IN that) (S (NP (NP (NNP Better) (NNP Book)) (, ,) (ADJP (RB now) (JJ defunct)) (, ,)) (VP (VBD made) (NP (NNS misrepresentations)) (PP (IN in) (S (VP (VBG selling) (NP (NN advertising)) (PP (IN for) (NP (NP (DT the) (NNS directories) (CC and) (NNS memberships)) (PP (IN in) (NP (NP (DT the) (NN bureau)) (PP (IN from) (NP (NP (CD 1984)) (PP (IN to) (NP (CD 1986)))))))))))))))))) (. .)))
+WithoutwithoutINOPER0admittingadmitVBGOPER0anyanyDTOPER0guiltguiltNNOPER0,,,OPER0thetheDTOPER0bureaubureauNNOPER0agreedagreeVBDOPER0totoINOPER0severalseveralJJOPER0conditionsconditionNNSOPER0ififINOPER0ititPRPOPER0againagainRBOPER0contractscontractVBZOPER0withwithINOPER0anaDTOPER0outsideoutsideJJOPER0firmfirmNNOPER0totoTOOPER0publishpublishVBOPER0itsitsPRP$OPER0directoriesdirectoryNNSOPER0...OPER0(ROOT (S (PP (IN Without) (S (VP (VBG admitting) (NP (DT any) (NN guilt))))) (, ,) (NP (DT the) (NN bureau)) (VP (VBD agreed) (PP (IN to) (NP (JJ several) (NNS conditions))) (SBAR (IN if) (S (NP (PRP it)) (ADVP (RB again)) (VP (VBZ contracts) (PP (IN with) (NP (DT an) (JJ outside) (NN firm))) (S (VP (TO to) (VP (VB publish) (NP (PRP$ its) (NNS directories))))))))) (. .)))
+ThetheDTOPER0conditionsconditionNNSOPER0includeincludeVBPOPER0notnotRBOPER0misrepresentingmisrepresentVBGOPER0howhowWRBOPER0manymanyJJOPER0directoriesdirectoryNNSOPER0willwillMDOPER0bebeVBOPER0distributeddistributeVBNOPER0,,,OPER0andandCCOPER0agreeingagreeVBGOPER0totoTOOPER0makemakeVBOPER0refundsrefundNNSOPER0totoINOPER0directorydirectoryNNOPER0advertisersadvertiserNNSOPER0ififINOPER0anyanyDTOPER0misrepresentationsmisrepresentationNNSOPER0arebeVBPOPER0involvedinvolvedJJOPER0ininINOPER0thetheDTOPER0salesaleNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS conditions)) (VP (VBP include) (S (S (RB not) (VP (VBG misrepresenting) (SBAR (WHADVP (WRB how)) (S (NP (JJ many) (NNS directories)) (VP (MD will) (VP (VB be) (VP (VBN distributed)))))))) (, ,) (CC and) (S (VP (VBG agreeing) (S (VP (TO to) (VP (VB make) (NP (NP (NNS refunds)) (PP (IN to) (NP (NN directory) (NNS advertisers)))) (SBAR (IN if) (S (NP (DT any) (NNS misrepresentations)) (VP (VBP are) (ADJP (JJ involved) (PP (IN in) (NP (DT the) (NN sale)))))))))))))) (. .)))
+ThetheDTOPER0AttorneyAttorneyNNPOPER0GeneralGeneralNNPOPER0's'sPOSOPER0investigationinvestigationNNOPER0wasbeVBDOPER0sparkedsparkVBNOPER0bybyINOPER0lawsuitslawsuitNNSOPER0andandCCOPER0chargeschargeNNSOPER0bybyINOPER0angryangryJJOPER0CaliforniaCaliforniaNNPGPEPER0businesspeoplebusinesspeopleNNSOPER0thatthatINOPER0theytheyPRPOPER0werebeVBDOPER0swindledswindleVBDOPER0ininINOPER0aaDTOPER0bureaubureauNNOPER0--HYPHOPER0sponsoredsponsorVBNOPER0directorydirectoryNNOPER0projectprojectNNOPER0contractedcontractVBNOPER0bybyINOPER0BetterBetterNNPORGPER0BookBookNNPORGPER0...OPER0(ROOT (S (NP (NP (DT The) (NML (NNP Attorney) (NNP General)) (POS 's)) (NN investigation)) (VP (VBD was) (VP (VBN sparked) (PP (IN by) (NP (NNS lawsuits) (CC and) (NNS charges))) (PP (IN by) (NP (JJ angry) (NNP California) (NNS businesspeople))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD were) (VP (VBD swindled) (PP (IN in) (NP (NP (DT a) (ADJP (NN bureau) (HYPH -) (VBN sponsored)) (NN directory) (NN project)) (VP (VBN contracted) (PP (IN by) (NP (NNP Better) (NNP Book)))))))))))) (. .)))
+ThetheDTOPER0uproaruproarNNOPER0ledleadVBDOPER0totoINOPER0thetheDTOPER0closingclosingNNOPER0ofofINOPER0thetheDTORGPER0LosLosNNPORGPER0AngelesAngelesNNPORGPER0BetterBetterNNPORGPER0BusinessBusinessNNPORGPER0BureauBureauNNPORGPER0ininINOPER0latelateJJDATEPER019871987CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NN uproar)) (VP (VBD led) (PP (IN to) (NP (NP (DT the) (NN closing)) (PP (IN of) (NP (DT the) (NML (NNP Los) (NNP Angeles)) (NML (NNP Better) (NNP Business)) (NNP Bureau))))) (PP (IN in) (NP (JJ late) (CD 1987)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 3 parsed as (NP (NP (NP (DT The) (NML (NNP Better) (NNP Business)) (NNP Bureau)) (PP (IN of) (NP (NNP San) (NNP Diego)))) (CC and) (NP (NP (DT the) (NN state) (NNP Attorney) (NNP General) (POS 's)) (NN office)))
+sid=0 spanning 8 until 13 headed by 11 parsed as (NP (DT the) (NN state) (NNP Attorney) (NNP General) (POS 's))
+sid=0 spanning 16 until 37 headed by 17 parsed as (NP (NP (DT a) (NN settlement)) (VP (VBG stemming) (PP (IN from) (NP (NP (DT an) (NN investigation)) (PP (IN of) (NP (NP (ADJP (NN bureau) (HYPH -) (VBN sponsored)) (NN business) (NNS directories)) (VP (VBN published) (PP (IN by) (NP (NP (DT an) (JJ outside) (NN firm)) (, ,) (NP (NNP Better) (NNP Book) (NNP Inc)))))))))))
+sid=0 spanning 20 until 37 headed by 21 parsed as (NP (NP (DT an) (NN investigation)) (PP (IN of) (NP (NP (ADJP (NN bureau) (HYPH -) (VBN sponsored)) (NN business) (NNS directories)) (VP (VBN published) (PP (IN by) (NP (NP (DT an) (JJ outside) (NN firm)) (, ,) (NP (NNP Better) (NNP Book) (NNP Inc))))))))
+sid=0 spanning 23 until 37 headed by 27 parsed as (NP (NP (ADJP (NN bureau) (HYPH -) (VBN sponsored)) (NN business) (NNS directories)) (VP (VBN published) (PP (IN by) (NP (NP (DT an) (JJ outside) (NN firm)) (, ,) (NP (NNP Better) (NNP Book) (NNP Inc))))))
+sid=0 spanning 30 until 37 headed by 32 parsed as (NP (NP (DT an) (JJ outside) (NN firm)) (, ,) (NP (NNP Better) (NNP Book) (NNP Inc)))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN settlement))
+sid=1 spanning 6 until 12 headed by 7 parsed as (NP (NP (NNP Better) (NNP Book)) (, ,) (ADJP (RB now) (JJ defunct)) (, ,))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NP (DT the) (NNS directories) (CC and) (NNS memberships)) (PP (IN in) (NP (NP (DT the) (NN bureau)) (PP (IN from) (NP (NP (CD 1984)) (PP (IN to) (NP (CD 1986))))))))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (NP (DT the) (NN bureau)) (PP (IN from) (NP (NP (CD 1984)) (PP (IN to) (NP (CD 1986))))))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN bureau))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (JJ several) (NNS conditions))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=2 spanning 21 until 22 headed by 21 parsed as its
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS conditions))
+sid=4 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NML (NNP Attorney) (NNP General)) (POS 's)) (NN investigation))
+sid=4 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (NML (NNP Attorney) (NNP General)) (POS 's))
+sid=4 spanning 8 until 30 headed by 8 parsed as (NP (NNS lawsuits) (CC and) (NNS charges))
+sid=4 spanning 12 until 15 headed by 14 parsed as (NP (JJ angry) (NNP California) (NNS businesspeople))
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=4 spanning 28 until 30 headed by 29 parsed as (NP (NNP Better) (NNP Book))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN uproar))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 3 parsed as (NP (NP (NP (DT The) (NML (NNP Better) (NNP Business)) (NNP Bureau)) (PP (IN of) (NP (NNP San) (NNP Diego)))) (CC and) (NP (NP (DT the) (NN state) (NNP Attorney) (NNP General) (POS 's)) (NN office)))
+sid=0 spanning 0 until 14 headed by 3 parsed as (NP (NP (NP (DT The) (NML (NNP Better) (NNP Business)) (NNP Bureau)) (PP (IN of) (NP (NNP San) (NNP Diego)))) (CC and) (NP (NP (DT the) (NN state) (NNP Attorney) (NNP General) (POS 's)) (NN office)))
+sid=0 spanning 8 until 14 headed by 13 parsed as (NP (NP (DT the) (NN state) (NNP Attorney) (NNP General) (POS 's)) (NN office))
+sid=0 spanning 8 until 13 headed by 11 parsed as (NP (DT the) (NN state) (NNP Attorney) (NNP General) (POS 's))
+sid=0 spanning 16 until 37 headed by 17 parsed as (NP (NP (DT a) (NN settlement)) (VP (VBG stemming) (PP (IN from) (NP (NP (DT an) (NN investigation)) (PP (IN of) (NP (NP (ADJP (NN bureau) (HYPH -) (VBN sponsored)) (NN business) (NNS directories)) (VP (VBN published) (PP (IN by) (NP (NP (DT an) (JJ outside) (NN firm)) (, ,) (NP (NNP Better) (NNP Book) (NNP Inc)))))))))))
+sid=0 spanning 20 until 37 headed by 21 parsed as (NP (NP (DT an) (NN investigation)) (PP (IN of) (NP (NP (ADJP (NN bureau) (HYPH -) (VBN sponsored)) (NN business) (NNS directories)) (VP (VBN published) (PP (IN by) (NP (NP (DT an) (JJ outside) (NN firm)) (, ,) (NP (NNP Better) (NNP Book) (NNP Inc))))))))
+sid=0 spanning 23 until 37 headed by 27 parsed as (NP (NP (ADJP (NN bureau) (HYPH -) (VBN sponsored)) (NN business) (NNS directories)) (VP (VBN published) (PP (IN by) (NP (NP (DT an) (JJ outside) (NN firm)) (, ,) (NP (NNP Better) (NNP Book) (NNP Inc))))))
+sid=0 spanning 30 until 37 headed by 32 parsed as (NP (NP (DT an) (JJ outside) (NN firm)) (, ,) (NP (NNP Better) (NNP Book) (NNP Inc)))
+sid=0 spanning 30 until 33 headed by 32 parsed as (NP (DT an) (JJ outside) (NN firm))
+sid=0 spanning 34 until 37 headed by 36 parsed as (NP (NNP Better) (NNP Book) (NNP Inc))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN settlement))
+sid=1 spanning 4 until 29 headed by 4 parsed as (NP (NNS charges) (SBAR (IN that) (S (NP (NP (NNP Better) (NNP Book)) (, ,) (ADJP (RB now) (JJ defunct)) (, ,)) (VP (VBD made) (NP (NNS misrepresentations)) (PP (IN in) (S (VP (VBG selling) (NP (NN advertising)) (PP (IN for) (NP (NP (DT the) (NNS directories) (CC and) (NNS memberships)) (PP (IN in) (NP (NP (DT the) (NN bureau)) (PP (IN from) (NP (NP (CD 1984)) (PP (IN to) (NP (CD 1986))))))))))))))))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (NP (NNP Better) (NNP Book)) (, ,) (ADJP (RB now) (JJ defunct)) (, ,))
+sid=1 spanning 6 until 12 headed by 7 parsed as (NP (NP (NNP Better) (NNP Book)) (, ,) (ADJP (RB now) (JJ defunct)) (, ,))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NNS misrepresentations))
+sid=1 spanning 18 until 29 headed by 19 parsed as (NP (NP (DT the) (NNS directories) (CC and) (NNS memberships)) (PP (IN in) (NP (NP (DT the) (NN bureau)) (PP (IN from) (NP (NP (CD 1984)) (PP (IN to) (NP (CD 1986))))))))
+sid=1 spanning 23 until 29 headed by 24 parsed as (NP (NP (DT the) (NN bureau)) (PP (IN from) (NP (NP (CD 1984)) (PP (IN to) (NP (CD 1986))))))
+sid=1 spanning 25 until 29 headed by 25 parsed as from
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN bureau))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (JJ several) (NNS conditions))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (DT an) (JJ outside) (NN firm))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (PRP$ its) (NNS directories))
+sid=2 spanning 21 until 22 headed by 21 parsed as (PRP$ its)
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS conditions))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (JJ many) (NNS directories))
+sid=3 spanning 16 until 20 headed by 16 parsed as (NP (NP (NNS refunds)) (PP (IN to) (NP (NN directory) (NNS advertisers))))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (NN directory) (NNS advertisers))
+sid=3 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NN sale))
+sid=4 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NML (NNP Attorney) (NNP General)) (POS 's)) (NN investigation))
+sid=4 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (NML (NNP Attorney) (NNP General)) (POS 's))
+sid=4 spanning 8 until 11 headed by 8 parsed as (NP (NNS lawsuits) (CC and) (NNS charges))
+sid=4 spanning 12 until 15 headed by 14 parsed as (NP (JJ angry) (NNP California) (NNS businesspeople))
+sid=4 spanning 13 until 14 headed by 13 parsed as California
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=4 spanning 20 until 30 headed by 25 parsed as (NP (NP (DT a) (ADJP (NN bureau) (HYPH -) (VBN sponsored)) (NN directory) (NN project)) (VP (VBN contracted) (PP (IN by) (NP (NNP Better) (NNP Book)))))
+sid=4 spanning 28 until 30 headed by 29 parsed as (NP (NNP Better) (NNP Book))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN uproar))
+sid=5 spanning 4 until 13 headed by 5 parsed as (NP (NP (DT the) (NN closing)) (PP (IN of) (NP (DT the) (NML (NNP Los) (NNP Angeles)) (NML (NNP Better) (NNP Business)) (NNP Bureau))))
+sid=5 spanning 7 until 13 headed by 12 parsed as (NP (DT the) (NML (NNP Los) (NNP Angeles)) (NML (NNP Better) (NNP Business)) (NNP Bureau))
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (JJ late) (CD 1987))
+(end predicted mentions)
+---------gold clusters--------
+1 16 | { 'the state Attorney General 's' 'The Attorney General 's' }
+15 3 | { 'The Attorney General 's investigation' 'an investigation of bureau - sponsored business directories published by an outside firm , Better Book Inc' }
+18 19 | { 'angry California businesspeople' 'they' }
+6 2 | { 'The settlement' 'a settlement stemming from an investigation of bureau - sponsored business directories published by an outside firm , Better Book Inc' }
+14 11 | { 'The conditions' 'several conditions' }
+17 21 | { 'lawsuits and charges by angry California businesspeople that they were swindled in a bureau - sponsored directory project contracted by Better Book' 'The uproar' }
+9 12 13 10 0 | { 'the bureau' 'it' 'its' 'the bureau' 'The Better Business Bureau of San Diego' }
+8 4 | { 'directories' 'bureau - sponsored business directories published by an outside firm , Better Book Inc' }
+7 5 20 | { 'Better Book , now defunct ,' 'an outside firm , Better Book Inc' 'Better Book' }
+(end gold clusters)

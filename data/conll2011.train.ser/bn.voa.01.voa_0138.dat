@@ -1,0 +1,70 @@
+---------gloss--------
+(0) Israeli soldiers have killed [35m{another Palestinian}[0m in [1m[31m{the West Bank}[0m as clashes continue between Israelis and Palestinians . 
+(1) Witnesses in Ramallah say [35m{the Palestinian}[0m was shot Saturday while working with an electric drill to repair [1m[33m{a damaged building}[0m . 
+(2) The Israeli military say soldiers came under fire from [1m[33m{the building}[0m and returned fire . 
+(3) Meanwhile , Israel has confiscated [1m[32m{the VIP car to the senior Palestinian official}[0m . 
+(4) [1m[34m{Colonel Taufiq Tarawi , a director of Palestinian intelligence}[0m was briefly detained by [36m{Israeli soldiers}[0m at a [1m[31m{West Bank}[0m roadblock , where [36m{they}[0m confiscated [1m[32m{an Israeli permit that grants him free movement in and out of the area}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0138); part 000
+sentences:
+IsraeliisraeliJJOPER0soldierssoldierNNSOPER0havehaveVBPOPER0killedkillVBDOPER0anotheranotherDTOPER0PalestinianPalestinianNNPOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0asasINOPER0clashesclashNNSOPER0continuecontinueVBPOPER0betweenbetweenINOPER0IsraelisIsraelisNNPSOPER0andandCCOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS soldiers)) (VP (VBP have) (VP (VBD killed) (NP (DT another) (NNP Palestinian)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))) (SBAR (IN as) (S (NP (NNS clashes)) (VP (VBP continue) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians)))))))) (. .)))
+WitnesseswitnessNNSOPER0ininINOPER0RamallahRamallahNNPGPEPER0saysayVBPOPER0thetheDTOPER0PalestinianPalestinianNNPOPER0wasbeVBDOPER0shotshootVBNOPER0SaturdaySaturdayNNPDATEPER0whilewhileINOPER0workingworkVBGOPER0withwithINOPER0anaDTOPER0electricelectricJJOPER0drilldrillNNOPER0totoTOOPER0repairrepairVBOPER0aaDTOPER0damageddamageVBNOPER0buildingbuildingNNOPER0...OPER0(ROOT (S (NP (NP (NNS Witnesses)) (PP (IN in) (NP (NNP Ramallah)))) (VP (VBP say) (SBAR (S (NP (DT the) (NNP Palestinian)) (VP (VBD was) (VP (VBN shot) (NP (NNP Saturday)) (SBAR (IN while) (S (VP (VBG working) (PP (IN with) (NP (DT an) (JJ electric) (NN drill))) (S (VP (TO to) (VP (VB repair) (NP (DT a) (VBN damaged) (NN building))))))))))))) (. .)))
+ThetheDTOPER0IsraeliisraeliJJOPER0militarymilitaryNNOPER0saysayVBPOPER0soldierssoldierNNSOPER0camecomeVBDOPER0underunderINOPER0firefireNNOPER0fromfromINOPER0thetheDTOPER0buildingbuildingNNOPER0andandCCOPER0returnedreturnVBDOPER0firefireNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ Israeli) (NN military)) (VP (VBP say) (SBAR (S (NP (NNS soldiers)) (VP (VP (VBD came) (PP (IN under) (NP (NN fire))) (PP (IN from) (NP (DT the) (NN building)))) (CC and) (VP (VBD returned) (NP (NN fire))))))) (. .)))
+MeanwhilemeanwhileRBOPER0,,,OPER0IsraelIsraelNNPGPEPER0hashaveVBZOPER0confiscatedconfiscateVBDOPER0thetheDTOPER0VIPvipNNORGPER0carcarNNOPER0totoINOPER0thetheDTOPER0seniorseniorJJOPER0PalestinianpalestinianJJOPER0officialofficialNNOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (NP (NNP Israel)) (VP (VBZ has) (VP (VBD confiscated) (NP (DT the) (NN VIP) (NN car)) (PP (IN to) (NP (DT the) (JJ senior) (JJ Palestinian) (NN official))))) (. .)))
+ColonelColonelNNPPERSONPER0TaufiqTaufiqNNPPERSONPER0TarawiTarawiNNPPERSONPER0,,,OPER0aaDTOPER0directordirectorNNOPER0ofofINOPER0PalestinianpalestinianJJOPER0intelligenceintelligenceNNOPER0wasbeVBDOPER0brieflybrieflyRBOPER0detaineddetainVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0atatINOPER0aaDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0roadblockroadblockNNOPER0,,,OPER0wherewhereWRBOPER0theytheyPRPOPER0confiscatedconfiscateVBDOPER0anaDTOPER0IsraeliisraeliJJOPER0permitpermitNNOPER0thatthatWDTOPER0grantsgrantVBZOPER0himhePRPOPER0freefreeJJOPER0movementmovementNNOPER0ininINOPER0andandCCOPER0outoutINOPER0ofofINOPER0thetheDTOPER0areaareaNNOPER0...OPER0(ROOT (S (NP (NP (NNP Colonel) (NNP Taufiq) (NNP Tarawi)) (, ,) (NP (NP (DT a) (NN director)) (PP (IN of) (NP (JJ Palestinian) (NN intelligence))))) (VP (VBD was) (ADVP (RB briefly)) (VP (VBN detained) (PP (IN by) (NP (JJ Israeli) (NNS soldiers))) (PP (IN at) (NP (NP (DT a) (NML (NNP West) (NNP Bank)) (NN roadblock)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD confiscated) (NP (NP (DT an) (JJ Israeli) (NN permit)) (SBAR (WHNP (WDT that)) (S (VP (VBZ grants) (NP (PRP him)) (NP (NP (JJ free) (NN movement)) (PP (IN in) (CC and) (IN out) (PP (IN of) (NP (DT the) (NN area)))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT another) (NNP Palestinian))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNP Palestinian))
+sid=1 spanning 17 until 20 headed by 19 parsed as (NP (DT a) (VBN damaged) (NN building))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN building))
+sid=3 spanning 5 until 13 headed by 7 parsed as (NP (DT the) (NN VIP) (NN car))
+sid=3 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (JJ senior) (JJ Palestinian) (NN official))
+sid=4 spanning 0 until 9 headed by 2 parsed as (NP (NP (NNP Colonel) (NNP Taufiq) (NNP Tarawi)) (, ,) (NP (NP (DT a) (NN director)) (PP (IN of) (NP (JJ Palestinian) (NN intelligence)))))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=4 spanning 17 until 19 headed by 18 parsed as Bank
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (PRP they))
+sid=4 spanning 24 until 38 headed by 26 parsed as (NP (NP (DT an) (JJ Israeli) (NN permit)) (SBAR (WHNP (WDT that)) (S (VP (VBZ grants) (NP (PRP him)) (NP (NP (JJ free) (NN movement)) (PP (IN in) (CC and) (IN out) (PP (IN of) (NP (DT the) (NN area)))))))))
+sid=4 spanning 29 until 30 headed by 29 parsed as (NP (PRP him))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT another) (NNP Palestinian))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNS clashes))
+sid=0 spanning 14 until 17 headed by 14 parsed as (NP (NNPS Israelis) (CC and) (NNPS Palestinians))
+sid=1 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Witnesses)) (PP (IN in) (NP (NNP Ramallah))))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Ramallah))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNP Palestinian))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Saturday))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT an) (JJ electric) (NN drill))
+sid=1 spanning 17 until 20 headed by 19 parsed as (NP (DT a) (VBN damaged) (NN building))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Israeli) (NN military))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNS soldiers))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN building))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Israel))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NN VIP) (NN car))
+sid=3 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (JJ senior) (JJ Palestinian) (NN official))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Colonel) (NNP Taufiq) (NNP Tarawi)) (, ,) (NP (NP (DT a) (NN director)) (PP (IN of) (NP (JJ Palestinian) (NN intelligence)))))
+sid=4 spanning 0 until 9 headed by 2 parsed as (NP (NP (NNP Colonel) (NNP Taufiq) (NNP Tarawi)) (, ,) (NP (NP (DT a) (NN director)) (PP (IN of) (NP (JJ Palestinian) (NN intelligence)))))
+sid=4 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT a) (NN director)) (PP (IN of) (NP (JJ Palestinian) (NN intelligence))))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=4 spanning 16 until 38 headed by 19 parsed as (NP (NP (DT a) (NML (NNP West) (NNP Bank)) (NN roadblock)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD confiscated) (NP (NP (DT an) (JJ Israeli) (NN permit)) (SBAR (WHNP (WDT that)) (S (VP (VBZ grants) (NP (PRP him)) (NP (NP (JJ free) (NN movement)) (PP (IN in) (CC and) (IN out) (PP (IN of) (NP (DT the) (NN area)))))))))))))
+sid=4 spanning 16 until 20 headed by 19 parsed as (NP (DT a) (NML (NNP West) (NNP Bank)) (NN roadblock))
+sid=4 spanning 17 until 19 headed by 18 parsed as Bank
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (PRP they))
+sid=4 spanning 24 until 38 headed by 26 parsed as (NP (NP (DT an) (JJ Israeli) (NN permit)) (SBAR (WHNP (WDT that)) (S (VP (VBZ grants) (NP (PRP him)) (NP (NP (JJ free) (NN movement)) (PP (IN in) (CC and) (IN out) (PP (IN of) (NP (DT the) (NN area)))))))))
+sid=4 spanning 29 until 30 headed by 29 parsed as (NP (PRP him))
+sid=4 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN area))
+(end predicted mentions)
+---------gold clusters--------
+0 2 | { 'another Palestinian' 'the Palestinian' }
+8 10 | { 'Israeli soldiers' 'they' }
+1 9 | { 'the West Bank' 'West Bank' }
+11 5 | { 'an Israeli permit that grants him free movement in and out of the area' 'the VIP car to the senior Palestinian official' }
+3 4 | { 'a damaged building' 'the building' }
+7 6 12 | { 'Colonel Taufiq Tarawi , a director of Palestinian intelligence' 'the senior Palestinian official' 'him' }
+(end gold clusters)

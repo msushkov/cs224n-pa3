@@ -1,0 +1,122 @@
+---------gloss--------
+(0) [1m[35m{A one - time federal judge who has seen the law from both sides of the bench}[0m is now hoping to keep [1m[35m{his}[0m job making laws . 
+(1) [3m[32m{Bob Glascoff}[0m has the story in today 's edition of `` [3m[31m{Headliners}[0m . '' 
+(2) On October 1989 , [1m[35m{Judge Alcee Hastings}[0m is convicted of perjury and conspiracy and impeached by [1m[36m{the Senate}[0m . 
+(3) Appointed to the federal bench in 1979 , [1m[35m{he}[0m was charged two years later with [3m[34m{conspiracy to accept a bribe in a case he presided over in Miami}[0m . 
+(4) [1m[35m{He}[0m was acquitted by a jury in 1983 , but a panel of judges reopened the case four years later , accusing [1m[35m{him}[0m of both [3m[34m{the original crime}[0m and lying about [3m[34m{it}[0m under oath . 
+(5) The House impeached [1m[35m{him}[0m and [1m[36m{the Senate}[0m [3m[33m{convicted}[0m and removed [1m[35m{Hastings}[0m from office in 1989 . 
+(6) Three years later , [1m[35m{his}[0m conviction was reversed . 
+(7) Two months after that , [1m[35m{he}[0m was elected to a newly drawn district in Ft. Lauderdale . 
+(8) [1m[35m{He}[0m is currently serving [1m[35m{his}[0m fourth term in office and is up for re-election this fall . 
+(9) With `` [3m[31m{Headliners}[0m , '' [3m[32m{I}[0m 'm Bob Glascoff . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0046); part 000
+sentences:
+AaDTOPER0oneoneCDCARDINALPER0--HYPHOPER0timetimeNNOPER0federalfederalJJOPER0judgejudgeNNOPER0whowhoWPOPER0hashaveVBZOPER0seenseeVBNOPER0thetheDTOPER0lawlawNNOPER0fromfromINOPER0bothbothDTOPER0sidessideNNSOPER0ofofINOPER0thetheDTOPER0benchbenchNNOPER0isbeVBZOPER0nownowRBOPER0hopinghopeVBGOPER0totoTOOPER0keepkeepVBOPER0hishePRP$OPER0jobjobNNOPER0makingmakeVBGOPER0lawslawNNSOPER0...OPER0(ROOT (S (NP (NP (DT A) (NML (CD one) (HYPH -) (NN time)) (JJ federal) (NN judge)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN seen) (NP (NP (DT the) (NN law)) (PP (IN from) (NP (NP (DT both) (NNS sides)) (PP (IN of) (NP (DT the) (NN bench))))))))))) (VP (VBZ is) (ADVP (RB now)) (VP (VBG hoping) (S (VP (TO to) (VP (VB keep) (NP (PRP$ his) (NN job)) (S (VP (VBG making) (NP (NNS laws))))))))) (. .)))
+BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0hashaveVBZOPER0thetheDTOPER0storystoryNNOPER0ininINOPER0todaytodayNNDATEPER0's'sPOSOPER0editioneditionNNOPER0ofofINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER1...OPER1''''''OPER0(ROOT (S (NP (NNP Bob) (NNP Glascoff)) (VP (VBZ has) (NP (NP (DT the) (NN story)) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))))) (. .) ('' '')))
+OnonINOPER0OctoberOctoberNNPDATEPER019891989CDDATEPER0,,,OPER0JudgeJudgeNNPOPER0AlceeAlceeNNPPERSONPER0HastingsHastingsNNPPERSONPER0isbeVBZOPER0convictedconvictVBNOPER0ofofINOPER0perjuryperjuryNNOPER0andandCCOPER0conspiracyconspiracyNNOPER0andandCCOPER0impeachedimpeachVBNOPER0bybyINOPER0thetheDTOPER0SenateSenateNNPORGPER0...OPER0(ROOT (S (PP (IN On) (NP (NNP October) (CD 1989))) (, ,) (NP (NNP Judge) (NNP Alcee) (NNP Hastings)) (VP (VBZ is) (VP (VP (VBN convicted) (PP (IN of) (NP (NP (NN perjury)) (CC and) (NP (NN conspiracy))))) (CC and) (VP (VBN impeached) (PP (IN by) (NP (DT the) (NNP Senate)))))) (. .)))
+AppointedappointVBNOPER0totoINOPER0thetheDTOPER0federalfederalJJOPER0benchbenchNNOPER0ininINOPER019791979CDDATEPER0,,,OPER0hehePRPOPER0wasbeVBDOPER0chargedchargeVBNOPER0twotwoCDDATEPER0yearsyearNNSDATEPER0laterlaterRBDATEPER0withwithINOPER0conspiracyconspiracyNNOPER0totoTOOPER0acceptacceptVBOPER0aaDTOPER0bribebribeNNOPER0ininINOPER0aaDTOPER0casecaseNNOPER0hehePRPOPER0presidedpresideVBDOPER0overoverINOPER0ininINOPER0MiamiMiamiNNPGPEPER0...OPER0(ROOT (S (S (VP (VBN Appointed) (PP (IN to) (NP (NP (DT the) (JJ federal) (NN bench)) (PP (IN in) (NP (CD 1979))))))) (, ,) (NP (PRP he)) (VP (VBD was) (VP (VBN charged) (ADVP (NP (CD two) (NNS years)) (RB later)) (PP (IN with) (NP (NN conspiracy) (S (VP (TO to) (VP (VB accept) (NP (DT a) (NN bribe)) (PP (IN in) (NP (NP (DT a) (NN case)) (SBAR (S (NP (PRP he)) (VP (VBD presided) (PP (IN over) (PP (IN in) (NP (NNP Miami)))))))))))))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0acquittedacquitVBNOPER0bybyINOPER0aaDTOPER0juryjuryNNOPER0ininINOPER019831983CDDATEPER0,,,OPER0butbutCCOPER0aaDTOPER0panelpanelNNOPER0ofofINOPER0judgesjudgeNNSOPER0reopenedreopenVBDOPER0thetheDTOPER0casecaseNNOPER0fourfourCDDATEPER0yearsyearNNSDATEPER0laterlaterRBDATEPER0,,,OPER0accusingaccuseVBGOPER0himhePRPOPER0ofofINOPER0bothbothPDTOPER0thetheDTOPER0originaloriginalJJOPER0crimecrimeNNOPER0andandCCOPER0lyinglieVBGOPER0aboutaboutINOPER0ititPRPOPER0underunderINOPER0oathoathNNOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (VBD was) (VP (VBN acquitted) (PP (IN by) (NP (NP (DT a) (NN jury)) (PP (IN in) (NP (CD 1983)))))))) (, ,) (CC but) (S (NP (NP (DT a) (NN panel)) (PP (IN of) (NP (NNS judges)))) (VP (VBD reopened) (NP (DT the) (NN case)) (ADVP (NP (CD four) (NNS years)) (RB later)) (, ,) (S (VP (VBG accusing) (NP (PRP him)) (PP (IN of) (NP (NP (PDT both) (DT the) (JJ original) (NN crime)) (CC and) (S (VP (VBG lying) (PP (IN about) (NP (PRP it))) (PP (IN under) (NP (NN oath))))))))))) (. .)))
+ThetheDTOPER0HouseHouseNNPORGPER0impeachedimpeachVBNOPER0himhePRPOPER0andandCCOPER0thetheDTOPER0SenateSenateNNPORGPER0convictedconvictVBNOPER0andandCCOPER0removedremoveVBNOPER0HastingsHastingsNNPPERSONPER0fromfromINOPER0officeofficeNNOPER0ininINOPER019891989CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP House)) (VP (VP (VBN impeached) (NP (NP (PRP him)) (CC and) (NP (DT the) (NNP Senate)))) (VP (VBN convicted)) (CC and) (VP (VBN removed) (NP (NNP Hastings)) (PP (IN from) (NP (NP (NN office)) (PP (IN in) (NP (CD 1989))))))) (. .)))
+ThreethreeCDDATEPER0yearsyearNNSDATEPER0laterlaterRBDATEPER0,,,OPER0hishePRP$OPER0convictionconvictionNNOPER0wasbeVBDOPER0reversedreversedJJOPER0...OPER0(ROOT (S (ADVP (NP (CD Three) (NNS years)) (RB later)) (, ,) (NP (PRP$ his) (NN conviction)) (VP (VBD was) (ADJP (JJ reversed))) (. .)))
+TwotwoCDDATEPER0monthsmonthNNSDATEPER0afterafterINOPER0thatthatDTOPER0,,,OPER0hehePRPOPER0wasbeVBDOPER0electedelectVBNOPER0totoINOPER0aaDTOPER0newlynewlyRBOPER0drawndrawVBNOPER0districtdistrictNNOPER0ininINOPER0Ft.Ft.NNPGPEPER0LauderdaleLauderdaleNNPGPEPER0...OPER0(ROOT (S (PP (NP (CD Two) (NNS months)) (IN after) (NP (DT that))) (, ,) (NP (PRP he)) (VP (VBD was) (VP (VBN elected) (PP (IN to) (NP (NP (DT a) (ADJP (RB newly) (VBN drawn)) (NN district)) (PP (IN in) (NP (NNP Ft.) (NNP Lauderdale))))))) (. .)))
+HehePRPOPER0isbeVBZOPER0currentlycurrentlyRBOPER0servingserveVBGOPER0hishePRP$OPER0fourthfourthJJORDINALPER0termtermNNOPER0ininINOPER0officeofficeNNOPER0andandCCOPER0isbeVBZOPER0upupRBOPER0forforINOPER0re-electionre-electionNNOPER0thisthisDTDATEPER0fallfallNNDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VP (VBZ is) (ADVP (RB currently)) (VP (VBG serving) (NP (PRP$ his) (JJ fourth) (NN term)) (PP (IN in) (NP (NN office))))) (CC and) (VP (VBZ is) (ADVP (RB up) (PP (IN for) (NP (NN re-election)))) (NP (DT this) (NN fall)))) (. .)))
+WithwithINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER2,,,OPER2''''''OPER0IIPRPOPER0'mbeVBPOPER0BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0...OPER0(ROOT (S (PP (IN With) (`` ``) (NP (NNPS Headliners))) (, ,) ('' '') (NP (PRP I)) (VP (VBP 'm) (NP (NNP Bob) (NNP Glascoff))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 17 headed by 5 parsed as (NP (NP (DT A) (NML (CD one) (HYPH -) (NN time)) (JJ federal) (NN judge)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN seen) (NP (NP (DT the) (NN law)) (PP (IN from) (NP (NP (DT both) (NNS sides)) (PP (IN of) (NP (DT the) (NN bench)))))))))))
+sid=0 spanning 22 until 23 headed by 22 parsed as his
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNPS Headliners))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (NNP Judge) (NNP Alcee) (NNP Hastings))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NNP Senate))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=3 spanning 15 until 28 headed by 15 parsed as (NP (NN conspiracy) (S (VP (TO to) (VP (VB accept) (NP (DT a) (NN bribe)) (PP (IN in) (NP (NP (DT a) (NN case)) (SBAR (S (NP (PRP he)) (VP (VBD presided) (PP (IN over) (PP (IN in) (NP (NNP Miami)))))))))))))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (PRP he))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (PRP him))
+sid=4 spanning 25 until 28 headed by 27 parsed as (NP (NP (PDT both) (DT the) (JJ original) (NN crime)) (CC and) (S (VP (VBG lying) (PP (IN about) (NP (PRP it))) (PP (IN under) (NP (NN oath))))))
+sid=4 spanning 31 until 32 headed by 31 parsed as (NP (PRP it))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NP (PRP him)) (CC and) (NP (DT the) (NNP Senate)))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP Senate))
+sid=5 spanning 7 until 8 headed by 7 parsed as convicted
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (NNP Hastings))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ his) (NN conviction))
+sid=6 spanning 4 until 5 headed by 4 parsed as his
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 4 until 5 headed by 4 parsed as his
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 17 headed by 5 parsed as (NP (NP (DT A) (NML (CD one) (HYPH -) (NN time)) (JJ federal) (NN judge)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN seen) (NP (NP (DT the) (NN law)) (PP (IN from) (NP (NP (DT both) (NNS sides)) (PP (IN of) (NP (DT the) (NN bench)))))))))))
+sid=0 spanning 9 until 17 headed by 10 parsed as (NP (NP (DT the) (NN law)) (PP (IN from) (NP (NP (DT both) (NNS sides)) (PP (IN of) (NP (DT the) (NN bench))))))
+sid=0 spanning 12 until 17 headed by 13 parsed as (NP (NP (DT both) (NNS sides)) (PP (IN of) (NP (DT the) (NN bench))))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN bench))
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ his) (NN job))
+sid=0 spanning 22 until 23 headed by 22 parsed as (PRP$ his)
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNS laws))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=1 spanning 3 until 12 headed by 4 parsed as (NP (NP (DT the) (NN story)) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))))
+sid=1 spanning 6 until 12 headed by 8 parsed as (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))
+sid=1 spanning 6 until 8 headed by 6 parsed as (NP (NN today) (POS 's))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNPS Headliners))
+sid=2 spanning 1 until 3 headed by 1 parsed as (NP (NNP October) (CD 1989))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (NNP Judge) (NNP Alcee) (NNP Hastings))
+sid=2 spanning 10 until 13 headed by 10 parsed as (NP (NP (NN perjury)) (CC and) (NP (NN conspiracy)))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NNP Senate))
+sid=3 spanning 2 until 7 headed by 4 parsed as (NP (NP (DT the) (JJ federal) (NN bench)) (PP (IN in) (NP (CD 1979))))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (CD 1979))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=3 spanning 11 until 14 headed by 13 parsed as later
+sid=3 spanning 15 until 28 headed by 15 parsed as (NP (NN conspiracy) (S (VP (TO to) (VP (VB accept) (NP (DT a) (NN bribe)) (PP (IN in) (NP (NP (DT a) (NN case)) (SBAR (S (NP (PRP he)) (VP (VBD presided) (PP (IN over) (PP (IN in) (NP (NNP Miami)))))))))))))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (DT a) (NN bribe))
+sid=3 spanning 21 until 28 headed by 22 parsed as (NP (NP (DT a) (NN case)) (SBAR (S (NP (PRP he)) (VP (VBD presided) (PP (IN over) (PP (IN in) (NP (NNP Miami))))))))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (PRP he))
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (NNP Miami))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 4 until 8 headed by 5 parsed as (NP (NP (DT a) (NN jury)) (PP (IN in) (NP (CD 1983))))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (CD 1983))
+sid=4 spanning 10 until 14 headed by 11 parsed as (NP (NP (DT a) (NN panel)) (PP (IN of) (NP (NNS judges))))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (NNS judges))
+sid=4 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN case))
+sid=4 spanning 17 until 20 headed by 19 parsed as later
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (PRP him))
+sid=4 spanning 24 until 34 headed by 27 parsed as (NP (NP (PDT both) (DT the) (JJ original) (NN crime)) (CC and) (S (VP (VBG lying) (PP (IN about) (NP (PRP it))) (PP (IN under) (NP (NN oath))))))
+sid=4 spanning 24 until 28 headed by 27 parsed as (NP (PDT both) (DT the) (JJ original) (NN crime))
+sid=4 spanning 31 until 32 headed by 31 parsed as (NP (PRP it))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP House))
+sid=5 spanning 3 until 7 headed by 3 parsed as (NP (NP (PRP him)) (CC and) (NP (DT the) (NNP Senate)))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (PRP him))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP Senate))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (NNP Hastings))
+sid=5 spanning 12 until 15 headed by 12 parsed as (NP (NP (NN office)) (PP (IN in) (NP (CD 1989))))
+sid=5 spanning 14 until 15 headed by 14 parsed as (NP (CD 1989))
+sid=6 spanning 0 until 3 headed by 2 parsed as later
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ his) (NN conviction))
+sid=6 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (CD Two) (NNS months))
+sid=7 spanning 3 until 4 headed by 3 parsed as (NP (DT that))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=7 spanning 9 until 16 headed by 12 parsed as (NP (NP (DT a) (ADJP (RB newly) (VBN drawn)) (NN district)) (PP (IN in) (NP (NNP Ft.) (NNP Lauderdale))))
+sid=7 spanning 14 until 16 headed by 15 parsed as (NP (NNP Ft.) (NNP Lauderdale))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 4 until 7 headed by 6 parsed as (NP (PRP$ his) (JJ fourth) (NN term))
+sid=8 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=8 spanning 5 until 6 headed by 5 parsed as fourth
+sid=8 spanning 14 until 16 headed by 15 parsed as (NP (DT this) (NN fall))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=9 spanning 7 until 9 headed by 8 parsed as (NP (NNP Bob) (NNP Glascoff))
+(end predicted mentions)
+---------gold clusters--------
+20 6 10 21 19 13 9 4 0 18 16 8 1 | { 'He' 'he' 'him' 'his' 'he' 'him' 'He' 'Judge Alcee Hastings' 'A one - time federal judge who has seen the law from both sides of the bench' 'his' 'Hastings' 'he' 'his' }
+5 14 | { 'the Senate' 'the Senate' }
+22 3 | { 'Headliners' 'Headliners' }
+2 23 | { 'Bob Glascoff' 'I' }
+17 15 | { 'his conviction' 'convicted' }
+11 7 12 | { 'the original crime' 'conspiracy to accept a bribe in a case he presided over in Miami' 'it' }
+(end gold clusters)

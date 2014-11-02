@@ -1,0 +1,268 @@
+---------gloss--------
+(0) Now [1m[31m{Mr. Gore}[0m . 
+(1) [1m[31m{He}[0m was campaigning in [1m[31m{his}[0m home state of Tennessee [35m{today}[0m . 
+(2) [31m{Tennessee}[0m is not giving [31m{its}[0m favorite son a free ride . 
+(3) Here is [34m{ABC 's}[0m Jim Wooten . 
+(4) [31m{Not a bad place to be from}[0m , and [31m{not a bad place to come back to}[0m . 
+(5) 7777 
+(6) And although [1m[31m{he}[0m has n't been here in 2 1 / 2 months , [1m[31m{the Vice President}[0m 's here [35m{today}[0m -- 
+(7) It 's great to be home in [31m{Tennessee}[0m . 
+(8) Back where [1m[31m{he}[0m 's run and won 14 times in 24 years , but where [1m[35m{this week}[0m [1m[31m{he}[0m 's dead even or maybe even trailing [1m[33m{Governor Bush , who is n't in trouble at home , and who just happened to be in Tennessee this week , too , asking his favorite sarcastic question -- `` where exactly is home for the Vice President}[0m ? '' 
+(9) [1m[31m{He}[0m may win [32m{Washington , D.C.}[0m , but [1m[31m{he}[0m is n't going to carry [31m{Tennessee}[0m ! 
+(10) That has considerable resonance here . 
+(11) [1m[33m{I}[0m think [1m[31m{he}[0m 's been in [32m{Washington}[0m too long . 
+(12) [1m[33m{I}[0m do n't think people consider [1m[31m{him}[0m a Tennessean anymore . 
+(13) Gerald Wiser voted for [1m[33m{Bush}[0m yesterday . 
+(14) [31m{This}[0m is one of a few states with early voting . 
+(15) You have nine people running for President . 
+(16) And so did the Wrights , Michael and Carolyn , Independents , but not undecided . 
+(17) The biggest negative for [1m[31m{Gore}[0m is [1m[31m{his}[0m association with Mr. Clinton . 
+(18) The baggage ? 
+(19) It 's not an example of [4m[36m{a prophet without honor in his own land or even here in his own hometown}[0m . 
+(20) It 's just that [31m{Tennessee}[0m is a genuine two - party state and has been for a long , long time , and although [1m[31m{Gore}[0m has never lost an election here , [1m[31m{he}[0m 's never had a landslide either , and this time , little by little , [1m[31m{his}[0m once - comfortable ad has been [1m[34m{whittled}[0m down . 
+(21) [1m[31m{His}[0m state campaign director insists , `` we expected [1m[34m{that}[0m . '' 
+(22) You 've got a Republican governor , two Republican senators , [1m[32m{the majority of the membership of Congress are Republicans}[0m . 
+(23) [1m[32m{They}[0m 'd like nothing better than for [1m[32m{them}[0m to embarrass [1m[31m{him}[0m in [1m[31m{his}[0m own home state . 
+(24) So , [31m{Tennessee 's}[0m most illustrious modern political family is having to work mighty hard at [31m{home}[0m now and spend at least $ 1 million on local TV ads something [33m{they}[0m did n't plan on . 
+(25) Can you come out and work hard for [1m[31m{him}[0m one more time ? 
+(26) The importance of [31m{Tennessee}[0m to [1m[31m{my}[0m family goes way beyond its 11 electoral votes . 
+(27) Sure , it 's a matter of pride , but in a race this narrow , 11 electoral votes ai n't hay . 
+(28) [36m{Jim Wooten}[0m , [34m{ABC News}[0m , Nashville . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0023); part 000
+sentences:
+NownowRBOPER0Mr.Mr.NNPOPER0GoreGoreNNPPERSONPER0...OPER0(ROOT (FRAG (ADVP (RB Now)) (NP (NNP Mr.) (NNP Gore)) (. .)))
+HehePRPOPER0wasbeVBDOPER0campaigningcampaignVBGOPER0ininINOPER0hishePRP$OPER0homehomeNNOPER0statestateNNOPER0ofofINOPER0TennesseeTennesseeNNPGPEPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBG campaigning) (PP (IN in) (NP (NP (PRP$ his) (NN home) (NN state)) (PP (IN of) (NP (NNP Tennessee))))) (NP (NN today)))) (. .)))
+TennesseeTennesseeNNPGPEPER0isbeVBZOPER0notnotRBOPER0givinggiveVBGOPER0itsitsPRP$OPER0favoritefavoriteJJOPER0sonsonNNOPER0aaDTOPER0freefreeJJOPER0riderideNNOPER0...OPER0(ROOT (S (NP (NNP Tennessee)) (VP (VBZ is) (RB not) (VP (VBG giving) (NP (PRP$ its) (JJ favorite) (NN son)) (NP (DT a) (JJ free) (NN ride)))) (. .)))
+HerehereRBOPER0isbeVBZOPER0ABCABCNNPORGPER0's'sPOSOPER0JimJimNNPPERSONPER0WootenWootenNNPPERSONPER0...OPER0(ROOT (SINV (ADVP (RB Here)) (VP (VBZ is)) (NP (NP (NNP ABC) (POS 's)) (NNP Jim) (NNP Wooten)) (. .)))
+NotnotRBOPER0aaDTOPER0badbadJJOPER0placeplaceNNOPER0totoTOOPER0bebeVBOPER0fromfromINOPER0,,,OPER0andandCCOPER0notnotRBOPER0aaDTOPER0badbadJJOPER0placeplaceNNOPER0totoTOOPER0comecomeVBOPER0backbackRBOPER0totoINOPER0...OPER0(ROOT (S (S (NP (RB Not) (DT a) (JJ bad) (NN place)) (VP (TO to) (VP (VB be) (PP (IN from))))) (, ,) (CC and) (S (NP (RB not) (DT a) (JJ bad) (NN place)) (VP (TO to) (VP (VB come) (ADVP (RB back) (PP (IN to)))))) (. .)))
+77777777CDDATEPER0(ROOT (NP (CD 7777)))
+AndandCCOPER0althoughalthoughINOPER0hehePRPOPER0hashaveVBZOPER0n'tnotRBOPER0beenbeVBNOPER0herehereRBOPER0ininINOPER022CDDATEPER011CDDATEPER0//SYMDATEPER022CDDATEPER0monthsmonthNNSDATEPER0,,,OPER0thetheDTOPER0ViceViceNNPOPER0PresidentPresidentNNPOPER0'sbeVBZOPER0herehereRBOPER0todaytodayNNDATEPER0----.OPER0(ROOT (S (CC And) (SBAR (IN although) (S (NP (PRP he)) (VP (VBZ has) (RB n't) (VP (VBN been) (ADVP (RB here)) (PP (IN in) (NP (QP (CD 2) (CD 1) (SYM /) (CD 2)) (NNS months))))))) (, ,) (NP (DT the) (NNP Vice) (NNP President)) (VP (VBZ 's) (ADVP (RB here)) (NP (NN today))) (. --)))
+ItitPRPOPER0'sbeVBZOPER0greatgreatJJOPER0totoTOOPER0bebeVBOPER0homehomeRBOPER0ininINOPER0TennesseeTennesseeNNPGPEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ great)) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (IN in) (NP (NNP Tennessee))))))) (. .)))
+BackbackRBOPER0wherewhereWRBOPER0hehePRPOPER0'sbeVBZOPER0runrunVBNOPER0andandCCOPER0wonwinVBNOPER01414CDCARDINALPER0timestimeNNSOPER0ininINOPER02424CDDATEPER0yearsyearNNSDATEPER0,,,OPER0butbutCCOPER0wherewhereWRBOPER0thisthisDTDATEPER0weekweekNNDATEPER0hehePRPOPER0'sbeVBZOPER0deaddeadJJOPER0evenevenRBOPER0ororCCOPER0maybemaybeRBOPER0evenevenRBOPER0trailingtrailVBGOPER0GovernorGovernorNNPOPER0BushBushNNPPERSONPER0,,,OPER0whowhoWPOPER0isbeVBZOPER0n'tnotRBOPER0ininINOPER0troubletroubleNNOPER0atatINOPER0homehomeNNOPER0,,,OPER0andandCCOPER0whowhoWPOPER0justjustRBOPER0happenedhappenVBDOPER0totoTOOPER0bebeVBOPER0ininINOPER0TennesseeTennesseeNNPGPEPER0thisthisDTDATEPER0weekweekNNDATEPER0,,,OPER0tootooRBOPER0,,,OPER0askingaskVBGOPER0hishePRP$OPER0favoritefavoriteJJOPER0sarcasticsarcasticJJOPER0questionquestionNNOPER0----:OPER0``````OwherewhereWRBOPER1exactlyexactlyRBOPER1isbeVBZOPER1homehomeNNOPER1forforINOPER1thetheDTOPER1ViceViceNNPOPER1PresidentPresidentNNPOPER1??.OPER1''''''OPER0(ROOT (FRAG (RB Back) (SBAR (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN run) (CC and) (VBN won) (NP (CD 14) (NNS times)) (PP (IN in) (NP (CD 24) (NNS years))))))) (, ,) (CC but) (SBAR (WHADVP (WRB where)) (S (NP (DT this) (NN week)) (NP (PRP he)) (VP (VBZ 's) (ADJP (JJ dead)) (S (ADVP (RB even) (CC or) (RB maybe)) (ADVP (RB even)) (VP (VBG trailing) (NP (NNP Governor) (NNP Bush))))))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (RB n't) (PP (IN in) (NP (NN trouble))) (PP (IN at) (NP (NN home)))))) (, ,) (CC and) (SBAR (WHNP (WP who)) (S (ADVP (RB just)) (VP (VBD happened) (S (VP (TO to) (VP (VB be) (PP (IN in) (NP (NNP Tennessee))) (NP (DT this) (NN week)) (, ,) (ADVP (RB too))))))))) (, ,) (S (VP (VBG asking) (NP (NP (PRP$ his) (JJ favorite) (JJ sarcastic) (NN question)) (: --) (`` ``) (SBARQ (WHADVP (WRB where)) (SQ (ADVP (RB exactly)) (VP (VBZ is) (NP (NP (NN home)) (PP (IN for) (NP (DT the) (NNP Vice) (NNP President)))))))))) (. ?) ('' '')))
+HehePRPOPER0maymayMDOPER0winwinVBOPER0WashingtonWashingtonNNPGPEPER0,,,OPER0D.C.D.C.NNPGPEPER0,,,OPER0butbutCCOPER0hehePRPOPER0isbeVBZOPER0n'tnotRBOPER0goinggoVBGOPER0totoTOOPER0carrycarryVBOPER0TennesseeTennesseeNNPGPEPER0!!.OPER0(ROOT (S (S (NP (PRP He)) (VP (MD may) (VP (VB win) (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C.)))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ is) (RB n't) (VP (VBG going) (S (VP (TO to) (VP (VB carry) (NP (NNP Tennessee)))))))) (. !)))
+ThatthatDTOPER0hashaveVBZOPER0considerableconsiderableJJOPER0resonanceresonanceNNOPER0herehereRBOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ has) (NP (NP (JJ considerable) (NN resonance)) (ADVP (RB here)))) (. .)))
+IIPRPOPER0thinkthinkVBPOPER0hehePRPOPER0'sbeVBZOPER0beenbeVBNOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0tootooRBOPER0longlongRBOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN been) (PP (IN in) (NP (NNP Washington))) (ADVP (RB too) (RB long))))))) (. .)))
+IIPRPOPER0dodoVBPOPER0n'tnotRBOPER0thinkthinkVBOPER0peoplepeopleNNSOPER0considerconsiderVBPOPER0himhePRPOPER0aaDTOPER0TennesseanTennesseanNNPOPER0anymoreanymoreRBOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (NNS people)) (VP (VBP consider) (NP (PRP him)) (NP (DT a) (NNP Tennessean)) (ADVP (RB anymore))))))) (. .)))
+GeraldGeraldNNPPERSONPER0WiserwiserJJRPERSONPER0votedvoteVBDOPER0forforINOPER0BushBushNNPPERSONPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (NNP Gerald)) (ADVP (JJR Wiser)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush))) (NP (NN yesterday))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0oneoneCDOPER0ofofINOPER0aaDTOPER0fewfewJJOPER0statesstateNNSOPER0withwithINOPER0earlyearlyJJOPER0votingvotingNNOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (QP (DT a) (JJ few)) (NNS states)) (PP (IN with) (NP (JJ early) (NN voting))))))) (. .)))
+YouyouPRPOPER0havehaveVBPOPER0ninenineCDCARDINALPER0peoplepeopleNNSOPER0runningrunVBGOPER0forforINOPER0PresidentPresidentNNPOPER0...OPER0(ROOT (S (NP (PRP You)) (VP (VBP have) (NP (NP (CD nine) (NNS people)) (VP (VBG running) (PP (IN for) (NP (NNP President)))))) (. .)))
+AndandCCOPER0sosoRBOPER0diddoVBDOPER0thetheDTOPER0WrightsWrightsNNPSORGPER0,,,OPER0MichaelMichaelNNPORGPER0andandCCOPER0CarolynCarolynNNPPERSONPER0,,,OPER0IndependentsIndependentsNNPSWORK_OF_ARTPER0,,,OPER0butbutCCOPER0notnotRBOPER0undecidedundecidedJJOPER0...OPER0(ROOT (SINV (CC And) (ADVP (RB so)) (VBD did) (NP (NP (DT the) (NNPS Wrights)) (, ,) (NP (NNP Michael) (CC and) (NNP Carolyn)) (, ,) (NP (NNPS Independents)) (, ,) (CC but) (NP (RB not) (JJ undecided))) (. .)))
+ThetheDTOPER0biggestbiggestJJSOPER0negativenegativeNNOPER0forforINOPER0GoreGoreNNPPERSONPER0isbeVBZOPER0hishePRP$OPER0associationassociationNNOPER0withwithINOPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0...OPER0(ROOT (S (NP (NP (DT The) (JJS biggest) (NN negative)) (PP (IN for) (NP (NNP Gore)))) (VP (VBZ is) (NP (NP (PRP$ his) (NN association)) (PP (IN with) (NP (NNP Mr.) (NNP Clinton))))) (. .)))
+ThetheDTOPER0baggagebaggageNNOPER0??.OPER0(ROOT (NP (DT The) (NN baggage) (. ?)))
+ItitPRPOPER0'sbeVBZOPER0notnotRBOPER0anaDTOPER0exampleexampleNNOPER0ofofINOPER0aaDTOPER0prophetprophetNNOPER0withoutwithoutINOPER0honorhonorNNOPER0ininINOPER0hishePRP$OPER0ownownJJOPER0landlandNNOPER0ororCCOPER0evenevenRBOPER0herehereRBOPER0ininINOPER0hishePRP$OPER0ownownJJOPER0hometownhometownNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NP (DT a) (NN prophet)) (PP (IN without) (NP (NN honor))) (PP (PP (IN in) (NP (PRP$ his) (JJ own) (NN land))) (CC or) (ADVP (RB even)) (PP (ADVP (RB here)) (IN in) (NP (PRP$ his) (JJ own) (NN hometown)))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0justjustRBOPER0thatthatINOPER0TennesseeTennesseeNNPGPEPER0isbeVBZOPER0aaDTOPER0genuinegenuineJJOPER0twotwoCDCARDINALPER0--HYPHOPER0partypartyNNOPER0statestateNNOPER0andandCCOPER0hashaveVBZOPER0beenbeVBNOPER0forforINOPER0aaDTOPER0longlongJJOPER0,,,OPER0longlongJJOPER0timetimeNNOPER0,,,OPER0andandCCOPER0althoughalthoughINOPER0GoreGoreNNPPERSONPER0hashaveVBZOPER0neverneverRBOPER0lostloseVBNOPER0anaDTOPER0electionelectionNNOPER0herehereRBOPER0,,,OPER0hehePRPOPER0'sbeVBZOPER0neverneverRBOPER0hadhaveVBDOPER0aaDTOPER0landslidelandslideNNOPER0eithereitherRBOPER0,,,OPER0andandCCOPER0thisthisDTOPER0timetimeNNOPER0,,,OPER0littlelittleJJOPER0bybyINOPER0littlelittleJJOPER0,,,OPER0hishePRP$OPER0onceonceRBOPER0--HYPHOPER0comfortablecomfortableJJOPER0adadNNOPER0hashaveVBZOPER0beenbeVBNOPER0whittledwhittleVBNOPER0downdownRBOPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (PP (IN that) (S (NP (NNP Tennessee)) (VP (VP (VBZ is) (NP (DT a) (JJ genuine) (NML (CD two) (HYPH -) (NN party)) (NN state))) (CC and) (VP (VBZ has) (VP (VBN been) (PP (IN for) (NP (DT a) (JJ long) (, ,) (JJ long) (NN time)))))))))) (, ,) (CC and) (S (SBAR (IN although) (S (NP (NNP Gore)) (VP (VBZ has) (ADVP (RB never)) (VP (VBN lost) (NP (DT an) (NN election)) (ADVP (RB here)))))) (, ,) (NP (PRP he)) (VP (VBZ 's) (ADVP (RB never)) (VP (VBD had) (NP (DT a) (NN landslide)) (ADVP (RB either))))) (, ,) (CC and) (S (NP (DT this) (NN time)) (, ,) (ADJP (JJ little) (PP (IN by) (NP (JJ little)))) (, ,) (NP (PRP$ his) (ADJP (RB once) (HYPH -) (JJ comfortable)) (NN ad)) (VP (VBZ has) (VP (VBN been) (VP (VBN whittled) (ADVP (RB down)))))) (. .)))
+HishePRP$OPER0statestateNNOPER0campaigncampaignNNOPER0directordirectorNNOPER0insistsinsistVBZOPER0,,,OPER0``````OwewePRPOPER2expectedexpectVBDOPER2thatthatDTOPER2...OPER2''''''OPER0(ROOT (S (NP (NP (PRP$ His) (NN state) (NN campaign)) (NP (NN director))) (VP (VBZ insists) (, ,) (`` ``) (S (NP (PRP we)) (VP (VBD expected) (NP (DT that))))) (. .) ('' '')))
+YouyouPRPOPER0'vehaveVBPOPER0gotgetVBDOPER0aaDTOPER0RepublicanrepublicanJJOPER0governorgovernorNNOPER0,,,OPER0twotwoCDCARDINALPER0RepublicanRepublicanNNPOPER0senatorssenatorNNSOPER0,,,OPER0thetheDTOPER0majoritymajorityNNOPER0ofofINOPER0thetheDTOPER0membershipmembershipNNOPER0ofofINOPER0CongressCongressNNPORGPER0arebeVBPOPER0RepublicansRepublicansNNPSOPER0...OPER0(ROOT (S (S (NP (PRP You)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (JJ Republican) (NN governor))))) (, ,) (S (NP (CD two) (NNP Republican) (NNS senators)) (, ,) (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NP (DT the) (NN membership)) (PP (IN of) (NP (NNP Congress)))))) (VP (VBP are) (NP (NNPS Republicans)))) (. .)))
+TheytheyPRPOPER0'dwouldMDOPER0likelikeVBOPER0nothingnothingNNOPER0betterbetterJJROPER0thanthanINOPER0forforINOPER0themtheyPRPOPER0totoTOOPER0embarrassembarrassVBOPER0himhePRPOPER0ininINOPER0hishePRP$OPER0ownownJJOPER0homehomeNNOPER0statestateNNOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (MD 'd) (VP (VB like) (NP (NP (NN nothing)) (ADJP (ADJP (JJR better)) (PP (IN than) (SBAR (IN for) (S (NP (PRP them)) (VP (TO to) (VP (VB embarrass) (NP (PRP him)) (PP (IN in) (NP (PRP$ his) (JJ own) (NN home) (NN state)))))))))))) (. .)))
+SosoRBOPER0,,,OPER0TennesseeTennesseeNNPGPEPER0's'sPOSOPER0mostmostRBSOPER0illustriousillustriousJJOPER0modernmodernJJOPER0politicalpoliticalJJOPER0familyfamilyNNOPER0isbeVBZOPER0havinghaveVBGOPER0totoTOOPER0workworkVBOPER0mightymightyRBOPER0hardhardRBOPER0atatINOPER0homehomeNNOPER0nownowRBDATEPER0andandCCOPER0spendspendVBOPER0atatRBMONEYPER0leastleastRBSMONEYPER0$$$MONEYPER011CDMONEYPER0millionmillionCDMONEYPER0ononINOPER0locallocalJJOPER0TVtvNNOPER0adsadNNSOPER0somethingsomethingNNOPER0theytheyPRPOPER0diddoVBDOPER0n'tnotRBOPER0planplanVBOPER0ononRBOPER0...OPER0(ROOT (S (ADVP (RB So)) (, ,) (NP (NP (NNP Tennessee) (POS 's)) (ADJP (RBS most) (JJ illustrious)) (JJ modern) (JJ political) (NN family)) (VP (VBZ is) (VP (VBG having) (S (VP (TO to) (VP (VP (VB work) (ADVP (RB mighty) (RB hard) (PP (IN at) (NP (NN home)))) (ADVP (RB now))) (CC and) (VP (VB spend) (NP (QP (ADVP (RB at) (RBS least)) ($ $) (CD 1) (CD million))) (PP (IN on) (NP (JJ local) (NN TV) (NNS ads)))) (NP (NP (NN something)) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB plan) (ADVP (RB on)))))))))))) (. .)))
+CancanMDOPER0youyouPRPOPER0comecomeVBOPER0outoutRPOPER0andandCCOPER0workworkVBOPER0hardhardRBOPER0forforINOPER0himhePRPOPER0oneoneCDOPER0moremoreJJROPER0timetimeNNOPER0??.OPER0(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VP (VB come) (PRT (RP out))) (CC and) (VP (VB work) (ADVP (RB hard)) (PP (IN for) (NP (PRP him)))) (NP (QP (CD one) (JJR more)) (NN time))) (. ?)))
+ThetheDTOPER0importanceimportanceNNOPER0ofofINOPER0TennesseeTennesseeNNPGPEPER0totoINOPER0mymyPRP$OPER0familyfamilyNNOPER0goesgoVBZOPER0waywayRBOPER0beyondbeyondINOPER0itsitsPRP$OPER01111CDCARDINALPER0electoralelectoralJJOPER0votesvoteNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN importance)) (PP (IN of) (NP (NNP Tennessee))) (PP (IN to) (NP (PRP$ my) (NN family)))) (VP (VBZ goes) (PP (ADVP (RB way)) (IN beyond) (NP (PRP$ its) (CD 11) (JJ electoral) (NNS votes)))) (. .)))
+SuresureUHOPER0,,,OPER0ititPRPOPER0'sbeVBZOPER0aaDTOPER0mattermatterNNOPER0ofofINOPER0prideprideNNOPER0,,,OPER0butbutCCOPER0ininINOPER0aaDTOPER0raceraceNNOPER0thisthisRBOPER0narrownarrowJJOPER0,,,OPER01111CDCARDINALPER0electoralelectoralJJOPER0votesvoteNNSOPER0aibeVBPOPER0n'tnotRBOPER0hayhayNNOPER0...OPER0(ROOT (S (INTJ (UH Sure)) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NN pride)))))) (, ,) (CC but) (S (PP (IN in) (NP (NP (DT a) (NN race)) (ADJP (RB this) (JJ narrow)))) (, ,) (NP (CD 11) (JJ electoral) (NNS votes)) (VP (VBP ai) (RB n't) (NP (NN hay)))) (. .)))
+JimJimNNPPERSONPER0WootenWootenNNPPERSONPER0,,,OPER0ABCABCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0NashvilleNashvilleNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Jim) (NNP Wooten)) (, ,) (NP (NNP ABC) (NNP News)) (, ,) (NP (NNP Nashville)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (NNP Mr.) (NNP Gore))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 4 until 9 headed by 6 parsed as (NP (NP (PRP$ his) (NN home) (NN state)) (PP (IN of) (NP (NNP Tennessee))))
+sid=1 spanning 4 until 5 headed by 4 parsed as his
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NN today))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Tennessee))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (PRP$ its) (JJ favorite) (NN son))
+sid=2 spanning 4 until 5 headed by 4 parsed as its
+sid=3 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Jim) (NNP Wooten))
+sid=3 spanning 2 until 4 headed by 2 parsed as (NP (NNP ABC) (POS 's))
+sid=4 spanning 0 until 7 headed by 5 parsed as be
+sid=4 spanning 9 until 17 headed by 14 parsed as come
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=6 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Vice) (NNP President))
+sid=6 spanning 19 until 20 headed by 19 parsed as (NP (NN today))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (NNP Tennessee))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=8 spanning 15 until 17 headed by 16 parsed as (NP (DT this) (NN week))
+sid=8 spanning 17 until 18 headed by 17 parsed as (NP (PRP he))
+sid=8 spanning 25 until 64 headed by 26 parsed as (NP (NNP Governor) (NNP Bush))
+sid=8 spanning 43 until 44 headed by 43 parsed as (NP (NNP Tennessee))
+sid=8 spanning 44 until 46 headed by 45 parsed as (NP (DT this) (NN week))
+sid=8 spanning 50 until 51 headed by 50 parsed as his
+sid=8 spanning 61 until 64 headed by 63 parsed as (NP (DT the) (NNP Vice) (NNP President))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=9 spanning 3 until 6 headed by 3 parsed as (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C.)))
+sid=9 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=9 spanning 14 until 15 headed by 14 parsed as (NP (NNP Tennessee))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=11 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=11 spanning 6 until 7 headed by 6 parsed as (NP (NNP Washington))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=12 spanning 6 until 7 headed by 6 parsed as (NP (PRP him))
+sid=13 spanning 4 until 5 headed by 4 parsed as (NP (NNP Bush))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=17 spanning 4 until 5 headed by 4 parsed as (NP (NNP Gore))
+sid=17 spanning 6 until 7 headed by 6 parsed as his
+sid=19 spanning 6 until 21 headed by 7 parsed as (NP (NP (DT a) (NN prophet)) (PP (IN without) (NP (NN honor))) (PP (PP (IN in) (NP (PRP$ his) (JJ own) (NN land))) (CC or) (ADVP (RB even)) (PP (ADVP (RB here)) (IN in) (NP (PRP$ his) (JJ own) (NN hometown)))))
+sid=19 spanning 11 until 12 headed by 11 parsed as his
+sid=19 spanning 18 until 19 headed by 18 parsed as his
+sid=20 spanning 4 until 5 headed by 4 parsed as (NP (NNP Tennessee))
+sid=20 spanning 24 until 25 headed by 24 parsed as (NP (NNP Gore))
+sid=20 spanning 32 until 33 headed by 32 parsed as (NP (PRP he))
+sid=20 spanning 48 until 49 headed by 48 parsed as his
+sid=20 spanning 55 until 56 headed by 55 parsed as whittled
+sid=21 spanning 0 until 1 headed by 0 parsed as His
+sid=21 spanning 9 until 10 headed by 9 parsed as (NP (DT that))
+sid=22 spanning 11 until 20 headed by 12 parsed as (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NP (DT the) (NN membership)) (PP (IN of) (NP (NNP Congress))))))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=23 spanning 7 until 8 headed by 7 parsed as (NP (PRP them))
+sid=23 spanning 10 until 11 headed by 10 parsed as (NP (PRP him))
+sid=23 spanning 12 until 16 headed by 15 parsed as (NP (PRP$ his) (JJ own) (NN home) (NN state))
+sid=23 spanning 12 until 13 headed by 12 parsed as his
+sid=24 spanning 2 until 9 headed by 8 parsed as (NP (NP (NNP Tennessee) (POS 's)) (ADJP (RBS most) (JJ illustrious)) (JJ modern) (JJ political) (NN family))
+sid=24 spanning 2 until 4 headed by 2 parsed as (NP (NNP Tennessee) (POS 's))
+sid=24 spanning 16 until 17 headed by 16 parsed as (NP (NN home))
+sid=24 spanning 30 until 31 headed by 30 parsed as (NP (PRP they))
+sid=25 spanning 8 until 9 headed by 8 parsed as (NP (PRP him))
+sid=26 spanning 3 until 4 headed by 3 parsed as (NP (NNP Tennessee))
+sid=26 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ my) (NN family))
+sid=26 spanning 5 until 6 headed by 5 parsed as my
+sid=28 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jim) (NNP Wooten))
+sid=28 spanning 3 until 5 headed by 4 parsed as (NP (NNP ABC) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (NNP Mr.) (NNP Gore))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 4 until 9 headed by 6 parsed as (NP (NP (PRP$ his) (NN home) (NN state)) (PP (IN of) (NP (NNP Tennessee))))
+sid=1 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Tennessee))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Tennessee))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (PRP$ its) (JJ favorite) (NN son))
+sid=2 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (JJ free) (NN ride))
+sid=3 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Jim) (NNP Wooten))
+sid=3 spanning 2 until 4 headed by 2 parsed as (NP (NNP ABC) (POS 's))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (CD 7777))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=6 spanning 8 until 13 headed by 12 parsed as (NP (QP (CD 2) (CD 1) (SYM /) (CD 2)) (NNS months))
+sid=6 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Vice) (NNP President))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (NNP Tennessee))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=8 spanning 7 until 9 headed by 8 parsed as (NP (CD 14) (NNS times))
+sid=8 spanning 10 until 12 headed by 11 parsed as (NP (CD 24) (NNS years))
+sid=8 spanning 15 until 17 headed by 16 parsed as (NP (DT this) (NN week))
+sid=8 spanning 17 until 18 headed by 17 parsed as (NP (PRP he))
+sid=8 spanning 26 until 27 headed by 26 parsed as (NP (NNP Governor) (NNP Bush))
+sid=8 spanning 25 until 27 headed by 26 parsed as (NP (NNP Governor) (NNP Bush))
+sid=8 spanning 43 until 44 headed by 43 parsed as (NP (NNP Tennessee))
+sid=8 spanning 44 until 46 headed by 45 parsed as (NP (DT this) (NN week))
+sid=8 spanning 50 until 64 headed by 53 parsed as (NP (NP (PRP$ his) (JJ favorite) (JJ sarcastic) (NN question)) (: --) (`` ``) (SBARQ (WHADVP (WRB where)) (SQ (ADVP (RB exactly)) (VP (VBZ is) (NP (NP (NN home)) (PP (IN for) (NP (DT the) (NNP Vice) (NNP President))))))))
+sid=8 spanning 50 until 51 headed by 50 parsed as (PRP$ his)
+sid=8 spanning 59 until 64 headed by 59 parsed as (NP (NP (NN home)) (PP (IN for) (NP (DT the) (NNP Vice) (NNP President))))
+sid=8 spanning 61 until 64 headed by 63 parsed as (NP (DT the) (NNP Vice) (NNP President))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=9 spanning 3 until 4 headed by 3 parsed as (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C.)))
+sid=9 spanning 3 until 6 headed by 3 parsed as (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C.)))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (NNP D.C.))
+sid=9 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=9 spanning 14 until 15 headed by 14 parsed as (NP (NNP Tennessee))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=11 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=11 spanning 6 until 7 headed by 6 parsed as (NP (NNP Washington))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=12 spanning 4 until 5 headed by 4 parsed as (NP (NNS people))
+sid=12 spanning 6 until 7 headed by 6 parsed as (NP (PRP him))
+sid=12 spanning 7 until 9 headed by 8 parsed as (NP (DT a) (NNP Tennessean))
+sid=13 spanning 0 until 2 headed by 1 parsed as Wiser
+sid=13 spanning 4 until 5 headed by 4 parsed as (NP (NNP Bush))
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (NN yesterday))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=14 spanning 2 until 10 headed by 2 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (QP (DT a) (JJ few)) (NNS states)) (PP (IN with) (NP (JJ early) (NN voting))))))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=15 spanning 2 until 7 headed by 3 parsed as (NP (NP (CD nine) (NNS people)) (VP (VBG running) (PP (IN for) (NP (NNP President)))))
+sid=15 spanning 6 until 7 headed by 6 parsed as (NP (NNP President))
+sid=16 spanning 4 until 5 headed by 4 parsed as (NP (NP (DT the) (NNPS Wrights)) (, ,) (NP (NNP Michael) (CC and) (NNP Carolyn)) (, ,) (NP (NNPS Independents)) (, ,) (CC but) (NP (RB not) (JJ undecided)))
+sid=16 spanning 3 until 15 headed by 4 parsed as (NP (NP (DT the) (NNPS Wrights)) (, ,) (NP (NNP Michael) (CC and) (NNP Carolyn)) (, ,) (NP (NNPS Independents)) (, ,) (CC but) (NP (RB not) (JJ undecided)))
+sid=16 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNPS Wrights))
+sid=16 spanning 6 until 7 headed by 6 parsed as (NP (NNP Michael) (CC and) (NNP Carolyn))
+sid=16 spanning 6 until 9 headed by 6 parsed as (NP (NNP Michael) (CC and) (NNP Carolyn))
+sid=16 spanning 8 until 9 headed by 8 parsed as Carolyn
+sid=16 spanning 10 until 11 headed by 10 parsed as (NP (NNPS Independents))
+sid=17 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT The) (JJS biggest) (NN negative)) (PP (IN for) (NP (NNP Gore))))
+sid=17 spanning 4 until 5 headed by 4 parsed as (NP (NNP Gore))
+sid=17 spanning 6 until 11 headed by 7 parsed as (NP (NP (PRP$ his) (NN association)) (PP (IN with) (NP (NNP Mr.) (NNP Clinton))))
+sid=17 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=17 spanning 9 until 11 headed by 10 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=18 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN baggage) (. ?))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=19 spanning 3 until 21 headed by 4 parsed as (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NP (DT a) (NN prophet)) (PP (IN without) (NP (NN honor))) (PP (PP (IN in) (NP (PRP$ his) (JJ own) (NN land))) (CC or) (ADVP (RB even)) (PP (ADVP (RB here)) (IN in) (NP (PRP$ his) (JJ own) (NN hometown)))))))
+sid=19 spanning 6 until 21 headed by 7 parsed as (NP (NP (DT a) (NN prophet)) (PP (IN without) (NP (NN honor))) (PP (PP (IN in) (NP (PRP$ his) (JJ own) (NN land))) (CC or) (ADVP (RB even)) (PP (ADVP (RB here)) (IN in) (NP (PRP$ his) (JJ own) (NN hometown)))))
+sid=19 spanning 11 until 14 headed by 13 parsed as (NP (PRP$ his) (JJ own) (NN land))
+sid=19 spanning 11 until 12 headed by 11 parsed as (PRP$ his)
+sid=19 spanning 18 until 21 headed by 20 parsed as (NP (PRP$ his) (JJ own) (NN hometown))
+sid=19 spanning 18 until 19 headed by 18 parsed as (PRP$ his)
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=20 spanning 4 until 5 headed by 4 parsed as (NP (NNP Tennessee))
+sid=20 spanning 6 until 12 headed by 11 parsed as (NP (DT a) (JJ genuine) (NML (CD two) (HYPH -) (NN party)) (NN state))
+sid=20 spanning 16 until 21 headed by 20 parsed as (NP (DT a) (JJ long) (, ,) (JJ long) (NN time))
+sid=20 spanning 24 until 25 headed by 24 parsed as (NP (NNP Gore))
+sid=20 spanning 28 until 30 headed by 29 parsed as (NP (DT an) (NN election))
+sid=20 spanning 32 until 33 headed by 32 parsed as (NP (PRP he))
+sid=20 spanning 36 until 38 headed by 37 parsed as (NP (DT a) (NN landslide))
+sid=20 spanning 41 until 43 headed by 42 parsed as (NP (DT this) (NN time))
+sid=20 spanning 46 until 47 headed by 46 parsed as (NP (JJ little))
+sid=20 spanning 48 until 53 headed by 52 parsed as (NP (PRP$ his) (ADJP (RB once) (HYPH -) (JJ comfortable)) (NN ad))
+sid=20 spanning 48 until 49 headed by 48 parsed as (PRP$ his)
+sid=21 spanning 0 until 4 headed by 2 parsed as (NP (NP (PRP$ His) (NN state) (NN campaign)) (NP (NN director)))
+sid=21 spanning 0 until 1 headed by 0 parsed as (PRP$ His)
+sid=21 spanning 7 until 8 headed by 7 parsed as (NP (PRP we))
+sid=21 spanning 9 until 10 headed by 9 parsed as (NP (DT that))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=22 spanning 3 until 6 headed by 5 parsed as (NP (DT a) (JJ Republican) (NN governor))
+sid=22 spanning 7 until 10 headed by 9 parsed as (NP (CD two) (NNP Republican) (NNS senators))
+sid=22 spanning 11 until 18 headed by 12 parsed as (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NP (DT the) (NN membership)) (PP (IN of) (NP (NNP Congress))))))
+sid=22 spanning 14 until 18 headed by 15 parsed as (NP (NP (DT the) (NN membership)) (PP (IN of) (NP (NNP Congress))))
+sid=22 spanning 17 until 18 headed by 17 parsed as (NP (NNP Congress))
+sid=22 spanning 19 until 20 headed by 19 parsed as (NP (NNPS Republicans))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=23 spanning 7 until 8 headed by 7 parsed as (NP (PRP them))
+sid=23 spanning 10 until 11 headed by 10 parsed as (NP (PRP him))
+sid=23 spanning 12 until 16 headed by 15 parsed as (NP (PRP$ his) (JJ own) (NN home) (NN state))
+sid=23 spanning 12 until 13 headed by 12 parsed as (PRP$ his)
+sid=24 spanning 2 until 9 headed by 8 parsed as (NP (NP (NNP Tennessee) (POS 's)) (ADJP (RBS most) (JJ illustrious)) (JJ modern) (JJ political) (NN family))
+sid=24 spanning 2 until 4 headed by 2 parsed as (NP (NNP Tennessee) (POS 's))
+sid=24 spanning 17 until 18 headed by 17 parsed as now
+sid=24 spanning 26 until 29 headed by 28 parsed as (NP (JJ local) (NN TV) (NNS ads))
+sid=24 spanning 29 until 35 headed by 29 parsed as (NP (NP (NN something)) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB plan) (ADVP (RB on)))))))
+sid=24 spanning 30 until 31 headed by 30 parsed as (NP (PRP they))
+sid=25 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=25 spanning 8 until 9 headed by 8 parsed as (NP (PRP him))
+sid=25 spanning 9 until 12 headed by 11 parsed as (NP (QP (CD one) (JJR more)) (NN time))
+sid=26 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN importance)) (PP (IN of) (NP (NNP Tennessee))) (PP (IN to) (NP (PRP$ my) (NN family))))
+sid=26 spanning 3 until 4 headed by 3 parsed as (NP (NNP Tennessee))
+sid=26 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ my) (NN family))
+sid=26 spanning 5 until 6 headed by 5 parsed as (PRP$ my)
+sid=26 spanning 10 until 14 headed by 13 parsed as (NP (PRP$ its) (CD 11) (JJ electoral) (NNS votes))
+sid=26 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=27 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=27 spanning 4 until 8 headed by 5 parsed as (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NN pride))))
+sid=27 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT a) (NN race)) (ADJP (RB this) (JJ narrow)))
+sid=27 spanning 16 until 19 headed by 18 parsed as (NP (CD 11) (JJ electoral) (NNS votes))
+sid=28 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jim) (NNP Wooten))
+sid=28 spanning 3 until 5 headed by 4 parsed as (NP (NNP ABC) (NNP News))
+sid=28 spanning 6 until 7 headed by 6 parsed as (NP (NNP Nashville))
+(end predicted mentions)
+---------gold clusters--------
+38 37 39 | { 'his' 'a prophet without honor in his own land or even here in his own hometown' 'his' }
+15 7 55 5 58 11 40 2 34 54 20 27 51 10 | { 'Tennessee' 'its' 'home' 'Tennessee' 'Tennessee' 'not a bad place to come back to' 'Tennessee' 'his home state of Tennessee' 'This' 'Tennessee 's' 'Tennessee' 'Tennessee' 'his own home state' 'Not a bad place to be from' }
+30 25 | { 'Washington' 'Washington , D.C.' }
+59 53 56 | { 'my family' 'Tennessee 's most illustrious modern political family' 'they' }
+9 62 | { 'ABC 's' 'ABC News' }
+14 4 | { 'today' 'today' }
+8 61 | { 'ABC 's Jim Wooten' 'Jim Wooten' }
+43 12 24 3 18 36 45 26 50 1 13 6 0 32 23 52 42 35 16 41 60 29 57 | { 'his' 'he' 'He' 'his' 'he' 'his' 'His' 'he' 'him' 'He' 'the Vice President' 'its favorite son' 'Mr. Gore' 'him' 'the Vice President' 'his' 'he' 'Gore' 'he' 'Gore' 'my' 'he' 'him' }
+48 49 47 | { 'They' 'them' 'the majority of the membership of Congress are Republicans' }
+22 31 33 28 19 | { 'his' 'I' 'Bush' 'I' 'Governor Bush , who is n't in trouble at home , and who just happened to be in Tennessee this week , too , asking his favorite sarcastic question -- `` where exactly is home for the Vice President' }
+44 46 | { 'whittled' 'that' }
+21 17 | { 'this week' 'this week' }
+(end gold clusters)

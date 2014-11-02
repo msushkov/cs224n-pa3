@@ -1,0 +1,53 @@
+---------gloss--------
+(0) From the air , [3m[31m{it}[0m looks like a big box of spilled matching and toothpicks . 
+(1) [3m[31m{A runaway freight train}[0m derailed in Commerce , California , and spilled [3m[31m{its}[0m load of lumber . 
+(2) [1m[36m{Our}[0m national correspondent Frank Buckley is on the scene for [1m[36m{us}[0m . 
+(3) [1m[35m{He}[0m 's there and joining [1m[36m{us}[0m live with details . 
+(4) How bad is it ? 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0421); part 000
+sentences:
+FromfromINOPER0thetheDTOPER0airairNNOPER0,,,OPER0ititPRPOPER0lookslookVBZOPER0likelikeINOPER0aaDTOPER0bigbigJJOPER0boxboxNNOPER0ofofINOPER0spilledspillVBDOPER0matchingmatchingNNOPER0andandCCOPER0toothpickstoothpickNNSOPER0...OPER0(ROOT (S (PP (IN From) (NP (DT the) (NN air))) (, ,) (NP (PRP it)) (VP (VBZ looks) (PP (IN like) (NP (NP (DT a) (JJ big) (NN box)) (PP (IN of) (S (VP (VBD spilled) (NP (NN matching) (CC and) (NNS toothpicks)))))))) (. .)))
+AaDTOPER0runawayrunawayJJOPER0freightfreightNNOPER0traintrainNNOPER0derailedderailVBDOPER0ininINOPER0CommerceCommerceNNPORGPER0,,,OPER0CaliforniaCaliforniaNNPGPEPER0,,,OPER0andandCCOPER0spilledspillVBDOPER0itsitsPRP$OPER0loadloadNNOPER0ofofINOPER0lumberlumberNNOPER0...OPER0(ROOT (S (NP (DT A) (JJ runaway) (NN freight) (NN train)) (VP (VP (VBD derailed) (PP (IN in) (NP (NP (NNP Commerce)) (, ,) (NP (NNP California))))) (, ,) (CC and) (VP (VBD spilled) (NP (NP (PRP$ its) (NN load)) (PP (IN of) (NP (NN lumber)))))) (. .)))
+OurwePRP$OPER0nationalnationalJJOPER0correspondentcorrespondentNNOPER0FrankFrankNNPPERSONPER0BuckleyBuckleyNNPPERSONPER0isbeVBZOPER0ononINOPER0thetheDTOPER0scenesceneNNOPER0forforINOPER0uswePRPOPER0...OPER0(ROOT (S (NP (NP (PRP$ Our) (JJ national) (NN correspondent)) (NP (NNP Frank) (NNP Buckley))) (VP (VBZ is) (PP (IN on) (NP (DT the) (NN scene))) (PP (IN for) (NP (PRP us)))) (. .)))
+HehePRPOPER0'sbeVBZOPER0therethereRBOPER0andandCCOPER0joiningjoinVBGOPER0uswePRPOPER0liveliveRBOPER0withwithINOPER0detailsdetailNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ 's) (UCP (ADVP (RB there)) (CC and) (VP (VBG joining) (NP (PRP us)) (ADVP (RB live)) (PP (IN with) (NP (NNS details)))))) (. .)))
+HowhowWRBOPER0badbadJJOPER0isbeVBZOPER0ititPRPOPER0??.OPER0(ROOT (SBARQ (WHADJP (WRB How) (JJ bad)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ runaway) (NN freight) (NN train))
+sid=1 spanning 12 until 13 headed by 12 parsed as its
+sid=2 spanning 0 until 5 headed by 2 parsed as (NP (NP (PRP$ Our) (JJ national) (NN correspondent)) (NP (NNP Frank) (NNP Buckley)))
+sid=2 spanning 0 until 1 headed by 0 parsed as Our
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (PRP us))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP us))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN air))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 7 until 15 headed by 9 parsed as (NP (NP (DT a) (JJ big) (NN box)) (PP (IN of) (S (VP (VBD spilled) (NP (NN matching) (CC and) (NNS toothpicks))))))
+sid=0 spanning 12 until 15 headed by 12 parsed as (NP (NN matching) (CC and) (NNS toothpicks))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ runaway) (NN freight) (NN train))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP Commerce)) (, ,) (NP (NNP California)))
+sid=1 spanning 6 until 9 headed by 6 parsed as (NP (NP (NNP Commerce)) (, ,) (NP (NNP California)))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP California))
+sid=1 spanning 12 until 16 headed by 13 parsed as (NP (NP (PRP$ its) (NN load)) (PP (IN of) (NP (NN lumber))))
+sid=1 spanning 12 until 13 headed by 12 parsed as (PRP$ its)
+sid=2 spanning 0 until 5 headed by 2 parsed as (NP (NP (PRP$ Our) (JJ national) (NN correspondent)) (NP (NNP Frank) (NNP Buckley)))
+sid=2 spanning 0 until 1 headed by 0 parsed as (PRP$ Our)
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (NNP Frank) (NNP Buckley))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN scene))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (PRP us))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP us))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNS details))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+(end predicted mentions)
+---------gold clusters--------
+6 3 | { 'He' 'Our national correspondent Frank Buckley' }
+4 5 7 | { 'Our' 'us' 'us' }
+0 2 1 | { 'it' 'its' 'A runaway freight train' }
+(end gold clusters)

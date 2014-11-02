@@ -1,0 +1,29 @@
+---------gloss--------
+(0) Xinhua News Agency , Paris , February 13th 
+(1) According to what has been shown by a public opinion poll published in France 's " Politics Weekly " today , 56 % of French people support immediately stopping the Gulf War and starting negotiations to try for the peaceful settlement of the Gulf Crisis . 
+(end gloss)
+---------document--------
+(nw/xinhua/01/chtb_0175); part 000
+sentences:
+XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0,,,OPER0ParisParisNNPGPEPER0,,,OPER0FebruaryFebruaryNNPDATEPER013th13thNNOPER0(ROOT (FRAG (NP (NNP Xinhua) (NNP News) (NNP Agency)) (, ,) (NP (NNP Paris)) (, ,) (NP (NNP February) (NN 13th))))
+AccordingaccordVBGOPER0totoINOPER0whatwhatWPOPER0hashaveVBZOPER0beenbeVBNOPER0shownshowVBNOPER0bybyINOPER0aaDTOPER0publicpublicJJOPER0opinionopinionNNOPER0pollpollNNOPER0publishedpublishVBNOPER0ininINOPER0FranceFranceNNPGPEPER0's'sPOSOPER0""``OPER0PoliticsPoliticsNNPWORK_OF_ARTPER1WeeklyWeeklyNNPWORK_OF_ARTPER1""''OPER0todaytodayNNDATEPER0,,,OPER05656CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0FrenchfrenchJJOPER0peoplepeopleNNSOPER0supportsupportVBPOPER0immediatelyimmediatelyRBOPER0stoppingstopVBGOPER0thetheDTEVENTPER0GulfGulfNNPEVENTPER0WarWarNNPEVENTPER0andandCCOPER0startingstartVBGOPER0negotiationsnegotiationNNSOPER0totoTOOPER0trytryVBOPER0forforINOPER0thetheDTOPER0peacefulpeacefulJJOPER0settlementsettlementNNOPER0ofofINOPER0thetheDTORGPER0GulfGulfNNPORGPER0CrisiscrisisNNORGPER0...OPER0(ROOT (S (PP (VBG According) (PP (IN to) (SBAR (WHNP (WP what)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (PP (IN by) (NP (NP (DT a) (NML (JJ public) (NN opinion)) (NN poll)) (VP (VBN published) (PP (IN in) (NP (NP (NNP France) (POS 's)) (`` ") (NNP Politics) (NNP Weekly) ('' "))) (NP (NN today)))))))))))) (, ,) (NP (NP (CD 56) (NN %)) (PP (IN of) (NP (JJ French) (NNS people)))) (VP (VBP support) (ADVP (RB immediately)) (VP (VP (VBG stopping) (NP (DT the) (NNP Gulf) (NNP War))) (CC and) (VP (VBG starting) (NP (NNS negotiations) (S (VP (TO to) (VP (VB try) (PP (IN for) (NP (NP (DT the) (JJ peaceful) (NN settlement)) (PP (IN of) (NP (DT the) (NNP Gulf) (NN Crisis)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Xinhua) (NNP News) (NNP Agency))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Paris))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP February) (NN 13th))
+sid=0 spanning 6 until 7 headed by 6 parsed as February
+sid=1 spanning 7 until 20 headed by 10 parsed as (NP (NP (DT a) (NML (JJ public) (NN opinion)) (NN poll)) (VP (VBN published) (PP (IN in) (NP (NP (NNP France) (POS 's)) (`` ") (NNP Politics) (NNP Weekly) ('' "))) (NP (NN today))))
+sid=1 spanning 13 until 19 headed by 17 parsed as (NP (NP (NNP France) (POS 's)) (`` ") (NNP Politics) (NNP Weekly) ('' "))
+sid=1 spanning 13 until 15 headed by 13 parsed as (NP (NNP France) (POS 's))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (JJ French) (NNS people))
+sid=1 spanning 29 until 32 headed by 31 parsed as (NP (DT the) (NNP Gulf) (NNP War))
+sid=1 spanning 34 until 45 headed by 34 parsed as (NP (NNS negotiations) (S (VP (TO to) (VP (VB try) (PP (IN for) (NP (NP (DT the) (JJ peaceful) (NN settlement)) (PP (IN of) (NP (DT the) (NNP Gulf) (NN Crisis)))))))))
+sid=1 spanning 38 until 45 headed by 40 parsed as (NP (NP (DT the) (JJ peaceful) (NN settlement)) (PP (IN of) (NP (DT the) (NNP Gulf) (NN Crisis))))
+sid=1 spanning 42 until 45 headed by 44 parsed as (NP (DT the) (NNP Gulf) (NN Crisis))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

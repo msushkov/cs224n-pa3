@@ -1,0 +1,56 @@
+---------gloss--------
+(0) [1m[31m{Palestinian leader Yasser Arafat}[0m says [36m{separate Palestinian and Israeli delegations}[0m will travel to [1m[32m{Washington}[0m in the coming days to work on [1m[33m{the peace process}[0m . 
+(1) Speaking with reporters in Gaza City , [1m[31m{Mr. Arafat}[0m said [36m{the delegations}[0m would go to [1m[32m{Washington}[0m to discuss how to support [1m[33m{the peace process}[0m . 
+(2) The Palestinian Information Minister says the Palestinian delegation will begin talks in [1m[32m{Washington}[0m Tuesday . 
+(3) AN Israeli delegation headed by Foreign Minister Shlomo Ben - Ami is due to leave for [1m[32m{Qashington}[0m later today . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0174); part 000
+sentences:
+PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0sayssayVBZOPER0separateseparateJJOPER0PalestinianpalestinianJJOPER0andandCCOPER0IsraeliisraeliJJOPER0delegationsdelegationNNSOPER0willwillMDOPER0traveltravelVBOPER0totoINOPER0WashingtonWashingtonNNPGPEPER0ininINOPER0thetheDTDATEPER0comingcomeVBGDATEPER0daysdayNNSDATEPER0totoTOOPER0workworkVBOPER0ononINOPER0thetheDTOPER0peacepeaceNNOPER0processprocessNNOPER0...OPER0(ROOT (S (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (VP (VBZ says) (SBAR (S (NP (JJ separate) (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NNS delegations)) (VP (MD will) (VP (VB travel) (PP (IN to) (NP (NNP Washington))) (PP (IN in) (NP (DT the) (VBG coming) (NNS days))) (S (VP (TO to) (VP (VB work) (PP (IN on) (NP (DT the) (NN peace) (NN process))))))))))) (. .)))
+SpeakingspeakVBGOPER0withwithINOPER0reportersreporterNNSOPER0ininINOPER0GazaGazaNNPGPEPER0CityCityNNPGPEPER0,,,OPER0Mr.Mr.NNPOPER0ArafatArafatNNPPERSONPER0saidsayVBDOPER0thetheDTOPER0delegationsdelegationNNSOPER0wouldwouldMDOPER0gogoVBOPER0totoINOPER0WashingtonWashingtonNNPGPEPER0totoTOOPER0discussdiscussVBOPER0howhowWRBOPER0totoTOOPER0supportsupportVBOPER0thetheDTOPER0peacepeaceNNOPER0processprocessNNOPER0...OPER0(ROOT (S (S (VP (VBG Speaking) (PP (IN with) (NP (NP (NNS reporters)) (PP (IN in) (NP (NNP Gaza) (NNP City))))))) (, ,) (NP (NNP Mr.) (NNP Arafat)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS delegations)) (VP (MD would) (VP (VB go) (PP (IN to) (NP (NNP Washington))) (S (VP (TO to) (VP (VB discuss) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB support) (NP (DT the) (NN peace) (NN process)))))))))))))) (. .)))
+ThetheDTOPER0PalestinianpalestinianJJOPER0InformationInformationNNPORGPER0MinisterMinisterNNPOPER0sayssayVBZOPER0thetheDTOPER0PalestinianpalestinianJJOPER0delegationdelegationNNOPER0willwillMDOPER0beginbeginVBOPER0talkstalkNNSOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0TuesdayTuesdayNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ Palestinian) (NNP Information) (NNP Minister)) (VP (VBZ says) (SBAR (S (NP (DT the) (JJ Palestinian) (NN delegation)) (VP (MD will) (VP (VB begin) (NP (NP (NNS talks)) (PP (IN in) (NP (NP (NNP Washington)) (NP (NNP Tuesday)))))))))) (. .)))
+ANaDTOPER0IsraeliisraeliJJOPER0delegationdelegationNNOPER0headedheadVBNOPER0bybyINOPER0ForeignForeignNNPOPER0MinisterMinisterNNPOPER0ShlomoShlomoNNPPERSONPER0BenBenNNPPERSONPER0--HYPHPERSONPER0AmiAmiNNPPERSONPER0isbeVBZOPER0duedueJJOPER0totoTOOPER0leaveleaveVBOPER0forforINOPER0QashingtonQashingtonNNPORGPER0laterlaterRBDATEPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (DT AN) (JJ Israeli) (NN delegation)) (VP (VBN headed) (PP (IN by) (NP (NML (NNP Foreign) (NNP Minister)) (NNP Shlomo) (NNP Ben) (HYPH -) (NNP Ami))))) (VP (VBZ is) (ADJP (JJ due) (S (VP (TO to) (VP (VB leave) (PP (IN for) (NP (NNP Qashington))) (NP (ADVP (RB later)) (NN today))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (JJ separate) (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NNS delegations))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP Washington))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN peace) (NN process))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP Mr.) (NNP Arafat))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS delegations))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Washington))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN peace) (NN process))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP Washington)) (NP (NNP Tuesday)))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Qashington))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (JJ separate) (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NNS delegations))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP Washington))
+sid=0 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (VBG coming) (NNS days))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN peace) (NN process))
+sid=1 spanning 2 until 6 headed by 2 parsed as (NP (NP (NNS reporters)) (PP (IN in) (NP (NNP Gaza) (NNP City))))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NNP Gaza) (NNP City))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP Mr.) (NNP Arafat))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS delegations))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Washington))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN peace) (NN process))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ Palestinian) (NNP Information) (NNP Minister))
+sid=2 spanning 2 until 3 headed by 2 parsed as Information
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ Palestinian) (NN delegation))
+sid=2 spanning 10 until 14 headed by 10 parsed as (NP (NP (NNS talks)) (PP (IN in) (NP (NP (NNP Washington)) (NP (NNP Tuesday)))))
+sid=2 spanning 12 until 14 headed by 12 parsed as (NP (NP (NNP Washington)) (NP (NNP Tuesday)))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNP Tuesday))
+sid=3 spanning 0 until 11 headed by 2 parsed as (NP (NP (DT AN) (JJ Israeli) (NN delegation)) (VP (VBN headed) (PP (IN by) (NP (NML (NNP Foreign) (NNP Minister)) (NNP Shlomo) (NNP Ben) (HYPH -) (NNP Ami)))))
+sid=3 spanning 5 until 11 headed by 10 parsed as (NP (NML (NNP Foreign) (NNP Minister)) (NNP Shlomo) (NNP Ben) (HYPH -) (NNP Ami))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Qashington))
+sid=3 spanning 17 until 19 headed by 18 parsed as (NP (ADVP (RB later)) (NN today))
+(end predicted mentions)
+---------gold clusters--------
+5 1 | { 'the delegations' 'separate Palestinian and Israeli delegations' }
+4 0 | { 'Mr. Arafat' 'Palestinian leader Yasser Arafat' }
+8 2 6 9 | { 'Washington' 'Washington' 'Washington' 'Qashington' }
+3 7 | { 'the peace process' 'the peace process' }
+(end gold clusters)

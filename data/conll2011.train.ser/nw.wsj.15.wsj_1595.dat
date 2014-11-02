@@ -1,0 +1,90 @@
+---------gloss--------
+(0) [3m[33m{Initial claims for regular state unemployment benefits}[0m rose to [1m[36m{a seasonally adjusted 396,000}[0m during the week ended Oct. 7 from 334,000 [3m[31m{the previous week}[0m , [1m[35m{the Labor Department}[0m said . 
+(1) The number of people receiving regular state benefits in [3m[31m{the week ended Sept. 30}[0m decreased to a seasonally adjusted 2,202,000 , or 2.2 % of those covered by unemployment insurance , from 2,205,000 [3m[34m{the previous week}[0m , when the insured unemployment rate also was 2.2 % . 
+(2) Counting all state and federal benefit programs , the number of people receiving unemployment benefits in [3m[31m{the week ended Sept. 30}[0m fell to 1,809,300 from 1,838,200 [3m[34m{a week}[0m earlier . 
+(3) These figures are n't seasonally adjusted . 
+(4) [1m[34m{A Labor Department spokesman}[0m said [1m[36m{the unusually high number of initial claims for state unemployment benefits}[0m reflects the impact of Hurricane Hugo on southern states , particularly North Carolina and South Carolina . 
+(5) [1m[36m{The figure}[0m also may reflect initial claims filed by striking Nynex Corp. workers who have become eligible for unemployment benefits , [1m[34m{the official}[0m said . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1595); part 000
+sentences:
+InitialinitialJJOPER0claimsclaimNNSOPER0forforINOPER0regularregularJJOPER0statestateNNOPER0unemploymentunemploymentNNOPER0benefitsbenefitNNSOPER0roseriseVBDOPER0totoINOPER0aaDTOPER0seasonallyseasonallyRBOPER0adjustedadjustVBNOPER0396,000396,000CDCARDINALPER0duringduringINOPER0thetheDTDATEPER0weekweekNNDATEPER0endedendVBNDATEPER0Oct.Oct.NNPDATEPER077CDDATEPER0fromfromINOPER0334,000334,000CDCARDINALPER0thetheDTDATEPER0previouspreviousJJDATEPER0weekweekNNDATEPER0,,,OPER0thetheDTORGPER0LaborLaborNNPORGPER0DepartmentDepartmentNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (JJ Initial) (NNS claims)) (PP (IN for) (NP (JJ regular) (NN state) (NN unemployment) (NNS benefits)))) (VP (VBD rose) (PP (IN to) (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (CD 396,000))) (PP (IN during) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Oct.) (CD 7))))) (PP (IN from) (NP (CD 334,000)) (NP (DT the) (JJ previous) (NN week))))) (, ,) (NP (DT the) (NNP Labor) (NNP Department)) (VP (VBD said)) (. .)))
+ThetheDTOPER0numbernumberNNOPER0ofofINOPER0peoplepeopleNNSOPER0receivingreceiveVBGOPER0regularregularJJOPER0statestateNNOPER0benefitsbenefitNNSOPER0ininINOPER0thetheDTDATEPER0weekweekNNDATEPER0endedendVBNDATEPER0Sept.Sept.NNPDATEPER03030CDDATEPER0decreaseddecreaseVBDOPER0totoINOPER0aaDTOPER0seasonallyseasonallyRBOPER0adjustedadjustVBNOPER02,202,0002,202,000CDCARDINALPER0,,,OPER0ororCCOPER02.22.2CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thosethoseDTOPER0coveredcoverVBNOPER0bybyINOPER0unemploymentunemploymentNNOPER0insuranceinsuranceNNOPER0,,,OPER0fromfromINOPER02,205,0002,205,000CDCARDINALPER0thetheDTDATEPER0previouspreviousJJDATEPER0weekweekNNDATEPER0,,,OPER0whenwhenWRBOPER0thetheDTOPER0insuredinsuredJJOPER0unemploymentunemploymentNNOPER0raterateNNOPER0alsoalsoRBOPER0wasbeVBDOPER02.22.2CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBG receiving) (NP (JJ regular) (NN state) (NNS benefits)) (PP (IN in) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))))))) (VP (VBD decreased) (PP (IN to) (NP (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (CD 2,202,000)) (, ,) (CC or) (NP (NP (CD 2.2) (NN %)) (PP (IN of) (NP (NP (DT those)) (VP (VBN covered) (PP (IN by) (NP (NN unemployment) (NN insurance))))))) (, ,))) (PP (IN from) (NP (CD 2,205,000))) (NP (NP (DT the) (JJ previous) (NN week)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ insured) (NN unemployment) (NN rate)) (ADVP (RB also)) (VP (VBD was) (NP (CD 2.2) (NN %))))))) (. .)))
+CountingcountVBGOPER0allallDTOPER0statestateNNOPER0andandCCOPER0federalfederalJJOPER0benefitbenefitNNOPER0programsprogramNNSOPER0,,,OPER0thetheDTOPER0numbernumberNNOPER0ofofINOPER0peoplepeopleNNSOPER0receivingreceiveVBGOPER0unemploymentunemploymentNNOPER0benefitsbenefitNNSOPER0ininINOPER0thetheDTDATEPER0weekweekNNDATEPER0endedendVBNDATEPER0Sept.Sept.NNPDATEPER03030CDDATEPER0fellfallVBDOPER0totoINOPER01,809,3001,809,300CDCARDINALPER0fromfromINOPER01,838,2001,838,200CDMONEYPER0aaDTDATEPER0weekweekNNDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (S (VP (VBG Counting) (NP (DT all) (NP (NN state) (CC and) (JJ federal)) (NN benefit) (NNS programs)))) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBG receiving) (NP (NN unemployment) (NNS benefits)) (PP (IN in) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))))))) (VP (VBD fell) (PP (IN to) (NP (CD 1,809,300))) (PP (IN from) (NP (CD 1,838,200)) (ADVP (NP (DT a) (NN week)) (RBR earlier)))) (. .)))
+ThesetheseDTOPER0figuresfigureNNSOPER0arebeVBPOPER0n'tnotRBOPER0seasonallyseasonallyRBOPER0adjustedadjustedJJOPER0...OPER0(ROOT (S (NP (DT These) (NNS figures)) (VP (VBP are) (RB n't) (ADJP (RB seasonally) (JJ adjusted))) (. .)))
+AaDTOPER0LaborLaborNNPORGPER0DepartmentDepartmentNNPORGPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0thetheDTOPER0unusuallyunusuallyRBOPER0highhighJJOPER0numbernumberNNOPER0ofofINOPER0initialinitialJJOPER0claimsclaimNNSOPER0forforINOPER0statestateNNOPER0unemploymentunemploymentNNOPER0benefitsbenefitNNSOPER0reflectsreflectVBZOPER0thetheDTOPER0impactimpactNNOPER0ofofINOPER0HurricaneHurricaneNNPEVENTPER0HugoHugoNNPEVENTPER0ononINOPER0southernsouthernJJOPER0statesstateNNSOPER0,,,OPER0particularlyparticularlyRBOPER0NorthNorthNNPGPEPER0CarolinaCarolinaNNPGPEPER0andandCCOPER0SouthSouthNNPGPEPER0CarolinaCarolinaNNPGPEPER0...OPER0(ROOT (S (NP (DT A) (NML (NNP Labor) (NNP Department)) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (ADJP (RB unusually) (JJ high)) (NN number)) (PP (IN of) (NP (NP (JJ initial) (NNS claims)) (PP (IN for) (NP (NN state) (NN unemployment) (NNS benefits)))))) (VP (VBZ reflects) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NNP Hurricane) (NNP Hugo))) (PP (IN on) (NP (NP (JJ southern) (NNS states)) (, ,) (NP (ADVP (RB particularly)) (NP (NNP North) (NNP Carolina)) (CC and) (NP (NNP South) (NNP Carolina)))))))))) (. .)))
+ThetheDTOPER0figurefigureNNOPER0alsoalsoRBOPER0maymayMDOPER0reflectreflectVBOPER0initialinitialJJOPER0claimsclaimNNSOPER0filedfileVBNOPER0bybyINOPER0strikingstrikeVBGOPER0NynexNynexNNPORGPER0Corp.Corp.NNPORGPER0workersworkerNNSOPER0whowhoWPOPER0havehaveVBPOPER0becomebecomeVBNOPER0eligibleeligibleJJOPER0forforINOPER0unemploymentunemploymentNNOPER0benefitsbenefitNNSOPER0,,,OPER0thetheDTOPER0officialofficialNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT The) (NN figure)) (ADVP (RB also)) (VP (MD may) (VP (VB reflect) (NP (NP (JJ initial) (NNS claims)) (VP (VBN filed) (PP (IN by) (NP (NP (VBG striking) (NML (NNP Nynex) (NNP Corp.)) (NNS workers)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN become) (ADJP (JJ eligible) (PP (IN for) (NP (NN unemployment) (NNS benefits))))))))))))))) (, ,) (NP (DT the) (NN official)) (VP (VBD said)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 1 parsed as (NP (NP (JJ Initial) (NNS claims)) (PP (IN for) (NP (JJ regular) (NN state) (NN unemployment) (NNS benefits))))
+sid=0 spanning 9 until 13 headed by 11 parsed as (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (CD 396,000))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (JJ previous) (NN week))
+sid=0 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (NNP Labor) (NNP Department))
+sid=1 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))
+sid=1 spanning 12 until 14 headed by 12 parsed as (NP (NNP Sept.) (CD 30))
+sid=1 spanning 33 until 36 headed by 35 parsed as (NP (NP (DT the) (JJ previous) (NN week)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ insured) (NN unemployment) (NN rate)) (ADVP (RB also)) (VP (VBD was) (NP (CD 2.2) (NN %))))))
+sid=2 spanning 16 until 21 headed by 17 parsed as (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))
+sid=2 spanning 19 until 21 headed by 19 parsed as (NP (NNP Sept.) (CD 30))
+sid=2 spanning 26 until 28 headed by 27 parsed as (NP (DT a) (NN week))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (NML (NNP Labor) (NNP Department)) (NN spokesman))
+sid=4 spanning 1 until 3 headed by 2 parsed as Department
+sid=4 spanning 5 until 16 headed by 8 parsed as (NP (NP (DT the) (ADJP (RB unusually) (JJ high)) (NN number)) (PP (IN of) (NP (NP (JJ initial) (NNS claims)) (PP (IN for) (NP (NN state) (NN unemployment) (NNS benefits))))))
+sid=4 spanning 10 until 16 headed by 11 parsed as (NP (NP (JJ initial) (NNS claims)) (PP (IN for) (NP (NN state) (NN unemployment) (NNS benefits))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN figure))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN official))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 1 parsed as (NP (NP (JJ Initial) (NNS claims)) (PP (IN for) (NP (JJ regular) (NN state) (NN unemployment) (NNS benefits))))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (JJ regular) (NN state) (NN unemployment) (NNS benefits))
+sid=0 spanning 9 until 13 headed by 11 parsed as (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (CD 396,000))
+sid=0 spanning 14 until 19 headed by 15 parsed as (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Oct.) (CD 7))))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (CD 334,000))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (JJ previous) (NN week))
+sid=0 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (NNP Labor) (NNP Department))
+sid=1 spanning 0 until 14 headed by 1 parsed as (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBG receiving) (NP (JJ regular) (NN state) (NNS benefits)) (PP (IN in) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Sept.) (CD 30)))))))))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (JJ regular) (NN state) (NNS benefits))
+sid=1 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))
+sid=1 spanning 16 until 31 headed by 18 parsed as (NP (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (CD 2,202,000)) (, ,) (CC or) (NP (NP (CD 2.2) (NN %)) (PP (IN of) (NP (NP (DT those)) (VP (VBN covered) (PP (IN by) (NP (NN unemployment) (NN insurance))))))) (, ,))
+sid=1 spanning 16 until 20 headed by 18 parsed as (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (CD 2,202,000))
+sid=1 spanning 25 until 30 headed by 25 parsed as (NP (NP (DT those)) (VP (VBN covered) (PP (IN by) (NP (NN unemployment) (NN insurance)))))
+sid=1 spanning 28 until 30 headed by 29 parsed as (NP (NN unemployment) (NN insurance))
+sid=1 spanning 32 until 33 headed by 32 parsed as (NP (CD 2,205,000))
+sid=1 spanning 33 until 36 headed by 35 parsed as (NP (NP (DT the) (JJ previous) (NN week)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ insured) (NN unemployment) (NN rate)) (ADVP (RB also)) (VP (VBD was) (NP (CD 2.2) (NN %))))))
+sid=1 spanning 33 until 46 headed by 35 parsed as (NP (NP (DT the) (JJ previous) (NN week)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ insured) (NN unemployment) (NN rate)) (ADVP (RB also)) (VP (VBD was) (NP (CD 2.2) (NN %))))))
+sid=1 spanning 38 until 42 headed by 41 parsed as (NP (DT the) (JJ insured) (NN unemployment) (NN rate))
+sid=2 spanning 2 until 5 headed by 2 parsed as (NP (NN state) (CC and) (JJ federal))
+sid=2 spanning 8 until 21 headed by 9 parsed as (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBG receiving) (NP (NN unemployment) (NNS benefits)) (PP (IN in) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Sept.) (CD 30)))))))))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (NN unemployment) (NNS benefits))
+sid=2 spanning 16 until 21 headed by 17 parsed as (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))
+sid=2 spanning 23 until 24 headed by 23 parsed as (NP (CD 1,809,300))
+sid=2 spanning 26 until 29 headed by 28 parsed as earlier
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT These) (NNS figures))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (NML (NNP Labor) (NNP Department)) (NN spokesman))
+sid=4 spanning 1 until 3 headed by 2 parsed as Department
+sid=4 spanning 5 until 16 headed by 8 parsed as (NP (NP (DT the) (ADJP (RB unusually) (JJ high)) (NN number)) (PP (IN of) (NP (NP (JJ initial) (NNS claims)) (PP (IN for) (NP (NN state) (NN unemployment) (NNS benefits))))))
+sid=4 spanning 13 until 16 headed by 15 parsed as (NP (NN state) (NN unemployment) (NNS benefits))
+sid=4 spanning 17 until 32 headed by 18 parsed as (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NNP Hurricane) (NNP Hugo))) (PP (IN on) (NP (NP (JJ southern) (NNS states)) (, ,) (NP (ADVP (RB particularly)) (NP (NNP North) (NNP Carolina)) (CC and) (NP (NNP South) (NNP Carolina))))))
+sid=4 spanning 20 until 22 headed by 21 parsed as (NP (NNP Hurricane) (NNP Hugo))
+sid=4 spanning 23 until 32 headed by 24 parsed as (NP (NP (JJ southern) (NNS states)) (, ,) (NP (ADVP (RB particularly)) (NP (NNP North) (NNP Carolina)) (CC and) (NP (NNP South) (NNP Carolina))))
+sid=4 spanning 23 until 25 headed by 24 parsed as (NP (JJ southern) (NNS states))
+sid=4 spanning 27 until 29 headed by 28 parsed as (NP (ADVP (RB particularly)) (NP (NNP North) (NNP Carolina)) (CC and) (NP (NNP South) (NNP Carolina)))
+sid=4 spanning 26 until 32 headed by 28 parsed as (NP (ADVP (RB particularly)) (NP (NNP North) (NNP Carolina)) (CC and) (NP (NNP South) (NNP Carolina)))
+sid=4 spanning 30 until 32 headed by 31 parsed as (NP (NNP South) (NNP Carolina))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN figure))
+sid=5 spanning 5 until 20 headed by 6 parsed as (NP (NP (JJ initial) (NNS claims)) (VP (VBN filed) (PP (IN by) (NP (NP (VBG striking) (NML (NNP Nynex) (NNP Corp.)) (NNS workers)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN become) (ADJP (JJ eligible) (PP (IN for) (NP (NN unemployment) (NNS benefits))))))))))))
+sid=5 spanning 9 until 20 headed by 12 parsed as (NP (NP (VBG striking) (NML (NNP Nynex) (NNP Corp.)) (NNS workers)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN become) (ADJP (JJ eligible) (PP (IN for) (NP (NN unemployment) (NNS benefits)))))))))
+sid=5 spanning 10 until 12 headed by 11 parsed as Corp.
+sid=5 spanning 18 until 20 headed by 19 parsed as (NP (NN unemployment) (NNS benefits))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN official))
+(end predicted mentions)
+---------gold clusters--------
+10 15 | { 'A Labor Department spokesman' 'the official' }
+3 11 | { 'the Labor Department' 'Labor Department' }
+1 14 12 | { 'a seasonally adjusted 396,000' 'The figure' 'the unusually high number of initial claims for state unemployment benefits' }
+7 4 2 | { 'the week ended Sept. 30' 'the week ended Sept. 30' 'the previous week' }
+5 8 | { 'Sept. 30' 'Sept. 30' }
+13 0 | { 'initial claims for state unemployment benefits' 'Initial claims for regular state unemployment benefits' }
+9 6 | { 'a week' 'the previous week' }
+(end gold clusters)

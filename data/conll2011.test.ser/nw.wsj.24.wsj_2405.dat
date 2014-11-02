@@ -1,0 +1,57 @@
+---------gloss--------
+(0) [1m[35m{Antonio L. Savoca , 66 years old ,}[0m was named president and chief executive officer of [1m[36m{the Atlantic Research Corp. subsidiary}[0m . 
+(1) [1m[35m{Mr. Savoca}[0m had been a consultant to the [1m[36m{subsidiary}[0m 's rocket - propulsion operations . 
+(2) [1m[35m{Mr. Savoca}[0m succeeds William H. Borten , who resigned to pursue personal interests . 
+(3) [1m[36m{Sequa}[0m makes and repairs jet engines . 
+(4) [1m[36m{It}[0m also has interests in military electronics and electro - optics , marine transportation and machinery used to make food and beverage cans . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2405); part 000
+sentences:
+AntonioAntonioNNPPERSONPER0L.L.NNPPERSONPER0SavocaSavocaNNPPERSONPER0,,,OPER06666CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0thetheDTOPER0AtlanticAtlanticNNPORGPER0ResearchResearchNNPORGPER0Corp.Corp.NNPORGPER0subsidiarysubsidiaryNNOPER0...OPER0(ROOT (S (NP (NP (NNP Antonio) (NNP L.) (NNP Savoca)) (, ,) (ADJP (NML (CD 66) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (DT the) (NML (NNP Atlantic) (NNP Research) (NNP Corp.)) (NN subsidiary))))))) (. .)))
+Mr.Mr.NNPOPER0SavocaSavocaNNPPERSONPER0hadhaveVBDOPER0beenbeVBNOPER0aaDTOPER0consultantconsultantNNOPER0totoINOPER0thetheDTOPER0subsidiarysubsidiaryNNOPER0's'sPOSOPER0rocketrocketNNOPER0--HYPHOPER0propulsionpropulsionNNOPER0operationsoperationNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Savoca)) (VP (VBD had) (VP (VBN been) (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (NP (DT the) (NN subsidiary) (POS 's)) (NML (NN rocket) (HYPH -) (NN propulsion)) (NNS operations)))))) (. .)))
+Mr.Mr.NNPOPER0SavocaSavocaNNPPERSONPER0succeedssucceedVBZOPER0WilliamWilliamNNPPERSONPER0H.H.NNPPERSONPER0BortenBortenNNPPERSONPER0,,,OPER0whowhoWPOPER0resignedresignVBDOPER0totoTOOPER0pursuepursueVBOPER0personalpersonalJJOPER0interestsinterestNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Savoca)) (VP (VBZ succeeds) (NP (NP (NNP William) (NNP H.) (NNP Borten)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (VP (TO to) (VP (VB pursue) (NP (JJ personal) (NNS interests)))))))))) (. .)))
+SequaSequaNNPORGPER0makesmakeVBZOPER0andandCCOPER0repairsrepairNNSOPER0jetjetNNOPER0enginesengineNNSOPER0...OPER0(ROOT (S (NP (NNP Sequa)) (VP (VBZ makes) (S (CC and) (NP (NNS repairs)) (NP (NN jet) (NNS engines)))) (. .)))
+ItitPRPOPER0alsoalsoRBOPER0hashaveVBZOPER0interestsinterestNNSOPER0ininINOPER0militarymilitaryNNOPER0electronicselectronicsNNSOPER0andandCCOPER0electroelectroNNOPER0--HYPHOPER0opticsopticsNNSOPER0,,,OPER0marinemarineJJOPER0transportationtransportationNNOPER0andandCCOPER0machinerymachineryNNOPER0useduseVBNOPER0totoTOOPER0makemakeVBOPER0foodfoodNNOPER0andandCCOPER0beveragebeverageNNOPER0canscanNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ has) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (NP (NN military) (NNS electronics)) (CC and) (NP (NN electro) (HYPH -) (NNS optics))) (, ,) (NP (JJ marine) (NN transportation)) (CC and) (NP (NP (NN machinery)) (VP (VBN used) (S (VP (TO to) (VP (VB make) (NP (NML (NN food) (CC and) (NN beverage)) (NNS cans))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Antonio) (NNP L.) (NNP Savoca)) (, ,) (ADJP (NML (CD 66) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 16 until 21 headed by 20 parsed as (NP (DT the) (NML (NNP Atlantic) (NNP Research) (NNP Corp.)) (NN subsidiary))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Savoca))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (DT the) (NN subsidiary) (POS 's))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Savoca))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Sequa))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Antonio) (NNP L.) (NNP Savoca)) (, ,) (ADJP (NML (CD 66) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Antonio) (NNP L.) (NNP Savoca)) (, ,) (ADJP (NML (CD 66) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 4 until 7 headed by 6 parsed as old
+sid=0 spanning 10 until 21 headed by 10 parsed as (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (DT the) (NML (NNP Atlantic) (NNP Research) (NNP Corp.)) (NN subsidiary))))
+sid=0 spanning 16 until 21 headed by 20 parsed as (NP (DT the) (NML (NNP Atlantic) (NNP Research) (NNP Corp.)) (NN subsidiary))
+sid=0 spanning 17 until 20 headed by 19 parsed as Corp.
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Savoca))
+sid=1 spanning 4 until 14 headed by 5 parsed as (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (NP (DT the) (NN subsidiary) (POS 's)) (NML (NN rocket) (HYPH -) (NN propulsion)) (NNS operations))))
+sid=1 spanning 7 until 14 headed by 13 parsed as (NP (NP (DT the) (NN subsidiary) (POS 's)) (NML (NN rocket) (HYPH -) (NN propulsion)) (NNS operations))
+sid=1 spanning 7 until 10 headed by 8 parsed as (NP (DT the) (NN subsidiary) (POS 's))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Savoca))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (NP (NNP William) (NNP H.) (NNP Borten)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (VP (TO to) (VP (VB pursue) (NP (JJ personal) (NNS interests)))))))))
+sid=2 spanning 3 until 13 headed by 5 parsed as (NP (NP (NNP William) (NNP H.) (NNP Borten)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (VP (TO to) (VP (VB pursue) (NP (JJ personal) (NNS interests)))))))))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (JJ personal) (NNS interests))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Sequa))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNS repairs))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (NN jet) (NNS engines))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 3 until 23 headed by 3 parsed as (NP (NP (NNS interests)) (PP (IN in) (NP (NP (NP (NN military) (NNS electronics)) (CC and) (NP (NN electro) (HYPH -) (NNS optics))) (, ,) (NP (JJ marine) (NN transportation)) (CC and) (NP (NP (NN machinery)) (VP (VBN used) (S (VP (TO to) (VP (VB make) (NP (NML (NN food) (CC and) (NN beverage)) (NNS cans))))))))))
+sid=4 spanning 5 until 23 headed by 6 parsed as (NP (NP (NP (NN military) (NNS electronics)) (CC and) (NP (NN electro) (HYPH -) (NNS optics))) (, ,) (NP (JJ marine) (NN transportation)) (CC and) (NP (NP (NN machinery)) (VP (VBN used) (S (VP (TO to) (VP (VB make) (NP (NML (NN food) (CC and) (NN beverage)) (NNS cans))))))))
+sid=4 spanning 5 until 11 headed by 6 parsed as (NP (NP (NN military) (NNS electronics)) (CC and) (NP (NN electro) (HYPH -) (NNS optics)))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (NN military) (NNS electronics))
+sid=4 spanning 8 until 11 headed by 10 parsed as (NP (NN electro) (HYPH -) (NNS optics))
+sid=4 spanning 15 until 23 headed by 15 parsed as (NP (NP (NN machinery)) (VP (VBN used) (S (VP (TO to) (VP (VB make) (NP (NML (NN food) (CC and) (NN beverage)) (NNS cans)))))))
+sid=4 spanning 19 until 23 headed by 22 parsed as (NP (NML (NN food) (CC and) (NN beverage)) (NNS cans))
+(end predicted mentions)
+---------gold clusters--------
+2 4 0 | { 'Mr. Savoca' 'Mr. Savoca' 'Antonio L. Savoca , 66 years old ,' }
+3 6 1 5 | { 'subsidiary' 'It' 'the Atlantic Research Corp. subsidiary' 'Sequa' }
+(end gold clusters)

@@ -1,0 +1,60 @@
+---------gloss--------
+(0) [34m{President Clinton}[0m is holding [35m{separate meetings with rival political leaders in the Northern Ireland peace process}[0m . 
+(1) The United States helped broker [33m{the 1998 Good Friday peace accord}[0m , and [34m{Mr. Clinton}[0m is trying to keep [33m{it}[0m from unraveling . 
+(2) Today in Belfast , [34m{he}[0m meets with [32m{Northern Ireland 's}[0m First Minister David Trimble of the loyalist Ulster Unionist Party , as well as Sinn Fein 's Gerry Adams . 
+(3) British Prime Minister Tony Blair is accompanying [34m{Mr. Clinton}[0m for [35m{the talks}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0138); part 000
+sentences:
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0isbeVBZOPER0holdingholdVBGOPER0separateseparateJJOPER0meetingsmeetingNNSOPER0withwithINOPER0rivalrivalJJOPER0politicalpoliticalJJOPER0leadersleaderNNSOPER0ininINOPER0thetheDTOPER0NorthernNorthernNNPGPEPER0IrelandIrelandNNPGPEPER0peacepeaceNNOPER0processprocessNNOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (VP (VBZ is) (VP (VBG holding) (NP (NP (JJ separate) (NNS meetings)) (PP (IN with) (NP (NP (JJ rival) (JJ political) (NNS leaders)) (PP (IN in) (NP (DT the) (NML (NNP Northern) (NNP Ireland)) (NN peace) (NN process)))))))) (. .)))
+ThetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0helpedhelpVBDOPER0brokerbrokerVBOPER0thetheDTOPER019981998CDDATEPER0GoodGoodNNPWORK_OF_ARTPER0FridayFridayNNPWORK_OF_ARTPER0peacepeaceNNOPER0accordaccordNNOPER0,,,OPER0andandCCOPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0isbeVBZOPER0tryingtryVBGOPER0totoTOOPER0keepkeepVBOPER0ititPRPOPER0fromfromINOPER0unravelingunravelingNNOPER0...OPER0(ROOT (S (S (NP (DT The) (NNP United) (NNP States)) (VP (VBD helped) (S (VP (VB broker) (NP (DT the) (CD 1998) (NML (NNP Good) (NNP Friday)) (NN peace) (NN accord)))))) (, ,) (CC and) (S (NP (NNP Mr.) (NNP Clinton)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB keep) (NP (PRP it)) (PP (IN from) (NP (NN unraveling))))))))) (. .)))
+TodaytodayNNDATEPER0ininINOPER0BelfastBelfastNNPGPEPER0,,,OPER0hehePRPOPER0meetsmeetVBZOPER0withwithINOPER0NorthernNorthernNNPGPEPER0IrelandIrelandNNPGPEPER0's'sPOSOPER0FirstFirstNNPORDINALPER0MinisterMinisterNNPOPER0DavidDavidNNPPERSONPER0TrimbleTrimbleNNPPERSONPER0ofofINOPER0thetheDTOPER0loyalistloyalistNNOPER0UlsterUlsterNNPORGPER0UnionistUnionistNNPORGPER0PartyPartyNNPORGPER0,,,OPER0asasRBOPER0wellwellRBOPER0asasINOPER0SinnSinnNNPORGPER0FeinFeinNNPORGPER0's'sPOSORGPER0GerryGerryNNPPERSONPER0AdamsAdamsNNPPERSONPER0...OPER0(ROOT (S (NP (NN Today)) (PP (IN in) (NP (NNP Belfast))) (, ,) (NP (PRP he)) (VP (VBZ meets) (PP (IN with) (NP (NP (NP (NP (NP (NNP Northern) (NNP Ireland)) (POS 's)) (NNP First) (NNP Minister)) (NP (NP (NNP David) (NNP Trimble)) (PP (IN of) (NP (DT the) (NN loyalist) (NNP Ulster) (NNP Unionist) (NNP Party))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNP Sinn) (NNP Fein) (POS 's)) (NNP Gerry) (NNP Adams))))) (. .)))
+BritishbritishJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0TonyTonyNNPPERSONPER0BlairBlairNNPPERSONPER0isbeVBZOPER0accompanyingaccompanyVBGOPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0forforINOPER0thetheDTOPER0talkstalkNNSOPER0...OPER0(ROOT (S (NP (NML (JJ British) (NNP Prime) (NNP Minister)) (NNP Tony) (NNP Blair)) (VP (VBZ is) (VP (VBG accompanying) (NP (NNP Mr.) (NNP Clinton)) (PP (IN for) (NP (DT the) (NNS talks))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 4 until 16 headed by 5 parsed as (NP (NP (JJ separate) (NNS meetings)) (PP (IN with) (NP (NP (JJ rival) (JJ political) (NNS leaders)) (PP (IN in) (NP (DT the) (NML (NNP Northern) (NNP Ireland)) (NN peace) (NN process))))))
+sid=0 spanning 12 until 14 headed by 13 parsed as Ireland
+sid=1 spanning 5 until 11 headed by 10 parsed as (NP (DT the) (CD 1998) (NML (NNP Good) (NNP Friday)) (NN peace) (NN accord))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (PRP it))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=2 spanning 7 until 10 headed by 8 parsed as (NP (NP (NNP Northern) (NNP Ireland)) (POS 's))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS talks))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 4 until 16 headed by 5 parsed as (NP (NP (JJ separate) (NNS meetings)) (PP (IN with) (NP (NP (JJ rival) (JJ political) (NNS leaders)) (PP (IN in) (NP (DT the) (NML (NNP Northern) (NNP Ireland)) (NN peace) (NN process))))))
+sid=0 spanning 7 until 16 headed by 9 parsed as (NP (NP (JJ rival) (JJ political) (NNS leaders)) (PP (IN in) (NP (DT the) (NML (NNP Northern) (NNP Ireland)) (NN peace) (NN process))))
+sid=0 spanning 11 until 16 headed by 15 parsed as (NP (DT the) (NML (NNP Northern) (NNP Ireland)) (NN peace) (NN process))
+sid=0 spanning 12 until 14 headed by 13 parsed as Ireland
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP States))
+sid=1 spanning 5 until 11 headed by 10 parsed as (NP (DT the) (CD 1998) (NML (NNP Good) (NNP Friday)) (NN peace) (NN accord))
+sid=1 spanning 6 until 7 headed by 6 parsed as 1998
+sid=1 spanning 7 until 9 headed by 8 parsed as Friday
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (PRP it))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP Belfast))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=2 spanning 7 until 29 headed by 11 parsed as (NP (NP (NP (NP (NP (NNP Northern) (NNP Ireland)) (POS 's)) (NNP First) (NNP Minister)) (NP (NP (NNP David) (NNP Trimble)) (PP (IN of) (NP (DT the) (NN loyalist) (NNP Ulster) (NNP Unionist) (NNP Party))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNP Sinn) (NNP Fein) (POS 's)) (NNP Gerry) (NNP Adams)))
+sid=2 spanning 7 until 20 headed by 11 parsed as (NP (NP (NP (NP (NNP Northern) (NNP Ireland)) (POS 's)) (NNP First) (NNP Minister)) (NP (NP (NNP David) (NNP Trimble)) (PP (IN of) (NP (DT the) (NN loyalist) (NNP Ulster) (NNP Unionist) (NNP Party)))))
+sid=2 spanning 7 until 10 headed by 8 parsed as (NP (NP (NNP Northern) (NNP Ireland)) (POS 's))
+sid=2 spanning 10 until 11 headed by 10 parsed as First
+sid=2 spanning 12 until 20 headed by 13 parsed as (NP (NP (NNP David) (NNP Trimble)) (PP (IN of) (NP (DT the) (NN loyalist) (NNP Ulster) (NNP Unionist) (NNP Party))))
+sid=2 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NN loyalist) (NNP Ulster) (NNP Unionist) (NNP Party))
+sid=2 spanning 15 until 20 headed by 19 parsed as (NP (DT the) (NN loyalist) (NNP Ulster) (NNP Unionist) (NNP Party))
+sid=2 spanning 24 until 29 headed by 28 parsed as (NP (NP (NNP Sinn) (NNP Fein) (POS 's)) (NNP Gerry) (NNP Adams))
+sid=2 spanning 24 until 27 headed by 25 parsed as (NP (NNP Sinn) (NNP Fein) (POS 's))
+sid=3 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ British) (NNP Prime) (NNP Minister)) (NNP Tony) (NNP Blair))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNS talks))
+(end predicted mentions)
+---------gold clusters--------
+7 2 | { 'Northern Ireland 's' 'Northern Ireland' }
+5 3 | { 'it' 'the 1998 Good Friday peace accord' }
+0 8 4 6 | { 'President Clinton' 'Mr. Clinton' 'Mr. Clinton' 'he' }
+1 9 | { 'separate meetings with rival political leaders in the Northern Ireland peace process' 'the talks' }
+(end gold clusters)

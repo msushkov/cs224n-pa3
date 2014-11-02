@@ -1,0 +1,54 @@
+---------gloss--------
+(0) [3m[32m{Israeli Prime Minister Ehud Barak and Palestinian leader Yasser Arafat}[0m , [3m[32m{both}[0m pledged full cooperation Monday with [3m[31m{the US led commission of inquiry into the causes of the current spiral of clashes in the West Bank and Gaza Strip}[0m . 
+(1) [3m[31m{The five - member panel headed by former US Senator and Northern Ireland mediator George Mitchell}[0m held talks with [3m[34m{Israeli Prime Minister Barak}[0m in Jerusalem and with [3m[33m{Mr. Arafat}[0m in Gaza City . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0156); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0andandCCOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0,,,OPER0bothbothDTOPER0pledgedpledgeVBDOPER0fullfullJJOPER0cooperationcooperationNNOPER0MondayMondayNNPDATEPER0withwithINOPER0thetheDTOPER0USUSNNPORGPER0ledleadVBNOPER0commissioncommissionNNOPER0ofofINOPER0inquiryinquiryNNOPER0intointoINOPER0thetheDTOPER0causescauseNNSOPER0ofofINOPER0thetheDTOPER0currentcurrentJJOPER0spiralspiralNNOPER0ofofINOPER0clashesclashNNSOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))) (, ,) (NP (DT both)) (VP (VBD pledged) (NP (NP (NP (JJ full) (NN cooperation)) (NP (NNP Monday))) (PP (IN with) (NP (NP (DT the) (ADJP (NNP US) (VBN led)) (NN commission)) (PP (IN of) (NP (NP (NN inquiry)) (PP (IN into) (NP (NP (DT the) (NNS causes)) (PP (IN of) (NP (NP (DT the) (JJ current) (NN spiral)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))))))))))))) (. .)))
+ThetheDTOPER0fivefiveCDCARDINALPER0--HYPHOPER0membermemberNNOPER0panelpanelNNOPER0headedheadVBNOPER0bybyINOPER0formerformerJJOPER0USUSNNPGPEPER0SenatorSenatorNNPOPER0andandCCOPER0NorthernNorthernNNPGPEPER0IrelandIrelandNNPGPEPER0mediatormediatorNNOPER0GeorgeGeorgeNNPPERSONPER0MitchellMitchellNNPPERSONPER0heldholdVBDOPER0talkstalkNNSOPER0withwithINOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0BarakBarakNNPPERSONPER0ininINOPER0JerusalemJerusalemNNPGPEPER0andandCCOPER0withwithINOPER0Mr.Mr.NNPOPER0ArafatArafatNNPPERSONPER0ininINOPER0GazaGazaNNPGPEPER0CityCityNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT The) (NML (CD five) (HYPH -) (NN member)) (NN panel)) (VP (VBN headed) (PP (IN by) (NP (NML (NML (JJ former) (NNP US) (NNP Senator)) (CC and) (NML (NML (NNP Northern) (NNP Ireland)) (NN mediator))) (NNP George) (NNP Mitchell))))) (VP (VBD held) (NP (NP (NNS talks)) (PP (PP (IN with) (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Barak)) (PP (IN in) (NP (NNP Jerusalem))))) (CC and) (PP (IN with) (NP (NNP Mr.) (NNP Arafat)))) (PP (IN in) (NP (NNP Gaza) (NNP City))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=0 spanning 0 until 10 headed by 4 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (DT both))
+sid=0 spanning 17 until 39 headed by 20 parsed as (NP (NP (DT the) (ADJP (NNP US) (VBN led)) (NN commission)) (PP (IN of) (NP (NP (NN inquiry)) (PP (IN into) (NP (NP (DT the) (NNS causes)) (PP (IN of) (NP (NP (DT the) (JJ current) (NN spiral)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))))))))))
+sid=1 spanning 0 until 16 headed by 4 parsed as (NP (NP (DT The) (NML (CD five) (HYPH -) (NN member)) (NN panel)) (VP (VBN headed) (PP (IN by) (NP (NML (NML (JJ former) (NNP US) (NNP Senator)) (CC and) (NML (NML (NNP Northern) (NNP Ireland)) (NN mediator))) (NNP George) (NNP Mitchell)))))
+sid=1 spanning 19 until 23 headed by 22 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Barak)) (PP (IN in) (NP (NNP Jerusalem))))
+sid=1 spanning 27 until 29 headed by 28 parsed as (NP (NNP Mr.) (NNP Arafat))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=0 spanning 0 until 10 headed by 4 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (DT both))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNP Monday))
+sid=0 spanning 17 until 39 headed by 20 parsed as (NP (NP (DT the) (ADJP (NNP US) (VBN led)) (NN commission)) (PP (IN of) (NP (NP (NN inquiry)) (PP (IN into) (NP (NP (DT the) (NNS causes)) (PP (IN of) (NP (NP (DT the) (JJ current) (NN spiral)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))))))))))
+sid=0 spanning 18 until 19 headed by 18 parsed as US
+sid=0 spanning 22 until 39 headed by 22 parsed as (NP (NP (NN inquiry)) (PP (IN into) (NP (NP (DT the) (NNS causes)) (PP (IN of) (NP (NP (DT the) (JJ current) (NN spiral)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))))))))
+sid=0 spanning 24 until 39 headed by 25 parsed as (NP (NP (DT the) (NNS causes)) (PP (IN of) (NP (NP (DT the) (JJ current) (NN spiral)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))))))
+sid=0 spanning 27 until 39 headed by 29 parsed as (NP (NP (DT the) (JJ current) (NN spiral)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))))
+sid=0 spanning 31 until 39 headed by 31 parsed as (NP (NP (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))
+sid=0 spanning 34 until 36 headed by 35 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=0 spanning 33 until 39 headed by 35 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=0 spanning 37 until 39 headed by 38 parsed as Strip
+sid=1 spanning 0 until 16 headed by 4 parsed as (NP (NP (DT The) (NML (CD five) (HYPH -) (NN member)) (NN panel)) (VP (VBN headed) (PP (IN by) (NP (NML (NML (JJ former) (NNP US) (NNP Senator)) (CC and) (NML (NML (NNP Northern) (NNP Ireland)) (NN mediator))) (NNP George) (NNP Mitchell)))))
+sid=1 spanning 7 until 16 headed by 15 parsed as (NP (NML (NML (JJ former) (NNP US) (NNP Senator)) (CC and) (NML (NML (NNP Northern) (NNP Ireland)) (NN mediator))) (NNP George) (NNP Mitchell))
+sid=1 spanning 8 until 9 headed by 8 parsed as US
+sid=1 spanning 11 until 13 headed by 12 parsed as Ireland
+sid=1 spanning 17 until 32 headed by 17 parsed as (NP (NP (NNS talks)) (PP (PP (IN with) (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Barak)) (PP (IN in) (NP (NNP Jerusalem))))) (CC and) (PP (IN with) (NP (NNP Mr.) (NNP Arafat)))) (PP (IN in) (NP (NNP Gaza) (NNP City))))
+sid=1 spanning 19 until 25 headed by 22 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Barak)) (PP (IN in) (NP (NNP Jerusalem))))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNP Jerusalem))
+sid=1 spanning 27 until 29 headed by 28 parsed as (NP (NNP Mr.) (NNP Arafat))
+sid=1 spanning 30 until 32 headed by 31 parsed as (NP (NNP Gaza) (NNP City))
+(end predicted mentions)
+---------gold clusters--------
+5 4 | { 'The five - member panel headed by former US Senator and Northern Ireland mediator George Mitchell' 'the US led commission of inquiry into the causes of the current spiral of clashes in the West Bank and Gaza Strip' }
+1 3 | { 'Israeli Prime Minister Ehud Barak and Palestinian leader Yasser Arafat' 'both' }
+2 7 | { 'Palestinian leader Yasser Arafat' 'Mr. Arafat' }
+0 6 | { 'Israeli Prime Minister Ehud Barak' 'Israeli Prime Minister Barak' }
+(end gold clusters)

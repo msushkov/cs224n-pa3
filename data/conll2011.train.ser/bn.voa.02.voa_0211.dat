@@ -1,0 +1,41 @@
+---------gloss--------
+(0) Israeli tanks are blocking main roads in [4m[36m{the Gaza Strip}[0m effectively isolating and partitioning [4m[36m{the Palestinian ruled area}[0m . 
+(1) [31m{Israel}[0m moved to tighten [31m{its}[0m restrictions on Palestinian movement after a Monday night bomb attack in the Israeli city of Natanya . 
+(2) There has been more gunfire in the Palestinian territories with injuries to Israelis and Palestinians . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0211); part 000
+sentences:
+IsraeliisraeliJJOPER0tankstankNNSOPER0arebeVBPOPER0blockingblockVBGOPER0mainmainJJOPER0roadsroadNNSOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0effectivelyeffectivelyRBOPER0isolatingisolateVBGOPER0andandCCOPER0partitioningpartitionVBGOPER0thetheDTOPER0PalestinianPalestinianNNPOPER0ruledruleVBNOPER0areaareaNNOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS tanks)) (VP (VBP are) (VP (VBG blocking) (NP (NP (JJ main) (NNS roads)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))) (S (ADVP (RB effectively)) (VP (VBG isolating) (CC and) (VBG partitioning) (NP (DT the) (ADJP (NNP Palestinian) (VBN ruled)) (NN area)))))) (. .)))
+IsraelIsraelNNPGPEPER0movedmoveVBDOPER0totoTOOPER0tightentightenVBOPER0itsitsPRP$OPER0restrictionsrestrictionNNSOPER0ononINOPER0PalestinianpalestinianJJOPER0movementmovementNNOPER0afterafterINOPER0aaDTOPER0MondayMondayNNPDATEPER0nightnightNNTIMEPER0bombbombNNOPER0attackattackNNOPER0ininINOPER0thetheDTOPER0IsraeliisraeliJJOPER0citycityNNOPER0ofofINOPER0NatanyaNatanyaNNPORGPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBD moved) (S (VP (TO to) (VP (VB tighten) (NP (NP (PRP$ its) (NNS restrictions)) (PP (IN on) (NP (JJ Palestinian) (NN movement)))) (PP (IN after) (NP (NP (DT a) (NML (NNP Monday) (NN night)) (NN bomb) (NN attack)) (PP (IN in) (NP (NP (DT the) (JJ Israeli) (NN city)) (PP (IN of) (NP (NNP Natanya))))))))))) (. .)))
+TherethereEXOPER0hashaveVBZOPER0beenbeVBNOPER0moremoreJJROPER0gunfiregunfireNNOPER0ininINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0territoriesterritoryNNSOPER0withwithINOPER0injuriesinjuryNNSOPER0totoINOPER0IsraelisIsraelisNNPSOPER0andandCCOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBZ has) (VP (VBN been) (NP (NP (JJR more) (NN gunfire)) (PP (IN in) (NP (DT the) (JJ Palestinian) (NNS territories)))) (PP (IN with) (NP (NP (NNS injuries)) (PP (IN to) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=0 spanning 14 until 18 headed by 17 parsed as (NP (DT the) (ADJP (NNP Palestinian) (VBN ruled)) (NN area))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=1 spanning 4 until 5 headed by 4 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS tanks))
+sid=0 spanning 4 until 10 headed by 5 parsed as (NP (NP (JJ main) (NNS roads)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=0 spanning 14 until 18 headed by 17 parsed as (NP (DT the) (ADJP (NNP Palestinian) (VBN ruled)) (NN area))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=1 spanning 4 until 9 headed by 5 parsed as (NP (NP (PRP$ its) (NNS restrictions)) (PP (IN on) (NP (JJ Palestinian) (NN movement))))
+sid=1 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=1 spanning 10 until 21 headed by 14 parsed as (NP (NP (DT a) (NML (NNP Monday) (NN night)) (NN bomb) (NN attack)) (PP (IN in) (NP (NP (DT the) (JJ Israeli) (NN city)) (PP (IN of) (NP (NNP Natanya))))))
+sid=1 spanning 11 until 12 headed by 11 parsed as Monday
+sid=1 spanning 12 until 13 headed by 12 parsed as night
+sid=1 spanning 16 until 21 headed by 18 parsed as (NP (NP (DT the) (JJ Israeli) (NN city)) (PP (IN of) (NP (NNP Natanya))))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (NNP Natanya))
+sid=2 spanning 3 until 9 headed by 4 parsed as (NP (NP (JJR more) (NN gunfire)) (PP (IN in) (NP (DT the) (JJ Palestinian) (NNS territories))))
+sid=2 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (JJ Palestinian) (NNS territories))
+sid=2 spanning 10 until 15 headed by 10 parsed as (NP (NP (NNS injuries)) (PP (IN to) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))
+sid=2 spanning 12 until 15 headed by 12 parsed as (NP (NNPS Israelis) (CC and) (NNPS Palestinians))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'the Gaza Strip' 'the Palestinian ruled area' }
+2 3 | { 'Israel' 'its' }
+(end gold clusters)

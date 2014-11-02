@@ -1,0 +1,72 @@
+---------gloss--------
+(0) Two months after a bomb blasted [4m[31m{its}[0m hull , [4m[31m{the `` USS Cole ''}[0m is back in the United States . 
+(1) [4m[31m{The damaged ship}[0m was carried from Yemen aboard [3m[36m{a Norwegian transport ship}[0m . 
+(2) 17 sailors were killed when [4m[31m{the ship}[0m was attacked by suicide bombers in the port of Aden . 
+(3) [3m[35m{A temporary patch}[0m has already been made to cover the 40 by 40 hole in [4m[31m{the ship 's}[0m hull . 
+(4) [3m[35m{It}[0m will be welded to [4m[31m{the ship}[0m before [4m[31m{it}[0m is unloaded from [3m[36m{the carrier}[0m . 
+(5) Repairs in [4m[32m{Mississippi}[0m are expected to cost more than $ 150 million and last a year at a ship - building facility in Pascagoula , [4m[32m{Mississippi}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0140); part 000
+sentences:
+TwotwoCDDATEPER0monthsmonthNNSDATEPER0afterafterINOPER0aaDTOPER0bombbombNNOPER0blastedblastVBDOPER0itsitsPRP$OPER0hullhullNNOPER0,,,OPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0isbeVBZOPER0backbackRBOPER0ininINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (SBAR (NP (CD Two) (NNS months)) (IN after) (S (NP (DT a) (NN bomb)) (VP (VBD blasted) (NP (PRP$ its) (NN hull))))) (, ,) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')) (VP (VBZ is) (ADVP (RB back) (PP (IN in) (NP (DT the) (NNP United) (NNP States))))) (. .)))
+ThetheDTOPER0damageddamagedJJOPER0shipshipNNOPER0wasbeVBDOPER0carriedcarryVBNOPER0fromfromINOPER0YemenYemenNNPGPEPER0aboardaboardINOPER0aaDTOPER0NorwegiannorwegianJJOPER0transporttransportNNOPER0shipshipNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ damaged) (NN ship)) (VP (VBD was) (VP (VBN carried) (PP (IN from) (NP (NNP Yemen))) (PP (IN aboard) (NP (DT a) (JJ Norwegian) (NN transport) (NN ship))))) (. .)))
+1717CDCARDINALPER0sailorssailorNNSOPER0werebeVBDOPER0killedkillVBNOPER0whenwhenWRBOPER0thetheDTOPER0shipshipNNOPER0wasbeVBDOPER0attackedattackVBNOPER0bybyINOPER0suicidesuicideNNOPER0bombersbomberNNSOPER0ininINOPER0thetheDTOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0...OPER0(ROOT (S (NP (CD 17) (NNS sailors)) (VP (VBD were) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN ship)) (VP (VBD was) (VP (VBN attacked) (PP (IN by) (NP (NN suicide) (NNS bombers))) (PP (IN in) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))))))))))) (. .)))
+AaDTOPER0temporarytemporaryJJOPER0patchpatchNNOPER0hashaveVBZOPER0alreadyalreadyRBOPER0beenbeVBNOPER0mademakeVBNOPER0totoTOOPER0covercoverVBOPER0thetheDTOPER04040CDCARDINALPER0bybyINOPER04040CDCARDINALPER0holeholeNNOPER0ininINOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0hullhullNNOPER0...OPER0(ROOT (S (NP (DT A) (JJ temporary) (NN patch)) (VP (VBZ has) (ADVP (RB already)) (VP (VBN been) (VP (VBN made) (S (VP (TO to) (VP (VB cover) (NP (DT the) (CD 40))))) (PP (IN by) (NP (NP (CD 40) (NN hole)) (PP (IN in) (NP (NP (DT the) (NN ship) (POS 's)) (NN hull)))))))) (. .)))
+ItitPRPOPER0willwillMDOPER0bebeVBOPER0weldedweldVBNOPER0totoINOPER0thetheDTOPER0shipshipNNOPER0beforebeforeINOPER0ititPRPOPER0isbeVBZOPER0unloadedunloadVBNOPER0fromfromINOPER0thetheDTOPER0carriercarrierNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (MD will) (VP (VB be) (VP (VBN welded) (PP (IN to) (NP (DT the) (NN ship))) (SBAR (IN before) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN unloaded) (PP (IN from) (NP (DT the) (NN carrier)))))))))) (. .)))
+RepairsrepairNNSOPER0ininINOPER0MississippiMississippiNNPGPEPER0arebeVBPOPER0expectedexpectVBNOPER0totoTOOPER0costcostVBOPER0moremoreJJRMONEYPER0thanthanINMONEYPER0$$$MONEYPER0150150CDMONEYPER0millionmillionCDMONEYPER0andandCCOPER0lastlastRBDATEPER0aaDTDATEPER0yearyearNNDATEPER0atatINOPER0aaDTOPER0shipshipNNOPER0--HYPHOPER0buildingbuildVBGOPER0facilityfacilityNNOPER0ininINOPER0PascagoulaPascagoulaNNPGPEPER0,,,OPER0MississippiMississippiNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNS Repairs)) (PP (IN in) (NP (NNP Mississippi)))) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB cost) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 150) (CD million) (CC and) (RB last))) (NP (DT a) (NN year))) (PP (IN at) (NP (NP (DT a) (ADJP (NN ship) (HYPH -) (VBG building)) (NN facility)) (PP (IN in) (NP (NP (NNP Pascagoula)) (, ,) (NP (NNP Mississippi))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 7 headed by 6 parsed as its
+sid=0 spanning 9 until 14 headed by 12 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ damaged) (NN ship))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (JJ Norwegian) (NN transport) (NN ship))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN ship))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ temporary) (NN patch))
+sid=3 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN ship))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN carrier))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Mississippi))
+sid=5 spanning 25 until 26 headed by 25 parsed as (NP (NNP Mississippi))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (CD Two) (NNS months))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN bomb))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ its) (NN hull))
+sid=0 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=0 spanning 9 until 14 headed by 12 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ damaged) (NN ship))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNP Yemen))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (JJ Norwegian) (NN transport) (NN ship))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (CD 17) (NNS sailors))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN ship))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (NN suicide) (NNS bombers))
+sid=2 spanning 13 until 17 headed by 14 parsed as (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NNP Aden))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ temporary) (NN patch))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (CD 40))
+sid=3 spanning 12 until 19 headed by 13 parsed as (NP (NP (CD 40) (NN hole)) (PP (IN in) (NP (NP (DT the) (NN ship) (POS 's)) (NN hull))))
+sid=3 spanning 15 until 19 headed by 18 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NN hull))
+sid=3 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN ship))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN carrier))
+sid=5 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Repairs)) (PP (IN in) (NP (NNP Mississippi))))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Mississippi))
+sid=5 spanning 13 until 16 headed by 13 parsed as last
+sid=5 spanning 17 until 26 headed by 21 parsed as (NP (NP (DT a) (ADJP (NN ship) (HYPH -) (VBG building)) (NN facility)) (PP (IN in) (NP (NP (NNP Pascagoula)) (, ,) (NP (NNP Mississippi)))))
+sid=5 spanning 23 until 24 headed by 23 parsed as (NP (NP (NNP Pascagoula)) (, ,) (NP (NNP Mississippi)))
+sid=5 spanning 23 until 26 headed by 23 parsed as (NP (NP (NNP Pascagoula)) (, ,) (NP (NNP Mississippi)))
+sid=5 spanning 25 until 26 headed by 25 parsed as (NP (NNP Mississippi))
+(end predicted mentions)
+---------gold clusters--------
+7 5 | { 'It' 'A temporary patch' }
+10 3 | { 'the carrier' 'a Norwegian transport ship' }
+0 1 4 6 8 9 2 | { 'its' 'the `` USS Cole ''' 'the ship' 'the ship 's' 'the ship' 'it' 'The damaged ship' }
+12 11 | { 'Mississippi' 'Mississippi' }
+(end gold clusters)

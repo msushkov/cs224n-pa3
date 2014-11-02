@@ -1,0 +1,50 @@
+---------gloss--------
+(0) [4m[36m{This business trust company}[0m said [4m[36m{its}[0m board elected [31m{Kieran E. Burke , a consultant to Drexel Burnham Lambert Group Inc.}[0m , as chief executive officer , a new post , and as president . 
+(1) [31m{Mr. Burke}[0m succeeds Richard D. Manley , who will remain as a consultant to [4m[36m{the company}[0m . 
+(2) Both men were unavailable to comment . 
+(3) [4m[36m{The company}[0m also named Michael E. Gellert , a director and a major shareholder , to fill the vacant seat of chairman . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1459); part 000
+sentences:
+ThisthisDTOPER0businessbusinessNNOPER0trusttrustNNOPER0companycompanyNNOPER0saidsayVBDOPER0itsitsPRP$OPER0boardboardNNOPER0electedelectVBDOPER0KieranKieranNNPPERSONPER0E.E.NNPPERSONPER0BurkeBurkeNNPPERSONPER0,,,OPER0aaDTOPER0consultantconsultantNNOPER0totoINOPER0DrexelDrexelNNPORGPER0BurnhamBurnhamNNPORGPER0LambertLambertNNPORGPER0GroupGroupNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0asasINOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0,,,OPER0aaDTOPER0newnewJJOPER0postpostNNOPER0,,,OPER0andandCCOPER0asasINOPER0presidentpresidentNNOPER0...OPER0(ROOT (S (NP (DT This) (NN business) (NN trust) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBD elected) (NP (NP (NNP Kieran) (NNP E.) (NNP Burke)) (, ,) (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Group) (NNP Inc.))))) (, ,) (PP (PP (IN as) (NP (NP (JJ chief) (JJ executive) (NN officer)) (, ,) (NP (DT a) (JJ new) (NN post)))) (, ,) (CC and) (PP (IN as) (NP (NN president)))))))) (. .)))
+Mr.Mr.NNPOPER0BurkeBurkeNNPPERSONPER0succeedssucceedVBZOPER0RichardRichardNNPPERSONPER0D.D.NNPPERSONPER0ManleyManleyNNPPERSONPER0,,,OPER0whowhoWPOPER0willwillMDOPER0remainremainVBOPER0asasINOPER0aaDTOPER0consultantconsultantNNOPER0totoINOPER0thetheDTOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Burke)) (VP (VBZ succeeds) (NP (NP (NNP Richard) (NNP D.) (NNP Manley)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB remain) (PP (IN as) (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (DT the) (NN company))))))))))) (. .)))
+BothbothDTOPER0menmanNNSOPER0werebeVBDOPER0unavailableunavailableJJOPER0totoTOOPER0commentcommentVBOPER0...OPER0(ROOT (S (NP (DT Both) (NNS men)) (VP (VBD were) (ADJP (JJ unavailable) (S (VP (TO to) (VP (VB comment)))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0alsoalsoRBOPER0namednameVBDOPER0MichaelMichaelNNPPERSONPER0E.E.NNPPERSONPER0GellertGellertNNPPERSONPER0,,,OPER0aaDTOPER0directordirectorNNOPER0andandCCOPER0aaDTOPER0majormajorJJOPER0shareholdershareholderNNOPER0,,,OPER0totoTOOPER0fillfillVBOPER0thetheDTOPER0vacantvacantJJOPER0seatseatNNOPER0ofofINOPER0chairmanchairmanNNOPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBD named) (NP (NP (NNP Michael) (NNP E.) (NNP Gellert)) (, ,) (NP (NP (DT a) (NN director)) (CC and) (NP (DT a) (JJ major) (NN shareholder))) (, ,)) (S (VP (TO to) (VP (VB fill) (NP (NP (DT the) (JJ vacant) (NN seat)) (PP (IN of) (NP (NN chairman)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT This) (NN business) (NN trust) (NN company))
+sid=0 spanning 5 until 6 headed by 5 parsed as its
+sid=0 spanning 8 until 20 headed by 10 parsed as (NP (NP (NNP Kieran) (NNP E.) (NNP Burke)) (, ,) (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Group) (NNP Inc.)))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Burke))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN company))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT This) (NN business) (NN trust) (NN company))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ its) (NN board))
+sid=0 spanning 5 until 6 headed by 5 parsed as (PRP$ its)
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (NP (NNP Kieran) (NNP E.) (NNP Burke)) (, ,) (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Group) (NNP Inc.)))))
+sid=0 spanning 8 until 20 headed by 10 parsed as (NP (NP (NNP Kieran) (NNP E.) (NNP Burke)) (, ,) (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Group) (NNP Inc.)))))
+sid=0 spanning 12 until 20 headed by 13 parsed as (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Group) (NNP Inc.))))
+sid=0 spanning 15 until 20 headed by 19 parsed as (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Group) (NNP Inc.))
+sid=0 spanning 26 until 29 headed by 28 parsed as (NP (DT a) (JJ new) (NN post))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Burke))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (NP (NNP Richard) (NNP D.) (NNP Manley)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB remain) (PP (IN as) (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (DT the) (NN company))))))))))
+sid=1 spanning 3 until 16 headed by 5 parsed as (NP (NP (NNP Richard) (NNP D.) (NNP Manley)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB remain) (PP (IN as) (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (DT the) (NN company))))))))))
+sid=1 spanning 11 until 16 headed by 12 parsed as (NP (NP (DT a) (NN consultant)) (PP (IN to) (NP (DT the) (NN company))))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN company))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT Both) (NNS men))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNP Michael) (NNP E.) (NNP Gellert)) (, ,) (NP (NP (DT a) (NN director)) (CC and) (NP (DT a) (JJ major) (NN shareholder))) (, ,))
+sid=3 spanning 4 until 15 headed by 6 parsed as (NP (NP (NNP Michael) (NNP E.) (NNP Gellert)) (, ,) (NP (NP (DT a) (NN director)) (CC and) (NP (DT a) (JJ major) (NN shareholder))) (, ,))
+sid=3 spanning 8 until 14 headed by 9 parsed as (NP (NP (DT a) (NN director)) (CC and) (NP (DT a) (JJ major) (NN shareholder)))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN director))
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (JJ major) (NN shareholder))
+sid=3 spanning 17 until 22 headed by 19 parsed as (NP (NP (DT the) (JJ vacant) (NN seat)) (PP (IN of) (NP (NN chairman))))
+(end predicted mentions)
+---------gold clusters--------
+5 1 0 4 | { 'The company' 'its' 'This business trust company' 'the company' }
+3 2 | { 'Mr. Burke' 'Kieran E. Burke , a consultant to Drexel Burnham Lambert Group Inc.' }
+(end gold clusters)

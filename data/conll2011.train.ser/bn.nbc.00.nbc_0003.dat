@@ -1,0 +1,199 @@
+---------gloss--------
+(0) At [1m[34m{the Supreme Court}[0m tonight -- important questions about medical testing and privacy rights of individuals . 
+(1) When can [1m[32m{doctors}[0m tell police [1m[32m{they}[0m 've discovered evidence [1m[32m{their}[0m patients are committing crimes ? 
+(2) Here 's [3m[31m{NBC 's}[0m Pete Williams . 
+(3) It 's [33m{a case that pits a woman 's medical privacy against the state 's desire to protect children}[0m . 
+(4) Faced with an epidemic of cocaine use by [3m[34m{pregnant mothers who were potentially putting their babies at risk}[0m , the medical staff at [1m[31m{this Charleston , South Carolina , hospital}[0m came up with [1m[33m{a novel idea -- decide which of the pregnant where things went wrong}[0m . 
+(5) We need doctors to act like doctors , not doctors to act like police . 
+(6) But [34m{the state}[0m defends [1m[33m{it}[0m as a way to get mothers off drugs , reducing the risk of having unhealthy babies . 
+(7) I went over and looked at these babies when [33m{this case}[0m started . 
+(8) We 're talking about a 3 1 / 2 - pound human being . 
+(9) It would make you cry . 
+(10) The question for [36m{the court}[0m -- When can doctors tip off police ? 
+(11) Justice Scalia said -- [3m[32m{Doctors}[0m routinely report when [3m[32m{they}[0m find gunshot wounds , Why not when [3m[32m{they}[0m find proof of drug use ? but Justice Ginsburg asked -- How can [1m[31m{the hospital}[0m say [1m[31m{it}[0m 's protecting unborn children by arresting [32m{women}[0m after [32m{they}[0m give birth ? 
+(12) [35m{Many of the nation 's big medical groups}[0m oppose [1m[33m{the South Carolina policy}[0m . 
+(13) [35m{They}[0m say the threat of arrest will frighten [1m[36m{more women}[0m away from pregnancy care , further endangering [1m[36m{their}[0m babies . 
+(14) If [36m{the justices}[0m uphold [1m[33m{the South Carolina policy}[0m , [3m[35m{many of the nation 's doctors}[0m fear [3m[35m{they}[0m 'll be called on to report more crimes , eroding the trust between [3m[35m{them}[0m and [3m[35m{their}[0m patients . 
+(15) [1m[35m{Pete Williams}[0m , [3m[31m{NBC News}[0m , at [1m[34m{the Supreme Court}[0m . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0003); part 000
+sentences:
+AtatINOPER0thetheDTORGPER0SupremeSupremeNNPORGPER0CourtCourtNNPORGPER0tonighttonightNNOPER0----:OPER0importantimportantJJOPER0questionsquestionNNSOPER0aboutaboutINOPER0medicalmedicalJJOPER0testingtestingNNOPER0andandCCOPER0privacyprivacyNNOPER0rightsrightsNNSOPER0ofofINOPER0individualsindividualNNSOPER0...OPER0(ROOT (FRAG (PP (IN At) (NP (DT the) (NNP Supreme) (NNP Court))) (NP (NN tonight)) (: --) (NP (NP (JJ important) (NNS questions)) (PP (IN about) (NP (NP (NML (NML (JJ medical) (NN testing)) (CC and) (NML (NN privacy))) (NNS rights)) (PP (IN of) (NP (NNS individuals)))))) (. .)))
+WhenwhenWRBOPER0cancanMDOPER0doctorsdoctorNNSOPER0telltellVBOPER0policepoliceNNSOPER0theytheyPRPOPER0'vehaveVBPOPER0discovereddiscoverVBNOPER0evidenceevidenceNNOPER0theirtheyPRP$OPER0patientspatientNNSOPER0arebeVBPOPER0committingcommitVBGOPER0crimescrimeNNSOPER0??.OPER0(ROOT (SBARQ (WHADVP (WRB When)) (SQ (MD can) (NP (NNS doctors)) (VP (VB tell) (NP (NNS police)) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN discovered) (NP (NP (NN evidence)) (SBAR (S (NP (PRP$ their) (NNS patients)) (VP (VBP are) (VP (VBG committing) (NP (NNS crimes))))))))))))) (. ?)))
+HerehereRBOPER0'sbeVBZOPER0NBCNBCNNPORGPER0's'sPOSOPER0PetePeteNNPPERSONPER0WilliamsWilliamsNNPPERSONPER0...OPER0(ROOT (SINV (ADVP (RB Here)) (VP (VBZ 's)) (NP (NP (NNP NBC) (POS 's)) (NNP Pete) (NNP Williams)) (. .)))
+ItitPRPOPER0'sbeVBZOPER0aaDTOPER0casecaseNNOPER0thatthatWDTOPER0pitspitVBZOPER0aaDTOPER0womanwomanNNOPER0's'sPOSOPER0medicalmedicalJJOPER0privacyprivacyNNOPER0againstagainstINOPER0thetheDTOPER0statestateNNOPER0's'sPOSOPER0desiredesireNNOPER0totoTOOPER0protectprotectVBOPER0childrenchildNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN case)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pits) (NP (NP (DT a) (NN woman) (POS 's)) (JJ medical) (NN privacy)) (PP (IN against) (NP (NP (DT the) (NN state) (POS 's)) (NN desire) (S (VP (TO to) (VP (VB protect) (NP (NNS children)))))))))))) (. .)))
+FacedfaceVBNOPER0withwithINOPER0anaDTOPER0epidemicepidemicNNOPER0ofofINOPER0cocainecocaineNNOPER0useuseNNOPER0bybyINOPER0pregnantpregnantJJOPER0mothersmotherNNSOPER0whowhoWPOPER0werebeVBDOPER0potentiallypotentiallyRBOPER0puttingputVBGOPER0theirtheyPRP$OPER0babiesbabyNNSOPER0atatINOPER0riskriskNNOPER0,,,OPER0thetheDTOPER0medicalmedicalJJOPER0staffstaffNNOPER0atatINOPER0thisthisDTOPER0CharlestonCharlestonNNPGPEPER0,,,OPER0SouthSouthNNPGPEPER0CarolinaCarolinaNNPGPEPER0,,,OPER0hospitalhospitalNNOPER0camecomeVBDOPER0upupRPOPER0withwithINOPER0aaDTOPER0novelnovelJJOPER0ideaideaNNOPER0----:OPER0decidedecideVBOPER0whichwhichWDTOPER0ofofINOPER0thetheDTOPER0pregnantpregnantJJOPER0wherewhereWRBOPER0thingsthingNNSOPER0wentgoVBDOPER0wrongwrongJJOPER0...OPER0(ROOT (S (S (VP (VBN Faced) (PP (IN with) (NP (NP (DT an) (NN epidemic)) (PP (IN of) (NP (NN cocaine) (NN use))))) (PP (IN by) (NP (NP (JJ pregnant) (NNS mothers)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADVP (RB potentially)) (VP (VBG putting) (NP (PRP$ their) (NNS babies)) (PP (IN at) (NP (NN risk))))))))))) (, ,) (NP (NP (DT the) (JJ medical) (NN staff)) (PP (IN at) (NP (NP (DT this) (NNP Charleston)) (, ,) (NP (NNP South) (NNP Carolina)) (, ,) (NP (NN hospital))))) (VP (VBD came) (PRT (RP up)) (PP (IN with) (NP (NP (DT a) (JJ novel) (NN idea)) (: --) (S (VP (VB decide) (SBAR (WHNP (WHNP (WDT which)) (PP (IN of) (NP (DT the) (JJ pregnant)))) (SBAR (WHADVP (WRB where)) (S (NP (NNS things)) (VP (VBD went) (ADJP (JJ wrong))))))))))) (. .)))
+WewePRPOPER0needneedVBPOPER0doctorsdoctorNNSOPER0totoTOOPER0actactVBOPER0likelikeINOPER0doctorsdoctorNNSOPER0,,,OPER0notnotRBOPER0doctorsdoctorNNSOPER0totoTOOPER0actactVBOPER0likelikeINOPER0policepoliceNNOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP need) (S (NP (NNS doctors)) (VP (TO to) (VP (VB act) (UCP (PP (IN like) (NP (NNS doctors))) (, ,) (RB not) (S (NP (NNS doctors)) (VP (TO to) (VP (VB act) (PP (IN like) (NP (NN police))))))))))) (. .)))
+ButbutCCOPER0thetheDTOPER0statestateNNOPER0defendsdefendVBZOPER0ititPRPOPER0asasINOPER0aaDTOPER0waywayNNOPER0totoTOOPER0getgetVBOPER0mothersmotherNNSOPER0offoffINOPER0drugsdrugNNSOPER0,,,OPER0reducingreduceVBGOPER0thetheDTOPER0riskriskNNOPER0ofofINOPER0havinghaveVBGOPER0unhealthyunhealthyJJOPER0babiesbabyNNSOPER0...OPER0(ROOT (S (CC But) (NP (DT the) (NN state)) (VP (VBZ defends) (NP (PRP it)) (PP (IN as) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB get) (NP (NNS mothers)) (PP (IN off) (NP (NNS drugs))))))))) (, ,) (S (VP (VBG reducing) (NP (NP (DT the) (NN risk)) (PP (IN of) (S (VP (VBG having) (NP (JJ unhealthy) (NNS babies))))))))) (. .)))
+IIPRPOPER0wentgoVBDOPER0overoverRPOPER0andandCCOPER0lookedlookVBDOPER0atatINOPER0thesetheseDTOPER0babiesbabyNNSOPER0whenwhenWRBOPER0thisthisDTOPER0casecaseNNOPER0startedstartVBDOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VP (VBD went) (PRT (RP over))) (CC and) (VP (VBD looked) (PP (IN at) (NP (NP (DT these) (NNS babies)) (SBAR (WHADVP (WRB when)) (S (NP (DT this) (NN case)) (VP (VBD started)))))))) (. .)))
+WewePRPOPER0'rebeVBPOPER0talkingtalkVBGOPER0aboutaboutINOPER0aaDTOPER033CDOPER011CDOPER0//SYMOPER022CDOPER0--HYPHOPER0poundpoundNNOPER0humanhumanNNOPER0beingbeingNNOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP 're) (VP (VBG talking) (PP (IN about) (NP (DT a) (NML (QP (CD 3) (CD 1) (SYM /) (CD 2)) (HYPH -) (NN pound)) (NN human) (NN being))))) (. .)))
+ItitPRPOPER0wouldwouldMDOPER0makemakeVBOPER0youyouPRPOPER0crycryVBOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (MD would) (VP (VB make) (S (NP (PRP you)) (VP (VB cry))))) (. .)))
+ThetheDTOPER0questionquestionNNOPER0forforINOPER0thetheDTOPER0courtcourtNNOPER0----:OPER0WhenwhenWRBOPER0cancanMDOPER0doctorsdoctorNNSOPER0tiptipVBOPER0offoffRPOPER0policepoliceNNSOPER0??.OPER0(ROOT (FRAG (NP (NP (DT The) (NN question)) (PP (IN for) (NP (DT the) (NN court)))) (: --) (SBARQ (WHADVP (WRB When)) (SQ (MD can) (NP (NNS doctors)) (VP (VB tip) (PRT (RP off)) (NP (NNS police))))) (. ?)))
+JusticeJusticeNNPOPER0ScaliaScaliaNNPPERSONPER0saidsayVBDOPER0----:OPER0DoctorsdoctorNNSOPER0routinelyroutinelyRBOPER0reportreportVBPOPER0whenwhenWRBOPER0theytheyPRPOPER0findfindVBPOPER0gunshotgunshotNNOPER0woundswoundNNSOPER0,,,OPER0WhywhyWRBOPER0notnotRBOPER0whenwhenWRBOPER0theytheyPRPOPER0findfindVBPOPER0proofproofNNOPER0ofofINOPER0drugdrugNNOPER0useuseNNOPER0??,OPER0butbutCCOPER0JusticeJusticeNNPOPER0GinsburgGinsburgNNPPERSONPER0askedaskVBDOPER0----:OPER0HowhowWRBOPER0cancanMDOPER0thetheDTOPER0hospitalhospitalNNOPER0saysayVBOPER0ititPRPOPER0'sbeVBZOPER0protectingprotectVBGOPER0unbornunbornJJOPER0childrenchildNNSOPER0bybyINOPER0arrestingarrestVBGOPER0womenwomanNNSOPER0afterafterINOPER0theytheyPRPOPER0givegiveVBPOPER0birthbirthNNOPER0??.OPER0(ROOT (S (NP (NNP Justice) (NNP Scalia)) (VP (VBD said) (: --) (S (S (NP (NNS Doctors)) (ADVP (RB routinely)) (VP (VBP report) (SBAR (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP find) (NP (NN gunshot) (NNS wounds))))) (, ,) (SBAR (WHADVP (WRB Why) (RB not) (WRB when)) (S (NP (PRP they)) (VP (VBP find) (NP (NP (NN proof)) (PP (IN of) (NP (NN drug) (NN use)))))))))) (, ?) (CC but) (S (NP (NNP Justice) (NNP Ginsburg)) (VP (VBD asked) (: --) (SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (DT the) (NN hospital)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG protecting) (NP (JJ unborn) (NNS children)) (PP (IN by) (S (VP (VBG arresting) (NP (NNS women)) (SBAR (IN after) (S (NP (PRP they)) (VP (VBP give) (NP (NN birth))))))))))))))))))) (. ?)))
+ManymanyJJOPER0ofofINOPER0thetheDTOPER0nationnationNNOPER0's'sPOSOPER0bigbigJJOPER0medicalmedicalJJOPER0groupsgroupNNSOPER0opposeopposeVBPOPER0thetheDTOPER0SouthSouthNNPGPEPER0CarolinaCarolinaNNPGPEPER0policypolicyNNOPER0...OPER0(ROOT (S (NP (NP (JJ Many)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (JJ big) (JJ medical) (NNS groups)))) (VP (VBP oppose) (NP (DT the) (NML (NNP South) (NNP Carolina)) (NN policy))) (. .)))
+TheytheyPRPOPER0saysayVBPOPER0thetheDTOPER0threatthreatNNOPER0ofofINOPER0arrestarrestNNOPER0willwillMDOPER0frightenfrightenVBOPER0moremoreJJROPER0womenwomanNNSOPER0awayawayRBOPER0fromfromINOPER0pregnancypregnancyNNOPER0carecareNNOPER0,,,OPER0furtherfurtherRBOPER0endangeringendangerVBGOPER0theirtheyPRP$OPER0babiesbabyNNSOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP say) (SBAR (S (NP (NP (DT the) (NN threat)) (PP (IN of) (NP (NN arrest)))) (VP (MD will) (VP (VB frighten) (NP (JJR more) (NNS women)) (ADVP (RB away) (PP (IN from) (NP (NN pregnancy) (NN care)))) (, ,) (S (ADVP (RB further)) (VP (VBG endangering) (NP (PRP$ their) (NNS babies))))))))) (. .)))
+IfifINOPER0thetheDTOPER0justicesjusticeNNSOPER0upholdupholdVBOPER0thetheDTOPER0SouthSouthNNPGPEPER0CarolinaCarolinaNNPGPEPER0policypolicyNNOPER0,,,OPER0manymanyJJOPER0ofofINOPER0thetheDTOPER0nationnationNNOPER0's'sPOSOPER0doctorsdoctorNNSOPER0fearfearVBPOPER0theytheyPRPOPER0'll'llMDOPER0bebeVBOPER0calledcallVBNOPER0ononRPOPER0totoTOOPER0reportreportVBOPER0moremoreJJROPER0crimescrimeNNSOPER0,,,OPER0erodingerodeVBGOPER0thetheDTOPER0trusttrustNNOPER0betweenbetweenINOPER0themtheyPRPOPER0andandCCOPER0theirtheyPRP$OPER0patientspatientNNSOPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (DT the) (NNS justices)) (VP (VB uphold) (NP (DT the) (NML (NNP South) (NNP Carolina)) (NN policy))))) (, ,) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (NNS doctors)))) (VP (VBP fear) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB be) (VP (VBN called) (PRT (RP on)) (S (VP (TO to) (VP (VB report) (NP (NP (JJR more) (NNS crimes)) (, ,) (PP (VBG eroding) (NP (NP (DT the) (NN trust)) (PP (IN between) (NP (NP (PRP them)) (CC and) (NP (PRP$ their) (NNS patients)))))))))))))))) (. .)))
+PetePeteNNPPERSONPER0WilliamsWilliamsNNPPERSONPER0,,,OPER0NBCNBCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0atatINOPER0thetheDTORGPER0SupremeSupremeNNPORGPER0CourtCourtNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP Pete) (NNP Williams)) (, ,) (NP (NNP NBC) (NNP News)) (, ,) (PP (IN at) (NP (DT the) (NNP Supreme) (NNP Court))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP Supreme) (NNP Court))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNS doctors))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=1 spanning 9 until 10 headed by 9 parsed as their
+sid=2 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP NBC) (POS 's)) (NNP Pete) (NNP Williams))
+sid=2 spanning 2 until 4 headed by 2 parsed as (NP (NNP NBC) (POS 's))
+sid=3 spanning 2 until 19 headed by 3 parsed as (NP (NP (DT a) (NN case)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pits) (NP (NP (DT a) (NN woman) (POS 's)) (JJ medical) (NN privacy)) (PP (IN against) (NP (NP (DT the) (NN state) (POS 's)) (NN desire) (S (VP (TO to) (VP (VB protect) (NP (NNS children)))))))))))
+sid=3 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN state) (POS 's))
+sid=4 spanning 8 until 18 headed by 9 parsed as (NP (NP (JJ pregnant) (NNS mothers)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADVP (RB potentially)) (VP (VBG putting) (NP (PRP$ their) (NNS babies)) (PP (IN at) (NP (NN risk))))))))
+sid=4 spanning 14 until 15 headed by 14 parsed as their
+sid=4 spanning 23 until 30 headed by 24 parsed as (NP (NP (DT this) (NNP Charleston)) (, ,) (NP (NNP South) (NNP Carolina)) (, ,) (NP (NN hospital)))
+sid=4 spanning 26 until 28 headed by 27 parsed as (NP (NNP South) (NNP Carolina))
+sid=4 spanning 33 until 46 headed by 35 parsed as (NP (NP (DT a) (JJ novel) (NN idea)) (: --) (S (VP (VB decide) (SBAR (WHNP (WHNP (WDT which)) (PP (IN of) (NP (DT the) (JJ pregnant)))) (SBAR (WHADVP (WRB where)) (S (NP (NNS things)) (VP (VBD went) (ADJP (JJ wrong)))))))))
+sid=6 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN state))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=7 spanning 9 until 11 headed by 10 parsed as (NP (DT this) (NN case))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN court))
+sid=11 spanning 4 until 5 headed by 4 parsed as (NP (NNS Doctors))
+sid=11 spanning 8 until 9 headed by 8 parsed as (NP (PRP they))
+sid=11 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=11 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN hospital))
+sid=11 spanning 33 until 34 headed by 33 parsed as (NP (PRP it))
+sid=11 spanning 40 until 41 headed by 40 parsed as (NP (NNS women))
+sid=11 spanning 42 until 43 headed by 42 parsed as (NP (PRP they))
+sid=12 spanning 0 until 8 headed by 0 parsed as (NP (NP (JJ Many)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (JJ big) (JJ medical) (NNS groups))))
+sid=12 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=12 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (NML (NNP South) (NNP Carolina)) (NN policy))
+sid=12 spanning 10 until 12 headed by 11 parsed as Carolina
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=13 spanning 8 until 10 headed by 9 parsed as (NP (JJR more) (NNS women))
+sid=13 spanning 17 until 18 headed by 17 parsed as their
+sid=14 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNS justices))
+sid=14 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (NML (NNP South) (NNP Carolina)) (NN policy))
+sid=14 spanning 5 until 7 headed by 6 parsed as Carolina
+sid=14 spanning 9 until 15 headed by 9 parsed as (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (NNS doctors))))
+sid=14 spanning 11 until 14 headed by 12 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=14 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=14 spanning 30 until 31 headed by 30 parsed as (NP (NP (PRP them)) (CC and) (NP (PRP$ their) (NNS patients)))
+sid=14 spanning 32 until 33 headed by 32 parsed as their
+sid=15 spanning 0 until 2 headed by 1 parsed as (NP (NNP Pete) (NNP Williams))
+sid=15 spanning 3 until 5 headed by 4 parsed as (NP (NNP NBC) (NNP News))
+sid=15 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Supreme) (NNP Court))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP Supreme) (NNP Court))
+sid=0 spanning 6 until 16 headed by 7 parsed as (NP (NP (JJ important) (NNS questions)) (PP (IN about) (NP (NP (NML (NML (JJ medical) (NN testing)) (CC and) (NML (NN privacy))) (NNS rights)) (PP (IN of) (NP (NNS individuals))))))
+sid=0 spanning 9 until 16 headed by 13 parsed as (NP (NP (NML (NML (JJ medical) (NN testing)) (CC and) (NML (NN privacy))) (NNS rights)) (PP (IN of) (NP (NNS individuals))))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNS individuals))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNS doctors))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNS police))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=1 spanning 8 until 14 headed by 8 parsed as (NP (NP (NN evidence)) (SBAR (S (NP (PRP$ their) (NNS patients)) (VP (VBP are) (VP (VBG committing) (NP (NNS crimes)))))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ their) (NNS patients))
+sid=1 spanning 9 until 10 headed by 9 parsed as (PRP$ their)
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NNS crimes))
+sid=2 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP NBC) (POS 's)) (NNP Pete) (NNP Williams))
+sid=2 spanning 2 until 4 headed by 2 parsed as (NP (NNP NBC) (POS 's))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 2 until 19 headed by 3 parsed as (NP (NP (DT a) (NN case)) (SBAR (WHNP (WDT that)) (S (VP (VBZ pits) (NP (NP (DT a) (NN woman) (POS 's)) (JJ medical) (NN privacy)) (PP (IN against) (NP (NP (DT the) (NN state) (POS 's)) (NN desire) (S (VP (TO to) (VP (VB protect) (NP (NNS children)))))))))))
+sid=3 spanning 6 until 11 headed by 10 parsed as (NP (NP (DT a) (NN woman) (POS 's)) (JJ medical) (NN privacy))
+sid=3 spanning 6 until 9 headed by 7 parsed as (NP (DT a) (NN woman) (POS 's))
+sid=3 spanning 12 until 19 headed by 15 parsed as (NP (NP (DT the) (NN state) (POS 's)) (NN desire) (S (VP (TO to) (VP (VB protect) (NP (NNS children))))))
+sid=3 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN state) (POS 's))
+sid=3 spanning 18 until 19 headed by 18 parsed as (NP (NNS children))
+sid=4 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT an) (NN epidemic)) (PP (IN of) (NP (NN cocaine) (NN use))))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (NN cocaine) (NN use))
+sid=4 spanning 8 until 18 headed by 9 parsed as (NP (NP (JJ pregnant) (NNS mothers)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADVP (RB potentially)) (VP (VBG putting) (NP (PRP$ their) (NNS babies)) (PP (IN at) (NP (NN risk))))))))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ their) (NNS babies))
+sid=4 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+sid=4 spanning 19 until 30 headed by 21 parsed as (NP (NP (DT the) (JJ medical) (NN staff)) (PP (IN at) (NP (NP (DT this) (NNP Charleston)) (, ,) (NP (NNP South) (NNP Carolina)) (, ,) (NP (NN hospital)))))
+sid=4 spanning 24 until 25 headed by 24 parsed as (NP (NP (DT this) (NNP Charleston)) (, ,) (NP (NNP South) (NNP Carolina)) (, ,) (NP (NN hospital)))
+sid=4 spanning 23 until 30 headed by 24 parsed as (NP (NP (DT this) (NNP Charleston)) (, ,) (NP (NNP South) (NNP Carolina)) (, ,) (NP (NN hospital)))
+sid=4 spanning 23 until 25 headed by 24 parsed as (NP (DT this) (NNP Charleston))
+sid=4 spanning 26 until 28 headed by 27 parsed as (NP (NNP South) (NNP Carolina))
+sid=4 spanning 33 until 46 headed by 35 parsed as (NP (NP (DT a) (JJ novel) (NN idea)) (: --) (S (VP (VB decide) (SBAR (WHNP (WHNP (WDT which)) (PP (IN of) (NP (DT the) (JJ pregnant)))) (SBAR (WHADVP (WRB where)) (S (NP (NNS things)) (VP (VBD went) (ADJP (JJ wrong)))))))))
+sid=4 spanning 40 until 42 headed by 41 parsed as (NP (DT the) (JJ pregnant))
+sid=4 spanning 43 until 44 headed by 43 parsed as (NP (NNS things))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNS doctors))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNS doctors))
+sid=5 spanning 9 until 10 headed by 9 parsed as (NP (NNS doctors))
+sid=6 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN state))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=6 spanning 6 until 13 headed by 7 parsed as (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB get) (NP (NNS mothers)) (PP (IN off) (NP (NNS drugs))))))))
+sid=6 spanning 10 until 11 headed by 10 parsed as (NP (NNS mothers))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (NNS drugs))
+sid=6 spanning 15 until 21 headed by 16 parsed as (NP (NP (DT the) (NN risk)) (PP (IN of) (S (VP (VBG having) (NP (JJ unhealthy) (NNS babies))))))
+sid=6 spanning 19 until 21 headed by 20 parsed as (NP (JJ unhealthy) (NNS babies))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=7 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT these) (NNS babies)) (SBAR (WHADVP (WRB when)) (S (NP (DT this) (NN case)) (VP (VBD started)))))
+sid=7 spanning 9 until 11 headed by 10 parsed as (NP (DT this) (NN case))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=8 spanning 4 until 13 headed by 12 parsed as (NP (DT a) (NML (QP (CD 3) (CD 1) (SYM /) (CD 2)) (HYPH -) (NN pound)) (NN human) (NN being))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=9 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+sid=10 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN question)) (PP (IN for) (NP (DT the) (NN court))))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN court))
+sid=10 spanning 8 until 9 headed by 8 parsed as (NP (NNS doctors))
+sid=10 spanning 11 until 12 headed by 11 parsed as (NP (NNS police))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Justice) (NNP Scalia))
+sid=11 spanning 4 until 5 headed by 4 parsed as (NP (NNS Doctors))
+sid=11 spanning 8 until 9 headed by 8 parsed as (NP (PRP they))
+sid=11 spanning 10 until 12 headed by 11 parsed as (NP (NN gunshot) (NNS wounds))
+sid=11 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=11 spanning 18 until 22 headed by 18 parsed as (NP (NP (NN proof)) (PP (IN of) (NP (NN drug) (NN use))))
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (NN drug) (NN use))
+sid=11 spanning 24 until 26 headed by 25 parsed as (NP (NNP Justice) (NNP Ginsburg))
+sid=11 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN hospital))
+sid=11 spanning 33 until 34 headed by 33 parsed as (NP (PRP it))
+sid=11 spanning 36 until 38 headed by 37 parsed as (NP (JJ unborn) (NNS children))
+sid=11 spanning 40 until 41 headed by 40 parsed as (NP (NNS women))
+sid=11 spanning 42 until 43 headed by 42 parsed as (NP (PRP they))
+sid=12 spanning 0 until 8 headed by 0 parsed as (NP (NP (JJ Many)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (JJ big) (JJ medical) (NNS groups))))
+sid=12 spanning 2 until 8 headed by 7 parsed as (NP (NP (DT the) (NN nation) (POS 's)) (JJ big) (JJ medical) (NNS groups))
+sid=12 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=12 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (NML (NNP South) (NNP Carolina)) (NN policy))
+sid=12 spanning 10 until 12 headed by 11 parsed as Carolina
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=13 spanning 2 until 6 headed by 3 parsed as (NP (NP (DT the) (NN threat)) (PP (IN of) (NP (NN arrest))))
+sid=13 spanning 8 until 10 headed by 9 parsed as (NP (JJR more) (NNS women))
+sid=13 spanning 12 until 14 headed by 13 parsed as (NP (NN pregnancy) (NN care))
+sid=13 spanning 17 until 19 headed by 18 parsed as (NP (PRP$ their) (NNS babies))
+sid=13 spanning 17 until 18 headed by 17 parsed as (PRP$ their)
+sid=14 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNS justices))
+sid=14 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (NML (NNP South) (NNP Carolina)) (NN policy))
+sid=14 spanning 5 until 7 headed by 6 parsed as Carolina
+sid=14 spanning 9 until 15 headed by 9 parsed as (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (NNS doctors))))
+sid=14 spanning 11 until 15 headed by 14 parsed as (NP (NP (DT the) (NN nation) (POS 's)) (NNS doctors))
+sid=14 spanning 11 until 14 headed by 12 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=14 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=14 spanning 23 until 34 headed by 24 parsed as (NP (NP (JJR more) (NNS crimes)) (, ,) (PP (VBG eroding) (NP (NP (DT the) (NN trust)) (PP (IN between) (NP (NP (PRP them)) (CC and) (NP (PRP$ their) (NNS patients)))))))
+sid=14 spanning 23 until 25 headed by 24 parsed as (NP (JJR more) (NNS crimes))
+sid=14 spanning 27 until 34 headed by 28 parsed as (NP (NP (DT the) (NN trust)) (PP (IN between) (NP (NP (PRP them)) (CC and) (NP (PRP$ their) (NNS patients)))))
+sid=14 spanning 30 until 34 headed by 30 parsed as (NP (NP (PRP them)) (CC and) (NP (PRP$ their) (NNS patients)))
+sid=14 spanning 30 until 31 headed by 30 parsed as (NP (PRP them))
+sid=14 spanning 32 until 34 headed by 33 parsed as (NP (PRP$ their) (NNS patients))
+sid=14 spanning 32 until 33 headed by 32 parsed as (PRP$ their)
+sid=15 spanning 0 until 2 headed by 1 parsed as (NP (NNP Pete) (NNP Williams))
+sid=15 spanning 3 until 5 headed by 4 parsed as (NP (NNP NBC) (NNP News))
+sid=15 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Supreme) (NNP Court))
+(end predicted mentions)
+---------gold clusters--------
+22 23 | { 'women' 'they' }
+15 6 | { 'this case' 'a case that pits a woman 's medical privacy against the state 's desire to protect children' }
+11 33 13 27 7 | { 'South Carolina' 'South Carolina' 'the state' 'South Carolina' 'the state 's' }
+24 28 | { 'Many of the nation 's big medical groups' 'They' }
+16 31 | { 'the court' 'the justices' }
+20 10 21 | { 'the hospital' 'this Charleston , South Carolina , hospital' 'it' }
+1 3 2 | { 'doctors' 'their' 'they' }
+26 12 32 14 | { 'the South Carolina policy' 'a novel idea -- decide which of the pregnant where things went wrong' 'the South Carolina policy' 'it' }
+0 41 | { 'the Supreme Court' 'the Supreme Court' }
+4 39 | { 'NBC 's Pete Williams' 'Pete Williams' }
+29 30 | { 'more women' 'their' }
+40 5 | { 'NBC News' 'NBC 's' }
+17 18 19 | { 'Doctors' 'they' 'they' }
+35 25 | { 'the nation 's' 'the nation 's' }
+8 9 | { 'pregnant mothers who were potentially putting their babies at risk' 'their' }
+37 38 34 36 | { 'them' 'their' 'many of the nation 's doctors' 'they' }
+(end gold clusters)

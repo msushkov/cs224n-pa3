@@ -1,0 +1,80 @@
+---------gloss--------
+(0) [36m{Major announcement from Israel}[0m today . 
+(1) [34m{Former Israeli Prime Minister Benjamin Netanyahu}[0m [36m{says}[0m [34m{he}[0m will not run for [34m{his}[0m old job . 
+(2) [34m{He}[0m says the current excess of parties in [35m{parliament}[0m makes it hard to form a stable , long - lasting coalition . 
+(3) The statement came after [1m[33m{members of parliament}[0m refused to call elections for [1m[33m{themselves}[0m . 
+(4) [34m{Netanyahu 's}[0m withdrawal leaves Likud leader Ariel Sharon as the only candidate running against [33m{Prime Minister Ehud Barak}[0m , but [1m[31m{former Prime Minister Shimon Peres}[0m tells Israeli radio [1m[31m{he}[0m 's considering running . 
+(5) [1m[32m{The special election}[0m was called when [33m{Barak}[0m unexpectedly resigned earlier this month . 
+(6) [1m[32m{It}[0m will most likely take place February . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0148); part 000
+sentences:
+MajormajorJJOPER0announcementannouncementNNOPER0fromfromINOPER0IsraelIsraelNNPGPEPER0todaytodayNNDATEPER0...OPER0(ROOT (FRAG (NP (JJ Major) (NN announcement)) (PP (IN from) (NP (NNP Israel))) (NP (NN today)) (. .)))
+FormerformerJJOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0BenjaminBenjaminNNPPERSONPER0NetanyahuNetanyahuNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0willwillMDOPER0notnotRBOPER0runrunVBOPER0forforINOPER0hishePRP$OPER0oldoldJJOPER0jobjobNNOPER0...OPER0(ROOT (S (NP (NML (JJ Former) (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Benjamin) (NNP Netanyahu)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD will) (RB not) (VP (VB run) (PP (IN for) (NP (PRP$ his) (JJ old) (NN job)))))))) (. .)))
+HehePRPOPER0sayssayVBZOPER0thetheDTOPER0currentcurrentJJOPER0excessexcessNNOPER0ofofINOPER0partiespartyNNSOPER0ininINOPER0parliamentparliamentNNORGPER0makesmakeVBZOPER0ititPRPOPER0hardhardJJOPER0totoTOOPER0formformVBOPER0aaDTOPER0stablestableJJOPER0,,,OPER0longlongRBOPER0--HYPHOPER0lastinglastVBGOPER0coalitioncoalitionNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (JJ current) (NN excess)) (PP (IN of) (NP (NP (NNS parties)) (PP (IN in) (NP (NN parliament)))))) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB form) (NP (DT a) (JJ stable) (, ,) (ADJP (RB long) (HYPH -) (VBG lasting)) (NN coalition)))))))))))) (. .)))
+ThetheDTOPER0statementstatementNNOPER0camecomeVBDOPER0afterafterINOPER0membersmemberNNSOPER0ofofINOPER0parliamentparliamentNNORGPER0refusedrefuseVBDOPER0totoTOOPER0callcallVBOPER0electionselectionNNSOPER0forforINOPER0themselvesthemselvesPRPOPER0...OPER0(ROOT (S (NP (DT The) (NN statement)) (VP (VBD came) (SBAR (IN after) (S (NP (NP (NNS members)) (PP (IN of) (NP (NN parliament)))) (VP (VBD refused) (S (VP (TO to) (VP (VB call) (NP (NNS elections)) (PP (IN for) (NP (PRP themselves)))))))))) (. .)))
+NetanyahuNetanyahuNNPPERSONPER0's'sPOSOPER0withdrawalwithdrawalNNOPER0leavesleaveVBZOPER0LikudLikudNNPORGPER0leaderleaderNNOPER0ArielArielNNPPERSONPER0SharonSharonNNPPERSONPER0asasINOPER0thetheDTOPER0onlyonlyJJOPER0candidatecandidateNNOPER0runningrunVBGOPER0againstagainstINOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0,,,OPER0butbutCCOPER0formerformerJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0ShimonShimonNNPPERSONPER0PeresPeresNNPPERSONPER0tellstellVBZOPER0IsraeliisraeliJJOPER0radioradioNNOPER0hehePRPOPER0'sbeVBZOPER0consideringconsiderVBGOPER0runningrunVBGOPER0...OPER0(ROOT (S (S (NP (NP (NNP Netanyahu) (POS 's)) (NN withdrawal)) (VP (VBZ leaves) (NP (NML (NNP Likud) (NN leader)) (NNP Ariel) (NNP Sharon)) (PP (IN as) (NP (NP (DT the) (JJ only) (NN candidate)) (VP (VBG running) (PP (IN against) (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))))))) (, ,) (CC but) (S (NP (NML (JJ former) (NNP Prime) (NNP Minister)) (NNP Shimon) (NNP Peres)) (VP (VBZ tells) (NP (JJ Israeli) (NN radio)) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG considering) (S (VP (VBG running))))))))) (. .)))
+ThetheDTOPER0specialspecialJJOPER0electionelectionNNOPER0wasbeVBDOPER0calledcallVBNOPER0whenwhenWRBOPER0BarakBarakNNPPERSONPER0unexpectedlyunexpectedlyRBOPER0resignedresignVBDOPER0earlierearlierRBRDATEPER0thisthisDTDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ special) (NN election)) (VP (VBD was) (VP (VBN called) (SBAR (WHADVP (WRB when)) (S (NP (NNP Barak)) (ADVP (RB unexpectedly)) (VP (VBD resigned) (NP (ADVP (RBR earlier)) (DT this) (NN month))))))) (. .)))
+ItitPRPOPER0willwillMDOPER0mostmostRBSOPER0likelylikelyRBOPER0taketakeVBOPER0placeplaceNNOPER0FebruaryFebruaryNNPDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (MD will) (ADVP (RBS most) (RB likely)) (VP (VB take) (NP (NN place)) (NP (NNP February)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (JJ Major) (NN announcement))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (NML (JJ Former) (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Benjamin) (NNP Netanyahu))
+sid=1 spanning 6 until 7 headed by 6 parsed as says
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=1 spanning 12 until 13 headed by 12 parsed as his
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NN parliament))
+sid=3 spanning 4 until 7 headed by 4 parsed as (NP (NP (NNS members)) (PP (IN of) (NP (NN parliament))))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NN parliament))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP themselves))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Netanyahu) (POS 's)) (NN withdrawal))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Netanyahu) (POS 's))
+sid=4 spanning 14 until 18 headed by 17 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=4 spanning 20 until 25 headed by 24 parsed as (NP (NML (JJ former) (NNP Prime) (NNP Minister)) (NNP Shimon) (NNP Peres))
+sid=4 spanning 28 until 29 headed by 28 parsed as (NP (PRP he))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ special) (NN election))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNP Barak))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Israel))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (NML (JJ Former) (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Benjamin) (NNP Netanyahu))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (PRP$ his) (JJ old) (NN job))
+sid=1 spanning 12 until 13 headed by 12 parsed as (PRP$ his)
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 9 headed by 4 parsed as (NP (NP (DT the) (JJ current) (NN excess)) (PP (IN of) (NP (NP (NNS parties)) (PP (IN in) (NP (NN parliament))))))
+sid=2 spanning 6 until 9 headed by 6 parsed as (NP (NP (NNS parties)) (PP (IN in) (NP (NN parliament))))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=2 spanning 14 until 21 headed by 20 parsed as (NP (DT a) (JJ stable) (, ,) (ADJP (RB long) (HYPH -) (VBG lasting)) (NN coalition))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN statement))
+sid=3 spanning 4 until 7 headed by 4 parsed as (NP (NP (NNS members)) (PP (IN of) (NP (NN parliament))))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (NNS elections))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP themselves))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Netanyahu) (POS 's)) (NN withdrawal))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Netanyahu) (POS 's))
+sid=4 spanning 4 until 8 headed by 7 parsed as (NP (NML (NNP Likud) (NN leader)) (NNP Ariel) (NNP Sharon))
+sid=4 spanning 4 until 5 headed by 4 parsed as Likud
+sid=4 spanning 9 until 18 headed by 11 parsed as (NP (NP (DT the) (JJ only) (NN candidate)) (VP (VBG running) (PP (IN against) (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=4 spanning 14 until 18 headed by 17 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=4 spanning 20 until 25 headed by 24 parsed as (NP (NML (JJ former) (NNP Prime) (NNP Minister)) (NNP Shimon) (NNP Peres))
+sid=4 spanning 28 until 29 headed by 28 parsed as (NP (PRP he))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ special) (NN election))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNP Barak))
+sid=5 spanning 9 until 12 headed by 11 parsed as (NP (ADVP (RBR earlier)) (DT this) (NN month))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (NNP February))
+(end predicted mentions)
+---------gold clusters--------
+12 16 | { 'Prime Minister Ehud Barak' 'Barak' }
+11 4 1 3 5 | { 'Netanyahu 's' 'his' 'Former Israeli Prime Minister Benjamin Netanyahu' 'he' 'He' }
+6 8 | { 'parliament' 'parliament' }
+2 10 0 | { 'says' 'Netanyahu 's withdrawal' 'Major announcement from Israel' }
+13 14 | { 'former Prime Minister Shimon Peres' 'he' }
+15 17 | { 'The special election' 'It' }
+7 9 | { 'members of parliament' 'themselves' }
+(end gold clusters)

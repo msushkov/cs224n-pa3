@@ -1,0 +1,152 @@
+---------gloss--------
+(0) And the ripple effect from [32m{Bridgestone / Firestone 's}[0m tire troubles being felt across [4m[34m{the country}[0m tonight . 
+(1) [4m[35m{NBC 's}[0m chief financial correspondent Mike Jensen has the latest . 
+(2) A stunning announcement -- 450 workers laid off indefinitely at this troubled [32m{Firestone}[0m plant in Decatur , Illinois , which will totally shut down for two weeks . 
+(3) Two other [32m{Bridgestone / Firestone}[0m plants in Tennessee and Oklahoma will shut down , fully or partially , for four weeks , cutting tire production by 20 % . 
+(4) Why now ? 
+(5) Analysts say because car owners simply are n't buying enough [32m{Firestone}[0m tires . 
+(6) [31m{Tire dealer Bryan Tashjian}[0m today , in California , says [31m{his}[0m [32m{Firestone}[0m tire sales are down 70 % . 
+(7) [31m{I}[0m see the concern in [33m{people 's}[0m faces , and [33m{they}[0m 're very apprehensive about purchasing [32m{Firestone}[0m tires . 
+(8) [32m{Bridgestone / Firestone}[0m Chairman John Lampe , on a telephone conference call with reporters this afternoon . 
+(9) All this as [4m[34m{the government}[0m announces 18 more deaths involving cars with [32m{Firestone}[0m tires , bringing the total U.S. death toll to 119 , plus dozens more in Venezuela and the Middle East . 
+(10) [4m[34m{The government}[0m now says more than 3,500 people have complained to the National Highway Traffic Safety Administration about [32m{Firestone}[0m tread separations , blowouts and other problems . 
+(11) There is a risk that [32m{it}[0m could become sort of a secondary brand . 
+(12) Analysts say [4m[33m{the paud name of Firestone , once a premium tire ,}[0m could end up as a bargain basement brand , if [4m[33m{it}[0m survives at all . 
+(13) [4m[36m{Mike Jensen}[0m , [4m[35m{NBC News}[0m , New York . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0011); part 000
+sentences:
+AndandCCOPER0thetheDTOPER0ripplerippleJJOPER0effecteffectNNOPER0fromfromINOPER0BridgestoneBridgestoneNNPORGPER0//SYMORGPER0FirestoneFirestoneNNPORGPER0's'sPOSORGPER0tiretireNNOPER0troublestroubleVBZOPER0beingbeVBGOPER0feltfeelVBDOPER0acrossacrossINOPER0thetheDTOPER0countrycountryNNOPER0tonighttonightNNOPER0...OPER0(ROOT (S (CC And) (NP (NP (DT the) (JJ ripple) (NN effect)) (PP (IN from) (NP (NP (NNP Bridgestone) (SYM /) (NNP Firestone) (POS 's)) (NN tire)))) (VP (VBZ troubles) (VP (VBG being) (VP (VBD felt) (PP (IN across) (NP (DT the) (NN country))) (NP (NN tonight))))) (. .)))
+NBCNBCNNPORGPER0's'sPOSOPER0chiefchiefJJOPER0financialfinancialJJOPER0correspondentcorrespondentNNOPER0MikeMikeNNPPERSONPER0JensenJensenNNPPERSONPER0hashaveVBZOPER0thetheDTOPER0latestlatestJJSOPER0...OPER0(ROOT (S (NP (NP (NP (NNP NBC) (POS 's)) (JJ chief) (JJ financial) (NN correspondent)) (NP (NNP Mike) (NNP Jensen))) (VP (VBZ has) (NP (DT the) (JJS latest))) (. .)))
+AaDTOPER0stunningstunningJJOPER0announcementannouncementNNOPER0----:OPER0450450CDCARDINALPER0workersworkerNNSOPER0laidlayVBNOPER0offoffRPOPER0indefinitelyindefinitelyRBOPER0atatINOPER0thisthisDTOPER0troubledtroubledJJOPER0FirestoneFirestoneNNPORGPER0plantplantNNOPER0ininINOPER0DecaturDecaturNNPGPEPER0,,,OPER0IllinoisIllinoisNNPGPEPER0,,,OPER0whichwhichWDTOPER0willwillMDOPER0totallytotallyRBOPER0shutshutVBOPER0downdownRPOPER0forforINOPER0twotwoCDDATEPER0weeksweekNNSDATEPER0...OPER0(ROOT (NP (NP (DT A) (JJ stunning) (NN announcement)) (: --) (NP (NP (CD 450) (NNS workers)) (VP (VBN laid) (PRT (RP off)) (ADVP (RB indefinitely)) (PP (IN at) (NP (NP (NP (DT this) (JJ troubled) (NNP Firestone) (NN plant)) (PP (IN in) (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB totally)) (VP (VB shut) (PRT (RP down)) (PP (IN for) (NP (CD two) (NNS weeks))))))))))) (. .)))
+TwotwoCDCARDINALPER0otherotherJJOPER0BridgestoneBridgestoneNNPORGPER0//SYMORGPER0FirestoneFirestoneNNPORGPER0plantsplantNNSOPER0ininINOPER0TennesseeTennesseeNNPGPEPER0andandCCOPER0OklahomaOklahomaNNPGPEPER0willwillMDOPER0shutshutVBOPER0downdownRPOPER0,,,OPER0fullyfullyRBOPER0ororCCOPER0partiallypartiallyRBOPER0,,,OPER0forforINOPER0fourfourCDDATEPER0weeksweekNNSDATEPER0,,,OPER0cuttingcutVBGOPER0tiretireNNOPER0productionproductionNNOPER0bybyINOPER02020CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NP (CD Two) (JJ other) (NML (NNP Bridgestone) (SYM /) (NNP Firestone)) (NNS plants)) (PP (IN in) (NP (NP (NNP Tennessee)) (CC and) (NP (NNP Oklahoma))))) (VP (MD will) (VP (VB shut) (PRT (RP down)) (, ,) (ADVP (RB fully) (CC or) (RB partially)) (, ,) (PP (IN for) (NP (CD four) (NNS weeks))) (, ,) (S (VP (VBG cutting) (NP (NN tire) (NN production)) (PP (IN by) (NP (CD 20) (NN %))))))) (. .)))
+WhywhyWRBOPER0nownowRBOPER0??.OPER0(ROOT (SBARQ (WHADVP (WRB Why)) (FRAG (ADVP (RB now))) (. ?)))
+AnalystsanalystNNSOPER0saysayVBPOPER0becausebecauseINOPER0carcarNNOPER0ownersownerNNSOPER0simplysimplyRBOPER0arebeVBPOPER0n'tnotRBOPER0buyingbuyVBGOPER0enoughenoughJJOPER0FirestoneFirestoneNNPORGPER0tirestireNNSOPER0...OPER0(ROOT (S (NP (NNS Analysts)) (VP (VBP say) (SBAR (IN because) (S (NP (NN car) (NNS owners)) (ADVP (RB simply)) (VP (VBP are) (RB n't) (VP (VBG buying) (NP (JJ enough) (NNP Firestone) (NNS tires))))))) (. .)))
+TiretireNNOPER0dealerdealerNNOPER0BryanBryanNNPPERSONPER0TashjianTashjianNNPPERSONPER0todaytodayNNDATEPER0,,,OPER0ininINOPER0CaliforniaCaliforniaNNPGPEPER0,,,OPER0sayssayVBZOPER0hishePRP$OPER0FirestoneFirestoneNNPORGPER0tiretireNNOPER0salessaleNNSOPER0arebeVBPOPER0downdownRBOPER07070CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NML (NN Tire) (NN dealer)) (NNP Bryan) (NNP Tashjian)) (NP (NN today)) (, ,) (PP (IN in) (NP (NNP California))) (, ,) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NNP Firestone) (NN tire) (NNS sales)) (VP (VBP are) (ADVP (RB down) (NP (CD 70) (NN %))))))) (. .)))
+IIPRPOPER0seeseeVBPOPER0thetheDTOPER0concernconcernNNOPER0ininINOPER0peoplepeopleNNSOPER0's'sPOSOPER0facesfaceNNSOPER0,,,OPER0andandCCOPER0theytheyPRPOPER0'rebeVBPOPER0veryveryRBOPER0apprehensiveapprehensiveJJOPER0aboutaboutINOPER0purchasingpurchaseVBGOPER0FirestoneFirestoneNNPORGPER0tirestireNNSOPER0...OPER0(ROOT (S (S (NP (PRP I)) (VP (VBP see) (NP (NP (DT the) (NN concern)) (PP (IN in) (NP (NP (NNS people) (POS 's)) (NNS faces)))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (RB very) (JJ apprehensive) (PP (IN about) (S (VP (VBG purchasing) (NP (NNP Firestone) (NNS tires)))))))) (. .)))
+BridgestoneBridgestoneNNPORGPER0//SYMORGPER0FirestoneFirestoneNNPORGPER0ChairmanChairmanNNPOPER0JohnJohnNNPPERSONPER0LampeLampeNNPPERSONPER0,,,OPER0ononINOPER0aaDTOPER0telephonetelephoneNNOPER0conferenceconferenceNNOPER0callcallNNOPER0withwithINOPER0reportersreporterNNSOPER0thisthisDTTIMEPER0afternoonafternoonNNTIMEPER0...OPER0(ROOT (FRAG (NP (NML (NNP Bridgestone) (SYM /) (NNP Firestone)) (NNP Chairman) (NNP John) (NNP Lampe)) (, ,) (PP (IN on) (NP (DT a) (NN telephone) (NN conference) (NN call))) (PP (IN with) (NP (NP (NNS reporters)) (NP (DT this) (NN afternoon)))) (. .)))
+AllallPDTOPER0thisthisDTOPER0asasINOPER0thetheDTOPER0governmentgovernmentNNOPER0announcesannounceVBZOPER01818CDCARDINALPER0moremoreJJROPER0deathsdeathNNSOPER0involvinginvolveVBGOPER0carscarNNSOPER0withwithINOPER0FirestoneFirestoneNNPORGPER0tirestireNNSOPER0,,,OPER0bringingbringVBGOPER0thetheDTOPER0totaltotalJJOPER0U.S.U.S.NNPGPEPER0deathdeathNNOPER0tolltollNNOPER0totoINOPER0119119CDCARDINALPER0,,,OPER0plusplusCCOPER0dozensdozenNNSCARDINALPER0moremoreJJROPER0ininINOPER0VenezuelaVenezuelaNNPGPEPER0andandCCOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0...OPER0(ROOT (FRAG (NP (PDT All) (DT this)) (SBAR (IN as) (S (NP (DT the) (NN government)) (VP (VBZ announces) (NP (NP (NP (QP (CD 18) (JJR more)) (NNS deaths)) (VP (VBG involving) (NP (NNS cars)) (PP (IN with) (NP (NNP Firestone) (NNS tires))) (, ,) (S (VP (VBG bringing) (NP (DT the) (JJ total) (NNP U.S.) (NN death) (NN toll)) (PP (IN to) (NP (CD 119))))))) (, ,) (CC plus) (NP (NP (NNS dozens) (JJR more)) (PP (IN in) (NP (NP (NNP Venezuela)) (CC and) (NP (DT the) (NNP Middle) (NNP East))))))))) (. .)))
+ThetheDTOPER0governmentgovernmentNNOPER0nownowRBOPER0sayssayVBZOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER03,5003,500CDCARDINALPER0peoplepeopleNNSOPER0havehaveVBPOPER0complainedcomplainVBNOPER0totoINOPER0thetheDTORGPER0NationalNationalNNPORGPER0HighwayHighwayNNPORGPER0TrafficTrafficNNPORGPER0SafetySafetyNNPORGPER0AdministrationAdministrationNNPORGPER0aboutaboutINOPER0FirestoneFirestoneNNPORGPER0treadtreadVBOPER0separationsseparationNNSOPER0,,,OPER0blowoutsblowoutNNSOPER0andandCCOPER0otherotherJJOPER0problemsproblemNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN government)) (ADVP (RB now)) (VP (VBZ says) (SBAR (S (NP (QP (XS (JJR more) (IN than)) (CD 3,500)) (NNS people)) (VP (VBP have) (VP (VBN complained) (PP (IN to) (NP (DT the) (NNP National) (NML (NNP Highway) (NNP Traffic) (NNP Safety)) (NNP Administration))) (SBAR (IN about) (S (NP (NNP Firestone)) (VP (VB tread) (NP (NP (NNS separations)) (, ,) (NP (NNS blowouts)) (CC and) (NP (JJ other) (NNS problems))))))))))) (. .)))
+TherethereEXOPER0isbeVBZOPER0aaDTOPER0riskriskNNOPER0thatthatINOPER0ititPRPOPER0couldcouldMDOPER0becomebecomeVBOPER0sortsortNNOPER0ofofINOPER0aaDTOPER0secondarysecondaryJJOPER0brandbrandNNOPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBZ is) (NP (DT a) (NN risk) (SBAR (IN that) (S (NP (PRP it)) (VP (MD could) (VP (VB become) (NP (NP (NN sort)) (PP (IN of) (NP (DT a) (JJ secondary) (NN brand)))))))))) (. .)))
+AnalystsanalystNNSOPER0saysayVBPOPER0thetheDTOPER0paudpaudJJOPER0namenameNNOPER0ofofINOPER0FirestoneFirestoneNNPORGPER0,,,OPER0onceonceRBOPER0aaDTOPER0premiumpremiumNNOPER0tiretireNNOPER0,,,OPER0couldcouldMDOPER0endendVBOPER0upupRPOPER0asasINOPER0aaDTOPER0bargainbargainNNOPER0basementbasementNNOPER0brandbrandNNOPER0,,,OPER0ififINOPER0ititPRPOPER0survivessurviveVBZOPER0atatRBOPER0allallRBOPER0...OPER0(ROOT (S (NP (NNS Analysts)) (VP (VBP say) (SBAR (S (NP (NP (DT the) (JJ paud) (NN name)) (PP (IN of) (NP (NP (NNP Firestone)) (, ,) (RRC (ADVP (RB once)) (NP (DT a) (NN premium) (NN tire))) (, ,)))) (VP (MD could) (VP (VB end) (PRT (RP up)) (PP (IN as) (NP (DT a) (NML (NN bargain) (NN basement)) (NN brand))) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ survives) (ADVP (RB at) (RB all)))))))))) (. .)))
+MikeMikeNNPPERSONPER0JensenJensenNNPPERSONPER0,,,OPER0NBCNBCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Mike) (NNP Jensen)) (, ,) (NP (NNP NBC) (NNP News)) (, ,) (NP (NNP New) (NNP York)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 9 headed by 7 parsed as (NP (NNP Bridgestone) (SYM /) (NNP Firestone) (POS 's))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN country))
+sid=1 spanning 0 until 7 headed by 4 parsed as (NP (NP (NP (NNP NBC) (POS 's)) (JJ chief) (JJ financial) (NN correspondent)) (NP (NNP Mike) (NNP Jensen)))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP NBC) (POS 's))
+sid=2 spanning 12 until 13 headed by 12 parsed as Firestone
+sid=3 spanning 2 until 5 headed by 4 parsed as Firestone
+sid=5 spanning 10 until 11 headed by 10 parsed as Firestone
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (NML (NN Tire) (NN dealer)) (NNP Bryan) (NNP Tashjian))
+sid=6 spanning 10 until 11 headed by 10 parsed as his
+sid=6 spanning 11 until 12 headed by 11 parsed as Firestone
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=7 spanning 5 until 7 headed by 5 parsed as (NP (NNS people) (POS 's))
+sid=7 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=7 spanning 16 until 17 headed by 16 parsed as Firestone
+sid=8 spanning 0 until 3 headed by 2 parsed as Firestone
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN government))
+sid=9 spanning 12 until 13 headed by 12 parsed as Firestone
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN government))
+sid=10 spanning 18 until 19 headed by 18 parsed as (NP (NNP Firestone))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=12 spanning 2 until 13 headed by 4 parsed as (NP (NP (DT the) (JJ paud) (NN name)) (PP (IN of) (NP (NP (NNP Firestone)) (, ,) (RRC (ADVP (RB once)) (NP (DT a) (NN premium) (NN tire))) (, ,))))
+sid=12 spanning 6 until 13 headed by 6 parsed as (NP (NP (NNP Firestone)) (, ,) (RRC (ADVP (RB once)) (NP (DT a) (NN premium) (NN tire))) (, ,))
+sid=12 spanning 23 until 24 headed by 23 parsed as (NP (PRP it))
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mike) (NNP Jensen))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (NNP NBC) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 10 headed by 3 parsed as (NP (NP (DT the) (JJ ripple) (NN effect)) (PP (IN from) (NP (NP (NNP Bridgestone) (SYM /) (NNP Firestone) (POS 's)) (NN tire))))
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (NP (NNP Bridgestone) (SYM /) (NNP Firestone) (POS 's)) (NN tire))
+sid=0 spanning 5 until 9 headed by 7 parsed as (NP (NNP Bridgestone) (SYM /) (NNP Firestone) (POS 's))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN country))
+sid=1 spanning 0 until 7 headed by 4 parsed as (NP (NP (NP (NNP NBC) (POS 's)) (JJ chief) (JJ financial) (NN correspondent)) (NP (NNP Mike) (NNP Jensen)))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP NBC) (POS 's))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NNP Mike) (NNP Jensen))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (JJS latest))
+sid=2 spanning 0 until 28 headed by 2 parsed as (NP (NP (DT A) (JJ stunning) (NN announcement)) (: --) (NP (NP (CD 450) (NNS workers)) (VP (VBN laid) (PRT (RP off)) (ADVP (RB indefinitely)) (PP (IN at) (NP (NP (NP (DT this) (JJ troubled) (NNP Firestone) (NN plant)) (PP (IN in) (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB totally)) (VP (VB shut) (PRT (RP down)) (PP (IN for) (NP (CD two) (NNS weeks))))))))))) (. .))
+sid=2 spanning 4 until 27 headed by 5 parsed as (NP (NP (CD 450) (NNS workers)) (VP (VBN laid) (PRT (RP off)) (ADVP (RB indefinitely)) (PP (IN at) (NP (NP (NP (DT this) (JJ troubled) (NNP Firestone) (NN plant)) (PP (IN in) (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB totally)) (VP (VB shut) (PRT (RP down)) (PP (IN for) (NP (CD two) (NNS weeks)))))))))))
+sid=2 spanning 10 until 27 headed by 13 parsed as (NP (NP (NP (DT this) (JJ troubled) (NNP Firestone) (NN plant)) (PP (IN in) (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB totally)) (VP (VB shut) (PRT (RP down)) (PP (IN for) (NP (CD two) (NNS weeks))))))))
+sid=2 spanning 10 until 18 headed by 13 parsed as (NP (NP (DT this) (JJ troubled) (NNP Firestone) (NN plant)) (PP (IN in) (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois)))))
+sid=2 spanning 12 until 13 headed by 12 parsed as Firestone
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois)))
+sid=2 spanning 15 until 18 headed by 15 parsed as (NP (NP (NNP Decatur)) (, ,) (NP (NNP Illinois)))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NNP Illinois))
+sid=2 spanning 25 until 27 headed by 26 parsed as (NP (CD two) (NNS weeks))
+sid=3 spanning 0 until 10 headed by 5 parsed as (NP (NP (CD Two) (JJ other) (NML (NNP Bridgestone) (SYM /) (NNP Firestone)) (NNS plants)) (PP (IN in) (NP (NP (NNP Tennessee)) (CC and) (NP (NNP Oklahoma)))))
+sid=3 spanning 2 until 5 headed by 4 parsed as Firestone
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NP (NNP Tennessee)) (CC and) (NP (NNP Oklahoma)))
+sid=3 spanning 7 until 10 headed by 7 parsed as (NP (NP (NNP Tennessee)) (CC and) (NP (NNP Oklahoma)))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP Oklahoma))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (CD four) (NNS weeks))
+sid=3 spanning 23 until 25 headed by 24 parsed as (NP (NN tire) (NN production))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Analysts))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (NN car) (NNS owners))
+sid=5 spanning 10 until 11 headed by 10 parsed as Firestone
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (NML (NN Tire) (NN dealer)) (NNP Bryan) (NNP Tashjian))
+sid=6 spanning 7 until 8 headed by 7 parsed as (NP (NNP California))
+sid=6 spanning 10 until 14 headed by 13 parsed as (NP (PRP$ his) (NNP Firestone) (NN tire) (NNS sales))
+sid=6 spanning 10 until 11 headed by 10 parsed as (PRP$ his)
+sid=6 spanning 11 until 12 headed by 11 parsed as Firestone
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=7 spanning 2 until 8 headed by 3 parsed as (NP (NP (DT the) (NN concern)) (PP (IN in) (NP (NP (NNS people) (POS 's)) (NNS faces))))
+sid=7 spanning 5 until 8 headed by 7 parsed as (NP (NP (NNS people) (POS 's)) (NNS faces))
+sid=7 spanning 5 until 7 headed by 5 parsed as (NP (NNS people) (POS 's))
+sid=7 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=7 spanning 16 until 18 headed by 17 parsed as (NP (NNP Firestone) (NNS tires))
+sid=7 spanning 16 until 17 headed by 16 parsed as Firestone
+sid=8 spanning 4 until 6 headed by 5 parsed as (NP (NML (NNP Bridgestone) (SYM /) (NNP Firestone)) (NNP Chairman) (NNP John) (NNP Lampe))
+sid=8 spanning 0 until 6 headed by 5 parsed as (NP (NML (NNP Bridgestone) (SYM /) (NNP Firestone)) (NNP Chairman) (NNP John) (NNP Lampe))
+sid=8 spanning 0 until 3 headed by 2 parsed as Firestone
+sid=8 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (NN telephone) (NN conference) (NN call))
+sid=8 spanning 13 until 16 headed by 13 parsed as (NP (NP (NNS reporters)) (NP (DT this) (NN afternoon)))
+sid=8 spanning 14 until 16 headed by 15 parsed as (NP (DT this) (NN afternoon))
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN government))
+sid=9 spanning 6 until 33 headed by 8 parsed as (NP (NP (NP (QP (CD 18) (JJR more)) (NNS deaths)) (VP (VBG involving) (NP (NNS cars)) (PP (IN with) (NP (NNP Firestone) (NNS tires))) (, ,) (S (VP (VBG bringing) (NP (DT the) (JJ total) (NNP U.S.) (NN death) (NN toll)) (PP (IN to) (NP (CD 119))))))) (, ,) (CC plus) (NP (NP (NNS dozens) (JJR more)) (PP (IN in) (NP (NP (NNP Venezuela)) (CC and) (NP (DT the) (NNP Middle) (NNP East))))))
+sid=9 spanning 6 until 23 headed by 8 parsed as (NP (NP (QP (CD 18) (JJR more)) (NNS deaths)) (VP (VBG involving) (NP (NNS cars)) (PP (IN with) (NP (NNP Firestone) (NNS tires))) (, ,) (S (VP (VBG bringing) (NP (DT the) (JJ total) (NNP U.S.) (NN death) (NN toll)) (PP (IN to) (NP (CD 119)))))))
+sid=9 spanning 10 until 11 headed by 10 parsed as (NP (NNS cars))
+sid=9 spanning 12 until 14 headed by 13 parsed as (NP (NNP Firestone) (NNS tires))
+sid=9 spanning 12 until 13 headed by 12 parsed as Firestone
+sid=9 spanning 16 until 21 headed by 20 parsed as (NP (DT the) (JJ total) (NNP U.S.) (NN death) (NN toll))
+sid=9 spanning 22 until 23 headed by 22 parsed as (NP (CD 119))
+sid=9 spanning 25 until 33 headed by 26 parsed as (NP (NP (NNS dozens) (JJR more)) (PP (IN in) (NP (NP (NNP Venezuela)) (CC and) (NP (DT the) (NNP Middle) (NNP East)))))
+sid=9 spanning 28 until 29 headed by 28 parsed as (NP (NP (NNP Venezuela)) (CC and) (NP (DT the) (NNP Middle) (NNP East)))
+sid=9 spanning 28 until 33 headed by 28 parsed as (NP (NP (NNP Venezuela)) (CC and) (NP (DT the) (NNP Middle) (NNP East)))
+sid=9 spanning 30 until 33 headed by 32 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN government))
+sid=10 spanning 4 until 8 headed by 7 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 3,500)) (NNS people))
+sid=10 spanning 11 until 17 headed by 16 parsed as (NP (DT the) (NNP National) (NML (NNP Highway) (NNP Traffic) (NNP Safety)) (NNP Administration))
+sid=10 spanning 18 until 19 headed by 18 parsed as (NP (NNP Firestone))
+sid=10 spanning 20 until 26 headed by 20 parsed as (NP (NP (NNS separations)) (, ,) (NP (NNS blowouts)) (CC and) (NP (JJ other) (NNS problems)))
+sid=10 spanning 20 until 21 headed by 20 parsed as (NP (NNS separations))
+sid=10 spanning 22 until 23 headed by 22 parsed as (NP (NNS blowouts))
+sid=10 spanning 24 until 26 headed by 25 parsed as (NP (JJ other) (NNS problems))
+sid=11 spanning 2 until 13 headed by 3 parsed as (NP (DT a) (NN risk) (SBAR (IN that) (S (NP (PRP it)) (VP (MD could) (VP (VB become) (NP (NP (NN sort)) (PP (IN of) (NP (DT a) (JJ secondary) (NN brand)))))))))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=11 spanning 8 until 13 headed by 8 parsed as (NP (NP (NN sort)) (PP (IN of) (NP (DT a) (JJ secondary) (NN brand))))
+sid=11 spanning 10 until 13 headed by 12 parsed as (NP (DT a) (JJ secondary) (NN brand))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (NNS Analysts))
+sid=12 spanning 2 until 13 headed by 4 parsed as (NP (NP (DT the) (JJ paud) (NN name)) (PP (IN of) (NP (NP (NNP Firestone)) (, ,) (RRC (ADVP (RB once)) (NP (DT a) (NN premium) (NN tire))) (, ,))))
+sid=12 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP Firestone)) (, ,) (RRC (ADVP (RB once)) (NP (DT a) (NN premium) (NN tire))) (, ,))
+sid=12 spanning 6 until 13 headed by 6 parsed as (NP (NP (NNP Firestone)) (, ,) (RRC (ADVP (RB once)) (NP (DT a) (NN premium) (NN tire))) (, ,))
+sid=12 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (NN premium) (NN tire))
+sid=12 spanning 17 until 21 headed by 20 parsed as (NP (DT a) (NML (NN bargain) (NN basement)) (NN brand))
+sid=12 spanning 23 until 24 headed by 23 parsed as (NP (PRP it))
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mike) (NNP Jensen))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (NNP NBC) (NNP News))
+sid=13 spanning 6 until 8 headed by 7 parsed as (NP (NNP New) (NNP York))
+(end predicted mentions)
+---------gold clusters--------
+20 22 | { 'the paud name of Firestone , once a premium tire ,' 'it' }
+1 15 17 | { 'the country' 'the government' 'The government' }
+24 3 | { 'NBC News' 'NBC 's' }
+2 23 | { 'NBC 's chief financial correspondent Mike Jensen' 'Mike Jensen' }
+10 7 8 | { 'I' 'Tire dealer Bryan Tashjian' 'his' }
+5 18 9 14 13 21 19 0 16 4 6 | { 'Bridgestone / Firestone' 'Firestone' 'Firestone' 'Bridgestone / Firestone' 'Firestone' 'Firestone , once a premium tire ,' 'it' 'Bridgestone / Firestone 's' 'Firestone' 'Firestone' 'Firestone' }
+11 12 | { 'people 's' 'they' }
+(end gold clusters)

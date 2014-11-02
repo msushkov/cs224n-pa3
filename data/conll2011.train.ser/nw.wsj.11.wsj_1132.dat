@@ -1,0 +1,32 @@
+---------gloss--------
+(0) [4m[33m{Malcolm S. Todt}[0m was named vice president and senior officer in charge of equipment leasing to municipalities , a new effort of this bond insurer . 
+(1) [4m[33m{Mr. Todt}[0m had been vice president and treasurer of Insilco Corp . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1132); part 000
+sentences:
+MalcolmMalcolmNNPPERSONPER0S.S.NNPPERSONPER0TodtTodtNNPPERSONPER0wasbeVBDOPER0namednameVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0seniorseniorJJOPER0officerofficerNNOPER0ininINOPER0chargechargeNNOPER0ofofINOPER0equipmentequipmentNNOPER0leasingleaseVBGOPER0totoINOPER0municipalitiesmunicipalityNNSOPER0,,,OPER0aaDTOPER0newnewJJOPER0efforteffortNNOPER0ofofINOPER0thisthisDTOPER0bondbondNNOPER0insurerinsurerNNOPER0...OPER0(ROOT (S (NP (NNP Malcolm) (NNP S.) (NNP Todt)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ senior) (NN officer)) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (NP (NN equipment)) (VP (VBG leasing) (PP (IN to) (NP (NNS municipalities)))))))))) (, ,) (S (NP (NP (DT a) (JJ new) (NN effort)) (PP (IN of) (NP (DT this) (NN bond) (NN insurer))))))) (. .)))
+Mr.Mr.NNPOPER0TodtTodtNNPPERSONPER0hadhaveVBDOPER0beenbeVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0treasurertreasurerNNOPER0ofofINOPER0InsilcoInsilcoNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Todt)) (VP (VBD had) (VP (VBN been) (S (NP (NP (NN vice) (NN president)) (CC and) (NP (NN treasurer)) (PP (IN of) (NP (NNP Insilco) (NNP Corp))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Malcolm) (NNP S.) (NNP Todt))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Todt))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Malcolm) (NNP S.) (NNP Todt))
+sid=0 spanning 5 until 17 headed by 6 parsed as (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ senior) (NN officer)) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (NP (NN equipment)) (VP (VBG leasing) (PP (IN to) (NP (NNS municipalities)))))))))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NN vice) (NN president))
+sid=0 spanning 11 until 17 headed by 11 parsed as (NP (NP (NN charge)) (PP (IN of) (NP (NP (NN equipment)) (VP (VBG leasing) (PP (IN to) (NP (NNS municipalities)))))))
+sid=0 spanning 13 until 17 headed by 13 parsed as (NP (NP (NN equipment)) (VP (VBG leasing) (PP (IN to) (NP (NNS municipalities)))))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNS municipalities))
+sid=0 spanning 18 until 25 headed by 20 parsed as (NP (NP (DT a) (JJ new) (NN effort)) (PP (IN of) (NP (DT this) (NN bond) (NN insurer))))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (DT this) (NN bond) (NN insurer))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Todt))
+sid=1 spanning 4 until 11 headed by 5 parsed as (NP (NP (NN vice) (NN president)) (CC and) (NP (NN treasurer)) (PP (IN of) (NP (NNP Insilco) (NNP Corp))))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NN vice) (NN president))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Insilco) (NNP Corp))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'Mr. Todt' 'Malcolm S. Todt' }
+(end gold clusters)

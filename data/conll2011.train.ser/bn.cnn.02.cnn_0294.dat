@@ -1,0 +1,36 @@
+---------gloss--------
+(0) Power being restored on a rolling basis throughout [34m{Baghdad}[0m today . 
+(1) [34m{The city}[0m went dark two weeks ago leaving people without electricity or the ability to cook or keep food from spoiling . 
+(2) Engineers have managed to restart two substations and six diesel plants and also need that to help the hospitals get on line as well . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0294); part 000
+sentences:
+PowerpowerNNOPER0beingbeVBGOPER0restoredrestoreVBNOPER0ononINOPER0aaDTOPER0rollingrollingJJOPER0basisbasisNNOPER0throughoutthroughoutINOPER0BaghdadBaghdadNNPGPEPER0todaytodayNNDATEPER0...OPER0(ROOT (FRAG (NP (NN Power)) (VP (VBG being) (VP (VBN restored) (PP (IN on) (NP (DT a) (JJ rolling) (NN basis))) (PP (IN throughout) (NP (NNP Baghdad))) (NP (NN today)))) (. .)))
+ThetheDTOPER0citycityNNOPER0wentgoVBDOPER0darkdarkRBOPER0twotwoCDDATEPER0weeksweekNNSDATEPER0agoagoRBDATEPER0leavingleaveVBGOPER0peoplepeopleNNSOPER0withoutwithoutINOPER0electricityelectricityNNOPER0ororCCOPER0thetheDTOPER0abilityabilityNNOPER0totoTOOPER0cookcookVBOPER0ororCCOPER0keepkeepVBOPER0foodfoodNNOPER0fromfromINOPER0spoilingspoilVBGOPER0...OPER0(ROOT (S (NP (DT The) (NN city)) (VP (VBD went) (ADVP (NP (QP (RB dark) (CD two)) (NNS weeks)) (RB ago)) (S (VP (VBG leaving) (NP (NNS people)) (PP (IN without) (NP (NP (NN electricity)) (CC or) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB cook) (CC or) (VB keep) (NP (NN food)) (PP (IN from) (S (VP (VBG spoiling))))))))))))) (. .)))
+EngineersengineerNNSOPER0havehaveVBPOPER0managedmanageVBNOPER0totoTOOPER0restartrestartVBOPER0twotwoCDCARDINALPER0substationssubstationNNSOPER0andandCCOPER0sixsixCDCARDINALPER0dieseldieselNNOPER0plantsplantNNSOPER0andandCCOPER0alsoalsoRBOPER0needneedVBPOPER0thatthatDTOPER0totoTOOPER0helphelpVBOPER0thetheDTOPER0hospitalshospitalNNSOPER0getgetVBOPER0ononINOPER0linelineNNOPER0asasRBOPER0wellwellRBOPER0...OPER0(ROOT (S (NP (NNS Engineers)) (VP (VP (VBP have) (VP (VBN managed) (S (VP (TO to) (VP (VB restart) (NP (NP (CD two) (NNS substations)) (CC and) (NP (CD six) (NN diesel) (NNS plants)))))))) (CC and) (ADVP (RB also)) (VP (VBP need) (NP (DT that)) (S (VP (TO to) (VP (VB help) (S (NP (DT the) (NNS hospitals)) (VP (VB get) (PP (IN on) (NP (NN line))) (ADVP (RB as) (RB well))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Baghdad))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN city))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (JJ rolling) (NN basis))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Baghdad))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN city))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (QP (RB dark) (CD two)) (NNS weeks))
+sid=1 spanning 4 until 7 headed by 6 parsed as ago
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNS people))
+sid=1 spanning 10 until 21 headed by 10 parsed as (NP (NP (NN electricity)) (CC or) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB cook) (CC or) (VB keep) (NP (NN food)) (PP (IN from) (S (VP (VBG spoiling)))))))))
+sid=1 spanning 12 until 21 headed by 13 parsed as (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB cook) (CC or) (VB keep) (NP (NN food)) (PP (IN from) (S (VP (VBG spoiling))))))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Engineers))
+sid=2 spanning 5 until 11 headed by 6 parsed as (NP (NP (CD two) (NNS substations)) (CC and) (NP (CD six) (NN diesel) (NNS plants)))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (CD two) (NNS substations))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (CD six) (NN diesel) (NNS plants))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (DT that))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNS hospitals))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Baghdad' 'The city' }
+(end gold clusters)

@@ -1,0 +1,140 @@
+---------gloss--------
+(0) [35m{Dow Jones & Co.}[0m announced [36m{Wall Street Journal}[0m advertising rates for 1990 . 
+(1) [1m[31m{The rates , which take effect Jan. 2 ,}[0m include [1m[32m{a 4 % increase for national edition advertising}[0m . 
+(2) [36m{The Journal}[0m also will offer expanded volume and frequency discounts . 
+(3) [1m[32m{The increase for national edition advertising}[0m is less than the inflation rate and compares with a 6.5 % increase in 1989 . 
+(4) `` Newsprint and postage prices this year have not gone up , '' said Peter R. Kann , president of [35m{Dow Jones}[0m . 
+(5) `` [35m{We}[0m have invested in improved editorial quality and expanded [35m{our}[0m quality audience without substantially increasing [35m{our}[0m costs . 
+(6) Fundamental fairness and a sense of responsibility lead [35m{us}[0m to share operating efficiencies with [35m{our}[0m customers . '' 
+(7) Advertising rates for the Eastern , Midwest , Western and Southwest editions will increase an average 5.5 % , and rates for localized advertising editions will increase 7.5 % . 
+(8) Rates for the Wall Street Journal Reports will remain unchanged . 
+(9) A one - time noncontract full - page advertisement in The [36m{Wall Street Journal}[0m national edition will cost $ 99,385 . 
+(10) Advertising rates for The Wall Street Journal / Europe , published in Brussels and printed in the Netherlands and Switzerland , will increase 9 % . 
+(11) Rates for The Asian Wall Street Journal , published and printed in Hong Kong and also printed in Singapore and Tokyo , will rise 8 % . 
+(12) Rates for The Asian Wall Street Journal Weekly , published in New York for North American readers , will rise 6 % . 
+(13) [35m{Dow Jones}[0m also publishes Barron 's magazine , other periodicals and community newspapers and operates electronic business information services . 
+(14) [35m{It}[0m owns 67 % of Telerate Inc. , a leading supplier of computerized financial information on global markets . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1551); part 000
+sentences:
+DowDowNNPORGPER0JonesJonesNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0announcedannounceVBDOPER0WallWallNNPORGPER0StreetStreetNNPORGPER0JournalJournalNNPORGPER0advertisingadvertisingNNOPER0ratesrateNNSOPER0forforINOPER019901990CDDATEPER0...OPER0(ROOT (S (NP (NNP Dow) (NNP Jones) (CC &) (NNP Co.)) (VP (VBD announced) (NP (NP (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NN advertising) (NNS rates)) (PP (IN for) (NP (CD 1990))))) (. .)))
+ThetheDTOPER0ratesrateNNSOPER0,,,OPER0whichwhichWDTOPER0taketakeVBPOPER0effecteffectNNOPER0Jan.Jan.NNPDATEPER022CDDATEPER0,,,OPER0includeincludeVBPOPER0aaDTOPER044CDPERCENTPER0%%NNPERCENTPER0increaseincreaseNNOPER0forforINOPER0nationalnationalJJOPER0editioneditionNNOPER0advertisingadvertisingNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS rates)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP take) (NP (NN effect)) (NP (NNP Jan.) (CD 2))))) (, ,)) (VP (VBP include) (NP (NP (DT a) (NML (CD 4) (NN %)) (NN increase)) (PP (IN for) (NP (NML (JJ national) (NN edition)) (NN advertising))))) (. .)))
+ThetheDTOPER0JournalJournalNNPORGPER0alsoalsoRBOPER0willwillMDOPER0offerofferVBOPER0expandedexpandVBNOPER0volumevolumeNNOPER0andandCCOPER0frequencyfrequencyJJOPER0discountsdiscountNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNP Journal)) (ADVP (RB also)) (VP (MD will) (VP (VB offer) (NP (VBN expanded) (NP (NN volume) (CC and) (JJ frequency)) (NNS discounts)))) (. .)))
+ThetheDTOPER0increaseincreaseNNOPER0forforINOPER0nationalnationalJJOPER0editioneditionNNOPER0advertisingadvertisingNNOPER0isbeVBZOPER0lesslessJJROPER0thanthanINOPER0thetheDTOPER0inflationinflationNNOPER0raterateNNOPER0andandCCOPER0comparescompareVBZOPER0withwithINOPER0aaDTOPER06.56.5CDPERCENTPER0%%NNPERCENTPER0increaseincreaseNNOPER0ininINOPER019891989CDDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN increase)) (PP (IN for) (NP (NML (JJ national) (NN edition)) (NN advertising)))) (VP (VP (VBZ is) (ADJP (ADJP (JJR less)) (PP (IN than) (NP (DT the) (NN inflation) (NN rate))))) (CC and) (VP (VBZ compares) (PP (IN with) (NP (NP (DT a) (NML (CD 6.5) (NN %)) (NN increase)) (PP (IN in) (NP (CD 1989))))))) (. .)))
+``````ONewsprintnewsprintNNOPER1andandCCOPER1postagepostageNNOPER1pricespriceNNSOPER1thisthisDTDATEPER1yearyearNNDATEPER1havehaveVBPOPER1notnotRBOPER1gonegoVBNOPER1upupRBOPER1,,,OPER1''''''OPER0saidsayVBDOPER0PeterPeterNNPPERSONPER0R.R.NNPPERSONPER0KannKannNNPPERSONPER0,,,OPER0presidentpresidentNNOPER0ofofINOPER0DowDowNNPORGPER0JonesJonesNNPORGPER0...OPER0(ROOT (SINV (`` ``) (S (NP (NP (NML (NN Newsprint) (CC and) (NN postage)) (NNS prices)) (NP (DT this) (NN year))) (VP (VBP have) (RB not) (VP (VBN gone) (ADVP (RB up))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Peter) (NNP R.) (NNP Kann)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Dow) (NNP Jones))))) (. .)))
+``````OWewePRPOPER2havehaveVBPOPER2investedinvestVBNOPER2ininINOPER2improvedimproveVBNOPER2editorialeditorialJJOPER2qualityqualityNNOPER2andandCCOPER2expandedexpandVBNOPER2ourwePRP$OPER2qualityqualityNNOPER2audienceaudienceNNOPER2withoutwithoutINOPER2substantiallysubstantiallyRBOPER2increasingincreaseVBGOPER2ourwePRP$OPER2costscostNNSOPER2...OPER2(ROOT (S (`` ``) (NP (PRP We)) (VP (VBP have) (VP (VP (VBN invested) (PP (IN in) (NP (VBN improved) (JJ editorial) (NN quality)))) (CC and) (VP (VBN expanded) (NP (PRP$ our) (NN quality) (NN audience)) (PP (IN without) (S (ADVP (RB substantially)) (VP (VBG increasing) (NP (PRP$ our) (NNS costs)))))))) (. .)))
+FundamentalfundamentalJJOPER2fairnessfairnessNNOPER2andandCCOPER2aaDTOPER2sensesenseNNOPER2ofofINOPER2responsibilityresponsibilityNNOPER2leadleadVBPOPER2uswePRPOPER2totoTOOPER2shareshareVBOPER2operatingoperatingNNOPER2efficienciesefficiencyNNSOPER2withwithINOPER2ourwePRP$OPER2customerscustomerNNSOPER2...OPER2''''''OPER0(ROOT (S (NP (NP (JJ Fundamental) (NN fairness)) (CC and) (NP (NP (DT a) (NN sense)) (PP (IN of) (NP (NN responsibility))))) (VP (VBP lead) (NP (PRP us)) (S (VP (TO to) (VP (VB share) (NP (NN operating) (NNS efficiencies)) (PP (IN with) (NP (PRP$ our) (NNS customers))))))) (. .) ('' '')))
+AdvertisingadvertisingNNOPER0ratesrateNNSOPER0forforINOPER0thetheDTOPER0EasternEasternNNPORGPER0,,,OPER0MidwestMidwestNNPLOCPER0,,,OPER0WesternWesternNNPORGPER0andandCCOPER0SouthwestSouthwestNNPLOCPER0editionseditionNNSOPER0willwillMDOPER0increaseincreaseVBOPER0anaDTPERCENTPER0averageaverageJJPERCENTPER05.55.5CDPERCENTPER0%%NNPERCENTPER0,,,OPER0andandCCOPER0ratesrateNNSOPER0forforINOPER0localizedlocalizeVBNOPER0advertisingadvertisingNNOPER0editionseditionNNSOPER0willwillMDOPER0increaseincreaseVBOPER07.57.5CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (S (NP (NP (NN Advertising) (NNS rates)) (PP (IN for) (NP (DT the) (NML (NNP Eastern) (, ,) (NNP Midwest) (, ,) (NNP Western) (CC and) (NNP Southwest)) (NNS editions)))) (VP (MD will) (VP (VB increase) (NP (DT an) (JJ average) (CD 5.5) (NN %))))) (, ,) (CC and) (S (NP (NP (NNS rates)) (PP (IN for) (NP (VBN localized) (NN advertising) (NNS editions)))) (VP (MD will) (VP (VB increase) (NP (CD 7.5) (NN %))))) (. .)))
+RatesRatesNNPOPER0forforINOPER0thetheDTORGPER0WallWallNNPORGPER0StreetStreetNNPORGPER0JournalJournalNNPORGPER0ReportsReportsNNPORGPER0willwillMDOPER0remainremainVBOPER0unchangedunchangedJJOPER0...OPER0(ROOT (S (NP (NP (NNP Rates)) (PP (IN for) (NP (DT the) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NNP Reports)))) (VP (MD will) (VP (VB remain) (ADJP (JJ unchanged)))) (. .)))
+AaDTOPER0oneoneCDCARDINALPER0--HYPHOPER0timetimeNNOPER0noncontractnoncontractJJOPER0fullfullJJOPER0--HYPHOPER0pagepageNNOPER0advertisementadvertisementNNOPER0ininINOPER0ThetheDTOPER0WallWallNNPORGPER0StreetStreetNNPORGPER0JournalJournalNNPORGPER0nationalnationalJJOPER0editioneditionNNOPER0willwillMDOPER0costcostVBOPER0$$$MONEYPER099,38599,385CDMONEYPER0...OPER0(ROOT (S (NP (NP (DT A) (NML (CD one) (HYPH -) (NN time)) (JJ noncontract) (NML (JJ full) (HYPH -) (NN page)) (NN advertisement)) (PP (IN in) (NP (DT The) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (JJ national) (NN edition)))) (VP (MD will) (VP (VB cost) (NP ($ $) (CD 99,385)))) (. .)))
+AdvertisingadvertisingNNOPER0ratesrateNNSOPER0forforINOPER0ThetheDTORGPER0WallWallNNPORGPER0StreetStreetNNPORGPER0JournalJournalNNPORGPER0//SYMORGPER0EuropeEuropeNNPORGPER0,,,OPER0publishedpublishVBNOPER0ininINOPER0BrusselsBrusselsNNPGPEPER0andandCCOPER0printedprintVBNOPER0ininINOPER0thetheDTOPER0NetherlandsNetherlandsNNPGPEPER0andandCCOPER0SwitzerlandSwitzerlandNNPGPEPER0,,,OPER0willwillMDOPER0increaseincreaseVBOPER099CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NP (NP (NN Advertising) (NNS rates)) (PP (IN for) (NP (DT The) (NML (NNP Wall) (NNP Street)) (NNP Journal) (SYM /) (NNP Europe)))) (, ,) (VP (VP (VBN published) (PP (IN in) (NP (NNP Brussels)))) (CC and) (VP (VBN printed) (PP (IN in) (NP (NP (DT the) (NNP Netherlands)) (CC and) (NP (NNP Switzerland)))))) (, ,)) (VP (MD will) (VP (VB increase) (NP (CD 9) (NN %)))) (. .)))
+RatesrateNNSOPER0forforINOPER0ThetheDTORGPER0AsianAsianNNPORGPER0WallWallNNPORGPER0StreetStreetNNPORGPER0JournalJournalNNPORGPER0,,,OPER0publishedpublishVBNOPER0andandCCOPER0printedprintVBNOPER0ininINOPER0HongHongNNPGPEPER0KongKongNNPGPEPER0andandCCOPER0alsoalsoRBOPER0printedprintVBNOPER0ininINOPER0SingaporeSingaporeNNPGPEPER0andandCCOPER0TokyoTokyoNNPGPEPER0,,,OPER0willwillMDOPER0riseriseVBOPER088CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NP (NNS Rates)) (PP (IN for) (NP (NP (DT The) (NNP Asian) (NML (NNP Wall) (NNP Street)) (NNP Journal)) (, ,) (VP (VP (VBN published)) (CC and) (VP (VBN printed) (PP (IN in) (NP (NNP Hong) (NNP Kong)))) (CC and) (ADVP (RB also)) (VP (VBN printed) (PP (IN in) (NP (NNP Singapore) (CC and) (NNP Tokyo))))) (, ,)))) (VP (MD will) (VP (VB rise) (NP (CD 8) (NN %)))) (. .)))
+RatesRatesNNPOPER0forforINOPER0ThetheDTORGPER0AsianAsianNNPORGPER0WallWallNNPORGPER0StreetStreetNNPORGPER0JournalJournalNNPORGPER0WeeklyWeeklyNNPORGPER0,,,OPER0publishedpublishVBNOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0forforINOPER0NorthNorthNNPOPER0AmericanAmericanNNPOPER0readersreaderNNSOPER0,,,OPER0willwillMDOPER0riseriseVBOPER066CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NP (NP (NNP Rates)) (PP (IN for) (NP (DT The) (NNP Asian) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NNP Weekly)))) (, ,) (VP (VBN published) (PP (IN in) (NP (NNP New) (NNP York))) (PP (IN for) (NP (NML (NNP North) (NNP American)) (NNS readers)))) (, ,)) (VP (MD will) (VP (VB rise) (NP (CD 6) (NN %)))) (. .)))
+DowDowNNPORGPER0JonesJonesNNPORGPER0alsoalsoRBOPER0publishespublishVBZOPER0BarronBarronNNPORGPER0's'sPOSORGPER0magazinemagazineNNOPER0,,,OPER0otherotherJJOPER0periodicalsperiodicalNNSOPER0andandCCOPER0communitycommunityNNOPER0newspapersnewspaperNNSOPER0andandCCOPER0operatesoperateVBZOPER0electronicelectronicJJOPER0businessbusinessNNOPER0informationinformationNNOPER0servicesserviceNNSOPER0...OPER0(ROOT (S (NP (NNP Dow) (NNP Jones)) (ADVP (RB also)) (VP (VP (VBZ publishes) (NP (NP (NP (NNP Barron) (POS 's)) (NN magazine)) (, ,) (NP (JJ other) (NNS periodicals)) (CC and) (NP (NN community) (NNS newspapers)))) (CC and) (VP (VBZ operates) (NP (JJ electronic) (NN business) (NN information) (NNS services)))) (. .)))
+ItitPRPOPER0ownsownVBZOPER06767CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0TelerateTelerateNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0aaDTOPER0leadingleadVBGOPER0suppliersupplierNNOPER0ofofINOPER0computerizedcomputerizedJJOPER0financialfinancialJJOPER0informationinformationNNOPER0ononINOPER0globalglobalJJOPER0marketsmarketNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ owns) (NP (NP (CD 67) (NN %)) (PP (IN of) (NP (NP (NNP Telerate) (NNP Inc.)) (, ,) (NP (NP (DT a) (VBG leading) (NN supplier)) (PP (IN of) (NP (NP (JJ computerized) (JJ financial) (NN information)) (PP (IN on) (NP (JJ global) (NNS markets)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NNP Dow) (NNP Jones) (CC &) (NNP Co.))
+sid=0 spanning 5 until 12 headed by 9 parsed as (NP (NP (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NN advertising) (NNS rates)) (PP (IN for) (NP (CD 1990))))
+sid=0 spanning 5 until 8 headed by 7 parsed as Journal
+sid=1 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NNS rates)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP take) (NP (NN effect)) (NP (NNP Jan.) (CD 2))))) (, ,))
+sid=1 spanning 10 until 18 headed by 13 parsed as (NP (NP (DT a) (NML (CD 4) (NN %)) (NN increase)) (PP (IN for) (NP (NML (JJ national) (NN edition)) (NN advertising))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Journal))
+sid=3 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NN increase)) (PP (IN for) (NP (NML (JJ national) (NN edition)) (NN advertising))))
+sid=4 spanning 20 until 22 headed by 21 parsed as (NP (NNP Dow) (NNP Jones))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP We))
+sid=5 spanning 10 until 11 headed by 10 parsed as our
+sid=5 spanning 16 until 17 headed by 16 parsed as our
+sid=6 spanning 8 until 9 headed by 8 parsed as (NP (PRP us))
+sid=6 spanning 14 until 15 headed by 14 parsed as our
+sid=9 spanning 11 until 14 headed by 13 parsed as Journal
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP Dow) (NNP Jones))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NNP Dow) (NNP Jones) (CC &) (NNP Co.))
+sid=0 spanning 5 until 12 headed by 9 parsed as (NP (NP (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NN advertising) (NNS rates)) (PP (IN for) (NP (CD 1990))))
+sid=0 spanning 5 until 8 headed by 7 parsed as Journal
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (CD 1990))
+sid=1 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NNS rates)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP take) (NP (NN effect)) (NP (NNP Jan.) (CD 2))))) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS rates))
+sid=1 spanning 6 until 8 headed by 6 parsed as (NP (NNP Jan.) (CD 2))
+sid=1 spanning 10 until 18 headed by 13 parsed as (NP (NP (DT a) (NML (CD 4) (NN %)) (NN increase)) (PP (IN for) (NP (NML (JJ national) (NN edition)) (NN advertising))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Journal))
+sid=2 spanning 5 until 10 headed by 9 parsed as (NP (VBN expanded) (NP (NN volume) (CC and) (JJ frequency)) (NNS discounts))
+sid=2 spanning 6 until 9 headed by 6 parsed as (NP (NN volume) (CC and) (JJ frequency))
+sid=3 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NN increase)) (PP (IN for) (NP (NML (JJ national) (NN edition)) (NN advertising))))
+sid=3 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NN inflation) (NN rate))
+sid=3 spanning 15 until 21 headed by 18 parsed as (NP (NP (DT a) (NML (CD 6.5) (NN %)) (NN increase)) (PP (IN in) (NP (CD 1989))))
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (CD 1989))
+sid=4 spanning 1 until 7 headed by 4 parsed as (NP (NP (NML (NN Newsprint) (CC and) (NN postage)) (NNS prices)) (NP (DT this) (NN year)))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT this) (NN year))
+sid=4 spanning 14 until 17 headed by 16 parsed as (NP (NP (NNP Peter) (NNP R.) (NNP Kann)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Dow) (NNP Jones)))))
+sid=4 spanning 14 until 22 headed by 16 parsed as (NP (NP (NNP Peter) (NNP R.) (NNP Kann)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Dow) (NNP Jones)))))
+sid=4 spanning 18 until 22 headed by 18 parsed as (NP (NP (NN president)) (PP (IN of) (NP (NNP Dow) (NNP Jones))))
+sid=4 spanning 20 until 22 headed by 21 parsed as (NP (NNP Dow) (NNP Jones))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP We))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (VBN improved) (JJ editorial) (NN quality))
+sid=5 spanning 10 until 13 headed by 12 parsed as (NP (PRP$ our) (NN quality) (NN audience))
+sid=5 spanning 10 until 11 headed by 10 parsed as (PRP$ our)
+sid=5 spanning 16 until 18 headed by 17 parsed as (NP (PRP$ our) (NNS costs))
+sid=5 spanning 16 until 17 headed by 16 parsed as (PRP$ our)
+sid=6 spanning 3 until 7 headed by 4 parsed as (NP (NP (DT a) (NN sense)) (PP (IN of) (NP (NN responsibility))))
+sid=6 spanning 8 until 9 headed by 8 parsed as (NP (PRP us))
+sid=6 spanning 11 until 13 headed by 12 parsed as (NP (NN operating) (NNS efficiencies))
+sid=6 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ our) (NNS customers))
+sid=6 spanning 14 until 15 headed by 14 parsed as (PRP$ our)
+sid=7 spanning 0 until 12 headed by 1 parsed as (NP (NP (NN Advertising) (NNS rates)) (PP (IN for) (NP (DT the) (NML (NNP Eastern) (, ,) (NNP Midwest) (, ,) (NNP Western) (CC and) (NNP Southwest)) (NNS editions))))
+sid=7 spanning 3 until 12 headed by 11 parsed as (NP (DT the) (NML (NNP Eastern) (, ,) (NNP Midwest) (, ,) (NNP Western) (CC and) (NNP Southwest)) (NNS editions))
+sid=7 spanning 4 until 5 headed by 4 parsed as Eastern
+sid=7 spanning 6 until 7 headed by 6 parsed as Midwest
+sid=7 spanning 8 until 9 headed by 8 parsed as Western
+sid=7 spanning 10 until 11 headed by 10 parsed as Southwest
+sid=7 spanning 20 until 25 headed by 20 parsed as (NP (NP (NNS rates)) (PP (IN for) (NP (VBN localized) (NN advertising) (NNS editions))))
+sid=7 spanning 22 until 25 headed by 24 parsed as (NP (VBN localized) (NN advertising) (NNS editions))
+sid=8 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNP Rates)) (PP (IN for) (NP (DT the) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NNP Reports))))
+sid=8 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NNP Reports))
+sid=9 spanning 0 until 16 headed by 8 parsed as (NP (NP (DT A) (NML (CD one) (HYPH -) (NN time)) (JJ noncontract) (NML (JJ full) (HYPH -) (NN page)) (NN advertisement)) (PP (IN in) (NP (DT The) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (JJ national) (NN edition))))
+sid=9 spanning 10 until 16 headed by 15 parsed as (NP (DT The) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (JJ national) (NN edition))
+sid=9 spanning 11 until 14 headed by 13 parsed as Journal
+sid=10 spanning 0 until 21 headed by 1 parsed as (NP (NP (NP (NN Advertising) (NNS rates)) (PP (IN for) (NP (DT The) (NML (NNP Wall) (NNP Street)) (NNP Journal) (SYM /) (NNP Europe)))) (, ,) (VP (VP (VBN published) (PP (IN in) (NP (NNP Brussels)))) (CC and) (VP (VBN printed) (PP (IN in) (NP (NP (DT the) (NNP Netherlands)) (CC and) (NP (NNP Switzerland)))))) (, ,))
+sid=10 spanning 0 until 9 headed by 1 parsed as (NP (NP (NN Advertising) (NNS rates)) (PP (IN for) (NP (DT The) (NML (NNP Wall) (NNP Street)) (NNP Journal) (SYM /) (NNP Europe))))
+sid=10 spanning 3 until 9 headed by 8 parsed as (NP (DT The) (NML (NNP Wall) (NNP Street)) (NNP Journal) (SYM /) (NNP Europe))
+sid=10 spanning 12 until 13 headed by 12 parsed as (NP (NNP Brussels))
+sid=10 spanning 17 until 18 headed by 17 parsed as (NP (NP (DT the) (NNP Netherlands)) (CC and) (NP (NNP Switzerland)))
+sid=10 spanning 16 until 20 headed by 17 parsed as (NP (NP (DT the) (NNP Netherlands)) (CC and) (NP (NNP Switzerland)))
+sid=10 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NNP Netherlands))
+sid=10 spanning 19 until 20 headed by 19 parsed as (NP (NNP Switzerland))
+sid=11 spanning 0 until 22 headed by 0 parsed as (NP (NP (NNS Rates)) (PP (IN for) (NP (NP (DT The) (NNP Asian) (NML (NNP Wall) (NNP Street)) (NNP Journal)) (, ,) (VP (VP (VBN published)) (CC and) (VP (VBN printed) (PP (IN in) (NP (NNP Hong) (NNP Kong)))) (CC and) (ADVP (RB also)) (VP (VBN printed) (PP (IN in) (NP (NNP Singapore) (CC and) (NNP Tokyo))))) (, ,))))
+sid=11 spanning 2 until 7 headed by 6 parsed as (NP (NP (DT The) (NNP Asian) (NML (NNP Wall) (NNP Street)) (NNP Journal)) (, ,) (VP (VP (VBN published)) (CC and) (VP (VBN printed) (PP (IN in) (NP (NNP Hong) (NNP Kong)))) (CC and) (ADVP (RB also)) (VP (VBN printed) (PP (IN in) (NP (NNP Singapore) (CC and) (NNP Tokyo))))) (, ,))
+sid=11 spanning 2 until 22 headed by 6 parsed as (NP (NP (DT The) (NNP Asian) (NML (NNP Wall) (NNP Street)) (NNP Journal)) (, ,) (VP (VP (VBN published)) (CC and) (VP (VBN printed) (PP (IN in) (NP (NNP Hong) (NNP Kong)))) (CC and) (ADVP (RB also)) (VP (VBN printed) (PP (IN in) (NP (NNP Singapore) (CC and) (NNP Tokyo))))) (, ,))
+sid=11 spanning 12 until 14 headed by 13 parsed as (NP (NNP Hong) (NNP Kong))
+sid=11 spanning 18 until 19 headed by 18 parsed as (NP (NNP Singapore) (CC and) (NNP Tokyo))
+sid=11 spanning 18 until 21 headed by 18 parsed as (NP (NNP Singapore) (CC and) (NNP Tokyo))
+sid=11 spanning 20 until 21 headed by 20 parsed as Tokyo
+sid=12 spanning 0 until 18 headed by 0 parsed as (NP (NP (NP (NNP Rates)) (PP (IN for) (NP (DT The) (NNP Asian) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NNP Weekly)))) (, ,) (VP (VBN published) (PP (IN in) (NP (NNP New) (NNP York))) (PP (IN for) (NP (NML (NNP North) (NNP American)) (NNS readers)))) (, ,))
+sid=12 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNP Rates)) (PP (IN for) (NP (DT The) (NNP Asian) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NNP Weekly))))
+sid=12 spanning 2 until 8 headed by 7 parsed as (NP (DT The) (NNP Asian) (NML (NML (NNP Wall) (NNP Street)) (NNP Journal)) (NNP Weekly))
+sid=12 spanning 11 until 13 headed by 12 parsed as (NP (NNP New) (NNP York))
+sid=12 spanning 14 until 17 headed by 16 parsed as (NP (NML (NNP North) (NNP American)) (NNS readers))
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP Dow) (NNP Jones))
+sid=13 spanning 4 until 13 headed by 6 parsed as (NP (NP (NP (NNP Barron) (POS 's)) (NN magazine)) (, ,) (NP (JJ other) (NNS periodicals)) (CC and) (NP (NN community) (NNS newspapers)))
+sid=13 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNP Barron) (POS 's)) (NN magazine))
+sid=13 spanning 4 until 6 headed by 4 parsed as (NP (NNP Barron) (POS 's))
+sid=13 spanning 8 until 10 headed by 9 parsed as (NP (JJ other) (NNS periodicals))
+sid=13 spanning 11 until 13 headed by 12 parsed as (NP (NN community) (NNS newspapers))
+sid=13 spanning 15 until 19 headed by 18 parsed as (NP (JJ electronic) (NN business) (NN information) (NNS services))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=14 spanning 5 until 7 headed by 6 parsed as (NP (NP (NNP Telerate) (NNP Inc.)) (, ,) (NP (NP (DT a) (VBG leading) (NN supplier)) (PP (IN of) (NP (NP (JJ computerized) (JJ financial) (NN information)) (PP (IN on) (NP (JJ global) (NNS markets)))))))
+sid=14 spanning 5 until 18 headed by 6 parsed as (NP (NP (NNP Telerate) (NNP Inc.)) (, ,) (NP (NP (DT a) (VBG leading) (NN supplier)) (PP (IN of) (NP (NP (JJ computerized) (JJ financial) (NN information)) (PP (IN on) (NP (JJ global) (NNS markets)))))))
+sid=14 spanning 8 until 18 headed by 10 parsed as (NP (NP (DT a) (VBG leading) (NN supplier)) (PP (IN of) (NP (NP (JJ computerized) (JJ financial) (NN information)) (PP (IN on) (NP (JJ global) (NNS markets))))))
+sid=14 spanning 16 until 18 headed by 17 parsed as (NP (JJ global) (NNS markets))
+(end predicted mentions)
+---------gold clusters--------
+9 12 10 8 15 11 14 0 7 | { 'our' 'our' 'our' 'We' 'It' 'us' 'Dow Jones' 'Dow Jones & Co.' 'Dow Jones' }
+13 5 2 | { 'Wall Street Journal' 'The Journal' 'Wall Street Journal' }
+3 1 | { 'The rates , which take effect Jan. 2 ,' 'Wall Street Journal advertising rates for 1990' }
+6 4 | { 'The increase for national edition advertising' 'a 4 % increase for national edition advertising' }
+(end gold clusters)

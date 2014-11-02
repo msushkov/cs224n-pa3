@@ -1,0 +1,260 @@
+---------gloss--------
+(0) Like many Heartland states , [4m[35m{Iowa}[0m has had trouble keeping young people down on the farm or anywhere within [31m{state lines}[0m . 
+(1) With population waning , [4m[35m{the state}[0m is looking beyond [4m[35m{its}[0m borders for newcomers . 
+(2) As [4m[33m{ABC 's}[0m Jim Sciutto reports , [3m[36m{one little town}[0m may provide a big lesson . 
+(3) On [34m{homecoming night}[0m [3m[36m{Postville}[0m feels like Hometown , [4m[31m{USA}[0m , but a look around [3m[36m{this town of 2,000}[0m shows [3m[36m{it}[0m 's become a miniature Ellis Island . 
+(4) [3m[36m{This}[0m was an all - white , all - christian community that all the sudden was taken over -- not taken over , that 's a very bad choice of words , but [33m{invaded}[0m by , perhaps different groups . 
+(5) [33m{It}[0m began when [4m[34m{a Hasidic Jewish family}[0m bought [1m[32m{one of the town 's two meat - packing plants}[0m 13 years ago . 
+(6) First [4m[34m{they}[0m brought in other Hasidic Jews , then Mexicans , Palestinians , Ukrainians . 
+(7) [1m[33m{The plant and another next door}[0m changed the face of [3m[36m{Postville}[0m . 
+(8) I think [3m[36m{Postville}[0m might be catching up with the rest of [4m[31m{America}[0m . 
+(9) If you look all over [4m[31m{America}[0m , if you did a study of any great city , you would see the same thing . 
+(10) [1m[33m{The plants}[0m helped spur economic development in [3m[36m{a town that had long been stagnant}[0m . 
+(11) Stores are expanding . 
+(12) New apartments and houses are being built , and there are hundreds of new jobs , making unemployment almost nonexistent . 
+(13) What else would you like ? 
+(14) [3m[36m{Postville}[0m now has 22 different nationalities , but some residents have n't welcomed [32m{the newcomers}[0m . 
+(15) [32m{They}[0m have no insurance on [32m{their}[0m cars . 
+(16) [32m{They}[0m do n't stop at stop signs . 
+(17) [32m{They}[0m do not put [32m{their}[0m children in a cash -- [32m{they}[0m 've never heard of a car seat . 
+(18) You know we 've been here a long time and I think most people would [1m[31m{meet}[0m [32m{them}[0m halfway , but [1m[31m{that}[0m does n't seem to be what [32m{they}[0m want . 
+(19) For [36m{those who prefer the old Postville}[0m , [4m[36m{Mayor John Hyman}[0m has a simple answer . 
+(20) [4m[36m{I}[0m just tell [36m{them}[0m , [36m{you}[0m 've got to change . 
+(21) [32m{They}[0m 're here to stay . 
+(22) [32m{They}[0m 're not gon na leave , and [36m{you}[0m 're going to have to adapt to [32m{these people}[0m . 
+(23) [4m[35m{Iowa 's}[0m governor is now looking to [3m[35m{follow}[0m [3m[36m{Postville 's}[0m example , relaxing immigration quotas . 
+(24) [3m[35m{It}[0m 's a goal that seems possible when on [34m{homecoming night}[0m [4m[32m{the starting kicker}[0m is 14 - year - old Nikita Kargalskiy , who may be 5,000 miles from [4m[32m{his}[0m hometown in Russia . 
+(25) [35m{Jim Sciutto}[0m , [4m[33m{ABC News}[0m , [3m[36m{Postville Iowa}[0m . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0001); part 000
+sentences:
+LikelikeINOPER0manymanyJJOPER0HeartlandheartlandNNOPER0statesstateNNSOPER0,,,OPER0IowaIowaNNPGPEPER0hashaveVBZOPER0hadhaveVBNOPER0troubletroubleNNOPER0keepingkeepVBGOPER0youngyoungJJOPER0peoplepeopleNNSOPER0downdownRBOPER0ononINOPER0thetheDTOPER0farmfarmNNOPER0ororCCOPER0anywhereanywhereRBOPER0withinwithinINOPER0statestateNNOPER0lineslineNNSOPER0...OPER0(ROOT (S (PP (IN Like) (NP (JJ many) (NN Heartland) (NNS states))) (, ,) (NP (NNP Iowa)) (VP (VBZ has) (VP (VBN had) (NP (NP (NN trouble)) (S (VP (VBG keeping) (NP (JJ young) (NNS people)) (UCP (ADVP (RB down) (PP (IN on) (NP (DT the) (NN farm)))) (CC or) (PP (ADVP (RB anywhere)) (IN within) (NP (NN state) (NNS lines))))))))) (. .)))
+WithwithINOPER0populationpopulationNNOPER0waningwaneVBGOPER0,,,OPER0thetheDTOPER0statestateNNOPER0isbeVBZOPER0lookinglookVBGOPER0beyondbeyondINOPER0itsitsPRP$OPER0bordersborderNNSOPER0forforINOPER0newcomersnewcomerNNSOPER0...OPER0(ROOT (S (PP (IN With) (NP (NN population) (VBG waning))) (, ,) (NP (DT the) (NN state)) (VP (VBZ is) (VP (VBG looking) (PP (IN beyond) (NP (PRP$ its) (NNS borders))) (PP (IN for) (NP (NNS newcomers))))) (. .)))
+AsasINOPER0ABCABCNNPORGPER0's'sPOSOPER0JimJimNNPPERSONPER0SciuttoSciuttoNNPPERSONPER0reportsreportVBZOPER0,,,OPER0oneoneCDOPER0littlelittleJJOPER0towntownNNOPER0maymayMDOPER0provideprovideVBOPER0aaDTOPER0bigbigJJOPER0lessonlessonNNOPER0...OPER0(ROOT (S (SBAR (IN As) (S (NP (NP (NNP ABC) (POS 's)) (NNP Jim) (NNP Sciutto)) (VP (VBZ reports)))) (, ,) (NP (CD one) (JJ little) (NN town)) (VP (MD may) (VP (VB provide) (NP (DT a) (JJ big) (NN lesson)))) (. .)))
+OnonINOPER0homecominghomecomingNNTIMEPER0nightnightNNTIMEPER0PostvillePostvilleNNPPERSONPER0feelsfeelVBZOPER0likelikeINOPER0HometownHometownNNPPERSONPER0,,,OPER0USAUSANNPORGPER0,,,OPER0butbutCCOPER0aaDTOPER0looklookNNOPER0aroundaroundINOPER0thisthisDTOPER0towntownNNOPER0ofofINOPER02,0002,000CDCARDINALPER0showsshowVBZOPER0ititPRPOPER0'sbeVBZOPER0becomebecomeVBNOPER0aaDTOPER0miniatureminiatureJJOPER0EllisEllisNNPLOCPER0IslandIslandNNPLOCPER0...OPER0(ROOT (S (S (PP (IN On) (NP (NN homecoming) (NN night))) (NP (NNP Postville)) (VP (VBZ feels) (PP (IN like) (NP (NP (NNP Hometown)) (, ,) (NP (NNP USA)))))) (, ,) (CC but) (S (NP (NP (DT a) (NN look)) (PP (IN around) (NP (NP (DT this) (NN town)) (PP (IN of) (NP (CD 2,000)))))) (VP (VBZ shows) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN become) (NP (DT a) (JJ miniature) (NNP Ellis) (NNP Island)))))))) (. .)))
+ThisthisDTOPER0wasbeVBDOPER0anaDTOPER0allallRBOPER0--HYPHOPER0whitewhiteJJOPER0,,,OPER0allallRBOPER0--HYPHOPER0christianchristianJJOPER0communitycommunityNNOPER0thatthatWDTOPER0allallPDTOPER0thetheDTOPER0suddensuddenJJOPER0wasbeVBDOPER0takentakeVBNOPER0overoverRPOPER0----:OPER0notnotRBOPER0takentakeVBNOPER0overoverRPOPER0,,,OPER0thatthatWDTOPER0'sbeVBZOPER0aaDTOPER0veryveryRBOPER0badbadJJOPER0choicechoiceNNOPER0ofofINOPER0wordswordNNSOPER0,,,OPER0butbutCCOPER0invadedinvadeVBNOPER0bybyINOPER0,,,OPER0perhapsperhapsRBOPER0differentdifferentJJOPER0groupsgroupNNSOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBD was) (NP (NP (DT an) (ADJP (RB all) (HYPH -) (JJ white)) (, ,) (ADJP (RB all) (HYPH -) (JJ christian)) (NN community)) (SBAR (WHNP (WDT that)) (S (NP (PDT all) (DT the) (JJ sudden)) (VP (VBD was) (VP (VP (VBN taken) (PRT (RP over))) (: --) (RB not) (VP (VBN taken) (PRT (RP over)))))))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (NP (DT a) (ADJP (RB very) (JJ bad)) (NN choice)) (PP (IN of) (NP (NNS words)))) (, ,) (CC but) (VP (VBN invaded) (PP (IN by))) (, ,) (NP (RB perhaps) (JJ different) (NNS groups))))))) (. .)))
+ItitPRPOPER0beganbeginVBDOPER0whenwhenWRBOPER0aaDTOPER0HasidichasidicJJOPER0JewishjewishJJOPER0familyfamilyNNOPER0boughtbuyVBDOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0towntownNNOPER0's'sPOSOPER0twotwoCDCARDINALPER0meatmeatNNOPER0--HYPHOPER0packingpackingNNOPER0plantsplantNNSOPER01313CDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD began) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ Hasidic) (JJ Jewish) (NN family)) (VP (VBD bought) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN town) (POS 's)) (CD two) (NML (NN meat) (HYPH -) (NN packing)) (NNS plants)))) (ADVP (NP (CD 13) (NNS years)) (RB ago)))))) (. .)))
+FirstfirstRBORDINALPER0theytheyPRPOPER0broughtbringVBDOPER0ininINOPER0otherotherJJOPER0HasidichasidicJJOPER0JewsJewsNNPSOPER0,,,OPER0thenthenRBOPER0MexicansMexicansNNPSOPER0,,,OPER0PalestiniansPalestiniansNNPSOPER0,,,OPER0UkrainiansUkrainiansNNPSGPEPER0...OPER0(ROOT (S (ADVP (RB First)) (NP (PRP they)) (VP (VBD brought) (PP (IN in) (NP (NP (JJ other) (JJ Hasidic) (NNPS Jews)) (, ,) (NP (ADVP (RB then)) (NNPS Mexicans)) (, ,) (NP (NNPS Palestinians)) (, ,) (NP (NNPS Ukrainians))))) (. .)))
+ThetheDTOPER0plantplantNNOPER0andandCCOPER0anotheranotherDTOPER0nextnextJJOPER0doordoorNNOPER0changedchangeVBDOPER0thetheDTOPER0facefaceNNOPER0ofofINOPER0PostvillePostvilleNNPORGPER0...OPER0(ROOT (S (NP (NP (DT The) (NN plant)) (CC and) (NP (DT another) (JJ next) (NN door))) (VP (VBD changed) (NP (NP (DT the) (NN face)) (PP (IN of) (NP (NNP Postville))))) (. .)))
+IIPRPOPER0thinkthinkVBPOPER0PostvillePostvilleNNPPERSONPER0mightmightMDOPER0bebeVBOPER0catchingcatchVBGOPER0upupRPOPER0withwithINOPER0thetheDTOPER0restrestNNOPER0ofofINOPER0AmericaAmericaNNPGPEPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Postville)) (VP (MD might) (VP (VB be) (VP (VBG catching) (PRT (RP up)) (PP (IN with) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (NNP America))))))))))) (. .)))
+IfifINOPER0youyouPRPOPER0looklookVBPOPER0allallRBOPER0overoverINOPER0AmericaAmericaNNPGPEPER0,,,OPER0ififINOPER0youyouPRPOPER0diddoVBDOPER0aaDTOPER0studystudyNNOPER0ofofINOPER0anyanyDTOPER0greatgreatJJOPER0citycityNNOPER0,,,OPER0youyouPRPOPER0wouldwouldMDOPER0seeseeVBOPER0thetheDTOPER0samesameJJOPER0thingthingNNOPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP look) (PP (ADVP (RB all)) (IN over) (NP (NNP America)))))) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBD did) (NP (NP (DT a) (NN study)) (PP (IN of) (NP (DT any) (JJ great) (NN city))))))) (, ,) (NP (PRP you)) (VP (MD would) (VP (VB see) (NP (DT the) (JJ same) (NN thing)))) (. .)))
+ThetheDTOPER0plantsplantNNSOPER0helpedhelpVBDOPER0spurspurVBOPER0economiceconomicJJOPER0developmentdevelopmentNNOPER0ininINOPER0aaDTOPER0towntownNNOPER0thatthatWDTOPER0hadhaveVBDOPER0longlongRBOPER0beenbeVBNOPER0stagnantstagnantJJOPER0...OPER0(ROOT (S (NP (DT The) (NNS plants)) (VP (VBD helped) (S (VP (VB spur) (NP (NP (JJ economic) (NN development)) (PP (IN in) (NP (NP (DT a) (NN town)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (ADVP (RB long)) (VP (VBN been) (ADJP (JJ stagnant)))))))))))) (. .)))
+StoresstoreNNSOPER0arebeVBPOPER0expandingexpandVBGOPER0...OPER0(ROOT (S (NP (NNS Stores)) (VP (VBP are) (VP (VBG expanding))) (. .)))
+NewnewJJOPER0apartmentsapartmentNNSOPER0andandCCOPER0houseshouseNNSOPER0arebeVBPOPER0beingbeVBGOPER0builtbuildVBNOPER0,,,OPER0andandCCOPER0therethereEXOPER0arebeVBPOPER0hundredshundredNNSCARDINALPER0ofofINOPER0newnewJJOPER0jobsjobNNSOPER0,,,OPER0makingmakeVBGOPER0unemploymentunemploymentNNOPER0almostalmostRBOPER0nonexistentnonexistentJJOPER0...OPER0(ROOT (S (S (NP (JJ New) (NNS apartments) (CC and) (NNS houses)) (VP (VBP are) (VP (VBG being) (VP (VBN built))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBP are) (NP (NP (NNS hundreds)) (PP (IN of) (NP (JJ new) (NNS jobs)))) (, ,) (S (VP (VBG making) (S (NP (NN unemployment)) (ADJP (RB almost) (JJ nonexistent))))))) (. .)))
+WhatwhatWPOPER0elseelseRBOPER0wouldwouldMDOPER0youyouPRPOPER0likelikeVBOPER0??.OPER0(ROOT (SBARQ (WHNP (WP What) (RB else)) (SQ (MD would) (NP (PRP you)) (VP (VB like))) (. ?)))
+PostvillePostvilleNNPORGPER0nownowRBOPER0hashaveVBZOPER02222CDCARDINALPER0differentdifferentJJOPER0nationalitiesnationalityNNSOPER0,,,OPER0butbutCCOPER0somesomeDTOPER0residentsresidentNNSOPER0havehaveVBPOPER0n'tnotRBOPER0welcomedwelcomeVBNOPER0thetheDTOPER0newcomersnewcomerNNSOPER0...OPER0(ROOT (S (S (NP (NNP Postville)) (ADVP (RB now)) (VP (VBZ has) (NP (CD 22) (JJ different) (NNS nationalities)))) (, ,) (CC but) (S (NP (DT some) (NNS residents)) (VP (VBP have) (RB n't) (VP (VBN welcomed) (NP (DT the) (NNS newcomers))))) (. .)))
+TheytheyPRPOPER0havehaveVBPOPER0nonoDTOPER0insuranceinsuranceNNOPER0ononINOPER0theirtheyPRP$OPER0carscarNNSOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP have) (NP (NP (DT no) (NN insurance)) (PP (IN on) (NP (PRP$ their) (NNS cars))))) (. .)))
+TheytheyPRPOPER0dodoVBPOPER0n'tnotRBOPER0stopstopVBOPER0atatINOPER0stopstopNNOPER0signssignNNSOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP do) (RB n't) (VP (VB stop) (PP (IN at) (NP (NN stop) (NNS signs))))) (. .)))
+TheytheyPRPOPER0dodoVBPOPER0notnotRBOPER0putputVBOPER0theirtheyPRP$OPER0childrenchildNNSOPER0ininINOPER0aaDTOPER0cashcashNNOPER0----:OPER0theytheyPRPOPER0'vehaveVBPOPER0neverneverRBOPER0heardhearVBNOPER0ofofINOPER0aaDTOPER0carcarNNOPER0seatseatNNOPER0...OPER0(ROOT (S (S (NP (PRP They)) (VP (VBP do) (RB not) (VP (VB put) (NP (PRP$ their) (NNS children)) (PP (IN in) (NP (DT a) (NN cash)))))) (: --) (S (NP (PRP they)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN heard) (PP (IN of) (NP (DT a) (NN car) (NN seat)))))) (. .)))
+YouyouPRPOPER0knowknowVBPOPER0wewePRPOPER0'vehaveVBPOPER0beenbeVBNOPER0herehereRBOPER0aaDTDATEPER0longlongJJDATEPER0timetimeNNDATEPER0andandCCOPER0IIPRPOPER0thinkthinkVBPOPER0mostmostJJSOPER0peoplepeopleNNSOPER0wouldwouldMDOPER0meetmeetVBOPER0themtheyPRPOPER0halfwayhalfwayRBOPER0,,,OPER0butbutCCOPER0thatthatDTOPER0doesdoVBZOPER0n'tnotRBOPER0seemseemVBOPER0totoTOOPER0bebeVBOPER0whatwhatWPOPER0theytheyPRPOPER0wantwantVBPOPER0...OPER0(ROOT (S (S (NP (PRP You)) (VP (VBP know) (SBAR (S (S (NP (PRP we)) (VP (VBP 've) (VP (VBN been) (ADVP (ADVP (RB here)) (NP (DT a) (JJ long) (NN time)))))) (CC and) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (JJS most) (NNS people)) (VP (MD would) (VP (VB meet) (NP (PRP them)) (ADVP (RB halfway)))))))))))) (, ,) (CC but) (S (NP (DT that)) (VP (VBZ does) (RB n't) (VP (VB seem) (S (VP (TO to) (VP (VB be) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP want)))))))))) (. .)))
+ForforINOPER0thosethoseDTOPER0whowhoWPOPER0preferpreferVBPOPER0thetheDTOPER0oldoldJJOPER0PostvillePostvilleNNPORGPER0,,,OPER0MayorMayorNNPOPER0JohnJohnNNPPERSONPER0HymanHymanNNPPERSONPER0hashaveVBZOPER0aaDTOPER0simplesimpleJJOPER0answeranswerNNOPER0...OPER0(ROOT (S (PP (IN For) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP prefer) (NP (DT the) (JJ old) (NNP Postville))))))) (, ,) (NP (NNP Mayor) (NNP John) (NNP Hyman)) (VP (VBZ has) (NP (DT a) (JJ simple) (NN answer))) (. .)))
+IIPRPOPER0justjustRBOPER0telltellVBPOPER0themtheyPRPOPER0,,,OPER0youyouPRPOPER0'vehaveVBPOPER0gotgetVBNOPER0totoTOOPER0changechangeVBOPER0...OPER0(ROOT (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP tell) (NP (PRP them)) (, ,) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB change)))))))) (. .)))
+TheytheyPRPOPER0'rebeVBPOPER0herehereRBOPER0totoTOOPER0staystayVBOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB here)) (S (VP (TO to) (VP (VB stay))))) (. .)))
+TheytheyPRPOPER0'rebeVBPOPER0notnotRBOPER0gongonVBGOPER0nanaTOOPER0leaveleaveVBOPER0,,,OPER0andandCCOPER0youyouPRPOPER0'rebeVBPOPER0goinggoVBGOPER0totoTOOPER0havehaveVBOPER0totoTOOPER0adaptadaptVBOPER0totoINOPER0thesetheseDTOPER0peoplepeopleNNSOPER0...OPER0(ROOT (S (S (NP (PRP They)) (VP (VBP 're) (RB not) (VP (VBG gon) (S (VP (TO na) (VP (VB leave))))))) (, ,) (CC and) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB adapt) (PP (IN to) (NP (DT these) (NNS people)))))))))))) (. .)))
+IowaIowaNNPGPEPER0's'sPOSOPER0governorgovernorNNOPER0isbeVBZOPER0nownowRBOPER0lookinglookVBGOPER0totoTOOPER0followfollowVBOPER0PostvillePostvilleNNPORGPER0's'sPOSOPER0exampleexampleNNOPER0,,,OPER0relaxingrelaxVBGOPER0immigrationimmigrationNNOPER0quotasquotaNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Iowa) (POS 's)) (NN governor)) (VP (VBZ is) (ADVP (RB now)) (VP (VBG looking) (S (VP (TO to) (VP (VB follow) (NP (NP (NNP Postville) (POS 's)) (NN example)) (, ,) (S (VP (VBG relaxing) (NP (NN immigration) (NNS quotas))))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0aaDTOPER0goalgoalNNOPER0thatthatWDTOPER0seemsseemVBZOPER0possiblepossibleJJOPER0whenwhenWRBOPER0ononINOPER0homecominghomecomingNNOPER0nightnightNNOPER0thetheDTOPER0startingstartingNNOPER0kickerkickerNNOPER0isbeVBZOPER01414CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0NikitaNikitaNNPOPER0KargalskiyKargalskiyNNPOPER0,,,OPER0whowhoWPOPER0maymayMDOPER0bebeVBOPER05,0005,000CDQUANTITYPER0milesmileNNSQUANTITYPER0fromfromINOPER0hishePRP$OPER0hometownhometownNNOPER0ininINOPER0RussiaRussiaNNPGPEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN goal)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seems) (S (ADJP (JJ possible)) (SBAR (WHADVP (WRB when)) (S (PP (IN on) (NP (NN homecoming) (NN night))) (NP (DT the) (NN starting) (NN kicker)) (VP (VBZ is) (NP (NP (ADJP (NML (CD 14) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Nikita) (NNP Kargalskiy)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD may) (VP (VB be) (NP (NP (CD 5,000) (NNS miles)) (PP (IN from) (NP (NP (PRP$ his) (NN hometown)) (PP (IN in) (NP (NNP Russia)))))))))))))))))))) (. .)))
+JimJimNNPPERSONPER0SciuttoSciuttoNNPPERSONPER0,,,OPER0ABCABCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0PostvillePostvilleNNPGPEPER0IowaIowaNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Jim) (NNP Sciutto)) (, ,) (NP (NNP ABC) (NNP News)) (, ,) (NP (NNP Postville) (NNP Iowa)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Iowa))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (NN state) (NNS lines))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN state))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ its) (NNS borders))
+sid=1 spanning 9 until 10 headed by 9 parsed as its
+sid=2 spanning 1 until 5 headed by 4 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Jim) (NNP Sciutto))
+sid=2 spanning 1 until 3 headed by 1 parsed as (NP (NNP ABC) (POS 's))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (CD one) (JJ little) (NN town))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (NN homecoming) (NN night))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Postville))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNP USA))
+sid=3 spanning 14 until 18 headed by 15 parsed as (NP (NP (DT this) (NN town)) (PP (IN of) (NP (CD 2,000))))
+sid=3 spanning 19 until 20 headed by 19 parsed as (NP (PRP it))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=4 spanning 33 until 34 headed by 33 parsed as invaded
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=5 spanning 3 until 7 headed by 6 parsed as (NP (DT a) (JJ Hasidic) (JJ Jewish) (NN family))
+sid=5 spanning 8 until 18 headed by 8 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN town) (POS 's)) (CD two) (NML (NN meat) (HYPH -) (NN packing)) (NNS plants))))
+sid=5 spanning 10 until 18 headed by 17 parsed as (NP (NP (DT the) (NN town) (POS 's)) (CD two) (NML (NN meat) (HYPH -) (NN packing)) (NNS plants))
+sid=5 spanning 10 until 13 headed by 11 parsed as (NP (DT the) (NN town) (POS 's))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (PRP they))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NP (DT The) (NN plant)) (CC and) (NP (DT another) (JJ next) (NN door)))
+sid=7 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NN plant)) (CC and) (NP (DT another) (JJ next) (NN door)))
+sid=7 spanning 10 until 11 headed by 10 parsed as (NP (NNP Postville))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (NNP Postville))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (NNP America))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (NNP America))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS plants))
+sid=10 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT a) (NN town)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (ADVP (RB long)) (VP (VBN been) (ADJP (JJ stagnant)))))))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (NNP Postville))
+sid=14 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNS newcomers))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=15 spanning 5 until 6 headed by 5 parsed as their
+sid=16 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=17 spanning 4 until 5 headed by 4 parsed as their
+sid=17 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=18 spanning 15 until 16 headed by 15 parsed as meet
+sid=18 spanning 16 until 17 headed by 16 parsed as (NP (PRP them))
+sid=18 spanning 20 until 21 headed by 20 parsed as (NP (DT that))
+sid=18 spanning 27 until 28 headed by 27 parsed as (NP (PRP they))
+sid=19 spanning 1 until 7 headed by 1 parsed as (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP prefer) (NP (DT the) (JJ old) (NNP Postville))))))
+sid=19 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ old) (NNP Postville))
+sid=19 spanning 8 until 11 headed by 10 parsed as (NP (NNP Mayor) (NNP John) (NNP Hyman))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=20 spanning 3 until 4 headed by 3 parsed as (NP (PRP them))
+sid=20 spanning 5 until 6 headed by 5 parsed as (NP (PRP you))
+sid=21 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=22 spanning 8 until 9 headed by 8 parsed as (NP (PRP you))
+sid=22 spanning 16 until 18 headed by 17 parsed as (NP (DT these) (NNS people))
+sid=23 spanning 0 until 2 headed by 0 parsed as (NP (NNP Iowa) (POS 's))
+sid=23 spanning 7 until 8 headed by 7 parsed as follow
+sid=23 spanning 8 until 10 headed by 8 parsed as (NP (NNP Postville) (POS 's))
+sid=24 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=24 spanning 9 until 11 headed by 10 parsed as (NP (NN homecoming) (NN night))
+sid=24 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NN starting) (NN kicker))
+sid=24 spanning 29 until 30 headed by 29 parsed as his
+sid=25 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jim) (NNP Sciutto))
+sid=25 spanning 3 until 5 headed by 4 parsed as (NP (NNP ABC) (NNP News))
+sid=25 spanning 6 until 8 headed by 7 parsed as (NP (NNP Postville) (NNP Iowa))
+sid=25 spanning 7 until 8 headed by 7 parsed as (NP (NNP Postville) (NNP Iowa))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (JJ many) (NN Heartland) (NNS states))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Iowa))
+sid=0 spanning 8 until 21 headed by 8 parsed as (NP (NP (NN trouble)) (S (VP (VBG keeping) (NP (JJ young) (NNS people)) (UCP (ADVP (RB down) (PP (IN on) (NP (DT the) (NN farm)))) (CC or) (PP (ADVP (RB anywhere)) (IN within) (NP (NN state) (NNS lines)))))))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (JJ young) (NNS people))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN farm))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (NN state) (NNS lines))
+sid=1 spanning 1 until 3 headed by 1 parsed as (NP (NN population) (VBG waning))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN state))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ its) (NNS borders))
+sid=1 spanning 9 until 10 headed by 9 parsed as (PRP$ its)
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNS newcomers))
+sid=2 spanning 1 until 5 headed by 4 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Jim) (NNP Sciutto))
+sid=2 spanning 1 until 3 headed by 1 parsed as (NP (NNP ABC) (POS 's))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (CD one) (JJ little) (NN town))
+sid=2 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (JJ big) (NN lesson))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (NN homecoming) (NN night))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Postville))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP Hometown)) (, ,) (NP (NNP USA)))
+sid=3 spanning 6 until 9 headed by 6 parsed as (NP (NP (NNP Hometown)) (, ,) (NP (NNP USA)))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNP USA))
+sid=3 spanning 11 until 18 headed by 12 parsed as (NP (NP (DT a) (NN look)) (PP (IN around) (NP (NP (DT this) (NN town)) (PP (IN of) (NP (CD 2,000))))))
+sid=3 spanning 14 until 18 headed by 15 parsed as (NP (NP (DT this) (NN town)) (PP (IN of) (NP (CD 2,000))))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (CD 2,000))
+sid=3 spanning 19 until 20 headed by 19 parsed as (NP (PRP it))
+sid=3 spanning 22 until 26 headed by 25 parsed as (NP (DT a) (JJ miniature) (NNP Ellis) (NNP Island))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=4 spanning 2 until 22 headed by 10 parsed as (NP (NP (DT an) (ADJP (RB all) (HYPH -) (JJ white)) (, ,) (ADJP (RB all) (HYPH -) (JJ christian)) (NN community)) (SBAR (WHNP (WDT that)) (S (NP (PDT all) (DT the) (JJ sudden)) (VP (VBD was) (VP (VP (VBN taken) (PRT (RP over))) (: --) (RB not) (VP (VBN taken) (PRT (RP over))))))))
+sid=4 spanning 25 until 39 headed by 28 parsed as (NP (NP (NP (DT a) (ADJP (RB very) (JJ bad)) (NN choice)) (PP (IN of) (NP (NNS words)))) (, ,) (CC but) (VP (VBN invaded) (PP (IN by))) (, ,) (NP (RB perhaps) (JJ different) (NNS groups)))
+sid=4 spanning 25 until 31 headed by 28 parsed as (NP (NP (DT a) (ADJP (RB very) (JJ bad)) (NN choice)) (PP (IN of) (NP (NNS words))))
+sid=4 spanning 30 until 31 headed by 30 parsed as (NP (NNS words))
+sid=4 spanning 36 until 39 headed by 38 parsed as (NP (RB perhaps) (JJ different) (NNS groups))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=5 spanning 3 until 7 headed by 6 parsed as (NP (DT a) (JJ Hasidic) (JJ Jewish) (NN family))
+sid=5 spanning 8 until 18 headed by 8 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN town) (POS 's)) (CD two) (NML (NN meat) (HYPH -) (NN packing)) (NNS plants))))
+sid=5 spanning 18 until 21 headed by 20 parsed as ago
+sid=6 spanning 0 until 1 headed by 0 parsed as First
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (PRP they))
+sid=6 spanning 4 until 14 headed by 6 parsed as (NP (NP (JJ other) (JJ Hasidic) (NNPS Jews)) (, ,) (NP (ADVP (RB then)) (NNPS Mexicans)) (, ,) (NP (NNPS Palestinians)) (, ,) (NP (NNPS Ukrainians)))
+sid=6 spanning 4 until 7 headed by 6 parsed as (NP (JJ other) (JJ Hasidic) (NNPS Jews))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (ADVP (RB then)) (NNPS Mexicans))
+sid=7 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NN plant)) (CC and) (NP (DT another) (JJ next) (NN door)))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN plant))
+sid=7 spanning 3 until 6 headed by 5 parsed as (NP (DT another) (JJ next) (NN door))
+sid=7 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT the) (NN face)) (PP (IN of) (NP (NNP Postville))))
+sid=7 spanning 10 until 11 headed by 10 parsed as (NP (NNP Postville))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (NNP Postville))
+sid=8 spanning 8 until 12 headed by 9 parsed as (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (NNP America))))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (NNP America))
+sid=9 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (NNP America))
+sid=9 spanning 8 until 9 headed by 8 parsed as (NP (PRP you))
+sid=9 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT a) (NN study)) (PP (IN of) (NP (DT any) (JJ great) (NN city))))
+sid=9 spanning 17 until 18 headed by 17 parsed as (NP (PRP you))
+sid=9 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (JJ same) (NN thing))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS plants))
+sid=10 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT a) (NN town)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (ADVP (RB long)) (VP (VBN been) (ADJP (JJ stagnant)))))))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (NNS Stores))
+sid=12 spanning 0 until 4 headed by 1 parsed as (NP (JJ New) (NNS apartments) (CC and) (NNS houses))
+sid=12 spanning 11 until 15 headed by 11 parsed as (NP (NP (NNS hundreds)) (PP (IN of) (NP (JJ new) (NNS jobs))))
+sid=13 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (NNP Postville))
+sid=14 spanning 3 until 6 headed by 5 parsed as (NP (CD 22) (JJ different) (NNS nationalities))
+sid=14 spanning 8 until 10 headed by 9 parsed as (NP (DT some) (NNS residents))
+sid=14 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNS newcomers))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=15 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT no) (NN insurance)) (PP (IN on) (NP (PRP$ their) (NNS cars))))
+sid=15 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ their) (NNS cars))
+sid=15 spanning 5 until 6 headed by 5 parsed as (PRP$ their)
+sid=16 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=16 spanning 5 until 7 headed by 6 parsed as (NP (NN stop) (NNS signs))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=17 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ their) (NNS children))
+sid=17 spanning 4 until 5 headed by 4 parsed as (PRP$ their)
+sid=17 spanning 7 until 9 headed by 8 parsed as (NP (DT a) (NN cash))
+sid=17 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=17 spanning 15 until 18 headed by 17 parsed as (NP (DT a) (NN car) (NN seat))
+sid=18 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=18 spanning 2 until 3 headed by 2 parsed as (NP (PRP we))
+sid=18 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (JJ long) (NN time))
+sid=18 spanning 10 until 11 headed by 10 parsed as (NP (PRP I))
+sid=18 spanning 12 until 14 headed by 13 parsed as (NP (JJS most) (NNS people))
+sid=18 spanning 16 until 17 headed by 16 parsed as (NP (PRP them))
+sid=18 spanning 20 until 21 headed by 20 parsed as (NP (DT that))
+sid=18 spanning 27 until 28 headed by 27 parsed as (NP (PRP they))
+sid=19 spanning 1 until 7 headed by 1 parsed as (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP prefer) (NP (DT the) (JJ old) (NNP Postville))))))
+sid=19 spanning 6 until 7 headed by 6 parsed as (NP (DT the) (JJ old) (NNP Postville))
+sid=19 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ old) (NNP Postville))
+sid=19 spanning 8 until 11 headed by 10 parsed as (NP (NNP Mayor) (NNP John) (NNP Hyman))
+sid=19 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (JJ simple) (NN answer))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=20 spanning 3 until 4 headed by 3 parsed as (NP (PRP them))
+sid=20 spanning 5 until 6 headed by 5 parsed as (NP (PRP you))
+sid=21 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=22 spanning 8 until 9 headed by 8 parsed as (NP (PRP you))
+sid=22 spanning 16 until 18 headed by 17 parsed as (NP (DT these) (NNS people))
+sid=23 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Iowa) (POS 's)) (NN governor))
+sid=23 spanning 0 until 2 headed by 0 parsed as (NP (NNP Iowa) (POS 's))
+sid=23 spanning 8 until 11 headed by 10 parsed as (NP (NP (NNP Postville) (POS 's)) (NN example))
+sid=23 spanning 8 until 10 headed by 8 parsed as (NP (NNP Postville) (POS 's))
+sid=23 spanning 13 until 15 headed by 14 parsed as (NP (NN immigration) (NNS quotas))
+sid=24 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=24 spanning 2 until 33 headed by 3 parsed as (NP (NP (DT a) (NN goal)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seems) (S (ADJP (JJ possible)) (SBAR (WHADVP (WRB when)) (S (PP (IN on) (NP (NN homecoming) (NN night))) (NP (DT the) (NN starting) (NN kicker)) (VP (VBZ is) (NP (NP (ADJP (NML (CD 14) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Nikita) (NNP Kargalskiy)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD may) (VP (VB be) (NP (NP (CD 5,000) (NNS miles)) (PP (IN from) (NP (NP (PRP$ his) (NN hometown)) (PP (IN in) (NP (NNP Russia)))))))))))))))))))
+sid=24 spanning 9 until 11 headed by 10 parsed as (NP (NN homecoming) (NN night))
+sid=24 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NN starting) (NN kicker))
+sid=24 spanning 15 until 33 headed by 21 parsed as (NP (NP (ADJP (NML (CD 14) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Nikita) (NNP Kargalskiy)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD may) (VP (VB be) (NP (NP (CD 5,000) (NNS miles)) (PP (IN from) (NP (NP (PRP$ his) (NN hometown)) (PP (IN in) (NP (NNP Russia)))))))))))
+sid=24 spanning 15 until 22 headed by 21 parsed as (NP (ADJP (NML (CD 14) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Nikita) (NNP Kargalskiy))
+sid=24 spanning 15 until 20 headed by 19 parsed as old
+sid=24 spanning 26 until 33 headed by 27 parsed as (NP (NP (CD 5,000) (NNS miles)) (PP (IN from) (NP (NP (PRP$ his) (NN hometown)) (PP (IN in) (NP (NNP Russia))))))
+sid=24 spanning 29 until 33 headed by 30 parsed as (NP (NP (PRP$ his) (NN hometown)) (PP (IN in) (NP (NNP Russia))))
+sid=24 spanning 29 until 30 headed by 29 parsed as (PRP$ his)
+sid=24 spanning 32 until 33 headed by 32 parsed as (NP (NNP Russia))
+sid=25 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jim) (NNP Sciutto))
+sid=25 spanning 3 until 5 headed by 4 parsed as (NP (NNP ABC) (NNP News))
+sid=25 spanning 6 until 8 headed by 7 parsed as (NP (NNP Postville) (NNP Iowa))
+(end predicted mentions)
+---------gold clusters--------
+52 54 | { 'follow' 'It' }
+19 7 13 9 29 53 23 11 42 24 60 28 12 | { 'the town 's' 'one little town' 'This' 'Postville' 'Postville' 'Postville 's' 'Postville' 'this town of 2,000' 'the old Postville' 'Postville' 'Postville Iowa' 'a town that had long been stagnant' 'it' }
+10 25 26 | { 'USA' 'America' 'America' }
+56 57 | { 'the starting kicker' 'his' }
+59 6 | { 'ABC News' 'ABC 's' }
+16 20 | { 'a Hasidic Jewish family' 'they' }
+51 4 0 2 61 | { 'Iowa 's' 'its' 'Iowa' 'the state' 'Iowa' }
+44 43 | { 'I' 'Mayor John Hyman' }
+1 3 | { 'state lines' 'its borders' }
+30 34 31 38 35 40 33 48 47 36 50 32 | { 'the newcomers' 'They' 'They' 'them' 'their' 'they' 'They' 'They' 'They' 'they' 'these people' 'their' }
+15 14 | { 'It' 'invaded' }
+55 8 | { 'homecoming night' 'homecoming night' }
+5 58 | { 'ABC 's Jim Sciutto' 'Jim Sciutto' }
+49 41 45 46 | { 'you' 'those who prefer the old Postville' 'them' 'you' }
+37 39 | { 'meet' 'that' }
+17 21 | { 'one of the town 's two meat - packing plants' 'The plant' }
+18 22 27 | { 'the town 's two meat - packing plants' 'The plant and another next door' 'The plants' }
+(end gold clusters)

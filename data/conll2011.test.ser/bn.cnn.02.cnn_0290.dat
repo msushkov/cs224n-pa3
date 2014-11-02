@@ -1,0 +1,53 @@
+---------gloss--------
+(0) [1m[36m{The U.S.}[0m is considering [1m[36m{its}[0m legal options now that [1m[36m{it}[0m has custody of [3m[31m{terrorist Abu Abbas}[0m . 
+(1) [3m[31m{He}[0m was captured in Baghdad late Monday night . 
+(2) [3m[31m{He}[0m was convicted of hijacking the `` Achille Lauro '' in 1985 . 
+(3) [1m[35m{Disabled American tourist Klinghoffer}[0m was on board . 
+(4) [1m[35m{He}[0m was shot and thrown overboard . 
+(5) More coverage continues now . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0290); part 000
+sentences:
+ThetheDTOPER0U.S.U.S.NNPGPEPER0isbeVBZOPER0consideringconsiderVBGOPER0itsitsPRP$OPER0legallegalJJOPER0optionsoptionNNSOPER0nownowRBOPER0thatthatINOPER0ititPRPOPER0hashaveVBZOPER0custodycustodyNNOPER0ofofINOPER0terroristterroristNNOPER0AbuAbuNNPORGPER0AbbasAbbasNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NNP U.S.)) (VP (VBZ is) (VP (VBG considering) (NP (PRP$ its) (JJ legal) (NNS options)) (ADVP (RB now) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (NN custody)) (PP (IN of) (NP (NN terrorist) (NNP Abu) (NNP Abbas)))))))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0capturedcaptureVBNOPER0ininINOPER0BaghdadBaghdadNNPGPEPER0latelateJJDATEPER0MondayMondayNNPDATEPER0nightnightNNTIMEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBN captured) (PP (IN in) (NP (NNP Baghdad))) (NP (JJ late) (NNP Monday) (NN night)))) (. .)))
+HehePRPOPER0wasbeVBDOPER0convictedconvictVBNOPER0ofofINOPER0hijackinghijackingNNOPER0thetheDTPRODUCTPER0``````PRODUCTAchilleAchilleNNPPRODUCTPER1LauroLauroNNPPRODUCTPER1''''''PRODUCTPER0ininINOPER019851985CDDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBN convicted) (PP (IN of) (NP (NN hijacking))) (NP (DT the) (`` ``) (NNP Achille) (NNP Lauro) ('' '')) (PP (IN in) (NP (CD 1985))))) (. .)))
+DisableddisabledJJOPER0AmericanAmericanNNPOPER0touristtouristNNPOPER0KlinghofferKlinghofferNNPPERSONPER0wasbeVBDOPER0ononINOPER0boardboardNNOPER0...OPER0(ROOT (S (NP (NP (JJ Disabled) (NNP American)) (NP (NNP tourist) (NNP Klinghoffer))) (VP (VBD was) (PP (IN on) (NP (NN board)))) (. .)))
+HehePRPOPER0wasbeVBDOPER0shotshootVBDOPER0andandCCOPER0thrownthrowVBNOPER0overboardoverboardRBOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBD shot) (CC and) (VBN thrown) (ADVP (RB overboard)))) (. .)))
+MoremoreJJROPER0coveragecoverageNNOPER0continuescontinueVBZOPER0nownowRBOPER0...OPER0(ROOT (S (NP (JJR More) (NN coverage)) (VP (VBZ continues) (ADVP (RB now))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP U.S.))
+sid=0 spanning 4 until 5 headed by 4 parsed as its
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (NN terrorist) (NNP Abu) (NNP Abbas))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (NP (JJ Disabled) (NNP American)) (NP (NNP tourist) (NNP Klinghoffer)))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP U.S.))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (PRP$ its) (JJ legal) (NNS options))
+sid=0 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=0 spanning 11 until 16 headed by 11 parsed as (NP (NP (NN custody)) (PP (IN of) (NP (NN terrorist) (NNP Abu) (NNP Abbas))))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (NN terrorist) (NNP Abu) (NNP Abbas))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Baghdad))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (JJ late) (NNP Monday) (NN night))
+sid=1 spanning 5 until 7 headed by 6 parsed as Monday
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 5 until 10 headed by 8 parsed as (NP (DT the) (`` ``) (NNP Achille) (NNP Lauro) ('' ''))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (CD 1985))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (NP (JJ Disabled) (NNP American)) (NP (NNP tourist) (NNP Klinghoffer)))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NNP tourist) (NNP Klinghoffer))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJR More) (NN coverage))
+(end predicted mentions)
+---------gold clusters--------
+7 6 | { 'He' 'Disabled American tourist Klinghoffer' }
+0 1 2 | { 'The U.S.' 'its' 'it' }
+3 5 4 | { 'terrorist Abu Abbas' 'He' 'He' }
+(end gold clusters)

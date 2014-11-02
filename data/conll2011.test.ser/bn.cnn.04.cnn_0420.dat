@@ -1,0 +1,90 @@
+---------gloss--------
+(0) [3m[34m{Dog Chapman}[0m was in the same truck you saw . 
+(1) At one point , [3m[32m{the Mexican police}[0m busted both [3m[31m{Andrew Luster}[0m and [3m[34m{Dwayne Dog Chapman}[0m , because [3m[32m{they}[0m do n't like bounty hunters in [3m[35m{Mexico}[0m . 
+(2) [3m[34m{Chapman}[0m remains behind bars as we speak in [3m[35m{Mexico}[0m . 
+(3) [3m[31m{Andrew Luster}[0m , though arrived yesterday at Los Angeles International Airport on a commercial flight from [3m[35m{Mexico}[0m . 
+(4) As soon as [3m[31m{he}[0m arrived -- thoom being walked by the FBI to a van belonging to the Ventura County sheriff 's folks . 
+(5) [3m[31m{He}[0m was [3m[36m{taken}[0m to a prison in [3m[33m{Kearn County , California , about 100 miles from Los Angeles , a place mostly known for its grapes}[0m . 
+(6) Make of [3m[36m{that}[0m what you may . 
+(7) Heidi ? 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0420); part 000
+sentences:
+DogDogNNPPERSONPER0ChapmanChapmanNNPPERSONPER0wasbeVBDOPER0ininINOPER0thetheDTOPER0samesameJJOPER0trucktruckNNOPER0youyouPRPOPER0sawseeVBDOPER0...OPER0(ROOT (S (NP (NNP Dog) (NNP Chapman)) (VP (VBD was) (PP (IN in) (NP (DT the) (JJ same) (NN truck))) (SBAR (S (NP (PRP you)) (VP (VBD saw))))) (. .)))
+AtatINOPER0oneoneCDCARDINALPER0pointpointNNOPER0,,,OPER0thetheDTOPER0MexicanMexicanNNPOPER0policepoliceNNSOPER0bustedbustVBDOPER0bothbothDTOPER0AndrewAndrewNNPPERSONPER0LusterlusterNNPERSONPER0andandCCOPER0DwayneDwayneNNPPERSONPER0DogDogNNPPERSONPER0ChapmanChapmanNNPPERSONPER0,,,OPER0becausebecauseINOPER0theytheyPRPOPER0dodoVBPOPER0n'tnotRBOPER0likelikeVBOPER0bountybountyNNOPER0huntershunterNNSOPER0ininINOPER0MexicoMexicoNNPGPEPER0...OPER0(ROOT (S (PP (IN At) (NP (CD one) (NN point))) (, ,) (NP (DT the) (NNP Mexican) (NNS police)) (VP (VBD busted) (NP (DT both) (NNP Andrew) (NML (NML (NN Luster)) (CC and) (NML (NNP Dwayne) (NNP Dog))) (NNP Chapman)) (, ,) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP do) (RB n't) (VP (VB like) (NP (NP (NN bounty) (NNS hunters)) (PP (IN in) (NP (NNP Mexico))))))))) (. .)))
+ChapmanChapmanNNPPERSONPER0remainsremainVBZOPER0behindbehindINOPER0barsbarNNSOPER0asasINOPER0wewePRPOPER0speakspeakVBPOPER0ininINOPER0MexicoMexicoNNPGPEPER0...OPER0(ROOT (S (NP (NNP Chapman)) (VP (VBZ remains) (PP (IN behind) (NP (NNS bars))) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP speak) (PP (IN in) (NP (NNP Mexico))))))) (. .)))
+AndrewAndrewNNPPERSONPER0LusterlusterNNPERSONPER0,,,OPER0thoughthoughRBOPER0arrivedarriveVBDOPER0yesterdayyesterdayNNDATEPER0atatINOPER0LosLosNNPFACPER0AngelesAngelesNNPFACPER0InternationalInternationalNNPFACPER0AirportAirportNNPFACPER0ononINOPER0aaDTOPER0commercialcommercialJJOPER0flightflightNNOPER0fromfromINOPER0MexicoMexicoNNPGPEPER0...OPER0(ROOT (S (NP (NNP Andrew) (NN Luster)) (, ,) (ADVP (RB though)) (VP (VBD arrived) (NP (NN yesterday)) (PP (IN at) (NP (NML (NNP Los) (NNP Angeles)) (NNP International) (NNP Airport))) (PP (IN on) (NP (NP (DT a) (JJ commercial) (NN flight)) (PP (IN from) (NP (NNP Mexico)))))) (. .)))
+AsasRBOPER0soonsoonRBOPER0asasINOPER0hehePRPOPER0arrivedarriveVBDOPER0----:OPER0thoomthoomADDOPER0beingbeVBGOPER0walkedwalkVBNOPER0bybyINOPER0thetheDTOPER0FBIFBINNPORGPER0totoINOPER0aaDTOPER0vanvanNNOPER0belongingbelongVBGOPER0totoINOPER0thetheDTOPER0VenturaVenturaNNPGPEPER0CountyCountyNNPGPEPER0sheriffsheriffNNOPER0's'sPOSOPER0folksfolkNNSOPER0...OPER0(ROOT (FRAG (ADVP (ADVP (RB As) (RB soon)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD arrived))))) (: --) (NP (NP (ADD thoom)) (VP (VBG being) (VP (VBN walked) (PP (IN by) (NP (DT the) (NNP FBI))) (PP (IN to) (NP (NP (DT a) (NN van)) (VP (VBG belonging) (PP (IN to) (NP (NP (DT the) (NML (NNP Ventura) (NNP County)) (NN sheriff) (POS 's)) (NNS folks))))))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0takentakeVBNOPER0totoINOPER0aaDTOPER0prisonprisonNNOPER0ininINOPER0KearnKearnNNPGPEPER0CountyCountyNNPGPEPER0,,,OPER0CaliforniaCaliforniaNNPGPEPER0,,,OPER0aboutaboutRBQUANTITYPER0100100CDQUANTITYPER0milesmileNNSQUANTITYPER0fromfromINOPER0LosLosNNPGPEPER0AngelesAngelesNNPGPEPER0,,,OPER0aaDTOPER0placeplaceNNOPER0mostlymostlyRBOPER0knownknowVBNOPER0forforINOPER0itsitsPRP$OPER0grapesgrapeNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBN taken) (PP (IN to) (NP (NP (DT a) (NN prison)) (PP (IN in) (NP (NP (NNP Kearn) (NNP County)) (, ,) (NP (NNP California)) (, ,) (NP (NP (QP (RB about) (CD 100)) (NNS miles)) (PP (IN from) (NP (NNP Los) (NNP Angeles)))) (, ,))))) (NP (NP (DT a) (NN place)) (VP (ADVP (RB mostly)) (VBN known) (PP (IN for) (NP (PRP$ its) (NNS grapes))))))) (. .)))
+MakemakeVBOPER0ofofINOPER0thatthatRBOPER0whatwhatWPOPER0youyouPRPOPER0maymayMDOPER0...OPER0(ROOT (S (VP (VB Make) (PP (IN of) (SBAR (WHNP (RB that) (WP what)) (S (NP (PRP you)) (VP (MD may)))))) (. .)))
+HeidiHeidiNNPPERSONPER0??.OPER0(ROOT (NP (NNP Heidi) (. ?)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Dog) (NNP Chapman))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Mexican) (NNS police))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT both) (NNP Andrew) (NML (NML (NN Luster)) (CC and) (NML (NNP Dwayne) (NNP Dog))) (NNP Chapman))
+sid=1 spanning 9 until 11 headed by 10 parsed as Luster
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNP Mexico))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Chapman))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNP Mexico))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Andrew) (NN Luster))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Mexico))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 2 until 3 headed by 2 parsed as taken
+sid=5 spanning 7 until 26 headed by 8 parsed as (NP (NP (NNP Kearn) (NNP County)) (, ,) (NP (NNP California)) (, ,) (NP (NP (QP (RB about) (CD 100)) (NNS miles)) (PP (IN from) (NP (NNP Los) (NNP Angeles)))) (, ,))
+sid=5 spanning 24 until 25 headed by 24 parsed as its
+sid=6 spanning 2 until 3 headed by 2 parsed as that
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Dog) (NNP Chapman))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ same) (NN truck))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP you))
+sid=1 spanning 1 until 3 headed by 2 parsed as (NP (CD one) (NN point))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Mexican) (NNS police))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT both) (NNP Andrew) (NML (NML (NN Luster)) (CC and) (NML (NNP Dwayne) (NNP Dog))) (NNP Chapman))
+sid=1 spanning 8 until 15 headed by 14 parsed as (NP (DT both) (NNP Andrew) (NML (NML (NN Luster)) (CC and) (NML (NNP Dwayne) (NNP Dog))) (NNP Chapman))
+sid=1 spanning 9 until 11 headed by 10 parsed as Luster
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=1 spanning 21 until 25 headed by 22 parsed as (NP (NP (NN bounty) (NNS hunters)) (PP (IN in) (NP (NNP Mexico))))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNP Mexico))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Chapman))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNS bars))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (PRP we))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNP Mexico))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Andrew) (NN Luster))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NN yesterday))
+sid=3 spanning 7 until 11 headed by 10 parsed as (NP (NML (NNP Los) (NNP Angeles)) (NNP International) (NNP Airport))
+sid=3 spanning 12 until 17 headed by 14 parsed as (NP (NP (DT a) (JJ commercial) (NN flight)) (PP (IN from) (NP (NNP Mexico))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Mexico))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=4 spanning 6 until 23 headed by 6 parsed as (NP (NP (ADD thoom)) (VP (VBG being) (VP (VBN walked) (PP (IN by) (NP (DT the) (NNP FBI))) (PP (IN to) (NP (NP (DT a) (NN van)) (VP (VBG belonging) (PP (IN to) (NP (NP (DT the) (NML (NNP Ventura) (NNP County)) (NN sheriff) (POS 's)) (NNS folks)))))))))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP FBI))
+sid=4 spanning 13 until 23 headed by 14 parsed as (NP (NP (DT a) (NN van)) (VP (VBG belonging) (PP (IN to) (NP (NP (DT the) (NML (NNP Ventura) (NNP County)) (NN sheriff) (POS 's)) (NNS folks)))))
+sid=4 spanning 17 until 23 headed by 22 parsed as (NP (NP (DT the) (NML (NNP Ventura) (NNP County)) (NN sheriff) (POS 's)) (NNS folks))
+sid=4 spanning 17 until 22 headed by 20 parsed as (NP (DT the) (NML (NNP Ventura) (NNP County)) (NN sheriff) (POS 's))
+sid=4 spanning 18 until 20 headed by 19 parsed as County
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 4 until 19 headed by 5 parsed as (NP (NP (DT a) (NN prison)) (PP (IN in) (NP (NP (NNP Kearn) (NNP County)) (, ,) (NP (NNP California)) (, ,) (NP (NP (QP (RB about) (CD 100)) (NNS miles)) (PP (IN from) (NP (NNP Los) (NNP Angeles)))) (, ,))))
+sid=5 spanning 7 until 9 headed by 8 parsed as (NP (NP (NNP Kearn) (NNP County)) (, ,) (NP (NNP California)) (, ,) (NP (NP (QP (RB about) (CD 100)) (NNS miles)) (PP (IN from) (NP (NNP Los) (NNP Angeles)))) (, ,))
+sid=5 spanning 7 until 19 headed by 8 parsed as (NP (NP (NNP Kearn) (NNP County)) (, ,) (NP (NNP California)) (, ,) (NP (NP (QP (RB about) (CD 100)) (NNS miles)) (PP (IN from) (NP (NNP Los) (NNP Angeles)))) (, ,))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (NNP California))
+sid=5 spanning 12 until 18 headed by 14 parsed as (NP (NP (QP (RB about) (CD 100)) (NNS miles)) (PP (IN from) (NP (NNP Los) (NNP Angeles))))
+sid=5 spanning 16 until 18 headed by 17 parsed as (NP (NNP Los) (NNP Angeles))
+sid=5 spanning 19 until 26 headed by 20 parsed as (NP (NP (DT a) (NN place)) (VP (ADVP (RB mostly)) (VBN known) (PP (IN for) (NP (PRP$ its) (NNS grapes)))))
+sid=5 spanning 24 until 26 headed by 25 parsed as (NP (PRP$ its) (NNS grapes))
+sid=5 spanning 24 until 25 headed by 24 parsed as (PRP$ its)
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP you))
+sid=7 spanning 0 until 2 headed by 0 parsed as (NP (NNP Heidi) (. ?))
+(end predicted mentions)
+---------gold clusters--------
+11 3 10 8 | { 'He' 'Andrew Luster' 'he' 'Andrew Luster' }
+4 1 | { 'they' 'the Mexican police' }
+14 13 | { 'its' 'Kearn County , California , about 100 miles from Los Angeles , a place mostly known for its grapes' }
+2 0 6 | { 'Dwayne Dog Chapman' 'Dog Chapman' 'Chapman' }
+7 5 9 | { 'Mexico' 'Mexico' 'Mexico' }
+12 15 | { 'taken' 'that' }
+(end gold clusters)

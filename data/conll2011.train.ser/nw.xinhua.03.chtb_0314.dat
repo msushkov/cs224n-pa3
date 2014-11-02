@@ -1,0 +1,182 @@
+---------gloss--------
+(0) Xinhua news agency , Beijing , August 31st 
+(1) According to foreign news agency reports , at the 1994 US Tennis Open , after dark horses repeatedly won on [36m{the first day of competition}[0m , there was no big news on the second day . 
+(2) All seed players passed the first round successfully . 
+(3) On the 30th , the matches that took place in the New York National Tennis Center basically progressed smoothly . 
+(4) [33m{Swedish veteran Edbery}[0m beat [33m{his}[0m compatriot La Ronson with 7 : 5 , 6 : 1 , 6 : 1 in the first round and entered into [32m{the second round}[0m . 
+(5) [1m[31m{German player Graf , who ranks first among women players in the world now ,}[0m has a good situation , as [1m[31m{she}[0m ousted the 19 year - old American young gun Anne Marie with 6 : 2 , 6 : 1 and also barged into the second round . 
+(6) The fourth seed , German player Me Shnedy and runner - up of the previous session , French player Sai Piolene also entered [32m{the next round of the men single 's}[0m successfully . 
+(7) In [34m{women 's singles}[0m , the number 5 seed Japanese player Yitakongtzi , the number 6 seed American Lynn Darboter and the number 8 seed , Argentine Savardini , etc. also passed [35m{the first round}[0m successfully . 
+(8) In [36m{the first day of competition that took place on the 29th}[0m , [31m{several seed players}[0m were ousted . 
+(9) Among [31m{them}[0m , the second seed , famous Croatian athlete Yivonisvic and the previous champion of the men 's singles of the US Open , from Germany Beker both [4m[36m{failed}[0m to enter [32m{the second round}[0m . 
+(10) [4m[36m{It}[0m was very much beyond expectations . 
+(11) Moreover , the twelfth seed of [34m{women 's singles}[0m , German player Harker was also ousted in [35m{the first round}[0m . 
+(12) The sixteenth seed of [1m[32m{men 's singles}[0m , Czech player Kodak exited before the match because of injury . 
+(13) The US Tennis Open is the last open match to take place among the four matches in the Tennis Grand Slam . 
+(14) This year the prize amount is 9.36 million US dollars . 
+(15) -LRB- End -RRB- 
+(end gloss)
+---------document--------
+(nw/xinhua/03/chtb_0314); part 000
+sentences:
+XinhuaXinhuaNNPORGPER0newsnewsNNPOPER0agencyagencyNNPOPER0,,,OPER0BeijingBeijingNNPGPEPER0,,,OPER0AugustAugustNNPDATEPER031st31stNNOPER0(ROOT (FRAG (NP (NNP Xinhua) (NNP news) (NNP agency)) (, ,) (NP (NNP Beijing)) (, ,) (NP (NNP August) (NN 31st))))
+AccordingaccordVBGOPER0totoINOPER0foreignforeignJJOPER0newsnewsNNOPER0agencyagencyNNOPER0reportsreportNNSOPER0,,,OPER0atatINOPER0thetheDTOPER019941994CDDATEPER0USUSNNPORGPER0TennisTennisNNPORGPER0OpenOpenNNPORGPER0,,,OPER0afterafterINOPER0darkdarkJJOPER0horseshorseNNSOPER0repeatedlyrepeatedlyRBOPER0wonwinVBDOPER0ononINOPER0thetheDTDATEPER0firstfirstJJDATEPER0daydayNNDATEPER0ofofINOPER0competitioncompetitionNNOPER0,,,OPER0therethereEXOPER0wasbeVBDOPER0nonoDTOPER0bigbigJJOPER0newsnewsNNOPER0ononINOPER0thetheDTDATEPER0secondsecondJJDATEPER0daydayNNDATEPER0...OPER0(ROOT (S (PP (VBG According) (PP (IN to) (NP (JJ foreign) (NML (NN news) (NN agency)) (NNS reports)))) (, ,) (PP (IN at) (NP (DT the) (CD 1994) (NNP US) (NNP Tennis) (NNP Open))) (, ,) (SBAR (IN after) (S (NP (JJ dark) (NNS horses)) (ADVP (RB repeatedly)) (VP (VBD won) (PP (IN on) (NP (NP (DT the) (JJ first) (NN day)) (PP (IN of) (NP (NN competition)))))))) (, ,) (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (JJ big) (NN news)) (PP (IN on) (NP (DT the) (JJ second) (NN day))))) (. .)))
+AllallDTOPER0seedseedNNOPER0playersplayerNNSOPER0passedpassVBDOPER0thetheDTOPER0firstfirstJJORDINALPER0roundroundNNOPER0successfullysuccessfullyRBOPER0...OPER0(ROOT (S (NP (DT All) (NN seed) (NNS players)) (VP (VBD passed) (NP (DT the) (JJ first) (NN round)) (ADVP (RB successfully))) (. .)))
+OnonINOPER0thetheDTDATEPER030th30thNNDATEPER0,,,OPER0thetheDTOPER0matchesmatchNNSOPER0thatthatWDTOPER0tooktakeVBDOPER0placeplaceNNOPER0ininINOPER0thetheDTORGPER0NewNewNNPORGPER0YorkYorkNNPORGPER0NationalNationalNNPORGPER0TennisTennisNNPORGPER0CenterCenterNNPORGPER0basicallybasicallyRBOPER0progressedprogressVBDOPER0smoothlysmoothlyRBOPER0...OPER0(ROOT (S (PP (IN On) (NP (DT the) (NN 30th))) (, ,) (NP (NP (DT the) (NNS matches)) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (NP (NN place)) (PP (IN in) (NP (DT the) (NML (NNP New) (NNP York)) (NNP National) (NNP Tennis) (NNP Center))))))) (ADVP (RB basically)) (VP (VBD progressed) (ADVP (RB smoothly))) (. .)))
+SwedishswedishJJORGPER0veteranveteranNNOPER0EdberyEdberyNNPPERSONPER0beatbeatVBDOPER0hishePRP$OPER0compatriotcompatriotNNOPER0LaLaNNPPERSONPER0RonsonRonsonNNPPERSONPER0withwithINOPER077CDCARDINALPER0:::OPER055CDOPER0,,,OPER066CDOPER0:::OPER011CDOPER0,,,OPER066CDOPER0:::OPER011CDOPER0ininINOPER0thetheDTOPER0firstfirstJJORDINALPER0roundroundNNOPER0andandCCOPER0enteredenterVBDOPER0intointoINOPER0thetheDTOPER0secondsecondJJORDINALPER0roundroundNNOPER0...OPER0(ROOT (S (NP (NML (JJ Swedish) (NN veteran)) (NNP Edbery)) (VP (VP (VBD beat) (NP (NML (PRP$ his) (NN compatriot)) (NNP La) (NNP Ronson)) (PP (IN with) (NP (CD 7))) (: :) (NP (CD 5) (, ,) (CD 6) (: :) (NP (CD 1) (, ,) (CD 6)) (: :) (NP (NP (CD 1)) (PP (IN in) (NP (DT the) (JJ first) (NN round)))))) (CC and) (VP (VBD entered) (PP (IN into) (NP (DT the) (JJ second) (NN round))))) (. .)))
+GermangermanJJOPER0playerplayerNNOPER0GrafGrafNNPPERSONPER0,,,OPER0whowhoWPOPER0ranksrankVBZOPER0firstfirstRBORDINALPER0amongamongINOPER0womenwomanNNSOPER0playersplayerNNSOPER0ininINOPER0thetheDTOPER0worldworldNNOPER0nownowRBOPER0,,,OPER0hashaveVBZOPER0aaDTOPER0goodgoodJJOPER0situationsituationNNOPER0,,,OPER0asasINOPER0sheshePRPOPER0oustedoustVBDOPER0thetheDTOPER01919CDDATEPER0yearyearNNDATEPER0--HYPHOPER0oldoldJJOPER0AmericanAmericanNNPOPER0youngyoungJJOPER0gungunNNOPER0AnneAnneNNPPERSONPER0MarieMarieNNPPERSONPER0withwithINOPER066CDCARDINALPER0:::OPER022CDOPER0,,,OPER066CDOPER0:::OPER011CDOPER0andandCCOPER0alsoalsoRBOPER0bargedbargeVBDOPER0intointoINOPER0thetheDTOPER0secondsecondJJORDINALPER0roundroundNNOPER0...OPER0(ROOT (S (NP (NP (NML (JJ German) (NN player)) (NNP Graf)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ ranks) (ADVP (RB first)) (PP (IN among) (NP (NP (NNS women) (NNS players)) (PP (IN in) (NP (DT the) (NN world))))) (ADVP (RB now))))) (, ,)) (VP (VBZ has) (NP (DT a) (JJ good) (NN situation)) (, ,) (SBAR (IN as) (S (NP (PRP she)) (VP (VP (VBD ousted) (NP (DT the) (ADJP (NML (CD 19) (NN year)) (HYPH -) (JJ old)) (NML (NNP American) (JJ young) (NN gun)) (NNP Anne) (NNP Marie)) (PP (IN with) (NP (NP (CD 6)) (: :) (NP (CD 2) (, ,) (CD 6)) (: :) (NP (CD 1))))) (CC and) (ADVP (RB also)) (VP (VBD barged) (PP (IN into) (NP (DT the) (JJ second) (NN round)))))))) (. .)))
+ThetheDTOPER0fourthfourthJJORDINALPER0seedseedNNOPER0,,,OPER0GermangermanJJOPER0playerplayerNNOPER0MeIPRPPERSONPER0ShnedyShnedyNNPPERSONPER0andandCCOPER0runnerrunnerNNOPER0--HYPHOPER0upupRPOPER0ofofINOPER0thetheDTOPER0previouspreviousJJOPER0sessionsessionNNOPER0,,,OPER0FrenchfrenchJJOPER0playerplayerNNOPER0SaiSaiNNPPERSONPER0PiolenePioleneNNPPERSONPER0alsoalsoRBOPER0enteredenterVBDOPER0thetheDTOPER0nextnextJJOPER0roundroundNNOPER0ofofINOPER0thetheDTOPER0menmanNNSOPER0singlesingleJJOPER0'sbeVBZOPER0successfullysuccessfullyRBOPER0...OPER0(ROOT (S (NP (NP (NP (NP (DT The) (JJ fourth) (NN seed)) (, ,) (NP (NML (JJ German) (NN player)) (NP (PRP Me)) (NNP Shnedy))) (CC and) (NP (NN runner) (HYPH -) (RP up) (PP (IN of) (NP (DT the) (JJ previous) (NN session))))) (, ,) (NP (NML (JJ French) (NN player)) (NNP Sai) (NNP Piolene))) (ADVP (RB also)) (VP (VBD entered) (NP (NP (DT the) (JJ next) (NN round)) (PP (IN of) (NP (NP (DT the) (NNS men)) (SBAR (S (NP (JJ single)) (VP (VBZ 's) (ADVP (RB successfully))))))))) (. .)))
+IninINOPER0womenwomanNNSOPER0's'sPOSOPER0singlessinglesNNSOPER0,,,OPER0thetheDTOPER0numbernumberNNOPER055CDCARDINALPER0seedseedNNOPER0JapanesejapaneseJJOPER0playerplayerNNOPER0YitakongtziYitakongtziNNPPERSONPER0,,,OPER0thetheDTOPER0numbernumberNNOPER066CDCARDINALPER0seedseedNNOPER0AmericanAmericanNNPPERSONPER0LynnLynnNNPPERSONPER0DarboterDarboterNNPPERSONPER0andandCCOPER0thetheDTOPER0numbernumberNNOPER088CDCARDINALPER0seedseedNNOPER0,,,OPER0ArgentineArgentineNNPOPER0SavardiniSavardiniNNPORGPER0,,,OPER0etc.etc.FWOPER0alsoalsoRBOPER0passedpassVBDOPER0thetheDTOPER0firstfirstJJORDINALPER0roundroundNNOPER0successfullysuccessfullyRBOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NNS women) (POS 's)) (NNS singles))) (, ,) (NP (NP (NP (DT the) (NML (NN number) (CD 5)) (NN seed)) (NP (NML (JJ Japanese) (NN player)) (NNP Yitakongtzi))) (, ,) (NP (NP (DT the) (NML (NN number) (CD 6)) (NN seed)) (NP (NNP American) (NNP Lynn) (NNP Darboter))) (CC and) (NP (NP (DT the) (NML (NN number) (CD 8)) (NN seed)) (, ,) (NP (NNP Argentine) (NNP Savardini)) (, ,) (ADVP (FW etc.)))) (ADVP (RB also)) (VP (VBD passed) (NP (DT the) (JJ first) (NN round)) (ADVP (RB successfully))) (. .)))
+IninINOPER0thetheDTDATEPER0firstfirstJJDATEPER0daydayNNDATEPER0ofofINOPER0competitioncompetitionNNOPER0thatthatWDTOPER0tooktakeVBDOPER0placeplaceNNOPER0ononINOPER0thetheDTDATEPER029th29thNNDATEPER0,,,OPER0severalseveralJJOPER0seedseedNNOPER0playersplayerNNSOPER0werebeVBDOPER0oustedoustVBNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (JJ first) (NN day)) (PP (IN of) (NP (NP (NN competition)) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (NP (NN place)) (PP (IN on) (NP (DT the) (NN 29th)))))))))) (, ,) (NP (JJ several) (NN seed) (NNS players)) (VP (VBD were) (VP (VBN ousted))) (. .)))
+AmongamongINOPER0themtheyPRPOPER0,,,OPER0thetheDTOPER0secondsecondJJOPER0seedseedNNOPER0,,,OPER0famousfamousJJOPER0CroatianCroatianNNPORGPER0athleteathleteNNOPER0YivonisvicYivonisvicNNPPERSONPER0andandCCOPER0thetheDTOPER0previouspreviousJJOPER0championchampionNNOPER0ofofINOPER0thetheDTOPER0menmanNNSOPER0's'sPOSOPER0singlessinglesNNSOPER0ofofINOPER0thetheDTORGPER0USUSNNPORGPER0OpenOpenNNPORGPER0,,,OPER0fromfromINOPER0GermanyGermanyNNPGPEPER0BekerBekerNNPPERSONPER0bothbothDTOPER0failedfailVBDOPER0totoTOOPER0enterenterVBOPER0thetheDTOPER0secondsecondJJORDINALPER0roundroundNNOPER0...OPER0(ROOT (S (PP (IN Among) (NP (PRP them))) (, ,) (NP (NP (NP (DT the) (JJ second) (NN seed)) (, ,) (NP (JJ famous) (NNP Croatian) (NN athlete) (NNP Yivonisvic))) (CC and) (NP (NP (NP (DT the) (JJ previous) (NN champion)) (PP (IN of) (NP (NP (DT the) (NNS men) (POS 's)) (NNS singles)))) (PP (IN of) (NP (DT the) (NNP US) (NNP Open))))) (, ,) (PP (IN from) (NP (NNP Germany) (NNP Beker))) (NP (DT both)) (VP (VBD failed) (S (VP (TO to) (VP (VB enter) (NP (DT the) (JJ second) (NN round)))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0veryveryRBOPER0muchmuchRBOPER0beyondbeyondINOPER0expectationsexpectationNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (PP (ADVP (RB very) (RB much)) (IN beyond) (NP (NNS expectations)))) (. .)))
+MoreovermoreoverRBOPER0,,,OPER0thetheDTOPER0twelfthtwelfthJJOPER0seedseedNNOPER0ofofINOPER0womenwomanNNSOPER0's'sPOSOPER0singlessinglesNNSOPER0,,,OPER0GermangermanJJOPER0playerplayerNNOPER0HarkerHarkerNNPPERSONPER0wasbeVBDOPER0alsoalsoRBOPER0oustedoustVBNOPER0ininINOPER0thetheDTOPER0firstfirstJJORDINALPER0roundroundNNOPER0...OPER0(ROOT (S (ADVP (RB Moreover)) (, ,) (NP (NP (NP (DT the) (JJ twelfth) (NN seed)) (PP (IN of) (NP (NP (NNS women) (POS 's)) (NNS singles)))) (, ,) (NP (NML (JJ German) (NN player)) (NNP Harker))) (VP (VBD was) (ADVP (RB also)) (VP (VBN ousted) (PP (IN in) (NP (DT the) (JJ first) (NN round))))) (. .)))
+ThetheDTOPER0sixteenthsixteenthNNOPER0seedseedNNOPER0ofofINOPER0menmanNNSOPER0's'sPOSOPER0singlessinglesNNSOPER0,,,OPER0CzechCzechNNPOPER0playerplayerNNOPER0KodakKodakNNPORGPER0exitedexitVBDOPER0beforebeforeINOPER0thetheDTOPER0matchmatchNNOPER0becausebecauseINOPER0ofofINOPER0injuryinjuryNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN sixteenth) (NN seed)) (PP (IN of) (NP (NP (NNS men) (POS 's)) (NNS singles)))) (, ,) (NP (NML (NNP Czech) (NN player)) (NNP Kodak)) (VP (VBD exited) (PP (IN before) (NP (DT the) (NN match))) (PP (IN because) (IN of) (NP (NN injury)))) (. .)))
+ThetheDTORGPER0USUSNNPORGPER0TennisTennisNNPORGPER0OpenOpenNNPORGPER0isbeVBZOPER0thetheDTOPER0lastlastJJOPER0openopenJJOPER0matchmatchNNOPER0totoTOOPER0taketakeVBOPER0placeplaceNNOPER0amongamongINOPER0thetheDTOPER0fourfourCDCARDINALPER0matchesmatchNNSOPER0ininINOPER0thetheDTORGPER0TennisTennisNNPORGPER0GrandGrandNNPORGPER0SlamslamNNORGPER0...OPER0(ROOT (S (NP (DT The) (NNP US) (NNP Tennis) (NNP Open)) (VP (VBZ is) (NP (DT the) (JJ last) (JJ open) (NN match) (S (VP (TO to) (VP (VB take) (NP (NP (NN place)) (PP (IN among) (NP (DT the) (CD four) (NNS matches)))) (PP (IN in) (NP (DT the) (NML (NNP Tennis) (NNP Grand)) (NN Slam)))))))) (. .)))
+ThisthisDTDATEPER0yearyearNNDATEPER0thetheDTOPER0prizeprizeNNOPER0amountamountNNOPER0isbeVBZOPER09.369.36CDMONEYPER0millionmillionCDMONEYPER0USUSNNPMONEYPER0dollarsdollarNNSMONEYPER0...OPER0(ROOT (S (NP (DT This) (NN year)) (NP (DT the) (NN prize) (NN amount)) (VP (VBZ is) (NP (QP (CD 9.36) (CD million)) (NNP US) (NNS dollars))) (. .)))
+-LRB--lrb--LRB-OPER0EndendNNORGPER0-RRB--rrb--RRB-OPER0(ROOT (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 20 until 25 headed by 22 parsed as (NP (NP (DT the) (JJ first) (NN day)) (PP (IN of) (NP (NN competition))))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NML (JJ Swedish) (NN veteran)) (NNP Edbery))
+sid=4 spanning 4 until 5 headed by 4 parsed as his
+sid=4 spanning 27 until 30 headed by 29 parsed as (NP (DT the) (JJ second) (NN round))
+sid=5 spanning 0 until 15 headed by 2 parsed as (NP (NP (NML (JJ German) (NN player)) (NNP Graf)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ ranks) (ADVP (RB first)) (PP (IN among) (NP (NP (NNS women) (NNS players)) (PP (IN in) (NP (DT the) (NN world))))) (ADVP (RB now))))) (, ,))
+sid=5 spanning 21 until 22 headed by 21 parsed as (NP (PRP she))
+sid=6 spanning 23 until 31 headed by 25 parsed as (NP (NP (DT the) (JJ next) (NN round)) (PP (IN of) (NP (NP (DT the) (NNS men)) (SBAR (S (NP (JJ single)) (VP (VBZ 's) (ADVP (RB successfully))))))))
+sid=6 spanning 27 until 31 headed by 29 parsed as (NP (JJ single))
+sid=7 spanning 1 until 4 headed by 3 parsed as (NP (NP (NNS women) (POS 's)) (NNS singles))
+sid=7 spanning 32 until 35 headed by 34 parsed as (NP (DT the) (JJ first) (NN round))
+sid=8 spanning 1 until 12 headed by 3 parsed as (NP (NP (DT the) (JJ first) (NN day)) (PP (IN of) (NP (NP (NN competition)) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (NP (NN place)) (PP (IN on) (NP (DT the) (NN 29th)))))))))
+sid=8 spanning 13 until 16 headed by 15 parsed as (NP (JJ several) (NN seed) (NNS players))
+sid=9 spanning 1 until 2 headed by 1 parsed as (NP (PRP them))
+sid=9 spanning 29 until 30 headed by 29 parsed as failed
+sid=9 spanning 32 until 35 headed by 34 parsed as (NP (DT the) (JJ second) (NN round))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=11 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNS women) (POS 's)) (NNS singles))
+sid=11 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (JJ first) (NN round))
+sid=12 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNS men) (POS 's)) (NNS singles))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Xinhua) (NNP news) (NNP agency))
+sid=0 spanning 0 until 1 headed by 0 parsed as Xinhua
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Beijing))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP August) (NN 31st))
+sid=0 spanning 6 until 7 headed by 6 parsed as August
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (JJ foreign) (NML (NN news) (NN agency)) (NNS reports))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (CD 1994) (NNP US) (NNP Tennis) (NNP Open))
+sid=1 spanning 8 until 13 headed by 12 parsed as (NP (DT the) (CD 1994) (NNP US) (NNP Tennis) (NNP Open))
+sid=1 spanning 9 until 10 headed by 9 parsed as 1994
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (JJ dark) (NNS horses))
+sid=1 spanning 20 until 25 headed by 22 parsed as (NP (NP (DT the) (JJ first) (NN day)) (PP (IN of) (NP (NN competition))))
+sid=1 spanning 28 until 35 headed by 30 parsed as (NP (NP (DT no) (JJ big) (NN news)) (PP (IN on) (NP (DT the) (JJ second) (NN day))))
+sid=1 spanning 32 until 35 headed by 34 parsed as (NP (DT the) (JJ second) (NN day))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ first) (NN round))
+sid=2 spanning 5 until 6 headed by 5 parsed as first
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN 30th))
+sid=3 spanning 4 until 16 headed by 5 parsed as (NP (NP (DT the) (NNS matches)) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (NP (NN place)) (PP (IN in) (NP (DT the) (NML (NNP New) (NNP York)) (NNP National) (NNP Tennis) (NNP Center)))))))
+sid=3 spanning 10 until 16 headed by 15 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP National) (NNP Tennis) (NNP Center))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NML (JJ Swedish) (NN veteran)) (NNP Edbery))
+sid=4 spanning 4 until 8 headed by 7 parsed as (NP (NML (PRP$ his) (NN compatriot)) (NNP La) (NNP Ronson))
+sid=4 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (CD 7))
+sid=4 spanning 11 until 24 headed by 17 parsed as (NP (CD 5) (, ,) (CD 6) (: :) (NP (CD 1) (, ,) (CD 6)) (: :) (NP (NP (CD 1)) (PP (IN in) (NP (DT the) (JJ first) (NN round)))))
+sid=4 spanning 19 until 24 headed by 19 parsed as (NP (NP (CD 1)) (PP (IN in) (NP (DT the) (JJ first) (NN round))))
+sid=4 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (JJ first) (NN round))
+sid=4 spanning 22 until 23 headed by 22 parsed as first
+sid=4 spanning 27 until 30 headed by 29 parsed as (NP (DT the) (JJ second) (NN round))
+sid=4 spanning 28 until 29 headed by 28 parsed as second
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NP (NML (JJ German) (NN player)) (NNP Graf)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ ranks) (ADVP (RB first)) (PP (IN among) (NP (NP (NNS women) (NNS players)) (PP (IN in) (NP (DT the) (NN world))))) (ADVP (RB now))))) (, ,))
+sid=5 spanning 0 until 15 headed by 2 parsed as (NP (NP (NML (JJ German) (NN player)) (NNP Graf)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ ranks) (ADVP (RB first)) (PP (IN among) (NP (NP (NNS women) (NNS players)) (PP (IN in) (NP (DT the) (NN world))))) (ADVP (RB now))))) (, ,))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (NML (JJ German) (NN player)) (NNP Graf))
+sid=5 spanning 6 until 7 headed by 6 parsed as first
+sid=5 spanning 8 until 13 headed by 9 parsed as (NP (NP (NNS women) (NNS players)) (PP (IN in) (NP (DT the) (NN world))))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN world))
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (DT a) (JJ good) (NN situation))
+sid=5 spanning 21 until 22 headed by 21 parsed as (NP (PRP she))
+sid=5 spanning 23 until 33 headed by 32 parsed as (NP (DT the) (ADJP (NML (CD 19) (NN year)) (HYPH -) (JJ old)) (NML (NNP American) (JJ young) (NN gun)) (NNP Anne) (NNP Marie))
+sid=5 spanning 24 until 26 headed by 25 parsed as year
+sid=5 spanning 34 until 41 headed by 34 parsed as (NP (NP (CD 6)) (: :) (NP (CD 2) (, ,) (CD 6)) (: :) (NP (CD 1)))
+sid=5 spanning 36 until 39 headed by 38 parsed as (NP (CD 2) (, ,) (CD 6))
+sid=5 spanning 40 until 41 headed by 40 parsed as (NP (CD 1))
+sid=5 spanning 45 until 48 headed by 47 parsed as (NP (DT the) (JJ second) (NN round))
+sid=5 spanning 46 until 47 headed by 46 parsed as second
+sid=6 spanning 0 until 21 headed by 2 parsed as (NP (NP (NP (NP (DT The) (JJ fourth) (NN seed)) (, ,) (NP (NML (JJ German) (NN player)) (NP (PRP Me)) (NNP Shnedy))) (CC and) (NP (NN runner) (HYPH -) (RP up) (PP (IN of) (NP (DT the) (JJ previous) (NN session))))) (, ,) (NP (NML (JJ French) (NN player)) (NNP Sai) (NNP Piolene)))
+sid=6 spanning 0 until 16 headed by 2 parsed as (NP (NP (NP (DT The) (JJ fourth) (NN seed)) (, ,) (NP (NML (JJ German) (NN player)) (NP (PRP Me)) (NNP Shnedy))) (CC and) (NP (NN runner) (HYPH -) (RP up) (PP (IN of) (NP (DT the) (JJ previous) (NN session)))))
+sid=6 spanning 0 until 8 headed by 2 parsed as (NP (NP (DT The) (JJ fourth) (NN seed)) (, ,) (NP (NML (JJ German) (NN player)) (NP (PRP Me)) (NNP Shnedy)))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ fourth) (NN seed))
+sid=6 spanning 1 until 2 headed by 1 parsed as fourth
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (NML (JJ German) (NN player)) (NP (PRP Me)) (NNP Shnedy))
+sid=6 spanning 4 until 8 headed by 7 parsed as (NP (NML (JJ German) (NN player)) (NP (PRP Me)) (NNP Shnedy))
+sid=6 spanning 9 until 16 headed by 9 parsed as (NP (NN runner) (HYPH -) (RP up) (PP (IN of) (NP (DT the) (JJ previous) (NN session))))
+sid=6 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ previous) (NN session))
+sid=6 spanning 17 until 21 headed by 20 parsed as (NP (NML (JJ French) (NN player)) (NNP Sai) (NNP Piolene))
+sid=6 spanning 23 until 32 headed by 25 parsed as (NP (NP (DT the) (JJ next) (NN round)) (PP (IN of) (NP (NP (DT the) (NNS men)) (SBAR (S (NP (JJ single)) (VP (VBZ 's) (ADVP (RB successfully))))))))
+sid=6 spanning 27 until 32 headed by 28 parsed as (NP (NP (DT the) (NNS men)) (SBAR (S (NP (JJ single)) (VP (VBZ 's) (ADVP (RB successfully))))))
+sid=6 spanning 29 until 30 headed by 29 parsed as (NP (JJ single))
+sid=7 spanning 1 until 4 headed by 3 parsed as (NP (NP (NNS women) (POS 's)) (NNS singles))
+sid=7 spanning 1 until 3 headed by 1 parsed as (NP (NNS women) (POS 's))
+sid=7 spanning 5 until 12 headed by 8 parsed as (NP (NP (DT the) (NML (NN number) (CD 5)) (NN seed)) (NP (NML (JJ Japanese) (NN player)) (NNP Yitakongtzi)))
+sid=7 spanning 11 until 12 headed by 11 parsed as (NP (NML (JJ Japanese) (NN player)) (NNP Yitakongtzi))
+sid=7 spanning 9 until 12 headed by 11 parsed as (NP (NML (JJ Japanese) (NN player)) (NNP Yitakongtzi))
+sid=7 spanning 13 until 20 headed by 16 parsed as (NP (NP (DT the) (NML (NN number) (CD 6)) (NN seed)) (NP (NNP American) (NNP Lynn) (NNP Darboter)))
+sid=7 spanning 17 until 20 headed by 19 parsed as (NP (NNP American) (NNP Lynn) (NNP Darboter))
+sid=7 spanning 21 until 25 headed by 24 parsed as (NP (DT the) (NML (NN number) (CD 8)) (NN seed))
+sid=7 spanning 27 until 28 headed by 27 parsed as (NP (NNP Argentine) (NNP Savardini))
+sid=7 spanning 26 until 28 headed by 27 parsed as (NP (NNP Argentine) (NNP Savardini))
+sid=7 spanning 32 until 35 headed by 34 parsed as (NP (DT the) (JJ first) (NN round))
+sid=7 spanning 33 until 34 headed by 33 parsed as first
+sid=8 spanning 1 until 12 headed by 3 parsed as (NP (NP (DT the) (JJ first) (NN day)) (PP (IN of) (NP (NP (NN competition)) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (NP (NN place)) (PP (IN on) (NP (DT the) (NN 29th)))))))))
+sid=8 spanning 5 until 12 headed by 5 parsed as (NP (NP (NN competition)) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (NP (NN place)) (PP (IN on) (NP (DT the) (NN 29th)))))))
+sid=8 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN 29th))
+sid=8 spanning 13 until 16 headed by 15 parsed as (NP (JJ several) (NN seed) (NNS players))
+sid=9 spanning 1 until 2 headed by 1 parsed as (NP (PRP them))
+sid=9 spanning 3 until 24 headed by 5 parsed as (NP (NP (NP (DT the) (JJ second) (NN seed)) (, ,) (NP (JJ famous) (NNP Croatian) (NN athlete) (NNP Yivonisvic))) (CC and) (NP (NP (NP (DT the) (JJ previous) (NN champion)) (PP (IN of) (NP (NP (DT the) (NNS men) (POS 's)) (NNS singles)))) (PP (IN of) (NP (DT the) (NNP US) (NNP Open)))))
+sid=9 spanning 3 until 11 headed by 5 parsed as (NP (NP (DT the) (JJ second) (NN seed)) (, ,) (NP (JJ famous) (NNP Croatian) (NN athlete) (NNP Yivonisvic)))
+sid=9 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ second) (NN seed))
+sid=9 spanning 10 until 11 headed by 10 parsed as (NP (JJ famous) (NNP Croatian) (NN athlete) (NNP Yivonisvic))
+sid=9 spanning 7 until 11 headed by 10 parsed as (NP (JJ famous) (NNP Croatian) (NN athlete) (NNP Yivonisvic))
+sid=9 spanning 12 until 24 headed by 14 parsed as (NP (NP (NP (DT the) (JJ previous) (NN champion)) (PP (IN of) (NP (NP (DT the) (NNS men) (POS 's)) (NNS singles)))) (PP (IN of) (NP (DT the) (NNP US) (NNP Open))))
+sid=9 spanning 16 until 20 headed by 19 parsed as (NP (NP (DT the) (NNS men) (POS 's)) (NNS singles))
+sid=9 spanning 16 until 19 headed by 17 parsed as (NP (DT the) (NNS men) (POS 's))
+sid=9 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NNP US) (NNP Open))
+sid=9 spanning 26 until 28 headed by 27 parsed as (NP (NNP Germany) (NNP Beker))
+sid=9 spanning 26 until 27 headed by 26 parsed as Germany
+sid=9 spanning 28 until 29 headed by 28 parsed as (NP (DT both))
+sid=9 spanning 32 until 35 headed by 34 parsed as (NP (DT the) (JJ second) (NN round))
+sid=9 spanning 33 until 34 headed by 33 parsed as second
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=10 spanning 5 until 6 headed by 5 parsed as (NP (NNS expectations))
+sid=11 spanning 2 until 13 headed by 4 parsed as (NP (NP (NP (DT the) (JJ twelfth) (NN seed)) (PP (IN of) (NP (NP (NNS women) (POS 's)) (NNS singles)))) (, ,) (NP (NML (JJ German) (NN player)) (NNP Harker)))
+sid=11 spanning 2 until 9 headed by 4 parsed as (NP (NP (DT the) (JJ twelfth) (NN seed)) (PP (IN of) (NP (NP (NNS women) (POS 's)) (NNS singles))))
+sid=11 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNS women) (POS 's)) (NNS singles))
+sid=11 spanning 6 until 8 headed by 6 parsed as (NP (NNS women) (POS 's))
+sid=11 spanning 10 until 13 headed by 12 parsed as (NP (NML (JJ German) (NN player)) (NNP Harker))
+sid=11 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (JJ first) (NN round))
+sid=11 spanning 18 until 19 headed by 18 parsed as first
+sid=12 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT The) (NN sixteenth) (NN seed)) (PP (IN of) (NP (NP (NNS men) (POS 's)) (NNS singles))))
+sid=12 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNS men) (POS 's)) (NNS singles))
+sid=12 spanning 4 until 6 headed by 4 parsed as (NP (NNS men) (POS 's))
+sid=12 spanning 8 until 11 headed by 10 parsed as (NP (NML (NNP Czech) (NN player)) (NNP Kodak))
+sid=12 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN match))
+sid=13 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP US) (NNP Tennis) (NNP Open))
+sid=13 spanning 5 until 21 headed by 8 parsed as (NP (DT the) (JJ last) (JJ open) (NN match) (S (VP (TO to) (VP (VB take) (NP (NP (NN place)) (PP (IN among) (NP (DT the) (CD four) (NNS matches)))) (PP (IN in) (NP (DT the) (NML (NNP Tennis) (NNP Grand)) (NN Slam)))))))
+sid=13 spanning 11 until 16 headed by 11 parsed as (NP (NP (NN place)) (PP (IN among) (NP (DT the) (CD four) (NNS matches))))
+sid=13 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (CD four) (NNS matches))
+sid=13 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (NML (NNP Tennis) (NNP Grand)) (NN Slam))
+sid=14 spanning 0 until 2 headed by 1 parsed as (NP (DT This) (NN year))
+sid=14 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NN prize) (NN amount))
+sid=15 spanning 0 until 3 headed by 1 parsed as (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-))
+(end predicted mentions)
+---------gold clusters--------
+13 15 | { 'failed' 'It' }
+11 12 | { 'several seed players' 'them' }
+3 6 14 | { 'the second round' 'the next round of the men single 's' 'the second round' }
+2 1 | { 'his' 'Swedish veteran Edbery' }
+16 8 | { 'women 's singles' 'women 's singles' }
+9 17 | { 'the first round' 'the first round' }
+10 0 | { 'the first day of competition that took place on the 29th' 'the first day of competition' }
+5 4 | { 'she' 'German player Graf , who ranks first among women players in the world now ,' }
+7 18 | { 'the men single 's' 'men 's singles' }
+(end gold clusters)

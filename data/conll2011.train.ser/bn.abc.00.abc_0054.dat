@@ -1,0 +1,29 @@
+---------gloss--------
+(0) Some of the other news today -- 
+(1) In Washington , Israeli and Palestinian negotiators met again with President Clinton and were slightly optimistic . 
+(2) The Palestinian negotiator said there was some progress on Palestinian sovereignty over part of Jerusalem . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0054); part 000
+sentences:
+SomesomeDTOPER0ofofINOPER0thetheDTOPER0otherotherJJOPER0newsnewsNNOPER0todaytodayNNDATEPER0----:OPER0(ROOT (NP (NP (DT Some)) (PP (IN of) (NP (NP (DT the) (JJ other) (NN news)) (NP (NN today)))) (: --)))
+IninINOPER0WashingtonWashingtonNNPGPEPER0,,,OPER0IsraeliisraeliJJOPER0andandCCOPER0PalestinianpalestinianJJOPER0negotiatorsnegotiatorNNSOPER0metmeetVBDOPER0againagainRBOPER0withwithINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0andandCCOPER0werebeVBDOPER0slightlyslightlyRBOPER0optimisticoptimisticJJOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Washington))) (, ,) (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators)) (VP (VP (VBD met) (ADVP (RB again)) (PP (IN with) (NP (NNP President) (NNP Clinton)))) (CC and) (VP (VBD were) (ADJP (RB slightly) (JJ optimistic)))) (. .)))
+ThetheDTOPER0PalestinianpalestinianJJOPER0negotiatornegotiatorNNOPER0saidsayVBDOPER0therethereEXOPER0wasbeVBDOPER0somesomeDTOPER0progressprogressNNOPER0ononINOPER0PalestinianpalestinianJJOPER0sovereigntysovereigntyNNOPER0overoverINOPER0partpartNNOPER0ofofINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (JJ Palestinian) (NN negotiator)) (VP (VBD said) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (NP (DT some) (NN progress)) (PP (IN on) (NP (NP (JJ Palestinian) (NN sovereignty)) (PP (IN over) (NP (NP (NN part)) (PP (IN of) (NP (NNP Jerusalem)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 0 parsed as (NP (NP (DT Some)) (PP (IN of) (NP (NP (DT the) (JJ other) (NN news)) (NP (NN today)))) (: --))
+sid=0 spanning 2 until 6 headed by 4 parsed as (NP (NP (DT the) (JJ other) (NN news)) (NP (NN today)))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (NNP Washington))
+sid=1 spanning 3 until 7 headed by 6 parsed as (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNP President) (NNP Clinton))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NNP President) (NNP Clinton))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Palestinian) (NN negotiator))
+sid=2 spanning 6 until 15 headed by 7 parsed as (NP (NP (DT some) (NN progress)) (PP (IN on) (NP (NP (JJ Palestinian) (NN sovereignty)) (PP (IN over) (NP (NP (NN part)) (PP (IN of) (NP (NNP Jerusalem))))))))
+sid=2 spanning 12 until 15 headed by 12 parsed as (NP (NP (NN part)) (PP (IN of) (NP (NNP Jerusalem))))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

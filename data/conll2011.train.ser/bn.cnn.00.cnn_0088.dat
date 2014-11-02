@@ -1,0 +1,69 @@
+---------gloss--------
+(0) [4m[36m{216 crew members from the bombed destroyer `` USS Cole ''}[0m got a hero 's welcome as [4m[36m{they}[0m returned to the U.S. today . 
+(1) [4m[36m{The sailors}[0m will be given leaves of absence to recuperate and spend time with [4m[36m{their}[0m friends and families . 
+(2) 17 crew members were killed and 39 injured in the bomb attack on [4m[34m{the `` Cole ''}[0m . 
+(3) October [4m[34m{the damaged vessel}[0m remains in the Gulf of Aden loaded atop the heavy - lift ship , `` the Blue Marlin . '' 
+(4) Pentagon sources say [4m[35m{the piggybacked ships}[0m will depart tomorrow . 
+(5) [4m[35m{They}[0m will sail around the southern tip of Africa and arrive in Norfolk around December . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0088); part 000
+sentences:
+216216CDCARDINALPER0crewcrewNNOPER0membersmemberNNSOPER0fromfromINOPER0thetheDTOPER0bombedbombVBNOPER0destroyerdestroyerNNOPER0``````OUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''OPER0gotgetVBDOPER0aaDTOPER0heroheroNNOPER0's'sPOSOPER0welcomewelcomeNNOPER0asasINOPER0theytheyPRPOPER0returnedreturnVBDOPER0totoINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (CD 216) (NN crew) (NNS members)) (PP (IN from) (NP (NP (DT the) (VBN bombed) (NN destroyer)) (`` ``) (NNP USS) (NNP Cole) ('' '')))) (VP (VBD got) (NP (NP (DT a) (NN hero) (POS 's)) (NN welcome)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD returned) (PP (IN to) (NP (DT the) (NNP U.S.))) (NP (NN today)))))) (. .)))
+ThetheDTOPER0sailorssailorNNSOPER0willwillMDOPER0bebeVBOPER0givengiveVBNOPER0leavesleafNNSOPER0ofofINOPER0absenceabsenceNNOPER0totoTOOPER0recuperaterecuperateVBOPER0andandCCOPER0spendspendVBOPER0timetimeNNOPER0withwithINOPER0theirtheyPRP$OPER0friendsfriendNNSOPER0andandCCOPER0familiesfamilyNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNS sailors)) (VP (MD will) (VP (VB be) (VP (VBN given) (NP (NP (NNS leaves)) (PP (IN of) (NP (NN absence) (S (VP (TO to) (VP (VB recuperate) (CC and) (VB spend) (NP (NN time)) (PP (IN with) (NP (PRP$ their) (NNS friends) (CC and) (NNS families)))))))))))) (. .)))
+1717CDCARDINALPER0crewcrewNNOPER0membersmemberNNSOPER0werebeVBDOPER0killedkillVBNOPER0andandCCOPER03939CDCARDINALPER0injuredinjureVBNOPER0ininINOPER0thetheDTOPER0bombbombNNOPER0attackattackNNOPER0ononINOPER0thetheDTOPER0``````OColeColeNNPWORK_OF_ARTPER2''''''OPER0...OPER0(ROOT (S (S (NP (CD 17) (NN crew) (NNS members)) (VP (VBD were) (VP (VBN killed)))) (CC and) (S (NP (CD 39)) (VP (VBN injured) (PP (IN in) (NP (NP (DT the) (NN bomb) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP Cole) ('' ''))))))) (. .)))
+OctoberOctoberNNPDATEPER0thetheDTOPER0damageddamageVBNOPER0vesselvesselNNOPER0remainsremainVBZOPER0ininINOPER0thetheDTLOCPER0GulfGulfNNPLOCPER0ofofINLOCPER0AdenAdenNNPLOCPER0loadedloadVBNOPER0atopatopINOPER0thetheDTOPER0heavyheavyJJOPER0--HYPHOPER0liftliftNNOPER0shipshipNNOPER0,,,OPER0``````OthetheDTWORK_OF_ARTPER3BlueBlueNNPWORK_OF_ARTPER3MarlinMarlinNNPWORK_OF_ARTPER3...OPER3''''''OPER0(ROOT (S (NP (NNP October)) (NP (DT the) (VBN damaged) (NN vessel)) (VP (VBZ remains) (PP (IN in) (NP (NP (DT the) (NNP Gulf)) (PP (IN of) (NP (NNP Aden))))) (S (VP (VBN loaded) (PP (IN atop) (NP (NP (DT the) (NML (JJ heavy) (HYPH -) (NN lift)) (NN ship)) (, ,) (`` ``) (NP (DT the) (NNP Blue) (NNP Marlin))))))) (. .) ('' '')))
+PentagonPentagonNNPORGPER0sourcessourceNNSOPER0saysayVBPOPER0thetheDTOPER0piggybackedpiggybackVBNOPER0shipsshipNNSOPER0willwillMDOPER0departdepartVBOPER0tomorrowtomorrowNNDATEPER0...OPER0(ROOT (S (NP (NNP Pentagon) (NNS sources)) (VP (VBP say) (SBAR (S (NP (DT the) (VBN piggybacked) (NNS ships)) (VP (MD will) (VP (VB depart) (NP (NN tomorrow))))))) (. .)))
+TheytheyPRPOPER0willwillMDOPER0sailsailNNOPER0aroundaroundINOPER0thetheDTOPER0southernsouthernJJOPER0tiptipNNOPER0ofofINOPER0AfricaAfricaNNPLOCPER0andandCCOPER0arrivearriveVBOPER0ininINOPER0NorfolkNorfolkNNPGPEPER0aroundaroundINOPER0DecemberDecemberNNPDATEPER0...OPER0(ROOT (S (NP (PRP They)) (VP (MD will) (VP (VP (NN sail) (PP (IN around) (NP (NP (DT the) (JJ southern) (NN tip)) (PP (IN of) (NP (NNP Africa)))))) (CC and) (VP (VB arrive) (PP (IN in) (NP (NNP Norfolk))) (PP (IN around) (NP (NNP December)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 11 headed by 2 parsed as (NP (NP (CD 216) (NN crew) (NNS members)) (PP (IN from) (NP (NP (DT the) (VBN bombed) (NN destroyer)) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 4 until 11 headed by 9 parsed as (NP (NP (DT the) (VBN bombed) (NN destroyer)) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS sailors))
+sid=1 spanning 14 until 15 headed by 14 parsed as their
+sid=2 spanning 13 until 17 headed by 15 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=3 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (VBN damaged) (NN vessel))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (VBN piggybacked) (NNS ships))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 11 headed by 2 parsed as (NP (NP (CD 216) (NN crew) (NNS members)) (PP (IN from) (NP (NP (DT the) (VBN bombed) (NN destroyer)) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 4 until 11 headed by 9 parsed as (NP (NP (DT the) (VBN bombed) (NN destroyer)) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (VBN bombed) (NN destroyer))
+sid=0 spanning 12 until 16 headed by 15 parsed as (NP (NP (DT a) (NN hero) (POS 's)) (NN welcome))
+sid=0 spanning 12 until 15 headed by 13 parsed as (NP (DT a) (NN hero) (POS 's))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNP U.S.))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS sailors))
+sid=1 spanning 5 until 18 headed by 5 parsed as (NP (NP (NNS leaves)) (PP (IN of) (NP (NN absence) (S (VP (TO to) (VP (VB recuperate) (CC and) (VB spend) (NP (NN time)) (PP (IN with) (NP (PRP$ their) (NNS friends) (CC and) (NNS families)))))))))
+sid=1 spanning 7 until 18 headed by 7 parsed as (NP (NN absence) (S (VP (TO to) (VP (VB recuperate) (CC and) (VB spend) (NP (NN time)) (PP (IN with) (NP (PRP$ their) (NNS friends) (CC and) (NNS families)))))))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NN time))
+sid=1 spanning 14 until 18 headed by 15 parsed as (NP (PRP$ their) (NNS friends) (CC and) (NNS families))
+sid=1 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (CD 17) (NN crew) (NNS members))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (CD 39))
+sid=2 spanning 9 until 17 headed by 11 parsed as (NP (NP (DT the) (NN bomb) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP Cole) ('' ''))))
+sid=2 spanning 13 until 17 headed by 15 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP October))
+sid=3 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (VBN damaged) (NN vessel))
+sid=3 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT the) (NNP Gulf)) (PP (IN of) (NP (NNP Aden))))
+sid=3 spanning 12 until 22 headed by 16 parsed as (NP (NP (DT the) (NML (JJ heavy) (HYPH -) (NN lift)) (NN ship)) (, ,) (`` ``) (NP (DT the) (NNP Blue) (NNP Marlin)))
+sid=3 spanning 12 until 17 headed by 16 parsed as (NP (DT the) (NML (JJ heavy) (HYPH -) (NN lift)) (NN ship))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (NNP Blue) (NNP Marlin))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Pentagon) (NNS sources))
+sid=4 spanning 0 until 1 headed by 0 parsed as Pentagon
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (VBN piggybacked) (NNS ships))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NN tomorrow))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=5 spanning 4 until 9 headed by 6 parsed as (NP (NP (DT the) (JJ southern) (NN tip)) (PP (IN of) (NP (NNP Africa))))
+sid=5 spanning 8 until 9 headed by 8 parsed as (NP (NNP Africa))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNP Norfolk))
+sid=5 spanning 14 until 15 headed by 14 parsed as (NP (NNP December))
+(end predicted mentions)
+---------gold clusters--------
+6 5 1 | { 'the damaged vessel' 'the `` Cole ''' 'the bombed destroyer `` USS Cole ''' }
+8 7 | { 'They' 'the piggybacked ships' }
+2 4 3 0 | { 'they' 'their' 'The sailors' '216 crew members from the bombed destroyer `` USS Cole ''' }
+(end gold clusters)

@@ -1,0 +1,43 @@
+---------gloss--------
+(0) Meanwhile , [4m[31m{the man Vojislav Kostunica replaced , Slobodan Milosevic}[0m seems to be moving back onto the public stage . 
+(1) In [4m[31m{his}[0m first detailed interview since [4m[31m{he}[0m was driven from power , [4m[31m{Milosevic}[0m today told a private Serbian TV station that [4m[31m{his}[0m conscience is clear about [4m[31m{his}[0m years in office , and [4m[31m{he}[0m denounced the International War Crimes Tribunal as a political institution which is against the Serbs . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0087); part 000
+sentences:
+MeanwhilemeanwhileRBOPER0,,,OPER0thetheDTOPER0manmanNNOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0replacedreplaceVBDOPER0,,,OPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0seemsseemVBZOPER0totoTOOPER0bebeVBOPER0movingmoveVBGOPER0backbackRBOPER0ontoontoINOPER0thetheDTOPER0publicpublicJJOPER0stagestageNNOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (NP (DT the) (NN man)) (SBAR (S (NP (NNP Vojislav) (NNP Kostunica)) (VP (VBD replaced))))) (, ,) (NP (NNP Slobodan) (NNP Milosevic))) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (VP (VBG moving) (ADVP (RB back) (PP (IN onto) (NP (DT the) (JJ public) (NN stage))))))))) (. .)))
+IninINOPER0hishePRP$OPER0firstfirstJJOPER0detaileddetailVBNOPER0interviewinterviewNNOPER0sincesinceINOPER0hehePRPOPER0wasbeVBDOPER0drivendriveVBNOPER0fromfromINOPER0powerpowerNNOPER0,,,OPER0MilosevicMilosevicNNPPERSONPER0todaytodayNNOPER0toldtellVBDOPER0aaDTOPER0privateprivateJJOPER0SerbianSerbianNNPOPER0TVtvNNOPER0stationstationNNOPER0thatthatINOPER0hishePRP$OPER0conscienceconscienceNNOPER0isbeVBZOPER0clearclearJJOPER0aboutaboutINOPER0hishePRP$OPER0yearsyearNNSDATEPER0ininINOPER0officeofficeNNOPER0,,,OPER0andandCCOPER0hehePRPOPER0denounceddenounceVBDOPER0thetheDTEVENTPER0InternationalInternationalNNPEVENTPER0WarWarNNPEVENTPER0CrimesCrimesNNPSEVENTPER0TribunalTribunalNNPEVENTPER0asasINOPER0aaDTOPER0politicalpoliticalJJOPER0institutioninstitutionNNOPER0whichwhichWDTOPER0isbeVBZOPER0againstagainstINOPER0thetheDTOPER0SerbsSerbsNNPSOPER0...OPER0(ROOT (S (S (PP (IN In) (NP (NP (PRP$ his) (JJ first) (VBN detailed) (NN interview)) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD was) (VP (VBN driven) (PP (IN from) (NP (NN power))))))))) (, ,) (NP (NNP Milosevic)) (NP (NN today)) (VP (VBD told) (NP (DT a) (JJ private) (NNP Serbian) (NN TV) (NN station)) (SBAR (IN that) (S (NP (PRP$ his) (NN conscience)) (VP (VBZ is) (ADJP (JJ clear) (PP (IN about) (NP (NP (PRP$ his) (NNS years)) (PP (IN in) (NP (NN office))))))))))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBD denounced) (NP (DT the) (NNP International) (NML (NNP War) (NNPS Crimes)) (NNP Tribunal)) (PP (IN as) (NP (NP (DT a) (JJ political) (NN institution)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (PP (IN against) (NP (DT the) (NNPS Serbs)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 10 headed by 3 parsed as (NP (NP (NP (DT the) (NN man)) (SBAR (S (NP (NNP Vojislav) (NNP Kostunica)) (VP (VBD replaced))))) (, ,) (NP (NNP Slobodan) (NNP Milosevic)))
+sid=1 spanning 1 until 2 headed by 1 parsed as his
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Milosevic))
+sid=1 spanning 21 until 22 headed by 21 parsed as his
+sid=1 spanning 26 until 27 headed by 26 parsed as his
+sid=1 spanning 32 until 33 headed by 32 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 10 headed by 3 parsed as (NP (NP (NP (DT the) (NN man)) (SBAR (S (NP (NNP Vojislav) (NNP Kostunica)) (VP (VBD replaced))))) (, ,) (NP (NNP Slobodan) (NNP Milosevic)))
+sid=0 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT the) (NN man)) (SBAR (S (NP (NNP Vojislav) (NNP Kostunica)) (VP (VBD replaced)))))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Slobodan) (NNP Milosevic))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ public) (NN stage))
+sid=1 spanning 1 until 11 headed by 4 parsed as (NP (NP (PRP$ his) (JJ first) (VBN detailed) (NN interview)) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD was) (VP (VBN driven) (PP (IN from) (NP (NN power))))))))
+sid=1 spanning 1 until 2 headed by 1 parsed as (PRP$ his)
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Milosevic))
+sid=1 spanning 15 until 20 headed by 19 parsed as (NP (DT a) (JJ private) (NNP Serbian) (NN TV) (NN station))
+sid=1 spanning 21 until 23 headed by 22 parsed as (NP (PRP$ his) (NN conscience))
+sid=1 spanning 21 until 22 headed by 21 parsed as (PRP$ his)
+sid=1 spanning 26 until 30 headed by 27 parsed as (NP (NP (PRP$ his) (NNS years)) (PP (IN in) (NP (NN office))))
+sid=1 spanning 26 until 27 headed by 26 parsed as (PRP$ his)
+sid=1 spanning 32 until 33 headed by 32 parsed as (NP (PRP he))
+sid=1 spanning 34 until 39 headed by 38 parsed as (NP (DT the) (NNP International) (NML (NNP War) (NNPS Crimes)) (NNP Tribunal))
+sid=1 spanning 40 until 48 headed by 42 parsed as (NP (NP (DT a) (JJ political) (NN institution)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (PP (IN against) (NP (DT the) (NNPS Serbs)))))))
+sid=1 spanning 46 until 48 headed by 47 parsed as (NP (DT the) (NNPS Serbs))
+(end predicted mentions)
+---------gold clusters--------
+1 3 6 2 4 0 5 | { 'his' 'Milosevic' 'he' 'he' 'his' 'the man Vojislav Kostunica replaced , Slobodan Milosevic' 'his' }
+(end gold clusters)

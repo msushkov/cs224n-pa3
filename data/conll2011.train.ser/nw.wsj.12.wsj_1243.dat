@@ -1,0 +1,106 @@
+---------gloss--------
+(0) [4m[32m{France 's industrial production index for July and August}[0m [3m[32m{rose}[0m 1 % from [3m[35m{June}[0m and was up 4.6 % from [4m[31m{a year}[0m ago , according to [3m[33m{seasonally adjusted data from the National Statistics Institute}[0m . 
+(1) [3m[31m{The state agency , which usually publishes the data on monthly basis , but traditionally combines the index for the two summer - holiday months ,}[0m said [3m[32m{the advance}[0m was led by output of consumer goods , which rose 3.5 % from [3m[35m{June}[0m and was up 7.2 % from [4m[31m{a year}[0m earlier . 
+(2) Semifinished goods turned in a strong showing , with a monthly rise of 2 % and a year - on - year advance of 3 % . 
+(3) Food production was ahead 1.7 % from [3m[35m{June}[0m and 5.3 % from [4m[31m{a year}[0m earlier . 
+(4) Output in [3m[34m{the capital - goods sector}[0m was ahead 0.9 % on a monthly basis and 2.7 % year on year . 
+(5) These gains were partly offset by output of cars and other consumer durables , which eased 3.9 % from [3m[35m{June 's}[0m high level . 
+(6) [3m[34m{The sector}[0m was still 8.8 % above [3m[34m{its}[0m output levels from [4m[31m{a year}[0m earlier , however . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1243); part 000
+sentences:
+FranceFranceNNPGPEPER0's'sPOSOPER0industrialindustrialJJOPER0productionproductionNNOPER0indexindexNNOPER0forforINOPER0JulyJulyNNPDATEPER0andandCCOPER0AugustAugustNNPDATEPER0roseriseVBDOPER011CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0JuneJuneNNPDATEPER0andandCCOPER0wasbeVBDOPER0upupRPOPER04.64.6CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0seasonallyseasonallyRBOPER0adjustedadjustVBNOPER0datadatumNNSOPER0fromfromINOPER0thetheDTORGPER0NationalNationalNNPORGPER0StatisticsStatisticsNNPSORGPER0InstituteInstituteNNPORGPER0...OPER0(ROOT (S (NP (NP (NP (NNP France) (POS 's)) (NML (JJ industrial) (NN production)) (NN index)) (PP (IN for) (NP (NNP July) (CC and) (NNP August)))) (VP (VP (VBD rose) (NP (CD 1) (NN %)) (PP (IN from) (NP (NNP June)))) (CC and) (VP (VBD was) (PRT (RP up)) (NP (CD 4.6) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago)))) (, ,) (PP (VBG according) (PP (IN to) (NP (NP (ADJP (RB seasonally) (VBN adjusted)) (NNS data)) (PP (IN from) (NP (DT the) (NNP National) (NNPS Statistics) (NNP Institute))))))) (. .)))
+ThetheDTOPER0statestateNNOPER0agencyagencyNNOPER0,,,OPER0whichwhichWDTOPER0usuallyusuallyRBOPER0publishespublishVBZOPER0thetheDTOPER0datadatumNNSOPER0ononINOPER0monthlymonthlyJJDATEPER0basisbasisNNOPER0,,,OPER0butbutCCOPER0traditionallytraditionallyRBOPER0combinescombineVBZOPER0thetheDTOPER0indexindexNNOPER0forforINOPER0thetheDTDATEPER0twotwoCDDATEPER0summersummerNNDATEPER0--HYPHDATEPER0holidayholidayNNDATEPER0monthsmonthNNSDATEPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0advanceadvanceNNOPER0wasbeVBDOPER0ledleadVBNOPER0bybyINOPER0outputoutputNNOPER0ofofINOPER0consumerconsumerNNOPER0goodsgoodsNNSOPER0,,,OPER0whichwhichWDTOPER0roseriseVBDOPER03.53.5CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0JuneJuneNNPDATEPER0andandCCOPER0wasbeVBDOPER0upupRPOPER07.27.2CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN state) (NN agency)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB usually)) (VP (VP (VBZ publishes) (NP (DT the) (NNS data)) (PP (IN on) (NP (JJ monthly) (NN basis)))) (, ,) (CC but) (ADVP (RB traditionally)) (VP (VBZ combines) (NP (NP (DT the) (NN index)) (PP (IN for) (NP (DT the) (CD two) (NML (NN summer) (HYPH -) (NN holiday)) (NNS months)))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN advance)) (VP (VBD was) (VP (VBN led) (PP (IN by) (NP (NP (NP (NN output)) (PP (IN of) (NP (NN consumer) (NNS goods)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD rose) (NP (CD 3.5) (NN %)) (PP (IN from) (NP (NNP June)))) (CC and) (VP (VBD was) (PRT (RP up)) (NP (CD 7.2) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))))))))) (. .)))
+SemifinishedsemifinishVBNOPER0goodsgoodsNNSOPER0turnedturnVBDOPER0ininRPOPER0aaDTOPER0strongstrongJJOPER0showingshowingNNOPER0,,,OPER0withwithINOPER0aaDTOPER0monthlymonthlyJJDATEPER0riseriseNNOPER0ofofINOPER022CDPERCENTPER0%%NNPERCENTPER0andandCCOPER0aaDTOPER0yearyearNNDATEPER0--HYPHOPER0ononRPOPER0--HYPHDATEPER0yearyearNNDATEPER0advanceadvanceNNOPER0ofofINOPER033CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (VBN Semifinished) (NNS goods)) (VP (VBD turned) (PRT (RP in)) (NP (DT a) (JJ strong) (NN showing)) (, ,) (PP (IN with) (NP (NP (NP (DT a) (JJ monthly) (NN rise)) (PP (IN of) (NP (CD 2) (NN %)))) (CC and) (NP (NP (DT a) (NML (NML (NN year) (HYPH -) (RP on)) (HYPH -) (NN year)) (NN advance)) (PP (IN of) (NP (CD 3) (NN %))))))) (. .)))
+FoodfoodNNOPER0productionproductionNNOPER0wasbeVBDOPER0aheadaheadRBOPER01.71.7CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0JuneJuneNNPDATEPER0andandCCOPER05.35.3CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (NN Food) (NN production)) (VP (VP (VBD was) (ADVP (RB ahead) (NP (CD 1.7) (NN %))) (PP (IN from) (NP (NNP June)))) (CC and) (VP (NP (CD 5.3) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+OutputoutputNNOPER0ininINOPER0thetheDTOPER0capitalcapitalNNOPER0--HYPHOPER0goodsgoodsNNSOPER0sectorsectorNNOPER0wasbeVBDOPER0aheadaheadRBOPER00.90.9CDPERCENTPER0%%NNPERCENTPER0ononINOPER0aaDTOPER0monthlymonthlyJJDATEPER0basisbasisNNOPER0andandCCOPER02.72.7CDPERCENTPER0%%NNPERCENTPER0yearyearNNDATEPER0ononINOPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (NN Output)) (PP (IN in) (NP (DT the) (NML (NN capital) (HYPH -) (NNS goods)) (NN sector)))) (VP (VBD was) (ADVP (RB ahead)) (NP (CD 0.9) (NN %)) (PP (IN on) (NP (DT a) (JJ monthly) (NN basis) (CC and) (NP (NP (CD 2.7) (NN %)) (NP (NP (NN year)) (PP (IN on) (NP (NN year)))))))) (. .)))
+ThesetheseDTOPER0gainsgainNNSOPER0werebeVBDOPER0partlypartlyRBOPER0offsetoffsetVBNOPER0bybyINOPER0outputoutputNNOPER0ofofINOPER0carscarNNSOPER0andandCCOPER0otherotherJJOPER0consumerconsumerNNOPER0durablesdurableNNSOPER0,,,OPER0whichwhichWDTOPER0easedeaseVBDOPER03.93.9CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0JuneJuneNNPDATEPER0's'sPOSOPER0highhighJJOPER0levellevelNNOPER0...OPER0(ROOT (S (NP (DT These) (NNS gains)) (VP (VBD were) (ADVP (RB partly)) (VP (VBN offset) (PP (IN by) (NP (NP (NP (NN output)) (PP (IN of) (NP (NP (NNS cars)) (CC and) (NP (JJ other) (NN consumer) (NNS durables))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD eased) (NP (CD 3.9) (NN %)) (PP (IN from) (NP (NP (NNP June) (POS 's)) (JJ high) (NN level)))))))))) (. .)))
+ThetheDTOPER0sectorsectorNNOPER0wasbeVBDOPER0stillstillRBOPER08.88.8CDPERCENTPER0%%NNPERCENTPER0aboveaboveINOPER0itsitsPRP$OPER0outputoutputNNOPER0levelslevelNNSOPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0,,,OPER0howeverhoweverRBOPER0...OPER0(ROOT (S (NP (DT The) (NN sector)) (VP (VBD was) (ADVP (RB still)) (NP (CD 8.8) (NN %)) (PP (IN above) (NP (NP (PRP$ its) (NN output) (NNS levels)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (, ,) (ADVP (RB however))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 9 headed by 4 parsed as (NP (NP (NP (NNP France) (POS 's)) (NML (JJ industrial) (NN production)) (NN index)) (PP (IN for) (NP (NNP July) (CC and) (NNP August))))
+sid=0 spanning 6 until 9 headed by 6 parsed as (NP (NNP July) (CC and) (NNP August))
+sid=0 spanning 9 until 10 headed by 9 parsed as rose
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP June))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (DT a) (NN year))
+sid=0 spanning 26 until 34 headed by 28 parsed as (NP (NP (ADJP (RB seasonally) (VBN adjusted)) (NNS data)) (PP (IN from) (NP (DT the) (NNP National) (NNPS Statistics) (NNP Institute))))
+sid=0 spanning 30 until 34 headed by 33 parsed as (NP (DT the) (NNP National) (NNPS Statistics) (NNP Institute))
+sid=1 spanning 0 until 26 headed by 2 parsed as (NP (NP (DT The) (NN state) (NN agency)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB usually)) (VP (VP (VBZ publishes) (NP (DT the) (NNS data)) (PP (IN on) (NP (JJ monthly) (NN basis)))) (, ,) (CC but) (ADVP (RB traditionally)) (VP (VBZ combines) (NP (NP (DT the) (NN index)) (PP (IN for) (NP (DT the) (CD two) (NML (NN summer) (HYPH -) (NN holiday)) (NNS months)))))))) (, ,))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNS data))
+sid=1 spanning 16 until 25 headed by 17 parsed as (NP (NP (DT the) (NN index)) (PP (IN for) (NP (DT the) (CD two) (NML (NN summer) (HYPH -) (NN holiday)) (NNS months))))
+sid=1 spanning 19 until 25 headed by 24 parsed as (NP (DT the) (CD two) (NML (NN summer) (HYPH -) (NN holiday)) (NNS months))
+sid=1 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN advance))
+sid=1 spanning 42 until 43 headed by 42 parsed as (NP (NNP June))
+sid=1 spanning 49 until 51 headed by 50 parsed as (NP (DT a) (NN year))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP June))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT a) (NN year))
+sid=4 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NN capital) (HYPH -) (NNS goods)) (NN sector))
+sid=5 spanning 19 until 21 headed by 19 parsed as (NP (NNP June) (POS 's))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN sector))
+sid=6 spanning 7 until 8 headed by 7 parsed as its
+sid=6 spanning 11 until 13 headed by 12 parsed as (NP (DT a) (NN year))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 4 parsed as (NP (NP (NP (NNP France) (POS 's)) (NML (JJ industrial) (NN production)) (NN index)) (PP (IN for) (NP (NNP July) (CC and) (NNP August))))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP France) (POS 's))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP July) (CC and) (NNP August))
+sid=0 spanning 6 until 9 headed by 6 parsed as (NP (NNP July) (CC and) (NNP August))
+sid=0 spanning 8 until 9 headed by 8 parsed as August
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP June))
+sid=0 spanning 20 until 23 headed by 22 parsed as ago
+sid=0 spanning 26 until 34 headed by 28 parsed as (NP (NP (ADJP (RB seasonally) (VBN adjusted)) (NNS data)) (PP (IN from) (NP (DT the) (NNP National) (NNPS Statistics) (NNP Institute))))
+sid=0 spanning 30 until 34 headed by 33 parsed as (NP (DT the) (NNP National) (NNPS Statistics) (NNP Institute))
+sid=1 spanning 0 until 26 headed by 2 parsed as (NP (NP (DT The) (NN state) (NN agency)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB usually)) (VP (VP (VBZ publishes) (NP (DT the) (NNS data)) (PP (IN on) (NP (JJ monthly) (NN basis)))) (, ,) (CC but) (ADVP (RB traditionally)) (VP (VBZ combines) (NP (NP (DT the) (NN index)) (PP (IN for) (NP (DT the) (CD two) (NML (NN summer) (HYPH -) (NN holiday)) (NNS months)))))))) (, ,))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN state) (NN agency))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNS data))
+sid=1 spanning 10 until 11 headed by 10 parsed as monthly
+sid=1 spanning 16 until 25 headed by 17 parsed as (NP (NP (DT the) (NN index)) (PP (IN for) (NP (DT the) (CD two) (NML (NN summer) (HYPH -) (NN holiday)) (NNS months))))
+sid=1 spanning 19 until 25 headed by 24 parsed as (NP (DT the) (CD two) (NML (NN summer) (HYPH -) (NN holiday)) (NNS months))
+sid=1 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN advance))
+sid=1 spanning 32 until 52 headed by 32 parsed as (NP (NP (NP (NN output)) (PP (IN of) (NP (NN consumer) (NNS goods)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD rose) (NP (CD 3.5) (NN %)) (PP (IN from) (NP (NNP June)))) (CC and) (VP (VBD was) (PRT (RP up)) (NP (CD 7.2) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))))
+sid=1 spanning 32 until 36 headed by 32 parsed as (NP (NP (NN output)) (PP (IN of) (NP (NN consumer) (NNS goods))))
+sid=1 spanning 34 until 36 headed by 35 parsed as (NP (NN consumer) (NNS goods))
+sid=1 spanning 42 until 43 headed by 42 parsed as (NP (NNP June))
+sid=1 spanning 49 until 52 headed by 51 parsed as earlier
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (VBN Semifinished) (NNS goods))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (JJ strong) (NN showing))
+sid=2 spanning 9 until 26 headed by 11 parsed as (NP (NP (NP (DT a) (JJ monthly) (NN rise)) (PP (IN of) (NP (CD 2) (NN %)))) (CC and) (NP (NP (DT a) (NML (NML (NN year) (HYPH -) (RP on)) (HYPH -) (NN year)) (NN advance)) (PP (IN of) (NP (CD 3) (NN %)))))
+sid=2 spanning 9 until 15 headed by 11 parsed as (NP (NP (DT a) (JJ monthly) (NN rise)) (PP (IN of) (NP (CD 2) (NN %))))
+sid=2 spanning 10 until 11 headed by 10 parsed as monthly
+sid=2 spanning 16 until 26 headed by 22 parsed as (NP (NP (DT a) (NML (NML (NN year) (HYPH -) (RP on)) (HYPH -) (NN year)) (NN advance)) (PP (IN of) (NP (CD 3) (NN %))))
+sid=2 spanning 17 until 18 headed by 17 parsed as year
+sid=2 spanning 20 until 22 headed by 21 parsed as year
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NN Food) (NN production))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP June))
+sid=3 spanning 12 until 15 headed by 14 parsed as earlier
+sid=4 spanning 0 until 7 headed by 0 parsed as (NP (NP (NN Output)) (PP (IN in) (NP (DT the) (NML (NN capital) (HYPH -) (NNS goods)) (NN sector))))
+sid=4 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NN capital) (HYPH -) (NNS goods)) (NN sector))
+sid=4 spanning 12 until 21 headed by 14 parsed as (NP (DT a) (JJ monthly) (NN basis) (CC and) (NP (NP (CD 2.7) (NN %)) (NP (NP (NN year)) (PP (IN on) (NP (NN year))))))
+sid=4 spanning 13 until 14 headed by 13 parsed as monthly
+sid=4 spanning 18 until 21 headed by 18 parsed as (NP (NP (NN year)) (PP (IN on) (NP (NN year))))
+sid=4 spanning 20 until 21 headed by 20 parsed as (NP (NN year))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT These) (NNS gains))
+sid=5 spanning 6 until 23 headed by 6 parsed as (NP (NP (NP (NN output)) (PP (IN of) (NP (NP (NNS cars)) (CC and) (NP (JJ other) (NN consumer) (NNS durables))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD eased) (NP (CD 3.9) (NN %)) (PP (IN from) (NP (NP (NNP June) (POS 's)) (JJ high) (NN level)))))))
+sid=5 spanning 6 until 13 headed by 6 parsed as (NP (NP (NN output)) (PP (IN of) (NP (NP (NNS cars)) (CC and) (NP (JJ other) (NN consumer) (NNS durables)))))
+sid=5 spanning 8 until 13 headed by 8 parsed as (NP (NP (NNS cars)) (CC and) (NP (JJ other) (NN consumer) (NNS durables)))
+sid=5 spanning 8 until 9 headed by 8 parsed as (NP (NNS cars))
+sid=5 spanning 10 until 13 headed by 12 parsed as (NP (JJ other) (NN consumer) (NNS durables))
+sid=5 spanning 19 until 23 headed by 22 parsed as (NP (NP (NNP June) (POS 's)) (JJ high) (NN level))
+sid=5 spanning 19 until 21 headed by 19 parsed as (NP (NNP June) (POS 's))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN sector))
+sid=6 spanning 7 until 14 headed by 9 parsed as (NP (NP (PRP$ its) (NN output) (NNS levels)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))
+sid=6 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=6 spanning 11 until 14 headed by 13 parsed as earlier
+(end predicted mentions)
+---------gold clusters--------
+7 6 | { 'The state agency , which usually publishes the data on monthly basis , but traditionally combines the index for the two summer - holiday months ,' 'the National Statistics Institute' }
+11 2 | { 'the advance' 'rose' }
+5 8 | { 'seasonally adjusted data from the National Statistics Institute' 'the data' }
+18 19 16 | { 'The sector' 'its' 'the capital - goods sector' }
+3 17 14 12 | { 'June' 'June 's' 'June' 'June' }
+1 10 | { 'July and August' 'the two summer - holiday months' }
+20 15 4 13 | { 'a year' 'a year' 'a year' 'a year' }
+0 9 | { 'France 's industrial production index for July and August' 'the index for the two summer - holiday months' }
+(end gold clusters)

@@ -1,0 +1,71 @@
+---------gloss--------
+(0) [1m[31m{Lion Nathan Ltd.}[0m [1m[32m{agreed}[0m to buy [35m{the franchise to bottle , distribute and market Pepsi - Cola soft - drink products in Australia}[0m , [1m[31m{the company}[0m said . 
+(1) [1m[31m{The New Zealand brewing and retail concern}[0m did n't disclose terms . 
+(2) [1m[32m{The agreement}[0m is effective Jan. 1 and is subject to approval from [36m{Australia 's}[0m Foreign Investment Review Board . 
+(3) [1m[33m{Cadbury Schweppes Australia Ltd.}[0m has held [35m{the Australian Pepsi franchise}[0m for the past four years . 
+(4) [1m[31m{Lion Nathan}[0m and PepsiCola Australia , a unit of [1m[34m{PepsiCo Inc. of the U.S.}[0m , did n't say why [1m[33m{Cadbury Schweppes}[0m will no longer hold [35m{the franchise}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1167); part 000
+sentences:
+LionLionNNPORGPER0NathanNathanNNPORGPER0Ltd.Ltd.NNPORGPER0agreedagreeVBDOPER0totoTOOPER0buybuyVBOPER0thetheDTOPER0franchisefranchiseNNOPER0totoTOOPER0bottlebottleNNOPER0,,,OPER0distributedistributeVBOPER0andandCCOPER0marketmarketVBOPER0PepsiPepsiNNPORGPER0--HYPHOPER0ColaColaNNPOPER0softsoftJJOPER0--HYPHOPER0drinkdrinkNNOPER0productsproductNNSOPER0ininINOPER0AustraliaAustraliaNNPGPEPER0,,,OPER0thetheDTOPER0companycompanyNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NNP Lion) (NNP Nathan) (NNP Ltd.)) (VP (VBD agreed) (S (VP (TO to) (VP (VB buy) (NP (NP (DT the) (NN franchise)) (SBAR (S (VP (TO to) (VP (NN bottle) (, ,) (VB distribute) (CC and) (VB market) (NP (NML (NNP Pepsi) (HYPH -) (NNP Cola)) (NML (JJ soft) (HYPH -) (NN drink)) (NNS products)) (PP (IN in) (NP (NNP Australia))))))))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+ThetheDTOPER0NewNewNNPGPEPER0ZealandZealandNNPGPEPER0brewingbrewingNNOPER0andandCCOPER0retailretailNNOPER0concernconcernNNOPER0diddoVBDOPER0n'tnotRBOPER0disclosediscloseVBOPER0termstermNNSOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP New) (NNP Zealand)) (NML (NN brewing) (CC and) (NN retail)) (NN concern)) (VP (VBD did) (RB n't) (VP (VB disclose) (NP (NNS terms)))) (. .)))
+ThetheDTOPER0agreementagreementNNOPER0isbeVBZOPER0effectiveeffectiveJJOPER0Jan.Jan.NNPDATEPER011CDDATEPER0andandCCOPER0isbeVBZOPER0subjectsubjectJJOPER0totoINOPER0approvalapprovalNNOPER0fromfromINOPER0AustraliaAustraliaNNPGPEPER0's'sPOSOPER0ForeignForeignNNPORGPER0InvestmentInvestmentNNPORGPER0ReviewReviewNNPORGPER0BoardBoardNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NN agreement)) (VP (VP (VBZ is) (ADJP (JJ effective) (NP (NNP Jan.) (CD 1)))) (CC and) (VP (VBZ is) (ADJP (JJ subject) (PP (IN to) (NP (NP (NN approval)) (PP (IN from) (NP (NP (NNP Australia) (POS 's)) (NML (NML (NNP Foreign) (NNP Investment)) (NNP Review)) (NNP Board)))))))) (. .)))
+CadburyCadburyNNPORGPER0SchweppesSchweppesNNPORGPER0AustraliaAustraliaNNPORGPER0Ltd.Ltd.NNPORGPER0hashaveVBZOPER0heldholdVBNOPER0thetheDTOPER0AustralianAustralianNNPOPER0PepsiPepsiNNPORGPER0franchisefranchiseNNOPER0forforINOPER0thetheDTDATEPER0pastpastJJDATEPER0fourfourCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NML (NNP Cadbury) (NNP Schweppes)) (NNP Australia) (NNP Ltd.)) (VP (VBZ has) (VP (VBN held) (S (NP (NP (DT the) (NML (NNP Australian) (NNP Pepsi)) (NN franchise)) (PP (IN for) (NP (DT the) (JJ past) (CD four) (NNS years))))))) (. .)))
+LionLionNNPORGPER0NathanNathanNNPORGPER0andandCCOPER0PepsiColaPepsiColaNNPORGPER0AustraliaAustraliaNNPORGPER0,,,OPER0aaDTOPER0unitunitNNOPER0ofofINOPER0PepsiCoPepsiCoNNPORGPER0Inc.Inc.NNPORGPER0ofofINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0,,,OPER0diddoVBDOPER0n'tnotRBOPER0saysayVBOPER0whywhyWRBOPER0CadburyCadburyNNPORGPER0SchweppesSchweppesNNPORGPER0willwillMDOPER0nonoRBOPER0longerlongerRBOPER0holdholdVBOPER0thetheDTOPER0franchisefranchiseNNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Lion) (NNP Nathan)) (CC and) (NP (NNP PepsiCola) (NNP Australia))) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP PepsiCo) (NNP Inc.)) (PP (IN of) (NP (DT the) (NNP U.S.)))))) (, ,)) (VP (VBD did) (RB n't) (VP (VB say) (SBAR (WHADVP (WRB why)) (S (NP (NNP Cadbury) (NNP Schweppes)) (VP (MD will) (ADVP (RB no) (RB longer)) (VP (VB hold) (NP (DT the) (NN franchise)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Lion) (NNP Nathan) (NNP Ltd.))
+sid=0 spanning 3 until 4 headed by 3 parsed as agreed
+sid=0 spanning 6 until 23 headed by 7 parsed as (NP (NP (DT the) (NN franchise)) (SBAR (S (VP (TO to) (VP (NN bottle) (, ,) (VB distribute) (CC and) (VB market) (NP (NML (NNP Pepsi) (HYPH -) (NNP Cola)) (NML (JJ soft) (HYPH -) (NN drink)) (NNS products)) (PP (IN in) (NP (NNP Australia))))))))
+sid=0 spanning 14 until 17 headed by 16 parsed as Cola
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNP Australia))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN company))
+sid=1 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NML (NNP New) (NNP Zealand)) (NML (NN brewing) (CC and) (NN retail)) (NN concern))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agreement))
+sid=2 spanning 12 until 14 headed by 12 parsed as (NP (NNP Australia) (POS 's))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Cadbury) (NNP Schweppes)) (NNP Australia) (NNP Ltd.))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (NP (DT the) (NML (NNP Australian) (NNP Pepsi)) (NN franchise)) (PP (IN for) (NP (DT the) (JJ past) (CD four) (NNS years))))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NP (NP (NNP Lion) (NNP Nathan)) (CC and) (NP (NNP PepsiCola) (NNP Australia))) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP PepsiCo) (NNP Inc.)) (PP (IN of) (NP (DT the) (NNP U.S.)))))) (, ,))
+sid=4 spanning 9 until 14 headed by 10 parsed as (NP (NP (NNP PepsiCo) (NNP Inc.)) (PP (IN of) (NP (DT the) (NNP U.S.))))
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (NNP Cadbury) (NNP Schweppes))
+sid=4 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN franchise))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Lion) (NNP Nathan) (NNP Ltd.))
+sid=0 spanning 6 until 23 headed by 7 parsed as (NP (NP (DT the) (NN franchise)) (SBAR (S (VP (TO to) (VP (NN bottle) (, ,) (VB distribute) (CC and) (VB market) (NP (NML (NNP Pepsi) (HYPH -) (NNP Cola)) (NML (JJ soft) (HYPH -) (NN drink)) (NNS products)) (PP (IN in) (NP (NNP Australia))))))))
+sid=0 spanning 14 until 21 headed by 20 parsed as (NP (NML (NNP Pepsi) (HYPH -) (NNP Cola)) (NML (JJ soft) (HYPH -) (NN drink)) (NNS products))
+sid=0 spanning 14 until 15 headed by 14 parsed as Pepsi
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNP Australia))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN company))
+sid=1 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NML (NNP New) (NNP Zealand)) (NML (NN brewing) (CC and) (NN retail)) (NN concern))
+sid=1 spanning 1 until 3 headed by 2 parsed as Zealand
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNS terms))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agreement))
+sid=2 spanning 4 until 6 headed by 4 parsed as (NP (NNP Jan.) (CD 1))
+sid=2 spanning 10 until 18 headed by 10 parsed as (NP (NP (NN approval)) (PP (IN from) (NP (NP (NNP Australia) (POS 's)) (NML (NML (NNP Foreign) (NNP Investment)) (NNP Review)) (NNP Board))))
+sid=2 spanning 12 until 18 headed by 17 parsed as (NP (NP (NNP Australia) (POS 's)) (NML (NML (NNP Foreign) (NNP Investment)) (NNP Review)) (NNP Board))
+sid=2 spanning 12 until 14 headed by 12 parsed as (NP (NNP Australia) (POS 's))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Cadbury) (NNP Schweppes)) (NNP Australia) (NNP Ltd.))
+sid=3 spanning 6 until 15 headed by 9 parsed as (NP (NP (DT the) (NML (NNP Australian) (NNP Pepsi)) (NN franchise)) (PP (IN for) (NP (DT the) (JJ past) (CD four) (NNS years))))
+sid=3 spanning 8 until 9 headed by 8 parsed as Pepsi
+sid=3 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (JJ past) (CD four) (NNS years))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NP (NP (NNP Lion) (NNP Nathan)) (CC and) (NP (NNP PepsiCola) (NNP Australia))) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP PepsiCo) (NNP Inc.)) (PP (IN of) (NP (DT the) (NNP U.S.)))))) (, ,))
+sid=4 spanning 0 until 15 headed by 1 parsed as (NP (NP (NP (NNP Lion) (NNP Nathan)) (CC and) (NP (NNP PepsiCola) (NNP Australia))) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP PepsiCo) (NNP Inc.)) (PP (IN of) (NP (DT the) (NNP U.S.)))))) (, ,))
+sid=4 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Lion) (NNP Nathan)) (CC and) (NP (NNP PepsiCola) (NNP Australia)))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (NNP PepsiCola) (NNP Australia))
+sid=4 spanning 6 until 14 headed by 7 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP PepsiCo) (NNP Inc.)) (PP (IN of) (NP (DT the) (NNP U.S.))))))
+sid=4 spanning 9 until 14 headed by 10 parsed as (NP (NP (NNP PepsiCo) (NNP Inc.)) (PP (IN of) (NP (DT the) (NNP U.S.))))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNP U.S.))
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (NNP Cadbury) (NNP Schweppes))
+sid=4 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN franchise))
+(end predicted mentions)
+---------gold clusters--------
+10 14 2 | { 'the Australian Pepsi franchise' 'the franchise' 'the franchise to bottle , distribute and market Pepsi - Cola soft - drink products in Australia' }
+8 4 | { 'Australia 's' 'Australia' }
+0 6 11 5 | { 'Lion Nathan Ltd.' 'The New Zealand brewing and retail concern' 'Lion Nathan' 'the company' }
+7 1 | { 'The agreement' 'agreed' }
+9 13 | { 'Cadbury Schweppes Australia Ltd.' 'Cadbury Schweppes' }
+3 12 | { 'Pepsi - Cola' 'PepsiCo Inc. of the U.S.' }
+(end gold clusters)

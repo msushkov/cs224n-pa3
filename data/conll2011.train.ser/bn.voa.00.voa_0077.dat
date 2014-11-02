@@ -1,0 +1,47 @@
+---------gloss--------
+(0) [33m{The United States}[0m is requesting more co-operation from Yemen in [34m{the investigation of the terrorist attack on the USS Cole that killed 17 US sailors}[0m . 
+(1) US State Department spokesman Richard Boucher said [33m{the US}[0m wants complete access to the findings of Yemeni investigators . 
+(2) In addition , President Clinton has written to Yemeni President Ali Abdullah Saleh requesting increased co-operation into [34m{the investigation of last month 's attack}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0077); part 000
+sentences:
+ThetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0isbeVBZOPER0requestingrequestVBGOPER0moremoreJJROPER0co-operationco-operationNNOPER0fromfromINOPER0YemenYemenNNPGPEPER0ininINOPER0thetheDTOPER0investigationinvestigationNNOPER0ofofINOPER0thetheDTOPER0terroristterroristJJOPER0attackattackNNOPER0ononINOPER0thetheDTPRODUCTPER0USSUSSNNPPRODUCTPER0ColeColeNNPPRODUCTPER0thatthatWDTOPER0killedkillVBDOPER01717CDCARDINALPER0USUSNNPGPEPER0sailorssailorNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP States)) (VP (VBZ is) (VP (VBG requesting) (NP (JJR more) (NN co-operation)) (PP (IN from) (NP (NNP Yemen))) (PP (IN in) (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (NNP USS) (NNP Cole))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors))))))))))) (. .)))
+USUSNNPORGPER0StateStateNNPORGPER0DepartmentDepartmentNNPORGPER0spokesmanspokesmanNNOPER0RichardRichardNNPPERSONPER0BoucherBoucherNNPPERSONPER0saidsayVBDOPER0thetheDTOPER0USUSNNPGPEPER0wantswantVBZOPER0completecompleteJJOPER0accessaccessNNOPER0totoINOPER0thetheDTOPER0findingsfindingNNSOPER0ofofINOPER0YemeniyemeniJJOPER0investigatorsinvestigatorNNSOPER0...OPER0(ROOT (S (NP (NML (NML (NNP US) (NNP State) (NNP Department)) (NN spokesman)) (NNP Richard) (NNP Boucher)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP US)) (VP (VBZ wants) (NP (NP (JJ complete) (NN access)) (PP (IN to) (NP (NP (DT the) (NNS findings)) (PP (IN of) (NP (JJ Yemeni) (NNS investigators)))))))))) (. .)))
+IninINOPER0additionadditionNNOPER0,,,OPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0hashaveVBZOPER0writtenwriteVBNOPER0totoINOPER0YemeniyemeniJJOPER0PresidentPresidentNNPOPER0AliAliNNPPERSONPER0AbdullahAbdullahNNPPERSONPER0SalehSalehNNPPERSONPER0requestingrequestVBGOPER0increasedincreaseVBNOPER0co-operationco-operationNNOPER0intointoINOPER0thetheDTOPER0investigationinvestigationNNOPER0ofofINOPER0lastlastJJDATEPER0monthmonthNNDATEPER0's'sPOSDATEPER0attackattackNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP President) (NNP Clinton)) (VP (VBZ has) (VP (VBN written) (PP (IN to) (S (NP (NP (JJ Yemeni) (NNP President)) (NP (NNP Ali) (NNP Abdullah) (NNP Saleh))) (VP (VBG requesting) (NP (VBN increased) (NN co-operation)) (PP (IN into) (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (JJ last) (NN month) (POS 's)) (NN attack)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP States))
+sid=0 spanning 10 until 25 headed by 11 parsed as (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (NNP USS) (NNP Cole))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors))))))))
+sid=0 spanning 13 until 25 headed by 15 parsed as (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (NNP USS) (NNP Cole))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors))))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNP US))
+sid=2 spanning 17 until 24 headed by 18 parsed as (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (JJ last) (NN month) (POS 's)) (NN attack))))
+sid=2 spanning 20 until 24 headed by 23 parsed as (NP (NP (JJ last) (NN month) (POS 's)) (NN attack))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP States))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (JJR more) (NN co-operation))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Yemen))
+sid=0 spanning 10 until 25 headed by 11 parsed as (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (NNP USS) (NNP Cole))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors))))))))
+sid=0 spanning 13 until 25 headed by 15 parsed as (NP (NP (DT the) (JJ terrorist) (NN attack)) (PP (IN on) (NP (DT the) (NNP USS) (NNP Cole))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP US) (NNS sailors))))))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP USS) (NNP Cole))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (CD 17) (NNP US) (NNS sailors))
+sid=0 spanning 23 until 24 headed by 23 parsed as US
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (NML (NML (NNP US) (NNP State) (NNP Department)) (NN spokesman)) (NNP Richard) (NNP Boucher))
+sid=1 spanning 0 until 3 headed by 2 parsed as Department
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNP US))
+sid=1 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT the) (NNS findings)) (PP (IN of) (NP (JJ Yemeni) (NNS investigators))))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (JJ Yemeni) (NNS investigators))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (NNP President) (NNP Clinton))
+sid=2 spanning 8 until 13 headed by 9 parsed as (NP (NP (JJ Yemeni) (NNP President)) (NP (NNP Ali) (NNP Abdullah) (NNP Saleh)))
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (NNP Ali) (NNP Abdullah) (NNP Saleh))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (VBN increased) (NN co-operation))
+sid=2 spanning 17 until 24 headed by 18 parsed as (NP (NP (DT the) (NN investigation)) (PP (IN of) (NP (NP (JJ last) (NN month) (POS 's)) (NN attack))))
+sid=2 spanning 20 until 23 headed by 21 parsed as (NP (JJ last) (NN month) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+3 0 | { 'the US' 'The United States' }
+4 1 | { 'the investigation of last month 's attack' 'the investigation of the terrorist attack on the USS Cole that killed 17 US sailors' }
+5 2 | { 'last month 's attack' 'the terrorist attack on the USS Cole that killed 17 US sailors' }
+(end gold clusters)

@@ -1,0 +1,87 @@
+---------gloss--------
+(0) [3m[35m{Tornadoes}[0m have hit [3m[34m{the southern state of Alabama}[0m as rain , hail and snow continued to pound the United States . 
+(1) Warren Beck is the Mayor of [3m[36m{one hard hit Alabama town}[0m . 
+(2) [4m[31m{We}[0m are used to floods , [4m[31m{our}[0m city 's been flooded two or three times and of course [4m[31m{we}[0m are close to the Gulf where [4m[31m{we}[0m 're used to hurricanes but [4m[31m{we}[0m are kind of low , [4m[31m{we}[0m 're [3m[36m{a low city}[0m and [4m[31m{we}[0m are not used to tornadoes . 
+(3) At least five people were reported killed in [3m[34m{Alabama}[0m , thirty injured when [3m[35m{a series of twisters}[0m struck parts of [3m[34m{the rural state}[0m . 
+(4) Meanwhile , in the central United States from Texas in the south to the northern plains , North Dakota , hundreds of thousands of people remained without electricity . 
+(5) I am Dave Deforest , VOA News . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0171); part 000
+sentences:
+TornadoestornadoNNSOPER0havehaveVBPOPER0hithitVBNOPER0thetheDTOPER0southernsouthernJJOPER0statestateNNOPER0ofofINOPER0AlabamaAlabamaNNPORGPER0asasINOPER0rainrainNNOPER0,,,OPER0hailhailNNOPER0andandCCOPER0snowsnowNNOPER0continuedcontinueVBDOPER0totoTOOPER0poundpoundNNOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (NP (NNS Tornadoes)) (VP (VBP have) (VP (VBN hit) (NP (NP (DT the) (JJ southern) (NN state)) (PP (IN of) (NP (NNP Alabama)))) (SBAR (IN as) (S (NP (NN rain) (, ,) (NN hail) (CC and) (NN snow)) (VP (VBD continued) (S (VP (TO to) (VP (NN pound) (NP (DT the) (NNP United) (NNP States)))))))))) (. .)))
+WarrenWarrenNNPPERSONPER0BeckBeckNNPPERSONPER0isbeVBZOPER0thetheDTOPER0MayorMayorNNPOPER0ofofINOPER0oneoneCDCARDINALPER0hardhardRBOPER0hithitVBNOPER0AlabamaAlabamaNNPGPEPER0towntownNNOPER0...OPER0(ROOT (S (NP (NNP Warren) (NNP Beck)) (VP (VBZ is) (NP (NP (DT the) (NNP Mayor)) (PP (IN of) (NP (CD one) (ADJP (RB hard) (VBN hit)) (NNP Alabama) (NN town))))) (. .)))
+WewePRPOPER0arebeVBPOPER0usedusedJJOPER0totoINOPER0floodsfloodNNSOPER0,,,OPER0ourwePRP$OPER0citycityNNOPER0'sbeVBZOPER0beenbeVBNOPER0floodedfloodVBNOPER0twotwoCDCARDINALPER0ororCCCARDINALPER0threethreeCDCARDINALPER0timestimeNNSOPER0andandCCOPER0ofofRBOPER0coursecourseRBOPER0wewePRPOPER0arebeVBPOPER0closecloseJJOPER0totoINOPER0thetheDTOPER0GulfGulfNNPLOCPER0wherewhereWRBOPER0wewePRPOPER0'rebeVBPOPER0usedusedJJOPER0totoINOPER0hurricaneshurricaneNNSOPER0butbutCCOPER0wewePRPOPER0arebeVBPOPER0kindkindRBOPER0ofofRBOPER0lowlowJJOPER0,,,OPER0wewePRPOPER0'rebeVBPOPER0aaDTOPER0lowlowJJOPER0citycityNNOPER0andandCCOPER0wewePRPOPER0arebeVBPOPER0notnotRBOPER0usedusedJJOPER0totoINOPER0tornadoestornadoNNSOPER0...OPER0(ROOT (S (S (NP (PRP We)) (VP (VBP are) (ADJP (JJ used) (PP (IN to) (NP (NNS floods)))))) (, ,) (S (NP (PRP$ our) (NN city)) (VP (VBZ 's) (VP (VBN been) (VP (VBN flooded) (NP (QP (CD two) (CC or) (CD three)) (NNS times)))))) (CC and) (ADVP (RB of) (RB course)) (S (NP (PRP we)) (VP (VBP are) (ADJP (JJ close) (PP (IN to) (NP (NP (DT the) (NNP Gulf)) (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (VBP 're) (ADJP (JJ used) (PP (IN to) (NP (NNS hurricanes)))))))))))) (CC but) (S (S (NP (PRP we)) (VP (VBP are) (ADJP (ADVP (RB kind) (RB of)) (JJ low)))) (, ,) (S (NP (PRP we)) (VP (VBP 're) (NP (DT a) (JJ low) (NN city)))) (CC and) (S (NP (PRP we)) (VP (VBP are) (RB not) (ADJP (JJ used) (PP (IN to) (NP (NNS tornadoes))))))) (. .)))
+AtatINOPER0leastleastJJSOPER0fivefiveCDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0reportedreportVBNOPER0killedkillVBNOPER0ininINOPER0AlabamaAlabamaNNPGPEPER0,,,OPER0thirtythirtyCDDATEPER0injuredinjureVBNOPER0whenwhenWRBOPER0aaDTOPER0seriesseriesNNOPER0ofofINOPER0twisterstwisterNNSOPER0struckstrikeVBDOPER0partspartNNSOPER0ofofINOPER0thetheDTOPER0ruralruralJJOPER0statestateNNOPER0...OPER0(ROOT (S (S (NP (QP (ADVP (IN At) (JJS least)) (CD five)) (NNS people)) (VP (VBD were) (VP (VBN reported) (S (VP (VBN killed) (PP (IN in) (NP (NNP Alabama)))))))) (, ,) (S (NP (CD thirty)) (VP (VBN injured) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS twisters)))) (VP (VBD struck) (NP (NP (NNS parts)) (PP (IN of) (NP (DT the) (JJ rural) (NN state))))))))) (. .)))
+MeanwhilemeanwhileRBOPER0,,,OPER0ininINOPER0thetheDTOPER0centralcentralJJOPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0fromfromINOPER0TexasTexasNNPGPEPER0ininINOPER0thetheDTOPER0southsouthNNOPER0totoINOPER0thetheDTOPER0northernnorthernJJOPER0plainsplainNNSLOCPER0,,,OPER0NorthNorthNNPGPEPER0DakotaDakotaNNPGPEPER0,,,OPER0hundredshundredNNSCARDINALPER0ofofINCARDINALPER0thousandsthousandNNSCARDINALPER0ofofINOPER0peoplepeopleNNSOPER0remainedremainVBDOPER0withoutwithoutINOPER0electricityelectricityNNOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (PP (PP (IN in) (NP (DT the) (JJ central) (NNP United) (NNP States))) (PP (IN from) (NP (NNP Texas))) (PP (IN in) (NP (NP (NP (DT the) (NN south)) (PP (IN to) (NP (DT the) (JJ northern) (NNS plains)))) (, ,) (NP (NNP North) (NNP Dakota))))) (, ,) (NP (NP (QP (NNS hundreds) (IN of) (NNS thousands))) (PP (IN of) (NP (NNS people)))) (VP (VBD remained) (PP (IN without) (NP (NN electricity)))) (. .)))
+IIPRPOPER0ambeVBPOPER0DaveDaveNNPPERSONPER0DeforestDeforestNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP am) (NP (NP (NNP Dave) (NNP Deforest)) (, ,) (NP (NNP VOA) (NNP News)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNS Tornadoes))
+sid=0 spanning 3 until 8 headed by 5 parsed as (NP (NP (DT the) (JJ southern) (NN state)) (PP (IN of) (NP (NNP Alabama))))
+sid=1 spanning 6 until 11 headed by 10 parsed as (NP (CD one) (ADJP (RB hard) (VBN hit)) (NNP Alabama) (NN town))
+sid=1 spanning 9 until 10 headed by 9 parsed as Alabama
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ our) (NN city))
+sid=2 spanning 6 until 7 headed by 6 parsed as our
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (PRP we))
+sid=2 spanning 25 until 26 headed by 25 parsed as (NP (PRP we))
+sid=2 spanning 31 until 32 headed by 31 parsed as (NP (PRP we))
+sid=2 spanning 37 until 38 headed by 37 parsed as (NP (PRP we))
+sid=2 spanning 39 until 42 headed by 41 parsed as (NP (DT a) (JJ low) (NN city))
+sid=2 spanning 43 until 44 headed by 43 parsed as (NP (PRP we))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNP Alabama))
+sid=3 spanning 13 until 17 headed by 14 parsed as (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS twisters))))
+sid=3 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (JJ rural) (NN state))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNS Tornadoes))
+sid=0 spanning 3 until 8 headed by 5 parsed as (NP (NP (DT the) (JJ southern) (NN state)) (PP (IN of) (NP (NNP Alabama))))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP Alabama))
+sid=0 spanning 9 until 14 headed by 9 parsed as (NP (NN rain) (, ,) (NN hail) (CC and) (NN snow))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Warren) (NNP Beck))
+sid=1 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NNP Mayor)) (PP (IN of) (NP (CD one) (ADJP (RB hard) (VBN hit)) (NNP Alabama) (NN town))))
+sid=1 spanning 6 until 11 headed by 10 parsed as (NP (CD one) (ADJP (RB hard) (VBN hit)) (NNP Alabama) (NN town))
+sid=1 spanning 9 until 10 headed by 9 parsed as Alabama
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNS floods))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ our) (NN city))
+sid=2 spanning 6 until 7 headed by 6 parsed as (PRP$ our)
+sid=2 spanning 11 until 15 headed by 14 parsed as (NP (QP (CD two) (CC or) (CD three)) (NNS times))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (PRP we))
+sid=2 spanning 22 until 30 headed by 23 parsed as (NP (NP (DT the) (NNP Gulf)) (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (VBP 're) (ADJP (JJ used) (PP (IN to) (NP (NNS hurricanes))))))))
+sid=2 spanning 25 until 26 headed by 25 parsed as (NP (PRP we))
+sid=2 spanning 29 until 30 headed by 29 parsed as (NP (NNS hurricanes))
+sid=2 spanning 31 until 32 headed by 31 parsed as (NP (PRP we))
+sid=2 spanning 37 until 38 headed by 37 parsed as (NP (PRP we))
+sid=2 spanning 39 until 42 headed by 41 parsed as (NP (DT a) (JJ low) (NN city))
+sid=2 spanning 43 until 44 headed by 43 parsed as (NP (PRP we))
+sid=2 spanning 48 until 49 headed by 48 parsed as (NP (NNS tornadoes))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (QP (ADVP (IN At) (JJS least)) (CD five)) (NNS people))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNP Alabama))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (CD thirty))
+sid=3 spanning 13 until 17 headed by 14 parsed as (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS twisters))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNS twisters))
+sid=3 spanning 18 until 23 headed by 18 parsed as (NP (NP (NNS parts)) (PP (IN of) (NP (DT the) (JJ rural) (NN state))))
+sid=3 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (JJ rural) (NN state))
+sid=4 spanning 3 until 7 headed by 6 parsed as (NP (DT the) (JJ central) (NNP United) (NNP States))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP Texas))
+sid=4 spanning 10 until 19 headed by 11 parsed as (NP (NP (NP (DT the) (NN south)) (PP (IN to) (NP (DT the) (JJ northern) (NNS plains)))) (, ,) (NP (NNP North) (NNP Dakota)))
+sid=4 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT the) (NN south)) (PP (IN to) (NP (DT the) (JJ northern) (NNS plains))))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (DT the) (JJ northern) (NNS plains))
+sid=4 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ northern) (NNS plains))
+sid=4 spanning 17 until 19 headed by 18 parsed as (NP (NNP North) (NNP Dakota))
+sid=4 spanning 20 until 25 headed by 22 parsed as (NP (NP (QP (NNS hundreds) (IN of) (NNS thousands))) (PP (IN of) (NP (NNS people))))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP Dave) (NNP Deforest)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=5 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP Dave) (NNP Deforest)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+(end predicted mentions)
+---------gold clusters--------
+3 15 1 13 | { 'Alabama' 'the rural state' 'the southern state of Alabama' 'Alabama' }
+14 0 | { 'a series of twisters' 'Tornadoes' }
+2 5 11 | { 'one hard hit Alabama town' 'our city' 'a low city' }
+8 10 7 12 9 6 4 | { 'we' 'we' 'we' 'we' 'we' 'our' 'We' }
+(end gold clusters)

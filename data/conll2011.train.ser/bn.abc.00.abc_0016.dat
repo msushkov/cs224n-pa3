@@ -1,0 +1,219 @@
+---------gloss--------
+(0) In [1m[32m{Yemen}[0m [32m{today}[0m , Navy divers cut through the deck of [34m{the `` USS Cole ''}[0m to remove [36m{the last four sailors who died in the attack}[0m . 
+(1) [36m{Their}[0m bodies will head home tomorrow . 
+(2) On Capitol Hill [32m{today}[0m , senators were asking [1m[35m{the general who sent the `` USS Cole '' into the port of Aden in Yemen}[0m , why [1m[35m{he}[0m made that decision . 
+(3) Here 's [4m[36m{ABC 's}[0m John M Wethy . 
+(4) [1m[35m{The man who opened the door for American warships to use the port of Aden}[0m made no apologies [32m{today}[0m . 
+(5) The refueling of [34m{that ship}[0m in [33m{Aden}[0m was [1m[35m{my}[0m decision . 
+(6) [1m[35m{I}[0m want to be clear . 
+(7) [1m[35m{I}[0m pass that buck on to nobody . 
+(8) The one question all of [3m[31m{us}[0m keep hearing , Why [1m[32m{Yemen}[0m ? 
+(9) The threat conditions in [33m{Aden}[0m the specific threat conditions , were actually better than [3m[31m{we}[0m had elsewhere . 
+(10) [1m[35m{General Zinni}[0m said [4m[35m{all her ports , from the Suez Canal to the Persian Gulf ,}[0m had [4m[35m{their}[0m own problems , either credible terrorists threats , unstable governments , or harbors jammed with small boats , plus , [1m[32m{the government of Yemen}[0m wanted better relations with [3m[32m{the U.S.}[0m and had begun taking steps to control local terrorist activity , but improved relations , [1m[35m{Zinni}[0m said , did not blind [3m[32m{the U.S.}[0m to the risks . 
+(11) [1m[35m{I}[0m do n't want anyone to think [3m[31m{we}[0m ever in any instance , anywhere , ever took a risk for [1m[36m{the purpose of a better relationship with a country}[0m and put a soldier , sailor , airman or marine at risk for [1m[36m{that reason}[0m . 
+(12) Absolutely not . 
+(13) Some Republican senators wondered why [34m{the `` Cole ''}[0m and other ships were not routinely taking [1m[31m{the far safer approach of refueling at sea}[0m ? 
+(14) [31m{I}[0m think [31m{I}[0m 'm hearing [1m[35m{you}[0m say , `` [3m[31m{we}[0m do n't have enough tankers to be sure that [3m[31m{we}[0m could do [1m[31m{that}[0m . '' 
+(15) That 's [1m[35m{my}[0m sense , [31m{Senator}[0m . 
+(16) [1m[35m{The general}[0m had one more troubling message . 
+(17) [1m[34m{Terrorists}[0m are getting smarter , using nastier weapons , and as long as [1m[34m{they}[0m are willing to die in [1m[34m{their}[0m attacks , it will be virtually impossible to stop [1m[34m{them all}[0m . 
+(18) [1m[33m{John M Wethy}[0m , [4m[36m{ABC News}[0m , the Pentagon . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0016); part 000
+sentences:
+IninINOPER0YemenYemenNNPGPEPER0todaytodayNNDATEPER0,,,OPER0NavyNavyNNPORGPER0diversdiverNNSOPER0cutcutVBDOPER0throughthroughINOPER0thetheDTOPER0deckdeckNNOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0totoTOOPER0removeremoveVBOPER0thetheDTOPER0lastlastJJOPER0fourfourCDCARDINALPER0sailorssailorNNSOPER0whowhoWPOPER0dieddieVBDOPER0ininINOPER0thetheDTOPER0attackattackNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Yemen))) (NP (NN today)) (, ,) (NP (NNP Navy) (NNS divers)) (VP (VBD cut) (PP (IN through) (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))) (S (VP (TO to) (VP (VB remove) (NP (NP (DT the) (JJ last) (CD four) (NNS sailors)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN in) (NP (DT the) (NN attack))))))))))) (. .)))
+TheirtheyPRP$OPER0bodiesbodyNNSOPER0willwillMDOPER0headheadVBOPER0homehomeRBOPER0tomorrowtomorrowNNDATEPER0...OPER0(ROOT (S (NP (PRP$ Their) (NNS bodies)) (VP (MD will) (VP (VB head) (ADVP (RB home)) (NP (NN tomorrow)))) (. .)))
+OnonINOPER0CapitolCapitolNNPORGPER0HillHillNNPORGPER0todaytodayNNDATEPER0,,,OPER0senatorssenatorNNSOPER0werebeVBDOPER0askingaskVBGOPER0thetheDTOPER0generalgeneralNNOPER0whowhoWPOPER0sentsendVBDOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER2ColeColeNNPPRODUCTPER2''''''PRODUCTPER0intointoINOPER0thetheDTOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0ininINOPER0YemenYemenNNPGPEPER0,,,OPER0whywhyWRBOPER0hehePRPOPER0mademakeVBDOPER0thatthatDTOPER0decisiondecisionNNOPER0...OPER0(ROOT (S (PP (IN On) (NP (NNP Capitol) (NNP Hill))) (NP (NN today)) (, ,) (NP (NNS senators)) (VP (VBD were) (VP (VBG asking) (NP (NP (DT the) (NN general)) (SBAR (WHNP (WP who)) (S (VP (VBD sent) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')) (PP (IN into) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))) (PP (IN in) (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD made) (NP (DT that) (NN decision))))))))))))))) (. .)))
+HerehereRBOPER0'sbeVBZOPER0ABCABCNNPORGPER0's'sPOSOPER0JohnJohnNNPPERSONPER0MMNNPPERSONPER0WethyWethyNNPPERSONPER0...OPER0(ROOT (SINV (ADVP (RB Here)) (VP (VBZ 's)) (NP (NP (NNP ABC) (POS 's)) (NNP John) (NNP M) (NNP Wethy)) (. .)))
+ThetheDTOPER0manmanNNOPER0whowhoWPOPER0openedopenVBDOPER0thetheDTOPER0doordoorNNOPER0forforINOPER0AmericanamericanJJOPER0warshipswarshipNNSOPER0totoTOOPER0useuseVBOPER0thetheDTOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0mademakeVBDOPER0nonoDTOPER0apologiesapologyNNSOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN man)) (SBAR (WHNP (WP who)) (S (VP (VBD opened) (NP (DT the) (NN door)) (SBAR (IN for) (S (NP (JJ American) (NNS warships)) (VP (TO to) (VP (VB use) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden)))))))))))) (VP (VBD made) (NP (DT no) (NNS apologies)) (NP (NN today))) (. .)))
+ThetheDTOPER0refuelingrefuelingNNOPER0ofofINOPER0thatthatDTOPER0shipshipNNOPER0ininINOPER0AdenAdenNNPLOCPER0wasbeVBDOPER0mymyPRP$OPER0decisiondecisionNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN refueling)) (PP (IN of) (NP (DT that) (NN ship))) (PP (IN in) (NP (NNP Aden)))) (VP (VBD was) (NP (PRP$ my) (NN decision))) (. .)))
+IIPRPOPER0wantwantVBPOPER0totoTOOPER0bebeVBOPER0clearclearJJOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB be) (ADJP (JJ clear)))))) (. .)))
+IIPRPOPER0passpassVBPOPER0thatthatDTOPER0buckbuckNNOPER0ononRPOPER0totoINOPER0nobodynobodyNNOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP pass) (NP (DT that) (NN buck)) (PP (RP on) (PP (IN to) (NP (NN nobody))))) (. .)))
+ThetheDTOPER0oneoneCDCARDINALPER0questionquestionNNOPER0allallDTOPER0ofofINOPER0uswePRPOPER0keepkeepVBPOPER0hearinghearVBGOPER0,,,OPER0WhywhyWRBOPER0YemenYemenNNPGPEPER0??.OPER0(ROOT (FRAG (NP (NP (DT The) (CD one) (NN question)) (SBAR (S (NP (NP (DT all)) (PP (IN of) (NP (PRP us)))) (VP (VBP keep) (VP (VBG hearing)))))) (, ,) (WHADVP (WRB Why)) (FRAG (NP (NNP Yemen))) (. ?)))
+ThetheDTOPER0threatthreatNNOPER0conditionsconditionNNSOPER0ininINOPER0AdenAdenNNPLOCPER0thetheDTOPER0specificspecificJJOPER0threatthreatNNOPER0conditionsconditionNNSOPER0,,,OPER0werebeVBDOPER0actuallyactuallyRBOPER0betterbetterJJROPER0thanthanINOPER0wewePRPOPER0hadhaveVBDOPER0elsewhereelsewhereRBOPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NN threat) (NNS conditions)) (PP (IN in) (NP (NNP Aden)))) (NP (DT the) (JJ specific) (NN threat) (NNS conditions))) (, ,) (VP (VBD were) (ADVP (RB actually)) (ADJP (ADJP (JJR better)) (SBAR (IN than) (S (NP (PRP we)) (VP (VBD had) (ADVP (RB elsewhere))))))) (. .)))
+GeneralGeneralNNPORGPER0ZinniZinniNNPORGPER0saidsayVBDOPER0allallPDTOPER0hershePRP$OPER0portsportNNSOPER0,,,OPER0fromfromINOPER0thetheDTOPER0SuezSuezNNPOPER0CanalCanalNNPOPER0totoINOPER0thetheDTLOCPER0PersianPersianNNPLOCPER0GulfGulfNNPLOCPER0,,,OPER0hadhaveVBDOPER0theirtheyPRP$OPER0ownownJJOPER0problemsproblemNNSOPER0,,,OPER0eithereitherCCOPER0crediblecredibleJJOPER0terroriststerroristNNSOPER0threatsthreatNNSOPER0,,,OPER0unstableunstableJJOPER0governmentsgovernmentNNSOPER0,,,OPER0ororCCOPER0harborsharborNNSOPER0jammedjamVBDOPER0withwithINOPER0smallsmallJJOPER0boatsboatNNSOPER0,,,OPER0plusplusCCOPER0,,,OPER0thetheDTOPER0governmentgovernmentNNOPER0ofofINOPER0YemenYemenNNPGPEPER0wantedwantVBDOPER0betterbetterJJROPER0relationsrelationNNSOPER0withwithINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0andandCCOPER0hadhaveVBDOPER0begunbeginVBNOPER0takingtakeVBGOPER0stepsstepNNSOPER0totoTOOPER0controlcontrolVBOPER0locallocalJJOPER0terroristterroristJJOPER0activityactivityNNOPER0,,,OPER0butbutCCOPER0improvedimproveVBNOPER0relationsrelationNNSOPER0,,,OPER0ZinniZinniNNPPERSONPER0saidsayVBDOPER0,,,OPER0diddoVBDOPER0notnotRBOPER0blindblindVBOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0totoINOPER0thetheDTOPER0risksriskNNSOPER0...OPER0(ROOT (S (NP (NNP General) (NNP Zinni)) (VP (VBD said) (SBAR (S (S (NP (NP (PDT all) (PRP$ her) (NNS ports)) (, ,) (PP (IN from) (NP (DT the) (NNP Suez) (NNP Canal)) (PP (IN to) (NP (DT the) (NNP Persian) (NNP Gulf)))) (, ,)) (VP (VBD had) (NP (PRP$ their) (JJ own) (NNS problems)))) (, ,) (CC either) (S (NP (NP (JJ credible) (NNS terrorists) (NNS threats)) (, ,) (NP (JJ unstable) (NNS governments)) (, ,) (CC or) (NP (NNS harbors))) (VP (VBD jammed) (PP (IN with) (NP (JJ small) (NNS boats))))) (, ,) (CC plus) (, ,) (S (NP (NP (DT the) (NN government)) (PP (IN of) (NP (NNP Yemen)))) (VP (VP (VBD wanted) (NP (NP (JJR better) (NNS relations)) (PP (IN with) (NP (DT the) (NNP U.S.))))) (CC and) (VP (VBD had) (VP (VBN begun) (S (VP (VBG taking) (NP (NP (NNS steps)) (SBAR (S (VP (TO to) (VP (VB control) (NP (NP (JJ local) (JJ terrorist) (NN activity)) (, ,) (CC but) (NP (VBN improved) (NNS relations)))))))))))))) (, ,) (S (NP (NNP Zinni)) (VP (VBD said))) (, ,) (S (VP (VBD did) (RB not) (VP (VB blind) (NP (DT the) (NNP U.S.)) (PP (IN to) (NP (DT the) (NNS risks))))))))) (. .)))
+IIPRPOPER0dodoVBPOPER0n'tnotRBOPER0wantwantVBOPER0anyoneanyoneNNOPER0totoTOOPER0thinkthinkVBOPER0wewePRPOPER0evereverRBOPER0ininINOPER0anyanyDTOPER0instanceinstanceNNOPER0,,,OPER0anywhereanywhereRBOPER0,,,OPER0evereverRBOPER0tooktakeVBDOPER0aaDTOPER0riskriskNNOPER0forforINOPER0thetheDTOPER0purposepurposeNNOPER0ofofINOPER0aaDTOPER0betterbetterJJROPER0relationshiprelationshipNNOPER0withwithINOPER0aaDTOPER0countrycountryNNOPER0andandCCOPER0putputVBDOPER0aaDTOPER0soldiersoldierNNOPER0,,,OPER0sailorsailorNNOPER0,,,OPER0airmanairmanNNOPER0ororCCOPER0marinemarineNNOPER0atatINOPER0riskriskNNOPER0forforINOPER0thatthatDTOPER0reasonreasonNNOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB want) (S (NP (NN anyone)) (VP (TO to) (VP (VB think) (SBAR (S (NP (PRP we)) (ADVP (RB ever)) (VP (VP (PP (IN in) (NP (DT any) (NN instance))) (, ,) (ADVP (RB anywhere)) (, ,) (ADVP (RB ever)) (VBD took) (NP (NP (DT a) (NN risk)) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NP (DT a) (JJR better) (NN relationship)) (PP (IN with) (NP (DT a) (NN country))))))))) (CC and) (VP (VBD put) (NP (NP (DT a) (NN soldier) (, ,) (NN sailor) (, ,) (NN airman) (CC or) (NN marine)) (PP (IN at) (NP (NN risk)))) (PP (IN for) (NP (DT that) (NN reason)))))))))))) (. .)))
+AbsolutelyabsolutelyRBOPER0notnotRBOPER0...OPER0(ROOT (ADVP (RB Absolutely) (RB not) (. .)))
+SomesomeDTOPER0RepublicanRepublicanNNPOPER0senatorssenatorNNSOPER0wonderedwonderVBDOPER0whywhyWRBOPER0thetheDTOPER0``````OColeColeNNPWORK_OF_ARTPER3''''''OPER0andandCCOPER0otherotherJJOPER0shipsshipNNSOPER0werebeVBDOPER0notnotRBOPER0routinelyroutinelyRBOPER0takingtakeVBGOPER0thetheDTOPER0farfarRBOPER0safersaferJJROPER0approachapproachNNOPER0ofofINOPER0refuelingrefuelingNNOPER0atatINOPER0seaseaNNOPER0??.OPER0(ROOT (S (S (NP (DT Some) (NNP Republican) (NNS senators)) (VP (VBD wondered) (SBAR (WHADVP (WRB why)) (S (NP (DT the) (`` ``) (NNP Cole) ('' '')))))) (CC and) (S (NP (JJ other) (NNS ships)) (VP (VBD were) (RB not) (ADVP (RB routinely)) (VP (VBG taking) (NP (NP (DT the) (ADJP (RB far) (JJR safer)) (NN approach)) (PP (IN of) (NP (NN refueling)))) (PP (IN at) (NP (NN sea)))))) (. ?)))
+IIPRPOPER0thinkthinkVBPOPER0IIPRPOPER0'mbeVBPOPER0hearinghearVBGOPER0youyouPRPOPER0saysayVBOPER0,,,OPER0``````OwewePRPOPER4dodoVBPOPER4n'tnotRBOPER4havehaveVBOPER4enoughenoughJJOPER4tankerstankerNNSOPER4totoTOOPER4bebeVBOPER4suresureJJOPER4thatthatINOPER4wewePRPOPER4couldcouldMDOPER4dodoVBOPER4thatthatDTOPER4...OPER4''''''OPER0(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG hearing) (S (NP (PRP you)) (VP (VB say) (, ,) (`` ``) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (NP (JJ enough) (NNS tankers)) (VP (TO to) (VP (VB be) (ADJP (JJ sure) (SBAR (IN that) (S (NP (PRP we)) (VP (MD could) (VP (VB do) (NP (DT that)))))))))))))))))))) (. .) ('' '')))
+ThatthatDTOPER0'sbeVBZOPER0mymyPRP$OPER0sensesenseNNOPER0,,,OPER0SenatorSenatorNNPOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN sense)) (, ,) (NP (NNP Senator)))) (. .)))
+ThetheDTOPER0generalgeneralNNOPER0hadhaveVBDOPER0oneoneCDCARDINALPER0moremoreRBROPER0troublingtroublingJJOPER0messagemessageNNOPER0...OPER0(ROOT (S (NP (DT The) (NN general)) (VP (VBD had) (NP (CD one) (ADJP (RBR more) (JJ troubling)) (NN message))) (. .)))
+TerroriststerroristNNSOPER0arebeVBPOPER0gettinggetVBGOPER0smartersmarterJJROPER0,,,OPER0usinguseVBGOPER0nastiernastierJJROPER0weaponsweaponNNSOPER0,,,OPER0andandCCOPER0asasRBOPER0longlongRBOPER0asasINOPER0theytheyPRPOPER0arebeVBPOPER0willingwillingJJOPER0totoTOOPER0diedieVBOPER0ininINOPER0theirtheyPRP$OPER0attacksattackNNSOPER0,,,OPER0ititPRPOPER0willwillMDOPER0bebeVBOPER0virtuallyvirtuallyRBOPER0impossibleimpossibleJJOPER0totoTOOPER0stopstopVBOPER0themtheyPRPOPER0allallDTOPER0...OPER0(ROOT (S (S (NP (NNS Terrorists)) (VP (VBP are) (VP (VBG getting) (ADJP (JJR smarter)) (, ,) (S (VP (VBG using) (NP (JJR nastier) (NNS weapons))))))) (, ,) (CC and) (S (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ willing) (S (VP (TO to) (VP (VB die) (PP (IN in) (NP (PRP$ their) (NNS attacks))))))))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB be) (ADJP (RB virtually) (JJ impossible) (S (VP (TO to) (VP (VB stop) (NP (NP (PRP them)) (ADVP (DT all)))))))))) (. .)))
+JohnJohnNNPPERSONPER0MMNNPPERSONPER0WethyWethyNNPPERSONPER0,,,OPER0ABCABCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0thetheDTOPER0PentagonPentagonNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP John) (NNP M) (NNP Wethy)) (, ,) (NP (NNP ABC) (NNP News)) (, ,) (NP (DT the) (NNP Pentagon)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Yemen))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NN today))
+sid=0 spanning 11 until 16 headed by 14 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 18 until 27 headed by 21 parsed as (NP (NP (DT the) (JJ last) (CD four) (NNS sailors)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN in) (NP (DT the) (NN attack)))))))
+sid=1 spanning 0 until 1 headed by 0 parsed as Their
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NN today))
+sid=2 spanning 8 until 24 headed by 9 parsed as (NP (NP (DT the) (NN general)) (SBAR (WHNP (WP who)) (S (VP (VBD sent) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')) (PP (IN into) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))) (PP (IN in) (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD made) (NP (DT that) (NN decision)))))))))))))
+sid=2 spanning 12 until 17 headed by 15 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=2 spanning 18 until 24 headed by 19 parsed as (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))) (PP (IN in) (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD made) (NP (DT that) (NN decision))))))))
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (NNP Aden))
+sid=2 spanning 23 until 24 headed by 23 parsed as (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD made) (NP (DT that) (NN decision))))))
+sid=2 spanning 26 until 27 headed by 26 parsed as (NP (PRP he))
+sid=3 spanning 2 until 7 headed by 6 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP John) (NNP M) (NNP Wethy))
+sid=3 spanning 2 until 4 headed by 2 parsed as (NP (NNP ABC) (POS 's))
+sid=4 spanning 0 until 15 headed by 1 parsed as (NP (NP (DT The) (NN man)) (SBAR (WHNP (WP who)) (S (VP (VBD opened) (NP (DT the) (NN door)) (SBAR (IN for) (S (NP (JJ American) (NNS warships)) (VP (TO to) (VP (VB use) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))))))))))))
+sid=4 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Aden))
+sid=4 spanning 18 until 19 headed by 18 parsed as (NP (NN today))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN ship))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNP Aden))
+sid=5 spanning 8 until 9 headed by 8 parsed as my
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=8 spanning 5 until 6 headed by 5 parsed as (NP (PRP us))
+sid=8 spanning 10 until 11 headed by 10 parsed as (NP (NNP Yemen))
+sid=9 spanning 4 until 5 headed by 4 parsed as (NP (NNP Aden))
+sid=9 spanning 14 until 15 headed by 14 parsed as (NP (PRP we))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP General) (NNP Zinni))
+sid=10 spanning 3 until 16 headed by 5 parsed as (NP (NP (PDT all) (PRP$ her) (NNS ports)) (, ,) (PP (IN from) (NP (DT the) (NNP Suez) (NNP Canal)) (PP (IN to) (NP (DT the) (NNP Persian) (NNP Gulf)))) (, ,))
+sid=10 spanning 17 until 18 headed by 17 parsed as their
+sid=10 spanning 38 until 42 headed by 39 parsed as (NP (NP (DT the) (NN government)) (PP (IN of) (NP (NNP Yemen))))
+sid=10 spanning 46 until 48 headed by 47 parsed as (NP (DT the) (NNP U.S.))
+sid=10 spanning 63 until 64 headed by 63 parsed as (NP (NNP Zinni))
+sid=10 spanning 69 until 71 headed by 70 parsed as (NP (DT the) (NNP U.S.))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=11 spanning 7 until 8 headed by 7 parsed as (NP (PRP we))
+sid=11 spanning 20 until 29 headed by 21 parsed as (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NP (DT a) (JJR better) (NN relationship)) (PP (IN with) (NP (DT a) (NN country))))))
+sid=11 spanning 42 until 44 headed by 43 parsed as (NP (DT that) (NN reason))
+sid=13 spanning 5 until 9 headed by 7 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=13 spanning 16 until 24 headed by 19 parsed as (NP (NP (DT the) (ADJP (RB far) (JJR safer)) (NN approach)) (PP (IN of) (NP (NN refueling))))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=14 spanning 2 until 3 headed by 2 parsed as (NP (PRP I))
+sid=14 spanning 5 until 6 headed by 5 parsed as (NP (PRP you))
+sid=14 spanning 9 until 10 headed by 9 parsed as (NP (PRP we))
+sid=14 spanning 19 until 20 headed by 19 parsed as (NP (PRP we))
+sid=14 spanning 22 until 23 headed by 22 parsed as (NP (DT that))
+sid=15 spanning 2 until 3 headed by 2 parsed as my
+sid=15 spanning 5 until 6 headed by 5 parsed as (NP (NNP Senator))
+sid=16 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN general))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (NNS Terrorists))
+sid=17 spanning 13 until 14 headed by 13 parsed as (NP (PRP they))
+sid=17 spanning 19 until 20 headed by 19 parsed as their
+sid=17 spanning 29 until 31 headed by 29 parsed as (NP (NP (PRP them)) (ADVP (DT all)))
+sid=18 spanning 0 until 3 headed by 2 parsed as (NP (NNP John) (NNP M) (NNP Wethy))
+sid=18 spanning 4 until 6 headed by 5 parsed as (NP (NNP ABC) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Yemen))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Navy) (NNS divers))
+sid=0 spanning 4 until 5 headed by 4 parsed as Navy
+sid=0 spanning 8 until 16 headed by 9 parsed as (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 11 until 16 headed by 14 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 18 until 27 headed by 21 parsed as (NP (NP (DT the) (JJ last) (CD four) (NNS sailors)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN in) (NP (DT the) (NN attack)))))))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN attack))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ Their) (NNS bodies))
+sid=1 spanning 0 until 1 headed by 0 parsed as (PRP$ Their)
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NN tomorrow))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (NNP Capitol) (NNP Hill))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNS senators))
+sid=2 spanning 8 until 30 headed by 9 parsed as (NP (NP (DT the) (NN general)) (SBAR (WHNP (WP who)) (S (VP (VBD sent) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')) (PP (IN into) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))) (PP (IN in) (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD made) (NP (DT that) (NN decision)))))))))))))
+sid=2 spanning 12 until 17 headed by 15 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=2 spanning 18 until 30 headed by 19 parsed as (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))) (PP (IN in) (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD made) (NP (DT that) (NN decision))))))))
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (NNP Aden))
+sid=2 spanning 23 until 24 headed by 23 parsed as (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD made) (NP (DT that) (NN decision))))))
+sid=2 spanning 23 until 30 headed by 23 parsed as (NP (NP (NNP Yemen)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD made) (NP (DT that) (NN decision))))))
+sid=2 spanning 26 until 27 headed by 26 parsed as (NP (PRP he))
+sid=2 spanning 28 until 30 headed by 29 parsed as (NP (DT that) (NN decision))
+sid=3 spanning 2 until 7 headed by 6 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP John) (NNP M) (NNP Wethy))
+sid=3 spanning 2 until 4 headed by 2 parsed as (NP (NNP ABC) (POS 's))
+sid=4 spanning 0 until 15 headed by 1 parsed as (NP (NP (DT The) (NN man)) (SBAR (WHNP (WP who)) (S (VP (VBD opened) (NP (DT the) (NN door)) (SBAR (IN for) (S (NP (JJ American) (NNS warships)) (VP (TO to) (VP (VB use) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))))))))))))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN door))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (JJ American) (NNS warships))
+sid=4 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Aden))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT no) (NNS apologies))
+sid=5 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN refueling)) (PP (IN of) (NP (DT that) (NN ship))) (PP (IN in) (NP (NNP Aden))))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN ship))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNP Aden))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ my) (NN decision))
+sid=5 spanning 8 until 9 headed by 8 parsed as (PRP$ my)
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (DT that) (NN buck))
+sid=8 spanning 0 until 8 headed by 2 parsed as (NP (NP (DT The) (CD one) (NN question)) (SBAR (S (NP (NP (DT all)) (PP (IN of) (NP (PRP us)))) (VP (VBP keep) (VP (VBG hearing))))))
+sid=8 spanning 10 until 11 headed by 10 parsed as (NP (NNP Yemen))
+sid=9 spanning 0 until 9 headed by 2 parsed as (NP (NP (NP (DT The) (NN threat) (NNS conditions)) (PP (IN in) (NP (NNP Aden)))) (NP (DT the) (JJ specific) (NN threat) (NNS conditions)))
+sid=9 spanning 4 until 5 headed by 4 parsed as (NP (NNP Aden))
+sid=9 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (JJ specific) (NN threat) (NNS conditions))
+sid=9 spanning 14 until 15 headed by 14 parsed as (NP (PRP we))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP General) (NNP Zinni))
+sid=10 spanning 4 until 5 headed by 4 parsed as (PRP$ her)
+sid=10 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Suez) (NNP Canal))
+sid=10 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP Persian) (NNP Gulf))
+sid=10 spanning 17 until 20 headed by 19 parsed as (NP (PRP$ their) (JJ own) (NNS problems))
+sid=10 spanning 17 until 18 headed by 17 parsed as (PRP$ their)
+sid=10 spanning 22 until 31 headed by 24 parsed as (NP (NP (JJ credible) (NNS terrorists) (NNS threats)) (, ,) (NP (JJ unstable) (NNS governments)) (, ,) (CC or) (NP (NNS harbors)))
+sid=10 spanning 22 until 25 headed by 24 parsed as (NP (JJ credible) (NNS terrorists) (NNS threats))
+sid=10 spanning 26 until 28 headed by 27 parsed as (NP (JJ unstable) (NNS governments))
+sid=10 spanning 30 until 31 headed by 30 parsed as (NP (NNS harbors))
+sid=10 spanning 33 until 35 headed by 34 parsed as (NP (JJ small) (NNS boats))
+sid=10 spanning 38 until 42 headed by 39 parsed as (NP (NP (DT the) (NN government)) (PP (IN of) (NP (NNP Yemen))))
+sid=10 spanning 41 until 42 headed by 41 parsed as (NP (NNP Yemen))
+sid=10 spanning 43 until 48 headed by 44 parsed as (NP (NP (JJR better) (NNS relations)) (PP (IN with) (NP (DT the) (NNP U.S.))))
+sid=10 spanning 46 until 48 headed by 47 parsed as (NP (DT the) (NNP U.S.))
+sid=10 spanning 52 until 62 headed by 52 parsed as (NP (NP (NNS steps)) (SBAR (S (VP (TO to) (VP (VB control) (NP (NP (JJ local) (JJ terrorist) (NN activity)) (, ,) (CC but) (NP (VBN improved) (NNS relations))))))))
+sid=10 spanning 60 until 62 headed by 61 parsed as (NP (VBN improved) (NNS relations))
+sid=10 spanning 63 until 64 headed by 63 parsed as (NP (NNP Zinni))
+sid=10 spanning 69 until 71 headed by 70 parsed as (NP (DT the) (NNP U.S.))
+sid=10 spanning 72 until 74 headed by 73 parsed as (NP (DT the) (NNS risks))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=11 spanning 7 until 8 headed by 7 parsed as (NP (PRP we))
+sid=11 spanning 17 until 29 headed by 18 parsed as (NP (NP (DT a) (NN risk)) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NP (DT a) (JJR better) (NN relationship)) (PP (IN with) (NP (DT a) (NN country))))))))
+sid=11 spanning 20 until 29 headed by 21 parsed as (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NP (DT a) (JJR better) (NN relationship)) (PP (IN with) (NP (DT a) (NN country))))))
+sid=11 spanning 23 until 29 headed by 25 parsed as (NP (NP (DT a) (JJR better) (NN relationship)) (PP (IN with) (NP (DT a) (NN country))))
+sid=11 spanning 27 until 29 headed by 28 parsed as (NP (DT a) (NN country))
+sid=11 spanning 31 until 41 headed by 32 parsed as (NP (NP (DT a) (NN soldier) (, ,) (NN sailor) (, ,) (NN airman) (CC or) (NN marine)) (PP (IN at) (NP (NN risk))))
+sid=11 spanning 42 until 44 headed by 43 parsed as (NP (DT that) (NN reason))
+sid=13 spanning 0 until 3 headed by 2 parsed as (NP (DT Some) (NNP Republican) (NNS senators))
+sid=13 spanning 5 until 9 headed by 7 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=13 spanning 10 until 12 headed by 11 parsed as (NP (JJ other) (NNS ships))
+sid=13 spanning 16 until 22 headed by 19 parsed as (NP (NP (DT the) (ADJP (RB far) (JJR safer)) (NN approach)) (PP (IN of) (NP (NN refueling))))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=14 spanning 2 until 3 headed by 2 parsed as (NP (PRP I))
+sid=14 spanning 5 until 6 headed by 5 parsed as (NP (PRP you))
+sid=14 spanning 9 until 10 headed by 9 parsed as (NP (PRP we))
+sid=14 spanning 19 until 20 headed by 19 parsed as (NP (PRP we))
+sid=14 spanning 22 until 23 headed by 22 parsed as (NP (DT that))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=15 spanning 2 until 6 headed by 3 parsed as (NP (NP (PRP$ my) (NN sense)) (, ,) (NP (NNP Senator)))
+sid=15 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ my) (NN sense))
+sid=15 spanning 2 until 3 headed by 2 parsed as (PRP$ my)
+sid=15 spanning 5 until 6 headed by 5 parsed as (NP (NNP Senator))
+sid=16 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN general))
+sid=16 spanning 3 until 7 headed by 6 parsed as (NP (CD one) (ADJP (RBR more) (JJ troubling)) (NN message))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (NNS Terrorists))
+sid=17 spanning 6 until 8 headed by 7 parsed as (NP (JJR nastier) (NNS weapons))
+sid=17 spanning 13 until 14 headed by 13 parsed as (NP (PRP they))
+sid=17 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ their) (NNS attacks))
+sid=17 spanning 19 until 20 headed by 19 parsed as (PRP$ their)
+sid=17 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=17 spanning 29 until 31 headed by 29 parsed as (NP (NP (PRP them)) (ADVP (DT all)))
+sid=18 spanning 0 until 3 headed by 2 parsed as (NP (NNP John) (NNP M) (NNP Wethy))
+sid=18 spanning 4 until 6 headed by 5 parsed as (NP (NNP ABC) (NNP News))
+sid=18 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNP Pentagon))
+(end predicted mentions)
+---------gold clusters--------
+29 28 | { 'their' 'all her ports , from the Suez Canal to the Persian Gulf ,' }
+54 13 | { 'ABC News' 'ABC 's' }
+40 41 47 | { 'I' 'I' 'Senator' }
+5 17 1 | { 'today' 'today' 'today' }
+25 16 9 19 | { 'Aden' 'Aden' 'Aden' 'Aden' }
+2 18 7 38 | { 'the `` USS Cole ''' 'that ship' 'the `` USS Cole ''' 'the `` Cole ''' }
+15 8 | { 'the port of Aden' 'the port of Aden in Yemen' }
+4 3 | { 'Their' 'the last four sailors who died in the attack' }
+45 39 | { 'that' 'the far safer approach of refueling at sea' }
+24 0 30 10 | { 'Yemen' 'Yemen' 'the government of Yemen' 'Yemen' }
+53 12 | { 'John M Wethy' 'ABC 's John M Wethy' }
+51 49 52 50 | { 'their' 'Terrorists' 'them all' 'they' }
+48 6 34 20 27 46 21 22 11 14 32 42 | { 'The general' 'the general who sent the `` USS Cole '' into the port of Aden in Yemen' 'I' 'my' 'General Zinni' 'my' 'I' 'I' 'he' 'The man who opened the door for American warships to use the port of Aden' 'Zinni' 'you' }
+37 36 | { 'that reason' 'the purpose of a better relationship with a country' }
+44 23 43 35 26 | { 'we' 'us' 'we' 'we' 'we' }
+31 33 | { 'the U.S.' 'the U.S.' }
+(end gold clusters)

@@ -1,0 +1,44 @@
+---------gloss--------
+(0) [3m[35m{Madeleine Albright}[0m is in Paris , hoping to end the crisis . 
+(1) [3m[35m{She}[0m meets tomorrow with [3m[34m{Ehud Barak and Palestinian Authority President Yasser Arafat}[0m . 
+(2) [3m[34m{They}[0m 're expected to meet separately with [3m[35m{Albright}[0m . 
+(3) [3m[35m{She}[0m hopes to bring [3m[34m{them}[0m together for a three - way meeting eventually . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0006); part 000
+sentences:
+MadeleineMadeleineNNPPERSONPER0AlbrightAlbrightNNPPERSONPER0isbeVBZOPER0ininINOPER0ParisParisNNPGPEPER0,,,OPER0hopinghopeVBGOPER0totoTOOPER0endendVBOPER0thetheDTOPER0crisiscrisisNNOPER0...OPER0(ROOT (S (NP (NNP Madeleine) (NNP Albright)) (VP (VBZ is) (PP (IN in) (NP (NNP Paris))) (, ,) (S (VP (VBG hoping) (S (VP (TO to) (VP (VB end) (NP (DT the) (NN crisis)))))))) (. .)))
+SheshePRPOPER0meetsmeetVBZOPER0tomorrowtomorrowNNDATEPER0withwithINOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0andandCCOPER0PalestinianPalestinianNNPORGPER0AuthorityAuthorityNNPORGPER0PresidentPresidentNNPOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBZ meets) (NP (NN tomorrow)) (PP (IN with) (NP (NP (NNP Ehud) (NNP Barak)) (CC and) (NP (NML (NML (NNP Palestinian) (NNP Authority)) (NNP President)) (NNP Yasser) (NNP Arafat))))) (. .)))
+TheytheyPRPOPER0'rebeVBPOPER0expectedexpectVBNOPER0totoTOOPER0meetmeetVBOPER0separatelyseparatelyRBOPER0withwithINOPER0AlbrightAlbrightNNPPERSONPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBN expected) (S (VP (TO to) (VP (VB meet) (ADVP (RB separately)) (PP (IN with) (NP (NNP Albright)))))))) (. .)))
+SheshePRPOPER0hopeshopeVBZOPER0totoTOOPER0bringbringVBOPER0themtheyPRPOPER0togethertogetherRBOPER0forforINOPER0aaDTOPER0threethreeCDCARDINALPER0--HYPHOPER0waywayNNOPER0meetingmeetingNNOPER0eventuallyeventuallyRBOPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBZ hopes) (S (VP (TO to) (VP (VB bring) (NP (PRP them)) (ADVP (RB together)) (PP (IN for) (NP (NP (DT a) (NML (CD three) (HYPH -) (NN way)) (NN meeting)) (ADVP (RB eventually)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Madeleine) (NNP Albright))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=1 spanning 4 until 12 headed by 5 parsed as (NP (NP (NNP Ehud) (NNP Barak)) (CC and) (NP (NML (NML (NNP Palestinian) (NNP Authority)) (NNP President)) (NNP Yasser) (NNP Arafat)))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Albright))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (PRP them))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Madeleine) (NNP Albright))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Paris))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN crisis))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NN tomorrow))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NP (NNP Ehud) (NNP Barak)) (CC and) (NP (NML (NML (NNP Palestinian) (NNP Authority)) (NNP President)) (NNP Yasser) (NNP Arafat)))
+sid=1 spanning 4 until 12 headed by 5 parsed as (NP (NP (NNP Ehud) (NNP Barak)) (CC and) (NP (NML (NML (NNP Palestinian) (NNP Authority)) (NNP President)) (NNP Yasser) (NNP Arafat)))
+sid=1 spanning 7 until 12 headed by 11 parsed as (NP (NML (NML (NNP Palestinian) (NNP Authority)) (NNP President)) (NNP Yasser) (NNP Arafat))
+sid=1 spanning 7 until 9 headed by 8 parsed as Authority
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNP Albright))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (PRP them))
+sid=3 spanning 7 until 13 headed by 11 parsed as (NP (NP (DT a) (NML (CD three) (HYPH -) (NN way)) (NN meeting)) (ADVP (RB eventually)))
+(end predicted mentions)
+---------gold clusters--------
+2 6 3 | { 'Ehud Barak and Palestinian Authority President Yasser Arafat' 'them' 'They' }
+0 5 4 1 | { 'Madeleine Albright' 'She' 'Albright' 'She' }
+(end gold clusters)

@@ -1,0 +1,48 @@
+---------gloss--------
+(0) Israel has begun gearing up for [4m[34m{new elections}[0m . 
+(1) Representatives from [4m[33m{Prime Minister Ehud Barak 's}[0m Labor Party and the main right - wing opposition Likud Block , met to set a date for [4m[34m{the new elections}[0m . 
+(2) Israeli news media report [4m[34m{the election}[0m could be held as early as May 8th or May 15th , two years after [4m[33m{Mr. Barak 's}[0m landslide victory over [4m[33m{his}[0m right - wing predecessor Benjamin Netanyahu . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0128); part 000
+sentences:
+IsraelIsraelNNPGPEPER0hashaveVBZOPER0begunbeginVBNOPER0gearinggearVBGOPER0upupRPOPER0forforINOPER0newnewJJOPER0electionselectionNNSOPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBZ has) (VP (VBN begun) (S (VP (VBG gearing) (PRT (RP up)) (PP (IN for) (NP (JJ new) (NNS elections))))))) (. .)))
+RepresentativesrepresentativeNNSOPER0fromfromINOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0's'sPOSOPER0LaborLaborNNPORGPER0PartyPartyNNPORGPER0andandCCOPER0thetheDTOPER0mainmainJJOPER0rightrightJJOPER0--HYPHOPER0wingwingNNOPER0oppositionoppositionNNOPER0LikudLikudNNPORGPER0BlockBlockNNPORGPER0,,,OPER0metmeetVBDOPER0totoTOOPER0setsetVBOPER0aaDTOPER0datedateNNOPER0forforINOPER0thetheDTOPER0newnewJJOPER0electionselectionNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Representatives)) (PP (IN from) (NP (NP (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (POS 's)) (NNP Labor) (NNP Party)) (CC and) (NP (DT the) (JJ main) (ADJP (JJ right) (HYPH -) (NN wing)) (NN opposition) (NNP Likud) (NNP Block))))) (, ,) (VP (VBD met) (S (VP (TO to) (VP (VB set) (NP (NP (DT a) (NN date)) (PP (IN for) (NP (DT the) (JJ new) (NNS elections)))))))) (. .)))
+IsraeliisraeliJJOPER0newsnewsNNOPER0mediamediaNNSOPER0reportreportVBPOPER0thetheDTOPER0electionelectionNNOPER0couldcouldMDOPER0bebeVBOPER0heldholdVBNOPER0asasRBDATEPER0earlyearlyRBDATEPER0asasINDATEPER0MayMayNNPDATEPER08th8thNNDATEPER0ororCCOPER0MayMayNNPDATEPER015th15thNNDATEPER0,,,OPER0twotwoCDDATEPER0yearsyearNNSDATEPER0afterafterINOPER0Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0's'sPOSOPER0landslidelandslideNNOPER0victoryvictoryNNOPER0overoverINOPER0hishePRP$OPER0rightrightJJOPER0--HYPHOPER0wingwingNNOPER0predecessorpredecessorNNOPER0BenjaminBenjaminNNPPERSONPER0NetanyahuNetanyahuNNPPERSONPER0...OPER0(ROOT (S (NP (JJ Israeli) (NN news) (NNS media)) (VP (VBP report) (SBAR (S (NP (DT the) (NN election)) (VP (MD could) (VP (VB be) (VP (VBN held) (ADVP (ADVP (RB as) (RB early)) (PP (IN as) (NP (NNP May) (NN 8th)) (CC or) (NP (NNP May) (NN 15th)) (, ,) (NP (NP (CD two) (NNS years)) (PP (IN after) (NP (NP (NP (NNP Mr.) (NNP Barak) (POS 's)) (NN landslide) (NN victory)) (PP (IN over) (NP (NP (PRP$ his) (ADJP (JJ right) (HYPH -) (NN wing)) (NN predecessor)) (NP (NNP Benjamin) (NNP Netanyahu))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (JJ new) (NNS elections))
+sid=1 spanning 2 until 7 headed by 5 parsed as (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (POS 's))
+sid=1 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (JJ new) (NNS elections))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN election))
+sid=2 spanning 21 until 24 headed by 22 parsed as (NP (NNP Mr.) (NNP Barak) (POS 's))
+sid=2 spanning 27 until 28 headed by 27 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (JJ new) (NNS elections))
+sid=1 spanning 0 until 18 headed by 0 parsed as (NP (NP (NNS Representatives)) (PP (IN from) (NP (NP (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (POS 's)) (NNP Labor) (NNP Party)) (CC and) (NP (DT the) (JJ main) (ADJP (JJ right) (HYPH -) (NN wing)) (NN opposition) (NNP Likud) (NNP Block)))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NP (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (POS 's)) (NNP Labor) (NNP Party)) (CC and) (NP (DT the) (JJ main) (ADJP (JJ right) (HYPH -) (NN wing)) (NN opposition) (NNP Likud) (NNP Block)))
+sid=1 spanning 2 until 18 headed by 8 parsed as (NP (NP (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (POS 's)) (NNP Labor) (NNP Party)) (CC and) (NP (DT the) (JJ main) (ADJP (JJ right) (HYPH -) (NN wing)) (NN opposition) (NNP Likud) (NNP Block)))
+sid=1 spanning 2 until 9 headed by 8 parsed as (NP (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (POS 's)) (NNP Labor) (NNP Party))
+sid=1 spanning 2 until 7 headed by 5 parsed as (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (POS 's))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (JJ main) (ADJP (JJ right) (HYPH -) (NN wing)) (NN opposition) (NNP Likud) (NNP Block))
+sid=1 spanning 10 until 18 headed by 17 parsed as (NP (DT the) (JJ main) (ADJP (JJ right) (HYPH -) (NN wing)) (NN opposition) (NNP Likud) (NNP Block))
+sid=1 spanning 22 until 28 headed by 23 parsed as (NP (NP (DT a) (NN date)) (PP (IN for) (NP (DT the) (JJ new) (NNS elections))))
+sid=1 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (JJ new) (NNS elections))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (JJ Israeli) (NN news) (NNS media))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN election))
+sid=2 spanning 9 until 14 headed by 10 parsed as early
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (NNP May) (NN 15th))
+sid=2 spanning 18 until 34 headed by 19 parsed as (NP (NP (CD two) (NNS years)) (PP (IN after) (NP (NP (NP (NNP Mr.) (NNP Barak) (POS 's)) (NN landslide) (NN victory)) (PP (IN over) (NP (NP (PRP$ his) (ADJP (JJ right) (HYPH -) (NN wing)) (NN predecessor)) (NP (NNP Benjamin) (NNP Netanyahu)))))))
+sid=2 spanning 21 until 34 headed by 25 parsed as (NP (NP (NP (NNP Mr.) (NNP Barak) (POS 's)) (NN landslide) (NN victory)) (PP (IN over) (NP (NP (PRP$ his) (ADJP (JJ right) (HYPH -) (NN wing)) (NN predecessor)) (NP (NNP Benjamin) (NNP Netanyahu)))))
+sid=2 spanning 21 until 24 headed by 22 parsed as (NP (NNP Mr.) (NNP Barak) (POS 's))
+sid=2 spanning 27 until 34 headed by 31 parsed as (NP (NP (PRP$ his) (ADJP (JJ right) (HYPH -) (NN wing)) (NN predecessor)) (NP (NNP Benjamin) (NNP Netanyahu)))
+sid=2 spanning 27 until 28 headed by 27 parsed as (PRP$ his)
+sid=2 spanning 32 until 34 headed by 33 parsed as (NP (NNP Benjamin) (NNP Netanyahu))
+(end predicted mentions)
+---------gold clusters--------
+4 1 5 | { 'Mr. Barak 's' 'Prime Minister Ehud Barak 's' 'his' }
+0 3 2 | { 'new elections' 'the election' 'the new elections' }
+(end gold clusters)

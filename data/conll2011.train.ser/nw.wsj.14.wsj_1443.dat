@@ -1,0 +1,115 @@
+---------gloss--------
+(0) [3m[35m{Immunex Corp.}[0m said [3m[35m{its}[0m scientists isolated [3m[36m{a molecule which may hold potential as a treatment for disruptions of the immune - system , ranging from organ - transplant rejection , to allergies and asthma}[0m . 
+(1) [3m[36m{The molecule}[0m is the mouse version of [4m[33m{a protein called the interleukin - 4 receptor}[0m . 
+(2) [4m[34m{IL - 4}[0m is a hormone which directs the growth and function of white blood cells involved in the body 's immune response . 
+(3) [4m[33m{The IL - 4 receptor on the surface of such cells}[0m receives [4m[34m{the hormone 's}[0m message to rally the body 's defense . 
+(4) But in certain conditions such as autoimmune diseases and allergies and transplant rejection , doctors would like to damp the immune response so such cells do n't touch off harmful inflammatory reactions or cell destruction . 
+(5) A soluble form of [4m[33m{the receptor}[0m might turn off a specific part of the immune response without general immune suppression , [3m[35m{the company}[0m said . 
+(6) [4m[33m{The IL - 4 receptor}[0m is one of [4m[32m{five such receptors to be developed and tested by Receptech Corp. , a spinoff of Immunex , through a proposed $ 30 million initial public offering}[0m . 
+(7) [3m[35m{Immunex}[0m will contract with the [4m[31m{spinoff}[0m to provide the research , development and initial testing of [4m[32m{the new agents}[0m . 
+(8) [3m[35m{Immunex}[0m will have the option to buy back [4m[31m{Receptech}[0m shares after five years . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1443); part 000
+sentences:
+ImmunexImmunexNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0scientistsscientistNNSOPER0isolatedisolateVBDOPER0aaDTOPER0moleculemoleculeNNOPER0whichwhichWDTOPER0maymayMDOPER0holdholdVBOPER0potentialpotentialNNOPER0asasINOPER0aaDTOPER0treatmenttreatmentNNOPER0forforINOPER0disruptionsdisruptionNNSOPER0ofofINOPER0thetheDTOPER0immuneimmuneJJOPER0--HYPHOPER0systemsystemNNOPER0,,,OPER0rangingrangeVBGOPER0fromfromINOPER0organorganNNOPER0--HYPHOPER0transplanttransplantNNOPER0rejectionrejectionNNOPER0,,,OPER0totoINOPER0allergiesallergyNNSOPER0andandCCOPER0asthmaasthmaNNOPER0...OPER0(ROOT (S (NP (NNP Immunex) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NNS scientists)) (VP (VBD isolated) (NP (NP (DT a) (NN molecule)) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB hold) (NP (NN potential)) (PP (IN as) (NP (NP (DT a) (NN treatment)) (PP (IN for) (NP (NP (NP (NNS disruptions)) (PP (IN of) (NP (DT the) (JJ immune) (HYPH -) (NN system)))) (, ,) (VP (VBG ranging) (PP (PP (IN from) (NP (NML (NN organ) (HYPH -) (NN transplant)) (NN rejection))) (, ,) (PP (IN to) (NP (NNS allergies) (CC and) (NN asthma)))))))))))))))))) (. .)))
+ThetheDTOPER0moleculemoleculeNNOPER0isbeVBZOPER0thetheDTOPER0mousemouseNNOPER0versionversionNNOPER0ofofINOPER0aaDTOPER0proteinproteinNNOPER0calledcallVBNOPER0thetheDTOPER0interleukininterleukinNNOPER0--HYPHOPER044CDOPER0receptorreceptorNNOPER0...OPER0(ROOT (S (NP (DT The) (NN molecule)) (VP (VBZ is) (NP (NP (DT the) (NN mouse) (NN version)) (PP (IN of) (NP (NP (DT a) (NN protein)) (VP (VBN called) (S (NP (DT the) (NML (NN interleukin) (HYPH -) (CD 4)) (NN receptor)))))))) (. .)))
+ILILNNPPRODUCTPER0--HYPHPRODUCTPER044CDPRODUCTPER0isbeVBZOPER0aaDTOPER0hormonehormoneNNOPER0whichwhichWDTOPER0directsdirectVBZOPER0thetheDTOPER0growthgrowthNNOPER0andandCCOPER0functionfunctionNNOPER0ofofINOPER0whitewhiteJJOPER0bloodbloodNNOPER0cellscellNNSOPER0involvedinvolveVBNOPER0ininINOPER0thetheDTOPER0bodybodyNNOPER0's'sPOSOPER0immuneimmuneJJOPER0responseresponseNNOPER0...OPER0(ROOT (S (NP (NNP IL) (HYPH -) (CD 4)) (VP (VBZ is) (NP (NP (DT a) (NN hormone)) (SBAR (WHNP (WDT which)) (S (VP (VBZ directs) (NP (NP (DT the) (NN growth) (CC and) (NN function)) (PP (IN of) (NP (NP (JJ white) (NN blood) (NNS cells)) (VP (VBN involved) (PP (IN in) (NP (NP (DT the) (NN body) (POS 's)) (JJ immune) (NN response)))))))))))) (. .)))
+ThetheDTOPER0ILilNNOPER0--HYPHOPER044CDOPER0receptorreceptorNNOPER0ononINOPER0thetheDTOPER0surfacesurfaceNNOPER0ofofINOPER0suchsuchJJOPER0cellscellNNSOPER0receivesreceiveVBZOPER0thetheDTOPER0hormonehormoneNNOPER0's'sPOSOPER0messagemessageNNOPER0totoTOOPER0rallyrallyVBOPER0thetheDTOPER0bodybodyNNOPER0's'sPOSOPER0defensedefenseNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NML (NN IL) (HYPH -) (CD 4)) (NN receptor)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (JJ such) (NNS cells)))))) (VP (VBZ receives) (NP (NP (NP (DT the) (NN hormone) (POS 's)) (NN message)) (SBAR (S (VP (TO to) (VP (VB rally) (NP (NP (DT the) (NN body) (POS 's)) (NN defense)))))))) (. .)))
+ButbutCCOPER0ininINOPER0certaincertainJJOPER0conditionsconditionNNSOPER0suchsuchJJOPER0asasINOPER0autoimmuneautoimmuneNNOPER0diseasesdiseaseNNSOPER0andandCCOPER0allergiesallergyNNSOPER0andandCCOPER0transplanttransplantNNOPER0rejectionrejectionNNOPER0,,,OPER0doctorsdoctorNNSOPER0wouldwouldMDOPER0likelikeVBOPER0totoTOOPER0dampdampVBOPER0thetheDTOPER0immuneimmuneJJOPER0responseresponseNNOPER0sosoINOPER0suchsuchJJOPER0cellscellNNSOPER0dodoVBPOPER0n'tnotRBOPER0touchtouchVBOPER0offoffRPOPER0harmfulharmfulJJOPER0inflammatoryinflammatoryJJOPER0reactionsreactionNNSOPER0ororCCOPER0cellcellNNOPER0destructiondestructionNNOPER0...OPER0(ROOT (S (CC But) (PP (IN in) (NP (NP (JJ certain) (NNS conditions)) (PP (JJ such) (IN as) (NP (NML (NN autoimmune) (NNS diseases) (CC and) (NNS allergies) (CC and) (NN transplant)) (NN rejection))))) (, ,) (NP (NNS doctors)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB damp) (NP (DT the) (JJ immune) (NN response)) (SBAR (IN so) (S (NP (JJ such) (NNS cells)) (VP (VBP do) (RB n't) (VP (VB touch) (PRT (RP off)) (NP (NP (JJ harmful) (JJ inflammatory) (NNS reactions)) (CC or) (NP (NN cell) (NN destruction)))))))))))) (. .)))
+AaDTOPER0solublesolubleJJOPER0formformNNOPER0ofofINOPER0thetheDTOPER0receptorreceptorNNOPER0mightmightMDOPER0turnturnVBOPER0offoffRPOPER0aaDTOPER0specificspecificJJOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0immuneimmuneJJOPER0responseresponseNNOPER0withoutwithoutINOPER0generalgeneralJJOPER0immuneimmuneJJOPER0suppressionsuppressionNNOPER0,,,OPER0thetheDTOPER0companycompanyNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (DT A) (JJ soluble) (NN form)) (PP (IN of) (NP (DT the) (NN receptor)))) (VP (MD might) (VP (VB turn) (PRT (RP off)) (NP (NP (DT a) (JJ specific) (NN part)) (PP (IN of) (NP (DT the) (JJ immune) (NN response)))) (PP (IN without) (NP (JJ general) (JJ immune) (NN suppression)))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+ThetheDTOPER0ILilNNOPER0--HYPHOPER044CDOPER0receptorreceptorNNOPER0isbeVBZOPER0oneoneCDOPER0ofofINOPER0fivefiveCDCARDINALPER0suchsuchJJOPER0receptorsreceptorNNSOPER0totoTOOPER0bebeVBOPER0developeddevelopVBNOPER0andandCCOPER0testedtestVBNOPER0bybyINOPER0ReceptechReceptechNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0aaDTOPER0spinoffspinoffNNOPER0ofofINOPER0ImmunexImmunexNNPORGPER0,,,OPER0throughthroughINOPER0aaDTOPER0proposedproposeVBNOPER0$$$MONEYPER03030CDMONEYPER0millionmillionCDMONEYPER0initialinitialJJOPER0publicpublicJJOPER0offeringofferingNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (NN IL) (HYPH -) (CD 4)) (NN receptor)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD five) (JJ such) (NNS receptors)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN developed) (CC and) (VBN tested) (PP (IN by) (NP (NP (NNP Receptech) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN spinoff)) (PP (IN of) (NP (NNP Immunex)))) (, ,))) (PP (IN through) (NP (DT a) (VBN proposed) (NML (QP ($ $) (CD 30) (CD million))) (JJ initial) (JJ public) (NN offering)))))))))))) (. .)))
+ImmunexImmunexNNPORGPER0willwillMDOPER0contractcontractVBOPER0withwithINOPER0thetheDTOPER0spinoffspinoffNNOPER0totoTOOPER0provideprovideVBOPER0thetheDTOPER0researchresearchNNOPER0,,,OPER0developmentdevelopmentNNOPER0andandCCOPER0initialinitialJJOPER0testingtestingNNOPER0ofofINOPER0thetheDTOPER0newnewJJOPER0agentsagentNNSOPER0...OPER0(ROOT (S (NP (NNP Immunex)) (VP (MD will) (VP (VB contract) (PP (IN with) (NP (NP (DT the) (NN spinoff) (S (VP (TO to) (VP (VB provide) (NP (DT the) (NN research)))))) (, ,) (NP (NN development)) (CC and) (NP (NP (JJ initial) (NN testing)) (PP (IN of) (NP (DT the) (JJ new) (NNS agents)))))))) (. .)))
+ImmunexImmunexNNPORGPER0willwillMDOPER0havehaveVBOPER0thetheDTOPER0optionoptionNNOPER0totoTOOPER0buybuyVBOPER0backbackRBOPER0ReceptechReceptechNNPORGPER0sharesshareNNSOPER0afterafterINOPER0fivefiveCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NNP Immunex)) (VP (MD will) (VP (VB have) (NP (DT the) (NN option) (S (VP (TO to) (VP (VB buy) (ADVP (RB back)) (NP (NNP Receptech) (NNS shares)) (PP (IN after) (NP (CD five) (NNS years))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Immunex) (NNP Corp.))
+sid=0 spanning 3 until 4 headed by 3 parsed as its
+sid=0 spanning 6 until 34 headed by 7 parsed as (NP (NP (DT a) (NN molecule)) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB hold) (NP (NN potential)) (PP (IN as) (NP (NP (DT a) (NN treatment)) (PP (IN for) (NP (NP (NP (NNS disruptions)) (PP (IN of) (NP (DT the) (JJ immune) (HYPH -) (NN system)))) (, ,) (VP (VBG ranging) (PP (PP (IN from) (NP (NML (NN organ) (HYPH -) (NN transplant)) (NN rejection))) (, ,) (PP (IN to) (NP (NNS allergies) (CC and) (NN asthma))))))))))))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN molecule))
+sid=1 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT a) (NN protein)) (VP (VBN called) (S (NP (DT the) (NML (NN interleukin) (HYPH -) (CD 4)) (NN receptor)))))
+sid=2 spanning 0 until 3 headed by 0 parsed as (NP (NNP IL) (HYPH -) (CD 4))
+sid=3 spanning 0 until 11 headed by 4 parsed as (NP (NP (DT The) (NML (NN IL) (HYPH -) (CD 4)) (NN receptor)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (JJ such) (NNS cells))))))
+sid=3 spanning 1 until 4 headed by 1 parsed as IL
+sid=3 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN hormone) (POS 's))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN receptor))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN company))
+sid=6 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NN IL) (HYPH -) (CD 4)) (NN receptor))
+sid=6 spanning 1 until 4 headed by 1 parsed as IL
+sid=6 spanning 8 until 34 headed by 10 parsed as (NP (NP (CD five) (JJ such) (NNS receptors)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN developed) (CC and) (VBN tested) (PP (IN by) (NP (NP (NNP Receptech) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN spinoff)) (PP (IN of) (NP (NNP Immunex)))) (, ,))) (PP (IN through) (NP (DT a) (VBN proposed) (NML (QP ($ $) (CD 30) (CD million))) (JJ initial) (JJ public) (NN offering)))))))))
+sid=6 spanning 17 until 25 headed by 18 parsed as (NP (NP (NNP Receptech) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN spinoff)) (PP (IN of) (NP (NNP Immunex)))) (, ,))
+sid=6 spanning 23 until 24 headed by 23 parsed as (NP (NNP Immunex))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Immunex))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (NP (DT the) (NN spinoff) (S (VP (TO to) (VP (VB provide) (NP (DT the) (NN research)))))) (, ,) (NP (NN development)) (CC and) (NP (NP (JJ initial) (NN testing)) (PP (IN of) (NP (DT the) (JJ new) (NNS agents)))))
+sid=7 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ new) (NNS agents))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Immunex))
+sid=8 spanning 8 until 9 headed by 8 parsed as Receptech
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Immunex) (NNP Corp.))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ its) (NNS scientists))
+sid=0 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=0 spanning 6 until 34 headed by 7 parsed as (NP (NP (DT a) (NN molecule)) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB hold) (NP (NN potential)) (PP (IN as) (NP (NP (DT a) (NN treatment)) (PP (IN for) (NP (NP (NP (NNS disruptions)) (PP (IN of) (NP (DT the) (JJ immune) (HYPH -) (NN system)))) (, ,) (VP (VBG ranging) (PP (PP (IN from) (NP (NML (NN organ) (HYPH -) (NN transplant)) (NN rejection))) (, ,) (PP (IN to) (NP (NNS allergies) (CC and) (NN asthma))))))))))))))
+sid=0 spanning 13 until 34 headed by 14 parsed as (NP (NP (DT a) (NN treatment)) (PP (IN for) (NP (NP (NP (NNS disruptions)) (PP (IN of) (NP (DT the) (JJ immune) (HYPH -) (NN system)))) (, ,) (VP (VBG ranging) (PP (PP (IN from) (NP (NML (NN organ) (HYPH -) (NN transplant)) (NN rejection))) (, ,) (PP (IN to) (NP (NNS allergies) (CC and) (NN asthma))))))))
+sid=0 spanning 16 until 34 headed by 16 parsed as (NP (NP (NP (NNS disruptions)) (PP (IN of) (NP (DT the) (JJ immune) (HYPH -) (NN system)))) (, ,) (VP (VBG ranging) (PP (PP (IN from) (NP (NML (NN organ) (HYPH -) (NN transplant)) (NN rejection))) (, ,) (PP (IN to) (NP (NNS allergies) (CC and) (NN asthma))))))
+sid=0 spanning 16 until 22 headed by 16 parsed as (NP (NP (NNS disruptions)) (PP (IN of) (NP (DT the) (JJ immune) (HYPH -) (NN system))))
+sid=0 spanning 18 until 22 headed by 21 parsed as (NP (DT the) (JJ immune) (HYPH -) (NN system))
+sid=0 spanning 25 until 29 headed by 28 parsed as (NP (NML (NN organ) (HYPH -) (NN transplant)) (NN rejection))
+sid=0 spanning 31 until 34 headed by 31 parsed as (NP (NNS allergies) (CC and) (NN asthma))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN molecule))
+sid=1 spanning 3 until 15 headed by 5 parsed as (NP (NP (DT the) (NN mouse) (NN version)) (PP (IN of) (NP (NP (DT a) (NN protein)) (VP (VBN called) (S (NP (DT the) (NML (NN interleukin) (HYPH -) (CD 4)) (NN receptor)))))))
+sid=1 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT a) (NN protein)) (VP (VBN called) (S (NP (DT the) (NML (NN interleukin) (HYPH -) (CD 4)) (NN receptor)))))
+sid=1 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (NML (NN interleukin) (HYPH -) (CD 4)) (NN receptor))
+sid=2 spanning 0 until 3 headed by 0 parsed as (NP (NNP IL) (HYPH -) (CD 4))
+sid=2 spanning 4 until 23 headed by 5 parsed as (NP (NP (DT a) (NN hormone)) (SBAR (WHNP (WDT which)) (S (VP (VBZ directs) (NP (NP (DT the) (NN growth) (CC and) (NN function)) (PP (IN of) (NP (NP (JJ white) (NN blood) (NNS cells)) (VP (VBN involved) (PP (IN in) (NP (NP (DT the) (NN body) (POS 's)) (JJ immune) (NN response)))))))))))
+sid=2 spanning 8 until 23 headed by 9 parsed as (NP (NP (DT the) (NN growth) (CC and) (NN function)) (PP (IN of) (NP (NP (JJ white) (NN blood) (NNS cells)) (VP (VBN involved) (PP (IN in) (NP (NP (DT the) (NN body) (POS 's)) (JJ immune) (NN response)))))))
+sid=2 spanning 13 until 23 headed by 15 parsed as (NP (NP (JJ white) (NN blood) (NNS cells)) (VP (VBN involved) (PP (IN in) (NP (NP (DT the) (NN body) (POS 's)) (JJ immune) (NN response)))))
+sid=2 spanning 18 until 23 headed by 22 parsed as (NP (NP (DT the) (NN body) (POS 's)) (JJ immune) (NN response))
+sid=2 spanning 18 until 21 headed by 19 parsed as (NP (DT the) (NN body) (POS 's))
+sid=3 spanning 0 until 11 headed by 4 parsed as (NP (NP (DT The) (NML (NN IL) (HYPH -) (CD 4)) (NN receptor)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (JJ such) (NNS cells))))))
+sid=3 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (JJ such) (NNS cells))))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (JJ such) (NNS cells))
+sid=3 spanning 12 until 22 headed by 15 parsed as (NP (NP (NP (DT the) (NN hormone) (POS 's)) (NN message)) (SBAR (S (VP (TO to) (VP (VB rally) (NP (NP (DT the) (NN body) (POS 's)) (NN defense)))))))
+sid=3 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN hormone) (POS 's))
+sid=3 spanning 18 until 22 headed by 21 parsed as (NP (NP (DT the) (NN body) (POS 's)) (NN defense))
+sid=3 spanning 18 until 21 headed by 19 parsed as (NP (DT the) (NN body) (POS 's))
+sid=4 spanning 2 until 13 headed by 3 parsed as (NP (NP (JJ certain) (NNS conditions)) (PP (JJ such) (IN as) (NP (NML (NN autoimmune) (NNS diseases) (CC and) (NNS allergies) (CC and) (NN transplant)) (NN rejection))))
+sid=4 spanning 6 until 13 headed by 12 parsed as (NP (NML (NN autoimmune) (NNS diseases) (CC and) (NNS allergies) (CC and) (NN transplant)) (NN rejection))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNS doctors))
+sid=4 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (JJ immune) (NN response))
+sid=4 spanning 23 until 25 headed by 24 parsed as (NP (JJ such) (NNS cells))
+sid=4 spanning 29 until 35 headed by 31 parsed as (NP (NP (JJ harmful) (JJ inflammatory) (NNS reactions)) (CC or) (NP (NN cell) (NN destruction)))
+sid=4 spanning 29 until 32 headed by 31 parsed as (NP (JJ harmful) (JJ inflammatory) (NNS reactions))
+sid=4 spanning 33 until 35 headed by 34 parsed as (NP (NN cell) (NN destruction))
+sid=5 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT A) (JJ soluble) (NN form)) (PP (IN of) (NP (DT the) (NN receptor))))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN receptor))
+sid=5 spanning 9 until 16 headed by 11 parsed as (NP (NP (DT a) (JJ specific) (NN part)) (PP (IN of) (NP (DT the) (JJ immune) (NN response))))
+sid=5 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ immune) (NN response))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN company))
+sid=6 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NN IL) (HYPH -) (CD 4)) (NN receptor))
+sid=6 spanning 6 until 34 headed by 6 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (CD five) (JJ such) (NNS receptors)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN developed) (CC and) (VBN tested) (PP (IN by) (NP (NP (NNP Receptech) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN spinoff)) (PP (IN of) (NP (NNP Immunex)))) (, ,))) (PP (IN through) (NP (DT a) (VBN proposed) (NML (QP ($ $) (CD 30) (CD million))) (JJ initial) (JJ public) (NN offering)))))))))))
+sid=6 spanning 17 until 19 headed by 18 parsed as (NP (NP (NNP Receptech) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN spinoff)) (PP (IN of) (NP (NNP Immunex)))) (, ,))
+sid=6 spanning 17 until 25 headed by 18 parsed as (NP (NP (NNP Receptech) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN spinoff)) (PP (IN of) (NP (NNP Immunex)))) (, ,))
+sid=6 spanning 20 until 24 headed by 21 parsed as (NP (NP (DT a) (NN spinoff)) (PP (IN of) (NP (NNP Immunex))))
+sid=6 spanning 23 until 24 headed by 23 parsed as (NP (NNP Immunex))
+sid=6 spanning 26 until 34 headed by 33 parsed as (NP (DT a) (VBN proposed) (NML (QP ($ $) (CD 30) (CD million))) (JJ initial) (JJ public) (NN offering))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Immunex))
+sid=7 spanning 4 until 19 headed by 5 parsed as (NP (NP (DT the) (NN spinoff) (S (VP (TO to) (VP (VB provide) (NP (DT the) (NN research)))))) (, ,) (NP (NN development)) (CC and) (NP (NP (JJ initial) (NN testing)) (PP (IN of) (NP (DT the) (JJ new) (NNS agents)))))
+sid=7 spanning 4 until 10 headed by 5 parsed as (NP (DT the) (NN spinoff) (S (VP (TO to) (VP (VB provide) (NP (DT the) (NN research))))))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN research))
+sid=7 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ new) (NNS agents))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Immunex))
+sid=8 spanning 3 until 13 headed by 4 parsed as (NP (DT the) (NN option) (S (VP (TO to) (VP (VB buy) (ADVP (RB back)) (NP (NNP Receptech) (NNS shares)) (PP (IN after) (NP (CD five) (NNS years)))))))
+sid=8 spanning 8 until 10 headed by 9 parsed as (NP (NNP Receptech) (NNS shares))
+sid=8 spanning 8 until 9 headed by 8 parsed as Receptech
+sid=8 spanning 11 until 13 headed by 12 parsed as (NP (CD five) (NNS years))
+(end predicted mentions)
+---------gold clusters--------
+10 19 1 15 0 16 | { 'the company' 'Immunex' 'its' 'Immunex' 'Immunex Corp.' 'Immunex' }
+2 3 | { 'a molecule which may hold potential as a treatment for disruptions of the immune - system , ranging from organ - transplant rejection , to allergies and asthma' 'The molecule' }
+17 14 20 | { 'spinoff' 'Receptech Corp. , a spinoff of Immunex ,' 'Receptech' }
+18 13 | { 'the new agents' 'five such receptors to be developed and tested by Receptech Corp. , a spinoff of Immunex , through a proposed $ 30 million initial public offering' }
+6 9 4 11 | { 'The IL - 4 receptor on the surface of such cells' 'the receptor' 'a protein called the interleukin - 4 receptor' 'The IL - 4 receptor' }
+12 5 7 8 | { 'IL - 4' 'IL - 4' 'IL - 4' 'the hormone 's' }
+(end gold clusters)

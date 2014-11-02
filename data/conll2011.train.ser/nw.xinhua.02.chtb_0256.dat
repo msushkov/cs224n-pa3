@@ -1,0 +1,73 @@
+---------gloss--------
+(0) Xinhua News Agency , Beijing , April 23rd 
+(1) [36m{China 's}[0m Foreign Ministry spokesperson expressed condolences over [34m{the death of former US president Nixon on the night of the 22nd}[0m . 
+(2) In response to queries from reporters , [35m{this spokesperson}[0m said , during the period when [1m[31m{former US president Mr. Nixon}[0m was ill , Chinese leaders have relayed consolation through the Chinese ambassador stationed in the US . 
+(3) [36m{We}[0m express [36m{our}[0m deepest condolences over [1m[31m{his}[0m death . 
+(4) Key national leaders of [36m{China}[0m have already sent telegrams of condolences . 
+(5) -LRB- End -RRB- 
+(end gloss)
+---------document--------
+(nw/xinhua/02/chtb_0256); part 000
+sentences:
+XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0,,,OPER0BeijingBeijingNNPGPEPER0,,,OPER0AprilAprilNNPDATEPER023rd23rdNNOPER0(ROOT (FRAG (NP (NNP Xinhua) (NNP News) (NNP Agency)) (, ,) (NP (NNP Beijing)) (, ,) (NP (NNP April) (NN 23rd))))
+ChinaChinaNNPGPEPER0's'sPOSOPER0ForeignForeignNNPORGPER0MinistryMinistryNNPORGPER0spokespersonspokespersonNNOPER0expressedexpressVBDOPER0condolencescondolenceNNSOPER0overoverINOPER0thetheDTOPER0deathdeathNNOPER0ofofINOPER0formerformerJJOPER0USUSNNPGPEPER0presidentpresidentNNOPER0NixonNixonNNPPERSONPER0ononINOPER0thetheDTTIMEPER0nightnightNNTIMEPER0ofofINOPER0thetheDTDATEPER022nd22ndNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP China) (POS 's)) (NML (NNP Foreign) (NNP Ministry)) (NN spokesperson)) (VP (VBD expressed) (NP (NP (NNS condolences)) (PP (IN over) (NP (NP (DT the) (NN death)) (PP (IN of) (NP (NML (JJ former) (NNP US) (NN president)) (NNP Nixon)))))) (PP (IN on) (NP (NP (DT the) (NN night)) (PP (IN of) (NP (DT the) (NN 22nd)))))) (. .)))
+IninINOPER0responseresponseNNOPER0totoINOPER0queriesqueryNNSOPER0fromfromINOPER0reportersreporterNNSOPER0,,,OPER0thisthisDTOPER0spokespersonspokespersonNNOPER0saidsayVBDOPER0,,,OPER0duringduringINOPER0thetheDTOPER0periodperiodNNOPER0whenwhenWRBOPER0formerformerJJOPER0USUSNNPGPEPER0presidentpresidentNNOPER0Mr.Mr.NNPOPER0NixonNixonNNPPERSONPER0wasbeVBDOPER0illillJJOPER0,,,OPER0ChinesechineseJJOPER0leadersleaderNNSOPER0havehaveVBPOPER0relayedrelayVBDOPER0consolationconsolationNNOPER0throughthroughINOPER0thetheDTOPER0ChinesechineseJJOPER0ambassadorambassadorNNOPER0stationedstationVBNOPER0ininINOPER0thetheDTOPER0USUSNNPGPEPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NN response)) (PP (IN to) (NP (NP (NNS queries)) (PP (IN from) (NP (NNS reporters))))))) (, ,) (NP (DT this) (NN spokesperson)) (VP (VBD said) (, ,) (S (PP (IN during) (NP (NP (DT the) (NN period)) (SBAR (WHADVP (WRB when)) (S (NP (JJ former) (NML (NNP US) (NN president)) (NNP Mr.) (NNP Nixon)) (VP (VBD was) (ADJP (JJ ill))))))) (, ,) (NP (JJ Chinese) (NNS leaders)) (VP (VBP have) (VP (VBD relayed) (NP (NN consolation)) (PP (IN through) (NP (NP (DT the) (JJ Chinese) (NN ambassador)) (VP (VBN stationed) (PP (IN in) (NP (DT the) (NNP US)))))))))) (. .)))
+WewePRPOPER0expressexpressVBPOPER0ourwePRP$OPER0deepestdeepestJJSOPER0condolencescondolenceNNSOPER0overoverINOPER0hishePRP$OPER0deathdeathNNOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP express) (NP (PRP$ our) (JJS deepest) (NNS condolences)) (PP (IN over) (NP (PRP$ his) (NN death)))) (. .)))
+KeykeyJJOPER0nationalnationalJJOPER0leadersleaderNNSOPER0ofofINOPER0ChinaChinaNNPGPEPER0havehaveVBPOPER0alreadyalreadyRBOPER0sentsendVBNOPER0telegramstelegramNNOPER0ofofINOPER0condolencescondolenceNNSOPER0...OPER0(ROOT (S (NP (NP (JJ Key) (JJ national) (NNS leaders)) (PP (IN of) (NP (NNP China)))) (VP (VBP have) (ADVP (RB already)) (VP (VBN sent) (NP (NP (NN telegrams)) (PP (IN of) (NP (NNS condolences)))))) (. .)))
+-LRB--lrb--LRB-OPER0EndendNNORGPER0-RRB--rrb--RRB-OPER0(ROOT (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP China) (POS 's)) (NML (NNP Foreign) (NNP Ministry)) (NN spokesperson))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP China) (POS 's))
+sid=1 spanning 8 until 21 headed by 9 parsed as (NP (NP (DT the) (NN death)) (PP (IN of) (NP (NML (JJ former) (NNP US) (NN president)) (NNP Nixon))))
+sid=1 spanning 11 until 15 headed by 14 parsed as (NP (NML (JJ former) (NNP US) (NN president)) (NNP Nixon))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN spokesperson))
+sid=2 spanning 15 until 20 headed by 19 parsed as (NP (JJ former) (NML (NNP US) (NN president)) (NNP Mr.) (NNP Nixon))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=3 spanning 2 until 3 headed by 2 parsed as our
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NN death))
+sid=3 spanning 6 until 7 headed by 6 parsed as his
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNP China))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Xinhua) (NNP News) (NNP Agency))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Beijing))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP April) (NN 23rd))
+sid=0 spanning 6 until 7 headed by 6 parsed as April
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP China) (POS 's)) (NML (NNP Foreign) (NNP Ministry)) (NN spokesperson))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP China) (POS 's))
+sid=1 spanning 2 until 4 headed by 3 parsed as Ministry
+sid=1 spanning 6 until 15 headed by 6 parsed as (NP (NP (NNS condolences)) (PP (IN over) (NP (NP (DT the) (NN death)) (PP (IN of) (NP (NML (JJ former) (NNP US) (NN president)) (NNP Nixon))))))
+sid=1 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT the) (NN death)) (PP (IN of) (NP (NML (JJ former) (NNP US) (NN president)) (NNP Nixon))))
+sid=1 spanning 11 until 15 headed by 14 parsed as (NP (NML (JJ former) (NNP US) (NN president)) (NNP Nixon))
+sid=1 spanning 12 until 13 headed by 12 parsed as US
+sid=1 spanning 16 until 21 headed by 17 parsed as (NP (NP (DT the) (NN night)) (PP (IN of) (NP (DT the) (NN 22nd))))
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN 22nd))
+sid=2 spanning 1 until 6 headed by 1 parsed as (NP (NP (NN response)) (PP (IN to) (NP (NP (NNS queries)) (PP (IN from) (NP (NNS reporters))))))
+sid=2 spanning 3 until 6 headed by 3 parsed as (NP (NP (NNS queries)) (PP (IN from) (NP (NNS reporters))))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNS reporters))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN spokesperson))
+sid=2 spanning 12 until 22 headed by 13 parsed as (NP (NP (DT the) (NN period)) (SBAR (WHADVP (WRB when)) (S (NP (JJ former) (NML (NNP US) (NN president)) (NNP Mr.) (NNP Nixon)) (VP (VBD was) (ADJP (JJ ill))))))
+sid=2 spanning 15 until 20 headed by 19 parsed as (NP (JJ former) (NML (NNP US) (NN president)) (NNP Mr.) (NNP Nixon))
+sid=2 spanning 16 until 17 headed by 16 parsed as US
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (JJ Chinese) (NNS leaders))
+sid=2 spanning 29 until 36 headed by 31 parsed as (NP (NP (DT the) (JJ Chinese) (NN ambassador)) (VP (VBN stationed) (PP (IN in) (NP (DT the) (NNP US)))))
+sid=2 spanning 34 until 36 headed by 35 parsed as (NP (DT the) (NNP US))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=3 spanning 2 until 5 headed by 4 parsed as (NP (PRP$ our) (JJS deepest) (NNS condolences))
+sid=3 spanning 2 until 3 headed by 2 parsed as (PRP$ our)
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NN death))
+sid=3 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=4 spanning 0 until 5 headed by 2 parsed as (NP (NP (JJ Key) (JJ national) (NNS leaders)) (PP (IN of) (NP (NNP China))))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNP China))
+sid=4 spanning 8 until 11 headed by 8 parsed as (NP (NP (NN telegrams)) (PP (IN of) (NP (NNS condolences))))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NNS condolences))
+sid=5 spanning 0 until 3 headed by 1 parsed as (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-))
+(end predicted mentions)
+---------gold clusters--------
+8 2 | { 'his death' 'the death of former US president Nixon on the night of the 22nd' }
+4 0 | { 'this spokesperson' 'China 's Foreign Ministry spokesperson' }
+6 7 1 10 | { 'We' 'our' 'China 's' 'China' }
+3 9 5 | { 'former US president Nixon' 'his' 'former US president Mr. Nixon' }
+(end gold clusters)

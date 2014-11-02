@@ -1,0 +1,47 @@
+---------gloss--------
+(0) Researchers studied [4m[31m{children under a age of 5}[0m . 
+(1) Half of [4m[31m{them}[0m get [3m[36m{the flu}[0m . 
+(2) While unvaccinated kids bring [3m[36m{it}[0m home and infect brothers and sisters , a vaccinated child helps reduce the risk by 80 % . 
+(3) [3m[36m{Flu}[0m shots reduce the need for antibiotics and health care costs . 
+(4) This is published in `` the Journal of the American Medical Association . '' 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0007); part 000
+sentences:
+ResearchersresearcherNNSOPER0studiedstudyVBDOPER0childrenchildNNSOPER0underunderINOPER0aaDTDATEPER0ageageNNDATEPER0ofofINDATEPER055CDDATEPER0...OPER0(ROOT (S (NP (NNS Researchers)) (VP (VBD studied) (NP (NP (NNS children)) (PP (IN under) (NP (NP (DT a) (NN age)) (PP (IN of) (NP (CD 5))))))) (. .)))
+HalfhalfNNOPER0ofofINOPER0themtheyPRPOPER0getgetVBPOPER0thetheDTOPER0flufluNNOPER0...OPER0(ROOT (S (NP (NP (NN Half)) (PP (IN of) (NP (PRP them)))) (VP (VBP get) (NP (DT the) (NN flu))) (. .)))
+WhilewhileINOPER0unvaccinatedunvaccinatedJJOPER0kidskidNNSOPER0bringbringVBOPER0ititPRPOPER0homehomeRBOPER0andandCCOPER0infectinfectVBOPER0brothersbrotherNNSOPER0andandCCOPER0sisterssisterNNSOPER0,,,OPER0aaDTOPER0vaccinatedvaccinatedJJOPER0childchildNNOPER0helpshelpVBZOPER0reducereduceVBOPER0thetheDTOPER0riskriskNNOPER0bybyINOPER08080CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (SBAR (IN While) (S (NP (JJ unvaccinated) (NNS kids)) (VP (VP (VB bring) (NP (PRP it)) (ADVP (RB home))) (CC and) (VP (VB infect) (NP (NNS brothers) (CC and) (NNS sisters)))))) (, ,) (NP (DT a) (JJ vaccinated) (NN child)) (VP (VBZ helps) (S (VP (VB reduce) (NP (DT the) (NN risk)) (PP (IN by) (NP (CD 80) (NN %)))))) (. .)))
+FlufluNNOPER0shotsshotNNSOPER0reducereduceVBPOPER0thetheDTOPER0needneedNNOPER0forforINOPER0antibioticsantibioticNNSOPER0andandCCOPER0healthhealthNNOPER0carecareNNOPER0costscostNNSOPER0...OPER0(ROOT (S (NP (NN Flu) (NNS shots)) (VP (VBP reduce) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (NP (NNS antibiotics)) (CC and) (NP (NML (NN health) (NN care)) (NNS costs)))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0publishedpublishVBNOPER0ininINOPER0``````OthetheDTORGPER1JournalJournalNNPORGPER1ofofINORGPER1thetheDTORGPER1AmericanAmericanNNPORGPER1MedicalMedicalNNPORGPER1AssociationAssociationNNPORGPER1...OPER1''''''OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (VP (VBN published) (PP (IN in) (`` ``) (NP (NP (DT the) (NNP Journal)) (PP (IN of) (NP (DT the) (NNP American) (NNP Medical) (NNP Association))))))) (. .) ('' '')))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 8 headed by 2 parsed as (NP (NP (NNS children)) (PP (IN under) (NP (NP (DT a) (NN age)) (PP (IN of) (NP (CD 5))))))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (PRP them))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN flu))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=3 spanning 0 until 1 headed by 0 parsed as Flu
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNS Researchers))
+sid=0 spanning 2 until 8 headed by 2 parsed as (NP (NP (NNS children)) (PP (IN under) (NP (NP (DT a) (NN age)) (PP (IN of) (NP (CD 5))))))
+sid=0 spanning 4 until 8 headed by 5 parsed as (NP (NP (DT a) (NN age)) (PP (IN of) (NP (CD 5))))
+sid=1 spanning 0 until 3 headed by 0 parsed as (NP (NP (NN Half)) (PP (IN of) (NP (PRP them))))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN flu))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (JJ unvaccinated) (NNS kids))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=2 spanning 8 until 11 headed by 8 parsed as (NP (NNS brothers) (CC and) (NNS sisters))
+sid=2 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (JJ vaccinated) (NN child))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN risk))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NN Flu) (NNS shots))
+sid=3 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NN need)) (PP (IN for) (NP (NP (NNS antibiotics)) (CC and) (NP (NML (NN health) (NN care)) (NNS costs)))))
+sid=3 spanning 6 until 11 headed by 6 parsed as (NP (NP (NNS antibiotics)) (CC and) (NP (NML (NN health) (NN care)) (NNS costs)))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNS antibiotics))
+sid=3 spanning 8 until 11 headed by 10 parsed as (NP (NML (NN health) (NN care)) (NNS costs))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=4 spanning 5 until 12 headed by 6 parsed as (NP (NP (DT the) (NNP Journal)) (PP (IN of) (NP (DT the) (NNP American) (NNP Medical) (NNP Association))))
+(end predicted mentions)
+---------gold clusters--------
+3 4 2 | { 'it' 'Flu' 'the flu' }
+1 0 | { 'them' 'children under a age of 5' }
+(end gold clusters)

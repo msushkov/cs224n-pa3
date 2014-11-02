@@ -1,0 +1,43 @@
+---------gloss--------
+(0) [4m[36m{Palestinian President Yasser Arafat}[0m is turning to [4m[35m{Russia}[0m for help in ending the [31m{Mideast}[0m violence . 
+(1) [4m[36m{Arafat}[0m plans to meet with Russian President Vladimir Putin tomorrow in Moscow . 
+(2) [4m[35m{Russia}[0m is a co-sponsor of the [31m{Middle East}[0m peace process , but has traditionally played a secondary role to the United States . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0101); part 000
+sentences:
+PalestinianpalestinianJJOPER0PresidentPresidentNNPOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0isbeVBZOPER0turningturnVBGOPER0totoINOPER0RussiaRussiaNNPGPEPER0forforINOPER0helphelpNNOPER0ininINOPER0endingendVBGOPER0thetheDTOPER0MideastMideastNNPLOCPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (NML (JJ Palestinian) (NNP President)) (NNP Yasser) (NNP Arafat)) (VP (VBZ is) (VP (VBG turning) (PP (IN to) (NP (NNP Russia))) (PP (IN for) (NP (NP (NN help)) (PP (IN in) (S (VP (VBG ending) (NP (DT the) (NNP Mideast) (NN violence))))))))) (. .)))
+ArafatArafatNNPPERSONPER0plansplanVBZOPER0totoTOOPER0meetmeetVBOPER0withwithINOPER0RussianrussianJJOPER0PresidentPresidentNNPOPER0VladimirVladimirNNPPERSONPER0PutinPutinNNPPERSONPER0tomorrowtomorrowNNDATEPER0ininINOPER0MoscowMoscowNNPGPEPER0...OPER0(ROOT (S (NP (NNP Arafat)) (VP (VBZ plans) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin))) (NP (NN tomorrow)) (PP (IN in) (NP (NNP Moscow))))))) (. .)))
+RussiaRussiaNNPGPEPER0isbeVBZOPER0aaDTOPER0co-sponsorco-sponsorNNOPER0ofofINOPER0thetheDTOPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0peacepeaceNNOPER0processprocessNNOPER0,,,OPER0butbutCCOPER0hashaveVBZOPER0traditionallytraditionallyRBOPER0playedplayVBNOPER0aaDTOPER0secondarysecondaryJJOPER0roleroleNNOPER0totoINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (NP (NNP Russia)) (VP (VP (VBZ is) (NP (NP (DT a) (NN co-sponsor)) (PP (IN of) (NP (DT the) (NML (NNP Middle) (NNP East)) (NN peace) (NN process))))) (, ,) (CC but) (VP (VBZ has) (ADVP (RB traditionally)) (VP (VBN played) (NP (DT a) (JJ secondary) (NN role)) (PP (IN to) (NP (DT the) (NNP United) (NNP States)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Palestinian) (NNP President)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP Russia))
+sid=0 spanning 13 until 14 headed by 13 parsed as Mideast
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Arafat))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Russia))
+sid=2 spanning 6 until 8 headed by 7 parsed as East
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Palestinian) (NNP President)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP Russia))
+sid=0 spanning 9 until 15 headed by 9 parsed as (NP (NP (NN help)) (PP (IN in) (S (VP (VBG ending) (NP (DT the) (NNP Mideast) (NN violence))))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP Mideast) (NN violence))
+sid=0 spanning 13 until 14 headed by 13 parsed as Mideast
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Arafat))
+sid=1 spanning 5 until 9 headed by 8 parsed as (NP (NML (JJ Russian) (NNP President)) (NNP Vladimir) (NNP Putin))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NN tomorrow))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNP Moscow))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Russia))
+sid=2 spanning 2 until 10 headed by 3 parsed as (NP (NP (DT a) (NN co-sponsor)) (PP (IN of) (NP (DT the) (NML (NNP Middle) (NNP East)) (NN peace) (NN process))))
+sid=2 spanning 5 until 10 headed by 9 parsed as (NP (DT the) (NML (NNP Middle) (NNP East)) (NN peace) (NN process))
+sid=2 spanning 6 until 8 headed by 7 parsed as East
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT a) (JJ secondary) (NN role))
+sid=2 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (NNP United) (NNP States))
+(end predicted mentions)
+---------gold clusters--------
+4 1 | { 'Russia' 'Russia' }
+3 0 | { 'Arafat' 'Palestinian President Yasser Arafat' }
+5 2 | { 'Middle East' 'Mideast' }
+(end gold clusters)

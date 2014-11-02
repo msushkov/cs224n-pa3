@@ -1,0 +1,36 @@
+---------gloss--------
+(0) [32m{Yugoslavia}[0m says [32m{it}[0m will restore diplomatic ties with the United States , Britain , France and Germany . 
+(1) President Vojislav Kostunica has pledged to end [32m{Yugoslavia 's}[0m isolation . 
+(2) David Coller , VOA News . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0103); part 000
+sentences:
+YugoslaviaYugoslaviaNNPORGPER0sayssayVBZOPER0ititPRPOPER0willwillMDOPER0restorerestoreVBOPER0diplomaticdiplomaticJJOPER0tiestieNNSOPER0withwithINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0,,,OPER0BritainBritainNNPGPEPER0,,,OPER0FranceFranceNNPGPEPER0andandCCOPER0GermanyGermanyNNPGPEPER0...OPER0(ROOT (S (NP (NNP Yugoslavia)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB restore) (NP (NP (JJ diplomatic) (NNS ties)) (PP (IN with) (NP (NP (DT the) (NNP United) (NNP States)) (, ,) (NP (NNP Britain)) (, ,) (NP (NNP France)) (CC and) (NP (NNP Germany)))))))))) (. .)))
+PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0hashaveVBZOPER0pledgedpledgeVBNOPER0totoTOOPER0endendVBOPER0YugoslaviaYugoslaviaNNPGPEPER0's'sPOSOPER0isolationisolationNNOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Vojislav) (NNP Kostunica)) (VP (VBZ has) (VP (VBN pledged) (S (VP (TO to) (VP (VB end) (NP (NP (NNP Yugoslavia) (POS 's)) (NN isolation))))))) (. .)))
+DavidDavidNNPPERSONPER0CollerCollerNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=1 spanning 7 until 9 headed by 7 parsed as (NP (NNP Yugoslavia) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=0 spanning 5 until 17 headed by 6 parsed as (NP (NP (JJ diplomatic) (NNS ties)) (PP (IN with) (NP (NP (DT the) (NNP United) (NNP States)) (, ,) (NP (NNP Britain)) (, ,) (NP (NNP France)) (CC and) (NP (NNP Germany)))))
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (, ,) (NP (NNP Britain)) (, ,) (NP (NNP France)) (CC and) (NP (NNP Germany)))
+sid=0 spanning 8 until 17 headed by 10 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (, ,) (NP (NNP Britain)) (, ,) (NP (NNP France)) (CC and) (NP (NNP Germany)))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Britain))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNP France))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNP Germany))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NNP President) (NNP Vojislav) (NNP Kostunica))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (NP (NNP Yugoslavia) (POS 's)) (NN isolation))
+sid=1 spanning 7 until 9 headed by 7 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP David) (NNP Coller))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+(end predicted mentions)
+---------gold clusters--------
+0 1 2 | { 'Yugoslavia' 'it' 'Yugoslavia 's' }
+(end gold clusters)

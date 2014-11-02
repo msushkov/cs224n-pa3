@@ -1,0 +1,28 @@
+---------gloss--------
+(0) [33m{Jeffrey E. Levin}[0m was named vice president and chief economist of this commodity futures and options exchange . 
+(1) [33m{He}[0m had been associate professor in the department of finance at Seton Hall University . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1510); part 000
+sentences:
+JeffreyJeffreyNNPPERSONPER0E.E.NNPPERSONPER0LevinLevinNNPPERSONPER0wasbeVBDOPER0namednameVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0economisteconomistNNOPER0ofofINOPER0thisthisDTOPER0commoditycommodityNNOPER0futuresfutureNNSOPER0andandCCOPER0optionsoptionNNSOPER0exchangeexchangeNNOPER0...OPER0(ROOT (S (NP (NNP Jeffrey) (NNP E.) (NNP Levin)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (NN economist)) (PP (IN of) (NP (DT this) (NML (NN commodity) (NNS futures) (CC and) (NNS options)) (NN exchange))))))) (. .)))
+HehePRPOPER0hadhaveVBDOPER0beenbeVBNOPER0associateassociateNNOPER0professorprofessorNNOPER0ininINOPER0thetheDTOPER0departmentdepartmentNNOPER0ofofINOPER0financefinanceNNOPER0atatINOPER0SetonSetonNNPORGPER0HallHallNNPORGPER0UniversityUniversityNNPORGPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD had) (VP (VBN been) (NP (NP (NN associate) (NN professor)) (PP (IN in) (NP (NP (DT the) (NN department)) (PP (IN of) (NP (NN finance))))) (PP (IN at) (NP (NNP Seton) (NNP Hall) (NNP University)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Jeffrey) (NNP E.) (NNP Levin))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Jeffrey) (NNP E.) (NNP Levin))
+sid=0 spanning 5 until 17 headed by 6 parsed as (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (NN economist)) (PP (IN of) (NP (DT this) (NML (NN commodity) (NNS futures) (CC and) (NNS options)) (NN exchange))))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NN vice) (NN president))
+sid=0 spanning 11 until 17 headed by 16 parsed as (NP (DT this) (NML (NN commodity) (NNS futures) (CC and) (NNS options)) (NN exchange))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 3 until 14 headed by 4 parsed as (NP (NP (NN associate) (NN professor)) (PP (IN in) (NP (NP (DT the) (NN department)) (PP (IN of) (NP (NN finance))))) (PP (IN at) (NP (NNP Seton) (NNP Hall) (NNP University))))
+sid=1 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT the) (NN department)) (PP (IN of) (NP (NN finance))))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (NNP Seton) (NNP Hall) (NNP University))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Jeffrey E. Levin' 'He' }
+(end gold clusters)

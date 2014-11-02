@@ -1,0 +1,186 @@
+---------gloss--------
+(0) Time now to check the business news with [3m[35m{Carrie Lee in New York}[0m . 
+(1) [3m[35m{Carrie .}[0m 
+(2) A [4m[35m{you}[0m said it , [4m[35m{Renay}[0m . 
+(3) The Dow was in negative territory much of [3m[33m{the day}[0m . 
+(4) A couple stocks losing ground . 
+(5) [4m[33m{Coca Cola}[0m , down 6.1 % . 
+(6) They did okay on the profit quarter , but the taste vowel [32m{came}[0m in late for all the regions [32m{that}[0m 's why [4m[33m{it}[0m is selling off [3m[33m{today}[0m . 
+(7) You can see the Nasdaq . 
+(8) Pretty nice gains holding steady throughout [3m[33m{the day}[0m , mainly due to [31m{Intel and Microsoft}[0m . 
+(9) [31m{They}[0m 're influential on thed ? 
+(10) [31m{They}[0m had better than expected profit reports for the recent quarter . 
+(11) [31m{They both}[0m had good things to say going forward upping or reiterating 2003 guidance . 
+(12) Good solid reports . 
+(13) [4m[36m{Motorola}[0m , cutting another 3,000 jobs by the end of the year . 
+(14) Profits for the end of the year did see profit as well . 
+(15) [4m[36m{Motorola}[0m and Texas Instruments both in the chips base as well swinging to profits as well , with sales up 20 % . 
+(16) Finally [4m[34m{AMR}[0m . 
+(17) [4m[32m{The stock}[0m gained 15 % [4m[31m{yesterday}[0m . 
+(18) [4m[32m{Today 's shares}[0m up another cent 8 % . 
+(19) [3m[34m{The flight attendants}[0m have until 6:00 [3m[33m{today}[0m to ratify [3m[36m{labor concessions}[0m . 
+(20) The pilots ' union and ground crew did so [4m[31m{yesterday}[0m . 
+(21) [3m[34m{The flight attendants}[0m came in with a close vote rejecting [3m[36m{these concessions}[0m so the CEO has extended the deadline [3m[33m{today}[0m . 
+(22) If [3m[34m{they}[0m do n't ratify [3m[36m{these agreements}[0m , [4m[34m{AMR}[0m will have to file for bankruptcy . 
+(23) Investors are betting [3m[34m{they}[0m will agree . 
+(24) 16.8 % to the upside is certainly a vote of confidence . 
+(25) Back to you , guys . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0210); part 000
+sentences:
+TimetimeNNORGPER0nownowRBOPER0totoTOOPER0checkcheckVBOPER0thetheDTOPER0businessbusinessNNOPER0newsnewsNNOPER0withwithINOPER0CarrieCarrieNNPPERSONPER0LeeLeeNNPPERSONPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (S (NP (NN Time)) (ADVP (RB now)) (VP (TO to) (VP (VB check) (NP (DT the) (NN business) (NN news)) (PP (IN with) (NP (NP (NNP Carrie) (NNP Lee)) (PP (IN in) (NP (NNP New) (NNP York))))))) (. .)))
+CarrieCarrieNNPPERSONPER0...OPER0(ROOT (NP (NNP Carrie) (. .)))
+AaDTOPER0youyouPRPOPER0saidsayVBDOPER0ititPRPOPER0,,,OPER0RenayRenayNNPGPEPER0...OPER0(ROOT (FRAG (INTJ (DT A) (PRN (S (NP (PRP you)) (VP (VBD said) (NP (PRP it)))))) (, ,) (NP (NNP Renay)) (. .)))
+ThetheDTOPER0DowDowNNPOPER0wasbeVBDOPER0ininINOPER0negativenegativeJJOPER0territoryterritoryNNOPER0muchmuchJJOPER0ofofINOPER0thetheDTDATEPER0daydayNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP Dow)) (VP (VBD was) (PP (IN in) (NP (JJ negative) (NN territory))) (NP (NP (JJ much)) (PP (IN of) (NP (DT the) (NN day))))) (. .)))
+AaDTOPER0couplecoupleNNOPER0stocksstockNNSOPER0losingloseVBGOPER0groundgroundNNOPER0...OPER0(ROOT (FRAG (NP (QP (DT A) (NN couple)) (NNS stocks)) (VP (VBG losing) (NP (NN ground))) (. .)))
+CocaCocaNNPORGPER0ColaColaNNPORGPER0,,,OPER0downdownINOPER06.16.1CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (FRAG (NP (NNP Coca) (NNP Cola)) (, ,) (ADVP (IN down) (NP (CD 6.1) (NN %))) (. .)))
+TheytheyPRPOPER0diddoVBDOPER0okayokayRBOPER0ononINOPER0thetheDTOPER0profitprofitNNOPER0quarterquarterNNDATEPER0,,,OPER0butbutCCOPER0thetheDTOPER0tastetasteNNOPER0vowelvowelNNOPER0camecomeVBDOPER0ininRBOPER0latelateRBOPER0forforINOPER0allallPDTOPER0thetheDTOPER0regionsregionNNSOPER0thatthatWDTOPER0'sbeVBZOPER0whywhyWRBOPER0ititPRPOPER0isbeVBZOPER0sellingsellVBGOPER0offoffRPOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (S (NP (PRP They)) (VP (VBD did) (ADVP (RB okay)) (PP (IN on) (NP (DT the) (NN profit) (NN quarter))))) (, ,) (CC but) (S (NP (DT the) (NN taste) (NN vowel)) (VP (VBD came) (ADVP (RB in)) (ADVP (RB late) (PP (IN for) (NP (NP (PDT all) (DT the) (NNS regions)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG selling) (PRT (RP off)) (NP (NN today)))))))))))))) (. .)))
+YouyouPRPOPER0cancanMDOPER0seeseeVBOPER0thetheDTOPER0NasdaqNasdaqNNPORGPER0...OPER0(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB see) (NP (DT the) (NNP Nasdaq)))) (. .)))
+PrettyprettyRBOPER0niceniceJJOPER0gainsgainNNSOPER0holdingholdVBGOPER0steadysteadyJJOPER0throughoutthroughoutINOPER0thetheDTDATEPER0daydayNNDATEPER0,,,OPER0mainlymainlyRBOPER0duedueJJOPER0totoINOPER0IntelIntelNNPORGPER0andandCCOPER0MicrosoftMicrosoftNNPORGPER0...OPER0(ROOT (S (NP (ADJP (RB Pretty) (JJ nice)) (NNS gains)) (VP (VBG holding) (S (ADJP (JJ steady)) (PP (IN throughout) (NP (DT the) (NN day)))) (, ,) (PP (ADVP (RB mainly)) (JJ due) (PP (IN to) (NP (NP (NNP Intel)) (CC and) (NP (NNP Microsoft)))))) (. .)))
+TheytheyPRPOPER0'rebeVBPOPER0influentialinfluentialJJOPER0ononINOPER0thedthedJJOPER0??.OPER0(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ influential) (PP (IN on) (ADJP (JJ thed))))) (. ?)))
+TheytheyPRPOPER0hadhaveVBDOPER0betterbetterJJROPER0thanthanINOPER0expectedexpectVBNOPER0profitprofitNNOPER0reportsreportNNSOPER0forforINOPER0thetheDTDATEPER0recentrecentJJDATEPER0quarterquarterNNDATEPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBD had) (ADJP (ADJP (JJR better)) (PP (IN than) (S (VP (VBN expected) (NP (NP (NN profit) (NNS reports)) (PP (IN for) (NP (DT the) (JJ recent) (NN quarter))))))))) (. .)))
+TheytheyPRPOPER0bothbothDTOPER0hadhaveVBDOPER0goodgoodJJOPER0thingsthingNNSOPER0totoTOOPER0saysayVBOPER0goinggoVBGOPER0forwardforwardRBOPER0uppingupVBGOPER0ororCCOPER0reiteratingreiterateVBGOPER020032003CDDATEPER0guidanceguidanceNNOPER0...OPER0(ROOT (S (NP (NP (PRP They)) (NP (DT both))) (VP (VBD had) (NP (NP (JJ good) (NNS things)) (SBAR (S (VP (TO to) (VP (VB say) (S (VP (VBG going) (ADVP (RB forward)) (S (VP (VBG upping) (CC or) (VBG reiterating) (NP (CD 2003) (NN guidance)))))))))))) (. .)))
+GoodgoodJJOPER0solidsolidJJOPER0reportsreportNNSOPER0...OPER0(ROOT (FRAG (ADJP (JJ Good)) (NP (JJ solid) (NNS reports)) (. .)))
+MotorolaMotorolaNNPORGPER0,,,OPER0cuttingcutVBGOPER0anotheranotherDTCARDINALPER03,0003,000CDCARDINALPER0jobsjobNNSOPER0bybyINOPER0thetheDTDATEPER0endendNNDATEPER0ofofINDATEPER0thetheDTDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NNP Motorola)) (, ,) (VP (VBG cutting) (NP (QP (DT another) (CD 3,000)) (NNS jobs)) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year)))))) (. .)))
+ProfitsprofitNNSOPER0forforINOPER0thetheDTDATEPER0endendNNDATEPER0ofofINDATEPER0thetheDTDATEPER0yearyearNNDATEPER0diddoVBDOPER0seeseeVBOPER0profitprofitNNOPER0asasRBOPER0wellwellRBOPER0...OPER0(ROOT (S (NP (NP (NNS Profits)) (PP (IN for) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year)))))) (VP (VBD did) (VP (VB see) (NP (NN profit)) (ADVP (RB as) (RB well)))) (. .)))
+MotorolaMotorolaNNPORGPER0andandCCOPER0TexasTexasNNPORGPER0InstrumentsInstrumentsNNPORGPER0bothbothDTOPER0ininINOPER0thetheDTOPER0chipschipNNSOPER0basebaseVBPOPER0asasRBOPER0wellwellRBOPER0swingingswingingNNOPER0totoINOPER0profitsprofitNNSOPER0asasRBOPER0wellwellRBOPER0,,,OPER0withwithINOPER0salessaleNNSOPER0upupINOPER02020CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NP (NNP Motorola)) (CC and) (NP (NP (NP (NNP Texas) (NNP Instruments)) (NP (DT both))) (PP (IN in) (NP (DT the) (NNS chips))))) (VP (VBP base) (ADVP (RB as) (RB well)) (NP (NP (NN swinging)) (PP (IN to) (NP (NNS profits)))) (ADVP (RB as) (RB well)) (, ,) (PP (IN with) (NP (NP (NNS sales)) (PP (IN up) (NP (CD 20) (NN %)))))) (. .)))
+FinallyfinallyRBOPER0AMRAMRNNPORGPER0...OPER0(ROOT (FRAG (ADVP (RB Finally)) (NP (NNP AMR)) (. .)))
+ThetheDTOPER0stockstockNNOPER0gainedgainVBDOPER01515CDPERCENTPER0%%NNPERCENTPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NN stock)) (VP (VBD gained) (NP (CD 15) (NN %)) (NP (NN yesterday))) (. .)))
+TodaytodayNNDATEPER0'sbeVBZOPER0sharesshareNNSOPER0upupINOPER0anotheranotherDTPERCENTPER0centcentNNPERCENTPER088CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NN Today)) (VP (VBZ 's) (NP (NNS shares)) (PP (IN up) (NP (NP (DT another) (NN cent)) (NP (CD 8) (NN %))))) (. .)))
+ThetheDTOPER0flightflightNNOPER0attendantsattendantNNSOPER0havehaveVBPOPER0untiluntilINOPER06:006:00CDTIMEPER0todaytodayNNDATEPER0totoTOOPER0ratifyratifyVBOPER0laborlaborNNOPER0concessionsconcessionNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN flight) (NNS attendants)) (VP (VBP have) (PP (IN until) (NP (CD 6:00) (NN today))) (S (VP (TO to) (VP (VB ratify) (NP (NN labor) (NNS concessions)))))) (. .)))
+ThetheDTOPER0pilotspilotNNSOPER0''POSOPER0unionunionNNOPER0andandCCOPER0groundgroundNNOPER0crewcrewNNOPER0diddoVBDOPER0sosoRBOPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NNS pilots) (POS ')) (NN union)) (CC and) (NP (NN ground) (NN crew))) (VP (VBD did) (ADVP (RB so)) (NP (NN yesterday))) (. .)))
+ThetheDTOPER0flightflightNNOPER0attendantsattendantNNSOPER0camecomeVBDOPER0ininRPOPER0withwithINOPER0aaDTOPER0closecloseJJOPER0votevoteNNOPER0rejectingrejectVBGOPER0thesetheseDTOPER0concessionsconcessionNNSOPER0sosoINOPER0thetheDTOPER0CEOceoNNOPER0hashaveVBZOPER0extendedextendVBNOPER0thetheDTOPER0deadlinedeadlineNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NN flight) (NNS attendants)) (VP (VBD came) (PRT (RP in)) (PP (IN with) (NP (NP (DT a) (JJ close) (NN vote)) (VP (VBG rejecting) (NP (DT these) (NNS concessions))))) (SBAR (IN so) (S (NP (DT the) (NN CEO)) (VP (VBZ has) (VP (VBN extended) (NP (DT the) (NN deadline)) (NP (NN today))))))) (. .)))
+IfifINOPER0theytheyPRPOPER0dodoVBPOPER0n'tnotRBOPER0ratifyratifyVBOPER0thesetheseDTOPER0agreementsagreementNNSOPER0,,,OPER0AMRAMRNNPORGPER0willwillMDOPER0havehaveVBOPER0totoTOOPER0filefileVBOPER0forforINOPER0bankruptcybankruptcyNNOPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (PRP they)) (VP (VBP do) (RB n't) (VP (VB ratify) (NP (DT these) (NNS agreements)))))) (, ,) (NP (NNP AMR)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB file) (PP (IN for) (NP (NN bankruptcy)))))))) (. .)))
+InvestorsinvestorNNSOPER0arebeVBPOPER0bettingbetVBGOPER0theytheyPRPOPER0willwillMDOPER0agreeagreeVBOPER0...OPER0(ROOT (S (NP (NNS Investors)) (VP (VBP are) (VP (VBG betting) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB agree))))))) (. .)))
+16.816.8CDPERCENTPER0%%NNPERCENTPER0totoINOPER0thetheDTOPER0upsideupsideNNOPER0isbeVBZOPER0certainlycertainlyRBOPER0aaDTOPER0votevoteNNOPER0ofofINOPER0confidenceconfidenceNNOPER0...OPER0(ROOT (S (NP (NP (CD 16.8) (NN %)) (PP (IN to) (NP (DT the) (NN upside)))) (VP (VBZ is) (ADVP (RB certainly)) (NP (NP (DT a) (NN vote)) (PP (IN of) (NP (NN confidence))))) (. .)))
+BackbackRBOPER0totoINOPER0youyouPRPOPER0,,,OPER0guysguyNNSOPER0...OPER0(ROOT (FRAG (RB Back) (PP (IN to) (NP (PRP you))) (, ,) (NP (NNS guys)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 8 until 13 headed by 9 parsed as (NP (NP (NNP Carrie) (NNP Lee)) (PP (IN in) (NP (NNP New) (NNP York))))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Carrie) (. .))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Renay))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN day))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Coca) (NNP Cola))
+sid=6 spanning 12 until 13 headed by 12 parsed as came
+sid=6 spanning 19 until 20 headed by 19 parsed as that
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=6 spanning 26 until 27 headed by 26 parsed as (NP (NN today))
+sid=8 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN day))
+sid=8 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNP Intel)) (CC and) (NP (NNP Microsoft)))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=11 spanning 0 until 2 headed by 0 parsed as (NP (NP (PRP They)) (NP (DT both)))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (NNP Motorola))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Motorola)) (CC and) (NP (NP (NP (NNP Texas) (NNP Instruments)) (NP (DT both))) (PP (IN in) (NP (DT the) (NNS chips)))))
+sid=16 spanning 1 until 2 headed by 1 parsed as (NP (NNP AMR))
+sid=17 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN stock))
+sid=17 spanning 5 until 6 headed by 5 parsed as (NP (NN yesterday))
+sid=18 spanning 0 until 2 headed by 0 parsed as (NP (NN Today))
+sid=18 spanning 0 until 3 headed by 0 parsed as (NP (NN Today))
+sid=19 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN flight) (NNS attendants))
+sid=19 spanning 6 until 7 headed by 6 parsed as (NP (CD 6:00) (NN today))
+sid=19 spanning 9 until 11 headed by 10 parsed as (NP (NN labor) (NNS concessions))
+sid=20 spanning 9 until 10 headed by 9 parsed as (NP (NN yesterday))
+sid=21 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN flight) (NNS attendants))
+sid=21 spanning 10 until 12 headed by 11 parsed as (NP (DT these) (NNS concessions))
+sid=21 spanning 19 until 20 headed by 19 parsed as (NP (NN today))
+sid=22 spanning 1 until 2 headed by 1 parsed as (NP (PRP they))
+sid=22 spanning 5 until 7 headed by 6 parsed as (NP (DT these) (NNS agreements))
+sid=22 spanning 8 until 9 headed by 8 parsed as (NP (NNP AMR))
+sid=23 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NN Time))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN business) (NN news))
+sid=0 spanning 8 until 13 headed by 9 parsed as (NP (NP (NNP Carrie) (NNP Lee)) (PP (IN in) (NP (NNP New) (NNP York))))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (NNP New) (NNP York))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Carrie) (. .))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Renay))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Dow))
+sid=3 spanning 6 until 10 headed by 6 parsed as (NP (NP (JJ much)) (PP (IN of) (NP (DT the) (NN day))))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN day))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (QP (DT A) (NN couple)) (NNS stocks))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Coca) (NNP Cola))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (DT the) (NN profit) (NN quarter))
+sid=6 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN profit) (NN quarter))
+sid=6 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NN taste) (NN vowel))
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP Nasdaq))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (ADJP (RB Pretty) (JJ nice)) (NNS gains))
+sid=8 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN day))
+sid=8 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP Intel)) (CC and) (NP (NNP Microsoft)))
+sid=8 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNP Intel)) (CC and) (NP (NNP Microsoft)))
+sid=8 spanning 14 until 15 headed by 14 parsed as (NP (NNP Microsoft))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=10 spanning 5 until 11 headed by 6 parsed as (NP (NP (NN profit) (NNS reports)) (PP (IN for) (NP (DT the) (JJ recent) (NN quarter))))
+sid=10 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (JJ recent) (NN quarter))
+sid=11 spanning 0 until 2 headed by 0 parsed as (NP (NP (PRP They)) (NP (DT both)))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (DT both))
+sid=11 spanning 3 until 14 headed by 4 parsed as (NP (NP (JJ good) (NNS things)) (SBAR (S (VP (TO to) (VP (VB say) (S (VP (VBG going) (ADVP (RB forward)) (S (VP (VBG upping) (CC or) (VBG reiterating) (NP (CD 2003) (NN guidance)))))))))))
+sid=11 spanning 12 until 14 headed by 13 parsed as (NP (CD 2003) (NN guidance))
+sid=11 spanning 12 until 13 headed by 12 parsed as 2003
+sid=12 spanning 1 until 3 headed by 2 parsed as (NP (JJ solid) (NNS reports))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (NNP Motorola))
+sid=13 spanning 3 until 6 headed by 5 parsed as (NP (QP (DT another) (CD 3,000)) (NNS jobs))
+sid=13 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))
+sid=14 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNS Profits)) (PP (IN for) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))))
+sid=14 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Motorola)) (CC and) (NP (NP (NP (NNP Texas) (NNP Instruments)) (NP (DT both))) (PP (IN in) (NP (DT the) (NNS chips)))))
+sid=15 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNP Motorola)) (CC and) (NP (NP (NP (NNP Texas) (NNP Instruments)) (NP (DT both))) (PP (IN in) (NP (DT the) (NNS chips)))))
+sid=15 spanning 2 until 8 headed by 3 parsed as (NP (NP (NP (NNP Texas) (NNP Instruments)) (NP (DT both))) (PP (IN in) (NP (DT the) (NNS chips))))
+sid=15 spanning 4 until 5 headed by 4 parsed as (NP (DT both))
+sid=15 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS chips))
+sid=15 spanning 11 until 14 headed by 11 parsed as (NP (NP (NN swinging)) (PP (IN to) (NP (NNS profits))))
+sid=15 spanning 13 until 14 headed by 13 parsed as (NP (NNS profits))
+sid=15 spanning 18 until 22 headed by 18 parsed as (NP (NP (NNS sales)) (PP (IN up) (NP (CD 20) (NN %))))
+sid=16 spanning 1 until 2 headed by 1 parsed as (NP (NNP AMR))
+sid=17 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN stock))
+sid=17 spanning 5 until 6 headed by 5 parsed as (NP (NN yesterday))
+sid=18 spanning 0 until 2 headed by 0 parsed as (NP (NN Today))
+sid=18 spanning 2 until 3 headed by 2 parsed as (NP (NNS shares))
+sid=19 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN flight) (NNS attendants))
+sid=19 spanning 5 until 7 headed by 6 parsed as (NP (CD 6:00) (NN today))
+sid=19 spanning 5 until 6 headed by 5 parsed as 6:00
+sid=19 spanning 9 until 11 headed by 10 parsed as (NP (NN labor) (NNS concessions))
+sid=20 spanning 0 until 7 headed by 3 parsed as (NP (NP (NP (DT The) (NNS pilots) (POS ')) (NN union)) (CC and) (NP (NN ground) (NN crew)))
+sid=20 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NNS pilots) (POS ')) (NN union))
+sid=20 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NNS pilots) (POS '))
+sid=20 spanning 5 until 7 headed by 6 parsed as (NP (NN ground) (NN crew))
+sid=20 spanning 9 until 10 headed by 9 parsed as (NP (NN yesterday))
+sid=21 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN flight) (NNS attendants))
+sid=21 spanning 6 until 12 headed by 8 parsed as (NP (NP (DT a) (JJ close) (NN vote)) (VP (VBG rejecting) (NP (DT these) (NNS concessions))))
+sid=21 spanning 10 until 12 headed by 11 parsed as (NP (DT these) (NNS concessions))
+sid=21 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN CEO))
+sid=21 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN deadline))
+sid=22 spanning 1 until 2 headed by 1 parsed as (NP (PRP they))
+sid=22 spanning 5 until 7 headed by 6 parsed as (NP (DT these) (NNS agreements))
+sid=22 spanning 8 until 9 headed by 8 parsed as (NP (NNP AMR))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (NNS Investors))
+sid=23 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=24 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN upside))
+sid=24 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT a) (NN vote)) (PP (IN of) (NP (NN confidence))))
+sid=25 spanning 2 until 3 headed by 2 parsed as (NP (PRP you))
+sid=25 spanning 4 until 5 headed by 4 parsed as (NP (NNS guys))
+(end predicted mentions)
+---------gold clusters--------
+4 10 9 28 20 23 | { 'the day' 'the day' 'today' 'today' 'Today 's' 'today' }
+26 32 29 22 | { 'The flight attendants' 'they' 'they' 'The flight attendants' }
+0 1 | { 'Carrie Lee in New York' 'Carrie .' }
+27 24 30 | { 'these concessions' 'labor concessions' 'these agreements' }
+25 19 | { 'yesterday' 'yesterday' }
+21 18 | { 'Today 's shares' 'The stock' }
+8 5 | { 'it' 'Coca Cola' }
+17 31 | { 'AMR' 'AMR' }
+2 3 | { 'you' 'Renay' }
+16 15 | { 'Motorola' 'Motorola' }
+11 12 13 14 | { 'Intel and Microsoft' 'They' 'They' 'They both' }
+7 6 | { 'that' 'came' }
+(end gold clusters)

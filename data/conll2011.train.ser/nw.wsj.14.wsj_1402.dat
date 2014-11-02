@@ -1,0 +1,49 @@
+---------gloss--------
+(0) Your Oct. 2 article on Daniel Yankelovich cited [32m{the quote `` A good name is better than great riches ''}[0m as being from [4m[36m{Cervantes '}[0m `` Don Quixote . '' 
+(1) Actually , [4m[36m{Cervantes}[0m borrowed [32m{that quote}[0m from [31m{a writer of some 25 centuries earlier}[0m : [31m{Israel 's King Solomon}[0m wrote [32m{those words}[0m in the Book of Proverbs -LRB- 22:1 -RRB- . 
+(2) Michael E. Hill 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1402); part 000
+sentences:
+YouryouPRP$OPER0Oct.Oct.NNPDATEPER022CDDATEPER0articlearticleNNOPER0ononINOPER0DanielDanielNNPPERSONPER0YankelovichYankelovichNNPPERSONPER0citedciteVBDOPER0thetheDTOPER0quotequoteNNOPER0``````OAaDTOPER1goodgoodJJOPER1namenameNNOPER1isbeVBZOPER1betterbetterJJROPER1thanthanINOPER1greatgreatJJOPER1richesrichesNNSOPER1''''''OPER0asasINOPER0beingbeVBGOPER0fromfromINOPER0CervantesCervantesNNPPERSONPER0''POSOPER0``````ODonDonNNPWORK_OF_ARTPER2QuixoteQuixoteNNPWORK_OF_ARTPER2...OPER2''''''OPER0(ROOT (S (NP (NP (PRP$ Your) (NML (NNP Oct.) (CD 2)) (NN article)) (PP (IN on) (NP (NNP Daniel) (NNP Yankelovich)))) (VP (VBD cited) (NP (DT the) (NN quote)) (`` ``) (SBAR (S (NP (DT A) (JJ good) (NN name)) (VP (VBZ is) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (JJ great) (NNS riches))))))) ('' '') (PP (IN as) (S (VP (VBG being) (PP (IN from) (NP (NP (NNP Cervantes) (POS ')) (`` ``) (NML (NNP Don) (NNP Quixote)))))))) (. .) ('' '')))
+ActuallyactuallyRBOPER0,,,OPER0CervantesCervantesNNPPERSONPER0borrowedborrowVBDOPER0thatthatDTOPER0quotequoteNNOPER0fromfromINOPER0aaDTOPER0writerwriterNNOPER0ofofINOPER0somesomeDTDATEPER02525CDDATEPER0centuriescenturyNNSDATEPER0earlierearlierRBRDATEPER0:::OPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0KingKingNNPOPER0SolomonSolomonNNPPERSONPER0wrotewriteVBDOPER0thosethoseDTOPER0wordswordNNSOPER0ininINOPER0thetheDTOPER0BookBookNNPOPER0ofofINOPER0ProverbsproverbNNSOPER0-LRB--lrb--LRB-OPER022:122:1CDOPER0-RRB--rrb--RRB-OPER0...OPER0(ROOT (S (ADVP (RB Actually)) (, ,) (NP (NNP Cervantes)) (VP (VBD borrowed) (NP (DT that) (NN quote)) (PP (IN from) (NP (NP (DT a) (NN writer)) (PP (IN of) (NP (DT some) (CD 25) (NNS centuries)))) (ADVP (RBR earlier))) (: :) (S (NP (NP (NNP Israel) (POS 's)) (NNP King) (NNP Solomon)) (VP (VBD wrote) (NP (DT those) (NNS words)) (PP (IN in) (NP (NP (DT the) (NNP Book)) (PP (IN of) (NP (NP (NNS Proverbs)) (-LRB- -LRB-) (NP (CD 22:1)) (-RRB- -RRB-)))))))) (. .)))
+MichaelMichaelNNPPERSONPER0E.E.NNPPERSONPER0HillHillNNPPERSONPER0(ROOT (FRAG (NP (NNP Michael) (NNP E.) (NNP Hill))))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 8 until 20 headed by 9 parsed as (NP (DT the) (NN quote))
+sid=0 spanning 23 until 25 headed by 23 parsed as (NP (NNP Cervantes) (POS '))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Cervantes))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT that) (NN quote))
+sid=1 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT a) (NN writer)) (PP (IN of) (NP (DT some) (CD 25) (NNS centuries))))
+sid=1 spanning 15 until 19 headed by 18 parsed as (NP (NP (NNP Israel) (POS 's)) (NNP King) (NNP Solomon))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT those) (NNS words))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 3 parsed as (NP (NP (PRP$ Your) (NML (NNP Oct.) (CD 2)) (NN article)) (PP (IN on) (NP (NNP Daniel) (NNP Yankelovich))))
+sid=0 spanning 0 until 1 headed by 0 parsed as (PRP$ Your)
+sid=0 spanning 1 until 3 headed by 1 parsed as Oct.
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP Daniel) (NNP Yankelovich))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN quote))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (DT A) (JJ good) (NN name))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (JJ great) (NNS riches))
+sid=0 spanning 23 until 28 headed by 27 parsed as (NP (NP (NNP Cervantes) (POS ')) (`` ``) (NML (NNP Don) (NNP Quixote)))
+sid=0 spanning 23 until 25 headed by 23 parsed as (NP (NNP Cervantes) (POS '))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Cervantes))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT that) (NN quote))
+sid=1 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT a) (NN writer)) (PP (IN of) (NP (DT some) (CD 25) (NNS centuries))))
+sid=1 spanning 10 until 14 headed by 10 parsed as some
+sid=1 spanning 15 until 19 headed by 18 parsed as (NP (NP (NNP Israel) (POS 's)) (NNP King) (NNP Solomon))
+sid=1 spanning 15 until 17 headed by 15 parsed as (NP (NNP Israel) (POS 's))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT those) (NNS words))
+sid=1 spanning 23 until 30 headed by 24 parsed as (NP (NP (DT the) (NNP Book)) (PP (IN of) (NP (NP (NNS Proverbs)) (-LRB- -LRB-) (NP (CD 22:1)) (-RRB- -RRB-))))
+sid=1 spanning 26 until 30 headed by 26 parsed as (NP (NP (NNS Proverbs)) (-LRB- -LRB-) (NP (CD 22:1)) (-RRB- -RRB-))
+sid=1 spanning 28 until 29 headed by 28 parsed as (NP (CD 22:1))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NNP Michael) (NNP E.) (NNP Hill))
+(end predicted mentions)
+---------gold clusters--------
+2 1 | { 'Cervantes' 'Cervantes '' }
+5 4 | { 'Israel 's King Solomon' 'a writer of some 25 centuries earlier' }
+6 0 3 | { 'those words' 'the quote `` A good name is better than great riches ''' 'that quote' }
+(end gold clusters)

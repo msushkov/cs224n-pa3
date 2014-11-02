@@ -1,0 +1,81 @@
+---------gloss--------
+(0) [4m[35m{Israeli Prime Minister Ehud Barak}[0m opened parliament today with [4m[36m{only a minority government behind him}[0m , but with [31m{a promise of support that could keep his government operating for at least a month}[0m . 
+(1) [4m[34m{An ultra-orthodox party}[0m [31m{said}[0m [4m[34m{it}[0m will support [4m[35m{Barak 's}[0m dwindling coalition for 30 days when [4m[35m{he}[0m negotiates with the right wing Likud Party in an effort to form a government of national unity . 
+(2) Meanwhile , [4m[33m{violence between Israeli troops and Palestinian demonstrators}[0m stretched into [4m[33m{its}[0m 33rd day . 
+(3) Gunmen killed an Israeli guard and a missing Israeli was found murdered on the outskirts of Jerusalem . 
+(4) Israeli troops wounded more than 40 Palestinians . 
+(5) Five Palestinians were killed yesterday bringing the overall death toll to more than 140 . 
+(6) This is NPR News . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0042); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0openedopenVBDOPER0parliamentparliamentNNORGPER0todaytodayNNDATEPER0withwithINOPER0onlyonlyRBOPER0aaDTOPER0minorityminorityNNOPER0governmentgovernmentNNOPER0behindbehindINOPER0himhePRPOPER0,,,OPER0butbutCCOPER0withwithINOPER0aaDTOPER0promisepromiseNNOPER0ofofINOPER0supportsupportNNOPER0thatthatWDTOPER0couldcouldMDOPER0keepkeepVBOPER0hishePRP$OPER0governmentgovernmentNNOPER0operatingoperateVBGOPER0forforINOPER0atatINDATEPER0leastleastJJSDATEPER0aaDTDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD opened) (NP (NN parliament)) (NP (NN today)) (PP (IN with) (NP (NP (RB only) (DT a) (NN minority) (NN government)) (PP (IN behind) (NP (PRP him))))) (, ,) (NAC (CC but) (PP (IN with) (NP (NP (DT a) (NN promise)) (PP (IN of) (NP (NP (NN support)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB keep) (NP (PRP$ his) (NN government)) (S (VP (VBG operating) (PP (IN for) (NP (QP (ADVP (IN at) (JJS least)) (DT a)) (NN month))))))))))))))) (. .)))
+AnaDTOPER0ultra-orthodoxultra-orthodoxJJOPER0partypartyNNOPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0supportsupportVBOPER0BarakBarakNNPPERSONPER0's'sPOSOPER0dwindlingdwindleVBGOPER0coalitioncoalitionNNOPER0forforINOPER03030CDDATEPER0daysdayNNSDATEPER0whenwhenWRBOPER0hehePRPOPER0negotiatesnegotiateVBZOPER0withwithINOPER0thetheDTOPER0rightrightJJOPER0wingwingNNOPER0LikudLikudNNPORGPER0PartyPartyNNPORGPER0ininINOPER0anaDTOPER0efforteffortNNOPER0totoTOOPER0formformVBOPER0aaDTOPER0governmentgovernmentNNOPER0ofofINOPER0nationalnationalJJOPER0unityunityNNOPER0...OPER0(ROOT (S (NP (DT An) (JJ ultra-orthodox) (NN party)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB support) (NP (NP (NNP Barak) (POS 's)) (VBG dwindling) (NN coalition)) (PP (IN for) (NP (NP (CD 30) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBZ negotiates) (PP (IN with) (NP (NP (DT the) (NML (NML (JJ right) (NN wing)) (NNP Likud) (NNP Party))) (PP (IN in) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB form) (NP (NP (DT a) (NN government)) (PP (IN of) (NP (JJ national) (NN unity))))))))))))))))))))) (. .)))
+MeanwhilemeanwhileRBOPER0,,,OPER0violenceviolenceNNOPER0betweenbetweenINOPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0andandCCOPER0PalestinianpalestinianJJOPER0demonstratorsdemonstratorNNSOPER0stretchedstretchVBDOPER0intointoINOPER0itsitsPRP$DATEPER033rd33rdJJDATEPER0daydayNNDATEPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (NN violence)) (PP (IN between) (NP (NP (JJ Israeli) (NNS troops)) (CC and) (NP (JJ Palestinian) (NNS demonstrators))))) (VP (VBD stretched) (PP (IN into) (NP (PRP$ its) (JJ 33rd) (NN day)))) (. .)))
+GunmengunmanNNSOPER0killedkillVBDOPER0anaDTOPER0IsraeliisraeliJJOPER0guardguardNNOPER0andandCCOPER0aaDTOPER0missingmissVBGOPER0IsraeliIsraeliNNPOPER0wasbeVBDOPER0foundfindVBNOPER0murderedmurderVBNOPER0ononINOPER0thetheDTOPER0outskirtsoutskirtsNNSOPER0ofofINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (NNS Gunmen)) (VP (VBD killed) (SBAR (S (NP (NP (DT an) (JJ Israeli) (NN guard)) (CC and) (NP (DT a) (VBG missing) (NNP Israeli))) (VP (VBD was) (VP (VBN found) (VP (VBN murdered) (PP (IN on) (NP (NP (DT the) (NNS outskirts)) (PP (IN of) (NP (NNP Jerusalem))))))))))) (. .)))
+IsraeliisraeliJJOPER0troopstroopsNNSOPER0woundedwoundVBDOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER04040CDCARDINALPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS troops)) (VP (VBD wounded) (NP (QP (XS (JJR more) (IN than)) (CD 40)) (NNPS Palestinians))) (. .)))
+FivefiveCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0killedkillVBNOPER0yesterdayyesterdayNNDATEPER0bringingbringVBGOPER0thetheDTOPER0overalloverallJJOPER0deathdeathNNOPER0tolltollNNOPER0totoINOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0140140CDCARDINALPER0...OPER0(ROOT (S (NP (CD Five) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed) (NP (NN yesterday)) (S (VP (VBG bringing) (NP (DT the) (JJ overall) (NN death) (NN toll)) (PP (IN to) (NP (QP (XS (JJR more) (IN than)) (CD 140)))))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0NPRNPRNNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NNP NPR) (NNP News))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 9 until 15 headed by 12 parsed as (NP (NP (RB only) (DT a) (NN minority) (NN government)) (PP (IN behind) (NP (PRP him))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (PRP him))
+sid=0 spanning 18 until 33 headed by 19 parsed as (NP (NP (DT a) (NN promise)) (PP (IN of) (NP (NP (NN support)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB keep) (NP (PRP$ his) (NN government)) (S (VP (VBG operating) (PP (IN for) (NP (QP (ADVP (IN at) (JJS least)) (DT a)) (NN month))))))))))))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (PRP$ his) (NN government))
+sid=0 spanning 25 until 26 headed by 25 parsed as his
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (JJ ultra-orthodox) (NN party))
+sid=1 spanning 3 until 4 headed by 3 parsed as said
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=1 spanning 7 until 9 headed by 7 parsed as (NP (NNP Barak) (POS 's))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=2 spanning 2 until 9 headed by 2 parsed as (NP (NP (NN violence)) (PP (IN between) (NP (NP (JJ Israeli) (NNS troops)) (CC and) (NP (JJ Palestinian) (NNS demonstrators)))))
+sid=2 spanning 11 until 12 headed by 11 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 9 until 15 headed by 12 parsed as (NP (NP (RB only) (DT a) (NN minority) (NN government)) (PP (IN behind) (NP (PRP him))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (PRP him))
+sid=0 spanning 18 until 33 headed by 19 parsed as (NP (NP (DT a) (NN promise)) (PP (IN of) (NP (NP (NN support)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB keep) (NP (PRP$ his) (NN government)) (S (VP (VBG operating) (PP (IN for) (NP (QP (ADVP (IN at) (JJS least)) (DT a)) (NN month))))))))))))
+sid=0 spanning 21 until 33 headed by 21 parsed as (NP (NP (NN support)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB keep) (NP (PRP$ his) (NN government)) (S (VP (VBG operating) (PP (IN for) (NP (QP (ADVP (IN at) (JJS least)) (DT a)) (NN month))))))))))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (PRP$ his) (NN government))
+sid=0 spanning 25 until 26 headed by 25 parsed as (PRP$ his)
+sid=0 spanning 29 until 33 headed by 32 parsed as (NP (QP (ADVP (IN at) (JJS least)) (DT a)) (NN month))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (JJ ultra-orthodox) (NN party))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=1 spanning 7 until 11 headed by 10 parsed as (NP (NP (NNP Barak) (POS 's)) (VBG dwindling) (NN coalition))
+sid=1 spanning 7 until 9 headed by 7 parsed as (NP (NNP Barak) (POS 's))
+sid=1 spanning 12 until 33 headed by 13 parsed as (NP (NP (CD 30) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBZ negotiates) (PP (IN with) (NP (NP (DT the) (NML (NML (JJ right) (NN wing)) (NNP Likud) (NNP Party))) (PP (IN in) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB form) (NP (NP (DT a) (NN government)) (PP (IN of) (NP (JJ national) (NN unity)))))))))))))))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=1 spanning 18 until 33 headed by 22 parsed as (NP (NP (DT the) (NML (NML (JJ right) (NN wing)) (NNP Likud) (NNP Party))) (PP (IN in) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB form) (NP (NP (DT a) (NN government)) (PP (IN of) (NP (JJ national) (NN unity))))))))))
+sid=1 spanning 24 until 33 headed by 25 parsed as (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB form) (NP (NP (DT a) (NN government)) (PP (IN of) (NP (JJ national) (NN unity))))))))
+sid=1 spanning 28 until 33 headed by 29 parsed as (NP (NP (DT a) (NN government)) (PP (IN of) (NP (JJ national) (NN unity))))
+sid=2 spanning 2 until 9 headed by 2 parsed as (NP (NP (NN violence)) (PP (IN between) (NP (NP (JJ Israeli) (NNS troops)) (CC and) (NP (JJ Palestinian) (NNS demonstrators)))))
+sid=2 spanning 4 until 9 headed by 5 parsed as (NP (NP (JJ Israeli) (NNS troops)) (CC and) (NP (JJ Palestinian) (NNS demonstrators)))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (JJ Israeli) (NNS troops))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (JJ Palestinian) (NNS demonstrators))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (PRP$ its) (JJ 33rd) (NN day))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Gunmen))
+sid=3 spanning 2 until 9 headed by 4 parsed as (NP (NP (DT an) (JJ Israeli) (NN guard)) (CC and) (NP (DT a) (VBG missing) (NNP Israeli)))
+sid=3 spanning 2 until 5 headed by 4 parsed as (NP (DT an) (JJ Israeli) (NN guard))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (VBG missing) (NNP Israeli))
+sid=3 spanning 13 until 17 headed by 14 parsed as (NP (NP (DT the) (NNS outskirts)) (PP (IN of) (NP (NNP Jerusalem))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Jerusalem))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS troops))
+sid=4 spanning 3 until 7 headed by 6 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 40)) (NNPS Palestinians))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (CD Five) (NNPS Palestinians))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (NN yesterday))
+sid=5 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (JJ overall) (NN death) (NN toll))
+sid=5 spanning 11 until 14 headed by 13 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 140)))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (NNP NPR) (NNP News))
+(end predicted mentions)
+---------gold clusters--------
+11 12 | { 'violence between Israeli troops and Palestinian demonstrators' 'its' }
+6 8 | { 'An ultra-orthodox party' 'it' }
+0 10 2 9 5 | { 'Israeli Prime Minister Ehud Barak' 'he' 'him' 'Barak 's' 'his' }
+4 1 | { 'his government' 'only a minority government behind him' }
+3 7 | { 'a promise of support that could keep his government operating for at least a month' 'said' }
+(end gold clusters)

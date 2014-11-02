@@ -1,0 +1,50 @@
+---------gloss--------
+(0) [4m[33m{Standard & Poor 's Corp.}[0m said [4m[33m{it}[0m would add John H. Harland Co. , an Atlanta check printer , to [4m[33m{its}[0m 500 - stock index , effective at [4m[34m{the close of trading on Wednesday}[0m . 
+(1) [4m[35m{American Medical International Inc. , a New York hospital operator ,}[0m will be deleted from [4m[32m{the index}[0m at [4m[34m{that time}[0m . 
+(2) [4m[35m{American Medical}[0m is being acquired . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1292); part 000
+sentences:
+StandardStandardNNPORGPER0&&CCORGPER0PoorPoorNNPORGPER0's'sPOSORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0wouldwouldMDOPER0addaddVBOPER0JohnJohnNNPORGPER0H.H.NNPORGPER0HarlandHarlandNNPORGPER0Co.Co.NNPORGPER0,,,OPER0anaDTOPER0AtlantaAtlantaNNPGPEPER0checkcheckNNOPER0printerprinterNNOPER0,,,OPER0totoINOPER0itsitsPRP$OPER0500500CDCARDINALPER0--HYPHOPER0stockstockNNOPER0indexindexNNOPER0,,,OPER0effectiveeffectiveJJOPER0atatINOPER0thetheDTOPER0closecloseNNOPER0ofofINOPER0tradingtradingNNOPER0ononINOPER0WednesdayWednesdayNNPDATEPER0...OPER0(ROOT (S (NP (NP (NP (NNP Standard) (CC &) (NNP Poor)) (POS 's)) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB add) (NP (NP (NNP John) (NNP H.) (NNP Harland) (NNP Co.)) (, ,) (NP (DT an) (NNP Atlanta) (NN check) (NN printer))) (, ,) (PP (IN to) (NP (PRP$ its) (NML (CD 500) (HYPH -) (NN stock)) (NN index))) (, ,) (ADJP (JJ effective) (PP (IN at) (NP (NP (DT the) (NN close)) (PP (IN of) (NP (NP (NN trading)) (PP (IN on) (NP (NNP Wednesday))))))))))))) (. .)))
+AmericanAmericanNNPORGPER0MedicalMedicalNNPORGPER0InternationalInternationalNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0aaDTOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0hospitalhospitalNNOPER0operatoroperatorNNOPER0,,,OPER0willwillMDOPER0bebeVBOPER0deleteddeleteVBNOPER0fromfromINOPER0thetheDTOPER0indexindexNNOPER0atatINOPER0thatthatDTOPER0timetimeNNOPER0...OPER0(ROOT (S (NP (NP (NNP American) (NNP Medical) (NNP International) (NNP Inc.)) (, ,) (NP (DT a) (NML (NNP New) (NNP York)) (NN hospital) (NN operator)) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN deleted) (PP (IN from) (NP (DT the) (NN index))) (PP (IN at) (NP (DT that) (NN time)))))) (. .)))
+AmericanAmericanNNPORGPER0MedicalMedicalNNPORGPER0isbeVBZOPER0beingbeVBGOPER0acquiredacquireVBNOPER0...OPER0(ROOT (S (NP (NNP American) (NNP Medical)) (VP (VBZ is) (VP (VBG being) (VP (VBN acquired)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NP (NNP Standard) (CC &) (NNP Poor)) (POS 's)) (NNP Corp.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 20 until 25 headed by 24 parsed as (NP (PRP$ its) (NML (CD 500) (HYPH -) (NN stock)) (NN index))
+sid=0 spanning 20 until 21 headed by 20 parsed as its
+sid=0 spanning 28 until 34 headed by 29 parsed as (NP (NP (DT the) (NN close)) (PP (IN of) (NP (NP (NN trading)) (PP (IN on) (NP (NNP Wednesday))))))
+sid=1 spanning 0 until 11 headed by 3 parsed as (NP (NP (NNP American) (NNP Medical) (NNP International) (NNP Inc.)) (, ,) (NP (DT a) (NML (NNP New) (NNP York)) (NN hospital) (NN operator)) (, ,))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN index))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT that) (NN time))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP American) (NNP Medical))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NP (NNP Standard) (CC &) (NNP Poor)) (POS 's)) (NNP Corp.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (NP (NNP John) (NNP H.) (NNP Harland) (NNP Co.)) (, ,) (NP (DT an) (NNP Atlanta) (NN check) (NN printer)))
+sid=0 spanning 9 until 18 headed by 12 parsed as (NP (NP (NNP John) (NNP H.) (NNP Harland) (NNP Co.)) (, ,) (NP (DT an) (NNP Atlanta) (NN check) (NN printer)))
+sid=0 spanning 14 until 18 headed by 17 parsed as (NP (DT an) (NNP Atlanta) (NN check) (NN printer))
+sid=0 spanning 15 until 16 headed by 15 parsed as Atlanta
+sid=0 spanning 20 until 25 headed by 24 parsed as (NP (PRP$ its) (NML (CD 500) (HYPH -) (NN stock)) (NN index))
+sid=0 spanning 20 until 21 headed by 20 parsed as (PRP$ its)
+sid=0 spanning 28 until 34 headed by 29 parsed as (NP (NP (DT the) (NN close)) (PP (IN of) (NP (NP (NN trading)) (PP (IN on) (NP (NNP Wednesday))))))
+sid=0 spanning 31 until 34 headed by 31 parsed as (NP (NP (NN trading)) (PP (IN on) (NP (NNP Wednesday))))
+sid=0 spanning 33 until 34 headed by 33 parsed as (NP (NNP Wednesday))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP American) (NNP Medical) (NNP International) (NNP Inc.)) (, ,) (NP (DT a) (NML (NNP New) (NNP York)) (NN hospital) (NN operator)) (, ,))
+sid=1 spanning 0 until 11 headed by 3 parsed as (NP (NP (NNP American) (NNP Medical) (NNP International) (NNP Inc.)) (, ,) (NP (DT a) (NML (NNP New) (NNP York)) (NN hospital) (NN operator)) (, ,))
+sid=1 spanning 5 until 10 headed by 9 parsed as (NP (DT a) (NML (NNP New) (NNP York)) (NN hospital) (NN operator))
+sid=1 spanning 6 until 8 headed by 7 parsed as York
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN index))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT that) (NN time))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP American) (NNP Medical))
+(end predicted mentions)
+---------gold clusters--------
+6 2 | { 'the index' 'its 500 - stock index' }
+0 1 3 | { 'Standard & Poor 's Corp.' 'it' 'its' }
+7 4 | { 'that time' 'the close of trading on Wednesday' }
+8 5 | { 'American Medical' 'American Medical International Inc. , a New York hospital operator ,' }
+(end gold clusters)

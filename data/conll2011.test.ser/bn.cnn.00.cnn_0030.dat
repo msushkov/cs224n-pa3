@@ -1,0 +1,95 @@
+---------gloss--------
+(0) [31m{President Clinton}[0m may travel to [4m[36m{North Korea}[0m in an attempt to improve relations with [4m[36m{that country}[0m . 
+(1) The announcement comes after two days of talks between American and North Korean leaders in [35m{Washington}[0m . 
+(2) [33m{Secretary of State Madeleine Albright}[0m has accepted an invitation to [4m[35m{visit}[0m [4m[36m{North Korea}[0m and meet with leader Kim Jong - il . 
+(3) [33m{She}[0m made the unexpected announcement at [34m{a dinner last night in Washington}[0m . 
+(4) [4m[36m{North Korea 's}[0m top defense official hosted [34m{the event}[0m . 
+(5) [4m[36m{The country}[0m is on [32m{a U.S. list of nations that sponsor terrorism}[0m . 
+(6) The [31m{Clinton}[0m administration is trying to persuade [4m[36m{North Korea}[0m to halt [4m[36m{its}[0m ballistic missile program as a way [4m[36m{it}[0m can get off [32m{the list}[0m . 
+(7) There 's no word yet when [33m{Albright 's}[0m trip will take place . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0030); part 000
+sentences:
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0maymayMDOPER0traveltravelVBOPER0totoINOPER0NorthNorthNNPGPEPER0KoreaKoreaNNPGPEPER0ininINOPER0anaDTOPER0attemptattemptNNOPER0totoTOOPER0improveimproveVBOPER0relationsrelationNNSOPER0withwithINOPER0thatthatDTOPER0countrycountryNNOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (VP (MD may) (VP (VB travel) (PP (IN to) (NP (NNP North) (NNP Korea))) (PP (IN in) (NP (DT an) (NN attempt) (S (VP (TO to) (VP (VB improve) (NP (NP (NNS relations)) (PP (IN with) (NP (DT that) (NN country))))))))))) (. .)))
+ThetheDTOPER0announcementannouncementNNOPER0comescomeVBZOPER0afterafterINOPER0twotwoCDDATEPER0daysdayNNSDATEPER0ofofINOPER0talkstalkNNSOPER0betweenbetweenINOPER0AmericanAmericanNNPOPER0andandCCOPER0NorthNorthNNPOPER0KoreanKoreanNNPOPER0leadersleaderNNSOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN announcement)) (VP (VBZ comes) (PP (IN after) (NP (NP (CD two) (NNS days)) (PP (IN of) (NP (NP (NNS talks)) (PP (IN between) (NP (NP (NML (NML (NNP American)) (CC and) (NML (NNP North) (NNP Korean))) (NNS leaders)) (PP (IN in) (NP (NNP Washington)))))))))) (. .)))
+SecretarySecretaryNNPOPER0ofofINOPER0StateStateNNPORGPER0MadeleineMadeleineNNPPERSONPER0AlbrightAlbrightNNPPERSONPER0hashaveVBZOPER0acceptedacceptVBNOPER0anaDTOPER0invitationinvitationNNOPER0totoTOOPER0visitvisitVBOPER0NorthNorthNNPGPEPER0KoreaKoreaNNPGPEPER0andandCCOPER0meetmeetVBOPER0withwithINOPER0leaderleaderNNOPER0KimKimNNPPERSONPER0JongJongNNPPERSONPER0--HYPHPERSONPER0ililNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright))) (VP (VBZ has) (VP (VBN accepted) (NP (DT an) (NN invitation) (S (VP (TO to) (VP (VP (VB visit) (NP (NNP North) (NNP Korea))) (CC and) (VP (VB meet) (PP (IN with) (NP (NN leader) (NNP Kim) (NNP Jong) (HYPH -) (NNP il)))))))))) (. .)))
+SheshePRPOPER0mademakeVBDOPER0thetheDTOPER0unexpectedunexpectedJJOPER0announcementannouncementNNOPER0atatINOPER0aaDTOPER0dinnerdinnerNNOPER0lastlastJJOPER0nightnightNNOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBD made) (NP (DT the) (JJ unexpected) (NN announcement)) (PP (IN at) (NP (DT a) (NN dinner))) (NP (JJ last) (NN night)) (PP (IN in) (NP (NNP Washington)))) (. .)))
+NorthNorthNNPGPEPER0KoreaKoreaNNPGPEPER0's'sPOSGPEPER0toptopJJOPER0defensedefenseNNOPER0officialofficialNNOPER0hostedhostVBDOPER0thetheDTOPER0eventeventNNOPER0...OPER0(ROOT (S (NP (NP (NNP North) (NNP Korea) (POS 's)) (JJ top) (NN defense) (NN official)) (VP (VBD hosted) (NP (DT the) (NN event))) (. .)))
+ThetheDTOPER0countrycountryNNOPER0isbeVBZOPER0ononINOPER0aaDTOPER0U.S.U.S.NNPGPEPER0listlistNNOPER0ofofINOPER0nationsnationNNSOPER0thatthatWDTOPER0sponsorsponsorVBPOPER0terrorismterrorismNNOPER0...OPER0(ROOT (S (NP (DT The) (NN country)) (VP (VBZ is) (PP (IN on) (NP (NP (DT a) (NNP U.S.) (NN list)) (PP (IN of) (NP (NP (NNS nations)) (SBAR (WHNP (WDT that)) (S (VP (VBP sponsor) (NP (NN terrorism)))))))))) (. .)))
+ThetheDTOPER0ClintonClintonNNPPERSONPER0administrationadministrationNNOPER0isbeVBZOPER0tryingtryVBGOPER0totoTOOPER0persuadepersuadeVBOPER0NorthNorthNNPGPEPER0KoreaKoreaNNPGPEPER0totoTOOPER0halthaltVBOPER0itsitsPRP$OPER0ballisticballisticJJOPER0missilemissileNNOPER0programprogramNNOPER0asasINOPER0aaDTOPER0waywayNNOPER0ititPRPOPER0cancanMDOPER0getgetVBOPER0offoffINOPER0thetheDTOPER0listlistNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Clinton) (NN administration)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB persuade) (NP (NNP North) (NNP Korea)) (S (VP (TO to) (VP (VB halt) (NP (PRP$ its) (JJ ballistic) (NN missile) (NN program)) (PP (IN as) (NP (NP (DT a) (NN way)) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB get) (PP (IN off) (NP (DT the) (NN list))))))))))))))))) (. .)))
+TherethereEXOPER0'sbeVBZOPER0nonoDTOPER0wordwordNNOPER0yetyetRBOPER0whenwhenWRBOPER0AlbrightAlbrightNNPPERSONPER0's'sPOSOPER0triptripNNOPER0willwillMDOPER0taketakeVBOPER0placeplaceNNOPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (DT no) (NN word)) (ADVP (RB yet)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNP Albright) (POS 's)) (NN trip)) (VP (MD will) (VP (VB take) (NP (NN place))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP North) (NNP Korea))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT that) (NN country))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Washington))
+sid=2 spanning 0 until 5 headed by 0 parsed as (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright)))
+sid=2 spanning 10 until 11 headed by 10 parsed as visit
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NNP North) (NNP Korea))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=3 spanning 6 until 12 headed by 7 parsed as (NP (DT a) (NN dinner))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNP Washington))
+sid=4 spanning 0 until 3 headed by 1 parsed as (NP (NNP North) (NNP Korea) (POS 's))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN event))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN country))
+sid=5 spanning 4 until 12 headed by 6 parsed as (NP (NP (DT a) (NNP U.S.) (NN list)) (PP (IN of) (NP (NP (NNS nations)) (SBAR (WHNP (WDT that)) (S (VP (VBP sponsor) (NP (NN terrorism))))))))
+sid=6 spanning 1 until 2 headed by 1 parsed as Clinton
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (NNP North) (NNP Korea))
+sid=6 spanning 11 until 12 headed by 11 parsed as its
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=6 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN list))
+sid=7 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNP Albright) (POS 's)) (NN trip))
+sid=7 spanning 6 until 8 headed by 6 parsed as (NP (NNP Albright) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP North) (NNP Korea))
+sid=0 spanning 8 until 16 headed by 9 parsed as (NP (DT an) (NN attempt) (S (VP (TO to) (VP (VB improve) (NP (NP (NNS relations)) (PP (IN with) (NP (DT that) (NN country))))))))
+sid=0 spanning 12 until 16 headed by 12 parsed as (NP (NP (NNS relations)) (PP (IN with) (NP (DT that) (NN country))))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT that) (NN country))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN announcement))
+sid=1 spanning 4 until 16 headed by 5 parsed as (NP (NP (CD two) (NNS days)) (PP (IN of) (NP (NP (NNS talks)) (PP (IN between) (NP (NP (NML (NML (NNP American)) (CC and) (NML (NNP North) (NNP Korean))) (NNS leaders)) (PP (IN in) (NP (NNP Washington))))))))
+sid=1 spanning 7 until 16 headed by 7 parsed as (NP (NP (NNS talks)) (PP (IN between) (NP (NP (NML (NML (NNP American)) (CC and) (NML (NNP North) (NNP Korean))) (NNS leaders)) (PP (IN in) (NP (NNP Washington))))))
+sid=1 spanning 9 until 16 headed by 13 parsed as (NP (NP (NML (NML (NNP American)) (CC and) (NML (NNP North) (NNP Korean))) (NNS leaders)) (PP (IN in) (NP (NNP Washington))))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Washington))
+sid=2 spanning 0 until 5 headed by 0 parsed as (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright)))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP State))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (NNP Madeleine) (NNP Albright))
+sid=2 spanning 7 until 21 headed by 8 parsed as (NP (DT an) (NN invitation) (S (VP (TO to) (VP (VP (VB visit) (NP (NNP North) (NNP Korea))) (CC and) (VP (VB meet) (PP (IN with) (NP (NN leader) (NNP Kim) (NNP Jong) (HYPH -) (NNP il))))))))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NNP North) (NNP Korea))
+sid=2 spanning 16 until 21 headed by 20 parsed as (NP (NN leader) (NNP Kim) (NNP Jong) (HYPH -) (NNP il))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=3 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ unexpected) (NN announcement))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN dinner))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (JJ last) (NN night))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNP Washington))
+sid=4 spanning 0 until 6 headed by 5 parsed as (NP (NP (NNP North) (NNP Korea) (POS 's)) (JJ top) (NN defense) (NN official))
+sid=4 spanning 0 until 3 headed by 1 parsed as (NP (NNP North) (NNP Korea) (POS 's))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN event))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN country))
+sid=5 spanning 4 until 12 headed by 6 parsed as (NP (NP (DT a) (NNP U.S.) (NN list)) (PP (IN of) (NP (NP (NNS nations)) (SBAR (WHNP (WDT that)) (S (VP (VBP sponsor) (NP (NN terrorism))))))))
+sid=5 spanning 8 until 12 headed by 8 parsed as (NP (NP (NNS nations)) (SBAR (WHNP (WDT that)) (S (VP (VBP sponsor) (NP (NN terrorism))))))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Clinton) (NN administration))
+sid=6 spanning 1 until 2 headed by 1 parsed as Clinton
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (NNP North) (NNP Korea))
+sid=6 spanning 11 until 15 headed by 14 parsed as (NP (PRP$ its) (JJ ballistic) (NN missile) (NN program))
+sid=6 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=6 spanning 16 until 24 headed by 17 parsed as (NP (NP (DT a) (NN way)) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB get) (PP (IN off) (NP (DT the) (NN list))))))))
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=6 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN list))
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (DT no) (NN word))
+sid=7 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNP Albright) (POS 's)) (NN trip))
+sid=7 spanning 6 until 8 headed by 6 parsed as (NP (NNP Albright) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+19 5 | { 'Albright 's trip' 'visit' }
+2 6 17 15 10 1 12 16 | { 'that country' 'North Korea' 'it' 'North Korea' 'North Korea 's' 'North Korea' 'The country' 'its' }
+14 0 | { 'Clinton' 'President Clinton' }
+18 13 | { 'the list' 'a U.S. list of nations that sponsor terrorism' }
+7 20 4 | { 'She' 'Albright 's' 'Secretary of State Madeleine Albright' }
+11 8 | { 'the event' 'a dinner last night in Washington' }
+9 3 | { 'Washington' 'Washington' }
+(end gold clusters)

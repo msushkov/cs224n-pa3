@@ -1,0 +1,117 @@
+---------gloss--------
+(0) [1m[33m{Lomas Financial Corp. , Dallas ,}[0m said [1m[33m{it}[0m will ask a U.S. bankruptcy court to allow [1m[33m{it}[0m to hire [1m[35m{Lazard Freres & Co.}[0m to help [1m[33m{it}[0m sell [1m[33m{its}[0m leasing unit . 
+(1) [1m[33m{Lomas}[0m , assisted by [1m[31m{Merrill Lynch Capital Markets}[0m , has been trying to [1m[32m{sell}[0m [1m[33m{its}[0m Equitable [1m[33m{Lomas}[0m Leasing Co. for several months , apparently without success . 
+(2) [1m[33m{The real estate and mortgage banking concern}[0m had hoped to use proceeds from [1m[32m{the sale}[0m to reduce [1m[33m{its}[0m debt . 
+(3) Without cash from asset sales and unable to reach a new bank - credit agreement , [1m[33m{Lomas}[0m defaulted on $ 145 million in notes that became due Sept. 1 . 
+(4) [1m[33m{It}[0m filed for protection from creditors under Chapter 11 of the federal Bankruptcy Code Sept. 24 to give [1m[33m{it}[0m additional time to work on a plan to restructure [1m[33m{its}[0m $ 1.45 billion in senior debt . 
+(5) [1m[33m{Lomas}[0m said [1m[31m{Merrill Lynch , which owns bonds and equity in Lomas ,}[0m could n't continue as [1m[33m{Lomas}[0m 's investment banker because [1m[31m{it}[0m is also a creditor . 
+(6) [1m[33m{It}[0m said [1m[33m{it}[0m chose [1m[35m{Lazard}[0m in part because of [1m[35m{Lazard}[0m 's offices in Europe and Japan , where investors might be interested in a U.S. leasing company . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2441); part 000
+sentences:
+LomasLomasNNPORGPER0FinancialFinancialNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0DallasDallasNNPGPEPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0askaskVBOPER0aaDTOPER0U.S.U.S.NNPGPEPER0bankruptcybankruptcyNNOPER0courtcourtNNOPER0totoTOOPER0allowallowVBOPER0ititPRPOPER0totoTOOPER0hirehireVBOPER0LazardLazardNNPORGPER0FreresFreresNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0totoTOOPER0helphelpVBOPER0ititPRPOPER0sellsellVBOPER0itsitsPRP$OPER0leasingleasingNNOPER0unitunitNNOPER0...OPER0(ROOT (S (NP (NP (NNP Lomas) (NNP Financial) (NNP Corp.)) (, ,) (NP (NNP Dallas)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB ask) (NP (DT a) (NNP U.S.) (NN bankruptcy) (NN court)) (S (VP (TO to) (VP (VB allow) (S (NP (PRP it)) (VP (TO to) (VP (VB hire) (NP (NNP Lazard) (NNP Freres) (CC &) (NNP Co.)) (S (VP (TO to) (VP (VB help) (S (NP (PRP it)) (VP (VB sell) (NP (PRP$ its) (NN leasing) (NN unit)))))))))))))))))) (. .)))
+LomasLomasNNPORGPER0,,,OPER0assistedassistVBNOPER0bybyINOPER0MerrillMerrillNNPORGPER0LynchLynchNNPORGPER0CapitalCapitalNNPORGPER0MarketsMarketsNNPORGPER0,,,OPER0hashaveVBZOPER0beenbeVBNOPER0tryingtryVBGOPER0totoTOOPER0sellsellVBOPER0itsitsPRP$OPER0EquitableEquitableNNPORGPER0LomasLomasNNPORGPER0LeasingLeasingNNPORGPER0Co.Co.NNPORGPER0forforINOPER0severalseveralJJDATEPER0monthsmonthNNSDATEPER0,,,OPER0apparentlyapparentlyRBOPER0withoutwithoutINOPER0successsuccessNNOPER0...OPER0(ROOT (S (NP (NP (NNP Lomas)) (, ,) (VP (VBN assisted) (PP (IN by) (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets)))) (, ,)) (VP (VBZ has) (VP (VBN been) (VP (VBG trying) (S (VP (TO to) (VP (VB sell) (NP (PRP$ its) (NNP Equitable) (NNP Lomas) (NNP Leasing) (NNP Co.)) (PP (IN for) (NP (JJ several) (NNS months))) (, ,) (PP (ADVP (RB apparently)) (IN without) (NP (NN success))))))))) (. .)))
+ThetheDTOPER0realrealJJOPER0estateestateNNOPER0andandCCOPER0mortgagemortgageNNOPER0bankingbankingNNOPER0concernconcernNNOPER0hadhaveVBDOPER0hopedhopeVBNOPER0totoTOOPER0useuseVBOPER0proceedsproceedsNNSOPER0fromfromINOPER0thetheDTOPER0salesaleNNOPER0totoTOOPER0reducereduceVBOPER0itsitsPRP$OPER0debtdebtNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (NML (JJ real) (NN estate)) (CC and) (NML (NN mortgage) (NN banking))) (NN concern)) (VP (VBD had) (VP (VBN hoped) (S (VP (TO to) (VP (VB use) (NP (NP (NNS proceeds)) (PP (IN from) (NP (DT the) (NN sale)))) (S (VP (TO to) (VP (VB reduce) (NP (PRP$ its) (NN debt)))))))))) (. .)))
+WithoutwithoutINOPER0cashcashNNOPER0fromfromINOPER0assetassetNNOPER0salessaleNNSOPER0andandCCOPER0unableunableJJOPER0totoTOOPER0reachreachVBOPER0aaDTOPER0newnewJJOPER0bankbankNNOPER0--HYPHOPER0creditcreditNNOPER0agreementagreementNNOPER0,,,OPER0LomasLomasNNPORGPER0defaulteddefaultVBDOPER0ononRPOPER0$$$MONEYPER0145145CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0notesnoteNNSOPER0thatthatWDTOPER0becamebecomeVBDOPER0duedueJJOPER0Sept.Sept.NNPDATEPER011CDDATEPER0...OPER0(ROOT (S (UCP (PP (IN Without) (NP (NP (NN cash)) (PP (IN from) (NP (NN asset) (NNS sales))))) (CC and) (ADJP (JJ unable) (S (VP (TO to) (VP (VB reach) (NP (DT a) (JJ new) (NML (NN bank) (HYPH -) (NN credit)) (NN agreement))))))) (, ,) (NP (NNP Lomas)) (VP (VBD defaulted) (PRT (RP on)) (NP (NP (QP ($ $) (CD 145) (CD million))) (PP (IN in) (NP (NP (NNS notes)) (SBAR (WHNP (WDT that)) (S (VP (VBD became) (ADJP (JJ due) (NP (NNP Sept.) (CD 1)))))))))) (. .)))
+ItitPRPOPER0filedfileVBDOPER0forforINOPER0protectionprotectionNNOPER0fromfromINOPER0creditorscreditorNNSOPER0underunderINOPER0ChapterChapterNNPLAWPER01111CDLAWPER0ofofINLAWPER0thetheDTLAWPER0federalfederalJJLAWPER0BankruptcyBankruptcyNNPLAWPER0CodeCodeNNPLAWPER0Sept.Sept.NNPDATEPER02424CDDATEPER0totoTOOPER0givegiveVBOPER0ititPRPOPER0additionaladditionalJJOPER0timetimeNNOPER0totoTOOPER0workworkVBOPER0ononINOPER0aaDTOPER0planplanNNOPER0totoTOOPER0restructurerestructureVBOPER0itsitsPRP$OPER0$$$MONEYPER01.451.45CDMONEYPER0billionbillionCDMONEYPER0ininINOPER0seniorseniorJJOPER0debtdebtNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD filed) (PP (IN for) (NP (NP (NN protection)) (PP (IN from) (NP (NNS creditors))) (PP (IN under) (NP (NP (NNP Chapter) (CD 11)) (PP (IN of) (NP (DT the) (JJ federal) (NNP Bankruptcy) (NNP Code))))))) (NP (NNP Sept.) (CD 24)) (S (VP (TO to) (VP (VB give) (NP (PRP it)) (NP (NP (JJ additional) (NN time)) (SBAR (S (VP (TO to) (VP (VB work) (PP (IN on) (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB restructure) (NP (NP (PRP$ its) (QP ($ $) (CD 1.45) (CD billion))) (PP (IN in) (NP (JJ senior) (NN debt)))))))))))))))))) (. .)))
+LomasLomasNNPORGPER0saidsayVBDOPER0MerrillMerrillNNPORGPER0LynchLynchNNPORGPER0,,,OPER0whichwhichWDTOPER0ownsownVBZOPER0bondsbondNNSOPER0andandCCOPER0equityequityNNOPER0ininINOPER0LomasLomasNNPORGPER0,,,OPER0couldcouldMDOPER0n'tnotRBOPER0continuecontinueVBOPER0asasINOPER0LomasLomasNNPORGPER0's'sPOSOPER0investmentinvestmentNNOPER0bankerbankerNNOPER0becausebecauseINOPER0ititPRPOPER0isbeVBZOPER0alsoalsoRBOPER0aaDTOPER0creditorcreditorNNOPER0...OPER0(ROOT (S (NP (NNP Lomas)) (VP (VBD said) (SBAR (S (NP (NP (NNP Merrill) (NNP Lynch)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NP (NNS bonds) (CC and) (NN equity)) (PP (IN in) (NP (NNP Lomas))))))) (, ,)) (VP (MD could) (RB n't) (VP (VB continue) (PP (IN as) (NP (NP (NNP Lomas) (POS 's)) (NN investment) (NN banker))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB also)) (NP (DT a) (NN creditor)))))))))) (. .)))
+ItitPRPOPER0saidsayVBDOPER0ititPRPOPER0chosechooseVBDOPER0LazardLazardNNPORGPER0ininINOPER0partpartNNOPER0becausebecauseINOPER0ofofINOPER0LazardLazardNNPORGPER0's'sPOSOPER0officesofficeNNSOPER0ininINOPER0EuropeEuropeNNPLOCPER0andandCCOPER0JapanJapanNNPGPEPER0,,,OPER0wherewhereWRBOPER0investorsinvestorNNSOPER0mightmightMDOPER0bebeVBOPER0interestedinterestedJJOPER0ininINOPER0aaDTOPER0U.S.U.S.NNPGPEPER0leasingleasingNNOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD chose) (NP (NNP Lazard)) (PP (IN in) (NP (NN part))) (PP (IN because) (IN of) (NP (NP (NP (NNP Lazard) (POS 's)) (NNS offices)) (PP (IN in) (NP (NP (NP (NNP Europe)) (CC and) (NP (NNP Japan))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS investors)) (VP (MD might) (VP (VB be) (ADJP (JJ interested) (PP (IN in) (NP (DT a) (NNP U.S.) (NN leasing) (NN company)))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP Lomas) (NNP Financial) (NNP Corp.)) (, ,) (NP (NNP Dallas)) (, ,))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=0 spanning 19 until 23 headed by 20 parsed as (NP (NNP Lazard) (NNP Freres) (CC &) (NNP Co.))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (PRP it))
+sid=0 spanning 27 until 30 headed by 29 parsed as (NP (PRP$ its) (NN leasing) (NN unit))
+sid=0 spanning 27 until 28 headed by 27 parsed as its
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Lomas)) (, ,) (VP (VBN assisted) (PP (IN by) (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets)))) (, ,))
+sid=1 spanning 4 until 8 headed by 7 parsed as (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets))
+sid=1 spanning 13 until 14 headed by 13 parsed as sell
+sid=1 spanning 14 until 19 headed by 18 parsed as (NP (PRP$ its) (NNP Equitable) (NNP Lomas) (NNP Leasing) (NNP Co.))
+sid=1 spanning 14 until 15 headed by 14 parsed as its
+sid=1 spanning 16 until 17 headed by 16 parsed as Lomas
+sid=2 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NML (NML (JJ real) (NN estate)) (CC and) (NML (NN mortgage) (NN banking))) (NN concern))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN sale))
+sid=2 spanning 17 until 18 headed by 17 parsed as its
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Lomas))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=4 spanning 28 until 29 headed by 28 parsed as its
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Lomas))
+sid=5 spanning 2 until 13 headed by 3 parsed as (NP (NP (NNP Merrill) (NNP Lynch)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NP (NNS bonds) (CC and) (NN equity)) (PP (IN in) (NP (NNP Lomas))))))) (, ,))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NNP Lomas))
+sid=5 spanning 17 until 18 headed by 17 parsed as (NP (NNP Lomas) (POS 's))
+sid=5 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (NNP Lazard))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NNP Lazard) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Lomas) (NNP Financial) (NNP Corp.)) (, ,) (NP (NNP Dallas)) (, ,))
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP Lomas) (NNP Financial) (NNP Corp.)) (, ,) (NP (NNP Dallas)) (, ,))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Dallas))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (DT a) (NNP U.S.) (NN bankruptcy) (NN court))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=0 spanning 19 until 23 headed by 20 parsed as (NP (NNP Lazard) (NNP Freres) (CC &) (NNP Co.))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (PRP it))
+sid=0 spanning 27 until 30 headed by 29 parsed as (NP (PRP$ its) (NN leasing) (NN unit))
+sid=0 spanning 27 until 28 headed by 27 parsed as (PRP$ its)
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Lomas)) (, ,) (VP (VBN assisted) (PP (IN by) (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets)))) (, ,))
+sid=1 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP Lomas)) (, ,) (VP (VBN assisted) (PP (IN by) (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets)))) (, ,))
+sid=1 spanning 4 until 8 headed by 7 parsed as (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets))
+sid=1 spanning 14 until 19 headed by 18 parsed as (NP (PRP$ its) (NNP Equitable) (NNP Lomas) (NNP Leasing) (NNP Co.))
+sid=1 spanning 14 until 15 headed by 14 parsed as (PRP$ its)
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (JJ several) (NNS months))
+sid=2 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NML (NML (JJ real) (NN estate)) (CC and) (NML (NN mortgage) (NN banking))) (NN concern))
+sid=2 spanning 11 until 15 headed by 11 parsed as (NP (NP (NNS proceeds)) (PP (IN from) (NP (DT the) (NN sale))))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN sale))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (PRP$ its) (NN debt))
+sid=2 spanning 17 until 18 headed by 17 parsed as (PRP$ its)
+sid=3 spanning 1 until 5 headed by 1 parsed as (NP (NP (NN cash)) (PP (IN from) (NP (NN asset) (NNS sales))))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NN asset) (NNS sales))
+sid=3 spanning 9 until 15 headed by 14 parsed as (NP (DT a) (JJ new) (NML (NN bank) (HYPH -) (NN credit)) (NN agreement))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Lomas))
+sid=3 spanning 23 until 29 headed by 23 parsed as (NP (NP (NNS notes)) (SBAR (WHNP (WDT that)) (S (VP (VBD became) (ADJP (JJ due) (NP (NNP Sept.) (CD 1)))))))
+sid=3 spanning 27 until 29 headed by 27 parsed as (NP (NNP Sept.) (CD 1))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 3 until 14 headed by 3 parsed as (NP (NP (NN protection)) (PP (IN from) (NP (NNS creditors))) (PP (IN under) (NP (NP (NNP Chapter) (CD 11)) (PP (IN of) (NP (DT the) (JJ federal) (NNP Bankruptcy) (NNP Code))))))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNS creditors))
+sid=4 spanning 7 until 14 headed by 7 parsed as (NP (NP (NNP Chapter) (CD 11)) (PP (IN of) (NP (DT the) (JJ federal) (NNP Bankruptcy) (NNP Code))))
+sid=4 spanning 14 until 16 headed by 14 parsed as (NP (NNP Sept.) (CD 24))
+sid=4 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=4 spanning 19 until 35 headed by 20 parsed as (NP (NP (JJ additional) (NN time)) (SBAR (S (VP (TO to) (VP (VB work) (PP (IN on) (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB restructure) (NP (NP (PRP$ its) (QP ($ $) (CD 1.45) (CD billion))) (PP (IN in) (NP (JJ senior) (NN debt))))))))))))))
+sid=4 spanning 24 until 35 headed by 25 parsed as (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB restructure) (NP (NP (PRP$ its) (QP ($ $) (CD 1.45) (CD billion))) (PP (IN in) (NP (JJ senior) (NN debt))))))))
+sid=4 spanning 28 until 29 headed by 28 parsed as (PRP$ its)
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Lomas))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP Merrill) (NNP Lynch)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NP (NNS bonds) (CC and) (NN equity)) (PP (IN in) (NP (NNP Lomas))))))) (, ,))
+sid=5 spanning 2 until 13 headed by 3 parsed as (NP (NP (NNP Merrill) (NNP Lynch)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NP (NNS bonds) (CC and) (NN equity)) (PP (IN in) (NP (NNP Lomas))))))) (, ,))
+sid=5 spanning 7 until 12 headed by 7 parsed as (NP (NP (NNS bonds) (CC and) (NN equity)) (PP (IN in) (NP (NNP Lomas))))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NNP Lomas))
+sid=5 spanning 17 until 21 headed by 20 parsed as (NP (NP (NNP Lomas) (POS 's)) (NN investment) (NN banker))
+sid=5 spanning 17 until 19 headed by 17 parsed as (NP (NNP Lomas) (POS 's))
+sid=5 spanning 22 until 23 headed by 22 parsed as (NP (PRP it))
+sid=5 spanning 25 until 27 headed by 26 parsed as (NP (DT a) (NN creditor))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (NNP Lazard))
+sid=6 spanning 9 until 27 headed by 11 parsed as (NP (NP (NP (NNP Lazard) (POS 's)) (NNS offices)) (PP (IN in) (NP (NP (NP (NNP Europe)) (CC and) (NP (NNP Japan))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS investors)) (VP (MD might) (VP (VB be) (ADJP (JJ interested) (PP (IN in) (NP (DT a) (NNP U.S.) (NN leasing) (NN company)))))))))))
+sid=6 spanning 9 until 11 headed by 9 parsed as (NP (NNP Lazard) (POS 's))
+sid=6 spanning 13 until 14 headed by 13 parsed as (NP (NP (NP (NNP Europe)) (CC and) (NP (NNP Japan))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS investors)) (VP (MD might) (VP (VB be) (ADJP (JJ interested) (PP (IN in) (NP (DT a) (NNP U.S.) (NN leasing) (NN company)))))))))
+sid=6 spanning 13 until 27 headed by 13 parsed as (NP (NP (NP (NNP Europe)) (CC and) (NP (NNP Japan))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS investors)) (VP (MD might) (VP (VB be) (ADJP (JJ interested) (PP (IN in) (NP (DT a) (NNP U.S.) (NN leasing) (NN company)))))))))
+sid=6 spanning 13 until 16 headed by 13 parsed as (NP (NP (NNP Europe)) (CC and) (NP (NNP Japan)))
+sid=6 spanning 15 until 16 headed by 15 parsed as (NP (NNP Japan))
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (NNS investors))
+sid=6 spanning 23 until 27 headed by 26 parsed as (NP (DT a) (NNP U.S.) (NN leasing) (NN company))
+(end predicted mentions)
+---------gold clusters--------
+21 8 24 | { 'Merrill Lynch , which owns bonds and equity in Lomas ,' 'Merrill Lynch Capital Markets' 'it' }
+14 9 | { 'the sale' 'sell' }
+25 13 19 12 11 4 16 1 22 17 15 26 23 20 18 6 0 2 7 | { 'It' 'The real estate and mortgage banking concern' 'its' 'Lomas' 'its' 'it' 'Lomas' 'it' 'Lomas' 'It' 'its' 'it' 'Lomas' 'Lomas' 'it' 'its' 'Lomas Financial Corp. , Dallas ,' 'it' 'Lomas' }
+10 5 | { 'its Equitable Lomas Leasing Co.' 'its leasing unit' }
+28 27 3 | { 'Lazard' 'Lazard' 'Lazard Freres & Co.' }
+(end gold clusters)

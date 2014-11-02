@@ -1,0 +1,51 @@
+---------gloss--------
+(0) [4m[32m{Israel}[0m has experienced [4m[32m{its}[0m fifth suicide bombing in three days . 
+(1) Police say [4m[33m{a bomber}[0m [4m[31m{blew}[0m [4m[33m{herself}[0m up outside a northern [4m[32m{Israel}[0m shopping center when [4m[33m{she}[0m was stopped by a security guard . 
+(2) Three people plus [4m[33m{the bomber}[0m were killed , and at least 30 others were hurt . 
+(3) The French Press Agency says the militant group `` Islamic Jihad '' is claiming responsibility . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0224); part 000
+sentences:
+IsraelIsraelNNPGPEPER0hashaveVBZOPER0experiencedexperienceVBNOPER0itsitsPRP$OPER0fifthfifthJJORDINALPER0suicidesuicideNNOPER0bombingbombingNNOPER0ininINOPER0threethreeCDDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBZ has) (VP (VBN experienced) (NP (NP (PRP$ its) (JJ fifth) (NN suicide) (NN bombing)) (PP (IN in) (NP (CD three) (NNS days)))))) (. .)))
+PolicepoliceNNSOPER0saysayVBPOPER0aaDTOPER0bomberbomberNNOPER0blewblowVBDOPER0herselfherselfPRPOPER0upupRPOPER0outsideoutsideINOPER0aaDTOPER0northernnorthernJJOPER0IsraelIsraelNNPGPEPER0shoppingshoppingNNOPER0centercenterNNOPER0whenwhenWRBOPER0sheshePRPOPER0wasbeVBDOPER0stoppedstopVBNOPER0bybyINOPER0aaDTOPER0securitysecurityNNOPER0guardguardNNOPER0...OPER0(ROOT (S (NP (NNS Police)) (VP (VBP say) (SBAR (S (NP (DT a) (NN bomber)) (VP (VBD blew) (NP (PRP herself)) (PRT (RP up)) (PP (IN outside) (NP (NP (DT a) (JJ northern) (NNP Israel) (NN shopping) (NN center)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBD was) (VP (VBN stopped) (PP (IN by) (NP (DT a) (NN security) (NN guard))))))))))))) (. .)))
+ThreethreeCDCARDINALPER0peoplepeopleNNSOPER0plusplusCCOPER0thetheDTOPER0bomberbomberNNOPER0werebeVBDOPER0killedkillVBNOPER0,,,OPER0andandCCOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER03030CDCARDINALPER0othersotherNNSOPER0werebeVBDOPER0hurthurtVBNOPER0...OPER0(ROOT (S (S (NP (NP (CD Three) (NNS people)) (CC plus) (NP (DT the) (NN bomber))) (VP (VBD were) (VP (VBN killed)))) (, ,) (CC and) (S (NP (QP (ADVP (RB at) (RBS least)) (CD 30)) (NNS others)) (VP (VBD were) (VP (VBN hurt)))) (. .)))
+ThetheDTORGPER0FrenchFrenchNNPORGPER0PressPressNNPORGPER0AgencyAgencyNNPORGPER0sayssayVBZOPER0thetheDTOPER0militantmilitantJJOPER0groupgroupNNOPER0``````OIslamicIslamicNNPORGPER1JihadJihadNNPORGPER1''''''OPER0isbeVBZOPER0claimingclaimVBGOPER0responsibilityresponsibilityNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP French) (NNP Press)) (NNP Agency)) (VP (VBZ says) (SBAR (S (NP (DT the) (JJ militant) (NN group) (`` ``) (NNP Islamic) (NNP Jihad) ('' '')) (VP (VBZ is) (VP (VBG claiming) (NP (NN responsibility))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=0 spanning 3 until 10 headed by 6 parsed as (NP (NP (PRP$ its) (JJ fifth) (NN suicide) (NN bombing)) (PP (IN in) (NP (CD three) (NNS days))))
+sid=0 spanning 3 until 4 headed by 3 parsed as its
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT a) (NN bomber))
+sid=1 spanning 4 until 5 headed by 4 parsed as blew
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (PRP herself))
+sid=1 spanning 10 until 11 headed by 10 parsed as Israel
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP she))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN bomber))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=0 spanning 3 until 10 headed by 6 parsed as (NP (NP (PRP$ its) (JJ fifth) (NN suicide) (NN bombing)) (PP (IN in) (NP (CD three) (NNS days))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=0 spanning 4 until 5 headed by 4 parsed as fifth
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (CD three) (NNS days))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Police))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT a) (NN bomber))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (PRP herself))
+sid=1 spanning 8 until 21 headed by 12 parsed as (NP (NP (DT a) (JJ northern) (NNP Israel) (NN shopping) (NN center)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBD was) (VP (VBN stopped) (PP (IN by) (NP (DT a) (NN security) (NN guard))))))))
+sid=1 spanning 10 until 11 headed by 10 parsed as Israel
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP she))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (DT a) (NN security) (NN guard))
+sid=2 spanning 0 until 5 headed by 1 parsed as (NP (NP (CD Three) (NNS people)) (CC plus) (NP (DT the) (NN bomber)))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (CD Three) (NNS people))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN bomber))
+sid=2 spanning 9 until 13 headed by 12 parsed as (NP (QP (ADVP (RB at) (RBS least)) (CD 30)) (NNS others))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP French) (NNP Press)) (NNP Agency))
+sid=3 spanning 5 until 12 headed by 10 parsed as (NP (DT the) (JJ militant) (NN group) (`` ``) (NNP Islamic) (NNP Jihad) ('' ''))
+(end predicted mentions)
+---------gold clusters--------
+1 4 | { 'its fifth suicide bombing in three days' 'blew' }
+6 2 0 | { 'Israel' 'its' 'Israel' }
+5 7 3 8 | { 'herself' 'she' 'a bomber' 'the bomber' }
+(end gold clusters)

@@ -1,0 +1,60 @@
+---------gloss--------
+(0) [4m[31m{Trinity Industries Inc.}[0m said [4m[31m{it}[0m reached [4m[32m{a preliminary agreement to manufacture 1,000 coal rail cars for Norfolk Southern Corp}[0m . 
+(1) [4m[31m{Trinity}[0m estimated the value of [4m[32m{the pact}[0m at more than $ 40 million . 
+(2) [4m[31m{Trinity}[0m said [4m[31m{it}[0m plans to begin delivery of [4m[34m{the rail cars}[0m in the first quarter of 1990 . 
+(3) [4m[31m{It}[0m said [4m[34m{the 1,000 rail cars}[0m are in addition to the 1,450 coal rail cars presently being produced for [4m[33m{Norfolk Southern}[0m , a Norfolk , Va. - based railroad concern . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2447); part 000
+sentences:
+TrinityTrinityNNPORGPER0IndustriesIndustriesNNPSORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0reachedreachVBDOPER0aaDTOPER0preliminarypreliminaryJJOPER0agreementagreementNNOPER0totoTOOPER0manufacturemanufactureVBOPER01,0001,000CDCARDINALPER0coalcoalNNOPER0railrailNNOPER0carscarNNSOPER0forforINOPER0NorfolkNorfolkNNPORGPER0SouthernSouthernNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NNP Trinity) (NNPS Industries) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD reached) (NP (DT a) (JJ preliminary) (NN agreement) (S (VP (TO to) (VP (VB manufacture) (NP (CD 1,000) (NML (NN coal) (NN rail)) (NNS cars)) (PP (IN for) (NP (NNP Norfolk) (NNP Southern) (NNP Corp))))))))))) (. .)))
+TrinityTrinityNNPORGPER0estimatedestimateVBDOPER0thetheDTOPER0valuevalueNNOPER0ofofINOPER0thetheDTOPER0pactpactNNOPER0atatINOPER0moremoreJJRMONEYPER0thanthanINMONEYPER0$$$MONEYPER04040CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NNP Trinity)) (VP (VBD estimated) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NN pact)))) (PP (IN at) (NP (QP (JJR more) (IN than) ($ $) (CD 40) (CD million))))) (. .)))
+TrinityTrinityNNPORGPER0saidsayVBDOPER0ititPRPOPER0plansplanVBZOPER0totoTOOPER0beginbeginVBOPER0deliverydeliveryNNOPER0ofofINOPER0thetheDTOPER0railrailNNOPER0carscarNNSOPER0ininINOPER0thetheDTDATEPER0firstfirstJJDATEPER0quarterquarterNNDATEPER0ofofINDATEPER019901990CDDATEPER0...OPER0(ROOT (S (NP (NNP Trinity)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ plans) (S (VP (TO to) (VP (VB begin) (NP (NP (NN delivery)) (PP (IN of) (NP (DT the) (NN rail) (NNS cars)))) (PP (IN in) (NP (NP (DT the) (JJ first) (NN quarter)) (PP (IN of) (NP (CD 1990)))))))))))) (. .)))
+ItitPRPOPER0saidsayVBDOPER0thetheDTOPER01,0001,000CDCARDINALPER0railrailNNOPER0carscarNNSOPER0arebeVBPOPER0ininINOPER0additionadditionNNOPER0totoINOPER0thetheDTOPER01,4501,450CDCARDINALPER0coalcoalNNOPER0railrailNNOPER0carscarNNSOPER0presentlypresentlyRBOPER0beingbeVBGOPER0producedproduceVBNOPER0forforINOPER0NorfolkNorfolkNNPORGPER0SouthernSouthernNNPORGPER0,,,OPER0aaDTOPER0NorfolkNorfolkNNPGPEPER0,,,OPER0Va.Va.NNPGPEPER0--HYPHOPER0basedbaseVBNOPER0railroadrailroadNNOPER0concernconcernNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD said) (SBAR (S (NP (DT the) (NML (CD 1,000) (NN rail)) (NNS cars)) (VP (VP (VBP are) (PP (IN in) (NP (NP (NN addition)) (PP (IN to) (NP (DT the) (CD 1,450) (NML (NN coal) (NN rail)) (NNS cars)))))) (ADVP (RB presently)) (VP (VBG being) (VP (VBN produced) (PP (IN for) (NP (NP (NNP Norfolk) (NNP Southern)) (, ,) (NP (DT a) (ADJP (NML (NNP Norfolk) (, ,) (NNP Va.)) (HYPH -) (VBN based)) (NN railroad) (NN concern)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Trinity) (NNPS Industries) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 19 headed by 8 parsed as (NP (DT a) (JJ preliminary) (NN agreement) (S (VP (TO to) (VP (VB manufacture) (NP (CD 1,000) (NML (NN coal) (NN rail)) (NNS cars)) (PP (IN for) (NP (NNP Norfolk) (NNP Southern) (NNP Corp)))))))
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (CD 1,000) (NML (NN coal) (NN rail)) (NNS cars))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (NNP Norfolk) (NNP Southern) (NNP Corp))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Trinity))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN pact))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Trinity))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN rail) (NNS cars))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (NML (CD 1,000) (NN rail)) (NNS cars))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (NP (NNP Norfolk) (NNP Southern)) (, ,) (NP (DT a) (ADJP (NML (NNP Norfolk) (, ,) (NNP Va.)) (HYPH -) (VBN based)) (NN railroad) (NN concern)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Trinity) (NNPS Industries) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 19 headed by 8 parsed as (NP (DT a) (JJ preliminary) (NN agreement) (S (VP (TO to) (VP (VB manufacture) (NP (CD 1,000) (NML (NN coal) (NN rail)) (NNS cars)) (PP (IN for) (NP (NNP Norfolk) (NNP Southern) (NNP Corp)))))))
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (CD 1,000) (NML (NN coal) (NN rail)) (NNS cars))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (NNP Norfolk) (NNP Southern) (NNP Corp))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Trinity))
+sid=1 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NN pact))))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN pact))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Trinity))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=2 spanning 6 until 11 headed by 6 parsed as (NP (NP (NN delivery)) (PP (IN of) (NP (DT the) (NN rail) (NNS cars))))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN rail) (NNS cars))
+sid=2 spanning 12 until 17 headed by 14 parsed as (NP (NP (DT the) (JJ first) (NN quarter)) (PP (IN of) (NP (CD 1990))))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (NML (CD 1,000) (NN rail)) (NNS cars))
+sid=3 spanning 8 until 15 headed by 8 parsed as (NP (NP (NN addition)) (PP (IN to) (NP (DT the) (CD 1,450) (NML (NN coal) (NN rail)) (NNS cars))))
+sid=3 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (CD 1,450) (NML (NN coal) (NN rail)) (NNS cars))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (NP (NNP Norfolk) (NNP Southern)) (, ,) (NP (DT a) (ADJP (NML (NNP Norfolk) (, ,) (NNP Va.)) (HYPH -) (VBN based)) (NN railroad) (NN concern)))
+sid=3 spanning 19 until 30 headed by 20 parsed as (NP (NP (NNP Norfolk) (NNP Southern)) (, ,) (NP (DT a) (ADJP (NML (NNP Norfolk) (, ,) (NNP Va.)) (HYPH -) (VBN based)) (NN railroad) (NN concern)))
+sid=3 spanning 22 until 30 headed by 29 parsed as (NP (DT a) (ADJP (NML (NNP Norfolk) (, ,) (NNP Va.)) (HYPH -) (VBN based)) (NN railroad) (NN concern))
+sid=3 spanning 23 until 24 headed by 23 parsed as Norfolk
+sid=3 spanning 25 until 26 headed by 25 parsed as Va.
+(end predicted mentions)
+---------gold clusters--------
+8 7 5 1 10 0 | { 'it' 'Trinity' 'Trinity' 'it' 'It' 'Trinity Industries Inc.' }
+2 6 | { 'a preliminary agreement to manufacture 1,000 coal rail cars for Norfolk Southern Corp' 'the pact' }
+12 4 | { 'Norfolk Southern' 'Norfolk Southern Corp' }
+3 11 9 | { '1,000 coal rail cars' 'the 1,000 rail cars' 'the rail cars' }
+(end gold clusters)

@@ -1,0 +1,69 @@
+---------gloss--------
+(0) [35m{One other Major League baseball manager}[0m is now looking for a new team to lead . 
+(1) [1m[31m{The Toronto Blue Jays}[0m have decided not to renew [36m{the contract of Jim Firgossy}[0m after [1m[31m{the team}[0m placed third in the American League Eastern Division for two straight seasons . 
+(2) [1m[31m{Toronto}[0m finished with the mediocre 83 and 79 record and [35m{Firgossy 's}[0m contract expired at the end of the season . 
+(3) Before [1m[31m{the Blue Jays '}[0m announcement Tuesday [35m{Firgossy}[0m said that [35m{he}[0m felt that [35m{he}[0m would not be asked to return . 
+(4) [34m{General manager Gord Ash}[0m says [34m{he}[0m felt [1m[31m{the team}[0m needed a different manager to become a playoff contender . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0026); part 000
+sentences:
+OneoneCDCARDINALPER0otherotherJJOPER0MajorMajorNNPORGPER0LeagueLeagueNNPORGPER0baseballbaseballNNOPER0managermanagerNNOPER0isbeVBZOPER0nownowRBOPER0lookinglookVBGOPER0forforINOPER0aaDTOPER0newnewJJOPER0teamteamNNOPER0totoTOOPER0leadleadVBOPER0...OPER0(ROOT (S (NP (CD One) (JJ other) (NML (NNP Major) (NNP League)) (NN baseball) (NN manager)) (VP (VBZ is) (ADVP (RB now)) (VP (VBG looking) (PP (IN for) (NP (DT a) (JJ new) (NN team))) (S (VP (TO to) (VP (VB lead)))))) (. .)))
+ThetheDTORGPER0TorontoTorontoNNPORGPER0BlueBlueNNPORGPER0JaysJaysNNPSORGPER0havehaveVBPOPER0decideddecideVBNOPER0notnotRBOPER0totoTOOPER0renewrenewVBOPER0thetheDTOPER0contractcontractNNOPER0ofofINOPER0JimJimNNPPERSONPER0FirgossyFirgossyNNPPERSONPER0afterafterINOPER0thetheDTOPER0teamteamNNOPER0placedplaceVBNOPER0thirdthirdRBORDINALPER0ininINOPER0thetheDTORGPER0AmericanAmericanNNPORGPER0LeagueLeagueNNPORGPER0EasternEasternNNPORGPER0DivisionDivisionNNPORGPER0forforINOPER0twotwoCDDATEPER0straightstraightJJDATEPER0seasonsseasonNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP Toronto) (NNP Blue) (NNPS Jays)) (VP (VBP have) (VP (VBN decided) (S (RB not) (VP (TO to) (VP (VB renew) (NP (NP (DT the) (NN contract)) (PP (IN of) (NP (NNP Jim) (NNP Firgossy)))) (PP (IN after) (NP (NP (DT the) (NN team)) (VP (VBN placed) (ADVP (RB third) (PP (IN in) (NP (DT the) (NML (NNP American) (NNP League)) (NNP Eastern) (NNP Division)))) (PP (IN for) (NP (CD two) (JJ straight) (NNS seasons))))))))))) (. .)))
+TorontoTorontoNNPORGPER0finishedfinishVBDOPER0withwithINOPER0thetheDTOPER0mediocremediocreJJDATEPER08383CDDATEPER0andandCCDATEPER07979CDDATEPER0recordrecordNNOPER0andandCCOPER0FirgossyFirgossyNNPORGPER0's'sPOSOPER0contractcontractNNOPER0expiredexpireVBDOPER0atatINOPER0thetheDTDATEPER0endendNNDATEPER0ofofINDATEPER0thetheDTDATEPER0seasonseasonNNDATEPER0...OPER0(ROOT (S (S (NP (NNP Toronto)) (VP (VBD finished) (PP (IN with) (NP (DT the) (JJ mediocre) (NML (CD 83) (CC and) (CD 79)) (NN record))))) (CC and) (S (NP (NP (NNP Firgossy) (POS 's)) (NN contract)) (VP (VBD expired) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN season))))))) (. .)))
+BeforebeforeINOPER0thetheDTORGPER0BlueBlueNNPORGPER0JaysJaysNNPSORGPER0''POSORGPER0announcementannouncementNNOPER0TuesdayTuesdayNNPDATEPER0FirgossyFirgossyNNPOPER0saidsayVBDOPER0thatthatINOPER0hehePRPOPER0feltfeelVBDOPER0thatthatINOPER0hehePRPOPER0wouldwouldMDOPER0notnotRBOPER0bebeVBOPER0askedaskVBNOPER0totoTOOPER0returnreturnVBOPER0...OPER0(ROOT (S (PP (IN Before) (NP (NP (DT the) (NNP Blue) (NNPS Jays) (POS ')) (NN announcement))) (NP (NNP Tuesday) (NNP Firgossy)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD felt) (SBAR (IN that) (S (NP (PRP he)) (VP (MD would) (RB not) (VP (VB be) (VP (VBN asked) (S (VP (TO to) (VP (VB return))))))))))))) (. .)))
+GeneralgeneralJJOPER0managermanagerNNOPER0GordGordNNPPERSONPER0AshAshNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0feltfeelVBDOPER0thetheDTOPER0teamteamNNOPER0neededneedVBDOPER0aaDTOPER0differentdifferentJJOPER0managermanagerNNOPER0totoTOOPER0becomebecomeVBOPER0aaDTOPER0playoffplayoffNNOPER0contendercontenderNNOPER0...OPER0(ROOT (S (NP (NML (JJ General) (NN manager)) (NNP Gord) (NNP Ash)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD felt) (SBAR (S (NP (DT the) (NN team)) (VP (VBD needed) (NP (DT a) (JJ different) (NN manager)) (S (VP (TO to) (VP (VB become) (NP (DT a) (NN playoff) (NN contender)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (CD One) (JJ other) (NML (NNP Major) (NNP League)) (NN baseball) (NN manager))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP Toronto) (NNP Blue) (NNPS Jays))
+sid=1 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT the) (NN contract)) (PP (IN of) (NP (NNP Jim) (NNP Firgossy))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NNP Jim) (NNP Firgossy))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (NP (DT the) (NN team)) (VP (VBN placed) (ADVP (RB third) (PP (IN in) (NP (DT the) (NML (NNP American) (NNP League)) (NNP Eastern) (NNP Division)))) (PP (IN for) (NP (CD two) (JJ straight) (NNS seasons)))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Toronto))
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (NP (NNP Firgossy) (POS 's)) (NN contract))
+sid=2 spanning 10 until 12 headed by 10 parsed as (NP (NNP Firgossy) (POS 's))
+sid=3 spanning 1 until 5 headed by 3 parsed as (NP (DT the) (NNP Blue) (NNPS Jays) (POS '))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP Tuesday) (NNP Firgossy))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (PRP he))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ General) (NN manager)) (NNP Gord) (NNP Ash))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN team))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (CD One) (JJ other) (NML (NNP Major) (NNP League)) (NN baseball) (NN manager))
+sid=0 spanning 2 until 4 headed by 3 parsed as League
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (DT a) (JJ new) (NN team))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP Toronto) (NNP Blue) (NNPS Jays))
+sid=1 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT the) (NN contract)) (PP (IN of) (NP (NNP Jim) (NNP Firgossy))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NNP Jim) (NNP Firgossy))
+sid=1 spanning 15 until 29 headed by 16 parsed as (NP (NP (DT the) (NN team)) (VP (VBN placed) (ADVP (RB third) (PP (IN in) (NP (DT the) (NML (NNP American) (NNP League)) (NNP Eastern) (NNP Division)))) (PP (IN for) (NP (CD two) (JJ straight) (NNS seasons)))))
+sid=1 spanning 18 until 19 headed by 18 parsed as third
+sid=1 spanning 20 until 25 headed by 24 parsed as (NP (DT the) (NML (NNP American) (NNP League)) (NNP Eastern) (NNP Division))
+sid=1 spanning 26 until 29 headed by 28 parsed as (NP (CD two) (JJ straight) (NNS seasons))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Toronto))
+sid=2 spanning 3 until 9 headed by 8 parsed as (NP (DT the) (JJ mediocre) (NML (CD 83) (CC and) (CD 79)) (NN record))
+sid=2 spanning 4 until 8 headed by 4 parsed as mediocre
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (NP (NNP Firgossy) (POS 's)) (NN contract))
+sid=2 spanning 10 until 12 headed by 10 parsed as (NP (NNP Firgossy) (POS 's))
+sid=2 spanning 15 until 20 headed by 16 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN season))))
+sid=3 spanning 1 until 6 headed by 5 parsed as (NP (NP (DT the) (NNP Blue) (NNPS Jays) (POS ')) (NN announcement))
+sid=3 spanning 1 until 5 headed by 3 parsed as (NP (DT the) (NNP Blue) (NNPS Jays) (POS '))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (NNP Tuesday) (NNP Firgossy))
+sid=3 spanning 6 until 7 headed by 6 parsed as Tuesday
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (PRP he))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ General) (NN manager)) (NNP Gord) (NNP Ash))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN team))
+sid=4 spanning 10 until 13 headed by 12 parsed as (NP (DT a) (JJ different) (NN manager))
+sid=4 spanning 15 until 18 headed by 17 parsed as (NP (DT a) (NN playoff) (NN contender))
+(end predicted mentions)
+---------gold clusters--------
+12 13 | { 'General manager Gord Ash' 'he' }
+11 3 9 0 10 7 | { 'he' 'Jim Firgossy' 'Firgossy' 'One other Major League baseball manager' 'he' 'Firgossy 's' }
+2 6 | { 'the contract of Jim Firgossy' 'Firgossy 's contract' }
+4 8 5 14 1 | { 'the team' 'the Blue Jays '' 'Toronto' 'the team' 'The Toronto Blue Jays' }
+(end gold clusters)

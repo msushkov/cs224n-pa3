@@ -1,0 +1,52 @@
+---------gloss--------
+(0) Meanwhile , in Philadelphia [3m[33m{the Phillies}[0m have hired [3m[34m{Larry Bowa}[0m as [3m[33m{their}[0m new manager for the 2001 season . 
+(1) [3m[34m{The fiery Bowa}[0m helped lead [3m[33m{the Phillies}[0m to [3m[33m{the franchise 's}[0m only World Series Championship in 1980 , as a player . 
+(2) [3m[34m{The 54 - year - old Bowa}[0m signed a two year deal with a club option for the 2003 season . 
+(3) [3m[34m{He}[0m replaces Terry Francona who was fired on October the 1st . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0080); part 000
+sentences:
+MeanwhilemeanwhileRBOPER0,,,OPER0ininINOPER0PhiladelphiaPhiladelphiaNNPGPEPER0thetheDTOPER0PhilliesPhilliesNNPSORGPER0havehaveVBPOPER0hiredhireVBNOPER0LarryLarryNNPPERSONPER0BowaBowaNNPPERSONPER0asasINOPER0theirtheyPRP$OPER0newnewJJOPER0managermanagerNNOPER0forforINOPER0thetheDTDATEPER020012001CDDATEPER0seasonseasonNNDATEPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (PP (IN in) (NP (NNP Philadelphia))) (NP (DT the) (NNPS Phillies)) (VP (VBP have) (VP (VBN hired) (NP (NNP Larry) (NNP Bowa)) (PP (IN as) (NP (NP (PRP$ their) (JJ new) (NN manager)) (PP (IN for) (NP (DT the) (CD 2001) (NN season))))))) (. .)))
+ThetheDTOPER0fieryfieryJJOPER0BowaBowaNNPORGPER0helpedhelpVBDOPER0leadleadVBOPER0thetheDTOPER0PhilliesPhilliesNNPSORGPER0totoINOPER0thetheDTOPER0franchisefranchiseNNOPER0's'sPOSOPER0onlyonlyJJOPER0WorldWorldNNPEVENTPER0SeriesSeriesNNPEVENTPER0ChampionshipChampionshipNNPEVENTPER0ininINOPER019801980CDDATEPER0,,,OPER0asasINOPER0aaDTOPER0playerplayerNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ fiery) (NNP Bowa)) (VP (VBD helped) (S (VP (VB lead) (NP (DT the) (NNPS Phillies)) (PP (IN to) (NP (NP (DT the) (NN franchise) (POS 's)) (JJ only) (NML (NNP World) (NNP Series)) (NNP Championship))))) (PP (IN in) (NP (CD 1980))) (, ,) (PP (IN as) (NP (DT a) (NN player)))) (. .)))
+ThetheDTOPER05454CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0BowaBowaNNPOPER0signedsignVBDOPER0aaDTOPER0twotwoCDDATEPER0yearyearNNDATEPER0dealdealNNOPER0withwithINOPER0aaDTOPER0clubclubNNOPER0optionoptionNNOPER0forforINOPER0thetheDTDATEPER020032003CDDATEPER0seasonseasonNNDATEPER0...OPER0(ROOT (S (NP (DT The) (ADJP (NML (CD 54) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Bowa)) (VP (VBD signed) (NP (DT a) (NML (CD two) (NN year)) (NN deal)) (PP (IN with) (NP (NP (DT a) (NN club) (NN option)) (PP (IN for) (NP (DT the) (CD 2003) (NN season)))))) (. .)))
+HehePRPOPER0replacesreplaceVBZOPER0TerryTerryNNPPERSONPER0FranconaFranconaNNPPERSONPER0whowhoWPOPER0wasbeVBDOPER0firedfireVBNOPER0ononINOPER0OctoberOctoberNNPDATEPER0thetheDTDATEPER01st1stNNDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ replaces) (NP (NP (NNP Terry) (NNP Francona)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN fired) (PP (IN on) (NP (NNP October) (DT the) (NN 1st))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNPS Phillies))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Larry) (NNP Bowa))
+sid=0 spanning 11 until 12 headed by 11 parsed as their
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ fiery) (NNP Bowa))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNPS Phillies))
+sid=1 spanning 8 until 11 headed by 9 parsed as (NP (DT the) (NN franchise) (POS 's))
+sid=2 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (NML (CD 54) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Bowa))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Philadelphia))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNPS Phillies))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Larry) (NNP Bowa))
+sid=0 spanning 11 until 18 headed by 13 parsed as (NP (NP (PRP$ their) (JJ new) (NN manager)) (PP (IN for) (NP (DT the) (CD 2001) (NN season))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (PRP$ their)
+sid=0 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (CD 2001) (NN season))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ fiery) (NNP Bowa))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNPS Phillies))
+sid=1 spanning 8 until 15 headed by 14 parsed as (NP (NP (DT the) (NN franchise) (POS 's)) (JJ only) (NML (NNP World) (NNP Series)) (NNP Championship))
+sid=1 spanning 8 until 11 headed by 9 parsed as (NP (DT the) (NN franchise) (POS 's))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (CD 1980))
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (DT a) (NN player))
+sid=2 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (NML (CD 54) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Bowa))
+sid=2 spanning 1 until 6 headed by 5 parsed as old
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (NML (CD two) (NN year)) (NN deal))
+sid=2 spanning 9 until 11 headed by 10 parsed as year
+sid=2 spanning 13 until 20 headed by 15 parsed as (NP (NP (DT a) (NN club) (NN option)) (PP (IN for) (NP (DT the) (CD 2003) (NN season))))
+sid=2 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (CD 2003) (NN season))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 11 headed by 3 parsed as (NP (NP (NNP Terry) (NNP Francona)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN fired) (PP (IN on) (NP (NNP October) (DT the) (NN 1st))))))))
+sid=3 spanning 8 until 11 headed by 10 parsed as (NP (NNP October) (DT the) (NN 1st))
+(end predicted mentions)
+---------gold clusters--------
+2 5 0 4 | { 'their' 'the franchise 's' 'the Phillies' 'the Phillies' }
+1 6 3 7 | { 'Larry Bowa' 'The 54 - year - old Bowa' 'The fiery Bowa' 'He' }
+(end gold clusters)

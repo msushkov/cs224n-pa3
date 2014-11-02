@@ -1,0 +1,43 @@
+---------gloss--------
+(0) The Palestinian territories today , three Jewish settlers were killed by Palestinians . 
+(1) Two men were on [4m[36m{a bus}[0m when Palestinians fired on [4m[36m{a bus}[0m and [32m{a woman}[0m was killed when [32m{her}[0m car was fired on . 
+(2) [31m{The Palestinians}[0m had warned [31m{they}[0m would retaliate for Thursday 's assassination of a commander of the Fatah organization . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0031); part 000
+sentences:
+ThetheDTOPER0PalestinianpalestinianJJOPER0territoriesterritoryNNSOPER0todaytodayNNDATEPER0,,,OPER0threethreeCDCARDINALPER0JewishjewishJJOPER0settlerssettlerNNSOPER0werebeVBDOPER0killedkillVBNOPER0bybyINOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ Palestinian) (NNS territories)) (NP (NN today))) (, ,) (NP (CD three) (JJ Jewish) (NNS settlers)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NNPS Palestinians))))) (. .)))
+TwotwoCDCARDINALPER0menmanNNSOPER0werebeVBDOPER0ononINOPER0aaDTOPER0busbusNNOPER0whenwhenWRBOPER0PalestiniansPalestiniansNNPSOPER0firedfireVBDOPER0ononINOPER0aaDTOPER0busbusNNOPER0andandCCOPER0aaDTOPER0womanwomanNNOPER0wasbeVBDOPER0killedkillVBNOPER0whenwhenWRBOPER0hershePRP$OPER0carcarNNOPER0wasbeVBDOPER0firedfireVBNOPER0ononINOPER0...OPER0(ROOT (S (NP (CD Two) (NNS men)) (VP (VBD were) (PP (IN on) (NP (DT a) (NN bus))) (SBAR (WHADVP (WRB when)) (S (S (NP (NNPS Palestinians)) (VP (VBD fired) (PP (IN on) (NP (DT a) (NN bus))))) (CC and) (S (NP (DT a) (NN woman)) (VP (VBD was) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ her) (NN car)) (VP (VBD was) (VP (VBN fired) (PP (IN on)))))))))))) (. .)))
+ThetheDTOPER0PalestiniansPalestiniansNNPSOPER0hadhaveVBDOPER0warnedwarnVBNOPER0theytheyPRPOPER0wouldwouldMDOPER0retaliateretaliateVBOPER0forforINOPER0ThursdayThursdayNNPDATEPER0's'sPOSOPER0assassinationassassinationNNOPER0ofofINOPER0aaDTOPER0commandercommanderNNOPER0ofofINOPER0thetheDTOPER0FatahFatahNNPORGPER0organizationorganizationNNOPER0...OPER0(ROOT (S (NP (DT The) (NNPS Palestinians)) (VP (VBD had) (VP (VBN warned) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB retaliate) (PP (IN for) (NP (NP (NP (NNP Thursday) (POS 's)) (NN assassination)) (PP (IN of) (NP (NP (DT a) (NN commander)) (PP (IN of) (NP (DT the) (NNP Fatah) (NN organization))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT a) (NN bus))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT a) (NN bus))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT a) (NN woman))
+sid=1 spanning 18 until 19 headed by 18 parsed as her
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Palestinians))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 2 parsed as (NP (NP (DT The) (JJ Palestinian) (NNS territories)) (NP (NN today)))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (CD three) (JJ Jewish) (NNS settlers))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (CD Two) (NNS men))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT a) (NN bus))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT a) (NN bus))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT a) (NN woman))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (PRP$ her) (NN car))
+sid=1 spanning 18 until 19 headed by 18 parsed as (PRP$ her)
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Palestinians))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=2 spanning 8 until 18 headed by 10 parsed as (NP (NP (NP (NNP Thursday) (POS 's)) (NN assassination)) (PP (IN of) (NP (NP (DT a) (NN commander)) (PP (IN of) (NP (DT the) (NNP Fatah) (NN organization))))))
+sid=2 spanning 8 until 10 headed by 8 parsed as (NP (NNP Thursday) (POS 's))
+sid=2 spanning 12 until 18 headed by 13 parsed as (NP (NP (DT a) (NN commander)) (PP (IN of) (NP (DT the) (NNP Fatah) (NN organization))))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP Fatah) (NN organization))
+sid=2 spanning 16 until 17 headed by 16 parsed as Fatah
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'a bus' 'a bus' }
+5 4 | { 'they' 'The Palestinians' }
+3 2 | { 'her' 'a woman' }
+(end gold clusters)

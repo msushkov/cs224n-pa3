@@ -1,0 +1,30 @@
+---------gloss--------
+(0) The death toll in Colombia from three days of heavy fighting between soldiers and rebels there now stands at more than 100 . 
+(1) That 's a brief look at the news . 
+(2) I 'm Dave Deforest in Washington . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0045); part 000
+sentences:
+ThetheDTOPER0deathdeathNNOPER0tolltollNNOPER0ininINOPER0ColombiaColombiaNNPGPEPER0fromfromINOPER0threethreeCDDATEPER0daysdayNNSDATEPER0ofofINOPER0heavyheavyJJOPER0fightingfightingNNOPER0betweenbetweenINOPER0soldierssoldierNNSOPER0andandCCOPER0rebelsrebelNNSOPER0therethereRBOPER0nownowRBOPER0standsstandVBZOPER0atatINOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0100100CDCARDINALPER0...OPER0(ROOT (S (NP (NP (DT The) (NN death) (NN toll)) (PP (IN in) (NP (NNP Colombia))) (PP (IN from) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (JJ heavy) (NN fighting)) (PP (IN between) (NP (NNS soldiers) (CC and) (NNS rebels))) (ADVP (RB there))))))) (ADVP (RB now)) (VP (VBZ stands) (PP (IN at) (NP (QP (XS (JJR more) (IN than)) (CD 100))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0aaDTOPER0briefbriefJJOPER0looklookNNOPER0atatINOPER0thetheDTOPER0newsnewsNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT a) (JJ brief) (NN look)) (PP (IN at) (NP (DT the) (NN news))))) (. .)))
+IIPRPOPER0'mbeVBPOPER0DaveDaveNNPPERSONPER0DeforestDeforestNNPPERSONPER0ininINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP Dave) (NNP Deforest)) (PP (IN in) (NP (NNP Washington))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 16 headed by 2 parsed as (NP (NP (DT The) (NN death) (NN toll)) (PP (IN in) (NP (NNP Colombia))) (PP (IN from) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (JJ heavy) (NN fighting)) (PP (IN between) (NP (NNS soldiers) (CC and) (NNS rebels))) (ADVP (RB there)))))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Colombia))
+sid=0 spanning 6 until 16 headed by 7 parsed as (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (JJ heavy) (NN fighting)) (PP (IN between) (NP (NNS soldiers) (CC and) (NNS rebels))) (ADVP (RB there)))))
+sid=0 spanning 12 until 15 headed by 12 parsed as (NP (NNS soldiers) (CC and) (NNS rebels))
+sid=0 spanning 19 until 22 headed by 21 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 100)))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=1 spanning 2 until 8 headed by 4 parsed as (NP (NP (DT a) (JJ brief) (NN look)) (PP (IN at) (NP (DT the) (NN news))))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN news))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=2 spanning 2 until 6 headed by 3 parsed as (NP (NP (NNP Dave) (NNP Deforest)) (PP (IN in) (NP (NNP Washington))))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

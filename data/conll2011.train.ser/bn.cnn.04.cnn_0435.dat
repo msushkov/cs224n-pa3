@@ -1,0 +1,65 @@
+---------gloss--------
+(0) Services and tributes for two political figures who died this week . 
+(1) A funeral [3m[36m{today}[0m for [3m[35m{Lester Maddox who died Wednesday}[0m . 
+(2) [3m[35m{He}[0m was a segrationist who once closed a restaurant [3m[35m{he}[0m owned rather than serve African - Americans . 
+(3) And [4m[31m{Maynard Jackson}[0m lies in state [3m[36m{today}[0m at [4m[31m{his}[0m alma mater . 
+(4) [4m[31m{He}[0m died Monday at the age of 65 . 
+(5) Jimmy Carter spoke yesterday at a tribute for [4m[31m{Jackson}[0m . 
+(6) Former President Bill Clinton expects to attend the funeral tomorrow . 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0435); part 000
+sentences:
+ServicesserviceNNSORGPER0andandCCOPER0tributestributeNNSOPER0forforINOPER0twotwoCDCARDINALPER0politicalpoliticalJJOPER0figuresfigureNNSOPER0whowhoWPOPER0dieddieVBDOPER0thisthisDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (NP (NP (NNS Services) (CC and) (NNS tributes)) (PP (IN for) (NP (NP (CD two) (JJ political) (NNS figures)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (DT this) (NN week))))))) (. .)))
+AaDTOPER0funeralfuneralNNOPER0todaytodayNNDATEPER0forforINOPER0LesterLesterNNPPERSONPER0MaddoxMaddoxNNPPERSONPER0whowhoWPOPER0dieddieVBDOPER0WednesdayWednesdayNNPDATEPER0...OPER0(ROOT (FRAG (NP (DT A) (NN funeral)) (NP (NP (NN today)) (PP (IN for) (NP (NP (NNP Lester) (NNP Maddox)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (NNP Wednesday)))))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0aaDTOPER0segrationistsegrationistNNOPER0whowhoWPOPER0onceonceRBOPER0closedcloseVBDOPER0aaDTOPER0restaurantrestaurantNNOPER0hehePRPOPER0ownedownVBDOPER0ratherratherRBOPER0thanthanINOPER0serveserveVBOPER0AfricanAfricanNNPOPER0--HYPHOPER0AmericansAmericansNNPSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (NP (NP (DT a) (NN segrationist)) (SBAR (WHNP (WP who)) (S (ADVP (RB once)) (VP (VBD closed) (NP (NP (DT a) (NN restaurant)) (SBAR (S (NP (PRP he)) (VP (VBD owned) (CONJP (RB rather) (IN than)) (VP (VB serve) (NP (NNP African) (HYPH -) (NNPS Americans)))))))))))) (. .)))
+AndandCCOPER0MaynardMaynardNNPPERSONPER0JacksonJacksonNNPPERSONPER0lieslieVBZOPER0ininINOPER0statestateNNOPER0todaytodayNNDATEPER0atatINOPER0hishePRP$OPER0almaalmaJJOPER0matermaterNNOPER0...OPER0(ROOT (S (CC And) (NP (NNP Maynard) (NNP Jackson)) (VP (VBZ lies) (PP (IN in) (NP (NN state))) (NP (NN today)) (PP (IN at) (NP (PRP$ his) (JJ alma) (NN mater)))) (. .)))
+HehePRPOPER0dieddieVBDOPER0MondayMondayNNPDATEPER0atatINOPER0thetheDTDATEPER0ageageNNDATEPER0ofofINDATEPER06565CDDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD died) (NP (NNP Monday)) (PP (IN at) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (CD 65)))))) (. .)))
+JimmyJimmyNNPPERSONPER0CarterCarterNNPPERSONPER0spokespeakVBDOPER0yesterdayyesterdayNNDATEPER0atatINOPER0aaDTOPER0tributetributeNNOPER0forforINOPER0JacksonJacksonNNPPERSONPER0...OPER0(ROOT (S (NP (NNP Jimmy) (NNP Carter)) (VP (VBD spoke) (NP (NN yesterday)) (PP (IN at) (NP (NP (DT a) (NN tribute)) (PP (IN for) (NP (NNP Jackson)))))) (. .)))
+FormerformerJJOPER0PresidentPresidentNNPOPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0expectsexpectVBZOPER0totoTOOPER0attendattendVBOPER0thetheDTOPER0funeralfuneralNNOPER0tomorrowtomorrowNNDATEPER0...OPER0(ROOT (S (NP (NML (JJ Former) (NNP President)) (NNP Bill) (NNP Clinton)) (VP (VBZ expects) (S (VP (TO to) (VP (VB attend) (NP (DT the) (NN funeral)) (NP (NN tomorrow)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NP (NN today)) (PP (IN for) (NP (NP (NNP Lester) (NNP Maddox)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (NNP Wednesday))))))))
+sid=1 spanning 4 until 9 headed by 5 parsed as (NP (NP (NNP Lester) (NNP Maddox)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (NNP Wednesday))))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (NNP Maynard) (NNP Jackson))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NN today))
+sid=3 spanning 8 until 9 headed by 8 parsed as his
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 8 until 9 headed by 8 parsed as (NP (NNP Jackson))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNS Services) (CC and) (NNS tributes)) (PP (IN for) (NP (NP (CD two) (JJ political) (NNS figures)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (DT this) (NN week))))))) (. .))
+sid=0 spanning 0 until 12 headed by 0 parsed as (NP (NP (NNS Services) (CC and) (NNS tributes)) (PP (IN for) (NP (NP (CD two) (JJ political) (NNS figures)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (DT this) (NN week))))))) (. .))
+sid=0 spanning 4 until 11 headed by 6 parsed as (NP (NP (CD two) (JJ political) (NNS figures)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (DT this) (NN week))))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT this) (NN week))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT A) (NN funeral))
+sid=1 spanning 2 until 9 headed by 2 parsed as (NP (NP (NN today)) (PP (IN for) (NP (NP (NNP Lester) (NNP Maddox)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (NNP Wednesday))))))))
+sid=1 spanning 4 until 9 headed by 5 parsed as (NP (NP (NNP Lester) (NNP Maddox)) (SBAR (WHNP (WP who)) (S (VP (VBD died) (NP (NNP Wednesday))))))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Wednesday))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 17 headed by 3 parsed as (NP (NP (DT a) (NN segrationist)) (SBAR (WHNP (WP who)) (S (ADVP (RB once)) (VP (VBD closed) (NP (NP (DT a) (NN restaurant)) (SBAR (S (NP (PRP he)) (VP (VBD owned) (CONJP (RB rather) (IN than)) (VP (VB serve) (NP (NNP African) (HYPH -) (NNPS Americans)))))))))))
+sid=2 spanning 7 until 17 headed by 8 parsed as (NP (NP (DT a) (NN restaurant)) (SBAR (S (NP (PRP he)) (VP (VBD owned) (CONJP (RB rather) (IN than)) (VP (VB serve) (NP (NNP African) (HYPH -) (NNPS Americans)))))))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=2 spanning 14 until 17 headed by 16 parsed as (NP (NNP African) (HYPH -) (NNPS Americans))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (NNP Maynard) (NNP Jackson))
+sid=3 spanning 8 until 11 headed by 10 parsed as (NP (PRP$ his) (JJ alma) (NN mater))
+sid=3 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (NNP Monday))
+sid=4 spanning 4 until 8 headed by 5 parsed as (NP (NP (DT the) (NN age)) (PP (IN of) (NP (CD 65))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jimmy) (NNP Carter))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NN yesterday))
+sid=5 spanning 5 until 9 headed by 6 parsed as (NP (NP (DT a) (NN tribute)) (PP (IN for) (NP (NNP Jackson))))
+sid=5 spanning 8 until 9 headed by 8 parsed as (NP (NNP Jackson))
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Former) (NNP President)) (NNP Bill) (NNP Clinton))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN funeral))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NN tomorrow))
+(end predicted mentions)
+---------gold clusters--------
+1 3 2 | { 'Lester Maddox who died Wednesday' 'he' 'He' }
+0 5 | { 'today' 'today' }
+6 8 7 4 | { 'his' 'Jackson' 'He' 'Maynard Jackson' }
+(end gold clusters)

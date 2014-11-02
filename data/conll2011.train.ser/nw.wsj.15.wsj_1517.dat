@@ -1,0 +1,75 @@
+---------gloss--------
+(0) [4m[32m{Gary J. Schantz , 44 years old ,}[0m was named president and [4m[33m{chief operating officer}[0m . 
+(1) [4m[31m{Polymerix}[0m makes lumber - like materials that [4m[31m{it}[0m describes as `` plastic wood . '' 
+(2) [4m[32m{The operating chief 's}[0m post is new . 
+(3) [3m[36m{Martin Schrager , 51 , who had been president ,}[0m was named vice chairman . 
+(4) [3m[36m{He}[0m remains chief executive officer . 
+(5) [4m[32m{Mr. Schantz}[0m was vice president and chief operating officer of the Acrylic division of Polycast Technology Corp . 
+(6) Separately , the board expanded to six members with the election of David L. Holewinski , a consultant . 
+(7) [4m[31m{The company}[0m also said [4m[31m{it}[0m privately placed stock and warrants in exchange for $ 750,000 . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1517); part 000
+sentences:
+GaryGaryNNPPERSONPER0J.J.NNPPERSONPER0SchantzSchantzNNPPERSONPER0,,,OPER04444CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0operatingoperatingNNOPER0officerofficerNNOPER0...OPER0(ROOT (S (NP (NP (NNP Gary) (NNP J.) (NNP Schantz)) (, ,) (ADJP (NML (CD 44) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer)))))) (. .)))
+PolymerixPolymerixNNPORGPER0makesmakeVBZOPER0lumberlumberNNOPER0--HYPHOPER0likelikeJJOPER0materialsmaterialNNSOPER0thatthatINOPER0ititPRPOPER0describesdescribeVBZOPER0asasINOPER0``````OplasticplasticJJOPER1woodwoodNNOPER1...OPER1''''''OPER0(ROOT (S (NP (NNP Polymerix)) (VP (VBZ makes) (NP (ADJP (NN lumber) (HYPH -) (JJ like)) (NNS materials)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ describes) (PP (IN as) (`` ``) (NP (JJ plastic) (NN wood))))))) (. .) ('' '')))
+ThetheDTOPER0operatingoperateVBGOPER0chiefchiefNNOPER0's'sPOSOPER0postpostNNOPER0isbeVBZOPER0newnewJJOPER0...OPER0(ROOT (S (NP (NP (DT The) (VBG operating) (NN chief) (POS 's)) (NN post)) (VP (VBZ is) (ADJP (JJ new))) (. .)))
+MartinMartinNNPPERSONPER0SchragerSchragerNNPPERSONPER0,,,OPER05151CDDATEPER0,,,OPER0whowhoWPOPER0hadhaveVBDOPER0beenbeVBNOPER0presidentpresidentNNOPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0viceviceNNOPER0chairmanchairmanNNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Martin) (NNP Schrager)) (, ,) (NP (CD 51))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NN president)))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NN vice) (NN chairman))))) (. .)))
+HehePRPOPER0remainsremainVBZOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ remains) (S (NP (JJ chief) (JJ executive) (NN officer)))) (. .)))
+Mr.Mr.NNPOPER0SchantzSchantzNNPPERSONPER0wasbeVBDOPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0operatingoperatingNNOPER0officerofficerNNOPER0ofofINOPER0thetheDTOPER0AcrylicacrylicJJORGPER0divisiondivisionNNOPER0ofofINOPER0PolycastPolycastNNPORGPER0TechnologyTechnologyNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Schantz)) (VP (VBD was) (NP (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN of) (NP (NP (DT the) (JJ Acrylic) (NN division)) (PP (IN of) (NP (NNP Polycast) (NNP Technology) (NNP Corp))))))) (. .)))
+SeparatelyseparatelyRBOPER0,,,OPER0thetheDTOPER0boardboardNNOPER0expandedexpandVBDOPER0totoINOPER0sixsixCDCARDINALPER0membersmemberNNSOPER0withwithINOPER0thetheDTOPER0electionelectionNNOPER0ofofINOPER0DavidDavidNNPPERSONPER0L.L.NNPPERSONPER0HolewinskiHolewinskiNNPPERSONPER0,,,OPER0aaDTOPER0consultantconsultantNNOPER0...OPER0(ROOT (S (ADVP (RB Separately)) (, ,) (NP (DT the) (NN board)) (VP (VBD expanded) (PP (IN to) (NP (CD six) (NNS members))) (PP (IN with) (NP (NP (DT the) (NN election)) (PP (IN of) (NP (NP (NNP David) (NNP L.) (NNP Holewinski)) (, ,) (NP (DT a) (NN consultant))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0alsoalsoRBOPER0saidsayVBDOPER0ititPRPOPER0privatelyprivatelyRBOPER0placedplaceVBDOPER0stockstockNNOPER0andandCCOPER0warrantswarrantNNSOPER0ininINOPER0exchangeexchangeNNOPER0forforINOPER0$$$MONEYPER0750,000750,000CDMONEYPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (ADVP (RB privately)) (VP (VBD placed) (NP (NN stock) (CC and) (NNS warrants)) (PP (IN in) (NP (NP (NN exchange)) (PP (IN for) (NP ($ $) (CD 750,000))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Gary) (NNP J.) (NNP Schantz)) (, ,) (ADJP (NML (CD 44) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (JJ chief) (NN operating) (NN officer))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Polymerix))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (VBG operating) (NN chief) (POS 's)) (NN post))
+sid=2 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (VBG operating) (NN chief) (POS 's))
+sid=3 spanning 0 until 10 headed by 1 parsed as (NP (NP (NP (NNP Martin) (NNP Schrager)) (, ,) (NP (CD 51))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NN president)))))) (, ,))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Schantz))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Gary) (NNP J.) (NNP Schantz)) (, ,) (ADJP (NML (CD 44) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Gary) (NNP J.) (NNP Schantz)) (, ,) (ADJP (NML (CD 44) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 4 until 7 headed by 6 parsed as old
+sid=0 spanning 10 until 15 headed by 10 parsed as (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer)))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Polymerix))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (ADJP (NN lumber) (HYPH -) (JJ like)) (NNS materials))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (VBG operating) (NN chief) (POS 's)) (NN post))
+sid=2 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (VBG operating) (NN chief) (POS 's))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NP (NP (NNP Martin) (NNP Schrager)) (, ,) (NP (CD 51))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NN president)))))) (, ,))
+sid=3 spanning 0 until 10 headed by 1 parsed as (NP (NP (NP (NNP Martin) (NNP Schrager)) (, ,) (NP (CD 51))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NN president)))))) (, ,))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (NP (NNP Martin) (NNP Schrager)) (, ,) (NP (CD 51)))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (CD 51))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (NN vice) (NN chairman))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Schantz))
+sid=5 spanning 3 until 17 headed by 4 parsed as (NP (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN of) (NP (NP (DT the) (JJ Acrylic) (NN division)) (PP (IN of) (NP (NNP Polycast) (NNP Technology) (NNP Corp))))))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (NN vice) (NN president))
+sid=5 spanning 10 until 17 headed by 12 parsed as (NP (NP (DT the) (JJ Acrylic) (NN division)) (PP (IN of) (NP (NNP Polycast) (NNP Technology) (NNP Corp))))
+sid=5 spanning 11 until 12 headed by 11 parsed as Acrylic
+sid=5 spanning 14 until 17 headed by 16 parsed as (NP (NNP Polycast) (NNP Technology) (NNP Corp))
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN board))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (CD six) (NNS members))
+sid=6 spanning 9 until 18 headed by 10 parsed as (NP (NP (DT the) (NN election)) (PP (IN of) (NP (NP (NNP David) (NNP L.) (NNP Holewinski)) (, ,) (NP (DT a) (NN consultant)))))
+sid=6 spanning 12 until 15 headed by 14 parsed as (NP (NP (NNP David) (NNP L.) (NNP Holewinski)) (, ,) (NP (DT a) (NN consultant)))
+sid=6 spanning 12 until 18 headed by 14 parsed as (NP (NP (NNP David) (NNP L.) (NNP Holewinski)) (, ,) (NP (DT a) (NN consultant)))
+sid=6 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN consultant))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=7 spanning 7 until 10 headed by 7 parsed as (NP (NN stock) (CC and) (NNS warrants))
+sid=7 spanning 11 until 15 headed by 11 parsed as (NP (NP (NN exchange)) (PP (IN for) (NP ($ $) (CD 750,000))))
+(end predicted mentions)
+---------gold clusters--------
+7 6 | { 'He' 'Martin Schrager , 51 , who had been president ,' }
+10 3 2 9 | { 'it' 'it' 'Polymerix' 'The company' }
+5 8 0 | { 'The operating chief 's' 'Mr. Schantz' 'Gary J. Schantz , 44 years old ,' }
+4 1 | { 'The operating chief 's post' 'chief operating officer' }
+(end gold clusters)

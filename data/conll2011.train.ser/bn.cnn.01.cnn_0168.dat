@@ -1,0 +1,66 @@
+---------gloss--------
+(0) [1m[32m{The admiral reviewing the actions of the captain and crew of the `` USS Cole ''}[0m is [1m[33m{recommending}[0m no punishment for [1m[34m{the ship 's}[0m commander . 
+(1) Pentagon sources tell CNN [1m[32m{Admiral Robert Natter 's}[0m decision must still be approved by two top Navy officials , but [1m[33m{the recommendation}[0m makes it unlikely [1m[34m{the ship 's}[0m commanding officer will face any disciplinary action . 
+(2) [1m[32m{The admiral}[0m concluded [1m[31m{Commander Kirk Lippold 's}[0m actions , while not perfect , fell within the `` acceptable '' range of conduct . 
+(3) [1m[34m{The `` Cole ''}[0m was attacked October in Yemen by suicide bombers in a small boat . 
+(4) 17 sailors were killed . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0168); part 000
+sentences:
+ThetheDTOPER0admiraladmiralNNOPER0reviewingreviewVBGOPER0thetheDTOPER0actionsactionNNSOPER0ofofINOPER0thetheDTOPER0captaincaptainNNOPER0andandCCOPER0crewcrewNNOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0isbeVBZOPER0recommendingrecommendVBGOPER0nonoDTOPER0punishmentpunishmentNNOPER0forforINOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0commandercommanderNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN admiral)) (VP (VBG reviewing) (NP (NP (DT the) (NNS actions)) (PP (IN of) (NP (NP (DT the) (NN captain) (CC and) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))))))) (VP (VBZ is) (VP (VBG recommending) (NP (NP (DT no) (NN punishment)) (PP (IN for) (NP (NP (DT the) (NN ship) (POS 's)) (NN commander)))))) (. .)))
+PentagonPentagonNNPORGPER0sourcessourceNNSOPER0telltellVBPOPER0CNNCNNNNPORGPER0AdmiralAdmiralNNPORGPER0RobertRobertNNPORGPER0NatterNatterNNPORGPER0's'sPOSORGPER0decisiondecisionNNOPER0mustmustMDOPER0stillstillRBOPER0bebeVBOPER0approvedapproveVBNOPER0bybyINOPER0twotwoCDCARDINALPER0toptopJJOPER0NavyNavyNNPORGPER0officialsofficialNNSOPER0,,,OPER0butbutCCOPER0thetheDTOPER0recommendationrecommendationNNOPER0makesmakeVBZOPER0ititPRPOPER0unlikelyunlikelyJJOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0commandingcommandVBGOPER0officerofficerNNOPER0willwillMDOPER0facefaceVBOPER0anyanyDTOPER0disciplinarydisciplinaryJJOPER0actionactionNNOPER0...OPER0(ROOT (S (S (NP (NNP Pentagon) (NNS sources)) (VP (VBP tell) (SBAR (S (NP (NP (NNP CNN) (NNP Admiral) (NNP Robert) (NNP Natter) (POS 's)) (NN decision)) (VP (MD must) (ADVP (RB still)) (VP (VB be) (VP (VBN approved) (PP (IN by) (NP (CD two) (JJ top) (NNP Navy) (NNS officials)))))))))) (, ,) (CC but) (S (NP (DT the) (NN recommendation)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ unlikely)) (SBAR (S (NP (NP (DT the) (NN ship) (POS 's)) (VBG commanding) (NN officer)) (VP (MD will) (VP (VB face) (NP (DT any) (JJ disciplinary) (NN action))))))))) (. .)))
+ThetheDTOPER0admiraladmiralNNOPER0concludedconcludeVBDOPER0CommanderCommanderNNPOPER0KirkKirkNNPPERSONPER0LippoldLippoldNNPPERSONPER0's'sPOSOPER0actionsactionNNSOPER0,,,OPER0whilewhileINOPER0notnotRBOPER0perfectperfectJJOPER0,,,OPER0fellfallVBDOPER0withinwithinINOPER0thetheDTOPER0``````OacceptableacceptableJJOPER2''''''OPER0rangerangeNNOPER0ofofINOPER0conductconductNNOPER0...OPER0(ROOT (S (NP (DT The) (NN admiral)) (VP (VBD concluded) (SBAR (S (NP (NP (NNP Commander) (NNP Kirk) (NNP Lippold) (POS 's)) (NNS actions)) (, ,) (SBAR (IN while) (FRAG (RB not) (ADJP (JJ perfect)))) (, ,) (VP (VBD fell) (PP (IN within) (NP (NP (DT the) (`` ``) (JJ acceptable) ('' '') (NN range)) (PP (IN of) (NP (NN conduct))))))))) (. .)))
+ThetheDTOPER0``````OColeColeNNPWORK_OF_ARTPER3''''''OPER0wasbeVBDOPER0attackedattackVBNOPER0OctoberOctoberNNPDATEPER0ininINOPER0YemenYemenNNPGPEPER0bybyINOPER0suicidesuicideNNOPER0bombersbomberNNSOPER0ininINOPER0aaDTOPER0smallsmallJJOPER0boatboatNNOPER0...OPER0(ROOT (S (NP (DT The) (`` ``) (NNP Cole) ('' '')) (VP (VBD was) (VP (VBN attacked) (NP (NNP October)) (PP (IN in) (NP (NNP Yemen))) (PP (IN by) (NP (NN suicide) (NNS bombers))) (PP (IN in) (NP (DT a) (JJ small) (NN boat))))) (. .)))
+1717CDCARDINALPER0sailorssailorNNSOPER0werebeVBDOPER0killedkillVBNOPER0...OPER0(ROOT (S (NP (CD 17) (NNS sailors)) (VP (VBD were) (VP (VBN killed))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 16 headed by 1 parsed as (NP (NP (DT The) (NN admiral)) (VP (VBG reviewing) (NP (NP (DT the) (NNS actions)) (PP (IN of) (NP (NP (DT the) (NN captain) (CC and) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))))))
+sid=0 spanning 11 until 16 headed by 14 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 17 until 18 headed by 17 parsed as recommending
+sid=0 spanning 21 until 25 headed by 24 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NN commander))
+sid=0 spanning 21 until 24 headed by 22 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=1 spanning 4 until 8 headed by 6 parsed as (NP (NNP CNN) (NNP Admiral) (NNP Robert) (NNP Natter) (POS 's))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN recommendation))
+sid=1 spanning 25 until 30 headed by 29 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (VBG commanding) (NN officer))
+sid=1 spanning 25 until 28 headed by 26 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN admiral))
+sid=2 spanning 3 until 7 headed by 5 parsed as (NP (NNP Commander) (NNP Kirk) (NNP Lippold) (POS 's))
+sid=3 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (`` ``) (NNP Cole) ('' ''))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 16 headed by 1 parsed as (NP (NP (DT The) (NN admiral)) (VP (VBG reviewing) (NP (NP (DT the) (NNS actions)) (PP (IN of) (NP (NP (DT the) (NN captain) (CC and) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))))))
+sid=0 spanning 3 until 16 headed by 4 parsed as (NP (NP (DT the) (NNS actions)) (PP (IN of) (NP (NP (DT the) (NN captain) (CC and) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))))
+sid=0 spanning 6 until 16 headed by 7 parsed as (NP (NP (DT the) (NN captain) (CC and) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 11 until 16 headed by 14 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 18 until 25 headed by 19 parsed as (NP (NP (DT no) (NN punishment)) (PP (IN for) (NP (NP (DT the) (NN ship) (POS 's)) (NN commander))))
+sid=0 spanning 21 until 25 headed by 24 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NN commander))
+sid=0 spanning 21 until 24 headed by 22 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Pentagon) (NNS sources))
+sid=1 spanning 0 until 1 headed by 0 parsed as Pentagon
+sid=1 spanning 3 until 9 headed by 8 parsed as (NP (NP (NNP CNN) (NNP Admiral) (NNP Robert) (NNP Natter) (POS 's)) (NN decision))
+sid=1 spanning 3 until 8 headed by 6 parsed as (NP (NNP CNN) (NNP Admiral) (NNP Robert) (NNP Natter) (POS 's))
+sid=1 spanning 14 until 18 headed by 17 parsed as (NP (CD two) (JJ top) (NNP Navy) (NNS officials))
+sid=1 spanning 16 until 17 headed by 16 parsed as Navy
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN recommendation))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (PRP it))
+sid=1 spanning 25 until 30 headed by 29 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (VBG commanding) (NN officer))
+sid=1 spanning 25 until 28 headed by 26 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN admiral))
+sid=2 spanning 3 until 8 headed by 7 parsed as (NP (NP (NNP Commander) (NNP Kirk) (NNP Lippold) (POS 's)) (NNS actions))
+sid=2 spanning 3 until 7 headed by 5 parsed as (NP (NNP Commander) (NNP Kirk) (NNP Lippold) (POS 's))
+sid=2 spanning 15 until 22 headed by 19 parsed as (NP (NP (DT the) (`` ``) (JJ acceptable) ('' '') (NN range)) (PP (IN of) (NP (NN conduct))))
+sid=3 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (`` ``) (NNP Cole) ('' ''))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP October))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNP Yemen))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (NN suicide) (NNS bombers))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ small) (NN boat))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (CD 17) (NNS sailors))
+(end predicted mentions)
+---------gold clusters--------
+10 7 3 | { 'Commander Kirk Lippold 's' 'the ship 's commanding officer' 'the ship 's commander' }
+9 0 5 | { 'The admiral' 'The admiral reviewing the actions of the captain and crew of the `` USS Cole ''' 'Admiral Robert Natter 's' }
+6 2 | { 'the recommendation' 'recommending' }
+4 11 1 8 | { 'the ship 's' 'The `` Cole ''' 'the `` USS Cole ''' 'the ship 's' }
+(end gold clusters)

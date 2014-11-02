@@ -1,0 +1,121 @@
+---------gloss--------
+(0) [1m[32m{Dun & Bradstreet Corp.}[0m said business failures fell 17.8 % to 11,586 in [1m[35m{the third quarter}[0m from 14,099 in the year - earlier period . 
+(1) In [1m[33m{the first nine months of this year}[0m , business failures dropped 15.6 % to 37,820 from 44,796 . 
+(2) Except for a few spots , notably Georgia , Virginia and Michigan , failures declined almost across the board , according to [1m[32m{the business information services company}[0m . 
+(3) [1m[32m{D&B}[0m defines a business failure as a company that closes with losses to creditors . 
+(4) [1m[31m{The current decline in failures}[0m continues a trend begun in late 1987 , [1m[32m{D&B}[0m said . 
+(5) [1m[31m{The drop}[0m accelerated in [36m{this year 's}[0m third quarter , underscoring an overall lack of stress in the U.S. economy , [1m[32m{the company}[0m said . 
+(6) Failures in seven of nine regional areas fell more than 10 % in [1m[33m{the nine months}[0m . 
+(7) The South Atlantic States were the only region to report [1m[34m{an increase in bankruptcies}[0m , up 5.3 % to 5,791 from 5,502 . 
+(8) [1m[34m{This}[0m occurred partly because of more competition as the number of new businesses surged . 
+(9) The only industry sector to report more business failures for [1m[33m{the nine months}[0m was [35m{the finance , insurance and real - estate sector , where bankruptcies grew 8.1 % to 2,046 from 1,892}[0m . 
+(10) The troubled savings - and - loan industry and subsequent stress in real - estate businesses fueled bankruptcies in [35m{this sector}[0m , [1m[32m{D&B}[0m said . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1046); part 000
+sentences:
+DunDunNNPORGPER0&&CCORGPER0BradstreetBradstreetNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0businessbusinessNNOPER0failuresfailureNNSOPER0fellfallVBDOPER017.817.8CDPERCENTPER0%%NNPERCENTPER0totoTOOPER011,58611,586CDCARDINALPER0ininINOPER0thetheDTDATEPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0fromfromINOPER014,09914,099CDMONEYPER0ininINOPER0thetheDTOPER0yearyearNNDATEPER0--HYPHDATEPER0earlierearlierJJRDATEPER0periodperiodNNOPER0...OPER0(ROOT (S (NP (NP (NNP Dun) (CC &) (NNP Bradstreet)) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NN business) (NNS failures)) (VP (VBD fell) (NP (QP (CD 17.8) (NN %) (TO to) (CD 11,586))) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (PP (IN from) (NP (CD 14,099))) (PP (IN in) (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN period))))))) (. .)))
+IninINOPER0thetheDTDATEPER0firstfirstJJDATEPER0ninenineCDDATEPER0monthsmonthNNSDATEPER0ofofINDATEPER0thisthisDTDATEPER0yearyearNNDATEPER0,,,OPER0businessbusinessNNOPER0failuresfailureNNSOPER0droppeddropVBDOPER015.615.6CDPERCENTPER0%%NNPERCENTPER0totoINOPER037,82037,820CDCARDINALPER0fromfromINOPER044,79644,796CDCARDINALPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT this) (NN year))))) (, ,) (NP (NN business) (NNS failures)) (VP (VBD dropped) (NP (CD 15.6) (NN %)) (PP (IN to) (NP (CD 37,820))) (PP (IN from) (NP (CD 44,796)))) (. .)))
+ExceptexceptINOPER0forforINOPER0aaDTOPER0fewfewJJOPER0spotsspotNNSOPER0,,,OPER0notablynotablyRBOPER0GeorgiaGeorgiaNNPGPEPER0,,,OPER0VirginiaVirginiaNNPGPEPER0andandCCOPER0MichiganMichiganNNPGPEPER0,,,OPER0failuresfailureNNSOPER0declineddeclineVBDOPER0almostalmostRBOPER0acrossacrossINOPER0thetheDTOPER0boardboardNNOPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0thetheDTOPER0businessbusinessNNOPER0informationinformationNNOPER0servicesserviceNNSOPER0companycompanyNNOPER0...OPER0(ROOT (S (PP (IN Except) (PP (IN for) (NP (NP (QP (DT a) (JJ few)) (NNS spots)) (, ,) (NP (ADVP (RB notably)) (NNP Georgia) (, ,) (NNP Virginia) (CC and) (NNP Michigan))))) (, ,) (NP (NNS failures)) (VP (VBD declined) (PP (RB almost) (IN across) (NP (DT the) (NN board))) (, ,) (PP (VBG according) (PP (IN to) (NP (DT the) (NML (NML (NN business) (NN information)) (NNS services)) (NN company))))) (. .)))
+D&BD&BNNPORGPER0definesdefineVBZOPER0aaDTOPER0businessbusinessNNOPER0failurefailureNNOPER0asasINOPER0aaDTOPER0companycompanyNNOPER0thatthatWDTOPER0closescloseVBZOPER0withwithINOPER0losseslossNNSOPER0totoINOPER0creditorscreditorNNSOPER0...OPER0(ROOT (S (NP (NNP D&B)) (VP (VBZ defines) (NP (DT a) (NN business) (NN failure)) (PP (IN as) (NP (NP (DT a) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBZ closes) (PP (IN with) (NP (NP (NNS losses)) (PP (IN to) (NP (NNS creditors))))))))))) (. .)))
+ThetheDTOPER0currentcurrentJJOPER0declinedeclineNNOPER0ininINOPER0failuresfailureNNSOPER0continuescontinueVBZOPER0aaDTOPER0trendtrendNNOPER0begunbeginVBNOPER0ininINOPER0latelateJJDATEPER019871987CDDATEPER0,,,OPER0D&BD&BNNPPERSONPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (JJ current) (NN decline)) (PP (IN in) (NP (NNS failures)))) (VP (VBZ continues) (NP (NP (DT a) (NN trend)) (VP (VBN begun) (PP (IN in) (NP (JJ late) (CD 1987))))))) (, ,) (NP (NNP D&B)) (VP (VBD said)) (. .)))
+ThetheDTOPER0dropdropNNOPER0acceleratedaccelerateVBDOPER0ininINOPER0thisthisDTDATEPER0yearyearNNDATEPER0's'sPOSDATEPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0,,,OPER0underscoringunderscoreVBGOPER0anaDTOPER0overalloverallJJOPER0lacklackNNOPER0ofofINOPER0stressstressNNOPER0ininINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0economyeconomyNNOPER0,,,OPER0thetheDTOPER0companycompanyNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT The) (NN drop)) (VP (VBD accelerated) (PP (IN in) (NP (NP (DT this) (NN year) (POS 's)) (JJ third) (NN quarter))) (, ,) (S (VP (VBG underscoring) (NP (NP (DT an) (JJ overall) (NN lack)) (PP (IN of) (NP (NP (NN stress)) (PP (IN in) (NP (DT the) (NNP U.S.) (NN economy)))))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+FailuresfailureNNSOPER0ininINOPER0sevensevenCDCARDINALPER0ofofINOPER0ninenineCDCARDINALPER0regionalregionalJJOPER0areasareaNNSOPER0fellfallVBDOPER0moremoreJJRPERCENTPER0thanthanINPERCENTPER01010CDPERCENTPER0%%NNPERCENTPER0ininINOPER0thetheDTDATEPER0ninenineCDDATEPER0monthsmonthNNSDATEPER0...OPER0(ROOT (S (NP (NP (NNS Failures)) (PP (IN in) (NP (NP (CD seven)) (PP (IN of) (NP (CD nine) (JJ regional) (NNS areas)))))) (VP (VBD fell) (NP (QP (XS (JJR more) (IN than)) (CD 10)) (NN %)) (PP (IN in) (NP (DT the) (CD nine) (NNS months)))) (. .)))
+ThetheDTLOCPER0SouthSouthNNPLOCPER0AtlanticAtlanticNNPLOCPER0StatesStatesNNPSLOCPER0werebeVBDOPER0thetheDTOPER0onlyonlyJJOPER0regionregionNNOPER0totoTOOPER0reportreportVBOPER0anaDTOPER0increaseincreaseNNOPER0ininINOPER0bankruptciesbankruptcyNNSOPER0,,,OPER0upupRBOPER05.35.3CDPERCENTPER0%%NNPERCENTPER0totoINOPER05,7915,791CDCARDINALPER0fromfromINOPER05,5025,502CDCARDINALPER0...OPER0(ROOT (S (NP (DT The) (NNP South) (NNP Atlantic) (NNPS States)) (VP (VBD were) (NP (NP (DT the) (JJ only) (NN region)) (SBAR (S (VP (TO to) (VP (VB report) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NNS bankruptcies))))))))) (, ,) (ADVP (RB up) (NP (CD 5.3) (NN %)) (PP (IN to) (NP (CD 5,791))) (PP (IN from) (NP (CD 5,502))))) (. .)))
+ThisthisDTOPER0occurredoccurVBDOPER0partlypartlyRBOPER0becausebecauseINOPER0ofofINOPER0moremoreJJROPER0competitioncompetitionNNOPER0asasINOPER0thetheDTOPER0numbernumberNNOPER0ofofINOPER0newnewJJOPER0businessesbusinessNNSOPER0surgedsurgeVBDOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBD occurred) (PP (ADVP (RB partly)) (IN because) (IN of) (NP (JJR more) (NN competition))) (SBAR (IN as) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ new) (NNS businesses)))) (VP (VBD surged))))) (. .)))
+ThetheDTOPER0onlyonlyJJOPER0industryindustryNNOPER0sectorsectorNNOPER0totoTOOPER0reportreportVBOPER0moremoreJJROPER0businessbusinessNNOPER0failuresfailureNNSOPER0forforINOPER0thetheDTDATEPER0ninenineCDDATEPER0monthsmonthNNSDATEPER0wasbeVBDOPER0thetheDTOPER0financefinanceNNOPER0,,,OPER0insuranceinsuranceNNOPER0andandCCOPER0realrealJJOPER0--HYPHOPER0estateestateNNOPER0sectorsectorNNOPER0,,,OPER0wherewhereWRBOPER0bankruptciesbankruptcyNNSOPER0grewgrowVBDOPER08.18.1CDPERCENTPER0%%NNPERCENTPER0totoINOPER02,0462,046CDCARDINALPER0fromfromINOPER01,8921,892CDCARDINALPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ only) (NN industry) (NN sector)) (SBAR (S (VP (TO to) (VP (VB report) (NP (JJR more) (NN business) (NNS failures)) (PP (IN for) (NP (DT the) (CD nine) (NNS months)))))))) (VP (VBD was) (NP (NP (DT the) (NN finance) (, ,) (NML (NML (NN insurance)) (CC and) (NML (JJ real) (HYPH -) (NN estate))) (NN sector)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS bankruptcies)) (VP (VBD grew) (NP (CD 8.1) (NN %)) (PP (IN to) (NP (CD 2,046))) (PP (IN from) (NP (CD 1,892)))))))) (. .)))
+ThetheDTOPER0troubledtroubleVBNOPER0savingssavingsNNSOPER0--HYPHOPER0andandCCOPER0--HYPHOPER0loanloanNNOPER0industryindustryNNOPER0andandCCOPER0subsequentsubsequentJJOPER0stressstressNNOPER0ininINOPER0realrealJJOPER0--HYPHOPER0estateestateNNOPER0businessesbusinessNNSOPER0fueledfuelVBDOPER0bankruptciesbankruptcyNNSOPER0ininINOPER0thisthisDTOPER0sectorsectorNNOPER0,,,OPER0D&BD&BNNPPERSONPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NP (DT The) (VBN troubled) (NML (NNS savings) (HYPH -) (CC and) (HYPH -) (NN loan)) (NN industry)) (CC and) (NP (JJ subsequent) (NN stress))) (PP (IN in) (NP (NML (JJ real) (HYPH -) (NN estate)) (NNS businesses)))) (VP (VBD fueled) (NP (NNS bankruptcies)) (PP (IN in) (NP (DT this) (NN sector))))) (, ,) (NP (NNP D&B)) (VP (VBD said)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Dun) (CC &) (NNP Bradstreet)) (NNP Corp.))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ third) (NN quarter))
+sid=1 spanning 1 until 8 headed by 4 parsed as (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT this) (NN year))))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT this) (NN year))
+sid=2 spanning 22 until 27 headed by 26 parsed as (NP (DT the) (NML (NML (NN business) (NN information)) (NNS services)) (NN company))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP D&B))
+sid=4 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT The) (JJ current) (NN decline)) (PP (IN in) (NP (NNS failures))))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (NNP D&B))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN drop))
+sid=5 spanning 4 until 9 headed by 8 parsed as (NP (NP (DT this) (NN year) (POS 's)) (JJ third) (NN quarter))
+sid=5 spanning 4 until 7 headed by 5 parsed as (NP (DT this) (NN year) (POS 's))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN company))
+sid=6 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (CD nine) (NNS months))
+sid=7 spanning 10 until 14 headed by 11 parsed as (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NNS bankruptcies))))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=9 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (CD nine) (NNS months))
+sid=9 spanning 14 until 33 headed by 22 parsed as (NP (NP (DT the) (NN finance) (, ,) (NML (NML (NN insurance)) (CC and) (NML (JJ real) (HYPH -) (NN estate))) (NN sector)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS bankruptcies)) (VP (VBD grew) (NP (CD 8.1) (NN %)) (PP (IN to) (NP (CD 2,046))) (PP (IN from) (NP (CD 1,892)))))))
+sid=10 spanning 19 until 21 headed by 20 parsed as (NP (DT this) (NN sector))
+sid=10 spanning 22 until 23 headed by 22 parsed as (NP (NNP D&B))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Dun) (CC &) (NNP Bradstreet)) (NNP Corp.))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NN business) (NNS failures))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ third) (NN quarter))
+sid=0 spanning 19 until 24 headed by 23 parsed as (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN period))
+sid=0 spanning 20 until 23 headed by 20 parsed as year
+sid=1 spanning 1 until 8 headed by 4 parsed as (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT this) (NN year))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NN business) (NNS failures))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (CD 37,820))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (CD 44,796))
+sid=2 spanning 2 until 12 headed by 4 parsed as (NP (NP (QP (DT a) (JJ few)) (NNS spots)) (, ,) (NP (ADVP (RB notably)) (NNP Georgia) (, ,) (NNP Virginia) (CC and) (NNP Michigan)))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (QP (DT a) (JJ few)) (NNS spots))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (ADVP (RB notably)) (NNP Georgia) (, ,) (NNP Virginia) (CC and) (NNP Michigan))
+sid=2 spanning 6 until 12 headed by 7 parsed as (NP (ADVP (RB notably)) (NNP Georgia) (, ,) (NNP Virginia) (CC and) (NNP Michigan))
+sid=2 spanning 9 until 10 headed by 9 parsed as Virginia
+sid=2 spanning 11 until 12 headed by 11 parsed as Michigan
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNS failures))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN board))
+sid=2 spanning 22 until 27 headed by 26 parsed as (NP (DT the) (NML (NML (NN business) (NN information)) (NNS services)) (NN company))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP D&B))
+sid=3 spanning 2 until 5 headed by 4 parsed as (NP (DT a) (NN business) (NN failure))
+sid=3 spanning 6 until 14 headed by 7 parsed as (NP (NP (DT a) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBZ closes) (PP (IN with) (NP (NP (NNS losses)) (PP (IN to) (NP (NNS creditors)))))))))
+sid=3 spanning 11 until 14 headed by 11 parsed as (NP (NP (NNS losses)) (PP (IN to) (NP (NNS creditors))))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (NNS creditors))
+sid=4 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT The) (JJ current) (NN decline)) (PP (IN in) (NP (NNS failures))))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNS failures))
+sid=4 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT a) (NN trend)) (VP (VBN begun) (PP (IN in) (NP (JJ late) (CD 1987)))))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (JJ late) (CD 1987))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (NNP D&B))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN drop))
+sid=5 spanning 4 until 9 headed by 8 parsed as (NP (NP (DT this) (NN year) (POS 's)) (JJ third) (NN quarter))
+sid=5 spanning 11 until 20 headed by 13 parsed as (NP (NP (DT an) (JJ overall) (NN lack)) (PP (IN of) (NP (NP (NN stress)) (PP (IN in) (NP (DT the) (NNP U.S.) (NN economy))))))
+sid=5 spanning 15 until 20 headed by 15 parsed as (NP (NP (NN stress)) (PP (IN in) (NP (DT the) (NNP U.S.) (NN economy))))
+sid=5 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP U.S.) (NN economy))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN company))
+sid=6 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNS Failures)) (PP (IN in) (NP (NP (CD seven)) (PP (IN of) (NP (CD nine) (JJ regional) (NNS areas))))))
+sid=6 spanning 2 until 7 headed by 2 parsed as (NP (NP (CD seven)) (PP (IN of) (NP (CD nine) (JJ regional) (NNS areas))))
+sid=6 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (CD nine) (NNS months))
+sid=7 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP South) (NNP Atlantic) (NNPS States))
+sid=7 spanning 5 until 14 headed by 7 parsed as (NP (NP (DT the) (JJ only) (NN region)) (SBAR (S (VP (TO to) (VP (VB report) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NNS bankruptcies)))))))))
+sid=7 spanning 10 until 14 headed by 11 parsed as (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NNS bankruptcies))))
+sid=7 spanning 13 until 14 headed by 13 parsed as (NP (NNS bankruptcies))
+sid=7 spanning 19 until 20 headed by 19 parsed as (NP (CD 5,791))
+sid=7 spanning 21 until 22 headed by 21 parsed as (NP (CD 5,502))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (JJR more) (NN competition))
+sid=8 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ new) (NNS businesses))))
+sid=9 spanning 0 until 13 headed by 3 parsed as (NP (NP (DT The) (JJ only) (NN industry) (NN sector)) (SBAR (S (VP (TO to) (VP (VB report) (NP (JJR more) (NN business) (NNS failures)) (PP (IN for) (NP (DT the) (CD nine) (NNS months))))))))
+sid=9 spanning 6 until 9 headed by 8 parsed as (NP (JJR more) (NN business) (NNS failures))
+sid=9 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (CD nine) (NNS months))
+sid=9 spanning 14 until 33 headed by 22 parsed as (NP (NP (DT the) (NN finance) (, ,) (NML (NML (NN insurance)) (CC and) (NML (JJ real) (HYPH -) (NN estate))) (NN sector)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS bankruptcies)) (VP (VBD grew) (NP (CD 8.1) (NN %)) (PP (IN to) (NP (CD 2,046))) (PP (IN from) (NP (CD 1,892)))))))
+sid=9 spanning 14 until 23 headed by 22 parsed as (NP (DT the) (NN finance) (, ,) (NML (NML (NN insurance)) (CC and) (NML (JJ real) (HYPH -) (NN estate))) (NN sector))
+sid=9 spanning 25 until 26 headed by 25 parsed as (NP (NNS bankruptcies))
+sid=9 spanning 30 until 31 headed by 30 parsed as (NP (CD 2,046))
+sid=9 spanning 32 until 33 headed by 32 parsed as (NP (CD 1,892))
+sid=10 spanning 0 until 16 headed by 7 parsed as (NP (NP (NP (DT The) (VBN troubled) (NML (NNS savings) (HYPH -) (CC and) (HYPH -) (NN loan)) (NN industry)) (CC and) (NP (JJ subsequent) (NN stress))) (PP (IN in) (NP (NML (JJ real) (HYPH -) (NN estate)) (NNS businesses))))
+sid=10 spanning 0 until 8 headed by 7 parsed as (NP (DT The) (VBN troubled) (NML (NNS savings) (HYPH -) (CC and) (HYPH -) (NN loan)) (NN industry))
+sid=10 spanning 12 until 16 headed by 15 parsed as (NP (NML (JJ real) (HYPH -) (NN estate)) (NNS businesses))
+sid=10 spanning 17 until 18 headed by 17 parsed as (NP (NNS bankruptcies))
+sid=10 spanning 19 until 21 headed by 20 parsed as (NP (DT this) (NN sector))
+sid=10 spanning 22 until 23 headed by 22 parsed as (NP (NNP D&B))
+(end predicted mentions)
+---------gold clusters--------
+17 16 | { 'this sector' 'the finance , insurance and real - estate sector , where bankruptcies grew 8.1 % to 2,046 from 1,892' }
+3 10 | { 'this year' 'this year 's' }
+6 8 | { 'The current decline in failures' 'The drop' }
+7 11 0 5 4 18 | { 'D&B' 'the company' 'Dun & Bradstreet Corp.' 'D&B' 'the business information services company' 'D&B' }
+2 12 15 | { 'the first nine months of this year' 'the nine months' 'the nine months' }
+13 14 | { 'an increase in bankruptcies' 'This' }
+1 9 | { 'the third quarter' 'this year 's third quarter' }
+(end gold clusters)

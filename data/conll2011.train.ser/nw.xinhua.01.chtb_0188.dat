@@ -1,0 +1,40 @@
+---------gloss--------
+(0) Since the Gannan Old District started an experimental region for economic structure reform in 1988 , [31m{Jiangxi 's Ganzhou City}[0m has achieved very large improvements in infrastructures such as transportation , energy , telecommunications etc. , creating conditions for development of an outward economy . 
+(1) The picture shows the view of [31m{Ganzhou City 's}[0m New District . 
+(2) Photo taken by Xinhua News Agency Reporter , Jiwu Liu . 
+(end gloss)
+---------document--------
+(nw/xinhua/01/chtb_0188); part 000
+sentences:
+SincesinceINOPER0thetheDTLOCPER0GannanGannanNNPLOCPER0OldOldNNPLOCPER0DistrictDistrictNNPLOCPER0startedstartVBDOPER0anaDTOPER0experimentalexperimentalJJOPER0regionregionNNOPER0forforINOPER0economiceconomicJJOPER0structurestructureNNOPER0reformreformNNOPER0ininINOPER019881988CDDATEPER0,,,OPER0JiangxiJiangxiNNPGPEPER0's'sPOSOPER0GanzhouGanzhouNNPGPEPER0CityCityNNPGPEPER0hashaveVBZOPER0achievedachieveVBNOPER0veryveryRBOPER0largelargeJJOPER0improvementsimprovementNNSOPER0ininINOPER0infrastructuresinfrastructureNNSOPER0suchsuchJJOPER0asasINOPER0transportationtransportationNNOPER0,,,OPER0energyenergyNNOPER0,,,OPER0telecommunicationstelecommunicationsNNOPER0etc.etc.FWOPER0,,,OPER0creatingcreateVBGOPER0conditionsconditionNNSOPER0forforINOPER0developmentdevelopmentNNOPER0ofofINOPER0anaDTOPER0outwardoutwardJJOPER0economyeconomyNNOPER0...OPER0(ROOT (S (SBAR (IN Since) (S (NP (DT the) (NNP Gannan) (NNP Old) (NNP District)) (VP (VBD started) (NP (NP (DT an) (JJ experimental) (NN region)) (PP (IN for) (NP (JJ economic) (NN structure) (NN reform)))) (PP (IN in) (NP (CD 1988)))))) (, ,) (NP (NP (NNP Jiangxi) (POS 's)) (NNP Ganzhou) (NNP City)) (VP (VBZ has) (VP (VBN achieved) (NP (ADJP (RB very) (JJ large)) (NNS improvements)) (PP (IN in) (NP (NP (NNS infrastructures)) (PP (JJ such) (IN as) (NP (NP (NN transportation)) (, ,) (NP (NN energy)) (, ,) (NP (NN telecommunications)))) (ADVP (FW etc.)))) (, ,) (S (VP (VBG creating) (NP (NP (NNS conditions)) (PP (IN for) (NP (NP (NN development)) (PP (IN of) (NP (DT an) (JJ outward) (NN economy)))))))))) (. .)))
+ThetheDTOPER0picturepictureNNOPER0showsshowVBZOPER0thetheDTOPER0viewviewNNOPER0ofofINOPER0GanzhouGanzhouNNPGPEPER0CityCityNNPGPEPER0's'sPOSGPEPER0NewNewNNPLOCPER0DistrictDistrictNNPLOCPER0...OPER0(ROOT (S (NP (DT The) (NN picture)) (VP (VBZ shows) (NP (NP (DT the) (NN view)) (PP (IN of) (NP (NP (NNP Ganzhou) (NNP City) (POS 's)) (NNP New) (NNP District))))) (. .)))
+PhotophotoNNOPER0takentakeVBNOPER0bybyINOPER0XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0ReporterreporterNNORGPER0,,,OPER0JiwuJiwuNNPPERSONPER0LiuLiuNNPPERSONPER0...OPER0(ROOT (FRAG (NP (NP (NN Photo)) (VP (VBN taken) (PP (IN by) (NP (NML (NNP Xinhua) (NNP News) (NNP Agency)) (NN Reporter))))) (, ,) (NP (NNP Jiwu) (NNP Liu)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 16 until 20 headed by 19 parsed as (NP (NP (NNP Jiangxi) (POS 's)) (NNP Ganzhou) (NNP City))
+sid=1 spanning 6 until 9 headed by 7 parsed as (NP (NNP Ganzhou) (NNP City) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 5 headed by 4 parsed as (NP (DT the) (NNP Gannan) (NNP Old) (NNP District))
+sid=0 spanning 6 until 13 headed by 8 parsed as (NP (NP (DT an) (JJ experimental) (NN region)) (PP (IN for) (NP (JJ economic) (NN structure) (NN reform))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (CD 1988))
+sid=0 spanning 16 until 20 headed by 19 parsed as (NP (NP (NNP Jiangxi) (POS 's)) (NNP Ganzhou) (NNP City))
+sid=0 spanning 16 until 18 headed by 16 parsed as (NP (NNP Jiangxi) (POS 's))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (ADJP (RB very) (JJ large)) (NNS improvements))
+sid=0 spanning 26 until 27 headed by 26 parsed as (NP (NNS infrastructures))
+sid=0 spanning 29 until 34 headed by 29 parsed as (NP (NP (NN transportation)) (, ,) (NP (NN energy)) (, ,) (NP (NN telecommunications)))
+sid=0 spanning 37 until 44 headed by 37 parsed as (NP (NP (NNS conditions)) (PP (IN for) (NP (NP (NN development)) (PP (IN of) (NP (DT an) (JJ outward) (NN economy))))))
+sid=0 spanning 39 until 44 headed by 39 parsed as (NP (NP (NN development)) (PP (IN of) (NP (DT an) (JJ outward) (NN economy))))
+sid=0 spanning 41 until 44 headed by 43 parsed as (NP (DT an) (JJ outward) (NN economy))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN picture))
+sid=1 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NN view)) (PP (IN of) (NP (NP (NNP Ganzhou) (NNP City) (POS 's)) (NNP New) (NNP District))))
+sid=1 spanning 6 until 11 headed by 10 parsed as (NP (NP (NNP Ganzhou) (NNP City) (POS 's)) (NNP New) (NNP District))
+sid=1 spanning 6 until 9 headed by 7 parsed as (NP (NNP Ganzhou) (NNP City) (POS 's))
+sid=2 spanning 0 until 7 headed by 0 parsed as (NP (NP (NN Photo)) (VP (VBN taken) (PP (IN by) (NP (NML (NNP Xinhua) (NNP News) (NNP Agency)) (NN Reporter)))))
+sid=2 spanning 3 until 7 headed by 6 parsed as (NP (NML (NNP Xinhua) (NNP News) (NNP Agency)) (NN Reporter))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (NNP Jiwu) (NNP Liu))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'Ganzhou City 's' 'Jiangxi 's Ganzhou City' }
+(end gold clusters)

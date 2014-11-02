@@ -1,0 +1,43 @@
+---------gloss--------
+(0) In the Gaza Strip Thursday , [3m[32m{a young Palestinian on a bicycle wearing a black bag stuffed with explosives}[0m [3m[31m{rammed}[0m an Israeli Army bunker killing [3m[32m{himself}[0m and wounding one Israeli soldier . 
+(1) The militant Islamic Jihad claimed responsibility for [3m[31m{the attack , the first suicide bombing during a month of clashes between Palestinian rioters and Israeli security forces}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0057); part 000
+sentences:
+IninINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0ThursdayThursdayNNPDATEPER0,,,OPER0aaDTOPER0youngyoungJJOPER0PalestinianPalestinianNNPOPER0ononINOPER0aaDTOPER0bicyclebicycleNNOPER0wearingwearVBGOPER0aaDTOPER0blackblackJJOPER0bagbagNNOPER0stuffedstuffVBDOPER0withwithINOPER0explosivesexplosiveNNSOPER0rammedramVBDOPER0anaDTOPER0IsraeliisraeliJJOPER0ArmyArmyNNPORGPER0bunkerbunkerNNOPER0killingkillVBGOPER0himselfhimselfPRPOPER0andandCCOPER0woundingwoundingNNOPER0oneoneCDCARDINALPER0IsraeliisraeliJJOPER0soldiersoldierNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (DT the) (NNP Gaza) (NNP Strip))) (NP (NNP Thursday)) (, ,) (NP (NP (DT a) (JJ young) (NNP Palestinian)) (PP (IN on) (NP (NP (DT a) (NN bicycle)) (VP (VBG wearing) (NP (DT a) (JJ black) (NN bag)))))) (VP (VBD stuffed) (PP (IN with) (NP (NNS explosives))) (S (VP (VBD rammed) (NP (DT an) (NML (JJ Israeli) (NNP Army)) (NN bunker)) (S (VP (VP (VBG killing) (NP (PRP himself))) (CC and) (VP (NN wounding) (NP (CD one) (JJ Israeli) (NN soldier)))))))) (. .)))
+ThetheDTOPER0militantmilitantJJOPER0IslamicIslamicNNPORGPER0JihadJihadNNPORGPER0claimedclaimVBDOPER0responsibilityresponsibilityNNOPER0forforINOPER0thetheDTOPER0attackattackNNOPER0,,,OPER0thetheDTOPER0firstfirstJJOPER0suicidesuicideNNOPER0bombingbombingNNOPER0duringduringINOPER0aaDTDATEPER0monthmonthNNDATEPER0ofofINOPER0clashesclashNNSOPER0betweenbetweenINOPER0PalestinianpalestinianJJOPER0riotersrioterNNSOPER0andandCCOPER0IsraeliisraeliJJOPER0securitysecurityNNOPER0forcesforceNNSOPER0...OPER0(ROOT (S (NP (DT The) (JJ militant) (NNP Islamic) (NNP Jihad)) (VP (VBD claimed) (NP (NP (NN responsibility)) (PP (IN for) (NP (NP (DT the) (NN attack)) (, ,) (NP (DT the) (JJ first) (NN suicide) (NN bombing))))) (PP (IN during) (NP (NP (DT a) (NN month)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN between) (NP (NP (JJ Palestinian) (NNS rioters)) (CC and) (NP (JJ Israeli) (NN security) (NNS forces))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 19 headed by 8 parsed as (NP (NP (DT a) (JJ young) (NNP Palestinian)) (PP (IN on) (NP (NP (DT a) (NN bicycle)) (VP (VBG wearing) (NP (DT a) (JJ black) (NN bag))))))
+sid=0 spanning 19 until 20 headed by 19 parsed as rammed
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (PRP himself))
+sid=1 spanning 7 until 26 headed by 8 parsed as (NP (NP (DT the) (NN attack)) (, ,) (NP (DT the) (JJ first) (NN suicide) (NN bombing)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Thursday))
+sid=0 spanning 6 until 16 headed by 8 parsed as (NP (NP (DT a) (JJ young) (NNP Palestinian)) (PP (IN on) (NP (NP (DT a) (NN bicycle)) (VP (VBG wearing) (NP (DT a) (JJ black) (NN bag))))))
+sid=0 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT a) (NN bicycle)) (VP (VBG wearing) (NP (DT a) (JJ black) (NN bag))))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ black) (NN bag))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNS explosives))
+sid=0 spanning 20 until 24 headed by 23 parsed as (NP (DT an) (NML (JJ Israeli) (NNP Army)) (NN bunker))
+sid=0 spanning 22 until 23 headed by 22 parsed as Army
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (PRP himself))
+sid=0 spanning 28 until 31 headed by 30 parsed as (NP (CD one) (JJ Israeli) (NN soldier))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ militant) (NNP Islamic) (NNP Jihad))
+sid=1 spanning 5 until 14 headed by 5 parsed as (NP (NP (NN responsibility)) (PP (IN for) (NP (NP (DT the) (NN attack)) (, ,) (NP (DT the) (JJ first) (NN suicide) (NN bombing)))))
+sid=1 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT the) (NN attack)) (, ,) (NP (DT the) (JJ first) (NN suicide) (NN bombing)))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN attack))
+sid=1 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (JJ first) (NN suicide) (NN bombing))
+sid=1 spanning 15 until 26 headed by 16 parsed as (NP (NP (DT a) (NN month)) (PP (IN of) (NP (NP (NNS clashes)) (PP (IN between) (NP (NP (JJ Palestinian) (NNS rioters)) (CC and) (NP (JJ Israeli) (NN security) (NNS forces)))))))
+sid=1 spanning 18 until 26 headed by 18 parsed as (NP (NP (NNS clashes)) (PP (IN between) (NP (NP (JJ Palestinian) (NNS rioters)) (CC and) (NP (JJ Israeli) (NN security) (NNS forces)))))
+sid=1 spanning 20 until 26 headed by 21 parsed as (NP (NP (JJ Palestinian) (NNS rioters)) (CC and) (NP (JJ Israeli) (NN security) (NNS forces)))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (JJ Palestinian) (NNS rioters))
+sid=1 spanning 23 until 26 headed by 25 parsed as (NP (JJ Israeli) (NN security) (NNS forces))
+(end predicted mentions)
+---------gold clusters--------
+3 1 | { 'the attack , the first suicide bombing during a month of clashes between Palestinian rioters and Israeli security forces' 'rammed' }
+2 0 | { 'himself' 'a young Palestinian on a bicycle wearing a black bag stuffed with explosives' }
+(end gold clusters)

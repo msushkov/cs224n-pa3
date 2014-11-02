@@ -1,0 +1,139 @@
+---------gloss--------
+(0) In [32m{Major League Baseball}[0m , [4m[36m{the Cincinnati Reds}[0m have hired [33m{Bob Boon}[0m as [4m[36m{their}[0m new manager , after [4m[33m{two other candidates}[0m turned down [4m[36m{their}[0m 650,000 - dollar contract offer . 
+(1) [33m{Boon}[0m managed the Kansas City Royals between 1995 and 1997 . 
+(2) [33m{He}[0m became the leading candidate after [4m[33m{New York Yankees ' third base coach Willy Randoff and Reds ' third base coach Ron Oster}[0m refused [4m[36m{Cincinnati 's}[0m offer . 
+(3) [33m{He}[0m replaces Jack McCaine who was fired after [4m[36m{the Reds}[0m failed to make the post-season despite adding slugger Ken Greffy Junior to [4m[36m{their}[0m lineup . 
+(4) [33m{Boon}[0m said Friday [33m{he}[0m believes [4m[36m{the Reds}[0m can compete with any team in [4m[36m{their}[0m division . 
+(5) [4m[36m{We}[0m are not going to be able to compete with [35m{several teams in our division}[0m from a financial standpoint , but [33m{I}[0m really believe [4m[36m{we}[0m can compete with [35m{them}[0m on [34m{the field}[0m and [34m{that}[0m 's where it all comes down to and [33m{I}[0m 'm just excited to get going . 
+(6) [33m{I}[0m wish spring training started tomorrow . 
+(7) [4m[36m{The Reds}[0m were the second of [31m{six Major League teams}[0m to fire [31m{their}[0m managers , but [4m[36m{they}[0m were the last to fill the vacancy because of [4m[36m{their}[0m contract offer . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0085); part 000
+sentences:
+IninINOPER0MajorMajorNNPORGPER0LeagueLeagueNNPORGPER0BaseballBaseballNNPORGPER0,,,OPER0thetheDTORGPER0CincinnatiCincinnatiNNPORGPER0RedsRedsNNPSORGPER0havehaveVBPOPER0hiredhireVBNOPER0BobBobNNPPERSONPER0BoonBoonNNPPERSONPER0asasINOPER0theirtheyPRP$OPER0newnewJJOPER0managermanagerNNOPER0,,,OPER0afterafterINOPER0twotwoCDCARDINALPER0otherotherJJOPER0candidatescandidateNNSOPER0turnedturnVBDOPER0downdownRPOPER0theirtheyPRP$OPER0650,000650,000CDMONEYPER0--HYPHMONEYPER0dollardollarNNMONEYPER0contractcontractNNOPER0offerofferNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NML (NNP Major) (NNP League)) (NNP Baseball))) (, ,) (NP (DT the) (NNP Cincinnati) (NNPS Reds)) (VP (VBP have) (VP (VBN hired) (NP (NNP Bob) (NNP Boon)) (PP (IN as) (NP (PRP$ their) (JJ new) (NN manager))) (, ,) (SBAR (IN after) (S (NP (CD two) (JJ other) (NNS candidates)) (VP (VBD turned) (PRT (RP down)) (NP (PRP$ their) (NML (CD 650,000) (HYPH -) (NN dollar)) (NN contract) (NN offer))))))) (. .)))
+BoonBoonNNPPERSONPER0managedmanageVBDOPER0thetheDTORGPER0KansasKansasNNPORGPER0CityCityNNPORGPER0RoyalsRoyalsNNPORGPER0betweenbetweenINDATEPER019951995CDDATEPER0andandCCDATEPER019971997CDDATEPER0...OPER0(ROOT (S (NP (NNP Boon)) (VP (VBD managed) (NP (NP (DT the) (NML (NNP Kansas) (NNP City)) (NNP Royals)) (PP (IN between) (NP (CD 1995) (CC and) (CD 1997))))) (. .)))
+HehePRPOPER0becamebecomeVBDOPER0thetheDTOPER0leadingleadingJJOPER0candidatecandidateNNOPER0afterafterINOPER0NewNewNNPORGPER0YorkYorkNNPORGPER0YankeesYankeesNNPSORGPER0''POSORGPER0thirdthirdJJORDINALPER0basebaseNNOPER0coachcoachNNOPER0WillyWillyNNPPERSONPER0RandoffRandoffNNPPERSONPER0andandCCOPER0RedsRedsNNPSORGPER0''POSOPER0thirdthirdJJORDINALPER0basebaseNNOPER0coachcoachNNOPER0RonRonNNPPERSONPER0OsterOsterNNPPERSONPER0refusedrefuseVBDOPER0CincinnatiCincinnatiNNPGPEPER0's'sPOSOPER0offerofferNNOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (VBD became) (NP (DT the) (JJ leading) (NN candidate)) (PP (IN after) (NP (NP (NP (NML (NNP New) (NNP York)) (NNPS Yankees) (POS ')) (JJ third) (NN base) (NN coach)) (NP (NNP Willy) (NNP Randoff)))))) (CC and) (S (NP (NP (NP (NNPS Reds) (POS ')) (JJ third) (NN base) (NN coach)) (NP (NNP Ron) (NNP Oster))) (VP (VBD refused) (NP (NP (NNP Cincinnati) (POS 's)) (NN offer)))) (. .)))
+HehePRPOPER0replacesreplaceVBZOPER0JackJackNNPPERSONPER0McCaineMcCaineNNPPERSONPER0whowhoWPOPER0wasbeVBDOPER0firedfireVBNOPER0afterafterINOPER0thetheDTOPER0RedsRedsNNPSORGPER0failedfailVBDOPER0totoTOOPER0makemakeVBOPER0thetheDTOPER0post-seasonpost-seasonNNOPER0despitedespiteINOPER0addingaddVBGOPER0sluggersluggerNNPOPER0KenKenNNPPERSONPER0GreffyGreffyNNPPERSONPER0JuniorJuniorNNPPERSONPER0totoINOPER0theirtheyPRP$OPER0lineuplineupNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ replaces) (NP (NP (NNP Jack) (NNP McCaine)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN fired) (SBAR (IN after) (S (NP (DT the) (NNPS Reds)) (VP (VBD failed) (S (VP (TO to) (VP (VB make) (NP (DT the) (NN post-season))))) (PP (IN despite) (S (VP (VBG adding) (NP (NNP slugger) (NNP Ken) (NNP Greffy) (NNP Junior)) (PP (IN to) (NP (PRP$ their) (NN lineup))))))))))))))) (. .)))
+BoonBoonNNPORGPER0saidsayVBDOPER0FridayFridayNNPDATEPER0hehePRPOPER0believesbelieveVBZOPER0thetheDTOPER0RedsRedsNNPSORGPER0cancanMDOPER0competecompeteVBOPER0withwithINOPER0anyanyDTOPER0teamteamNNOPER0ininINOPER0theirtheyPRP$OPER0divisiondivisionNNOPER0...OPER0(ROOT (S (NP (NNP Boon)) (VP (VBD said) (NP (NNP Friday)) (SBAR (S (NP (PRP he)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NNPS Reds)) (VP (MD can) (VP (VB compete) (PP (IN with) (NP (NP (DT any) (NN team)) (PP (IN in) (NP (PRP$ their) (NN division))))))))))))) (. .)))
+WewePRPOPER0arebeVBPOPER0notnotRBOPER0goinggoVBGOPER0totoTOOPER0bebeVBOPER0ableableJJOPER0totoTOOPER0competecompeteVBOPER0withwithINOPER0severalseveralJJOPER0teamsteamNNSOPER0ininINOPER0ourwePRP$OPER0divisiondivisionNNOPER0fromfromINOPER0aaDTOPER0financialfinancialJJOPER0standpointstandpointNNOPER0,,,OPER0butbutCCOPER0IIPRPOPER0reallyreallyRBOPER0believebelieveVBPOPER0wewePRPOPER0cancanMDOPER0competecompeteVBOPER0withwithINOPER0themtheyPRPOPER0ononINOPER0thetheDTOPER0fieldfieldNNOPER0andandCCOPER0thatthatDTOPER0'sbeVBZOPER0wherewhereWRBOPER0ititPRPOPER0allallDTOPER0comescomeVBZOPER0downdownRBOPER0totoINOPER0andandCCOPER0IIPRPOPER0'mbeVBPOPER0justjustRBOPER0excitedexcitedJJOPER0totoTOOPER0getgetVBOPER0goinggoVBGOPER0...OPER0(ROOT (S (S (NP (PRP We)) (VP (VBP are) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB compete) (PP (IN with) (NP (NP (JJ several) (NNS teams)) (PP (IN in) (NP (PRP$ our) (NN division))) (PP (IN from) (NP (DT a) (JJ financial) (NN standpoint))))))))))))))) (, ,) (CC but) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP believe) (SBAR (S (S (NP (PRP we)) (VP (MD can) (VP (VB compete) (PP (IN with) (NP (PRP them))) (PP (IN on) (NP (DT the) (NN field)))))) (CC and) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (S (NP (NP (PRP it)) (NP (DT all))) (VP (VBZ comes) (ADVP (RB down)) (PP (IN to)))) (CC and) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB just) (JJ excited) (S (VP (TO to) (VP (VB get) (S (VP (VBG going))))))))))))))))) (. .)))
+IIPRPOPER0wishwishVBPOPER0springspringNNOPER0trainingtrainingNNOPER0startedstartVBNOPER0tomorrowtomorrowNNDATEPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP wish) (NP (NN spring) (NN training)) (VP (VBN started) (NP (NN tomorrow)))) (. .)))
+ThetheDTOPER0RedsRedsNNPSORGPER0werebeVBDOPER0thetheDTOPER0secondsecondJJORDINALPER0ofofINOPER0sixsixCDCARDINALPER0MajorMajorNNPORGPER0LeagueLeagueNNPORGPER0teamsteamNNSOPER0totoTOOPER0firefireVBOPER0theirtheyPRP$OPER0managersmanagerNNSOPER0,,,OPER0butbutCCOPER0theytheyPRPOPER0werebeVBDOPER0thetheDTOPER0lastlastJJOPER0totoTOOPER0fillfillVBOPER0thetheDTOPER0vacancyvacancyNNOPER0becausebecauseINOPER0ofofINOPER0theirtheyPRP$OPER0contractcontractNNOPER0offerofferNNOPER0...OPER0(ROOT (S (S (NP (DT The) (NNPS Reds)) (VP (VBD were) (NP (NP (NP (DT the) (JJ second)) (PP (IN of) (NP (CD six) (NML (NNP Major) (NNP League)) (NNS teams)))) (SBAR (S (VP (TO to) (VP (VB fire) (NP (PRP$ their) (NNS managers))))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBD were) (NP (NP (DT the) (JJ last)) (SBAR (S (VP (TO to) (VP (VB fill) (NP (DT the) (NN vacancy)) (PP (IN because) (IN of) (NP (PRP$ their) (NN contract) (NN offer)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (NML (NNP Major) (NNP League)) (NNP Baseball))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Cincinnati) (NNPS Reds))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (NNP Bob) (NNP Boon))
+sid=0 spanning 13 until 14 headed by 13 parsed as their
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (CD two) (JJ other) (NNS candidates))
+sid=0 spanning 23 until 29 headed by 28 parsed as (NP (PRP$ their) (NML (CD 650,000) (HYPH -) (NN dollar)) (NN contract) (NN offer))
+sid=0 spanning 23 until 24 headed by 23 parsed as their
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Boon))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 6 until 23 headed by 14 parsed as (NP (NNP Willy) (NNP Randoff))
+sid=2 spanning 16 until 18 headed by 16 parsed as (NP (NNPS Reds) (POS '))
+sid=2 spanning 24 until 27 headed by 26 parsed as (NP (NP (NNP Cincinnati) (POS 's)) (NN offer))
+sid=2 spanning 24 until 26 headed by 24 parsed as (NP (NNP Cincinnati) (POS 's))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNPS Reds))
+sid=3 spanning 22 until 23 headed by 22 parsed as their
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Boon))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNPS Reds))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ their) (NN division))
+sid=4 spanning 13 until 14 headed by 13 parsed as their
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=5 spanning 10 until 15 headed by 11 parsed as (NP (NP (JJ several) (NNS teams)) (PP (IN in) (NP (PRP$ our) (NN division))) (PP (IN from) (NP (DT a) (JJ financial) (NN standpoint))))
+sid=5 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ our) (NN division))
+sid=5 spanning 13 until 14 headed by 13 parsed as our
+sid=5 spanning 21 until 22 headed by 21 parsed as (NP (PRP I))
+sid=5 spanning 24 until 25 headed by 24 parsed as (NP (PRP we))
+sid=5 spanning 28 until 29 headed by 28 parsed as (NP (PRP them))
+sid=5 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN field))
+sid=5 spanning 33 until 34 headed by 33 parsed as (NP (DT that))
+sid=5 spanning 42 until 43 headed by 42 parsed as (NP (PRP I))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Reds))
+sid=7 spanning 6 until 10 headed by 9 parsed as (NP (CD six) (NML (NNP Major) (NNP League)) (NNS teams))
+sid=7 spanning 7 until 9 headed by 8 parsed as League
+sid=7 spanning 12 until 13 headed by 12 parsed as their
+sid=7 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=7 spanning 26 until 29 headed by 28 parsed as (NP (PRP$ their) (NN contract) (NN offer))
+sid=7 spanning 26 until 27 headed by 26 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (NML (NNP Major) (NNP League)) (NNP Baseball))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Cincinnati) (NNPS Reds))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (NNP Bob) (NNP Boon))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (PRP$ their) (JJ new) (NN manager))
+sid=0 spanning 13 until 14 headed by 13 parsed as (PRP$ their)
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (CD two) (JJ other) (NNS candidates))
+sid=0 spanning 23 until 29 headed by 28 parsed as (NP (PRP$ their) (NML (CD 650,000) (HYPH -) (NN dollar)) (NN contract) (NN offer))
+sid=0 spanning 23 until 24 headed by 23 parsed as (PRP$ their)
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Boon))
+sid=1 spanning 2 until 10 headed by 5 parsed as (NP (NP (DT the) (NML (NNP Kansas) (NNP City)) (NNP Royals)) (PP (IN between) (NP (CD 1995) (CC and) (CD 1997))))
+sid=1 spanning 6 until 10 headed by 6 parsed as between
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ leading) (NN candidate))
+sid=2 spanning 6 until 15 headed by 12 parsed as (NP (NP (NP (NML (NNP New) (NNP York)) (NNPS Yankees) (POS ')) (JJ third) (NN base) (NN coach)) (NP (NNP Willy) (NNP Randoff)))
+sid=2 spanning 6 until 10 headed by 8 parsed as (NP (NML (NNP New) (NNP York)) (NNPS Yankees) (POS '))
+sid=2 spanning 10 until 11 headed by 10 parsed as third
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (NNP Willy) (NNP Randoff))
+sid=2 spanning 16 until 23 headed by 20 parsed as (NP (NP (NP (NNPS Reds) (POS ')) (JJ third) (NN base) (NN coach)) (NP (NNP Ron) (NNP Oster)))
+sid=2 spanning 16 until 18 headed by 16 parsed as (NP (NNPS Reds) (POS '))
+sid=2 spanning 18 until 19 headed by 18 parsed as third
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (NNP Ron) (NNP Oster))
+sid=2 spanning 24 until 27 headed by 26 parsed as (NP (NP (NNP Cincinnati) (POS 's)) (NN offer))
+sid=2 spanning 24 until 26 headed by 24 parsed as (NP (NNP Cincinnati) (POS 's))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 24 headed by 3 parsed as (NP (NP (NNP Jack) (NNP McCaine)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN fired) (SBAR (IN after) (S (NP (DT the) (NNPS Reds)) (VP (VBD failed) (S (VP (TO to) (VP (VB make) (NP (DT the) (NN post-season))))) (PP (IN despite) (S (VP (VBG adding) (NP (NNP slugger) (NNP Ken) (NNP Greffy) (NNP Junior)) (PP (IN to) (NP (PRP$ their) (NN lineup))))))))))))))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNPS Reds))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN post-season))
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (NNP slugger) (NNP Ken) (NNP Greffy) (NNP Junior))
+sid=3 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ their) (NN lineup))
+sid=3 spanning 22 until 23 headed by 22 parsed as (PRP$ their)
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Boon))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (NNP Friday))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNPS Reds))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ their) (NN division))
+sid=4 spanning 13 until 14 headed by 13 parsed as (PRP$ their)
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=5 spanning 10 until 19 headed by 11 parsed as (NP (NP (JJ several) (NNS teams)) (PP (IN in) (NP (PRP$ our) (NN division))) (PP (IN from) (NP (DT a) (JJ financial) (NN standpoint))))
+sid=5 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ our) (NN division))
+sid=5 spanning 13 until 14 headed by 13 parsed as (PRP$ our)
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (DT a) (JJ financial) (NN standpoint))
+sid=5 spanning 21 until 22 headed by 21 parsed as (NP (PRP I))
+sid=5 spanning 24 until 25 headed by 24 parsed as (NP (PRP we))
+sid=5 spanning 28 until 29 headed by 28 parsed as (NP (PRP them))
+sid=5 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN field))
+sid=5 spanning 33 until 34 headed by 33 parsed as (NP (DT that))
+sid=5 spanning 36 until 38 headed by 36 parsed as (NP (NP (PRP it)) (NP (DT all)))
+sid=5 spanning 42 until 43 headed by 42 parsed as (NP (PRP I))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (NN spring) (NN training))
+sid=6 spanning 5 until 6 headed by 5 parsed as (NP (NN tomorrow))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Reds))
+sid=7 spanning 3 until 14 headed by 4 parsed as (NP (NP (NP (DT the) (JJ second)) (PP (IN of) (NP (CD six) (NML (NNP Major) (NNP League)) (NNS teams)))) (SBAR (S (VP (TO to) (VP (VB fire) (NP (PRP$ their) (NNS managers)))))))
+sid=7 spanning 6 until 10 headed by 9 parsed as (NP (CD six) (NML (NNP Major) (NNP League)) (NNS teams))
+sid=7 spanning 7 until 9 headed by 8 parsed as League
+sid=7 spanning 12 until 14 headed by 13 parsed as (NP (PRP$ their) (NNS managers))
+sid=7 spanning 12 until 13 headed by 12 parsed as (PRP$ their)
+sid=7 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=7 spanning 18 until 29 headed by 19 parsed as (NP (NP (DT the) (JJ last)) (SBAR (S (VP (TO to) (VP (VB fill) (NP (DT the) (NN vacancy)) (PP (IN because) (IN of) (NP (PRP$ their) (NN contract) (NN offer))))))))
+sid=7 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN vacancy))
+sid=7 spanning 26 until 29 headed by 28 parsed as (NP (PRP$ their) (NN contract) (NN offer))
+sid=7 spanning 26 until 27 headed by 26 parsed as (PRP$ their)
+(end predicted mentions)
+---------gold clusters--------
+9 4 | { 'New York Yankees ' third base coach Willy Randoff and Reds ' third base coach Ron Oster' 'two other candidates' }
+5 11 37 | { 'their 650,000 - dollar contract offer' 'Cincinnati 's offer' 'their contract offer' }
+23 19 | { 'our division' 'their division' }
+18 12 1 32 20 36 15 24 10 26 14 3 6 38 21 | { 'the Reds' 'Cincinnati 's' 'the Cincinnati Reds' 'The Reds' 'their' 'they' 'their' 'our' 'Reds '' 'we' 'the Reds' 'their' 'their' 'their' 'We' }
+33 35 | { 'six Major League teams' 'their' }
+0 34 | { 'Major League Baseball' 'Major League' }
+7 31 30 13 16 8 25 2 17 | { 'Boon' 'I' 'I' 'He' 'Boon' 'He' 'I' 'Bob Boon' 'he' }
+29 28 | { 'that' 'the field' }
+22 27 | { 'several teams in our division' 'them' }
+(end gold clusters)

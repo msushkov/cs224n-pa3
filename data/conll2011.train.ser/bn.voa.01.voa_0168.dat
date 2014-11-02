@@ -1,0 +1,54 @@
+---------gloss--------
+(0) The Clinton administration is expressing confidence the [4m[32m{UN}[0m Security Council will vote next week to tighten sanctions against [4m[31m{Afghanistan 's dominant Taliban faction}[0m . 
+(1) [4m[33m{Assistant US Secretary of State for South Asian Affairs Carl Enderforth}[0m said on Friday [4m[31m{the Taliban 's}[0m refusal to comply with a [4m[32m{UN}[0m anti-terrorism resolution last year forced the move to toughen sanctions . 
+(2) [4m[33m{He}[0m says trade and humanitarian shipments of food and medicine as well as religious pilgrimages will not be affected . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0168); part 000
+sentences:
+ThetheDTOPER0ClintonClintonNNPPERSONPER0administrationadministrationNNOPER0isbeVBZOPER0expressingexpressVBGOPER0confidenceconfidenceNNOPER0thetheDTORGPER0UNUNNNPORGPER0SecuritySecurityNNPORGPER0CouncilCouncilNNPORGPER0willwillMDOPER0votevoteVBOPER0nextnextJJDATEPER0weekweekNNDATEPER0totoTOOPER0tightentightenVBOPER0sanctionssanctionNNSOPER0againstagainstINOPER0AfghanistanAfghanistanNNPGPEPER0's'sPOSOPER0dominantdominantJJOPER0TalibanTalibanNNPPERSONPER0factionfactionNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Clinton) (NN administration)) (VP (VBZ is) (VP (VBG expressing) (NP (NN confidence) (SBAR (S (NP (DT the) (NNP UN) (NNP Security) (NNP Council)) (VP (MD will) (VP (VB vote) (NP (JJ next) (NN week)) (S (VP (TO to) (VP (VB tighten) (NP (NP (NNS sanctions)) (PP (IN against) (NP (NP (NNP Afghanistan) (POS 's)) (JJ dominant) (NNP Taliban) (NN faction)))))))))))))) (. .)))
+AssistantAssistantNNPOPER0USUSNNPGPEPER0SecretarySecretaryNNPOPER0ofofINOPER0StateStateNNPOPER0forforINOPER0SouthSouthNNPORGPER0AsianAsianNNPORGPER0AffairsAffairsNNPSORGPER0CarlCarlNNPPERSONPER0EnderforthEnderforthNNPPERSONPER0saidsayVBDOPER0ononINOPER0FridayFridayNNPDATEPER0thetheDTOPER0TalibanTalibanNNPORGPER0's'sPOSOPER0refusalrefusalNNOPER0totoTOOPER0complycomplyVBOPER0withwithINOPER0aaDTOPER0UNUNNNPORGPER0anti-terrorismanti-terrorismJJOPER0resolutionresolutionNNOPER0lastlastJJDATEPER0yearyearNNDATEPER0forcedforceVBDOPER0thetheDTOPER0movemoveNNOPER0totoTOOPER0toughentoughenVBOPER0sanctionssanctionNNSOPER0...OPER0(ROOT (S (NP (NML (NML (NNP Assistant) (NNP US) (NNP Secretary)) (PP (IN of) (NP (NNP State))) (PP (IN for) (NP (NNP South) (NNP Asian) (NNPS Affairs)))) (NNP Carl) (NNP Enderforth)) (VP (VBD said) (PP (IN on) (NP (NNP Friday))) (NP (NP (DT the) (NNP Taliban) (POS 's)) (NN refusal) (S (VP (TO to) (VP (VB comply) (PP (IN with) (NP (DT a) (NNP UN) (JJ anti-terrorism) (NN resolution))))))) (SBAR (S (NP (JJ last) (NN year)) (VP (VBD forced) (NP (DT the) (NN move)) (S (VP (TO to) (VP (VB toughen) (NP (NNS sanctions))))))))) (. .)))
+HehePRPOPER0sayssayVBZOPER0tradetradeNNOPER0andandCCOPER0humanitarianhumanitarianJJOPER0shipmentsshipmentNNSOPER0ofofINOPER0foodfoodNNOPER0andandCCOPER0medicinemedicineNNOPER0asasRBOPER0wellwellRBOPER0asasINOPER0religiousreligiousJJOPER0pilgrimagespilgrimageNNSOPER0willwillMDOPER0notnotRBOPER0bebeVBOPER0affectedaffectVBNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (NP (NP (NP (NN trade) (CC and) (JJ humanitarian)) (NNS shipments)) (PP (IN of) (NP (NN food) (CC and) (NN medicine)))) (CONJP (RB as) (RB well) (IN as)) (NP (JJ religious) (NNS pilgrimages))) (VP (MD will) (RB not) (VP (VB be) (VP (VBN affected))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 7 until 8 headed by 7 parsed as UN
+sid=0 spanning 18 until 23 headed by 22 parsed as (NP (NP (NNP Afghanistan) (POS 's)) (JJ dominant) (NNP Taliban) (NN faction))
+sid=1 spanning 0 until 11 headed by 10 parsed as (NP (NML (NML (NNP Assistant) (NNP US) (NNP Secretary)) (PP (IN of) (NP (NNP State))) (PP (IN for) (NP (NNP South) (NNP Asian) (NNPS Affairs)))) (NNP Carl) (NNP Enderforth))
+sid=1 spanning 14 until 17 headed by 15 parsed as (NP (DT the) (NNP Taliban) (POS 's))
+sid=1 spanning 22 until 23 headed by 22 parsed as UN
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Clinton) (NN administration))
+sid=0 spanning 1 until 2 headed by 1 parsed as Clinton
+sid=0 spanning 5 until 23 headed by 5 parsed as (NP (NN confidence) (SBAR (S (NP (DT the) (NNP UN) (NNP Security) (NNP Council)) (VP (MD will) (VP (VB vote) (NP (JJ next) (NN week)) (S (VP (TO to) (VP (VB tighten) (NP (NP (NNS sanctions)) (PP (IN against) (NP (NP (NNP Afghanistan) (POS 's)) (JJ dominant) (NNP Taliban) (NN faction))))))))))))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (NNP UN) (NNP Security) (NNP Council))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (JJ next) (NN week))
+sid=0 spanning 16 until 23 headed by 16 parsed as (NP (NP (NNS sanctions)) (PP (IN against) (NP (NP (NNP Afghanistan) (POS 's)) (JJ dominant) (NNP Taliban) (NN faction))))
+sid=0 spanning 18 until 23 headed by 22 parsed as (NP (NP (NNP Afghanistan) (POS 's)) (JJ dominant) (NNP Taliban) (NN faction))
+sid=0 spanning 18 until 20 headed by 18 parsed as (NP (NNP Afghanistan) (POS 's))
+sid=0 spanning 21 until 22 headed by 21 parsed as Taliban
+sid=1 spanning 0 until 11 headed by 10 parsed as (NP (NML (NML (NNP Assistant) (NNP US) (NNP Secretary)) (PP (IN of) (NP (NNP State))) (PP (IN for) (NP (NNP South) (NNP Asian) (NNPS Affairs)))) (NNP Carl) (NNP Enderforth))
+sid=1 spanning 1 until 2 headed by 1 parsed as US
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP State))
+sid=1 spanning 6 until 9 headed by 8 parsed as (NP (NNP South) (NNP Asian) (NNPS Affairs))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NNP Friday))
+sid=1 spanning 14 until 25 headed by 17 parsed as (NP (NP (DT the) (NNP Taliban) (POS 's)) (NN refusal) (S (VP (TO to) (VP (VB comply) (PP (IN with) (NP (DT a) (NNP UN) (JJ anti-terrorism) (NN resolution)))))))
+sid=1 spanning 14 until 17 headed by 15 parsed as (NP (DT the) (NNP Taliban) (POS 's))
+sid=1 spanning 21 until 25 headed by 24 parsed as (NP (DT a) (NNP UN) (JJ anti-terrorism) (NN resolution))
+sid=1 spanning 22 until 23 headed by 22 parsed as UN
+sid=1 spanning 25 until 27 headed by 26 parsed as (NP (JJ last) (NN year))
+sid=1 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN move))
+sid=1 spanning 32 until 33 headed by 32 parsed as (NP (NNS sanctions))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 15 headed by 5 parsed as (NP (NP (NP (NP (NN trade) (CC and) (JJ humanitarian)) (NNS shipments)) (PP (IN of) (NP (NN food) (CC and) (NN medicine)))) (CONJP (RB as) (RB well) (IN as)) (NP (JJ religious) (NNS pilgrimages)))
+sid=2 spanning 2 until 5 headed by 2 parsed as (NP (NN trade) (CC and) (JJ humanitarian))
+sid=2 spanning 7 until 10 headed by 7 parsed as (NP (NN food) (CC and) (NN medicine))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (JJ religious) (NNS pilgrimages))
+(end predicted mentions)
+---------gold clusters--------
+1 3 | { 'Afghanistan 's dominant Taliban faction' 'the Taliban 's' }
+4 0 | { 'UN' 'UN' }
+5 2 | { 'He' 'Assistant US Secretary of State for South Asian Affairs Carl Enderforth' }
+(end gold clusters)

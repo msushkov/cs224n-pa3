@@ -1,0 +1,65 @@
+---------gloss--------
+(0) [1m[35m{The United Nations}[0m has launched another major appeal for aid for countries facing critical food shortages such as [1m[34m{North Korea}[0m , [1m[33m{Afghanistan}[0m and [1m[32m{Angola}[0m . 
+(1) [1m[35m{The world body}[0m says [1m[34m{North Korea}[0m will need more food in the year 2001 , because of crop devastation brought on by drought at planting time and typhoons that severely damaged the fall harvest . 
+(2) [1m[35m{The United Nations}[0m is also appealing for $ 229 million from international donors to help [1m[33m{Afghanistan , a country shattered by years of war and the worst drought in three decades}[0m . 
+(3) For [1m[32m{Angola}[0m , [1m[35m{the United Nations}[0m is appealing for $ 202 million in food aid . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0133); part 000
+sentences:
+ThetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0hashaveVBZOPER0launchedlaunchVBNOPER0anotheranotherDTOPER0majormajorJJOPER0appealappealNNOPER0forforINOPER0aidaidNNOPER0forforINOPER0countriescountryNNSOPER0facingfaceVBGOPER0criticalcriticalJJOPER0foodfoodNNOPER0shortagesshortageNNSOPER0suchsuchJJOPER0asasINOPER0NorthNorthNNPGPEPER0KoreaKoreaNNPGPEPER0,,,OPER0AfghanistanAfghanistanNNPGPEPER0andandCCOPER0AngolaAngolaNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP Nations)) (VP (VBZ has) (VP (VBN launched) (NP (NP (DT another) (JJ major) (NN appeal)) (PP (IN for) (NP (NN aid))) (PP (IN for) (NP (NP (NNS countries)) (VP (VBG facing) (NP (NP (JJ critical) (NN food) (NNS shortages)) (PP (JJ such) (IN as) (NP (NP (NNP North) (NNP Korea)) (, ,) (NP (NNP Afghanistan)) (CC and) (NP (NNP Angola))))))))))) (. .)))
+ThetheDTOPER0worldworldNNOPER0bodybodyNNOPER0sayssayVBZOPER0NorthNorthNNPGPEPER0KoreaKoreaNNPGPEPER0willwillMDOPER0needneedVBOPER0moremoreJJROPER0foodfoodNNOPER0ininINOPER0thetheDTDATEPER0yearyearNNDATEPER020012001CDDATEPER0,,,OPER0becausebecauseRBOPER0ofofINOPER0cropcropNNOPER0devastationdevastationNNOPER0broughtbringVBNOPER0ononRPOPER0bybyINOPER0droughtdroughtNNOPER0atatINOPER0plantingplantingNNOPER0timetimeNNOPER0andandCCOPER0typhoonstyphoonNNSOPER0thatthatWDTOPER0severelyseverelyRBOPER0damageddamageVBDOPER0thetheDTOPER0fallfallNNDATEPER0harvestharvestNNOPER0...OPER0(ROOT (S (NP (DT The) (NN world) (NN body)) (VP (VBZ says) (SBAR (S (NP (NNP North) (NNP Korea)) (VP (MD will) (VP (VB need) (NP (JJR more) (NN food)) (PP (IN in) (NP (NP (DT the) (NN year)) (NP (CD 2001)))) (, ,) (PP (RB because) (PP (IN of) (NP (NP (NN crop) (NN devastation)) (VP (VBN brought) (PRT (RP on)) (PP (IN by) (NP (NN drought))) (PP (IN at) (NP (NP (NN planting) (NN time)) (CC and) (NP (NP (NNS typhoons)) (SBAR (WHNP (WDT that)) (S (ADVP (RB severely)) (VP (VBD damaged) (NP (DT the) (NN fall) (NN harvest))))))))))))))))) (. .)))
+ThetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0isbeVBZOPER0alsoalsoRBOPER0appealingappealVBGOPER0forforINOPER0$$$MONEYPER0229229CDMONEYPER0millionmillionCDMONEYPER0fromfromINOPER0internationalinternationalJJOPER0donorsdonorNNSOPER0totoTOOPER0helphelpVBOPER0AfghanistanAfghanistanNNPGPEPER0,,,OPER0aaDTOPER0countrycountryNNOPER0shatteredshatterVBNOPER0bybyINOPER0yearsyearNNSDATEPER0ofofINOPER0warwarNNOPER0andandCCOPER0thetheDTOPER0worstworstJJSOPER0droughtdroughtNNOPER0ininINOPER0threethreeCDDATEPER0decadesdecadeNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP Nations)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG appealing) (PP (IN for) (NP (NP (QP ($ $) (CD 229) (CD million))) (PP (IN from) (NP (JJ international) (NNS donors))))) (S (VP (TO to) (VP (VB help) (NP (NP (NNP Afghanistan)) (, ,) (NP (NP (DT a) (NN country)) (VP (VBN shattered) (PP (IN by) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN war)) (CC and) (NP (NP (DT the) (JJS worst) (NN drought)) (PP (IN in) (NP (CD three) (NNS decades)))))))))))))))) (. .)))
+ForforINOPER0AngolaAngolaNNPGPEPER0,,,OPER0thetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0isbeVBZOPER0appealingappealVBGOPER0forforINOPER0$$$MONEYPER0202202CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0foodfoodNNOPER0aidaidNNOPER0...OPER0(ROOT (S (PP (IN For) (NP (NNP Angola))) (, ,) (NP (DT the) (NNP United) (NNP Nations)) (VP (VBZ is) (VP (VBG appealing) (PP (IN for) (NP (NP (QP ($ $) (CD 202) (CD million))) (PP (IN in) (NP (NN food) (NN aid))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP Nations))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (NP (NNP North) (NNP Korea)) (, ,) (NP (NNP Afghanistan)) (CC and) (NP (NNP Angola)))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP Afghanistan))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NNP Angola))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN world) (NN body))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NNP North) (NNP Korea))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP Nations))
+sid=2 spanning 15 until 31 headed by 15 parsed as (NP (NP (NNP Afghanistan)) (, ,) (NP (NP (DT a) (NN country)) (VP (VBN shattered) (PP (IN by) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN war)) (CC and) (NP (NP (DT the) (JJS worst) (NN drought)) (PP (IN in) (NP (CD three) (NNS decades)))))))))))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NNP Angola))
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP United) (NNP Nations))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP Nations))
+sid=0 spanning 5 until 24 headed by 7 parsed as (NP (NP (DT another) (JJ major) (NN appeal)) (PP (IN for) (NP (NN aid))) (PP (IN for) (NP (NP (NNS countries)) (VP (VBG facing) (NP (NP (JJ critical) (NN food) (NNS shortages)) (PP (JJ such) (IN as) (NP (NP (NNP North) (NNP Korea)) (, ,) (NP (NNP Afghanistan)) (CC and) (NP (NNP Angola)))))))))
+sid=0 spanning 11 until 24 headed by 11 parsed as (NP (NP (NNS countries)) (VP (VBG facing) (NP (NP (JJ critical) (NN food) (NNS shortages)) (PP (JJ such) (IN as) (NP (NP (NNP North) (NNP Korea)) (, ,) (NP (NNP Afghanistan)) (CC and) (NP (NNP Angola)))))))
+sid=0 spanning 13 until 24 headed by 15 parsed as (NP (NP (JJ critical) (NN food) (NNS shortages)) (PP (JJ such) (IN as) (NP (NP (NNP North) (NNP Korea)) (, ,) (NP (NNP Afghanistan)) (CC and) (NP (NNP Angola)))))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (NP (NNP North) (NNP Korea)) (, ,) (NP (NNP Afghanistan)) (CC and) (NP (NNP Angola)))
+sid=0 spanning 18 until 24 headed by 19 parsed as (NP (NP (NNP North) (NNP Korea)) (, ,) (NP (NNP Afghanistan)) (CC and) (NP (NNP Angola)))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP Afghanistan))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NNP Angola))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN world) (NN body))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NNP North) (NNP Korea))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (JJR more) (NN food))
+sid=1 spanning 11 until 14 headed by 12 parsed as (NP (NP (DT the) (NN year)) (NP (CD 2001)))
+sid=1 spanning 17 until 34 headed by 18 parsed as (NP (NP (NN crop) (NN devastation)) (VP (VBN brought) (PRT (RP on)) (PP (IN by) (NP (NN drought))) (PP (IN at) (NP (NP (NN planting) (NN time)) (CC and) (NP (NP (NNS typhoons)) (SBAR (WHNP (WDT that)) (S (ADVP (RB severely)) (VP (VBD damaged) (NP (DT the) (NN fall) (NN harvest))))))))))
+sid=1 spanning 24 until 34 headed by 25 parsed as (NP (NP (NN planting) (NN time)) (CC and) (NP (NP (NNS typhoons)) (SBAR (WHNP (WDT that)) (S (ADVP (RB severely)) (VP (VBD damaged) (NP (DT the) (NN fall) (NN harvest)))))))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (NN planting) (NN time))
+sid=1 spanning 27 until 34 headed by 27 parsed as (NP (NP (NNS typhoons)) (SBAR (WHNP (WDT that)) (S (ADVP (RB severely)) (VP (VBD damaged) (NP (DT the) (NN fall) (NN harvest))))))
+sid=1 spanning 31 until 34 headed by 33 parsed as (NP (DT the) (NN fall) (NN harvest))
+sid=1 spanning 32 until 33 headed by 32 parsed as fall
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP Nations))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (JJ international) (NNS donors))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NP (NNP Afghanistan)) (, ,) (NP (NP (DT a) (NN country)) (VP (VBN shattered) (PP (IN by) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN war)) (CC and) (NP (NP (DT the) (JJS worst) (NN drought)) (PP (IN in) (NP (CD three) (NNS decades)))))))))))
+sid=2 spanning 15 until 31 headed by 15 parsed as (NP (NP (NNP Afghanistan)) (, ,) (NP (NP (DT a) (NN country)) (VP (VBN shattered) (PP (IN by) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN war)) (CC and) (NP (NP (DT the) (JJS worst) (NN drought)) (PP (IN in) (NP (CD three) (NNS decades)))))))))))
+sid=2 spanning 17 until 31 headed by 18 parsed as (NP (NP (DT a) (NN country)) (VP (VBN shattered) (PP (IN by) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN war)) (CC and) (NP (NP (DT the) (JJS worst) (NN drought)) (PP (IN in) (NP (CD three) (NNS decades))))))))))
+sid=2 spanning 21 until 31 headed by 21 parsed as (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN war)) (CC and) (NP (NP (DT the) (JJS worst) (NN drought)) (PP (IN in) (NP (CD three) (NNS decades)))))))
+sid=2 spanning 23 until 31 headed by 23 parsed as (NP (NP (NN war)) (CC and) (NP (NP (DT the) (JJS worst) (NN drought)) (PP (IN in) (NP (CD three) (NNS decades)))))
+sid=2 spanning 25 until 31 headed by 27 parsed as (NP (NP (DT the) (JJS worst) (NN drought)) (PP (IN in) (NP (CD three) (NNS decades))))
+sid=2 spanning 29 until 31 headed by 30 parsed as (NP (CD three) (NNS decades))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NNP Angola))
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP United) (NNP Nations))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (NN food) (NN aid))
+(end predicted mentions)
+---------gold clusters--------
+8 3 | { 'Angola' 'Angola' }
+2 7 | { 'Afghanistan' 'Afghanistan , a country shattered by years of war and the worst drought in three decades' }
+5 1 | { 'North Korea' 'North Korea' }
+9 4 6 0 | { 'the United Nations' 'The world body' 'The United Nations' 'The United Nations' }
+(end gold clusters)

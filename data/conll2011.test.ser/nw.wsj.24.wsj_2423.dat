@@ -1,0 +1,80 @@
+---------gloss--------
+(0) [4m[31m{Hammond Co. , Newport Beach , Calif. ,}[0m said [3m[36m{Fidelity National Financial Inc.}[0m extended [3m[36m{its}[0m previous agreement , under which [3m[36m{it}[0m wo n't purchase any more of [4m[31m{the mortgage banker 's}[0m common stock , through Oct. 31 . 
+(1) [3m[35m{The previous agreement}[0m expired Thursday . 
+(2) [4m[31m{Hammond}[0m said that [4m[31m{its}[0m discussions with [3m[36m{Fidelity , an Irvine , Calif. , title - insurance underwriter ,}[0m are continuing , but that prospects for a longer - term standstill agreement are uncertain . 
+(3) [3m[36m{Fidelity}[0m has increased [3m[36m{its}[0m stake in [4m[31m{Hammond}[0m to 23.57 % in recent months . 
+(4) Statements made in Securities and Exchange Commission filings led [4m[31m{Hammond}[0m to request a standstill agreement . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2423); part 000
+sentences:
+HammondHammondNNPORGPER0Co.Co.NNPORGPER0,,,OPER0NewportNewportNNPGPEPER0BeachBeachNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0,,,OPER0saidsayVBDOPER0FidelityFidelityNNPORGPER0NationalNationalNNPORGPER0FinancialFinancialNNPORGPER0Inc.Inc.NNPORGPER0extendedextendVBDOPER0itsitsPRP$OPER0previouspreviousJJOPER0agreementagreementNNOPER0,,,OPER0underunderINOPER0whichwhichWDTOPER0ititPRPOPER0wowillMDOPER0n'tnotRBOPER0purchasepurchaseVBOPER0anyanyDTOPER0moremoreJJROPER0ofofINOPER0thetheDTOPER0mortgagemortgageNNOPER0bankerbankerNNOPER0's'sPOSOPER0commoncommonJJOPER0stockstockNNOPER0,,,OPER0throughthroughINOPER0Oct.Oct.NNPDATEPER03131CDDATEPER0...OPER0(ROOT (S (NP (NP (NNP Hammond) (NNP Co.)) (, ,) (NP (NP (NNP Newport) (NNP Beach)) (, ,) (NP (NNP Calif.))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP Fidelity) (NNP National) (NNP Financial) (NNP Inc.)) (VP (VBD extended) (NP (NP (PRP$ its) (JJ previous) (NN agreement)) (, ,) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (PRP it)) (VP (MD wo) (RB n't) (VP (VB purchase) (NP (NP (DT any) (JJR more)) (PP (IN of) (NP (NP (DT the) (NN mortgage) (NN banker) (POS 's)) (JJ common) (NN stock)))) (, ,) (PP (IN through) (NP (NNP Oct.) (CD 31)))))))))))) (. .)))
+ThetheDTOPER0previouspreviousJJOPER0agreementagreementNNOPER0expiredexpireVBDOPER0ThursdayThursdayNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ previous) (NN agreement)) (VP (VBD expired) (NP (NNP Thursday))) (. .)))
+HammondHammondNNPORGPER0saidsayVBDOPER0thatthatINOPER0itsitsPRP$OPER0discussionsdiscussionNNSOPER0withwithINOPER0FidelityFidelityNNPORGPER0,,,OPER0anaDTOPER0IrvineIrvineNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0,,,OPER0titletitleNNOPER0--HYPHOPER0insuranceinsuranceNNOPER0underwriterunderwriterNNOPER0,,,OPER0arebeVBPOPER0continuingcontinueVBGOPER0,,,OPER0butbutCCOPER0thatthatINOPER0prospectsprospectsNNSOPER0forforINOPER0aaDTOPER0longerlongerJJROPER0--HYPHOPER0termtermNNOPER0standstillstandstillNNOPER0agreementagreementNNOPER0arebeVBPOPER0uncertainuncertainJJOPER0...OPER0(ROOT (S (NP (NNP Hammond)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (NP (PRP$ its) (NNS discussions)) (PP (IN with) (NP (NP (NNP Fidelity)) (, ,) (NP (NP (DT an) (NNP Irvine)) (, ,) (NP (NNP Calif.))) (, ,) (NP (NML (NN title) (HYPH -) (NN insurance)) (NN underwriter)) (, ,)))) (VP (VBP are) (VP (VBG continuing))))) (, ,) (CC but) (SBAR (IN that) (S (NP (NP (NNS prospects)) (PP (IN for) (NP (DT a) (NML (JJR longer) (HYPH -) (NN term)) (NN standstill) (NN agreement)))) (VP (VBP are) (ADJP (JJ uncertain))))))) (. .)))
+FidelityFidelityNNPORGPER0hashaveVBZOPER0increasedincreaseVBNOPER0itsitsPRP$OPER0stakestakeNNOPER0ininINOPER0HammondHammondNNPORGPER0totoINOPER023.5723.57CDPERCENTPER0%%NNPERCENTPER0ininINOPER0recentrecentJJDATEPER0monthsmonthNNSDATEPER0...OPER0(ROOT (S (NP (NNP Fidelity)) (VP (VBZ has) (VP (VBN increased) (NP (NP (PRP$ its) (NN stake)) (PP (IN in) (NP (NNP Hammond)))) (PP (IN to) (NP (CD 23.57) (NN %))) (PP (IN in) (NP (JJ recent) (NNS months))))) (. .)))
+StatementsstatementNNSOPER0mademakeVBNOPER0ininINOPER0SecuritiesSecuritiesNNPSORGPER0andandCCORGPER0ExchangeExchangeNNPORGPER0CommissionCommissionNNPORGPER0filingsfilingsNNSOPER0ledleadVBDOPER0HammondHammondNNPORGPER0totoTOOPER0requestrequestVBOPER0aaDTOPER0standstillstandstillNNOPER0agreementagreementNNOPER0...OPER0(ROOT (S (NP (NP (NNS Statements)) (VP (VBN made) (PP (IN in) (NP (NML (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission)) (NNS filings))))) (VP (VBD led) (NP (NNP Hammond)) (S (VP (TO to) (VP (VB request) (NP (DT a) (NN standstill) (NN agreement)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (NNP Hammond) (NNP Co.)) (, ,) (NP (NP (NNP Newport) (NNP Beach)) (, ,) (NP (NNP Calif.))) (, ,))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Calif.))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (NNP Fidelity) (NNP National) (NNP Financial) (NNP Inc.))
+sid=0 spanning 14 until 34 headed by 16 parsed as (NP (NP (PRP$ its) (JJ previous) (NN agreement)) (, ,) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (PRP it)) (VP (MD wo) (RB n't) (VP (VB purchase) (NP (NP (DT any) (JJR more)) (PP (IN of) (NP (NP (DT the) (NN mortgage) (NN banker) (POS 's)) (JJ common) (NN stock)))) (, ,) (PP (IN through) (NP (NNP Oct.) (CD 31))))))))
+sid=0 spanning 14 until 15 headed by 14 parsed as its
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=0 spanning 27 until 31 headed by 29 parsed as (NP (DT the) (NN mortgage) (NN banker) (POS 's))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ previous) (NN agreement))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Hammond))
+sid=2 spanning 3 until 4 headed by 3 parsed as its
+sid=2 spanning 6 until 18 headed by 6 parsed as (NP (NP (NNP Fidelity)) (, ,) (NP (NP (DT an) (NNP Irvine)) (, ,) (NP (NNP Calif.))) (, ,) (NP (NML (NN title) (HYPH -) (NN insurance)) (NN underwriter)) (, ,))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP Calif.))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Fidelity))
+sid=3 spanning 3 until 4 headed by 3 parsed as its
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Hammond))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (NNP Hammond))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Hammond) (NNP Co.)) (, ,) (NP (NP (NNP Newport) (NNP Beach)) (, ,) (NP (NNP Calif.))) (, ,))
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (NNP Hammond) (NNP Co.)) (, ,) (NP (NP (NNP Newport) (NNP Beach)) (, ,) (NP (NNP Calif.))) (, ,))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NP (NNP Newport) (NNP Beach)) (, ,) (NP (NNP Calif.)))
+sid=0 spanning 3 until 7 headed by 4 parsed as (NP (NP (NNP Newport) (NNP Beach)) (, ,) (NP (NNP Calif.)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Calif.))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (NNP Fidelity) (NNP National) (NNP Financial) (NNP Inc.))
+sid=0 spanning 14 until 37 headed by 16 parsed as (NP (NP (PRP$ its) (JJ previous) (NN agreement)) (, ,) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (PRP it)) (VP (MD wo) (RB n't) (VP (VB purchase) (NP (NP (DT any) (JJR more)) (PP (IN of) (NP (NP (DT the) (NN mortgage) (NN banker) (POS 's)) (JJ common) (NN stock)))) (, ,) (PP (IN through) (NP (NNP Oct.) (CD 31))))))))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (PRP$ its) (JJ previous) (NN agreement))
+sid=0 spanning 14 until 15 headed by 14 parsed as (PRP$ its)
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=0 spanning 27 until 33 headed by 32 parsed as (NP (NP (DT the) (NN mortgage) (NN banker) (POS 's)) (JJ common) (NN stock))
+sid=0 spanning 27 until 31 headed by 29 parsed as (NP (DT the) (NN mortgage) (NN banker) (POS 's))
+sid=0 spanning 35 until 37 headed by 35 parsed as (NP (NNP Oct.) (CD 31))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ previous) (NN agreement))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Thursday))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Hammond))
+sid=2 spanning 3 until 18 headed by 4 parsed as (NP (NP (PRP$ its) (NNS discussions)) (PP (IN with) (NP (NP (NNP Fidelity)) (, ,) (NP (NP (DT an) (NNP Irvine)) (, ,) (NP (NNP Calif.))) (, ,) (NP (NML (NN title) (HYPH -) (NN insurance)) (NN underwriter)) (, ,))))
+sid=2 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP Fidelity)) (, ,) (NP (NP (DT an) (NNP Irvine)) (, ,) (NP (NNP Calif.))) (, ,) (NP (NML (NN title) (HYPH -) (NN insurance)) (NN underwriter)) (, ,))
+sid=2 spanning 6 until 18 headed by 6 parsed as (NP (NP (NNP Fidelity)) (, ,) (NP (NP (DT an) (NNP Irvine)) (, ,) (NP (NNP Calif.))) (, ,) (NP (NML (NN title) (HYPH -) (NN insurance)) (NN underwriter)) (, ,))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NP (DT an) (NNP Irvine)) (, ,) (NP (NNP Calif.)))
+sid=2 spanning 8 until 12 headed by 9 parsed as (NP (NP (DT an) (NNP Irvine)) (, ,) (NP (NNP Calif.)))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (DT an) (NNP Irvine))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP Calif.))
+sid=2 spanning 13 until 17 headed by 16 parsed as (NP (NML (NN title) (HYPH -) (NN insurance)) (NN underwriter))
+sid=2 spanning 23 until 31 headed by 23 parsed as (NP (NP (NNS prospects)) (PP (IN for) (NP (DT a) (NML (JJR longer) (HYPH -) (NN term)) (NN standstill) (NN agreement))))
+sid=2 spanning 25 until 31 headed by 30 parsed as (NP (DT a) (NML (JJR longer) (HYPH -) (NN term)) (NN standstill) (NN agreement))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Fidelity))
+sid=3 spanning 3 until 7 headed by 4 parsed as (NP (NP (PRP$ its) (NN stake)) (PP (IN in) (NP (NNP Hammond))))
+sid=3 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Hammond))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (JJ recent) (NNS months))
+sid=4 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNS Statements)) (VP (VBN made) (PP (IN in) (NP (NML (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission)) (NNS filings)))))
+sid=4 spanning 3 until 8 headed by 7 parsed as (NP (NML (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission)) (NNS filings))
+sid=4 spanning 3 until 7 headed by 6 parsed as Commission
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (NNP Hammond))
+sid=4 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (NN standstill) (NN agreement))
+(end predicted mentions)
+---------gold clusters--------
+3 7 | { 'its previous agreement , under which it wo n't purchase any more of the mortgage banker 's common stock ,' 'The previous agreement' }
+5 2 4 12 10 13 | { 'it' 'Fidelity National Financial Inc.' 'its' 'Fidelity' 'Fidelity , an Irvine , Calif. , title - insurance underwriter ,' 'its' }
+0 15 14 9 6 8 | { 'Hammond Co. , Newport Beach , Calif. ,' 'Hammond' 'Hammond' 'its' 'the mortgage banker 's' 'Hammond' }
+1 11 | { 'Calif.' 'Calif.' }
+(end gold clusters)

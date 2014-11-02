@@ -1,0 +1,48 @@
+---------gloss--------
+(0) Judges at the Flight 103 Lockerbie trial are expected to rule Thursday if [1m[35m{a diary belonging to one of the accused}[0m can be used as [1m[33m{evidence}[0m . 
+(1) [1m[34m{The defendant 's}[0m diary was discovered by Scottish police during an investigation in Malta in April 1991 . 
+(2) The defense claims that police search was illegal and therefore [1m[35m{the diary}[0m can not be admitted as [1m[33m{evidence}[0m . 
+(3) David Coller , VOA News . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0008); part 000
+sentences:
+JudgesjudgeNNSOPER0atatINOPER0thetheDTOPER0FlightFlightNNPOPER0103103CDOPER0LockerbieLockerbieNNPGPEPER0trialtrialNNOPER0arebeVBPOPER0expectedexpectVBNOPER0totoTOOPER0ruleruleVBOPER0ThursdayThursdayNNPDATEPER0ififINOPER0aaDTOPER0diarydiaryNNOPER0belongingbelongVBGOPER0totoINOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0accusedaccuseVBNOPER0cancanMDOPER0bebeVBOPER0useduseVBNOPER0asasINOPER0evidenceevidenceNNOPER0...OPER0(ROOT (S (NP (NP (NNS Judges)) (PP (IN at) (NP (DT the) (NML (NNP Flight) (CD 103)) (NNP Lockerbie) (NN trial)))) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB rule) (NP (NNP Thursday)) (SBAR (IN if) (S (NP (NP (DT a) (NN diary)) (VP (VBG belonging) (PP (IN to) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (VBN accused))))))) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NN evidence))))))))))))) (. .)))
+ThetheDTOPER0defendantdefendantNNOPER0's'sPOSOPER0diarydiaryNNOPER0wasbeVBDOPER0discovereddiscoverVBNOPER0bybyINOPER0ScottishScottishNNPOPER0policepoliceNNSOPER0duringduringINOPER0anaDTOPER0investigationinvestigationNNOPER0ininINOPER0MaltaMaltaNNPGPEPER0ininINOPER0AprilAprilNNPDATEPER019911991CDDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN defendant) (POS 's)) (NN diary)) (VP (VBD was) (VP (VBN discovered) (PP (IN by) (NP (NNP Scottish) (NNS police))) (PP (IN during) (NP (NP (DT an) (NN investigation)) (PP (IN in) (NP (NNP Malta))))) (PP (IN in) (NP (NNP April) (CD 1991))))) (. .)))
+ThetheDTOPER0defensedefenseNNOPER0claimsclaimVBZOPER0thatthatINOPER0policepoliceNNOPER0searchsearchNNOPER0wasbeVBDOPER0illegalillegalJJOPER0andandCCOPER0thereforethereforeRBOPER0thetheDTOPER0diarydiaryNNOPER0cancanMDOPER0notnotRBOPER0bebeVBOPER0admittedadmitVBNOPER0asasINOPER0evidenceevidenceNNOPER0...OPER0(ROOT (S (S (NP (DT The) (NN defense)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NN police) (NN search)) (VP (VBD was) (ADJP (JJ illegal))))))) (CC and) (S (ADVP (RB therefore)) (NP (DT the) (NN diary)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN admitted) (PP (IN as) (NP (NN evidence))))))) (. .)))
+DavidDavidNNPPERSONPER0CollerCollerNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 13 until 21 headed by 14 parsed as (NP (NP (DT a) (NN diary)) (VP (VBG belonging) (PP (IN to) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (VBN accused)))))))
+sid=0 spanning 17 until 21 headed by 17 parsed as (NP (NP (CD one)) (PP (IN of) (NP (DT the) (VBN accused))))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NN evidence))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NN defendant) (POS 's)) (NN diary))
+sid=1 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN defendant) (POS 's))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN diary))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NN evidence))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNS Judges)) (PP (IN at) (NP (DT the) (NML (NNP Flight) (CD 103)) (NNP Lockerbie) (NN trial))))
+sid=0 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NNP Flight) (CD 103)) (NNP Lockerbie) (NN trial))
+sid=0 spanning 5 until 6 headed by 5 parsed as Lockerbie
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Thursday))
+sid=0 spanning 13 until 21 headed by 14 parsed as (NP (NP (DT a) (NN diary)) (VP (VBG belonging) (PP (IN to) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (VBN accused)))))))
+sid=0 spanning 17 until 21 headed by 17 parsed as (NP (NP (CD one)) (PP (IN of) (NP (DT the) (VBN accused))))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NN defendant) (POS 's)) (NN diary))
+sid=1 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN defendant) (POS 's))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP Scottish) (NNS police))
+sid=1 spanning 10 until 14 headed by 11 parsed as (NP (NP (DT an) (NN investigation)) (PP (IN in) (NP (NNP Malta))))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NNP Malta))
+sid=1 spanning 15 until 17 headed by 15 parsed as (NP (NNP April) (CD 1991))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN defense))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NN police) (NN search))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN diary))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP David) (NNP Coller))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+(end predicted mentions)
+---------gold clusters--------
+6 2 | { 'evidence' 'evidence' }
+1 4 | { 'one of the accused' 'The defendant 's' }
+5 3 0 | { 'the diary' 'The defendant 's diary' 'a diary belonging to one of the accused' }
+(end gold clusters)

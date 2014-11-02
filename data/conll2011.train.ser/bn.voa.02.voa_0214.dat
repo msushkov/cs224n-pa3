@@ -1,0 +1,52 @@
+---------gloss--------
+(0) [1m[33m{Yugoslav Foreign Minister Goran Spilanovic}[0m says [1m[33m{his}[0m government will cooperate with [1m[34m{the UN War Crimes Tribunal that indicted former President Slobodan Milosevic for crimes against ethnic Albanians in Kosovo}[0m . 
+(1) [1m[33m{He}[0m said Thursday in Washington [1m[32m{Belgrade}[0m would fulfill [1m[32m{its}[0m duties and responsibilities to [1m[34m{the Hague Court , which took the action against Mr. Milosevic in 1999}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0214); part 000
+sentences:
+YugoslavyugoslavJJOPER0ForeignForeignNNPOPER0MinisterMinisterNNPOPER0GoranGoranNNPPERSONPER0SpilanovicSpilanovicNNPPERSONPER0sayssayVBZOPER0hishePRP$OPER0governmentgovernmentNNOPER0willwillMDOPER0cooperatecooperateVBOPER0withwithINOPER0thetheDTORGPER0UNUNNNPORGPER0WarWarNNPORGPER0CrimesCrimesNNPSORGPER0TribunalTribunalNNPORGPER0thatthatWDTOPER0indictedindictVBDOPER0formerformerJJOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0forforINOPER0crimescrimeNNSOPER0againstagainstINOPER0ethnicethnicJJOPER0AlbaniansalbanianNNSOPER0ininINOPER0KosovoKosovoNNPGPEPER0...OPER0(ROOT (S (NP (NML (JJ Yugoslav) (NNP Foreign) (NNP Minister)) (NNP Goran) (NNP Spilanovic)) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NN government)) (VP (MD will) (VP (VB cooperate) (PP (IN with) (NP (NP (DT the) (NNP UN) (NML (NNP War) (NNPS Crimes)) (NNP Tribunal)) (SBAR (WHNP (WDT that)) (S (VP (VBD indicted) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (PP (IN for) (NP (NP (NNS crimes)) (PP (IN against) (NP (NP (JJ ethnic) (NNS Albanians)) (PP (IN in) (NP (NNP Kosovo))))))))))))))))) (. .)))
+HehePRPOPER0saidsayVBDOPER0ThursdayThursdayNNPDATEPER0ininINOPER0WashingtonWashingtonNNPGPEPER0BelgradeBelgradeNNPGPEPER0wouldwouldMDOPER0fulfillfulfillVBOPER0itsitsPRP$OPER0dutiesdutyNNSOPER0andandCCOPER0responsibilitiesresponsibilityNNSOPER0totoINOPER0thetheDTORGPER0HagueHagueNNPORGPER0CourtCourtNNPORGPER0,,,OPER0whichwhichWDTOPER0tooktakeVBDOPER0thetheDTOPER0actionactionNNOPER0againstagainstINOPER0Mr.Mr.NNPOPER0MilosevicMilosevicNNPPERSONPER0ininINOPER019991999CDDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD said) (NP (NNP Thursday)) (PP (IN in) (NP (NNP Washington))) (SBAR (S (NP (NNP Belgrade)) (VP (MD would) (VP (VB fulfill) (NP (PRP$ its) (NNS duties) (CC and) (NNS responsibilities)) (PP (IN to) (NP (NP (DT the) (NNP Hague) (NNP Court)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD took) (NP (NP (DT the) (NN action)) (PP (IN against) (NP (NNP Mr.) (NNP Milosevic)))) (PP (IN in) (NP (CD 1999))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Yugoslav) (NNP Foreign) (NNP Minister)) (NNP Goran) (NNP Spilanovic))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NN government))
+sid=0 spanning 6 until 7 headed by 6 parsed as his
+sid=0 spanning 11 until 29 headed by 15 parsed as (NP (NP (DT the) (NNP UN) (NML (NNP War) (NNPS Crimes)) (NNP Tribunal)) (SBAR (WHNP (WDT that)) (S (VP (VBD indicted) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (PP (IN for) (NP (NP (NNS crimes)) (PP (IN against) (NP (NP (JJ ethnic) (NNS Albanians)) (PP (IN in) (NP (NNP Kosovo)))))))))))
+sid=0 spanning 17 until 18 headed by 17 parsed as indicted
+sid=0 spanning 18 until 22 headed by 21 parsed as (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP Belgrade))
+sid=1 spanning 8 until 9 headed by 8 parsed as its
+sid=1 spanning 13 until 26 headed by 15 parsed as (NP (NP (DT the) (NNP Hague) (NNP Court)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD took) (NP (NP (DT the) (NN action)) (PP (IN against) (NP (NNP Mr.) (NNP Milosevic)))) (PP (IN in) (NP (CD 1999)))))))
+sid=1 spanning 19 until 24 headed by 20 parsed as (NP (NP (DT the) (NN action)) (PP (IN against) (NP (NNP Mr.) (NNP Milosevic))))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (NNP Mr.) (NNP Milosevic))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Yugoslav) (NNP Foreign) (NNP Minister)) (NNP Goran) (NNP Spilanovic))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NN government))
+sid=0 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=0 spanning 11 until 29 headed by 15 parsed as (NP (NP (DT the) (NNP UN) (NML (NNP War) (NNPS Crimes)) (NNP Tribunal)) (SBAR (WHNP (WDT that)) (S (VP (VBD indicted) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (PP (IN for) (NP (NP (NNS crimes)) (PP (IN against) (NP (NP (JJ ethnic) (NNS Albanians)) (PP (IN in) (NP (NNP Kosovo)))))))))))
+sid=0 spanning 18 until 22 headed by 21 parsed as (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=0 spanning 23 until 29 headed by 23 parsed as (NP (NP (NNS crimes)) (PP (IN against) (NP (NP (JJ ethnic) (NNS Albanians)) (PP (IN in) (NP (NNP Kosovo))))))
+sid=0 spanning 25 until 29 headed by 26 parsed as (NP (NP (JJ ethnic) (NNS Albanians)) (PP (IN in) (NP (NNP Kosovo))))
+sid=0 spanning 28 until 29 headed by 28 parsed as (NP (NNP Kosovo))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Thursday))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NNP Belgrade))
+sid=1 spanning 8 until 12 headed by 9 parsed as (NP (PRP$ its) (NNS duties) (CC and) (NNS responsibilities))
+sid=1 spanning 8 until 9 headed by 8 parsed as (PRP$ its)
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (NP (DT the) (NNP Hague) (NNP Court)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD took) (NP (NP (DT the) (NN action)) (PP (IN against) (NP (NNP Mr.) (NNP Milosevic)))) (PP (IN in) (NP (CD 1999)))))))
+sid=1 spanning 13 until 26 headed by 15 parsed as (NP (NP (DT the) (NNP Hague) (NNP Court)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD took) (NP (NP (DT the) (NN action)) (PP (IN against) (NP (NNP Mr.) (NNP Milosevic)))) (PP (IN in) (NP (CD 1999)))))))
+sid=1 spanning 19 until 24 headed by 20 parsed as (NP (NP (DT the) (NN action)) (PP (IN against) (NP (NNP Mr.) (NNP Milosevic))))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (NNP Mr.) (NNP Milosevic))
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (CD 1999))
+(end predicted mentions)
+---------gold clusters--------
+4 10 | { 'indicted' 'the action against Mr. Milosevic' }
+8 1 7 | { 'its' 'his government' 'Belgrade' }
+0 2 6 | { 'Yugoslav Foreign Minister Goran Spilanovic' 'his' 'He' }
+3 9 | { 'the UN War Crimes Tribunal that indicted former President Slobodan Milosevic for crimes against ethnic Albanians in Kosovo' 'the Hague Court , which took the action against Mr. Milosevic in 1999' }
+5 11 | { 'former President Slobodan Milosevic' 'Mr. Milosevic' }
+(end gold clusters)

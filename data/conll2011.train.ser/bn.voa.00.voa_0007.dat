@@ -1,0 +1,104 @@
+---------gloss--------
+(0) [1m[36m{Serbia}[0m remains tense today in the wake of a massive civil disobedience campaign begun Monday to force [1m[35m{President Slobodan Milosevic}[0m to concede election defeat . 
+(1) In nearly every Serbian city protestors marched in the streets demanding [1m[35m{Mr. Milosevic}[0m recognize [3m[32m{opposition candidate Vojislav Kostunica}[0m as the outright winner of last week 's presidential election . 
+(2) Banks , coal mines and other institutions shut down as workers protested a second runoff election scheduled for this Sunday . 
+(3) [1m[35m{Mr. Milosevic}[0m accuses [1m[35m{his}[0m opponents of using blackmail and bribery to organize the work stoppages that have brought much of [1m[36m{Serbia}[0m to a standstill . 
+(4) At a news conference in Belgrade , [1m[35m{the President}[0m said Yugoslavia would face foreign occupation if [3m[32m{Mr. Kostunica}[0m came to power . 
+(5) [3m[31m{The Clinton administration}[0m is clear on [3m[31m{its}[0m view on the [1m[35m{Milosevic}[0m move . 
+(6) [3m[31m{White House}[0m spokesman Jake Sewart . 
+(7) [1m[35m{He}[0m belongs out of power , out of [1m[36m{Serbia}[0m and at the International Tribunal . 
+(8) [3m[31m{We}[0m will do everything [3m[31m{we}[0m can to make sure that [1m[35m{he}[0m makes [1m[35m{his}[0m court date there . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0007); part 000
+sentences:
+SerbiaSerbiaNNPGPEPER0remainsremainVBZOPER0tensetenseJJOPER0todaytodayNNDATEPER0ininINOPER0thetheDTOPER0wakewakeNNOPER0ofofINOPER0aaDTOPER0massivemassiveJJOPER0civilcivilJJOPER0disobediencedisobedienceNNOPER0campaigncampaignNNOPER0begunbeginVBNOPER0MondayMondayNNPDATEPER0totoTOOPER0forceforceVBOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0totoTOOPER0concedeconcedeVBOPER0electionelectionNNOPER0defeatdefeatNNOPER0...OPER0(ROOT (S (NP (NNP Serbia)) (VP (VBZ remains) (NP (JJ tense) (NN today)) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (NP (DT a) (JJ massive) (JJ civil) (NN disobedience) (NN campaign)) (VP (VBN begun) (NP (NNP Monday)) (S (VP (TO to) (VP (VB force) (NP (NNP President) (NNP Slobodan) (NNP Milosevic)) (S (VP (TO to) (VP (VB concede) (NP (NN election) (NN defeat)))))))))))))) (. .)))
+IninINOPER0nearlynearlyRBOPER0everyeveryDTOPER0SerbianserbianJJOPER0citycityNNOPER0protestorsprotestorNNSOPER0marchedmarchVBDOPER0ininINOPER0thetheDTOPER0streetsstreetNNSOPER0demandingdemandVBGOPER0Mr.Mr.NNPOPER0MilosevicMilosevicNNPPERSONPER0recognizerecognizeVBPOPER0oppositionoppositionNNOPER0candidatecandidateNNOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0asasINOPER0thetheDTOPER0outrightoutrightJJOPER0winnerwinnerNNOPER0ofofINOPER0lastlastJJDATEPER0weekweekNNDATEPER0's'sPOSDATEPER0presidentialpresidentialJJOPER0electionelectionNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (RB nearly) (DT every) (JJ Serbian) (NN city))) (NP (NNS protestors)) (VP (VBD marched) (PP (IN in) (NP (NP (DT the) (NNS streets)) (VP (VBG demanding) (SBAR (S (NP (NNP Mr.) (NNP Milosevic)) (VP (VBP recognize) (NP (NML (NN opposition) (NN candidate)) (NNP Vojislav) (NNP Kostunica)) (PP (IN as) (NP (NP (DT the) (JJ outright) (NN winner)) (PP (IN of) (NP (NP (JJ last) (NN week) (POS 's)) (JJ presidential) (NN election)))))))))))) (. .)))
+BanksbankNNSOPER0,,,OPER0coalcoalNNOPER0minesmineNNSOPER0andandCCOPER0otherotherJJOPER0institutionsinstitutionNNSOPER0shutshutVBDOPER0downdownRPOPER0asasINOPER0workersworkerNNSOPER0protestedprotestVBDOPER0aaDTOPER0secondsecondJJORDINALPER0runoffrunoffNNOPER0electionelectionNNOPER0scheduledscheduleVBNOPER0forforINOPER0thisthisDTOPER0SundaySundayNNPDATEPER0...OPER0(ROOT (S (NP (NP (NNS Banks)) (, ,) (NP (NN coal) (NNS mines)) (CC and) (NP (JJ other) (NNS institutions))) (VP (VBD shut) (PRT (RP down)) (SBAR (IN as) (S (NP (NNS workers)) (VP (VBD protested) (NP (NP (DT a) (JJ second) (NN runoff) (NN election)) (VP (VBN scheduled) (PP (IN for) (NP (DT this) (NNP Sunday))))))))) (. .)))
+Mr.Mr.NNPOPER0MilosevicMilosevicNNPPERSONPER0accusesaccuseVBZOPER0hishePRP$OPER0opponentsopponentNNSOPER0ofofINOPER0usinguseVBGOPER0blackmailblackmailNNOPER0andandCCOPER0briberybriberyNNOPER0totoTOOPER0organizeorganizeVBOPER0thetheDTOPER0workworkNNOPER0stoppagesstoppageNNSOPER0thatthatWDTOPER0havehaveVBPOPER0broughtbringVBNOPER0muchmuchJJOPER0ofofINOPER0SerbiaSerbiaNNPGPEPER0totoINOPER0aaDTOPER0standstillstandstillNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Milosevic)) (VP (VBZ accuses) (NP (PRP$ his) (NNS opponents)) (PP (IN of) (S (VP (VBG using) (NP (NN blackmail) (CC and) (NN bribery)) (S (VP (TO to) (VP (VB organize) (NP (NP (DT the) (NN work) (NNS stoppages)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN brought) (NP (NP (JJ much)) (PP (IN of) (NP (NNP Serbia)))) (PP (IN to) (NP (DT a) (NN standstill))))))))))))))) (. .)))
+AtatINOPER0aaDTOPER0newsnewsNNOPER0conferenceconferenceNNOPER0ininINOPER0BelgradeBelgradeNNPGPEPER0,,,OPER0thetheDTOPER0PresidentPresidentNNPOPER0saidsayVBDOPER0YugoslaviaYugoslaviaNNPGPEPER0wouldwouldMDOPER0facefaceVBOPER0foreignforeignJJOPER0occupationoccupationNNOPER0ififINOPER0Mr.Mr.NNPOPER0KostunicaKostunicaNNPPERSONPER0camecomeVBDOPER0totoINOPER0powerpowerNNOPER0...OPER0(ROOT (S (PP (IN At) (NP (NP (DT a) (NN news) (NN conference)) (PP (IN in) (NP (NNP Belgrade))))) (, ,) (NP (DT the) (NNP President)) (VP (VBD said) (SBAR (S (NP (NNP Yugoslavia)) (VP (MD would) (VP (VB face) (NP (JJ foreign) (NN occupation)) (SBAR (IN if) (S (NP (NNP Mr.) (NNP Kostunica)) (VP (VBD came) (PP (IN to) (NP (NN power))))))))))) (. .)))
+ThetheDTOPER0ClintonClintonNNPPERSONPER0administrationadministrationNNOPER0isbeVBZOPER0clearclearJJOPER0ononINOPER0itsitsPRP$OPER0viewviewNNOPER0ononINOPER0thetheDTOPER0MilosevicMilosevicNNPPERSONPER0movemoveNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Clinton) (NN administration)) (VP (VBZ is) (ADJP (JJ clear) (PP (IN on) (NP (NP (PRP$ its) (NN view)) (PP (IN on) (NP (DT the) (NNP Milosevic) (NN move))))))) (. .)))
+WhiteWhiteNNPORGPER0HouseHouseNNPORGPER0spokesmanspokesmanNNOPER0JakeJakeNNPPERSONPER0SewartSewartNNPPERSONPER0...OPER0(ROOT (S (NP (NML (NML (NNP White) (NNP House)) (NN spokesman)) (NNP Jake) (NNP Sewart)) (. .)))
+HehePRPOPER0belongsbelongVBZOPER0outoutINOPER0ofofINOPER0powerpowerNNOPER0,,,OPER0outoutINOPER0ofofINOPER0SerbiaSerbiaNNPGPEPER0andandCCOPER0atatINOPER0thetheDTORGPER0InternationalInternationalNNPORGPER0TribunalTribunalNNPORGPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ belongs) (PP (IN out) (PP (IN of) (NP (NN power)))) (, ,) (PP (PP (IN out) (PP (IN of) (NP (NNP Serbia)))) (CC and) (PP (IN at) (NP (DT the) (NNP International) (NNP Tribunal))))) (. .)))
+WewePRPOPER0willwillMDOPER0dodoVBOPER0everythingeverythingNNOPER0wewePRPOPER0cancanMDOPER0totoTOOPER0makemakeVBOPER0suresureJJOPER0thatthatINOPER0hehePRPOPER0makesmakeVBZOPER0hishePRP$OPER0courtcourtNNOPER0datedateNNOPER0therethereRBOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (MD will) (VP (VB do) (NP (NP (NN everything)) (SBAR (S (NP (PRP we)) (VP (MD can) (S (VP (TO to) (VP (VB make) (ADJP (JJ sure) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ makes) (S (NP (PRP$ his) (NN court) (NN date)) (ADVP (RB there)))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Serbia))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (NNP President) (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NNP Mr.) (NNP Milosevic))
+sid=1 spanning 14 until 18 headed by 17 parsed as (NP (NML (NN opposition) (NN candidate)) (NNP Vojislav) (NNP Kostunica))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Milosevic))
+sid=3 spanning 3 until 4 headed by 3 parsed as his
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (NNP Serbia))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNP President))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (NNP Mr.) (NNP Kostunica))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Clinton) (NN administration))
+sid=5 spanning 6 until 7 headed by 6 parsed as its
+sid=5 spanning 10 until 11 headed by 10 parsed as Milosevic
+sid=6 spanning 0 until 2 headed by 1 parsed as House
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 8 until 9 headed by 8 parsed as (NP (NNP Serbia))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=8 spanning 4 until 5 headed by 4 parsed as (NP (PRP we))
+sid=8 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=8 spanning 12 until 13 headed by 12 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Serbia))
+sid=0 spanning 5 until 24 headed by 6 parsed as (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (NP (DT a) (JJ massive) (JJ civil) (NN disobedience) (NN campaign)) (VP (VBN begun) (NP (NNP Monday)) (S (VP (TO to) (VP (VB force) (NP (NNP President) (NNP Slobodan) (NNP Milosevic)) (S (VP (TO to) (VP (VB concede) (NP (NN election) (NN defeat))))))))))))
+sid=0 spanning 8 until 24 headed by 12 parsed as (NP (NP (DT a) (JJ massive) (JJ civil) (NN disobedience) (NN campaign)) (VP (VBN begun) (NP (NNP Monday)) (S (VP (TO to) (VP (VB force) (NP (NNP President) (NNP Slobodan) (NNP Milosevic)) (S (VP (TO to) (VP (VB concede) (NP (NN election) (NN defeat))))))))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNP Monday))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (NNP President) (NNP Slobodan) (NNP Milosevic))
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (NN election) (NN defeat))
+sid=1 spanning 1 until 5 headed by 4 parsed as (NP (RB nearly) (DT every) (JJ Serbian) (NN city))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNS protestors))
+sid=1 spanning 8 until 28 headed by 9 parsed as (NP (NP (DT the) (NNS streets)) (VP (VBG demanding) (SBAR (S (NP (NNP Mr.) (NNP Milosevic)) (VP (VBP recognize) (NP (NML (NN opposition) (NN candidate)) (NNP Vojislav) (NNP Kostunica)) (PP (IN as) (NP (NP (DT the) (JJ outright) (NN winner)) (PP (IN of) (NP (NP (JJ last) (NN week) (POS 's)) (JJ presidential) (NN election))))))))))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NNP Mr.) (NNP Milosevic))
+sid=1 spanning 14 until 18 headed by 17 parsed as (NP (NML (NN opposition) (NN candidate)) (NNP Vojislav) (NNP Kostunica))
+sid=1 spanning 19 until 28 headed by 21 parsed as (NP (NP (DT the) (JJ outright) (NN winner)) (PP (IN of) (NP (NP (JJ last) (NN week) (POS 's)) (JJ presidential) (NN election))))
+sid=1 spanning 23 until 26 headed by 24 parsed as (NP (JJ last) (NN week) (POS 's))
+sid=2 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNS Banks)) (, ,) (NP (NN coal) (NNS mines)) (CC and) (NP (JJ other) (NNS institutions)))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Banks))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (NN coal) (NNS mines))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (JJ other) (NNS institutions))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNS workers))
+sid=2 spanning 12 until 20 headed by 15 parsed as (NP (NP (DT a) (JJ second) (NN runoff) (NN election)) (VP (VBN scheduled) (PP (IN for) (NP (DT this) (NNP Sunday)))))
+sid=2 spanning 13 until 14 headed by 13 parsed as second
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (DT this) (NNP Sunday))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Milosevic))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NNS opponents))
+sid=3 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=3 spanning 7 until 10 headed by 7 parsed as (NP (NN blackmail) (CC and) (NN bribery))
+sid=3 spanning 12 until 24 headed by 14 parsed as (NP (NP (DT the) (NN work) (NNS stoppages)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN brought) (NP (NP (JJ much)) (PP (IN of) (NP (NNP Serbia)))) (PP (IN to) (NP (DT a) (NN standstill))))))))
+sid=3 spanning 18 until 21 headed by 18 parsed as (NP (NP (JJ much)) (PP (IN of) (NP (NNP Serbia))))
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (NNP Serbia))
+sid=3 spanning 22 until 24 headed by 23 parsed as (NP (DT a) (NN standstill))
+sid=4 spanning 1 until 6 headed by 3 parsed as (NP (NP (DT a) (NN news) (NN conference)) (PP (IN in) (NP (NNP Belgrade))))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNP Belgrade))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNP President))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NNP Yugoslavia))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (NNP Mr.) (NNP Kostunica))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Clinton) (NN administration))
+sid=5 spanning 1 until 2 headed by 1 parsed as Clinton
+sid=5 spanning 6 until 12 headed by 7 parsed as (NP (NP (PRP$ its) (NN view)) (PP (IN on) (NP (DT the) (NNP Milosevic) (NN move))))
+sid=5 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=5 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP Milosevic) (NN move))
+sid=5 spanning 10 until 11 headed by 10 parsed as Milosevic
+sid=6 spanning 0 until 5 headed by 4 parsed as (NP (NML (NML (NNP White) (NNP House)) (NN spokesman)) (NNP Jake) (NNP Sewart))
+sid=6 spanning 0 until 2 headed by 1 parsed as House
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 8 until 9 headed by 8 parsed as (NP (NNP Serbia))
+sid=7 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP International) (NNP Tribunal))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=8 spanning 4 until 5 headed by 4 parsed as (NP (PRP we))
+sid=8 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=8 spanning 12 until 15 headed by 14 parsed as (NP (PRP$ his) (NN court) (NN date))
+sid=8 spanning 12 until 13 headed by 12 parsed as (PRP$ his)
+(end predicted mentions)
+---------gold clusters--------
+17 13 4 5 1 18 2 7 11 | { 'he' 'He' 'Mr. Milosevic' 'his' 'President Slobodan Milosevic' 'his' 'Mr. Milosevic' 'the President' 'Milosevic' }
+6 0 14 | { 'Serbia' 'Serbia' 'Serbia' }
+9 10 16 12 15 | { 'The Clinton administration' 'its' 'we' 'White House' 'We' }
+8 3 | { 'Mr. Kostunica' 'opposition candidate Vojislav Kostunica' }
+(end gold clusters)

@@ -1,0 +1,183 @@
+---------gloss--------
+(0) Let [3m[33m{'s}[0m go live now to [3m[35m{the launch of a rocket}[0m . 
+(1) Atop [1m[36m{it}[0m [3m[31m{a European Mars observetory}[0m . 
+(2) Mars Express , [3m[31m{it}[0m 's called . 
+(3) Let [3m[33m{'s}[0m watch [3m[35m{the launch}[0m . 
+(4) It 's a little before midnight there right now . 
+(5) There [1m[36m{it}[0m goes . 
+(6) [3m[31m{The Mars Express on its way on a seven - month journey to the red planet}[0m , contains really two spacecraft . 
+(7) [3m[36m{An orbiter called Mars Express .}[0m 
+(8) [3m[36m{It}[0m will operate orbiting [4m[33m{the red planet}[0m for a couple of years . 
+(9) [3m[31m{It}[0m also has [3m[32m{a lander known as Beagle Two , named after Charles Darwin which he sailed to the island and went into its bit of fame}[0m . 
+(10) [3m[32m{The Beagle Two}[0m will sit on [4m[31m{the surface of Mars}[0m for about six months . 
+(11) If all goes well , [3m[32m{it}[0m will dig around , probe around , analize rocks and search for signs of water . 
+(12) If you find water , you 're very likely to find signs of life . 
+(13) There you see some animation of what will happen about seven months from now as [3m[32m{this tiny little lander}[0m dropping off -- 
+(14) [3m[32m{The entire spacecraft}[0m is about five feet in any direction , not much bigger than a fairly large shipping crate . 
+(15) Now , [3m[32m{it}[0m will auguster into [4m[31m{the surface of the Red Planet}[0m and put those samples into various scientific instruments . 
+(16) That data will be sent back to the European Space Agency in Germany . 
+(17) This is the first European mission to [4m[33m{Mars}[0m . 
+(18) There have been , of course , several American missions , one Japanese and one by the Soviet Union , and with some very limited success . 
+(19) [4m[33m{Mars}[0m is a tough place to explore . 
+(20) You 'll recall December of 1998 , I should say , [3m[34m{the Mars Polar Lander}[0m had a very unsuccessful conclusion to [3m[34m{its}[0m flight to [4m[33m{the Red Planet}[0m , which was part of a disasterous [4m[33m{Mars}[0m season . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0376); part 000
+sentences:
+LetletVBOPER0's'sPRPOPER0gogoVBOPER0liveliveRBOPER0nownowRBOPER0totoINOPER0thetheDTOPER0launchlaunchNNOPER0ofofINOPER0aaDTOPER0rocketrocketNNOPER0...OPER0(ROOT (S (VP (VB Let) (NP (PRP 's)) (VP (VB go) (ADVP (RB live)) (PP (ADVP (RB now)) (IN to) (NP (NP (DT the) (NN launch)) (PP (IN of) (NP (DT a) (NN rocket))))))) (. .)))
+AtopatopINOPER0ititPRPOPER0aaDTOPER0EuropeanEuropeanNNPORGPER0MarsMarsNNPORGPER0observetoryobservetoryNNOPER0...OPER0(ROOT (FRAG (PP (IN Atop) (NP (PRP it))) (NP (DT a) (NNP European) (NNP Mars) (NN observetory)) (. .)))
+MarsMarsNNPORGPER0ExpressExpressNNPORGPER0,,,OPER0ititPRPOPER0'sbeVBZOPER0calledcallVBNOPER0...OPER0(ROOT (S (NP (NNP Mars) (NNP Express)) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBN called))) (. .)))
+LetletVBOPER0's'sPRPOPER0watchwatchVBOPER0thetheDTOPER0launchlaunchNNOPER0...OPER0(ROOT (S (VP (VB Let) (NP (PRP 's)) (VP (VB watch) (NP (DT the) (NN launch)))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0aaDTOPER0littlelittleJJOPER0beforebeforeINOPER0midnightmidnightNNTIMEPER0therethereRBOPER0rightrightRBDATEPER0nownowRBDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ little)) (PP (IN before) (NP (NN midnight)))) (ADVP (RB there)) (ADVP (RB right) (RB now))) (. .)))
+TherethereRBOPER0ititPRPOPER0goesgoVBZOPER0...OPER0(ROOT (S (ADVP (RB There)) (NP (PRP it)) (VP (VBZ goes)) (. .)))
+ThetheDTORGPER0MarsMarsNNPORGPER0ExpressExpressNNPORGPER0ononINOPER0itsitsPRP$OPER0waywayNNOPER0ononINOPER0aaDTOPER0sevensevenCDDATEPER0--HYPHDATEPER0monthmonthNNDATEPER0journeyjourneyNNOPER0totoINOPER0thetheDTOPER0redredJJOPER0planetplanetNNOPER0,,,OPER0containscontainVBZOPER0reallyreallyRBOPER0twotwoCDCARDINALPER0spacecraftspacecraftNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Mars) (NNP Express)) (VP (PP (IN on) (NP (NP (PRP$ its) (NN way)) (PP (IN on) (NP (NP (DT a) (NML (CD seven) (HYPH -) (NN month)) (NN journey)) (PP (IN to) (NP (DT the) (JJ red) (NN planet))))))) (, ,) (VBZ contains) (ADVP (RB really)) (NP (CD two) (NN spacecraft))) (. .)))
+AnaDTOPER0orbiterorbiterNNOPER0calledcallVBDOPER0MarsMarsNNPORGPER0ExpressExpressNNPORGPER0...OPER0(ROOT (S (NP (DT An) (NN orbiter)) (VP (VBD called) (NP (NNP Mars) (NNP Express))) (. .)))
+ItitPRPOPER0willwillMDOPER0operateoperateVBOPER0orbitingorbitVBGOPER0thetheDTOPER0redredJJOPER0planetplanetNNOPER0forforINOPER0aaDTDATEPER0couplecoupleNNDATEPER0ofofINDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (MD will) (VP (VB operate) (S (VP (VBG orbiting) (NP (NP (DT the) (JJ red) (NN planet)) (PP (IN for) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years)))))))))) (. .)))
+ItitPRPOPER0alsoalsoRBOPER0hashaveVBZOPER0aaDTOPER0landerlanderNNOPER0knownknowVBNOPER0asasINOPER0BeagleBeagleNNPOPER0TwoTwoNNPCARDINALPER0,,,OPER0namednameVBNOPER0afterafterINOPER0CharlesCharlesNNPPERSONPER0DarwinDarwinNNPPERSONPER0whichwhichWDTOPER0hehePRPOPER0sailedsailVBDOPER0totoINOPER0thetheDTOPER0islandislandNNOPER0andandCCOPER0wentgoVBDOPER0intointoINOPER0itsitsPRP$OPER0bitbitNNOPER0ofofINOPER0famefameNNOPER0...OPER0(ROOT (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ has) (NP (NP (DT a) (NN lander)) (VP (VBN known) (PP (IN as) (NP (NP (NNP Beagle) (NNP Two)) (, ,) (VP (VBN named) (PP (IN after) (NP (NP (NNP Charles) (NNP Darwin)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VP (VBD sailed) (PP (IN to) (NP (DT the) (NN island)))) (CC and) (VP (VBD went) (PP (IN into) (NP (NP (PRP$ its) (NN bit)) (PP (IN of) (NP (NN fame))))))))))))))))) (. .)))
+ThetheDTOPER0BeagleBeagleNNPOPER0TwoTwoNNPCARDINALPER0willwillMDOPER0sitsitVBOPER0ononINOPER0thetheDTOPER0surfacesurfaceNNOPER0ofofINOPER0MarsMarsNNPORGPER0forforINOPER0aboutaboutINDATEPER0sixsixCDDATEPER0monthsmonthNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP Beagle) (NNP Two)) (VP (MD will) (VP (VB sit) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (NNP Mars))))) (PP (IN for) (NP (IN about) (CD six) (NNS months))))) (. .)))
+IfifINOPER0allallDTOPER0goesgoVBZOPER0wellwellRBOPER0,,,OPER0ititPRPOPER0willwillMDOPER0digdigVBOPER0aroundaroundRBOPER0,,,OPER0probeprobeVBOPER0aroundaroundRBOPER0,,,OPER0analizeanalizeVBOPER0rocksrockNNSOPER0andandCCOPER0searchsearchVBOPER0forforINOPER0signssignNNSOPER0ofofINOPER0waterwaterNNOPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (DT all)) (VP (VBZ goes) (ADVP (RB well))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VP (VB dig) (ADVP (RB around))) (, ,) (VP (VB probe) (ADVP (RB around))) (, ,) (VP (VB analize) (NP (NNS rocks))) (CC and) (VP (VB search) (PP (IN for) (NP (NP (NNS signs)) (PP (IN of) (NP (NN water)))))))) (. .)))
+IfifINOPER0youyouPRPOPER0findfindVBOPER0waterwaterNNOPER0,,,OPER0youyouPRPOPER0'rebeVBPOPER0veryveryRBOPER0likelylikelyJJOPER0totoTOOPER0findfindVBOPER0signssignNNSOPER0ofofINOPER0lifelifeNNOPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VB find) (NP (NN water))))) (, ,) (NP (PRP you)) (VP (VBP 're) (ADJP (RB very) (JJ likely) (S (VP (TO to) (VP (VB find) (NP (NP (NNS signs)) (PP (IN of) (NP (NN life))))))))) (. .)))
+TherethereRBOPER0youyouPRPOPER0seeseeVBPOPER0somesomeDTOPER0animationanimationNNOPER0ofofINOPER0whatwhatWPOPER0willwillMDOPER0happenhappenVBOPER0aboutaboutINDATEPER0sevensevenCDDATEPER0monthsmonthNNSDATEPER0fromfromINDATEPER0nownowRBDATEPER0asasINOPER0thisthisDTOPER0tinytinyJJOPER0littlelittleJJOPER0landerlanderNNOPER0droppingdropVBGOPER0offoffRPOPER0----.OPER0(ROOT (S (ADVP (RB There)) (NP (PRP you)) (VP (VBP see) (NP (NP (DT some) (NN animation)) (PP (IN of) (SBAR (WHNP (WP what)) (S (VP (MD will) (VP (VB happen) (PP (IN about) (NP (NP (CD seven) (NNS months)) (PP (IN from) (ADVP (RB now))))))))))) (PP (IN as) (S (NP (DT this) (JJ tiny) (JJ little) (NN lander)) (VP (VBG dropping) (PRT (RP off)))))) (. --)))
+ThetheDTOPER0entireentireJJOPER0spacecraftspacecraftNNOPER0isbeVBZOPER0aboutaboutINQUANTITYPER0fivefiveCDQUANTITYPER0feetfootNNSQUANTITYPER0ininINOPER0anyanyDTOPER0directiondirectionNNOPER0,,,OPER0notnotRBOPER0muchmuchRBOPER0biggerbiggerJJROPER0thanthanINOPER0aaDTOPER0fairlyfairlyRBOPER0largelargeJJOPER0shippingshippingNNOPER0cratecrateNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ entire) (NN spacecraft)) (VP (VP (VBZ is) (PP (IN about) (NP (CD five) (NNS feet))) (PP (IN in) (NP (DT any) (NN direction)))) (, ,) (VP (RB not) (ADJP (ADJP (RB much) (JJR bigger)) (PP (IN than) (NP (DT a) (ADJP (RB fairly) (JJ large)) (NN shipping) (NN crate)))))) (. .)))
+NownowRBOPER0,,,OPER0ititPRPOPER0willwillMDOPER0augusteraugusterVBOPER0intointoINOPER0thetheDTOPER0surfacesurfaceNNOPER0ofofINOPER0thetheDTWORK_OF_ARTPER0RedRedNNPWORK_OF_ARTPER0PlanetPlanetNNPWORK_OF_ARTPER0andandCCOPER0putputVBOPER0thosethoseDTOPER0samplessampleNNSOPER0intointoINOPER0variousvariousJJOPER0scientificscientificJJOPER0instrumentsinstrumentNNSOPER0...OPER0(ROOT (S (ADVP (RB Now)) (, ,) (NP (PRP it)) (VP (MD will) (VP (VP (VB auguster) (PP (IN into) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NNP Red) (NNP Planet)))))) (CC and) (VP (VB put) (NP (DT those) (NNS samples)) (PP (IN into) (NP (JJ various) (JJ scientific) (NNS instruments)))))) (. .)))
+ThatthatDTOPER0datadatumNNOPER0willwillMDOPER0bebeVBOPER0sentsendVBNOPER0backbackRBOPER0totoINOPER0thetheDTORGPER0EuropeanEuropeanNNPORGPER0SpaceSpaceNNPORGPER0AgencyAgencyNNPORGPER0ininINOPER0GermanyGermanyNNPGPEPER0...OPER0(ROOT (S (NP (DT That) (NN data)) (VP (MD will) (VP (VB be) (VP (VBN sent) (ADVP (RB back) (PP (IN to) (NP (NP (DT the) (NML (NNP European) (NNP Space)) (NNP Agency)) (PP (IN in) (NP (NNP Germany))))))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0thetheDTOPER0firstfirstJJORDINALPER0EuropeanEuropeanNNPOPER0missionmissionNNOPER0totoINOPER0MarsMarsNNPORGPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NNP European) (NN mission)) (PP (IN to) (NP (NNP Mars))))) (. .)))
+TherethereEXOPER0havehaveVBPOPER0beenbeVBNOPER0,,,OPER0ofofINOPER0coursecourseNNOPER0,,,OPER0severalseveralJJOPER0AmericanamericanJJOPER0missionsmissionNNSOPER0,,,OPER0oneoneCDCARDINALPER0JapaneseJapaneseNNPSOPER0andandCCOPER0oneoneCDCARDINALPER0bybyINOPER0thetheDTGPEPER0SovietSovietNNPGPEPER0UnionUnionNNPGPEPER0,,,OPER0andandCCOPER0withwithINOPER0somesomeDTOPER0veryveryRBOPER0limitedlimitedJJOPER0successsuccessNNOPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBP have) (VP (VBN been) (, ,) (PP (IN of) (NP (NN course))) (, ,) (NP (NP (JJ several) (JJ American) (NNS missions)) (, ,) (NP (CD one) (NNPS Japanese)) (CC and) (NP (NP (CD one)) (PP (IN by) (NP (DT the) (NNP Soviet) (NNP Union))))) (, ,) (NAC (CC and) (PP (IN with) (NP (DT some) (ADJP (RB very) (JJ limited)) (NN success)))))) (. .)))
+MarsMarsNNPORGPER0isbeVBZOPER0aaDTOPER0toughtoughJJOPER0placeplaceNNOPER0totoTOOPER0exploreexploreVBOPER0...OPER0(ROOT (S (NP (NNP Mars)) (VP (VBZ is) (NP (NP (DT a) (JJ tough) (NN place)) (SBAR (S (VP (TO to) (VP (VB explore))))))) (. .)))
+YouyouPRPOPER0'll'llMDOPER0recallrecallVBOPER0DecemberDecemberNNPDATEPER0ofofINDATEPER019981998CDDATEPER0,,,OPER0IIPRPOPER0shouldshouldMDOPER0saysayVBOPER0,,,OPER0thetheDTORGPER0MarsMarsNNPORGPER0PolarPolarNNPORGPER0LanderLanderNNPORGPER0hadhaveVBDOPER0aaDTOPER0veryveryRBOPER0unsuccessfulunsuccessfulJJOPER0conclusionconclusionNNOPER0totoINOPER0itsitsPRP$OPER0flightflightNNOPER0totoINOPER0thetheDTWORK_OF_ARTPER0RedRedNNPWORK_OF_ARTPER0PlanetPlanetNNPWORK_OF_ARTPER0,,,OPER0whichwhichWDTOPER0wasbeVBDOPER0partpartNNOPER0ofofINOPER0aaDTOPER0disasterousdisasterousJJOPER0MarsMarsNNPORGPER0seasonseasonNNDATEPER0...OPER0(ROOT (S (S (NP (PRP You)) (VP (MD 'll) (VP (VB recall) (NP (NP (NNP December)) (PP (IN of) (NP (CD 1998))))))) (, ,) (S (NP (PRP I)) (VP (MD should) (VP (VB say) (, ,) (SBAR (S (NP (DT the) (NNP Mars) (NNP Polar) (NNP Lander)) (VP (VBD had) (NP (DT a) (ADJP (RB very) (JJ unsuccessful)) (NN conclusion)) (PP (IN to) (NP (NP (PRP$ its) (NN flight)) (PP (IN to) (NP (DT the) (NNP Red) (NNP Planet))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (NP (NP (NN part)) (PP (IN of) (NP (DT a) (JJ disasterous) (NNP Mars) (NN season))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (PRP 's))
+sid=0 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT the) (NN launch)) (PP (IN of) (NP (DT a) (NN rocket))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NN rocket))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (DT a) (NNP European) (NNP Mars) (NN observetory))
+sid=1 spanning 4 until 5 headed by 4 parsed as Mars
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (PRP 's))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN launch))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=6 spanning 0 until 16 headed by 2 parsed as (NP (DT The) (NNP Mars) (NNP Express))
+sid=6 spanning 4 until 5 headed by 4 parsed as its
+sid=6 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ red) (NN planet))
+sid=7 spanning 0 until 6 headed by 2 parsed as called
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=8 spanning 4 until 7 headed by 6 parsed as (NP (NP (DT the) (JJ red) (NN planet)) (PP (IN for) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years))))))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=9 spanning 3 until 27 headed by 4 parsed as (NP (NP (DT a) (NN lander)) (VP (VBN known) (PP (IN as) (NP (NP (NNP Beagle) (NNP Two)) (, ,) (VP (VBN named) (PP (IN after) (NP (NP (NNP Charles) (NNP Darwin)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VP (VBD sailed) (PP (IN to) (NP (DT the) (NN island)))) (CC and) (VP (VBD went) (PP (IN into) (NP (NP (PRP$ its) (NN bit)) (PP (IN of) (NP (NN fame))))))))))))))))
+sid=9 spanning 12 until 14 headed by 13 parsed as (NP (NP (NNP Charles) (NNP Darwin)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VP (VBD sailed) (PP (IN to) (NP (DT the) (NN island)))) (CC and) (VP (VBD went) (PP (IN into) (NP (NP (PRP$ its) (NN bit)) (PP (IN of) (NP (NN fame))))))))))
+sid=9 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=10 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Beagle) (NNP Two))
+sid=10 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (NNP Mars))))
+sid=10 spanning 9 until 10 headed by 9 parsed as (NP (NNP Mars))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=13 spanning 15 until 19 headed by 18 parsed as (NP (DT this) (JJ tiny) (JJ little) (NN lander))
+sid=14 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ entire) (NN spacecraft))
+sid=15 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=15 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NNP Red) (NNP Planet))))
+sid=15 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP Red) (NNP Planet))
+sid=17 spanning 7 until 8 headed by 7 parsed as (NP (NNP Mars))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (NNP Mars))
+sid=20 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (NNP Mars) (NNP Polar) (NNP Lander))
+sid=20 spanning 21 until 22 headed by 21 parsed as its
+sid=20 spanning 24 until 27 headed by 26 parsed as (NP (DT the) (NNP Red) (NNP Planet))
+sid=20 spanning 34 until 35 headed by 34 parsed as Mars
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (PRP 's))
+sid=0 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT the) (NN launch)) (PP (IN of) (NP (DT a) (NN rocket))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NN rocket))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (DT a) (NNP European) (NNP Mars) (NN observetory))
+sid=1 spanning 3 until 5 headed by 4 parsed as Mars
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mars) (NNP Express))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (PRP 's))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN launch))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 2 until 6 headed by 3 parsed as (NP (NP (DT a) (JJ little)) (PP (IN before) (NP (NN midnight))))
+sid=4 spanning 7 until 9 headed by 8 parsed as now
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Mars) (NNP Express))
+sid=6 spanning 4 until 16 headed by 5 parsed as (NP (NP (PRP$ its) (NN way)) (PP (IN on) (NP (NP (DT a) (NML (CD seven) (HYPH -) (NN month)) (NN journey)) (PP (IN to) (NP (DT the) (JJ red) (NN planet))))))
+sid=6 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=6 spanning 7 until 16 headed by 11 parsed as (NP (NP (DT a) (NML (CD seven) (HYPH -) (NN month)) (NN journey)) (PP (IN to) (NP (DT the) (JJ red) (NN planet))))
+sid=6 spanning 8 until 11 headed by 10 parsed as month
+sid=6 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ red) (NN planet))
+sid=6 spanning 19 until 21 headed by 20 parsed as (NP (CD two) (NN spacecraft))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT An) (NN orbiter))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (NNP Mars) (NNP Express))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=8 spanning 4 until 12 headed by 6 parsed as (NP (NP (DT the) (JJ red) (NN planet)) (PP (IN for) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years))))))
+sid=8 spanning 8 until 12 headed by 9 parsed as (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years))))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=9 spanning 3 until 27 headed by 4 parsed as (NP (NP (DT a) (NN lander)) (VP (VBN known) (PP (IN as) (NP (NP (NNP Beagle) (NNP Two)) (, ,) (VP (VBN named) (PP (IN after) (NP (NP (NNP Charles) (NNP Darwin)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VP (VBD sailed) (PP (IN to) (NP (DT the) (NN island)))) (CC and) (VP (VBD went) (PP (IN into) (NP (NP (PRP$ its) (NN bit)) (PP (IN of) (NP (NN fame))))))))))))))))
+sid=9 spanning 7 until 27 headed by 8 parsed as (NP (NP (NNP Beagle) (NNP Two)) (, ,) (VP (VBN named) (PP (IN after) (NP (NP (NNP Charles) (NNP Darwin)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VP (VBD sailed) (PP (IN to) (NP (DT the) (NN island)))) (CC and) (VP (VBD went) (PP (IN into) (NP (NP (PRP$ its) (NN bit)) (PP (IN of) (NP (NN fame)))))))))))))
+sid=9 spanning 7 until 9 headed by 8 parsed as (NP (NNP Beagle) (NNP Two))
+sid=9 spanning 12 until 27 headed by 13 parsed as (NP (NP (NNP Charles) (NNP Darwin)) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VP (VBD sailed) (PP (IN to) (NP (DT the) (NN island)))) (CC and) (VP (VBD went) (PP (IN into) (NP (NP (PRP$ its) (NN bit)) (PP (IN of) (NP (NN fame))))))))))
+sid=9 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=9 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN island))
+sid=9 spanning 23 until 27 headed by 24 parsed as (NP (NP (PRP$ its) (NN bit)) (PP (IN of) (NP (NN fame))))
+sid=9 spanning 23 until 24 headed by 23 parsed as (PRP$ its)
+sid=10 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Beagle) (NNP Two))
+sid=10 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (NNP Mars))))
+sid=10 spanning 9 until 10 headed by 9 parsed as (NP (NNP Mars))
+sid=10 spanning 11 until 14 headed by 13 parsed as (NP (IN about) (CD six) (NNS months))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=11 spanning 14 until 15 headed by 14 parsed as (NP (NNS rocks))
+sid=11 spanning 18 until 21 headed by 18 parsed as (NP (NP (NNS signs)) (PP (IN of) (NP (NN water))))
+sid=12 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=12 spanning 5 until 6 headed by 5 parsed as (NP (PRP you))
+sid=12 spanning 11 until 14 headed by 11 parsed as (NP (NP (NNS signs)) (PP (IN of) (NP (NN life))))
+sid=13 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=13 spanning 3 until 14 headed by 4 parsed as (NP (NP (DT some) (NN animation)) (PP (IN of) (SBAR (WHNP (WP what)) (S (VP (MD will) (VP (VB happen) (PP (IN about) (NP (NP (CD seven) (NNS months)) (PP (IN from) (ADVP (RB now)))))))))))
+sid=13 spanning 9 until 14 headed by 9 parsed as about
+sid=13 spanning 15 until 19 headed by 18 parsed as (NP (DT this) (JJ tiny) (JJ little) (NN lander))
+sid=14 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ entire) (NN spacecraft))
+sid=14 spanning 5 until 7 headed by 6 parsed as (NP (CD five) (NNS feet))
+sid=14 spanning 15 until 20 headed by 19 parsed as (NP (DT a) (ADJP (RB fairly) (JJ large)) (NN shipping) (NN crate))
+sid=15 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=15 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NNP Red) (NNP Planet))))
+sid=15 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP Red) (NNP Planet))
+sid=15 spanning 14 until 16 headed by 15 parsed as (NP (DT those) (NNS samples))
+sid=15 spanning 17 until 20 headed by 19 parsed as (NP (JJ various) (JJ scientific) (NNS instruments))
+sid=16 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN data))
+sid=16 spanning 7 until 13 headed by 10 parsed as (NP (NP (DT the) (NML (NNP European) (NNP Space)) (NNP Agency)) (PP (IN in) (NP (NNP Germany))))
+sid=16 spanning 12 until 13 headed by 12 parsed as (NP (NNP Germany))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=17 spanning 2 until 8 headed by 5 parsed as (NP (NP (DT the) (JJ first) (NNP European) (NN mission)) (PP (IN to) (NP (NNP Mars))))
+sid=17 spanning 3 until 4 headed by 3 parsed as first
+sid=17 spanning 7 until 8 headed by 7 parsed as (NP (NNP Mars))
+sid=18 spanning 7 until 19 headed by 9 parsed as (NP (NP (JJ several) (JJ American) (NNS missions)) (, ,) (NP (CD one) (NNPS Japanese)) (CC and) (NP (NP (CD one)) (PP (IN by) (NP (DT the) (NNP Soviet) (NNP Union)))))
+sid=18 spanning 7 until 10 headed by 9 parsed as (NP (JJ several) (JJ American) (NNS missions))
+sid=18 spanning 11 until 13 headed by 12 parsed as (NP (CD one) (NNPS Japanese))
+sid=18 spanning 14 until 19 headed by 14 parsed as (NP (NP (CD one)) (PP (IN by) (NP (DT the) (NNP Soviet) (NNP Union))))
+sid=18 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP Soviet) (NNP Union))
+sid=18 spanning 22 until 26 headed by 25 parsed as (NP (DT some) (ADJP (RB very) (JJ limited)) (NN success))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (NNP Mars))
+sid=19 spanning 2 until 7 headed by 4 parsed as (NP (NP (DT a) (JJ tough) (NN place)) (SBAR (S (VP (TO to) (VP (VB explore))))))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=20 spanning 3 until 6 headed by 3 parsed as (NP (NP (NNP December)) (PP (IN of) (NP (CD 1998))))
+sid=20 spanning 7 until 8 headed by 7 parsed as (NP (PRP I))
+sid=20 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (NNP Mars) (NNP Polar) (NNP Lander))
+sid=20 spanning 16 until 20 headed by 19 parsed as (NP (DT a) (ADJP (RB very) (JJ unsuccessful)) (NN conclusion))
+sid=20 spanning 21 until 27 headed by 22 parsed as (NP (NP (PRP$ its) (NN flight)) (PP (IN to) (NP (DT the) (NNP Red) (NNP Planet))))
+sid=20 spanning 21 until 22 headed by 21 parsed as (PRP$ its)
+sid=20 spanning 24 until 27 headed by 26 parsed as (NP (DT the) (NNP Red) (NNP Planet))
+sid=20 spanning 30 until 36 headed by 30 parsed as (NP (NP (NN part)) (PP (IN of) (NP (DT a) (JJ disasterous) (NNP Mars) (NN season))))
+sid=20 spanning 32 until 36 headed by 35 parsed as (NP (DT a) (JJ disasterous) (NNP Mars) (NN season))
+sid=20 spanning 34 until 35 headed by 34 parsed as Mars
+(end predicted mentions)
+---------gold clusters--------
+2 9 3 | { 'a rocket' 'it' 'it' }
+11 6 10 16 4 | { 'its' 'it' 'The Mars Express on its way on a seven - month journey to the red planet' 'It' 'a European Mars observetory' }
+17 20 25 26 23 24 | { 'a lander known as Beagle Two , named after Charles Darwin which he sailed to the island and went into its bit of fame' 'The Beagle Two' 'The entire spacecraft' 'it' 'it' 'this tiny little lander' }
+7 0 | { ''s' ''s' }
+32 31 | { 'its' 'the Mars Polar Lander' }
+8 1 | { 'the launch' 'the launch of a rocket' }
+13 14 | { 'An orbiter called Mars Express .' 'It' }
+27 21 | { 'the surface of the Red Planet' 'the surface of Mars' }
+19 18 | { 'he' 'Charles Darwin' }
+22 5 33 34 30 12 15 28 29 | { 'Mars' 'Mars' 'the Red Planet' 'Mars' 'Mars' 'the red planet' 'the red planet' 'the Red Planet' 'Mars' }
+(end gold clusters)

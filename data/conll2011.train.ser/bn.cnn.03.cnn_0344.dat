@@ -1,0 +1,61 @@
+---------gloss--------
+(0) [4m[31m{Another blast , a massive blast in northern Chechnya which killed 37 people and injured nearly 200 others .}[0m 
+(1) News of [4m[31m{that}[0m begins today 's time line . 
+(2) [4m[31m{That}[0m occurred at 2 a.m. Eastern time . 
+(3) Russian officials say a suicide bomber drove [4m[32m{a truck packed with explosives}[0m into [4m[33m{government buildings in Chechnya}[0m . 
+(4) President Putin blames [4m[31m{the attack}[0m on Chechnyan rebels . 
+(5) [4m[32m{The truck}[0m drew fire after driving past a security checkpoint and through a wall barricading [4m[33m{the buildings}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0344); part 000
+sentences:
+AnotheranotherDTOPER0blastblastNNOPER0,,,OPER0aaDTOPER0massivemassiveJJOPER0blastblastNNOPER0ininINOPER0northernnorthernJJOPER0ChechnyaChechnyaNNPGPEPER0whichwhichWDTOPER0killedkillVBDOPER03737CDCARDINALPER0peoplepeopleNNSOPER0andandCCOPER0injuredinjureVBDOPER0nearlynearlyRBCARDINALPER0200200CDCARDINALPER0othersotherNNSOPER0...OPER0(ROOT (NP (NP (DT Another) (NN blast)) (, ,) (NP (NP (DT a) (JJ massive) (NN blast)) (PP (IN in) (NP (NP (JJ northern) (NNP Chechnya)) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD killed) (NP (CD 37) (NNS people))) (CC and) (VP (VBD injured) (NP (QP (RB nearly) (CD 200)) (NNS others))))))))) (. .)))
+NewsnewsNNOPER0ofofINOPER0thatthatDTOPER0beginsbeginVBZOPER0todaytodayNNDATEPER0's'sPOSOPER0timetimeNNOPER0linelineNNOPER0...OPER0(ROOT (S (NP (NP (NN News)) (PP (IN of) (NP (DT that)))) (VP (VBZ begins) (NP (NP (NN today) (POS 's)) (NN time) (NN line))) (. .)))
+ThatthatDTOPER0occurredoccurVBDOPER0atatINOPER022CDTIMEPER0a.m.a.m.NNTIMEPER0EasterneasternJJTIMEPER0timetimeNNTIMEPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBD occurred) (PP (IN at) (NP (NP (CD 2) (NN a.m.)) (NP (JJ Eastern) (NN time))))) (. .)))
+RussianrussianJJOPER0officialsofficialNNSOPER0saysayVBPOPER0aaDTOPER0suicidesuicideNNOPER0bomberbomberNNOPER0drovedriveVBDOPER0aaDTOPER0trucktruckNNOPER0packedpackVBNOPER0withwithINOPER0explosivesexplosiveNNSOPER0intointoINOPER0governmentgovernmentNNOPER0buildingsbuildingNNSOPER0ininINOPER0ChechnyaChechnyaNNPGPEPER0...OPER0(ROOT (S (NP (JJ Russian) (NNS officials)) (VP (VBP say) (SBAR (S (NP (DT a) (NN suicide) (NN bomber)) (VP (VBD drove) (NP (NP (DT a) (NN truck)) (VP (VBN packed) (PP (IN with) (NP (NNS explosives))))) (PP (IN into) (NP (NP (NN government) (NNS buildings)) (PP (IN in) (NP (NNP Chechnya))))))))) (. .)))
+PresidentPresidentNNPOPER0PutinPutinNNPPERSONPER0blamesblameVBZOPER0thetheDTOPER0attackattackNNOPER0ononINOPER0ChechnyanChechnyanNNPOPER0rebelsrebelNNSOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Putin)) (VP (VBZ blames) (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (NNP Chechnyan) (NNS rebels))))) (. .)))
+ThetheDTOPER0trucktruckNNOPER0drewdrawVBDOPER0firefireNNOPER0afterafterINOPER0drivingdriveVBGOPER0pastpastINOPER0aaDTOPER0securitysecurityNNOPER0checkpointcheckpointNNOPER0andandCCOPER0throughthroughINOPER0aaDTOPER0wallwallNNOPER0barricadingbarricadeVBGOPER0thetheDTOPER0buildingsbuildingNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN truck)) (VP (VBD drew) (NP (NN fire)) (PP (IN after) (S (VP (VBG driving) (PP (PP (IN past) (NP (DT a) (NN security) (NN checkpoint))) (CC and) (PP (IN through) (NP (NP (DT a) (NN wall)) (VP (VBG barricading) (NP (DT the) (NNS buildings)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 19 headed by 1 parsed as (NP (NP (DT Another) (NN blast)) (, ,) (NP (NP (DT a) (JJ massive) (NN blast)) (PP (IN in) (NP (NP (JJ northern) (NNP Chechnya)) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD killed) (NP (CD 37) (NNS people))) (CC and) (VP (VBD injured) (NP (QP (RB nearly) (CD 200)) (NNS others))))))))) (. .))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (DT that))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=3 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT a) (NN truck)) (VP (VBN packed) (PP (IN with) (NP (NNS explosives)))))
+sid=3 spanning 13 until 17 headed by 14 parsed as (NP (NP (NN government) (NNS buildings)) (PP (IN in) (NP (NNP Chechnya))))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (NNP Chechnyan) (NNS rebels))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN truck))
+sid=5 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NNS buildings))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 19 headed by 1 parsed as (NP (NP (DT Another) (NN blast)) (, ,) (NP (NP (DT a) (JJ massive) (NN blast)) (PP (IN in) (NP (NP (JJ northern) (NNP Chechnya)) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD killed) (NP (CD 37) (NNS people))) (CC and) (VP (VBD injured) (NP (QP (RB nearly) (CD 200)) (NNS others))))))))) (. .))
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT Another) (NN blast))
+sid=0 spanning 3 until 18 headed by 5 parsed as (NP (NP (DT a) (JJ massive) (NN blast)) (PP (IN in) (NP (NP (JJ northern) (NNP Chechnya)) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD killed) (NP (CD 37) (NNS people))) (CC and) (VP (VBD injured) (NP (QP (RB nearly) (CD 200)) (NNS others)))))))))
+sid=0 spanning 7 until 18 headed by 8 parsed as (NP (NP (JJ northern) (NNP Chechnya)) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD killed) (NP (CD 37) (NNS people))) (CC and) (VP (VBD injured) (NP (QP (RB nearly) (CD 200)) (NNS others)))))))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (CD 37) (NNS people))
+sid=0 spanning 15 until 18 headed by 17 parsed as (NP (QP (RB nearly) (CD 200)) (NNS others))
+sid=1 spanning 0 until 3 headed by 0 parsed as (NP (NP (NN News)) (PP (IN of) (NP (DT that))))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (DT that))
+sid=1 spanning 4 until 8 headed by 7 parsed as (NP (NP (NN today) (POS 's)) (NN time) (NN line))
+sid=1 spanning 4 until 6 headed by 4 parsed as (NP (NN today) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=2 spanning 3 until 7 headed by 4 parsed as (NP (NP (CD 2) (NN a.m.)) (NP (JJ Eastern) (NN time)))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Russian) (NNS officials))
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (DT a) (NN suicide) (NN bomber))
+sid=3 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT a) (NN truck)) (VP (VBN packed) (PP (IN with) (NP (NNS explosives)))))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNS explosives))
+sid=3 spanning 13 until 17 headed by 14 parsed as (NP (NP (NN government) (NNS buildings)) (PP (IN in) (NP (NNP Chechnya))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Chechnya))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Putin))
+sid=4 spanning 3 until 8 headed by 4 parsed as (NP (NP (DT the) (NN attack)) (PP (IN on) (NP (NNP Chechnyan) (NNS rebels))))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (NNP Chechnyan) (NNS rebels))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN truck))
+sid=5 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (NN security) (NN checkpoint))
+sid=5 spanning 12 until 17 headed by 13 parsed as (NP (NP (DT a) (NN wall)) (VP (VBG barricading) (NP (DT the) (NNS buildings))))
+sid=5 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NNS buildings))
+(end predicted mentions)
+---------gold clusters--------
+0 5 1 2 | { 'Another blast , a massive blast in northern Chechnya which killed 37 people and injured nearly 200 others .' 'the attack' 'that' 'That' }
+6 3 | { 'The truck' 'a truck packed with explosives' }
+4 7 | { 'government buildings in Chechnya' 'the buildings' }
+(end gold clusters)

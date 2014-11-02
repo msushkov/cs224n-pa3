@@ -1,0 +1,51 @@
+---------gloss--------
+(0) [4m[31m{5,400 sailors and Marines}[0m are back at home after serving in Iraq . 
+(1) [4m[31m{They}[0m 're the crew of [3m[36m{the `` USS Harry S. Truman}[0m . '' 
+(2) [4m[31m{They}[0m have reunited with [4m[31m{their}[0m families and friends , at [3m[36m{the aircraft carrier 's}[0m home port in Norfolk , Virginia . 
+(3) [3m[36m{The `` Truman ''}[0m is the first East Coast - based carrier to return from the war . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0225); part 000
+sentences:
+5,4005,400CDCARDINALPER0sailorssailorNNSOPER0andandCCOPER0MarinesMarinesNNPSORGPER0arebeVBPOPER0backbackRBOPER0atatINOPER0homehomeNNOPER0afterafterINOPER0servingserveVBGOPER0ininINOPER0IraqIraqNNPGPEPER0...OPER0(ROOT (S (NP (CD 5,400) (NNS sailors) (CC and) (NNPS Marines)) (VP (VBP are) (ADVP (RB back) (PP (IN at) (NP (NN home)))) (PP (IN after) (S (VP (VBG serving) (PP (IN in) (NP (NNP Iraq))))))) (. .)))
+TheytheyPRPOPER0'rebeVBPOPER0thetheDTOPER0crewcrewNNOPER0ofofINOPER0thetheDTOPER0``````OUSSUSSNNPPRODUCTPER1HarryHarryNNPPERSONPER1S.S.NNPPERSONPER1TrumanTrumanNNPPERSONPER1...OPER1''''''OPER0(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NP (DT the) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Harry) (NNP S.) (NNP Truman))))) (. .) ('' '')))
+TheytheyPRPOPER0havehaveVBPOPER0reunitedreuniteVBNOPER0withwithINOPER0theirtheyPRP$OPER0familiesfamilyNNSOPER0andandCCOPER0friendsfriendNNSOPER0,,,OPER0atatINOPER0thetheDTOPER0aircraftaircraftNNOPER0carriercarrierNNOPER0's'sPOSOPER0homehomeNNOPER0portportNNOPER0ininINOPER0NorfolkNorfolkNNPGPEPER0,,,OPER0VirginiaVirginiaNNPGPEPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (NP (PRP$ their) (NNS families)) (CC and) (NP (NNS friends)))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))))))) (. .)))
+ThetheDTOPER0``````OTrumanTrumanNNPWORK_OF_ARTPER2''''''OPER0isbeVBZOPER0thetheDTOPER0firstfirstJJOPER0EastEastNNPLOCPER0CoastCoastNNPLOCPER0--HYPHOPER0basedbaseVBNOPER0carriercarrierNNOPER0totoTOOPER0returnreturnVBOPER0fromfromINOPER0thetheDTOPER0warwarNNOPER0...OPER0(ROOT (S (NP (DT The) (`` ``) (NNP Truman) ('' '')) (VP (VBZ is) (S (NP (DT the) (JJ first) (ADJP (NML (NNP East) (NNP Coast)) (HYPH -) (VBN based)) (NN carrier)) (VP (TO to) (VP (VB return) (PP (IN from) (NP (DT the) (NN war))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (CD 5,400) (NNS sailors) (CC and) (NNPS Marines))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=1 spanning 5 until 11 headed by 10 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Harry) (NNP S.) (NNP Truman))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 4 until 5 headed by 4 parsed as their
+sid=2 spanning 10 until 14 headed by 12 parsed as (NP (DT the) (NN aircraft) (NN carrier) (POS 's))
+sid=3 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (`` ``) (NNP Truman) ('' ''))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (CD 5,400) (NNS sailors) (CC and) (NNPS Marines))
+sid=0 spanning 3 until 4 headed by 3 parsed as Marines
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Iraq))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=1 spanning 2 until 11 headed by 3 parsed as (NP (NP (DT the) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Harry) (NNP S.) (NNP Truman))))
+sid=1 spanning 5 until 11 headed by 10 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Harry) (NNP S.) (NNP Truman))
+sid=1 spanning 7 until 8 headed by 7 parsed as USS
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 4 until 8 headed by 5 parsed as (NP (NP (PRP$ their) (NNS families)) (CC and) (NP (NNS friends)))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ their) (NNS families))
+sid=2 spanning 4 until 5 headed by 4 parsed as (PRP$ their)
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNS friends))
+sid=2 spanning 10 until 20 headed by 15 parsed as (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))))
+sid=2 spanning 10 until 14 headed by 12 parsed as (NP (DT the) (NN aircraft) (NN carrier) (POS 's))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))
+sid=2 spanning 17 until 20 headed by 17 parsed as (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (NNP Virginia))
+sid=3 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (`` ``) (NNP Truman) ('' ''))
+sid=3 spanning 5 until 12 headed by 11 parsed as (NP (DT the) (JJ first) (ADJP (NML (NNP East) (NNP Coast)) (HYPH -) (VBN based)) (NN carrier))
+sid=3 spanning 7 until 9 headed by 8 parsed as Coast
+sid=3 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN war))
+(end predicted mentions)
+---------gold clusters--------
+5 2 6 | { 'the aircraft carrier 's' 'the `` USS Harry S. Truman' 'The `` Truman ''' }
+4 3 1 0 | { 'their' 'They' 'They' '5,400 sailors and Marines' }
+(end gold clusters)

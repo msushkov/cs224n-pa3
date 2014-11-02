@@ -1,0 +1,72 @@
+---------gloss--------
+(0) [3m[36m{Viatech Inc.}[0m said [3m[36m{it}[0m received [3m[35m{approval}[0m from [4m[33m{the French government}[0m for [3m[36m{its}[0m proposed $ 44.7 million acquisition of [4m[31m{Ferembal S.A}[0m . 
+(1) [3m[35m{The approval}[0m satisfies the remaining conditions of [4m[32m{the purchase , which is expected to close within two weeks}[0m . 
+(2) [4m[31m{erembal , the second - largest maker of food cans in France ,}[0m had 1988 sales of $ 150 million . 
+(3) [4m[31m{Ferembal}[0m has 930 workers at four canning manufacturing plants and one plastic container facility . 
+(4) [3m[36m{Viatech}[0m makes flexible packaging films and machinery , and materials for the food and pharmaceutical industries . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1592); part 000
+sentences:
+ViatechViatechNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0receivedreceiveVBDOPER0approvalapprovalNNOPER0fromfromINOPER0thetheDTOPER0FrenchfrenchJJOPER0governmentgovernmentNNOPER0forforINOPER0itsitsPRP$OPER0proposedproposedJJOPER0$$$MONEYPER044.744.7CDMONEYPER0millionmillionCDMONEYPER0acquisitionacquisitionNNOPER0ofofINOPER0FerembalFerembalNNPORGPER0S.AS.ANNPORGPER0...OPER0(ROOT (S (NP (NNP Viatech) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD received) (NP (NP (NN approval)) (PP (IN from) (NP (DT the) (JJ French) (NN government)))) (PP (IN for) (NP (NP (PRP$ its) (JJ proposed) (NML (QP ($ $) (CD 44.7) (CD million))) (NN acquisition)) (PP (IN of) (NP (NNP Ferembal) (NNP S.A))))))))) (. .)))
+ThetheDTOPER0approvalapprovalNNOPER0satisfiessatisfyVBZOPER0thetheDTOPER0remainingremainVBGOPER0conditionsconditionNNSOPER0ofofINOPER0thetheDTOPER0purchasepurchaseNNOPER0,,,OPER0whichwhichWDTOPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0closecloseVBOPER0withinwithinINOPER0twotwoCDDATEPER0weeksweekNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NN approval)) (VP (VBZ satisfies) (NP (NP (DT the) (VBG remaining) (NNS conditions)) (PP (IN of) (NP (NP (DT the) (NN purchase)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB close) (PP (IN within) (NP (CD two) (NNS weeks)))))))))))))) (. .)))
+erembalerembalNNPORGPER0,,,OPER0thetheDTOPER0secondsecondRBORDINALPER0--HYPHOPER0largestlargestJJSOPER0makermakerNNOPER0ofofINOPER0foodfoodNNOPER0canscanNNSOPER0ininINOPER0FranceFranceNNPGPEPER0,,,OPER0hadhaveVBDOPER019881988CDDATEPER0salessaleNNSOPER0ofofINOPER0$$$MONEYPER0150150CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NP (NNP erembal)) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest)) (NN maker)) (PP (IN of) (NP (NP (NN food) (NNS cans)) (PP (IN in) (NP (NNP France)))))) (, ,)) (VP (VBD had) (NP (NP (CD 1988) (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 150) (CD million)))))) (. .)))
+FerembalFerembalNNPORGPER0hashaveVBZOPER0930930CDCARDINALPER0workersworkerNNSOPER0atatINOPER0fourfourCDCARDINALPER0canningcanVBGOPER0manufacturingmanufacturingNNOPER0plantsplantNNSOPER0andandCCOPER0oneoneCDOPER0plasticplasticNNOPER0containercontainerNNOPER0facilityfacilityNNOPER0...OPER0(ROOT (S (NP (NNP Ferembal)) (VP (VBZ has) (NP (NP (CD 930) (NNS workers)) (PP (IN at) (NP (NP (CD four) (VBG canning) (NN manufacturing) (NNS plants)) (CC and) (NP (CD one) (NML (NN plastic) (NN container)) (NN facility)))))) (. .)))
+ViatechViatechNNPORGPER0makesmakeVBZOPER0flexibleflexibleJJOPER0packagingpackagingNNOPER0filmsfilmNNSOPER0andandCCOPER0machinerymachineryNNOPER0,,,OPER0andandCCOPER0materialsmaterialNNSOPER0forforINOPER0thetheDTOPER0foodfoodNNOPER0andandCCOPER0pharmaceuticalpharmaceuticalNNOPER0industriesindustryNNSOPER0...OPER0(ROOT (S (NP (NNP Viatech)) (VP (VBZ makes) (NP (NP (NP (JJ flexible) (NN packaging) (NNS films)) (CC and) (NP (NN machinery))) (, ,) (CC and) (NP (NP (NNS materials)) (PP (IN for) (NP (DT the) (NML (NN food) (CC and) (NN pharmaceutical)) (NNS industries)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Viatech) (NNP Inc.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NP (NN approval)) (PP (IN from) (NP (DT the) (JJ French) (NN government))))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ French) (NN government))
+sid=0 spanning 11 until 20 headed by 16 parsed as (NP (NP (PRP$ its) (JJ proposed) (NML (QP ($ $) (CD 44.7) (CD million))) (NN acquisition)) (PP (IN of) (NP (NNP Ferembal) (NNP S.A))))
+sid=0 spanning 11 until 12 headed by 11 parsed as its
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (NNP Ferembal) (NNP S.A))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN approval))
+sid=1 spanning 7 until 18 headed by 8 parsed as (NP (NP (DT the) (NN purchase)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB close) (PP (IN within) (NP (CD two) (NNS weeks)))))))))))
+sid=2 spanning 0 until 13 headed by 0 parsed as (NP (NP (NNP erembal)) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest)) (NN maker)) (PP (IN of) (NP (NP (NN food) (NNS cans)) (PP (IN in) (NP (NNP France)))))) (, ,))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP France))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Ferembal))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Viatech))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Viatech) (NNP Inc.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 5 until 10 headed by 5 parsed as (NP (NP (NN approval)) (PP (IN from) (NP (DT the) (JJ French) (NN government))))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ French) (NN government))
+sid=0 spanning 11 until 20 headed by 16 parsed as (NP (NP (PRP$ its) (JJ proposed) (NML (QP ($ $) (CD 44.7) (CD million))) (NN acquisition)) (PP (IN of) (NP (NNP Ferembal) (NNP S.A))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (NNP Ferembal) (NNP S.A))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN approval))
+sid=1 spanning 3 until 18 headed by 5 parsed as (NP (NP (DT the) (VBG remaining) (NNS conditions)) (PP (IN of) (NP (NP (DT the) (NN purchase)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB close) (PP (IN within) (NP (CD two) (NNS weeks)))))))))))))
+sid=1 spanning 7 until 18 headed by 8 parsed as (NP (NP (DT the) (NN purchase)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB close) (PP (IN within) (NP (CD two) (NNS weeks)))))))))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN purchase))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (CD two) (NNS weeks))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP erembal)) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest)) (NN maker)) (PP (IN of) (NP (NP (NN food) (NNS cans)) (PP (IN in) (NP (NNP France)))))) (, ,))
+sid=2 spanning 0 until 13 headed by 0 parsed as (NP (NP (NNP erembal)) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest)) (NN maker)) (PP (IN of) (NP (NP (NN food) (NNS cans)) (PP (IN in) (NP (NNP France)))))) (, ,))
+sid=2 spanning 2 until 12 headed by 6 parsed as (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest)) (NN maker)) (PP (IN of) (NP (NP (NN food) (NNS cans)) (PP (IN in) (NP (NNP France))))))
+sid=2 spanning 3 until 4 headed by 3 parsed as second
+sid=2 spanning 8 until 12 headed by 9 parsed as (NP (NP (NN food) (NNS cans)) (PP (IN in) (NP (NNP France))))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP France))
+sid=2 spanning 14 until 20 headed by 15 parsed as (NP (NP (CD 1988) (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 150) (CD million)))))
+sid=2 spanning 14 until 15 headed by 14 parsed as 1988
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Ferembal))
+sid=3 spanning 2 until 14 headed by 3 parsed as (NP (NP (CD 930) (NNS workers)) (PP (IN at) (NP (NP (CD four) (VBG canning) (NN manufacturing) (NNS plants)) (CC and) (NP (CD one) (NML (NN plastic) (NN container)) (NN facility)))))
+sid=3 spanning 5 until 14 headed by 8 parsed as (NP (NP (CD four) (VBG canning) (NN manufacturing) (NNS plants)) (CC and) (NP (CD one) (NML (NN plastic) (NN container)) (NN facility)))
+sid=3 spanning 5 until 9 headed by 8 parsed as (NP (CD four) (VBG canning) (NN manufacturing) (NNS plants))
+sid=3 spanning 10 until 14 headed by 13 parsed as (NP (CD one) (NML (NN plastic) (NN container)) (NN facility))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Viatech))
+sid=4 spanning 2 until 16 headed by 4 parsed as (NP (NP (NP (JJ flexible) (NN packaging) (NNS films)) (CC and) (NP (NN machinery))) (, ,) (CC and) (NP (NP (NNS materials)) (PP (IN for) (NP (DT the) (NML (NN food) (CC and) (NN pharmaceutical)) (NNS industries)))))
+sid=4 spanning 2 until 7 headed by 4 parsed as (NP (NP (JJ flexible) (NN packaging) (NNS films)) (CC and) (NP (NN machinery)))
+sid=4 spanning 2 until 5 headed by 4 parsed as (NP (JJ flexible) (NN packaging) (NNS films))
+sid=4 spanning 9 until 16 headed by 9 parsed as (NP (NP (NNS materials)) (PP (IN for) (NP (DT the) (NML (NN food) (CC and) (NN pharmaceutical)) (NNS industries))))
+sid=4 spanning 11 until 16 headed by 15 parsed as (NP (DT the) (NML (NN food) (CC and) (NN pharmaceutical)) (NNS industries))
+(end predicted mentions)
+---------gold clusters--------
+7 2 | { 'The approval' 'approval' }
+0 1 12 5 | { 'Viatech Inc.' 'it' 'Viatech' 'its' }
+11 9 6 | { 'Ferembal' 'erembal , the second - largest maker of food cans in France ,' 'Ferembal S.A' }
+4 8 | { 'its proposed $ 44.7 million acquisition of Ferembal S.A' 'the purchase , which is expected to close within two weeks' }
+10 3 | { 'France' 'the French government' }
+(end gold clusters)

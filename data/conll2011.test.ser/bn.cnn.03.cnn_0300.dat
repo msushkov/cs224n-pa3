@@ -1,0 +1,39 @@
+---------gloss--------
+(0) Now Saddam Hussein 's regime is no more , the focus in [4m[33m{Iraq}[0m is turning from military action to rebuilding which means the coalition 's role in [4m[33m{the country}[0m will have to change . 
+(1) [4m[34m{Military analyst and retired Army General Claudia Kennedy}[0m joins me with a look at possibilitys . 
+(2) Good to have [4m[34m{you}[0m with us . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0300); part 000
+sentences:
+NownowRBOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0's'sPOSPERSONPER0regimeregimeNNOPER0isbeVBZOPER0nonoRBOPER0moremoreRBROPER0,,,OPER0thetheDTOPER0focusfocusNNOPER0ininINOPER0IraqIraqNNPGPEPER0isbeVBZOPER0turningturnVBGOPER0fromfromINOPER0militarymilitaryJJOPER0actionactionNNOPER0totoINOPER0rebuildingrebuildVBGOPER0whichwhichWDTOPER0meansmeanVBZOPER0thetheDTOPER0coalitioncoalitionNNOPER0's'sPOSOPER0roleroleNNOPER0ininINOPER0thetheDTOPER0countrycountryNNOPER0willwillMDOPER0havehaveVBOPER0totoTOOPER0changechangeVBOPER0...OPER0(ROOT (S (ADVP (RB Now) (SBAR (S (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (NN regime)) (VP (VBZ is) (ADVP (RB no) (RBR more)))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NNP Iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (IN to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .)))
+MilitarymilitaryJJOPER0analystanalystNNOPER0andandCCOPER0retiredretireVBNOPER0ArmyArmyNNPORGPER0GeneralGeneralNNPOPER0ClaudiaClaudiaNNPPERSONPER0KennedyKennedyNNPPERSONPER0joinsjoinVBZOPER0meIPRPOPER0withwithINOPER0aaDTOPER0looklookNNOPER0atatINOPER0possibilityspossibilityNNSOPER0...OPER0(ROOT (S (NP (NP (JJ Military) (NN analyst)) (CC and) (NP (NML (VBN retired) (NNP Army) (NNP General)) (NNP Claudia) (NNP Kennedy))) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))) (. .)))
+GoodgoodJJOPER0totoTOOPER0havehaveVBOPER0youyouPRPOPER0withwithINOPER0uswePRPOPER0...OPER0(ROOT (FRAG (ADJP (JJ Good)) (S (VP (TO to) (VP (VB have) (NP (PRP you)) (PP (IN with) (NP (PRP us)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Iraq))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN country))
+sid=1 spanning 0 until 8 headed by 1 parsed as (NP (NP (JJ Military) (NN analyst)) (CC and) (NP (NML (VBN retired) (NNP Army) (NNP General)) (NNP Claudia) (NNP Kennedy)))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 5 headed by 4 parsed as (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (NN regime))
+sid=0 spanning 1 until 4 headed by 2 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+sid=0 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NNP Iraq))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Iraq))
+sid=0 spanning 22 until 29 headed by 25 parsed as (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country))))
+sid=0 spanning 22 until 25 headed by 23 parsed as (NP (DT the) (NN coalition) (POS 's))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN country))
+sid=1 spanning 3 until 8 headed by 7 parsed as (NP (NML (VBN retired) (NNP Army) (NNP General)) (NNP Claudia) (NNP Kennedy))
+sid=1 spanning 4 until 5 headed by 4 parsed as Army
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP me))
+sid=1 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNS possibilitys))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (PRP us))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Iraq' 'the country' }
+3 2 | { 'you' 'Military analyst and retired Army General Claudia Kennedy' }
+(end gold clusters)

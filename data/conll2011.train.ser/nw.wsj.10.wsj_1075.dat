@@ -1,0 +1,38 @@
+---------gloss--------
+(0) [33m{Birmingham Steel Corp.}[0m said that [33m{its}[0m Emeryville , Calif. , minimill sustained only minor damage from last week 's earthquake . 
+(1) Steelmaking resumed Oct. 18 , but [33m{the company}[0m expects production to be hampered in the next few months by traffic disruptions around [34m{the plant}[0m and outages for repair to gas and electric power systems . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1075); part 000
+sentences:
+BirminghamBirminghamNNPORGPER0SteelSteelNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0thatthatINOPER0itsitsPRP$OPER0EmeryvilleEmeryvilleNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0,,,OPER0minimillminimillNNOPER0sustainedsustainVBDOPER0onlyonlyRBOPER0minorminorJJOPER0damagedamageNNOPER0fromfromINOPER0lastlastJJDATEPER0weekweekNNDATEPER0's'sPOSDATEPER0earthquakeearthquakeNNOPER0...OPER0(ROOT (S (NP (NNP Birmingham) (NNP Steel) (NNP Corp.)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP$ its) (NML (NNP Emeryville) (, ,) (NNP Calif.) (, ,)) (NN minimill)) (VP (VBD sustained) (NP (NP (ADJP (RB only) (JJ minor)) (NN damage)) (PP (IN from) (NP (NP (JJ last) (NN week) (POS 's)) (NN earthquake)))))))) (. .)))
+SteelmakingsteelmakingNNOPER0resumedresumeVBDOPER0Oct.Oct.NNPDATEPER01818CDDATEPER0,,,OPER0butbutCCOPER0thetheDTOPER0companycompanyNNOPER0expectsexpectVBZOPER0productionproductionNNOPER0totoTOOPER0bebeVBOPER0hamperedhamperVBNOPER0ininINOPER0thetheDTDATEPER0nextnextJJDATEPER0fewfewJJDATEPER0monthsmonthNNSDATEPER0bybyINOPER0traffictrafficNNOPER0disruptionsdisruptionNNSOPER0aroundaroundINOPER0thetheDTOPER0plantplantNNOPER0andandCCOPER0outagesoutageVBZOPER0forforINOPER0repairrepairNNOPER0totoINOPER0gasgasNNOPER0andandCCOPER0electricelectricJJOPER0powerpowerNNOPER0systemssystemNNSOPER0...OPER0(ROOT (S (S (NP (NN Steelmaking)) (VP (VBD resumed) (NP (NNP Oct.) (CD 18)))) (, ,) (CC but) (S (NP (DT the) (NN company)) (VP (VP (VBZ expects) (S (NP (NN production)) (VP (TO to) (VP (VB be) (VP (VBN hampered) (PP (IN in) (NP (DT the) (JJ next) (JJ few) (NNS months))) (PP (IN by) (NP (NP (NN traffic) (NNS disruptions)) (PP (IN around) (NP (DT the) (NN plant)))))))))) (CC and) (VP (VBZ outages) (PP (IN for) (NP (NN repair))) (PP (IN to) (NP (NML (NP (NN gas) (CC and) (JJ electric)) (NN power)) (NNS systems)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Birmingham) (NNP Steel) (NNP Corp.))
+sid=0 spanning 5 until 11 headed by 10 parsed as (NP (PRP$ its) (NML (NNP Emeryville) (, ,) (NNP Calif.) (, ,)) (NN minimill))
+sid=0 spanning 5 until 6 headed by 5 parsed as its
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN company))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN plant))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Birmingham) (NNP Steel) (NNP Corp.))
+sid=0 spanning 5 until 11 headed by 10 parsed as (NP (PRP$ its) (NML (NNP Emeryville) (, ,) (NNP Calif.) (, ,)) (NN minimill))
+sid=0 spanning 5 until 6 headed by 5 parsed as (PRP$ its)
+sid=0 spanning 6 until 7 headed by 6 parsed as Emeryville
+sid=0 spanning 8 until 9 headed by 8 parsed as Calif.
+sid=0 spanning 12 until 20 headed by 14 parsed as (NP (NP (ADJP (RB only) (JJ minor)) (NN damage)) (PP (IN from) (NP (NP (JJ last) (NN week) (POS 's)) (NN earthquake))))
+sid=0 spanning 16 until 19 headed by 17 parsed as (NP (JJ last) (NN week) (POS 's))
+sid=1 spanning 2 until 4 headed by 2 parsed as (NP (NNP Oct.) (CD 18))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN company))
+sid=1 spanning 14 until 18 headed by 17 parsed as (NP (DT the) (JJ next) (JJ few) (NNS months))
+sid=1 spanning 19 until 24 headed by 20 parsed as (NP (NP (NN traffic) (NNS disruptions)) (PP (IN around) (NP (DT the) (NN plant))))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN plant))
+sid=1 spanning 29 until 34 headed by 33 parsed as (NP (NML (NP (NN gas) (CC and) (JJ electric)) (NN power)) (NNS systems))
+sid=1 spanning 29 until 32 headed by 29 parsed as (NP (NN gas) (CC and) (JJ electric))
+(end predicted mentions)
+---------gold clusters--------
+0 2 3 | { 'Birmingham Steel Corp.' 'its' 'the company' }
+4 1 | { 'the plant' 'its Emeryville , Calif. , minimill' }
+(end gold clusters)

@@ -1,0 +1,55 @@
+---------gloss--------
+(0) [3m[32m{Defense lawyers}[0m have attacked a prosecutions case at the [1m[36m{Lockerby}[0m bombing trial in the Netherlands . 
+(1) In closing arguments Thursday [3m[32m{attorneys for two Libyans suspected of bombing Pan Am Flight 103}[0m , said the evidence against [3m[32m{their}[0m clients does not add up , and [3m[32m{they}[0m suggested that Palestinian extremists could have staged [3m[33m{the bombing of the jet liner over Lockerby , Scotland}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0233); part 000
+sentences:
+DefensedefenseNNOPER0lawyerslawyerNNSOPER0havehaveVBPOPER0attackedattackVBNOPER0aaDTOPER0prosecutionsprosecutionNNSOPER0casecaseNNOPER0atatINOPER0thetheDTOPER0LockerbyLockerbyNNPGPEPER0bombingbombingNNOPER0trialtrialNNOPER0ininINOPER0thetheDTOPER0NetherlandsNetherlandsNNPGPEPER0...OPER0(ROOT (S (NP (NN Defense) (NNS lawyers)) (VP (VBP have) (VP (VBN attacked) (NP (DT a) (NNS prosecutions) (NN case)) (PP (IN at) (NP (NP (DT the) (NML (NNP Lockerby) (NN bombing)) (NN trial)) (PP (IN in) (NP (DT the) (NNP Netherlands))))))) (. .)))
+IninINOPER0closingclosingNNOPER0argumentsargumentNNSOPER0ThursdayThursdayNNPDATEPER0attorneysattorneyNNSOPER0forforINOPER0twotwoCDCARDINALPER0LibyansLibyansNNPSOPER0suspectedsuspectVBNOPER0ofofINOPER0bombingbombVBGOPER0PanPanNNPORGPER0AmAmNNPORGPER0FlightFlightNNPOPER0103103CDOPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0evidenceevidenceNNOPER0againstagainstINOPER0theirtheyPRP$OPER0clientsclientNNSOPER0doesdoVBZOPER0notnotRBOPER0addaddVBOPER0upupRPOPER0,,,OPER0andandCCOPER0theytheyPRPOPER0suggestedsuggestVBDOPER0thatthatINOPER0PalestinianpalestinianJJOPER0extremistsextremistNNSOPER0couldcouldMDOPER0havehaveVBOPER0stagedstageVBNOPER0thetheDTOPER0bombingbombingNNOPER0ofofINOPER0thetheDTOPER0jetjetNNOPER0linerlinerNNOPER0overoverINOPER0LockerbyLockerbyNNPGPEPER0,,,OPER0ScotlandScotlandNNPGPEPER0...OPER0(ROOT (S (PP (IN In) (NP (NN closing) (NNS arguments))) (NP (NP (NNP Thursday) (NNS attorneys)) (PP (IN for) (NP (NP (CD two) (NNPS Libyans)) (VP (VBN suspected) (PP (IN of) (S (VP (VBG bombing) (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103))))))))) (, ,) (VP (VBD said) (SBAR (S (S (NP (NP (DT the) (NN evidence)) (PP (IN against) (NP (PRP$ their) (NNS clients)))) (VP (VBZ does) (RB not) (VP (VB add) (PRT (RP up))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBD suggested) (SBAR (IN that) (S (NP (JJ Palestinian) (NNS extremists)) (VP (MD could) (VP (VB have) (VP (VBN staged) (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (DT the) (NN jet) (NN liner))) (PP (IN over) (NP (NP (NNP Lockerby)) (, ,) (NP (NNP Scotland))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NN Defense) (NNS lawyers))
+sid=0 spanning 9 until 10 headed by 9 parsed as Lockerby
+sid=1 spanning 4 until 15 headed by 4 parsed as (NP (NP (NNP Thursday) (NNS attorneys)) (PP (IN for) (NP (NP (CD two) (NNPS Libyans)) (VP (VBN suspected) (PP (IN of) (S (VP (VBG bombing) (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)))))))))
+sid=1 spanning 6 until 15 headed by 7 parsed as (NP (NP (CD two) (NNPS Libyans)) (VP (VBN suspected) (PP (IN of) (S (VP (VBG bombing) (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)))))))
+sid=1 spanning 10 until 11 headed by 10 parsed as bombing
+sid=1 spanning 11 until 15 headed by 13 parsed as (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (PRP$ their) (NNS clients))
+sid=1 spanning 20 until 21 headed by 20 parsed as their
+sid=1 spanning 28 until 29 headed by 28 parsed as (NP (PRP they))
+sid=1 spanning 36 until 46 headed by 37 parsed as (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (DT the) (NN jet) (NN liner))) (PP (IN over) (NP (NP (NNP Lockerby)) (, ,) (NP (NNP Scotland)))))
+sid=1 spanning 39 until 42 headed by 41 parsed as (NP (DT the) (NN jet) (NN liner))
+sid=1 spanning 43 until 46 headed by 43 parsed as (NP (NP (NNP Lockerby)) (, ,) (NP (NNP Scotland)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NN Defense) (NNS lawyers))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NNS prosecutions) (NN case))
+sid=0 spanning 8 until 15 headed by 11 parsed as (NP (NP (DT the) (NML (NNP Lockerby) (NN bombing)) (NN trial)) (PP (IN in) (NP (DT the) (NNP Netherlands))))
+sid=0 spanning 9 until 10 headed by 9 parsed as Lockerby
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNP Netherlands))
+sid=1 spanning 1 until 3 headed by 2 parsed as (NP (NN closing) (NNS arguments))
+sid=1 spanning 3 until 15 headed by 4 parsed as (NP (NP (NNP Thursday) (NNS attorneys)) (PP (IN for) (NP (NP (CD two) (NNPS Libyans)) (VP (VBN suspected) (PP (IN of) (S (VP (VBG bombing) (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)))))))))
+sid=1 spanning 3 until 4 headed by 3 parsed as Thursday
+sid=1 spanning 6 until 15 headed by 7 parsed as (NP (NP (CD two) (NNPS Libyans)) (VP (VBN suspected) (PP (IN of) (S (VP (VBG bombing) (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)))))))
+sid=1 spanning 11 until 15 headed by 13 parsed as (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103))
+sid=1 spanning 11 until 13 headed by 12 parsed as Am
+sid=1 spanning 17 until 22 headed by 18 parsed as (NP (NP (DT the) (NN evidence)) (PP (IN against) (NP (PRP$ their) (NNS clients))))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (PRP$ their) (NNS clients))
+sid=1 spanning 20 until 21 headed by 20 parsed as (PRP$ their)
+sid=1 spanning 28 until 29 headed by 28 parsed as (NP (PRP they))
+sid=1 spanning 31 until 33 headed by 32 parsed as (NP (JJ Palestinian) (NNS extremists))
+sid=1 spanning 36 until 46 headed by 37 parsed as (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (DT the) (NN jet) (NN liner))) (PP (IN over) (NP (NP (NNP Lockerby)) (, ,) (NP (NNP Scotland)))))
+sid=1 spanning 39 until 42 headed by 41 parsed as (NP (DT the) (NN jet) (NN liner))
+sid=1 spanning 43 until 44 headed by 43 parsed as (NP (NP (NNP Lockerby)) (, ,) (NP (NNP Scotland)))
+sid=1 spanning 43 until 46 headed by 43 parsed as (NP (NP (NNP Lockerby)) (, ,) (NP (NNP Scotland)))
+sid=1 spanning 45 until 46 headed by 45 parsed as (NP (NNP Scotland))
+(end predicted mentions)
+---------gold clusters--------
+11 1 | { 'Lockerby , Scotland' 'Lockerby' }
+10 5 | { 'the jet liner' 'Pan Am Flight 103' }
+8 2 0 7 | { 'they' 'attorneys for two Libyans suspected of bombing Pan Am Flight 103' 'Defense lawyers' 'their' }
+9 4 | { 'the bombing of the jet liner over Lockerby , Scotland' 'bombing' }
+3 6 | { 'two Libyans suspected of bombing Pan Am Flight 103' 'their clients' }
+(end gold clusters)

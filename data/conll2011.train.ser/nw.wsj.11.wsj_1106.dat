@@ -1,0 +1,80 @@
+---------gloss--------
+(0) [31m{Oil imports to Japan}[0m rose 12 % in September from year - earlier levels , according to statistics released by [32m{the government 's}[0m Ministry of International Trade and Industry . 
+(1) [31m{The imports , totaling 98.5 million barrels ,}[0m were 11 % lower than [33m{August}[0m levels . 
+(2) The year - on - year rise was partly because of higher demand for petroleum products , and partly because of tax changes in 1988 that left oil companies with high inventories in the late - summer / early - FALL PERIOD . 
+(3) [34m{Imports of crude from the Middle East}[0m grew 17 % from year - earlier levels , and [35m{Southeast Asian crude imports}[0m grew 43 % . 
+(4) While [34m{Mideast crude imports}[0m were higher compared with year - earlier levels , [34m{they}[0m fell 18 % compared with [33m{August}[0m imports . 
+(5) [35m{Southeast Asian crude imports}[0m , however , were 3.6 % higher than [33m{August}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1106); part 000
+sentences:
+OiloilNNOPER0importsimportNNSOPER0totoINOPER0JapanJapanNNPGPEPER0roseriseVBDOPER01212CDPERCENTPER0%%NNPERCENTPER0ininINOPER0SeptemberSeptemberNNPDATEPER0fromfromINOPER0yearyearNNDATEPER0--HYPHDATEPER0earlierearlierJJRDATEPER0levelslevelNNSOPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0statisticsstatisticsNNSOPER0releasedreleaseVBNOPER0bybyINOPER0thetheDTOPER0governmentgovernmentNNOPER0's'sPOSOPER0MinistryMinistryNNPORGPER0ofofINORGPER0InternationalInternationalNNPORGPER0TradeTradeNNPORGPER0andandCCORGPER0IndustryIndustryNNPORGPER0...OPER0(ROOT (S (NP (NP (NN Oil) (NNS imports)) (PP (IN to) (NP (NNP Japan)))) (VP (VBD rose) (NP (CD 12) (NN %)) (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (ADJP (NN year) (HYPH -) (JJR earlier)) (NNS levels))) (, ,) (PP (VBG according) (PP (IN to) (NP (NP (NNS statistics)) (VP (VBN released) (PP (IN by) (NP (NP (NP (DT the) (NN government) (POS 's)) (NNP Ministry)) (PP (IN of) (NP (NNP International) (NNP Trade) (CC and) (NNP Industry)))))))))) (. .)))
+ThetheDTOPER0importsimportNNSOPER0,,,OPER0totalingtotalVBGOPER098.598.5CDQUANTITYPER0millionmillionCDQUANTITYPER0barrelsbarrelNNSQUANTITYPER0,,,OPER0werebeVBDOPER01111CDPERCENTPER0%%NNPERCENTPER0lowerlowerJJROPER0thanthanINOPER0AugustAugustNNPDATEPER0levelslevelNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS imports)) (, ,) (VP (VBG totaling) (NP (QP (CD 98.5) (CD million)) (NNS barrels))) (, ,)) (VP (VBD were) (ADJP (ADJP (NP (CD 11) (NN %)) (JJR lower)) (PP (IN than) (NP (NNP August) (NNS levels))))) (. .)))
+ThetheDTOPER0yearyearNNDATEPER0--HYPHOPER0ononINOPER0--HYPHDATEPER0yearyearNNDATEPER0riseriseNNOPER0wasbeVBDOPER0partlypartlyRBOPER0becausebecauseINOPER0ofofINOPER0higherhigherJJROPER0demanddemandNNOPER0forforINOPER0petroleumpetroleumNNOPER0productsproductNNSOPER0,,,OPER0andandCCOPER0partlypartlyRBOPER0becausebecauseINOPER0ofofINOPER0taxtaxNNOPER0changeschangeNNSOPER0ininINOPER019881988CDDATEPER0thatthatWDTOPER0leftleaveVBDOPER0oiloilNNOPER0companiescompanyNNSOPER0withwithINOPER0highhighJJOPER0inventoriesinventoryNNSOPER0ininINOPER0thetheDTOPER0latelateJJDATEPER0--HYPHDATEPER0summersummerNNDATEPER0//SYMDATEPER0earlyearlyJJDATEPER0--HYPHDATEPER0FALLfallNNDATEPER0PERIODperiodNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (NN year) (HYPH -) (IN on) (HYPH -) (NN year)) (NN rise)) (VP (VBD was) (PP (RB partly) (PP (IN because) (IN of) (NP (NP (JJR higher) (NN demand)) (PP (IN for) (NP (NN petroleum) (NNS products))))) (, ,) (CC and) (RB partly) (PP (IN because) (IN of) (NP (NP (NP (NN tax) (NNS changes)) (PP (IN in) (NP (CD 1988)))) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (NN oil) (NNS companies)) (PP (IN with) (NP (NP (JJ high) (NNS inventories)) (PP (IN in) (NP (DT the) (NML (NML (JJ late) (HYPH -) (NN summer)) (SYM /) (NML (JJ early) (HYPH -) (NN FALL))) (NN PERIOD)))))))))))) (. .)))
+ImportsimportNNSOPER0ofofINOPER0crudecrudeNNOPER0fromfromINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0grewgrowVBDOPER01717CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0yearyearNNDATEPER0--HYPHDATEPER0earlierearlierJJRDATEPER0levelslevelNNSOPER0,,,OPER0andandCCOPER0SoutheastSoutheastNNPOPER0AsianAsianNNPOPER0crudecrudeNNOPER0importsimportNNSOPER0grewgrowVBDOPER04343CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (S (NP (NP (NNS Imports)) (PP (IN of) (NP (NN crude))) (PP (IN from) (NP (DT the) (NNP Middle) (NNP East)))) (VP (VBD grew) (NP (CD 17) (NN %)) (PP (IN from) (NP (ADJP (NN year) (HYPH -) (JJR earlier)) (NNS levels))))) (, ,) (CC and) (S (NP (NML (NML (NNP Southeast) (NNP Asian)) (NN crude)) (NNS imports)) (VP (VBD grew) (NP (CD 43) (NN %)))) (. .)))
+WhilewhileINOPER0MideastMideastNNPLOCPER0crudecrudeNNOPER0importsimportNNSOPER0werebeVBDOPER0higherhigherJJROPER0comparedcompareVBNOPER0withwithINOPER0yearyearNNDATEPER0--HYPHDATEPER0earlierearlierJJRDATEPER0levelslevelNNSOPER0,,,OPER0theytheyPRPOPER0fellfallVBDOPER01818CDPERCENTPER0%%NNPERCENTPER0comparedcompareVBNOPER0withwithINOPER0AugustAugustNNPDATEPER0importsimportNNSOPER0...OPER0(ROOT (S (SBAR (IN While) (S (NP (NNP Mideast) (NN crude) (NNS imports)) (VP (VBD were) (ADJP (JJR higher)) (PP (VBN compared) (PP (IN with) (NP (ADJP (NN year) (HYPH -) (JJR earlier)) (NNS levels))))))) (, ,) (NP (PRP they)) (VP (VBD fell) (NP (CD 18) (NN %)) (PP (VBN compared) (PP (IN with) (NP (NNP August) (NNS imports))))) (. .)))
+SoutheastsoutheastJJOPER0AsianasianJJOPER0crudecrudeNNOPER0importsimportNNSOPER0,,,OPER0howeverhoweverRBOPER0,,,OPER0werebeVBDOPER03.63.6CDPERCENTPER0%%NNPERCENTPER0higherhigherJJROPER0thanthanINOPER0AugustAugustNNPDATEPER0...OPER0(ROOT (S (NP (ADJP (JJ Southeast) (JJ Asian)) (NN crude) (NNS imports)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD were) (ADJP (ADJP (NP (CD 3.6) (NN %)) (JJR higher)) (PP (IN than) (NP (NNP August))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NP (NN Oil) (NNS imports)) (PP (IN to) (NP (NNP Japan))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Japan))
+sid=0 spanning 20 until 23 headed by 21 parsed as (NP (DT the) (NN government) (POS 's))
+sid=1 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT The) (NNS imports)) (, ,) (VP (VBG totaling) (NP (QP (CD 98.5) (CD million)) (NNS barrels))) (, ,))
+sid=1 spanning 13 until 14 headed by 13 parsed as August
+sid=3 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNS Imports)) (PP (IN of) (NP (NN crude))) (PP (IN from) (NP (DT the) (NNP Middle) (NNP East))))
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (NML (NML (NNP Southeast) (NNP Asian)) (NN crude)) (NNS imports))
+sid=4 spanning 1 until 4 headed by 3 parsed as (NP (NNP Mideast) (NN crude) (NNS imports))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (PRP they))
+sid=4 spanning 19 until 20 headed by 19 parsed as August
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (JJ Southeast) (JJ Asian)) (NN crude) (NNS imports))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNP August))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NP (NN Oil) (NNS imports)) (PP (IN to) (NP (NNP Japan))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Japan))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP September))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (ADJP (NN year) (HYPH -) (JJR earlier)) (NNS levels))
+sid=0 spanning 10 until 13 headed by 10 parsed as year
+sid=0 spanning 17 until 29 headed by 17 parsed as (NP (NP (NNS statistics)) (VP (VBN released) (PP (IN by) (NP (NP (NP (DT the) (NN government) (POS 's)) (NNP Ministry)) (PP (IN of) (NP (NNP International) (NNP Trade) (CC and) (NNP Industry)))))))
+sid=0 spanning 20 until 29 headed by 23 parsed as (NP (NP (NP (DT the) (NN government) (POS 's)) (NNP Ministry)) (PP (IN of) (NP (NNP International) (NNP Trade) (CC and) (NNP Industry))))
+sid=0 spanning 20 until 23 headed by 21 parsed as (NP (DT the) (NN government) (POS 's))
+sid=1 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT The) (NNS imports)) (, ,) (VP (VBG totaling) (NP (QP (CD 98.5) (CD million)) (NNS barrels))) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS imports))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (QP (CD 98.5) (CD million)) (NNS barrels))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (NNP August) (NNS levels))
+sid=1 spanning 13 until 14 headed by 13 parsed as August
+sid=2 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NML (NN year) (HYPH -) (IN on) (HYPH -) (NN year)) (NN rise))
+sid=2 spanning 1 until 2 headed by 1 parsed as year
+sid=2 spanning 4 until 6 headed by 5 parsed as year
+sid=2 spanning 11 until 16 headed by 12 parsed as (NP (NP (JJR higher) (NN demand)) (PP (IN for) (NP (NN petroleum) (NNS products))))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (NN petroleum) (NNS products))
+sid=2 spanning 21 until 42 headed by 22 parsed as (NP (NP (NP (NN tax) (NNS changes)) (PP (IN in) (NP (CD 1988)))) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (NN oil) (NNS companies)) (PP (IN with) (NP (NP (JJ high) (NNS inventories)) (PP (IN in) (NP (DT the) (NML (NML (JJ late) (HYPH -) (NN summer)) (SYM /) (NML (JJ early) (HYPH -) (NN FALL))) (NN PERIOD)))))))))
+sid=2 spanning 24 until 25 headed by 24 parsed as (NP (CD 1988))
+sid=2 spanning 27 until 29 headed by 28 parsed as (NP (NN oil) (NNS companies))
+sid=2 spanning 30 until 42 headed by 31 parsed as (NP (NP (JJ high) (NNS inventories)) (PP (IN in) (NP (DT the) (NML (NML (JJ late) (HYPH -) (NN summer)) (SYM /) (NML (JJ early) (HYPH -) (NN FALL))) (NN PERIOD))))
+sid=2 spanning 33 until 42 headed by 41 parsed as (NP (DT the) (NML (NML (JJ late) (HYPH -) (NN summer)) (SYM /) (NML (JJ early) (HYPH -) (NN FALL))) (NN PERIOD))
+sid=2 spanning 34 until 41 headed by 40 parsed as FALL
+sid=3 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNS Imports)) (PP (IN of) (NP (NN crude))) (PP (IN from) (NP (DT the) (NNP Middle) (NNP East))))
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=3 spanning 11 until 15 headed by 14 parsed as (NP (ADJP (NN year) (HYPH -) (JJR earlier)) (NNS levels))
+sid=3 spanning 11 until 14 headed by 11 parsed as year
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (NML (NML (NNP Southeast) (NNP Asian)) (NN crude)) (NNS imports))
+sid=4 spanning 1 until 4 headed by 3 parsed as (NP (NNP Mideast) (NN crude) (NNS imports))
+sid=4 spanning 1 until 2 headed by 1 parsed as Mideast
+sid=4 spanning 8 until 12 headed by 11 parsed as (NP (ADJP (NN year) (HYPH -) (JJR earlier)) (NNS levels))
+sid=4 spanning 8 until 11 headed by 8 parsed as year
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (PRP they))
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (NNP August) (NNS imports))
+sid=4 spanning 19 until 20 headed by 19 parsed as August
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (JJ Southeast) (JJ Asian)) (NN crude) (NNS imports))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNP August))
+(end predicted mentions)
+---------gold clusters--------
+3 0 | { 'The imports , totaling 98.5 million barrels ,' 'Oil imports to Japan' }
+1 2 | { 'Japan' 'the government 's' }
+11 9 4 | { 'August' 'August' 'August' }
+7 5 8 | { 'Mideast crude imports' 'Imports of crude from the Middle East' 'they' }
+6 10 | { 'Southeast Asian crude imports' 'Southeast Asian crude imports' }
+(end gold clusters)

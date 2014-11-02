@@ -1,0 +1,44 @@
+---------gloss--------
+(0) Two - Way Street 
+(1) If the sixty - day plant - closing law 's fair , Why should we not then amend the writ To require that [3m[34m{all employees}[0m give Similar notice before [3m[34m{they}[0m quit ? 
+(2) -- Rollin S. Trexler . 
+(3) Candid Comment 
+(4) When research projects are curtailed due to government funding cuts , are [3m[33m{we}[0m `` caught with [3m[33m{our}[0m grants down '' ? 
+(5) -- C.E. Friedman . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2401); part 000
+sentences:
+TwoTwoNNPCARDINALPER0--HYPHOPER0WayWayNNPOPER0StreetStreetNNPOPER0(ROOT (NP (NML (NNP Two) (HYPH -) (NNP Way)) (NNP Street)))
+IfifINOPER0thetheDTOPER0sixtysixtyCDDATEPER0--HYPHDATEPER0daydayNNDATEPER0plantplantNNOPER0--HYPHOPER0closingclosingNNOPER0lawlawNNOPER0'sbeVBZOPER0fairfairJJOPER0,,,OPER0WhywhyWRBOPER0shouldshouldMDOPER0wewePRPOPER0notnotRBOPER0thenthenRBOPER0amendamendVBOPER0thetheDTOPER0writwritVBNOPER0TotoTOOPER0requirerequireVBOPER0thatthatINOPER0allallDTOPER0employeesemployeeNNSOPER0givegiveVBOPER0SimilarsimilarJJOPER0noticenoticeNNOPER0beforebeforeINOPER0theytheyPRPOPER0quitquitVBOPER0??.OPER0(ROOT (SBARQ (SBAR (IN If) (S (NP (DT the) (NML (CD sixty) (HYPH -) (NN day)) (NML (NN plant) (HYPH -) (NN closing)) (NN law)) (VP (VBZ 's) (ADJP (JJ fair))))) (, ,) (WHADVP (WRB Why)) (SQ (MD should) (NP (PRP we)) (RB not) (ADVP (RB then)) (VP (VB amend) (NP (DT the) (VBN writ)) (S (VP (TO To) (VP (VB require) (SBAR (IN that) (S (NP (DT all) (NNS employees)) (VP (VB give) (NP (JJ Similar) (NN notice)) (SBAR (IN before) (S (NP (PRP they)) (VP (VB quit)))))))))))) (. ?)))
+----:PERSONPER0RollinRollinNNPPERSONPER0S.S.NNPPERSONPER0TrexlerTrexlerNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP Rollin) (NNP S.) (NNP Trexler) (. .)))
+CandidcandidJJOPER0CommentcommentNNOPER0(ROOT (NP (JJ Candid) (NN Comment)))
+WhenwhenWRBOPER0researchresearchNNOPER0projectsprojectNNSOPER0arebeVBPOPER0curtailedcurtailVBNOPER0duedueINOPER0totoINOPER0governmentgovernmentNNOPER0fundingfundingNNOPER0cutscutNNSOPER0,,,OPER0arebeVBPOPER0wewePRPOPER0``````OcaughtcatchVBNOPER1withwithINOPER1ourwePRP$OPER1grantsgrantNNSOPER1downdownRPOPER1''''''OPER0??.OPER0(ROOT (SQ (SBAR (WHADVP (WRB When)) (S (NP (NN research) (NNS projects)) (VP (VBP are) (VP (VBN curtailed) (PP (IN due) (IN to) (NP (NN government) (NN funding) (NNS cuts))))))) (, ,) (VBP are) (NP (PRP we)) (VP (`` ``) (VBN caught) (PP (IN with) (NP (PRP$ our) (NNS grants) (RP down))) ('' '')) (. ?)))
+----:PERSONPER0C.E.C.E.NNPPERSONPER0FriedmanFriedmanNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP C.E.) (NNP Friedman) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT all) (NNS employees))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (PRP they))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP we))
+sid=4 spanning 16 until 17 headed by 16 parsed as our
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Two) (HYPH -) (NNP Way)) (NNP Street))
+sid=1 spanning 1 until 9 headed by 8 parsed as (NP (DT the) (NML (CD sixty) (HYPH -) (NN day)) (NML (NN plant) (HYPH -) (NN closing)) (NN law))
+sid=1 spanning 2 until 5 headed by 4 parsed as day
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP we))
+sid=1 spanning 18 until 20 headed by 18 parsed as (NP (DT the) (VBN writ))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (PRP they))
+sid=2 spanning 0 until 5 headed by 3 parsed as (NP (: --) (NNP Rollin) (NNP S.) (NNP Trexler) (. .))
+sid=4 spanning 1 until 3 headed by 2 parsed as (NP (NN research) (NNS projects))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (NN government) (NN funding) (NNS cuts))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP we))
+sid=4 spanning 16 until 19 headed by 17 parsed as (NP (PRP$ our) (NNS grants) (RP down))
+sid=4 spanning 16 until 17 headed by 16 parsed as (PRP$ our)
+sid=5 spanning 0 until 4 headed by 2 parsed as (NP (: --) (NNP C.E.) (NNP Friedman) (. .))
+(end predicted mentions)
+---------gold clusters--------
+3 2 | { 'our' 'we' }
+1 0 | { 'they' 'all employees' }
+(end gold clusters)

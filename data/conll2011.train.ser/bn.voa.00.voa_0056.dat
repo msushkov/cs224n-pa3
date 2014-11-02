@@ -1,0 +1,94 @@
+---------gloss--------
+(0) And right now let [34m{'s}[0m get the latest world news . 
+(1) I am David Coller , [34m{VOA News}[0m . 
+(2) [35m{Ivory Coast 's}[0m newly elected President Loran Gbagbo plans to announce [33m{his}[0m government today . 
+(3) [33m{Mr. Gbagbo}[0m has ruled out new elections , but is promising to set up what [33m{he}[0m calls a broad - based government of national unity . 
+(4) In Washington , State Department spokesman Phil Reeker said new elections are necessary . 
+(5) [36m{The election October 22nd}[0m was failed and fundamentally flawed from the outset due to the exclusion of major party candidates and other machinations leading up to [36m{the election}[0m . 
+(6) It 's going to be very important for the voices of the disenfranchised Ivorians to be heard and in that sense the holding of free , fair and inclusive elections will be needed to fully restore [35m{the government}[0m or put to fore [35m{its}[0m legitimacy and bring democracy back to . 
+(7) Fresh violence broke out Thursday between the [33m{Gbagbo}[0m supporters and backers of rival opposition leader Alassane Ouattara , who was barred from [36m{Sunday 's voting}[0m . 
+(8) At least 20 people were killed . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0056); part 000
+sentences:
+AndandCCOPER0rightrightRBOPER0nownowRBOPER0letletVBOPER0's'sPRPOPER0getgetVBOPER0thetheDTOPER0latestlatestJJSOPER0worldworldNNOPER0newsnewsNNOPER0...OPER0(ROOT (S (CC And) (ADVP (RB right) (RB now)) (VP (VB let) (S (NP (PRP 's)) (VP (VB get) (NP (DT the) (JJS latest) (NN world) (NN news))))) (. .)))
+IIPRPOPER0ambeVBPOPER0DavidDavidNNPPERSONPER0CollerCollerNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP am) (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))) (. .)))
+IvoryIvoryNNPGPEPER0CoastCoastNNPGPEPER0's'sPOSGPEPER0newlynewlyRBOPER0electedelectVBNOPER0PresidentPresidentNNPOPER0LoranLoranNNPPERSONPER0GbagboGbagboNNPPERSONPER0plansplanVBZOPER0totoTOOPER0announceannounceVBOPER0hishePRP$OPER0governmentgovernmentNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP Ivory) (NNP Coast) (POS 's)) (ADJP (RB newly) (VBN elected)) (NNP President) (NNP Loran) (NNP Gbagbo)) (VP (VBZ plans) (S (VP (TO to) (VP (VB announce) (NP (PRP$ his) (NN government)) (NP (NN today)))))) (. .)))
+Mr.Mr.NNPOPER0GbagboGbagboNNPPERSONPER0hashaveVBZOPER0ruledruleVBNOPER0outoutRPOPER0newnewJJOPER0electionselectionNNSOPER0,,,OPER0butbutCCOPER0isbeVBZOPER0promisingpromiseVBGOPER0totoTOOPER0setsetVBOPER0upupRPOPER0whatwhatWPOPER0hehePRPOPER0callscallVBZOPER0aaDTOPER0broadbroadRBOPER0--HYPHOPER0basedbaseVBNOPER0governmentgovernmentNNOPER0ofofINOPER0nationalnationalJJOPER0unityunityNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Gbagbo)) (VP (VP (VBZ has) (VP (VBN ruled) (PRT (RP out)) (NP (JJ new) (NNS elections)))) (, ,) (CC but) (VP (VBZ is) (VP (VBG promising) (S (VP (TO to) (VP (VB set) (PRT (RP up)) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ calls) (S (NP (NP (DT a) (ADJP (RB broad) (HYPH -) (VBN based)) (NN government)) (PP (IN of) (NP (JJ national) (NN unity)))))))))))))) (. .)))
+IninINOPER0WashingtonWashingtonNNPGPEPER0,,,OPER0StateStateNNPORGPER0DepartmentDepartmentNNPORGPER0spokesmanspokesmanNNOPER0PhilPhilNNPPERSONPER0ReekerReekerNNPPERSONPER0saidsayVBDOPER0newnewJJOPER0electionselectionNNSOPER0arebeVBPOPER0necessarynecessaryJJOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Washington))) (, ,) (NP (NML (NML (NNP State) (NNP Department)) (NN spokesman)) (NNP Phil) (NNP Reeker)) (VP (VBD said) (SBAR (S (NP (JJ new) (NNS elections)) (VP (VBP are) (ADJP (JJ necessary)))))) (. .)))
+ThetheDTOPER0electionelectionNNOPER0OctoberOctoberNNPDATEPER022nd22ndNNDATEPER0wasbeVBDOPER0failedfailVBNOPER0andandCCOPER0fundamentallyfundamentallyRBOPER0flawedflawedJJOPER0fromfromINOPER0thetheDTOPER0outsetoutsetNNOPER0duedueINOPER0totoINOPER0thetheDTOPER0exclusionexclusionNNOPER0ofofINOPER0majormajorJJOPER0partypartyNNOPER0candidatescandidateNNSOPER0andandCCOPER0otherotherJJOPER0machinationsmachinationNNSOPER0leadingleadVBGOPER0upupINOPER0totoINOPER0thetheDTOPER0electionelectionNNOPER0...OPER0(ROOT (S (NP (DT The) (NN election) (NNP October) (NN 22nd)) (VP (VBD was) (VP (VBN failed)) (CC and) (VP (ADJP (RB fundamentally) (JJ flawed) (PP (IN from) (NP (DT the) (NN outset)))) (PP (IN due) (IN to) (NP (NP (DT the) (NN exclusion)) (PP (IN of) (NP (NP (NML (JJ major) (NN party)) (NNS candidates)) (CC and) (NP (NP (JJ other) (NNS machinations)) (VP (VBG leading) (PP (IN up) (PP (IN to) (NP (DT the) (NN election)))))))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0goinggoVBGOPER0totoTOOPER0bebeVBOPER0veryveryRBOPER0importantimportantJJOPER0forforINOPER0thetheDTOPER0voicesvoiceNNSOPER0ofofINOPER0thetheDTOPER0disenfranchiseddisenfranchiseVBNOPER0IvoriansIvoriansNNPSPERSONPER0totoTOOPER0bebeVBOPER0heardhearVBNOPER0andandCCOPER0ininINOPER0thatthatDTOPER0sensesenseNNOPER0thetheDTOPER0holdingholdingNNOPER0ofofINOPER0freefreeJJOPER0,,,OPER0fairfairJJOPER0andandCCOPER0inclusiveinclusiveJJOPER0electionselectionNNSOPER0willwillMDOPER0bebeVBOPER0neededneedVBNOPER0totoTOOPER0fullyfullyRBOPER0restorerestoreVBOPER0thetheDTOPER0governmentgovernmentNNOPER0ororCCOPER0putputVBOPER0totoINOPER0foreforeNNOPER0itsitsPRP$OPER0legitimacylegitimacyNNOPER0andandCCOPER0bringbringVBOPER0democracydemocracyNNOPER0backbackRBOPER0totoINOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ important)) (SBAR (IN for) (S (NP (NP (DT the) (NNS voices)) (PP (IN of) (NP (DT the) (VBN disenfranchised) (NNPS Ivorians)))) (VP (TO to) (VP (VB be) (VP (VBN heard) (SBAR (S (CC and) (PP (IN in) (NP (DT that) (NN sense))) (NP (NP (DT the) (NN holding)) (PP (IN of) (NP (ADJP (JJ free) (, ,) (JJ fair) (CC and) (JJ inclusive)) (NNS elections)))) (VP (MD will) (VP (VB be) (VP (VBN needed) (S (VP (TO to) (ADVP (RB fully)) (VP (VP (VB restore) (NP (DT the) (NN government))) (CC or) (VP (VB put) (PP (IN to) (NP (NN fore))) (NP (PRP$ its) (NN legitimacy))) (CC and) (VP (VB bring) (NP (NN democracy)) (ADVP (RB back) (PP (IN to)))))))))))))))))))))) (. .)))
+FreshfreshJJOPER0violenceviolenceNNOPER0brokebreakVBDOPER0outoutRPOPER0ThursdayThursdayNNPDATEPER0betweenbetweenINOPER0thetheDTOPER0GbagboGbagboNNPORGPER0supporterssupporterNNSOPER0andandCCOPER0backersbackerNNSOPER0ofofINOPER0rivalrivalJJOPER0oppositionoppositionNNOPER0leaderleaderNNOPER0AlassaneAlassaneNNPPERSONPER0OuattaraOuattaraNNPPERSONPER0,,,OPER0whowhoWPOPER0wasbeVBDOPER0barredbarVBNOPER0fromfromINOPER0SundaySundayNNPDATEPER0's'sPOSOPER0votingvotingNNOPER0...OPER0(ROOT (S (NP (JJ Fresh) (NN violence)) (VP (VBD broke) (PRT (RP out)) (NP (NNP Thursday)) (PP (IN between) (NP (NP (DT the) (NNP Gbagbo) (NNS supporters)) (CC and) (NP (NP (NNS backers)) (PP (IN of) (NP (NP (NML (JJ rival) (NN opposition) (NN leader)) (NNP Alassane) (NNP Ouattara)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN barred) (PP (IN from) (NP (NP (NNP Sunday) (POS 's)) (NN voting))))))))))))) (. .)))
+AtatRBCARDINALPER0leastleastRBSCARDINALPER02020CDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0...OPER0(ROOT (S (NP (QP (ADVP (RB At) (RBS least)) (CD 20)) (NNS people)) (VP (VBD were) (VP (VBN killed))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP 's))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+sid=2 spanning 0 until 8 headed by 7 parsed as (NP (NP (NNP Ivory) (NNP Coast) (POS 's)) (ADJP (RB newly) (VBN elected)) (NNP President) (NNP Loran) (NNP Gbagbo))
+sid=2 spanning 0 until 3 headed by 1 parsed as (NP (NNP Ivory) (NNP Coast) (POS 's))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (PRP$ his) (NN government))
+sid=2 spanning 11 until 12 headed by 11 parsed as his
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Gbagbo))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NN election) (NNP October) (NN 22nd))
+sid=5 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NN election))
+sid=6 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN government))
+sid=6 spanning 42 until 43 headed by 42 parsed as its
+sid=7 spanning 7 until 8 headed by 7 parsed as Gbagbo
+sid=7 spanning 22 until 25 headed by 24 parsed as (NP (NP (NNP Sunday) (POS 's)) (NN voting))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP 's))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (JJS latest) (NN world) (NN news))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=1 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+sid=2 spanning 0 until 8 headed by 7 parsed as (NP (NP (NNP Ivory) (NNP Coast) (POS 's)) (ADJP (RB newly) (VBN elected)) (NNP President) (NNP Loran) (NNP Gbagbo))
+sid=2 spanning 0 until 3 headed by 1 parsed as (NP (NNP Ivory) (NNP Coast) (POS 's))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (PRP$ his) (NN government))
+sid=2 spanning 11 until 12 headed by 11 parsed as (PRP$ his)
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Gbagbo))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (JJ new) (NNS elections))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=3 spanning 17 until 25 headed by 21 parsed as (NP (NP (DT a) (ADJP (RB broad) (HYPH -) (VBN based)) (NN government)) (PP (IN of) (NP (JJ national) (NN unity))))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (NNP Washington))
+sid=4 spanning 3 until 8 headed by 7 parsed as (NP (NML (NML (NNP State) (NNP Department)) (NN spokesman)) (NNP Phil) (NNP Reeker))
+sid=4 spanning 3 until 5 headed by 4 parsed as Department
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (JJ new) (NNS elections))
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NN election) (NNP October) (NN 22nd))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN outset))
+sid=5 spanning 14 until 28 headed by 15 parsed as (NP (NP (DT the) (NN exclusion)) (PP (IN of) (NP (NP (NML (JJ major) (NN party)) (NNS candidates)) (CC and) (NP (NP (JJ other) (NNS machinations)) (VP (VBG leading) (PP (IN up) (PP (IN to) (NP (DT the) (NN election)))))))))
+sid=5 spanning 17 until 28 headed by 19 parsed as (NP (NP (NML (JJ major) (NN party)) (NNS candidates)) (CC and) (NP (NP (JJ other) (NNS machinations)) (VP (VBG leading) (PP (IN up) (PP (IN to) (NP (DT the) (NN election)))))))
+sid=5 spanning 17 until 20 headed by 19 parsed as (NP (NML (JJ major) (NN party)) (NNS candidates))
+sid=5 spanning 21 until 28 headed by 22 parsed as (NP (NP (JJ other) (NNS machinations)) (VP (VBG leading) (PP (IN up) (PP (IN to) (NP (DT the) (NN election))))))
+sid=5 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NN election))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 8 until 14 headed by 9 parsed as (NP (NP (DT the) (NNS voices)) (PP (IN of) (NP (DT the) (VBN disenfranchised) (NNPS Ivorians))))
+sid=6 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (VBN disenfranchised) (NNPS Ivorians))
+sid=6 spanning 19 until 21 headed by 20 parsed as (NP (DT that) (NN sense))
+sid=6 spanning 21 until 30 headed by 22 parsed as (NP (NP (DT the) (NN holding)) (PP (IN of) (NP (ADJP (JJ free) (, ,) (JJ fair) (CC and) (JJ inclusive)) (NNS elections))))
+sid=6 spanning 24 until 30 headed by 29 parsed as (NP (ADJP (JJ free) (, ,) (JJ fair) (CC and) (JJ inclusive)) (NNS elections))
+sid=6 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN government))
+sid=6 spanning 42 until 44 headed by 43 parsed as (NP (PRP$ its) (NN legitimacy))
+sid=6 spanning 42 until 43 headed by 42 parsed as (PRP$ its)
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (NNP Thursday))
+sid=7 spanning 6 until 25 headed by 8 parsed as (NP (NP (DT the) (NNP Gbagbo) (NNS supporters)) (CC and) (NP (NP (NNS backers)) (PP (IN of) (NP (NP (NML (JJ rival) (NN opposition) (NN leader)) (NNP Alassane) (NNP Ouattara)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN barred) (PP (IN from) (NP (NP (NNP Sunday) (POS 's)) (NN voting)))))))))))
+sid=7 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Gbagbo) (NNS supporters))
+sid=7 spanning 7 until 8 headed by 7 parsed as Gbagbo
+sid=7 spanning 10 until 25 headed by 10 parsed as (NP (NP (NNS backers)) (PP (IN of) (NP (NP (NML (JJ rival) (NN opposition) (NN leader)) (NNP Alassane) (NNP Ouattara)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN barred) (PP (IN from) (NP (NP (NNP Sunday) (POS 's)) (NN voting))))))))))
+sid=7 spanning 15 until 17 headed by 16 parsed as (NP (NP (NML (JJ rival) (NN opposition) (NN leader)) (NNP Alassane) (NNP Ouattara)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN barred) (PP (IN from) (NP (NP (NNP Sunday) (POS 's)) (NN voting))))))))
+sid=7 spanning 12 until 25 headed by 16 parsed as (NP (NP (NML (JJ rival) (NN opposition) (NN leader)) (NNP Alassane) (NNP Ouattara)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN barred) (PP (IN from) (NP (NP (NNP Sunday) (POS 's)) (NN voting))))))))
+sid=7 spanning 12 until 17 headed by 16 parsed as (NP (NML (JJ rival) (NN opposition) (NN leader)) (NNP Alassane) (NNP Ouattara))
+sid=7 spanning 22 until 25 headed by 24 parsed as (NP (NP (NNP Sunday) (POS 's)) (NN voting))
+sid=7 spanning 22 until 24 headed by 22 parsed as (NP (NNP Sunday) (POS 's))
+sid=8 spanning 0 until 4 headed by 3 parsed as (NP (QP (ADVP (RB At) (RBS least)) (CD 20)) (NNS people))
+(end predicted mentions)
+---------gold clusters--------
+5 6 7 2 12 | { 'his' 'Mr. Gbagbo' 'he' 'Ivory Coast 's newly elected President Loran Gbagbo' 'Gbagbo' }
+0 1 | { ''s' 'VOA News' }
+3 11 10 4 | { 'Ivory Coast 's' 'its' 'the government' 'his government' }
+9 8 13 | { 'the election' 'The election October 22nd' 'Sunday 's voting' }
+(end gold clusters)

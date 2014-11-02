@@ -1,0 +1,71 @@
+---------gloss--------
+(0) [4m[31m{Judges in the Netherlands}[0m are refusing to dismiss charges against [4m[35m{one of two defendants in the Lockerbie bombing trial}[0m . 
+(1) [4m[31m{The judges}[0m have rejected defense arguments that [4m[33m{prosecutors}[0m failed to link [4m[35m{the man}[0m to the explosion that brought down [4m[36m{Pan Am Flight 103}[0m . 
+(2) [4m[35m{The suspect}[0m is one of [4m[34m{two Libyan nationals charged with planting a bomb on board}[0m . 
+(3) 270 people were killed when [4m[36m{the plane}[0m exploded over [4m[32m{Lockerbie , Scotland}[0m , 12 years ago . 
+(4) [4m[33m{The prosecution}[0m rested [4m[33m{its}[0m case last week after five months of hearings . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0115); part 000
+sentences:
+JudgesjudgeNNSOPER0ininINOPER0thetheDTOPER0NetherlandsNetherlandsNNPGPEPER0arebeVBPOPER0refusingrefuseVBGOPER0totoTOOPER0dismissdismissVBOPER0chargeschargeNNSOPER0againstagainstINOPER0oneoneCDOPER0ofofINOPER0twotwoCDCARDINALPER0defendantsdefendantNNSOPER0ininINOPER0thetheDTOPER0LockerbieLockerbieNNPGPEPER0bombingbombingNNOPER0trialtrialNNOPER0...OPER0(ROOT (S (NP (NP (NNS Judges)) (PP (IN in) (NP (DT the) (NNP Netherlands)))) (VP (VBP are) (VP (VBG refusing) (S (VP (TO to) (VP (VB dismiss) (NP (NP (NNS charges)) (PP (IN against) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD two) (NNS defendants)) (PP (IN in) (NP (DT the) (NNP Lockerbie) (NN bombing) (NN trial))))))))))))) (. .)))
+ThetheDTOPER0judgesjudgeNNSOPER0havehaveVBPOPER0rejectedrejectVBNOPER0defensedefenseNNOPER0argumentsargumentNNSOPER0thatthatINOPER0prosecutorsprosecutorNNSOPER0failedfailVBDOPER0totoTOOPER0linklinkVBOPER0thetheDTOPER0manmanNNOPER0totoINOPER0thetheDTOPER0explosionexplosionNNOPER0thatthatWDTOPER0broughtbringVBDOPER0downdownRPOPER0PanPanNNPORGPER0AmAmNNPORGPER0FlightFlightNNPOPER0103103CDOPER0...OPER0(ROOT (S (NP (DT The) (NNS judges)) (VP (VBP have) (VP (VBN rejected) (NP (NP (NN defense) (NNS arguments)) (SBAR (IN that) (S (NP (NNS prosecutors)) (VP (VBD failed) (S (VP (TO to) (VP (VB link) (NP (DT the) (NN man)) (PP (IN to) (NP (NP (DT the) (NN explosion)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (PRT (RP down)) (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)))))))))))))))) (. .)))
+ThetheDTOPER0suspectsuspectNNOPER0isbeVBZOPER0oneoneCDOPER0ofofINOPER0twotwoCDCARDINALPER0LibyanlibyanJJOPER0nationalsnationalNNSOPER0chargedchargeVBNOPER0withwithINOPER0plantingplantVBGOPER0aaDTOPER0bombbombNNOPER0ononINOPER0boardboardNNOPER0...OPER0(ROOT (S (NP (DT The) (NN suspect)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD two) (JJ Libyan) (NNS nationals)) (VP (VBN charged) (PP (IN with) (S (VP (VBG planting) (NP (NP (DT a) (NN bomb)) (PP (IN on) (NP (NN board)))))))))))) (. .)))
+270270CDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0whenwhenWRBOPER0thetheDTOPER0planeplaneNNOPER0explodedexplodeVBDOPER0overoverINOPER0LockerbieLockerbieNNPGPEPER0,,,OPER0ScotlandScotlandNNPGPEPER0,,,OPER01212CDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (CD 270) (NNS people)) (VP (VBD were) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN plane)) (VP (VBD exploded) (PP (IN over) (NP (NP (NNP Lockerbie)) (, ,) (NP (NNP Scotland)))) (, ,) (ADVP (NP (CD 12) (NNS years)) (RB ago))))))) (. .)))
+ThetheDTOPER0prosecutionprosecutionNNOPER0restedrestVBDOPER0itsitsPRP$OPER0casecaseNNOPER0lastlastJJDATEPER0weekweekNNDATEPER0afterafterINOPER0fivefiveCDDATEPER0monthsmonthNNSDATEPER0ofofINOPER0hearingshearingNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN prosecution)) (VP (VBD rested) (NP (PRP$ its) (NN case)) (NP (JJ last) (NN week)) (PP (IN after) (NP (NP (CD five) (NNS months)) (PP (IN of) (NP (NNS hearings)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Judges)) (PP (IN in) (NP (DT the) (NNP Netherlands))))
+sid=0 spanning 10 until 19 headed by 10 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (CD two) (NNS defendants)) (PP (IN in) (NP (DT the) (NNP Lockerbie) (NN bombing) (NN trial))))))
+sid=0 spanning 12 until 19 headed by 13 parsed as (NP (NP (CD two) (NNS defendants)) (PP (IN in) (NP (DT the) (NNP Lockerbie) (NN bombing) (NN trial))))
+sid=0 spanning 16 until 17 headed by 16 parsed as Lockerbie
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS judges))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (NNS prosecutors))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN man))
+sid=1 spanning 19 until 23 headed by 21 parsed as (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN suspect))
+sid=2 spanning 5 until 15 headed by 7 parsed as (NP (NP (CD two) (JJ Libyan) (NNS nationals)) (VP (VBN charged) (PP (IN with) (S (VP (VBG planting) (NP (NP (DT a) (NN bomb)) (PP (IN on) (NP (NN board)))))))))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN plane))
+sid=3 spanning 9 until 12 headed by 9 parsed as (NP (NP (NNP Lockerbie)) (, ,) (NP (NNP Scotland)))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN prosecution))
+sid=4 spanning 3 until 4 headed by 3 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Judges)) (PP (IN in) (NP (DT the) (NNP Netherlands))))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Netherlands))
+sid=0 spanning 8 until 19 headed by 8 parsed as (NP (NP (NNS charges)) (PP (IN against) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD two) (NNS defendants)) (PP (IN in) (NP (DT the) (NNP Lockerbie) (NN bombing) (NN trial))))))))
+sid=0 spanning 10 until 19 headed by 10 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (CD two) (NNS defendants)) (PP (IN in) (NP (DT the) (NNP Lockerbie) (NN bombing) (NN trial))))))
+sid=0 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (NNP Lockerbie) (NN bombing) (NN trial))
+sid=0 spanning 16 until 17 headed by 16 parsed as Lockerbie
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS judges))
+sid=1 spanning 4 until 23 headed by 5 parsed as (NP (NP (NN defense) (NNS arguments)) (SBAR (IN that) (S (NP (NNS prosecutors)) (VP (VBD failed) (S (VP (TO to) (VP (VB link) (NP (DT the) (NN man)) (PP (IN to) (NP (NP (DT the) (NN explosion)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (PRT (RP down)) (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103))))))))))))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (NNS prosecutors))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN man))
+sid=1 spanning 14 until 23 headed by 15 parsed as (NP (NP (DT the) (NN explosion)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (PRT (RP down)) (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103))))))
+sid=1 spanning 19 until 23 headed by 21 parsed as (NP (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103))
+sid=1 spanning 19 until 21 headed by 20 parsed as Am
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN suspect))
+sid=2 spanning 3 until 15 headed by 3 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (CD two) (JJ Libyan) (NNS nationals)) (VP (VBN charged) (PP (IN with) (S (VP (VBG planting) (NP (NP (DT a) (NN bomb)) (PP (IN on) (NP (NN board)))))))))))
+sid=2 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT a) (NN bomb)) (PP (IN on) (NP (NN board))))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (CD 270) (NNS people))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN plane))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NP (NNP Lockerbie)) (, ,) (NP (NNP Scotland)))
+sid=3 spanning 9 until 12 headed by 9 parsed as (NP (NP (NNP Lockerbie)) (, ,) (NP (NNP Scotland)))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNP Scotland))
+sid=3 spanning 13 until 16 headed by 15 parsed as ago
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN prosecution))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ its) (NN case))
+sid=4 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (JJ last) (NN week))
+sid=4 spanning 8 until 12 headed by 9 parsed as (NP (NP (CD five) (NNS months)) (PP (IN of) (NP (NNS hearings))))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNS hearings))
+(end predicted mentions)
+---------gold clusters--------
+4 0 | { 'The judges' 'Judges in the Netherlands' }
+11 3 | { 'Lockerbie , Scotland' 'Lockerbie' }
+12 13 5 | { 'The prosecution' 'its' 'prosecutors' }
+2 9 | { 'two defendants in the Lockerbie bombing trial' 'two Libyan nationals charged with planting a bomb on board' }
+8 1 6 | { 'The suspect' 'one of two defendants in the Lockerbie bombing trial' 'the man' }
+10 7 | { 'the plane' 'Pan Am Flight 103' }
+(end gold clusters)

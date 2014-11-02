@@ -1,0 +1,49 @@
+---------gloss--------
+(0) [33m{ATHLONE INDUSTRIES Inc.}[0m said that on Dec. 21 [33m{it}[0m will redeem $ 10 million face amount of [33m{its}[0m $ 59.3 million of 15.625 % subordinated notes outstanding , due June 1 , 1991 . 
+(1) For each $ 1,000 of notes , [33m{the maker of specialty metals , industrial fasteners and consumer products}[0m will pay $ 1,026.46 plus $ 8.68 of interest accrued from Dec. 1 . 
+(2) [33m{The company}[0m will notify holders of [34m{the notes to be redeemed}[0m . 
+(3) Manufacturers Hanover Trust Co. is redemption agent . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1437); part 000
+sentences:
+ATHLONEATHLONENNPORGPER0INDUSTRIESINDUSTRIESNNPSORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0thatthatINOPER0ononINOPER0Dec.Dec.NNPDATEPER02121CDDATEPER0ititPRPOPER0willwillMDOPER0redeemredeemVBOPER0$$$MONEYPER01010CDMONEYPER0millionmillionCDMONEYPER0facefaceNNOPER0amountamountNNOPER0ofofINOPER0itsitsPRP$OPER0$$$MONEYPER059.359.3CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER015.62515.625CDPERCENTPER0%%NNPERCENTPER0subordinatedsubordinatedJJOPER0notesnoteNNSOPER0outstandingoutstandingJJOPER0,,,OPER0duedueJJOPER0JuneJuneNNPDATEPER011CDDATEPER0,,,DATEPER019911991CDDATEPER0...OPER0(ROOT (S (NP (NNP ATHLONE) (NNPS INDUSTRIES) (NNP Inc.)) (VP (VBD said) (SBAR (IN that) (S (PP (IN on) (NP (NNP Dec.) (CD 21))) (NP (PRP it)) (VP (MD will) (VP (VB redeem) (NP (NP (QP ($ $) (CD 10) (CD million)) (NN face) (NN amount)) (PP (IN of) (NP (NP (PRP$ its) (QP ($ $) (CD 59.3) (CD million))) (PP (IN of) (NP (NP (NP (NML (CD 15.625) (NN %)) (JJ subordinated) (NNS notes)) (ADJP (JJ outstanding))) (, ,) (ADJP (JJ due) (NP (NNP June) (CD 1) (, ,) (CD 1991))))))))))))) (. .)))
+ForforINOPER0eacheachDTOPER0$$$OPER01,0001,000CDMONEYPER0ofofINOPER0notesnoteNNSOPER0,,,OPER0thetheDTOPER0makermakerNNOPER0ofofINOPER0specialtyspecialtyNNOPER0metalsmetalNNSOPER0,,,OPER0industrialindustrialJJOPER0fastenersfastenerNNSOPER0andandCCOPER0consumerconsumerNNOPER0productsproductNNSOPER0willwillMDOPER0paypayVBOPER0$$$OPER01,026.461,026.46CDMONEYPER0plusplusCCOPER0$$$OPER08.688.68CDMONEYPER0ofofINOPER0interestinterestNNOPER0accruedaccrueVBNOPER0fromfromINOPER0Dec.Dec.NNPDATEPER011CDDATEPER0...OPER0(ROOT (S (PP (IN For) (NP (NP (DT each) ($ $) (CD 1,000)) (PP (IN of) (NP (NNS notes))))) (, ,) (NP (NP (DT the) (NN maker)) (PP (IN of) (NP (NP (NN specialty) (NNS metals)) (, ,) (NP (JJ industrial) (NNS fasteners)) (CC and) (NP (NN consumer) (NNS products))))) (VP (MD will) (VP (VB pay) (NP (NP (QP ($ $) (CD 1,026.46) (CC plus) ($ $) (CD 8.68))) (PP (IN of) (NP (NP (NN interest)) (VP (VBN accrued) (PP (IN from) (NP (NNP Dec.) (CD 1))))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0willwillMDOPER0notifynotifyVBOPER0holdersholderNNSOPER0ofofINOPER0thetheDTOPER0notesnoteNNSOPER0totoTOOPER0bebeVBOPER0redeemedredeemVBNOPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (VP (MD will) (VP (VB notify) (NP (NP (NNS holders)) (PP (IN of) (NP (DT the) (NNS notes)))) (S (VP (TO to) (VP (VB be) (VP (VBN redeemed))))))) (. .)))
+ManufacturersManufacturersNNPORGPER0HanoverHanoverNNPORGPER0TrustTrustNNPORGPER0Co.Co.NNPORGPER0isbeVBZOPER0redemptionredemptionNNOPER0agentagentNNOPER0...OPER0(ROOT (S (NP (NNP Manufacturers) (NNP Hanover) (NNP Trust) (NNP Co.)) (VP (VBZ is) (NP (NN redemption) (NN agent))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP ATHLONE) (NNPS INDUSTRIES) (NNP Inc.))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=0 spanning 17 until 33 headed by 18 parsed as (NP (NP (PRP$ its) (QP ($ $) (CD 59.3) (CD million))) (PP (IN of) (NP (NP (NP (NML (CD 15.625) (NN %)) (JJ subordinated) (NNS notes)) (ADJP (JJ outstanding))) (, ,) (ADJP (JJ due) (NP (NNP June) (CD 1) (, ,) (CD 1991))))))
+sid=0 spanning 17 until 18 headed by 17 parsed as its
+sid=1 spanning 7 until 18 headed by 8 parsed as (NP (NP (DT the) (NN maker)) (PP (IN of) (NP (NP (NN specialty) (NNS metals)) (, ,) (NP (JJ industrial) (NNS fasteners)) (CC and) (NP (NN consumer) (NNS products)))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=2 spanning 6 until 11 headed by 7 parsed as (NP (DT the) (NNS notes))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP ATHLONE) (NNPS INDUSTRIES) (NNP Inc.))
+sid=0 spanning 6 until 8 headed by 6 parsed as (NP (NNP Dec.) (CD 21))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=0 spanning 11 until 33 headed by 15 parsed as (NP (NP (QP ($ $) (CD 10) (CD million)) (NN face) (NN amount)) (PP (IN of) (NP (NP (PRP$ its) (QP ($ $) (CD 59.3) (CD million))) (PP (IN of) (NP (NP (NP (NML (CD 15.625) (NN %)) (JJ subordinated) (NNS notes)) (ADJP (JJ outstanding))) (, ,) (ADJP (JJ due) (NP (NNP June) (CD 1) (, ,) (CD 1991))))))))
+sid=0 spanning 29 until 33 headed by 29 parsed as (NP (NNP June) (CD 1) (, ,) (CD 1991))
+sid=1 spanning 1 until 6 headed by 2 parsed as (NP (NP (DT each) ($ $) (CD 1,000)) (PP (IN of) (NP (NNS notes))))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNS notes))
+sid=1 spanning 7 until 18 headed by 8 parsed as (NP (NP (DT the) (NN maker)) (PP (IN of) (NP (NP (NN specialty) (NNS metals)) (, ,) (NP (JJ industrial) (NNS fasteners)) (CC and) (NP (NN consumer) (NNS products)))))
+sid=1 spanning 10 until 18 headed by 11 parsed as (NP (NP (NN specialty) (NNS metals)) (, ,) (NP (JJ industrial) (NNS fasteners)) (CC and) (NP (NN consumer) (NNS products)))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NN specialty) (NNS metals))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (JJ industrial) (NNS fasteners))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (NN consumer) (NNS products))
+sid=1 spanning 26 until 31 headed by 26 parsed as (NP (NP (NN interest)) (VP (VBN accrued) (PP (IN from) (NP (NNP Dec.) (CD 1)))))
+sid=1 spanning 29 until 31 headed by 29 parsed as (NP (NNP Dec.) (CD 1))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=2 spanning 4 until 8 headed by 4 parsed as (NP (NP (NNS holders)) (PP (IN of) (NP (DT the) (NNS notes))))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS notes))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (NNP Manufacturers) (NNP Hanover) (NNP Trust) (NNP Co.))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (NN redemption) (NN agent))
+(end predicted mentions)
+---------gold clusters--------
+3 0 5 1 4 | { 'its' 'ATHLONE INDUSTRIES Inc.' 'The company' 'it' 'the maker of specialty metals , industrial fasteners and consumer products' }
+2 6 | { 'its $ 59.3 million of 15.625 % subordinated notes outstanding , due June 1 , 1991' 'the notes to be redeemed' }
+(end gold clusters)

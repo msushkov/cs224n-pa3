@@ -1,0 +1,42 @@
+---------gloss--------
+(0) Palestinian leader Yasser Arafat has held [4m[33m{talks with Israeli Foreign Minister Shlomo Ben - Ami in Cairo}[0m but no breakthroughs toward a peace deal are reported . 
+(1) [4m[33m{The meeting , which lasted about two hours ,}[0m followed [4m[34m{Cairo}[0m talks earlier Wednesday between [4m[35m{Mr. Ben - Ami}[0m and Egyptian President Hosni Mubarak . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0243); part 000
+sentences:
+PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0hashaveVBZOPER0heldholdVBNOPER0talkstalkNNSOPER0withwithINOPER0IsraeliisraeliJJOPER0ForeignForeignNNPOPER0MinisterMinisterNNPOPER0ShlomoShlomoNNPPERSONPER0BenBenNNPPERSONPER0--HYPHPERSONPER0AmiAmiNNPPERSONPER0ininINOPER0CairoCairoNNPGPEPER0butbutCCOPER0nonoDTOPER0breakthroughsbreakthroughNNSOPER0towardtowardINOPER0aaDTOPER0peacepeaceNNOPER0dealdealNNOPER0arebeVBPOPER0reportedreportVBNOPER0...OPER0(ROOT (S (S (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (VP (VBZ has) (VP (VBN held) (NP (NP (NNS talks)) (PP (IN with) (NP (NML (JJ Israeli) (NNP Foreign) (NNP Minister)) (NNP Shlomo) (NNP Ben) (HYPH -) (NNP Ami)))) (PP (IN in) (NP (NNP Cairo)))))) (CC but) (S (NP (NP (DT no) (NNS breakthroughs)) (PP (IN toward) (NP (DT a) (NN peace) (NN deal)))) (VP (VBP are) (VP (VBN reported)))) (. .)))
+ThetheDTOPER0meetingmeetingNNOPER0,,,OPER0whichwhichWDTOPER0lastedlastVBDOPER0aboutaboutRBTIMEPER0twotwoCDTIMEPER0hourshourNNSTIMEPER0,,,OPER0followedfollowVBDOPER0CairoCairoNNPGPEPER0talkstalkNNSOPER0earlierearlierRBRDATEPER0WednesdayWednesdayNNPDATEPER0betweenbetweenINOPER0Mr.Mr.NNPOPER0BenBenNNPPERSONPER0--HYPHPERSONPER0AmiAmiNNPPERSONPER0andandCCOPER0EgyptianegyptianJJOPER0PresidentPresidentNNPOPER0HosniHosniNNPPERSONPER0MubarakMubarakNNPPERSONPER0...OPER0(ROOT (S (NP (NP (DT The) (NN meeting)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD lasted) (NP (QP (RB about) (CD two)) (NNS hours))))) (, ,)) (VP (VBD followed) (NP (NP (NNP Cairo) (NNS talks)) (NP (ADVP (RBR earlier)) (NNP Wednesday)) (PP (IN between) (NP (NP (NNP Mr.) (NNP Ben) (HYPH -) (NNP Ami)) (CC and) (NP (NML (JJ Egyptian) (NNP President)) (NNP Hosni) (NNP Mubarak)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 17 headed by 6 parsed as (NP (NP (NNS talks)) (PP (IN with) (NP (NML (JJ Israeli) (NNP Foreign) (NNP Minister)) (NNP Shlomo) (NNP Ben) (HYPH -) (NNP Ami))))
+sid=0 spanning 8 until 15 headed by 14 parsed as (NP (NML (JJ Israeli) (NNP Foreign) (NNP Minister)) (NNP Shlomo) (NNP Ben) (HYPH -) (NNP Ami))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNP Cairo))
+sid=1 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NN meeting)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD lasted) (NP (QP (RB about) (CD two)) (NNS hours))))) (, ,))
+sid=1 spanning 10 until 11 headed by 10 parsed as Cairo
+sid=1 spanning 15 until 19 headed by 18 parsed as (NP (NP (NNP Mr.) (NNP Ben) (HYPH -) (NNP Ami)) (CC and) (NP (NML (JJ Egyptian) (NNP President)) (NNP Hosni) (NNP Mubarak)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 6 until 15 headed by 6 parsed as (NP (NP (NNS talks)) (PP (IN with) (NP (NML (JJ Israeli) (NNP Foreign) (NNP Minister)) (NNP Shlomo) (NNP Ben) (HYPH -) (NNP Ami))))
+sid=0 spanning 8 until 15 headed by 14 parsed as (NP (NML (JJ Israeli) (NNP Foreign) (NNP Minister)) (NNP Shlomo) (NNP Ben) (HYPH -) (NNP Ami))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNP Cairo))
+sid=0 spanning 18 until 24 headed by 19 parsed as (NP (NP (DT no) (NNS breakthroughs)) (PP (IN toward) (NP (DT a) (NN peace) (NN deal))))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT a) (NN peace) (NN deal))
+sid=1 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NN meeting)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD lasted) (NP (QP (RB about) (CD two)) (NNS hours))))) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN meeting))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (QP (RB about) (CD two)) (NNS hours))
+sid=1 spanning 10 until 24 headed by 11 parsed as (NP (NP (NNP Cairo) (NNS talks)) (NP (ADVP (RBR earlier)) (NNP Wednesday)) (PP (IN between) (NP (NP (NNP Mr.) (NNP Ben) (HYPH -) (NNP Ami)) (CC and) (NP (NML (JJ Egyptian) (NNP President)) (NNP Hosni) (NNP Mubarak)))))
+sid=1 spanning 10 until 11 headed by 10 parsed as Cairo
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (ADVP (RBR earlier)) (NNP Wednesday))
+sid=1 spanning 16 until 19 headed by 18 parsed as (NP (NP (NNP Mr.) (NNP Ben) (HYPH -) (NNP Ami)) (CC and) (NP (NML (JJ Egyptian) (NNP President)) (NNP Hosni) (NNP Mubarak)))
+sid=1 spanning 15 until 24 headed by 18 parsed as (NP (NP (NNP Mr.) (NNP Ben) (HYPH -) (NNP Ami)) (CC and) (NP (NML (JJ Egyptian) (NNP President)) (NNP Hosni) (NNP Mubarak)))
+sid=1 spanning 15 until 19 headed by 18 parsed as (NP (NNP Mr.) (NNP Ben) (HYPH -) (NNP Ami))
+sid=1 spanning 20 until 24 headed by 23 parsed as (NP (NML (JJ Egyptian) (NNP President)) (NNP Hosni) (NNP Mubarak))
+(end predicted mentions)
+---------gold clusters--------
+3 0 | { 'The meeting , which lasted about two hours ,' 'talks with Israeli Foreign Minister Shlomo Ben - Ami in Cairo' }
+2 4 | { 'Cairo' 'Cairo' }
+5 1 | { 'Mr. Ben - Ami' 'Israeli Foreign Minister Shlomo Ben - Ami' }
+(end gold clusters)

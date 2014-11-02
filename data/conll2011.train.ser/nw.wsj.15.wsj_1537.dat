@@ -1,0 +1,86 @@
+---------gloss--------
+(0) [4m[36m{Manhattan National Corp.}[0m said [31m{Michael A. Conway , president and chief executive officer ,}[0m was elected chief executive of [4m[36m{the holding company 's}[0m two principal insurance subsidiaries . 
+(1) [31m{He}[0m succeeds Paul P. Aniskovich Jr. , who resigned to pursue other business interests , [4m[36m{the company}[0m said . 
+(2) [31m{Mr. Conway , 42 years old ,}[0m was elected chairman , president and chief executive of Manhattan Life Insurance Co. and president and chief executive of [4m[34m{Manhattan National Life Insurance Co}[0m . 
+(3) Harry Rossi , 69 , chairman of [4m[36m{the holding company}[0m , also remains chairman of [4m[34m{Manhattan National Life Insurance Co}[0m . 
+(4) [31m{Mr. Conway}[0m was executive vice president and chief investment officer of [4m[35m{Union Central Life Insurance Co. , of Cincinnati}[0m , in 1987 , when [4m[35m{Union Central}[0m bought a 54 % interest in [4m[36m{Manhattan National Corp}[0m . 
+(5) [31m{He}[0m resigned as an officer of [4m[35m{Central Life}[0m to accept the Manhattan National presidency . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1537); part 000
+sentences:
+ManhattanManhattanNNPORGPER0NationalNationalNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0MichaelMichaelNNPPERSONPER0A.A.NNPPERSONPER0ConwayConwayNNPPERSONPER0,,,OPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0,,,OPER0wasbeVBDOPER0electedelectVBNOPER0chiefchiefJJOPER0executiveexecutiveNNOPER0ofofINOPER0thetheDTOPER0holdingholdVBGOPER0companycompanyNNOPER0's'sPOSOPER0twotwoCDCARDINALPER0principalprincipalNNOPER0insuranceinsuranceNNOPER0subsidiariessubsidiaryNNSOPER0...OPER0(ROOT (S (NP (NNP Manhattan) (NNP National) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NP (NNP Michael) (NNP A.) (NNP Conway)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (JJ chief) (NN executive)) (PP (IN of) (NP (NP (DT the) (VBG holding) (NN company) (POS 's)) (NML (NML (CD two) (NN principal)) (NN insurance)) (NNS subsidiaries)))))))))) (. .)))
+HehePRPOPER0succeedssucceedVBZOPER0PaulPaulNNPPERSONPER0P.P.NNPPERSONPER0AniskovichAniskovichNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER0whowhoWPOPER0resignedresignVBDOPER0totoTOOPER0pursuepursueVBOPER0otherotherJJOPER0businessbusinessNNOPER0interestsinterestNNSOPER0,,,OPER0thetheDTOPER0companycompanyNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (VBZ succeeds) (NP (NP (NNP Paul) (NNP P.) (NNP Aniskovich) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (VP (TO to) (VP (VB pursue) (NP (JJ other) (NN business) (NNS interests))))))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+Mr.Mr.NNPOPER0ConwayConwayNNPPERSONPER0,,,OPER04242CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0wasbeVBDOPER0electedelectVBNOPER0chairmanchairmanNNOPER0,,,OPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveNNOPER0ofofINOPER0ManhattanManhattanNNPORGPER0LifeLifeNNPORGPER0InsuranceInsuranceNNPORGPER0Co.Co.NNPORGPER0andandCCOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveNNOPER0ofofINOPER0ManhattanManhattanNNPORGPER0NationalNationalNNPORGPER0LifeLifeNNPORGPER0InsuranceInsuranceNNPORGPER0CoCoNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Conway)) (, ,) (ADJP (NML (CD 42) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (NP (NP (NN chairman)) (, ,) (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NNP Manhattan) (NNP Life) (NNP Insurance) (NNP Co.)))) (CC and) (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co))))))) (. .)))
+HarryHarryNNPPERSONPER0RossiRossiNNPPERSONPER0,,,OPER06969CDDATEPER0,,,OPER0chairmanchairmanNNOPER0ofofINOPER0thetheDTOPER0holdingholdVBGOPER0companycompanyNNOPER0,,,OPER0alsoalsoRBOPER0remainsremainVBZOPER0chairmanchairmanNNOPER0ofofINOPER0ManhattanManhattanNNPORGPER0NationalNationalNNPORGPER0LifeLifeNNPORGPER0InsuranceInsuranceNNPORGPER0CoCoNNPORGPER0...OPER0(ROOT (S (NP (NP (NP (NNP Harry) (NNP Rossi)) (, ,) (NP (CD 69))) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (DT the) (VBG holding) (NN company)))) (, ,)) (ADVP (RB also)) (VP (VBZ remains) (NP (NP (NN chairman)) (PP (IN of) (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co))))) (. .)))
+Mr.Mr.NNPOPER0ConwayConwayNNPPERSONPER0wasbeVBDOPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0investmentinvestmentNNOPER0officerofficerNNOPER0ofofINOPER0UnionUnionNNPORGPER0CentralCentralNNPORGPER0LifeLifeNNPORGPER0InsuranceInsuranceNNPORGPER0Co.Co.NNPORGPER0,,,OPER0ofofINOPER0CincinnatiCincinnatiNNPGPEPER0,,,OPER0ininINOPER019871987CDDATEPER0,,,OPER0whenwhenWRBOPER0UnionUnionNNPORGPER0CentralCentralNNPORGPER0boughtbuyVBDOPER0aaDTOPER05454CDPERCENTPER0%%NNPERCENTPER0interestinterestNNOPER0ininINOPER0ManhattanManhattanNNPORGPER0NationalNationalNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Conway)) (VP (VBD was) (NP (NP (NP (JJ executive) (NN vice) (NN president)) (CC and) (NP (JJ chief) (NN investment) (NN officer))) (PP (IN of) (NP (NP (NNP Union) (NNP Central) (NML (NNP Life) (NNP Insurance)) (NNP Co.)) (, ,) (PP (IN of) (NP (NNP Cincinnati)))))) (, ,) (PP (IN in) (NP (NP (CD 1987)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Union) (NNP Central)) (VP (VBD bought) (NP (NP (DT a) (NML (CD 54) (NN %)) (NN interest)) (PP (IN in) (NP (NNP Manhattan) (NNP National) (NNP Corp)))))))))) (. .)))
+HehePRPOPER0resignedresignVBDOPER0asasINOPER0anaDTOPER0officerofficerNNOPER0ofofINOPER0CentralCentralNNPORGPER0LifeLifeNNPORGPER0totoTOOPER0acceptacceptVBOPER0thetheDTOPER0ManhattanManhattanNNPORGPER0NationalNationalNNPORGPER0presidencypresidencyNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD resigned) (PP (IN as) (NP (NP (DT an) (NN officer)) (PP (IN of) (NP (NNP Central) (NNP Life))))) (S (VP (TO to) (VP (VB accept) (NP (DT the) (NNP Manhattan) (NNP National) (NN presidency)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Manhattan) (NNP National) (NNP Corp.))
+sid=0 spanning 4 until 14 headed by 6 parsed as (NP (NP (NNP Michael) (NNP A.) (NNP Conway)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,))
+sid=0 spanning 19 until 23 headed by 21 parsed as (NP (DT the) (VBG holding) (NN company) (POS 's))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN company))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Conway)) (, ,) (ADJP (NML (CD 42) (NNS years)) (JJ old)) (, ,))
+sid=2 spanning 26 until 31 headed by 30 parsed as (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (VBG holding) (NN company))
+sid=3 spanning 15 until 20 headed by 19 parsed as (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Conway))
+sid=4 spanning 11 until 19 headed by 15 parsed as (NP (NP (NNP Union) (NNP Central) (NML (NNP Life) (NNP Insurance)) (NNP Co.)) (, ,) (PP (IN of) (NP (NNP Cincinnati))))
+sid=4 spanning 24 until 26 headed by 25 parsed as (NP (NNP Union) (NNP Central))
+sid=4 spanning 32 until 35 headed by 34 parsed as (NP (NNP Manhattan) (NNP National) (NNP Corp))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (NNP Central) (NNP Life))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Manhattan) (NNP National) (NNP Corp.))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNP Michael) (NNP A.) (NNP Conway)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,))
+sid=0 spanning 4 until 14 headed by 6 parsed as (NP (NP (NNP Michael) (NNP A.) (NNP Conway)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,))
+sid=0 spanning 8 until 13 headed by 8 parsed as (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))
+sid=0 spanning 19 until 27 headed by 26 parsed as (NP (NP (DT the) (VBG holding) (NN company) (POS 's)) (NML (NML (CD two) (NN principal)) (NN insurance)) (NNS subsidiaries))
+sid=0 spanning 19 until 23 headed by 21 parsed as (NP (DT the) (VBG holding) (NN company) (POS 's))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP Paul) (NNP P.) (NNP Aniskovich) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (VP (TO to) (VP (VB pursue) (NP (JJ other) (NN business) (NNS interests)))))))))
+sid=1 spanning 2 until 14 headed by 5 parsed as (NP (NP (NNP Paul) (NNP P.) (NNP Aniskovich) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (S (VP (TO to) (VP (VB pursue) (NP (JJ other) (NN business) (NNS interests)))))))))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (JJ other) (NN business) (NNS interests))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN company))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Conway)) (, ,) (ADJP (NML (CD 42) (NNS years)) (JJ old)) (, ,))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Conway)) (, ,) (ADJP (NML (CD 42) (NNS years)) (JJ old)) (, ,))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Conway))
+sid=2 spanning 3 until 6 headed by 5 parsed as old
+sid=2 spanning 9 until 31 headed by 9 parsed as (NP (NP (NP (NP (NN chairman)) (, ,) (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NNP Manhattan) (NNP Life) (NNP Insurance) (NNP Co.)))) (CC and) (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co))))
+sid=2 spanning 9 until 20 headed by 9 parsed as (NP (NP (NP (NN chairman)) (, ,) (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NNP Manhattan) (NNP Life) (NNP Insurance) (NNP Co.))))
+sid=2 spanning 16 until 20 headed by 19 parsed as (NP (NNP Manhattan) (NNP Life) (NNP Insurance) (NNP Co.))
+sid=2 spanning 21 until 25 headed by 21 parsed as (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive)))
+sid=2 spanning 26 until 31 headed by 30 parsed as (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NP (NP (NNP Harry) (NNP Rossi)) (, ,) (NP (CD 69))) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (DT the) (VBG holding) (NN company)))) (, ,))
+sid=3 spanning 0 until 11 headed by 1 parsed as (NP (NP (NP (NNP Harry) (NNP Rossi)) (, ,) (NP (CD 69))) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (DT the) (VBG holding) (NN company)))) (, ,))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (NP (NNP Harry) (NNP Rossi)) (, ,) (NP (CD 69)))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (CD 69))
+sid=3 spanning 5 until 10 headed by 5 parsed as (NP (NP (NN chairman)) (PP (IN of) (NP (DT the) (VBG holding) (NN company))))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (VBG holding) (NN company))
+sid=3 spanning 13 until 20 headed by 13 parsed as (NP (NP (NN chairman)) (PP (IN of) (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co))))
+sid=3 spanning 15 until 20 headed by 19 parsed as (NP (NNP Manhattan) (NNP National) (NNP Life) (NNP Insurance) (NNP Co))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Conway))
+sid=4 spanning 11 until 16 headed by 15 parsed as (NP (NP (NNP Union) (NNP Central) (NML (NNP Life) (NNP Insurance)) (NNP Co.)) (, ,) (PP (IN of) (NP (NNP Cincinnati))))
+sid=4 spanning 11 until 19 headed by 15 parsed as (NP (NP (NNP Union) (NNP Central) (NML (NNP Life) (NNP Insurance)) (NNP Co.)) (, ,) (PP (IN of) (NP (NNP Cincinnati))))
+sid=4 spanning 18 until 19 headed by 18 parsed as (NP (NNP Cincinnati))
+sid=4 spanning 21 until 22 headed by 21 parsed as (NP (NP (CD 1987)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Union) (NNP Central)) (VP (VBD bought) (NP (NP (DT a) (NML (CD 54) (NN %)) (NN interest)) (PP (IN in) (NP (NNP Manhattan) (NNP National) (NNP Corp))))))))
+sid=4 spanning 21 until 35 headed by 21 parsed as (NP (NP (CD 1987)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Union) (NNP Central)) (VP (VBD bought) (NP (NP (DT a) (NML (CD 54) (NN %)) (NN interest)) (PP (IN in) (NP (NNP Manhattan) (NNP National) (NNP Corp))))))))
+sid=4 spanning 24 until 26 headed by 25 parsed as (NP (NNP Union) (NNP Central))
+sid=4 spanning 27 until 35 headed by 30 parsed as (NP (NP (DT a) (NML (CD 54) (NN %)) (NN interest)) (PP (IN in) (NP (NNP Manhattan) (NNP National) (NNP Corp))))
+sid=4 spanning 32 until 35 headed by 34 parsed as (NP (NNP Manhattan) (NNP National) (NNP Corp))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 3 until 8 headed by 4 parsed as (NP (NP (DT an) (NN officer)) (PP (IN of) (NP (NNP Central) (NNP Life))))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (NNP Central) (NNP Life))
+sid=5 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (NNP Manhattan) (NNP National) (NN presidency))
+sid=5 spanning 11 until 13 headed by 12 parsed as National
+(end predicted mentions)
+---------gold clusters--------
+6 8 | { 'Manhattan National Life Insurance Co' 'Manhattan National Life Insurance Co' }
+10 11 14 | { 'Union Central Life Insurance Co. , of Cincinnati' 'Union Central' 'Central Life' }
+12 4 2 7 0 | { 'Manhattan National Corp' 'the company' 'the holding company 's' 'the holding company' 'Manhattan National Corp.' }
+5 3 1 13 9 | { 'Mr. Conway , 42 years old ,' 'He' 'Michael A. Conway , president and chief executive officer ,' 'He' 'Mr. Conway' }
+(end gold clusters)

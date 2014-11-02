@@ -1,0 +1,49 @@
+---------gloss--------
+(0) [1m[34m{Israeli Prime Minister Ehud Barak}[0m [1m[35m{said}[0m today [1m[34m{he}[0m will stop diplomatic contacts with [1m[36m{Yasser Arafat}[0m until after the Israeli election on February . 
+(1) Just yesterday , [1m[34m{he}[0m had agreed to meet with [1m[36m{the Palestinian leader}[0m this coming week in Sweden . 
+(2) [1m[35m{The announcement}[0m triggered harsh words from [1m[36m{Arafat}[0m at the Davos World Economic Forum , where [1m[36m{he}[0m spoke with Israeli elder statesman Shimon Peres . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0068); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0saidsayVBDOPER0todaytodayNNDATEPER0hehePRPOPER0willwillMDOPER0stopstopVBOPER0diplomaticdiplomaticJJOPER0contactscontactNNSOPER0withwithINOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0untiluntilINOPER0afterafterINOPER0thetheDTOPER0IsraeliisraeliJJOPER0electionelectionNNOPER0ononINOPER0FebruaryFebruaryNNPDATEPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD said) (NP (NN today)) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB stop) (NP (NP (JJ diplomatic) (NNS contacts)) (PP (IN with) (NP (NNP Yasser) (NNP Arafat)))) (PP (IN until) (PP (IN after) (NP (NP (DT the) (JJ Israeli) (NN election)) (PP (IN on) (NP (NNP February))))))))))) (. .)))
+JustjustRBDATEPER0yesterdayyesterdayNNDATEPER0,,,OPER0hehePRPOPER0hadhaveVBDOPER0agreedagreeVBNOPER0totoTOOPER0meetmeetVBOPER0withwithINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0thisthisDTDATEPER0comingcomeVBGDATEPER0weekweekNNDATEPER0ininINOPER0SwedenSwedenNNPGPEPER0...OPER0(ROOT (S (NP (RB Just) (NN yesterday)) (, ,) (NP (PRP he)) (VP (VBD had) (VP (VBN agreed) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (DT the) (JJ Palestinian) (NN leader))) (NP (DT this) (VBG coming) (NN week)) (PP (IN in) (NP (NNP Sweden)))))))) (. .)))
+ThetheDTOPER0announcementannouncementNNOPER0triggeredtriggerVBDOPER0harshharshJJOPER0wordswordNNSOPER0fromfromINOPER0ArafatArafatNNPPERSONPER0atatINOPER0thetheDTORGPER0DavosDavosNNPORGPER0WorldWorldNNPORGPER0EconomicEconomicNNPORGPER0ForumForumNNPORGPER0,,,OPER0wherewhereWRBOPER0hehePRPOPER0spokespeakVBDOPER0withwithINOPER0IsraeliisraeliJJOPER0elderelderJJOPER0statesmanstatesmanNNOPER0ShimonShimonNNPPERSONPER0PeresPeresNNPPERSONPER0...OPER0(ROOT (S (NP (DT The) (NN announcement)) (VP (VBD triggered) (NP (NP (JJ harsh) (NNS words)) (PP (IN from) (NP (NNP Arafat)))) (PP (IN at) (NP (NP (DT the) (NNP Davos) (NNP World) (NNP Economic) (NNP Forum)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD spoke) (PP (IN with) (NP (NP (JJ Israeli) (JJ elder) (NN statesman)) (NP (NNP Shimon) (NNP Peres)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 5 until 6 headed by 5 parsed as said
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NNP Yasser) (NNP Arafat))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (JJ Palestinian) (NN leader))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN announcement))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Arafat))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=0 spanning 10 until 15 headed by 11 parsed as (NP (NP (JJ diplomatic) (NNS contacts)) (PP (IN with) (NP (NNP Yasser) (NNP Arafat))))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NNP Yasser) (NNP Arafat))
+sid=0 spanning 17 until 22 headed by 19 parsed as (NP (NP (DT the) (JJ Israeli) (NN election)) (PP (IN on) (NP (NNP February))))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP February))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (RB Just) (NN yesterday))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (JJ Palestinian) (NN leader))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT this) (VBG coming) (NN week))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Sweden))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN announcement))
+sid=2 spanning 3 until 7 headed by 4 parsed as (NP (NP (JJ harsh) (NNS words)) (PP (IN from) (NP (NNP Arafat))))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Arafat))
+sid=2 spanning 8 until 13 headed by 12 parsed as (NP (NP (DT the) (NNP Davos) (NNP World) (NNP Economic) (NNP Forum)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD spoke) (PP (IN with) (NP (NP (JJ Israeli) (JJ elder) (NN statesman)) (NP (NNP Shimon) (NNP Peres))))))))
+sid=2 spanning 8 until 23 headed by 12 parsed as (NP (NP (DT the) (NNP Davos) (NNP World) (NNP Economic) (NNP Forum)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD spoke) (PP (IN with) (NP (NP (JJ Israeli) (JJ elder) (NN statesman)) (NP (NNP Shimon) (NNP Peres))))))))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (NNP Shimon) (NNP Peres))
+(end predicted mentions)
+---------gold clusters--------
+0 4 2 | { 'Israeli Prime Minister Ehud Barak' 'he' 'he' }
+6 1 | { 'The announcement' 'said' }
+8 3 7 5 | { 'he' 'Yasser Arafat' 'Arafat' 'the Palestinian leader' }
+(end gold clusters)

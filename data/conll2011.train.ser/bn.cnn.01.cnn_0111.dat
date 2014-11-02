@@ -1,0 +1,130 @@
+---------gloss--------
+(0) [4m[31m{She}[0m 's a forty - something , but [4m[31m{she}[0m just [4m[34m{does}[0m n't age . 
+(1) [4m[34m{That}[0m does n't mean [4m[31m{Barbie}[0m looks the same way [4m[31m{she}[0m used to . 
+(2) [4m[33m{Bob Glascoff}[0m reports in today 's edition of `` [4m[35m{Headliners}[0m . '' 
+(3) In November of 1997 , [4m[31m{Barbie}[0m gets [4m[32m{a makeover}[0m to give [4m[31m{her}[0m a more youthful and contemporary look . 
+(4) Toymaker Mattel , Inc. refined [4m[31m{Barbie 's}[0m gravity - defying proportions by slimming [4m[31m{her}[0m bust and hips and widening [4m[31m{her}[0m waist , as well as giving [4m[31m{her}[0m a new nose . 
+(5) [4m[31m{Barbie Millicent Roberts , named after the daughter of a Mattel co-founder ,}[0m hit store shelves in 1959 . 
+(6) [4m[31m{The buxom bombshell of a doll}[0m underwent two face - lifts in 1967 and 1977 , but critics continued to charge that [4m[31m{her}[0m abundant curves presented an unrealistic body ideal for young girls . 
+(7) [4m[32m{The 1997 makeover}[0m made [4m[31m{Barbie}[0m less busty and a little thicker around the middle . 
+(8) [4m[31m{She}[0m 's also doing [4m[31m{her}[0m part for medical science . 
+(9) Plastic knee joints from retired dolls are now used to make knuckles in prosthetic fingers for amputees at Duke University Medical Center . 
+(10) [4m[31m{The plastic princess}[0m has had more than 75 careers , including rock star , astronaut and presidential candidate . 
+(11) With `` [4m[35m{Headliners}[0m , '' [4m[33m{I}[0m 'm Bob Glascoff . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0111); part 000
+sentences:
+SheshePRPOPER0'sbeVBZOPER0aaDTOPER0fortyfortyCDMONEYPER0--HYPHOPER0somethingsomethingNNOPER0,,,OPER0butbutCCOPER0sheshePRPOPER0justjustRBOPER0doesdoVBZOPER0n'tnotRBOPER0ageageNNOPER0...OPER0(ROOT (S (S (NP (PRP She)) (VP (VBZ 's) (NP (DT a) (CD forty) (HYPH -) (NN something)))) (, ,) (CC but) (S (NP (PRP she)) (ADVP (RB just)) (VP (VBZ does) (RB n't) (VP (NN age)))) (. .)))
+ThatthatDTOPER0doesdoVBZOPER0n'tnotRBOPER0meanmeanVBOPER0BarbieBarbieNNPPRODUCTPER0lookslookVBZOPER0thetheDTOPER0samesameJJOPER0waywayNNOPER0sheshePRPOPER0useduseVBDOPER0totoTOOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ does) (RB n't) (VP (VB mean) (SBAR (S (NP (NNP Barbie)) (VP (VBZ looks) (NP (NP (DT the) (JJ same) (NN way)) (SBAR (S (NP (PRP she)) (VP (VBD used) (S (VP (TO to)))))))))))) (. .)))
+BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0reportsreportVBZOPER0ininINOPER0todaytodayNNDATEPER0's'sPOSOPER0editioneditionNNOPER0ofofINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER1...OPER1''''''OPER0(ROOT (S (NP (NNP Bob) (NNP Glascoff)) (VP (VBZ reports) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners)))))) (. .) ('' '')))
+IninINOPER0NovemberNovemberNNPDATEPER0ofofINDATEPER019971997CDDATEPER0,,,OPER0BarbieBarbieNNPPRODUCTPER0getsgetVBZOPER0aaDTOPER0makeovermakeoverNNOPER0totoTOOPER0givegiveVBOPER0hershePRPOPER0aaDTOPER0moremoreRBROPER0youthfulyouthfulJJOPER0andandCCOPER0contemporarycontemporaryJJOPER0looklookNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NNP November)) (PP (IN of) (NP (CD 1997))))) (, ,) (NP (NNP Barbie)) (VP (VBZ gets) (NP (NP (DT a) (NN makeover)) (SBAR (S (VP (TO to) (VP (VB give) (NP (PRP her)) (NP (DT a) (ADJP (ADJP (RBR more) (JJ youthful)) (CC and) (ADJP (JJ contemporary))) (NN look)))))))) (. .)))
+ToymakertoymakerNNORGPER0MattelMattelNNPORGPER0,,,ORGPER0Inc.Inc.NNPORGPER0refinedrefineVBNOPER0BarbieBarbieNNPPRODUCTPER0's'sPOSOPER0gravitygravityNNOPER0--HYPHOPER0defyingdefyVBGOPER0proportionsproportionNNSOPER0bybyINOPER0slimmingslimVBGOPER0hershePRP$OPER0bustbustNNOPER0andandCCOPER0hipshipNNSOPER0andandCCOPER0wideningwidenVBGOPER0hershePRP$OPER0waistwaistNNOPER0,,,OPER0asasRBOPER0wellwellRBOPER0asasINOPER0givinggiveVBGOPER0hershePRPOPER0aaDTOPER0newnewJJOPER0nosenoseNNOPER0...OPER0(ROOT (S (NP (NP (NN Toymaker)) (NP (NNP Mattel) (, ,) (NNP Inc.))) (VP (VBN refined) (NP (NP (NNP Barbie) (POS 's)) (ADJP (NN gravity) (HYPH -) (VBG defying)) (NNS proportions)) (PP (IN by) (S (VP (VP (VBG slimming) (NP (PRP$ her) (NN bust) (CC and) (NNS hips))) (CC and) (VP (VBG widening) (NP (PRP$ her) (NN waist))) (, ,) (CONJP (RB as) (RB well) (IN as)) (VP (VBG giving) (NP (PRP her)) (NP (DT a) (JJ new) (NN nose))))))) (. .)))
+BarbieBarbieNNPPERSONPER0MillicentMillicentNNPPERSONPER0RobertsRobertsNNPPERSONPER0,,,OPER0namednameVBNOPER0afterafterINOPER0thetheDTOPER0daughterdaughterNNOPER0ofofINOPER0aaDTOPER0MattelMattelNNPORGPER0co-founderco-founderNNOPER0,,,OPER0hithitVBDOPER0storestoreNNOPER0shelvesshelfNNSOPER0ininINOPER019591959CDDATEPER0...OPER0(ROOT (S (NP (NP (NNP Barbie) (NNP Millicent) (NNP Roberts)) (, ,) (VP (VBN named) (PP (IN after) (NP (NP (DT the) (NN daughter)) (PP (IN of) (NP (DT a) (NNP Mattel) (NN co-founder)))))) (, ,)) (VP (VBD hit) (NP (NN store) (NNS shelves)) (PP (IN in) (NP (CD 1959)))) (. .)))
+ThetheDTOPER0buxombuxomNNOPER0bombshellbombshellNNOPER0ofofINOPER0aaDTOPER0dolldollNNOPER0underwentundergoVBDOPER0twotwoCDCARDINALPER0facefaceNNOPER0--HYPHOPER0liftsliftNNSOPER0ininINOPER019671967CDDATEPER0andandCCDATEPER019771977CDDATEPER0,,,OPER0butbutCCOPER0criticscriticNNSOPER0continuedcontinueVBDOPER0totoTOOPER0chargechargeVBOPER0thatthatINOPER0hershePRP$OPER0abundantabundantJJOPER0curvescurveNNSOPER0presentedpresentVBDOPER0anaDTOPER0unrealisticunrealisticJJOPER0bodybodyNNOPER0idealidealNNOPER0forforINOPER0youngyoungJJOPER0girlsgirlNNSOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (NN buxom) (NN bombshell)) (PP (IN of) (NP (DT a) (NN doll)))) (VP (VBD underwent) (NP (CD two) (NN face) (HYPH -) (NNS lifts)) (PP (IN in) (NP (CD 1967) (CC and) (CD 1977))))) (, ,) (CC but) (S (NP (NNS critics)) (VP (VBD continued) (S (VP (TO to) (VP (VB charge) (SBAR (IN that) (S (NP (PRP$ her) (JJ abundant) (NNS curves)) (VP (VBD presented) (NP (NP (DT an) (JJ unrealistic) (NN body) (NN ideal)) (PP (IN for) (NP (JJ young) (NNS girls)))))))))))) (. .)))
+ThetheDTOPER019971997CDDATEPER0makeovermakeoverNNOPER0mademakeVBDOPER0BarbieBarbieNNPPRODUCTPER0lesslessRBROPER0bustybustyJJOPER0andandCCOPER0aaDTOPER0littlelittleJJOPER0thickerthickerJJROPER0aroundaroundINOPER0thetheDTOPER0middlemiddleNNOPER0...OPER0(ROOT (S (NP (DT The) (CD 1997) (NN makeover)) (VP (VBD made) (S (NP (NNP Barbie)) (ADJP (ADJP (RBR less) (JJ busty)) (CC and) (ADJP (ADJP (NP (DT a) (JJ little)) (JJR thicker)) (PP (IN around) (NP (DT the) (NN middle))))))) (. .)))
+SheshePRPOPER0'sbeVBZOPER0alsoalsoRBOPER0doingdoVBGOPER0hershePRP$OPER0partpartNNOPER0forforINOPER0medicalmedicalJJOPER0sciencescienceNNOPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBZ 's) (ADVP (RB also)) (VP (VBG doing) (NP (PRP$ her) (NN part)) (PP (IN for) (NP (JJ medical) (NN science))))) (. .)))
+PlasticplasticJJOPER0kneekneeNNOPER0jointsjointNNSOPER0fromfromINOPER0retiredretireVBNOPER0dollsdollNNSOPER0arebeVBPOPER0nownowRBOPER0useduseVBNOPER0totoTOOPER0makemakeVBOPER0knucklesknuckleNNSOPER0ininINOPER0prostheticprostheticNNOPER0fingersfingerNNSOPER0forforINOPER0amputeesamputeeNNSOPER0atatINOPER0DukeDukeNNPORGPER0UniversityUniversityNNPORGPER0MedicalMedicalNNPORGPER0CenterCenterNNPORGPER0...OPER0(ROOT (S (NP (NP (JJ Plastic) (NN knee) (NNS joints)) (PP (IN from) (NP (VBN retired) (NNS dolls)))) (VP (VBP are) (ADVP (RB now)) (VP (VBN used) (S (VP (TO to) (VP (VB make) (NP (NP (NNS knuckles)) (PP (IN in) (NP (NN prosthetic) (NNS fingers)))) (PP (IN for) (NP (NP (NNS amputees)) (PP (IN at) (NP (NML (NNP Duke) (NNP University)) (NNP Medical) (NNP Center)))))))))) (. .)))
+ThetheDTOPER0plasticplasticJJOPER0princessprincessNNOPER0hashaveVBZOPER0hadhaveVBNOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER07575CDCARDINALPER0careerscareerNNSOPER0,,,OPER0includingincludeVBGOPER0rockrockNNOPER0starstarNNOPER0,,,OPER0astronautastronautNNOPER0andandCCOPER0presidentialpresidentialJJOPER0candidatecandidateNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ plastic) (NN princess)) (VP (VBZ has) (VP (VBN had) (NP (NP (QP (XS (JJR more) (IN than)) (CD 75)) (NNS careers)) (, ,) (PP (VBG including) (NP (NP (NN rock) (NN star)) (, ,) (NP (NN astronaut)) (CC and) (NP (JJ presidential) (NN candidate))))))) (. .)))
+WithwithINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER2,,,OPER2''''''OPER0IIPRPOPER0'mbeVBPOPER0BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0...OPER0(ROOT (S (PP (IN With) (`` ``) (NP (NNPS Headliners))) (, ,) ('' '') (NP (PRP I)) (VP (VBP 'm) (NP (NNP Bob) (NNP Glascoff))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP she))
+sid=0 spanning 10 until 11 headed by 10 parsed as does
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Barbie))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP she))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNPS Headliners))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NNP Barbie))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (NP (DT a) (NN makeover)) (SBAR (S (VP (TO to) (VP (VB give) (NP (PRP her)) (NP (DT a) (ADJP (ADJP (RBR more) (JJ youthful)) (CC and) (ADJP (JJ contemporary))) (NN look)))))))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (PRP her))
+sid=4 spanning 5 until 7 headed by 5 parsed as (NP (NNP Barbie) (POS 's))
+sid=4 spanning 13 until 14 headed by 13 parsed as her
+sid=4 spanning 19 until 20 headed by 19 parsed as her
+sid=4 spanning 26 until 27 headed by 26 parsed as (NP (PRP her))
+sid=5 spanning 0 until 13 headed by 2 parsed as (NP (NP (NNP Barbie) (NNP Millicent) (NNP Roberts)) (, ,) (VP (VBN named) (PP (IN after) (NP (NP (DT the) (NN daughter)) (PP (IN of) (NP (DT a) (NNP Mattel) (NN co-founder)))))) (, ,))
+sid=6 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (NN buxom) (NN bombshell)) (PP (IN of) (NP (DT a) (NN doll))))
+sid=6 spanning 22 until 23 headed by 22 parsed as her
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD 1997) (NN makeover))
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (NNP Barbie))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=8 spanning 4 until 5 headed by 4 parsed as her
+sid=10 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ plastic) (NN princess))
+sid=11 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=0 spanning 2 until 6 headed by 5 parsed as (NP (DT a) (CD forty) (HYPH -) (NN something))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP she))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Barbie))
+sid=1 spanning 6 until 12 headed by 8 parsed as (NP (NP (DT the) (JJ same) (NN way)) (SBAR (S (NP (PRP she)) (VP (VBD used) (S (VP (TO to)))))))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP she))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=2 spanning 4 until 10 headed by 6 parsed as (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))
+sid=2 spanning 4 until 6 headed by 4 parsed as (NP (NN today) (POS 's))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNPS Headliners))
+sid=3 spanning 1 until 4 headed by 1 parsed as (NP (NP (NNP November)) (PP (IN of) (NP (CD 1997))))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NNP Barbie))
+sid=3 spanning 7 until 18 headed by 8 parsed as (NP (NP (DT a) (NN makeover)) (SBAR (S (VP (TO to) (VP (VB give) (NP (PRP her)) (NP (DT a) (ADJP (ADJP (RBR more) (JJ youthful)) (CC and) (ADJP (JJ contemporary))) (NN look)))))))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (PRP her))
+sid=3 spanning 12 until 18 headed by 17 parsed as (NP (DT a) (ADJP (ADJP (RBR more) (JJ youthful)) (CC and) (ADJP (JJ contemporary))) (NN look))
+sid=4 spanning 0 until 4 headed by 0 parsed as (NP (NP (NN Toymaker)) (NP (NNP Mattel) (, ,) (NNP Inc.)))
+sid=4 spanning 5 until 11 headed by 10 parsed as (NP (NP (NNP Barbie) (POS 's)) (ADJP (NN gravity) (HYPH -) (VBG defying)) (NNS proportions))
+sid=4 spanning 5 until 7 headed by 5 parsed as (NP (NNP Barbie) (POS 's))
+sid=4 spanning 13 until 17 headed by 14 parsed as (NP (PRP$ her) (NN bust) (CC and) (NNS hips))
+sid=4 spanning 13 until 14 headed by 13 parsed as (PRP$ her)
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ her) (NN waist))
+sid=4 spanning 19 until 20 headed by 19 parsed as (PRP$ her)
+sid=4 spanning 26 until 27 headed by 26 parsed as (NP (PRP her))
+sid=4 spanning 27 until 30 headed by 29 parsed as (NP (DT a) (JJ new) (NN nose))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Barbie) (NNP Millicent) (NNP Roberts)) (, ,) (VP (VBN named) (PP (IN after) (NP (NP (DT the) (NN daughter)) (PP (IN of) (NP (DT a) (NNP Mattel) (NN co-founder)))))) (, ,))
+sid=5 spanning 0 until 13 headed by 2 parsed as (NP (NP (NNP Barbie) (NNP Millicent) (NNP Roberts)) (, ,) (VP (VBN named) (PP (IN after) (NP (NP (DT the) (NN daughter)) (PP (IN of) (NP (DT a) (NNP Mattel) (NN co-founder)))))) (, ,))
+sid=5 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT the) (NN daughter)) (PP (IN of) (NP (DT a) (NNP Mattel) (NN co-founder))))
+sid=5 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (NNP Mattel) (NN co-founder))
+sid=5 spanning 10 until 11 headed by 10 parsed as Mattel
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (NN store) (NNS shelves))
+sid=5 spanning 17 until 18 headed by 17 parsed as (NP (CD 1959))
+sid=6 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (NN buxom) (NN bombshell)) (PP (IN of) (NP (DT a) (NN doll))))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (DT a) (NN doll))
+sid=6 spanning 7 until 11 headed by 10 parsed as (NP (CD two) (NN face) (HYPH -) (NNS lifts))
+sid=6 spanning 12 until 15 headed by 12 parsed as (NP (CD 1967) (CC and) (CD 1977))
+sid=6 spanning 17 until 18 headed by 17 parsed as (NP (NNS critics))
+sid=6 spanning 22 until 25 headed by 24 parsed as (NP (PRP$ her) (JJ abundant) (NNS curves))
+sid=6 spanning 22 until 23 headed by 22 parsed as (PRP$ her)
+sid=6 spanning 26 until 33 headed by 29 parsed as (NP (NP (DT an) (JJ unrealistic) (NN body) (NN ideal)) (PP (IN for) (NP (JJ young) (NNS girls))))
+sid=6 spanning 31 until 33 headed by 32 parsed as (NP (JJ young) (NNS girls))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD 1997) (NN makeover))
+sid=7 spanning 1 until 2 headed by 1 parsed as 1997
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (NNP Barbie))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (JJ little))
+sid=7 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN middle))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=8 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ her) (NN part))
+sid=8 spanning 4 until 5 headed by 4 parsed as (PRP$ her)
+sid=9 spanning 0 until 6 headed by 2 parsed as (NP (NP (JJ Plastic) (NN knee) (NNS joints)) (PP (IN from) (NP (VBN retired) (NNS dolls))))
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (VBN retired) (NNS dolls))
+sid=9 spanning 11 until 15 headed by 11 parsed as (NP (NP (NNS knuckles)) (PP (IN in) (NP (NN prosthetic) (NNS fingers))))
+sid=9 spanning 13 until 15 headed by 14 parsed as (NP (NN prosthetic) (NNS fingers))
+sid=9 spanning 16 until 22 headed by 16 parsed as (NP (NP (NNS amputees)) (PP (IN at) (NP (NML (NNP Duke) (NNP University)) (NNP Medical) (NNP Center))))
+sid=9 spanning 18 until 22 headed by 21 parsed as (NP (NML (NNP Duke) (NNP University)) (NNP Medical) (NNP Center))
+sid=10 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ plastic) (NN princess))
+sid=10 spanning 5 until 18 headed by 8 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD 75)) (NNS careers)) (, ,) (PP (VBG including) (NP (NP (NN rock) (NN star)) (, ,) (NP (NN astronaut)) (CC and) (NP (JJ presidential) (NN candidate)))))
+sid=10 spanning 5 until 9 headed by 8 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 75)) (NNS careers))
+sid=10 spanning 11 until 18 headed by 12 parsed as (NP (NP (NN rock) (NN star)) (, ,) (NP (NN astronaut)) (CC and) (NP (JJ presidential) (NN candidate)))
+sid=10 spanning 11 until 13 headed by 12 parsed as (NP (NN rock) (NN star))
+sid=11 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=11 spanning 7 until 9 headed by 8 parsed as (NP (NNP Bob) (NNP Glascoff))
+(end predicted mentions)
+---------gold clusters--------
+17 14 21 19 10 4 20 12 13 15 11 22 16 8 0 1 5 | { 'her' 'her' 'her' 'Barbie' 'her' 'Barbie' 'She' 'her' 'her' 'Barbie Millicent Roberts , named after the daughter of a Mattel co-founder ,' 'Barbie 's' 'The plastic princess' 'The buxom bombshell of a doll' 'Barbie' 'She' 'she' 'she' }
+9 18 | { 'a makeover' 'The 1997 makeover' }
+6 24 | { 'Bob Glascoff' 'I' }
+2 3 | { 'does' 'That' }
+23 7 | { 'Headliners' 'Headliners' }
+(end gold clusters)

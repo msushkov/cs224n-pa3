@@ -1,0 +1,47 @@
+---------gloss--------
+(0) [32m{The Soviet Union}[0m prepares to withdraw Soviet troops stationed in [31m{Poland}[0m starting in May of this year and withdraw completely before the middle of 1994 . 
+(1) This is the suggestion put forward by Soviet side in Polish - Soviet negotiations being held in Warsaw concerning issues of [32m{the Soviet Union}[0m withdrawing troops from [31m{Poland}[0m and [32m{Russia}[0m 's troops going across the border . 
+(2) Currently , there are about 50,000 Soviet troops stationed in [31m{Poland}[0m . 
+(end gloss)
+---------document--------
+(nw/xinhua/01/chtb_0172); part 000
+sentences:
+ThetheDTGPEPER0SovietSovietNNPGPEPER0UnionUnionNNPGPEPER0preparesprepareVBZOPER0totoTOOPER0withdrawwithdrawVBOPER0SovietsovietJJOPER0troopstroopsNNSOPER0stationedstationVBNOPER0ininINOPER0PolandPolandNNPGPEPER0startingstartVBGOPER0ininINOPER0MayMayNNPDATEPER0ofofINDATEPER0thisthisDTDATEPER0yearyearNNDATEPER0andandCCOPER0withdrawwithdrawVBOPER0completelycompletelyRBOPER0beforebeforeINOPER0thetheDTDATEPER0middlemiddleNNDATEPER0ofofINDATEPER019941994CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP Soviet) (NNP Union)) (VP (VBZ prepares) (S (VP (TO to) (VP (VP (VB withdraw) (NP (NP (JJ Soviet) (NNS troops)) (VP (VBN stationed) (PP (IN in) (NP (NNP Poland))))) (S (VP (VBG starting) (PP (IN in) (NP (NP (NNP May)) (PP (IN of) (NP (DT this) (NN year)))))))) (CC and) (VP (VB withdraw) (PP (ADVP (RB completely)) (IN before) (NP (NP (DT the) (NN middle)) (PP (IN of) (NP (CD 1994)))))))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0thetheDTOPER0suggestionsuggestionNNOPER0putputVBNOPER0forwardforwardRPOPER0bybyINOPER0SovietSovietNNPOPER0sidesideNNOPER0ininINOPER0PolishPolishNNPOPER0--HYPHOPER0SovietSovietNNPOPER0negotiationsnegotiationNNSOPER0beingbeVBGOPER0heldholdVBNOPER0ininINOPER0WarsawWarsawNNPGPEPER0concerningconcernVBGOPER0issuesissueNNSOPER0ofofINOPER0thetheDTGPEPER0SovietSovietNNPGPEPER0UnionUnionNNPGPEPER0withdrawingwithdrawVBGOPER0troopstroopsNNSOPER0fromfromINOPER0PolandPolandNNPGPEPER0andandCCOPER0RussiaRussiaNNPGPEPER0's'sPOSOPER0troopstroopsNNSOPER0goinggoVBGOPER0acrossacrossINOPER0thetheDTOPER0borderborderNNOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (NN suggestion)) (VP (VBN put) (PRT (RP forward)) (PP (IN by) (NP (NNP Soviet) (NN side))) (PP (IN in) (NP (NP (NML (NNP Polish) (HYPH -) (NNP Soviet)) (NNS negotiations)) (VP (VBG being) (VP (VBN held) (PP (IN in) (NP (NNP Warsaw))) (PP (VBG concerning) (S (NP (NP (NNS issues)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union)))) (VP (VBG withdrawing) (NP (NNS troops)) (PP (IN from) (S (NP (NP (NP (NNP Poland) (CC and) (NNP Russia)) (POS 's)) (NNS troops)) (VP (VBG going) (PP (IN across) (NP (DT the) (NN border)))))))))))))))) (. .)))
+CurrentlycurrentlyRBOPER0,,,OPER0therethereEXOPER0arebeVBPOPER0aboutaboutRBCARDINALPER050,00050,000CDCARDINALPER0SovietSovietNNPOPER0troopstroopsNNSOPER0stationedstationVBNOPER0ininINOPER0PolandPolandNNPGPEPER0...OPER0(ROOT (S (ADVP (RB Currently)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (QP (RB about) (CD 50,000)) (NNP Soviet) (NNS troops)) (VP (VBN stationed) (PP (IN in) (NP (NNP Poland)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Soviet) (NNP Union))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Poland))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NNP Soviet) (NNP Union))
+sid=1 spanning 27 until 28 headed by 27 parsed as (NP (NP (NNP Poland) (CC and) (NNP Russia)) (POS 's))
+sid=1 spanning 29 until 30 headed by 29 parsed as Russia
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Poland))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Soviet) (NNP Union))
+sid=0 spanning 6 until 11 headed by 7 parsed as (NP (NP (JJ Soviet) (NNS troops)) (VP (VBN stationed) (PP (IN in) (NP (NNP Poland)))))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Poland))
+sid=0 spanning 13 until 17 headed by 13 parsed as (NP (NP (NNP May)) (PP (IN of) (NP (DT this) (NN year))))
+sid=0 spanning 21 until 25 headed by 22 parsed as (NP (NP (DT the) (NN middle)) (PP (IN of) (NP (CD 1994))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=1 spanning 2 until 36 headed by 3 parsed as (NP (NP (DT the) (NN suggestion)) (VP (VBN put) (PRT (RP forward)) (PP (IN by) (NP (NNP Soviet) (NN side))) (PP (IN in) (NP (NP (NML (NNP Polish) (HYPH -) (NNP Soviet)) (NNS negotiations)) (VP (VBG being) (VP (VBN held) (PP (IN in) (NP (NNP Warsaw))) (PP (VBG concerning) (S (NP (NP (NNS issues)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union)))) (VP (VBG withdrawing) (NP (NNS troops)) (PP (IN from) (S (NP (NP (NP (NNP Poland) (CC and) (NNP Russia)) (POS 's)) (NNS troops)) (VP (VBG going) (PP (IN across) (NP (DT the) (NN border)))))))))))))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP Soviet) (NN side))
+sid=1 spanning 10 until 36 headed by 13 parsed as (NP (NP (NML (NNP Polish) (HYPH -) (NNP Soviet)) (NNS negotiations)) (VP (VBG being) (VP (VBN held) (PP (IN in) (NP (NNP Warsaw))) (PP (VBG concerning) (S (NP (NP (NNS issues)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union)))) (VP (VBG withdrawing) (NP (NNS troops)) (PP (IN from) (S (NP (NP (NP (NNP Poland) (CC and) (NNP Russia)) (POS 's)) (NNS troops)) (VP (VBG going) (PP (IN across) (NP (DT the) (NN border))))))))))))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Warsaw))
+sid=1 spanning 19 until 24 headed by 19 parsed as (NP (NP (NNS issues)) (PP (IN of) (NP (DT the) (NNP Soviet) (NNP Union))))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NNP Soviet) (NNP Union))
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (NNS troops))
+sid=1 spanning 27 until 32 headed by 31 parsed as (NP (NP (NP (NNP Poland) (CC and) (NNP Russia)) (POS 's)) (NNS troops))
+sid=1 spanning 27 until 28 headed by 27 parsed as (NP (NP (NNP Poland) (CC and) (NNP Russia)) (POS 's))
+sid=1 spanning 27 until 31 headed by 27 parsed as (NP (NP (NNP Poland) (CC and) (NNP Russia)) (POS 's))
+sid=1 spanning 29 until 31 headed by 29 parsed as Russia
+sid=1 spanning 34 until 36 headed by 35 parsed as (NP (DT the) (NN border))
+sid=2 spanning 4 until 11 headed by 7 parsed as (NP (NP (QP (RB about) (CD 50,000)) (NNP Soviet) (NNS troops)) (VP (VBN stationed) (PP (IN in) (NP (NNP Poland)))))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Poland))
+(end predicted mentions)
+---------gold clusters--------
+3 1 5 | { 'Poland' 'Poland' 'Poland' }
+4 2 0 | { 'Russia' 'the Soviet Union' 'The Soviet Union' }
+(end gold clusters)

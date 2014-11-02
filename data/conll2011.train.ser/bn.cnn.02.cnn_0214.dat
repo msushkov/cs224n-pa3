@@ -1,0 +1,49 @@
+---------gloss--------
+(0) Call [3m[32m{him}[0m the Man With [3m[33m{The Golden Guns}[0m . 
+(1) [3m[31m{Saddam Hussein 's}[0m son Uday was apparently the owner of [3m[33m{74 golden guns}[0m . 
+(2) The AKs in [3m[33m{the stash}[0m were gold - plated . 
+(3) There also were silver and nickel - plated weapons . 
+(4) One that was a gift from [3m[31m{Saddam}[0m had an engraving from [3m[31m{the former Iraqi leader}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0214); part 000
+sentences:
+CallcallVBOPER0himhePRPOPER0thetheDTWORK_OF_ARTPER0ManmanNNWORK_OF_ARTPER0WithwithINWORK_OF_ARTPER0ThetheDTWORK_OF_ARTPER0GoldengoldenJJWORK_OF_ARTPER0GunsgunNNSWORK_OF_ARTPER0...OPER0(ROOT (S (VP (VB Call) (S (NP (PRP him)) (NP (NP (DT the) (NN Man)) (PP (IN With) (NP (DT The) (JJ Golden) (NNS Guns)))))) (. .)))
+SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0's'sPOSPERSONPER0sonsonNNOPER0UdayUdayNNPPERSONPER0wasbeVBDOPER0apparentlyapparentlyRBOPER0thetheDTOPER0ownerownerNNOPER0ofofINOPER07474CDCARDINALPER0goldengoldenJJOPER0gunsgunNNSOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (NN son)) (NP (NNP Uday))) (VP (VBD was) (ADVP (RB apparently)) (NP (NP (DT the) (NN owner)) (PP (IN of) (NP (CD 74) (JJ golden) (NNS guns))))) (. .)))
+ThetheDTOPER0AKsakNNSORGPER0ininINOPER0thetheDTOPER0stashstashNNOPER0werebeVBDOPER0goldgoldNNOPER0--HYPHOPER0platedplateVBNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS AKs)) (PP (IN in) (NP (DT the) (NN stash)))) (VP (VBD were) (ADJP (NN gold) (HYPH -) (VBN plated))) (. .)))
+TherethereEXOPER0alsoalsoRBOPER0werebeVBDOPER0silversilverNNOPER0andandCCOPER0nickelnickelNNOPER0--HYPHOPER0platedplateVBNOPER0weaponsweaponNNSOPER0...OPER0(ROOT (S (NP (EX There)) (ADVP (RB also)) (VP (VBD were) (ADJP (NML (NN silver) (CC and) (NN nickel)) (HYPH -) (VBN plated)) (NP (NNS weapons))) (. .)))
+OneoneCDCARDINALPER0thatthatWDTOPER0wasbeVBDOPER0aaDTOPER0giftgiftNNOPER0fromfromINOPER0SaddamSaddamNNPFACPER0hadhaveVBDOPER0anaDTOPER0engravingengravingNNOPER0fromfromINOPER0thetheDTOPER0formerformerJJOPER0IraqiiraqiJJOPER0leaderleaderNNOPER0...OPER0(ROOT (S (NP (NP (CD One)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (NP (DT a) (NN gift)) (PP (IN from) (NP (NNP Saddam)))))))) (VP (VBD had) (NP (NP (DT an) (NN engraving)) (PP (IN from) (NP (DT the) (JJ former) (JJ Iraqi) (NN leader))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (PRP him))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT The) (JJ Golden) (NNS Guns))
+sid=1 spanning 0 until 5 headed by 3 parsed as (NP (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (NN son)) (NP (NNP Uday)))
+sid=1 spanning 0 until 3 headed by 1 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (CD 74) (JJ golden) (NNS guns))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN stash))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Saddam))
+sid=4 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (JJ former) (JJ Iraqi) (NN leader))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (PRP him))
+sid=0 spanning 2 until 8 headed by 3 parsed as (NP (NP (DT the) (NN Man)) (PP (IN With) (NP (DT The) (JJ Golden) (NNS Guns))))
+sid=1 spanning 0 until 5 headed by 3 parsed as (NP (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (NN son)) (NP (NNP Uday)))
+sid=1 spanning 0 until 3 headed by 1 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Uday))
+sid=1 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT the) (NN owner)) (PP (IN of) (NP (CD 74) (JJ golden) (NNS guns))))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (CD 74) (JJ golden) (NNS guns))
+sid=2 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NNS AKs)) (PP (IN in) (NP (DT the) (NN stash))))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN stash))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNS weapons))
+sid=4 spanning 0 until 7 headed by 0 parsed as (NP (NP (CD One)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (NP (DT a) (NN gift)) (PP (IN from) (NP (NNP Saddam))))))))
+sid=4 spanning 3 until 7 headed by 4 parsed as (NP (NP (DT a) (NN gift)) (PP (IN from) (NP (NNP Saddam))))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Saddam))
+sid=4 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT an) (NN engraving)) (PP (IN from) (NP (DT the) (JJ former) (JJ Iraqi) (NN leader))))
+sid=4 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (JJ former) (JJ Iraqi) (NN leader))
+(end predicted mentions)
+---------gold clusters--------
+3 7 6 | { 'Saddam Hussein 's' 'the former Iraqi leader' 'Saddam' }
+2 0 | { 'Saddam Hussein 's son Uday' 'him' }
+1 5 4 | { 'The Golden Guns' 'the stash' '74 golden guns' }
+(end gold clusters)

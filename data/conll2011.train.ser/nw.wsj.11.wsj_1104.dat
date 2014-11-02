@@ -1,0 +1,41 @@
+---------gloss--------
+(0) Mexico exported an average of 1,296,800 barrels of crude oil a day at an average of $ 15.31 a barrel during [3m[32m{1989 's first eight months}[0m for a total of $ 4.82 billion , [3m[31m{Petroleos Mexicanos S.A.}[0m said . 
+(1) [3m[31m{The state petroleum monopoly}[0m said sales in [3m[32m{the period}[0m gained 15 % , and $ 262.4 million more than originally projected at an average of $ 10 a barrel on an export platform of 1,250,000 barrels a day . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1104); part 000
+sentences:
+MexicoMexicoNNPGPEPER0exportedexportVBDOPER0anaDTOPER0averageaverageNNOPER0ofofINOPER01,296,8001,296,800CDQUANTITYPER0barrelsbarrelNNSQUANTITYPER0ofofINOPER0crudecrudeJJOPER0oiloilNNOPER0aaDTOPER0daydayNNOPER0atatINOPER0anaDTOPER0averageaverageNNOPER0ofofINOPER0$$$MONEYPER015.3115.31CDMONEYPER0aaDTOPER0barrelbarrelNNOPER0duringduringINOPER019891989CDDATEPER0's'sPOSDATEPER0firstfirstJJDATEPER0eighteightCDDATEPER0monthsmonthNNSDATEPER0forforINOPER0aaDTOPER0totaltotalNNOPER0ofofINOPER0$$$MONEYPER04.824.82CDMONEYPER0billionbillionCDMONEYPER0,,,OPER0PetroleosPetroleosNNPORGPER0MexicanosMexicanosNNPORGPER0S.A.S.A.NNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NNP Mexico)) (VP (VBD exported) (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP (NP (CD 1,296,800) (NNS barrels)) (PP (IN of) (NP (JJ crude) (NN oil)))) (NP (DT a) (NN day))))) (PP (IN at) (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP ($ $) (CD 15.31)) (NP (DT a) (NN barrel)))))) (PP (IN during) (NP (NP (NP (CD 1989) (POS 's)) (JJ first) (CD eight) (NNS months)) (PP (IN for) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP ($ $) (CD 4.82) (CD billion)))))))))) (, ,) (NP (NML (NNP Petroleos) (NNP Mexicanos)) (NNP S.A.)) (VP (VBD said)) (. .)))
+ThetheDTOPER0statestateNNOPER0petroleumpetroleumNNOPER0monopolymonopolyNNOPER0saidsayVBDOPER0salessaleNNSOPER0ininINOPER0thetheDTOPER0periodperiodNNOPER0gainedgainVBDOPER01515CDPERCENTPER0%%NNPERCENTPER0,,,OPER0andandCCOPER0$$$MONEYPER0262.4262.4CDMONEYPER0millionmillionCDMONEYPER0moremoreJJROPER0thanthanINOPER0originallyoriginallyRBOPER0projectedprojectVBNOPER0atatINOPER0anaDTOPER0averageaverageNNOPER0ofofINOPER0$$$MONEYPER01010CDMONEYPER0aaDTOPER0barrelbarrelNNOPER0ononINOPER0anaDTOPER0exportexportNNOPER0platformplatformNNOPER0ofofINOPER01,250,0001,250,000CDQUANTITYPER0barrelsbarrelNNSQUANTITYPER0aaDTDATEPER0daydayNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NN state) (NN petroleum) (NN monopoly)) (VP (VBD said) (SBAR (S (NP (NP (NNS sales)) (PP (IN in) (NP (DT the) (NN period)))) (VP (VBD gained) (NP (CD 15) (NN %)) (, ,) (NAC (CC and) (NP (NP (QP ($ $) (CD 262.4) (CD million)) (JJR more)) (SBAR (IN than) (S (ADVP (RB originally)) (VP (VBN projected) (PP (IN at) (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP ($ $) (CD 10)) (NP (DT a) (NN barrel)))))) (PP (IN on) (NP (NP (DT an) (NN export) (NN platform)) (PP (IN of) (NP (NP (CD 1,250,000) (NNS barrels)) (NP (DT a) (NN day))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 21 until 26 headed by 25 parsed as (NP (NP (NP (CD 1989) (POS 's)) (JJ first) (CD eight) (NNS months)) (PP (IN for) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP ($ $) (CD 4.82) (CD billion)))))))
+sid=0 spanning 34 until 37 headed by 36 parsed as (NP (NML (NNP Petroleos) (NNP Mexicanos)) (NNP S.A.))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NN state) (NN petroleum) (NN monopoly))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN period))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Mexico))
+sid=0 spanning 2 until 12 headed by 3 parsed as (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP (NP (CD 1,296,800) (NNS barrels)) (PP (IN of) (NP (JJ crude) (NN oil)))) (NP (DT a) (NN day)))))
+sid=0 spanning 5 until 12 headed by 6 parsed as (NP (NP (NP (CD 1,296,800) (NNS barrels)) (PP (IN of) (NP (JJ crude) (NN oil)))) (NP (DT a) (NN day)))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (DT a) (NN day))
+sid=0 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP ($ $) (CD 15.31)) (NP (DT a) (NN barrel)))))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (DT a) (NN barrel))
+sid=0 spanning 21 until 33 headed by 25 parsed as (NP (NP (NP (CD 1989) (POS 's)) (JJ first) (CD eight) (NNS months)) (PP (IN for) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP ($ $) (CD 4.82) (CD billion)))))))
+sid=0 spanning 27 until 33 headed by 28 parsed as (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP ($ $) (CD 4.82) (CD billion)))))
+sid=0 spanning 34 until 37 headed by 36 parsed as (NP (NML (NNP Petroleos) (NNP Mexicanos)) (NNP S.A.))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NN state) (NN petroleum) (NN monopoly))
+sid=1 spanning 5 until 9 headed by 5 parsed as (NP (NP (NNS sales)) (PP (IN in) (NP (DT the) (NN period))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN period))
+sid=1 spanning 14 until 38 headed by 17 parsed as (NP (NP (QP ($ $) (CD 262.4) (CD million)) (JJR more)) (SBAR (IN than) (S (ADVP (RB originally)) (VP (VBN projected) (PP (IN at) (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP ($ $) (CD 10)) (NP (DT a) (NN barrel)))))) (PP (IN on) (NP (NP (DT an) (NN export) (NN platform)) (PP (IN of) (NP (NP (CD 1,250,000) (NNS barrels)) (NP (DT a) (NN day))))))))))
+sid=1 spanning 22 until 29 headed by 23 parsed as (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP ($ $) (CD 10)) (NP (DT a) (NN barrel)))))
+sid=1 spanning 27 until 29 headed by 28 parsed as (NP (DT a) (NN barrel))
+sid=1 spanning 30 until 38 headed by 32 parsed as (NP (NP (DT an) (NN export) (NN platform)) (PP (IN of) (NP (NP (CD 1,250,000) (NNS barrels)) (NP (DT a) (NN day)))))
+sid=1 spanning 34 until 38 headed by 35 parsed as (NP (NP (CD 1,250,000) (NNS barrels)) (NP (DT a) (NN day)))
+sid=1 spanning 36 until 38 headed by 37 parsed as (NP (DT a) (NN day))
+(end predicted mentions)
+---------gold clusters--------
+1 2 | { 'Petroleos Mexicanos S.A.' 'The state petroleum monopoly' }
+0 3 | { '1989 's first eight months' 'the period' }
+(end gold clusters)

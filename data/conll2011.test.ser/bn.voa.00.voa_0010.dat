@@ -1,0 +1,94 @@
+---------gloss--------
+(0) [4m[32m{A Venezuelan Ford executive}[0m says [3m[34m{Firestone}[0m hid information about [3m[33m{tyre defects}[0m from [3m[35m{Ford}[0m and should be held responsible for [3m[36m{more than one hundred traffic accidents in the South American country}[0m . 
+(1) [4m[32m{Hector Rodriguez}[0m told [4m[31m{the hearing of the Venezuelan Consumer Protection Agency}[0m that [3m[34m{Bridgeton Firestone}[0m knew about [3m[33m{the tyre defects}[0m for many months and should be held responsible for [3m[36m{the accidents}[0m . 
+(2) In a letter to [3m[32m{the consumer panel}[0m a spokesman for [3m[34m{Firestone}[0m said [3m[34m{the company 's}[0m appearance at [4m[31m{Wednesday 's hearing}[0m would have implied fault , which [3m[34m{it}[0m denies . 
+(3) [3m[32m{The Venezuelan government panel}[0m wants both [3m[35m{Ford}[0m and [3m[34m{Firestone}[0m to compensate victims of accidents caused by [3m[35m{Ford}[0m vehicles equipped with [3m[34m{Firestone}[0m tyres . 
+(4) Some 46 people have died on Venezuelan highways in accidents caused by [3m[31m{the vehicles}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0010); part 000
+sentences:
+AaDTOPER0VenezuelanvenezuelanJJOPER0FordFordNNPORGPER0executiveexecutiveNNOPER0sayssayVBZOPER0FirestoneFirestoneNNPPERSONPER0hidhideVBDOPER0informationinformationNNOPER0aboutaboutINOPER0tyretyreNNOPER0defectsdefectNNSOPER0fromfromINOPER0FordFordNNPORGPER0andandCCOPER0shouldshouldMDOPER0bebeVBOPER0heldholdVBNOPER0responsibleresponsibleJJOPER0forforINOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0oneoneCDCARDINALPER0hundredhundredCDCARDINALPER0traffictrafficNNOPER0accidentsaccidentNNSOPER0ininINOPER0thetheDTOPER0SouthSouthNNPOPER0AmericanAmericanNNPOPER0countrycountryNNOPER0...OPER0(ROOT (S (NP (DT A) (JJ Venezuelan) (NNP Ford) (NN executive)) (VP (VBZ says) (SBAR (S (NP (NNP Firestone)) (VP (VP (VBD hid) (NP (NP (NN information)) (PP (IN about) (NP (NN tyre) (NNS defects)))) (PP (IN from) (NP (NNP Ford)))) (CC and) (VP (MD should) (VP (VB be) (VP (VBN held) (S (ADJP (JJ responsible) (PP (IN for) (NP (NP (QP (XS (JJR more) (IN than)) (CD one) (CD hundred)) (NN traffic) (NNS accidents)) (PP (IN in) (NP (DT the) (NML (NNP South) (NNP American)) (NN country)))))))))))))) (. .)))
+HectorHectorNNPPERSONPER0RodriguezRodriguezNNPPERSONPER0toldtellVBDOPER0thetheDTOPER0hearinghearingNNOPER0ofofINOPER0thetheDTOPER0VenezuelanVenezuelanNNPOPER0ConsumerConsumerNNPORGPER0ProtectionProtectionNNPORGPER0AgencyAgencyNNPORGPER0thatthatINOPER0BridgetonBridgetonNNPPERSONPER0FirestoneFirestoneNNPPERSONPER0knewknowVBDOPER0aboutaboutINOPER0thetheDTOPER0tyretyreJJOPER0defectsdefectNNSOPER0forforINOPER0manymanyJJDATEPER0monthsmonthNNSDATEPER0andandCCOPER0shouldshouldMDOPER0bebeVBOPER0heldholdVBNOPER0responsibleresponsibleJJOPER0forforINOPER0thetheDTOPER0accidentsaccidentNNSOPER0...OPER0(ROOT (S (NP (NNP Hector) (NNP Rodriguez)) (VP (VBD told) (NP (NP (DT the) (NN hearing)) (PP (IN of) (NP (DT the) (NNP Venezuelan) (NML (NNP Consumer) (NNP Protection)) (NNP Agency)))) (SBAR (IN that) (S (NP (NNP Bridgeton) (NNP Firestone)) (VP (VP (VBD knew) (PP (IN about) (NP (DT the) (JJ tyre) (NNS defects))) (PP (IN for) (NP (JJ many) (NNS months)))) (CC and) (VP (MD should) (VP (VB be) (VP (VBN held) (S (ADJP (JJ responsible) (PP (IN for) (NP (DT the) (NNS accidents)))))))))))) (. .)))
+IninINOPER0aaDTOPER0letterletterNNOPER0totoINOPER0thetheDTOPER0consumerconsumerNNOPER0panelpanelNNOPER0aaDTOPER0spokesmanspokesmanNNOPER0forforINOPER0FirestoneFirestoneNNPORGPER0saidsayVBDOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0appearanceappearanceNNOPER0atatINOPER0WednesdayWednesdayNNPDATEPER0's'sPOSOPER0hearinghearingNNOPER0wouldwouldMDOPER0havehaveVBOPER0impliedimplyVBNOPER0faultfaultNNOPER0,,,OPER0whichwhichWDTOPER0ititPRPOPER0deniesdenyVBZOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT a) (NN letter)) (PP (IN to) (NP (DT the) (NN consumer) (NN panel))))) (NP (NP (DT a) (NN spokesman)) (PP (IN for) (NP (NNP Firestone)))) (VP (VBD said) (SBAR (S (NP (NP (NP (DT the) (NN company) (POS 's)) (NN appearance)) (PP (IN at) (NP (NP (NNP Wednesday) (POS 's)) (NN hearing)))) (VP (MD would) (VP (VB have) (NP (VBN implied) (NN fault)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBZ denies))))))))) (. .)))
+ThetheDTOPER0VenezuelanvenezuelanJJOPER0governmentgovernmentNNOPER0panelpanelNNOPER0wantswantVBZOPER0bothbothCCOPER0FordFordNNPORGPER0andandCCOPER0FirestoneFirestoneNNPORGPER0totoTOOPER0compensatecompensateVBOPER0victimsvictimNNSOPER0ofofINOPER0accidentsaccidentNNSOPER0causedcauseVBNOPER0bybyINOPER0FordFordNNPORGPER0vehiclesvehicleNNSOPER0equippedequipVBNOPER0withwithINOPER0FirestoneFirestoneNNPORGPER0tyrestyreNNSOPER0...OPER0(ROOT (S (NP (DT The) (JJ Venezuelan) (NN government) (NN panel)) (VP (VBZ wants) (S (NP (CC both) (NNP Ford) (CC and) (NNP Firestone)) (VP (TO to) (VP (VB compensate) (NP (NP (NNS victims)) (PP (IN of) (NP (NP (NNS accidents)) (VP (VBN caused) (PP (IN by) (NP (NP (NNP Ford) (NNS vehicles)) (VP (VBN equipped) (PP (IN with) (NP (NNP Firestone) (NNS tyres)))))))))))))) (. .)))
+SomesomeDTOPER04646CDCARDINALPER0peoplepeopleNNSOPER0havehaveVBPOPER0dieddieVBNOPER0ononINOPER0VenezuelanvenezuelanJJOPER0highwayshighwayNNSOPER0ininINOPER0accidentsaccidentNNSOPER0causedcauseVBNOPER0bybyINOPER0thetheDTOPER0vehiclesvehicleNNSOPER0...OPER0(ROOT (S (NP (DT Some) (CD 46) (NNS people)) (VP (VBP have) (VP (VBN died) (PP (IN on) (NP (JJ Venezuelan) (NNS highways))) (PP (IN in) (NP (NP (NNS accidents)) (VP (VBN caused) (PP (IN by) (NP (DT the) (NNS vehicles)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ Venezuelan) (NNP Ford) (NN executive))
+sid=0 spanning 2 until 3 headed by 2 parsed as Ford
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Firestone))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NN tyre) (NNS defects))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Ford))
+sid=0 spanning 19 until 30 headed by 24 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD one) (CD hundred)) (NN traffic) (NNS accidents)) (PP (IN in) (NP (DT the) (NML (NNP South) (NNP American)) (NN country))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hector) (NNP Rodriguez))
+sid=1 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NN hearing)) (PP (IN of) (NP (DT the) (NNP Venezuelan) (NML (NNP Consumer) (NNP Protection)) (NNP Agency))))
+sid=1 spanning 6 until 11 headed by 10 parsed as (NP (DT the) (NNP Venezuelan) (NML (NNP Consumer) (NNP Protection)) (NNP Agency))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NNP Bridgeton) (NNP Firestone))
+sid=1 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ tyre) (NNS defects))
+sid=1 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NNS accidents))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN consumer) (NN panel))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Firestone))
+sid=2 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN company) (POS 's))
+sid=2 spanning 17 until 20 headed by 19 parsed as (NP (NP (NNP Wednesday) (POS 's)) (NN hearing))
+sid=2 spanning 26 until 27 headed by 26 parsed as (NP (PRP it))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ Venezuelan) (NN government) (NN panel))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (CC both) (NNP Ford) (CC and) (NNP Firestone))
+sid=3 spanning 8 until 9 headed by 8 parsed as Firestone
+sid=3 spanning 16 until 22 headed by 17 parsed as (NP (NP (NNP Ford) (NNS vehicles)) (VP (VBN equipped) (PP (IN with) (NP (NNP Firestone) (NNS tyres)))))
+sid=3 spanning 16 until 17 headed by 16 parsed as Ford
+sid=3 spanning 20 until 21 headed by 20 parsed as Firestone
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS vehicles))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ Venezuelan) (NNP Ford) (NN executive))
+sid=0 spanning 2 until 3 headed by 2 parsed as Ford
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Firestone))
+sid=0 spanning 7 until 11 headed by 7 parsed as (NP (NP (NN information)) (PP (IN about) (NP (NN tyre) (NNS defects))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NN tyre) (NNS defects))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Ford))
+sid=0 spanning 19 until 30 headed by 24 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD one) (CD hundred)) (NN traffic) (NNS accidents)) (PP (IN in) (NP (DT the) (NML (NNP South) (NNP American)) (NN country))))
+sid=0 spanning 26 until 30 headed by 29 parsed as (NP (DT the) (NML (NNP South) (NNP American)) (NN country))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hector) (NNP Rodriguez))
+sid=1 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NN hearing)) (PP (IN of) (NP (DT the) (NNP Venezuelan) (NML (NNP Consumer) (NNP Protection)) (NNP Agency))))
+sid=1 spanning 6 until 11 headed by 10 parsed as (NP (DT the) (NNP Venezuelan) (NML (NNP Consumer) (NNP Protection)) (NNP Agency))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NNP Bridgeton) (NNP Firestone))
+sid=1 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ tyre) (NNS defects))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (JJ many) (NNS months))
+sid=1 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NNS accidents))
+sid=2 spanning 1 until 7 headed by 2 parsed as (NP (NP (DT a) (NN letter)) (PP (IN to) (NP (DT the) (NN consumer) (NN panel))))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN consumer) (NN panel))
+sid=2 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT a) (NN spokesman)) (PP (IN for) (NP (NNP Firestone))))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Firestone))
+sid=2 spanning 12 until 20 headed by 15 parsed as (NP (NP (NP (DT the) (NN company) (POS 's)) (NN appearance)) (PP (IN at) (NP (NP (NNP Wednesday) (POS 's)) (NN hearing))))
+sid=2 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN company) (POS 's))
+sid=2 spanning 17 until 20 headed by 19 parsed as (NP (NP (NNP Wednesday) (POS 's)) (NN hearing))
+sid=2 spanning 17 until 19 headed by 17 parsed as (NP (NNP Wednesday) (POS 's))
+sid=2 spanning 22 until 24 headed by 23 parsed as (NP (VBN implied) (NN fault))
+sid=2 spanning 26 until 27 headed by 26 parsed as (NP (PRP it))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ Venezuelan) (NN government) (NN panel))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (CC both) (NNP Ford) (CC and) (NNP Firestone))
+sid=3 spanning 5 until 9 headed by 6 parsed as (NP (CC both) (NNP Ford) (CC and) (NNP Firestone))
+sid=3 spanning 8 until 9 headed by 8 parsed as Firestone
+sid=3 spanning 11 until 22 headed by 11 parsed as (NP (NP (NNS victims)) (PP (IN of) (NP (NP (NNS accidents)) (VP (VBN caused) (PP (IN by) (NP (NP (NNP Ford) (NNS vehicles)) (VP (VBN equipped) (PP (IN with) (NP (NNP Firestone) (NNS tyres))))))))))
+sid=3 spanning 13 until 22 headed by 13 parsed as (NP (NP (NNS accidents)) (VP (VBN caused) (PP (IN by) (NP (NP (NNP Ford) (NNS vehicles)) (VP (VBN equipped) (PP (IN with) (NP (NNP Firestone) (NNS tyres))))))))
+sid=3 spanning 16 until 22 headed by 17 parsed as (NP (NP (NNP Ford) (NNS vehicles)) (VP (VBN equipped) (PP (IN with) (NP (NNP Firestone) (NNS tyres)))))
+sid=3 spanning 16 until 17 headed by 16 parsed as Ford
+sid=3 spanning 20 until 22 headed by 21 parsed as (NP (NNP Firestone) (NNS tyres))
+sid=3 spanning 20 until 21 headed by 20 parsed as Firestone
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT Some) (CD 46) (NNS people))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (JJ Venezuelan) (NNS highways))
+sid=4 spanning 9 until 14 headed by 9 parsed as (NP (NP (NNS accidents)) (VP (VBN caused) (PP (IN by) (NP (DT the) (NNS vehicles)))))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS vehicles))
+(end predicted mentions)
+---------gold clusters--------
+20 23 | { 'Ford vehicles equipped with Firestone tyres' 'the vehicles' }
+17 12 8 | { 'The Venezuelan government panel' 'the consumer panel' 'the Venezuelan Consumer Protection Agency' }
+10 3 | { 'the tyre defects' 'tyre defects' }
+14 13 16 22 19 9 2 | { 'the company 's' 'Firestone' 'it' 'Firestone' 'Firestone' 'Bridgeton Firestone' 'Firestone' }
+1 18 4 21 | { 'Ford' 'Ford' 'Ford' 'Ford' }
+5 11 | { 'more than one hundred traffic accidents in the South American country' 'the accidents' }
+15 7 | { 'Wednesday 's hearing' 'the hearing of the Venezuelan Consumer Protection Agency' }
+6 0 | { 'Hector Rodriguez' 'A Venezuelan Ford executive' }
+(end gold clusters)

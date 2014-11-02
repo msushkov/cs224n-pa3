@@ -1,0 +1,59 @@
+---------gloss--------
+(0) After George W. Bush is sworn in , [1m[34m{Bill Clinton}[0m will head to [1m[33m{New York}[0m . 
+(1) [1m[34m{The President}[0m has said [1m[34m{he}[0m and [1m[34m{his}[0m wife , now a [1m[33m{New York}[0m senator will spend weekends at [1m[35m{their}[0m house in Chappaqua . 
+(2) [1m[34m{Mr. Clinton}[0m will also spend time at [1m[34m{his}[0m presidential library in Arkansas . 
+(3) [1m[34m{He}[0m says [1m[34m{he}[0m will come to Washington , `` every now and then . '' 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0060); part 000
+sentences:
+AfterafterINOPER0GeorgeGeorgeNNPPERSONPER0W.W.NNPPERSONPER0BushBushNNPPERSONPER0isbeVBZOPER0swornswearVBNOPER0ininRPOPER0,,,OPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0willwillMDOPER0headheadVBOPER0totoINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (S (SBAR (IN After) (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (VBZ is) (VP (VBN sworn) (PRT (RP in)))))) (, ,) (NP (NNP Bill) (NNP Clinton)) (VP (MD will) (VP (VB head) (PP (IN to) (NP (NNP New) (NNP York))))) (. .)))
+ThetheDTOPER0PresidentPresidentNNPOPER0hashaveVBZOPER0saidsayVBNOPER0hehePRPOPER0andandCCOPER0hishePRP$OPER0wifewifeNNOPER0,,,OPER0nownowRBOPER0aaDTOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0senatorsenatorNNOPER0willwillMDOPER0spendspendVBOPER0weekendsweekendNNSDATEPER0atatINOPER0theirtheyPRP$OPER0househouseNNOPER0ininINOPER0ChappaquaChappaquaNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NNP President)) (VP (VBZ has) (VP (VBN said) (SBAR (S (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (ADVP (RB now)) (NP (DT a) (NML (NNP New) (NNP York)) (NN senator)))) (VP (MD will) (VP (VB spend) (NP (NNS weekends)) (PP (IN at) (NP (NP (PRP$ their) (NN house)) (PP (IN in) (NP (NNP Chappaqua))))))))))) (. .)))
+Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0willwillMDOPER0alsoalsoRBOPER0spendspendVBOPER0timetimeNNOPER0atatINOPER0hishePRP$OPER0presidentialpresidentialJJOPER0librarylibraryNNOPER0ininINOPER0ArkansasArkansasNNPGPEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Clinton)) (VP (MD will) (ADVP (RB also)) (VP (VB spend) (NP (NN time)) (PP (IN at) (NP (NP (PRP$ his) (JJ presidential) (NN library)) (PP (IN in) (NP (NNP Arkansas))))))) (. .)))
+HehePRPOPER0sayssayVBZOPER0hehePRPOPER0willwillMDOPER0comecomeVBOPER0totoINOPER0WashingtonWashingtonNNPGPEPER0,,,OPER0``````OeveryeveryDTDATEPER1nownowRBDATEPER1andandCCDATEPER1thenthenRBDATEPER1...OPER1''''''OPER0(ROOT (FRAG (PRN (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB come) (PP (IN to) (NP (NNP Washington)))))))))) (, ,) (`` ``) (NP (DT every) (RB now) (CC and) (RB then)) (. .) ('' '')))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Bill) (NNP Clinton))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NNP New) (NNP York))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=1 spanning 4 until 14 headed by 4 parsed as (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (ADVP (RB now)) (NP (DT a) (NML (NNP New) (NNP York)) (NN senator))))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (ADVP (RB now)) (NP (DT a) (NML (NNP New) (NNP York)) (NN senator))))
+sid=1 spanning 6 until 7 headed by 6 parsed as his
+sid=1 spanning 11 until 13 headed by 12 parsed as York
+sid=1 spanning 18 until 19 headed by 18 parsed as their
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=2 spanning 7 until 8 headed by 7 parsed as his
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (NNP George) (NNP W.) (NNP Bush))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Bill) (NNP Clinton))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NNP New) (NNP York))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=1 spanning 4 until 14 headed by 4 parsed as (NP (NP (PRP he)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (ADVP (RB now)) (NP (DT a) (NML (NNP New) (NNP York)) (NN senator))))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=1 spanning 6 until 14 headed by 7 parsed as (NP (NP (PRP$ his) (NN wife)) (, ,) (ADVP (RB now)) (NP (DT a) (NML (NNP New) (NNP York)) (NN senator)))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NN wife))
+sid=1 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=1 spanning 10 until 14 headed by 13 parsed as (NP (DT a) (NML (NNP New) (NNP York)) (NN senator))
+sid=1 spanning 11 until 13 headed by 12 parsed as York
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNS weekends))
+sid=1 spanning 18 until 22 headed by 19 parsed as (NP (NP (PRP$ their) (NN house)) (PP (IN in) (NP (NNP Chappaqua))))
+sid=1 spanning 18 until 19 headed by 18 parsed as (PRP$ their)
+sid=1 spanning 21 until 22 headed by 21 parsed as (NP (NNP Chappaqua))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NN time))
+sid=2 spanning 7 until 12 headed by 9 parsed as (NP (NP (PRP$ his) (JJ presidential) (NN library)) (PP (IN in) (NP (NNP Arkansas))))
+sid=2 spanning 7 until 8 headed by 7 parsed as (PRP$ his)
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP Arkansas))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+1 6 | { 'New York' 'New York' }
+8 4 9 5 0 2 11 10 | { 'Mr. Clinton' 'he' 'his' 'his' 'Bill Clinton' 'The President' 'he' 'He' }
+7 3 | { 'their' 'he and his wife , now a New York senator' }
+(end gold clusters)

@@ -1,0 +1,80 @@
+---------gloss--------
+(0) [3m[36m{Guardian Royal Exchange Assurance PLC , a major British composite insurer ,}[0m said [3m[36m{it}[0m is [3m[31m{taking}[0m [3m[32m{a stake in Nationwide Anglia Building Society 's estate agency business}[0m as part of a plan to create a range of commercial linkages in [3m[35m{the U.K.}[0m and Europe . 
+(1) Officials declined to disclose the value of [3m[31m{the transaction}[0m or [3m[32m{the exact stake that GRE will hold in Nationwide Anglia Estate Agents}[0m . 
+(2) But the companies said that [3m[33m{Nationwide Anglia Estate Agents}[0m will market [3m[36m{GRE}[0m life insurance , pension and investment products through [3m[33m{its}[0m more than 1,000 retail outlets in [3m[35m{the U.K}[0m . 
+(3) Besides the marketing agreement , [3m[36m{GRE}[0m said [3m[34m{Nationwide Anglia}[0m has agreed to develop life insurance products with [3m[36m{the composite insurer}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1454); part 000
+sentences:
+GuardianGuardianNNPORGPER0RoyalRoyalNNPORGPER0ExchangeExchangeNNPORGPER0AssuranceAssuranceNNPORGPER0PLCPLCNNPORGPER0,,,OPER0aaDTOPER0majormajorJJOPER0BritishbritishJJOPER0compositecompositeJJOPER0insurerinsurerNNOPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0isbeVBZOPER0takingtakeVBGOPER0aaDTOPER0stakestakeNNOPER0ininINOPER0NationwideNationwideNNPORGPER0AngliaAngliaNNPORGPER0BuildingBuildingNNPORGPER0SocietySocietyNNPORGPER0's'sPOSORGPER0estateestateNNOPER0agencyagencyNNOPER0businessbusinessNNOPER0asasINOPER0partpartNNOPER0ofofINOPER0aaDTOPER0planplanNNOPER0totoTOOPER0createcreateVBOPER0aaDTOPER0rangerangeNNOPER0ofofINOPER0commercialcommercialJJOPER0linkageslinkageNNSOPER0ininINOPER0thetheDTOPER0U.K.U.K.NNPGPEPER0andandCCOPER0EuropeEuropeNNPLOCPER0...OPER0(ROOT (S (NP (NP (NML (NNP Guardian) (NNP Royal) (NNP Exchange)) (NNP Assurance) (NNP PLC)) (, ,) (NP (DT a) (JJ major) (JJ British) (JJ composite) (NN insurer)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG taking) (NP (NP (DT a) (NN stake)) (PP (IN in) (NP (NP (NP (NNP Nationwide) (NNP Anglia)) (NP (NNP Building) (NNP Society)) (POS 's)) (NML (NN estate) (NN agency)) (NN business)))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB create) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (JJ commercial) (NNS linkages)))) (PP (IN in) (NP (NP (DT the) (NNP U.K.)) (CC and) (NP (NNP Europe)))))))))))))))) (. .)))
+OfficialsofficialNNSOPER0declineddeclineVBDOPER0totoTOOPER0disclosediscloseVBOPER0thetheDTOPER0valuevalueNNOPER0ofofINOPER0thetheDTOPER0transactiontransactionNNOPER0ororCCOPER0thetheDTOPER0exactexactJJOPER0stakestakeNNOPER0thatthatINOPER0GREGRENNPORGPER0willwillMDOPER0holdholdVBOPER0ininINOPER0NationwideNationwideNNPORGPER0AngliaAngliaNNPORGPER0EstateEstateNNPORGPER0AgentsAgentsNNPSORGPER0...OPER0(ROOT (S (NP (NNS Officials)) (VP (VBD declined) (S (VP (TO to) (VP (VB disclose) (NP (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NN transaction)))) (CC or) (NP (DT the) (JJ exact) (NN stake))) (SBAR (IN that) (S (NP (NNP GRE)) (VP (MD will) (VP (VB hold) (PP (IN in) (NP (NNP Nationwide) (NNP Anglia) (NNP Estate) (NNPS Agents))))))))))) (. .)))
+ButbutCCOPER0thetheDTOPER0companiescompanyNNSOPER0saidsayVBDOPER0thatthatINOPER0NationwideNationwideNNPORGPER0AngliaAngliaNNPORGPER0EstateEstateNNPORGPER0AgentsAgentsNNPSORGPER0willwillMDOPER0marketmarketVBOPER0GREGRENNPORGPER0lifelifeNNOPER0insuranceinsuranceNNOPER0,,,OPER0pensionpensionNNOPER0andandCCOPER0investmentinvestmentNNOPER0productsproductNNSOPER0throughthroughINOPER0itsitsPRP$OPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER01,0001,000CDCARDINALPER0retailretailJJOPER0outletsoutletNNSOPER0ininINOPER0thetheDTOPER0U.KU.KNNPGPEPER0...OPER0(ROOT (S (CC But) (NP (DT the) (NNS companies)) (VP (VBD said) (SBAR (IN that) (S (NP (NNP Nationwide) (NNP Anglia)) (NP (NNP Estate) (NNPS Agents)) (VP (MD will) (VP (VB market) (NP (NML (NNP GRE) (NN life) (NN insurance)) (, ,) (NML (NN pension) (CC and) (NN investment)) (NNS products)) (PP (IN through) (NP (NP (PRP$ its) (QP (XS (JJR more) (IN than)) (CD 1,000)) (JJ retail) (NNS outlets)) (PP (IN in) (NP (DT the) (NNP U.K)))))))))) (. .)))
+BesidesbesidesINOPER0thetheDTOPER0marketingmarketingNNOPER0agreementagreementNNOPER0,,,OPER0GREGRENNPORGPER0saidsayVBDOPER0NationwideNationwideNNPORGPER0AngliaAngliaNNPORGPER0hashaveVBZOPER0agreedagreeVBNOPER0totoTOOPER0developdevelopVBOPER0lifelifeNNOPER0insuranceinsuranceNNOPER0productsproductNNSOPER0withwithINOPER0thetheDTOPER0compositecompositeJJOPER0insurerinsurerNNOPER0...OPER0(ROOT (S (PP (IN Besides) (NP (DT the) (NN marketing) (NN agreement))) (, ,) (NP (NNP GRE)) (VP (VBD said) (SBAR (S (NP (NNP Nationwide) (NNP Anglia)) (VP (VBZ has) (VP (VBN agreed) (S (VP (TO to) (VP (VB develop) (NP (NML (NN life) (NN insurance)) (NNS products)) (PP (IN with) (NP (DT the) (JJ composite) (NN insurer))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 12 headed by 4 parsed as (NP (NP (NML (NNP Guardian) (NNP Royal) (NNP Exchange)) (NNP Assurance) (NNP PLC)) (, ,) (NP (DT a) (JJ major) (JJ British) (JJ composite) (NN insurer)) (, ,))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=0 spanning 15 until 16 headed by 15 parsed as taking
+sid=0 spanning 16 until 27 headed by 17 parsed as (NP (NP (DT a) (NN stake)) (PP (IN in) (NP (NP (NP (NNP Nationwide) (NNP Anglia)) (NP (NNP Building) (NNP Society)) (POS 's)) (NML (NN estate) (NN agency)) (NN business))))
+sid=0 spanning 19 until 27 headed by 26 parsed as (NP (NP (NP (NNP Nationwide) (NNP Anglia)) (NP (NNP Building) (NNP Society)) (POS 's)) (NML (NN estate) (NN agency)) (NN business))
+sid=0 spanning 19 until 24 headed by 22 parsed as (NP (NNP Building) (NNP Society))
+sid=0 spanning 40 until 42 headed by 41 parsed as (NP (NP (DT the) (NNP U.K.)) (CC and) (NP (NNP Europe)))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN transaction))
+sid=1 spanning 10 until 22 headed by 12 parsed as (NP (DT the) (JJ exact) (NN stake))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP GRE))
+sid=1 spanning 18 until 22 headed by 21 parsed as (NP (NNP Nationwide) (NNP Anglia) (NNP Estate) (NNPS Agents))
+sid=2 spanning 5 until 9 headed by 6 parsed as (NP (NNP Nationwide) (NNP Anglia))
+sid=2 spanning 11 until 12 headed by 11 parsed as GRE
+sid=2 spanning 20 until 21 headed by 20 parsed as its
+sid=2 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NNP U.K))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NNP GRE))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (NNP Nationwide) (NNP Anglia))
+sid=3 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (JJ composite) (NN insurer))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NML (NNP Guardian) (NNP Royal) (NNP Exchange)) (NNP Assurance) (NNP PLC)) (, ,) (NP (DT a) (JJ major) (JJ British) (JJ composite) (NN insurer)) (, ,))
+sid=0 spanning 0 until 12 headed by 4 parsed as (NP (NP (NML (NNP Guardian) (NNP Royal) (NNP Exchange)) (NNP Assurance) (NNP PLC)) (, ,) (NP (DT a) (JJ major) (JJ British) (JJ composite) (NN insurer)) (, ,))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (DT a) (JJ major) (JJ British) (JJ composite) (NN insurer))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=0 spanning 16 until 27 headed by 17 parsed as (NP (NP (DT a) (NN stake)) (PP (IN in) (NP (NP (NP (NNP Nationwide) (NNP Anglia)) (NP (NNP Building) (NNP Society)) (POS 's)) (NML (NN estate) (NN agency)) (NN business))))
+sid=0 spanning 19 until 27 headed by 26 parsed as (NP (NP (NP (NNP Nationwide) (NNP Anglia)) (NP (NNP Building) (NNP Society)) (POS 's)) (NML (NN estate) (NN agency)) (NN business))
+sid=0 spanning 19 until 24 headed by 22 parsed as (NP (NNP Building) (NNP Society))
+sid=0 spanning 28 until 44 headed by 28 parsed as (NP (NP (NN part)) (PP (IN of) (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB create) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (JJ commercial) (NNS linkages)))) (PP (IN in) (NP (NP (DT the) (NNP U.K.)) (CC and) (NP (NNP Europe))))))))))
+sid=0 spanning 30 until 44 headed by 31 parsed as (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB create) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (JJ commercial) (NNS linkages)))) (PP (IN in) (NP (NP (DT the) (NNP U.K.)) (CC and) (NP (NNP Europe))))))))
+sid=0 spanning 34 until 39 headed by 35 parsed as (NP (NP (DT a) (NN range)) (PP (IN of) (NP (JJ commercial) (NNS linkages))))
+sid=0 spanning 37 until 39 headed by 38 parsed as (NP (JJ commercial) (NNS linkages))
+sid=0 spanning 40 until 44 headed by 41 parsed as (NP (NP (DT the) (NNP U.K.)) (CC and) (NP (NNP Europe)))
+sid=0 spanning 40 until 42 headed by 41 parsed as (NP (DT the) (NNP U.K.))
+sid=0 spanning 43 until 44 headed by 43 parsed as (NP (NNP Europe))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=1 spanning 4 until 13 headed by 5 parsed as (NP (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NN transaction)))) (CC or) (NP (DT the) (JJ exact) (NN stake)))
+sid=1 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NN transaction))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN transaction))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ exact) (NN stake))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP GRE))
+sid=1 spanning 18 until 22 headed by 21 parsed as (NP (NNP Nationwide) (NNP Anglia) (NNP Estate) (NNPS Agents))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNS companies))
+sid=2 spanning 5 until 9 headed by 6 parsed as (NP (NNP Nationwide) (NNP Anglia))
+sid=2 spanning 11 until 19 headed by 18 parsed as (NP (NML (NNP GRE) (NN life) (NN insurance)) (, ,) (NML (NN pension) (CC and) (NN investment)) (NNS products))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NML (NNP GRE) (NN life) (NN insurance))
+sid=2 spanning 11 until 12 headed by 11 parsed as GRE
+sid=2 spanning 15 until 18 headed by 15 parsed as (NML (NN pension) (CC and) (NN investment))
+sid=2 spanning 20 until 29 headed by 25 parsed as (NP (NP (PRP$ its) (QP (XS (JJR more) (IN than)) (CD 1,000)) (JJ retail) (NNS outlets)) (PP (IN in) (NP (DT the) (NNP U.K))))
+sid=2 spanning 20 until 21 headed by 20 parsed as (PRP$ its)
+sid=2 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NNP U.K))
+sid=3 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NN marketing) (NN agreement))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NNP GRE))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (NNP Nationwide) (NNP Anglia))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (NML (NN life) (NN insurance)) (NNS products))
+sid=3 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (JJ composite) (NN insurer))
+(end predicted mentions)
+---------gold clusters--------
+7 2 | { 'the transaction' 'taking' }
+3 8 | { 'a stake in Nationwide Anglia Building Society 's estate agency business' 'the exact stake that GRE will hold in Nationwide Anglia Estate Agents' }
+10 11 13 4 | { 'Nationwide Anglia Estate Agents' 'Nationwide Anglia Estate Agents' 'its' 'Nationwide Anglia Building Society 's estate agency business' }
+5 16 | { 'Nationwide Anglia Building Society 's' 'Nationwide Anglia' }
+6 14 | { 'the U.K.' 'the U.K' }
+12 15 1 9 0 17 | { 'GRE' 'GRE' 'it' 'GRE' 'Guardian Royal Exchange Assurance PLC , a major British composite insurer ,' 'the composite insurer' }
+(end gold clusters)

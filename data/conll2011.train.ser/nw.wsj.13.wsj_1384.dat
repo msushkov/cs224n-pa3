@@ -1,0 +1,22 @@
+---------gloss--------
+(0) Consumer spending in Britain rose 0.1 % in the third quarter from the second quarter and was up 3.8 % from a year ago , the Central Statistical Office estimated Friday . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1384); part 000
+sentences:
+ConsumerconsumerNNOPER0spendingspendingNNOPER0ininINOPER0BritainBritainNNPGPEPER0roseriseVBDOPER00.10.1CDPERCENTPER0%%NNPERCENTPER0ininINOPER0thetheDTDATEPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0fromfromINOPER0thetheDTDATEPER0secondsecondJJDATEPER0quarterquarterNNDATEPER0andandCCOPER0wasbeVBDOPER0upupRPOPER03.83.8CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0,,,OPER0thetheDTORGPER0CentralCentralNNPORGPER0StatisticalStatisticalNNPORGPER0OfficeOfficeNNPORGPER0estimatedestimateVBDOPER0FridayFridayNNPDATEPER0...OPER0(ROOT (S (S (NP (NP (NN Consumer) (NN spending)) (PP (IN in) (NP (NNP Britain)))) (VP (VP (VBD rose) (NP (CD 0.1) (NN %)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (PP (IN from) (NP (DT the) (JJ second) (NN quarter)))) (CC and) (VP (VBD was) (PRT (RP up)) (NP (CD 3.8) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago)))))) (, ,) (NP (DT the) (NNP Central) (NNP Statistical) (NNP Office)) (VP (VBD estimated) (NP (NNP Friday))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NP (NN Consumer) (NN spending)) (PP (IN in) (NP (NNP Britain))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Britain))
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (JJ third) (NN quarter))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (JJ second) (NN quarter))
+sid=0 spanning 21 until 24 headed by 23 parsed as ago
+sid=0 spanning 25 until 29 headed by 28 parsed as (NP (DT the) (NNP Central) (NNP Statistical) (NNP Office))
+sid=0 spanning 30 until 31 headed by 30 parsed as (NP (NNP Friday))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

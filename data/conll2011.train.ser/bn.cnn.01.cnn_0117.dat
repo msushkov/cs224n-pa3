@@ -1,0 +1,63 @@
+---------gloss--------
+(0) [4m[32m{AIDS}[0m activists are observing World AIDS Day today in an effort to battle complacency and ignorance about what [3m[36m{they}[0m call a global epidemic . 
+(1) Health officials say 36 million people are living with [4m[32m{the incurable disease}[0m worldwide . 
+(2) Five million were infected in the last year . 
+(3) [4m[31m{The United Nations}[0m says [4m[33m{men}[0m must take responsibility for [4m[33m{their}[0m behavior to stop the spread of [4m[32m{the deadly virus}[0m . 
+(4) [4m[31m{U.N.}[0m Secretary - General Kofi Annan says men can make a particular difference by being more caring , taking fewer risks , and facing the issue of [4m[32m{AIDS}[0m head - on . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0117); part 000
+sentences:
+AIDSAIDSNNPOPER0activistsactivistNNSOPER0arebeVBPOPER0observingobserveVBGOPER0WorldWorldNNPORGPER0AIDSAIDSNNPORGPER0DayDayNNPORGPER0todaytodayNNDATEPER0ininINOPER0anaDTOPER0efforteffortNNOPER0totoTOOPER0battlebattleVBOPER0complacencycomplacencyNNOPER0andandCCOPER0ignoranceignoranceNNOPER0aboutaboutINOPER0whatwhatWPOPER0theytheyPRPOPER0callcallVBPOPER0aaDTOPER0globalglobalJJOPER0epidemicepidemicNNOPER0...OPER0(ROOT (S (NP (NNP AIDS) (NNS activists)) (VP (VBP are) (VP (VBG observing) (NP (NML (NNP World) (NNP AIDS) (NNP Day)) (NN today)) (PP (IN in) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB battle) (NP (NN complacency) (CC and) (NN ignorance)) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP call) (NP (DT a) (JJ global) (NN epidemic))))))))))))) (. .)))
+HealthhealthNNOPER0officialsofficialNNSOPER0saysayVBPOPER03636CDCARDINALPER0millionmillionCDCARDINALPER0peoplepeopleNNSOPER0arebeVBPOPER0livingliveVBGOPER0withwithINOPER0thetheDTOPER0incurableincurableJJOPER0diseasediseaseNNOPER0worldwideworldwideRBOPER0...OPER0(ROOT (S (NP (NN Health) (NNS officials)) (VP (VBP say) (SBAR (S (NP (QP (CD 36) (CD million)) (NNS people)) (VP (VBP are) (VP (VBG living) (PP (IN with) (NP (NP (DT the) (JJ incurable) (NN disease)) (ADVP (RB worldwide))))))))) (. .)))
+FivefiveCDCARDINALPER0millionmillionCDCARDINALPER0werebeVBDOPER0infectedinfectVBNOPER0ininINOPER0thetheDTDATEPER0lastlastJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (QP (CD Five) (CD million))) (VP (VBD were) (VP (VBN infected) (PP (IN in) (NP (DT the) (JJ last) (NN year))))) (. .)))
+ThetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0sayssayVBZOPER0menmanNNSOPER0mustmustMDOPER0taketakeVBOPER0responsibilityresponsibilityNNOPER0forforINOPER0theirtheyPRP$OPER0behaviorbehaviorNNOPER0totoTOOPER0stopstopVBOPER0thetheDTOPER0spreadspreadNNOPER0ofofINOPER0thetheDTOPER0deadlydeadlyJJOPER0virusvirusNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP Nations)) (VP (VBZ says) (SBAR (S (NP (NNS men)) (VP (MD must) (VP (VB take) (NP (NP (NN responsibility)) (PP (IN for) (NP (PRP$ their) (NN behavior)))) (S (VP (TO to) (VP (VB stop) (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (DT the) (JJ deadly) (NN virus)))))))))))) (. .)))
+U.N.U.N.NNPORGPER0SecretarySecretaryNNPOPER0--HYPHOPER0GeneralGeneralNNPOPER0KofiKofiNNPPERSONPER0AnnanAnnanNNPPERSONPER0sayssayVBZOPER0menmanNNSOPER0cancanMDOPER0makemakeVBOPER0aaDTOPER0particularparticularJJOPER0differencedifferenceNNOPER0bybyINOPER0beingbeVBGOPER0moremoreRBROPER0caringcaringJJOPER0,,,OPER0takingtakeVBGOPER0fewerfewerJJROPER0risksriskNNSOPER0,,,OPER0andandCCOPER0facingfaceVBGOPER0thetheDTOPER0issueissueNNOPER0ofofINOPER0AIDSaidNNOPER0headheadVBOPER0--HYPHOPER0ononRPOPER0...OPER0(ROOT (S (NP (NML (NNP U.N.) (NNP Secretary) (HYPH -) (NNP General)) (NNP Kofi) (NNP Annan)) (VP (VBZ says) (SBAR (S (NP (NNS men)) (VP (MD can) (VP (VB make) (NP (DT a) (JJ particular) (NN difference)) (PP (IN by) (S (VP (VP (VBG being) (ADJP (RBR more) (JJ caring))) (, ,) (VP (VBG taking) (NP (JJR fewer) (NNS risks))) (, ,) (CC and) (VP (VBG facing) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NP (NN AIDS)) (ADJP (VB head) (HYPH -) (RP on)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP AIDS) (NNS activists))
+sid=0 spanning 0 until 1 headed by 0 parsed as AIDS
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (NP (DT the) (JJ incurable) (NN disease)) (ADVP (RB worldwide)))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP Nations))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNS men))
+sid=3 spanning 9 until 10 headed by 9 parsed as their
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ deadly) (NN virus))
+sid=4 spanning 0 until 1 headed by 0 parsed as U.N.
+sid=4 spanning 27 until 28 headed by 27 parsed as (NP (NP (NN AIDS)) (ADJP (VB head) (HYPH -) (RP on)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP AIDS) (NNS activists))
+sid=0 spanning 4 until 8 headed by 7 parsed as (NP (NML (NNP World) (NNP AIDS) (NNP Day)) (NN today))
+sid=0 spanning 4 until 7 headed by 6 parsed as Day
+sid=0 spanning 9 until 23 headed by 10 parsed as (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB battle) (NP (NN complacency) (CC and) (NN ignorance)) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP call) (NP (DT a) (JJ global) (NN epidemic))))))))))
+sid=0 spanning 13 until 16 headed by 13 parsed as (NP (NN complacency) (CC and) (NN ignorance))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (DT a) (JJ global) (NN epidemic))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NN Health) (NNS officials))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (QP (CD 36) (CD million)) (NNS people))
+sid=1 spanning 9 until 13 headed by 11 parsed as (NP (NP (DT the) (JJ incurable) (NN disease)) (ADVP (RB worldwide)))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (QP (CD Five) (CD million)))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ last) (NN year))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP Nations))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNS men))
+sid=3 spanning 7 until 11 headed by 7 parsed as (NP (NP (NN responsibility)) (PP (IN for) (NP (PRP$ their) (NN behavior))))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ their) (NN behavior))
+sid=3 spanning 9 until 10 headed by 9 parsed as (PRP$ their)
+sid=3 spanning 13 until 19 headed by 14 parsed as (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (DT the) (JJ deadly) (NN virus))))
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ deadly) (NN virus))
+sid=4 spanning 0 until 6 headed by 5 parsed as (NP (NML (NNP U.N.) (NNP Secretary) (HYPH -) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=4 spanning 0 until 1 headed by 0 parsed as U.N.
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (NNS men))
+sid=4 spanning 10 until 13 headed by 12 parsed as (NP (DT a) (JJ particular) (NN difference))
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (JJR fewer) (NNS risks))
+sid=4 spanning 24 until 31 headed by 25 parsed as (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NP (NN AIDS)) (ADJP (VB head) (HYPH -) (RP on)))))
+sid=4 spanning 27 until 31 headed by 27 parsed as (NP (NP (NN AIDS)) (ADJP (VB head) (HYPH -) (RP on)))
+(end predicted mentions)
+---------gold clusters--------
+0 2 | { 'AIDS activists' 'they' }
+8 4 | { 'U.N.' 'The United Nations' }
+3 1 7 9 | { 'the incurable disease' 'AIDS' 'the deadly virus' 'AIDS' }
+5 6 | { 'men' 'their' }
+(end gold clusters)

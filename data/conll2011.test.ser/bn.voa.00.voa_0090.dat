@@ -1,0 +1,66 @@
+---------gloss--------
+(0) Brazilian officials say [4m[36m{an oil tanker}[0m has [31m{crashed}[0m into [32m{a pier in a resort area}[0m , [4m[34m{spilling}[0m [4m[35m{more than 86,000 liters of crude oil}[0m into the ocean . 
+(1) [4m[36m{The state - owned Petro Basque tanker}[0m hit [32m{the concrete pier}[0m in [4m[33m{San Sebastian , a popular resort south of Sao Paulo}[0m . 
+(2) Workers sealed the leaking hull and contained [4m[34m{the spill}[0m , but authorities say [4m[35m{the oil}[0m is still threatening local beaches . 
+(3) [31m{Saturday 's incident}[0m was the sixth [33m{Petro Basque}[0m spill this year . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0090); part 000
+sentences:
+BrazilianbrazilianJJOPER0officialsofficialNNSOPER0saysayVBPOPER0anaDTOPER0oiloilNNOPER0tankertankerNNOPER0hashaveVBZOPER0crashedcrashVBNOPER0intointoINOPER0aaDTOPER0pierpierNNOPER0ininINOPER0aaDTOPER0resortresortNNOPER0areaareaNNOPER0,,,OPER0spillingspillVBGOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER086,00086,000CDCARDINALPER0litersliterNNSOPER0ofofINOPER0crudecrudeJJOPER0oiloilNNOPER0intointoINOPER0thetheDTOPER0oceanoceanNNOPER0...OPER0(ROOT (S (NP (JJ Brazilian) (NNS officials)) (VP (VBP say) (SBAR (S (NP (DT an) (NN oil) (NN tanker)) (VP (VBZ has) (VP (VBN crashed) (PP (IN into) (NP (NP (DT a) (NN pier)) (PP (IN in) (NP (DT a) (NN resort) (NN area))))) (, ,) (S (VP (VBG spilling) (NP (NP (QP (XS (JJR more) (IN than)) (CD 86,000)) (NNS liters)) (PP (IN of) (NP (JJ crude) (NN oil)))) (PP (IN into) (NP (DT the) (NN ocean)))))))))) (. .)))
+ThetheDTOPER0statestateNNOPER0--HYPHOPER0ownedownVBNOPER0PetroPetroNNPORGPER0BasqueBasqueNNPORGPER0tankertankerNNOPER0hithitVBDOPER0thetheDTOPER0concreteconcreteJJOPER0pierpierNNOPER0ininINOPER0SanSanNNPGPEPER0SebastianSebastianNNPGPEPER0,,,OPER0aaDTOPER0popularpopularJJOPER0resortresortNNOPER0southsouthRBOPER0ofofINOPER0SaoSaoNNPGPEPER0PauloPauloNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (ADJP (NN state) (HYPH -) (VBN owned)) (NML (NNP Petro) (NNP Basque)) (NN tanker)) (VP (VBD hit) (NP (NP (DT the) (JJ concrete) (NN pier)) (PP (IN in) (NP (NP (NNP San) (NNP Sebastian)) (, ,) (NP (NP (DT a) (JJ popular) (NN resort)) (ADVP (RB south) (PP (IN of) (NP (NNP Sao) (NNP Paulo))))))))) (. .)))
+WorkersworkerNNSOPER0sealedsealVBDOPER0thetheDTOPER0leakingleakVBGOPER0hullhullNNOPER0andandCCOPER0containedcontainVBDOPER0thetheDTOPER0spillspillNNOPER0,,,OPER0butbutCCOPER0authoritiesauthorityNNSOPER0saysayVBPOPER0thetheDTOPER0oiloilNNOPER0isbeVBZOPER0stillstillRBOPER0threateningthreatenVBGOPER0locallocalJJOPER0beachesbeachNNSOPER0...OPER0(ROOT (S (S (NP (NNS Workers)) (VP (VP (VBD sealed) (NP (DT the) (VBG leaking) (NN hull))) (CC and) (VP (VBD contained) (NP (DT the) (NN spill))))) (, ,) (CC but) (S (NP (NNS authorities)) (VP (VBP say) (SBAR (S (NP (DT the) (NN oil)) (VP (VBZ is) (ADVP (RB still)) (VP (VBG threatening) (NP (JJ local) (NNS beaches)))))))) (. .)))
+SaturdaySaturdayNNPDATEPER0's'sPOSOPER0incidentincidentNNOPER0wasbeVBDOPER0thetheDTOPER0sixthsixthJJORDINALPER0PetroPetroNNPEVENTPER0BasqueBasqueNNPEVENTPER0spillspillNNEVENTPER0thisthisDTDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP Saturday) (POS 's)) (NN incident)) (VP (VBD was) (NP (DT the) (JJ sixth) (NML (NNP Petro) (NNP Basque)) (NN spill)) (NP (DT this) (NN year))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (DT an) (NN oil) (NN tanker))
+sid=0 spanning 7 until 8 headed by 7 parsed as crashed
+sid=0 spanning 9 until 15 headed by 10 parsed as (NP (NP (DT a) (NN pier)) (PP (IN in) (NP (DT a) (NN resort) (NN area))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (NN resort) (NN area))
+sid=0 spanning 16 until 17 headed by 16 parsed as spilling
+sid=0 spanning 17 until 24 headed by 20 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD 86,000)) (NNS liters)) (PP (IN of) (NP (JJ crude) (NN oil))))
+sid=1 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (NN state) (HYPH -) (VBN owned)) (NML (NNP Petro) (NNP Basque)) (NN tanker))
+sid=1 spanning 4 until 6 headed by 5 parsed as Basque
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (NP (DT the) (JJ concrete) (NN pier)) (PP (IN in) (NP (NP (NNP San) (NNP Sebastian)) (, ,) (NP (NP (DT a) (JJ popular) (NN resort)) (ADVP (RB south) (PP (IN of) (NP (NNP Sao) (NNP Paulo))))))))
+sid=1 spanning 12 until 22 headed by 13 parsed as (NP (NP (NNP San) (NNP Sebastian)) (, ,) (NP (NP (DT a) (JJ popular) (NN resort)) (ADVP (RB south) (PP (IN of) (NP (NNP Sao) (NNP Paulo))))))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN spill))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN oil))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Saturday) (POS 's)) (NN incident))
+sid=3 spanning 6 until 8 headed by 7 parsed as Basque
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ Brazilian) (NNS officials))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (DT an) (NN oil) (NN tanker))
+sid=0 spanning 9 until 15 headed by 10 parsed as (NP (NP (DT a) (NN pier)) (PP (IN in) (NP (DT a) (NN resort) (NN area))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (NN resort) (NN area))
+sid=0 spanning 17 until 24 headed by 20 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD 86,000)) (NNS liters)) (PP (IN of) (NP (JJ crude) (NN oil))))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN ocean))
+sid=1 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (ADJP (NN state) (HYPH -) (VBN owned)) (NML (NNP Petro) (NNP Basque)) (NN tanker))
+sid=1 spanning 4 until 6 headed by 5 parsed as Basque
+sid=1 spanning 8 until 22 headed by 10 parsed as (NP (NP (DT the) (JJ concrete) (NN pier)) (PP (IN in) (NP (NP (NNP San) (NNP Sebastian)) (, ,) (NP (NP (DT a) (JJ popular) (NN resort)) (ADVP (RB south) (PP (IN of) (NP (NNP Sao) (NNP Paulo))))))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NP (NNP San) (NNP Sebastian)) (, ,) (NP (NP (DT a) (JJ popular) (NN resort)) (ADVP (RB south) (PP (IN of) (NP (NNP Sao) (NNP Paulo))))))
+sid=1 spanning 12 until 22 headed by 13 parsed as (NP (NP (NNP San) (NNP Sebastian)) (, ,) (NP (NP (DT a) (JJ popular) (NN resort)) (ADVP (RB south) (PP (IN of) (NP (NNP Sao) (NNP Paulo))))))
+sid=1 spanning 15 until 22 headed by 17 parsed as (NP (NP (DT a) (JJ popular) (NN resort)) (ADVP (RB south) (PP (IN of) (NP (NNP Sao) (NNP Paulo)))))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (NNP Sao) (NNP Paulo))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Workers))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (VBG leaking) (NN hull))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN spill))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNS authorities))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN oil))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (JJ local) (NNS beaches))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Saturday) (POS 's)) (NN incident))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Saturday) (POS 's))
+sid=3 spanning 4 until 9 headed by 8 parsed as (NP (DT the) (JJ sixth) (NML (NNP Petro) (NNP Basque)) (NN spill))
+sid=3 spanning 5 until 6 headed by 5 parsed as sixth
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (DT this) (NN year))
+(end predicted mentions)
+---------gold clusters--------
+3 9 | { 'a resort area' 'San Sebastian , a popular resort south of Sao Paulo' }
+4 10 | { 'spilling' 'the spill' }
+11 5 | { 'the oil' 'more than 86,000 liters of crude oil' }
+0 6 | { 'an oil tanker' 'The state - owned Petro Basque tanker' }
+1 12 | { 'crashed' 'Saturday 's incident' }
+2 8 | { 'a pier in a resort area' 'the concrete pier' }
+7 13 | { 'Petro Basque' 'Petro Basque' }
+(end gold clusters)

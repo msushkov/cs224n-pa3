@@ -1,0 +1,63 @@
+---------gloss--------
+(0) [4m[36m{Russia}[0m is denying [4m[35m{reports that it has moved short - range nuclear weapons to one of its military bases in the Baltics}[0m . 
+(1) The Associated Press quotes senior Clinton administration officials as saying , [31m{the missiles}[0m were removed in recent months . 
+(2) `` The Washington Times '' reports [31m{the missiles}[0m have been positioned at the Baltic Sea port base of Kaliningrad , a thin sliver of Russian territory that is the headquarters of the Russian Baltic Fleet . 
+(3) [4m[34m{Officials in the Baltic states of Estonia , Latvia and Lithuania}[0m said [4m[34m{they}[0m could not confirm [4m[35m{the reports}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0163); part 000
+sentences:
+RussiaRussiaNNPGPEPER0isbeVBZOPER0denyingdenyVBGOPER0reportsreportNNSOPER0thatthatINOPER0ititPRPOPER0hashaveVBZOPER0movedmoveVBNOPER0shortshortJJOPER0--HYPHOPER0rangerangeNNOPER0nuclearnuclearJJOPER0weaponsweaponNNSOPER0totoINOPER0oneoneCDOPER0ofofINOPER0itsitsPRP$OPER0militarymilitaryJJOPER0basesbasisNNSOPER0ininINOPER0thetheDTOPER0BalticsBalticsNNPORGPER0...OPER0(ROOT (S (NP (NNP Russia)) (VP (VBZ is) (VP (VBG denying) (NP (NNS reports) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN moved) (NP (NML (JJ short) (HYPH -) (NN range)) (JJ nuclear) (NNS weapons)) (PP (IN to) (NP (NP (CD one)) (PP (IN of) (NP (NP (PRP$ its) (JJ military) (NNS bases)) (PP (IN in) (NP (DT the) (NNP Baltics)))))))))))))) (. .)))
+ThetheDTORGPER0AssociatedAssociatedNNPORGPER0PressPressNNPORGPER0quotesquoteVBZOPER0seniorseniorJJOPER0ClintonClintonNNPPERSONPER0administrationadministrationNNOPER0officialsofficialNNSOPER0asasINOPER0sayingsayVBGOPER0,,,OPER0thetheDTOPER0missilesmissileNNSOPER0werebeVBDOPER0removedremoveVBNOPER0ininINOPER0recentrecentJJDATEPER0monthsmonthNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP Associated) (NNP Press)) (VP (VBZ quotes) (NP (JJ senior) (NML (NNP Clinton) (NN administration)) (NNS officials)) (PP (IN as) (S (VP (VBG saying) (, ,) (SBAR (S (NP (DT the) (NNS missiles)) (VP (VBD were) (VP (VBN removed) (PP (IN in) (NP (JJ recent) (NNS months))))))))))) (. .)))
+``````ORGThetheDTORGPER1WashingtonWashingtonNNPORGPER1TimesTimesNNPORGPER1''''''ORGPER0reportsreportVBZOPER0thetheDTOPER0missilesmissileNNSOPER0havehaveVBPOPER0beenbeVBNOPER0positionedpositionVBNOPER0atatINOPER0thetheDTOPER0BalticBalticNNPLOCPER0SeaSeaNNPLOCPER0portportNNOPER0basebaseNNOPER0ofofINOPER0KaliningradKaliningradNNPORGPER0,,,OPER0aaDTOPER0thinthinJJOPER0sliversliverNNOPER0ofofINOPER0RussianrussianJJOPER0territoryterritoryNNOPER0thatthatWDTOPER0isbeVBZOPER0thetheDTOPER0headquartersheadquartersNNOPER0ofofINOPER0thetheDTOPER0RussianRussianNNPOPER0BalticBalticNNPOPER0FleetFleetNNPORGPER0...OPER0(ROOT (S (NP (`` ``) (DT The) (NNP Washington) (NNP Times) ('' '')) (VP (VBZ reports) (SBAR (S (NP (DT the) (NNS missiles)) (VP (VBP have) (VP (VBN been) (VP (VBN positioned) (PP (IN at) (NP (NP (DT the) (NML (NNP Baltic) (NNP Sea)) (NN port) (NN base)) (PP (IN of) (NP (NP (NNP Kaliningrad)) (, ,) (NP (NP (DT a) (JJ thin) (NN sliver)) (PP (IN of) (NP (NP (JJ Russian) (NN territory)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (DT the) (NN headquarters)) (PP (IN of) (NP (DT the) (NNP Russian) (NNP Baltic) (NNP Fleet)))))))))))))))))))) (. .)))
+OfficialsofficialNNSOPER0ininINOPER0thetheDTOPER0BalticBalticNNPOPER0statesstatesNNPOPER0ofofINOPER0EstoniaEstoniaNNPGPEPER0,,,OPER0LatviaLatviaNNPORGPER0andandCCOPER0LithuaniaLithuaniaNNPORGPER0saidsayVBDOPER0theytheyPRPOPER0couldcouldMDOPER0notnotRBOPER0confirmconfirmVBOPER0thetheDTOPER0reportsreportNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Officials)) (PP (IN in) (NP (NP (NP (DT the) (NNP Baltic) (NNP states)) (PP (IN of) (NP (NNP Estonia)))) (, ,) (NP (NNP Latvia)) (CC and) (NP (NNP Lithuania))))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD could) (RB not) (VP (VB confirm) (NP (DT the) (NNS reports))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Russia))
+sid=0 spanning 3 until 22 headed by 3 parsed as (NP (NNS reports) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN moved) (NP (NML (JJ short) (HYPH -) (NN range)) (JJ nuclear) (NNS weapons)) (PP (IN to) (NP (NP (CD one)) (PP (IN of) (NP (NP (PRP$ its) (JJ military) (NNS bases)) (PP (IN in) (NP (DT the) (NNP Baltics))))))))))))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 8 until 13 headed by 12 parsed as (NP (NML (JJ short) (HYPH -) (NN range)) (JJ nuclear) (NNS weapons))
+sid=0 spanning 16 until 17 headed by 16 parsed as its
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNS missiles))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS missiles))
+sid=3 spanning 0 until 11 headed by 0 parsed as (NP (NP (NNS Officials)) (PP (IN in) (NP (NP (NP (DT the) (NNP Baltic) (NNP states)) (PP (IN of) (NP (NNP Estonia)))) (, ,) (NP (NNP Latvia)) (CC and) (NP (NNP Lithuania)))))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NNS reports))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Russia))
+sid=0 spanning 3 until 22 headed by 3 parsed as (NP (NNS reports) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN moved) (NP (NML (JJ short) (HYPH -) (NN range)) (JJ nuclear) (NNS weapons)) (PP (IN to) (NP (NP (CD one)) (PP (IN of) (NP (NP (PRP$ its) (JJ military) (NNS bases)) (PP (IN in) (NP (DT the) (NNP Baltics))))))))))))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 8 until 13 headed by 12 parsed as (NP (NML (JJ short) (HYPH -) (NN range)) (JJ nuclear) (NNS weapons))
+sid=0 spanning 14 until 22 headed by 14 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (PRP$ its) (JJ military) (NNS bases)) (PP (IN in) (NP (DT the) (NNP Baltics))))))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNP Baltics))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Associated) (NNP Press))
+sid=1 spanning 4 until 8 headed by 7 parsed as (NP (JJ senior) (NML (NNP Clinton) (NN administration)) (NNS officials))
+sid=1 spanning 5 until 6 headed by 5 parsed as Clinton
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNS missiles))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (JJ recent) (NNS months))
+sid=2 spanning 0 until 5 headed by 3 parsed as (NP (`` ``) (DT The) (NNP Washington) (NNP Times) ('' ''))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS missiles))
+sid=2 spanning 12 until 35 headed by 16 parsed as (NP (NP (DT the) (NML (NNP Baltic) (NNP Sea)) (NN port) (NN base)) (PP (IN of) (NP (NP (NNP Kaliningrad)) (, ,) (NP (NP (DT a) (JJ thin) (NN sliver)) (PP (IN of) (NP (NP (JJ Russian) (NN territory)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (DT the) (NN headquarters)) (PP (IN of) (NP (DT the) (NNP Russian) (NNP Baltic) (NNP Fleet)))))))))))))
+sid=2 spanning 13 until 15 headed by 14 parsed as Sea
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NP (NNP Kaliningrad)) (, ,) (NP (NP (DT a) (JJ thin) (NN sliver)) (PP (IN of) (NP (NP (JJ Russian) (NN territory)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (DT the) (NN headquarters)) (PP (IN of) (NP (DT the) (NNP Russian) (NNP Baltic) (NNP Fleet)))))))))))
+sid=2 spanning 18 until 35 headed by 18 parsed as (NP (NP (NNP Kaliningrad)) (, ,) (NP (NP (DT a) (JJ thin) (NN sliver)) (PP (IN of) (NP (NP (JJ Russian) (NN territory)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (DT the) (NN headquarters)) (PP (IN of) (NP (DT the) (NNP Russian) (NNP Baltic) (NNP Fleet)))))))))))
+sid=2 spanning 20 until 35 headed by 22 parsed as (NP (NP (DT a) (JJ thin) (NN sliver)) (PP (IN of) (NP (NP (JJ Russian) (NN territory)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (DT the) (NN headquarters)) (PP (IN of) (NP (DT the) (NNP Russian) (NNP Baltic) (NNP Fleet))))))))))
+sid=2 spanning 28 until 35 headed by 29 parsed as (NP (NP (DT the) (NN headquarters)) (PP (IN of) (NP (DT the) (NNP Russian) (NNP Baltic) (NNP Fleet))))
+sid=2 spanning 31 until 35 headed by 34 parsed as (NP (DT the) (NNP Russian) (NNP Baltic) (NNP Fleet))
+sid=3 spanning 0 until 11 headed by 0 parsed as (NP (NP (NNS Officials)) (PP (IN in) (NP (NP (NP (DT the) (NNP Baltic) (NNP states)) (PP (IN of) (NP (NNP Estonia)))) (, ,) (NP (NNP Latvia)) (CC and) (NP (NNP Lithuania)))))
+sid=3 spanning 2 until 11 headed by 4 parsed as (NP (NP (NP (DT the) (NNP Baltic) (NNP states)) (PP (IN of) (NP (NNP Estonia)))) (, ,) (NP (NNP Latvia)) (CC and) (NP (NNP Lithuania)))
+sid=3 spanning 2 until 7 headed by 4 parsed as (NP (NP (DT the) (NNP Baltic) (NNP states)) (PP (IN of) (NP (NNP Estonia))))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Estonia))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNP Latvia))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (NNP Lithuania))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NNS reports))
+(end predicted mentions)
+---------gold clusters--------
+8 7 | { 'they' 'Officials in the Baltic states of Estonia , Latvia and Lithuania' }
+1 9 | { 'reports that it has moved short - range nuclear weapons to one of its military bases in the Baltics' 'the reports' }
+0 2 4 | { 'Russia' 'it' 'its' }
+6 3 5 | { 'the missiles' 'short - range nuclear weapons' 'the missiles' }
+(end gold clusters)

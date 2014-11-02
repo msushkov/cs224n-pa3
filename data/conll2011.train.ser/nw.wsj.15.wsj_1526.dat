@@ -1,0 +1,35 @@
+---------gloss--------
+(0) This maker of electronic measuring devices named [4m[34m{two new directors}[0m , increasing board membership to nine . 
+(1) The new directors are [4m[34m{Gordon M. Sprenger , president and chief executive officer of LifeSpan Inc. , and Peter S. Willmott , chairman and chief executive officer of Willmott Services Inc}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1526); part 000
+sentences:
+ThisthisDTOPER0makermakerNNOPER0ofofINOPER0electronicelectronicJJOPER0measuringmeasuringNNOPER0devicesdeviceNNSOPER0namednameVBDOPER0twotwoCDCARDINALPER0newnewJJOPER0directorsdirectorNNSOPER0,,,OPER0increasingincreaseVBGOPER0boardboardNNOPER0membershipmembershipNNOPER0totoINOPER0ninenineCDCARDINALPER0...OPER0(ROOT (S (NP (NP (DT This) (NN maker)) (PP (IN of) (NP (JJ electronic) (NN measuring) (NNS devices)))) (VP (VBD named) (NP (CD two) (JJ new) (NNS directors)) (, ,) (S (VP (VBG increasing) (NP (NN board) (NN membership)) (PP (IN to) (NP (CD nine)))))) (. .)))
+ThetheDTOPER0newnewJJOPER0directorsdirectorNNSOPER0arebeVBPOPER0GordonGordonNNPPERSONPER0M.M.NNPPERSONPER0SprengerSprengerNNPPERSONPER0,,,OPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0LifeSpanlifespanNNORGPER0Inc.Inc.NNPORGPER0,,,OPER0andandCCOPER0PeterPeterNNPPERSONPER0S.S.NNPPERSONPER0WillmottWillmottNNPPERSONPER0,,,OPER0chairmanchairmanNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0WillmottWillmottNNPORGPER0ServicesServicesNNPSORGPER0IncIncNNPORGPER0...OPER0(ROOT (S (NP (DT The) (JJ new) (NNS directors)) (VP (VBP are) (NP (NP (NNP Gordon) (NNP M.) (NNP Sprenger)) (, ,) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NN LifeSpan) (NNP Inc.)) (, ,) (CC and) (NP (NP (NNP Peter) (NNP S.) (NNP Willmott)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (CD two) (JJ new) (NNS directors))
+sid=1 spanning 4 until 31 headed by 6 parsed as (NP (NP (NNP Gordon) (NNP M.) (NNP Sprenger)) (, ,) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NN LifeSpan) (NNP Inc.)) (, ,) (CC and) (NP (NP (NNP Peter) (NNP S.) (NNP Willmott)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc)))))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT This) (NN maker)) (PP (IN of) (NP (JJ electronic) (NN measuring) (NNS devices))))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (JJ electronic) (NN measuring) (NNS devices))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (CD two) (JJ new) (NNS directors))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (NN board) (NN membership))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (CD nine))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ new) (NNS directors))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNP Gordon) (NNP M.) (NNP Sprenger)) (, ,) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NN LifeSpan) (NNP Inc.)) (, ,) (CC and) (NP (NP (NNP Peter) (NNP S.) (NNP Willmott)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc)))))))))
+sid=1 spanning 4 until 31 headed by 6 parsed as (NP (NP (NNP Gordon) (NNP M.) (NNP Sprenger)) (, ,) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NN LifeSpan) (NNP Inc.)) (, ,) (CC and) (NP (NP (NNP Peter) (NNP S.) (NNP Willmott)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc)))))))))
+sid=1 spanning 8 until 31 headed by 8 parsed as (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NN LifeSpan) (NNP Inc.)) (, ,) (CC and) (NP (NP (NNP Peter) (NNP S.) (NNP Willmott)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc))))))))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NP (NN LifeSpan) (NNP Inc.)) (, ,) (CC and) (NP (NP (NNP Peter) (NNP S.) (NNP Willmott)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc))))))
+sid=1 spanning 14 until 31 headed by 15 parsed as (NP (NP (NN LifeSpan) (NNP Inc.)) (, ,) (CC and) (NP (NP (NNP Peter) (NNP S.) (NNP Willmott)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc))))))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (NP (NNP Peter) (NNP S.) (NNP Willmott)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc)))))
+sid=1 spanning 18 until 31 headed by 20 parsed as (NP (NP (NNP Peter) (NNP S.) (NNP Willmott)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc)))))
+sid=1 spanning 22 until 31 headed by 22 parsed as (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Willmott) (NNPS Services) (NNP Inc))))
+sid=1 spanning 28 until 31 headed by 30 parsed as (NP (NNP Willmott) (NNPS Services) (NNP Inc))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'Gordon M. Sprenger , president and chief executive officer of LifeSpan Inc. , and Peter S. Willmott , chairman and chief executive officer of Willmott Services Inc' 'two new directors' }
+(end gold clusters)

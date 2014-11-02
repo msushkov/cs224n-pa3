@@ -1,0 +1,45 @@
+---------gloss--------
+(0) [33m{WorldCom}[0m posted a 26 % increase in [33m{its}[0m quarterly earnings , helped by strong international sales . 
+(1) [33m{The second biggest long - distance phone company}[0m said [33m{it}[0m would unveil a restructuring plan next week that will concentrate on [33m{its}[0m internet operations and hopefully boost [33m{its}[0m sagging stock price . 
+(2) Shares of [33m{WorldCom}[0m have fallen more than 50 % since the beginning of this year . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0073); part 000
+sentences:
+WorldComWorldComNNPORGPER0postedpostVBDOPER0aaDTOPER02626CDPERCENTPER0%%NNPERCENTPER0increaseincreaseNNOPER0ininINOPER0itsitsPRP$OPER0quarterlyquarterlyJJDATEPER0earningsearningsNNSOPER0,,,OPER0helpedhelpVBNOPER0bybyINOPER0strongstrongJJOPER0internationalinternationalJJOPER0salessaleNNSOPER0...OPER0(ROOT (S (NP (NNP WorldCom)) (VP (VBD posted) (NP (NP (DT a) (NML (CD 26) (NN %)) (NN increase)) (PP (IN in) (NP (PRP$ its) (JJ quarterly) (NNS earnings)))) (, ,) (S (VP (VBN helped) (PP (IN by) (NP (JJ strong) (JJ international) (NNS sales)))))) (. .)))
+ThetheDTOPER0secondsecondRBORDINALPER0biggestbiggestJJSOPER0longlongJJOPER0--HYPHOPER0distancedistanceNNOPER0phonephoneNNOPER0companycompanyNNOPER0saidsayVBDOPER0ititPRPOPER0wouldwouldMDOPER0unveilunveilVBOPER0aaDTOPER0restructuringrestructureVBGOPER0planplanNNOPER0nextnextJJDATEPER0weekweekNNDATEPER0thatthatINOPER0willwillMDOPER0concentrateconcentrateVBOPER0ononINOPER0itsitsPRP$OPER0internetinternetNNOPER0operationsoperationNNSOPER0andandCCOPER0hopefullyhopefullyRBOPER0boostboostVBOPER0itsitsPRP$OPER0saggingsagVBGOPER0stockstockNNOPER0pricepriceNNOPER0...OPER0(ROOT (S (NP (DT The) (ADJP (RB second) (JJS biggest)) (NML (JJ long) (HYPH -) (NN distance)) (NN phone) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB unveil) (NP (DT a) (VBG restructuring) (NN plan)) (NP (JJ next) (NN week)) (SBAR (IN that) (S (VP (MD will) (VP (VP (VB concentrate) (PP (IN on) (NP (PRP$ its) (NN internet) (NNS operations)))) (CC and) (ADVP (RB hopefully)) (VP (VB boost) (NP (PRP$ its) (VBG sagging) (NN stock) (NN price)))))))))))) (. .)))
+SharesshareNNSOPER0ofofINOPER0WorldComWorldComNNPORGPER0havehaveVBPOPER0fallenfallVBNOPER0moremoreJJRPERCENTPER0thanthanINPERCENTPER05050CDPERCENTPER0%%NNPERCENTPER0sincesinceINOPER0thetheDTDATEPER0beginningbeginningNNDATEPER0ofofINDATEPER0thisthisDTDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (NNS Shares)) (PP (IN of) (NP (NNP WorldCom)))) (VP (VBP have) (VP (VBN fallen) (NP (QP (XS (JJR more) (IN than)) (CD 50)) (NN %)) (PP (IN since) (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (DT this) (NN year))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=0 spanning 7 until 8 headed by 7 parsed as its
+sid=1 spanning 0 until 8 headed by 7 parsed as (NP (DT The) (ADJP (RB second) (JJS biggest)) (NML (JJ long) (HYPH -) (NN distance)) (NN phone) (NN company))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=1 spanning 21 until 22 headed by 21 parsed as its
+sid=1 spanning 27 until 28 headed by 27 parsed as its
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP WorldCom))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=0 spanning 2 until 10 headed by 5 parsed as (NP (NP (DT a) (NML (CD 26) (NN %)) (NN increase)) (PP (IN in) (NP (PRP$ its) (JJ quarterly) (NNS earnings))))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (PRP$ its) (JJ quarterly) (NNS earnings))
+sid=0 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=0 spanning 8 until 9 headed by 8 parsed as quarterly
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (JJ strong) (JJ international) (NNS sales))
+sid=1 spanning 0 until 8 headed by 7 parsed as (NP (DT The) (ADJP (RB second) (JJS biggest)) (NML (JJ long) (HYPH -) (NN distance)) (NN phone) (NN company))
+sid=1 spanning 1 until 2 headed by 1 parsed as second
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (VBG restructuring) (NN plan))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (JJ next) (NN week))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (PRP$ its) (NN internet) (NNS operations))
+sid=1 spanning 21 until 22 headed by 21 parsed as (PRP$ its)
+sid=1 spanning 27 until 31 headed by 30 parsed as (NP (PRP$ its) (VBG sagging) (NN stock) (NN price))
+sid=1 spanning 27 until 28 headed by 27 parsed as (PRP$ its)
+sid=2 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Shares)) (PP (IN of) (NP (NNP WorldCom))))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP WorldCom))
+sid=2 spanning 10 until 15 headed by 11 parsed as (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (DT this) (NN year))))
+(end predicted mentions)
+---------gold clusters--------
+2 5 6 0 3 4 1 | { 'The second biggest long - distance phone company' 'its' 'WorldCom' 'WorldCom' 'it' 'its' 'its' }
+(end gold clusters)

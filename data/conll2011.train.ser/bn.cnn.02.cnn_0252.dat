@@ -1,0 +1,131 @@
+---------gloss--------
+(0) You 've heard [32m{the old saying , the best offense is a good defense}[0m ? 
+(1) Perhaps with [32m{that}[0m in mind , [36m{the nation 's}[0m threat level back at orange , or high , to discourage and thwart potential terrorist attacks . 
+(2) What does [34m{this}[0m mean if you 're traveling you might ask . 
+(3) To CNN 's Patty Davis at Reagan National Airport . 
+(4) What are travelers to do and , for that matter , not to do ? 
+(5) Reporter : 
+(6) Miles , what [34m{that}[0m means is [33m{tighter security at airports across the country}[0m , and [33m{that}[0m could potentially slow you down . 
+(7) Some things you may want to do is , first of all , just get here a little bit early . 
+(8) Now , Homeland Security chief Tom Ridge described some of those new security measures on top of the ones that are already in place . 
+(9) Begin the training for the pilots in the cockpits with firearms . 
+(10) Then you 've got the hardened cockpit doors . 
+(11) You have training for the flight attendants . 
+(12) You have more federal air marshals . 
+(13) You come outside [35m{the airplane itself}[0m and you have technology , 100 % inspection of baggage . 
+(14) You have new trained inspectors for passengers . 
+(15) You enhance airport security outside the perimeter . 
+(16) There will be additional random inspections of vehicles and potentially , depending on the airport , some limitations of ingress and egress into the airport . 
+(17) Reporter : 
+(18) Airports are currently -- 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0252); part 000
+sentences:
+YouyouPRPOPER0'vehaveVBPOPER0heardhearVBNOPER0thetheDTOPER0oldoldJJOPER0sayingsayingNNOPER0,,,OPER0thetheDTOPER0bestbestJJSOPER0offenseoffenseNNOPER0isbeVBZOPER0aaDTOPER0goodgoodJJOPER0defensedefenseNNOPER0??.OPER0(ROOT (S (S (NP (PRP You)) (VP (VBP 've) (VP (VBN heard) (NP (DT the) (JJ old) (NN saying))))) (, ,) (S (NP (DT the) (JJS best) (NN offense)) (VP (VBZ is) (NP (DT a) (JJ good) (NN defense)))) (. ?)))
+PerhapsperhapsRBOPER0withwithINOPER0thatthatDTOPER0ininINOPER0mindmindNNOPER0,,,OPER0thetheDTOPER0nationnationNNOPER0's'sPOSOPER0threatthreatNNOPER0levellevelNNOPER0backbackRPOPER0atatINOPER0orangeorangeNNOPER0,,,OPER0ororCCOPER0highhighNNOPER0,,,OPER0totoTOOPER0discouragediscourageVBOPER0andandCCOPER0thwartthwartVBOPER0potentialpotentialJJOPER0terroristterroristJJOPER0attacksattackNNSOPER0...OPER0(ROOT (S (PP (ADVP (RB Perhaps)) (IN with) (NP (NP (DT that)) (PP (IN in) (NP (NN mind))))) (, ,) (NP (NP (DT the) (NN nation) (POS 's)) (NN threat)) (VP (NN level) (PRT (RP back)) (PP (IN at) (NP (NN orange) (, ,) (CC or) (NN high))) (, ,) (S (VP (TO to) (VP (VP (VB discourage)) (CC and) (VP (VB thwart) (NP (JJ potential) (JJ terrorist) (NNS attacks))))))) (. .)))
+WhatwhatWPOPER0doesdoVBZOPER0thisthisDTOPER0meanmeanVBOPER0ififINOPER0youyouPRPOPER0'rebeVBPOPER0travelingtravelVBGOPER0youyouPRPOPER0mightmightMDOPER0askaskVBOPER0...OPER0(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ does) (NP (DT this)) (VP (VB mean) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG traveling) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB ask))))))))))) (. .)))
+TotoINOPER0CNNCNNNNPORGPER0's'sPOSOPER0PattyPattyNNPPERSONPER0DavisDavisNNPPERSONPER0atatINOPER0ReaganReaganNNPFACPER0NationalNationalNNPFACPER0AirportAirportNNPFACPER0...OPER0(ROOT (PP (IN To) (NP (NP (NP (NNP CNN) (POS 's)) (NNP Patty) (NNP Davis)) (PP (IN at) (NP (NNP Reagan) (NNP National) (NNP Airport)))) (. .)))
+WhatwhatWPOPER0arebeVBPOPER0travelerstravelerNNSOPER0totoTOOPER0dodoVBOPER0andandCCOPER0,,,OPER0forforINOPER0thatthatDTOPER0mattermatterNNOPER0,,,OPER0notnotRBOPER0totoTOOPER0dodoVBOPER0??.OPER0(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (NP (NNS travelers)) (SBAR (S (VP (VP (TO to) (VP (VB do))) (CC and) (, ,) (PP (IN for) (NP (DT that) (NN matter))) (, ,) (VP (RB not) (TO to) (VP (VB do)))))))) (. ?)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+MilesmileNNSPERSONPER0,,,OPER0whatwhatWPOPER0thatthatDTOPER0meansmeanVBZOPER0isbeVBZOPER0tightertighterJJROPER0securitysecurityNNOPER0atatINOPER0airportsairportNNSOPER0acrossacrossINOPER0thetheDTOPER0countrycountryNNOPER0,,,OPER0andandCCOPER0thatthatWDTOPER0couldcouldMDOPER0potentiallypotentiallyRBOPER0slowslowVBOPER0youyouPRPOPER0downdownRPOPER0...OPER0(ROOT (FRAG (NP (NNS Miles)) (, ,) (SBAR (WHNP (WP what)) (S (NP (DT that)) (VP (VBZ means) (SBAR (SBAR (S (VP (VBZ is) (NP (NP (JJR tighter) (NN security)) (PP (IN at) (NP (NP (NNS airports)) (PP (IN across) (NP (DT the) (NN country))))))))) (, ,) (CC and) (SBAR (WHNP (WDT that)) (S (VP (MD could) (ADVP (RB potentially)) (VP (VB slow) (NP (PRP you)) (PRT (RP down)))))))))) (. .)))
+SomesomeDTOPER0thingsthingNNSOPER0youyouPRPOPER0maymayMDOPER0wantwantVBOPER0totoTOOPER0dodoVBOPER0isisRBOPER0,,,OPER0firstfirstRBORDINALPER0ofofINOPER0allallDTOPER0,,,OPER0justjustRBOPER0getgetVBOPER0herehereRBOPER0aaDTOPER0littlelittleJJOPER0bitbitNNOPER0earlyearlyRBOPER0...OPER0(ROOT (S (NP (NP (DT Some) (NNS things)) (SBAR (S (NP (PRP you)) (VP (MD may) (VP (VB want) (S (VP (TO to) (VP (VB do) (ADVP (RB is)))))))))) (, ,) (ADVP (RB first) (PP (IN of) (NP (DT all)))) (, ,) (ADVP (RB just)) (VP (VB get) (ADVP (RB here)) (ADVP (NP (DT a) (JJ little) (NN bit)) (RB early))) (. .)))
+NownowRBOPER0,,,OPER0HomelandHomelandNNPORGPER0SecuritySecurityNNPORGPER0chiefchiefNNOPER0TomTomNNPPERSONPER0RidgeRidgeNNPPERSONPER0describeddescribeVBDOPER0somesomeDTOPER0ofofINOPER0thosethoseDTOPER0newnewJJOPER0securitysecurityNNOPER0measuresmeasureNNSOPER0ononINOPER0toptopNNOPER0ofofINOPER0thetheDTOPER0onesoneNNSOPER0thatthatWDTOPER0arebeVBPOPER0alreadyalreadyRBOPER0ininINOPER0placeplaceNNOPER0...OPER0(ROOT (S (ADVP (RB Now)) (, ,) (NP (NML (NML (NNP Homeland) (NNP Security)) (NN chief)) (NNP Tom) (NNP Ridge)) (VP (VBD described) (NP (NP (DT some)) (PP (IN of) (NP (DT those) (JJ new) (NN security) (NNS measures)))) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (NP (DT the) (NNS ones)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB already)) (PP (IN in) (NP (NN place))))))))))) (. .)))
+BeginbeginVBPOPER0thetheDTOPER0trainingtrainingNNOPER0forforINOPER0thetheDTOPER0pilotspilotNNSOPER0ininINOPER0thetheDTOPER0cockpitscockpitNNSOPER0withwithINOPER0firearmsfirearmNNSOPER0...OPER0(ROOT (S (VP (VBP Begin) (NP (NP (DT the) (NN training)) (PP (IN for) (NP (DT the) (NNS pilots)))) (PP (IN in) (NP (NP (DT the) (NNS cockpits)) (PP (IN with) (NP (NNS firearms)))))) (. .)))
+ThenthenRBOPER0youyouPRPOPER0'vehaveVBPOPER0gotgetVBNOPER0thetheDTOPER0hardenedhardenVBNOPER0cockpitcockpitNNOPER0doorsdoorNNSOPER0...OPER0(ROOT (S (ADVP (RB Then)) (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (NP (DT the) (VBN hardened) (NN cockpit) (NNS doors)))) (. .)))
+YouyouPRPOPER0havehaveVBPOPER0trainingtrainingNNOPER0forforINOPER0thetheDTOPER0flightflightNNOPER0attendantsattendantNNSOPER0...OPER0(ROOT (S (NP (PRP You)) (VP (VBP have) (NP (NP (NN training)) (PP (IN for) (NP (DT the) (NN flight) (NNS attendants))))) (. .)))
+YouyouPRPOPER0havehaveVBPOPER0moremoreJJROPER0federalfederalJJOPER0airairNNOPER0marshalsmarshalNNSOPER0...OPER0(ROOT (S (NP (PRP You)) (VP (VBP have) (NP (JJR more) (JJ federal) (NN air) (NNS marshals))) (. .)))
+YouyouPRPOPER0comecomeVBPOPER0outsideoutsideINOPER0thetheDTOPER0airplaneairplaneNNOPER0itselfitselfPRPOPER0andandCCOPER0youyouPRPOPER0havehaveVBPOPER0technologytechnologyNNOPER0,,,OPER0100100CDPERCENTPER0%%NNPERCENTPER0inspectioninspectionNNOPER0ofofINOPER0baggagebaggageNNOPER0...OPER0(ROOT (S (S (NP (PRP You)) (VP (VBP come) (PP (IN outside) (NP (NP (DT the) (NN airplane)) (NP (PRP itself)))))) (CC and) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN technology) (, ,) (NML (CD 100) (NN %)) (NN inspection)) (PP (IN of) (NP (NN baggage)))))) (. .)))
+YouyouPRPOPER0havehaveVBPOPER0newnewJJOPER0trainedtrainVBNOPER0inspectorsinspectorNNSOPER0forforINOPER0passengerspassengerNNSOPER0...OPER0(ROOT (S (NP (PRP You)) (VP (VBP have) (NP (NP (JJ new) (VBN trained) (NNS inspectors)) (PP (IN for) (NP (NNS passengers))))) (. .)))
+YouyouPRPOPER0enhanceenhanceVBOPER0airportairportNNOPER0securitysecurityNNOPER0outsideoutsideINOPER0thetheDTOPER0perimeterperimeterNNOPER0...OPER0(ROOT (S (NP (PRP You)) (VP (VB enhance) (NP (NN airport) (NN security)) (PP (IN outside) (NP (DT the) (NN perimeter)))) (. .)))
+TherethereEXOPER0willwillMDOPER0bebeVBOPER0additionaladditionalJJOPER0randomrandomJJOPER0inspectionsinspectionNNSOPER0ofofINOPER0vehiclesvehicleNNSOPER0andandCCOPER0potentiallypotentiallyRBOPER0,,,OPER0dependingdependVBGOPER0ononINOPER0thetheDTOPER0airportairportNNOPER0,,,OPER0somesomeDTOPER0limitationslimitationNNSOPER0ofofINOPER0ingressingressNNOPER0andandCCOPER0egressegressNNOPER0intointoINOPER0thetheDTOPER0airportairportNNOPER0...OPER0(ROOT (S (NP (EX There)) (VP (MD will) (VP (VB be) (NP (NP (JJ additional) (JJ random) (NNS inspections)) (PP (IN of) (NP (NP (NNS vehicles)) (CC and) (ADVP (RB potentially))))) (, ,) (PP (VBG depending) (PP (IN on) (NP (DT the) (NN airport)))) (, ,) (NP (NP (DT some) (NNS limitations)) (PP (IN of) (NP (NP (NN ingress) (CC and) (NN egress)) (PP (IN into) (NP (DT the) (NN airport)))))))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+AirportsairportNNSOPER0arebeVBPOPER0currentlycurrentlyRBOPER0----.OPER0(ROOT (S (NP (NNS Airports)) (VP (VBP are) (ADVP (RB currently))) (. --)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 14 headed by 5 parsed as (NP (DT the) (JJ old) (NN saying))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NP (DT that)) (PP (IN in) (NP (NN mind))))
+sid=1 spanning 6 until 9 headed by 7 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (DT this))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (DT that))
+sid=6 spanning 6 until 13 headed by 7 parsed as (NP (NP (JJR tighter) (NN security)) (PP (IN at) (NP (NP (NNS airports)) (PP (IN across) (NP (DT the) (NN country))))))
+sid=6 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN country))
+sid=6 spanning 15 until 16 headed by 15 parsed as that
+sid=13 spanning 3 until 6 headed by 4 parsed as (NP (NP (DT the) (NN airplane)) (NP (PRP itself)))
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (PRP itself))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ old) (NN saying))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJS best) (NN offense))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (JJ good) (NN defense))
+sid=1 spanning 2 until 5 headed by 2 parsed as (NP (NP (DT that)) (PP (IN in) (NP (NN mind))))
+sid=1 spanning 6 until 10 headed by 9 parsed as (NP (NP (DT the) (NN nation) (POS 's)) (NN threat))
+sid=1 spanning 6 until 9 headed by 7 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=1 spanning 13 until 17 headed by 16 parsed as (NP (NN orange) (, ,) (CC or) (NN high))
+sid=1 spanning 22 until 25 headed by 24 parsed as (NP (JJ potential) (JJ terrorist) (NNS attacks))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (DT this))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (PRP you))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (PRP you))
+sid=3 spanning 1 until 9 headed by 4 parsed as (NP (NP (NP (NNP CNN) (POS 's)) (NNP Patty) (NNP Davis)) (PP (IN at) (NP (NNP Reagan) (NNP National) (NNP Airport))))
+sid=3 spanning 1 until 3 headed by 1 parsed as (NP (NNP CNN) (POS 's))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (NNP Reagan) (NNP National) (NNP Airport))
+sid=4 spanning 2 until 14 headed by 2 parsed as (NP (NP (NNS travelers)) (SBAR (S (VP (VP (TO to) (VP (VB do))) (CC and) (, ,) (PP (IN for) (NP (DT that) (NN matter))) (, ,) (VP (RB not) (TO to) (VP (VB do)))))))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT that) (NN matter))
+sid=5 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNS Miles))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (DT that))
+sid=6 spanning 6 until 13 headed by 7 parsed as (NP (NP (JJR tighter) (NN security)) (PP (IN at) (NP (NP (NNS airports)) (PP (IN across) (NP (DT the) (NN country))))))
+sid=6 spanning 9 until 13 headed by 9 parsed as (NP (NP (NNS airports)) (PP (IN across) (NP (DT the) (NN country))))
+sid=6 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN country))
+sid=6 spanning 19 until 20 headed by 19 parsed as (NP (PRP you))
+sid=7 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT Some) (NNS things)) (SBAR (S (NP (PRP you)) (VP (MD may) (VP (VB want) (S (VP (TO to) (VP (VB do) (ADVP (RB is))))))))))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (PRP you))
+sid=7 spanning 9 until 10 headed by 9 parsed as first
+sid=7 spanning 16 until 19 headed by 18 parsed as (NP (DT a) (JJ little) (NN bit))
+sid=8 spanning 2 until 7 headed by 6 parsed as (NP (NML (NML (NNP Homeland) (NNP Security)) (NN chief)) (NNP Tom) (NNP Ridge))
+sid=8 spanning 2 until 4 headed by 3 parsed as Security
+sid=8 spanning 8 until 14 headed by 8 parsed as (NP (NP (DT some)) (PP (IN of) (NP (DT those) (JJ new) (NN security) (NNS measures))))
+sid=8 spanning 10 until 14 headed by 13 parsed as (NP (DT those) (JJ new) (NN security) (NNS measures))
+sid=8 spanning 15 until 24 headed by 15 parsed as (NP (NP (NN top)) (PP (IN of) (NP (NP (DT the) (NNS ones)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB already)) (PP (IN in) (NP (NN place)))))))))
+sid=8 spanning 17 until 24 headed by 18 parsed as (NP (NP (DT the) (NNS ones)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB already)) (PP (IN in) (NP (NN place)))))))
+sid=9 spanning 1 until 6 headed by 2 parsed as (NP (NP (DT the) (NN training)) (PP (IN for) (NP (DT the) (NNS pilots))))
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNS pilots))
+sid=9 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT the) (NNS cockpits)) (PP (IN with) (NP (NNS firearms))))
+sid=9 spanning 10 until 11 headed by 10 parsed as (NP (NNS firearms))
+sid=10 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=10 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (VBN hardened) (NN cockpit) (NNS doors))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=11 spanning 2 until 7 headed by 2 parsed as (NP (NP (NN training)) (PP (IN for) (NP (DT the) (NN flight) (NNS attendants))))
+sid=11 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN flight) (NNS attendants))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=12 spanning 2 until 6 headed by 5 parsed as (NP (JJR more) (JJ federal) (NN air) (NNS marshals))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=13 spanning 3 until 6 headed by 4 parsed as (NP (NP (DT the) (NN airplane)) (NP (PRP itself)))
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (PRP itself))
+sid=13 spanning 7 until 8 headed by 7 parsed as (NP (PRP you))
+sid=13 spanning 9 until 16 headed by 13 parsed as (NP (NP (NN technology) (, ,) (NML (CD 100) (NN %)) (NN inspection)) (PP (IN of) (NP (NN baggage))))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=14 spanning 2 until 7 headed by 4 parsed as (NP (NP (JJ new) (VBN trained) (NNS inspectors)) (PP (IN for) (NP (NNS passengers))))
+sid=14 spanning 6 until 7 headed by 6 parsed as (NP (NNS passengers))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=15 spanning 2 until 4 headed by 3 parsed as (NP (NN airport) (NN security))
+sid=15 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN perimeter))
+sid=16 spanning 3 until 10 headed by 5 parsed as (NP (NP (JJ additional) (JJ random) (NNS inspections)) (PP (IN of) (NP (NP (NNS vehicles)) (CC and) (ADVP (RB potentially)))))
+sid=16 spanning 7 until 10 headed by 7 parsed as (NP (NP (NNS vehicles)) (CC and) (ADVP (RB potentially)))
+sid=16 spanning 7 until 8 headed by 7 parsed as (NP (NNS vehicles))
+sid=16 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN airport))
+sid=16 spanning 16 until 25 headed by 17 parsed as (NP (NP (DT some) (NNS limitations)) (PP (IN of) (NP (NP (NN ingress) (CC and) (NN egress)) (PP (IN into) (NP (DT the) (NN airport))))))
+sid=16 spanning 19 until 25 headed by 19 parsed as (NP (NP (NN ingress) (CC and) (NN egress)) (PP (IN into) (NP (DT the) (NN airport))))
+sid=16 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN airport))
+sid=17 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=18 spanning 0 until 1 headed by 0 parsed as (NP (NNS Airports))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'that' 'the old saying , the best offense is a good defense' }
+7 5 | { 'that' 'tighter security at airports across the country' }
+4 3 | { 'that' 'this' }
+9 8 | { 'itself' 'the airplane itself' }
+6 2 | { 'the country' 'the nation 's' }
+(end gold clusters)

@@ -1,0 +1,39 @@
+---------gloss--------
+(0) [34m{President Bush}[0m heads to the G summit in France on Friday with victory over Saddam Hussein and in [34m{his}[0m pocket and a soaring approval rating by the American public , but do Europeans share the same enthusiasm for [34m{the President}[0m ? 
+(1) Our senior political analyst Bill Schneider reports on the results of a brand new poll . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0367); part 000
+sentences:
+PresidentPresidentNNPOPER0BushBushNNPPERSONPER0headsheadVBZOPER0totoINOPER0thetheDTOPER0GGNNPORGPER0summitsummitNNOPER0ininINOPER0FranceFranceNNPGPEPER0ononINOPER0FridayFridayNNPDATEPER0withwithINOPER0victoryvictoryNNOPER0overoverINOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0andandCCOPER0ininINOPER0hishePRP$OPER0pocketpocketNNOPER0andandCCOPER0aaDTOPER0soaringsoarVBGOPER0approvalapprovalNNOPER0ratingratingNNOPER0bybyINOPER0thetheDTOPER0AmericanamericanJJOPER0publicpublicNNOPER0,,,OPER0butbutCCOPER0dodoVBPOPER0EuropeansEuropeansNNPSOPER0shareshareVBOPER0thetheDTOPER0samesameJJOPER0enthusiasmenthusiasmNNOPER0forforINOPER0thetheDTOPER0PresidentPresidentNNPOPER0??.OPER0(ROOT (S (S (NP (NNP President) (NNP Bush)) (VP (VBZ heads) (PP (IN to) (NP (NP (DT the) (NNP G) (NN summit)) (PP (IN in) (NP (NNP France))) (PP (IN on) (NP (NNP Friday))))) (PP (IN with) (NP (NP (NP (NN victory)) (PP (PP (IN over) (NP (NNP Saddam) (NNP Hussein))) (CC and) (PP (IN in) (NP (PRP$ his) (NN pocket))))) (CC and) (NP (NP (DT a) (VBG soaring) (NN approval) (NN rating)) (PP (IN by) (NP (DT the) (JJ American) (NN public)))))))) (, ,) (CC but) (SQ (VBP do) (NP (NNPS Europeans)) (VP (VB share) (NP (NP (DT the) (JJ same) (NN enthusiasm)) (PP (IN for) (NP (DT the) (NNP President))))) (. ?))))
+OurwePRP$OPER0seniorseniorJJOPER0politicalpoliticalJJOPER0analystanalystNNOPER0BillBillNNPPERSONPER0SchneiderSchneiderNNPPERSONPER0reportsreportVBZOPER0ononINOPER0thetheDTOPER0resultsresultNNSOPER0ofofINOPER0aaDTOPER0brandbrandRBOPER0newnewJJOPER0pollpollNNOPER0...OPER0(ROOT (S (NP (PRP$ Our) (JJ senior) (NML (JJ political) (NN analyst)) (NNP Bill) (NNP Schneider)) (VP (VBZ reports) (PP (IN on) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (DT a) (ADJP (RB brand) (JJ new)) (NN poll)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Bush))
+sid=0 spanning 18 until 19 headed by 18 parsed as his
+sid=0 spanning 38 until 40 headed by 39 parsed as (NP (DT the) (NNP President))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Bush))
+sid=0 spanning 4 until 11 headed by 6 parsed as (NP (NP (DT the) (NNP G) (NN summit)) (PP (IN in) (NP (NNP France))) (PP (IN on) (NP (NNP Friday))))
+sid=0 spanning 5 until 6 headed by 5 parsed as G
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP France))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Friday))
+sid=0 spanning 12 until 29 headed by 12 parsed as (NP (NP (NP (NN victory)) (PP (PP (IN over) (NP (NNP Saddam) (NNP Hussein))) (CC and) (PP (IN in) (NP (PRP$ his) (NN pocket))))) (CC and) (NP (NP (DT a) (VBG soaring) (NN approval) (NN rating)) (PP (IN by) (NP (DT the) (JJ American) (NN public)))))
+sid=0 spanning 12 until 20 headed by 12 parsed as (NP (NP (NN victory)) (PP (PP (IN over) (NP (NNP Saddam) (NNP Hussein))) (CC and) (PP (IN in) (NP (PRP$ his) (NN pocket)))))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (NNP Saddam) (NNP Hussein))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (PRP$ his) (NN pocket))
+sid=0 spanning 18 until 19 headed by 18 parsed as (PRP$ his)
+sid=0 spanning 21 until 29 headed by 24 parsed as (NP (NP (DT a) (VBG soaring) (NN approval) (NN rating)) (PP (IN by) (NP (DT the) (JJ American) (NN public))))
+sid=0 spanning 26 until 29 headed by 28 parsed as (NP (DT the) (JJ American) (NN public))
+sid=0 spanning 34 until 40 headed by 36 parsed as (NP (NP (DT the) (JJ same) (NN enthusiasm)) (PP (IN for) (NP (DT the) (NNP President))))
+sid=0 spanning 38 until 40 headed by 39 parsed as (NP (DT the) (NNP President))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (PRP$ Our) (JJ senior) (NML (JJ political) (NN analyst)) (NNP Bill) (NNP Schneider))
+sid=1 spanning 0 until 1 headed by 0 parsed as (PRP$ Our)
+sid=1 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (DT a) (ADJP (RB brand) (JJ new)) (NN poll))))
+sid=1 spanning 11 until 15 headed by 14 parsed as (NP (DT a) (ADJP (RB brand) (JJ new)) (NN poll))
+(end predicted mentions)
+---------gold clusters--------
+2 1 0 | { 'the President' 'his' 'President Bush' }
+(end gold clusters)

@@ -1,0 +1,62 @@
+---------gloss--------
+(0) [4m[35m{COCA - COLA Co . -LRB- Atlanta -RRB- --}[0m 
+(1) [31m{Anton Amon}[0m and [4m[36m{George Gourlay}[0m were elected vice presidents of [4m[35m{this soft - drink company}[0m . 
+(2) [31m{Mr. Amon , 46 years old ,}[0m is [4m[35m{the company 's}[0m director of quality assurance ; most recently , [31m{he}[0m served as vice president , operations , for Coca - Cola Enterprises . 
+(3) [4m[36m{Mr. Gourlay , 48 ,}[0m is manager for corporate manufacturing operations ; [4m[36m{he}[0m was assistant vice president at [4m[35m{the company}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1589); part 000
+sentences:
+COCACOCANNPORGPER0--HYPHORGPER0COLACOLANNPORGPER0CoCoNNPORGPER0...ORGPER0-LRB--lrb--LRB-OPER0AtlantaAtlantaNNPORGPER0-RRB--rrb--RRB-OPER0----:OPER0(ROOT (NP (NP (NNP COCA) (HYPH -) (NNP COLA)) (NP (NNP Co)) (. .) (-LRB- -LRB-) (NP (NNP Atlanta)) (-RRB- -RRB-) (: --)))
+AntonAntonNNPPERSONPER0AmonAmonNNPPERSONPER0andandCCOPER0GeorgeGeorgeNNPPERSONPER0GourlayGourlayNNPPERSONPER0werebeVBDOPER0electedelectVBNOPER0viceviceNNOPER0presidentspresidentNNSOPER0ofofINOPER0thisthisDTOPER0softsoftJJOPER0--HYPHOPER0drinkdrinkNNOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NP (NNP Anton) (NNP Amon)) (CC and) (NP (NNP George) (NNP Gourlay))) (VP (VBD were) (VP (VBN elected) (NP (NP (NN vice) (NNS presidents)) (PP (IN of) (NP (DT this) (NML (JJ soft) (HYPH -) (NN drink)) (NN company)))))) (. .)))
+Mr.Mr.NNPOPER0AmonAmonNNPPERSONPER0,,,OPER04646CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0isbeVBZOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0directordirectorNNOPER0ofofINOPER0qualityqualityNNOPER0assuranceassuranceNNOPER0;;:OPER0mostmostRBSOPER0recentlyrecentlyRBOPER0,,,OPER0hehePRPOPER0servedserveVBDOPER0asasINOPER0viceviceNNOPER0presidentpresidentNNOPER0,,,OPER0operationsoperationNNSOPER0,,,OPER0forforINOPER0CocaCocaNNPORGPER0--HYPHORGPER0ColaColaNNPORGPER0EnterprisesenterpriseNNSORGPER0...OPER0(ROOT (S (S (NP (NP (NNP Mr.) (NNP Amon)) (, ,) (ADJP (NML (CD 46) (NNS years)) (JJ old)) (, ,)) (VP (VBZ is) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN director)) (PP (IN of) (NP (NN quality) (NN assurance)))))) (: ;) (S (ADVP (RBS most) (RB recently)) (, ,) (NP (PRP he)) (VP (VBD served) (PP (IN as) (NP (NP (NN vice) (NN president)) (, ,) (NP (NNS operations)) (, ,) (PP (IN for) (NP (NML (NNP Coca) (HYPH -) (NNP Cola)) (NNS Enterprises))))))) (. .)))
+Mr.Mr.NNPOPER0GourlayGourlayNNPPERSONPER0,,,OPER04848CDDATEPER0,,,OPER0isbeVBZOPER0managermanagerNNOPER0forforINOPER0corporatecorporateJJOPER0manufacturingmanufacturingNNOPER0operationsoperationNNSOPER0;;:OPER0hehePRPOPER0wasbeVBDOPER0assistantassistantNNOPER0viceviceNNOPER0presidentpresidentNNOPER0atatINOPER0thetheDTOPER0companycompanyNNOPER0...OPER0(ROOT (S (S (NP (NP (NNP Mr.) (NNP Gourlay)) (, ,) (NP (CD 48)) (, ,)) (VP (VBZ is) (NP (NP (NN manager)) (PP (IN for) (NP (JJ corporate) (NN manufacturing) (NNS operations)))))) (: ;) (S (NP (PRP he)) (VP (VBD was) (NP (NP (NN assistant) (NN vice) (NN president)) (PP (IN at) (NP (DT the) (NN company)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 9 headed by 2 parsed as (NP (NP (NNP COCA) (HYPH -) (NNP COLA)) (NP (NNP Co)) (. .) (-LRB- -LRB-) (NP (NNP Atlanta)) (-RRB- -RRB-) (: --))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Anton) (NNP Amon)) (CC and) (NP (NNP George) (NNP Gourlay)))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NNP George) (NNP Gourlay))
+sid=1 spanning 10 until 15 headed by 14 parsed as (NP (DT this) (NML (JJ soft) (HYPH -) (NN drink)) (NN company))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Amon)) (, ,) (ADJP (NML (CD 46) (NNS years)) (JJ old)) (, ,))
+sid=2 spanning 8 until 11 headed by 9 parsed as (NP (DT the) (NN company) (POS 's))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (PRP he))
+sid=3 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Gourlay)) (, ,) (NP (CD 48)) (, ,))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP he))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 2 parsed as (NP (NP (NNP COCA) (HYPH -) (NNP COLA)) (NP (NNP Co)) (. .) (-LRB- -LRB-) (NP (NNP Atlanta)) (-RRB- -RRB-) (: --))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Atlanta))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Anton) (NNP Amon)) (CC and) (NP (NNP George) (NNP Gourlay)))
+sid=1 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Anton) (NNP Amon)) (CC and) (NP (NNP George) (NNP Gourlay)))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NNP George) (NNP Gourlay))
+sid=1 spanning 7 until 15 headed by 8 parsed as (NP (NP (NN vice) (NNS presidents)) (PP (IN of) (NP (DT this) (NML (JJ soft) (HYPH -) (NN drink)) (NN company))))
+sid=1 spanning 10 until 15 headed by 14 parsed as (NP (DT this) (NML (JJ soft) (HYPH -) (NN drink)) (NN company))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Amon)) (, ,) (ADJP (NML (CD 46) (NNS years)) (JJ old)) (, ,))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Amon)) (, ,) (ADJP (NML (CD 46) (NNS years)) (JJ old)) (, ,))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Amon))
+sid=2 spanning 3 until 6 headed by 5 parsed as old
+sid=2 spanning 8 until 15 headed by 11 parsed as (NP (NP (NP (DT the) (NN company) (POS 's)) (NN director)) (PP (IN of) (NP (NN quality) (NN assurance))))
+sid=2 spanning 8 until 11 headed by 9 parsed as (NP (DT the) (NN company) (POS 's))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (NN quality) (NN assurance))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (PRP he))
+sid=2 spanning 22 until 32 headed by 23 parsed as (NP (NP (NN vice) (NN president)) (, ,) (NP (NNS operations)) (, ,) (PP (IN for) (NP (NML (NNP Coca) (HYPH -) (NNP Cola)) (NNS Enterprises))))
+sid=2 spanning 22 until 24 headed by 23 parsed as (NP (NN vice) (NN president))
+sid=2 spanning 25 until 26 headed by 25 parsed as (NP (NNS operations))
+sid=2 spanning 28 until 32 headed by 31 parsed as (NP (NML (NNP Coca) (HYPH -) (NNP Cola)) (NNS Enterprises))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Gourlay)) (, ,) (NP (CD 48)) (, ,))
+sid=3 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Gourlay)) (, ,) (NP (CD 48)) (, ,))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Gourlay))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (CD 48))
+sid=3 spanning 6 until 11 headed by 6 parsed as (NP (NP (NN manager)) (PP (IN for) (NP (JJ corporate) (NN manufacturing) (NNS operations))))
+sid=3 spanning 8 until 11 headed by 10 parsed as (NP (JJ corporate) (NN manufacturing) (NNS operations))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP he))
+sid=3 spanning 14 until 20 headed by 16 parsed as (NP (NP (NN assistant) (NN vice) (NN president)) (PP (IN at) (NP (DT the) (NN company))))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN company))
+(end predicted mentions)
+---------gold clusters--------
+0 9 3 5 | { 'COCA - COLA Co . -LRB- Atlanta -RRB- --' 'the company' 'this soft - drink company' 'the company 's' }
+2 7 8 | { 'George Gourlay' 'Mr. Gourlay , 48 ,' 'he' }
+4 6 1 | { 'Mr. Amon , 46 years old ,' 'he' 'Anton Amon' }
+(end gold clusters)

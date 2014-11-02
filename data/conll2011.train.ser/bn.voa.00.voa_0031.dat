@@ -1,0 +1,62 @@
+---------gloss--------
+(0) [1m[35m{A Chinese writer who was once forced to burn his writings to save himself from Communist zealots}[0m has won the Nobel Prize for Literature . 
+(1) [1m[35m{Ghow Ching Zheng , who now lives and writes in France ,}[0m was chosen by [3m[31m{the Swedish Academy}[0m for what [3m[31m{it}[0m called [1m[35m{his}[0m writing about individual rights . 
+(2) [1m[35m{Mr. Ghow 's}[0m works , including ` The Other Shore ' are banned in China . 
+(3) That 's [1m[36m{our}[0m news summary . 
+(4) I 'm David Coller , [1m[36m{VOA News}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0031); part 000
+sentences:
+AaDTOPER0ChinesechineseJJOPER0writerwriterNNOPER0whowhoWPOPER0wasbeVBDOPER0onceonceRBOPER0forcedforceVBNOPER0totoTOOPER0burnburnVBOPER0hishePRP$OPER0writingswritingsNNSOPER0totoTOOPER0savesaveVBOPER0himselfhimselfPRPOPER0fromfromINOPER0CommunistCommunistNNPOPER0zealotszealotNNSOPER0hashaveVBZOPER0wonwinVBDOPER0thetheDTWORK_OF_ARTPER0NobelNobelNNPWORK_OF_ARTPER0PrizePrizeNNPWORK_OF_ARTPER0forforINWORK_OF_ARTPER0LiteratureliteratureNNWORK_OF_ARTPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ Chinese) (NN writer)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADVP (RB once)) (VP (VBN forced) (S (VP (TO to) (VP (VB burn) (NP (PRP$ his) (NNS writings)) (S (VP (TO to) (VP (VB save) (NP (PRP himself)) (PP (IN from) (NP (NNP Communist) (NNS zealots)))))))))))))) (VP (VBZ has) (VP (VBD won) (NP (NP (DT the) (NNP Nobel) (NNP Prize)) (PP (IN for) (NP (NN Literature)))))) (. .)))
+GhowGhowNNPPERSONPER0ChingChingNNPPERSONPER0ZhengZhengNNPPERSONPER0,,,OPER0whowhoWPOPER0nownowRBOPER0livesliveVBZOPER0andandCCOPER0writeswriteVBZOPER0ininINOPER0FranceFranceNNPGPEPER0,,,OPER0wasbeVBDOPER0chosenchooseVBNOPER0bybyINOPER0thetheDTORGPER0SwedishSwedishNNPORGPER0AcademyAcademyNNPORGPER0forforINOPER0whatwhatWPOPER0ititPRPOPER0calledcallVBDOPER0hishePRP$OPER0writingwriteVBGOPER0aboutaboutINOPER0individualindividualJJOPER0rightsrightsNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Ghow) (NNP Ching) (NNP Zheng)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB now)) (VP (VBZ lives) (CC and) (VBZ writes) (PP (IN in) (NP (NNP France)))))) (, ,)) (VP (VBD was) (VP (VBN chosen) (PP (IN by) (NP (NP (DT the) (NNP Swedish) (NNP Academy)) (PP (IN for) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBD called) (S (NP (PRP$ his)) (VP (VBG writing) (PP (IN about) (NP (JJ individual) (NNS rights))))))))))))) (. .)))
+Mr.Mr.NNPOPER0GhowGhowNNPPERSONPER0's'sPOSOPER0worksworkNNSOPER0,,,OPER0includingincludeVBGOPER0````OPER0ThetheDTWORK_OF_ARTPER0OtherotherJJWORK_OF_ARTPER0ShoreShoreNNPWORK_OF_ARTPER0''POSOPER0arebeVBPOPER0bannedbanVBNOPER0ininINOPER0ChinaChinaNNPGPEPER0...OPER0(ROOT (S (NP (NP (NP (NNP Mr.) (NNP Ghow) (POS 's)) (NNS works)) (, ,) (PP (VBG including) (NP (`` `) (NP (DT The) (JJ Other) (NNP Shore)) (POS ')))) (VP (VBP are) (VP (VBN banned) (PP (IN in) (NP (NNP China))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0ourwePRP$OPER0newsnewsNNOPER0summarysummaryNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP$ our) (NN news) (NN summary))) (. .)))
+IIPRPOPER0'mbeVBPOPER0DavidDavidNNPPERSONPER0CollerCollerNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 17 headed by 2 parsed as (NP (NP (DT A) (JJ Chinese) (NN writer)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADVP (RB once)) (VP (VBN forced) (S (VP (TO to) (VP (VB burn) (NP (PRP$ his) (NNS writings)) (S (VP (TO to) (VP (VB save) (NP (PRP himself)) (PP (IN from) (NP (NNP Communist) (NNS zealots))))))))))))))
+sid=0 spanning 9 until 10 headed by 9 parsed as his
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (PRP himself))
+sid=1 spanning 0 until 12 headed by 2 parsed as (NP (NP (NNP Ghow) (NNP Ching) (NNP Zheng)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB now)) (VP (VBZ lives) (CC and) (VBZ writes) (PP (IN in) (NP (NNP France)))))) (, ,))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (NP (DT the) (NNP Swedish) (NNP Academy)) (PP (IN for) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBD called) (S (NP (PRP$ his)) (VP (VBG writing) (PP (IN about) (NP (JJ individual) (NNS rights))))))))))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (PRP$ his))
+sid=2 spanning 0 until 3 headed by 1 parsed as (NP (NNP Mr.) (NNP Ghow) (POS 's))
+sid=3 spanning 2 until 3 headed by 2 parsed as our
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 17 headed by 2 parsed as (NP (NP (DT A) (JJ Chinese) (NN writer)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADVP (RB once)) (VP (VBN forced) (S (VP (TO to) (VP (VB burn) (NP (PRP$ his) (NNS writings)) (S (VP (TO to) (VP (VB save) (NP (PRP himself)) (PP (IN from) (NP (NNP Communist) (NNS zealots))))))))))))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ his) (NNS writings))
+sid=0 spanning 9 until 10 headed by 9 parsed as (PRP$ his)
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (PRP himself))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (NNP Communist) (NNS zealots))
+sid=0 spanning 19 until 24 headed by 21 parsed as (NP (NP (DT the) (NNP Nobel) (NNP Prize)) (PP (IN for) (NP (NN Literature))))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Ghow) (NNP Ching) (NNP Zheng)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB now)) (VP (VBZ lives) (CC and) (VBZ writes) (PP (IN in) (NP (NNP France)))))) (, ,))
+sid=1 spanning 0 until 12 headed by 2 parsed as (NP (NP (NNP Ghow) (NNP Ching) (NNP Zheng)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB now)) (VP (VBZ lives) (CC and) (VBZ writes) (PP (IN in) (NP (NNP France)))))) (, ,))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNP France))
+sid=1 spanning 15 until 27 headed by 17 parsed as (NP (NP (DT the) (NNP Swedish) (NNP Academy)) (PP (IN for) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBD called) (S (NP (PRP$ his)) (VP (VBG writing) (PP (IN about) (NP (JJ individual) (NNS rights))))))))))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (PRP$ his))
+sid=1 spanning 25 until 27 headed by 26 parsed as (NP (JJ individual) (NNS rights))
+sid=2 spanning 0 until 11 headed by 3 parsed as (NP (NP (NP (NNP Mr.) (NNP Ghow) (POS 's)) (NNS works)) (, ,) (PP (VBG including) (NP (`` `) (NP (DT The) (JJ Other) (NNP Shore)) (POS '))))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Mr.) (NNP Ghow) (POS 's)) (NNS works))
+sid=2 spanning 0 until 3 headed by 1 parsed as (NP (NNP Mr.) (NNP Ghow) (POS 's))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (`` `) (NP (DT The) (JJ Other) (NNP Shore)) (POS '))
+sid=2 spanning 6 until 11 headed by 7 parsed as (NP (`` `) (NP (DT The) (JJ Other) (NNP Shore)) (POS '))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNP China))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=3 spanning 2 until 5 headed by 4 parsed as (NP (PRP$ our) (NN news) (NN summary))
+sid=3 spanning 2 until 3 headed by 2 parsed as (PRP$ our)
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=4 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+(end predicted mentions)
+---------gold clusters--------
+0 7 2 6 1 3 | { 'A Chinese writer who was once forced to burn his writings to save himself from Communist zealots' 'Mr. Ghow 's' 'himself' 'his' 'his' 'Ghow Ching Zheng , who now lives and writes in France ,' }
+9 8 | { 'VOA News' 'our' }
+4 5 | { 'the Swedish Academy' 'it' }
+(end gold clusters)

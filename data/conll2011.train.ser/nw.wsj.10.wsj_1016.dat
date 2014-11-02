@@ -1,0 +1,63 @@
+---------gloss--------
+(0) French chemicals group , Orkem S.A. , said Wednesday [3m[33m{it}[0m has made [3m[31m{a bid for control of Coates Brothers PLC , a British manufacturer of inks and polyester resins}[0m . 
+(1) [3m[33m{State - controlled Orkem}[0m already owns 40.6 % of [3m[32m{Coates}[0m . 
+(2) The remainder is held by the public and by family interests , a spokeswoman for [3m[33m{the French group}[0m said . 
+(3) [3m[33m{Orkem}[0m declined to give details of [3m[33m{its}[0m offer , saying only that [3m[31m{the bid}[0m will be submitted for approval by the board of [3m[32m{the British company}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1016); part 000
+sentences:
+FrenchFrenchNNPOPER0chemicalschemicalNNSOPER0groupgroupNNOPER0,,,OPER0OrkemOrkemNNPORGPER0S.A.S.A.NNPORGPER0,,,OPER0saidsayVBDOPER0WednesdayWednesdayNNPDATEPER0ititPRPOPER0hashaveVBZOPER0mademakeVBNOPER0aaDTOPER0bidbidNNOPER0forforINOPER0controlcontrolNNOPER0ofofINOPER0CoatesCoatesNNPORGPER0BrothersBrothersNNPSORGPER0PLCPLCNNPORGPER0,,,OPER0aaDTOPER0BritishBritishNNPOPER0manufacturermanufacturerNNOPER0ofofINOPER0inksinkNNSOPER0andandCCOPER0polyesterpolyesterNNOPER0resinsresinNNSOPER0...OPER0(ROOT (S (NP (NP (NNP French) (NNS chemicals) (NN group)) (, ,) (NP (NNP Orkem) (NNP S.A.)) (, ,)) (VP (VBD said) (NP (NNP Wednesday)) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN made) (NP (NP (DT a) (NN bid)) (PP (IN for) (NP (NP (NN control)) (PP (IN of) (NP (NP (NNP Coates) (NNPS Brothers) (NNP PLC)) (, ,) (NP (NP (DT a) (NNP British) (NN manufacturer)) (PP (IN of) (NP (NP (NNS inks)) (CC and) (NP (NN polyester) (NNS resins))))))))))))))) (. .)))
+StatestateNNOPER0--HYPHOPER0controlledcontrolVBNOPER0OrkemOrkemNNPORGPER0alreadyalreadyRBOPER0ownsownVBZOPER040.640.6CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0CoatesCoatesNNPORGPER0...OPER0(ROOT (S (NP (ADJP (NN State) (HYPH -) (VBN controlled)) (NNP Orkem)) (ADVP (RB already)) (VP (VBZ owns) (NP (NP (CD 40.6) (NN %)) (PP (IN of) (NP (NNP Coates))))) (. .)))
+ThetheDTOPER0remainderremainderNNOPER0isbeVBZOPER0heldholdVBNOPER0bybyINOPER0thetheDTOPER0publicpublicNNOPER0andandCCOPER0bybyINOPER0familyfamilyNNOPER0interestsinterestNNSOPER0,,,OPER0aaDTOPER0spokeswomanspokeswomanNNOPER0forforINOPER0thetheDTOPER0FrenchFrenchNNPOPER0groupgroupNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT The) (NN remainder)) (VP (VBZ is) (VP (VBN held) (PP (PP (IN by) (NP (DT the) (NN public))) (CC and) (PP (IN by) (NP (NN family) (NNS interests))))))) (, ,) (NP (NP (DT a) (NN spokeswoman)) (PP (IN for) (NP (DT the) (NNP French) (NN group)))) (VP (VBD said)) (. .)))
+OrkemOrkemNNPORGPER0declineddeclineVBDOPER0totoTOOPER0givegiveVBOPER0detailsdetailNNSOPER0ofofINOPER0itsitsPRP$OPER0offerofferNNOPER0,,,OPER0sayingsayVBGOPER0onlyonlyRBOPER0thatthatINOPER0thetheDTOPER0bidbidNNOPER0willwillMDOPER0bebeVBOPER0submittedsubmitVBNOPER0forforINOPER0approvalapprovalNNOPER0bybyINOPER0thetheDTOPER0boardboardNNOPER0ofofINOPER0thetheDTOPER0BritishbritishJJOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NNP Orkem)) (VP (VBD declined) (S (VP (TO to) (VP (VB give) (NP (NP (NNS details)) (PP (IN of) (NP (PRP$ its) (NN offer)))) (, ,) (S (VP (VBG saying) (SBAR (ADVP (RB only)) (IN that) (S (NP (DT the) (NN bid)) (VP (MD will) (VP (VB be) (VP (VBN submitted) (PP (IN for) (NP (NP (NN approval)) (PP (IN by) (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT the) (JJ British) (NN company)))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=0 spanning 12 until 29 headed by 13 parsed as (NP (NP (DT a) (NN bid)) (PP (IN for) (NP (NP (NN control)) (PP (IN of) (NP (NP (NNP Coates) (NNPS Brothers) (NNP PLC)) (, ,) (NP (NP (DT a) (NNP British) (NN manufacturer)) (PP (IN of) (NP (NP (NNS inks)) (CC and) (NP (NN polyester) (NNS resins))))))))))
+sid=0 spanning 17 until 29 headed by 19 parsed as (NP (NP (NNP Coates) (NNPS Brothers) (NNP PLC)) (, ,) (NP (NP (DT a) (NNP British) (NN manufacturer)) (PP (IN of) (NP (NP (NNS inks)) (CC and) (NP (NN polyester) (NNS resins))))))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (NN State) (HYPH -) (VBN controlled)) (NNP Orkem))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Coates))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP French) (NN group))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Orkem))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ its) (NN offer))
+sid=3 spanning 6 until 7 headed by 6 parsed as its
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN bid))
+sid=3 spanning 23 until 26 headed by 25 parsed as (NP (DT the) (JJ British) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (NNP French) (NNS chemicals) (NN group)) (, ,) (NP (NNP Orkem) (NNP S.A.)) (, ,))
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP French) (NNS chemicals) (NN group))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Orkem) (NNP S.A.))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Wednesday))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=0 spanning 12 until 29 headed by 13 parsed as (NP (NP (DT a) (NN bid)) (PP (IN for) (NP (NP (NN control)) (PP (IN of) (NP (NP (NNP Coates) (NNPS Brothers) (NNP PLC)) (, ,) (NP (NP (DT a) (NNP British) (NN manufacturer)) (PP (IN of) (NP (NP (NNS inks)) (CC and) (NP (NN polyester) (NNS resins))))))))))
+sid=0 spanning 15 until 29 headed by 15 parsed as (NP (NP (NN control)) (PP (IN of) (NP (NP (NNP Coates) (NNPS Brothers) (NNP PLC)) (, ,) (NP (NP (DT a) (NNP British) (NN manufacturer)) (PP (IN of) (NP (NP (NNS inks)) (CC and) (NP (NN polyester) (NNS resins))))))))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (NP (NNP Coates) (NNPS Brothers) (NNP PLC)) (, ,) (NP (NP (DT a) (NNP British) (NN manufacturer)) (PP (IN of) (NP (NP (NNS inks)) (CC and) (NP (NN polyester) (NNS resins))))))
+sid=0 spanning 17 until 29 headed by 19 parsed as (NP (NP (NNP Coates) (NNPS Brothers) (NNP PLC)) (, ,) (NP (NP (DT a) (NNP British) (NN manufacturer)) (PP (IN of) (NP (NP (NNS inks)) (CC and) (NP (NN polyester) (NNS resins))))))
+sid=0 spanning 21 until 29 headed by 23 parsed as (NP (NP (DT a) (NNP British) (NN manufacturer)) (PP (IN of) (NP (NP (NNS inks)) (CC and) (NP (NN polyester) (NNS resins)))))
+sid=0 spanning 25 until 29 headed by 25 parsed as (NP (NP (NNS inks)) (CC and) (NP (NN polyester) (NNS resins)))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNS inks))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (NN polyester) (NNS resins))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (NN State) (HYPH -) (VBN controlled)) (NNP Orkem))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Coates))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN remainder))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN public))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NN family) (NNS interests))
+sid=2 spanning 12 until 18 headed by 13 parsed as (NP (NP (DT a) (NN spokeswoman)) (PP (IN for) (NP (DT the) (NNP French) (NN group))))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP French) (NN group))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Orkem))
+sid=3 spanning 4 until 8 headed by 4 parsed as (NP (NP (NNS details)) (PP (IN of) (NP (PRP$ its) (NN offer))))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ its) (NN offer))
+sid=3 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN bid))
+sid=3 spanning 18 until 26 headed by 18 parsed as (NP (NP (NN approval)) (PP (IN by) (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT the) (JJ British) (NN company))))))
+sid=3 spanning 20 until 26 headed by 21 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT the) (JJ British) (NN company))))
+sid=3 spanning 23 until 26 headed by 25 parsed as (NP (DT the) (JJ British) (NN company))
+(end predicted mentions)
+---------gold clusters--------
+9 1 7 | { 'the bid' 'a bid for control of Coates Brothers PLC , a British manufacturer of inks and polyester resins' 'its offer' }
+4 10 2 | { 'Coates' 'the British company' 'Coates Brothers PLC , a British manufacturer of inks and polyester resins' }
+8 6 3 5 0 | { 'its' 'Orkem' 'State - controlled Orkem' 'the French group' 'it' }
+(end gold clusters)

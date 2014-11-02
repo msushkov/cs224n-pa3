@@ -1,0 +1,120 @@
+---------gloss--------
+(0) [1m[35m{A double murder in Washington}[0m leads to [1m[36m{an international search for the suspect}[0m . 
+(1) [1m[32m{Bob Glascoff}[0m has details in today 's edition of `` [1m[34m{Headliners}[0m . '' 
+(2) In January of 1998 , [1m[31m{Mir Aimal Kasi}[0m is sentenced to death for [1m[35m{an attack outside CIA headquarters that left two dead and three wounded}[0m . 
+(3) [1m[33m{Frank Darling and Lansing Bennett}[0m were stuck in morning traffic when [1m[33m{they}[0m were shot to death in 1993 . 
+(4) [1m[31m{Mir Aimal Kasi}[0m was suspected in [1m[35m{the attack}[0m , but fled to [1m[31m{his}[0m native Pakistan before [1m[31m{he}[0m could be arrested . 
+(5) FBI agents finally caught up with [1m[31m{him}[0m after [1m[36m{a four - year global manhunt}[0m . 
+(6) [1m[31m{He}[0m was brought back to [3m[31m{the United States}[0m to stand trial . 
+(7) Prosecutors claimed [1m[31m{Kasi , who worked as a driver for a courier company ,}[0m was angry over [3m[31m{America 's}[0m policy against Iraq , Libya and other Muslim countries . 
+(8) [1m[31m{Kasi}[0m was convicted in a Virginia state court and sentenced to death . 
+(9) The U.S. Supreme Court rejected [1m[31m{his}[0m most recent appeal . 
+(10) With `` [1m[34m{Headliners}[0m , '' [1m[32m{I}[0m 'm Bob Glascoff . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0171); part 000
+sentences:
+AaDTOPER0doubledoubleJJOPER0murdermurderNNOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0leadsleadVBZOPER0totoINOPER0anaDTOPER0internationalinternationalJJOPER0searchsearchNNOPER0forforINOPER0thetheDTOPER0suspectsuspectJJOPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ double) (NN murder)) (PP (IN in) (NP (NNP Washington)))) (VP (VBZ leads) (PP (IN to) (NP (NP (DT an) (JJ international) (NN search)) (PP (IN for) (NP (DT the) (JJ suspect)))))) (. .)))
+BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0hashaveVBZOPER0detailsdetailNNSOPER0ininINOPER0todaytodayNNDATEPER0's'sPOSOPER0editioneditionNNOPER0ofofINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER1...OPER1''''''OPER0(ROOT (S (NP (NNP Bob) (NNP Glascoff)) (VP (VBZ has) (NP (NNS details)) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners)))))) (. .) ('' '')))
+IninINOPER0JanuaryJanuaryNNPDATEPER0ofofINDATEPER019981998CDDATEPER0,,,OPER0MirMirNNPORGPER0AimalAimalNNPORGPER0KasiKasiNNPORGPER0isbeVBZOPER0sentencedsentenceVBNOPER0totoINOPER0deathdeathNNOPER0forforINOPER0anaDTOPER0attackattackNNOPER0outsideoutsideINOPER0CIACIANNPORGPER0headquartersheadquartersNNOPER0thatthatWDTOPER0leftleaveVBDOPER0twotwoCDCARDINALPER0deaddeadJJOPER0andandCCOPER0threethreeCDCARDINALPER0woundedwoundVBNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NNP January)) (PP (IN of) (NP (CD 1998))))) (, ,) (NP (NNP Mir) (NNP Aimal) (NNP Kasi)) (VP (VBZ is) (VP (VBN sentenced) (PP (IN to) (NP (NN death))) (PP (IN for) (NP (NP (DT an) (NN attack)) (PP (IN outside) (NP (NP (NNP CIA) (NN headquarters)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (NP (NP (CD two)) (ADJP (JJ dead))) (CC and) (NP (CD three))) (S (VP (VBN wounded)))))))))))) (. .)))
+FrankfrankJJPERSONPER0DarlingdarlingNNPERSONPER0andandCCOPER0LansingLansingNNPPERSONPER0BennettBennettNNPPERSONPER0werebeVBDOPER0stuckstickVBNOPER0ininINOPER0morningmorningNNTIMEPER0traffictrafficNNOPER0whenwhenWRBOPER0theytheyPRPOPER0werebeVBDOPER0shotshootVBNOPER0totoINOPER0deathdeathNNOPER0ininINOPER019931993CDDATEPER0...OPER0(ROOT (S (NP (JJ Frank) (NML (NML (NN Darling)) (CC and) (NML (NNP Lansing) (NNP Bennett)))) (VP (VBD were) (VP (VBN stuck) (PP (IN in) (NP (NP (NN morning) (NN traffic)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (VBN shot) (PP (IN to) (NP (NN death))) (PP (IN in) (NP (CD 1993))))))))))) (. .)))
+MirMirNNPPERSONPER0AimalAimalNNPPERSONPER0KasiKasiNNPPERSONPER0wasbeVBDOPER0suspectedsuspectVBNOPER0ininINOPER0thetheDTOPER0attackattackNNOPER0,,,OPER0butbutCCOPER0fledfleeVBDOPER0totoINOPER0hishePRP$OPER0nativenativeJJOPER0PakistanPakistanNNPGPEPER0beforebeforeINOPER0hehePRPOPER0couldcouldMDOPER0bebeVBOPER0arrestedarrestVBNOPER0...OPER0(ROOT (S (NP (NNP Mir) (NNP Aimal) (NNP Kasi)) (VP (VP (VBD was) (VP (VBN suspected) (PP (IN in) (NP (DT the) (NN attack))))) (, ,) (CC but) (VP (VBD fled) (PP (IN to) (NP (PRP$ his) (JJ native) (NNP Pakistan))) (SBAR (IN before) (S (NP (PRP he)) (VP (MD could) (VP (VB be) (VP (VBN arrested)))))))) (. .)))
+FBIFBINNPORGPER0agentsagentNNSOPER0finallyfinallyRBOPER0caughtcatchVBDOPER0upupRPOPER0withwithINOPER0himhePRPOPER0afterafterINOPER0aaDTOPER0fourfourCDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0globalglobalJJOPER0manhuntmanhuntNNOPER0...OPER0(ROOT (S (NP (NNP FBI) (NNS agents)) (ADVP (RB finally)) (VP (VBD caught) (PRT (RP up)) (PP (IN with) (NP (PRP him))) (PP (IN after) (NP (DT a) (NML (CD four) (HYPH -) (NN year)) (JJ global) (NN manhunt)))) (. .)))
+HehePRPOPER0wasbeVBDOPER0broughtbringVBNOPER0backbackRBOPER0totoINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0totoTOOPER0standstandVBOPER0trialtrialNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBN brought) (ADVP (RB back) (PP (IN to) (NP (DT the) (NNP United) (NNP States)))) (S (VP (TO to) (VP (VB stand) (NP (NN trial))))))) (. .)))
+ProsecutorsprosecutorNNSOPER0claimedclaimVBDOPER0KasiKasiNNPORGPER0,,,OPER0whowhoWPOPER0workedworkVBDOPER0asasINOPER0aaDTOPER0driverdriverNNOPER0forforINOPER0aaDTOPER0couriercourierNNOPER0companycompanyNNOPER0,,,OPER0wasbeVBDOPER0angryangryJJOPER0overoverINOPER0AmericaAmericaNNPGPEPER0's'sPOSOPER0policypolicyNNOPER0againstagainstINOPER0IraqIraqNNPGPEPER0,,,OPER0LibyaLibyaNNPGPEPER0andandCCOPER0otherotherJJOPER0MuslimmuslimJJOPER0countriescountryNNSOPER0...OPER0(ROOT (S (NP (NNS Prosecutors)) (VP (VBD claimed) (SBAR (S (NP (NP (NNP Kasi)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD worked) (PP (IN as) (NP (NP (DT a) (NN driver)) (PP (IN for) (NP (DT a) (NN courier) (NN company)))))))) (, ,)) (VP (VBD was) (ADJP (JJ angry) (PP (IN over) (NP (NP (NP (NNP America) (POS 's)) (NN policy)) (PP (IN against) (NP (NP (NNP Iraq)) (, ,) (NP (NNP Libya)) (CC and) (NP (JJ other) (JJ Muslim) (NNS countries))))))))))) (. .)))
+KasiKasiNNPOPER0wasbeVBDOPER0convictedconvictVBNOPER0ininINOPER0aaDTOPER0VirginiaVirginiaNNPGPEPER0statestateNNOPER0courtcourtNNOPER0andandCCOPER0sentencedsentenceVBNOPER0totoINOPER0deathdeathNNOPER0...OPER0(ROOT (S (NP (NNP Kasi)) (VP (VBD was) (VP (VP (VBN convicted) (PP (IN in) (NP (DT a) (NNP Virginia) (NN state) (NN court)))) (CC and) (VP (VBN sentenced) (PP (IN to) (NP (NN death)))))) (. .)))
+ThetheDTORGPER0U.S.U.S.NNPORGPER0SupremeSupremeNNPORGPER0CourtCourtNNPORGPER0rejectedrejectVBDOPER0hishePRP$OPER0mostmostRBSOPER0recentrecentJJOPER0appealappealNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP U.S.) (NNP Supreme) (NNP Court)) (VP (VBD rejected) (NP (PRP$ his) (ADJP (RBS most) (JJ recent)) (NN appeal))) (. .)))
+WithwithINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER2,,,OPER2''''''OPER0IIPRPOPER0'mbeVBPOPER0BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0...OPER0(ROOT (S (PP (IN With) (`` ``) (NP (NNPS Headliners))) (, ,) ('' '') (NP (PRP I)) (VP (VBP 'm) (NP (NNP Bob) (NNP Glascoff))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT A) (JJ double) (NN murder)) (PP (IN in) (NP (NNP Washington))))
+sid=0 spanning 7 until 13 headed by 9 parsed as (NP (NP (DT an) (JJ international) (NN search)) (PP (IN for) (NP (DT the) (JJ suspect))))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (JJ suspect))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNPS Headliners))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (NNP Mir) (NNP Aimal) (NNP Kasi))
+sid=2 spanning 13 until 25 headed by 14 parsed as (NP (NP (DT an) (NN attack)) (PP (IN outside) (NP (NP (NNP CIA) (NN headquarters)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (NP (NP (CD two)) (ADJP (JJ dead))) (CC and) (NP (CD three))) (S (VP (VBN wounded)))))))))
+sid=2 spanning 20 until 21 headed by 20 parsed as (NP (NP (NP (CD two)) (ADJP (JJ dead))) (CC and) (NP (CD three)))
+sid=3 spanning 0 until 5 headed by 1 parsed as (NP (JJ Frank) (NML (NML (NN Darling)) (CC and) (NML (NNP Lansing) (NNP Bennett))))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NNP Mir) (NNP Aimal) (NNP Kasi))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN attack))
+sid=4 spanning 12 until 13 headed by 12 parsed as his
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (PRP him))
+sid=5 spanning 8 until 14 headed by 13 parsed as (NP (DT a) (NML (CD four) (HYPH -) (NN year)) (JJ global) (NN manhunt))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=7 spanning 2 until 14 headed by 2 parsed as (NP (NP (NNP Kasi)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD worked) (PP (IN as) (NP (NP (DT a) (NN driver)) (PP (IN for) (NP (DT a) (NN courier) (NN company)))))))) (, ,))
+sid=7 spanning 17 until 19 headed by 17 parsed as (NP (NNP America) (POS 's))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Kasi))
+sid=9 spanning 5 until 6 headed by 5 parsed as his
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=10 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT A) (JJ double) (NN murder)) (PP (IN in) (NP (NNP Washington))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Washington))
+sid=0 spanning 7 until 13 headed by 9 parsed as (NP (NP (DT an) (JJ international) (NN search)) (PP (IN for) (NP (DT the) (JJ suspect))))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (JJ suspect))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNS details))
+sid=1 spanning 5 until 11 headed by 7 parsed as (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))
+sid=1 spanning 5 until 7 headed by 5 parsed as (NP (NN today) (POS 's))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNPS Headliners))
+sid=2 spanning 1 until 4 headed by 1 parsed as (NP (NP (NNP January)) (PP (IN of) (NP (CD 1998))))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (NNP Mir) (NNP Aimal) (NNP Kasi))
+sid=2 spanning 13 until 25 headed by 14 parsed as (NP (NP (DT an) (NN attack)) (PP (IN outside) (NP (NP (NNP CIA) (NN headquarters)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (NP (NP (CD two)) (ADJP (JJ dead))) (CC and) (NP (CD three))) (S (VP (VBN wounded)))))))))
+sid=2 spanning 16 until 25 headed by 17 parsed as (NP (NP (NNP CIA) (NN headquarters)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (NP (NP (CD two)) (ADJP (JJ dead))) (CC and) (NP (CD three))) (S (VP (VBN wounded)))))))
+sid=2 spanning 16 until 17 headed by 16 parsed as CIA
+sid=2 spanning 20 until 24 headed by 20 parsed as (NP (NP (NP (CD two)) (ADJP (JJ dead))) (CC and) (NP (CD three)))
+sid=2 spanning 20 until 22 headed by 20 parsed as (NP (NP (CD two)) (ADJP (JJ dead)))
+sid=2 spanning 23 until 24 headed by 23 parsed as (NP (CD three))
+sid=3 spanning 3 until 5 headed by 4 parsed as Bennett
+sid=3 spanning 8 until 18 headed by 9 parsed as (NP (NP (NN morning) (NN traffic)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (VBN shot) (PP (IN to) (NP (NN death))) (PP (IN in) (NP (CD 1993))))))))
+sid=3 spanning 8 until 9 headed by 8 parsed as morning
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (CD 1993))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NNP Mir) (NNP Aimal) (NNP Kasi))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN attack))
+sid=4 spanning 12 until 15 headed by 14 parsed as (NP (PRP$ his) (JJ native) (NNP Pakistan))
+sid=4 spanning 12 until 13 headed by 12 parsed as (PRP$ his)
+sid=4 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP FBI) (NNS agents))
+sid=5 spanning 0 until 1 headed by 0 parsed as FBI
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (PRP him))
+sid=5 spanning 8 until 14 headed by 13 parsed as (NP (DT a) (NML (CD four) (HYPH -) (NN year)) (JJ global) (NN manhunt))
+sid=5 spanning 9 until 12 headed by 11 parsed as year
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNS Prosecutors))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (NP (NNP Kasi)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD worked) (PP (IN as) (NP (NP (DT a) (NN driver)) (PP (IN for) (NP (DT a) (NN courier) (NN company)))))))) (, ,))
+sid=7 spanning 2 until 14 headed by 2 parsed as (NP (NP (NNP Kasi)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD worked) (PP (IN as) (NP (NP (DT a) (NN driver)) (PP (IN for) (NP (DT a) (NN courier) (NN company)))))))) (, ,))
+sid=7 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT a) (NN driver)) (PP (IN for) (NP (DT a) (NN courier) (NN company))))
+sid=7 spanning 10 until 13 headed by 12 parsed as (NP (DT a) (NN courier) (NN company))
+sid=7 spanning 17 until 28 headed by 19 parsed as (NP (NP (NP (NNP America) (POS 's)) (NN policy)) (PP (IN against) (NP (NP (NNP Iraq)) (, ,) (NP (NNP Libya)) (CC and) (NP (JJ other) (JJ Muslim) (NNS countries)))))
+sid=7 spanning 17 until 19 headed by 17 parsed as (NP (NNP America) (POS 's))
+sid=7 spanning 21 until 22 headed by 21 parsed as (NP (NP (NNP Iraq)) (, ,) (NP (NNP Libya)) (CC and) (NP (JJ other) (JJ Muslim) (NNS countries)))
+sid=7 spanning 21 until 28 headed by 21 parsed as (NP (NP (NNP Iraq)) (, ,) (NP (NNP Libya)) (CC and) (NP (JJ other) (JJ Muslim) (NNS countries)))
+sid=7 spanning 23 until 24 headed by 23 parsed as (NP (NNP Libya))
+sid=7 spanning 25 until 28 headed by 27 parsed as (NP (JJ other) (JJ Muslim) (NNS countries))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Kasi))
+sid=8 spanning 4 until 8 headed by 7 parsed as (NP (DT a) (NNP Virginia) (NN state) (NN court))
+sid=8 spanning 5 until 6 headed by 5 parsed as Virginia
+sid=9 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP U.S.) (NNP Supreme) (NNP Court))
+sid=9 spanning 5 until 9 headed by 8 parsed as (NP (PRP$ his) (ADJP (RBS most) (JJ recent)) (NN appeal))
+sid=9 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=10 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=10 spanning 7 until 9 headed by 8 parsed as (NP (NNP Bob) (NNP Glascoff))
+(end predicted mentions)
+---------gold clusters--------
+20 10 5 18 12 13 21 2 14 16 | { 'Kasi' 'Mir Aimal Kasi' 'Mir Aimal Kasi' 'Kasi , who worked as a driver for a courier company ,' 'his' 'he' 'his' 'the suspect' 'him' 'He' }
+3 23 | { 'Bob Glascoff' 'I' }
+7 9 8 | { 'two' 'they' 'Frank Darling and Lansing Bennett' }
+4 22 | { 'Headliners' 'Headliners' }
+0 11 6 | { 'A double murder in Washington' 'the attack' 'an attack outside CIA headquarters that left two dead and three wounded' }
+1 15 | { 'an international search for the suspect' 'a four - year global manhunt' }
+19 17 | { 'America 's' 'the United States' }
+(end gold clusters)

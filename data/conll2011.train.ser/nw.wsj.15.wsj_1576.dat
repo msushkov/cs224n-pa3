@@ -1,0 +1,46 @@
+---------gloss--------
+(0) [31m{Hoechst AG}[0m said [31m{it}[0m will stop producing fertilizer in 1990 because of continued losses and a bleak outlook . 
+(1) [31m{The West German chemical concern}[0m said [31m{it}[0m will close the last remaining fertilizer plant in Oberhausen in the fall of next year . 
+(2) [31m{Hoechst}[0m said the fertilizer market faces overcapacity in Western Europe , rising imports from East bloc countries and overseas , and declining demand . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1576); part 000
+sentences:
+HoechstHoechstNNPORGPER0AGAGNNPORGPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0stopstopVBOPER0producingproduceVBGOPER0fertilizerfertilizerNNOPER0ininINOPER019901990CDDATEPER0becausebecauseINOPER0ofofINOPER0continuedcontinueVBNOPER0losseslossNNSOPER0andandCCOPER0aaDTOPER0bleakbleakJJOPER0outlookoutlookNNOPER0...OPER0(ROOT (S (NP (NNP Hoechst) (NNP AG)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB stop) (S (VP (VBG producing) (NP (NN fertilizer)) (PP (IN in) (NP (CD 1990))) (PP (IN because) (IN of) (NP (NP (VBN continued) (NNS losses)) (CC and) (NP (DT a) (JJ bleak) (NN outlook))))))))))) (. .)))
+ThetheDTOPER0WestWestNNPOPER0GermanGermanNNPOPER0chemicalchemicalNNOPER0concernconcernNNOPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0closecloseVBOPER0thetheDTOPER0lastlastJJOPER0remainingremainingJJOPER0fertilizerfertilizerNNOPER0plantplantNNOPER0ininINOPER0OberhausenOberhausenNNPGPEPER0ininINOPER0thetheDTDATEPER0fallfallNNDATEPER0ofofINDATEPER0nextnextJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP West) (NNP German)) (NN chemical) (NN concern)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB close) (NP (NP (DT the) (JJ last) (JJ remaining) (NN fertilizer) (NN plant)) (PP (IN in) (NP (NNP Oberhausen)))) (PP (IN in) (NP (NP (DT the) (NN fall)) (PP (IN of) (NP (JJ next) (NN year)))))))))) (. .)))
+HoechstHoechstNNPORGPER0saidsayVBDOPER0thetheDTOPER0fertilizerfertilizerNNOPER0marketmarketNNOPER0facesfaceVBZOPER0overcapacityovercapacityNNOPER0ininINOPER0WesternWesternNNPLOCPER0EuropeEuropeNNPLOCPER0,,,OPER0risingriseVBGOPER0importsimportNNSOPER0fromfromINOPER0EastEastNNPLOCPER0blocblocNNPLOCPER0countriescountryNNSOPER0andandCCOPER0overseasoverseasRBOPER0,,,OPER0andandCCOPER0decliningdeclineVBGOPER0demanddemandNNOPER0...OPER0(ROOT (S (NP (NNP Hoechst)) (VP (VBD said) (SBAR (S (NP (DT the) (NN fertilizer) (NN market)) (VP (VBZ faces) (NP (NP (NN overcapacity)) (PP (IN in) (NP (NP (NNP Western) (NNP Europe)) (, ,) (NP (NP (NP (NP (VBG rising) (NNS imports)) (PP (IN from) (NP (NML (NNP East) (NNP bloc)) (NNS countries)))) (CC and) (ADVP (RB overseas))) (, ,) (CC and) (VP (VBG declining) (NP (NN demand))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hoechst) (NNP AG))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP West) (NNP German)) (NN chemical) (NN concern))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Hoechst))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hoechst) (NNP AG))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (CD 1990))
+sid=0 spanning 12 until 18 headed by 13 parsed as (NP (NP (VBN continued) (NNS losses)) (CC and) (NP (DT a) (JJ bleak) (NN outlook)))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (VBN continued) (NNS losses))
+sid=0 spanning 15 until 18 headed by 17 parsed as (NP (DT a) (JJ bleak) (NN outlook))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP West) (NNP German)) (NN chemical) (NN concern))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=1 spanning 9 until 16 headed by 13 parsed as (NP (NP (DT the) (JJ last) (JJ remaining) (NN fertilizer) (NN plant)) (PP (IN in) (NP (NNP Oberhausen))))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Oberhausen))
+sid=1 spanning 17 until 22 headed by 18 parsed as (NP (NP (DT the) (NN fall)) (PP (IN of) (NP (JJ next) (NN year))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Hoechst))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NN fertilizer) (NN market))
+sid=2 spanning 6 until 23 headed by 6 parsed as (NP (NP (NN overcapacity)) (PP (IN in) (NP (NP (NNP Western) (NNP Europe)) (, ,) (NP (NP (NP (NP (VBG rising) (NNS imports)) (PP (IN from) (NP (NML (NNP East) (NNP bloc)) (NNS countries)))) (CC and) (ADVP (RB overseas))) (, ,) (CC and) (VP (VBG declining) (NP (NN demand)))))))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (NP (NNP Western) (NNP Europe)) (, ,) (NP (NP (NP (NP (VBG rising) (NNS imports)) (PP (IN from) (NP (NML (NNP East) (NNP bloc)) (NNS countries)))) (CC and) (ADVP (RB overseas))) (, ,) (CC and) (VP (VBG declining) (NP (NN demand)))))
+sid=2 spanning 8 until 23 headed by 9 parsed as (NP (NP (NNP Western) (NNP Europe)) (, ,) (NP (NP (NP (NP (VBG rising) (NNS imports)) (PP (IN from) (NP (NML (NNP East) (NNP bloc)) (NNS countries)))) (CC and) (ADVP (RB overseas))) (, ,) (CC and) (VP (VBG declining) (NP (NN demand)))))
+sid=2 spanning 11 until 23 headed by 12 parsed as (NP (NP (NP (NP (VBG rising) (NNS imports)) (PP (IN from) (NP (NML (NNP East) (NNP bloc)) (NNS countries)))) (CC and) (ADVP (RB overseas))) (, ,) (CC and) (VP (VBG declining) (NP (NN demand))))
+sid=2 spanning 11 until 19 headed by 12 parsed as (NP (NP (NP (VBG rising) (NNS imports)) (PP (IN from) (NP (NML (NNP East) (NNP bloc)) (NNS countries)))) (CC and) (ADVP (RB overseas)))
+sid=2 spanning 11 until 17 headed by 12 parsed as (NP (NP (VBG rising) (NNS imports)) (PP (IN from) (NP (NML (NNP East) (NNP bloc)) (NNS countries))))
+sid=2 spanning 14 until 17 headed by 16 parsed as (NP (NML (NNP East) (NNP bloc)) (NNS countries))
+sid=2 spanning 14 until 16 headed by 15 parsed as bloc
+(end predicted mentions)
+---------gold clusters--------
+1 0 4 2 3 | { 'it' 'Hoechst AG' 'Hoechst' 'The West German chemical concern' 'it' }
+(end gold clusters)

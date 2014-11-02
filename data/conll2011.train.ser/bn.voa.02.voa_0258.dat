@@ -1,0 +1,27 @@
+---------gloss--------
+(0) [3m[34m{Israeli - Palestinian peace talks}[0m have ended in Egypt with a statement declaring the two sides closer than ever to a final agreement . 
+(1) [3m[34m{Talks}[0m may resume after the Israeli elections . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0258); part 000
+sentences:
+IsraeliisraeliJJOPER0--HYPHOPER0PalestinianpalestinianJJOPER0peacepeaceNNOPER0talkstalkNNSOPER0havehaveVBPOPER0endedendVBNOPER0ininINOPER0EgyptEgyptNNPGPEPER0withwithINOPER0aaDTOPER0statementstatementNNOPER0declaringdeclareVBGOPER0thetheDTOPER0twotwoCDCARDINALPER0sidessideNNSOPER0closercloserJJROPER0thanthanINOPER0evereverRBOPER0totoINOPER0aaDTOPER0finalfinalJJOPER0agreementagreementNNOPER0...OPER0(ROOT (S (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NNS talks)) (VP (VBP have) (VP (VBN ended) (PP (IN in) (NP (NNP Egypt))) (PP (IN with) (NP (NP (DT a) (NN statement)) (VP (VBG declaring) (S (NP (DT the) (CD two) (NNS sides)) (ADJP (JJR closer) (PP (IN than) (ADVP (RB ever))) (PP (IN to) (NP (DT a) (JJ final) (NN agreement)))))))))) (. .)))
+TalkstalkNNSOPER0maymayMDOPER0resumeresumeVBOPER0afterafterINOPER0thetheDTOPER0IsraeliisraeliJJOPER0electionselectionNNSOPER0...OPER0(ROOT (S (NP (NNS Talks)) (VP (MD may) (VP (VB resume) (PP (IN after) (NP (DT the) (JJ Israeli) (NNS elections))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NNS talks))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Talks))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NNS talks))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Egypt))
+sid=0 spanning 10 until 23 headed by 11 parsed as (NP (NP (DT a) (NN statement)) (VP (VBG declaring) (S (NP (DT the) (CD two) (NNS sides)) (ADJP (JJR closer) (PP (IN than) (ADVP (RB ever))) (PP (IN to) (NP (DT a) (JJ final) (NN agreement)))))))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (CD two) (NNS sides))
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (DT a) (JJ final) (NN agreement))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Talks))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ Israeli) (NNS elections))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'Talks' 'Israeli - Palestinian peace talks' }
+(end gold clusters)

@@ -1,0 +1,49 @@
+---------gloss--------
+(0) [3m[36m{The British Petroleum Co. PLC}[0m said [3m[36m{its}[0m BP Exploration unit has produced the first oil from [4m[31m{its}[0m Don oilfield in the North Sea . 
+(1) In an official release , [3m[36m{BP}[0m said initial production from [4m[32m{the field}[0m was 11,000 barrels a day , and that [3m[36m{it}[0m expects peak output from [4m[32m{the field}[0m of 15,000 barrels a day to be reached in 1990 . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1584); part 000
+sentences:
+ThetheDTORGPER0BritishBritishNNPORGPER0PetroleumPetroleumNNPORGPER0Co.Co.NNPORGPER0PLCPLCNNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0BPBPNNPORGPER0ExplorationExplorationNNPORGPER0unitunitNNOPER0hashaveVBZOPER0producedproduceVBNOPER0thetheDTOPER0firstfirstJJORDINALPER0oiloilNNOPER0fromfromINOPER0itsitsPRP$OPER0DonDonNNPFACPER0oilfieldoilfieldNNOPER0ininINOPER0thetheDTLOCPER0NorthNorthNNPLOCPER0SeaSeaNNPLOCPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP British) (NNP Petroleum) (NNP Co.)) (NNP PLC)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NML (NNP BP) (NNP Exploration)) (NN unit)) (VP (VBZ has) (VP (VBN produced) (NP (NP (DT the) (JJ first) (NN oil)) (PP (IN from) (NP (NP (PRP$ its) (NNP Don) (NN oilfield)) (PP (IN in) (NP (DT the) (NNP North) (NNP Sea))))))))))) (. .)))
+IninINOPER0anaDTOPER0officialofficialJJOPER0releasereleaseNNOPER0,,,OPER0BPBPNNPORGPER0saidsayVBDOPER0initialinitialJJOPER0productionproductionNNOPER0fromfromINOPER0thetheDTOPER0fieldfieldNNOPER0wasbeVBDOPER011,00011,000CDQUANTITYPER0barrelsbarrelNNSQUANTITYPER0aaDTDATEPER0daydayNNDATEPER0,,,OPER0andandCCOPER0thatthatINOPER0ititPRPOPER0expectsexpectVBZOPER0peakpeakJJOPER0outputoutputNNOPER0fromfromINOPER0thetheDTOPER0fieldfieldNNOPER0ofofINOPER015,00015,000CDQUANTITYPER0barrelsbarrelNNSQUANTITYPER0aaDTDATEPER0daydayNNDATEPER0totoTOOPER0bebeVBOPER0reachedreachVBNOPER0ininINOPER019901990CDDATEPER0...OPER0(ROOT (S (PP (IN In) (NP (DT an) (JJ official) (NN release))) (, ,) (NP (NNP BP)) (VP (VBD said) (SBAR (SBAR (S (NP (NP (JJ initial) (NN production)) (PP (IN from) (NP (DT the) (NN field)))) (VP (VBD was) (NP (NP (CD 11,000) (NNS barrels)) (NP (DT a) (NN day)))))) (, ,) (CC and) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ expects) (S (NP (NP (JJ peak) (NN output)) (PP (IN from) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NP (CD 15,000) (NNS barrels)) (NP (DT a) (NN day))))))) (VP (TO to) (VP (VB be) (VP (VBN reached) (PP (IN in) (NP (CD 1990)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP British) (NNP Petroleum) (NNP Co.)) (NNP PLC))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (PRP$ its) (NML (NNP BP) (NNP Exploration)) (NN unit))
+sid=0 spanning 6 until 7 headed by 6 parsed as its
+sid=0 spanning 16 until 23 headed by 18 parsed as (NP (NP (PRP$ its) (NNP Don) (NN oilfield)) (PP (IN in) (NP (DT the) (NNP North) (NNP Sea))))
+sid=0 spanning 16 until 17 headed by 16 parsed as its
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP BP))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN field))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=1 spanning 25 until 27 headed by 26 parsed as (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NP (CD 15,000) (NNS barrels)) (NP (DT a) (NN day)))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP British) (NNP Petroleum) (NNP Co.)) (NNP PLC))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (PRP$ its) (NML (NNP BP) (NNP Exploration)) (NN unit))
+sid=0 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=0 spanning 7 until 9 headed by 8 parsed as Exploration
+sid=0 spanning 12 until 23 headed by 14 parsed as (NP (NP (DT the) (JJ first) (NN oil)) (PP (IN from) (NP (NP (PRP$ its) (NNP Don) (NN oilfield)) (PP (IN in) (NP (DT the) (NNP North) (NNP Sea))))))
+sid=0 spanning 13 until 14 headed by 13 parsed as first
+sid=0 spanning 16 until 23 headed by 18 parsed as (NP (NP (PRP$ its) (NNP Don) (NN oilfield)) (PP (IN in) (NP (DT the) (NNP North) (NNP Sea))))
+sid=0 spanning 16 until 17 headed by 16 parsed as (PRP$ its)
+sid=0 spanning 17 until 18 headed by 17 parsed as Don
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (NNP North) (NNP Sea))
+sid=1 spanning 1 until 4 headed by 3 parsed as (NP (DT an) (JJ official) (NN release))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP BP))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN field))
+sid=1 spanning 13 until 17 headed by 14 parsed as (NP (NP (CD 11,000) (NNS barrels)) (NP (DT a) (NN day)))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN day))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=1 spanning 25 until 32 headed by 26 parsed as (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NP (CD 15,000) (NNS barrels)) (NP (DT a) (NN day)))))
+sid=1 spanning 28 until 32 headed by 29 parsed as (NP (NP (CD 15,000) (NNS barrels)) (NP (DT a) (NN day)))
+sid=1 spanning 30 until 32 headed by 31 parsed as (NP (DT a) (NN day))
+sid=1 spanning 36 until 37 headed by 36 parsed as (NP (CD 1990))
+(end predicted mentions)
+---------gold clusters--------
+0 2 7 5 | { 'The British Petroleum Co. PLC' 'its' 'it' 'BP' }
+1 4 | { 'its BP Exploration unit' 'its' }
+6 8 3 | { 'the field' 'the field' 'its Don oilfield in the North Sea' }
+(end gold clusters)

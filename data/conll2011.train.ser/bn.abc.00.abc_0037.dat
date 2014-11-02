@@ -1,0 +1,32 @@
+---------gloss--------
+(0) Two other elections of interest to many Americans -- in Israel , [1m[36m{Ehud Barak facing a vote of no confidence}[0m has called national elections for May , which means another deadline for [1m[36m{him}[0m to make an agreement with the Palestinians . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0037); part 000
+sentences:
+TwotwoCDCARDINALPER0otherotherJJOPER0electionselectionNNSOPER0ofofINOPER0interestinterestNNOPER0totoINOPER0manymanyJJOPER0AmericansAmericansNNPSOPER0----:OPER0ininINOPER0IsraelIsraelNNPGPEPER0,,,OPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0facingfaceVBGOPER0aaDTOPER0votevoteNNOPER0ofofINOPER0nonoDTOPER0confidenceconfidenceNNOPER0hashaveVBZOPER0calledcallVBNOPER0nationalnationalJJOPER0electionselectionNNSOPER0forforINOPER0MayMayNNPDATEPER0,,,OPER0whichwhichWDTOPER0meansmeanVBZOPER0anotheranotherDTOPER0deadlinedeadlineNNOPER0forforINOPER0himhePRPOPER0totoTOOPER0makemakeVBOPER0anaDTOPER0agreementagreementNNOPER0withwithINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (FRAG (NP (NP (CD Two) (JJ other) (NNS elections)) (PP (IN of) (NP (NP (NN interest)) (PP (IN to) (NP (JJ many) (NNPS Americans)))))) (: --) (S (PP (IN in) (NP (NNP Israel))) (, ,) (NP (NNP Ehud) (NNP Barak)) (VP (VBG facing) (SBAR (S (NP (NP (DT a) (NN vote)) (PP (IN of) (NP (DT no) (NN confidence)))) (VP (VBZ has) (VP (VBN called) (NP (JJ national) (NNS elections)) (PP (IN for) (NP (NP (NNP May)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (NP (NP (DT another) (NN deadline)) (SBAR (IN for) (S (NP (PRP him)) (VP (TO to) (VP (VB make) (NP (NP (DT an) (NN agreement)) (PP (IN with) (NP (DT the) (NNPS Palestinians)))))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 12 until 20 headed by 13 parsed as (NP (NNP Ehud) (NNP Barak))
+sid=0 spanning 32 until 33 headed by 32 parsed as (NP (PRP him))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (CD Two) (JJ other) (NNS elections)) (PP (IN of) (NP (NP (NN interest)) (PP (IN to) (NP (JJ many) (NNPS Americans))))))
+sid=0 spanning 4 until 8 headed by 4 parsed as (NP (NP (NN interest)) (PP (IN to) (NP (JJ many) (NNPS Americans))))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (JJ many) (NNPS Americans))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Israel))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (NNP Ehud) (NNP Barak))
+sid=0 spanning 15 until 20 headed by 16 parsed as (NP (NP (DT a) (NN vote)) (PP (IN of) (NP (DT no) (NN confidence))))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (DT no) (NN confidence))
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (JJ national) (NNS elections))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NP (NNP May)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (NP (NP (DT another) (NN deadline)) (SBAR (IN for) (S (NP (PRP him)) (VP (TO to) (VP (VB make) (NP (NP (DT an) (NN agreement)) (PP (IN with) (NP (DT the) (NNPS Palestinians)))))))))))))
+sid=0 spanning 25 until 40 headed by 25 parsed as (NP (NP (NNP May)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (NP (NP (DT another) (NN deadline)) (SBAR (IN for) (S (NP (PRP him)) (VP (TO to) (VP (VB make) (NP (NP (DT an) (NN agreement)) (PP (IN with) (NP (DT the) (NNPS Palestinians)))))))))))))
+sid=0 spanning 29 until 40 headed by 30 parsed as (NP (NP (DT another) (NN deadline)) (SBAR (IN for) (S (NP (PRP him)) (VP (TO to) (VP (VB make) (NP (NP (DT an) (NN agreement)) (PP (IN with) (NP (DT the) (NNPS Palestinians)))))))))
+sid=0 spanning 32 until 33 headed by 32 parsed as (NP (PRP him))
+sid=0 spanning 35 until 40 headed by 36 parsed as (NP (NP (DT an) (NN agreement)) (PP (IN with) (NP (DT the) (NNPS Palestinians))))
+sid=0 spanning 38 until 40 headed by 39 parsed as (NP (DT the) (NNPS Palestinians))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'him' 'Ehud Barak facing a vote of no confidence' }
+(end gold clusters)

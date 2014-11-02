@@ -1,0 +1,46 @@
+---------gloss--------
+(0) Xinhua News Agency , Beijing , December 2nd 
+(1) Message from the Ministry of Foreign Economic and Trade : 
+(2) With the agreement of the State Council , China will continue to implement the import taxation policy effective before [36m{Mar , 31 , 1996}[0m for importing equipment and raw materials within the total investment value of foreign funded enterprises approved before [36m{Mar , 31 , 1996}[0m until all imports are completed . 
+(3) -LRB- End -RRB- 
+(end gloss)
+---------document--------
+(nw/xinhua/00/chtb_0063); part 000
+sentences:
+XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0,,,OPER0BeijingBeijingNNPGPEPER0,,,OPER0DecemberDecemberNNPDATEPER02nd2ndNNOPER0(ROOT (FRAG (NP (NNP Xinhua) (NNP News) (NNP Agency)) (, ,) (NP (NNP Beijing)) (, ,) (NP (NNP December) (NN 2nd))))
+MessagemessageNNOPER0fromfromINOPER0thetheDTORGPER0MinistryMinistryNNPORGPER0ofofINORGPER0ForeignForeignNNPORGPER0EconomicEconomicNNPORGPER0andandCCORGPER0TradeTradeNNPORGPER0::.OPER0(ROOT (NP (NP (NN Message)) (PP (IN from) (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Foreign) (NNP Economic) (CC and) (NNP Trade))))) (. :)))
+WithwithINOPER0thetheDTOPER0agreementagreementNNOPER0ofofINOPER0thetheDTORGPER0StateStateNNPORGPER0CouncilCouncilNNPORGPER0,,,OPER0ChinaChinaNNPGPEPER0willwillMDOPER0continuecontinueVBOPER0totoTOOPER0implementimplementVBOPER0thetheDTOPER0importimportNNOPER0taxationtaxationNNOPER0policypolicyNNOPER0effectiveeffectiveJJOPER0beforebeforeINOPER0MarMarNNPGPEPER0,,,OPER03131CDDATEPER0,,,DATEPER019961996CDDATEPER0forforINOPER0importingimportVBGOPER0equipmentequipmentNNOPER0andandCCOPER0rawrawJJOPER0materialsmaterialNNSOPER0withinwithinINOPER0thetheDTOPER0totaltotalJJOPER0investmentinvestmentNNOPER0valuevalueNNOPER0ofofINOPER0foreignforeignJJOPER0fundedfundVBNOPER0enterprisesenterpriseNNSOPER0approvedapproveVBNOPER0beforebeforeINOPER0MarMarNNPGPEPER0,,,OPER03131CDDATEPER0,,,DATEPER019961996CDDATEPER0untiluntilINOPER0allallDTOPER0importsimportNNSOPER0arebeVBPOPER0completedcompleteVBNOPER0...OPER0(ROOT (S (PP (IN With) (NP (NP (DT the) (NN agreement)) (PP (IN of) (NP (DT the) (NNP State) (NNP Council))))) (, ,) (NP (NNP China)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB implement) (NP (NP (DT the) (NML (NN import) (NN taxation)) (NN policy)) (PP (JJ effective) (IN before) (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996))) (PP (IN for) (NP (NP (VBG importing) (NN equipment)) (CC and) (NP (JJ raw) (NNS materials))))) (PP (IN within) (NP (NP (DT the) (JJ total) (NN investment) (NN value)) (PP (IN of) (NP (NP (ADJP (JJ foreign) (VBN funded)) (NNS enterprises)) (VP (VBN approved) (PP (IN before) (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996))))))))))) (SBAR (IN until) (S (NP (DT all) (NNS imports)) (VP (VBP are) (VP (VBN completed))))))) (. .)))
+-LRB--lrb--LRB-OPER0EndendNNORGPER0-RRB--rrb--RRB-OPER0(ROOT (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-)))
+<end>
+(end document)
+---------gold mentions--------
+sid=2 spanning 19 until 24 headed by 19 parsed as (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996))
+sid=2 spanning 41 until 46 headed by 41 parsed as (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Xinhua) (NNP News) (NNP Agency))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Beijing))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP December) (NN 2nd))
+sid=0 spanning 6 until 7 headed by 6 parsed as December
+sid=1 spanning 0 until 10 headed by 0 parsed as (NP (NP (NN Message)) (PP (IN from) (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Foreign) (NNP Economic) (CC and) (NNP Trade))))) (. :))
+sid=1 spanning 2 until 9 headed by 3 parsed as (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Foreign) (NNP Economic) (CC and) (NNP Trade))))
+sid=2 spanning 1 until 7 headed by 2 parsed as (NP (NP (DT the) (NN agreement)) (PP (IN of) (NP (DT the) (NNP State) (NNP Council))))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP State) (NNP Council))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNP China))
+sid=2 spanning 13 until 30 headed by 16 parsed as (NP (NP (DT the) (NML (NN import) (NN taxation)) (NN policy)) (PP (JJ effective) (IN before) (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996))) (PP (IN for) (NP (NP (VBG importing) (NN equipment)) (CC and) (NP (JJ raw) (NNS materials)))))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996))
+sid=2 spanning 19 until 24 headed by 19 parsed as (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996))
+sid=2 spanning 21 until 24 headed by 21 parsed as 31
+sid=2 spanning 25 until 30 headed by 26 parsed as (NP (NP (VBG importing) (NN equipment)) (CC and) (NP (JJ raw) (NNS materials)))
+sid=2 spanning 25 until 27 headed by 26 parsed as (NP (VBG importing) (NN equipment))
+sid=2 spanning 28 until 30 headed by 29 parsed as (NP (JJ raw) (NNS materials))
+sid=2 spanning 31 until 46 headed by 34 parsed as (NP (NP (DT the) (JJ total) (NN investment) (NN value)) (PP (IN of) (NP (NP (ADJP (JJ foreign) (VBN funded)) (NNS enterprises)) (VP (VBN approved) (PP (IN before) (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996)))))))
+sid=2 spanning 36 until 46 headed by 38 parsed as (NP (NP (ADJP (JJ foreign) (VBN funded)) (NNS enterprises)) (VP (VBN approved) (PP (IN before) (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996)))))
+sid=2 spanning 41 until 42 headed by 41 parsed as (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996))
+sid=2 spanning 41 until 46 headed by 41 parsed as (NP (NNP Mar) (, ,) (CD 31) (, ,) (CD 1996))
+sid=2 spanning 43 until 46 headed by 43 parsed as 31
+sid=3 spanning 0 until 3 headed by 1 parsed as (NP (-LRB- -LRB-) (NN End) (-RRB- -RRB-))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'Mar , 31 , 1996' 'Mar , 31 , 1996' }
+(end gold clusters)

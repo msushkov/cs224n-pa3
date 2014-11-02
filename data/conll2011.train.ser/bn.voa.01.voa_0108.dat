@@ -1,0 +1,45 @@
+---------gloss--------
+(0) The Voice of Russia DX Club , via BBC monitoring reports that [31m{Radio Canada International}[0m , and [33m{YLE Radio Finland}[0m , are conducting test re-broadcasts in St. Petersburg Russia , on 684 KHz medium wave . 
+(1) [31m{RCI}[0m is in Russian and [33m{YLE}[0m in Finish , each one hour per day . 
+(2) [32m{The programs}[0m are downlinked from a world radio network transponder . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0108); part 000
+sentences:
+ThetheDTORGPER0VoiceVoiceNNPORGPER0ofofINORGPER0RussiaRussiaNNPORGPER0DXDXNNPORGPER0ClubClubNNPORGPER0,,,OPER0viaviaINOPER0BBCBBCNNPORGPER0monitoringmonitoringNNOPER0reportsreportVBZOPER0thatthatINOPER0RadioRadioNNPORGPER0CanadaCanadaNNPORGPER0InternationalInternationalNNPORGPER0,,,OPER0andandCCOPER0YLEYLENNPORGPER0RadioRadioNNPORGPER0FinlandFinlandNNPORGPER0,,,OPER0arebeVBPOPER0conductingconductVBGOPER0testtestNNOPER0re-broadcastsre-broadcastNNSOPER0ininINOPER0St.St.NNPGPEPER0PetersburgPetersburgNNPGPEPER0RussiaRussiaNNPGPEPER0,,,OPER0ononINOPER0684684CDCARDINALPER0KHzkhzCDOPER0mediummediumJJOPER0wavewaveNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP Voice)) (PP (IN of) (NP (NNP Russia) (NNP DX) (NNP Club))) (, ,) (PP (IN via) (NP (NNP BBC) (NN monitoring)))) (VP (VBZ reports) (SBAR (IN that) (S (NP (NP (NNP Radio) (NNP Canada) (NNP International)) (, ,) (CC and) (NP (NNP YLE) (NNP Radio) (NNP Finland)) (, ,)) (VP (VBP are) (VP (VBG conducting) (NP (NP (NN test) (NNS re-broadcasts)) (PP (IN in) (NP (NNP St.) (NNP Petersburg)))) (NP (NNP Russia)) (, ,) (PP (IN on) (NP (QP (CD 684) (CD KHz)) (JJ medium) (NN wave)))))))) (. .)))
+RCIRCINNPORGPER0isbeVBZOPER0ininINOPER0RussianRussianNNPLANGUAGEPER0andandCCOPER0YLEYLENNPORGPER0ininINOPER0FinishfinishNNGPEPER0,,,OPER0eacheachDTQUANTITYPER0oneoneCDQUANTITYPER0hourhourNNQUANTITYPER0perperINOPER0daydayNNOPER0...OPER0(ROOT (S (NP (NNP RCI)) (VP (VBZ is) (PP (IN in) (NP (NP (NNP Russian) (CC and) (NNP YLE)) (PP (IN in) (NP (NN Finish))))) (, ,) (PP (NP (DT each) (CD one) (NN hour)) (IN per) (NP (NN day)))) (. .)))
+ThetheDTOPER0programsprogramNNSOPER0arebeVBPOPER0downlinkeddownlinkVBNOPER0fromfromINOPER0aaDTOPER0worldworldNNOPER0radioradioNNOPER0networknetworkNNOPER0transpondertransponderNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS programs)) (VP (VBP are) (VP (VBN downlinked) (PP (IN from) (NP (DT a) (NN world) (NN radio) (NN network) (NN transponder))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 12 until 21 headed by 14 parsed as (NP (NP (NNP Radio) (NNP Canada) (NNP International)) (, ,) (CC and) (NP (NNP YLE) (NNP Radio) (NNP Finland)) (, ,))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (NP (NNP Radio) (NNP Canada) (NNP International)) (, ,) (CC and) (NP (NNP YLE) (NNP Radio) (NNP Finland)) (, ,))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (NNP YLE) (NNP Radio) (NNP Finland))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP RCI))
+sid=1 spanning 5 until 6 headed by 5 parsed as YLE
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS programs))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NNP Voice)) (PP (IN of) (NP (NNP Russia) (NNP DX) (NNP Club))) (, ,) (PP (IN via) (NP (NNP BBC) (NN monitoring))))
+sid=0 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NNP Voice)) (PP (IN of) (NP (NNP Russia) (NNP DX) (NNP Club))) (, ,) (PP (IN via) (NP (NNP BBC) (NN monitoring))))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP BBC) (NN monitoring))
+sid=0 spanning 8 until 9 headed by 8 parsed as BBC
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (NP (NNP Radio) (NNP Canada) (NNP International)) (, ,) (CC and) (NP (NNP YLE) (NNP Radio) (NNP Finland)) (, ,))
+sid=0 spanning 12 until 21 headed by 14 parsed as (NP (NP (NNP Radio) (NNP Canada) (NNP International)) (, ,) (CC and) (NP (NNP YLE) (NNP Radio) (NNP Finland)) (, ,))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (NNP YLE) (NNP Radio) (NNP Finland))
+sid=0 spanning 23 until 28 headed by 24 parsed as (NP (NP (NN test) (NNS re-broadcasts)) (PP (IN in) (NP (NNP St.) (NNP Petersburg))))
+sid=0 spanning 26 until 29 headed by 28 parsed as (NP (NNP Russia))
+sid=0 spanning 31 until 35 headed by 34 parsed as (NP (QP (CD 684) (CD KHz)) (JJ medium) (NN wave))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP RCI))
+sid=1 spanning 3 until 8 headed by 3 parsed as (NP (NP (NNP Russian) (CC and) (NNP YLE)) (PP (IN in) (NP (NN Finish))))
+sid=1 spanning 5 until 6 headed by 5 parsed as YLE
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (DT each) (CD one) (NN hour))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NN day))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS programs))
+sid=2 spanning 5 until 10 headed by 9 parsed as (NP (DT a) (NN world) (NN radio) (NN network) (NN transponder))
+(end predicted mentions)
+---------gold clusters--------
+1 3 | { 'Radio Canada International' 'RCI' }
+5 0 | { 'The programs' 'Radio Canada International , and YLE Radio Finland ,' }
+4 2 | { 'YLE' 'YLE Radio Finland' }
+(end gold clusters)

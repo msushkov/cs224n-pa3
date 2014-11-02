@@ -1,0 +1,28 @@
+---------gloss--------
+(0) From the Middle East tonight , word that there will be no meeting between Yasser Arafat and Ehud Barak before Israeli elections nine days from now . 
+(1) Israeli / Palestinian talks ended last night with no deal struck . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0038); part 000
+sentences:
+FromfromINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0tonighttonightNNOPER0,,,OPER0wordwordNNOPER0thatthatINOPER0therethereEXOPER0willwillMDOPER0bebeVBOPER0nonoDTOPER0meetingmeetingNNOPER0betweenbetweenINOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0andandCCOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0beforebeforeINOPER0IsraeliisraeliJJOPER0electionselectionNNSOPER0ninenineCDDATEPER0daysdayNNSDATEPER0fromfromINOPER0nownowRBOPER0...OPER0(ROOT (FRAG (PP (IN From) (NP (DT the) (NNP Middle) (NNP East))) (NP (NN tonight)) (, ,) (NP (NP (NN word)) (SBAR (IN that) (S (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (DT no) (NN meeting)) (PP (IN between) (NP (NP (NNP Yasser) (NNP Arafat)) (CC and) (NP (NNP Ehud) (NNP Barak))))) (PP (IN before) (NP (JJ Israeli) (NNS elections))) (PP (NP (CD nine) (NNS days)) (IN from) (ADVP (RB now)))))))) (. .)))
+IsraeliisraeliJJOPER0//SYMOPER0PalestinianpalestinianJJOPER0talkstalkNNSOPER0endedendVBDOPER0lastlastJJOPER0nightnightNNOPER0withwithINOPER0nonoDTOPER0dealdealNNOPER0struckstrikeVBDOPER0...OPER0(ROOT (S (NP (ADJP (JJ Israeli) (SYM /) (JJ Palestinian)) (NNS talks)) (VP (VBD ended) (NP (JJ last) (NN night)) (SBAR (IN with) (S (NP (DT no) (NN deal)) (VP (VBD struck))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=0 spanning 6 until 26 headed by 6 parsed as (NP (NP (NN word)) (SBAR (IN that) (S (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (DT no) (NN meeting)) (PP (IN between) (NP (NP (NNP Yasser) (NNP Arafat)) (CC and) (NP (NNP Ehud) (NNP Barak))))) (PP (IN before) (NP (JJ Israeli) (NNS elections))) (PP (NP (CD nine) (NNS days)) (IN from) (ADVP (RB now))))))))
+sid=0 spanning 11 until 19 headed by 12 parsed as (NP (NP (DT no) (NN meeting)) (PP (IN between) (NP (NP (NNP Yasser) (NNP Arafat)) (CC and) (NP (NNP Ehud) (NNP Barak)))))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (NP (NNP Yasser) (NNP Arafat)) (CC and) (NP (NNP Ehud) (NNP Barak)))
+sid=0 spanning 14 until 19 headed by 15 parsed as (NP (NP (NNP Yasser) (NNP Arafat)) (CC and) (NP (NNP Ehud) (NNP Barak)))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (NNP Ehud) (NNP Barak))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (JJ Israeli) (NNS elections))
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (CD nine) (NNS days))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (JJ Israeli) (SYM /) (JJ Palestinian)) (NNS talks))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (JJ last) (NN night))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT no) (NN deal))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

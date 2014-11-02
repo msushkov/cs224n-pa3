@@ -1,0 +1,76 @@
+---------gloss--------
+(0) [4m[31m{Scattered clashes}[0m were reported between Palestinian protesters and Israeli troops in [3m[36m{the West Bank}[0m and [3m[35m{Gaza}[0m [4m[33m{today}[0m , despite intense diplomatic efforts to stop [4m[31m{that}[0m . 
+(1) Palestinians say a 17 - year - old protester was killed by Israeli gunfire in [3m[36m{the West Bank}[0m , and a 16 - year - old boy died in [3m[35m{Gaza}[0m . 
+(2) In Ramallah , protesters set fire to tires before being driven back by Israeli forces . 
+(3) [4m[32m{U.N. Secretary - General Kofi Annan}[0m met [4m[33m{today}[0m with [4m[34m{Palestinian leader Yasser Arafat}[0m . 
+(4) [4m[32m{Annan}[0m returned to [3m[35m{Gaza}[0m after meeting with Israeli Prime Minister Ehud Barak and consulting by phone with President Clinton . 
+(5) [4m[34m{Arafat}[0m is pushing [4m[32m{Annan}[0m to appoint an international commission to look into the violence . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0028); part 000
+sentences:
+ScatteredscatterVBNOPER0clashesclashNNSOPER0werebeVBDOPER0reportedreportVBNOPER0betweenbetweenINOPER0PalestinianpalestinianJJOPER0protestersprotesterNNSOPER0andandCCOPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0todaytodayNNOPER0,,,OPER0despitedespiteINOPER0intenseintenseJJOPER0diplomaticdiplomaticJJOPER0effortseffortNNSOPER0totoTOOPER0stopstopVBOPER0thatthatDTOPER0...OPER0(ROOT (S (NP (VBN Scattered) (NNS clashes)) (VP (VBD were) (VP (VBN reported) (PP (IN between) (NP (NP (JJ Palestinian) (NNS protesters)) (CC and) (NP (NP (JJ Israeli) (NNS troops)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza))))))) (NP (NN today)) (, ,) (PP (IN despite) (NP (NP (JJ intense) (JJ diplomatic) (NNS efforts)) (SBAR (S (VP (TO to) (VP (VB stop) (NP (DT that)))))))))) (. .)))
+PalestiniansPalestiniansNNPSOPER0saysayVBPOPER0aaDTOPER01717CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0protesterprotesterNNOPER0wasbeVBDOPER0killedkillVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0gunfiregunfireNNOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0,,,OPER0andandCCOPER0aaDTOPER01616CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0boyboyNNOPER0dieddieVBDOPER0ininINOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (NP (NNPS Palestinians)) (VP (VBP say) (SBAR (S (S (NP (DT a) (ADJP (NML (CD 17) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN protester)) (VP (VBD was) (VP (VBN killed) (PP (IN by) (NP (NP (JJ Israeli) (NN gunfire)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank)))))))) (, ,) (CC and) (S (NP (DT a) (ADJP (NML (CD 16) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN boy)) (VP (VBD died) (PP (IN in) (NP (NNP Gaza)))))))) (. .)))
+IninINOPER0RamallahRamallahNNPGPEPER0,,,OPER0protestersprotesterNNSOPER0setsetVBDOPER0firefireNNOPER0totoINOPER0tirestireNNSOPER0beforebeforeINOPER0beingbeVBGOPER0drivendriveVBNOPER0backbackRPOPER0bybyINOPER0IsraeliisraeliJJOPER0forcesforceNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Ramallah))) (, ,) (NP (NNS protesters)) (VP (VBD set) (NP (NN fire)) (PP (IN to) (NP (NNS tires))) (PP (IN before) (S (VP (VBG being) (VP (VBN driven) (PRT (RP back)) (PP (IN by) (NP (JJ Israeli) (NNS forces)))))))) (. .)))
+U.N.U.N.NNPORGPER0SecretarySecretaryNNPOPER0--HYPHOPER0GeneralGeneralNNPOPER0KofiKofiNNPPERSONPER0AnnanAnnanNNPPERSONPER0metmeetVBDOPER0todaytodayNNDATEPER0withwithINOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0...OPER0(ROOT (S (NP (NML (NNP U.N.) (NNP Secretary) (HYPH -) (NNP General)) (NNP Kofi) (NNP Annan)) (VP (VBD met) (NP (NN today)) (PP (IN with) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))) (. .)))
+AnnanAnnanNNPPERSONPER0returnedreturnVBDOPER0totoINOPER0GazaGazaNNPLOCPER0afterafterINOPER0meetingmeetVBGOPER0withwithINOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0andandCCOPER0consultingconsultVBGOPER0bybyINOPER0phonephoneNNOPER0withwithINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0...OPER0(ROOT (S (NP (NNP Annan)) (VP (VBD returned) (PP (IN to) (NP (NNP Gaza))) (PP (IN after) (S (VP (VP (VBG meeting) (PP (IN with) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))) (CC and) (VP (VBG consulting) (PP (IN by) (NP (NN phone))) (PP (IN with) (NP (NNP President) (NNP Clinton)))))))) (. .)))
+ArafatArafatNNPPERSONPER0isbeVBZOPER0pushingpushVBGOPER0AnnanAnnanNNPPERSONPER0totoTOOPER0appointappointVBOPER0anaDTOPER0internationalinternationalJJOPER0commissioncommissionNNOPER0totoTOOPER0looklookVBOPER0intointoINOPER0thetheDTOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (NNP Arafat)) (VP (VBZ is) (VP (VBG pushing) (NP (NNP Annan)) (S (VP (TO to) (VP (VB appoint) (NP (NP (DT an) (JJ international) (NN commission)) (SBAR (S (VP (TO to) (VP (VB look) (PP (IN into) (NP (DT the) (NN violence))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (VBN Scattered) (NNS clashes))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNP Gaza))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NN today))
+sid=0 spanning 24 until 25 headed by 24 parsed as (NP (DT that))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (NNP Gaza))
+sid=3 spanning 0 until 6 headed by 5 parsed as (NP (NML (NNP U.N.) (NNP Secretary) (HYPH -) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NN today))
+sid=3 spanning 9 until 13 headed by 12 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Annan))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Gaza))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Arafat))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NNP Annan))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (VBN Scattered) (NNS clashes))
+sid=0 spanning 5 until 16 headed by 6 parsed as (NP (NP (JJ Palestinian) (NNS protesters)) (CC and) (NP (NP (JJ Israeli) (NNS troops)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza))))))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (JJ Palestinian) (NNS protesters))
+sid=0 spanning 8 until 16 headed by 9 parsed as (NP (NP (JJ Israeli) (NNS troops)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=0 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNP Gaza))
+sid=0 spanning 19 until 25 headed by 21 parsed as (NP (NP (JJ intense) (JJ diplomatic) (NNS efforts)) (SBAR (S (VP (TO to) (VP (VB stop) (NP (DT that)))))))
+sid=0 spanning 24 until 25 headed by 24 parsed as (NP (DT that))
+sid=1 spanning 2 until 9 headed by 8 parsed as (NP (DT a) (ADJP (NML (CD 17) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN protester))
+sid=1 spanning 3 until 8 headed by 7 parsed as old
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=1 spanning 20 until 27 headed by 26 parsed as (NP (DT a) (ADJP (NML (CD 16) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN boy))
+sid=1 spanning 21 until 26 headed by 25 parsed as old
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (NNP Gaza))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (NNP Ramallah))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNS protesters))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNS tires))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (JJ Israeli) (NNS forces))
+sid=3 spanning 0 until 6 headed by 5 parsed as (NP (NML (NNP U.N.) (NNP Secretary) (HYPH -) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=3 spanning 0 until 1 headed by 0 parsed as U.N.
+sid=3 spanning 9 until 13 headed by 12 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Annan))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Gaza))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=4 spanning 7 until 12 headed by 11 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=4 spanning 17 until 19 headed by 18 parsed as (NP (NNP President) (NNP Clinton))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Arafat))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NNP Annan))
+sid=5 spanning 6 until 14 headed by 8 parsed as (NP (NP (DT an) (JJ international) (NN commission)) (SBAR (S (VP (TO to) (VP (VB look) (PP (IN into) (NP (DT the) (NN violence))))))))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN violence))
+(end predicted mentions)
+---------gold clusters--------
+11 2 6 | { 'Gaza' 'Gaza' 'Gaza' }
+5 1 | { 'the West Bank' 'the West Bank' }
+0 4 | { 'Scattered clashes' 'that' }
+13 7 10 | { 'Annan' 'U.N. Secretary - General Kofi Annan' 'Annan' }
+8 3 | { 'today' 'today' }
+9 12 | { 'Palestinian leader Yasser Arafat' 'Arafat' }
+(end gold clusters)

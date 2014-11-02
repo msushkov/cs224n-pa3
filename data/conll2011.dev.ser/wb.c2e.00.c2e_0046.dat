@@ -1,0 +1,114 @@
+---------gloss--------
+(0) [1m[34m{Another Business Trip to San Jose}[0m 
+(1) [36m{Michael Zhou}[0m 
+(2) Next week , [36m{I}[0m will go to [1m[31m{San Jose}[0m for [1m[34m{a three - day business trip}[0m . 
+(3) [36m{I}[0m have no choice but to go . 
+(4) [36m{My}[0m wife will have a hard time again at home . 
+(5) We plan to make dumplings and steamed buns on weekend to be used as food reserve for next week . 
+(6) On [1m[34m{this trip to California}[0m , [36m{I}[0m plan to pay a visit to [36m{my}[0m [1m[32m{Cisco}[0m colleagues and friends . 
+(7) [1m[33m{They all}[0m moved to [35m{California}[0m from RTP for different reasons . 
+(8) It 's so hard to make a hotel reservation . 
+(9) [36m{I}[0m do n't know whether it is because of an upcoming big conference , all hotels in the 10 - mile radius from [1m[31m{San Jose}[0m have been booked up . 
+(10) [36m{I}[0m could only find a Sheraton in Pleasant about 25 miles from [1m[32m{the company}[0m . 
+(11) [36m{I}[0m must make sure to bring [36m{my}[0m own GPS before [36m{I}[0m set out in case there is no GPS in the rental car . 
+(end gloss)
+---------document--------
+(wb/c2e/00/c2e_0046); part 000
+sentences:
+AnotheranotherDTORGPER0BusinessbusinessNNORGPER0TriptripNNORGPER0totoINOPER0SanSanNNPGPEPER0JoseJoseNNPGPEPER0(ROOT (NP (NP (DT Another) (NN Business) (NN Trip)) (PP (IN to) (NP (NNP San) (NNP Jose)))))
+MichaelMichaelNNPPERSONPER0ZhouZhouNNPPERSONPER0(ROOT (FRAG (NP (NNP Michael) (NNP Zhou))))
+NextnextJJDATE Michael Zhou weekweekNNDATE Michael Zhou ,,,O Michael Zhou IIPRPO Michael Zhou willwillMDO Michael Zhou gogoVBO Michael Zhou totoINO Michael Zhou SanSanNNPGPE Michael Zhou JoseJoseNNPGPE Michael Zhou forforINO Michael Zhou aaDTO Michael Zhou threethreeCDCARDINAL Michael Zhou --HYPHO Michael Zhou daydayNNO Michael Zhou businessbusinessNNO Michael Zhou triptripNNO Michael Zhou ...O Michael Zhou (ROOT (S (NP (JJ Next) (NN week)) (, ,) (NP (PRP I)) (VP (MD will) (VP (VB go) (PP (IN to) (NP (NNP San) (NNP Jose))) (PP (IN for) (NP (DT a) (NML (CD three) (HYPH -) (NN day)) (NN business) (NN trip))))) (. .)))
+IIPRPO Michael Zhou havehaveVBPO Michael Zhou nonoDTO Michael Zhou choicechoiceNNO Michael Zhou butbutINO Michael Zhou totoTOO Michael Zhou gogoVBO Michael Zhou ...O Michael Zhou (ROOT (S (NP (PRP I)) (VP (VBP have) (NP (DT no) (NN choice) (SBAR (IN but) (S (VP (TO to) (VP (VB go))))))) (. .)))
+MymyPRP$O Michael Zhou wifewifeNNO Michael Zhou willwillMDO Michael Zhou havehaveVBO Michael Zhou aaDTO Michael Zhou hardhardJJO Michael Zhou timetimeNNO Michael Zhou againagainRBO Michael Zhou atatINO Michael Zhou homehomeNNO Michael Zhou ...O Michael Zhou (ROOT (S (NP (PRP$ My) (NN wife)) (VP (MD will) (VP (VB have) (NP (DT a) (JJ hard) (NN time)) (ADVP (RB again)) (PP (IN at) (NP (NN home))))) (. .)))
+WewePRPO Michael Zhou planplanVBPO Michael Zhou totoTOO Michael Zhou makemakeVBO Michael Zhou dumplingsdumplingNNSO Michael Zhou andandCCO Michael Zhou steamedsteamVBNO Michael Zhou bunsbunNNSO Michael Zhou ononINO Michael Zhou weekendweekendNNDATE Michael Zhou totoTOO Michael Zhou bebeVBO Michael Zhou useduseVBNO Michael Zhou asasINO Michael Zhou foodfoodNNO Michael Zhou reservereserveNNO Michael Zhou forforINO Michael Zhou nextnextJJDATE Michael Zhou weekweekNNDATE Michael Zhou ...O Michael Zhou (ROOT (S (NP (PRP We)) (VP (VBP plan) (S (VP (TO to) (VP (VB make) (NP (NP (NNS dumplings)) (CC and) (NP (VBN steamed) (NNS buns))) (PP (IN on) (NP (NN weekend) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NN food) (NN reserve))) (PP (IN for) (NP (JJ next) (NN week))))))))))))) (. .)))
+OnonINO Michael Zhou thisthisDTO Michael Zhou triptripNNO Michael Zhou totoINO Michael Zhou CaliforniaCaliforniaNNPGPE Michael Zhou ,,,O Michael Zhou IIPRPO Michael Zhou planplanVBPO Michael Zhou totoTOO Michael Zhou paypayVBO Michael Zhou aaDTO Michael Zhou visitvisitNNO Michael Zhou totoINO Michael Zhou mymyPRP$O Michael Zhou CiscoCiscoNNPO Michael Zhou colleaguescolleagueNNSO Michael Zhou andandCCO Michael Zhou friendsfriendNNSO Michael Zhou ...O Michael Zhou (ROOT (S (PP (IN On) (NP (NP (DT this) (NN trip)) (PP (IN to) (NP (NNP California))))) (, ,) (NP (PRP I)) (VP (VBP plan) (S (VP (TO to) (VP (VB pay) (NP (NP (DT a) (NN visit)) (PP (IN to) (NP (PRP$ my) (NNP Cisco) (NNS colleagues) (CC and) (NNS friends)))))))) (. .)))
+TheytheyPRPO Michael Zhou allallDTO Michael Zhou movedmoveVBDO Michael Zhou totoINO Michael Zhou CaliforniaCaliforniaNNPGPE Michael Zhou fromfromINO Michael Zhou RTPrtpNNORG Michael Zhou forforINO Michael Zhou differentdifferentJJO Michael Zhou reasonsreasonNNSO Michael Zhou ...O Michael Zhou (ROOT (S (NP (NP (PRP They)) (NP (DT all))) (VP (VBD moved) (PP (IN to) (NP (NNP California))) (PP (IN from) (NP (NP (NN RTP)) (PP (IN for) (NP (JJ different) (NNS reasons)))))) (. .)))
+ItitPRPO Michael Zhou 'sbeVBZO Michael Zhou sosoRBO Michael Zhou hardhardJJO Michael Zhou totoTOO Michael Zhou makemakeVBO Michael Zhou aaDTO Michael Zhou hotelhotelNNO Michael Zhou reservationreservationNNO Michael Zhou ...O Michael Zhou (ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB so) (JJ hard) (SBAR (S (VP (TO to) (VP (VB make) (NP (DT a) (NN hotel) (NN reservation)))))))) (. .)))
+IIPRPO Michael Zhou dodoVBPO Michael Zhou n'tnotRBO Michael Zhou knowknowVBO Michael Zhou whetherwhetherINO Michael Zhou ititPRPO Michael Zhou isbeVBZO Michael Zhou becausebecauseINO Michael Zhou ofofINO Michael Zhou anaDTO Michael Zhou upcomingupcomingJJO Michael Zhou bigbigJJO Michael Zhou conferenceconferenceNNO Michael Zhou ,,,O Michael Zhou allallDTO Michael Zhou hotelshotelNNSO Michael Zhou ininINO Michael Zhou thetheDTQUANTITY Michael Zhou 1010CDQUANTITY Michael Zhou --HYPHQUANTITY Michael Zhou milemileNNQUANTITY Michael Zhou radiusradiusNNQUANTITY Michael Zhou fromfromINO Michael Zhou SanSanNNPGPE Michael Zhou JoseJoseNNPGPE Michael Zhou havehaveVBPO Michael Zhou beenbeVBNO Michael Zhou bookedbookVBNO Michael Zhou upupRPO Michael Zhou ...O Michael Zhou (ROOT (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (PRP it)) (VP (VBZ is) (PP (IN because) (IN of) (NP (DT an) (JJ upcoming) (JJ big) (NN conference))))))))) (, ,) (NP (NP (DT all) (NNS hotels)) (PP (IN in) (NP (NP (DT the) (NML (CD 10) (HYPH -) (NN mile)) (NN radius)) (PP (IN from) (NP (NNP San) (NNP Jose)))))) (VP (VBP have) (VP (VBN been) (VP (VBN booked) (PRT (RP up))))) (. .)))
+IIPRPO Michael Zhou couldcouldMDO Michael Zhou onlyonlyRBO Michael Zhou findfindVBO Michael Zhou aaDTO Michael Zhou SheratonSheratonNNPORG Michael Zhou ininINO Michael Zhou PleasantpleasantJJGPE Michael Zhou aboutaboutINQUANTITY Michael Zhou 2525CDQUANTITY Michael Zhou milesmileNNSQUANTITY Michael Zhou fromfromINO Michael Zhou thetheDTO Michael Zhou companycompanyNNO Michael Zhou ...O Michael Zhou (ROOT (S (NP (PRP I)) (VP (MD could) (ADVP (RB only)) (VP (VB find) (NP (DT a) (NNP Sheraton)) (PP (IN in) (ADJP (JJ Pleasant) (PP (IN about) (NP (NP (CD 25) (NNS miles)) (PP (IN from) (NP (DT the) (NN company))))))))) (. .)))
+IIPRPO Michael Zhou mustmustMDO Michael Zhou makemakeVBO Michael Zhou suresureJJO Michael Zhou totoTOO Michael Zhou bringbringVBO Michael Zhou mymyPRP$O Michael Zhou ownownJJO Michael Zhou GPSgpNNSORG Michael Zhou beforebeforeINO Michael Zhou IIPRPO Michael Zhou setsetVBDO Michael Zhou outoutRPO Michael Zhou ininINO Michael Zhou casecaseNNO Michael Zhou therethereEXO Michael Zhou isbeVBZO Michael Zhou nonoDTO Michael Zhou GPSgpNNSO Michael Zhou ininINO Michael Zhou thetheDTO Michael Zhou rentalrentalJJO Michael Zhou carcarNNO Michael Zhou ...O Michael Zhou (ROOT (S (NP (PRP I)) (VP (MD must) (VP (VB make) (ADJP (JJ sure) (S (VP (TO to) (VP (VB bring) (NP (PRP$ my) (JJ own) (NNS GPS)) (SBAR (IN before) (S (NP (PRP I)) (VP (VBD set) (PRT (RP out)) (PP (IN in) (NP (NN case) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NNS GPS)) (PP (IN in) (NP (DT the) (JJ rental) (NN car)))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT Another) (NN Business) (NN Trip)) (PP (IN to) (NP (NNP San) (NNP Jose))))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP San) (NNP Jose))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Michael) (NNP Zhou))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP I))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NNP San) (NNP Jose))
+sid=2 spanning 10 until 16 headed by 15 parsed as (NP (DT a) (NML (CD three) (HYPH -) (NN day)) (NN business) (NN trip))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=4 spanning 0 until 1 headed by 0 parsed as My
+sid=6 spanning 1 until 5 headed by 2 parsed as (NP (NP (DT this) (NN trip)) (PP (IN to) (NP (NNP California))))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (NNP California))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP I))
+sid=6 spanning 13 until 18 headed by 15 parsed as (NP (PRP$ my) (NNP Cisco) (NNS colleagues) (CC and) (NNS friends))
+sid=6 spanning 13 until 14 headed by 13 parsed as my
+sid=6 spanning 14 until 15 headed by 14 parsed as Cisco
+sid=7 spanning 0 until 2 headed by 0 parsed as (NP (NP (PRP They)) (NP (DT all)))
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (NNP California))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=9 spanning 23 until 25 headed by 24 parsed as (NP (NNP San) (NNP Jose))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=10 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN company))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=11 spanning 6 until 7 headed by 6 parsed as my
+sid=11 spanning 10 until 11 headed by 10 parsed as (NP (PRP I))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT Another) (NN Business) (NN Trip)) (PP (IN to) (NP (NNP San) (NNP Jose))))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP San) (NNP Jose))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Michael) (NNP Zhou))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (JJ Next) (NN week))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP I))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NNP San) (NNP Jose))
+sid=2 spanning 10 until 16 headed by 15 parsed as (NP (DT a) (NML (CD three) (HYPH -) (NN day)) (NN business) (NN trip))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=3 spanning 2 until 7 headed by 3 parsed as (NP (DT no) (NN choice) (SBAR (IN but) (S (VP (TO to) (VP (VB go))))))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ My) (NN wife))
+sid=4 spanning 0 until 1 headed by 0 parsed as (PRP$ My)
+sid=4 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (JJ hard) (NN time))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=5 spanning 4 until 8 headed by 4 parsed as (NP (NP (NNS dumplings)) (CC and) (NP (VBN steamed) (NNS buns)))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (NNS dumplings))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (VBN steamed) (NNS buns))
+sid=5 spanning 9 until 19 headed by 9 parsed as (NP (NN weekend) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (NN food) (NN reserve))) (PP (IN for) (NP (JJ next) (NN week))))))))
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (NN food) (NN reserve))
+sid=5 spanning 17 until 19 headed by 18 parsed as (NP (JJ next) (NN week))
+sid=6 spanning 1 until 5 headed by 2 parsed as (NP (NP (DT this) (NN trip)) (PP (IN to) (NP (NNP California))))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (NNP California))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP I))
+sid=6 spanning 10 until 18 headed by 11 parsed as (NP (NP (DT a) (NN visit)) (PP (IN to) (NP (PRP$ my) (NNP Cisco) (NNS colleagues) (CC and) (NNS friends))))
+sid=6 spanning 13 until 18 headed by 15 parsed as (NP (PRP$ my) (NNP Cisco) (NNS colleagues) (CC and) (NNS friends))
+sid=6 spanning 13 until 14 headed by 13 parsed as (PRP$ my)
+sid=7 spanning 0 until 2 headed by 0 parsed as (NP (NP (PRP They)) (NP (DT all)))
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (NNP California))
+sid=7 spanning 6 until 10 headed by 6 parsed as (NP (NP (NN RTP)) (PP (IN for) (NP (JJ different) (NNS reasons))))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (JJ different) (NNS reasons))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=8 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (NN hotel) (NN reservation))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=9 spanning 9 until 13 headed by 12 parsed as (NP (DT an) (JJ upcoming) (JJ big) (NN conference))
+sid=9 spanning 17 until 25 headed by 21 parsed as (NP (NP (DT the) (NML (CD 10) (HYPH -) (NN mile)) (NN radius)) (PP (IN from) (NP (NNP San) (NNP Jose))))
+sid=9 spanning 23 until 25 headed by 24 parsed as (NP (NNP San) (NNP Jose))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=10 spanning 4 until 6 headed by 5 parsed as (NP (DT a) (NNP Sheraton))
+sid=10 spanning 7 until 8 headed by 7 parsed as Pleasant
+sid=10 spanning 9 until 14 headed by 10 parsed as (NP (NP (CD 25) (NNS miles)) (PP (IN from) (NP (DT the) (NN company))))
+sid=10 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN company))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=11 spanning 6 until 9 headed by 8 parsed as (NP (PRP$ my) (JJ own) (NNS GPS))
+sid=11 spanning 6 until 7 headed by 6 parsed as (PRP$ my)
+sid=11 spanning 10 until 11 headed by 10 parsed as (NP (PRP I))
+sid=11 spanning 14 until 23 headed by 14 parsed as (NP (NN case) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NNS GPS)) (PP (IN in) (NP (DT the) (JJ rental) (NN car))))))))
+sid=11 spanning 17 until 23 headed by 18 parsed as (NP (NP (DT no) (NNS GPS)) (PP (IN in) (NP (DT the) (JJ rental) (NN car))))
+sid=11 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (JJ rental) (NN car))
+(end predicted mentions)
+---------gold clusters--------
+15 9 | { 'California' 'California' }
+7 20 2 21 10 18 3 16 22 6 12 | { 'My' 'I' 'Michael Zhou' 'my' 'I' 'I' 'I' 'I' 'I' 'I' 'my' }
+17 4 1 | { 'San Jose' 'San Jose' 'San Jose' }
+13 19 | { 'Cisco' 'the company' }
+11 14 | { 'my Cisco colleagues and friends' 'They all' }
+5 0 8 | { 'a three - day business trip' 'Another Business Trip to San Jose' 'this trip to California' }
+(end gold clusters)

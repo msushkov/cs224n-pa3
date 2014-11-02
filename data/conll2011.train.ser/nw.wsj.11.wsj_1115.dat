@@ -1,0 +1,45 @@
+---------gloss--------
+(0) [3m[35m{USX Corp.}[0m said [3m[35m{it}[0m delayed [3m[34m{the proposed initial public offering of common stock of RMI Titanium Co.}[0m because of market conditions . 
+(1) [3m[33m{RMI Titanium}[0m is owned jointly by [3m[35m{USX}[0m and Quantum Chemical Corp . 
+(2) [3m[35m{USX , which had n't set a date for the offering ,}[0m did n't disclose any timetable for [3m[34m{the offering}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1115); part 000
+sentences:
+USXUSXNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0delayeddelayVBNOPER0thetheDTOPER0proposedproposeVBNOPER0initialinitialJJOPER0publicpublicJJOPER0offeringofferingNNOPER0ofofINOPER0commoncommonJJOPER0stockstockNNOPER0ofofINOPER0RMIRMINNPORGPER0TitaniumTitaniumNNPORGPER0Co.Co.NNPORGPER0becausebecauseINOPER0ofofINOPER0marketmarketNNOPER0conditionsconditionNNSOPER0...OPER0(ROOT (S (NP (NNP USX) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBN delayed) (NP (NP (DT the) (VBN proposed) (JJ initial) (JJ public) (NN offering)) (PP (IN of) (NP (JJ common) (NN stock))) (PP (IN of) (NP (NNP RMI) (NNP Titanium) (NNP Co.)))) (PP (IN because) (IN of) (NP (NN market) (NNS conditions))))))) (. .)))
+RMIRMINNPORGPER0TitaniumTitaniumNNPORGPER0isbeVBZOPER0ownedownVBNOPER0jointlyjointlyRBOPER0bybyINOPER0USXUSXNNPORGPER0andandCCOPER0QuantumQuantumNNPORGPER0ChemicalChemicalNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NNP RMI) (NNP Titanium)) (VP (VBZ is) (VP (VBN owned) (ADVP (RB jointly)) (PP (IN by) (NP (NP (NNP USX)) (CC and) (NP (NNP Quantum) (NNP Chemical) (NNP Corp)))))) (. .)))
+USXUSXNNPORGPER0,,,OPER0whichwhichWDTOPER0hadhaveVBDOPER0n'tnotRBOPER0setsetVBOPER0aaDTOPER0datedateNNOPER0forforINOPER0thetheDTOPER0offeringofferingNNOPER0,,,OPER0diddoVBDOPER0n'tnotRBOPER0disclosediscloseVBOPER0anyanyDTOPER0timetabletimetableNNOPER0forforINOPER0thetheDTOPER0offeringofferingNNOPER0...OPER0(ROOT (S (NP (NP (NNP USX)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (RB n't) (VP (VB set) (NP (NP (DT a) (NN date)) (PP (IN for) (NP (DT the) (NN offering)))))))) (, ,)) (VP (VBD did) (RB n't) (VP (VB disclose) (NP (NP (DT any) (NN timetable)) (PP (IN for) (NP (DT the) (NN offering)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP USX) (NNP Corp.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 5 until 17 headed by 9 parsed as (NP (NP (DT the) (VBN proposed) (JJ initial) (JJ public) (NN offering)) (PP (IN of) (NP (JJ common) (NN stock))) (PP (IN of) (NP (NNP RMI) (NNP Titanium) (NNP Co.))))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (NNP RMI) (NNP Titanium) (NNP Co.))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP RMI) (NNP Titanium))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP USX)) (CC and) (NP (NNP Quantum) (NNP Chemical) (NNP Corp)))
+sid=2 spanning 0 until 12 headed by 0 parsed as (NP (NP (NNP USX)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (RB n't) (VP (VB set) (NP (NP (DT a) (NN date)) (PP (IN for) (NP (DT the) (NN offering)))))))) (, ,))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN offering))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN offering))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP USX) (NNP Corp.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 5 until 17 headed by 9 parsed as (NP (NP (DT the) (VBN proposed) (JJ initial) (JJ public) (NN offering)) (PP (IN of) (NP (JJ common) (NN stock))) (PP (IN of) (NP (NNP RMI) (NNP Titanium) (NNP Co.))))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (NNP RMI) (NNP Titanium) (NNP Co.))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (NN market) (NNS conditions))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP RMI) (NNP Titanium))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP USX)) (CC and) (NP (NNP Quantum) (NNP Chemical) (NNP Corp)))
+sid=1 spanning 6 until 11 headed by 6 parsed as (NP (NP (NNP USX)) (CC and) (NP (NNP Quantum) (NNP Chemical) (NNP Corp)))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (NNP Quantum) (NNP Chemical) (NNP Corp))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP USX)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (RB n't) (VP (VB set) (NP (NP (DT a) (NN date)) (PP (IN for) (NP (DT the) (NN offering)))))))) (, ,))
+sid=2 spanning 0 until 12 headed by 0 parsed as (NP (NP (NNP USX)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (RB n't) (VP (VB set) (NP (NP (DT a) (NN date)) (PP (IN for) (NP (DT the) (NN offering)))))))) (, ,))
+sid=2 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT a) (NN date)) (PP (IN for) (NP (DT the) (NN offering))))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN offering))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN offering))
+(end predicted mentions)
+---------gold clusters--------
+4 3 | { 'RMI Titanium' 'RMI Titanium Co.' }
+8 2 7 | { 'the offering' 'the proposed initial public offering of common stock of RMI Titanium Co.' 'the offering' }
+1 0 6 5 | { 'it' 'USX Corp.' 'USX , which had n't set a date for the offering ,' 'USX' }
+(end gold clusters)

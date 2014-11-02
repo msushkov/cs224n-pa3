@@ -1,0 +1,166 @@
+---------gloss--------
+(0) [34m{We}[0m begin tonight with a big story out of [32m{Iraq}[0m . 
+(1) [34m{CNN}[0m has learned that the CIA has obtained [36m{critical pieces of nuclear technology}[0m in [32m{Iraq}[0m . 
+(2) [36m{The parts}[0m are essential to developing [1m[34m{a nuclear bomb program}[0m . 
+(3) [36m{They}[0m were hidden under a rosebush in the back yard of [4m[36m{an Iraqi scientist}[0m in Baghdad . 
+(4) [4m[36m{That Iraqi scientist}[0m [33m{hid}[0m [36m{the components}[0m 12 years ago . 
+(5) [4m[36m{He}[0m said [31m{Saddam Hussein 's}[0m son , Qusay , and [31m{his}[0m then son - in - law ordered [4m[36m{him}[0m to do [33m{it}[0m . 
+(6) [4m[36m{He}[0m tells [34m{CNN}[0m [4m[36m{he}[0m was told to keep [36m{the parts}[0m hidden so [36m{they}[0m would be ready when the time came to rebuild [32m{Iraq 's}[0m program . 
+(7) [36m{The parts}[0m are from a gas centrifuge and can be used for enriching uranium in bomb quality material . 
+(8) Looks like there may be some evidence that [1m[32m{Osama Bin Laden}[0m is alive and still plotting . 
+(9) [34m{CNN}[0m learned [1m[32m{the al Qaeda leader}[0m sent [35m{personal letters}[0m to [1m[35m{key operatives}[0m in February , ordering [1m[35m{them}[0m to attack [1m[33m{the United States}[0m and [1m[33m{its}[0m allies . 
+(10) Intelligence sources say [35m{the correspondence}[0m came from the border between Pakistan and Afghanistan , where [1m[32m{Osama bin Laden}[0m is believed to be hiding . 
+(11) Couriers delivered [35m{the letters}[0m to locations including Africa , Asia and the Middle East . 
+(12) A month later , [1m[31m{U.S. and Pakistani force}[0m has a lead on [1m[32m{Osama Bin Laden}[0m , but by the time [1m[31m{they}[0m moved in , [1m[32m{he}[0m had vanished again . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0244); part 000
+sentences:
+WewePRPOPER0beginbeginVBPOPER0tonighttonightNNOPER0withwithINOPER0aaDTOPER0bigbigJJOPER0storystoryNNOPER0outoutINOPER0ofofINOPER0IraqIraqNNPGPEPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP begin) (NP (NN tonight)) (PP (IN with) (NP (NP (DT a) (JJ big) (NN story)) (PP (IN out) (PP (IN of) (NP (NNP Iraq))))))) (. .)))
+CNNCNNNNPORGPER0hashaveVBZOPER0learnedlearnVBNOPER0thatthatINOPER0thetheDTOPER0CIACIANNPORGPER0hashaveVBZOPER0obtainedobtainVBNOPER0criticalcriticalJJOPER0piecespieceNNSOPER0ofofINOPER0nuclearnuclearJJOPER0technologytechnologyNNOPER0ininINOPER0IraqIraqNNPGPEPER0...OPER0(ROOT (S (NP (NNP CNN)) (VP (VBZ has) (VP (VBN learned) (SBAR (IN that) (S (NP (DT the) (NNP CIA)) (VP (VBZ has) (VP (VBN obtained) (NP (NP (JJ critical) (NNS pieces)) (PP (IN of) (NP (JJ nuclear) (NN technology)))) (PP (IN in) (NP (NNP Iraq))))))))) (. .)))
+ThetheDTOPER0partspartNNSOPER0arebeVBPOPER0essentialessentialJJOPER0totoINOPER0developingdevelopVBGOPER0aaDTOPER0nuclearnuclearJJOPER0bombbombNNOPER0programprogramNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS parts)) (VP (VBP are) (ADJP (JJ essential) (PP (IN to) (S (VP (VBG developing) (NP (DT a) (JJ nuclear) (NN bomb) (NN program))))))) (. .)))
+TheytheyPRPOPER0werebeVBDOPER0hiddenhideVBNOPER0underunderINOPER0aaDTOPER0rosebushrosebushNNOPER0ininINOPER0thetheDTOPER0backbackNNOPER0yardyardNNOPER0ofofINOPER0anaDTOPER0IraqiiraqiJJOPER0scientistscientistNNOPER0ininINOPER0BaghdadBaghdadNNPGPEPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBD were) (VP (VBN hidden) (PP (IN under) (NP (NP (DT a) (NN rosebush)) (PP (IN in) (NP (DT the) (NN back) (NN yard))) (PP (IN of) (NP (NP (DT an) (JJ Iraqi) (NN scientist)) (PP (IN in) (NP (NNP Baghdad))))))))) (. .)))
+ThatthatDTOPER0IraqiiraqiJJOPER0scientistscientistNNOPER0hidhideVBDOPER0thetheDTOPER0componentscomponentNNSOPER01212CDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (DT That) (JJ Iraqi) (NN scientist)) (VP (VBD hid) (NP (DT the) (NNS components)) (ADVP (NP (CD 12) (NNS years)) (RB ago))) (. .)))
+HehePRPOPER0saidsayVBDOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0's'sPOSPERSONPER0sonsonNNOPER0,,,OPER0QusayQusayNNPGPEPER0,,,OPER0andandCCOPER0hishePRP$OPER0thenthenRBOPER0sonsonNNOPER0--HYPHOPER0ininINOPER0--HYPHOPER0lawlawNNOPER0orderedorderVBDOPER0himhePRPOPER0totoTOOPER0dodoVBOPER0ititPRPOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NP (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (NN son)) (, ,) (NP (NNP Qusay))) (, ,) (CC and) (NP (NP (PRP$ his) (RB then) (NN son)) (HYPH -) (PP (IN in) (HYPH -) (NP (NN law))))) (VP (VBD ordered) (NP (PRP him)) (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))) (. .)))
+HehePRPOPER0tellstellVBZOPER0CNNCNNNNPORGPER0hehePRPOPER0wasbeVBDOPER0toldtellVBNOPER0totoTOOPER0keepkeepVBOPER0thetheDTOPER0partspartNNSOPER0hiddenhideVBNOPER0sosoINOPER0theytheyPRPOPER0wouldwouldMDOPER0bebeVBOPER0readyreadyJJOPER0whenwhenWRBOPER0thetheDTOPER0timetimeNNOPER0camecomeVBDOPER0totoTOOPER0rebuildrebuildVBOPER0IraqIraqNNPGPEPER0's'sPOSOPER0programprogramNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ tells) (NP (NNP CNN)) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (VBN told) (S (VP (TO to) (VP (VB keep) (S (NP (DT the) (NNS parts)) (VP (VBN hidden) (SBAR (IN so) (S (NP (PRP they)) (VP (MD would) (VP (VB be) (ADJP (JJ ready)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN time)) (VP (VBD came) (S (VP (TO to) (VP (VB rebuild) (NP (NP (NNP Iraq) (POS 's)) (NN program)))))))))))))))))))))) (. .)))
+ThetheDTOPER0partspartNNSOPER0arebeVBPOPER0fromfromINOPER0aaDTOPER0gasgasNNOPER0centrifugecentrifugeNNOPER0andandCCOPER0cancanMDOPER0bebeVBOPER0useduseVBNOPER0forforINOPER0enrichingenrichingNNOPER0uraniumuraniumNNOPER0ininINOPER0bombbombNNOPER0qualityqualityNNOPER0materialmaterialNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS parts)) (VP (VP (VBP are) (PP (IN from) (NP (DT a) (NN gas) (NN centrifuge)))) (CC and) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NN enriching) (NN uranium))) (PP (IN in) (NP (NN bomb) (NN quality) (NN material))))))) (. .)))
+LookslookVBZOPER0likelikeINOPER0therethereEXOPER0maymayMDOPER0bebeVBOPER0somesomeDTOPER0evidenceevidenceNNOPER0thatthatINOPER0OsamaOsamaNNPPERSONPER0BinBinNNPPERSONPER0LadenLadenNNPPERSONPER0isbeVBZOPER0alivealiveJJOPER0andandCCOPER0stillstillRBOPER0plottingplotVBGOPER0...OPER0(ROOT (S (VP (VBZ Looks) (SBAR (IN like) (S (NP (EX there)) (VP (MD may) (VP (VB be) (NP (DT some) (NN evidence) (SBAR (IN that) (S (NP (NNP Osama) (NNP Bin) (NNP Laden)) (VP (VBZ is) (ADJP (JJ alive) (CC and) (RB still) (VBG plotting))))))))))) (. .)))
+CNNCNNNNPORGPER0learnedlearnVBDOPER0thetheDTOPER0alalNNPORGPER0QaedaQaedaNNPORGPER0leaderleaderNNOPER0sentsendVBDOPER0personalpersonalJJOPER0lettersletterNNSOPER0totoINOPER0keykeyJJOPER0operativesoperativeNNSOPER0ininINOPER0FebruaryFebruaryNNPDATEPER0,,,OPER0orderingorderVBGOPER0themtheyPRPOPER0totoTOOPER0attackattackVBOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0andandCCOPER0itsitsPRP$OPER0alliesallyNNSOPER0...OPER0(ROOT (S (NP (NNP CNN)) (VP (VBD learned) (SBAR (S (NP (DT the) (NML (NNP al) (NNP Qaeda)) (NN leader)) (VP (VBD sent) (NP (JJ personal) (NNS letters)) (PP (IN to) (NP (NP (JJ key) (NNS operatives)) (PP (IN in) (NP (NNP February))))) (, ,) (S (VP (VBG ordering) (NP (PRP them)) (S (VP (TO to) (VP (VB attack) (NP (NP (DT the) (NNP United) (NNP States)) (CC and) (NP (PRP$ its) (NNS allies)))))))))))) (. .)))
+IntelligenceintelligenceNNORGPER0sourcessourceNNSOPER0saysayVBPOPER0thetheDTOPER0correspondencecorrespondenceNNOPER0camecomeVBDOPER0fromfromINOPER0thetheDTOPER0borderborderNNOPER0betweenbetweenINOPER0PakistanPakistanNNPGPEPER0andandCCOPER0AfghanistanAfghanistanNNPGPEPER0,,,OPER0wherewhereWRBOPER0OsamaOsamaNNPPERSONPER0binbinNNPPERSONPER0LadenLadenNNPPERSONPER0isbeVBZOPER0believedbelieveVBNOPER0totoTOOPER0bebeVBOPER0hidinghideVBGOPER0...OPER0(ROOT (S (NP (NN Intelligence) (NNS sources)) (VP (VBP say) (SBAR (S (NP (DT the) (NN correspondence)) (VP (VBD came) (PP (IN from) (NP (NP (DT the) (NN border)) (PP (IN between) (NP (NP (NNP Pakistan)) (CC and) (NP (NP (NNP Afghanistan)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Osama) (NNP bin) (NNP Laden)) (VP (VBZ is) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (VP (VBG hiding)))))))))))))))))) (. .)))
+CourierscourierNNSPERSONPER0delivereddeliverVBDOPER0thetheDTOPER0lettersletterNNSOPER0totoINOPER0locationslocationNNSOPER0includingincludeVBGOPER0AfricaAfricaNNPLOCPER0,,,OPER0AsiaAsiaNNPLOCPER0andandCCOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0...OPER0(ROOT (S (NP (NNS Couriers)) (VP (VBD delivered) (NP (DT the) (NNS letters)) (PP (IN to) (NP (NP (NNS locations)) (PP (VBG including) (NP (NP (NNP Africa)) (, ,) (NP (NNP Asia)) (CC and) (NP (DT the) (NNP Middle) (NNP East))))))) (. .)))
+AaDTDATEPER0monthmonthNNDATEPER0laterlaterRBDATEPER0,,,OPER0U.S.U.S.NNPGPEPER0andandCCOPER0PakistanipakistaniJJOPER0forceforceNNOPER0hashaveVBZOPER0aaDTOPER0leadleadNNOPER0ononINOPER0OsamaOsamaNNPPERSONPER0BinBinNNPPERSONPER0LadenLadenNNPPERSONPER0,,,OPER0butbutCCOPER0bybyINOPER0thetheDTOPER0timetimeNNOPER0theytheyPRPOPER0movedmoveVBDOPER0ininRBOPER0,,,OPER0hehePRPOPER0hadhaveVBDOPER0vanishedvanishVBNOPER0againagainRBOPER0...OPER0(ROOT (S (S (ADVP (NP (DT A) (NN month)) (RB later)) (, ,) (NP (NP (NNP U.S.) (CC and) (JJ Pakistani)) (NN force)) (VP (VBZ has) (NP (NP (DT a) (NN lead)) (PP (IN on) (NP (NNP Osama) (NNP Bin) (NNP Laden)))))) (, ,) (CC but) (S (PP (IN by) (NP (NP (DT the) (NN time)) (SBAR (S (NP (PRP they)) (VP (VBD moved) (ADVP (RB in))))))) (, ,) (NP (PRP he)) (VP (VBD had) (VP (VBN vanished) (ADVP (RB again))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Iraq))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP CNN))
+sid=1 spanning 8 until 13 headed by 9 parsed as (NP (NP (JJ critical) (NNS pieces)) (PP (IN of) (NP (JJ nuclear) (NN technology))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Iraq))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS parts))
+sid=2 spanning 6 until 10 headed by 9 parsed as (NP (DT a) (JJ nuclear) (NN bomb) (NN program))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (NP (DT an) (JJ Iraqi) (NN scientist)) (PP (IN in) (NP (NNP Baghdad))))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT That) (JJ Iraqi) (NN scientist))
+sid=4 spanning 3 until 4 headed by 3 parsed as hid
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNS components))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 2 until 5 headed by 3 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+sid=5 spanning 10 until 11 headed by 10 parsed as his
+sid=5 spanning 18 until 19 headed by 18 parsed as (NP (PRP him))
+sid=5 spanning 21 until 22 headed by 21 parsed as (NP (PRP it))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (NNP CNN))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS parts))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=6 spanning 22 until 25 headed by 24 parsed as (NP (NP (NNP Iraq) (POS 's)) (NN program))
+sid=6 spanning 22 until 24 headed by 22 parsed as (NP (NNP Iraq) (POS 's))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS parts))
+sid=8 spanning 8 until 11 headed by 10 parsed as (NP (NNP Osama) (NNP Bin) (NNP Laden))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNP CNN))
+sid=9 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (NML (NNP al) (NNP Qaeda)) (NN leader))
+sid=9 spanning 7 until 9 headed by 8 parsed as (NP (JJ personal) (NNS letters))
+sid=9 spanning 10 until 12 headed by 11 parsed as (NP (NP (JJ key) (NNS operatives)) (PP (IN in) (NP (NNP February))))
+sid=9 spanning 16 until 17 headed by 16 parsed as (NP (PRP them))
+sid=9 spanning 19 until 22 headed by 21 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (CC and) (NP (PRP$ its) (NNS allies)))
+sid=9 spanning 23 until 24 headed by 23 parsed as its
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN correspondence))
+sid=10 spanning 15 until 18 headed by 17 parsed as (NP (NNP Osama) (NNP bin) (NNP Laden))
+sid=11 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS letters))
+sid=12 spanning 4 until 8 headed by 7 parsed as (NP (NP (NNP U.S.) (CC and) (JJ Pakistani)) (NN force))
+sid=12 spanning 12 until 15 headed by 14 parsed as (NP (NNP Osama) (NNP Bin) (NNP Laden))
+sid=12 spanning 20 until 21 headed by 20 parsed as (NP (PRP they))
+sid=12 spanning 24 until 25 headed by 24 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=0 spanning 4 until 10 headed by 6 parsed as (NP (NP (DT a) (JJ big) (NN story)) (PP (IN out) (PP (IN of) (NP (NNP Iraq)))))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Iraq))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP CNN))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNP CIA))
+sid=1 spanning 8 until 13 headed by 9 parsed as (NP (NP (JJ critical) (NNS pieces)) (PP (IN of) (NP (JJ nuclear) (NN technology))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Iraq))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS parts))
+sid=2 spanning 6 until 10 headed by 9 parsed as (NP (DT a) (JJ nuclear) (NN bomb) (NN program))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=3 spanning 4 until 16 headed by 5 parsed as (NP (NP (DT a) (NN rosebush)) (PP (IN in) (NP (DT the) (NN back) (NN yard))) (PP (IN of) (NP (NP (DT an) (JJ Iraqi) (NN scientist)) (PP (IN in) (NP (NNP Baghdad))))))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NN back) (NN yard))
+sid=3 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT an) (JJ Iraqi) (NN scientist)) (PP (IN in) (NP (NNP Baghdad))))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (NNP Baghdad))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT That) (JJ Iraqi) (NN scientist))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNS components))
+sid=4 spanning 6 until 9 headed by 8 parsed as ago
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 2 until 17 headed by 5 parsed as (NP (NP (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (NN son)) (, ,) (NP (NNP Qusay))) (, ,) (CC and) (NP (NP (PRP$ his) (RB then) (NN son)) (HYPH -) (PP (IN in) (HYPH -) (NP (NN law)))))
+sid=5 spanning 2 until 8 headed by 5 parsed as (NP (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (NN son)) (, ,) (NP (NNP Qusay)))
+sid=5 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP Saddam) (NNP Hussein) (POS 's)) (NN son))
+sid=5 spanning 2 until 5 headed by 3 parsed as (NP (NNP Saddam) (NNP Hussein) (POS 's))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (NNP Qusay))
+sid=5 spanning 10 until 17 headed by 12 parsed as (NP (NP (PRP$ his) (RB then) (NN son)) (HYPH -) (PP (IN in) (HYPH -) (NP (NN law))))
+sid=5 spanning 10 until 11 headed by 10 parsed as (PRP$ his)
+sid=5 spanning 18 until 19 headed by 18 parsed as (NP (PRP him))
+sid=5 spanning 21 until 22 headed by 21 parsed as (NP (PRP it))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (NNP CNN))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS parts))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=6 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN time))
+sid=6 spanning 22 until 25 headed by 24 parsed as (NP (NP (NNP Iraq) (POS 's)) (NN program))
+sid=6 spanning 22 until 24 headed by 22 parsed as (NP (NNP Iraq) (POS 's))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS parts))
+sid=7 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NN gas) (NN centrifuge))
+sid=7 spanning 12 until 14 headed by 13 parsed as (NP (NN enriching) (NN uranium))
+sid=7 spanning 15 until 18 headed by 17 parsed as (NP (NN bomb) (NN quality) (NN material))
+sid=8 spanning 5 until 16 headed by 6 parsed as (NP (DT some) (NN evidence) (SBAR (IN that) (S (NP (NNP Osama) (NNP Bin) (NNP Laden)) (VP (VBZ is) (ADJP (JJ alive) (CC and) (RB still) (VBG plotting))))))
+sid=8 spanning 8 until 11 headed by 10 parsed as (NP (NNP Osama) (NNP Bin) (NNP Laden))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNP CNN))
+sid=9 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (NML (NNP al) (NNP Qaeda)) (NN leader))
+sid=9 spanning 3 until 5 headed by 4 parsed as Qaeda
+sid=9 spanning 7 until 9 headed by 8 parsed as (NP (JJ personal) (NNS letters))
+sid=9 spanning 10 until 14 headed by 11 parsed as (NP (NP (JJ key) (NNS operatives)) (PP (IN in) (NP (NNP February))))
+sid=9 spanning 13 until 14 headed by 13 parsed as (NP (NNP February))
+sid=9 spanning 16 until 17 headed by 16 parsed as (NP (PRP them))
+sid=9 spanning 19 until 22 headed by 21 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (CC and) (NP (PRP$ its) (NNS allies)))
+sid=9 spanning 19 until 25 headed by 21 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (CC and) (NP (PRP$ its) (NNS allies)))
+sid=9 spanning 23 until 25 headed by 24 parsed as (NP (PRP$ its) (NNS allies))
+sid=9 spanning 23 until 24 headed by 23 parsed as (PRP$ its)
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NN Intelligence) (NNS sources))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN correspondence))
+sid=10 spanning 7 until 23 headed by 8 parsed as (NP (NP (DT the) (NN border)) (PP (IN between) (NP (NP (NNP Pakistan)) (CC and) (NP (NP (NNP Afghanistan)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Osama) (NNP bin) (NNP Laden)) (VP (VBZ is) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (VP (VBG hiding)))))))))))))
+sid=10 spanning 10 until 11 headed by 10 parsed as (NP (NP (NNP Pakistan)) (CC and) (NP (NP (NNP Afghanistan)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Osama) (NNP bin) (NNP Laden)) (VP (VBZ is) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (VP (VBG hiding)))))))))))
+sid=10 spanning 10 until 23 headed by 10 parsed as (NP (NP (NNP Pakistan)) (CC and) (NP (NP (NNP Afghanistan)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Osama) (NNP bin) (NNP Laden)) (VP (VBZ is) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (VP (VBG hiding)))))))))))
+sid=10 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP Afghanistan)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Osama) (NNP bin) (NNP Laden)) (VP (VBZ is) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (VP (VBG hiding))))))))))
+sid=10 spanning 12 until 23 headed by 12 parsed as (NP (NP (NNP Afghanistan)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Osama) (NNP bin) (NNP Laden)) (VP (VBZ is) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (VP (VBG hiding))))))))))
+sid=10 spanning 15 until 18 headed by 17 parsed as (NP (NNP Osama) (NNP bin) (NNP Laden))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (NNS Couriers))
+sid=11 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS letters))
+sid=11 spanning 5 until 14 headed by 5 parsed as (NP (NP (NNS locations)) (PP (VBG including) (NP (NP (NNP Africa)) (, ,) (NP (NNP Asia)) (CC and) (NP (DT the) (NNP Middle) (NNP East)))))
+sid=11 spanning 7 until 8 headed by 7 parsed as (NP (NP (NNP Africa)) (, ,) (NP (NNP Asia)) (CC and) (NP (DT the) (NNP Middle) (NNP East)))
+sid=11 spanning 7 until 14 headed by 7 parsed as (NP (NP (NNP Africa)) (, ,) (NP (NNP Asia)) (CC and) (NP (DT the) (NNP Middle) (NNP East)))
+sid=11 spanning 9 until 10 headed by 9 parsed as (NP (NNP Asia))
+sid=11 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=12 spanning 0 until 3 headed by 2 parsed as later
+sid=12 spanning 4 until 8 headed by 7 parsed as (NP (NP (NNP U.S.) (CC and) (JJ Pakistani)) (NN force))
+sid=12 spanning 4 until 7 headed by 4 parsed as (NP (NNP U.S.) (CC and) (JJ Pakistani))
+sid=12 spanning 9 until 15 headed by 10 parsed as (NP (NP (DT a) (NN lead)) (PP (IN on) (NP (NNP Osama) (NNP Bin) (NNP Laden))))
+sid=12 spanning 12 until 15 headed by 14 parsed as (NP (NNP Osama) (NNP Bin) (NNP Laden))
+sid=12 spanning 18 until 23 headed by 19 parsed as (NP (NP (DT the) (NN time)) (SBAR (S (NP (PRP they)) (VP (VBD moved) (ADVP (RB in))))))
+sid=12 spanning 20 until 21 headed by 20 parsed as (NP (PRP they))
+sid=12 spanning 24 until 25 headed by 24 parsed as (NP (PRP he))
+(end predicted mentions)
+---------gold clusters--------
+9 17 12 8 15 19 | { 'That Iraqi scientist' 'He' 'He' 'an Iraqi scientist' 'him' 'he' }
+13 14 | { 'Saddam Hussein 's' 'his' }
+23 4 1 | { 'Iraq 's' 'Iraq' 'Iraq' }
+16 10 | { 'it' 'hid' }
+2 26 18 0 | { 'CNN' 'CNN' 'CNN' 'We' }
+35 28 33 | { 'the letters' 'personal letters' 'the correspondence' }
+20 24 11 7 21 5 3 | { 'the parts' 'The parts' 'the components' 'They' 'they' 'The parts' 'critical pieces of nuclear technology' }
+38 36 | { 'they' 'U.S. and Pakistani force' }
+25 37 34 39 27 | { 'Osama Bin Laden' 'Osama Bin Laden' 'Osama bin Laden' 'he' 'the al Qaeda leader' }
+31 32 | { 'the United States' 'its' }
+6 22 | { 'a nuclear bomb program' 'Iraq 's program' }
+29 30 | { 'key operatives' 'them' }
+(end gold clusters)

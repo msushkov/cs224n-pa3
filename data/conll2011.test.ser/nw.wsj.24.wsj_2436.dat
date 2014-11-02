@@ -1,0 +1,165 @@
+---------gloss--------
+(0) [1m[36m{Roger Rosenblatt , editor of U.S. News & World Report ,}[0m [3m[31m{resigned}[0m Friday from [1m[34m{the weekly news magazine}[0m . 
+(1) [1m[36m{Mr. Rosenblatt}[0m said [1m[36m{he}[0m [3m[31m{resigned}[0m because of difficulties with commuting between [1m[36m{his}[0m home in New York and the [1m[34m{magazine}[0m 's editorial offices in [1m[35m{Washington}[0m . 
+(2) `` Frankly , [1m[36m{I}[0m missed [1m[36m{my}[0m family , '' said [1m[36m{Mr. Rosenblatt}[0m . 
+(3) In [1m[36m{Mr. Rosenblatt 's}[0m tenure , the [1m[34m{magazine}[0m 's advertising pages and circulation have grown significantly . 
+(4) But at 2.3 million weekly paid circulation , [1m[34m{U.S. News}[0m still ranks third behind [36m{Time Warner Inc. 's Time magazine , with 4.4 million circulation}[0m , and [1m[35m{Washington}[0m Post Co. 's Newsweek , with 3.3 million circulation . 
+(5) [35m{Mortimer B. Zuckerman , chairman and editor in chief ,}[0m said [1m[36m{Mr. Rosenblatt}[0m would be succeeded starting today by [3m[32m{Michael Ruby , the magazine 's executive editor , and Merrill McLoughlin , a senior writer}[0m . 
+(6) [3m[32m{Mr. Ruby and Ms. McLoughlin}[0m are married to [3m[32m{each other}[0m . 
+(7) [35m{Mr. Zuckerman}[0m said [35m{his}[0m magazine would maintain [1m[34m{its}[0m editorial format , which is a mix of analysis and trend stories with service - oriented , how - to articles . 
+(8) [1m[36m{Mr. Rosenblatt , a senior writer at Time magazine before joining U.S. News & World Report ,}[0m said [1m[36m{he}[0m had [1m[31m{numerous job offers from other magazines}[0m while [1m[36m{he}[0m was editor . 
+(9) [1m[31m{The offers}[0m were to work as a writer , not an editor . 
+(10) [1m[36m{He}[0m said [1m[36m{he}[0m will now consider [1m[31m{those offers}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2436); part 000
+sentences:
+RogerRogerNNPPERSONPER0RosenblattRosenblattNNPPERSONPER0,,,OPER0editoreditorNNOPER0ofofINOPER0U.S.U.S.NNPORGPER0NewsNewsNNPORGPER0&&CCORGPER0WorldWorldNNPORGPER0ReportReportNNPORGPER0,,,OPER0resignedresignVBDOPER0FridayFridayNNPDATEPER0fromfromINOPER0thetheDTOPER0weeklyweeklyJJOPER0newsnewsNNOPER0magazinemagazineNNOPER0...OPER0(ROOT (S (NP (NP (NNP Roger) (NNP Rosenblatt)) (, ,) (NP (NP (NN editor)) (PP (IN of) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report))))) (, ,)) (VP (VBD resigned) (NP (NNP Friday)) (PP (IN from) (NP (DT the) (JJ weekly) (NN news) (NN magazine)))) (. .)))
+Mr.Mr.NNPOPER0RosenblattRosenblattNNPPERSONPER0saidsayVBDOPER0hehePRPOPER0resignedresignVBDOPER0becausebecauseINOPER0ofofINOPER0difficultiesdifficultyNNSOPER0withwithINOPER0commutingcommutingNNOPER0betweenbetweenINOPER0hishePRP$OPER0homehomeNNOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0andandCCOPER0thetheDTOPER0magazinemagazineNNOPER0's'sPOSOPER0editorialeditorialNNOPER0officesofficeNNSOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Rosenblatt)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD resigned) (PP (IN because) (IN of) (NP (NP (NNS difficulties)) (PP (IN with) (NP (NN commuting))))) (PP (IN between) (NP (NP (NP (PRP$ his) (NN home)) (PP (IN in) (NP (NNP New) (NNP York)))) (CC and) (NP (NP (NP (DT the) (NN magazine) (POS 's)) (NN editorial) (NNS offices)) (PP (IN in) (NP (NNP Washington)))))))))) (. .)))
+``````OFranklyfranklyRBOPER1,,,OPER1IIPRPOPER1missedmissVBDOPER1mymyPRP$OPER1familyfamilyNNOPER1,,,OPER1''''''OPER0saidsayVBDOPER0Mr.Mr.NNPOPER0RosenblattRosenblattNNPPERSONPER0...OPER0(ROOT (SINV (`` ``) (S (ADVP (RB Frankly)) (, ,) (NP (PRP I)) (VP (VBD missed) (NP (PRP$ my) (NN family)))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Mr.) (NNP Rosenblatt)) (. .)))
+IninINOPER0Mr.Mr.NNPOPER0RosenblattRosenblattNNPPERSONPER0's'sPOSOPER0tenuretenureNNOPER0,,,OPER0thetheDTOPER0magazinemagazineNNOPER0's'sPOSOPER0advertisingadvertiseVBGOPER0pagespageNNSOPER0andandCCOPER0circulationcirculationNNOPER0havehaveVBPOPER0growngrowVBNOPER0significantlysignificantlyRBOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NNP Mr.) (NNP Rosenblatt) (POS 's)) (NN tenure))) (, ,) (NP (NP (NP (DT the) (NN magazine) (POS 's)) (VBG advertising) (NNS pages)) (CC and) (NP (NN circulation))) (VP (VBP have) (VP (VBN grown) (ADVP (RB significantly)))) (. .)))
+ButbutCCOPER0atatINOPER02.32.3CDCARDINALPER0millionmillionCDCARDINALPER0weeklyweeklyJJDATEPER0paidpayVBNOPER0circulationcirculationNNOPER0,,,OPER0U.S.U.S.NNPORGPER0NewsNewsNNPORGPER0stillstillRBOPER0ranksrankVBZOPER0thirdthirdRBORDINALPER0behindbehindINOPER0TimeTimeNNPORGPER0WarnerWarnerNNPORGPER0Inc.Inc.NNPORGPER0's'sPOSORGPER0TimeTimeNNPORGPER0magazinemagazineNNORGPER0,,,OPER0withwithINOPER04.44.4CDCARDINALPER0millionmillionCDCARDINALPER0circulationcirculationNNOPER0,,,OPER0andandCCOPER0WashingtonWashingtonNNPORGPER0PostPostNNPORGPER0Co.Co.NNPORGPER0's'sPOSORGPER0NewsweekNewsweekNNPORGPER0,,,OPER0withwithINOPER03.33.3CDCARDINALPER0millionmillionCDCARDINALPER0circulationcirculationNNOPER0...OPER0(ROOT (S (CC But) (PP (IN at) (NP (QP (CD 2.3) (CD million)) (JJ weekly) (VBN paid) (NN circulation))) (, ,) (NP (NNP U.S.) (NNP News)) (ADVP (RB still)) (VP (VBZ ranks) (ADVP (RB third)) (PP (IN behind) (NP (NP (NNP Time) (NNP Warner) (NNP Inc.) (POS 's)) (NNP Time) (NN magazine))) (, ,) (PP (IN with) (NP (NP (QP (CD 4.4) (CD million)) (NN circulation)) (, ,) (CC and) (NP (NP (NML (NNP Washington) (NNP Post)) (NNP Co.) (POS 's)) (NNP Newsweek)))) (, ,) (PP (IN with) (NP (QP (CD 3.3) (CD million)) (NN circulation)))) (. .)))
+MortimerMortimerNNPPERSONPER0B.B.NNPPERSONPER0ZuckermanZuckermanNNPPERSONPER0,,,OPER0chairmanchairmanNNOPER0andandCCOPER0editoreditorNNOPER0ininINOPER0chiefchiefNNOPER0,,,OPER0saidsayVBDOPER0Mr.Mr.NNPOPER0RosenblattRosenblattNNPPERSONPER0wouldwouldMDOPER0bebeVBOPER0succeededsucceedVBNOPER0startingstartVBGOPER0todaytodayNNDATEPER0bybyINOPER0MichaelMichaelNNPPERSONPER0RubyRubyNNPPERSONPER0,,,OPER0thetheDTOPER0magazinemagazineNNOPER0's'sPOSOPER0executiveexecutiveJJOPER0editoreditorNNOPER0,,,OPER0andandCCOPER0MerrillMerrillNNPPERSONPER0McLoughlinMcLoughlinNNPPERSONPER0,,,OPER0aaDTOPER0seniorseniorJJOPER0writerwriterNNOPER0...OPER0(ROOT (S (NP (NP (NNP Mortimer) (NNP B.) (NNP Zuckerman)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (NP (NN editor)) (PP (IN in) (NP (NN chief))))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP Mr.) (NNP Rosenblatt)) (VP (MD would) (VP (VB be) (VP (VBN succeeded) (PP (VBG starting) (NP (NN today))) (PP (IN by) (NP (NP (NP (NNP Michael) (NNP Ruby)) (, ,) (NP (NP (DT the) (NN magazine) (POS 's)) (JJ executive) (NN editor)) (, ,)) (CC and) (NP (NP (NNP Merrill) (NNP McLoughlin)) (, ,) (NP (DT a) (JJ senior) (NN writer))))))))))) (. .)))
+Mr.Mr.NNPOPER0RubyRubyNNPPERSONPER0andandCCOPER0Ms.Ms.NNPOPER0McLoughlinMcLoughlinNNPPERSONPER0arebeVBPOPER0marriedmarriedJJOPER0totoINOPER0eacheachDTOPER0otherotherJJOPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Ruby)) (CC and) (NP (NNP Ms.) (NNP McLoughlin))) (VP (VBP are) (ADJP (JJ married) (PP (IN to) (NP (DT each) (JJ other))))) (. .)))
+Mr.Mr.NNPOPER0ZuckermanZuckermanNNPPERSONPER0saidsayVBDOPER0hishePRP$OPER0magazinemagazineNNOPER0wouldwouldMDOPER0maintainmaintainVBOPER0itsitsPRP$OPER0editorialeditorialJJOPER0formatformatNNOPER0,,,OPER0whichwhichWDTOPER0isbeVBZOPER0aaDTOPER0mixmixNNOPER0ofofINOPER0analysisanalysisNNOPER0andandCCOPER0trendtrendNNOPER0storiesstoryNNSOPER0withwithINOPER0serviceserviceNNOPER0--HYPHOPER0orientedorientVBNOPER0,,,OPER0howhowWRBOPER0--:OPER0totoINOPER0articlesarticleNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Zuckerman)) (VP (VBD said) (SBAR (S (NP (PRP$ his) (NN magazine)) (VP (MD would) (VP (VB maintain) (NP (NP (PRP$ its) (JJ editorial) (NN format)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (NN mix)) (PP (IN of) (NP (NML (NN analysis) (CC and) (NN trend)) (NNS stories)))) (PP (IN with) (ADJP (NN service) (HYPH -) (VBN oriented))) (, ,) (SBAR (WHADVP (WRB how))))))) (: -) (PP (IN to) (NP (NNS articles)))))))) (. .)))
+Mr.Mr.NNPOPER0RosenblattRosenblattNNPPERSONPER0,,,OPER0aaDTOPER0seniorseniorJJOPER0writerwriterNNOPER0atatINOPER0TimeTimeNNPORGPER0magazinemagazineNNORGPER0beforebeforeINOPER0joiningjoinVBGOPER0U.S.U.S.NNPORGPER0NewsNewsNNPORGPER0&&CCORGPER0WorldWorldNNPORGPER0ReportReportNNPORGPER0,,,OPER0saidsayVBDOPER0hehePRPOPER0hadhaveVBDOPER0numerousnumerousJJOPER0jobjobNNOPER0offersofferNNSOPER0fromfromINOPER0otherotherJJOPER0magazinesmagazineNNSOPER0whilewhileINOPER0hehePRPOPER0wasbeVBDOPER0editoreditorNNOPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Rosenblatt)) (, ,) (NP (NP (DT a) (JJ senior) (NN writer)) (PP (IN at) (NP (NNP Time) (NN magazine))) (PP (IN before) (S (VP (VBG joining) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD had) (NP (NP (JJ numerous) (NN job) (NNS offers)) (PP (IN from) (NP (JJ other) (NNS magazines)))) (SBAR (IN while) (S (NP (PRP he)) (VP (VBD was) (NP (NN editor))))))))) (. .)))
+ThetheDTOPER0offersofferNNSOPER0werebeVBDOPER0totoTOOPER0workworkVBOPER0asasINOPER0aaDTOPER0writerwriterNNOPER0,,,OPER0notnotRBOPER0anaDTOPER0editoreditorNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS offers)) (VP (VBD were) (S (VP (TO to) (VP (VB work) (PP (IN as) (NP (NP (DT a) (NN writer)) (, ,) (RB not) (NP (DT an) (NN editor)))))))) (. .)))
+HehePRPOPER0saidsayVBDOPER0hehePRPOPER0willwillMDOPER0nownowRBOPER0considerconsiderVBOPER0thosethoseDTOPER0offersofferNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD will) (ADVP (RB now)) (VP (VB consider) (NP (DT those) (NNS offers))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 11 headed by 1 parsed as (NP (NP (NNP Roger) (NNP Rosenblatt)) (, ,) (NP (NP (NN editor)) (PP (IN of) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report))))) (, ,))
+sid=0 spanning 5 until 10 headed by 6 parsed as (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report)))
+sid=0 spanning 11 until 12 headed by 11 parsed as resigned
+sid=0 spanning 14 until 18 headed by 17 parsed as (NP (DT the) (JJ weekly) (NN news) (NN magazine))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Rosenblatt))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=1 spanning 4 until 5 headed by 4 parsed as resigned
+sid=1 spanning 11 until 12 headed by 11 parsed as his
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (DT the) (NN magazine) (POS 's))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (NNP Washington))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP I))
+sid=2 spanning 5 until 6 headed by 5 parsed as my
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (NNP Mr.) (NNP Rosenblatt))
+sid=3 spanning 1 until 4 headed by 2 parsed as (NP (NNP Mr.) (NNP Rosenblatt) (POS 's))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (DT the) (NN magazine) (POS 's))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (NNP U.S.) (NNP News))
+sid=4 spanning 14 until 25 headed by 19 parsed as (NP (NP (NNP Time) (NNP Warner) (NNP Inc.) (POS 's)) (NNP Time) (NN magazine))
+sid=4 spanning 27 until 28 headed by 27 parsed as Washington
+sid=5 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Mortimer) (NNP B.) (NNP Zuckerman)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (NP (NN editor)) (PP (IN in) (NP (NN chief))))) (, ,))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (NNP Mr.) (NNP Rosenblatt))
+sid=5 spanning 19 until 28 headed by 20 parsed as (NP (NP (NP (NNP Michael) (NNP Ruby)) (, ,) (NP (NP (DT the) (NN magazine) (POS 's)) (JJ executive) (NN editor)) (, ,)) (CC and) (NP (NP (NNP Merrill) (NNP McLoughlin)) (, ,) (NP (DT a) (JJ senior) (NN writer))))
+sid=5 spanning 19 until 35 headed by 20 parsed as (NP (NP (NP (NNP Michael) (NNP Ruby)) (, ,) (NP (NP (DT the) (NN magazine) (POS 's)) (JJ executive) (NN editor)) (, ,)) (CC and) (NP (NP (NNP Merrill) (NNP McLoughlin)) (, ,) (NP (DT a) (JJ senior) (NN writer))))
+sid=5 spanning 23 until 24 headed by 23 parsed as (NP (DT the) (NN magazine) (POS 's))
+sid=5 spanning 29 until 35 headed by 30 parsed as (NP (NP (NNP Merrill) (NNP McLoughlin)) (, ,) (NP (DT a) (JJ senior) (NN writer)))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Ruby)) (CC and) (NP (NNP Ms.) (NNP McLoughlin)))
+sid=6 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Ruby)) (CC and) (NP (NNP Ms.) (NNP McLoughlin)))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (NNP Ms.) (NNP McLoughlin))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT each) (JJ other))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Zuckerman))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN magazine))
+sid=7 spanning 3 until 4 headed by 3 parsed as his
+sid=7 spanning 7 until 8 headed by 7 parsed as its
+sid=8 spanning 0 until 17 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Rosenblatt)) (, ,) (NP (NP (DT a) (JJ senior) (NN writer)) (PP (IN at) (NP (NNP Time) (NN magazine))) (PP (IN before) (S (VP (VBG joining) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report))))))) (, ,))
+sid=8 spanning 7 until 9 headed by 8 parsed as (NP (NNP Time) (NN magazine))
+sid=8 spanning 11 until 16 headed by 12 parsed as (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report)))
+sid=8 spanning 18 until 19 headed by 18 parsed as (NP (PRP he))
+sid=8 spanning 20 until 26 headed by 22 parsed as (NP (NP (JJ numerous) (NN job) (NNS offers)) (PP (IN from) (NP (JJ other) (NNS magazines))))
+sid=8 spanning 27 until 28 headed by 27 parsed as (NP (PRP he))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS offers))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=10 spanning 6 until 8 headed by 7 parsed as (NP (DT those) (NNS offers))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Roger) (NNP Rosenblatt)) (, ,) (NP (NP (NN editor)) (PP (IN of) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report))))) (, ,))
+sid=0 spanning 0 until 11 headed by 1 parsed as (NP (NP (NNP Roger) (NNP Rosenblatt)) (, ,) (NP (NP (NN editor)) (PP (IN of) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report))))) (, ,))
+sid=0 spanning 3 until 10 headed by 3 parsed as (NP (NP (NN editor)) (PP (IN of) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report)))))
+sid=0 spanning 5 until 10 headed by 6 parsed as (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report)))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Friday))
+sid=0 spanning 14 until 18 headed by 17 parsed as (NP (DT the) (JJ weekly) (NN news) (NN magazine))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Rosenblatt))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=1 spanning 7 until 10 headed by 7 parsed as (NP (NP (NNS difficulties)) (PP (IN with) (NP (NN commuting))))
+sid=1 spanning 11 until 24 headed by 12 parsed as (NP (NP (NP (PRP$ his) (NN home)) (PP (IN in) (NP (NNP New) (NNP York)))) (CC and) (NP (NP (NP (DT the) (NN magazine) (POS 's)) (NN editorial) (NNS offices)) (PP (IN in) (NP (NNP Washington)))))
+sid=1 spanning 11 until 16 headed by 12 parsed as (NP (NP (PRP$ his) (NN home)) (PP (IN in) (NP (NNP New) (NNP York))))
+sid=1 spanning 11 until 12 headed by 11 parsed as (PRP$ his)
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NNP New) (NNP York))
+sid=1 spanning 17 until 24 headed by 21 parsed as (NP (NP (NP (DT the) (NN magazine) (POS 's)) (NN editorial) (NNS offices)) (PP (IN in) (NP (NNP Washington))))
+sid=1 spanning 17 until 20 headed by 18 parsed as (NP (DT the) (NN magazine) (POS 's))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (NNP Washington))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP I))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ my) (NN family))
+sid=2 spanning 5 until 6 headed by 5 parsed as (PRP$ my)
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (NNP Mr.) (NNP Rosenblatt))
+sid=3 spanning 1 until 5 headed by 4 parsed as (NP (NP (NNP Mr.) (NNP Rosenblatt) (POS 's)) (NN tenure))
+sid=3 spanning 1 until 4 headed by 2 parsed as (NP (NNP Mr.) (NNP Rosenblatt) (POS 's))
+sid=3 spanning 6 until 13 headed by 10 parsed as (NP (NP (NP (DT the) (NN magazine) (POS 's)) (VBG advertising) (NNS pages)) (CC and) (NP (NN circulation)))
+sid=3 spanning 6 until 11 headed by 10 parsed as (NP (NP (DT the) (NN magazine) (POS 's)) (VBG advertising) (NNS pages))
+sid=3 spanning 6 until 9 headed by 7 parsed as (NP (DT the) (NN magazine) (POS 's))
+sid=4 spanning 2 until 7 headed by 6 parsed as (NP (QP (CD 2.3) (CD million)) (JJ weekly) (VBN paid) (NN circulation))
+sid=4 spanning 4 until 5 headed by 4 parsed as weekly
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (NNP U.S.) (NNP News))
+sid=4 spanning 12 until 13 headed by 12 parsed as third
+sid=4 spanning 14 until 20 headed by 19 parsed as (NP (NP (NNP Time) (NNP Warner) (NNP Inc.) (POS 's)) (NNP Time) (NN magazine))
+sid=4 spanning 22 until 32 headed by 24 parsed as (NP (NP (QP (CD 4.4) (CD million)) (NN circulation)) (, ,) (CC and) (NP (NP (NML (NNP Washington) (NNP Post)) (NNP Co.) (POS 's)) (NNP Newsweek)))
+sid=4 spanning 22 until 25 headed by 24 parsed as (NP (QP (CD 4.4) (CD million)) (NN circulation))
+sid=4 spanning 27 until 32 headed by 31 parsed as (NP (NP (NML (NNP Washington) (NNP Post)) (NNP Co.) (POS 's)) (NNP Newsweek))
+sid=4 spanning 34 until 37 headed by 36 parsed as (NP (QP (CD 3.3) (CD million)) (NN circulation))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Mortimer) (NNP B.) (NNP Zuckerman)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (NP (NN editor)) (PP (IN in) (NP (NN chief))))) (, ,))
+sid=5 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Mortimer) (NNP B.) (NNP Zuckerman)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (NP (NN editor)) (PP (IN in) (NP (NN chief))))) (, ,))
+sid=5 spanning 4 until 9 headed by 4 parsed as (NP (NP (NN chairman)) (CC and) (NP (NP (NN editor)) (PP (IN in) (NP (NN chief)))))
+sid=5 spanning 6 until 9 headed by 6 parsed as (NP (NP (NN editor)) (PP (IN in) (NP (NN chief))))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (NNP Mr.) (NNP Rosenblatt))
+sid=5 spanning 19 until 21 headed by 20 parsed as (NP (NP (NP (NNP Michael) (NNP Ruby)) (, ,) (NP (NP (DT the) (NN magazine) (POS 's)) (JJ executive) (NN editor)) (, ,)) (CC and) (NP (NP (NNP Merrill) (NNP McLoughlin)) (, ,) (NP (DT a) (JJ senior) (NN writer))))
+sid=5 spanning 19 until 35 headed by 20 parsed as (NP (NP (NP (NNP Michael) (NNP Ruby)) (, ,) (NP (NP (DT the) (NN magazine) (POS 's)) (JJ executive) (NN editor)) (, ,)) (CC and) (NP (NP (NNP Merrill) (NNP McLoughlin)) (, ,) (NP (DT a) (JJ senior) (NN writer))))
+sid=5 spanning 19 until 28 headed by 20 parsed as (NP (NP (NNP Michael) (NNP Ruby)) (, ,) (NP (NP (DT the) (NN magazine) (POS 's)) (JJ executive) (NN editor)) (, ,))
+sid=5 spanning 22 until 27 headed by 26 parsed as (NP (NP (DT the) (NN magazine) (POS 's)) (JJ executive) (NN editor))
+sid=5 spanning 22 until 25 headed by 23 parsed as (NP (DT the) (NN magazine) (POS 's))
+sid=5 spanning 29 until 31 headed by 30 parsed as (NP (NP (NNP Merrill) (NNP McLoughlin)) (, ,) (NP (DT a) (JJ senior) (NN writer)))
+sid=5 spanning 29 until 35 headed by 30 parsed as (NP (NP (NNP Merrill) (NNP McLoughlin)) (, ,) (NP (DT a) (JJ senior) (NN writer)))
+sid=5 spanning 32 until 35 headed by 34 parsed as (NP (DT a) (JJ senior) (NN writer))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Ruby)) (CC and) (NP (NNP Ms.) (NNP McLoughlin)))
+sid=6 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Ruby)) (CC and) (NP (NNP Ms.) (NNP McLoughlin)))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Ruby))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (NNP Ms.) (NNP McLoughlin))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT each) (JJ other))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Zuckerman))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN magazine))
+sid=7 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=7 spanning 7 until 26 headed by 9 parsed as (NP (NP (PRP$ its) (JJ editorial) (NN format)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (NN mix)) (PP (IN of) (NP (NML (NN analysis) (CC and) (NN trend)) (NNS stories)))) (PP (IN with) (ADJP (NN service) (HYPH -) (VBN oriented))) (, ,) (SBAR (WHADVP (WRB how)))))))
+sid=7 spanning 7 until 10 headed by 9 parsed as (NP (PRP$ its) (JJ editorial) (NN format))
+sid=7 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=7 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT a) (NN mix)) (PP (IN of) (NP (NML (NN analysis) (CC and) (NN trend)) (NNS stories))))
+sid=7 spanning 16 until 20 headed by 19 parsed as (NP (NML (NN analysis) (CC and) (NN trend)) (NNS stories))
+sid=7 spanning 28 until 29 headed by 28 parsed as (NP (NNS articles))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Rosenblatt)) (, ,) (NP (NP (DT a) (JJ senior) (NN writer)) (PP (IN at) (NP (NNP Time) (NN magazine))) (PP (IN before) (S (VP (VBG joining) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report))))))) (, ,))
+sid=8 spanning 0 until 17 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Rosenblatt)) (, ,) (NP (NP (DT a) (JJ senior) (NN writer)) (PP (IN at) (NP (NNP Time) (NN magazine))) (PP (IN before) (S (VP (VBG joining) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report))))))) (, ,))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Rosenblatt))
+sid=8 spanning 3 until 16 headed by 5 parsed as (NP (NP (DT a) (JJ senior) (NN writer)) (PP (IN at) (NP (NNP Time) (NN magazine))) (PP (IN before) (S (VP (VBG joining) (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report)))))))
+sid=8 spanning 7 until 9 headed by 8 parsed as (NP (NNP Time) (NN magazine))
+sid=8 spanning 11 until 16 headed by 12 parsed as (NP (NP (NNP U.S.) (NNP News)) (CC &) (NP (NNP World) (NNP Report)))
+sid=8 spanning 18 until 19 headed by 18 parsed as (NP (PRP he))
+sid=8 spanning 20 until 26 headed by 22 parsed as (NP (NP (JJ numerous) (NN job) (NNS offers)) (PP (IN from) (NP (JJ other) (NNS magazines))))
+sid=8 spanning 24 until 26 headed by 25 parsed as (NP (JJ other) (NNS magazines))
+sid=8 spanning 27 until 28 headed by 27 parsed as (NP (PRP he))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS offers))
+sid=9 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT a) (NN writer)) (, ,) (RB not) (NP (DT an) (NN editor)))
+sid=9 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN writer))
+sid=9 spanning 10 until 12 headed by 11 parsed as (NP (DT an) (NN editor))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=10 spanning 6 until 8 headed by 7 parsed as (NP (DT those) (NNS offers))
+(end predicted mentions)
+---------gold clusters--------
+18 28 30 | { 'Mortimer B. Zuckerman , chairman and editor in chief ,' 'Mr. Zuckerman' 'his' }
+33 16 | { 'Time magazine' 'Time Warner Inc. 's Time magazine , with 4.4 million circulation' }
+36 38 41 | { 'numerous job offers from other magazines' 'The offers' 'those offers' }
+20 24 | { 'Michael Ruby , the magazine 's executive editor ,' 'Mr. Ruby' }
+23 26 | { 'Merrill McLoughlin , a senior writer' 'Ms. McLoughlin' }
+8 29 1 14 31 15 34 3 22 | { 'magazine' 'his magazine' 'U.S. News & World Report' 'magazine' 'its' 'U.S. News' 'U.S. News & World Report' 'the weekly news magazine' 'magazine' }
+17 9 | { 'Washington' 'Washington' }
+12 19 4 0 39 37 10 5 40 13 11 35 32 7 | { 'Mr. Rosenblatt' 'Mr. Rosenblatt' 'Mr. Rosenblatt' 'Roger Rosenblatt , editor of U.S. News & World Report ,' 'He' 'he' 'I' 'he' 'he' 'Mr. Rosenblatt 's' 'my' 'he' 'Mr. Rosenblatt , a senior writer at Time magazine before joining U.S. News & World Report ,' 'his' }
+2 6 | { 'resigned' 'resigned' }
+25 27 21 | { 'Mr. Ruby and Ms. McLoughlin' 'each other' 'Michael Ruby , the magazine 's executive editor , and Merrill McLoughlin , a senior writer' }
+(end gold clusters)

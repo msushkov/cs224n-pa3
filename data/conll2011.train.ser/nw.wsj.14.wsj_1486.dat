@@ -1,0 +1,57 @@
+---------gloss--------
+(0) Following is a weekly listing of unadited net asset values of publicly traded investment fund shares , reported by the companies as of Friday 's close . 
+(1) Also shown is the closing listed market price or a dealer - to - dealer asked price of each fund 's shares , with the percentage of difference . 
+(2) Closed End Bond Funds 
+(3) Flexible Portfolio Funds 
+(4) Specialized Equity and Convertible Funds 
+(5) a - Ex-dividend . 
+(6) b - As of Thursday 's close . 
+(7) c - Translated at Commercial Rand exchange rate . 
+(8) e - In Canadian dollars . 
+(9) f - As of Wednesday 's close . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1486); part 000
+sentences:
+FollowingfollowVBGOPER0isbeVBZOPER0aaDTOPER0weeklyweeklyJJOPER0listinglistingNNOPER0ofofINOPER0unaditedunaditedJJOPER0netnetJJOPER0assetassetNNOPER0valuesvalueNNSOPER0ofofINOPER0publiclypubliclyRBOPER0tradedtradeVBNOPER0investmentinvestmentNNOPER0fundfundNNOPER0sharesshareNNSOPER0,,,OPER0reportedreportVBNOPER0bybyINOPER0thetheDTOPER0companiescompanyNNSOPER0asasINOPER0ofofINOPER0FridayFridayNNPDATEPER0's'sPOSOPER0closecloseNNOPER0...OPER0(ROOT (S (NP (VBG Following)) (VP (VBZ is) (NP (NP (DT a) (JJ weekly) (NN listing)) (PP (IN of) (NP (NP (JJ unadited) (JJ net) (NN asset) (NNS values)) (PP (IN of) (NP (NP (ADJP (RB publicly) (VBN traded)) (NML (NN investment) (NN fund)) (NNS shares)) (, ,) (VP (VBN reported) (PP (IN by) (NP (NP (DT the) (NNS companies)) (PP (IN as) (PP (IN of) (NP (NP (NNP Friday) (POS 's)) (NN close))))))))))))) (. .)))
+AlsoalsoRBOPER0shownshowVBNOPER0isbeVBZOPER0thetheDTOPER0closingclosingJJOPER0listedlistedJJOPER0marketmarketNNOPER0pricepriceNNOPER0ororCCOPER0aaDTOPER0dealerdealerNNOPER0--HYPHOPER0totoINOPER0--HYPHOPER0dealerdealerNNOPER0askedaskVBNOPER0pricepriceNNOPER0ofofINOPER0eacheachDTOPER0fundfundNNOPER0's'sPOSOPER0sharesshareNNSOPER0,,,OPER0withwithINOPER0thetheDTOPER0percentagepercentageNNOPER0ofofINOPER0differencedifferenceNNOPER0...OPER0(ROOT (SINV (ADJP (RB Also) (VBN shown)) (VP (VBZ is)) (NP (NP (NP (DT the) (JJ closing) (JJ listed) (NN market) (NN price)) (CC or) (NP (DT a) (NML (NML (NN dealer)) (HYPH -) (PP (IN to) (HYPH -) (NP (NN dealer)))) (VBN asked) (NN price))) (PP (IN of) (NP (NP (DT each) (NN fund) (POS 's)) (NNS shares))) (, ,) (PP (IN with) (NP (NP (DT the) (NN percentage)) (PP (IN of) (NP (NN difference)))))) (. .)))
+ClosedclosedJJOPER0EndendNNOPER0BondbondNNOPER0FundsfundNNSOPER0(ROOT (NP (NML (NML (JJ Closed) (NN End)) (NN Bond)) (NNS Funds)))
+FlexibleflexibleJJOPER0PortfolioportfolioNNOPER0FundsfundNNSOPER0(ROOT (NP (NML (JJ Flexible) (NN Portfolio)) (NNS Funds)))
+SpecializedspecializedJJORGPER0EquityequityNNOPER0andandCCOPER0ConvertibleconvertibleJJOPER0FundsfundNNSOPER0(ROOT (NP (NP (NML (JJ Specialized) (NN Equity)) (CC and) (ADJP (JJ Convertible))) (NNS Funds)))
+aaLSOPER0--:OPER0Ex-dividendex-dividendNNOPER0...OPER0(ROOT (X (LST (LS a)) (: -) (NP (NN Ex-dividend)) (. .)))
+bbLSOPER0--:OPER0AsasINOPER0ofofINOPER0ThursdayThursdayNNPDATEPER0's'sPOSOPER0closecloseNNOPER0...OPER0(ROOT (X (LST (LS b)) (: -) (PP (IN As) (PP (IN of) (NP (NP (NNP Thursday) (POS 's)) (NN close)))) (. .)))
+ccLSOPER0--:OPER0TranslatedtranslateVBNOPER0atatINOPER0CommercialCommercialNNPOPER0RandRandNNPOPER0exchangeexchangeNNOPER0raterateNNOPER0...OPER0(ROOT (X (LST (LS c)) (: -) (VP (VBN Translated) (PP (IN at) (NP (NML (NNP Commercial) (NNP Rand)) (NN exchange) (NN rate)))) (. .)))
+eeLSOPER0--:OPER0IninINOPER0CanadiancanadianJJOPER0dollarsdollarNNSOPER0...OPER0(ROOT (X (LST (LS e)) (: -) (PP (IN In) (NP (JJ Canadian) (NNS dollars))) (. .)))
+ffLSOPER0--:OPER0AsasINOPER0ofofINOPER0WednesdayWednesdayNNPDATEPER0's'sPOSOPER0closecloseNNOPER0...OPER0(ROOT (X (LST (LS f)) (: -) (PP (IN As) (PP (IN of) (NP (NP (NNP Wednesday) (POS 's)) (NN close)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (VBG Following))
+sid=0 spanning 2 until 26 headed by 4 parsed as (NP (NP (DT a) (JJ weekly) (NN listing)) (PP (IN of) (NP (NP (JJ unadited) (JJ net) (NN asset) (NNS values)) (PP (IN of) (NP (NP (ADJP (RB publicly) (VBN traded)) (NML (NN investment) (NN fund)) (NNS shares)) (, ,) (VP (VBN reported) (PP (IN by) (NP (NP (DT the) (NNS companies)) (PP (IN as) (PP (IN of) (NP (NP (NNP Friday) (POS 's)) (NN close))))))))))))
+sid=0 spanning 6 until 26 headed by 9 parsed as (NP (NP (JJ unadited) (JJ net) (NN asset) (NNS values)) (PP (IN of) (NP (NP (ADJP (RB publicly) (VBN traded)) (NML (NN investment) (NN fund)) (NNS shares)) (, ,) (VP (VBN reported) (PP (IN by) (NP (NP (DT the) (NNS companies)) (PP (IN as) (PP (IN of) (NP (NP (NNP Friday) (POS 's)) (NN close))))))))))
+sid=0 spanning 11 until 26 headed by 15 parsed as (NP (NP (ADJP (RB publicly) (VBN traded)) (NML (NN investment) (NN fund)) (NNS shares)) (, ,) (VP (VBN reported) (PP (IN by) (NP (NP (DT the) (NNS companies)) (PP (IN as) (PP (IN of) (NP (NP (NNP Friday) (POS 's)) (NN close))))))))
+sid=0 spanning 11 until 16 headed by 15 parsed as (NP (ADJP (RB publicly) (VBN traded)) (NML (NN investment) (NN fund)) (NNS shares))
+sid=0 spanning 19 until 26 headed by 20 parsed as (NP (NP (DT the) (NNS companies)) (PP (IN as) (PP (IN of) (NP (NP (NNP Friday) (POS 's)) (NN close)))))
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (NP (NNP Friday) (POS 's)) (NN close))
+sid=0 spanning 23 until 25 headed by 23 parsed as (NP (NNP Friday) (POS 's))
+sid=1 spanning 3 until 28 headed by 7 parsed as (NP (NP (NP (DT the) (JJ closing) (JJ listed) (NN market) (NN price)) (CC or) (NP (DT a) (NML (NML (NN dealer)) (HYPH -) (PP (IN to) (HYPH -) (NP (NN dealer)))) (VBN asked) (NN price))) (PP (IN of) (NP (NP (DT each) (NN fund) (POS 's)) (NNS shares))) (, ,) (PP (IN with) (NP (NP (DT the) (NN percentage)) (PP (IN of) (NP (NN difference))))))
+sid=1 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (JJ closing) (JJ listed) (NN market) (NN price))
+sid=1 spanning 9 until 17 headed by 16 parsed as (NP (DT a) (NML (NML (NN dealer)) (HYPH -) (PP (IN to) (HYPH -) (NP (NN dealer)))) (VBN asked) (NN price))
+sid=1 spanning 18 until 22 headed by 21 parsed as (NP (NP (DT each) (NN fund) (POS 's)) (NNS shares))
+sid=1 spanning 18 until 21 headed by 19 parsed as (NP (DT each) (NN fund) (POS 's))
+sid=1 spanning 24 until 28 headed by 25 parsed as (NP (NP (DT the) (NN percentage)) (PP (IN of) (NP (NN difference))))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NML (NML (JJ Closed) (NN End)) (NN Bond)) (NNS Funds))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NML (JJ Flexible) (NN Portfolio)) (NNS Funds))
+sid=4 spanning 0 until 5 headed by 4 parsed as (NP (NP (NML (JJ Specialized) (NN Equity)) (CC and) (ADJP (JJ Convertible))) (NNS Funds))
+sid=4 spanning 0 until 1 headed by 0 parsed as Specialized
+sid=6 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNP Thursday) (POS 's)) (NN close))
+sid=6 spanning 4 until 6 headed by 4 parsed as (NP (NNP Thursday) (POS 's))
+sid=7 spanning 4 until 8 headed by 7 parsed as (NP (NML (NNP Commercial) (NNP Rand)) (NN exchange) (NN rate))
+sid=8 spanning 3 until 5 headed by 4 parsed as (NP (JJ Canadian) (NNS dollars))
+sid=9 spanning 4 until 7 headed by 6 parsed as (NP (NP (NNP Wednesday) (POS 's)) (NN close))
+sid=9 spanning 4 until 6 headed by 4 parsed as (NP (NNP Wednesday) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

@@ -1,0 +1,138 @@
+---------gloss--------
+(0) Nine years ago [3m[33m{today}[0m , [3m[32m{allegations of infidelity}[0m almost derailed [4m[32m{Bill Clinton 's}[0m journey from hope to the White House . 
+(1) [3m[36m{Bob Glascoff}[0m tracks the life of [3m[35m{the `` other woman ''}[0m in [3m[33m{today 's}[0m edition of `` [3m[31m{Headliners}[0m . '' 
+(2) On January 1992 , [3m[35m{Gennifer Flowers}[0m [3m[32m{claims}[0m [3m[35m{she}[0m had a 12 - year affair with [4m[32m{Bill Clinton}[0m . 
+(3) Former nightclub singer , television anchor and Arkansas State employee , [3m[35m{Flowers '}[0m allegations threatened to torpedo [4m[32m{Clinton 's}[0m presidential chances . 
+(4) Although [4m[32m{Mr. Clinton}[0m denied having a relationship with [3m[35m{Flowers}[0m , [4m[32m{he}[0m did speak of bringing `` pain '' to [4m[32m{his}[0m marriage during a joint television interview with [4m[32m{his}[0m wife , Hillary . 
+(5) [3m[35m{Flowers}[0m went on `` Larry King Live '' in 1998 at the height of the impeachment proceedings against [4m[32m{Mr. Clinton}[0m . 
+(6) [3m[35m{She}[0m said [3m[35m{she}[0m felt vindicated when [4m[32m{he}[0m admitted under oath that [4m[32m{he}[0m 'd had [3m[34m{an affair with her}[0m after denying [3m[34m{it}[0m for years . 
+(7) [3m[35m{Flowers}[0m has written two books , both of which are for sale on [3m[35m{her}[0m website , along with private - label cigars and signed photos . 
+(8) A federal judge recently dismissed a defamation lawsuit [3m[35m{she}[0m brought against [4m[31m{Hillary Rodham Clinton}[0m and two former presidential aides . 
+(9) With `` [3m[31m{Headliners}[0m , '' [3m[36m{I}[0m 'm Bob Glascoff . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0190); part 000
+sentences:
+NinenineCDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0todaytodayNNDATEPER0,,,OPER0allegationsallegationNNSOPER0ofofINOPER0infidelityinfidelityNNOPER0almostalmostRBOPER0derailedderailVBDOPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0's'sPOSPERSONPER0journeyjourneyNNOPER0fromfromINOPER0hopehopeNNOPER0totoINOPER0thetheDTORGPER0WhiteWhiteNNPORGPER0HouseHouseNNPORGPER0...OPER0(ROOT (S (ADVP (NP (CD Nine) (NNS years)) (RB ago)) (NP (NN today)) (, ,) (NP (NP (NNS allegations)) (PP (IN of) (NP (NN infidelity)))) (ADVP (RB almost)) (VP (VBD derailed) (NP (NP (NNP Bill) (NNP Clinton) (POS 's)) (NN journey)) (PP (IN from) (NP (NN hope)) (PP (IN to) (NP (DT the) (NNP White) (NNP House))))) (. .)))
+BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0trackstrackVBZOPER0thetheDTOPER0lifelifeNNOPER0ofofINOPER0thetheDTOPER0``````OotherotherJJOPER1womanwomanNNOPER1''''''OPER0ininINOPER0todaytodayNNDATEPER0's'sPOSOPER0editioneditionNNOPER0ofofINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER2...OPER2''''''OPER0(ROOT (S (NP (NNP Bob) (NNP Glascoff)) (VP (VBZ tracks) (NP (NP (DT the) (NN life)) (PP (IN of) (NP (NP (DT the) (`` ``) (JJ other) (NN woman) ('' '')) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))))))) (. .) ('' '')))
+OnonINOPER0JanuaryJanuaryNNPDATEPER019921992CDDATEPER0,,,OPER0GenniferGenniferNNPORGPER0FlowersflowerNNSORGPER0claimsclaimVBZOPER0sheshePRPOPER0hadhaveVBDOPER0aaDTOPER01212CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0affairaffairNNOPER0withwithINOPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0...OPER0(ROOT (S (PP (IN On) (NP (NNP January) (CD 1992))) (, ,) (NP (NNP Gennifer) (NNS Flowers)) (VP (VBZ claims) (SBAR (S (NP (PRP she)) (VP (VBD had) (NP (DT a) (NML (CD 12) (HYPH -) (NN year)) (NN affair)) (PP (IN with) (NP (NNP Bill) (NNP Clinton))))))) (. .)))
+FormerformerJJOPER0nightclubnightclubNNOPER0singersingerNNOPER0,,,OPER0televisiontelevisionNNOPER0anchoranchorNNOPER0andandCCOPER0ArkansasArkansasNNPGPEPER0StateStateNNPOPER0employeeemployeeNNOPER0,,,OPER0FlowersflowerNNSORGPER0''POSOPER0allegationsallegationNNSOPER0threatenedthreatenVBDOPER0totoTOOPER0torpedotorpedoVBOPER0ClintonClintonNNPPERSONPER0's'sPOSOPER0presidentialpresidentialJJOPER0chanceschanceNNSOPER0...OPER0(ROOT (S (NP (JJ Former) (NML (NML (NN nightclub) (NN singer)) (, ,) (NML (NN television) (NN anchor)) (CC and) (NML (NML (NNP Arkansas) (NNP State)) (NN employee)))) (, ,) (NP (NP (NNS Flowers) (POS ')) (NNS allegations)) (VP (VBD threatened) (S (VP (TO to) (VP (VB torpedo) (NP (NP (NNP Clinton) (POS 's)) (JJ presidential) (NNS chances)))))) (. .)))
+AlthoughalthoughINOPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0denieddenyVBDOPER0havinghaveVBGOPER0aaDTOPER0relationshiprelationshipNNOPER0withwithINOPER0FlowersflowerNNSORGPER0,,,OPER0hehePRPOPER0diddoVBDOPER0speakspeakVBOPER0ofofINOPER0bringingbringVBGOPER0``````OpainpainNNOPER3''''''OPER0totoINOPER0hishePRP$OPER0marriagemarriageNNOPER0duringduringINOPER0aaDTOPER0jointjointJJOPER0televisiontelevisionNNOPER0interviewinterviewNNOPER0withwithINOPER0hishePRP$OPER0wifewifeNNOPER0,,,OPER0HillaryHillaryNNPPERSONPER0...OPER0(ROOT (S (SBAR (IN Although) (S (NP (NNP Mr.) (NNP Clinton)) (VP (VBD denied) (S (VP (VBG having) (NP (NP (DT a) (NN relationship)) (PP (IN with) (NP (NNS Flowers))))))))) (, ,) (NP (PRP he)) (VP (VBD did) (VP (VB speak) (PP (IN of) (S (VP (VBG bringing) (`` ``) (NP (NN pain)) ('' '') (PP (IN to) (NP (PRP$ his) (NN marriage)))))) (PP (IN during) (NP (NP (DT a) (JJ joint) (NN television) (NN interview)) (PP (IN with) (NP (PRP$ his) (NN wife))))) (, ,) (NP (NNP Hillary)))) (. .)))
+FlowersflowerNNSORGPER0wentgoVBDOPER0ononINOPER0``````OLarryLarryNNPWORK_OF_ARTPER4KingKingNNPWORK_OF_ARTPER4LiveLiveNNPWORK_OF_ARTPER4''''''OPER0ininINOPER019981998CDDATEPER0atatINOPER0thetheDTOPER0heightheightNNOPER0ofofINOPER0thetheDTOPER0impeachmentimpeachmentNNOPER0proceedingsproceedingsNNSOPER0againstagainstINOPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0...OPER0(ROOT (S (NP (NNS Flowers)) (VP (VBD went) (PP (IN on) (NP (`` ``) (NP (NNP Larry) (NNP King) (NNP Live)) ('' '') (PP (IN in) (NP (CD 1998))))) (PP (IN at) (NP (NP (DT the) (NN height)) (PP (IN of) (NP (NP (DT the) (NN impeachment) (NNS proceedings)) (PP (IN against) (NP (NNP Mr.) (NNP Clinton)))))))) (. .)))
+SheshePRPOPER0saidsayVBDOPER0sheshePRPOPER0feltfeelVBDOPER0vindicatedvindicateVBNOPER0whenwhenWRBOPER0hehePRPOPER0admittedadmitVBDOPER0underunderINOPER0oathoathNNOPER0thatthatINOPER0hehePRPOPER0'dhaveVBDOPER0hadhaveVBNOPER0anaDTOPER0affairaffairNNOPER0withwithINOPER0hershePRPOPER0afterafterINOPER0denyingdenyVBGOPER0ititPRPOPER0forforINOPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBD said) (SBAR (S (NP (PRP she)) (VP (VBD felt) (VP (VBN vindicated) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD admitted) (PP (IN under) (NP (NN oath))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD 'd) (VP (VBN had) (NP (NP (DT an) (NN affair)) (PP (IN with) (NP (PRP her)))) (PP (IN after) (S (VP (VBG denying) (NP (PRP it)) (PP (IN for) (NP (NNS years)))))))))))))))))) (. .)))
+FlowersflowerNNSOPER0hashaveVBZOPER0writtenwriteVBNOPER0twotwoCDOPER0booksbookNNSOPER0,,,OPER0bothbothDTOPER0ofofINOPER0whichwhichWDTOPER0arebeVBPOPER0forforINOPER0salesaleNNOPER0ononINOPER0hershePRP$OPER0websitewebsiteNNOPER0,,,OPER0alongalongINOPER0withwithINOPER0privateprivateJJOPER0--HYPHOPER0labellabelNNOPER0cigarscigarNNSOPER0andandCCOPER0signedsignVBNOPER0photosphotoNNSOPER0...OPER0(ROOT (S (NP (NNS Flowers)) (VP (VBZ has) (VP (VBN written) (NP (CD two) (NNS books) (, ,) (SBAR (WHNP (DT both) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBP are) (PP (IN for) (NP (NN sale))) (PP (IN on) (NP (PRP$ her) (NN website)))))) (, ,) (PP (IN along) (PP (IN with) (NP (NP (NML (JJ private) (HYPH -) (NN label)) (NNS cigars)) (CC and) (NP (VBN signed) (NNS photos)))))))) (. .)))
+AaDTOPER0federalfederalJJOPER0judgejudgeNNOPER0recentlyrecentlyRBOPER0dismisseddismissVBDOPER0aaDTOPER0defamationdefamationNNOPER0lawsuitlawsuitNNOPER0sheshePRPOPER0broughtbringVBDOPER0againstagainstINOPER0HillaryHillaryNNPPERSONPER0RodhamRodhamNNPPERSONPER0ClintonClintonNNPPERSONPER0andandCCOPER0twotwoCDCARDINALPER0formerformerJJOPER0presidentialpresidentialJJOPER0aidesaideNNSOPER0...OPER0(ROOT (S (NP (DT A) (JJ federal) (NN judge)) (ADVP (RB recently)) (VP (VBD dismissed) (NP (NP (DT a) (NN defamation) (NN lawsuit)) (SBAR (S (NP (PRP she)) (VP (VBD brought) (PP (IN against) (NP (NP (NNP Hillary) (NNP Rodham) (NNP Clinton)) (CC and) (NP (CD two) (JJ former) (JJ presidential) (NNS aides))))))))) (. .)))
+WithwithINOPER0``````OHeadlinersHeadlinersNNPSWORK_OF_ARTPER5,,,OPER5''''''OPER0IIPRPOPER0'mbeVBPOPER0BobBobNNPPERSONPER0GlascoffGlascoffNNPPERSONPER0...OPER0(ROOT (S (PP (IN With) (`` ``) (NP (NNPS Headliners))) (, ,) ('' '') (NP (PRP I)) (VP (VBP 'm) (NP (NNP Bob) (NNP Glascoff))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NN today))
+sid=0 spanning 5 until 8 headed by 5 parsed as (NP (NP (NNS allegations)) (PP (IN of) (NP (NN infidelity))))
+sid=0 spanning 10 until 13 headed by 11 parsed as (NP (NNP Bill) (NNP Clinton) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=1 spanning 6 until 11 headed by 9 parsed as (NP (NP (DT the) (`` ``) (JJ other) (NN woman) ('' '')) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))))
+sid=1 spanning 12 until 14 headed by 12 parsed as (NP (NN today) (POS 's))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNPS Headliners))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NNP Gennifer) (NNS Flowers))
+sid=2 spanning 6 until 7 headed by 6 parsed as claims
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (PRP she))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (NNP Bill) (NNP Clinton))
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (NP (NNS Flowers) (POS ')) (NNS allegations))
+sid=3 spanning 11 until 13 headed by 11 parsed as (NP (NNS Flowers) (POS '))
+sid=3 spanning 17 until 19 headed by 17 parsed as (NP (NNP Clinton) (POS 's))
+sid=4 spanning 1 until 3 headed by 2 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNS Flowers))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=4 spanning 19 until 20 headed by 19 parsed as his
+sid=4 spanning 27 until 31 headed by 28 parsed as (NP (PRP$ his) (NN wife))
+sid=4 spanning 27 until 28 headed by 27 parsed as his
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Flowers))
+sid=5 spanning 18 until 20 headed by 19 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP she))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=6 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=6 spanning 14 until 18 headed by 15 parsed as (NP (NP (DT an) (NN affair)) (PP (IN with) (NP (PRP her))))
+sid=6 spanning 17 until 18 headed by 17 parsed as (NP (PRP her))
+sid=6 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNS Flowers))
+sid=7 spanning 13 until 14 headed by 13 parsed as her
+sid=8 spanning 8 until 9 headed by 8 parsed as (NP (PRP she))
+sid=8 spanning 11 until 14 headed by 13 parsed as (NP (NP (NNP Hillary) (NNP Rodham) (NNP Clinton)) (CC and) (NP (CD two) (JJ former) (JJ presidential) (NNS aides)))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NN today))
+sid=0 spanning 5 until 8 headed by 5 parsed as (NP (NP (NNS allegations)) (PP (IN of) (NP (NN infidelity))))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NP (NNP Bill) (NNP Clinton) (POS 's)) (NN journey))
+sid=0 spanning 10 until 13 headed by 11 parsed as (NP (NNP Bill) (NNP Clinton) (POS 's))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP White) (NNP House))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Glascoff))
+sid=1 spanning 3 until 18 headed by 4 parsed as (NP (NP (DT the) (NN life)) (PP (IN of) (NP (NP (DT the) (`` ``) (JJ other) (NN woman) ('' '')) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))))))
+sid=1 spanning 6 until 18 headed by 9 parsed as (NP (NP (DT the) (`` ``) (JJ other) (NN woman) ('' '')) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))))
+sid=1 spanning 12 until 18 headed by 14 parsed as (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NNPS Headliners))))
+sid=1 spanning 12 until 14 headed by 12 parsed as (NP (NN today) (POS 's))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNPS Headliners))
+sid=2 spanning 1 until 3 headed by 1 parsed as (NP (NNP January) (CD 1992))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NNP Gennifer) (NNS Flowers))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (PRP she))
+sid=2 spanning 9 until 14 headed by 13 parsed as (NP (DT a) (NML (CD 12) (HYPH -) (NN year)) (NN affair))
+sid=2 spanning 10 until 13 headed by 12 parsed as year
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (NNP Bill) (NNP Clinton))
+sid=3 spanning 7 until 8 headed by 7 parsed as Arkansas
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (NP (NNS Flowers) (POS ')) (NNS allegations))
+sid=3 spanning 11 until 13 headed by 11 parsed as (NP (NNS Flowers) (POS '))
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (NP (NNP Clinton) (POS 's)) (JJ presidential) (NNS chances))
+sid=3 spanning 17 until 19 headed by 17 parsed as (NP (NNP Clinton) (POS 's))
+sid=4 spanning 1 until 3 headed by 2 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=4 spanning 5 until 9 headed by 6 parsed as (NP (NP (DT a) (NN relationship)) (PP (IN with) (NP (NNS Flowers))))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNS Flowers))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ his) (NN marriage))
+sid=4 spanning 19 until 20 headed by 19 parsed as (PRP$ his)
+sid=4 spanning 22 until 29 headed by 25 parsed as (NP (NP (DT a) (JJ joint) (NN television) (NN interview)) (PP (IN with) (NP (PRP$ his) (NN wife))))
+sid=4 spanning 27 until 29 headed by 28 parsed as (NP (PRP$ his) (NN wife))
+sid=4 spanning 27 until 28 headed by 27 parsed as (PRP$ his)
+sid=4 spanning 30 until 31 headed by 30 parsed as (NP (NNP Hillary))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Flowers))
+sid=5 spanning 3 until 10 headed by 6 parsed as (NP (`` ``) (NP (NNP Larry) (NNP King) (NNP Live)) ('' '') (PP (IN in) (NP (CD 1998))))
+sid=5 spanning 9 until 10 headed by 9 parsed as (NP (CD 1998))
+sid=5 spanning 11 until 20 headed by 12 parsed as (NP (NP (DT the) (NN height)) (PP (IN of) (NP (NP (DT the) (NN impeachment) (NNS proceedings)) (PP (IN against) (NP (NNP Mr.) (NNP Clinton))))))
+sid=5 spanning 14 until 20 headed by 16 parsed as (NP (NP (DT the) (NN impeachment) (NNS proceedings)) (PP (IN against) (NP (NNP Mr.) (NNP Clinton))))
+sid=5 spanning 18 until 20 headed by 19 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP she))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=6 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=6 spanning 14 until 18 headed by 15 parsed as (NP (NP (DT an) (NN affair)) (PP (IN with) (NP (PRP her))))
+sid=6 spanning 17 until 18 headed by 17 parsed as (NP (PRP her))
+sid=6 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (NNS years))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNS Flowers))
+sid=7 spanning 3 until 25 headed by 4 parsed as (NP (CD two) (NNS books) (, ,) (SBAR (WHNP (DT both) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBP are) (PP (IN for) (NP (NN sale))) (PP (IN on) (NP (PRP$ her) (NN website)))))) (, ,) (PP (IN along) (PP (IN with) (NP (NP (NML (JJ private) (HYPH -) (NN label)) (NNS cigars)) (CC and) (NP (VBN signed) (NNS photos))))))
+sid=7 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ her) (NN website))
+sid=7 spanning 13 until 14 headed by 13 parsed as (PRP$ her)
+sid=7 spanning 18 until 25 headed by 21 parsed as (NP (NP (NML (JJ private) (HYPH -) (NN label)) (NNS cigars)) (CC and) (NP (VBN signed) (NNS photos)))
+sid=7 spanning 18 until 22 headed by 21 parsed as (NP (NML (JJ private) (HYPH -) (NN label)) (NNS cigars))
+sid=7 spanning 23 until 25 headed by 24 parsed as (NP (VBN signed) (NNS photos))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ federal) (NN judge))
+sid=8 spanning 5 until 19 headed by 7 parsed as (NP (NP (DT a) (NN defamation) (NN lawsuit)) (SBAR (S (NP (PRP she)) (VP (VBD brought) (PP (IN against) (NP (NP (NNP Hillary) (NNP Rodham) (NNP Clinton)) (CC and) (NP (CD two) (JJ former) (JJ presidential) (NNS aides))))))))
+sid=8 spanning 8 until 9 headed by 8 parsed as (NP (PRP she))
+sid=8 spanning 11 until 14 headed by 13 parsed as (NP (NP (NNP Hillary) (NNP Rodham) (NNP Clinton)) (CC and) (NP (CD two) (JJ former) (JJ presidential) (NNS aides)))
+sid=8 spanning 11 until 19 headed by 13 parsed as (NP (NP (NNP Hillary) (NNP Rodham) (NNP Clinton)) (CC and) (NP (CD two) (JJ former) (JJ presidential) (NNS aides)))
+sid=8 spanning 15 until 19 headed by 18 parsed as (NP (CD two) (JJ former) (JJ presidential) (NNS aides))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (NNPS Headliners))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=9 spanning 7 until 9 headed by 8 parsed as (NP (NNP Bob) (NNP Glascoff))
+(end predicted mentions)
+---------gold clusters--------
+33 6 | { 'Headliners' 'Headliners' }
+1 11 8 | { 'allegations of infidelity' 'Flowers ' allegations' 'claims' }
+5 0 | { 'today 's' 'today' }
+28 26 | { 'it' 'an affair with her' }
+23 7 12 22 27 9 4 15 29 31 30 20 | { 'she' 'Gennifer Flowers' 'Flowers '' 'She' 'her' 'she' 'the `` other woman ''' 'Flowers' 'Flowers' 'she' 'her' 'Flowers' }
+3 34 | { 'Bob Glascoff' 'I' }
+32 18 | { 'Hillary Rodham Clinton' 'his wife , Hillary' }
+2 16 24 19 25 13 10 17 14 21 | { 'Bill Clinton 's' 'he' 'he' 'his' 'he' 'Clinton 's' 'Bill Clinton' 'his' 'Mr. Clinton' 'Mr. Clinton' }
+(end gold clusters)

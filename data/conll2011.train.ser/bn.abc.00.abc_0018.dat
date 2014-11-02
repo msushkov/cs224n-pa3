@@ -1,0 +1,208 @@
+---------gloss--------
+(0) [32m{The attack on the `` USS Cole '' in Yemen}[0m is being reassessed tonight . 
+(1) [31m{ABC 's}[0m Barry Serafin is in our Washington Bureau . 
+(2) [33m{I}[0m gather the thing that [4m[35m{the Navy}[0m is looking at is the actual timing . 
+(3) We were led to believe that [32m{the attack}[0m occurred just as [4m[36m{the `` USS Cole ''}[0m was tying up . 
+(4) Not true , apparently ? 
+(5) Not true , according to new information now released by [4m[35m{the Navy}[0m , [33m{Peter}[0m . 
+(6) [4m[35m{The Navy}[0m now says [4m[36m{the ship}[0m was actually moored nearly two hours before [32m{the explosion}[0m took place . 
+(7) [4m[36m{It}[0m was , in fact , in the process of being refueled at the time of [32m{the blast}[0m . 
+(8) the theory was that RTJ C World News / [33m{Peter Jennings}[0m [31m{ABC}[0m % RTJ ! had [4m[33m{slipped}[0m in as part of [35m{the mooring operation}[0m . 
+(9) [4m[33m{That}[0m was not true . 
+(10) [4m[36m{The ship}[0m was tied up . 
+(11) [4m[36m{It}[0m was in a very vulnerable position as [4m[36m{it}[0m was being refueled . 
+(12) However , [4m[35m{the Navy}[0m now says that [34m{hands on deck who were manning machine guns , as part of an alert}[0m , still believed [34m{they}[0m had seen [36m{this small boat}[0m as part of [35m{the mooring operation}[0m , and that is apparently why [34m{they}[0m were not suspicious . 
+(13) Let [33m{me}[0m understand the last point again . 
+(14) If [36m{it}[0m was not part of [35m{the mooring operation}[0m , does it mean [36m{it}[0m was lost in a cluster of boats or operating clear to sea ? 
+(15) [36m{This}[0m was a small boat that at that point , [33m{Peter}[0m , should not have been approaching [4m[36m{this ship}[0m , but apparently [34m{the hands on deck who were supposed to be maintaining security}[0m , believed [36m{this}[0m was a small boat [34m{they}[0m had seen earlier as part of [35m{the mooring operation}[0m , and therefore did not view [36m{it}[0m as a suspicious boat . 
+(16) Thanks very much . 
+(17) It often happens in a case like this , as time goes on , the assessment changes . 
+(18) Today , the bodies of the last four sailors recovered from [4m[36m{the `` Cole ''}[0m were sent home to the United States . 
+(19) 17 sailors were killed in [32m{the blast}[0m . 
+(20) At Arlington National Cemetery , the first of the funerals . 
+(21) [4m[32m{Cheron Gunn from Rex , Georgia}[0m was buried next to [4m[32m{his}[0m ship mate Richard Costello of Morrisville , Pennsylvania . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0018); part 000
+sentences:
+ThetheDTOPER0attackattackNNOPER0ononINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0ininINOPER0YemenYemenNNPGPEPER0isbeVBZOPER0beingbeVBGOPER0reassessedreassessVBNOPER0tonighttonightNNTIMEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))) (PP (IN in) (NP (NNP Yemen)))) (VP (VBZ is) (VP (VBG being) (VP (VBN reassessed) (NP (NN tonight))))) (. .)))
+ABCABCNNPORGPER0's'sPOSOPER0BarryBarryNNPPERSONPER0SerafinSerafinNNPPERSONPER0isbeVBZOPER0ininINOPER0ourwePRP$OPER0WashingtonWashingtonNNPORGPER0BureauBureauNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP ABC) (POS 's)) (NNP Barry) (NNP Serafin)) (VP (VBZ is) (PP (IN in) (NP (PRP$ our) (NNP Washington) (NNP Bureau)))) (. .)))
+IIPRPOPER0gathergatherVBPOPER0thetheDTOPER0thingthingNNOPER0thatthatWDTOPER0thetheDTOPER0NavyNavyNNPORGPER0isbeVBZOPER0lookinglookVBGOPER0atatINOPER0isbeVBZOPER0thetheDTOPER0actualactualJJOPER0timingtimingNNOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP gather) (SBAR (S (NP (NP (DT the) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (NNP Navy)) (VP (VBZ is) (VP (VBG looking) (PP (IN at))))))) (VP (VBZ is) (NP (DT the) (JJ actual) (NN timing)))))) (. .)))
+WewePRPOPER0werebeVBDOPER0ledleadVBNOPER0totoTOOPER0believebelieveVBOPER0thatthatINOPER0thetheDTOPER0attackattackNNOPER0occurredoccurVBDOPER0justjustRBOPER0asasINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER2ColeColeNNPPRODUCTPER2''''''PRODUCTPER0wasbeVBDOPER0tyingtieVBGOPER0upupRPOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBD were) (VP (VBN led) (S (VP (TO to) (VP (VB believe) (SBAR (IN that) (S (NP (DT the) (NN attack)) (VP (VBD occurred) (SBAR (ADVP (RB just)) (IN as) (S (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')) (VP (VBD was) (VP (VBG tying) (PRT (RP up)))))))))))))) (. .)))
+NotnotRBOPER0truetrueJJOPER0,,,OPER0apparentlyapparentlyRBOPER0??.OPER0(ROOT (FRAG (ADJP (RB Not) (JJ true)) (, ,) (ADVP (RB apparently)) (. ?)))
+NotnotRBOPER0truetrueJJOPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0newnewJJOPER0informationinformationNNOPER0nownowRBOPER0releasedreleaseVBNOPER0bybyINOPER0thetheDTOPER0NavyNavyNNPORGPER0,,,OPER0PeterPeterNNPPERSONPER0...OPER0(ROOT (FRAG (ADJP (ADJP (RB Not) (JJ true)) (, ,) (PP (VBG according) (PP (IN to) (NP (NP (JJ new) (NN information)) (VP (ADVP (RB now)) (VBN released) (PP (IN by) (NP (DT the) (NNP Navy)))))))) (, ,) (NP (NNP Peter)) (. .)))
+ThetheDTOPER0NavyNavyNNPORGPER0nownowRBOPER0sayssayVBZOPER0thetheDTOPER0shipshipNNOPER0wasbeVBDOPER0actuallyactuallyRBOPER0mooredmoorVBNOPER0nearlynearlyRBTIMEPER0twotwoCDTIMEPER0hourshourNNSTIMEPER0beforebeforeINOPER0thetheDTOPER0explosionexplosionNNOPER0tooktakeVBDOPER0placeplaceNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Navy)) (ADVP (RB now)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN ship)) (VP (VBD was) (ADVP (RB actually)) (VP (VBN moored) (SBAR (NP (QP (RB nearly) (CD two)) (NNS hours)) (IN before) (S (NP (DT the) (NN explosion)) (VP (VBD took) (NP (NN place)))))))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0,,,OPER0ininINOPER0factfactNNOPER0,,,OPER0ininINOPER0thetheDTOPER0processprocessNNOPER0ofofINOPER0beingbeVBGOPER0refueledrefuelVBNOPER0atatINOPER0thetheDTOPER0timetimeNNOPER0ofofINOPER0thetheDTOPER0blastblastNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (, ,) (PP (IN in) (NP (NN fact))) (, ,) (PP (IN in) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG being) (VP (VBN refueled) (PP (IN at) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (DT the) (NN blast)))))))))))) (. .)))
+thetheDTOPER0theorytheoryNNOPER0wasbeVBDOPER0thatthatINOPER0RTJRTJNNPORGPER0CCNNPORGPER0WorldWorldNNPORGPER0NewsNewsNNPORGPER0//SYMORGPER0PeterPeterNNPORGPER0JenningsJenningsNNPORGPER0ABCABCNNPORGPER0%%NNORGPER0RTJRTJNNPORGPER0!!.ORGPER0hadhaveVBDOPER0slippedslipVBNOPER0ininRPOPER0asasINOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0mooringmooringNNOPER0operationoperationNNOPER0...OPER0(ROOT (S (NP (DT the) (NN theory)) (VP (VBD was) (SBAR (IN that) (S (NP (NML (NNP RTJ) (NNP C) (NML (NML (NNP World) (NNP News)) (SYM /) (NML (NNP Peter) (NNP Jennings) (NNP ABC))) (NN %)) (NNP RTJ) (. !)) (VP (VBD had) (VP (VBN slipped) (PRT (RP in)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN mooring) (NN operation)))))))))) (. .)))
+ThatthatDTOPER0wasbeVBDOPER0notnotRBOPER0truetrueJJOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBD was) (RB not) (ADJP (JJ true))) (. .)))
+ThetheDTOPER0shipshipNNOPER0wasbeVBDOPER0tiedtieVBNOPER0upupRPOPER0...OPER0(ROOT (S (NP (DT The) (NN ship)) (VP (VBD was) (VP (VBN tied) (PRT (RP up)))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0ininINOPER0aaDTOPER0veryveryRBOPER0vulnerablevulnerableJJOPER0positionpositionNNOPER0asasINOPER0ititPRPOPER0wasbeVBDOPER0beingbeVBGOPER0refueledrefuelVBNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ vulnerable)) (NN position))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD was) (VP (VBG being) (VP (VBN refueled))))))) (. .)))
+HoweverhoweverRBOPER0,,,OPER0thetheDTOPER0NavyNavyNNPORGPER0nownowRBOPER0sayssayVBZOPER0thatthatINOPER0handshandNNSOPER0ononINOPER0deckdeckNNOPER0whowhoWPOPER0werebeVBDOPER0manningmanVBGOPER0machinemachineNNOPER0gunsgunNNSOPER0,,,OPER0asasINOPER0partpartNNOPER0ofofINOPER0anaDTOPER0alertalertNNOPER0,,,OPER0stillstillRBOPER0believedbelieveVBDOPER0theytheyPRPOPER0hadhaveVBDOPER0seenseeVBNOPER0thisthisDTOPER0smallsmallJJOPER0boatboatNNOPER0asasINOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0mooringmooringNNOPER0operationoperationNNOPER0,,,OPER0andandCCOPER0thatthatINOPER0isbeVBZOPER0apparentlyapparentlyRBOPER0whywhyWRBOPER0theytheyPRPOPER0werebeVBDOPER0notnotRBOPER0suspicioussuspiciousJJOPER0...OPER0(ROOT (S (ADVP (RB However)) (, ,) (NP (DT the) (NNP Navy)) (ADVP (RB now)) (VP (VBZ says) (SBAR (SBAR (IN that) (S (NP (NP (NP (NNS hands)) (PP (IN on) (NP (NN deck)))) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBG manning) (NP (NN machine) (NNS guns))))))) (, ,) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT an) (NN alert))))) (, ,) (ADVP (RB still)) (VP (VBD believed) (SBAR (S (NP (PRP they)) (VP (VBD had) (VP (VBN seen) (NP (DT this) (JJ small) (NN boat)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN mooring) (NN operation)))))))))))) (, ,) (CC and) (SBAR (IN that) (S (VP (VBZ is) (ADVP (RB apparently)) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (VBD were) (RB not) (ADJP (JJ suspicious)))))))))) (. .)))
+LetletVBOPER0meIPRPOPER0understandunderstandVBOPER0thetheDTOPER0lastlastJJOPER0pointpointNNOPER0againagainRBOPER0...OPER0(ROOT (S (VP (VB Let) (S (NP (PRP me)) (VP (VB understand) (NP (DT the) (JJ last) (NN point)) (ADVP (RB again))))) (. .)))
+IfifINOPER0ititPRPOPER0wasbeVBDOPER0notnotRBOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0mooringmooringNNOPER0operationoperationNNOPER0,,,OPER0doesdoVBZOPER0ititPRPOPER0meanmeanVBOPER0ititPRPOPER0wasbeVBDOPER0lostloseVBNOPER0ininINOPER0aaDTOPER0clusterclusterNNOPER0ofofINOPER0boatsboatNNSOPER0ororCCOPER0operatingoperateVBGOPER0clearclearRBOPER0totoINOPER0seaseaNNOPER0??.OPER0(ROOT (SQ (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (RB not) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN mooring) (NN operation))))))) (, ,) (VBZ does) (NP (PRP it)) (VP (VB mean) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VP (VBN lost) (PP (IN in) (NP (NP (DT a) (NN cluster)) (PP (IN of) (NP (NNS boats)))))) (CC or) (VP (VBG operating) (ADVP (RB clear) (PP (IN to) (NP (NN sea)))))))))) (. ?)))
+ThisthisDTOPER0wasbeVBDOPER0aaDTOPER0smallsmallJJOPER0boatboatNNOPER0thatthatINOPER0atatINOPER0thatthatDTOPER0pointpointNNOPER0,,,OPER0PeterPeterNNPPERSONPER0,,,OPER0shouldshouldMDOPER0notnotRBOPER0havehaveVBOPER0beenbeVBNOPER0approachingapproachVBGOPER0thisthisDTOPER0shipshipNNOPER0,,,OPER0butbutCCOPER0apparentlyapparentlyRBOPER0thetheDTOPER0handshandNNSOPER0ononINOPER0deckdeckNNOPER0whowhoWPOPER0werebeVBDOPER0supposedsupposeVBNOPER0totoTOOPER0bebeVBOPER0maintainingmaintainVBGOPER0securitysecurityNNOPER0,,,OPER0believedbelieveVBDOPER0thisthisDTOPER0wasbeVBDOPER0aaDTOPER0smallsmallJJOPER0boatboatNNOPER0theytheyPRPOPER0hadhaveVBDOPER0seenseeVBNOPER0earlierearlierRBRDATEPER0asasINOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0mooringmooringNNOPER0operationoperationNNOPER0,,,OPER0andandCCOPER0thereforethereforeRBOPER0diddoVBDOPER0notnotRBOPER0viewviewVBOPER0ititPRPOPER0asasINOPER0aaDTOPER0suspicioussuspiciousJJOPER0boatboatNNOPER0...OPER0(ROOT (S (S (NP (DT This)) (VP (VBD was) (NP (DT a) (JJ small) (NN boat)) (SBAR (IN that) (S (PP (IN at) (NP (DT that) (NN point))) (, ,) (NP (NNP Peter)) (, ,) (VP (MD should) (RB not) (VP (VB have) (VP (VBN been) (VP (VBG approaching) (NP (DT this) (NN ship)))))))))) (, ,) (CC but) (S (ADVP (RB apparently)) (NP (NP (DT the) (NNS hands)) (PP (IN on) (NP (NP (NN deck)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (S (VP (VBG maintaining) (NP (NN security)))))))))))))) (, ,) (VP (VBD believed) (SBAR (S (NP (DT this)) (VP (VBD was) (NP (NP (DT a) (JJ small) (NN boat)) (SBAR (S (NP (PRP they)) (VP (VP (VBD had) (VP (VBN seen) (ADVP (RBR earlier)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN mooring) (NN operation))))))) (, ,) (CC and) (ADVP (RB therefore)) (VP (VBD did) (RB not) (VP (VB view) (NP (PRP it)) (PP (IN as) (NP (DT a) (JJ suspicious) (NN boat)))))))))))))) (. .)))
+ThanksthanksNNSOPER0veryveryRBOPER0muchmuchRBOPER0...OPER0(ROOT (FRAG (NP (NNS Thanks)) (ADVP (RB very) (RB much)) (. .)))
+ItitPRPOPER0oftenoftenRBOPER0happenshappenVBZOPER0ininINOPER0aaDTOPER0casecaseNNOPER0likelikeINOPER0thisthisDTOPER0,,,OPER0asasINOPER0timetimeNNOPER0goesgoVBZOPER0ononRPOPER0,,,OPER0thetheDTOPER0assessmentassessmentNNOPER0changeschangeVBZOPER0...OPER0(ROOT (S (S (NP (PRP It)) (ADVP (RB often)) (VP (VBZ happens) (PP (IN in) (NP (NP (DT a) (NN case)) (PP (IN like) (NP (DT this))))))) (, ,) (S (SBAR (IN as) (S (NP (NN time)) (VP (VBZ goes) (PRT (RP on))))) (, ,) (NP (DT the) (NN assessment)) (VP (VBZ changes))) (. .)))
+TodaytodayNNOPER0,,,OPER0thetheDTOPER0bodiesbodyNNSOPER0ofofINOPER0thetheDTOPER0lastlastJJOPER0fourfourCDCARDINALPER0sailorssailorNNSOPER0recoveredrecoverVBNOPER0fromfromINOPER0thetheDTOPER0``````OColeColeNNPWORK_OF_ARTPER3''''''OPER0werebeVBDOPER0sentsendVBNOPER0homehomeRBOPER0totoINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (NP (NN Today)) (, ,) (NP (NP (DT the) (NNS bodies)) (PP (IN of) (NP (NP (DT the) (JJ last) (CD four) (NNS sailors)) (VP (VBN recovered) (PP (IN from) (NP (DT the) (`` ``) (NNP Cole) ('' ''))))))) (VP (VBD were) (VP (VBN sent) (ADVP (RB home) (PP (IN to) (NP (DT the) (NNP United) (NNP States)))))) (. .)))
+1717CDCARDINALPER0sailorssailorNNSOPER0werebeVBDOPER0killedkillVBNOPER0ininINOPER0thetheDTOPER0blastblastNNOPER0...OPER0(ROOT (S (NP (CD 17) (NNS sailors)) (VP (VBD were) (VP (VBN killed) (PP (IN in) (NP (DT the) (NN blast))))) (. .)))
+AtatINOPER0ArlingtonArlingtonNNPFACPER0NationalNationalNNPFACPER0CemeteryCemeteryNNPFACPER0,,,OPER0thetheDTOPER0firstfirstJJORDINALPER0ofofINOPER0thetheDTOPER0funeralsfuneralNNSOPER0...OPER0(ROOT (FRAG (PP (IN At) (NP (NNP Arlington))) (NP (NP (NNP National) (NNP Cemetery)) (, ,) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (DT the) (NNS funerals))))) (. .)))
+CheronCheronNNPPERSONPER0GunnGunnNNPPERSONPER0fromfromINOPER0RexRexNNPOPER0,,,OPER0GeorgiaGeorgiaNNPGPEPER0wasbeVBDOPER0buriedburyVBNOPER0nextnextRBOPER0totoINOPER0hishePRP$OPER0shipshipNNOPER0matemateNNOPER0RichardRichardNNPPERSONPER0CostelloCostelloNNPPERSONPER0ofofINOPER0MorrisvilleMorrisvilleNNPORGPER0,,,OPER0PennsylvaniaPennsylvaniaNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP Cheron) (NNP Gunn)) (PP (IN from) (NP (NP (NNP Rex)) (, ,) (NP (NNP Georgia))))) (VP (VBD was) (VP (VBN buried) (ADVP (RB next) (PP (IN to) (NP (NP (NP (PRP$ his) (NN ship) (NN mate)) (NP (NNP Richard) (NNP Costello))) (PP (IN of) (NP (NP (NNP Morrisville)) (, ,) (NP (NNP Pennsylvania))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))) (PP (IN in) (NP (NNP Yemen))))
+sid=0 spanning 3 until 8 headed by 6 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP ABC) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP Navy))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN attack))
+sid=3 spanning 11 until 16 headed by 14 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP Navy))
+sid=5 spanning 13 until 14 headed by 13 parsed as (NP (NNP Peter))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Navy))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN ship))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN explosion))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=7 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN blast))
+sid=8 spanning 9 until 11 headed by 10 parsed as Jennings
+sid=8 spanning 11 until 12 headed by 11 parsed as ABC
+sid=8 spanning 16 until 17 headed by 16 parsed as slipped
+sid=8 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN ship))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=11 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=12 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Navy))
+sid=12 spanning 7 until 21 headed by 7 parsed as (NP (NP (NP (NNS hands)) (PP (IN on) (NP (NN deck)))) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBG manning) (NP (NN machine) (NNS guns)))))))
+sid=12 spanning 9 until 10 headed by 9 parsed as (NP (NN deck))
+sid=12 spanning 24 until 25 headed by 24 parsed as (NP (PRP they))
+sid=12 spanning 27 until 30 headed by 29 parsed as (NP (DT this) (JJ small) (NN boat))
+sid=12 spanning 33 until 36 headed by 35 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=12 spanning 42 until 43 headed by 42 parsed as (NP (PRP they))
+sid=13 spanning 1 until 2 headed by 1 parsed as (NP (PRP me))
+sid=14 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=14 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=14 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=15 spanning 10 until 11 headed by 10 parsed as (NP (NNP Peter))
+sid=15 spanning 17 until 19 headed by 18 parsed as (NP (DT this) (NN ship))
+sid=15 spanning 22 until 33 headed by 23 parsed as (NP (NP (DT the) (NNS hands)) (PP (IN on) (NP (NP (NN deck)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (S (VP (VBG maintaining) (NP (NN security))))))))))))))
+sid=15 spanning 25 until 26 headed by 25 parsed as (NP (NP (NN deck)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (S (VP (VBG maintaining) (NP (NN security))))))))))))
+sid=15 spanning 35 until 36 headed by 35 parsed as (NP (DT this))
+sid=15 spanning 40 until 41 headed by 40 parsed as (NP (PRP they))
+sid=15 spanning 47 until 50 headed by 49 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=15 spanning 56 until 57 headed by 56 parsed as (NP (PRP it))
+sid=18 spanning 11 until 15 headed by 13 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=19 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN blast))
+sid=21 spanning 0 until 6 headed by 1 parsed as (NP (NP (NNP Cheron) (NNP Gunn)) (PP (IN from) (NP (NP (NNP Rex)) (, ,) (NP (NNP Georgia)))))
+sid=21 spanning 10 until 11 headed by 10 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NN attack)) (PP (IN on) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))) (PP (IN in) (NP (NNP Yemen))))
+sid=0 spanning 3 until 8 headed by 6 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Yemen))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Barry) (NNP Serafin))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP ABC) (POS 's))
+sid=1 spanning 6 until 9 headed by 8 parsed as (NP (PRP$ our) (NNP Washington) (NNP Bureau))
+sid=1 spanning 6 until 7 headed by 6 parsed as (PRP$ our)
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=2 spanning 2 until 10 headed by 3 parsed as (NP (NP (DT the) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (NNP Navy)) (VP (VBZ is) (VP (VBG looking) (PP (IN at)))))))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP Navy))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (JJ actual) (NN timing))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN attack))
+sid=3 spanning 11 until 16 headed by 14 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (DT the) (NNP Navy))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP Navy))
+sid=5 spanning 13 until 14 headed by 13 parsed as (NP (NNP Peter))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Navy))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN ship))
+sid=6 spanning 9 until 12 headed by 11 parsed as (NP (QP (RB nearly) (CD two)) (NNS hours))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN explosion))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=7 spanning 7 until 18 headed by 8 parsed as (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG being) (VP (VBN refueled) (PP (IN at) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (DT the) (NN blast))))))))))
+sid=7 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT the) (NN time)) (PP (IN of) (NP (DT the) (NN blast))))
+sid=7 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN blast))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT the) (NN theory))
+sid=8 spanning 4 until 15 headed by 13 parsed as (NP (NML (NNP RTJ) (NNP C) (NML (NML (NNP World) (NNP News)) (SYM /) (NML (NNP Peter) (NNP Jennings) (NNP ABC))) (NN %)) (NNP RTJ) (. !))
+sid=8 spanning 19 until 24 headed by 19 parsed as (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN mooring) (NN operation))))
+sid=8 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN ship))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=11 spanning 3 until 7 headed by 6 parsed as (NP (DT a) (ADJP (RB very) (JJ vulnerable)) (NN position))
+sid=11 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=12 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Navy))
+sid=12 spanning 7 until 15 headed by 7 parsed as (NP (NP (NP (NNS hands)) (PP (IN on) (NP (NN deck)))) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBG manning) (NP (NN machine) (NNS guns)))))))
+sid=12 spanning 13 until 15 headed by 14 parsed as (NP (NN machine) (NNS guns))
+sid=12 spanning 17 until 21 headed by 17 parsed as (NP (NP (NN part)) (PP (IN of) (NP (DT an) (NN alert))))
+sid=12 spanning 19 until 21 headed by 20 parsed as (NP (DT an) (NN alert))
+sid=12 spanning 24 until 25 headed by 24 parsed as (NP (PRP they))
+sid=12 spanning 27 until 30 headed by 29 parsed as (NP (DT this) (JJ small) (NN boat))
+sid=12 spanning 31 until 36 headed by 31 parsed as (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN mooring) (NN operation))))
+sid=12 spanning 33 until 36 headed by 35 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=12 spanning 42 until 43 headed by 42 parsed as (NP (PRP they))
+sid=13 spanning 1 until 2 headed by 1 parsed as (NP (PRP me))
+sid=13 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ last) (NN point))
+sid=14 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=14 spanning 4 until 9 headed by 4 parsed as (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN mooring) (NN operation))))
+sid=14 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=14 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=14 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=14 spanning 17 until 21 headed by 18 parsed as (NP (NP (DT a) (NN cluster)) (PP (IN of) (NP (NNS boats))))
+sid=14 spanning 20 until 21 headed by 20 parsed as (NP (NNS boats))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=15 spanning 2 until 5 headed by 4 parsed as (NP (DT a) (JJ small) (NN boat))
+sid=15 spanning 7 until 9 headed by 8 parsed as (NP (DT that) (NN point))
+sid=15 spanning 10 until 11 headed by 10 parsed as (NP (NNP Peter))
+sid=15 spanning 17 until 19 headed by 18 parsed as (NP (DT this) (NN ship))
+sid=15 spanning 22 until 33 headed by 23 parsed as (NP (NP (DT the) (NNS hands)) (PP (IN on) (NP (NP (NN deck)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (S (VP (VBG maintaining) (NP (NN security))))))))))))))
+sid=15 spanning 25 until 33 headed by 25 parsed as (NP (NP (NN deck)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (S (VP (VBG maintaining) (NP (NN security))))))))))))
+sid=15 spanning 35 until 36 headed by 35 parsed as (NP (DT this))
+sid=15 spanning 37 until 61 headed by 39 parsed as (NP (NP (DT a) (JJ small) (NN boat)) (SBAR (S (NP (PRP they)) (VP (VP (VBD had) (VP (VBN seen) (ADVP (RBR earlier)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN mooring) (NN operation))))))) (, ,) (CC and) (ADVP (RB therefore)) (VP (VBD did) (RB not) (VP (VB view) (NP (PRP it)) (PP (IN as) (NP (DT a) (JJ suspicious) (NN boat)))))))))
+sid=15 spanning 40 until 41 headed by 40 parsed as (NP (PRP they))
+sid=15 spanning 43 until 44 headed by 43 parsed as earlier
+sid=15 spanning 45 until 50 headed by 45 parsed as (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN mooring) (NN operation))))
+sid=15 spanning 47 until 50 headed by 49 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=15 spanning 56 until 57 headed by 56 parsed as (NP (PRP it))
+sid=15 spanning 58 until 61 headed by 60 parsed as (NP (DT a) (JJ suspicious) (NN boat))
+sid=16 spanning 0 until 1 headed by 0 parsed as (NP (NNS Thanks))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=17 spanning 4 until 8 headed by 5 parsed as (NP (NP (DT a) (NN case)) (PP (IN like) (NP (DT this))))
+sid=17 spanning 7 until 8 headed by 7 parsed as (NP (DT this))
+sid=17 spanning 10 until 11 headed by 10 parsed as (NP (NN time))
+sid=17 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN assessment))
+sid=18 spanning 2 until 15 headed by 3 parsed as (NP (NP (DT the) (NNS bodies)) (PP (IN of) (NP (NP (DT the) (JJ last) (CD four) (NNS sailors)) (VP (VBN recovered) (PP (IN from) (NP (DT the) (`` ``) (NNP Cole) ('' '')))))))
+sid=18 spanning 5 until 15 headed by 8 parsed as (NP (NP (DT the) (JJ last) (CD four) (NNS sailors)) (VP (VBN recovered) (PP (IN from) (NP (DT the) (`` ``) (NNP Cole) ('' '')))))
+sid=18 spanning 11 until 15 headed by 13 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=18 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=19 spanning 0 until 2 headed by 1 parsed as (NP (CD 17) (NNS sailors))
+sid=19 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN blast))
+sid=20 spanning 1 until 4 headed by 3 parsed as (NP (NP (NNP National) (NNP Cemetery)) (, ,) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (DT the) (NNS funerals)))))
+sid=20 spanning 2 until 10 headed by 3 parsed as (NP (NP (NNP National) (NNP Cemetery)) (, ,) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (DT the) (NNS funerals)))))
+sid=20 spanning 5 until 10 headed by 6 parsed as (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (DT the) (NNS funerals))))
+sid=20 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS funerals))
+sid=21 spanning 0 until 6 headed by 1 parsed as (NP (NP (NNP Cheron) (NNP Gunn)) (PP (IN from) (NP (NP (NNP Rex)) (, ,) (NP (NNP Georgia)))))
+sid=21 spanning 3 until 6 headed by 3 parsed as (NP (NP (NNP Rex)) (, ,) (NP (NNP Georgia)))
+sid=21 spanning 3 until 4 headed by 3 parsed as (NP (NNP Rex))
+sid=21 spanning 5 until 6 headed by 5 parsed as (NP (NNP Georgia))
+sid=21 spanning 10 until 19 headed by 12 parsed as (NP (NP (NP (PRP$ his) (NN ship) (NN mate)) (NP (NNP Richard) (NNP Costello))) (PP (IN of) (NP (NP (NNP Morrisville)) (, ,) (NP (NNP Pennsylvania)))))
+sid=21 spanning 10 until 11 headed by 10 parsed as (PRP$ his)
+sid=21 spanning 13 until 15 headed by 14 parsed as (NP (NNP Richard) (NNP Costello))
+sid=21 spanning 16 until 17 headed by 16 parsed as (NP (NP (NNP Morrisville)) (, ,) (NP (NNP Pennsylvania)))
+sid=21 spanning 16 until 19 headed by 16 parsed as (NP (NP (NNP Morrisville)) (, ,) (NP (NNP Pennsylvania)))
+sid=21 spanning 18 until 19 headed by 18 parsed as (NP (NNP Pennsylvania))
+(end predicted mentions)
+---------gold clusters--------
+45 44 | { 'his' 'Cheron Gunn from Rex , Georgia' }
+18 16 | { 'That' 'slipped' }
+24 37 | { 'deck' 'deck' }
+22 4 9 7 | { 'the Navy' 'the Navy' 'The Navy' 'the Navy' }
+10 42 19 20 1 35 21 12 6 | { 'the ship' 'the `` Cole ''' 'The ship' 'It' 'the `` USS Cole ''' 'this ship' 'it' 'It' 'the `` USS Cole ''' }
+15 2 | { 'ABC' 'ABC 's' }
+11 43 13 0 5 | { 'the explosion' 'the blast' 'the blast' 'The attack on the `` USS Cole '' in Yemen' 'the attack' }
+8 3 14 29 34 | { 'Peter' 'I' 'Peter Jennings' 'me' 'Peter' }
+23 36 28 25 39 | { 'hands on deck who were manning machine guns , as part of an alert' 'the hands on deck who were supposed to be maintaining security' 'they' 'they' 'they' }
+27 17 31 40 | { 'the mooring operation' 'the mooring operation' 'the mooring operation' 'the mooring operation' }
+33 30 26 41 32 38 | { 'This' 'it' 'this small boat' 'it' 'it' 'this' }
+(end gold clusters)

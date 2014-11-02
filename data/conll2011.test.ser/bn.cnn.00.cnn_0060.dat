@@ -1,0 +1,72 @@
+---------gloss--------
+(0) One of the last bastions of the Cold War is the scene of some diplomatic thawing [33m{today}[0m . 
+(1) [31m{North Korea}[0m opened [31m{its}[0m doors to [32m{the U.S.}[0m [33m{today}[0m , welcoming [34m{Secretary of State Madeleine Albright}[0m for unprecedented talks with leader Kim Jong - il . 
+(2) [34m{Albright}[0m is laying the groundwork for a visit by President Clinton . 
+(3) [34m{She}[0m says [34m{her}[0m visit is a good start , but the road to normal relations remains uphill . 
+(4) [32m{The U.S.}[0m remains concerned about [31m{North Korea 's}[0m missile development program and [31m{its}[0m exports of missiles to Iran and Syria . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0060); part 000
+sentences:
+OneoneCDCARDINALPER0ofofINOPER0thetheDTOPER0lastlastJJOPER0bastionsbastionNNSOPER0ofofINOPER0thetheDTEVENTPER0ColdColdNNPEVENTPER0WarWarNNPEVENTPER0isbeVBZOPER0thetheDTOPER0scenesceneNNOPER0ofofINOPER0somesomeDTOPER0diplomaticdiplomaticJJOPER0thawingthawingNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ last) (NNS bastions)) (PP (IN of) (NP (DT the) (NNP Cold) (NNP War)))))) (VP (VBZ is) (NP (NP (DT the) (NN scene)) (PP (IN of) (NP (NP (DT some) (JJ diplomatic) (NN thawing)) (NP (NN today)))))) (. .)))
+NorthNorthNNPGPEPER0KoreaKoreaNNPGPEPER0openedopenVBDOPER0itsitsPRP$OPER0doorsdoorNNSOPER0totoINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0todaytodayNNDATEPER0,,,OPER0welcomingwelcomeVBGOPER0SecretarySecretaryNNPOPER0ofofINOPER0StateStateNNPORGPER0MadeleineMadeleineNNPPERSONPER0AlbrightAlbrightNNPPERSONPER0forforINOPER0unprecedentedunprecedentedJJOPER0talkstalkNNSOPER0withwithINOPER0leaderleaderNNOPER0KimKimNNPPERSONPER0JongJongNNPPERSONPER0--HYPHPERSONPER0ililNNPPERSONPER0...OPER0(ROOT (S (NP (NNP North) (NNP Korea)) (VP (VBD opened) (NP (PRP$ its) (NNS doors)) (PP (IN to) (NP (DT the) (NNP U.S.))) (NP (NN today)) (, ,) (S (VP (VBG welcoming) (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright))) (PP (IN for) (NP (NP (JJ unprecedented) (NNS talks)) (PP (IN with) (NP (NN leader) (NNP Kim) (NNP Jong) (HYPH -) (NNP il)))))))) (. .)))
+AlbrightAlbrightNNPPERSONPER0isbeVBZOPER0layinglayVBGOPER0thetheDTOPER0groundworkgroundworkNNOPER0forforINOPER0aaDTOPER0visitvisitNNOPER0bybyINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0...OPER0(ROOT (S (NP (NNP Albright)) (VP (VBZ is) (VP (VBG laying) (NP (NP (DT the) (NN groundwork)) (PP (IN for) (NP (NP (DT a) (NN visit)) (PP (IN by) (NP (NNP President) (NNP Clinton)))))))) (. .)))
+SheshePRPOPER0sayssayVBZOPER0hershePRP$OPER0visitvisitNNOPER0isbeVBZOPER0aaDTOPER0goodgoodJJOPER0startstartNNOPER0,,,OPER0butbutCCOPER0thetheDTOPER0roadroadNNOPER0totoINOPER0normalnormalJJOPER0relationsrelationNNSOPER0remainsremainVBZOPER0uphilluphillJJOPER0...OPER0(ROOT (S (S (NP (PRP She)) (VP (VBZ says) (SBAR (S (NP (PRP$ her) (NN visit)) (VP (VBZ is) (NP (DT a) (JJ good) (NN start))))))) (, ,) (CC but) (S (NP (NP (DT the) (NN road)) (PP (IN to) (NP (JJ normal) (NNS relations)))) (VP (VBZ remains) (ADJP (JJ uphill)))) (. .)))
+ThetheDTOPER0U.S.U.S.NNPGPEPER0remainsremainVBZOPER0concernedconcernedJJOPER0aboutaboutINOPER0NorthNorthNNPGPEPER0KoreaKoreaNNPGPEPER0's'sPOSGPEPER0missilemissileNNOPER0developmentdevelopmentNNOPER0programprogramNNOPER0andandCCOPER0itsitsPRP$OPER0exportsexportNNSOPER0ofofINOPER0missilesmissileNNSOPER0totoINOPER0IranIranNNPGPEPER0andandCCOPER0SyriaSyriaNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NNP U.S.)) (VP (VBZ remains) (ADJP (JJ concerned) (PP (IN about) (NP (NP (NP (NNP North) (NNP Korea) (POS 's)) (NML (NN missile) (NN development)) (NN program)) (CC and) (NP (NP (PRP$ its) (NNS exports)) (PP (IN of) (NP (NP (NNS missiles)) (PP (IN to) (NP (NNP Iran) (CC and) (NNP Syria)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NN today))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP North) (NNP Korea))
+sid=1 spanning 3 until 4 headed by 3 parsed as its
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNP U.S.))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NN today))
+sid=1 spanning 11 until 16 headed by 11 parsed as (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright)))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Albright))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=3 spanning 2 until 3 headed by 2 parsed as her
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP U.S.))
+sid=4 spanning 5 until 8 headed by 6 parsed as (NP (NNP North) (NNP Korea) (POS 's))
+sid=4 spanning 12 until 13 headed by 12 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 0 parsed as (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJ last) (NNS bastions)) (PP (IN of) (NP (DT the) (NNP Cold) (NNP War))))))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Cold) (NNP War))
+sid=0 spanning 10 until 17 headed by 11 parsed as (NP (NP (DT the) (NN scene)) (PP (IN of) (NP (NP (DT some) (JJ diplomatic) (NN thawing)) (NP (NN today)))))
+sid=0 spanning 13 until 17 headed by 15 parsed as (NP (NP (DT some) (JJ diplomatic) (NN thawing)) (NP (NN today)))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP North) (NNP Korea))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ its) (NNS doors))
+sid=1 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNP U.S.))
+sid=1 spanning 11 until 16 headed by 11 parsed as (NP (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP State)))) (NP (NNP Madeleine) (NNP Albright)))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NNP State))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NNP Madeleine) (NNP Albright))
+sid=1 spanning 17 until 25 headed by 18 parsed as (NP (NP (JJ unprecedented) (NNS talks)) (PP (IN with) (NP (NN leader) (NNP Kim) (NNP Jong) (HYPH -) (NNP il))))
+sid=1 spanning 20 until 25 headed by 24 parsed as (NP (NN leader) (NNP Kim) (NNP Jong) (HYPH -) (NNP il))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Albright))
+sid=2 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NN groundwork)) (PP (IN for) (NP (NP (DT a) (NN visit)) (PP (IN by) (NP (NNP President) (NNP Clinton))))))
+sid=2 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT a) (NN visit)) (PP (IN by) (NP (NNP President) (NNP Clinton))))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NNP President) (NNP Clinton))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ her) (NN visit))
+sid=3 spanning 2 until 3 headed by 2 parsed as (PRP$ her)
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ good) (NN start))
+sid=3 spanning 10 until 15 headed by 11 parsed as (NP (NP (DT the) (NN road)) (PP (IN to) (NP (JJ normal) (NNS relations))))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (JJ normal) (NNS relations))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP U.S.))
+sid=4 spanning 5 until 20 headed by 10 parsed as (NP (NP (NP (NNP North) (NNP Korea) (POS 's)) (NML (NN missile) (NN development)) (NN program)) (CC and) (NP (NP (PRP$ its) (NNS exports)) (PP (IN of) (NP (NP (NNS missiles)) (PP (IN to) (NP (NNP Iran) (CC and) (NNP Syria)))))))
+sid=4 spanning 5 until 11 headed by 10 parsed as (NP (NP (NNP North) (NNP Korea) (POS 's)) (NML (NN missile) (NN development)) (NN program))
+sid=4 spanning 5 until 8 headed by 6 parsed as (NP (NNP North) (NNP Korea) (POS 's))
+sid=4 spanning 12 until 20 headed by 13 parsed as (NP (NP (PRP$ its) (NNS exports)) (PP (IN of) (NP (NP (NNS missiles)) (PP (IN to) (NP (NNP Iran) (CC and) (NNP Syria))))))
+sid=4 spanning 12 until 13 headed by 12 parsed as (PRP$ its)
+sid=4 spanning 15 until 20 headed by 15 parsed as (NP (NP (NNS missiles)) (PP (IN to) (NP (NNP Iran) (CC and) (NNP Syria))))
+sid=4 spanning 17 until 18 headed by 17 parsed as (NP (NNP Iran) (CC and) (NNP Syria))
+sid=4 spanning 17 until 20 headed by 17 parsed as (NP (NNP Iran) (CC and) (NNP Syria))
+sid=4 spanning 19 until 20 headed by 19 parsed as Syria
+(end predicted mentions)
+---------gold clusters--------
+2 1 10 11 | { 'its' 'North Korea' 'North Korea 's' 'its' }
+9 3 | { 'The U.S.' 'the U.S.' }
+4 0 | { 'today' 'today' }
+7 8 5 6 | { 'She' 'her' 'Secretary of State Madeleine Albright' 'Albright' }
+(end gold clusters)

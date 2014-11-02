@@ -1,0 +1,83 @@
+---------gloss--------
+(0) [3m[34m{Procter & Gamble Co.}[0m and [4m[31m{Noxell Corp.}[0m said [3m[36m{they}[0m received early termination of the waiting period under the Hart - Scott - Rodino Act regarding [3m[35m{the proposed $ 1.4 billion merger of Noxell into P&G}[0m . 
+(1) Shareholders of [4m[31m{Noxell , of Hunt Valley , Md. ,}[0m will vote on [3m[35m{the merger}[0m at a special meeting on Nov. 30 , [3m[36m{the companies}[0m said . 
+(2) [3m[34m{P&G , Cincinnati ,}[0m agreed to [3m[35m{exchange}[0m 0.272 share of [3m[34m{its}[0m common stock for each share of [4m[31m{Noxell}[0m common and Class B stock , a total of about 11 million [3m[34m{P&G}[0m shares . 
+(3) [3m[35m{The transaction}[0m would mark the entry of [3m[34m{P&G}[0m into cosmetics . 
+(4) [3m[34m{The company}[0m already markets a wide range of detergents , food , household and health - care products . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1508); part 000
+sentences:
+ProcterProcterNNPORGPER0&&CCORGPER0GambleGambleNNPORGPER0Co.Co.NNPORGPER0andandCCOPER0NoxellNoxellNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0theytheyPRPOPER0receivedreceiveVBDOPER0earlyearlyJJOPER0terminationterminationNNOPER0ofofINOPER0thetheDTOPER0waitingwaitVBGOPER0periodperiodNNOPER0underunderINOPER0thetheDTLAWPER0HartHartNNPLAWPER0--HYPHLAWPER0ScottScottNNPLAWPER0--HYPHLAWPER0RodinoRodinoNNPLAWPER0ActActNNPLAWPER0regardingregardVBGOPER0thetheDTOPER0proposedproposeVBNOPER0$$$MONEYPER01.41.4CDMONEYPER0billionbillionCDMONEYPER0mergermergerNNOPER0ofofINOPER0NoxellNoxellNNPORGPER0intointoINOPER0P&GP&GNNPORGPER0...OPER0(ROOT (S (NP (NP (NP (NNP Procter) (CC &) (NNP Gamble)) (NNP Co.)) (CC and) (NP (NNP Noxell) (NNP Corp.))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD received) (NP (NP (JJ early) (NN termination)) (PP (IN of) (NP (NP (DT the) (VBG waiting) (NN period)) (PP (IN under) (NP (DT the) (NML (NNP Hart) (HYPH -) (NNP Scott) (HYPH -) (NNP Rodino)) (NNP Act)))))) (PP (VBG regarding) (NP (NP (DT the) (VBN proposed) (NML (QP ($ $) (CD 1.4) (CD billion))) (NN merger)) (PP (IN of) (NP (NNP Noxell))) (PP (IN into) (NP (NNP P&G))))))))) (. .)))
+ShareholdersshareholderNNSOPER0ofofINOPER0NoxellNoxellNNPORGPER0,,,OPER0ofofINOPER0HuntHuntNNPGPEPER0ValleyValleyNNPGPEPER0,,,OPER0Md.Md.NNPGPEPER0,,,OPER0willwillMDOPER0votevoteVBOPER0ononINOPER0thetheDTOPER0mergermergerNNOPER0atatINOPER0aaDTOPER0specialspecialJJOPER0meetingmeetingNNOPER0ononINOPER0Nov.Nov.NNPDATEPER03030CDDATEPER0,,,OPER0thetheDTOPER0companiescompanyNNSOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NNS Shareholders)) (PP (IN of) (NP (NNP Noxell))) (, ,) (PP (IN of) (NP (NP (NNP Hunt) (NNP Valley)) (, ,) (NP (NNP Md.)))) (, ,)) (VP (MD will) (VP (VB vote) (PP (IN on) (NP (DT the) (NN merger))) (PP (IN at) (NP (NP (DT a) (JJ special) (NN meeting)) (PP (IN on) (NP (NNP Nov.) (CD 30)))))))) (, ,) (NP (DT the) (NNS companies)) (VP (VBD said)) (. .)))
+P&GP&GNNPOPER0,,,OPER0CincinnatiCincinnatiNNPGPEPER0,,,OPER0agreedagreeVBDOPER0totoTOOPER0exchangeexchangeVBOPER00.2720.272CDCARDINALPER0shareshareNNOPER0ofofINOPER0itsitsPRP$OPER0commoncommonJJOPER0stockstockNNOPER0forforINOPER0eacheachDTOPER0shareshareNNOPER0ofofINOPER0NoxellNoxellNNPORGPER0commoncommonJJOPER0andandCCOPER0ClassClassNNPOPER0BBNNPOPER0stockstockNNOPER0,,,OPER0aaDTOPER0totaltotalNNOPER0ofofINOPER0aboutaboutRBMONEYPER01111CDMONEYPER0millionmillionCDMONEYPER0P&GP&GNNPORGPER0sharesshareNNSOPER0...OPER0(ROOT (S (NP (NP (NNP P&G)) (, ,) (NP (NNP Cincinnati)) (, ,)) (VP (VP (VBD agreed) (S (VP (TO to) (VP (VB exchange) (NP (NP (CD 0.272) (NN share)) (PP (IN of) (NP (PRP$ its) (JJ common) (NN stock)))) (PP (IN for) (NP (NP (DT each) (NN share)) (PP (IN of) (NP (NP (NNP Noxell) (JJ common)) (CC and) (NP (NML (NNP Class) (NNP B)) (NN stock)))))))))) (, ,) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP (RB about) (CD 11) (CD million)) (NNP P&G) (NNS shares))))) (. .)))
+ThetheDTOPER0transactiontransactionNNOPER0wouldwouldMDOPER0markmarkVBOPER0thetheDTOPER0entryentryNNOPER0ofofINOPER0P&GP&GNNPORGPER0intointoINOPER0cosmeticscosmeticNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN transaction)) (VP (MD would) (VP (VB mark) (NP (NP (DT the) (NN entry)) (PP (IN of) (NP (NNP P&G))) (PP (IN into) (NP (NNS cosmetics)))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0alreadyalreadyRBOPER0marketsmarketVBZOPER0aaDTOPER0widewideJJOPER0rangerangeNNOPER0ofofINOPER0detergentsdetergentNNSOPER0,,,OPER0foodfoodNNOPER0,,,OPER0householdhouseholdNNOPER0andandCCOPER0healthhealthNNOPER0--HYPHOPER0carecareNNOPER0productsproductNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (ADVP (RB already)) (VP (VBZ markets) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NP (NNS detergents) (, ,) (NN food) (, ,) (NN household) (CC and) (NML (NN health) (HYPH -) (NN care))) (NNS products))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 3 parsed as (NP (NP (NP (NNP Procter) (CC &) (NNP Gamble)) (NNP Co.)) (CC and) (NP (NNP Noxell) (NNP Corp.)))
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NP (NNP Procter) (CC &) (NNP Gamble)) (NNP Co.)) (CC and) (NP (NNP Noxell) (NNP Corp.)))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP Noxell) (NNP Corp.))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP they))
+sid=0 spanning 25 until 35 headed by 30 parsed as (NP (NP (DT the) (VBN proposed) (NML (QP ($ $) (CD 1.4) (CD billion))) (NN merger)) (PP (IN of) (NP (NNP Noxell))) (PP (IN into) (NP (NNP P&G))))
+sid=0 spanning 32 until 33 headed by 32 parsed as (NP (NNP Noxell))
+sid=0 spanning 34 until 35 headed by 34 parsed as (NP (NNP P&G))
+sid=1 spanning 2 until 10 headed by 2 parsed as (NP (NNP Noxell))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN merger))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NNS companies))
+sid=2 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNP P&G)) (, ,) (NP (NNP Cincinnati)) (, ,))
+sid=2 spanning 6 until 7 headed by 6 parsed as exchange
+sid=2 spanning 10 until 11 headed by 10 parsed as its
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NP (NNP Noxell) (JJ common)) (CC and) (NP (NML (NNP Class) (NNP B)) (NN stock)))
+sid=2 spanning 30 until 31 headed by 30 parsed as P&G
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN transaction))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP P&G))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NP (NNP Procter) (CC &) (NNP Gamble)) (NNP Co.)) (CC and) (NP (NNP Noxell) (NNP Corp.)))
+sid=0 spanning 0 until 7 headed by 3 parsed as (NP (NP (NP (NNP Procter) (CC &) (NNP Gamble)) (NNP Co.)) (CC and) (NP (NNP Noxell) (NNP Corp.)))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP Noxell) (NNP Corp.))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP they))
+sid=0 spanning 13 until 24 headed by 15 parsed as (NP (NP (DT the) (VBG waiting) (NN period)) (PP (IN under) (NP (DT the) (NML (NNP Hart) (HYPH -) (NNP Scott) (HYPH -) (NNP Rodino)) (NNP Act))))
+sid=0 spanning 17 until 24 headed by 23 parsed as (NP (DT the) (NML (NNP Hart) (HYPH -) (NNP Scott) (HYPH -) (NNP Rodino)) (NNP Act))
+sid=0 spanning 25 until 35 headed by 30 parsed as (NP (NP (DT the) (VBN proposed) (NML (QP ($ $) (CD 1.4) (CD billion))) (NN merger)) (PP (IN of) (NP (NNP Noxell))) (PP (IN into) (NP (NNP P&G))))
+sid=0 spanning 32 until 33 headed by 32 parsed as (NP (NNP Noxell))
+sid=0 spanning 34 until 35 headed by 34 parsed as (NP (NNP P&G))
+sid=1 spanning 0 until 10 headed by 0 parsed as (NP (NP (NNS Shareholders)) (PP (IN of) (NP (NNP Noxell))) (, ,) (PP (IN of) (NP (NP (NNP Hunt) (NNP Valley)) (, ,) (NP (NNP Md.)))) (, ,))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Noxell))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NP (NNP Hunt) (NNP Valley)) (, ,) (NP (NNP Md.)))
+sid=1 spanning 5 until 9 headed by 6 parsed as (NP (NP (NNP Hunt) (NNP Valley)) (, ,) (NP (NNP Md.)))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Md.))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN merger))
+sid=1 spanning 16 until 22 headed by 18 parsed as (NP (NP (DT a) (JJ special) (NN meeting)) (PP (IN on) (NP (NNP Nov.) (CD 30))))
+sid=1 spanning 20 until 22 headed by 20 parsed as (NP (NNP Nov.) (CD 30))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NNS companies))
+sid=2 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNP P&G)) (, ,) (NP (NNP Cincinnati)) (, ,))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP P&G))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP Cincinnati))
+sid=2 spanning 7 until 13 headed by 8 parsed as (NP (NP (CD 0.272) (NN share)) (PP (IN of) (NP (PRP$ its) (JJ common) (NN stock))))
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (PRP$ its) (JJ common) (NN stock))
+sid=2 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=2 spanning 14 until 23 headed by 15 parsed as (NP (NP (DT each) (NN share)) (PP (IN of) (NP (NP (NNP Noxell) (JJ common)) (CC and) (NP (NML (NNP Class) (NNP B)) (NN stock)))))
+sid=2 spanning 17 until 23 headed by 17 parsed as (NP (NP (NNP Noxell) (JJ common)) (CC and) (NP (NML (NNP Class) (NNP B)) (NN stock)))
+sid=2 spanning 17 until 19 headed by 17 parsed as (NP (NNP Noxell) (JJ common))
+sid=2 spanning 20 until 23 headed by 22 parsed as (NP (NML (NNP Class) (NNP B)) (NN stock))
+sid=2 spanning 24 until 32 headed by 25 parsed as (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP (RB about) (CD 11) (CD million)) (NNP P&G) (NNS shares))))
+sid=2 spanning 30 until 31 headed by 30 parsed as P&G
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN transaction))
+sid=3 spanning 4 until 10 headed by 5 parsed as (NP (NP (DT the) (NN entry)) (PP (IN of) (NP (NNP P&G))) (PP (IN into) (NP (NNS cosmetics))))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP P&G))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNS cosmetics))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=4 spanning 4 until 18 headed by 6 parsed as (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NP (NNS detergents) (, ,) (NN food) (, ,) (NN household) (CC and) (NML (NN health) (HYPH -) (NN care))) (NNS products))))
+sid=4 spanning 8 until 18 headed by 17 parsed as (NP (NP (NNS detergents) (, ,) (NN food) (, ,) (NN household) (CC and) (NML (NN health) (HYPH -) (NN care))) (NNS products))
+sid=4 spanning 8 until 17 headed by 8 parsed as (NP (NNS detergents) (, ,) (NN food) (, ,) (NN household) (CC and) (NML (NN health) (HYPH -) (NN care)))
+(end predicted mentions)
+---------gold clusters--------
+17 14 1 16 12 6 10 | { 'The company' 'P&G' 'Procter & Gamble Co.' 'P&G' 'its' 'P&G' 'P&G , Cincinnati ,' }
+11 15 4 8 | { 'exchange' 'The transaction' 'the proposed $ 1.4 billion merger of Noxell into P&G' 'the merger' }
+3 0 9 | { 'they' 'Procter & Gamble Co. and Noxell Corp.' 'the companies' }
+13 2 7 5 | { 'Noxell' 'Noxell Corp.' 'Noxell , of Hunt Valley , Md. ,' 'Noxell' }
+(end gold clusters)

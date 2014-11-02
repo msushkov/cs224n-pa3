@@ -1,0 +1,43 @@
+---------gloss--------
+(0) [36m{Martha Stewart 's company officially known as Martha Stewart Living Omnimedia}[0m earned $ 3.8 million last quarter , more than double [36m{its}[0m profits a year ago , and [36m{the company}[0m says [36m{it}[0m 's comfortable at the high end of profit estimates for the current quarter as well . 
+(1) [1m[31m{Martha Stewart}[0m has a TV show , several books and a house wares line at Kmart . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0085); part 000
+sentences:
+MarthaMarthaNNPPERSONPER0StewartStewartNNPPERSONPER0'sbeVBZOPER0companycompanyNNOPER0officiallyofficiallyRBOPER0knownknowVBNOPER0asasINOPER0MarthaMarthaNNPPERSONPER0StewartStewartNNPPERSONPER0LivingLivingNNPPERSONPER0OmnimediaOmnimediaNNPPERSONPER0earnedearnVBDOPER0$$$MONEYPER03.83.8CDMONEYPER0millionmillionCDMONEYPER0lastlastJJDATEPER0quarterquarterNNDATEPER0,,,OPER0moremoreJJROPER0thanthanINOPER0doubledoublePDTOPER0itsitsPRP$OPER0profitsprofitNNSOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0,,,OPER0andandCCOPER0thetheDTOPER0companycompanyNNOPER0sayssayVBZOPER0ititPRPOPER0'sbeVBZOPER0comfortablecomfortableJJOPER0atatINOPER0thetheDTOPER0highhighJJOPER0endendNNOPER0ofofINOPER0profitprofitNNOPER0estimatesestimateNNSOPER0forforINOPER0thetheDTDATEPER0currentcurrentJJDATEPER0quarterquarterNNDATEPER0asasRBOPER0wellwellRBOPER0...OPER0(ROOT (S (NP (NNP Martha) (NNP Stewart)) (VP (VBZ 's) (NP (NP (NN company)) (VP (ADVP (RB officially)) (VBN known) (PP (IN as) (S (S (NP (NML (NNP Martha) (NNP Stewart)) (NNP Living) (NNP Omnimedia)) (VP (VBD earned) (NP (NP (NP (QP ($ $) (CD 3.8) (CD million))) (NP (JJ last) (NN quarter))) (, ,) (ADJP (ADJP (JJR more)) (PP (IN than) (NP (PDT double) (PRP$ its) (NNS profits))))) (ADVP (NP (DT a) (NN year)) (RB ago)))) (, ,) (CC and) (S (NP (DT the) (NN company)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ comfortable)) (PP (IN at) (NP (NP (DT the) (JJ high) (NN end)) (PP (IN of) (NP (NP (NN profit) (NNS estimates)) (PP (IN for) (NP (DT the) (JJ current) (NN quarter))))))) (ADVP (RB as) (RB well)))))))))))) (. .)))
+MarthaMarthaNNPPERSONPER0StewartStewartNNPPERSONPER0hashaveVBZOPER0aaDTOPER0TVtvNNOPER0showshowNNOPER0,,,OPER0severalseveralJJOPER0booksbookNNSOPER0andandCCOPER0aaDTOPER0househouseNNOPER0wareswaresNNSOPER0linelineNNOPER0atatINOPER0KmartKmartNNPORGPER0...OPER0(ROOT (S (NP (NNP Martha) (NNP Stewart)) (VP (VBZ has) (NP (NP (DT a) (NN TV) (NN show)) (, ,) (NP (JJ several) (NNS books)) (CC and) (NP (NP (DT a) (NML (NN house) (NNS wares)) (NN line)) (PP (IN at) (NP (NNP Kmart)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 1 parsed as (NP (NNP Martha) (NNP Stewart))
+sid=0 spanning 0 until 11 headed by 1 parsed as (NP (NNP Martha) (NNP Stewart))
+sid=0 spanning 21 until 22 headed by 21 parsed as its
+sid=0 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN company))
+sid=0 spanning 31 until 32 headed by 31 parsed as (NP (PRP it))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Martha) (NNP Stewart))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 1 parsed as (NP (NNP Martha) (NNP Stewart))
+sid=0 spanning 3 until 47 headed by 3 parsed as (NP (NP (NN company)) (VP (ADVP (RB officially)) (VBN known) (PP (IN as) (S (S (NP (NML (NNP Martha) (NNP Stewart)) (NNP Living) (NNP Omnimedia)) (VP (VBD earned) (NP (NP (NP (QP ($ $) (CD 3.8) (CD million))) (NP (JJ last) (NN quarter))) (, ,) (ADJP (ADJP (JJR more)) (PP (IN than) (NP (PDT double) (PRP$ its) (NNS profits))))) (ADVP (NP (DT a) (NN year)) (RB ago)))) (, ,) (CC and) (S (NP (DT the) (NN company)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ comfortable)) (PP (IN at) (NP (NP (DT the) (JJ high) (NN end)) (PP (IN of) (NP (NP (NN profit) (NNS estimates)) (PP (IN for) (NP (DT the) (JJ current) (NN quarter))))))) (ADVP (RB as) (RB well)))))))))))
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (NML (NNP Martha) (NNP Stewart)) (NNP Living) (NNP Omnimedia))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (JJ last) (NN quarter))
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (PDT double) (PRP$ its) (NNS profits))
+sid=0 spanning 21 until 22 headed by 21 parsed as (PRP$ its)
+sid=0 spanning 23 until 26 headed by 25 parsed as ago
+sid=0 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN company))
+sid=0 spanning 31 until 32 headed by 31 parsed as (NP (PRP it))
+sid=0 spanning 35 until 45 headed by 37 parsed as (NP (NP (DT the) (JJ high) (NN end)) (PP (IN of) (NP (NP (NN profit) (NNS estimates)) (PP (IN for) (NP (DT the) (JJ current) (NN quarter))))))
+sid=0 spanning 39 until 45 headed by 40 parsed as (NP (NP (NN profit) (NNS estimates)) (PP (IN for) (NP (DT the) (JJ current) (NN quarter))))
+sid=0 spanning 42 until 45 headed by 44 parsed as (NP (DT the) (JJ current) (NN quarter))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Martha) (NNP Stewart))
+sid=1 spanning 3 until 16 headed by 5 parsed as (NP (NP (DT a) (NN TV) (NN show)) (, ,) (NP (JJ several) (NNS books)) (CC and) (NP (NP (DT a) (NML (NN house) (NNS wares)) (NN line)) (PP (IN at) (NP (NNP Kmart)))))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (DT a) (NN TV) (NN show))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (JJ several) (NNS books))
+sid=1 spanning 10 until 16 headed by 13 parsed as (NP (NP (DT a) (NML (NN house) (NNS wares)) (NN line)) (PP (IN at) (NP (NNP Kmart))))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Kmart))
+(end predicted mentions)
+---------gold clusters--------
+2 4 1 3 | { 'its' 'it' 'Martha Stewart 's company officially known as Martha Stewart Living Omnimedia' 'the company' }
+0 5 | { 'Martha Stewart 's' 'Martha Stewart' }
+(end gold clusters)

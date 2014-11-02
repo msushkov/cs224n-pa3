@@ -1,0 +1,38 @@
+---------gloss--------
+(0) Well Tony , [4m[35m{Israeli Prime Minister Ehud Barak}[0m says [4m[35m{he}[0m will not sign any peace deal that gives the Palestinians sovereignty over Jerusalem 's revered Temple Mount . 
+(1) [4m[35m{Mr. Barak}[0m also stressed that [4m[35m{his}[0m government will never accept an accord that gives Palestinians the right to return to [4m[36m{Israel}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0198); part 000
+sentences:
+WellwellUHOPER0TonyTonyNNPPERSONPER0,,,OPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0willwillMDOPER0notnotRBOPER0signsignVBOPER0anyanyDTOPER0peacepeaceNNOPER0dealdealNNOPER0thatthatWDTOPER0givesgiveVBZOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0sovereigntysovereigntyNNOPER0overoverINOPER0JerusalemJerusalemNNPGPEPER0's'sPOSOPER0reveredrevereVBNOPER0TempleTempleNNPLOCPER0MountMountNNPLOCPER0...OPER0(ROOT (S (INTJ (UH Well)) (NP (NNP Tony)) (, ,) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD will) (RB not) (VP (VB sign) (NP (NP (DT any) (NN peace) (NN deal)) (SBAR (WHNP (WDT that)) (S (VP (VBZ gives) (NP (DT the) (NNPS Palestinians)) (NP (NP (NN sovereignty)) (PP (IN over) (NP (NP (NNP Jerusalem) (POS 's)) (VBN revered) (NNP Temple) (NNP Mount))))))))))))) (. .)))
+Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0alsoalsoRBOPER0stressedstressVBDOPER0thatthatINOPER0hishePRP$OPER0governmentgovernmentNNOPER0willwillMDOPER0neverneverRBOPER0acceptacceptVBOPER0anaDTOPER0accordaccordNNOPER0thatthatWDTOPER0givesgiveVBZOPER0PalestiniansPalestiniansNNPSOPER0thetheDTOPER0rightrightNNOPER0totoTOOPER0returnreturnVBOPER0totoINOPER0IsraelIsraelNNPGPEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Barak)) (ADVP (RB also)) (VP (VBD stressed) (SBAR (IN that) (S (NP (PRP$ his) (NN government)) (VP (MD will) (ADVP (RB never)) (VP (VB accept) (NP (NP (DT an) (NN accord)) (SBAR (WHNP (WDT that)) (S (VP (VBZ gives) (NP (NNPS Palestinians)) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB return) (PP (IN to) (NP (NNP Israel)))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 8 headed by 7 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ his) (NN government))
+sid=1 spanning 5 until 6 headed by 5 parsed as his
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (NNP Israel))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Tony))
+sid=0 spanning 3 until 8 headed by 7 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NNPS Palestinians))
+sid=0 spanning 20 until 27 headed by 20 parsed as (NP (NP (NN sovereignty)) (PP (IN over) (NP (NP (NNP Jerusalem) (POS 's)) (VBN revered) (NNP Temple) (NNP Mount))))
+sid=0 spanning 22 until 27 headed by 26 parsed as (NP (NP (NNP Jerusalem) (POS 's)) (VBN revered) (NNP Temple) (NNP Mount))
+sid=0 spanning 22 until 24 headed by 22 parsed as (NP (NNP Jerusalem) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ his) (NN government))
+sid=1 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=1 spanning 10 until 21 headed by 11 parsed as (NP (NP (DT an) (NN accord)) (SBAR (WHNP (WDT that)) (S (VP (VBZ gives) (NP (NNPS Palestinians)) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB return) (PP (IN to) (NP (NNP Israel)))))))))))
+sid=1 spanning 15 until 21 headed by 16 parsed as (NP (DT the) (NN right) (S (VP (TO to) (VP (VB return) (PP (IN to) (NP (NNP Israel)))))))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (NNP Israel))
+(end predicted mentions)
+---------gold clusters--------
+0 2 4 1 | { 'Israeli Prime Minister Ehud Barak' 'Mr. Barak' 'his' 'he' }
+3 5 | { 'his government' 'Israel' }
+(end gold clusters)

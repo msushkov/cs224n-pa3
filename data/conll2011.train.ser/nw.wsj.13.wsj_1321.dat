@@ -1,0 +1,68 @@
+---------gloss--------
+(0) [4m[35m{Rockwell International Corp.}[0m [4m[33m{bought}[0m out [4m[36m{Ikegai Corp. 's}[0m interest in [4m[34m{Ikegai - Goss , a joint venture of the two companies based in Tokyo}[0m . 
+(1) The price was 3.6 billion yen -LRB- $ 25 million -RRB- . 
+(2) The agreement provides that [4m[36m{Ikegai Corp.}[0m will remain a supplier to [4m[34m{Ikegai - Goss , which makes printing presses for the newspaper industry}[0m . 
+(3) [4m[33m{The purchase}[0m was made by Rockwell Graphic Systems , a Chicago subsidiary of [4m[35m{the El Segundo , Calif. , concern}[0m . 
+(4) [4m[34m{Ikegai - Goss , which has about 200 employees ,}[0m is among the industry leaders in keyless inking technology , which reduces time and materials waste when preparing a press for printing . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1321); part 000
+sentences:
+RockwellRockwellNNPORGPER0InternationalInternationalNNPORGPER0Corp.Corp.NNPORGPER0boughtbuyVBDOPER0outoutRPOPER0IkegaiIkegaiNNPORGPER0Corp.Corp.NNPORGPER0's'sPOSORGPER0interestinterestNNOPER0ininINOPER0IkegaiIkegaiNNPORGPER0--HYPHORGPER0GossGossNNPORGPER0,,,OPER0aaDTOPER0jointjointJJOPER0ventureventureNNOPER0ofofINOPER0thetheDTOPER0twotwoCDCARDINALPER0companiescompanyNNSOPER0basedbaseVBNOPER0ininINOPER0TokyoTokyoNNPGPEPER0...OPER0(ROOT (S (NP (NNP Rockwell) (NNP International) (NNP Corp.)) (VP (VBD bought) (PRT (RP out)) (NP (NP (NP (NNP Ikegai) (NNP Corp.) (POS 's)) (NN interest)) (PP (IN in) (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (NP (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN of) (NP (DT the) (CD two) (NNS companies)))) (VP (VBN based) (PP (IN in) (NP (NNP Tokyo))))))))) (. .)))
+ThetheDTOPER0pricepriceNNOPER0wasbeVBDOPER03.63.6CDMONEYPER0billionbillionCDMONEYPER0yenyenNNSMONEYPER0-LRB--lrb--LRB-OPER0$$$MONEYPER02525CDMONEYPER0millionmillionCDMONEYPER0-RRB--rrb--RRB-OPER0...OPER0(ROOT (S (NP (DT The) (NN price)) (VP (VBD was) (NP (NP (QP (CD 3.6) (CD billion)) (NNS yen)) (-LRB- -LRB-) (NP (QP ($ $) (CD 25) (CD million))) (-RRB- -RRB-))) (. .)))
+ThetheDTOPER0agreementagreementNNOPER0providesprovideVBZOPER0thatthatINOPER0IkegaiIkegaiNNPORGPER0Corp.Corp.NNPORGPER0willwillMDOPER0remainremainVBOPER0aaDTOPER0suppliersupplierNNOPER0totoINOPER0IkegaiIkegaiNNPORGPER0--HYPHORGPER0GossGossNNPORGPER0,,,OPER0whichwhichWDTOPER0makesmakeVBZOPER0printingprintingNNOPER0pressespressNNSOPER0forforINOPER0thetheDTOPER0newspapernewspaperNNOPER0industryindustryNNOPER0...OPER0(ROOT (S (NP (DT The) (NN agreement)) (VP (VBZ provides) (SBAR (IN that) (S (NP (NNP Ikegai) (NNP Corp.)) (VP (MD will) (VP (VB remain) (NP (NP (DT a) (NN supplier)) (PP (IN to) (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN printing) (NNS presses))))))) (PP (IN for) (NP (DT the) (NN newspaper) (NN industry))))))))) (. .)))
+ThetheDTOPER0purchasepurchaseNNOPER0wasbeVBDOPER0mademakeVBNOPER0bybyINOPER0RockwellRockwellNNPORGPER0GraphicgraphicNNORGPER0SystemsSystemsNNPORGPER0,,,OPER0aaDTOPER0ChicagoChicagoNNPGPEPER0subsidiarysubsidiaryNNOPER0ofofINOPER0thetheDTGPEPER0ElElNNPGPEPER0SegundoSegundoNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0,,,OPER0concernconcernNNOPER0...OPER0(ROOT (S (NP (DT The) (NN purchase)) (VP (VBD was) (VP (VBN made) (PP (IN by) (NP (NP (NNP Rockwell) (NN Graphic) (NNP Systems)) (, ,) (NP (NP (DT a) (NNP Chicago) (NN subsidiary)) (PP (IN of) (NP (NP (DT the) (NNP El) (NNP Segundo)) (, ,) (NP (NNP Calif.)) (, ,)))))) (NP (NN concern)))) (. .)))
+IkegaiIkegaiNNPORGPER0--HYPHORGPER0GossGossNNPORGPER0,,,OPER0whichwhichWDTOPER0hashaveVBZOPER0aboutaboutRBCARDINALPER0200200CDCARDINALPER0employeesemployeeNNSOPER0,,,OPER0isbeVBZOPER0amongamongINOPER0thetheDTOPER0industryindustryNNOPER0leadersleaderNNSOPER0ininINOPER0keylesskeylessJJOPER0inkinginkingNNOPER0technologytechnologyNNOPER0,,,OPER0whichwhichWDTOPER0reducesreduceVBZOPER0timetimeNNOPER0andandCCOPER0materialsmaterialNNSOPER0wastewasteNNOPER0whenwhenWRBOPER0preparingprepareVBGOPER0aaDTOPER0presspressNNOPER0forforINOPER0printingprintVBGOPER0...OPER0(ROOT (S (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (QP (RB about) (CD 200)) (NNS employees))))) (, ,)) (VP (VBZ is) (PP (IN among) (NP (NP (DT the) (NN industry) (NNS leaders)) (PP (IN in) (NP (NP (JJ keyless) (NN inking) (NN technology)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ reduces) (NP (NP (NP (NN time)) (CC and) (NP (NNS materials) (NN waste))) (SBAR (WHADVP (WRB when)) (S (VP (VBG preparing) (NP (DT a) (NN press)) (PP (IN for) (S (VP (VBG printing)))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Rockwell) (NNP International) (NNP Corp.))
+sid=0 spanning 3 until 4 headed by 3 parsed as bought
+sid=0 spanning 5 until 8 headed by 6 parsed as (NP (NNP Ikegai) (NNP Corp.) (POS 's))
+sid=0 spanning 10 until 24 headed by 12 parsed as (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (NP (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN of) (NP (DT the) (CD two) (NNS companies)))) (VP (VBN based) (PP (IN in) (NP (NNP Tokyo))))))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NNP Ikegai) (NNP Corp.))
+sid=2 spanning 11 until 23 headed by 13 parsed as (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN printing) (NNS presses))))))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN purchase))
+sid=3 spanning 13 until 20 headed by 19 parsed as (NP (NN concern))
+sid=4 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (QP (RB about) (CD 200)) (NNS employees))))) (, ,))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Rockwell) (NNP International) (NNP Corp.))
+sid=0 spanning 5 until 24 headed by 8 parsed as (NP (NP (NP (NNP Ikegai) (NNP Corp.) (POS 's)) (NN interest)) (PP (IN in) (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (NP (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN of) (NP (DT the) (CD two) (NNS companies)))) (VP (VBN based) (PP (IN in) (NP (NNP Tokyo))))))))
+sid=0 spanning 5 until 8 headed by 6 parsed as (NP (NNP Ikegai) (NNP Corp.) (POS 's))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (NP (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN of) (NP (DT the) (CD two) (NNS companies)))) (VP (VBN based) (PP (IN in) (NP (NNP Tokyo))))))
+sid=0 spanning 10 until 24 headed by 12 parsed as (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (NP (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN of) (NP (DT the) (CD two) (NNS companies)))) (VP (VBN based) (PP (IN in) (NP (NNP Tokyo))))))
+sid=0 spanning 14 until 24 headed by 16 parsed as (NP (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN of) (NP (DT the) (CD two) (NNS companies)))) (VP (VBN based) (PP (IN in) (NP (NNP Tokyo)))))
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (CD two) (NNS companies))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NNP Tokyo))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN price))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agreement))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NNP Ikegai) (NNP Corp.))
+sid=2 spanning 8 until 23 headed by 9 parsed as (NP (NP (DT a) (NN supplier)) (PP (IN to) (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN printing) (NNS presses))))))) (PP (IN for) (NP (DT the) (NN newspaper) (NN industry))))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN printing) (NNS presses))))))
+sid=2 spanning 11 until 19 headed by 13 parsed as (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN printing) (NNS presses))))))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (NN printing) (NNS presses))
+sid=2 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (NN newspaper) (NN industry))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN purchase))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (NP (NNP Rockwell) (NN Graphic) (NNP Systems)) (, ,) (NP (NP (DT a) (NNP Chicago) (NN subsidiary)) (PP (IN of) (NP (NP (DT the) (NNP El) (NNP Segundo)) (, ,) (NP (NNP Calif.)) (, ,)))))
+sid=3 spanning 5 until 19 headed by 7 parsed as (NP (NP (NNP Rockwell) (NN Graphic) (NNP Systems)) (, ,) (NP (NP (DT a) (NNP Chicago) (NN subsidiary)) (PP (IN of) (NP (NP (DT the) (NNP El) (NNP Segundo)) (, ,) (NP (NNP Calif.)) (, ,)))))
+sid=3 spanning 9 until 19 headed by 11 parsed as (NP (NP (DT a) (NNP Chicago) (NN subsidiary)) (PP (IN of) (NP (NP (DT the) (NNP El) (NNP Segundo)) (, ,) (NP (NNP Calif.)) (, ,))))
+sid=3 spanning 10 until 11 headed by 10 parsed as Chicago
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (NP (DT the) (NNP El) (NNP Segundo)) (, ,) (NP (NNP Calif.)) (, ,))
+sid=3 spanning 13 until 19 headed by 15 parsed as (NP (NP (DT the) (NNP El) (NNP Segundo)) (, ,) (NP (NNP Calif.)) (, ,))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (NNP Calif.))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (QP (RB about) (CD 200)) (NNS employees))))) (, ,))
+sid=4 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Ikegai) (HYPH -) (NNP Goss)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (QP (RB about) (CD 200)) (NNS employees))))) (, ,))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (QP (RB about) (CD 200)) (NNS employees))
+sid=4 spanning 12 until 32 headed by 14 parsed as (NP (NP (DT the) (NN industry) (NNS leaders)) (PP (IN in) (NP (NP (JJ keyless) (NN inking) (NN technology)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ reduces) (NP (NP (NP (NN time)) (CC and) (NP (NNS materials) (NN waste))) (SBAR (WHADVP (WRB when)) (S (VP (VBG preparing) (NP (DT a) (NN press)) (PP (IN for) (S (VP (VBG printing))))))))))))))
+sid=4 spanning 22 until 32 headed by 22 parsed as (NP (NP (NP (NN time)) (CC and) (NP (NNS materials) (NN waste))) (SBAR (WHADVP (WRB when)) (S (VP (VBG preparing) (NP (DT a) (NN press)) (PP (IN for) (S (VP (VBG printing))))))))
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (NN time))
+sid=4 spanning 24 until 26 headed by 25 parsed as (NP (NNS materials) (NN waste))
+sid=4 spanning 28 until 30 headed by 29 parsed as (NP (DT a) (NN press))
+(end predicted mentions)
+---------gold clusters--------
+1 6 | { 'bought' 'The purchase' }
+5 3 8 | { 'Ikegai - Goss , which makes printing presses for the newspaper industry' 'Ikegai - Goss , a joint venture of the two companies based in Tokyo' 'Ikegai - Goss , which has about 200 employees ,' }
+7 0 | { 'the El Segundo , Calif. , concern' 'Rockwell International Corp.' }
+2 4 | { 'Ikegai Corp. 's' 'Ikegai Corp.' }
+(end gold clusters)

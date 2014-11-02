@@ -1,0 +1,32 @@
+---------gloss--------
+(0) [1m[34m{NICHOLS INSTITUTE}[0m declared a 2 - for - 1 split of [1m[34m{its}[0m common stock , payable Nov. 27 to stock of record Nov. 10 . 
+(1) [1m[34m{The clinical testing services holding company}[0m is based in San Juan Capistrano , Calif . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1049); part 000
+sentences:
+NICHOLSNICHOLSNNPORGPER0INSTITUTEINSTITUTENNPORGPER0declareddeclareVBDOPER0aaDTOPER022CDCARDINALPER0--HYPHCARDINALPER0forforINCARDINALPER0--HYPHCARDINALPER011CDCARDINALPER0splitsplitNNOPER0ofofINOPER0itsitsPRP$OPER0commoncommonJJOPER0stockstockNNOPER0,,,OPER0payablepayableJJOPER0Nov.Nov.NNPDATEPER02727CDDATEPER0totoINOPER0stockstockNNOPER0ofofINOPER0recordrecordNNOPER0Nov.Nov.NNPDATEPER01010CDDATEPER0...OPER0(ROOT (S (NP (NNP NICHOLS) (NNP INSTITUTE)) (VP (VBD declared) (NP (NP (DT a) (NML (QP (CD 2) (HYPH -) (IN for) (HYPH -) (CD 1))) (NN split)) (PP (IN of) (NP (PRP$ its) (JJ common) (NN stock))) (, ,) (ADJP (JJ payable) (NP (NNP Nov.) (CD 27)) (PP (IN to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 10))))))) (. .)))
+ThetheDTOPER0clinicalclinicalJJOPER0testingtestingNNOPER0servicesserviceNNSOPER0holdingholdVBGOPER0companycompanyNNOPER0isbeVBZOPER0basedbaseVBNOPER0ininINOPER0SanSanNNPGPEPER0JuanJuanNNPGPEPER0CapistranoCapistranoNNPGPEPER0,,,OPER0CalifCalifNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NML (JJ clinical) (NN testing) (NNS services)) (VBG holding) (NN company)) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP San) (NNP Juan) (NNP Capistrano)) (, ,) (NP (NNP Calif)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP NICHOLS) (NNP INSTITUTE))
+sid=0 spanning 11 until 12 headed by 11 parsed as its
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (JJ clinical) (NN testing) (NNS services)) (VBG holding) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP NICHOLS) (NNP INSTITUTE))
+sid=0 spanning 3 until 24 headed by 9 parsed as (NP (NP (DT a) (NML (QP (CD 2) (HYPH -) (IN for) (HYPH -) (CD 1))) (NN split)) (PP (IN of) (NP (PRP$ its) (JJ common) (NN stock))) (, ,) (ADJP (JJ payable) (NP (NNP Nov.) (CD 27)) (PP (IN to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 10))))))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (PRP$ its) (JJ common) (NN stock))
+sid=0 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=0 spanning 16 until 18 headed by 16 parsed as (NP (NNP Nov.) (CD 27))
+sid=0 spanning 19 until 24 headed by 19 parsed as (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 10)))
+sid=0 spanning 22 until 24 headed by 22 parsed as (NP (NNP Nov.) (CD 10))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (JJ clinical) (NN testing) (NNS services)) (VBG holding) (NN company))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (NP (NNP San) (NNP Juan) (NNP Capistrano)) (, ,) (NP (NNP Calif)))
+sid=1 spanning 9 until 14 headed by 11 parsed as (NP (NP (NNP San) (NNP Juan) (NNP Capistrano)) (, ,) (NP (NNP Calif)))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NNP Calif))
+(end predicted mentions)
+---------gold clusters--------
+0 2 1 | { 'NICHOLS INSTITUTE' 'The clinical testing services holding company' 'its' }
+(end gold clusters)

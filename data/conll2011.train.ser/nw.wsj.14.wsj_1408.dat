@@ -1,0 +1,22 @@
+---------gloss--------
+(0) The New York Stock Exchange said a seat was sold for $ 500,000 , unchanged from the sale Thursday . 
+(1) Seats are quoted at $ 430,000 bid and $ 525,000 asked . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1408); part 000
+sentences:
+ThetheDTORGPER0NewNewNNPORGPER0YorkYorkNNPORGPER0StockStockNNPORGPER0ExchangeExchangeNNPORGPER0saidsayVBDOPER0aaDTOPER0seatseatNNOPER0wasbeVBDOPER0soldsellVBNOPER0forforINOPER0$$$MONEYPER0500,000500,000CDMONEYPER0,,,OPER0unchangedunchangedJJOPER0fromfromINOPER0thetheDTOPER0salesaleNNOPER0ThursdayThursdayNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange)) (VP (VBD said) (SBAR (S (NP (DT a) (NN seat)) (VP (VBD was) (VP (VBN sold) (PP (IN for) (NP (NP ($ $) (CD 500,000)) (, ,) (ADJP (JJ unchanged) (PP (IN from) (NP (NP (DT the) (NN sale)) (NP (NNP Thursday)))))))))))) (. .)))
+SeatsseatNNSOPER0arebeVBPOPER0quotedquoteVBNOPER0atatINOPER0$$$MONEYPER0430,000430,000CDMONEYPER0bidbidNNOPER0andandCCOPER0$$$MONEYPER0525,000525,000CDMONEYPER0askedaskVBNOPER0...OPER0(ROOT (S (NP (NNS Seats)) (VP (VBP are) (VP (VBN quoted) (PP (IN at) (NP (NP (NP ($ $) (CD 430,000)) (VP (NN bid))) (CC and) (NP (NP ($ $) (CD 525,000)) (VP (VBN asked))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN seat))
+sid=0 spanning 16 until 19 headed by 17 parsed as (NP (NP (DT the) (NN sale)) (NP (NNP Thursday)))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Thursday))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Seats))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

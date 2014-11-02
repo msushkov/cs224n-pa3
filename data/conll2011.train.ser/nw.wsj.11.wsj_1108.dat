@@ -1,0 +1,68 @@
+---------gloss--------
+(0) [3m[36m{Italy 's unemployment rate}[0m rose to 12 % of the labor force in [4m[32m{July}[0m from 11.9 % in [4m[31m{April}[0m , and was up from 11.7 % a year earlier , according to quarterly figures from [4m[33m{the state statistical institute}[0m . 
+(1) [4m[33m{Istat}[0m said a national survey during the first week of [4m[32m{July}[0m showed the number of job seekers was 2,888,000 up from 2,822,000 in [4m[31m{April}[0m , and from 2,853,000 a year ago . 
+(2) [3m[36m{The unemployment rate}[0m was by far the highest in the southern , so - called Mezzogiorno region . 
+(3) The southern unemployment rate rose to 21.3 % in [4m[32m{July}[0m from 21.2 % in [4m[31m{April}[0m and from 20.6 % a year earlier . 
+(4) [4m[33m{Istat}[0m said 369,000 more people were employed in [4m[32m{July}[0m than in [4m[31m{April}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1108); part 000
+sentences:
+ItalyItalyNNPGPEPER0's'sPOSOPER0unemploymentunemploymentNNOPER0raterateNNOPER0roseriseVBDOPER0totoTOOPER01212CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thetheDTOPER0laborlaborNNOPER0forceforceNNOPER0ininINOPER0JulyJulyNNPDATEPER0fromfromINOPER011.911.9CDPERCENTPER0%%NNPERCENTPER0ininINOPER0AprilAprilNNPDATEPER0,,,OPER0andandCCOPER0wasbeVBDOPER0upupRBOPER0fromfromINOPER011.711.7CDPERCENTPER0%%NNPERCENTPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0quarterlyquarterlyJJDATEPER0figuresfigureNNSOPER0fromfromINOPER0thetheDTOPER0statestateNNOPER0statisticalstatisticalJJOPER0instituteinstituteNNOPER0...OPER0(ROOT (S (NP (NP (NNP Italy) (POS 's)) (NN unemployment) (NN rate)) (VP (VP (VBD rose) (NP (NP (QP (TO to) (CD 12)) (NN %)) (PP (IN of) (NP (DT the) (NN labor) (NN force)))) (PP (IN in) (NP (NNP July))) (PP (IN from) (NP (NP (CD 11.9) (NN %)) (PP (IN in) (NP (NNP April)))))) (, ,) (CC and) (VP (VBD was) (ADVP (RB up) (PP (IN from) (NP (CD 11.7) (NN %)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (, ,) (PP (VBG according) (PP (IN to) (NP (NP (JJ quarterly) (NNS figures)) (PP (IN from) (NP (DT the) (NN state) (JJ statistical) (NN institute))))))) (. .)))
+IstatIstatNNPORGPER0saidsayVBDOPER0aaDTOPER0nationalnationalJJOPER0surveysurveyNNOPER0duringduringINOPER0thetheDTDATEPER0firstfirstJJDATEPER0weekweekNNDATEPER0ofofINDATEPER0JulyJulyNNPDATEPER0showedshowVBDOPER0thetheDTOPER0numbernumberNNOPER0ofofINOPER0jobjobNNOPER0seekersseekerNNSOPER0wasbeVBDOPER02,888,0002,888,000CDCARDINALPER0upupRBOPER0fromfromINOPER02,822,0002,822,000CDMONEYPER0ininINOPER0AprilAprilNNPDATEPER0,,,OPER0andandCCOPER0fromfromINOPER02,853,0002,853,000CDMONEYPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (NNP Istat)) (VP (VBD said) (SBAR (S (NP (NP (DT a) (JJ national) (NN survey)) (PP (IN during) (NP (NP (DT the) (JJ first) (NN week)) (PP (IN of) (NP (NNP July)))))) (VP (VBD showed) (SBAR (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN job) (NNS seekers)))) (VP (VBD was) (ADVP (NP (CD 2,888,000)) (RB up) (PP (IN from) (NP (CD 2,822,000)) (PP (IN in) (NP (NNP April))) (, ,) (CC and) (PP (IN from) (NP (CD 2,853,000))))) (ADVP (NP (DT a) (NN year)) (RB ago))))))))) (. .)))
+ThetheDTOPER0unemploymentunemploymentNNOPER0raterateNNOPER0wasbeVBDOPER0bybyRBOPER0farfarRBOPER0thetheDTOPER0highesthighestJJSOPER0ininINOPER0thetheDTOPER0southernsouthernJJOPER0,,,OPER0sosoRBOPER0--HYPHOPER0calledcallVBNOPER0MezzogiornoMezzogiornoNNPLOCPER0regionregionNNOPER0...OPER0(ROOT (S (NP (DT The) (NN unemployment) (NN rate)) (VP (VBD was) (ADVP (RB by) (RB far)) (NP (NP (DT the) (JJS highest)) (PP (IN in) (NP (DT the) (JJ southern) (, ,) (ADJP (RB so) (HYPH -) (VBN called)) (NNP Mezzogiorno) (NN region))))) (. .)))
+ThetheDTOPER0southernsouthernJJOPER0unemploymentunemploymentNNOPER0raterateNNOPER0roseriseVBDOPER0totoINOPER021.321.3CDPERCENTPER0%%NNPERCENTPER0ininINOPER0JulyJulyNNPDATEPER0fromfromINOPER021.221.2CDPERCENTPER0%%NNPERCENTPER0ininINOPER0AprilAprilNNPDATEPER0andandCCOPER0fromfromINOPER020.620.6CDPERCENTPER0%%NNPERCENTPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ southern) (NN unemployment) (NN rate)) (VP (VBD rose) (PP (IN to) (NP (CD 21.3) (NN %))) (PP (IN in) (NP (NNP July))) (PP (IN from) (NP (CD 21.2) (NN %)) (PP (IN in) (NP (NNP April))) (CC and) (PP (IN from) (NP (CD 20.6) (NN %)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+IstatIstatNNPORGPER0saidsayVBDOPER0369,000369,000CDCARDINALPER0moremoreJJROPER0peoplepeopleNNSOPER0werebeVBDOPER0employedemployVBNOPER0ininINOPER0JulyJulyNNPDATEPER0thanthanINOPER0ininINOPER0AprilAprilNNPDATEPER0...OPER0(ROOT (S (NP (NNP Istat)) (VP (VBD said) (SBAR (S (NP (QP (CD 369,000) (JJR more)) (NNS people)) (VP (VBD were) (VP (VBN employed) (PP (IN in) (NP (NNP July))) (PP (IN than) (PP (IN in) (NP (NNP April))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Italy) (POS 's)) (NN unemployment) (NN rate))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP July))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP April))
+sid=0 spanning 35 until 39 headed by 38 parsed as (NP (DT the) (NN state) (JJ statistical) (NN institute))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Istat))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNP July))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (NNP April))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN unemployment) (NN rate))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP July))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (NNP April))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Istat))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP July))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNP April))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Italy) (POS 's)) (NN unemployment) (NN rate))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Italy) (POS 's))
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NN labor) (NN force))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP July))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP April))
+sid=0 spanning 26 until 29 headed by 28 parsed as earlier
+sid=0 spanning 32 until 39 headed by 33 parsed as (NP (NP (JJ quarterly) (NNS figures)) (PP (IN from) (NP (DT the) (NN state) (JJ statistical) (NN institute))))
+sid=0 spanning 32 until 33 headed by 32 parsed as quarterly
+sid=0 spanning 35 until 39 headed by 38 parsed as (NP (DT the) (NN state) (JJ statistical) (NN institute))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Istat))
+sid=1 spanning 2 until 11 headed by 4 parsed as (NP (NP (DT a) (JJ national) (NN survey)) (PP (IN during) (NP (NP (DT the) (JJ first) (NN week)) (PP (IN of) (NP (NNP July))))))
+sid=1 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT the) (JJ first) (NN week)) (PP (IN of) (NP (NNP July))))
+sid=1 spanning 12 until 17 headed by 13 parsed as (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN job) (NNS seekers))))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (CD 2,888,000))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (NNP April))
+sid=1 spanning 28 until 31 headed by 30 parsed as ago
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN unemployment) (NN rate))
+sid=2 spanning 6 until 17 headed by 7 parsed as (NP (NP (DT the) (JJS highest)) (PP (IN in) (NP (DT the) (JJ southern) (, ,) (ADJP (RB so) (HYPH -) (VBN called)) (NNP Mezzogiorno) (NN region))))
+sid=2 spanning 9 until 17 headed by 16 parsed as (NP (DT the) (JJ southern) (, ,) (ADJP (RB so) (HYPH -) (VBN called)) (NNP Mezzogiorno) (NN region))
+sid=2 spanning 15 until 16 headed by 15 parsed as Mezzogiorno
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ southern) (NN unemployment) (NN rate))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP July))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (NNP April))
+sid=3 spanning 19 until 22 headed by 21 parsed as earlier
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Istat))
+sid=4 spanning 2 until 5 headed by 4 parsed as (NP (QP (CD 369,000) (JJR more)) (NNS people))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP July))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNP April))
+(end predicted mentions)
+---------gold clusters--------
+0 7 | { 'Italy 's unemployment rate' 'The unemployment rate' }
+2 6 9 12 | { 'April' 'April' 'April' 'April' }
+11 1 5 8 | { 'July' 'July' 'July' 'July' }
+4 3 10 | { 'Istat' 'the state statistical institute' 'Istat' }
+(end gold clusters)

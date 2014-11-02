@@ -1,0 +1,78 @@
+---------gloss--------
+(0) [34m{Sharon Osbourne}[0m did not enjoy [34m{her}[0m meal at a Los Angeles restaurant last night . 
+(1) [34m{Ozzy 's wife}[0m reportedly got into a fight with [33m{Hollywood agent Renee Tab}[0m . 
+(2) [34m{Sharon}[0m spit on [33m{Tab}[0m and called [33m{her}[0m names . 
+(3) [34m{Osbourne 's}[0m spokeswoman says [34m{Sharon}[0m was quote , `` viciously assaulted and treated at a hospital . '' 
+(4) Disagreement between the women began months ago when [34m{Osbourne}[0m said [33m{Tab}[0m attended [34m{her}[0m family 's New Year 's Eve party uninvited and then won the door prize , a $ 15,000 necklace . 
+(5) A spokesman says that if [35m{any charges}[0m are filed , [35m{they}[0m will be on the low end of the misdemeanor scale . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0207); part 000
+sentences:
+SharonSharonNNPORGPER0OsbourneOsbourneNNPORGPER0diddoVBDOPER0notnotRBOPER0enjoyenjoyVBOPER0hershePRP$OPER0mealmealNNOPER0atatINOPER0aaDTOPER0LosLosNNPGPEPER0AngelesAngelesNNPGPEPER0restaurantrestaurantNNOPER0lastlastJJOPER0nightnightNNOPER0...OPER0(ROOT (S (NP (NNP Sharon) (NNP Osbourne)) (VP (VBD did) (RB not) (VP (VB enjoy) (NP (PRP$ her) (NN meal)) (PP (IN at) (NP (NP (DT a) (NML (NNP Los) (NNP Angeles)) (NN restaurant)) (NP (JJ last) (NN night)))))) (. .)))
+OzzyOzzyNNPORGPER0's'sPOSOPER0wifewifeNNOPER0reportedlyreportedlyRBOPER0gotgetVBDOPER0intointoINOPER0aaDTOPER0fightfightNNOPER0withwithINOPER0HollywoodHollywoodNNPGPEPER0agentagentNNOPER0ReneeReneeNNPPERSONPER0TabTabNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NNP Ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (NP (DT a) (NN fight)) (PP (IN with) (NP (NML (NNP Hollywood) (NN agent)) (NNP Renee) (NNP Tab)))))) (. .)))
+SharonSharonNNPORGPER0spitspitVBPOPER0ononINOPER0TabTabNNPFACPER0andandCCOPER0calledcallVBDOPER0hershePRP$OPER0namesnameNNSOPER0...OPER0(ROOT (S (NP (NNP Sharon)) (VP (VP (VBP spit) (PP (IN on) (NP (NNP Tab)))) (CC and) (VP (VBD called) (NP (PRP$ her) (NNS names)))) (. .)))
+OsbourneOsbourneNNPORGPER0's'sPOSORGPER0spokeswomanspokeswomanNNOPER0sayssayVBZOPER0SharonSharonNNPPERSONPER0wasbeVBDOPER0quotequoteNNOPER0,,,OPER0``````OviciouslyviciouslyRBOPER1assaultedassaultVBNOPER1andandCCOPER1treatedtreatVBNOPER1atatINOPER1aaDTOPER1hospitalhospitalNNOPER1...OPER1''''''OPER0(ROOT (S (NP (NP (NNP Osbourne) (POS 's)) (NN spokeswoman)) (VP (VBZ says) (SBAR (S (NP (NNP Sharon)) (VP (VBD was) (NP (NN quote)) (, ,) (`` ``) (ADVP (RB viciously)) (VP (VBN assaulted) (CC and) (VBN treated) (PP (IN at) (NP (DT a) (NN hospital)))))))) (. .) ('' '')))
+DisagreementdisagreementNNOPER0betweenbetweenINOPER0thetheDTOPER0womenwomanNNSOPER0beganbeginVBDOPER0monthsmonthNNSDATEPER0agoagoRBDATEPER0whenwhenWRBOPER0OsbourneOsbourneNNPPERSONPER0saidsayVBDOPER0TabTabNNPPERSONPER0attendedattendVBDOPER0hershePRP$OPER0familyfamilyNNOPER0's'sPOSOPER0NewNewNNPDATEPER0YearYearNNPDATEPER0's'sPOSDATEPER0EveEveNNPDATEPER0partypartyNNOPER0uninviteduninvitedJJOPER0andandCCOPER0thenthenRBOPER0wonwinVBDOPER0thetheDTOPER0doordoorNNOPER0prizeprizeNNPOPER0,,,OPER0aaDTOPER0$$$MONEYPER015,00015,000CDMONEYPER0necklacenecklaceNNOPER0...OPER0(ROOT (S (NP (NP (NN Disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (ADVP (NP (NNS months)) (RB ago)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Osbourne)) (VP (VBD said) (SBAR (S (NP (NNP Tab)) (VP (VP (VBD attended) (S (NP (NP (PRP$ her) (NN family) (POS 's)) (NML (NP (NNP New) (NNP Year) (POS 's)) (NNP Eve)) (NN party)) (ADJP (JJ uninvited)))) (CC and) (ADVP (RB then)) (VP (VBD won) (NP (DT the) (NN door)) (NP (NP (NNP prize)) (, ,) (NP (DT a) (NML ($ $) (CD 15,000)) (NN necklace))))))))))) (. .)))
+AaDTOPER0spokesmanspokesmanNNOPER0sayssayVBZOPER0thatthatINOPER0ififINOPER0anyanyDTOPER0chargeschargeNNSOPER0arebeVBPOPER0filedfileVBNOPER0,,,OPER0theytheyPRPOPER0willwillMDOPER0bebeVBOPER0ononINOPER0thetheDTOPER0lowlowJJOPER0endendNNOPER0ofofINOPER0thetheDTOPER0misdemeanormisdemeanorNNOPER0scalescaleNNOPER0...OPER0(ROOT (S (NP (DT A) (NN spokesman)) (VP (VBZ says) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT any) (NNS charges)) (VP (VBP are) (VP (VBN filed))))) (, ,) (NP (PRP they)) (VP (MD will) (VP (VB be) (PP (IN on) (NP (NP (DT the) (JJ low) (NN end)) (PP (IN of) (NP (DT the) (NN misdemeanor) (NN scale)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Sharon) (NNP Osbourne))
+sid=0 spanning 5 until 6 headed by 5 parsed as her
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Ozzy) (POS 's)) (NN wife))
+sid=1 spanning 9 until 13 headed by 12 parsed as (NP (NML (NNP Hollywood) (NN agent)) (NNP Renee) (NNP Tab))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Sharon))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Tab))
+sid=2 spanning 6 until 7 headed by 6 parsed as her
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Osbourne) (POS 's))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Sharon))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP Osbourne))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NNP Tab))
+sid=4 spanning 12 until 13 headed by 12 parsed as her
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (DT any) (NNS charges))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Sharon) (NNP Osbourne))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ her) (NN meal))
+sid=0 spanning 5 until 6 headed by 5 parsed as (PRP$ her)
+sid=0 spanning 8 until 14 headed by 11 parsed as (NP (NP (DT a) (NML (NNP Los) (NNP Angeles)) (NN restaurant)) (NP (JJ last) (NN night)))
+sid=0 spanning 9 until 11 headed by 10 parsed as Angeles
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (JJ last) (NN night))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Ozzy) (POS 's)) (NN wife))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Ozzy) (POS 's))
+sid=1 spanning 6 until 13 headed by 7 parsed as (NP (NP (DT a) (NN fight)) (PP (IN with) (NP (NML (NNP Hollywood) (NN agent)) (NNP Renee) (NNP Tab))))
+sid=1 spanning 9 until 13 headed by 12 parsed as (NP (NML (NNP Hollywood) (NN agent)) (NNP Renee) (NNP Tab))
+sid=1 spanning 9 until 10 headed by 9 parsed as Hollywood
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Sharon))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Tab))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ her) (NNS names))
+sid=2 spanning 6 until 7 headed by 6 parsed as (PRP$ her)
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Osbourne) (POS 's)) (NN spokeswoman))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Osbourne) (POS 's))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Sharon))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN hospital))
+sid=4 spanning 0 until 4 headed by 0 parsed as (NP (NP (NN Disagreement)) (PP (IN between) (NP (DT the) (NNS women))))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS women))
+sid=4 spanning 5 until 7 headed by 6 parsed as ago
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP Osbourne))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NNP Tab))
+sid=4 spanning 12 until 20 headed by 19 parsed as (NP (NP (PRP$ her) (NN family) (POS 's)) (NML (NP (NNP New) (NNP Year) (POS 's)) (NNP Eve)) (NN party))
+sid=4 spanning 12 until 15 headed by 13 parsed as (NP (PRP$ her) (NN family) (POS 's))
+sid=4 spanning 12 until 13 headed by 12 parsed as (PRP$ her)
+sid=4 spanning 15 until 19 headed by 18 parsed as Eve
+sid=4 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN door))
+sid=4 spanning 26 until 32 headed by 26 parsed as (NP (NP (NNP prize)) (, ,) (NP (DT a) (NML ($ $) (CD 15,000)) (NN necklace)))
+sid=4 spanning 26 until 27 headed by 26 parsed as (NP (NNP prize))
+sid=4 spanning 28 until 32 headed by 31 parsed as (NP (DT a) (NML ($ $) (CD 15,000)) (NN necklace))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT A) (NN spokesman))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=5 spanning 14 until 21 headed by 16 parsed as (NP (NP (DT the) (JJ low) (NN end)) (PP (IN of) (NP (DT the) (NN misdemeanor) (NN scale))))
+sid=5 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NN misdemeanor) (NN scale))
+(end predicted mentions)
+---------gold clusters--------
+5 10 6 3 | { 'Tab' 'Tab' 'her' 'Hollywood agent Renee Tab' }
+11 2 8 9 4 1 0 7 | { 'her' 'Ozzy 's wife' 'Sharon' 'Osbourne' 'Sharon' 'her' 'Sharon Osbourne' 'Osbourne 's' }
+13 12 | { 'they' 'any charges' }
+(end gold clusters)

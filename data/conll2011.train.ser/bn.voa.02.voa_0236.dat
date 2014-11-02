@@ -1,0 +1,36 @@
+---------gloss--------
+(0) [33m{A second round of Israeli - Palestinian talks}[0m ended Saturday night with no breakthrough . 
+(1) The two sides have agreed to keep talking . 
+(2) Led by former Israeli Prime Minister Shimone Peres and Palestinian leader Yasser Arafat , the two delegations [33m{met}[0m for more than two hours . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0236); part 000
+sentences:
+AaDTOPER0secondsecondJJORDINALPER0roundroundNNOPER0ofofINOPER0IsraeliisraeliJJOPER0--HYPHOPER0PalestinianpalestinianJJOPER0talkstalkNNSOPER0endedendVBDOPER0SaturdaySaturdayNNPDATEPER0nightnightNNTIMEPER0withwithINOPER0nonoDTOPER0breakthroughbreakthroughNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ second) (NN round)) (PP (IN of) (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NNS talks)))) (VP (VBD ended) (NP (NNP Saturday) (NN night)) (PP (IN with) (NP (DT no) (NN breakthrough)))) (. .)))
+ThetheDTOPER0twotwoCDCARDINALPER0sidessideNNSOPER0havehaveVBPOPER0agreedagreeVBNOPER0totoTOOPER0keepkeepVBOPER0talkingtalkVBGOPER0...OPER0(ROOT (S (NP (DT The) (CD two) (NNS sides)) (VP (VBP have) (VP (VBN agreed) (S (VP (TO to) (VP (VB keep) (S (VP (VBG talking)))))))) (. .)))
+LedleadVBNOPER0bybyINOPER0formerformerJJOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0ShimoneShimoneNNPPERSONPER0PeresPeresNNPPERSONPER0andandCCOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0,,,OPER0thetheDTOPER0twotwoCDCARDINALPER0delegationsdelegationNNSOPER0metmeetVBDOPER0forforINOPER0moremoreJJRTIMEPER0thanthanINTIMEPER0twotwoCDTIMEPER0hourshourNNSTIMEPER0...OPER0(ROOT (S (S (VP (VBN Led) (PP (IN by) (NP (NP (NML (JJ former) (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Shimone) (NNP Peres)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))))) (, ,) (NP (DT the) (CD two) (NNS delegations)) (VP (VBD met) (PP (IN for) (NP (QP (XS (JJR more) (IN than)) (CD two)) (NNS hours)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (DT A) (JJ second) (NN round)) (PP (IN of) (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NNS talks))))
+sid=2 spanning 17 until 18 headed by 17 parsed as met
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (DT A) (JJ second) (NN round)) (PP (IN of) (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NNS talks))))
+sid=0 spanning 1 until 2 headed by 1 parsed as second
+sid=0 spanning 4 until 8 headed by 7 parsed as (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NNS talks))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NNP Saturday) (NN night))
+sid=0 spanning 9 until 10 headed by 9 parsed as Saturday
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (DT no) (NN breakthrough))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD two) (NNS sides))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NP (NML (JJ former) (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Shimone) (NNP Peres)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=2 spanning 2 until 13 headed by 7 parsed as (NP (NP (NML (JJ former) (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Shimone) (NNP Peres)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=2 spanning 2 until 8 headed by 7 parsed as (NP (NML (JJ former) (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Shimone) (NNP Peres))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=2 spanning 9 until 13 headed by 12 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=2 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (CD two) (NNS delegations))
+sid=2 spanning 19 until 23 headed by 22 parsed as (NP (QP (XS (JJR more) (IN than)) (CD two)) (NNS hours))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'met' 'A second round of Israeli - Palestinian talks' }
+(end gold clusters)

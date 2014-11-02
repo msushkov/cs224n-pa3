@@ -1,0 +1,56 @@
+---------gloss--------
+(0) [36m{LDI Corp. , Cleveland ,}[0m said [36m{it}[0m will [34m{offer}[0m [1m[31m{$ 50 million in commercial paper backed by lease - rental receivables}[0m . 
+(1) [34m{The program}[0m matches funds raised from the sale of [35m{the commercial paper}[0m with small to medium - sized leases . 
+(2) [36m{LDI}[0m termed [1m[31m{the paper}[0m `` non-recourse financing , '' meaning that investors would be repaid from [33m{the lease receivables}[0m , rather than directly by [36m{LDI Corp}[0m . 
+(3) [36m{LDI}[0m leases and sells data - processing , telecommunications and other high - tech equipment . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1352); part 000
+sentences:
+LDILDINNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0ClevelandClevelandNNPGPEPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0offerofferVBOPER0$$$MONEYPER05050CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0commercialcommercialJJOPER0paperpaperNNOPER0backedbackVBNOPER0bybyINOPER0leaseleaseNNOPER0--HYPHOPER0rentalrentalNNOPER0receivablesreceivableNNOPER0...OPER0(ROOT (S (NP (NP (NNP LDI) (NNP Corp.)) (, ,) (NP (NNP Cleveland)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB offer) (NP (NP (QP ($ $) (CD 50) (CD million))) (PP (IN in) (NP (NP (JJ commercial) (NN paper)) (VP (VBN backed) (PP (IN by) (NP (NML (NN lease) (HYPH -) (NN rental)) (NN receivables)))))))))))) (. .)))
+ThetheDTOPER0programprogramNNOPER0matchesmatchVBZOPER0fundsfundNNSOPER0raisedraiseVBNOPER0fromfromINOPER0thetheDTOPER0salesaleNNOPER0ofofINOPER0thetheDTOPER0commercialcommercialJJOPER0paperpaperNNOPER0withwithINOPER0smallsmallJJOPER0totoTOOPER0mediummediumJJOPER0--HYPHOPER0sizedsizedJJOPER0leasesleaseNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN program)) (VP (VBZ matches) (NP (NP (NNS funds)) (VP (VBN raised) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (DT the) (JJ commercial) (NN paper)) (PP (IN with) (NP (ADJP (ADJP (JJ small) (TO to) (JJ medium)) (HYPH -) (JJ sized)) (NNS leases)))))))))) (. .)))
+LDILDINNPORGPER0termedtermVBDOPER0thetheDTOPER0paperpaperNNOPER0``````Onon-recoursenon-recourseJJOPER1financingfinancingNNOPER1,,,OPER1''''''OPER0meaningmeanVBGOPER0thatthatINOPER0investorsinvestorNNSOPER0wouldwouldMDOPER0bebeVBOPER0repaidrepayVBNOPER0fromfromINOPER0thetheDTOPER0leaseleaseNNOPER0receivablesreceivableNNOPER0,,,OPER0ratherratherRBOPER0thanthanINOPER0directlydirectlyRBOPER0bybyINOPER0LDILDINNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NNP LDI)) (VP (VBD termed) (NP (DT the) (NN paper)) (`` ``) (NP (JJ non-recourse) (NN financing)) (, ,) ('' '') (S (VP (VBG meaning) (SBAR (IN that) (S (NP (NNS investors)) (VP (MD would) (VP (VB be) (VP (VBN repaid) (PP (PP (IN from) (NP (DT the) (NN lease) (NN receivables))) (, ,) (CONJP (RB rather) (IN than)) (PP (ADVP (RB directly)) (IN by) (NP (NNP LDI) (NNP Corp)))))))))))) (. .)))
+LDILDINNPORGPER0leasesleaseVBZOPER0andandCCOPER0sellssellVBZOPER0datadatumNNOPER0--HYPHOPER0processingprocessingNNOPER0,,,OPER0telecommunicationstelecommunicationsNNSOPER0andandCCOPER0otherotherJJOPER0highhighJJOPER0--HYPHOPER0techtechNNOPER0equipmentequipmentNNOPER0...OPER0(ROOT (S (NP (NNP LDI)) (VP (VBZ leases) (CC and) (VBZ sells) (NP (NML (NML (NN data) (HYPH -) (NN processing)) (, ,) (NML (NNS telecommunications)) (CC and) (NML (JJ other) (JJ high) (HYPH -) (NN tech))) (NN equipment))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP LDI) (NNP Corp.)) (, ,) (NP (NNP Cleveland)) (, ,))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 8 until 9 headed by 8 parsed as offer
+sid=0 spanning 9 until 21 headed by 9 parsed as (NP (NP (QP ($ $) (CD 50) (CD million))) (PP (IN in) (NP (NP (JJ commercial) (NN paper)) (VP (VBN backed) (PP (IN by) (NP (NML (NN lease) (HYPH -) (NN rental)) (NN receivables)))))))
+sid=0 spanning 13 until 21 headed by 14 parsed as (NP (NP (JJ commercial) (NN paper)) (VP (VBN backed) (PP (IN by) (NP (NML (NN lease) (HYPH -) (NN rental)) (NN receivables)))))
+sid=0 spanning 17 until 21 headed by 20 parsed as (NP (NML (NN lease) (HYPH -) (NN rental)) (NN receivables))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN program))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (NP (DT the) (JJ commercial) (NN paper)) (PP (IN with) (NP (ADJP (ADJP (JJ small) (TO to) (JJ medium)) (HYPH -) (JJ sized)) (NNS leases))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP LDI))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN paper))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NN lease) (NN receivables))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (NNP LDI) (NNP Corp))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP LDI))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP LDI) (NNP Corp.)) (, ,) (NP (NNP Cleveland)) (, ,))
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP LDI) (NNP Corp.)) (, ,) (NP (NNP Cleveland)) (, ,))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP Cleveland))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 17 until 21 headed by 20 parsed as (NP (NML (NN lease) (HYPH -) (NN rental)) (NN receivables))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN program))
+sid=1 spanning 3 until 19 headed by 3 parsed as (NP (NP (NNS funds)) (VP (VBN raised) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (DT the) (JJ commercial) (NN paper)) (PP (IN with) (NP (ADJP (ADJP (JJ small) (TO to) (JJ medium)) (HYPH -) (JJ sized)) (NNS leases)))))))))
+sid=1 spanning 6 until 19 headed by 7 parsed as (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (DT the) (JJ commercial) (NN paper)) (PP (IN with) (NP (ADJP (ADJP (JJ small) (TO to) (JJ medium)) (HYPH -) (JJ sized)) (NNS leases))))))
+sid=1 spanning 9 until 19 headed by 11 parsed as (NP (NP (DT the) (JJ commercial) (NN paper)) (PP (IN with) (NP (ADJP (ADJP (JJ small) (TO to) (JJ medium)) (HYPH -) (JJ sized)) (NNS leases))))
+sid=1 spanning 13 until 19 headed by 18 parsed as (NP (ADJP (ADJP (JJ small) (TO to) (JJ medium)) (HYPH -) (JJ sized)) (NNS leases))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP LDI))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN paper))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNS investors))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NN lease) (NN receivables))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (NNP LDI) (NNP Corp))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP LDI))
+sid=3 spanning 4 until 15 headed by 14 parsed as (NP (NML (NML (NN data) (HYPH -) (NN processing)) (, ,) (NML (NNS telecommunications)) (CC and) (NML (JJ other) (JJ high) (HYPH -) (NN tech))) (NN equipment))
+(end predicted mentions)
+---------gold clusters--------
+10 5 | { 'the lease receivables' 'lease - rental receivables' }
+2 6 | { 'offer' 'The program' }
+4 7 | { 'commercial paper backed by lease - rental receivables' 'the commercial paper' }
+1 8 12 0 11 | { 'it' 'LDI' 'LDI' 'LDI Corp. , Cleveland ,' 'LDI Corp' }
+3 9 | { '$ 50 million in commercial paper backed by lease - rental receivables' 'the paper' }
+(end gold clusters)

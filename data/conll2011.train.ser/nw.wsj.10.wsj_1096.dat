@@ -1,0 +1,79 @@
+---------gloss--------
+(0) [33m{Ford Motor Co.}[0m said [33m{it}[0m is consolidating control of [33m{its}[0m Asian operations under [32m{a new organization here that will be headed by W. Wayne Booker}[0m . 
+(1) [32m{Ford Asia - Pacific}[0m will coordinate the activities of [33m{Ford}[0m subsidiaries in [4m[36m{Japan , Australia , Taiwan and New Zealand}[0m and work with [33m{Ford}[0m business associates throughout [4m[36m{the region}[0m . 
+(2) These functions are currently performed out of Melbourne , [31m{Australia}[0m , and at [33m{Ford 's}[0m headquarters in Dearborn , Mich . 
+(3) [4m[35m{Mr. Booker , executive director of Ford 's Latin America Automotive Operations since December 1988 ,}[0m was named vice president of [32m{Ford Asia - Pacific}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1096); part 000
+sentences:
+FordFordNNPORGPER0MotorMotorNNPORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0ititPRPOPER0isbeVBZOPER0consolidatingconsolidateVBGOPER0controlcontrolNNOPER0ofofINOPER0itsitsPRP$OPER0AsianasianJJOPER0operationsoperationNNSOPER0underunderINOPER0aaDTOPER0newnewJJOPER0organizationorganizationNNOPER0herehereRBOPER0thatthatWDTOPER0willwillMDOPER0bebeVBOPER0headedheadVBNOPER0bybyINOPER0W.W.NNPPERSONPER0WayneWayneNNPPERSONPER0BookerBookerNNPPERSONPER0...OPER0(ROOT (S (NP (NNP Ford) (NNP Motor) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (S (VP (VBG consolidating) (NP (NP (NN control)) (PP (IN of) (NP (PRP$ its) (JJ Asian) (NNS operations)))) (PP (IN under) (NP (NP (NP (DT a) (JJ new) (NN organization)) (ADVP (RB here))) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB be) (VP (VBN headed) (PP (IN by) (NP (NNP W.) (NNP Wayne) (NNP Booker)))))))))))))))) (. .)))
+FordFordNNPORGPER0AsiaAsiaNNPORGPER0--HYPHORGPER0PacificPacificNNPORGPER0willwillMDOPER0coordinatecoordinateVBOPER0thetheDTOPER0activitiesactivityNNSOPER0ofofINOPER0FordFordNNPORGPER0subsidiariessubsidiaryNNSOPER0ininINOPER0JapanJapanNNPGPEPER0,,,OPER0AustraliaAustraliaNNPGPEPER0,,,OPER0TaiwanTaiwanNNPGPEPER0andandCCOPER0NewNewNNPGPEPER0ZealandZealandNNPGPEPER0andandCCOPER0workworkVBOPER0withwithINOPER0FordFordNNPORGPER0businessbusinessNNOPER0associatesassociateNNSOPER0throughoutthroughoutINOPER0thetheDTOPER0regionregionNNOPER0...OPER0(ROOT (S (NP (NNP Ford) (NNP Asia) (HYPH -) (NNP Pacific)) (VP (MD will) (VP (VP (VB coordinate) (NP (NP (NP (DT the) (NNS activities)) (PP (IN of) (NP (NNP Ford) (NNS subsidiaries)))) (PP (IN in) (NP (NP (NNP Japan)) (, ,) (NP (NNP Australia)) (, ,) (NP (NNP Taiwan)) (CC and) (NP (NNP New) (NNP Zealand)))))) (CC and) (VP (VB work) (PP (IN with) (NP (NNP Ford) (NN business) (NNS associates))) (PP (IN throughout) (NP (DT the) (NN region)))))) (. .)))
+ThesetheseDTOPER0functionsfunctionNNSOPER0arebeVBPOPER0currentlycurrentlyRBOPER0performedperformVBNOPER0outoutINOPER0ofofINOPER0MelbourneMelbourneNNPGPEPER0,,,OPER0AustraliaAustraliaNNPGPEPER0,,,OPER0andandCCOPER0atatINOPER0FordFordNNPORGPER0's'sPOSOPER0headquartersheadquartersNNOPER0ininINOPER0DearbornDearbornNNPGPEPER0,,,OPER0MichMichNNPOPER0...OPER0(ROOT (S (NP (DT These) (NNS functions)) (VP (VBP are) (ADVP (RB currently)) (VP (VBN performed) (ADVP (IN out) (PP (IN of) (NP (NP (NNP Melbourne)) (, ,) (NP (NNP Australia)) (, ,) (CC and) (PP (IN at) (NP (NP (NP (NNP Ford) (POS 's)) (NN headquarters)) (PP (IN in) (NP (NP (NNP Dearborn)) (, ,) (NP (NNP Mich))))))))))) (. .)))
+Mr.Mr.NNPOPER0BookerBookerNNPPERSONPER0,,,OPER0executiveexecutiveJJOPER0directordirectorNNOPER0ofofINOPER0FordFordNNPORGPER0's'sPOSOPER0LatinLatinNNPORGPER0AmericaAmericaNNPORGPER0AutomotiveAutomotiveNNPORGPER0OperationsOperationsNNPSORGPER0sincesinceINOPER0DecemberDecemberNNPDATEPER019881988CDDATEPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0FordFordNNPORGPER0AsiaAsiaNNPORGPER0--HYPHORGPER0PacificPacificNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Booker)) (, ,) (NP (NP (JJ executive) (NN director)) (PP (IN of) (NP (NP (NNP Ford) (POS 's)) (NNP Latin) (NNP America) (NNP Automotive) (NNPS Operations))) (PP (IN since) (NP (NNP December) (CD 1988)))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NNP Ford) (NNP Asia) (HYPH -) (NNP Pacific))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Ford) (NNP Motor) (NNP Co.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 9 until 10 headed by 9 parsed as its
+sid=0 spanning 13 until 25 headed by 15 parsed as (NP (NP (NP (DT a) (JJ new) (NN organization)) (ADVP (RB here))) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB be) (VP (VBN headed) (PP (IN by) (NP (NNP W.) (NNP Wayne) (NNP Booker)))))))))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (NNP W.) (NNP Wayne) (NNP Booker))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NNP Ford) (NNP Asia) (HYPH -) (NNP Pacific))
+sid=1 spanning 9 until 10 headed by 9 parsed as Ford
+sid=1 spanning 12 until 20 headed by 12 parsed as (NP (NP (NNP Japan)) (, ,) (NP (NNP Australia)) (, ,) (NP (NNP Taiwan)) (CC and) (NP (NNP New) (NNP Zealand)))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Australia))
+sid=1 spanning 23 until 24 headed by 23 parsed as Ford
+sid=1 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN region))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Australia))
+sid=2 spanning 13 until 15 headed by 13 parsed as (NP (NNP Ford) (POS 's))
+sid=3 spanning 0 until 16 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Booker)) (, ,) (NP (NP (JJ executive) (NN director)) (PP (IN of) (NP (NP (NNP Ford) (POS 's)) (NNP Latin) (NNP America) (NNP Automotive) (NNPS Operations))) (PP (IN since) (NP (NNP December) (CD 1988)))) (, ,))
+sid=3 spanning 6 until 8 headed by 6 parsed as (NP (NNP Ford) (POS 's))
+sid=3 spanning 21 until 25 headed by 24 parsed as (NP (NNP Ford) (NNP Asia) (HYPH -) (NNP Pacific))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Ford) (NNP Motor) (NNP Co.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 7 until 12 headed by 7 parsed as (NP (NP (NN control)) (PP (IN of) (NP (PRP$ its) (JJ Asian) (NNS operations))))
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (PRP$ its) (JJ Asian) (NNS operations))
+sid=0 spanning 9 until 10 headed by 9 parsed as (PRP$ its)
+sid=0 spanning 13 until 25 headed by 15 parsed as (NP (NP (NP (DT a) (JJ new) (NN organization)) (ADVP (RB here))) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB be) (VP (VBN headed) (PP (IN by) (NP (NNP W.) (NNP Wayne) (NNP Booker)))))))))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (NNP W.) (NNP Wayne) (NNP Booker))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NNP Ford) (NNP Asia) (HYPH -) (NNP Pacific))
+sid=1 spanning 6 until 20 headed by 7 parsed as (NP (NP (NP (DT the) (NNS activities)) (PP (IN of) (NP (NNP Ford) (NNS subsidiaries)))) (PP (IN in) (NP (NP (NNP Japan)) (, ,) (NP (NNP Australia)) (, ,) (NP (NNP Taiwan)) (CC and) (NP (NNP New) (NNP Zealand)))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Ford) (NNS subsidiaries))
+sid=1 spanning 9 until 10 headed by 9 parsed as Ford
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP Japan)) (, ,) (NP (NNP Australia)) (, ,) (NP (NNP Taiwan)) (CC and) (NP (NNP New) (NNP Zealand)))
+sid=1 spanning 12 until 20 headed by 12 parsed as (NP (NP (NNP Japan)) (, ,) (NP (NNP Australia)) (, ,) (NP (NNP Taiwan)) (CC and) (NP (NNP New) (NNP Zealand)))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Australia))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Taiwan))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (NNP New) (NNP Zealand))
+sid=1 spanning 23 until 26 headed by 25 parsed as (NP (NNP Ford) (NN business) (NNS associates))
+sid=1 spanning 23 until 24 headed by 23 parsed as Ford
+sid=1 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN region))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT These) (NNS functions))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NP (NNP Melbourne)) (, ,) (NP (NNP Australia)) (, ,) (CC and) (PP (IN at) (NP (NP (NP (NNP Ford) (POS 's)) (NN headquarters)) (PP (IN in) (NP (NP (NNP Dearborn)) (, ,) (NP (NNP Mich)))))))
+sid=2 spanning 7 until 20 headed by 7 parsed as (NP (NP (NNP Melbourne)) (, ,) (NP (NNP Australia)) (, ,) (CC and) (PP (IN at) (NP (NP (NP (NNP Ford) (POS 's)) (NN headquarters)) (PP (IN in) (NP (NP (NNP Dearborn)) (, ,) (NP (NNP Mich)))))))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Australia))
+sid=2 spanning 13 until 20 headed by 15 parsed as (NP (NP (NP (NNP Ford) (POS 's)) (NN headquarters)) (PP (IN in) (NP (NP (NNP Dearborn)) (, ,) (NP (NNP Mich)))))
+sid=2 spanning 13 until 15 headed by 13 parsed as (NP (NNP Ford) (POS 's))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NP (NNP Dearborn)) (, ,) (NP (NNP Mich)))
+sid=2 spanning 17 until 20 headed by 17 parsed as (NP (NP (NNP Dearborn)) (, ,) (NP (NNP Mich)))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (NNP Mich))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Booker)) (, ,) (NP (NP (JJ executive) (NN director)) (PP (IN of) (NP (NP (NNP Ford) (POS 's)) (NNP Latin) (NNP America) (NNP Automotive) (NNPS Operations))) (PP (IN since) (NP (NNP December) (CD 1988)))) (, ,))
+sid=3 spanning 0 until 16 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Booker)) (, ,) (NP (NP (JJ executive) (NN director)) (PP (IN of) (NP (NP (NNP Ford) (POS 's)) (NNP Latin) (NNP America) (NNP Automotive) (NNPS Operations))) (PP (IN since) (NP (NNP December) (CD 1988)))) (, ,))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Booker))
+sid=3 spanning 6 until 12 headed by 11 parsed as (NP (NP (NNP Ford) (POS 's)) (NNP Latin) (NNP America) (NNP Automotive) (NNPS Operations))
+sid=3 spanning 6 until 8 headed by 6 parsed as (NP (NNP Ford) (POS 's))
+sid=3 spanning 8 until 12 headed by 9 parsed as America
+sid=3 spanning 13 until 15 headed by 13 parsed as (NP (NNP December) (CD 1988))
+sid=3 spanning 18 until 25 headed by 19 parsed as (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NNP Ford) (NNP Asia) (HYPH -) (NNP Pacific))))
+sid=3 spanning 21 until 25 headed by 24 parsed as (NP (NNP Ford) (NNP Asia) (HYPH -) (NNP Pacific))
+(end predicted mentions)
+---------gold clusters--------
+4 13 | { 'W. Wayne Booker' 'Mr. Booker , executive director of Ford 's Latin America Automotive Operations since December 1988 ,' }
+10 7 | { 'the region' 'Japan , Australia , Taiwan and New Zealand' }
+11 8 | { 'Australia' 'Australia' }
+15 5 3 | { 'Ford Asia - Pacific' 'Ford Asia - Pacific' 'a new organization here that will be headed by W. Wayne Booker' }
+14 9 6 0 12 2 1 | { 'Ford 's' 'Ford' 'Ford' 'Ford Motor Co.' 'Ford 's' 'its' 'it' }
+(end gold clusters)

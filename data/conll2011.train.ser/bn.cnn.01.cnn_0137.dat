@@ -1,0 +1,56 @@
+---------gloss--------
+(0) [3m[34m{South Korean President Kim Dae - jung}[0m has accepted [3m[34m{his}[0m Nobel Peace Prize . 
+(1) [3m[33m{The award}[0m recognizes [3m[34m{his}[0m efforts to end 50 years of bad blood between [3m[35m{North and South Korea}[0m . 
+(2) Though [3m[35m{the two countries}[0m are still technically at war , [3m[34m{President Kim , a former dissident ,}[0m met with [3m[34m{his}[0m North Korean counterpart in June to move toward reconciliation . 
+(3) In accepting [3m[33m{the Peace Prize}[0m , [3m[34m{the 75 - year - old President}[0m pledged to continue fighting for human rights and peace . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0137); part 000
+sentences:
+SouthSouthNNPOPER0KoreanKoreanNNPOPER0PresidentPresidentNNPOPER0KimKimNNPPERSONPER0DaeDaeNNPPERSONPER0--HYPHPERSONPER0jungjungNNPPERSONPER0hashaveVBZOPER0acceptedacceptVBNOPER0hishePRP$OPER0NobelNobelNNPWORK_OF_ARTPER0PeacePeaceNNPWORK_OF_ARTPER0PrizePrizeNNPWORK_OF_ARTPER0...OPER0(ROOT (S (NP (NML (NML (NNP South) (NNP Korean)) (NNP President)) (NNP Kim) (NNP Dae) (HYPH -) (NNP jung)) (VP (VBZ has) (VP (VBN accepted) (NP (PRP$ his) (NNP Nobel) (NNP Peace) (NNP Prize)))) (. .)))
+ThetheDTOPER0awardawardNNOPER0recognizesrecognizeVBZOPER0hishePRP$OPER0effortseffortNNSOPER0totoTOOPER0endendVBOPER05050CDDATEPER0yearsyearNNSDATEPER0ofofINOPER0badbadJJOPER0bloodbloodNNOPER0betweenbetweenINOPER0NorthNorthNNPGPEPER0andandCCGPEPER0SouthSouthNNPGPEPER0KoreaKoreaNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN award)) (VP (VBZ recognizes) (NP (PRP$ his) (NNS efforts) (S (VP (TO to) (VP (VB end) (NP (NP (CD 50) (NNS years)) (PP (IN of) (NP (NP (JJ bad) (NN blood)) (PP (IN between) (NP (NP (NNP North) (CC and) (NNP South)) (NNP Korea))))))))))) (. .)))
+ThoughthoughINOPER0thetheDTOPER0twotwoCDCARDINALPER0countriescountryNNSOPER0arebeVBPOPER0stillstillRBOPER0technicallytechnicallyRBOPER0atatINOPER0warwarNNOPER0,,,OPER0PresidentPresidentNNPOPER0KimKimNNPPERSONPER0,,,OPER0aaDTOPER0formerformerJJOPER0dissidentdissidentNNOPER0,,,OPER0metmeetVBDOPER0withwithINOPER0hishePRP$OPER0NorthNorthNNPOPER0KoreanKoreanNNPOPER0counterpartcounterpartNNOPER0ininINOPER0JuneJuneNNPDATEPER0totoTOOPER0movemoveVBOPER0towardtowardINOPER0reconciliationreconciliationNNOPER0...OPER0(ROOT (S (SBAR (IN Though) (S (NP (DT the) (CD two) (NNS countries)) (VP (VBP are) (ADVP (RB still)) (PP (ADVP (RB technically)) (IN at) (NP (NN war)))))) (, ,) (NP (NP (NNP President) (NNP Kim)) (, ,) (NP (DT a) (JJ former) (NN dissident)) (, ,)) (VP (VBD met) (PP (IN with) (NP (NP (PRP$ his) (NML (NNP North) (NNP Korean)) (NN counterpart)) (PP (IN in) (NP (NNP June))))) (S (VP (TO to) (VP (VB move) (PP (IN toward) (NP (NN reconciliation))))))) (. .)))
+IninINOPER0acceptingacceptVBGOPER0thetheDTWORK_OF_ARTPER0PeacePeaceNNPWORK_OF_ARTPER0PrizePrizeNNPWORK_OF_ARTPER0,,,OPER0thetheDTOPER07575CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0PresidentPresidentNNPOPER0pledgedpledgeVBDOPER0totoTOOPER0continuecontinueVBOPER0fightingfightVBGOPER0forforINOPER0humanhumanJJOPER0rightsrightsNNSOPER0andandCCOPER0peacepeaceNNOPER0...OPER0(ROOT (S (PP (IN In) (S (VP (VBG accepting) (NP (DT the) (NNP Peace) (NNP Prize))))) (, ,) (NP (DT the) (ADJP (NML (CD 75) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP President)) (VP (VBD pledged) (S (VP (TO to) (VP (VB continue) (S (VP (VBG fighting) (PP (IN for) (NP (NP (JJ human) (NNS rights)) (CC and) (NP (NN peace)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 6 parsed as (NP (NML (NML (NNP South) (NNP Korean)) (NNP President)) (NNP Kim) (NNP Dae) (HYPH -) (NNP jung))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (PRP$ his) (NNP Nobel) (NNP Peace) (NNP Prize))
+sid=0 spanning 9 until 10 headed by 9 parsed as his
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN award))
+sid=1 spanning 3 until 4 headed by 3 parsed as his
+sid=1 spanning 13 until 17 headed by 16 parsed as (NP (NP (NNP North) (CC and) (NNP South)) (NNP Korea))
+sid=2 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (CD two) (NNS countries))
+sid=2 spanning 10 until 17 headed by 11 parsed as (NP (NP (NNP President) (NNP Kim)) (, ,) (NP (DT a) (JJ former) (NN dissident)) (, ,))
+sid=2 spanning 19 until 20 headed by 19 parsed as his
+sid=3 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NNP Peace) (NNP Prize))
+sid=3 spanning 6 until 13 headed by 12 parsed as (NP (DT the) (ADJP (NML (CD 75) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP President))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 6 parsed as (NP (NML (NML (NNP South) (NNP Korean)) (NNP President)) (NNP Kim) (NNP Dae) (HYPH -) (NNP jung))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (PRP$ his) (NNP Nobel) (NNP Peace) (NNP Prize))
+sid=0 spanning 9 until 10 headed by 9 parsed as (PRP$ his)
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN award))
+sid=1 spanning 3 until 17 headed by 4 parsed as (NP (PRP$ his) (NNS efforts) (S (VP (TO to) (VP (VB end) (NP (NP (CD 50) (NNS years)) (PP (IN of) (NP (NP (JJ bad) (NN blood)) (PP (IN between) (NP (NP (NNP North) (CC and) (NNP South)) (NNP Korea))))))))))
+sid=1 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=1 spanning 7 until 17 headed by 8 parsed as (NP (NP (CD 50) (NNS years)) (PP (IN of) (NP (NP (JJ bad) (NN blood)) (PP (IN between) (NP (NP (NNP North) (CC and) (NNP South)) (NNP Korea))))))
+sid=1 spanning 13 until 17 headed by 16 parsed as (NP (NP (NNP North) (CC and) (NNP South)) (NNP Korea))
+sid=2 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (CD two) (NNS countries))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NP (NNP President) (NNP Kim)) (, ,) (NP (DT a) (JJ former) (NN dissident)) (, ,))
+sid=2 spanning 10 until 17 headed by 11 parsed as (NP (NP (NNP President) (NNP Kim)) (, ,) (NP (DT a) (JJ former) (NN dissident)) (, ,))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (NNP President) (NNP Kim))
+sid=2 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ former) (NN dissident))
+sid=2 spanning 19 until 25 headed by 22 parsed as (NP (NP (PRP$ his) (NML (NNP North) (NNP Korean)) (NN counterpart)) (PP (IN in) (NP (NNP June))))
+sid=2 spanning 19 until 20 headed by 19 parsed as (PRP$ his)
+sid=2 spanning 24 until 25 headed by 24 parsed as (NP (NNP June))
+sid=3 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NNP Peace) (NNP Prize))
+sid=3 spanning 6 until 13 headed by 12 parsed as (NP (DT the) (ADJP (NML (CD 75) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP President))
+sid=3 spanning 7 until 12 headed by 11 parsed as old
+sid=3 spanning 18 until 22 headed by 19 parsed as (NP (NP (JJ human) (NNS rights)) (CC and) (NP (NN peace)))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (JJ human) (NNS rights))
+(end predicted mentions)
+---------gold clusters--------
+9 3 1 | { 'the Peace Prize' 'The award' 'his Nobel Peace Prize' }
+0 8 2 7 10 4 | { 'South Korean President Kim Dae - jung' 'his' 'his' 'President Kim , a former dissident ,' 'the 75 - year - old President' 'his' }
+5 6 | { 'North and South Korea' 'the two countries' }
+(end gold clusters)

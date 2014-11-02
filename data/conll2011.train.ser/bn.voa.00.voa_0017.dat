@@ -1,0 +1,24 @@
+---------gloss--------
+(0) The United Nations says nearly two million people in the Democratic Republic of Congo are at risk of starvation . 
+(1) A World Food Program spokeswoman says if action is not taken quickly , thousands of people will die . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0017); part 000
+sentences:
+ThetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0sayssayVBZOPER0nearlynearlyRBOPER0twotwoCDCARDINALPER0millionmillionCDCARDINALPER0peoplepeopleNNSOPER0ininINOPER0thetheDTGPEPER0DemocraticDemocraticNNPGPEPER0RepublicRepublicNNPGPEPER0ofofINGPEPER0CongoCongoNNPGPEPER0arebeVBPOPER0atatINOPER0riskriskNNOPER0ofofINOPER0starvationstarvationNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP Nations)) (VP (VBZ says) (SBAR (S (NP (NP (QP (RB nearly) (CD two) (CD million)) (NNS people)) (PP (IN in) (NP (NP (DT the) (NNP Democratic) (NNP Republic)) (PP (IN of) (NP (NNP Congo)))))) (VP (VBP are) (PP (IN at) (NP (NP (NN risk)) (PP (IN of) (NP (NN starvation))))))))) (. .)))
+AaDTOPER0WorldWorldNNPORGPER0FoodFoodNNPORGPER0ProgramProgramNNPORGPER0spokeswomanspokeswomanNNOPER0sayssayVBZOPER0ififINOPER0actionactionNNOPER0isbeVBZOPER0notnotRBOPER0takentakeVBNOPER0quicklyquicklyRBOPER0,,,OPER0thousandsthousandNNSCARDINALPER0ofofINOPER0peoplepeopleNNSOPER0willwillMDOPER0diedieVBOPER0...OPER0(ROOT (S (NP (DT A) (NML (NNP World) (NNP Food) (NNP Program)) (NN spokeswoman)) (VP (VBZ says) (SBAR (S (SBAR (IN if) (S (NP (NN action)) (VP (VBZ is) (RB not) (VP (VBN taken) (ADVP (RB quickly)))))) (, ,) (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS people)))) (VP (MD will) (VP (VB die)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP Nations))
+sid=0 spanning 4 until 14 headed by 7 parsed as (NP (NP (QP (RB nearly) (CD two) (CD million)) (NNS people)) (PP (IN in) (NP (NP (DT the) (NNP Democratic) (NNP Republic)) (PP (IN of) (NP (NNP Congo))))))
+sid=0 spanning 9 until 14 headed by 11 parsed as (NP (NP (DT the) (NNP Democratic) (NNP Republic)) (PP (IN of) (NP (NNP Congo))))
+sid=0 spanning 16 until 19 headed by 16 parsed as (NP (NP (NN risk)) (PP (IN of) (NP (NN starvation))))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT A) (NML (NNP World) (NNP Food) (NNP Program)) (NN spokeswoman))
+sid=1 spanning 1 until 4 headed by 3 parsed as Program
+sid=1 spanning 13 until 16 headed by 13 parsed as (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS people))))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

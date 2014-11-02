@@ -1,0 +1,28 @@
+---------gloss--------
+(0) Roland J. Hawkins , chairman of Jet Vacations Inc. , was elected to [1m[32m{the board of this cruise line}[0m . 
+(1) [1m[32m{The board}[0m expands to seven members . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1498); part 000
+sentences:
+RolandRolandNNPPERSONPER0J.J.NNPPERSONPER0HawkinsHawkinsNNPPERSONPER0,,,OPER0chairmanchairmanNNOPER0ofofINOPER0JetjetNNORGPER0VacationsvacationNNSORGPER0Inc.Inc.NNPORGPER0,,,OPER0wasbeVBDOPER0electedelectVBNOPER0totoINOPER0thetheDTOPER0boardboardNNOPER0ofofINOPER0thisthisDTOPER0cruisecruiseNNOPER0linelineNNOPER0...OPER0(ROOT (S (NP (NP (NNP Roland) (NNP J.) (NNP Hawkins)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (NP (NN Jet) (NNS Vacations)) (NP (NNP Inc.))))) (, ,)) (VP (VBD was) (VP (VBN elected) (PP (IN to) (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NN cruise) (NN line))))))) (. .)))
+ThetheDTOPER0boardboardNNOPER0expandsexpandVBZOPER0totoINOPER0sevensevenCDCARDINALPER0membersmemberNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN board)) (VP (VBZ expands) (PP (IN to) (NP (CD seven) (NNS members)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 13 until 19 headed by 14 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NN cruise) (NN line))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN board))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Roland) (NNP J.) (NNP Hawkins)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (NP (NN Jet) (NNS Vacations)) (NP (NNP Inc.))))) (, ,))
+sid=0 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Roland) (NNP J.) (NNP Hawkins)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (NP (NN Jet) (NNS Vacations)) (NP (NNP Inc.))))) (, ,))
+sid=0 spanning 4 until 9 headed by 4 parsed as (NP (NP (NN chairman)) (PP (IN of) (NP (NP (NN Jet) (NNS Vacations)) (NP (NNP Inc.)))))
+sid=0 spanning 6 until 9 headed by 7 parsed as (NP (NP (NN Jet) (NNS Vacations)) (NP (NNP Inc.)))
+sid=0 spanning 13 until 19 headed by 14 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NN cruise) (NN line))))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT this) (NN cruise) (NN line))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN board))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (CD seven) (NNS members))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'the board of this cruise line' 'The board' }
+(end gold clusters)

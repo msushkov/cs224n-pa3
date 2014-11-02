@@ -1,0 +1,60 @@
+---------gloss--------
+(0) [4m[34m{Timothy C. Brown , a vice president ,}[0m was named executive vice president and a director of this lighting and specialty products concern . 
+(1) In the director post , [4m[34m{Mr. Brown , 38 years old ,}[0m succeeds Joseph W. Hibben , who retired from the board in August . 
+(2) C. Barr Schuler , 49 , vice president and chief financial officer , was named senior vice president of corporate development and acquisitions , a new post . 
+(3) [4m[35m{Phillip J. Stuecker , 37 , vice president , secretary and treasurer ,}[0m was named vice president of finance and chief financial officer . 
+(4) [4m[35m{He}[0m remains secretary . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1233); part 000
+sentences:
+TimothyTimothyNNPPERSONPER0C.C.NNPPERSONPER0BrownBrownNNPPERSONPER0,,,OPER0aaDTOPER0viceviceNNOPER0presidentpresidentNNOPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0aaDTOPER0directordirectorNNOPER0ofofINOPER0thisthisDTOPER0lightinglightingNNOPER0andandCCOPER0specialtyspecialtyNNOPER0productsproductNNSOPER0concernconcernNNOPER0...OPER0(ROOT (S (NP (NP (NNP Timothy) (NNP C.) (NNP Brown)) (, ,) (NP (DT a) (NN vice) (NN president)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ executive) (NN vice) (NN president)) (CC and) (NP (DT a) (NN director)) (PP (IN of) (NP (DT this) (NML (NML (NN lighting)) (CC and) (NML (NN specialty) (NNS products))) (NN concern))))))) (. .)))
+IninINOPER0thetheDTOPER0directordirectorNNOPER0postpostNNOPER0,,,OPER0Mr.Mr.NNPOPER0BrownBrownNNPPERSONPER0,,,OPER03838CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0succeedssucceedVBZOPER0JosephJosephNNPPERSONPER0W.W.NNPPERSONPER0HibbenHibbenNNPPERSONPER0,,,OPER0whowhoWPOPER0retiredretireVBDOPER0fromfromINOPER0thetheDTOPER0boardboardNNOPER0ininINOPER0AugustAugustNNPDATEPER0...OPER0(ROOT (S (PP (IN In) (NP (DT the) (NN director) (NN post))) (, ,) (NP (NP (NNP Mr.) (NNP Brown)) (, ,) (ADJP (NML (CD 38) (NNS years)) (JJ old)) (, ,)) (VP (VBZ succeeds) (NP (NP (NNP Joseph) (NNP W.) (NNP Hibben)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD retired) (PP (IN from) (NP (DT the) (NN board))) (PP (IN in) (NP (NNP August)))))))) (. .)))
+C.C.NNPPERSONPER0BarrBarrNNPPERSONPER0SchulerSchulerNNPPERSONPER0,,,OPER04949CDDATEPER0,,,OPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0financialfinancialJJOPER0officerofficerNNOPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0seniorseniorJJOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0corporatecorporateJJOPER0developmentdevelopmentNNOPER0andandCCOPER0acquisitionsacquisitionNNSOPER0,,,OPER0aaDTOPER0newnewJJOPER0postpostNNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP C.) (NNP Barr) (NNP Schuler)) (, ,) (NP (CD 49))) (, ,) (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NP (JJ senior) (NN vice) (NN president)) (PP (IN of) (NP (NP (JJ corporate) (NN development)) (CC and) (NP (NNS acquisitions))))) (, ,) (NP (DT a) (JJ new) (NN post)))))) (. .)))
+PhillipPhillipNNPPERSONPER0J.J.NNPPERSONPER0StueckerStueckerNNPPERSONPER0,,,OPER03737CDDATEPER0,,,OPER0viceviceNNOPER0presidentpresidentNNOPER0,,,OPER0secretarysecretaryNNOPER0andandCCOPER0treasurertreasurerNNOPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0financefinanceNNOPER0andandCCOPER0chiefchiefJJOPER0financialfinancialJJOPER0officerofficerNNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Phillip) (NNP J.) (NNP Stuecker)) (, ,) (NP (CD 37))) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (NN secretary)) (CC and) (NP (NN treasurer))) (, ,)) (VP (VBD was) (VP (VBN named) (NP (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NN finance)))) (CC and) (NP (JJ chief) (JJ financial) (NN officer))))) (. .)))
+HehePRPOPER0remainsremainVBZOPER0secretarysecretaryNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ remains) (NP (NN secretary))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Timothy) (NNP C.) (NNP Brown)) (, ,) (NP (DT a) (NN vice) (NN president)) (, ,))
+sid=1 spanning 5 until 12 headed by 6 parsed as (NP (NP (NNP Mr.) (NNP Brown)) (, ,) (ADJP (NML (CD 38) (NNS years)) (JJ old)) (, ,))
+sid=3 spanning 0 until 13 headed by 2 parsed as (NP (NP (NP (NNP Phillip) (NNP J.) (NNP Stuecker)) (, ,) (NP (CD 37))) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (NN secretary)) (CC and) (NP (NN treasurer))) (, ,))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Timothy) (NNP C.) (NNP Brown)) (, ,) (NP (DT a) (NN vice) (NN president)) (, ,))
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Timothy) (NNP C.) (NNP Brown)) (, ,) (NP (DT a) (NN vice) (NN president)) (, ,))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NN vice) (NN president))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN director))
+sid=0 spanning 17 until 23 headed by 22 parsed as (NP (DT this) (NML (NML (NN lighting)) (CC and) (NML (NN specialty) (NNS products))) (NN concern))
+sid=1 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NN director) (NN post))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP Mr.) (NNP Brown)) (, ,) (ADJP (NML (CD 38) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 5 until 12 headed by 6 parsed as (NP (NP (NNP Mr.) (NNP Brown)) (, ,) (ADJP (NML (CD 38) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NNP Mr.) (NNP Brown))
+sid=1 spanning 8 until 11 headed by 10 parsed as old
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (NP (NNP Joseph) (NNP W.) (NNP Hibben)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD retired) (PP (IN from) (NP (DT the) (NN board))) (PP (IN in) (NP (NNP August)))))))
+sid=1 spanning 13 until 24 headed by 15 parsed as (NP (NP (NNP Joseph) (NNP W.) (NNP Hibben)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD retired) (PP (IN from) (NP (DT the) (NN board))) (PP (IN in) (NP (NNP August)))))))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN board))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (NNP August))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NP (NP (NNP C.) (NNP Barr) (NNP Schuler)) (, ,) (NP (CD 49))) (, ,) (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer))) (, ,))
+sid=2 spanning 0 until 13 headed by 2 parsed as (NP (NP (NP (NNP C.) (NNP Barr) (NNP Schuler)) (, ,) (NP (CD 49))) (, ,) (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer))) (, ,))
+sid=2 spanning 0 until 5 headed by 2 parsed as (NP (NP (NNP C.) (NNP Barr) (NNP Schuler)) (, ,) (NP (CD 49)))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (CD 49))
+sid=2 spanning 6 until 12 headed by 7 parsed as (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer)))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NN vice) (NN president))
+sid=2 spanning 22 until 23 headed by 22 parsed as (NP (NNS acquisitions))
+sid=2 spanning 24 until 27 headed by 26 parsed as (NP (DT a) (JJ new) (NN post))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NP (NP (NNP Phillip) (NNP J.) (NNP Stuecker)) (, ,) (NP (CD 37))) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (NN secretary)) (CC and) (NP (NN treasurer))) (, ,))
+sid=3 spanning 0 until 13 headed by 2 parsed as (NP (NP (NP (NNP Phillip) (NNP J.) (NNP Stuecker)) (, ,) (NP (CD 37))) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (NN secretary)) (CC and) (NP (NN treasurer))) (, ,))
+sid=3 spanning 0 until 5 headed by 2 parsed as (NP (NP (NNP Phillip) (NNP J.) (NNP Stuecker)) (, ,) (NP (CD 37)))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (CD 37))
+sid=3 spanning 6 until 12 headed by 7 parsed as (NP (NP (NN vice) (NN president)) (, ,) (NP (NN secretary)) (CC and) (NP (NN treasurer)))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (NN vice) (NN president))
+sid=3 spanning 15 until 23 headed by 16 parsed as (NP (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NN finance)))) (CC and) (NP (JJ chief) (JJ financial) (NN officer)))
+sid=3 spanning 15 until 19 headed by 16 parsed as (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NN finance))))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Timothy C. Brown , a vice president ,' 'Mr. Brown , 38 years old ,' }
+3 2 | { 'He' 'Phillip J. Stuecker , 37 , vice president , secretary and treasurer ,' }
+(end gold clusters)

@@ -1,0 +1,55 @@
+---------gloss--------
+(0) [4m[36m{UN}[0m Secretary General Kofi Annan has [31m{nominated}[0m [4m[33m{former Dutch Prime Minister Ruud Lubbers}[0m as the new [4m[36m{UN}[0m High Commissioner for Refugees . 
+(1) [4m[34m{Mr. Annan}[0m praised [4m[35m{the record of the 61 - year - old Mr. Lubbers as a government leader , academic and private citizen}[0m , saying [4m[35m{this}[0m made [4m[33m{him}[0m the right man for the job . 
+(2) If the General Assembly approves [31m{the nomination}[0m , [4m[33m{Mr. Lubbers}[0m will replace Sadako Ogata of Japan on January 1st . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0051); part 000
+sentences:
+UNUNNNPORGPER0SecretarySecretaryNNPOPER0GeneralGeneralNNPOPER0KofiKofiNNPPERSONPER0AnnanAnnanNNPPERSONPER0hashaveVBZOPER0nominatednominateVBNOPER0formerformerJJOPER0DutchDutchNNPOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0RuudRuudNNPPERSONPER0LubbersLubbersNNPPERSONPER0asasINOPER0thetheDTOPER0newnewJJOPER0UNUNNNPORGPER0HighHighNNPORGPER0CommissionerCommissionerNNPORGPER0forforINORGPER0RefugeesRefugeesNNPSORGPER0...OPER0(ROOT (S (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan)) (VP (VBZ has) (VP (VBN nominated) (NP (NML (JJ former) (NNP Dutch) (NNP Prime) (NNP Minister)) (NNP Ruud) (NNP Lubbers)) (PP (IN as) (NP (NP (DT the) (JJ new) (NNP UN) (NNP High) (NNP Commissioner)) (PP (IN for) (NP (NNPS Refugees))))))) (. .)))
+Mr.Mr.NNPOPER0AnnanAnnanNNPPERSONPER0praisedpraiseVBDOPER0thetheDTOPER0recordrecordNNOPER0ofofINOPER0thetheDTOPER06161CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0Mr.Mr.NNPOPER0LubbersLubbersNNPPERSONPER0asasINOPER0aaDTOPER0governmentgovernmentNNOPER0leaderleaderNNOPER0,,,OPER0academicacademicNNOPER0andandCCOPER0privateprivateJJOPER0citizencitizenNNOPER0,,,OPER0sayingsayVBGOPER0thisthisDTOPER0mademakeVBDOPER0himhePRPOPER0thetheDTOPER0rightrightJJOPER0manmanNNOPER0forforINOPER0thetheDTOPER0jobjobNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Annan)) (VP (VBD praised) (NP (NP (DT the) (NN record)) (PP (IN of) (NP (DT the) (ADJP (NML (CD 61) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Mr.) (NNP Lubbers)))) (PP (IN as) (NP (NP (DT a) (NN government) (NN leader)) (, ,) (NP (NN academic)) (CC and) (NP (JJ private) (NN citizen)))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (DT this)) (VP (VBD made) (S (NP (PRP him)) (NP (NP (DT the) (JJ right) (NN man)) (PP (IN for) (NP (DT the) (NN job))))))))))) (. .)))
+IfifINOPER0thetheDTORGPER0GeneralGeneralNNPORGPER0AssemblyAssemblyNNPORGPER0approvesapproveVBZOPER0thetheDTOPER0nominationnominationNNOPER0,,,OPER0Mr.Mr.NNPOPER0LubbersLubbersNNPPERSONPER0willwillMDOPER0replacereplaceVBOPER0SadakoSadakoNNPORGPER0OgataOgataNNPORGPER0ofofINORGPER0JapanJapanNNPORGPER0ononINOPER0JanuaryJanuaryNNPDATEPER01st1stNNDATEPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (DT the) (NNP General) (NNP Assembly)) (VP (VBZ approves) (NP (DT the) (NN nomination))))) (, ,) (NP (NNP Mr.) (NNP Lubbers)) (VP (MD will) (VP (VB replace) (NP (NP (NNP Sadako) (NNP Ogata)) (PP (IN of) (NP (NNP Japan)))) (PP (IN on) (NP (NNP January) (NN 1st))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=0 spanning 0 until 1 headed by 0 parsed as UN
+sid=0 spanning 6 until 7 headed by 6 parsed as nominated
+sid=0 spanning 7 until 13 headed by 12 parsed as (NP (NML (JJ former) (NNP Dutch) (NNP Prime) (NNP Minister)) (NNP Ruud) (NNP Lubbers))
+sid=0 spanning 16 until 17 headed by 16 parsed as UN
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Annan))
+sid=1 spanning 3 until 23 headed by 4 parsed as (NP (NP (DT the) (NN record)) (PP (IN of) (NP (DT the) (ADJP (NML (CD 61) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Mr.) (NNP Lubbers))))
+sid=1 spanning 6 until 14 headed by 13 parsed as (NP (DT the) (ADJP (NML (CD 61) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Mr.) (NNP Lubbers))
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (DT this))
+sid=1 spanning 27 until 28 headed by 27 parsed as (NP (PRP him))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN nomination))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (NNP Mr.) (NNP Lubbers))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=0 spanning 0 until 1 headed by 0 parsed as UN
+sid=0 spanning 7 until 13 headed by 12 parsed as (NP (NML (JJ former) (NNP Dutch) (NNP Prime) (NNP Minister)) (NNP Ruud) (NNP Lubbers))
+sid=0 spanning 14 until 21 headed by 18 parsed as (NP (NP (DT the) (JJ new) (NNP UN) (NNP High) (NNP Commissioner)) (PP (IN for) (NP (NNPS Refugees))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Annan))
+sid=1 spanning 3 until 14 headed by 4 parsed as (NP (NP (DT the) (NN record)) (PP (IN of) (NP (DT the) (ADJP (NML (CD 61) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Mr.) (NNP Lubbers))))
+sid=1 spanning 6 until 14 headed by 13 parsed as (NP (DT the) (ADJP (NML (CD 61) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Mr.) (NNP Lubbers))
+sid=1 spanning 7 until 12 headed by 11 parsed as old
+sid=1 spanning 15 until 23 headed by 17 parsed as (NP (NP (DT a) (NN government) (NN leader)) (, ,) (NP (NN academic)) (CC and) (NP (JJ private) (NN citizen)))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (DT a) (NN government) (NN leader))
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (DT this))
+sid=1 spanning 27 until 28 headed by 27 parsed as (NP (PRP him))
+sid=1 spanning 28 until 34 headed by 30 parsed as (NP (NP (DT the) (JJ right) (NN man)) (PP (IN for) (NP (DT the) (NN job))))
+sid=1 spanning 32 until 34 headed by 33 parsed as (NP (DT the) (NN job))
+sid=2 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP General) (NNP Assembly))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN nomination))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (NNP Mr.) (NNP Lubbers))
+sid=2 spanning 12 until 16 headed by 13 parsed as (NP (NP (NNP Sadako) (NNP Ogata)) (PP (IN of) (NP (NNP Japan))))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (NNP January) (NN 1st))
+(end predicted mentions)
+---------gold clusters--------
+3 11 9 7 | { 'former Dutch Prime Minister Ruud Lubbers' 'Mr. Lubbers' 'him' 'the 61 - year - old Mr. Lubbers' }
+0 5 | { 'UN Secretary General Kofi Annan' 'Mr. Annan' }
+8 6 | { 'this' 'the record of the 61 - year - old Mr. Lubbers as a government leader , academic and private citizen' }
+1 4 | { 'UN' 'UN' }
+10 2 | { 'the nomination' 'nominated' }
+(end gold clusters)

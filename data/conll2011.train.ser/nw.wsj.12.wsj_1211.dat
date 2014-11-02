@@ -1,0 +1,47 @@
+---------gloss--------
+(0) [1m[35m{CONTROL DATA Corp.}[0m said [1m[35m{it}[0m is [1m[36m{offering}[0m to purchase the $ 154.2 million amount of [1m[35m{its}[0m 12 3/4 % senior notes due June 15 , 1991 , at par , plus accrued interest to the Dec. 8 purchase date . 
+(1) [1m[35m{The Minneapolis computer systems and services concern}[0m said [1m[36m{the offer}[0m is required under the senior note indenture as a result of [1m[35m{Control Data 's}[0m recent sale of [1m[35m{its}[0m disk drive subsidiary , Imprimis , to Seagate Technology Inc . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1211); part 000
+sentences:
+CONTROLCONTROLNNPORGPER0DATADATANNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0isbeVBZOPER0offeringofferVBGOPER0totoTOOPER0purchasepurchaseVBOPER0thetheDTOPER0$$$MONEYPER0154.2154.2CDMONEYPER0millionmillionCDMONEYPER0amountamountNNOPER0ofofINOPER0itsitsPRP$OPER01212CDPERCENTPER03/43/4CDPERCENTPER0%%NNPERCENTPER0seniorseniorJJOPER0notesnoteNNSOPER0duedueINOPER0JuneJuneNNPDATEPER01515CDDATEPER0,,,DATEPER019911991CDDATEPER0,,,OPER0atatINOPER0parparNNOPER0,,,OPER0plusplusCCOPER0accruedaccrueVBNOPER0interestinterestNNOPER0totoINOPER0thetheDTOPER0Dec.Dec.NNPDATEPER088CDDATEPER0purchasepurchaseNNOPER0datedateNNOPER0...OPER0(ROOT (S (NP (NNP CONTROL) (NNP DATA) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG offering) (S (VP (TO to) (VP (VB purchase) (NP (NP (NP (DT the) (NML (QP ($ $) (CD 154.2) (CD million))) (NN amount)) (PP (IN of) (NP (NP (PRP$ its) (NML (QP (CD 12) (CD 3/4)) (NN %)) (JJ senior) (NNS notes)) (PP (IN due) (NP (NNP June) (CD 15) (, ,) (CD 1991))) (, ,) (PP (IN at) (NP (NN par)))))) (, ,) (CC plus) (NP (VBN accrued) (NN interest))) (PP (IN to) (NP (DT the) (NML (NNP Dec.) (CD 8)) (NN purchase) (NN date))))))))))) (. .)))
+ThetheDTOPER0MinneapolisMinneapolisNNPGPEPER0computercomputerNNOPER0systemssystemNNSOPER0andandCCOPER0servicesserviceNNSOPER0concernconcernNNOPER0saidsayVBDOPER0thetheDTOPER0offerofferNNOPER0isbeVBZOPER0requiredrequireVBNOPER0underunderINOPER0thetheDTOPER0seniorseniorJJOPER0notenoteNNOPER0indentureindentureNNOPER0asasINOPER0aaDTOPER0resultresultNNOPER0ofofINOPER0ControlControlNNPORGPER0DataDataNNPORGPER0's'sPOSORGPER0recentrecentJJOPER0salesaleNNOPER0ofofINOPER0itsitsPRP$OPER0diskdiskNNOPER0drivedriveNNOPER0subsidiarysubsidiaryNNOPER0,,,OPER0ImprimisImprimisNNPORGPER0,,,OPER0totoINOPER0SeagateSeagateNNPORGPER0TechnologyTechnologyNNPORGPER0IncIncNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NNP Minneapolis) (NML (NN computer) (NNS systems) (CC and) (NNS services)) (NN concern)) (VP (VBD said) (SBAR (S (NP (DT the) (NN offer)) (VP (VBZ is) (VP (VBN required) (PP (IN under) (NP (DT the) (JJ senior) (NN note) (NN indenture))) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (NP (NNP Control) (NNP Data) (POS 's)) (JJ recent) (NN sale)) (PP (IN of) (NP (NP (PRP$ its) (NML (NN disk) (NN drive)) (NN subsidiary)) (, ,) (NP (NNP Imprimis)) (, ,))) (PP (IN to) (NP (NNP Seagate) (NNP Technology) (NNP Inc)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP CONTROL) (NNP DATA) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 7 headed by 6 parsed as offering
+sid=0 spanning 15 until 16 headed by 15 parsed as its
+sid=1 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NNP Minneapolis) (NML (NN computer) (NNS systems) (CC and) (NNS services)) (NN concern))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN offer))
+sid=1 spanning 21 until 24 headed by 22 parsed as (NP (NNP Control) (NNP Data) (POS 's))
+sid=1 spanning 27 until 28 headed by 27 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP CONTROL) (NNP DATA) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 9 until 33 headed by 13 parsed as (NP (NP (NP (DT the) (NML (QP ($ $) (CD 154.2) (CD million))) (NN amount)) (PP (IN of) (NP (NP (PRP$ its) (NML (QP (CD 12) (CD 3/4)) (NN %)) (JJ senior) (NNS notes)) (PP (IN due) (NP (NNP June) (CD 15) (, ,) (CD 1991))) (, ,) (PP (IN at) (NP (NN par)))))) (, ,) (CC plus) (NP (VBN accrued) (NN interest)))
+sid=0 spanning 9 until 29 headed by 13 parsed as (NP (NP (DT the) (NML (QP ($ $) (CD 154.2) (CD million))) (NN amount)) (PP (IN of) (NP (NP (PRP$ its) (NML (QP (CD 12) (CD 3/4)) (NN %)) (JJ senior) (NNS notes)) (PP (IN due) (NP (NNP June) (CD 15) (, ,) (CD 1991))) (, ,) (PP (IN at) (NP (NN par))))))
+sid=0 spanning 22 until 26 headed by 22 parsed as (NP (NNP June) (CD 15) (, ,) (CD 1991))
+sid=0 spanning 31 until 33 headed by 32 parsed as (NP (VBN accrued) (NN interest))
+sid=0 spanning 34 until 39 headed by 38 parsed as (NP (DT the) (NML (NNP Dec.) (CD 8)) (NN purchase) (NN date))
+sid=0 spanning 35 until 37 headed by 35 parsed as Dec.
+sid=1 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NNP Minneapolis) (NML (NN computer) (NNS systems) (CC and) (NNS services)) (NN concern))
+sid=1 spanning 1 until 2 headed by 1 parsed as Minneapolis
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN offer))
+sid=1 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (JJ senior) (NN note) (NN indenture))
+sid=1 spanning 18 until 38 headed by 19 parsed as (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (NP (NNP Control) (NNP Data) (POS 's)) (JJ recent) (NN sale)) (PP (IN of) (NP (NP (PRP$ its) (NML (NN disk) (NN drive)) (NN subsidiary)) (, ,) (NP (NNP Imprimis)) (, ,))) (PP (IN to) (NP (NNP Seagate) (NNP Technology) (NNP Inc))))))
+sid=1 spanning 21 until 38 headed by 25 parsed as (NP (NP (NP (NNP Control) (NNP Data) (POS 's)) (JJ recent) (NN sale)) (PP (IN of) (NP (NP (PRP$ its) (NML (NN disk) (NN drive)) (NN subsidiary)) (, ,) (NP (NNP Imprimis)) (, ,))) (PP (IN to) (NP (NNP Seagate) (NNP Technology) (NNP Inc))))
+sid=1 spanning 21 until 24 headed by 22 parsed as (NP (NNP Control) (NNP Data) (POS 's))
+sid=1 spanning 27 until 34 headed by 30 parsed as (NP (NP (PRP$ its) (NML (NN disk) (NN drive)) (NN subsidiary)) (, ,) (NP (NNP Imprimis)) (, ,))
+sid=1 spanning 27 until 31 headed by 30 parsed as (NP (PRP$ its) (NML (NN disk) (NN drive)) (NN subsidiary))
+sid=1 spanning 27 until 28 headed by 27 parsed as (PRP$ its)
+sid=1 spanning 32 until 33 headed by 32 parsed as (NP (NNP Imprimis))
+sid=1 spanning 35 until 38 headed by 37 parsed as (NP (NNP Seagate) (NNP Technology) (NNP Inc))
+(end predicted mentions)
+---------gold clusters--------
+3 7 4 1 6 0 | { 'its' 'its' 'The Minneapolis computer systems and services concern' 'it' 'Control Data 's' 'CONTROL DATA Corp.' }
+2 5 | { 'offering' 'the offer' }
+(end gold clusters)

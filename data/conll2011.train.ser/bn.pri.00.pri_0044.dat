@@ -1,0 +1,72 @@
+---------gloss--------
+(0) From BBC News in London , I 'm Gregor Cragy for The World . 
+(1) [1m[32m{Israeli helicopters}[0m have attacked [36m{buildings used by Palestinian officials}[0m only hours after [1m[31m{the Prime Minister Ehud Barak}[0m told parliament [1m[31m{he}[0m believes peace is still possible in the Middle East . 
+(2) [1m[32m{The helicopters}[0m reportedly fired missiles at [36m{offices of Palestinian leader Yasser Arafat 's ` Fatah movement '}[0m . 
+(3) Israeli officials say there are no casualties and little damage . 
+(4) Earlier [1m[31m{Barak}[0m said peace could still be achieved but only if certain conditions are met . 
+(5) If violence is reduced and a fact finding American led committee go to work , [35m{we}[0m will be ready to go there and help put an end to violence . 
+(6) The chief Palestinian negotiator Syeb Arakat said [1m[31m{Barak 's}[0m speech was aimed at forming a coalition with [35m{Israel 's}[0m right wing and would have a negative effect on the peace process . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0044); part 000
+sentences:
+FromfromINOPER0BBCBBCNNPORGPER0NewsNewsNNPORGPER0ininINOPER0LondonLondonNNPGPEPER0,,,OPER0IIPRPOPER0'mbeVBPOPER0GregorGregorNNPWORK_OF_ARTPER0CragyCragyNNPWORK_OF_ARTPER0forforINWORK_OF_ARTPER0ThetheDTWORK_OF_ARTPER0WorldWorldNNPWORK_OF_ARTPER0...OPER0(ROOT (S (PP (IN From) (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP Gregor) (NNP Cragy)) (PP (IN for) (NP (DT The) (NNP World))))) (. .)))
+IsraeliisraeliJJOPER0helicoptershelicopterNNSOPER0havehaveVBPOPER0attackedattackVBNOPER0buildingsbuildingNNSOPER0useduseVBNOPER0bybyINOPER0PalestinianpalestinianJJOPER0officialsofficialNNSOPER0onlyonlyRBOPER0hourshourNNSTIMEPER0afterafterINOPER0thetheDTOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0toldtellVBDOPER0parliamentparliamentNNOPER0hehePRPOPER0believesbelieveVBZOPER0peacepeaceNNOPER0isbeVBZOPER0stillstillRBOPER0possiblepossibleJJOPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS helicopters)) (VP (VBP have) (VP (VBN attacked) (NP (NP (NNS buildings)) (VP (VBN used) (PP (IN by) (NP (JJ Palestinian) (NNS officials))))) (SBAR (NP (RB only) (NNS hours)) (IN after) (S (NP (DT the) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD told) (NP (NN parliament)) (SBAR (S (NP (PRP he)) (VP (VBZ believes) (SBAR (S (NP (NN peace)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ possible)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))))))))))))) (. .)))
+ThetheDTOPER0helicoptershelicopterNNSOPER0reportedlyreportedlyRBOPER0firedfireVBDOPER0missilesmissileNNSOPER0atatINOPER0officesofficeNNSOPER0ofofINOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0's'sPOSOPER0````OPER0FatahFatahNNPORGPER0movementmovementNNOPER0''''OPER0...OPER0(ROOT (S (NP (DT The) (NNS helicopters)) (ADVP (RB reportedly)) (VP (VBD fired) (NP (NNS missiles)) (PP (IN at) (NP (NP (NNS offices)) (PP (IN of) (NP (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (POS 's)) (`` `) (NNP Fatah) (NN movement) ('' ')))))) (. .)))
+IsraeliisraeliJJOPER0officialsofficialNNSOPER0saysayVBPOPER0therethereEXOPER0arebeVBPOPER0nonoDTOPER0casualtiescasualtyNNSOPER0andandCCOPER0littlelittleJJOPER0damagedamageNNOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS officials)) (VP (VBP say) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (DT no) (NML (NML (NNS casualties)) (CC and) (NML (JJ little) (NN damage)))))))) (. .)))
+EarlierearlierJJROPER0BarakBarakNNPPERSONPER0saidsayVBDOPER0peacepeaceNNOPER0couldcouldMDOPER0stillstillRBOPER0bebeVBOPER0achievedachieveVBNOPER0butbutCCOPER0onlyonlyRBOPER0ififINOPER0certaincertainJJOPER0conditionsconditionNNSOPER0arebeVBPOPER0metmeetVBNOPER0...OPER0(ROOT (S (NP (JJR Earlier) (NNP Barak)) (VP (VBD said) (SBAR (S (NP (NN peace)) (VP (MD could) (ADVP (RB still)) (VP (VB be) (VP (VBN achieved) (NAC (CC but) (SBAR (ADVP (RB only)) (IN if) (S (NP (JJ certain) (NNS conditions)) (VP (VBP are) (VP (VBN met)))))))))))) (. .)))
+IfifINOPER0violenceviolenceNNOPER0isbeVBZOPER0reducedreduceVBNOPER0andandCCOPER0aaDTOPER0factfactNNOPER0findingfindVBGOPER0AmericanAmericanNNPOPER0ledleadVBNOPER0committeecommitteeNNOPER0gogoVBPOPER0totoINOPER0workworkNNOPER0,,,OPER0wewePRPOPER0willwillMDOPER0bebeVBOPER0readyreadyJJOPER0totoTOOPER0gogoVBOPER0therethereRBOPER0andandCCOPER0helphelpVBOPER0putputVBOPER0anaDTOPER0endendNNOPER0totoINOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (SBAR (IN If) (S (S (NP (NN violence)) (VP (VBZ is) (VP (VBN reduced)))) (CC and) (S (NP (DT a) (ADJP (NN fact) (VBG finding)) (ADJP (NNP American) (VBN led)) (NN committee)) (VP (VBP go) (PP (IN to) (NP (NN work))))))) (, ,) (NP (PRP we)) (VP (MD will) (VP (VB be) (ADJP (JJ ready) (S (VP (TO to) (VP (VP (VB go) (ADVP (RB there))) (CC and) (VP (VB help) (S (VP (VB put) (NP (DT an) (NN end)) (PP (IN to) (NP (NN violence)))))))))))) (. .)))
+ThetheDTOPER0chiefchiefJJOPER0PalestinianpalestinianJJOPER0negotiatornegotiatorNNOPER0SyebSyebNNPPERSONPER0ArakatArakatNNPPERSONPER0saidsayVBDOPER0BarakBarakNNPPERSONPER0's'sPOSOPER0speechspeechNNOPER0wasbeVBDOPER0aimedaimVBNOPER0atatINOPER0formingformVBGOPER0aaDTOPER0coalitioncoalitionNNOPER0withwithINOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0rightrightJJOPER0wingwingNNOPER0andandCCOPER0wouldwouldMDOPER0havehaveVBOPER0aaDTOPER0negativenegativeJJOPER0effecteffectNNOPER0ononINOPER0thetheDTOPER0peacepeaceNNOPER0processprocessNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (JJ chief) (JJ Palestinian) (NN negotiator)) (NNP Syeb) (NNP Arakat)) (VP (VBD said) (SBAR (S (NP (NP (NNP Barak) (POS 's)) (NN speech)) (VP (VP (VBD was) (VP (VBN aimed) (PP (IN at) (S (VP (VBG forming) (NP (NP (DT a) (NN coalition)) (PP (IN with) (NP (NP (NNP Israel) (POS 's)) (JJ right) (NN wing))))))))) (CC and) (VP (MD would) (VP (VB have) (NP (NP (DT a) (JJ negative) (NN effect)) (PP (IN on) (NP (DT the) (NN peace) (NN process)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS helicopters))
+sid=1 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNS buildings)) (VP (VBN used) (PP (IN by) (NP (JJ Palestinian) (NNS officials)))))
+sid=1 spanning 12 until 17 headed by 16 parsed as (NP (DT the) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (PRP he))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS helicopters))
+sid=2 spanning 6 until 17 headed by 6 parsed as (NP (NP (NNS offices)) (PP (IN of) (NP (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (POS 's)) (`` `) (NNP Fatah) (NN movement) ('' '))))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (JJR Earlier) (NNP Barak))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (PRP we))
+sid=6 spanning 7 until 9 headed by 7 parsed as (NP (NNP Barak) (POS 's))
+sid=6 spanning 17 until 19 headed by 17 parsed as (NP (NNP Israel) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 5 headed by 2 parsed as (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP London))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP I))
+sid=0 spanning 8 until 13 headed by 9 parsed as (NP (NP (NNP Gregor) (NNP Cragy)) (PP (IN for) (NP (DT The) (NNP World))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS helicopters))
+sid=1 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNS buildings)) (VP (VBN used) (PP (IN by) (NP (JJ Palestinian) (NNS officials)))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (JJ Palestinian) (NNS officials))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (RB only) (NNS hours))
+sid=1 spanning 12 until 17 headed by 16 parsed as (NP (DT the) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (PRP he))
+sid=1 spanning 26 until 29 headed by 28 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS helicopters))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNS missiles))
+sid=2 spanning 6 until 17 headed by 6 parsed as (NP (NP (NNS offices)) (PP (IN of) (NP (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (POS 's)) (`` `) (NNP Fatah) (NN movement) ('' '))))
+sid=2 spanning 8 until 13 headed by 11 parsed as (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (POS 's))
+sid=2 spanning 14 until 15 headed by 14 parsed as Fatah
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS officials))
+sid=3 spanning 5 until 10 headed by 6 parsed as (NP (DT no) (NML (NML (NNS casualties)) (CC and) (NML (JJ little) (NN damage))))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (JJR Earlier) (NNP Barak))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (JJ certain) (NNS conditions))
+sid=5 spanning 5 until 11 headed by 10 parsed as (NP (DT a) (ADJP (NN fact) (VBG finding)) (ADJP (NNP American) (VBN led)) (NN committee))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (PRP we))
+sid=5 spanning 25 until 27 headed by 26 parsed as (NP (DT an) (NN end))
+sid=6 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (JJ chief) (JJ Palestinian) (NN negotiator)) (NNP Syeb) (NNP Arakat))
+sid=6 spanning 7 until 10 headed by 9 parsed as (NP (NP (NNP Barak) (POS 's)) (NN speech))
+sid=6 spanning 7 until 9 headed by 7 parsed as (NP (NNP Barak) (POS 's))
+sid=6 spanning 14 until 21 headed by 15 parsed as (NP (NP (DT a) (NN coalition)) (PP (IN with) (NP (NP (NNP Israel) (POS 's)) (JJ right) (NN wing))))
+sid=6 spanning 17 until 21 headed by 20 parsed as (NP (NP (NNP Israel) (POS 's)) (JJ right) (NN wing))
+sid=6 spanning 17 until 19 headed by 17 parsed as (NP (NNP Israel) (POS 's))
+sid=6 spanning 24 until 31 headed by 26 parsed as (NP (NP (DT a) (JJ negative) (NN effect)) (PP (IN on) (NP (DT the) (NN peace) (NN process))))
+sid=6 spanning 28 until 31 headed by 30 parsed as (NP (DT the) (NN peace) (NN process))
+(end predicted mentions)
+---------gold clusters--------
+9 7 | { 'Israel 's' 'we' }
+5 1 | { 'offices of Palestinian leader Yasser Arafat 's ` Fatah movement '' 'buildings used by Palestinian officials' }
+3 8 2 6 | { 'he' 'Barak 's' 'the Prime Minister Ehud Barak' 'Barak' }
+0 4 | { 'Israeli helicopters' 'The helicopters' }
+(end gold clusters)

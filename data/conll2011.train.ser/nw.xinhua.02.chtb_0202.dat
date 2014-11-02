@@ -1,0 +1,65 @@
+---------gloss--------
+(0) The Wannan Flower - drum drama troupe from the Xuancheng Area in Anhui province was recently invited to Beijing to [1m[31m{perform}[0m [35m{the big historical drama " Jie drums startle the heavens "}[0m . 
+(1) [1m[31m{The performance}[0m was well received by capital audiences . 
+(2) [35m{This drama}[0m creates new artistic situations in a story of rather everyday vicissitudes and expresses the artistic appeal of tragedies . 
+(3) The photo above shows a shot of [36m{the servant girl}[0m looking for [36m{her}[0m emperor brother . 
+(4) The photo below shows a shot of the meeting of the mother and the son . 
+(5) Photo by Mingyang Luo . 
+(end gloss)
+---------document--------
+(nw/xinhua/02/chtb_0202); part 000
+sentences:
+ThetheDTOPER0WannanWannanNNPWORK_OF_ARTPER0FlowerFlowerNNPWORK_OF_ARTPER0--HYPHOPER0drumdrumNNOPER0dramadramaNNOPER0troupetroupeNNOPER0fromfromINOPER0thetheDTLOCPER0XuanchengXuanchengNNPLOCPER0AreaAreaNNPLOCPER0ininINOPER0AnhuiAnhuiNNPGPEPER0provinceprovinceNNOPER0wasbeVBDOPER0recentlyrecentlyRBOPER0invitedinviteVBNOPER0totoINOPER0BeijingBeijingNNPGPEPER0totoTOOPER0performperformVBOPER0thetheDTOPER0bigbigJJOPER0historicalhistoricalJJOPER0dramadramaNNOPER0""``OPER0JieJieNNPPERSONPER1drumsdrumNNSOPER1startlestartleVBOPER1thetheDTOPER1heavensheavenNNSOPER1""''OPER0...OPER0(ROOT (S (NP (NP (DT The) (NML (NML (NNP Wannan) (NNP Flower)) (HYPH -) (NN drum)) (NN drama) (NN troupe)) (PP (IN from) (NP (NP (DT the) (NNP Xuancheng) (NNP Area)) (PP (IN in) (NP (NNP Anhui) (NN province)))))) (VP (VBD was) (ADVP (RB recently)) (VP (VBN invited) (PP (IN to) (NP (NNP Beijing))) (S (VP (TO to) (VP (VB perform) (NP (DT the) (JJ big) (JJ historical) (NN drama)) (`` ") (S (NP (NNP Jie) (NNS drums)) (VP (VB startle) (NP (DT the) (NNS heavens)))) ('' ")))))) (. .)))
+ThetheDTOPER0performanceperformanceNNOPER0wasbeVBDOPER0wellwellRBOPER0receivedreceivedJJOPER0bybyINOPER0capitalcapitalNNOPER0audiencesaudienceNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN performance)) (VP (VBD was) (ADJP (RB well) (JJ received) (PP (IN by) (NP (NN capital) (NNS audiences))))) (. .)))
+ThisthisDTOPER0dramadramaNNOPER0createscreateVBZOPER0newnewJJOPER0artisticartisticJJOPER0situationssituationNNSOPER0ininINOPER0aaDTOPER0storystoryNNOPER0ofofINOPER0ratherratherRBOPER0everydayeverydayJJOPER0vicissitudesvicissitudeNNSOPER0andandCCOPER0expressesexpressVBZOPER0thetheDTOPER0artisticartisticJJOPER0appealappealNNOPER0ofofINOPER0tragediestragedyNNSOPER0...OPER0(ROOT (S (NP (DT This) (NN drama)) (VP (VP (VBZ creates) (NP (JJ new) (JJ artistic) (NNS situations)) (PP (IN in) (NP (NP (DT a) (NN story)) (PP (IN of) (NP (ADJP (RB rather) (JJ everyday)) (NNS vicissitudes)))))) (CC and) (VP (VBZ expresses) (NP (NP (DT the) (JJ artistic) (NN appeal)) (PP (IN of) (NP (NNS tragedies)))))) (. .)))
+ThetheDTOPER0photophotoNNOPER0aboveaboveRBOPER0showsshowVBZOPER0aaDTOPER0shotshotNNOPER0ofofINOPER0thetheDTOPER0servantservantNNOPER0girlgirlNNOPER0lookinglookVBGOPER0forforINOPER0hershePRP$OPER0emperoremperorNNOPER0brotherbrotherNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN photo)) (ADVP (RB above))) (VP (VBZ shows) (NP (NP (DT a) (NN shot)) (PP (IN of) (S (NP (DT the) (NN servant) (NN girl)) (VP (VBG looking) (PP (IN for) (NP (PRP$ her) (NN emperor) (NN brother)))))))) (. .)))
+ThetheDTOPER0photophotoNNOPER0belowbelowRBOPER0showsshowVBZOPER0aaDTOPER0shotshotNNOPER0ofofINOPER0thetheDTOPER0meetingmeetingNNOPER0ofofINOPER0thetheDTOPER0mothermotherNNOPER0andandCCOPER0thetheDTOPER0sonsonNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN photo)) (ADVP (RB below))) (VP (VBZ shows) (NP (NP (DT a) (NN shot)) (PP (IN of) (NP (NP (NP (DT the) (NN meeting)) (PP (IN of) (NP (DT the) (NN mother)))) (CC and) (NP (DT the) (NN son)))))) (. .)))
+PhotophotoNNOPER0bybyINOPER0MingyangMingyangNNPORGPER0LuoLuoNNPORGPER0...OPER0(ROOT (NP (NP (NN Photo)) (PP (IN by) (NP (NNP Mingyang) (NNP Luo))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 20 until 21 headed by 20 parsed as perform
+sid=0 spanning 21 until 32 headed by 24 parsed as (NP (DT the) (JJ big) (JJ historical) (NN drama))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN performance))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT This) (NN drama))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NN servant) (NN girl))
+sid=3 spanning 12 until 13 headed by 12 parsed as her
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 14 headed by 6 parsed as (NP (NP (DT The) (NML (NML (NNP Wannan) (NNP Flower)) (HYPH -) (NN drum)) (NN drama) (NN troupe)) (PP (IN from) (NP (NP (DT the) (NNP Xuancheng) (NNP Area)) (PP (IN in) (NP (NNP Anhui) (NN province))))))
+sid=0 spanning 1 until 3 headed by 2 parsed as Flower
+sid=0 spanning 8 until 14 headed by 10 parsed as (NP (NP (DT the) (NNP Xuancheng) (NNP Area)) (PP (IN in) (NP (NNP Anhui) (NN province))))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (NNP Anhui) (NN province))
+sid=0 spanning 12 until 13 headed by 12 parsed as Anhui
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Beijing))
+sid=0 spanning 21 until 25 headed by 24 parsed as (NP (DT the) (JJ big) (JJ historical) (NN drama))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (NNP Jie) (NNS drums))
+sid=0 spanning 26 until 27 headed by 26 parsed as Jie
+sid=0 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NNS heavens))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN performance))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (NN capital) (NNS audiences))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT This) (NN drama))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (JJ new) (JJ artistic) (NNS situations))
+sid=2 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT a) (NN story)) (PP (IN of) (NP (ADJP (RB rather) (JJ everyday)) (NNS vicissitudes))))
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (ADJP (RB rather) (JJ everyday)) (NNS vicissitudes))
+sid=2 spanning 15 until 20 headed by 17 parsed as (NP (NP (DT the) (JJ artistic) (NN appeal)) (PP (IN of) (NP (NNS tragedies))))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (NNS tragedies))
+sid=3 spanning 0 until 3 headed by 1 parsed as (NP (NP (DT The) (NN photo)) (ADVP (RB above)))
+sid=3 spanning 4 until 15 headed by 5 parsed as (NP (NP (DT a) (NN shot)) (PP (IN of) (S (NP (DT the) (NN servant) (NN girl)) (VP (VBG looking) (PP (IN for) (NP (PRP$ her) (NN emperor) (NN brother)))))))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NN servant) (NN girl))
+sid=3 spanning 12 until 15 headed by 14 parsed as (NP (PRP$ her) (NN emperor) (NN brother))
+sid=3 spanning 12 until 13 headed by 12 parsed as (PRP$ her)
+sid=4 spanning 0 until 3 headed by 1 parsed as (NP (NP (DT The) (NN photo)) (ADVP (RB below)))
+sid=4 spanning 4 until 15 headed by 5 parsed as (NP (NP (DT a) (NN shot)) (PP (IN of) (NP (NP (NP (DT the) (NN meeting)) (PP (IN of) (NP (DT the) (NN mother)))) (CC and) (NP (DT the) (NN son)))))
+sid=4 spanning 7 until 15 headed by 8 parsed as (NP (NP (NP (DT the) (NN meeting)) (PP (IN of) (NP (DT the) (NN mother)))) (CC and) (NP (DT the) (NN son)))
+sid=4 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT the) (NN meeting)) (PP (IN of) (NP (DT the) (NN mother))))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN mother))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN son))
+sid=5 spanning 0 until 5 headed by 0 parsed as (NP (NP (NN Photo)) (PP (IN by) (NP (NNP Mingyang) (NNP Luo))) (. .))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (NNP Mingyang) (NNP Luo))
+(end predicted mentions)
+---------gold clusters--------
+1 3 | { 'the big historical drama " Jie drums startle the heavens "' 'This drama' }
+5 4 | { 'her' 'the servant girl' }
+0 2 | { 'perform' 'The performance' }
+(end gold clusters)

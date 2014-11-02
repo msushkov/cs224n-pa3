@@ -1,0 +1,166 @@
+---------gloss--------
+(0) Off the coast there was a dramatic rescue by [33m{a cruise ship ship}[0m . 
+(1) Canada TV has the story and some dramatic pictures . 
+(2) Reporter : 
+(3) With winds bliping at more than 100 kilometers an hour , [1m[35m{three men}[0m desperately cling to [1m[35m{their}[0m sinking fishing boat . 
+(4) [1m[36m{The crew}[0m sent out [3m[32m{a distress call}[0m after [34m{it}[0m started taking on water . 
+(5) Suddenly [1m[36m{we}[0m realized [32m{water}[0m came into the engine room and [32m{it}[0m was rising and [1m[32m{they}[0m started to pump , of course , and [1m[32m{they}[0m pumped and pumped and [32m{the water}[0m came more and more and more . 
+(6) Reporter : 
+(7) [34m{The ship}[0m was sinking by the second , and as the waves pounded against [1m[35m{them}[0m , waiting for help was [1m[35m{their}[0m only option . 
+(8) [1m[35m{Their}[0m life raft had already been snitched away by [36m{the high seas}[0m . 
+(9) When [3m[31m{we}[0m got [3m[32m{the information}[0m , it was only 23 , 25 miles off , so [3m[31m{we}[0m were quite close . 
+(10) Reporter : 
+(11) Still it took [33m{the Royal Caribbean cruise ship `` Raidience of the Seas ''}[0m almost an hour to reach the scene and despite [36m{the rough ocean}[0m , the captain immediately sent [1m[31m{a boat}[0m in to save [1m[35m{them}[0m . 
+(12) [31m{They}[0m see [1m[33m{them}[0m . 
+(13) [31m{They}[0m see [1m[33m{them}[0m . 
+(14) [1m[35m{They}[0m were jumping in the sea when [1m[35m{they}[0m saw the rescuers were on the way . 
+(15) [1m[35m{They}[0m were swimming toward [1m[31m{the boat}[0m . 
+(16) [35m{I}[0m pulled out the youngest guy first and then [35m{I}[0m wanted to pull out [1m[34m{the captain}[0m , but [1m[34m{the captain}[0m said take -- 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0410); part 000
+sentences:
+OffoffINOPER0thetheDTOPER0coastcoastNNOPER0therethereEXOPER0wasbeVBDOPER0aaDTOPER0dramaticdramaticJJOPER0rescuerescueNNOPER0bybyINOPER0aaDTOPER0cruisecruiseNNOPER0shipshipNNOPER0shipshipNNOPER0...OPER0(ROOT (S (PP (IN Off) (NP (DT the) (NN coast))) (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (JJ dramatic) (NN rescue)) (PP (IN by) (NP (DT a) (NML (NN cruise) (NN ship)) (NN ship))))) (. .)))
+CanadaCanadaNNPGPEPER0TVTVNNPOPER0hashaveVBZOPER0thetheDTOPER0storystoryNNOPER0andandCCOPER0somesomeDTOPER0dramaticdramaticJJOPER0picturespictureNNSOPER0...OPER0(ROOT (S (NP (NNP Canada) (NNP TV)) (VP (VBZ has) (NP (NP (DT the) (NN story)) (CC and) (NP (DT some) (JJ dramatic) (NNS pictures)))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+WithwithINOPER0windswindNNSOPER0blipingblipVBGOPER0atatINOPER0moremoreJJRQUANTITYPER0thanthanINQUANTITYPER0100100CDQUANTITYPER0kilometerskilometerNNSQUANTITYPER0anaDTQUANTITYPER0hourhourNNQUANTITYPER0,,,OPER0threethreeCDCARDINALPER0menmanNNSOPER0desperatelydesperatelyRBOPER0clingclingVBPOPER0totoINOPER0theirtheyPRP$OPER0sinkingsinkVBGOPER0fishingfishingNNOPER0boatboatNNOPER0...OPER0(ROOT (S (PP (IN With) (S (NP (NNS winds)) (VP (VBG bliping) (PP (IN at) (NP (NP (QP (XS (JJR more) (IN than)) (CD 100)) (NNS kilometers)) (NP (DT an) (NN hour))))))) (, ,) (NP (CD three) (NNS men)) (ADVP (RB desperately)) (VP (VBP cling) (PP (IN to) (NP (PRP$ their) (VBG sinking) (NN fishing) (NN boat)))) (. .)))
+ThetheDTOPER0crewcrewNNOPER0sentsendVBDOPER0outoutRPOPER0aaDTOPER0distressdistressNNOPER0callcallNNOPER0afterafterINOPER0ititPRPOPER0startedstartVBDOPER0takingtakeVBGOPER0ononRPOPER0waterwaterNNOPER0...OPER0(ROOT (S (NP (DT The) (NN crew)) (VP (VBD sent) (PRT (RP out)) (NP (DT a) (NN distress) (NN call)) (SBAR (IN after) (S (NP (PRP it)) (VP (VBD started) (S (VP (VBG taking) (PRT (RP on)) (NP (NN water)))))))) (. .)))
+SuddenlysuddenlyRBOPER0wewePRPOPER0realizedrealizeVBDOPER0waterwaterNNOPER0camecomeVBDOPER0intointoINOPER0thetheDTOPER0engineengineNNOPER0roomroomNNOPER0andandCCOPER0ititPRPOPER0wasbeVBDOPER0risingriseVBGOPER0andandCCOPER0theytheyPRPOPER0startedstartVBDOPER0totoTOOPER0pumppumpVBOPER0,,,OPER0ofofINOPER0coursecourseNNOPER0,,,OPER0andandCCOPER0theytheyPRPOPER0pumpedpumpVBDOPER0andandCCOPER0pumpedpumpVBDOPER0andandCCOPER0thetheDTOPER0waterwaterNNOPER0camecomeVBDOPER0moremoreRBROPER0andandCCOPER0moremoreRBROPER0andandCCOPER0moremoreRBROPER0...OPER0(ROOT (S (S (ADVP (RB Suddenly)) (NP (PRP we)) (VP (VBD realized) (SBAR (S (NP (NN water)) (VP (VBD came) (PP (IN into) (NP (DT the) (NN engine) (NN room)))))))) (CC and) (S (S (NP (PRP it)) (VP (VBD was) (VP (VBG rising)))) (CC and) (S (S (NP (PRP they)) (VP (VBD started) (S (VP (TO to) (VP (VB pump) (, ,) (PP (IN of) (NP (NN course)))))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBD pumped) (CC and) (VBD pumped))) (CC and) (S (NP (DT the) (NN water)) (VP (VBD came) (ADVP (RBR more) (CC and) (RBR more) (CC and) (RBR more)))))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+ThetheDTOPER0shipshipNNOPER0wasbeVBDOPER0sinkingsinkVBGOPER0bybyINOPER0thetheDTOPER0secondsecondJJORDINALPER0,,,OPER0andandCCOPER0asasINOPER0thetheDTOPER0waveswaveNNSOPER0poundedpoundVBNOPER0againstagainstINOPER0themtheyPRPOPER0,,,OPER0waitingwaitVBGOPER0forforINOPER0helphelpNNOPER0wasbeVBDOPER0theirtheyPRP$OPER0onlyonlyJJOPER0optionoptionNNOPER0...OPER0(ROOT (S (S (NP (DT The) (NN ship)) (VP (VBD was) (VP (VBG sinking) (PP (IN by) (NP (DT the) (JJ second)))))) (, ,) (CC and) (S (PP (IN as) (NP (NP (DT the) (NNS waves)) (VP (VBN pounded) (PP (IN against) (NP (PRP them)))))) (, ,) (S (VP (VBG waiting) (PP (IN for) (NP (NN help))))) (VP (VBD was) (NP (PRP$ their) (JJ only) (NN option)))) (. .)))
+TheirtheyPRP$OPER0lifelifeNNOPER0raftraftNNOPER0hadhaveVBDOPER0alreadyalreadyRBOPER0beenbeVBNOPER0snitchedsnitchVBNOPER0awayawayRPOPER0bybyINOPER0thetheDTOPER0highhighJJOPER0seasseaNNSOPER0...OPER0(ROOT (S (NP (PRP$ Their) (NN life) (NN raft)) (VP (VBD had) (ADVP (RB already)) (VP (VBN been) (VP (VBN snitched) (PRT (RP away)) (PP (IN by) (NP (DT the) (JJ high) (NNS seas)))))) (. .)))
+WhenwhenWRBOPER0wewePRPOPER0gotgetVBDOPER0thetheDTOPER0informationinformationNNOPER0,,,OPER0ititPRPOPER0wasbeVBDOPER0onlyonlyRBCARDINALPER02323CDCARDINALPER0,,,OPER02525CDQUANTITYPER0milesmileNNSQUANTITYPER0offoffRBOPER0,,,OPER0sosoCCOPER0wewePRPOPER0werebeVBDOPER0quitequiteRBOPER0closecloseJJOPER0...OPER0(ROOT (S (S (SBAR (WHADVP (WRB When)) (S (NP (PRP we)) (VP (VBD got) (NP (DT the) (NN information))))) (, ,) (NP (PRP it)) (VP (VBD was) (ADVP (NP (QP (RB only) (CD 23) (, ,) (CD 25)) (NNS miles)) (RB off)))) (, ,) (CC so) (S (NP (PRP we)) (VP (VBD were) (ADJP (RB quite) (JJ close)))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+StillstillRBOPER0ititPRPOPER0tooktakeVBDOPER0thetheDTOPER0RoyalRoyalNNPORGPER0CaribbeanCaribbeanNNPORGPER0cruisecruiseNNOPER0shipshipNNOPER0``````ORaidienceRaidienceNNPWORK_OF_ARTPER1ofofINWORK_OF_ARTPER1thetheDTWORK_OF_ARTPER1SeasSeasNNPSWORK_OF_ARTPER1''''''OPER0almostalmostRBOPER0anaDTOPER0hourhourNNOPER0totoTOOPER0reachreachVBOPER0thetheDTOPER0scenesceneNNOPER0andandCCOPER0despitedespiteINOPER0thetheDTOPER0roughroughJJOPER0oceanoceanNNOPER0,,,OPER0thetheDTOPER0captaincaptainNNOPER0immediatelyimmediatelyRBOPER0sentsendVBDOPER0aaDTOPER0boatboatNNOPER0ininINOPER0totoTOOPER0savesaveVBOPER0themtheyPRPOPER0...OPER0(ROOT (S (ADVP (RB Still)) (NP (PRP it)) (VP (VBD took) (NP (NP (DT the) (NML (NNP Royal) (NNP Caribbean)) (NN cruise) (NN ship)) (`` ``) (NP (NP (NNP Raidience)) (PP (IN of) (NP (DT the) (NNPS Seas)))) ('' '')) (NP (RB almost) (DT an) (NN hour)) (S (VP (TO to) (VP (VB reach) (NP (NP (DT the) (NN scene)) (SBAR (S (CC and) (PP (IN despite) (NP (DT the) (JJ rough) (NN ocean))) (, ,) (NP (DT the) (NN captain)) (ADVP (RB immediately)) (VP (VBD sent) (NP (DT a) (NN boat)) (PP (IN in)) (S (VP (TO to) (VP (VB save) (NP (PRP them))))))))))))) (. .)))
+TheytheyPRPOPER0seeseeVBPOPER0themtheyPRPOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP see) (NP (PRP them))) (. .)))
+TheytheyPRPOPER0seeseeVBPOPER0themtheyPRPOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP see) (NP (PRP them))) (. .)))
+TheytheyPRPOPER0werebeVBDOPER0jumpingjumpVBGOPER0ininINOPER0thetheDTOPER0seaseaNNOPER0whenwhenWRBOPER0theytheyPRPOPER0sawseeVBDOPER0thetheDTOPER0rescuersrescuerNNSOPER0werebeVBDOPER0ononINOPER0thetheDTOPER0waywayNNOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBD were) (VP (VBG jumping) (PP (IN in) (NP (NP (DT the) (NN sea)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD saw) (SBAR (S (NP (DT the) (NNS rescuers)) (VP (VBD were) (PP (IN on) (NP (DT the) (NN way))))))))))))) (. .)))
+TheytheyPRPOPER0werebeVBDOPER0swimmingswimVBGOPER0towardtowardINOPER0thetheDTOPER0boatboatNNOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBD were) (VP (VBG swimming) (PP (IN toward) (NP (DT the) (NN boat))))) (. .)))
+IIPRPOPER0pulledpullVBDOPER0outoutRPOPER0thetheDTOPER0youngestyoungestJJSOPER0guyguyNNOPER0firstfirstRBOPER0andandCCOPER0thenthenRBOPER0IIPRPOPER0wantedwantVBDOPER0totoTOOPER0pullpullVBOPER0outoutRPOPER0thetheDTOPER0captaincaptainNNOPER0,,,OPER0butbutCCOPER0thetheDTOPER0captaincaptainNNOPER0saidsayVBDOPER0taketakeVBOPER0----.OPER0(ROOT (S (S (NP (PRP I)) (VP (VBD pulled) (PRT (RP out)) (NP (NP (DT the) (JJS youngest) (NN guy)) (ADVP (RB first))))) (CC and) (ADVP (RB then)) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to) (VP (VB pull) (PRT (RP out)) (NP (DT the) (NN captain))))))) (, ,) (CC but) (S (NP (DT the) (NN captain)) (VP (VBD said) (VP (VB take)))) (. --)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (DT a) (NML (NN cruise) (NN ship)) (NN ship))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (CD three) (NNS men))
+sid=3 spanning 16 until 20 headed by 19 parsed as (NP (PRP$ their) (VBG sinking) (NN fishing) (NN boat))
+sid=3 spanning 16 until 17 headed by 16 parsed as their
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN crew))
+sid=4 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NN distress) (NN call))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP we))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NN water))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=5 spanning 14 until 15 headed by 14 parsed as (NP (PRP they))
+sid=5 spanning 23 until 24 headed by 23 parsed as (NP (PRP they))
+sid=5 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN water))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN ship))
+sid=7 spanning 14 until 15 headed by 14 parsed as (NP (PRP them))
+sid=7 spanning 20 until 21 headed by 20 parsed as their
+sid=8 spanning 0 until 1 headed by 0 parsed as Their
+sid=8 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (JJ high) (NNS seas))
+sid=9 spanning 1 until 2 headed by 1 parsed as (NP (PRP we))
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN information))
+sid=9 spanning 16 until 17 headed by 16 parsed as (NP (PRP we))
+sid=11 spanning 3 until 14 headed by 7 parsed as (NP (NP (DT the) (NML (NNP Royal) (NNP Caribbean)) (NN cruise) (NN ship)) (`` ``) (NP (NP (NNP Raidience)) (PP (IN of) (NP (DT the) (NNPS Seas)))) ('' ''))
+sid=11 spanning 23 until 26 headed by 25 parsed as (NP (DT the) (JJ rough) (NN ocean))
+sid=11 spanning 31 until 33 headed by 32 parsed as (NP (DT a) (NN boat))
+sid=11 spanning 36 until 37 headed by 36 parsed as (NP (PRP them))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=12 spanning 2 until 3 headed by 2 parsed as (NP (PRP them))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=13 spanning 2 until 3 headed by 2 parsed as (NP (PRP them))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=14 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=15 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN boat))
+sid=16 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=16 spanning 9 until 10 headed by 9 parsed as (NP (PRP I))
+sid=16 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN captain))
+sid=16 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN captain))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN coast))
+sid=0 spanning 5 until 13 headed by 7 parsed as (NP (NP (DT a) (JJ dramatic) (NN rescue)) (PP (IN by) (NP (DT a) (NML (NN cruise) (NN ship)) (NN ship))))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (DT a) (NML (NN cruise) (NN ship)) (NN ship))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Canada) (NNP TV))
+sid=1 spanning 0 until 1 headed by 0 parsed as Canada
+sid=1 spanning 3 until 9 headed by 4 parsed as (NP (NP (DT the) (NN story)) (CC and) (NP (DT some) (JJ dramatic) (NNS pictures)))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN story))
+sid=1 spanning 6 until 9 headed by 8 parsed as (NP (DT some) (JJ dramatic) (NNS pictures))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NNS winds))
+sid=3 spanning 4 until 10 headed by 7 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD 100)) (NNS kilometers)) (NP (DT an) (NN hour)))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT an) (NN hour))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (CD three) (NNS men))
+sid=3 spanning 16 until 20 headed by 19 parsed as (NP (PRP$ their) (VBG sinking) (NN fishing) (NN boat))
+sid=3 spanning 16 until 17 headed by 16 parsed as (PRP$ their)
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN crew))
+sid=4 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NN distress) (NN call))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP we))
+sid=5 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN engine) (NN room))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP it))
+sid=5 spanning 14 until 15 headed by 14 parsed as (NP (PRP they))
+sid=5 spanning 23 until 24 headed by 23 parsed as (NP (PRP they))
+sid=5 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN water))
+sid=6 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN ship))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (DT the) (JJ second))
+sid=7 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (JJ second))
+sid=7 spanning 10 until 15 headed by 11 parsed as (NP (NP (DT the) (NNS waves)) (VP (VBN pounded) (PP (IN against) (NP (PRP them)))))
+sid=7 spanning 14 until 15 headed by 14 parsed as (NP (PRP them))
+sid=7 spanning 20 until 23 headed by 22 parsed as (NP (PRP$ their) (JJ only) (NN option))
+sid=7 spanning 20 until 21 headed by 20 parsed as (PRP$ their)
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (PRP$ Their) (NN life) (NN raft))
+sid=8 spanning 0 until 1 headed by 0 parsed as (PRP$ Their)
+sid=8 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (JJ high) (NNS seas))
+sid=9 spanning 1 until 2 headed by 1 parsed as (NP (PRP we))
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN information))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=9 spanning 8 until 13 headed by 12 parsed as (NP (QP (RB only) (CD 23) (, ,) (CD 25)) (NNS miles))
+sid=9 spanning 16 until 17 headed by 16 parsed as (NP (PRP we))
+sid=10 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=11 spanning 3 until 14 headed by 7 parsed as (NP (NP (DT the) (NML (NNP Royal) (NNP Caribbean)) (NN cruise) (NN ship)) (`` ``) (NP (NP (NNP Raidience)) (PP (IN of) (NP (DT the) (NNPS Seas)))) ('' ''))
+sid=11 spanning 4 until 6 headed by 5 parsed as Caribbean
+sid=11 spanning 9 until 13 headed by 9 parsed as (NP (NP (NNP Raidience)) (PP (IN of) (NP (DT the) (NNPS Seas))))
+sid=11 spanning 14 until 17 headed by 16 parsed as (NP (RB almost) (DT an) (NN hour))
+sid=11 spanning 19 until 37 headed by 20 parsed as (NP (NP (DT the) (NN scene)) (SBAR (S (CC and) (PP (IN despite) (NP (DT the) (JJ rough) (NN ocean))) (, ,) (NP (DT the) (NN captain)) (ADVP (RB immediately)) (VP (VBD sent) (NP (DT a) (NN boat)) (PP (IN in)) (S (VP (TO to) (VP (VB save) (NP (PRP them)))))))))
+sid=11 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN scene))
+sid=11 spanning 23 until 26 headed by 25 parsed as (NP (DT the) (JJ rough) (NN ocean))
+sid=11 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN captain))
+sid=11 spanning 31 until 33 headed by 32 parsed as (NP (DT a) (NN boat))
+sid=11 spanning 36 until 37 headed by 36 parsed as (NP (PRP them))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=12 spanning 2 until 3 headed by 2 parsed as (NP (PRP them))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=13 spanning 2 until 3 headed by 2 parsed as (NP (PRP them))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=14 spanning 4 until 15 headed by 5 parsed as (NP (NP (DT the) (NN sea)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD saw) (SBAR (S (NP (DT the) (NNS rescuers)) (VP (VBD were) (PP (IN on) (NP (DT the) (NN way))))))))))
+sid=14 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=14 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS rescuers))
+sid=14 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN way))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=15 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN boat))
+sid=16 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=16 spanning 3 until 7 headed by 5 parsed as (NP (NP (DT the) (JJS youngest) (NN guy)) (ADVP (RB first)))
+sid=16 spanning 9 until 10 headed by 9 parsed as (NP (PRP I))
+sid=16 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN captain))
+sid=16 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN captain))
+(end predicted mentions)
+---------gold clusters--------
+27 25 | { 'They' 'They' }
+9 12 8 | { 'it' 'the water' 'water' }
+21 0 | { 'the Royal Caribbean cruise ship `` Raidience of the Seas ''' 'a cruise ship ship' }
+13 6 2 | { 'The ship' 'it' 'their sinking fishing boat' }
+33 34 | { 'I' 'I' }
+17 22 | { 'the high seas' 'the rough ocean' }
+23 32 | { 'a boat' 'the boat' }
+11 10 | { 'they' 'they' }
+28 26 | { 'them' 'them' }
+36 35 | { 'the captain' 'the captain' }
+16 14 1 31 30 3 15 24 29 | { 'Their' 'them' 'three men' 'They' 'they' 'their' 'their' 'them' 'They' }
+4 7 | { 'The crew' 'we' }
+18 20 | { 'we' 'we' }
+19 5 | { 'the information' 'a distress call' }
+(end gold clusters)

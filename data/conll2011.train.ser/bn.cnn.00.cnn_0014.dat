@@ -1,0 +1,69 @@
+---------gloss--------
+(0) [3m[33m{Israel}[0m withdrew [3m[33m{its}[0m soldiers from [3m[35m{a holy site in Jerusalem}[0m . 
+(1) [3m[35m{It}[0m 's been the scene of fierce clashes between Israelis and Palestinians over the past week . 
+(2) Responsibility for guarding [3m[35m{the site}[0m has been handed over to Palestinian authorities . 
+(3) [3m[33m{Israel}[0m says one of [3m[33m{its}[0m border policeman was shot and wounded during the night time evacuation . 
+(4) On [3m[32m{Friday}[0m , stone - throwing Palestinians confronted Israeli troops protecting a Jewish settlement in [3m[34m{Gaza}[0m . 
+(5) Reports say six Palestinians were killed [3m[32m{Friday}[0m in clashes on the West Bank and [3m[34m{the Gaza Strip}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0014); part 000
+sentences:
+IsraelIsraelNNPGPEPER0withdrewwithdrawVBDOPER0itsitsPRP$OPER0soldierssoldierNNSOPER0fromfromINOPER0aaDTOPER0holyholyJJOPER0sitesiteNNOPER0ininINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBD withdrew) (NP (PRP$ its) (NNS soldiers)) (PP (IN from) (NP (NP (DT a) (JJ holy) (NN site)) (PP (IN in) (NP (NNP Jerusalem)))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0beenbeVBNOPER0thetheDTOPER0scenesceneNNOPER0ofofINOPER0fiercefierceJJOPER0clashesclashNNSOPER0betweenbetweenINOPER0IsraelisIsraelisNNPSOPER0andandCCOPER0PalestiniansPalestiniansNNPSOPER0overoverINOPER0thetheDTDATEPER0pastpastJJDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN been) (NP (NP (DT the) (NN scene)) (PP (IN of) (NP (NP (JJ fierce) (NNS clashes)) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians)))))) (PP (IN over) (NP (DT the) (JJ past) (NN week))))) (. .)))
+ResponsibilityresponsibilityNNOPER0forforINOPER0guardingguardVBGOPER0thetheDTOPER0sitesiteNNOPER0hashaveVBZOPER0beenbeVBNOPER0handedhandVBNOPER0overoverRPOPER0totoINOPER0PalestinianpalestinianJJOPER0authoritiesauthorityNNSOPER0...OPER0(ROOT (S (NP (NP (NN Responsibility)) (PP (IN for) (S (VP (VBG guarding) (NP (DT the) (NN site)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN handed) (PRT (RP over)) (PP (IN to) (NP (JJ Palestinian) (NNS authorities)))))) (. .)))
+IsraelIsraelNNPGPEPER0sayssayVBZOPER0oneoneCDCARDINALPER0ofofINOPER0itsitsPRP$OPER0borderborderNNOPER0policemanpolicemanNNOPER0wasbeVBDOPER0shotshootVBNOPER0andandCCOPER0woundedwoundVBNOPER0duringduringINOPER0thetheDTOPER0nightnightNNTIMEPER0timetimeNNOPER0evacuationevacuationNNOPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBZ says) (SBAR (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (NN border) (NN policeman)))) (VP (VBD was) (VP (VBN shot) (CC and) (VBN wounded) (PP (IN during) (NP (DT the) (NML (NN night) (NN time)) (NN evacuation)))))))) (. .)))
+OnonINOPER0FridayFridayNNPDATEPER0,,,OPER0stonestoneNNOPER0--HYPHOPER0throwingthrowVBGOPER0PalestiniansPalestiniansNNPSOPER0confrontedconfrontVBDOPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0protectingprotectVBGOPER0aaDTOPER0JewishjewishJJOPER0settlementsettlementNNOPER0ininINOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (PP (IN On) (NP (NNP Friday))) (, ,) (NP (ADJP (NN stone) (HYPH -) (VBG throwing)) (NNPS Palestinians)) (VP (VBD confronted) (NP (NP (JJ Israeli) (NNS troops)) (VP (VBG protecting) (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (NNP Gaza))))))) (. .)))
+ReportsreportNNSOPER0saysayVBPOPER0sixsixCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0killedkillVBNOPER0FridayFridayNNPDATEPER0ininINOPER0clashesclashNNSOPER0ononINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (NNS Reports)) (VP (VBP say) (SBAR (S (NP (CD six) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed) (NP (NNP Friday)) (PP (IN in) (NP (NP (NNS clashes)) (PP (IN on) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (DT the) (NNP Gaza) (NNP Strip))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=0 spanning 2 until 3 headed by 2 parsed as its
+sid=0 spanning 5 until 10 headed by 7 parsed as (NP (NP (DT a) (JJ holy) (NN site)) (PP (IN in) (NP (NNP Jerusalem))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN site))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=3 spanning 4 until 5 headed by 4 parsed as its
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (NNP Friday))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (NNP Gaza))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNP Friday))
+sid=5 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ its) (NNS soldiers))
+sid=0 spanning 2 until 3 headed by 2 parsed as (PRP$ its)
+sid=0 spanning 5 until 10 headed by 7 parsed as (NP (NP (DT a) (JJ holy) (NN site)) (PP (IN in) (NP (NNP Jerusalem))))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Jerusalem))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 3 until 12 headed by 4 parsed as (NP (NP (DT the) (NN scene)) (PP (IN of) (NP (NP (JJ fierce) (NNS clashes)) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))))
+sid=1 spanning 6 until 12 headed by 7 parsed as (NP (NP (JJ fierce) (NNS clashes)) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))
+sid=1 spanning 9 until 12 headed by 9 parsed as (NP (NNPS Israelis) (CC and) (NNPS Palestinians))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ past) (NN week))
+sid=2 spanning 0 until 5 headed by 0 parsed as (NP (NP (NN Responsibility)) (PP (IN for) (S (VP (VBG guarding) (NP (DT the) (NN site))))))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN site))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (JJ Palestinian) (NNS authorities))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=3 spanning 2 until 7 headed by 2 parsed as (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (NN border) (NN policeman))))
+sid=3 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (NML (NN night) (NN time)) (NN evacuation))
+sid=3 spanning 13 until 14 headed by 13 parsed as night
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (NNP Friday))
+sid=4 spanning 3 until 7 headed by 6 parsed as (NP (ADJP (NN stone) (HYPH -) (VBG throwing)) (NNPS Palestinians))
+sid=4 spanning 8 until 16 headed by 9 parsed as (NP (NP (JJ Israeli) (NNS troops)) (VP (VBG protecting) (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (NNP Gaza))))))
+sid=4 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (NNP Gaza))))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (NNP Gaza))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Reports))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (CD six) (NNPS Palestinians))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNP Friday))
+sid=5 spanning 8 until 17 headed by 8 parsed as (NP (NP (NNS clashes)) (PP (IN on) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (DT the) (NNP Gaza) (NNP Strip)))))
+sid=5 spanning 10 until 13 headed by 12 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (DT the) (NNP Gaza) (NNP Strip)))
+sid=5 spanning 10 until 17 headed by 12 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (DT the) (NNP Gaza) (NNP Strip)))
+sid=5 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+(end predicted mentions)
+---------gold clusters--------
+9 7 | { 'Friday' 'Friday' }
+1 0 5 6 | { 'its' 'Israel' 'Israel' 'its' }
+10 8 | { 'the Gaza Strip' 'Gaza' }
+3 4 2 | { 'It' 'the site' 'a holy site in Jerusalem' }
+(end gold clusters)

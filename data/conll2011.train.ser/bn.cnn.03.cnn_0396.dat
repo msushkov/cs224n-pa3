@@ -1,0 +1,119 @@
+---------gloss--------
+(0) [34m{We}[0m are now hitting 33 after the hour [31m{this morning}[0m . 
+(1) [35m{Embattled ImClone founder Sam Waksal}[0m sentenced to more than seven years in prison for insider trading . 
+(2) [36m{The scandal}[0m drew national headlines when [36m{it}[0m ensnared [32m{domestic diva Martha Stewart}[0m . 
+(3) [35m{Waksal}[0m admitted advising [35m{his}[0m daughter to dump [4m[35m{her}[0m stock . 
+(4) [32m{Stewart}[0m is being accused of unloading [32m{her}[0m stock after also learning some inside information . 
+(5) [35m{Waksal}[0m is the first chief executive to be sentenced in a wave of corporate scandals and that started with the big [1m[31m{Enron}[0m bankruptcy into 2001 . 
+(6) Top executives at [1m[31m{the company}[0m accused of cooking the books to hide billions of dollars in debt . 
+(7) [33m{Former Enron Vice President Sherron Watkins who wrote that now - famous memo questioning the accounting practice and joining us now from Houston .}[0m 
+(8) [34m{We}[0m want to talk to [33m{her}[0m about the fate of [33m{her}[0m former company as [4m[36m{Justice Department}[0m continues to build [4m[36m{its}[0m case against key [1m[31m{Enron}[0m executives and insight on maybe some other headlines [34m{we}[0m are seeing [31m{this morning}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0396); part 000
+sentences:
+WewePRPOPER0arebeVBPOPER0nownowRBOPER0hittinghitVBGOPER03333CDDATEPER0afterafterINOPER0thetheDTTIMEPER0hourhourNNTIMEPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP are) (ADVP (RB now)) (S (VP (VBG hitting) (NP (NP (CD 33)) (PP (IN after) (NP (DT the) (NN hour)))) (NP (DT this) (NN morning))))) (. .)))
+EmbattledembattleVBNORGPER0ImCloneImCloneNNPORGPER0founderfounderNNOPER0SamSamNNPPERSONPER0WaksalWaksalNNPPERSONPER0sentencedsentenceVBNOPER0totoINOPER0moremoreJJRDATEPER0thanthanINDATEPER0sevensevenCDDATEPER0yearsyearNNSDATEPER0ininINOPER0prisonprisonNNOPER0forforINOPER0insiderinsiderNNOPER0tradingtradingNNOPER0...OPER0(ROOT (S (NP (VBN Embattled) (NML (NNP ImClone) (NN founder)) (NNP Sam) (NNP Waksal)) (VP (VBN sentenced) (PP (IN to) (NP (NP (QP (XS (JJR more) (IN than)) (CD seven)) (NNS years)) (PP (IN in) (NP (NN prison))))) (PP (IN for) (NP (NN insider) (NN trading)))) (. .)))
+ThetheDTOPER0scandalscandalNNOPER0drewdrawVBDOPER0nationalnationalJJOPER0headlinesheadlineNNSOPER0whenwhenWRBOPER0ititPRPOPER0ensnaredensnareVBDOPER0domesticdomesticJJOPER0divadivaNNOPER0MarthaMarthaNNPPERSONPER0StewartStewartNNPPERSONPER0...OPER0(ROOT (S (NP (DT The) (NN scandal)) (VP (VBD drew) (NP (JJ national) (NNS headlines)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD ensnared) (NP (NML (JJ domestic) (NN diva)) (NNP Martha) (NNP Stewart)))))) (. .)))
+WaksalWaksalNNPORGPER0admittedadmitVBDOPER0advisingadviseVBGOPER0hishePRP$OPER0daughterdaughterNNOPER0totoTOOPER0dumpdumpVBOPER0hershePRP$OPER0stockstockNNOPER0...OPER0(ROOT (S (NP (NNP Waksal)) (VP (VBD admitted) (VP (VBG advising) (NP (PRP$ his) (NN daughter)) (S (VP (TO to) (VP (VB dump) (NP (PRP$ her) (NN stock))))))) (. .)))
+StewartStewartNNPPERSONPER0isbeVBZOPER0beingbeVBGOPER0accusedaccuseVBNOPER0ofofINOPER0unloadingunloadVBGOPER0hershePRP$OPER0stockstockNNOPER0afterafterINOPER0alsoalsoRBOPER0learninglearnVBGOPER0somesomeDTOPER0insideinsideJJOPER0informationinformationNNOPER0...OPER0(ROOT (S (NP (NNP Stewart)) (VP (VBZ is) (VP (VBG being) (VP (VBN accused) (PP (IN of) (S (VP (VBG unloading) (NP (PRP$ her) (NN stock)) (PP (IN after) (S (ADVP (RB also)) (VP (VBG learning) (NP (DT some) (JJ inside) (NN information))))))))))) (. .)))
+WaksalWaksalNNPORGPER0isbeVBZOPER0thetheDTOPER0firstfirstJJORDINALPER0chiefchiefNNOPER0executiveexecutiveNNOPER0totoTOOPER0bebeVBOPER0sentencedsentenceVBNOPER0ininINOPER0aaDTOPER0wavewaveNNOPER0ofofINOPER0corporatecorporateJJOPER0scandalsscandalNNSOPER0andandCCOPER0thatthatWDTOPER0startedstartVBDOPER0withwithINOPER0thetheDTOPER0bigbigJJOPER0EnronEnronNNPORGPER0bankruptcybankruptcyNNOPER0intointoINOPER020012001CDDATEPER0...OPER0(ROOT (S (NP (NNP Waksal)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN chief) (NN executive)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN sentenced) (PP (IN in) (NP (NP (DT a) (NN wave)) (PP (IN of) (NP (NP (JJ corporate) (NNS scandals)) (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBD started) (PP (IN with) (NP (DT the) (JJ big) (NNP Enron) (NN bankruptcy))) (PP (IN into) (NP (CD 2001))))))))))))))))) (. .)))
+ToptopJJOPER0executivesexecutiveNNSOPER0atatINOPER0thetheDTOPER0companycompanyNNOPER0accusedaccuseVBNOPER0ofofINOPER0cookingcookVBGOPER0thetheDTOPER0booksbookNNSOPER0totoTOOPER0hidehideVBOPER0billionsbillionNNSMONEYPER0ofofINMONEYPER0dollarsdollarNNSMONEYPER0ininINOPER0debtdebtNNOPER0...OPER0(ROOT (S (NP (NP (JJ Top) (NNS executives)) (PP (IN at) (NP (DT the) (NN company)))) (VP (VBN accused) (PP (IN of) (S (VP (VBG cooking) (NP (DT the) (NNS books)) (S (VP (TO to) (VP (VB hide) (NP (NP (NNS billions)) (PP (IN of) (NP (NNS dollars))) (PP (IN in) (NP (NN debt))))))))))) (. .)))
+FormerformerJJOPER0EnronEnronNNPORGPER0ViceViceNNPOPER0PresidentPresidentNNPOPER0SherronSherronNNPPERSONPER0WatkinsWatkinsNNPPERSONPER0whowhoWPOPER0wrotewriteVBDOPER0thatthatDTOPER0nownowRBOPER0--HYPHOPER0famousfamousJJOPER0memomemoNNOPER0questioningquestionVBGOPER0thetheDTOPER0accountingaccountingNNOPER0practicepracticeNNOPER0andandCCOPER0joiningjoinVBGOPER0uswePRPOPER0nownowRBOPER0fromfromINOPER0HoustonHoustonNNPGPEPER0...OPER0(ROOT (NP (NP (NML (JJ Former) (NNP Enron) (NNP Vice) (NNP President)) (NNP Sherron) (NNP Watkins)) (SBAR (WHNP (WP who)) (S (VP (VBD wrote) (NP (DT that) (ADJP (RB now) (HYPH -) (JJ famous)) (NN memo)) (S (VP (VP (VBG questioning) (NP (DT the) (NN accounting) (NN practice))) (CC and) (VP (VBG joining) (NP (PRP us)) (ADVP (RB now)) (PP (IN from) (NP (NNP Houston))))))))) (. .)))
+WewePRPOPER0wantwantVBPOPER0totoTOOPER0talktalkVBOPER0totoINOPER0hershePRPOPER0aboutaboutINOPER0thetheDTOPER0fatefateNNOPER0ofofINOPER0hershePRP$OPER0formerformerJJOPER0companycompanyNNOPER0asasINOPER0JusticeJusticeNNPORGPER0DepartmentDepartmentNNPORGPER0continuescontinueVBZOPER0totoTOOPER0buildbuildVBOPER0itsitsPRP$OPER0casecaseNNOPER0againstagainstINOPER0keykeyJJOPER0EnronEnronNNPORGPER0executivesexecutiveNNSOPER0andandCCOPER0insightinsightNNOPER0ononINOPER0maybemaybeRBOPER0somesomeDTOPER0otherotherJJOPER0headlinesheadlineNNSOPER0wewePRPOPER0arebeVBPOPER0seeingseeVBGOPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP want) (S (VP (TO to) (VP (VB talk) (PP (IN to) (NP (PRP her))) (PP (IN about) (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (PRP$ her) (JJ former) (NN company))))) (SBAR (IN as) (S (NP (NNP Justice) (NNP Department)) (VP (VBZ continues) (S (VP (TO to) (VP (VB build) (NP (NP (PRP$ its) (NN case)) (PP (IN against) (NP (NP (JJ key) (NNP Enron) (NNS executives)) (CC and) (NP (NN insight))))) (PP (IN on) (NP (NP (ADVP (RB maybe)) (DT some) (JJ other) (NNS headlines)) (SBAR (S (NP (PRP we)) (VP (VBP are) (VP (VBG seeing) (NP (DT this) (NN morning)))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (DT this) (NN morning))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (VBN Embattled) (NML (NNP ImClone) (NN founder)) (NNP Sam) (NNP Waksal))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN scandal))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (NML (JJ domestic) (NN diva)) (NNP Martha) (NNP Stewart))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN daughter))
+sid=3 spanning 3 until 4 headed by 3 parsed as his
+sid=3 spanning 7 until 8 headed by 7 parsed as her
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Stewart))
+sid=4 spanning 6 until 7 headed by 6 parsed as her
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=5 spanning 21 until 22 headed by 21 parsed as Enron
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN company))
+sid=7 spanning 0 until 24 headed by 5 parsed as (NP (NP (NML (JJ Former) (NNP Enron) (NNP Vice) (NNP President)) (NNP Sherron) (NNP Watkins)) (SBAR (WHNP (WP who)) (S (VP (VBD wrote) (NP (DT that) (ADJP (RB now) (HYPH -) (JJ famous)) (NN memo)) (S (VP (VP (VBG questioning) (NP (DT the) (NN accounting) (NN practice))) (CC and) (VP (VBG joining) (NP (PRP us)) (ADVP (RB now)) (PP (IN from) (NP (NNP Houston))))))))) (. .))
+sid=7 spanning 1 until 2 headed by 1 parsed as Enron
+sid=7 spanning 19 until 20 headed by 19 parsed as (NP (PRP us))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=8 spanning 5 until 6 headed by 5 parsed as (NP (PRP her))
+sid=8 spanning 10 until 13 headed by 12 parsed as (NP (PRP$ her) (JJ former) (NN company))
+sid=8 spanning 10 until 11 headed by 10 parsed as her
+sid=8 spanning 14 until 16 headed by 15 parsed as (NP (NNP Justice) (NNP Department))
+sid=8 spanning 19 until 20 headed by 19 parsed as its
+sid=8 spanning 23 until 24 headed by 23 parsed as Enron
+sid=8 spanning 32 until 33 headed by 32 parsed as (NP (PRP we))
+sid=8 spanning 35 until 37 headed by 36 parsed as (NP (DT this) (NN morning))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=0 spanning 4 until 8 headed by 4 parsed as (NP (NP (CD 33)) (PP (IN after) (NP (DT the) (NN hour))))
+sid=0 spanning 6 until 10 headed by 7 parsed as (NP (DT the) (NN hour))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (VBN Embattled) (NML (NNP ImClone) (NN founder)) (NNP Sam) (NNP Waksal))
+sid=1 spanning 0 until 2 headed by 0 parsed as Embattled
+sid=1 spanning 7 until 13 headed by 10 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD seven)) (NNS years)) (PP (IN in) (NP (NN prison))))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NN insider) (NN trading))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN scandal))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (JJ national) (NNS headlines))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (NML (JJ domestic) (NN diva)) (NNP Martha) (NNP Stewart))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN daughter))
+sid=3 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ her) (NN stock))
+sid=3 spanning 7 until 8 headed by 7 parsed as (PRP$ her)
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Stewart))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ her) (NN stock))
+sid=4 spanning 6 until 7 headed by 6 parsed as (PRP$ her)
+sid=4 spanning 11 until 14 headed by 13 parsed as (NP (DT some) (JJ inside) (NN information))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Waksal))
+sid=5 spanning 2 until 25 headed by 5 parsed as (NP (NP (DT the) (JJ first) (NN chief) (NN executive)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN sentenced) (PP (IN in) (NP (NP (DT a) (NN wave)) (PP (IN of) (NP (NP (JJ corporate) (NNS scandals)) (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBD started) (PP (IN with) (NP (DT the) (JJ big) (NNP Enron) (NN bankruptcy))) (PP (IN into) (NP (CD 2001))))))))))))))))
+sid=5 spanning 3 until 4 headed by 3 parsed as first
+sid=5 spanning 10 until 25 headed by 11 parsed as (NP (NP (DT a) (NN wave)) (PP (IN of) (NP (NP (JJ corporate) (NNS scandals)) (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBD started) (PP (IN with) (NP (DT the) (JJ big) (NNP Enron) (NN bankruptcy))) (PP (IN into) (NP (CD 2001)))))))))
+sid=5 spanning 13 until 25 headed by 14 parsed as (NP (NP (JJ corporate) (NNS scandals)) (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBD started) (PP (IN with) (NP (DT the) (JJ big) (NNP Enron) (NN bankruptcy))) (PP (IN into) (NP (CD 2001)))))))
+sid=5 spanning 13 until 15 headed by 14 parsed as (NP (JJ corporate) (NNS scandals))
+sid=5 spanning 19 until 23 headed by 22 parsed as (NP (DT the) (JJ big) (NNP Enron) (NN bankruptcy))
+sid=5 spanning 21 until 22 headed by 21 parsed as Enron
+sid=5 spanning 24 until 25 headed by 24 parsed as (NP (CD 2001))
+sid=6 spanning 0 until 5 headed by 1 parsed as (NP (NP (JJ Top) (NNS executives)) (PP (IN at) (NP (DT the) (NN company))))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN company))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS books))
+sid=7 spanning 0 until 24 headed by 5 parsed as (NP (NP (NML (JJ Former) (NNP Enron) (NNP Vice) (NNP President)) (NNP Sherron) (NNP Watkins)) (SBAR (WHNP (WP who)) (S (VP (VBD wrote) (NP (DT that) (ADJP (RB now) (HYPH -) (JJ famous)) (NN memo)) (S (VP (VP (VBG questioning) (NP (DT the) (NN accounting) (NN practice))) (CC and) (VP (VBG joining) (NP (PRP us)) (ADVP (RB now)) (PP (IN from) (NP (NNP Houston))))))))) (. .))
+sid=7 spanning 1 until 2 headed by 1 parsed as Enron
+sid=7 spanning 8 until 13 headed by 12 parsed as (NP (DT that) (ADJP (RB now) (HYPH -) (JJ famous)) (NN memo))
+sid=7 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NN accounting) (NN practice))
+sid=7 spanning 19 until 20 headed by 19 parsed as (NP (PRP us))
+sid=7 spanning 22 until 23 headed by 22 parsed as (NP (NNP Houston))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=8 spanning 5 until 6 headed by 5 parsed as (NP (PRP her))
+sid=8 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (PRP$ her) (JJ former) (NN company))))
+sid=8 spanning 10 until 13 headed by 12 parsed as (NP (PRP$ her) (JJ former) (NN company))
+sid=8 spanning 10 until 11 headed by 10 parsed as (PRP$ her)
+sid=8 spanning 14 until 16 headed by 15 parsed as (NP (NNP Justice) (NNP Department))
+sid=8 spanning 19 until 27 headed by 20 parsed as (NP (NP (PRP$ its) (NN case)) (PP (IN against) (NP (NP (JJ key) (NNP Enron) (NNS executives)) (CC and) (NP (NN insight)))))
+sid=8 spanning 19 until 20 headed by 19 parsed as (PRP$ its)
+sid=8 spanning 22 until 27 headed by 24 parsed as (NP (NP (JJ key) (NNP Enron) (NNS executives)) (CC and) (NP (NN insight)))
+sid=8 spanning 22 until 25 headed by 24 parsed as (NP (JJ key) (NNP Enron) (NNS executives))
+sid=8 spanning 23 until 24 headed by 23 parsed as Enron
+sid=8 spanning 28 until 37 headed by 31 parsed as (NP (NP (ADVP (RB maybe)) (DT some) (JJ other) (NNS headlines)) (SBAR (S (NP (PRP we)) (VP (VBP are) (VP (VBG seeing) (NP (DT this) (NN morning)))))))
+sid=8 spanning 32 until 33 headed by 32 parsed as (NP (PRP we))
+sid=8 spanning 35 until 37 headed by 36 parsed as (NP (DT this) (NN morning))
+(end predicted mentions)
+---------gold clusters--------
+7 9 | { 'his daughter' 'her' }
+22 23 | { 'Justice Department' 'its' }
+1 26 | { 'this morning' 'this morning' }
+5 10 11 | { 'domestic diva Martha Stewart' 'Stewart' 'her' }
+21 15 19 | { 'her' 'Former Enron Vice President Sherron Watkins who wrote that now - famous memo questioning the accounting practice and joining us now from Houston .' 'her' }
+0 17 25 18 | { 'We' 'us' 'we' 'We' }
+6 2 12 8 | { 'Waksal' 'Embattled ImClone founder Sam Waksal' 'Waksal' 'his' }
+4 3 | { 'it' 'The scandal' }
+13 20 14 16 24 | { 'Enron' 'her former company' 'the company' 'Enron' 'Enron' }
+(end gold clusters)

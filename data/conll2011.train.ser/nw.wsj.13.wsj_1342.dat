@@ -1,0 +1,29 @@
+---------gloss--------
+(0) Annualized interest rates on certain investments as reported by the Federal Reserve Board on a weekly - average basis : 
+(1) a - Discounted rate . 
+(2) b - Week ended Wednesday , October 18 , 1989 and Wednesday October 11 , 1989 . 
+(3) c - Yields , adjusted for constant maturity . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1342); part 000
+sentences:
+AnnualizedannualizeVBNOPER0interestinterestNNOPER0ratesrateNNSOPER0ononINOPER0certaincertainJJOPER0investmentsinvestmentNNSOPER0asasINOPER0reportedreportVBNOPER0bybyINOPER0thetheDTORGPER0FederalFederalNNPORGPER0ReserveReserveNNPORGPER0BoardBoardNNPORGPER0ononINOPER0aaDTOPER0weeklyweeklyJJOPER0--HYPHOPER0averageaverageNNOPER0basisbasisNNOPER0:::OPER0(ROOT (NP (NP (VBN Annualized) (NN interest) (NNS rates)) (PP (IN on) (NP (JJ certain) (NNS investments))) (SBAR (IN as) (S (VP (VBN reported) (PP (IN by) (NP (DT the) (NNP Federal) (NNP Reserve) (NNP Board))) (PP (IN on) (NP (DT a) (NML (JJ weekly) (HYPH -) (NN average)) (NN basis)))))) (: :)))
+aaLSOPER0--:OPER0DiscounteddiscountVBNOPER0raterateNNOPER0...OPER0(ROOT (FRAG (LST (LS a)) (: -) (NP (VBN Discounted) (NN rate)) (. .)))
+bbLSOPER0--:OPER0WeekweekNNDATEPER0endedendVBNDATEPER0WednesdayWednesdayNNPDATEPER0,,,DATEPER0OctoberOctoberNNPDATEPER01818CDDATEPER0,,,DATEPER019891989CDDATEPER0andandCCDATEPER0WednesdayWednesdayNNPDATEPER0OctoberOctoberNNPDATEPER01111CDDATEPER0,,,DATEPER019891989CDDATEPER0...OPER0(ROOT (FRAG (LST (LS b)) (: -) (NP (NP (NN Week)) (VP (VBN ended) (NP (NP (NP (NNP Wednesday)) (, ,) (NP (NNP October) (CD 18)) (, ,) (NP (CD 1989))) (CC and) (NP (NP (NNP Wednesday)) (NP (NNP October) (CD 11) (, ,) (CD 1989)))))) (. .)))
+ccLSOPER0--:OPER0YieldsyieldNNSOPER0,,,OPER0adjustedadjustVBNOPER0forforINOPER0constantconstantJJOPER0maturitymaturityNNOPER0...OPER0(ROOT (FRAG (LST (LS c)) (: -) (NP (NP (NNS Yields)) (, ,) (VP (VBN adjusted) (PP (IN for) (NP (JJ constant) (NN maturity))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 20 headed by 2 parsed as (NP (NP (VBN Annualized) (NN interest) (NNS rates)) (PP (IN on) (NP (JJ certain) (NNS investments))) (SBAR (IN as) (S (VP (VBN reported) (PP (IN by) (NP (DT the) (NNP Federal) (NNP Reserve) (NNP Board))) (PP (IN on) (NP (DT a) (NML (JJ weekly) (HYPH -) (NN average)) (NN basis)))))) (: :))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (JJ certain) (NNS investments))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (NNP Federal) (NNP Reserve) (NNP Board))
+sid=0 spanning 14 until 19 headed by 18 parsed as (NP (DT a) (NML (JJ weekly) (HYPH -) (NN average)) (NN basis))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (VBN Discounted) (NN rate))
+sid=2 spanning 2 until 16 headed by 2 parsed as (NP (NP (NN Week)) (VP (VBN ended) (NP (NP (NP (NNP Wednesday)) (, ,) (NP (NNP October) (CD 18)) (, ,) (NP (CD 1989))) (CC and) (NP (NP (NNP Wednesday)) (NP (NNP October) (CD 11) (, ,) (CD 1989))))))
+sid=3 spanning 2 until 8 headed by 2 parsed as (NP (NP (NNS Yields)) (, ,) (VP (VBN adjusted) (PP (IN for) (NP (JJ constant) (NN maturity)))))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNS Yields))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

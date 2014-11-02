@@ -1,0 +1,54 @@
+---------gloss--------
+(0) [33m{Jacobs Engineering Group Inc. 's}[0m Jacobs International unit was selected to design and build [35m{a microcomputer - systems manufacturing plant in County Kildare , Ireland ,}[0m for [34m{Intel Corp}[0m . 
+(1) [36m{Jacobs}[0m is an international engineering and construction concern . 
+(2) Total capital investment at [1m[31m{the site}[0m could be as much as $ 400 million , according to [34m{Intel}[0m . 
+(3) [35m{The 150,000 - square - foot plant}[0m will be constructed on [1m[31m{a 55 - acre site near Dublin}[0m . 
+(4) [33m{Jacobs Engineering}[0m officials could n't be reached for comment . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1081); part 000
+sentences:
+JacobsJacobsNNPORGPER0EngineeringEngineeringNNPORGPER0GroupGroupNNPORGPER0Inc.Inc.NNPORGPER0's'sPOSORGPER0JacobsJacobsNNPORGPER0InternationalInternationalNNPORGPER0unitunitNNOPER0wasbeVBDOPER0selectedselectVBNOPER0totoTOOPER0designdesignVBOPER0andandCCOPER0buildbuildVBOPER0aaDTOPER0microcomputermicrocomputerNNOPER0--HYPHOPER0systemssystemNNSOPER0manufacturingmanufacturingNNOPER0plantplantNNOPER0ininINOPER0CountyCountyNNPGPEPER0KildareKildareNNPGPEPER0,,,OPER0IrelandIrelandNNPGPEPER0,,,OPER0forforCCOPER0IntelIntelNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NP (NML (NNP Jacobs) (NNP Engineering)) (NNP Group) (NNP Inc.) (POS 's)) (NML (NNP Jacobs) (NNP International)) (NN unit)) (VP (VBD was) (VP (VBN selected) (S (VP (TO to) (VP (VB design) (CC and) (VB build) (NP (NP (DT a) (NML (NN microcomputer) (HYPH -) (NNS systems)) (NN manufacturing) (NN plant)) (PP (IN in) (NP (NP (NNP County) (NNP Kildare)) (, ,) (NP (NNP Ireland)) (, ,) (CC for) (NP (NNP Intel) (NNP Corp)))))))))) (. .)))
+JacobsJacobsNNPORGPER0isbeVBZOPER0anaDTOPER0internationalinternationalJJOPER0engineeringengineeringNNOPER0andandCCOPER0constructionconstructionNNOPER0concernconcernNNOPER0...OPER0(ROOT (S (NP (NNP Jacobs)) (VP (VBZ is) (NP (DT an) (JJ international) (NML (NN engineering) (CC and) (NN construction)) (NN concern))) (. .)))
+TotaltotalJJOPER0capitalcapitalNNOPER0investmentinvestmentNNOPER0atatINOPER0thetheDTOPER0sitesiteNNOPER0couldcouldMDOPER0bebeVBOPER0asasRBMONEYPER0muchmuchJJMONEYPER0asasINMONEYPER0$$$MONEYPER0400400CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0IntelIntelNNPORGPER0...OPER0(ROOT (S (NP (NP (JJ Total) (NN capital) (NN investment)) (PP (IN at) (NP (DT the) (NN site)))) (VP (MD could) (VP (VB be) (NP (QP (RB as) (JJ much) (IN as) ($ $) (CD 400) (CD million))) (, ,) (PP (VBG according) (PP (IN to) (NP (NNP Intel)))))) (. .)))
+ThetheDTOPER0150,000150,000CDQUANTITYPER0--HYPHQUANTITYPER0squaresquareJJQUANTITYPER0--HYPHQUANTITYPER0footfootNNQUANTITYPER0plantplantNNOPER0willwillMDOPER0bebeVBOPER0constructedconstructVBNOPER0ononINOPER0aaDTOPER05555CDQUANTITYPER0--HYPHQUANTITYPER0acreacreNNQUANTITYPER0sitesiteNNOPER0nearnearINOPER0DublinDublinNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NML (CD 150,000) (HYPH -) (JJ square) (HYPH -) (NN foot)) (NN plant)) (VP (MD will) (VP (VB be) (VP (VBN constructed) (PP (IN on) (NP (NP (DT a) (NML (CD 55) (HYPH -) (NN acre)) (NN site)) (PP (IN near) (NP (NNP Dublin)))))))) (. .)))
+JacobsJacobsNNPORGPER0EngineeringEngineeringNNPORGPER0officialsofficialNNSOPER0couldcouldMDOPER0n'tnotRBOPER0bebeVBOPER0reachedreachVBNOPER0forforINOPER0commentcommentNNOPER0...OPER0(ROOT (S (NP (NML (NNP Jacobs) (NNP Engineering)) (NNS officials)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 7 parsed as (NP (NP (NML (NNP Jacobs) (NNP Engineering)) (NNP Group) (NNP Inc.) (POS 's)) (NML (NNP Jacobs) (NNP International)) (NN unit))
+sid=0 spanning 0 until 5 headed by 3 parsed as (NP (NML (NNP Jacobs) (NNP Engineering)) (NNP Group) (NNP Inc.) (POS 's))
+sid=0 spanning 14 until 26 headed by 19 parsed as (NP (NP (DT a) (NML (NN microcomputer) (HYPH -) (NNS systems)) (NN manufacturing) (NN plant)) (PP (IN in) (NP (NP (NNP County) (NNP Kildare)) (, ,) (NP (NNP Ireland)) (, ,) (CC for) (NP (NNP Intel) (NNP Corp)))))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (NNP Intel) (NNP Corp))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Jacobs))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN site))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NNP Intel))
+sid=3 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NML (CD 150,000) (HYPH -) (JJ square) (HYPH -) (NN foot)) (NN plant))
+sid=3 spanning 11 until 18 headed by 15 parsed as (NP (NP (DT a) (NML (CD 55) (HYPH -) (NN acre)) (NN site)) (PP (IN near) (NP (NNP Dublin))))
+sid=4 spanning 0 until 2 headed by 1 parsed as Engineering
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 8 headed by 7 parsed as (NP (NP (NML (NNP Jacobs) (NNP Engineering)) (NNP Group) (NNP Inc.) (POS 's)) (NML (NNP Jacobs) (NNP International)) (NN unit))
+sid=0 spanning 0 until 7 headed by 6 parsed as International
+sid=0 spanning 14 until 29 headed by 19 parsed as (NP (NP (DT a) (NML (NN microcomputer) (HYPH -) (NNS systems)) (NN manufacturing) (NN plant)) (PP (IN in) (NP (NP (NNP County) (NNP Kildare)) (, ,) (NP (NNP Ireland)) (, ,) (CC for) (NP (NNP Intel) (NNP Corp)))))
+sid=0 spanning 21 until 23 headed by 22 parsed as (NP (NP (NNP County) (NNP Kildare)) (, ,) (NP (NNP Ireland)) (, ,) (CC for) (NP (NNP Intel) (NNP Corp)))
+sid=0 spanning 21 until 29 headed by 22 parsed as (NP (NP (NNP County) (NNP Kildare)) (, ,) (NP (NNP Ireland)) (, ,) (CC for) (NP (NNP Intel) (NNP Corp)))
+sid=0 spanning 24 until 25 headed by 24 parsed as (NP (NNP Ireland))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (NNP Intel) (NNP Corp))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Jacobs))
+sid=1 spanning 2 until 8 headed by 7 parsed as (NP (DT an) (JJ international) (NML (NN engineering) (CC and) (NN construction)) (NN concern))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN site))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NNP Intel))
+sid=3 spanning 0 until 7 headed by 6 parsed as (NP (DT The) (NML (CD 150,000) (HYPH -) (JJ square) (HYPH -) (NN foot)) (NN plant))
+sid=3 spanning 11 until 18 headed by 15 parsed as (NP (NP (DT a) (NML (CD 55) (HYPH -) (NN acre)) (NN site)) (PP (IN near) (NP (NNP Dublin))))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (NNP Dublin))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP Jacobs) (NNP Engineering)) (NNS officials))
+sid=4 spanning 0 until 2 headed by 1 parsed as Engineering
+(end predicted mentions)
+---------gold clusters--------
+9 1 | { 'Jacobs Engineering' 'Jacobs Engineering Group Inc. 's' }
+6 3 | { 'Intel' 'Intel Corp' }
+7 2 | { 'The 150,000 - square - foot plant' 'a microcomputer - systems manufacturing plant in County Kildare , Ireland ,' }
+4 0 | { 'Jacobs' 'Jacobs Engineering Group Inc. 's Jacobs International unit' }
+8 5 | { 'a 55 - acre site near Dublin' 'the site' }
+(end gold clusters)

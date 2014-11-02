@@ -1,0 +1,81 @@
+---------gloss--------
+(0) [32m{The radical Palestinian group that hijacked the Achille Lauro cruise ship in 1985}[0m , is declaring [31m{today}[0m that [32m{it}[0m will [4m[36m{resume}[0m attacks against Israel . 
+(1) [32m{The group}[0m says [4m[36m{it}[0m 's in response to the rising death toll from violent clashes in the West Bank and [4m[35m{Gaza}[0m . 
+(2) [4m[34m{Palestinians}[0m are burying [4m[34m{their}[0m dead in [4m[35m{Gaza}[0m , [33m{the latest victims in a month of fighting with Israeli troops}[0m . 
+(3) More clashes erupted there [31m{today}[0m . 
+(4) A 14 - year - old Palestinian boy was in serious condition . 
+(5) Palestinian officials say at least six others were in separate protests . 
+(6) [34m{More than 130 people}[0m have died , all but eight of [34m{them}[0m Palestinians or Arab - Israelis . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0077); part 000
+sentences:
+ThetheDTOPER0radicalradicalJJOPER0PalestinianPalestinianNNPOPER0groupgroupNNOPER0thatthatWDTOPER0hijackedhijackVBDOPER0thetheDTPRODUCTPER0AchilleAchilleNNPPRODUCTPER0LauroLauroNNPPRODUCTPER0cruisecruiseNNOPER0shipshipNNOPER0ininINOPER019851985CDDATEPER0,,,OPER0isbeVBZOPER0declaringdeclareVBGOPER0todaytodayNNDATEPER0thatthatINOPER0ititPRPOPER0willwillMDOPER0resumeresumeVBOPER0attacksattackNNSOPER0againstagainstINOPER0IsraelIsraelNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ radical) (NNP Palestinian) (NN group)) (SBAR (WHNP (WDT that)) (S (VP (VBD hijacked) (NP (DT the) (NNP Achille) (NNP Lauro)) (NP (NN cruise) (NN ship)) (PP (IN in) (NP (CD 1985))))))) (, ,) (VP (VBZ is) (VP (VBG declaring) (NP (NN today)) (SBAR (IN that) (S (NP (PRP it)) (VP (MD will) (VP (VB resume) (NP (NP (NNS attacks)) (PP (IN against) (NP (NNP Israel)))))))))) (. .)))
+ThetheDTOPER0groupgroupNNOPER0sayssayVBZOPER0ititPRPOPER0'sbeVBZOPER0ininINOPER0responseresponseNNOPER0totoINOPER0thetheDTOPER0risingriseVBGOPER0deathdeathNNOPER0tolltollNNOPER0fromfromINOPER0violentviolentJJOPER0clashesclashNNSOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (NP (DT The) (NN group)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (NP (NN response)) (PP (IN to) (NP (NP (DT the) (VBG rising) (NN death) (NN toll)) (PP (IN from) (NP (NP (JJ violent) (NNS clashes)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))))))))))) (. .)))
+PalestiniansPalestiniansNNPSOPER0arebeVBPOPER0buryingburyVBGOPER0theirtheyPRP$OPER0deaddeadJJOPER0ininINOPER0GazaGazaNNPGPEPER0,,,OPER0thetheDTOPER0latestlatestJJSOPER0victimsvictimNNSOPER0ininINOPER0aaDTDATEPER0monthmonthNNDATEPER0ofofINOPER0fightingfightingNNOPER0withwithINOPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0...OPER0(ROOT (S (NP (NNPS Palestinians)) (VP (VBP are) (VP (VBG burying) (S (NP (NP (NP (PRP$ their) (JJ dead)) (PP (IN in) (NP (NNP Gaza)))) (, ,) (NP (NP (DT the) (JJS latest) (NNS victims)) (PP (IN in) (NP (NP (DT a) (NN month)) (PP (IN of) (NP (NP (NN fighting)) (PP (IN with) (NP (JJ Israeli) (NNS troops)))))))))))) (. .)))
+MoremoreJJROPER0clashesclashNNSOPER0eruptederuptVBDOPER0therethereRBOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (JJR More) (NNS clashes)) (VP (VBD erupted) (ADVP (RB there)) (NP (NN today))) (. .)))
+AaDTOPER01414CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHOPER0oldoldJJOPER0PalestinianPalestinianNNPOPER0boyboyNNOPER0wasbeVBDOPER0ininINOPER0seriousseriousJJOPER0conditionconditionNNOPER0...OPER0(ROOT (S (NP (DT A) (ADJP (NML (CD 14) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Palestinian) (NN boy)) (VP (VBD was) (PP (IN in) (NP (JJ serious) (NN condition)))) (. .)))
+PalestinianpalestinianJJOPER0officialsofficialNNSOPER0saysayVBPOPER0atatINCARDINALPER0leastleastJJSCARDINALPER0sixsixCDCARDINALPER0othersotherNNSOPER0werebeVBDOPER0ininINOPER0separateseparateJJOPER0protestsprotestNNSOPER0...OPER0(ROOT (S (NP (JJ Palestinian) (NNS officials)) (VP (VBP say) (SBAR (S (NP (QP (ADVP (IN at) (JJS least)) (CD six)) (NNS others)) (VP (VBD were) (PP (IN in) (NP (JJ separate) (NNS protests))))))) (. .)))
+MoremoreJJRCARDINALPER0thanthanINCARDINALPER0130130CDCARDINALPER0peoplepeopleNNSOPER0havehaveVBPOPER0dieddieVBNOPER0,,,OPER0allallDTOPER0butbutCCOPER0eighteightCDCARDINALPER0ofofINOPER0themtheyPRPOPER0PalestiniansPalestiniansNNPSOPER0ororCCOPER0ArabArabNNPOPER0--HYPHOPER0IsraelisIsraelisNNPSOPER0...OPER0(ROOT (S (NP (QP (XS (JJR More) (IN than)) (CD 130)) (NNS people)) (VP (VBP have) (VP (VBN died) (, ,) (S (NP (NP (QP (DT all) (CC but) (CD eight))) (PP (IN of) (NP (PRP them)))) (NP (NP (NNPS Palestinians)) (CC or) (NP (NNP Arab) (HYPH -) (NNPS Israelis)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 13 headed by 3 parsed as (NP (NP (DT The) (JJ radical) (NNP Palestinian) (NN group)) (SBAR (WHNP (WDT that)) (S (VP (VBD hijacked) (NP (DT the) (NNP Achille) (NNP Lauro)) (NP (NN cruise) (NN ship)) (PP (IN in) (NP (CD 1985)))))))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NN today))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=0 spanning 20 until 21 headed by 20 parsed as resume
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN group))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (NNP Gaza))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNPS Palestinians))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (NP (NP (PRP$ their) (JJ dead)) (PP (IN in) (NP (NNP Gaza)))) (, ,) (NP (NP (DT the) (JJS latest) (NNS victims)) (PP (IN in) (NP (NP (DT a) (NN month)) (PP (IN of) (NP (NP (NN fighting)) (PP (IN with) (NP (JJ Israeli) (NNS troops)))))))))
+sid=2 spanning 3 until 4 headed by 3 parsed as their
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Gaza))
+sid=2 spanning 8 until 19 headed by 10 parsed as (NP (NP (DT the) (JJS latest) (NNS victims)) (PP (IN in) (NP (NP (DT a) (NN month)) (PP (IN of) (NP (NP (NN fighting)) (PP (IN with) (NP (JJ Israeli) (NNS troops))))))))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NN today))
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (QP (XS (JJR More) (IN than)) (CD 130)) (NNS people))
+sid=6 spanning 11 until 12 headed by 11 parsed as (NP (PRP them))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 13 headed by 3 parsed as (NP (NP (DT The) (JJ radical) (NNP Palestinian) (NN group)) (SBAR (WHNP (WDT that)) (S (VP (VBD hijacked) (NP (DT the) (NNP Achille) (NNP Lauro)) (NP (NN cruise) (NN ship)) (PP (IN in) (NP (CD 1985)))))))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Achille) (NNP Lauro))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NN cruise) (NN ship))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (CD 1985))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=0 spanning 21 until 24 headed by 21 parsed as (NP (NP (NNS attacks)) (PP (IN against) (NP (NNP Israel))))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NNP Israel))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN group))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 6 until 21 headed by 6 parsed as (NP (NP (NN response)) (PP (IN to) (NP (NP (DT the) (VBG rising) (NN death) (NN toll)) (PP (IN from) (NP (NP (JJ violent) (NNS clashes)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))))))
+sid=1 spanning 8 until 21 headed by 11 parsed as (NP (NP (DT the) (VBG rising) (NN death) (NN toll)) (PP (IN from) (NP (NP (JJ violent) (NNS clashes)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))))
+sid=1 spanning 13 until 21 headed by 14 parsed as (NP (NP (JJ violent) (NNS clashes)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))
+sid=1 spanning 16 until 19 headed by 18 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=1 spanning 16 until 21 headed by 18 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (NNP Gaza))
+sid=2 spanning 3 until 19 headed by 4 parsed as (NP (NP (NP (PRP$ their) (JJ dead)) (PP (IN in) (NP (NNP Gaza)))) (, ,) (NP (NP (DT the) (JJS latest) (NNS victims)) (PP (IN in) (NP (NP (DT a) (NN month)) (PP (IN of) (NP (NP (NN fighting)) (PP (IN with) (NP (JJ Israeli) (NNS troops)))))))))
+sid=2 spanning 3 until 7 headed by 4 parsed as (NP (NP (PRP$ their) (JJ dead)) (PP (IN in) (NP (NNP Gaza))))
+sid=2 spanning 3 until 4 headed by 3 parsed as (PRP$ their)
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Gaza))
+sid=2 spanning 8 until 19 headed by 10 parsed as (NP (NP (DT the) (JJS latest) (NNS victims)) (PP (IN in) (NP (NP (DT a) (NN month)) (PP (IN of) (NP (NP (NN fighting)) (PP (IN with) (NP (JJ Israeli) (NNS troops))))))))
+sid=2 spanning 12 until 19 headed by 13 parsed as (NP (NP (DT a) (NN month)) (PP (IN of) (NP (NP (NN fighting)) (PP (IN with) (NP (JJ Israeli) (NNS troops))))))
+sid=2 spanning 15 until 19 headed by 15 parsed as (NP (NP (NN fighting)) (PP (IN with) (NP (JJ Israeli) (NNS troops))))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (JJ Israeli) (NNS troops))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJR More) (NNS clashes))
+sid=4 spanning 0 until 8 headed by 7 parsed as (NP (DT A) (ADJP (NML (CD 14) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Palestinian) (NN boy))
+sid=4 spanning 1 until 4 headed by 3 parsed as year
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJ Palestinian) (NNS officials))
+sid=5 spanning 3 until 7 headed by 6 parsed as (NP (QP (ADVP (IN at) (JJS least)) (CD six)) (NNS others))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (JJ separate) (NNS protests))
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (QP (XS (JJR More) (IN than)) (CD 130)) (NNS people))
+sid=6 spanning 12 until 17 headed by 12 parsed as (NP (NP (NNPS Palestinians)) (CC or) (NP (NNP Arab) (HYPH -) (NNPS Israelis)))
+sid=6 spanning 14 until 17 headed by 16 parsed as (NP (NNP Arab) (HYPH -) (NNPS Israelis))
+(end predicted mentions)
+---------gold clusters--------
+9 7 | { 'their' 'Palestinians' }
+6 10 | { 'Gaza' 'Gaza' }
+5 3 | { 'it' 'resume' }
+12 1 | { 'today' 'today' }
+4 0 2 | { 'The group' 'The radical Palestinian group that hijacked the Achille Lauro cruise ship in 1985' 'it' }
+11 8 | { 'the latest victims in a month of fighting with Israeli troops' 'their dead' }
+14 13 | { 'them' 'More than 130 people' }
+(end gold clusters)

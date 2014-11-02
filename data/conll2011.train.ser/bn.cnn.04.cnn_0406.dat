@@ -1,0 +1,163 @@
+---------gloss--------
+(0) [1m[33m{The same part of the world}[0m , high winds , high seas , [1m[32m{three fishermen}[0m rescued near Vancouver by [33m{a Royal Caribbean cruise ship}[0m . 
+(1) [1m[32m{The men}[0m held on the sinking vessel until [33m{the passenger ship}[0m was able to reach [1m[32m{them}[0m . 
+(2) A cruise line spokesman said if it were not for [1m[32m{the fisherman 's}[0m protective suits , [1m[32m{they}[0m probably would not have stayed warm enough to survive . 
+(3) [1m[33m{The same part of the world in which we had that other incident the other day}[0m , [1m[34m{about 52 degrees}[0m that water temp . 
+(4) [1m[34m{That}[0m is chilly . 
+(5) That 's a job , huh ? 
+(6) Here is Jack . 
+(7) Question of the day . 
+(8) Worst job you ever had . 
+(9) High - profile people who are taking it on the Arthur and heading for other places . 
+(10) [36m{The lady at the Pentagon saying she was leaving , saying it had been an honor serving her post but she 's leaving for personal reasons .}[0m 
+(11) [35m{Frank Keating leaving a commission set up to look into allegations of sex abuse in the Catholic Church}[0m , [35m{he}[0m decided to quit after [35m{he}[0m made comments comparing uncooperative church bishops to La Casa Nostra . 
+(12) Other folks , Ari Fleischer . 
+(13) [1m[35m{We}[0m thought it might be interesting to share tales of [34m{the worst job you ever had}[0m . 
+(14) Why did you leave [34m{it}[0m ? 
+(15) You can e-mail [1m[35m{us}[0m -- 
+(16) This done count , sorry , crews all going . 
+(17) This one right here ? 
+(18) Working with [1m[35m{us}[0m . 
+(19) I spent one summer at the University of Nevada waxing dormitory floors and moving furniture in buildings -- 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0406); part 000
+sentences:
+ThetheDTOPER0samesameJJOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0worldworldNNOPER0,,,OPER0highhighJJOPER0windswindNNSOPER0,,,OPER0highhighJJOPER0seasseaNNSOPER0,,,OPER0threethreeCDCARDINALPER0fishermenfishermanNNSOPER0rescuedrescueVBNOPER0nearnearINOPER0VancouverVancouverNNPGPEPER0bybyINOPER0aaDTOPER0RoyalRoyalNNPORGPER0CaribbeanCaribbeanNNPORGPER0cruisecruiseNNOPER0shipshipNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ same) (NN part)) (PP (IN of) (NP (DT the) (NN world)))) (, ,) (NP (NP (JJ high) (NNS winds)) (, ,) (NP (JJ high) (NNS seas)) (, ,) (NP (CD three) (NNS fishermen))) (VP (VBN rescued) (PP (IN near) (NP (NNP Vancouver))) (PP (IN by) (NP (DT a) (NML (NNP Royal) (NNP Caribbean)) (NN cruise) (NN ship)))) (. .)))
+ThetheDTOPER0menmanNNSOPER0heldholdVBDOPER0ononINOPER0thetheDTOPER0sinkingsinkVBGOPER0vesselvesselNNOPER0untiluntilINOPER0thetheDTOPER0passengerpassengerNNOPER0shipshipNNOPER0wasbeVBDOPER0ableableJJOPER0totoTOOPER0reachreachVBOPER0themtheyPRPOPER0...OPER0(ROOT (S (NP (DT The) (NNS men)) (VP (VBD held) (PP (IN on) (NP (DT the) (VBG sinking) (NN vessel))) (SBAR (IN until) (S (NP (DT the) (NN passenger) (NN ship)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB reach) (NP (PRP them)))))))))) (. .)))
+AaDTOPER0cruisecruiseNNOPER0linelineNNOPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0ififINOPER0ititPRPOPER0werebeVBDOPER0notnotRBOPER0forforINOPER0thetheDTOPER0fishermanfishermanNNOPER0's'sPOSOPER0protectiveprotectiveJJOPER0suitssuitNNSOPER0,,,OPER0theytheyPRPOPER0probablyprobablyRBOPER0wouldwouldMDOPER0notnotRBOPER0havehaveVBOPER0stayedstayVBNOPER0warmwarmJJOPER0enoughenoughRBOPER0totoTOOPER0survivesurviveVBOPER0...OPER0(ROOT (S (NP (DT A) (NML (NN cruise) (NN line)) (NN spokesman)) (VP (VBD said) (SBAR (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBD were) (RB not) (PP (IN for) (NP (NP (DT the) (NN fisherman) (POS 's)) (JJ protective) (NNS suits)))))) (, ,) (NP (PRP they)) (ADVP (RB probably)) (VP (MD would) (RB not) (VP (VB have) (VP (VBN stayed) (ADJP (JJ warm) (RB enough) (S (VP (TO to) (VP (VB survive))))))))))) (. .)))
+ThetheDTOPER0samesameJJOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0worldworldNNOPER0ininINOPER0whichwhichWDTOPER0wewePRPOPER0hadhaveVBDOPER0thatthatDTOPER0otherotherJJOPER0incidentincidentNNOPER0thetheDTDATEPER0otherotherJJDATEPER0daydayNNDATEPER0,,,OPER0aboutaboutRBQUANTITYPER05252CDQUANTITYPER0degreesdegreeNNSQUANTITYPER0thatthatDTOPER0waterwaterNNOPER0temptempNNOPER0...OPER0(ROOT (FRAG (NP (NP (DT The) (JJ same) (NN part)) (PP (IN of) (NP (NP (DT the) (NN world)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBD had) (NP (DT that) (JJ other) (NN incident)) (NP (DT the) (JJ other) (NN day)))))))) (, ,) (NP (NP (QP (RB about) (CD 52)) (NNS degrees)) (NP (DT that) (NN water) (NN temp))) (. .)))
+ThatthatDTOPER0isbeVBZOPER0chillychillyJJDATEPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ is) (ADJP (JJ chilly))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0aaDTOPER0jobjobNNOPER0,,,OPER0huhhuhUHOPER0??.OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (NN job)) (, ,) (INTJ (UH huh))) (. ?)))
+HerehereRBOPER0isbeVBZOPER0JackJackNNPPERSONPER0...OPER0(ROOT (SINV (ADVP (RB Here)) (VP (VBZ is)) (NP (NNP Jack)) (. .)))
+QuestionquestionNNOPER0ofofINOPER0thetheDTDATEPER0daydayNNDATEPER0...OPER0(ROOT (NP (NP (NN Question)) (PP (IN of) (NP (DT the) (NN day))) (. .)))
+WorstworstJJSOPER0jobjobNNOPER0youyouPRPOPER0evereverRBOPER0hadhaveVBDOPER0...OPER0(ROOT (NP (NP (JJS Worst) (NN job)) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBD had)))) (. .)))
+HighhighJJOPER0--HYPHOPER0profileprofileNNOPER0peoplepeopleNNSOPER0whowhoWPOPER0arebeVBPOPER0takingtakeVBGOPER0ititPRPOPER0ononINOPER0thetheDTOPER0ArthurArthurNNPORGPER0andandCCOPER0headingheadVBGOPER0forforINOPER0otherotherJJOPER0placesplaceNNSOPER0...OPER0(ROOT (NP (NP (NML (JJ High) (HYPH -) (NN profile)) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VP (VBG taking) (NP (PRP it)) (PP (IN on) (NP (DT the) (NNP Arthur)))) (CC and) (VP (VBG heading) (PP (IN for) (NP (JJ other) (NNS places)))))))) (. .)))
+ThetheDTOPER0ladyladyNNOPER0atatINOPER0thetheDTOPER0PentagonPentagonNNPORGPER0sayingsayVBGOPER0sheshePRPOPER0wasbeVBDOPER0leavingleaveVBGOPER0,,,OPER0sayingsayVBGOPER0ititPRPOPER0hadhaveVBDOPER0beenbeVBNOPER0anaDTOPER0honorhonorNNOPER0servingserveVBGOPER0hershePRP$OPER0postpostNNOPER0butbutCCOPER0sheshePRPOPER0'sbeVBZOPER0leavingleaveVBGOPER0forforINOPER0personalpersonalJJOPER0reasonsreasonNNSOPER0...OPER0(ROOT (FRAG (NP (NP (DT The) (NN lady)) (PP (IN at) (NP (DT the) (NNP Pentagon)))) (VP (VBG saying) (SBAR (S (NP (PRP she)) (VP (VBD was) (VP (VBG leaving) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (VBD had) (VP (VBN been) (S (S (NP (DT an) (NN honor)) (VP (VBG serving) (NP (PRP$ her) (NN post)))) (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG leaving) (PP (IN for) (NP (JJ personal) (NNS reasons)))))))))))))))))) (. .)))
+FrankFrankNNPPERSONPER0KeatingKeatingNNPPERSONPER0leavingleaveVBGOPER0aaDTOPER0commissioncommissionNNOPER0setsetVBNOPER0upupRPOPER0totoTOOPER0looklookVBOPER0intointoINOPER0allegationsallegationNNSOPER0ofofINOPER0sexsexNNOPER0abuseabuseNNOPER0ininINOPER0thetheDTORGPER0CatholicCatholicNNPORGPER0ChurchChurchNNPORGPER0,,,OPER0hehePRPOPER0decideddecideVBDOPER0totoTOOPER0quitquitVBOPER0afterafterINOPER0hehePRPOPER0mademakeVBDOPER0commentscommentNNSOPER0comparingcompareVBGOPER0uncooperativeuncooperativeJJOPER0churchchurchNNOPER0bishopsbishopNNSOPER0totoINOPER0LaLaNNPORGPER0CasaCasaNNPORGPER0NostraNostraNNPORGPER0...OPER0(ROOT (S (S (NP (NNP Frank) (NNP Keating)) (VP (VBG leaving) (NP (DT a) (NN commission)) (VP (VBN set) (PRT (RP up)) (SBAR (S (VP (TO to) (VP (VB look) (PP (IN into) (NP (NP (NNS allegations)) (PP (IN of) (NP (NP (NN sex) (NN abuse)) (PP (IN in) (NP (DT the) (NNP Catholic) (NNP Church)))))))))))))) (, ,) (NP (PRP he)) (VP (VBD decided) (S (VP (TO to) (VP (VB quit) (SBAR (IN after) (S (NP (PRP he)) (VP (VBD made) (NP (NP (NNS comments)) (VP (VBG comparing) (NP (JJ uncooperative) (NN church) (NNS bishops)))) (PP (IN to) (NP (NNP La) (NNP Casa) (NNP Nostra)))))))))) (. .)))
+OtherotherJJOPER0folksfolkNNSOPER0,,,OPER0AriAriNNPPERSONPER0FleischerFleischerNNPPERSONPER0...OPER0(ROOT (FRAG (NP (JJ Other) (NNS folks)) (, ,) (NP (NNP Ari) (NNP Fleischer)) (. .)))
+WewePRPOPER0thoughtthinkVBDOPER0ititPRPOPER0mightmightMDOPER0bebeVBOPER0interestinginterestingJJOPER0totoTOOPER0shareshareVBOPER0talestaleNNSOPER0ofofINOPER0thetheDTOPER0worstworstJJSOPER0jobjobNNOPER0youyouPRPOPER0evereverRBOPER0hadhaveVBDOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (MD might) (VP (VB be) (ADJP (JJ interesting) (S (VP (TO to) (VP (VB share) (NP (NP (NNS tales)) (PP (IN of) (NP (NP (DT the) (JJS worst) (NN job)) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBD had)))))))))))))))) (. .)))
+WhywhyWRBOPER0diddoVBDOPER0youyouPRPOPER0leaveleaveVBOPER0ititPRPOPER0??.OPER0(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (PRP you)) (VP (VB leave) (NP (PRP it)))) (. ?)))
+YouyouPRPOPER0cancanMDOPER0e-maile-mailVBOPER0uswePRPOPER0----.OPER0(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB e-mail) (NP (PRP us)))) (. --)))
+ThisthisDTOPER0donedoneJJOPER0countcountNNOPER0,,,OPER0sorrysorryUHOPER0,,,OPER0crewscrewNNSOPER0allallDTOPER0goinggoVBGOPER0...OPER0(ROOT (S (NP (DT This) (JJ done) (NN count)) (, ,) (INTJ (UH sorry)) (, ,) (NP (NNS crews)) (DT all) (VP (VBG going)) (. .)))
+ThisthisDTOPER0oneoneNNOPER0rightrightRBOPER0herehereRBOPER0??.OPER0(ROOT (FRAG (NP (DT This) (NN one)) (ADVP (RB right) (RB here)) (. ?)))
+WorkingworkVBGOPER0withwithINOPER0uswePRPOPER0...OPER0(ROOT (S (VP (VBG Working) (PP (IN with) (NP (PRP us)))) (. .)))
+IIPRPOPER0spentspendVBDOPER0oneoneCDDATEPER0summersummerNNDATEPER0atatINOPER0thetheDTORGPER0UniversityUniversityNNPORGPER0ofofINORGPER0NevadaNevadaNNPORGPER0waxingwaxVBGOPER0dormitorydormitoryNNOPER0floorsfloorNNSOPER0andandCCOPER0movingmoveVBGOPER0furniturefurnitureNNOPER0ininINOPER0buildingsbuildingNNSOPER0----.OPER0(ROOT (S (NP (PRP I)) (VP (VBD spent) (NP (CD one) (NN summer)) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Nevada))))) (S (VP (VP (VBG waxing) (NP (NN dormitory) (NNS floors))) (CC and) (VP (VBG moving) (NP (NN furniture)) (PP (IN in) (NP (NNS buildings))))))) (. --)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (JJ same) (NN part)) (PP (IN of) (NP (DT the) (NN world))))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN world))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (CD three) (NNS fishermen))
+sid=0 spanning 19 until 24 headed by 23 parsed as (NP (DT a) (NML (NNP Royal) (NNP Caribbean)) (NN cruise) (NN ship))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS men))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN passenger) (NN ship))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (PRP them))
+sid=2 spanning 10 until 13 headed by 11 parsed as (NP (DT the) (NN fisherman) (POS 's))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=3 spanning 0 until 16 headed by 2 parsed as (NP (NP (DT The) (JJ same) (NN part)) (PP (IN of) (NP (NP (DT the) (NN world)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBD had) (NP (DT that) (JJ other) (NN incident)) (NP (DT the) (JJ other) (NN day))))))))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (NP (DT the) (NN world)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBD had) (NP (DT that) (JJ other) (NN incident)) (NP (DT the) (JJ other) (NN day))))))
+sid=3 spanning 17 until 20 headed by 19 parsed as (NP (NP (QP (RB about) (CD 52)) (NNS degrees)) (NP (DT that) (NN water) (NN temp)))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=10 spanning 0 until 27 headed by 1 parsed as (NP (NP (DT The) (NN lady)) (PP (IN at) (NP (DT the) (NNP Pentagon))))
+sid=10 spanning 17 until 18 headed by 17 parsed as her
+sid=11 spanning 0 until 18 headed by 2 parsed as leaving
+sid=11 spanning 19 until 20 headed by 19 parsed as (NP (PRP he))
+sid=11 spanning 24 until 25 headed by 24 parsed as (NP (PRP he))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=13 spanning 10 until 16 headed by 12 parsed as (NP (NP (DT the) (JJS worst) (NN job)) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBD had)))))
+sid=14 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=15 spanning 3 until 4 headed by 3 parsed as (NP (PRP us))
+sid=18 spanning 2 until 3 headed by 2 parsed as (NP (PRP us))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (JJ same) (NN part)) (PP (IN of) (NP (DT the) (NN world))))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN world))
+sid=0 spanning 7 until 15 headed by 8 parsed as (NP (NP (JJ high) (NNS winds)) (, ,) (NP (JJ high) (NNS seas)) (, ,) (NP (CD three) (NNS fishermen)))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (JJ high) (NNS winds))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (JJ high) (NNS seas))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (CD three) (NNS fishermen))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NNP Vancouver))
+sid=0 spanning 19 until 24 headed by 23 parsed as (NP (DT a) (NML (NNP Royal) (NNP Caribbean)) (NN cruise) (NN ship))
+sid=0 spanning 20 until 22 headed by 21 parsed as Caribbean
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS men))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (VBG sinking) (NN vessel))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN passenger) (NN ship))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (PRP them))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (NML (NN cruise) (NN line)) (NN spokesman))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=2 spanning 10 until 15 headed by 14 parsed as (NP (NP (DT the) (NN fisherman) (POS 's)) (JJ protective) (NNS suits))
+sid=2 spanning 10 until 13 headed by 11 parsed as (NP (DT the) (NN fisherman) (POS 's))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=3 spanning 0 until 16 headed by 2 parsed as (NP (NP (DT The) (JJ same) (NN part)) (PP (IN of) (NP (NP (DT the) (NN world)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBD had) (NP (DT that) (JJ other) (NN incident)) (NP (DT the) (JJ other) (NN day))))))))
+sid=3 spanning 4 until 16 headed by 5 parsed as (NP (NP (DT the) (NN world)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBD had) (NP (DT that) (JJ other) (NN incident)) (NP (DT the) (JJ other) (NN day))))))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP we))
+sid=3 spanning 10 until 13 headed by 12 parsed as (NP (DT that) (JJ other) (NN incident))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ other) (NN day))
+sid=3 spanning 17 until 23 headed by 19 parsed as (NP (NP (QP (RB about) (CD 52)) (NNS degrees)) (NP (DT that) (NN water) (NN temp)))
+sid=3 spanning 20 until 23 headed by 22 parsed as (NP (DT that) (NN water) (NN temp))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=4 spanning 2 until 3 headed by 2 parsed as chilly
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT a) (NN job))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (NNP Jack))
+sid=7 spanning 0 until 5 headed by 0 parsed as (NP (NP (NN Question)) (PP (IN of) (NP (DT the) (NN day))) (. .))
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN day))
+sid=8 spanning 0 until 6 headed by 1 parsed as (NP (NP (JJS Worst) (NN job)) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBD had)))) (. .))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (PRP you))
+sid=9 spanning 0 until 17 headed by 3 parsed as (NP (NP (NML (JJ High) (HYPH -) (NN profile)) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VP (VBG taking) (NP (PRP it)) (PP (IN on) (NP (DT the) (NNP Arthur)))) (CC and) (VP (VBG heading) (PP (IN for) (NP (JJ other) (NNS places)))))))) (. .))
+sid=9 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=9 spanning 10 until 11 headed by 10 parsed as (NP (DT the) (NNP Arthur))
+sid=9 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNP Arthur))
+sid=9 spanning 14 until 16 headed by 15 parsed as (NP (JJ other) (NNS places))
+sid=10 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN lady)) (PP (IN at) (NP (DT the) (NNP Pentagon))))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP Pentagon))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (PRP she))
+sid=10 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=10 spanning 14 until 16 headed by 15 parsed as (NP (DT an) (NN honor))
+sid=10 spanning 17 until 19 headed by 18 parsed as (NP (PRP$ her) (NN post))
+sid=10 spanning 17 until 18 headed by 17 parsed as (PRP$ her)
+sid=10 spanning 20 until 21 headed by 20 parsed as (NP (PRP she))
+sid=10 spanning 24 until 26 headed by 25 parsed as (NP (JJ personal) (NNS reasons))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Frank) (NNP Keating))
+sid=11 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN commission))
+sid=11 spanning 10 until 18 headed by 10 parsed as (NP (NP (NNS allegations)) (PP (IN of) (NP (NP (NN sex) (NN abuse)) (PP (IN in) (NP (DT the) (NNP Catholic) (NNP Church))))))
+sid=11 spanning 12 until 18 headed by 13 parsed as (NP (NP (NN sex) (NN abuse)) (PP (IN in) (NP (DT the) (NNP Catholic) (NNP Church))))
+sid=11 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP Catholic) (NNP Church))
+sid=11 spanning 19 until 20 headed by 19 parsed as (NP (PRP he))
+sid=11 spanning 24 until 25 headed by 24 parsed as (NP (PRP he))
+sid=11 spanning 26 until 31 headed by 26 parsed as (NP (NP (NNS comments)) (VP (VBG comparing) (NP (JJ uncooperative) (NN church) (NNS bishops))))
+sid=11 spanning 28 until 31 headed by 30 parsed as (NP (JJ uncooperative) (NN church) (NNS bishops))
+sid=11 spanning 32 until 35 headed by 34 parsed as (NP (NNP La) (NNP Casa) (NNP Nostra))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (JJ Other) (NNS folks))
+sid=12 spanning 3 until 5 headed by 4 parsed as (NP (NNP Ari) (NNP Fleischer))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=13 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=13 spanning 8 until 16 headed by 8 parsed as (NP (NP (NNS tales)) (PP (IN of) (NP (NP (DT the) (JJS worst) (NN job)) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBD had)))))))
+sid=13 spanning 10 until 16 headed by 12 parsed as (NP (NP (DT the) (JJS worst) (NN job)) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBD had)))))
+sid=13 spanning 13 until 14 headed by 13 parsed as (NP (PRP you))
+sid=14 spanning 2 until 3 headed by 2 parsed as (NP (PRP you))
+sid=14 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=15 spanning 3 until 4 headed by 3 parsed as (NP (PRP us))
+sid=16 spanning 0 until 3 headed by 2 parsed as (NP (DT This) (JJ done) (NN count))
+sid=16 spanning 6 until 7 headed by 6 parsed as (NP (NNS crews))
+sid=17 spanning 0 until 2 headed by 1 parsed as (NP (DT This) (NN one))
+sid=18 spanning 2 until 3 headed by 2 parsed as (NP (PRP us))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=19 spanning 2 until 4 headed by 3 parsed as (NP (CD one) (NN summer))
+sid=19 spanning 5 until 9 headed by 6 parsed as (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Nevada))))
+sid=19 spanning 10 until 12 headed by 11 parsed as (NP (NN dormitory) (NNS floors))
+sid=19 spanning 16 until 17 headed by 16 parsed as (NP (NNS buildings))
+(end predicted mentions)
+---------gold clusters--------
+5 3 | { 'the passenger ship' 'a Royal Caribbean cruise ship' }
+19 20 | { 'the worst job you ever had' 'it' }
+15 16 17 | { 'Frank Keating leaving a commission set up to look into allegations of sex abuse in the Catholic Church' 'he' 'he' }
+13 14 | { 'The lady at the Pentagon saying she was leaving , saying it had been an honor serving her post but she 's leaving for personal reasons .' 'her' }
+1 10 | { 'the world' 'the world' }
+8 2 6 4 7 | { 'they' 'three fishermen' 'them' 'The men' 'the fisherman 's' }
+0 9 | { 'The same part of the world' 'The same part of the world in which we had that other incident the other day' }
+11 12 | { 'about 52 degrees' 'That' }
+18 22 21 | { 'We' 'us' 'us' }
+(end gold clusters)

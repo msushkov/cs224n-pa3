@@ -1,0 +1,130 @@
+---------gloss--------
+(0) [33m{Israeli Prime Minister Ehud Barak}[0m says [33m{he}[0m is freezing [35m{tens of millions of dollars in tax payments to the Palestinian Authority}[0m . 
+(1) [33m{Mr. Barak}[0m says [33m{he}[0m is withholding [35m{the money}[0m until the Palestinians abide by cease - fire agreements . 
+(2) Earlier Thursday [33m{Mr. Barak}[0m ruled out an early resumption of peace talks , even with the United States acting as intermediary . 
+(3) [31m{Eve Conette}[0m reports from [4m[36m{Jerusalem}[0m . 
+(4) Defending what [33m{he}[0m calls [33m{his}[0m policy of restraint , [33m{Prime Minister Barak}[0m says if [34m{Israel}[0m thought that 2000 Palestinian deaths instead of the 200 now would really solve the situation , [34m{we}[0m would act in [36m{that direction}[0m , but [33m{Mr. Barak}[0m told Israeli Radio , [36m{using}[0m greater force would lead [34m{Israel}[0m into a much more complicated situation . 
+(5) [33m{The Israeli Prime Minister}[0m says [33m{he}[0m , [32m{Palestinian leader Yasser Arafat}[0m and President Bill Clinton are not close to holding a 3 - way Middle East peace summit , but [33m{he}[0m said negotiations should continue if there is a decrease in violence . 
+(6) [33m{His}[0m comments came hours after Israeli helicopters attacked offices of [32m{Mr. Arafat 's}[0m Fatah movement . 
+(7) [4m[35m{A German doctor living in the West Bank town of Beit Jala}[0m was killed when a rocket fired by Israeli forces hit [4m[35m{his}[0m home . 
+(8) [31m{Eve Conette}[0m , VOA News , [4m[36m{Jerusalem}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0102); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0isbeVBZOPER0freezingfreezeVBGOPER0tenstenNNSMONEYPER0ofofINMONEYPER0millionsmillionNNSMONEYPER0ofofINMONEYPER0dollarsdollarNNSMONEYPER0ininINOPER0taxtaxNNOPER0paymentspaymentNNSOPER0totoINOPER0thetheDTORGPER0PalestinianPalestinianNNPORGPER0AuthorityAuthorityNNPORGPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (VP (VBG freezing) (NP (NP (QP (NNS tens) (IN of) (NNS millions))) (PP (IN of) (NP (NNS dollars)))) (PP (IN in) (NP (NP (NN tax) (NNS payments)) (PP (IN to) (NP (DT the) (NNP Palestinian) (NNP Authority)))))))))) (. .)))
+Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0isbeVBZOPER0withholdingwithholdVBGOPER0thetheDTOPER0moneymoneyNNOPER0untiluntilINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0abideabideVBOPER0bybyINOPER0ceaseceaseNNOPER0--HYPHOPER0firefireNNOPER0agreementsagreementNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (VP (VBG withholding) (NP (DT the) (NN money)) (SBAR (IN until) (S (NP (DT the) (NNPS Palestinians)) (VP (VB abide) (PP (IN by) (NP (NML (NN cease) (HYPH -) (NN fire)) (NNS agreements))))))))))) (. .)))
+EarlierearlierRBRDATEPER0ThursdayThursdayNNPDATEPER0Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0ruledruleVBDOPER0outoutRPOPER0anaDTOPER0earlyearlyJJOPER0resumptionresumptionNNOPER0ofofINOPER0peacepeaceNNOPER0talkstalkNNSOPER0,,,OPER0evenevenRBOPER0withwithINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0actingactVBGOPER0asasINOPER0intermediaryintermediaryNNOPER0...OPER0(ROOT (S (ADVP (RBR Earlier)) (NP (NP (NNP Thursday)) (NNP Mr.) (NNP Barak)) (VP (VBD ruled) (PRT (RP out)) (NP (NP (DT an) (JJ early) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks)))) (, ,) (PP (ADVP (RB even)) (IN with) (NP (NP (DT the) (NNP United) (NNP States)) (VP (VBG acting) (PP (IN as) (NP (NN intermediary))))))) (. .)))
+EveEveNNPPERSONPER0ConetteConetteNNPPERSONPER0reportsreportVBZOPER0fromfromINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (NNP Eve) (NNP Conette)) (VP (VBZ reports) (PP (IN from) (NP (NNP Jerusalem)))) (. .)))
+DefendingdefendVBGOPER0whatwhatWPOPER0hehePRPOPER0callscallVBZOPER0hishePRP$OPER0policypolicyNNOPER0ofofINOPER0restraintrestraintNNOPER0,,,OPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0BarakBarakNNPPERSONPER0sayssayVBZOPER0ififINOPER0IsraelIsraelNNPGPEPER0thoughtthinkVBDOPER0thatthatINOPER020002000CDDATEPER0PalestinianpalestinianJJOPER0deathsdeathNNSOPER0insteadinsteadRBOPER0ofofINOPER0thetheDTOPER0200200CDPRODUCTPER0nownowRBOPER0wouldwouldMDOPER0reallyreallyRBOPER0solvesolveVBOPER0thetheDTOPER0situationsituationNNOPER0,,,OPER0wewePRPOPER0wouldwouldMDOPER0actactVBOPER0ininINOPER0thatthatDTOPER0directiondirectionNNOPER0,,,OPER0butbutCCOPER0Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0toldtellVBDOPER0IsraeliisraeliJJOPER0RadioRadioNNPORGPER0,,,OPER0usinguseVBGOPER0greatergreaterJJROPER0forceforceNNOPER0wouldwouldMDOPER0leadleadVBOPER0IsraelIsraelNNPGPEPER0intointoINOPER0aaDTOPER0muchmuchRBOPER0moremoreRBROPER0complicatedcomplicatedJJOPER0situationsituationNNOPER0...OPER0(ROOT (S (S (PP (VBG Defending) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ calls) (NP (NP (PRP$ his) (NN policy)) (PP (IN of) (NP (NN restraint)))))))) (, ,) (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak)) (VP (VBZ says) (SBAR (S (SBAR (IN if) (S (NP (NNP Israel)) (VP (VBD thought) (SBAR (IN that) (S (NP (NP (CD 2000) (JJ Palestinian) (NNS deaths)) (PP (RB instead) (IN of) (NP (DT the) (CD 200)))) (ADVP (RB now)) (VP (MD would) (ADVP (RB really)) (VP (VB solve) (NP (DT the) (NN situation))))))))) (, ,) (NP (PRP we)) (VP (MD would) (VP (VB act) (PP (IN in) (NP (DT that) (NN direction))))))))) (, ,) (CC but) (S (NP (NNP Mr.) (NNP Barak)) (VP (VBD told) (NP (JJ Israeli) (NNP Radio)) (, ,) (S (VP (VBG using) (SBAR (S (NP (JJR greater) (NN force)) (VP (MD would) (VP (VB lead) (NP (NNP Israel)) (PP (IN into) (NP (DT a) (ADJP (RB much) (RBR more) (JJ complicated)) (NN situation))))))))))) (. .)))
+ThetheDTOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0sayssayVBZOPER0hehePRPOPER0,,,OPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0andandCCOPER0PresidentPresidentNNPOPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0arebeVBPOPER0notnotRBOPER0closecloseJJOPER0totoINOPER0holdingholdVBGOPER0aaDTOPER033CDCARDINALPER0--HYPHOPER0waywayNNOPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0peacepeaceNNOPER0summitsummitNNOPER0,,,OPER0butbutCCOPER0hehePRPOPER0saidsayVBDOPER0negotiationsnegotiationNNSOPER0shouldshouldMDOPER0continuecontinueVBOPER0ififINOPER0therethereEXOPER0isbeVBZOPER0aaDTOPER0decreasedecreaseNNOPER0ininINOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (S (NP (DT The) (JJ Israeli) (NNP Prime) (NNP Minister)) (VP (VBZ says) (SBAR (S (NP (NP (PRP he)) (, ,) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NNP President) (NNP Bill) (NNP Clinton))) (VP (VBP are) (RB not) (ADJP (JJ close) (PP (IN to) (S (VP (VBG holding) (NP (DT a) (NML (CD 3) (HYPH -) (NN way)) (NML (NNP Middle) (NNP East)) (NN peace) (NN summit))))))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (NNS negotiations)) (VP (MD should) (VP (VB continue) (SBAR (IN if) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN decrease)) (PP (IN in) (NP (NN violence))))))))))))) (. .)))
+HishePRP$OPER0commentscommentNNSOPER0camecomeVBDOPER0hourshourNNSTIMEPER0afterafterINOPER0IsraeliisraeliJJOPER0helicoptershelicopterNNSOPER0attackedattackVBDOPER0officesofficeNNSOPER0ofofINOPER0Mr.Mr.NNPOPER0ArafatArafatNNPPERSONPER0's'sPOSOPER0FatahFatahNNPORGPER0movementmovementNNOPER0...OPER0(ROOT (S (NP (PRP$ His) (NNS comments)) (VP (VBD came) (SBAR (NP (NNS hours)) (IN after) (S (NP (JJ Israeli) (NNS helicopters)) (VP (VBD attacked) (NP (NP (NNS offices)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Arafat) (POS 's)) (NNP Fatah) (NN movement)))))))) (. .)))
+AaDTOPER0GermangermanJJOPER0doctordoctorNNOPER0livingliveVBGOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0towntownNNOPER0ofofINOPER0BeitBeitNNPORGPER0JalaJalaNNPORGPER0wasbeVBDOPER0killedkillVBNOPER0whenwhenWRBOPER0aaDTOPER0rocketrocketNNOPER0firedfireVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0forcesforceNNSOPER0hithitVBDOPER0hishePRP$OPER0homehomeNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ German) (NN doctor)) (VP (VBG living) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Beit) (NNP Jala))))))) (VP (VBD was) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (NN rocket)) (VP (VBN fired) (PP (IN by) (NP (JJ Israeli) (NNS forces))))) (VP (VBD hit) (NP (PRP$ his) (NN home))))))) (. .)))
+EveEveNNPPERSONPER0ConetteConetteNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0,,,OPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Eve) (NNP Conette)) (, ,) (NP (NNP VOA) (NNP News)) (, ,) (NP (NNP Jerusalem)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=0 spanning 9 until 21 headed by 11 parsed as (NP (NP (QP (NNS tens) (IN of) (NNS millions))) (PP (IN of) (NP (NNS dollars))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN money))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP Thursday)) (NNP Mr.) (NNP Barak))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Eve) (NNP Conette))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Jerusalem))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=4 spanning 4 until 5 headed by 4 parsed as his
+sid=4 spanning 9 until 12 headed by 11 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Israel))
+sid=4 spanning 31 until 32 headed by 31 parsed as (NP (PRP we))
+sid=4 spanning 35 until 37 headed by 36 parsed as (NP (DT that) (NN direction))
+sid=4 spanning 39 until 41 headed by 40 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=4 spanning 45 until 46 headed by 45 parsed as using
+sid=4 spanning 50 until 51 headed by 50 parsed as (NP (NNP Israel))
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ Israeli) (NNP Prime) (NNP Minister))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (NP (PRP he)) (, ,) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NNP President) (NNP Bill) (NNP Clinton)))
+sid=5 spanning 7 until 11 headed by 10 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=5 spanning 30 until 31 headed by 30 parsed as (NP (PRP he))
+sid=6 spanning 0 until 1 headed by 0 parsed as His
+sid=6 spanning 10 until 13 headed by 11 parsed as (NP (NNP Mr.) (NNP Arafat) (POS 's))
+sid=7 spanning 0 until 12 headed by 2 parsed as (NP (NP (DT A) (JJ German) (NN doctor)) (VP (VBG living) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Beit) (NNP Jala)))))))
+sid=7 spanning 22 until 23 headed by 22 parsed as his
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (NNP Eve) (NNP Conette))
+sid=8 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=0 spanning 15 until 21 headed by 16 parsed as (NP (NP (NN tax) (NNS payments)) (PP (IN to) (NP (DT the) (NNP Palestinian) (NNP Authority))))
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP Palestinian) (NNP Authority))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN money))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 13 until 17 headed by 16 parsed as (NP (NML (NN cease) (HYPH -) (NN fire)) (NNS agreements))
+sid=2 spanning 1 until 4 headed by 3 parsed as (NP (NP (NNP Thursday)) (NNP Mr.) (NNP Barak))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Thursday))
+sid=2 spanning 6 until 12 headed by 8 parsed as (NP (NP (DT an) (JJ early) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks))))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (NN peace) (NNS talks))
+sid=2 spanning 15 until 21 headed by 17 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (VP (VBG acting) (PP (IN as) (NP (NN intermediary)))))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Eve) (NNP Conette))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Jerusalem))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=4 spanning 4 until 8 headed by 5 parsed as (NP (NP (PRP$ his) (NN policy)) (PP (IN of) (NP (NN restraint))))
+sid=4 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=4 spanning 9 until 12 headed by 11 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Israel))
+sid=4 spanning 17 until 24 headed by 19 parsed as (NP (NP (CD 2000) (JJ Palestinian) (NNS deaths)) (PP (RB instead) (IN of) (NP (DT the) (CD 200))))
+sid=4 spanning 17 until 18 headed by 17 parsed as 2000
+sid=4 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (CD 200))
+sid=4 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN situation))
+sid=4 spanning 31 until 32 headed by 31 parsed as (NP (PRP we))
+sid=4 spanning 35 until 37 headed by 36 parsed as (NP (DT that) (NN direction))
+sid=4 spanning 39 until 41 headed by 40 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=4 spanning 43 until 44 headed by 43 parsed as (NP (JJ Israeli) (NNP Radio))
+sid=4 spanning 42 until 44 headed by 43 parsed as (NP (JJ Israeli) (NNP Radio))
+sid=4 spanning 46 until 48 headed by 47 parsed as (NP (JJR greater) (NN force))
+sid=4 spanning 50 until 51 headed by 50 parsed as (NP (NNP Israel))
+sid=4 spanning 52 until 57 headed by 56 parsed as (NP (DT a) (ADJP (RB much) (RBR more) (JJ complicated)) (NN situation))
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ Israeli) (NNP Prime) (NNP Minister))
+sid=5 spanning 5 until 15 headed by 5 parsed as (NP (NP (PRP he)) (, ,) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NNP President) (NNP Bill) (NNP Clinton)))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=5 spanning 7 until 11 headed by 10 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=5 spanning 12 until 15 headed by 14 parsed as (NP (NNP President) (NNP Bill) (NNP Clinton))
+sid=5 spanning 20 until 28 headed by 27 parsed as (NP (DT a) (NML (CD 3) (HYPH -) (NN way)) (NML (NNP Middle) (NNP East)) (NN peace) (NN summit))
+sid=5 spanning 24 until 26 headed by 25 parsed as East
+sid=5 spanning 30 until 31 headed by 30 parsed as (NP (PRP he))
+sid=5 spanning 32 until 33 headed by 32 parsed as (NP (NNS negotiations))
+sid=5 spanning 38 until 42 headed by 39 parsed as (NP (NP (DT a) (NN decrease)) (PP (IN in) (NP (NN violence))))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ His) (NNS comments))
+sid=6 spanning 0 until 1 headed by 0 parsed as (PRP$ His)
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (NNS hours))
+sid=6 spanning 5 until 7 headed by 6 parsed as (NP (JJ Israeli) (NNS helicopters))
+sid=6 spanning 8 until 15 headed by 8 parsed as (NP (NP (NNS offices)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Arafat) (POS 's)) (NNP Fatah) (NN movement))))
+sid=6 spanning 10 until 15 headed by 14 parsed as (NP (NP (NNP Mr.) (NNP Arafat) (POS 's)) (NNP Fatah) (NN movement))
+sid=6 spanning 10 until 13 headed by 11 parsed as (NP (NNP Mr.) (NNP Arafat) (POS 's))
+sid=6 spanning 13 until 14 headed by 13 parsed as Fatah
+sid=7 spanning 0 until 12 headed by 2 parsed as (NP (NP (DT A) (JJ German) (NN doctor)) (VP (VBG living) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Beit) (NNP Jala)))))))
+sid=7 spanning 5 until 12 headed by 8 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Beit) (NNP Jala))))
+sid=7 spanning 6 until 8 headed by 7 parsed as Bank
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (NNP Beit) (NNP Jala))
+sid=7 spanning 15 until 21 headed by 16 parsed as (NP (NP (DT a) (NN rocket)) (VP (VBN fired) (PP (IN by) (NP (JJ Israeli) (NNS forces)))))
+sid=7 spanning 19 until 21 headed by 20 parsed as (NP (JJ Israeli) (NNS forces))
+sid=7 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ his) (NN home))
+sid=7 spanning 22 until 23 headed by 22 parsed as (PRP$ his)
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (NNP Eve) (NNP Conette))
+sid=8 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=8 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+24 25 | { 'A German doctor living in the West Bank town of Beit Jala' 'his' }
+8 27 | { 'Jerusalem' 'Jerusalem' }
+26 7 | { 'Eve Conette' 'Eve Conette' }
+20 23 | { 'Palestinian leader Yasser Arafat' 'Mr. Arafat 's' }
+22 0 6 21 4 10 11 18 1 19 3 15 9 | { 'His' 'Israeli Prime Minister Ehud Barak' 'Mr. Barak' 'he' 'he' 'his' 'Prime Minister Barak' 'The Israeli Prime Minister' 'he' 'he' 'Mr. Barak' 'Mr. Barak' 'he' }
+12 17 13 | { 'Israel' 'Israel' 'we' }
+2 5 | { 'tens of millions of dollars in tax payments to the Palestinian Authority' 'the money' }
+14 16 | { 'that direction' 'using' }
+(end gold clusters)

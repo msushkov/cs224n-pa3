@@ -1,0 +1,295 @@
+---------gloss--------
+(0) [36m{An air force pilot}[0m is back at [36m{his}[0m base after a close call . 
+(1) Military officials say a missile hit [36m{his}[0m Warthog and [36m{he}[0m was forced to eject . 
+(2) [1m[35m{CNN 's}[0m Gary Tuchman is live near [1m[33m{the Iraqi border}[0m with details on [33m{the mission}[0m and [36m{the pilot 's}[0m rescue . 
+(3) [35m{Gary ?}[0m 
+(4) Reporter : 
+(5) [4m[36m{Wolf}[0m , hello to [4m[36m{you}[0m . 
+(6) It was a very tense and nerve - racking day for [36m{the pilot who is stationed at this base near the Iraqi border}[0m . 
+(7) [36m{He}[0m flies [4m[34m{one of the As behind me , the Warthog attack planes}[0m . 
+(8) Took [4m[34m{it}[0m out early this morning . 
+(9) Here 's what happened to [36m{him}[0m . 
+(10) [36m{He}[0m was going on [33m{a mission south of Baghdad}[0m . 
+(11) When [36m{he}[0m was close to [36m{his}[0m target area , all of a sudden [36m{he}[0m heard [34m{a noise}[0m . 
+(12) Turns out [34m{it}[0m was an Iraqi missile , very likely a shoulder fired missile that hit [36m{his}[0m aircraft . 
+(13) [36m{He}[0m realized [4m[34m{the plane}[0m was going to crash so [36m{he}[0m ejected . 
+(14) All these planes have ejection seats . 
+(15) The pilots carry parachutes . 
+(16) Ejected landed in [1m[34m{the desert south of Baghdad}[0m and then [36m{he}[0m was rescued by U.S. Army ground troops who were in [1m[34m{the area}[0m . 
+(17) [36m{The pilot , whose name has not been released ,}[0m was brought back to [4m[35m{this base}[0m . 
+(18) [36m{He}[0m is in good condition with the 172nd Fire Squadron which is based in Battle Creek , Michigan , but [36m{he}[0m 's a very lucky man . 
+(19) [36m{He}[0m 's with [1m[32m{two other As}[0m flying along with [36m{him}[0m . 
+(20) [1m[32m{They , two ,}[0m were hit . 
+(21) One came back to [4m[35m{the base}[0m . 
+(22) [31m{The other}[0m [1m[35m{we}[0m have a picture of . 
+(23) [31m{It}[0m landed at a base controlled by the coalition . 
+(24) [31m{That particular A}[0m was hit in the right engine . 
+(25) The pilot also was able to make a safe landing and neither of those pilots were hurt . 
+(26) Those are three planes hit [1m[31m{today}[0m . 
+(27) [32m{Another A Warthog}[0m was hit here [1m[31m{today}[0m . 
+(28) [4m[33m{That pilot}[0m was hit by at least one missile and some artillery . 
+(29) [1m[35m{We}[0m have video of [32m{that plane}[0m . 
+(30) [32m{That plane}[0m has a roll in one of the engines . 
+(31) Stabilizer in the back of [32m{the plane}[0m . 
+(32) [4m[33m{The pilot}[0m lost all flight control as [4m[33m{she}[0m was flying back . 
+(33) Thinking about ejecting . 
+(34) Decided [4m[33m{she}[0m could make it back safely . 
+(35) [4m[33m{She}[0m came back to [4m[35m{this base near the border of Iraq}[0m and it 's being described as an heroic landing after [4m[33m{she}[0m was struck by artillery missiles . 
+(36) Course , [1m[35m{we}[0m just heard from Jamie McIntyre about the F E Strike Eagle . 
+(37) Authorities -- 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0278); part 000
+sentences:
+AnaDTOPER0airairNNOPER0forceforceNNOPER0pilotpilotNNOPER0isbeVBZOPER0backbackRBOPER0atatINOPER0hishePRP$OPER0basebaseNNOPER0afterafterINOPER0aaDTOPER0closecloseJJOPER0callcallNNOPER0...OPER0(ROOT (S (NP (DT An) (NML (NN air) (NN force)) (NN pilot)) (VP (VBZ is) (ADVP (RB back) (PP (IN at) (NP (PRP$ his) (NN base)))) (PP (IN after) (NP (DT a) (JJ close) (NN call)))) (. .)))
+MilitarymilitaryJJOPER0officialsofficialNNSOPER0saysayVBPOPER0aaDTOPER0missilemissileNNOPER0hithitVBDOPER0hishePRP$OPER0WarthogWarthogNNPORGPER0andandCCOPER0hehePRPOPER0wasbeVBDOPER0forcedforceVBNOPER0totoTOOPER0ejectejectVBOPER0...OPER0(ROOT (S (NP (JJ Military) (NNS officials)) (VP (VBP say) (SBAR (S (S (NP (DT a) (NN missile)) (VP (VBD hit) (NP (PRP$ his) (NNP Warthog)))) (CC and) (S (NP (PRP he)) (VP (VBD was) (VP (VBN forced) (S (VP (TO to) (VP (VB eject)))))))))) (. .)))
+CNNCNNNNPORGPER0's'sPOSOPER0GaryGaryNNPPERSONPER0TuchmanTuchmanNNPPERSONPER0isbeVBZOPER0liveliveRBOPER0nearnearINOPER0thetheDTOPER0IraqiiraqiJJOPER0borderborderNNOPER0withwithINOPER0detailsdetailNNSOPER0ononINOPER0thetheDTOPER0missionmissionNNOPER0andandCCOPER0thetheDTOPER0pilotpilotNNOPER0's'sPOSOPER0rescuerescueNNOPER0...OPER0(ROOT (S (NP (NP (NNP CNN) (POS 's)) (NNP Gary) (NNP Tuchman)) (VP (VBZ is) (ADVP (RB live)) (PP (IN near) (NP (NP (DT the) (JJ Iraqi) (NN border)) (PP (IN with) (NP (NP (NP (NNS details)) (PP (IN on) (NP (DT the) (NN mission)))) (CC and) (NP (NP (DT the) (NN pilot) (POS 's)) (NN rescue))))))) (. .)))
+GaryGaryNNPPERSONPER0??.OPER0(ROOT (NP (NNP Gary) (. ?)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+WolfWolfNNPPERSONPER0,,,OPER0hellohelloUHOPER0totoINOPER0youyouPRPOPER0...OPER0(ROOT (FRAG (NP (NNP Wolf)) (, ,) (INTJ (UH hello)) (PP (IN to) (NP (PRP you))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0aaDTOPER0veryveryRBOPER0tensetenseJJOPER0andandCCOPER0nervenerveNNOPER0--HYPHOPER0rackingrackVBGOPER0daydayNNOPER0forforINOPER0thetheDTOPER0pilotpilotNNOPER0whowhoWPOPER0isbeVBZOPER0stationedstationVBNOPER0atatINOPER0thisthisDTOPER0basebaseNNOPER0nearnearINOPER0thetheDTOPER0IraqiiraqiJJOPER0borderborderNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (ADJP (ADJP (RB very) (JJ tense)) (CC and) (ADJP (NN nerve) (HYPH -) (VBG racking))) (NN day)) (PP (IN for) (NP (DT the) (NN pilot)))) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBN stationed) (PP (IN at) (NP (NP (DT this) (NN base)) (PP (IN near) (NP (DT the) (JJ Iraqi) (NN border)))))))))) (. .)))
+HehePRPOPER0fliesflyVBZOPER0oneoneCDCARDINALPER0ofofINOPER0thetheDTOPER0AsAsNNPOPER0behindbehindINOPER0meIPRPOPER0,,,OPER0thetheDTOPER0WarthogWarthogNNPOPER0attackattackNNOPER0planesplaneNNSOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (VBZ flies) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNP As)))) (PP (IN behind) (NP (PRP me))))) (, ,) (NP (DT the) (NNP Warthog) (NN attack)) (VP (NNS planes)) (. .)))
+TooktakeVBDOPER0ititPRPOPER0outoutRBOPER0earlyearlyRBTIMEPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0...OPER0(ROOT (S (VP (VBD Took) (NP (PRP it)) (ADVP (RB out)) (NP (ADVP (RB early)) (DT this) (NN morning))) (. .)))
+HerehereRBOPER0'sbeVBZOPER0whatwhatWPOPER0happenedhappenVBDOPER0totoINOPER0himhePRPOPER0...OPER0(ROOT (S (NP (RB Here)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBD happened) (PP (IN to) (NP (PRP him))))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0goinggoVBGOPER0ononRPOPER0aaDTOPER0missionmissionNNOPER0southsouthRBOPER0ofofINOPER0BaghdadBaghdadNNPGPEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBG going) (PRT (RP on)) (NP (NP (DT a) (NN mission)) (ADVP (RB south) (PP (IN of) (NP (NNP Baghdad))))))) (. .)))
+WhenwhenWRBOPER0hehePRPOPER0wasbeVBDOPER0closecloseJJOPER0totoINOPER0hishePRP$OPER0targettargetNNOPER0areaareaNNOPER0,,,OPER0allallDTOPER0ofofINOPER0aaDTOPER0suddensuddenJJOPER0hehePRPOPER0heardhearVBDOPER0aaDTOPER0noisenoiseNNOPER0...OPER0(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ close) (PP (IN to) (NP (PRP$ his) (NN target) (NN area))))))) (, ,) (NP (NP (DT all)) (PP (IN of) (NP (DT a) (JJ sudden)))) (NP (PRP he)) (VP (VBD heard) (NP (DT a) (NN noise))) (. .)))
+TurnsturnVBZOPER0outoutRPOPER0ititPRPOPER0wasbeVBDOPER0anaDTOPER0IraqiiraqiJJOPER0missilemissileNNOPER0,,,OPER0veryveryRBOPER0likelylikelyRBOPER0aaDTOPER0shouldershoulderNNOPER0firedfireVBDOPER0missilemissileNNOPER0thatthatWDTOPER0hithitVBDOPER0hishePRP$OPER0aircraftaircraftNNOPER0...OPER0(ROOT (FRAG (S (VP (VBZ Turns) (PRT (RP out)) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (DT an) (JJ Iraqi) (NN missile))))))) (, ,) (ADVP (RB very) (RB likely)) (NP (DT a) (NN shoulder)) (VP (VBD fired) (NP (NP (NN missile)) (SBAR (WHNP (WDT that)) (S (VP (VBD hit) (NP (PRP$ his) (NN aircraft))))))) (. .)))
+HehePRPOPER0realizedrealizeVBDOPER0thetheDTOPER0planeplaneNNOPER0wasbeVBDOPER0goinggoVBGOPER0totoTOOPER0crashcrashVBOPER0sosoINOPER0hehePRPOPER0ejectedejectVBDOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD realized) (SBAR (S (NP (DT the) (NN plane)) (VP (VBD was) (VP (VBG going) (S (VP (TO to) (VP (VB crash) (SBAR (IN so) (S (NP (PRP he)) (VP (VBD ejected)))))))))))) (. .)))
+AllallPDTOPER0thesetheseDTOPER0planesplaneNNSOPER0havehaveVBPOPER0ejectionejectionNNOPER0seatsseatNNSOPER0...OPER0(ROOT (S (NP (PDT All) (DT these) (NNS planes)) (VP (VBP have) (NP (NN ejection) (NNS seats))) (. .)))
+ThetheDTOPER0pilotspilotNNSOPER0carrycarryVBPOPER0parachutesparachuteNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNS pilots)) (VP (VBP carry) (NP (NNS parachutes))) (. .)))
+EjectedejectVBDOPER0landedlandVBNOPER0ininINOPER0thetheDTOPER0desertdesertNNOPER0southsouthRBOPER0ofofINOPER0BaghdadBaghdadNNPGPEPER0andandCCOPER0thenthenRBOPER0hehePRPOPER0wasbeVBDOPER0rescuedrescueVBNOPER0bybyINOPER0U.S.U.S.NNPORGPER0ArmyArmyNNPORGPER0groundgroundNNOPER0troopstroopsNNSOPER0whowhoWPOPER0werebeVBDOPER0ininINOPER0thetheDTOPER0areaareaNNOPER0...OPER0(ROOT (S (S (VP (VBD Ejected) (VP (VBN landed) (PP (IN in) (NP (NP (DT the) (NN desert)) (ADVP (RB south) (PP (IN of) (NP (NNP Baghdad))))))))) (CC and) (S (ADVP (RB then)) (NP (PRP he)) (VP (VBD was) (VP (VBN rescued) (PP (IN by) (NP (NP (NML (NNP U.S.) (NNP Army)) (NN ground) (NNS troops)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (PP (IN in) (NP (DT the) (NN area))))))))))) (. .)))
+ThetheDTOPER0pilotpilotNNOPER0,,,OPER0whosewhoseWP$OPER0namenameNNOPER0hashaveVBZOPER0notnotRBOPER0beenbeVBNOPER0releasedreleaseVBNOPER0,,,OPER0wasbeVBDOPER0broughtbringVBNOPER0backbackRBOPER0totoINOPER0thisthisDTOPER0basebaseNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN pilot)) (, ,) (SBAR (WHNP (WP$ whose) (NN name)) (S (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN released)))))) (, ,)) (VP (VBD was) (VP (VBN brought) (ADVP (RB back) (PP (IN to) (NP (DT this) (NN base)))))) (. .)))
+HehePRPOPER0isbeVBZOPER0ininINOPER0goodgoodJJOPER0conditionconditionNNOPER0withwithINOPER0thetheDTFACPER0172nd172ndNNFACPER0FireFireNNPFACPER0SquadronSquadronNNPFACPER0whichwhichWDTOPER0isbeVBZOPER0basedbaseVBNOPER0ininINOPER0BattleBattleNNPGPEPER0CreekCreekNNPGPEPER0,,,OPER0MichiganMichiganNNPGPEPER0,,,OPER0butbutCCOPER0hehePRPOPER0'sbeVBZOPER0aaDTOPER0veryveryRBOPER0luckyluckyJJOPER0manmanNNOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (VBZ is) (PP (IN in) (NP (JJ good) (NN condition))) (PP (IN with) (NP (NP (NP (DT the) (NN 172nd)) (NP (NNP Fire) (NNP Squadron))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Battle) (NNP Creek)) (, ,) (NP (NNP Michigan)))))))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ 's) (NP (DT a) (ADJP (RB very) (JJ lucky)) (NN man)))) (. .)))
+HehePRPOPER0'sbeVBZOPER0withwithINOPER0twotwoCDCARDINALPER0otherotherJJOPER0AsAsNNPSOPER0flyingflyVBGOPER0alongalongINOPER0withwithINOPER0himhePRPOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ 's) (PP (IN with) (NP (NP (CD two) (JJ other) (NNPS As)) (VP (VBG flying) (PP (IN along) (PP (IN with) (NP (PRP him)))))))) (. .)))
+TheytheyPRPOPER0,,,OPER0twotwoCDCARDINALPER0,,,OPER0werebeVBDOPER0hithitVBNOPER0...OPER0(ROOT (S (NP (NP (PRP They)) (, ,) (NP (CD two)) (, ,)) (VP (VBD were) (VP (VBN hit))) (. .)))
+OneoneCDCARDINALPER0camecomeVBDOPER0backbackRBOPER0totoINOPER0thetheDTOPER0basebaseNNOPER0...OPER0(ROOT (S (NP (CD One)) (VP (VBD came) (ADVP (RB back) (PP (IN to) (NP (DT the) (NN base))))) (. .)))
+ThetheDTOPER0otherotherJJOPER0wewePRPOPER0havehaveVBPOPER0aaDTOPER0picturepictureNNOPER0ofofINOPER0...OPER0(ROOT (S (NP (DT The) (JJ other)) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN picture)) (PP (IN of)))) (. .)))
+ItitPRPOPER0landedlandVBDOPER0atatINOPER0aaDTOPER0basebaseNNOPER0controlledcontrolVBNOPER0bybyINOPER0thetheDTOPER0coalitioncoalitionNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD landed) (PP (IN at) (NP (NP (DT a) (NN base)) (VP (VBN controlled) (PP (IN by) (NP (DT the) (NN coalition))))))) (. .)))
+ThatthatDTOPER0particularparticularJJOPER0AaNNOPER0wasbeVBDOPER0hithitVBNOPER0ininINOPER0thetheDTOPER0rightrightJJOPER0engineengineNNOPER0...OPER0(ROOT (S (NP (DT That) (JJ particular) (NN A)) (VP (VBD was) (VP (VBN hit) (PP (IN in) (NP (DT the) (JJ right) (NN engine))))) (. .)))
+ThetheDTOPER0pilotpilotNNOPER0alsoalsoRBOPER0wasbeVBDOPER0ableableJJOPER0totoTOOPER0makemakeVBOPER0aaDTOPER0safesafeJJOPER0landinglandingNNOPER0andandCCOPER0neitherneitherDTOPER0ofofINOPER0thosethoseDTOPER0pilotspilotNNSOPER0werebeVBDOPER0hurthurtVBNOPER0...OPER0(ROOT (S (S (NP (DT The) (NN pilot)) (ADVP (RB also)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB make) (NP (DT a) (JJ safe) (NN landing)))))))) (CC and) (S (NP (NP (DT neither)) (PP (IN of) (NP (DT those) (NNS pilots)))) (VP (VBD were) (VP (VBN hurt)))) (. .)))
+ThosethoseDTOPER0arebeVBPOPER0threethreeCDCARDINALPER0planesplaneNNSOPER0hithitVBNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (DT Those)) (VP (VBP are) (NP (NP (CD three) (NNS planes)) (VP (VBN hit) (NP (NN today))))) (. .)))
+AnotheranotherDTOPER0AANNPOPER0WarthogWarthogNNPORGPER0wasbeVBDOPER0hithitVBNOPER0herehereRBOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (DT Another) (NNP A) (NNP Warthog)) (VP (VBD was) (VP (VBN hit) (ADVP (RB here)) (NP (NN today)))) (. .)))
+ThatthatDTOPER0pilotpilotNNOPER0wasbeVBDOPER0hithitVBNOPER0bybyINOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER0oneoneCDCARDINALPER0missilemissileNNOPER0andandCCOPER0somesomeDTOPER0artilleryartilleryNNOPER0...OPER0(ROOT (S (NP (DT That) (NN pilot)) (VP (VBD was) (VP (VBN hit) (PP (IN by) (NP (QP (ADVP (RB at) (RBS least)) (CD one) (NN missile) (CC and) (DT some) (NN artillery)))))) (. .)))
+WewePRPOPER0havehaveVBPOPER0videovideoNNOPER0ofofINOPER0thatthatDTOPER0planeplaneNNOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP have) (NP (NP (NN video)) (PP (IN of) (NP (DT that) (NN plane))))) (. .)))
+ThatthatDTOPER0planeplaneNNOPER0hashaveVBZOPER0aaDTOPER0rollrollNNOPER0ininINOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0enginesengineNNSOPER0...OPER0(ROOT (S (NP (DT That) (NN plane)) (VP (VBZ has) (NP (NP (DT a) (NN roll)) (PP (IN in) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS engines))))))) (. .)))
+StabilizerstabilizerNNORGPER0ininINOPER0thetheDTOPER0backbackNNOPER0ofofINOPER0thetheDTOPER0planeplaneNNOPER0...OPER0(ROOT (NP (NP (NN Stabilizer)) (PP (IN in) (NP (NP (DT the) (NN back)) (PP (IN of) (NP (DT the) (NN plane))))) (. .)))
+ThetheDTOPER0pilotpilotNNOPER0lostloseVBDOPER0allallDTOPER0flightflightNNOPER0controlcontrolNNOPER0asasINOPER0sheshePRPOPER0wasbeVBDOPER0flyingflyVBGOPER0backbackRBOPER0...OPER0(ROOT (S (NP (DT The) (NN pilot)) (VP (VBD lost) (NP (DT all) (NN flight) (NN control)) (SBAR (IN as) (S (NP (PRP she)) (VP (VBD was) (VP (VBG flying) (ADVP (RB back))))))) (. .)))
+ThinkingthinkVBGOPER0aboutaboutINOPER0ejectingejectVBGOPER0...OPER0(ROOT (S (VP (VBG Thinking) (PP (IN about) (S (VP (VBG ejecting))))) (. .)))
+DecideddecideVBDOPER0sheshePRPOPER0couldcouldMDOPER0makemakeVBOPER0ititPRPOPER0backbackRBOPER0safelysafelyRBOPER0...OPER0(ROOT (S (VP (VBD Decided) (SBAR (S (NP (PRP she)) (VP (MD could) (VP (VB make) (NP (PRP it)) (ADVP (RB back) (RB safely))))))) (. .)))
+SheshePRPOPER0camecomeVBDOPER0backbackRBOPER0totoINOPER0thisthisDTOPER0basebaseNNOPER0nearnearINOPER0thetheDTOPER0borderborderNNOPER0ofofINOPER0IraqIraqNNPGPEPER0andandCCOPER0ititPRPOPER0'sbeVBZOPER0beingbeVBGOPER0describeddescribeVBNOPER0asasINOPER0anaDTOPER0heroicheroicJJOPER0landinglandingNNOPER0afterafterINOPER0sheshePRPOPER0wasbeVBDOPER0struckstrikeVBNOPER0bybyINOPER0artilleryartilleryNNOPER0missilesmissileNNSOPER0...OPER0(ROOT (S (S (NP (PRP She)) (VP (VBD came) (ADVP (RB back) (PP (IN to) (NP (NP (DT this) (NN base)) (PP (IN near) (NP (NP (DT the) (NN border)) (PP (IN of) (NP (NNP Iraq)))))))))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG being) (VP (VBN described) (PP (IN as) (NP (DT an) (JJ heroic) (NN landing))) (SBAR (IN after) (S (NP (PRP she)) (VP (VBD was) (VP (VBN struck) (PP (IN by) (NP (NN artillery) (NNS missiles))))))))))) (. .)))
+CoursecourseRBOPER0,,,OPER0wewePRPOPER0justjustRBOPER0heardhearVBDOPER0fromfromINOPER0JamieJamieNNPPERSONPER0McIntyreMcIntyreNNPPERSONPER0aboutaboutINOPER0thetheDTOPER0FFNNPPRODUCTPER0EENNPPRODUCTPER0StrikeStrikeNNPPRODUCTPER0EagleEagleNNPORGPER0...OPER0(ROOT (S (ADVP (RB Course)) (, ,) (NP (PRP we)) (ADVP (RB just)) (VP (VBD heard) (PP (IN from) (NP (NNP Jamie) (NNP McIntyre))) (PP (IN about) (NP (DT the) (NML (NNP F) (NNP E) (NNP Strike)) (NNP Eagle)))) (. .)))
+AuthoritiesauthorityNNSOPER0----:OPER0(ROOT (NP (NNS Authorities) (: --)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT An) (NML (NN air) (NN force)) (NN pilot))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ his) (NN base))
+sid=0 spanning 7 until 8 headed by 7 parsed as his
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NNP Warthog))
+sid=1 spanning 6 until 7 headed by 6 parsed as his
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP CNN) (POS 's)) (NNP Gary) (NNP Tuchman))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP CNN) (POS 's))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (NP (DT the) (JJ Iraqi) (NN border)) (PP (IN with) (NP (NP (NP (NNS details)) (PP (IN on) (NP (DT the) (NN mission)))) (CC and) (NP (NP (DT the) (NN pilot) (POS 's)) (NN rescue)))))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN mission))
+sid=2 spanning 16 until 19 headed by 17 parsed as (NP (DT the) (NN pilot) (POS 's))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Gary) (. ?))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Wolf))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP you))
+sid=6 spanning 11 until 23 headed by 12 parsed as (NP (DT the) (NN pilot))
+sid=6 spanning 17 until 23 headed by 18 parsed as (NP (NP (DT this) (NN base)) (PP (IN near) (NP (DT the) (JJ Iraqi) (NN border))))
+sid=6 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (JJ Iraqi) (NN border))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 2 until 13 headed by 2 parsed as (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNP As))))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (PRP me))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP him))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT a) (NN mission)) (ADVP (RB south) (PP (IN of) (NP (NNP Baghdad)))))
+sid=10 spanning 8 until 9 headed by 8 parsed as (NP (NNP Baghdad))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (PRP he))
+sid=11 spanning 5 until 6 headed by 5 parsed as his
+sid=11 spanning 13 until 14 headed by 13 parsed as (NP (PRP he))
+sid=11 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN noise))
+sid=12 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=12 spanning 16 until 18 headed by 17 parsed as (NP (PRP$ his) (NN aircraft))
+sid=12 spanning 16 until 17 headed by 16 parsed as his
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=13 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN plane))
+sid=13 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=16 spanning 3 until 8 headed by 4 parsed as (NP (NP (DT the) (NN desert)) (ADVP (RB south) (PP (IN of) (NP (NNP Baghdad)))))
+sid=16 spanning 7 until 8 headed by 7 parsed as (NP (NNP Baghdad))
+sid=16 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=16 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN area))
+sid=17 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NN pilot)) (, ,) (SBAR (WHNP (WP$ whose) (NN name)) (S (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN released)))))) (, ,))
+sid=17 spanning 14 until 16 headed by 15 parsed as (NP (DT this) (NN base))
+sid=18 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=18 spanning 20 until 21 headed by 20 parsed as (NP (PRP he))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=19 spanning 3 until 6 headed by 5 parsed as (NP (NP (CD two) (JJ other) (NNPS As)) (VP (VBG flying) (PP (IN along) (PP (IN with) (NP (PRP him))))))
+sid=19 spanning 9 until 10 headed by 9 parsed as (NP (PRP him))
+sid=20 spanning 0 until 4 headed by 0 parsed as (NP (NP (PRP They)) (, ,) (NP (CD two)) (, ,))
+sid=21 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN base))
+sid=22 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (JJ other))
+sid=22 spanning 2 until 3 headed by 2 parsed as (NP (PRP we))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=24 spanning 0 until 3 headed by 2 parsed as (NP (DT That) (JJ particular) (NN A))
+sid=26 spanning 5 until 6 headed by 5 parsed as (NP (NN today))
+sid=27 spanning 0 until 3 headed by 2 parsed as (NP (DT Another) (NNP A) (NNP Warthog))
+sid=27 spanning 6 until 7 headed by 6 parsed as (NP (NN today))
+sid=28 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN pilot))
+sid=29 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=29 spanning 4 until 6 headed by 5 parsed as (NP (DT that) (NN plane))
+sid=30 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN plane))
+sid=31 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN plane))
+sid=32 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN pilot))
+sid=32 spanning 7 until 8 headed by 7 parsed as (NP (PRP she))
+sid=34 spanning 1 until 2 headed by 1 parsed as (NP (PRP she))
+sid=35 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=35 spanning 4 until 11 headed by 5 parsed as (NP (NP (DT this) (NN base)) (PP (IN near) (NP (NP (DT the) (NN border)) (PP (IN of) (NP (NNP Iraq))))))
+sid=35 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT the) (NN border)) (PP (IN of) (NP (NNP Iraq))))
+sid=35 spanning 21 until 22 headed by 21 parsed as (NP (PRP she))
+sid=36 spanning 2 until 3 headed by 2 parsed as (NP (PRP we))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT An) (NML (NN air) (NN force)) (NN pilot))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ his) (NN base))
+sid=0 spanning 7 until 8 headed by 7 parsed as (PRP$ his)
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (DT a) (JJ close) (NN call))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Military) (NNS officials))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN missile))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP$ his) (NNP Warthog))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NNP Warthog))
+sid=1 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP CNN) (POS 's)) (NNP Gary) (NNP Tuchman))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP CNN) (POS 's))
+sid=2 spanning 7 until 20 headed by 9 parsed as (NP (NP (DT the) (JJ Iraqi) (NN border)) (PP (IN with) (NP (NP (NP (NNS details)) (PP (IN on) (NP (DT the) (NN mission)))) (CC and) (NP (NP (DT the) (NN pilot) (POS 's)) (NN rescue)))))
+sid=2 spanning 11 until 20 headed by 11 parsed as (NP (NP (NP (NNS details)) (PP (IN on) (NP (DT the) (NN mission)))) (CC and) (NP (NP (DT the) (NN pilot) (POS 's)) (NN rescue)))
+sid=2 spanning 11 until 15 headed by 11 parsed as (NP (NP (NNS details)) (PP (IN on) (NP (DT the) (NN mission))))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN mission))
+sid=2 spanning 16 until 20 headed by 19 parsed as (NP (NP (DT the) (NN pilot) (POS 's)) (NN rescue))
+sid=2 spanning 16 until 19 headed by 17 parsed as (NP (DT the) (NN pilot) (POS 's))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Gary) (. ?))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Wolf))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP you))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 2 until 13 headed by 9 parsed as (NP (NP (DT a) (ADJP (ADJP (RB very) (JJ tense)) (CC and) (ADJP (NN nerve) (HYPH -) (VBG racking))) (NN day)) (PP (IN for) (NP (DT the) (NN pilot))))
+sid=6 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN pilot))
+sid=6 spanning 17 until 23 headed by 18 parsed as (NP (NP (DT this) (NN base)) (PP (IN near) (NP (DT the) (JJ Iraqi) (NN border))))
+sid=6 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (JJ Iraqi) (NN border))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 2 until 6 headed by 2 parsed as (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNP As))))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (PRP me))
+sid=7 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP Warthog) (NN attack))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=8 spanning 3 until 6 headed by 5 parsed as (NP (ADVP (RB early)) (DT this) (NN morning))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (RB Here))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP him))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT a) (NN mission)) (ADVP (RB south) (PP (IN of) (NP (NNP Baghdad)))))
+sid=10 spanning 8 until 9 headed by 8 parsed as (NP (NNP Baghdad))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (PRP he))
+sid=11 spanning 5 until 8 headed by 7 parsed as (NP (PRP$ his) (NN target) (NN area))
+sid=11 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=11 spanning 13 until 14 headed by 13 parsed as (NP (PRP he))
+sid=11 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN noise))
+sid=12 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=12 spanning 4 until 7 headed by 6 parsed as (NP (DT an) (JJ Iraqi) (NN missile))
+sid=12 spanning 10 until 12 headed by 11 parsed as (NP (DT a) (NN shoulder))
+sid=12 spanning 13 until 18 headed by 13 parsed as (NP (NP (NN missile)) (SBAR (WHNP (WDT that)) (S (VP (VBD hit) (NP (PRP$ his) (NN aircraft))))))
+sid=12 spanning 16 until 18 headed by 17 parsed as (NP (PRP$ his) (NN aircraft))
+sid=12 spanning 16 until 17 headed by 16 parsed as (PRP$ his)
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=13 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN plane))
+sid=13 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=14 spanning 4 until 6 headed by 5 parsed as (NP (NN ejection) (NNS seats))
+sid=15 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS pilots))
+sid=15 spanning 3 until 4 headed by 3 parsed as (NP (NNS parachutes))
+sid=16 spanning 3 until 8 headed by 4 parsed as (NP (NP (DT the) (NN desert)) (ADVP (RB south) (PP (IN of) (NP (NNP Baghdad)))))
+sid=16 spanning 7 until 8 headed by 7 parsed as (NP (NNP Baghdad))
+sid=16 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=16 spanning 14 until 23 headed by 17 parsed as (NP (NP (NML (NNP U.S.) (NNP Army)) (NN ground) (NNS troops)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (PP (IN in) (NP (DT the) (NN area)))))))
+sid=16 spanning 14 until 16 headed by 15 parsed as Army
+sid=16 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN area))
+sid=17 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NN pilot)) (, ,) (SBAR (WHNP (WP$ whose) (NN name)) (S (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN released)))))) (, ,))
+sid=17 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN pilot))
+sid=17 spanning 14 until 16 headed by 15 parsed as (NP (DT this) (NN base))
+sid=18 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=18 spanning 6 until 18 headed by 7 parsed as (NP (NP (NP (DT the) (NN 172nd)) (NP (NNP Fire) (NNP Squadron))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Battle) (NNP Creek)) (, ,) (NP (NNP Michigan)))))))))
+sid=18 spanning 14 until 16 headed by 15 parsed as (NP (NP (NNP Battle) (NNP Creek)) (, ,) (NP (NNP Michigan)))
+sid=18 spanning 14 until 18 headed by 15 parsed as (NP (NP (NNP Battle) (NNP Creek)) (, ,) (NP (NNP Michigan)))
+sid=18 spanning 17 until 18 headed by 17 parsed as (NP (NNP Michigan))
+sid=18 spanning 20 until 21 headed by 20 parsed as (NP (PRP he))
+sid=18 spanning 22 until 26 headed by 25 parsed as (NP (DT a) (ADJP (RB very) (JJ lucky)) (NN man))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=19 spanning 3 until 10 headed by 5 parsed as (NP (NP (CD two) (JJ other) (NNPS As)) (VP (VBG flying) (PP (IN along) (PP (IN with) (NP (PRP him))))))
+sid=19 spanning 9 until 10 headed by 9 parsed as (NP (PRP him))
+sid=20 spanning 0 until 4 headed by 0 parsed as (NP (NP (PRP They)) (, ,) (NP (CD two)) (, ,))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=20 spanning 2 until 3 headed by 2 parsed as (NP (CD two))
+sid=21 spanning 0 until 1 headed by 0 parsed as (NP (CD One))
+sid=21 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN base))
+sid=22 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (JJ other))
+sid=22 spanning 2 until 3 headed by 2 parsed as (NP (PRP we))
+sid=22 spanning 4 until 7 headed by 5 parsed as (NP (NP (DT a) (NN picture)) (PP (IN of)))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=23 spanning 3 until 9 headed by 4 parsed as (NP (NP (DT a) (NN base)) (VP (VBN controlled) (PP (IN by) (NP (DT the) (NN coalition)))))
+sid=23 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN coalition))
+sid=24 spanning 0 until 3 headed by 2 parsed as (NP (DT That) (JJ particular) (NN A))
+sid=24 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (JJ right) (NN engine))
+sid=25 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN pilot))
+sid=25 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (JJ safe) (NN landing))
+sid=25 spanning 11 until 15 headed by 11 parsed as (NP (NP (DT neither)) (PP (IN of) (NP (DT those) (NNS pilots))))
+sid=25 spanning 13 until 15 headed by 14 parsed as (NP (DT those) (NNS pilots))
+sid=26 spanning 0 until 1 headed by 0 parsed as (NP (DT Those))
+sid=26 spanning 2 until 6 headed by 3 parsed as (NP (NP (CD three) (NNS planes)) (VP (VBN hit) (NP (NN today))))
+sid=27 spanning 0 until 3 headed by 2 parsed as (NP (DT Another) (NNP A) (NNP Warthog))
+sid=28 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN pilot))
+sid=28 spanning 5 until 12 headed by 11 parsed as (NP (QP (ADVP (RB at) (RBS least)) (CD one) (NN missile) (CC and) (DT some) (NN artillery)))
+sid=29 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=29 spanning 2 until 6 headed by 2 parsed as (NP (NP (NN video)) (PP (IN of) (NP (DT that) (NN plane))))
+sid=29 spanning 4 until 6 headed by 5 parsed as (NP (DT that) (NN plane))
+sid=30 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN plane))
+sid=30 spanning 3 until 10 headed by 4 parsed as (NP (NP (DT a) (NN roll)) (PP (IN in) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS engines))))))
+sid=30 spanning 6 until 10 headed by 6 parsed as (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS engines))))
+sid=31 spanning 0 until 8 headed by 0 parsed as (NP (NP (NN Stabilizer)) (PP (IN in) (NP (NP (DT the) (NN back)) (PP (IN of) (NP (DT the) (NN plane))))) (. .))
+sid=31 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT the) (NN back)) (PP (IN of) (NP (DT the) (NN plane))))
+sid=31 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN plane))
+sid=32 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN pilot))
+sid=32 spanning 7 until 8 headed by 7 parsed as (NP (PRP she))
+sid=34 spanning 1 until 2 headed by 1 parsed as (NP (PRP she))
+sid=34 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=35 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=35 spanning 4 until 11 headed by 5 parsed as (NP (NP (DT this) (NN base)) (PP (IN near) (NP (NP (DT the) (NN border)) (PP (IN of) (NP (NNP Iraq))))))
+sid=35 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT the) (NN border)) (PP (IN of) (NP (NNP Iraq))))
+sid=35 spanning 10 until 11 headed by 10 parsed as (NP (NNP Iraq))
+sid=35 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=35 spanning 17 until 20 headed by 19 parsed as (NP (DT an) (JJ heroic) (NN landing))
+sid=35 spanning 21 until 22 headed by 21 parsed as (NP (PRP she))
+sid=35 spanning 25 until 27 headed by 26 parsed as (NP (NN artillery) (NNS missiles))
+sid=36 spanning 2 until 3 headed by 2 parsed as (NP (PRP we))
+sid=36 spanning 6 until 8 headed by 7 parsed as (NP (NNP Jamie) (NNP McIntyre))
+sid=36 spanning 9 until 14 headed by 13 parsed as (NP (DT the) (NML (NNP F) (NNP E) (NNP Strike)) (NNP Eagle))
+sid=36 spanning 10 until 13 headed by 12 parsed as Strike
+sid=37 spanning 0 until 2 headed by 0 parsed as (NP (NNS Authorities) (: --))
+(end predicted mentions)
+---------gold clusters--------
+62 66 63 60 61 55 | { 'she' 'she' 'She' 'The pilot' 'she' 'That pilot' }
+18 33 20 30 3 | { 'one of the As behind me , the Warthog attack planes' 'the plane' 'it' 'his aircraft' 'his Warthog' }
+64 40 15 1 47 | { 'this base near the border of Iraq' 'this base' 'this base near the Iraqi border' 'his base' 'the base' }
+13 12 | { 'you' 'Wolf' }
+51 50 48 | { 'That particular A' 'It' 'The other' }
+59 58 57 53 | { 'the plane' 'That plane' 'that plane' 'Another A Warthog' }
+9 23 | { 'the mission' 'a mission south of Baghdad' }
+28 29 | { 'a noise' 'it' }
+11 19 6 | { 'Gary ?' 'me' 'CNN 's Gary Tuchman' }
+17 21 0 2 43 34 39 42 22 45 32 4 14 37 5 26 31 41 25 10 27 | { 'He' 'him' 'An air force pilot' 'his' 'He' 'he' 'The pilot , whose name has not been released ,' 'he' 'He' 'him' 'He' 'his' 'the pilot who is stationed at this base near the Iraqi border' 'he' 'he' 'his' 'his' 'He' 'he' 'the pilot 's' 'he' }
+52 54 | { 'today' 'today' }
+44 46 | { 'two other As' 'They , two ,' }
+65 8 16 | { 'the border of Iraq' 'the Iraqi border' 'the Iraqi border' }
+35 38 | { 'the desert south of Baghdad' 'the area' }
+49 67 7 56 | { 'we' 'we' 'CNN 's' 'We' }
+24 36 | { 'Baghdad' 'Baghdad' }
+(end gold clusters)

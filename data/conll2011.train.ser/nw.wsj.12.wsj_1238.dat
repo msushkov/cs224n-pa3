@@ -1,0 +1,119 @@
+---------gloss--------
+(0) WINSTON - SALEM , [4m[34m{N.C.}[0m -- 
+(1) [3m[35m{First Wachovia Corp.}[0m said [4m[36m{John F. McNair III}[0m will retire as president and chief executive officer of [3m[35m{this regional banking company 's}[0m [4m[32m{Wachovia Corp.}[0m and [4m[33m{Wachovia Bank & Trust Co.}[0m subsidiaries on Dec. 31 . 
+(2) [4m[36m{Mr. McNair , 62 years old ,}[0m will be succeeded by [4m[31m{L.M. `` Bud '' Baker Jr. , 47 , the parent 's chief credit officer and head of its administration division}[0m . 
+(3) [4m[31m{Mr. Baker}[0m will relinquish [4m[31m{his}[0m previous positions , but a successor for [4m[31m{him}[0m has n't been named yet . 
+(4) In addition , on Jan. 1 , [4m[35m{Thomas A. Bennett , 52 ,}[0m will become vice chairman and chief operating officer of [3m[36m{Wachovia and Wachovia Bank & Trust}[0m , filling a vacancy left by the retired Hans W. Wanders in April . 
+(5) [4m[35m{Mr. Bennett}[0m will continue as executive in charge of [3m[35m{the North Carolina banking operation}[0m . 
+(6) Messrs. [4m[31m{Baker}[0m and [4m[35m{Bennett}[0m have been elected directors of [3m[36m{Wachovia and Wachovia Bank & Trust}[0m filling vacant seats on both boards . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1238); part 000
+sentences:
+WINSTONWINSTONNNPEVENTPER0--HYPHEVENTPER0SALEMSALEMNNPEVENTPER0,,,OPER0N.C.N.C.NNPGPEPER0----:OPER0(ROOT (NP (NP (NNP WINSTON) (HYPH -) (NNP SALEM)) (, ,) (NP (NNP N.C.)) (: --)))
+FirstFirstNNPORGPER0WachoviaWachoviaNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0JohnJohnNNPPERSONPER0F.F.NNPPERSONPER0McNairMcNairNNPPERSONPER0IIIIIINNPPERSONPER0willwillMDOPER0retireretireVBOPER0asasINOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0thisthisDTOPER0regionalregionalJJOPER0bankingbankingNNOPER0companycompanyNNOPER0's'sPOSOPER0WachoviaWachoviaNNPORGPER0Corp.Corp.NNPORGPER0andandCCOPER0WachoviaWachoviaNNPORGPER0BankBankNNPORGPER0&&CCORGPER0TrustTrustNNPORGPER0Co.Co.NNPORGPER0subsidiariessubsidiaryNNSOPER0ononINOPER0Dec.Dec.NNPDATEPER03131CDDATEPER0...OPER0(ROOT (S (NP (NNP First) (NNP Wachovia) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NNP John) (NNP F.) (NNP McNair) (NNP III)) (VP (MD will) (VP (VB retire) (PP (IN as) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NP (DT this) (NML (JJ regional) (NN banking)) (NN company) (POS 's)) (NNP Wachovia) (NNP Corp.)) (CC and) (NP (NP (NP (NNP Wachovia) (NNP Bank)) (CC &) (NP (NNP Trust) (NNP Co.))) (NP (NP (NNS subsidiaries)) (PP (IN on) (NP (NNP Dec.) (CD 31)))))))))))))) (. .)))
+Mr.Mr.NNPOPER0McNairMcNairNNPPERSONPER0,,,OPER06262CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0willwillMDOPER0bebeVBOPER0succeededsucceedVBNOPER0bybyINOPER0L.M.L.M.NNPPERSONPER0``````PERSONBudBudNNPPERSONPER1''''''PERSONPER0BakerBakerNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER04747CDDATEPER0,,,OPER0thetheDTOPER0parentparentNNOPER0's'sPOSOPER0chiefchiefJJOPER0creditcreditNNOPER0officerofficerNNOPER0andandCCOPER0headheadNNOPER0ofofINOPER0itsitsPRP$OPER0administrationadministrationNNOPER0divisiondivisionNNOPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP McNair)) (, ,) (ADJP (NML (CD 62) (NNS years)) (JJ old)) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN succeeded) (PP (IN by) (NP (NP (NP (NNP L.M.) (`` ``) (NNP Bud) ('' '') (NNP Baker) (NNP Jr.)) (, ,) (NP (CD 47))) (, ,) (NP (NP (NP (DT the) (NN parent) (POS 's)) (JJ chief) (NN credit) (NN officer)) (CC and) (NP (NP (NN head)) (PP (IN of) (NP (PRP$ its) (NN administration) (NN division)))))))))) (. .)))
+Mr.Mr.NNPOPER0BakerBakerNNPPERSONPER0willwillMDOPER0relinquishrelinquishVBOPER0hishePRP$OPER0previouspreviousJJOPER0positionspositionNNSOPER0,,,OPER0butbutCCOPER0aaDTOPER0successorsuccessorNNOPER0forforINOPER0himhePRPOPER0hashaveVBZOPER0n'tnotRBOPER0beenbeVBNOPER0namednameVBNOPER0yetyetRBOPER0...OPER0(ROOT (S (S (NP (NNP Mr.) (NNP Baker)) (VP (MD will) (VP (VB relinquish) (NP (PRP$ his) (JJ previous) (NNS positions))))) (, ,) (CC but) (S (NP (NP (DT a) (NN successor)) (PP (IN for) (NP (PRP him)))) (VP (VBZ has) (RB n't) (VP (VBN been) (VP (VBN named) (ADVP (RB yet)))))) (. .)))
+IninINOPER0additionadditionNNOPER0,,,OPER0ononINOPER0Jan.Jan.NNPDATEPER011CDDATEPER0,,,OPER0ThomasThomasNNPPERSONPER0A.A.NNPPERSONPER0BennettBennettNNPPERSONPER0,,,OPER05252CDDATEPER0,,,OPER0willwillMDOPER0becomebecomeVBOPER0viceviceNNOPER0chairmanchairmanNNOPER0andandCCOPER0chiefchiefJJOPER0operatingoperatingNNOPER0officerofficerNNOPER0ofofINOPER0WachoviaWachoviaNNPORGPER0andandCCOPER0WachoviaWachoviaNNPORGPER0BankBankNNPORGPER0&&CCORGPER0TrustTrustNNPORGPER0,,,OPER0fillingfillVBGOPER0aaDTOPER0vacancyvacancyNNOPER0leftleaveVBNOPER0bybyINOPER0thetheDTOPER0retiredretireVBNOPER0HansHansNNPPERSONPER0W.W.NNPPERSONPER0WanderswanderVBZPERSONPER0ininINOPER0AprilAprilNNPDATEPER0...OPER0(ROOT (S (PP (IN In) (NP (NN addition))) (, ,) (PP (IN on) (NP (NNP Jan.) (CD 1))) (, ,) (NP (NP (NNP Thomas) (NNP A.) (NNP Bennett)) (, ,) (NP (CD 52)) (, ,)) (VP (MD will) (VP (VB become) (NP (NP (NP (NN vice) (NN chairman)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN of) (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust))))) (, ,) (S (VP (VBG filling) (NP (NP (DT a) (NN vacancy)) (VP (VBN left) (PP (IN by) (NP (NP (DT the) (VBN retired) (NNP Hans) (NNP W.)) (VP (VBZ Wanders) (PP (IN in) (NP (NNP April)))))))))))) (. .)))
+Mr.Mr.NNPOPER0BennettBennettNNPPERSONPER0willwillMDOPER0continuecontinueVBOPER0asasINOPER0executiveexecutiveNNOPER0ininINOPER0chargechargeNNOPER0ofofINOPER0thetheDTOPER0NorthNorthNNPGPEPER0CarolinaCarolinaNNPGPEPER0bankingbankingNNOPER0operationoperationNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Bennett)) (VP (MD will) (VP (VB continue) (PP (IN as) (NP (NN executive))) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (NML (NNP North) (NNP Carolina)) (NN banking) (NN operation))))))) (. .)))
+Messrs.Messrs.NNPSOPER0BakerBakerNNPPERSONPER0andandCCOPER0BennettBennettNNPPERSONPER0havehaveVBPOPER0beenbeVBNOPER0electedelectVBNOPER0directorsdirectorNNSOPER0ofofINOPER0WachoviaWachoviaNNPORGPER0andandCCOPER0WachoviaWachoviaNNPORGPER0BankBankNNPORGPER0&&CCORGPER0TrustTrustNNPORGPER0fillingfillVBGOPER0vacantvacantJJOPER0seatsseatNNSOPER0ononINOPER0bothbothDTOPER0boardsboardNNSOPER0...OPER0(ROOT (S (NP (NNPS Messrs.) (NNP Baker) (CC and) (NNP Bennett)) (VP (VBP have) (VP (VBN been) (VP (VBN elected) (S (NP (NP (NNS directors)) (PP (IN of) (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust))))) (VP (VBG filling) (NP (NP (JJ vacant) (NNS seats)) (PP (IN on) (NP (DT both) (NNS boards))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP N.C.))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NNP First) (NNP Wachovia) (NNP Corp.))
+sid=1 spanning 4 until 8 headed by 7 parsed as (NP (NNP John) (NNP F.) (NNP McNair) (NNP III))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (NP (NP (DT this) (NML (JJ regional) (NN banking)) (NN company) (POS 's)) (NNP Wachovia) (NNP Corp.)) (CC and) (NP (NP (NP (NNP Wachovia) (NNP Bank)) (CC &) (NP (NNP Trust) (NNP Co.))) (NP (NP (NNS subsidiaries)) (PP (IN on) (NP (NNP Dec.) (CD 31))))))
+sid=1 spanning 17 until 31 headed by 23 parsed as (NP (NP (NP (DT this) (NML (JJ regional) (NN banking)) (NN company) (POS 's)) (NNP Wachovia) (NNP Corp.)) (CC and) (NP (NP (NP (NNP Wachovia) (NNP Bank)) (CC &) (NP (NNP Trust) (NNP Co.))) (NP (NP (NNS subsidiaries)) (PP (IN on) (NP (NNP Dec.) (CD 31))))))
+sid=1 spanning 17 until 22 headed by 20 parsed as (NP (DT this) (NML (JJ regional) (NN banking)) (NN company) (POS 's))
+sid=1 spanning 25 until 30 headed by 26 parsed as (NP (NP (NP (NNP Wachovia) (NNP Bank)) (CC &) (NP (NNP Trust) (NNP Co.))) (NP (NP (NNS subsidiaries)) (PP (IN on) (NP (NNP Dec.) (CD 31)))))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP McNair)) (, ,) (ADJP (NML (CD 62) (NNS years)) (JJ old)) (, ,))
+sid=2 spanning 11 until 32 headed by 16 parsed as (NP (NP (NP (NNP L.M.) (`` ``) (NNP Bud) ('' '') (NNP Baker) (NNP Jr.)) (, ,) (NP (CD 47))) (, ,) (NP (NP (NP (DT the) (NN parent) (POS 's)) (JJ chief) (NN credit) (NN officer)) (CC and) (NP (NP (NN head)) (PP (IN of) (NP (PRP$ its) (NN administration) (NN division))))))
+sid=2 spanning 20 until 23 headed by 21 parsed as (NP (DT the) (NN parent) (POS 's))
+sid=2 spanning 29 until 30 headed by 29 parsed as its
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Baker))
+sid=3 spanning 4 until 5 headed by 4 parsed as his
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP him))
+sid=4 spanning 7 until 13 headed by 9 parsed as (NP (NP (NNP Thomas) (NNP A.) (NNP Bennett)) (, ,) (NP (CD 52)) (, ,))
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))
+sid=4 spanning 22 until 28 headed by 22 parsed as (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))
+sid=4 spanning 24 until 28 headed by 25 parsed as (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Bennett))
+sid=5 spanning 9 until 14 headed by 13 parsed as (NP (DT the) (NML (NNP North) (NNP Carolina)) (NN banking) (NN operation))
+sid=5 spanning 10 until 12 headed by 11 parsed as Carolina
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (NNPS Messrs.) (NNP Baker) (CC and) (NNP Bennett))
+sid=6 spanning 3 until 4 headed by 3 parsed as Bennett
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))
+sid=6 spanning 9 until 15 headed by 9 parsed as (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))
+sid=6 spanning 11 until 15 headed by 12 parsed as (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP WINSTON) (HYPH -) (NNP SALEM)) (, ,) (NP (NNP N.C.)) (: --))
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP WINSTON) (HYPH -) (NNP SALEM)) (, ,) (NP (NNP N.C.)) (: --))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP N.C.))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NNP First) (NNP Wachovia) (NNP Corp.))
+sid=1 spanning 4 until 8 headed by 7 parsed as (NP (NNP John) (NNP F.) (NNP McNair) (NNP III))
+sid=1 spanning 11 until 34 headed by 11 parsed as (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NP (DT this) (NML (JJ regional) (NN banking)) (NN company) (POS 's)) (NNP Wachovia) (NNP Corp.)) (CC and) (NP (NP (NP (NNP Wachovia) (NNP Bank)) (CC &) (NP (NNP Trust) (NNP Co.))) (NP (NP (NNS subsidiaries)) (PP (IN on) (NP (NNP Dec.) (CD 31))))))))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (NP (NP (DT this) (NML (JJ regional) (NN banking)) (NN company) (POS 's)) (NNP Wachovia) (NNP Corp.)) (CC and) (NP (NP (NP (NNP Wachovia) (NNP Bank)) (CC &) (NP (NNP Trust) (NNP Co.))) (NP (NP (NNS subsidiaries)) (PP (IN on) (NP (NNP Dec.) (CD 31))))))
+sid=1 spanning 17 until 34 headed by 23 parsed as (NP (NP (NP (DT this) (NML (JJ regional) (NN banking)) (NN company) (POS 's)) (NNP Wachovia) (NNP Corp.)) (CC and) (NP (NP (NP (NNP Wachovia) (NNP Bank)) (CC &) (NP (NNP Trust) (NNP Co.))) (NP (NP (NNS subsidiaries)) (PP (IN on) (NP (NNP Dec.) (CD 31))))))
+sid=1 spanning 17 until 24 headed by 23 parsed as (NP (NP (DT this) (NML (JJ regional) (NN banking)) (NN company) (POS 's)) (NNP Wachovia) (NNP Corp.))
+sid=1 spanning 17 until 22 headed by 20 parsed as (NP (DT this) (NML (JJ regional) (NN banking)) (NN company) (POS 's))
+sid=1 spanning 25 until 34 headed by 26 parsed as (NP (NP (NP (NNP Wachovia) (NNP Bank)) (CC &) (NP (NNP Trust) (NNP Co.))) (NP (NP (NNS subsidiaries)) (PP (IN on) (NP (NNP Dec.) (CD 31)))))
+sid=1 spanning 30 until 34 headed by 30 parsed as (NP (NP (NNS subsidiaries)) (PP (IN on) (NP (NNP Dec.) (CD 31))))
+sid=1 spanning 32 until 34 headed by 32 parsed as (NP (NNP Dec.) (CD 31))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP McNair)) (, ,) (ADJP (NML (CD 62) (NNS years)) (JJ old)) (, ,))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP McNair)) (, ,) (ADJP (NML (CD 62) (NNS years)) (JJ old)) (, ,))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP McNair))
+sid=2 spanning 3 until 6 headed by 5 parsed as old
+sid=2 spanning 11 until 17 headed by 16 parsed as (NP (NP (NP (NNP L.M.) (`` ``) (NNP Bud) ('' '') (NNP Baker) (NNP Jr.)) (, ,) (NP (CD 47))) (, ,) (NP (NP (NP (DT the) (NN parent) (POS 's)) (JJ chief) (NN credit) (NN officer)) (CC and) (NP (NP (NN head)) (PP (IN of) (NP (PRP$ its) (NN administration) (NN division))))))
+sid=2 spanning 11 until 32 headed by 16 parsed as (NP (NP (NP (NNP L.M.) (`` ``) (NNP Bud) ('' '') (NNP Baker) (NNP Jr.)) (, ,) (NP (CD 47))) (, ,) (NP (NP (NP (DT the) (NN parent) (POS 's)) (JJ chief) (NN credit) (NN officer)) (CC and) (NP (NP (NN head)) (PP (IN of) (NP (PRP$ its) (NN administration) (NN division))))))
+sid=2 spanning 11 until 19 headed by 16 parsed as (NP (NP (NNP L.M.) (`` ``) (NNP Bud) ('' '') (NNP Baker) (NNP Jr.)) (, ,) (NP (CD 47)))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (CD 47))
+sid=2 spanning 20 until 32 headed by 25 parsed as (NP (NP (NP (DT the) (NN parent) (POS 's)) (JJ chief) (NN credit) (NN officer)) (CC and) (NP (NP (NN head)) (PP (IN of) (NP (PRP$ its) (NN administration) (NN division)))))
+sid=2 spanning 20 until 26 headed by 25 parsed as (NP (NP (DT the) (NN parent) (POS 's)) (JJ chief) (NN credit) (NN officer))
+sid=2 spanning 20 until 23 headed by 21 parsed as (NP (DT the) (NN parent) (POS 's))
+sid=2 spanning 27 until 32 headed by 27 parsed as (NP (NP (NN head)) (PP (IN of) (NP (PRP$ its) (NN administration) (NN division))))
+sid=2 spanning 29 until 32 headed by 31 parsed as (NP (PRP$ its) (NN administration) (NN division))
+sid=2 spanning 29 until 30 headed by 29 parsed as (PRP$ its)
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Baker))
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (PRP$ his) (JJ previous) (NNS positions))
+sid=3 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=3 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT a) (NN successor)) (PP (IN for) (NP (PRP him))))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP him))
+sid=4 spanning 4 until 6 headed by 4 parsed as (NP (NNP Jan.) (CD 1))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (NP (NNP Thomas) (NNP A.) (NNP Bennett)) (, ,) (NP (CD 52)) (, ,))
+sid=4 spanning 7 until 13 headed by 9 parsed as (NP (NP (NNP Thomas) (NNP A.) (NNP Bennett)) (, ,) (NP (CD 52)) (, ,))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (CD 52))
+sid=4 spanning 15 until 28 headed by 16 parsed as (NP (NP (NP (NN vice) (NN chairman)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN of) (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))))
+sid=4 spanning 15 until 17 headed by 16 parsed as (NP (NN vice) (NN chairman))
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))
+sid=4 spanning 22 until 28 headed by 22 parsed as (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))
+sid=4 spanning 24 until 28 headed by 25 parsed as (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust))
+sid=4 spanning 30 until 41 headed by 31 parsed as (NP (NP (DT a) (NN vacancy)) (VP (VBN left) (PP (IN by) (NP (NP (DT the) (VBN retired) (NNP Hans) (NNP W.)) (VP (VBZ Wanders) (PP (IN in) (NP (NNP April))))))))
+sid=4 spanning 34 until 41 headed by 37 parsed as (NP (NP (DT the) (VBN retired) (NNP Hans) (NNP W.)) (VP (VBZ Wanders) (PP (IN in) (NP (NNP April)))))
+sid=4 spanning 40 until 41 headed by 40 parsed as (NP (NNP April))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Bennett))
+sid=5 spanning 7 until 14 headed by 7 parsed as (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (NML (NNP North) (NNP Carolina)) (NN banking) (NN operation))))
+sid=5 spanning 9 until 14 headed by 13 parsed as (NP (DT the) (NML (NNP North) (NNP Carolina)) (NN banking) (NN operation))
+sid=5 spanning 10 until 12 headed by 11 parsed as Carolina
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (NNPS Messrs.) (NNP Baker) (CC and) (NNP Bennett))
+sid=6 spanning 0 until 4 headed by 1 parsed as (NP (NNPS Messrs.) (NNP Baker) (CC and) (NNP Bennett))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NNPS Messrs.)
+sid=6 spanning 3 until 4 headed by 3 parsed as Bennett
+sid=6 spanning 7 until 15 headed by 7 parsed as (NP (NP (NNS directors)) (PP (IN of) (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))
+sid=6 spanning 9 until 15 headed by 9 parsed as (NP (NP (NNP Wachovia)) (CC and) (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust)))
+sid=6 spanning 11 until 15 headed by 12 parsed as (NP (NNP Wachovia) (NNP Bank) (CC &) (NNP Trust))
+sid=6 spanning 16 until 21 headed by 17 parsed as (NP (NP (JJ vacant) (NNS seats)) (PP (IN on) (NP (DT both) (NNS boards))))
+sid=6 spanning 19 until 21 headed by 20 parsed as (NP (DT both) (NNS boards))
+(end predicted mentions)
+---------gold clusters--------
+19 1 9 5 10 | { 'the North Carolina banking operation' 'First Wachovia Corp.' 'the parent 's' 'this regional banking company 's' 'its' }
+16 4 24 | { 'Wachovia and Wachovia Bank & Trust' 'this regional banking company 's Wachovia Corp. and Wachovia Bank & Trust Co. subsidiaries' 'Wachovia and Wachovia Bank & Trust' }
+12 8 11 21 13 | { 'his' 'L.M. `` Bud '' Baker Jr. , 47 , the parent 's chief credit officer and head of its administration division' 'Mr. Baker' 'Baker' 'him' }
+23 3 15 | { 'Wachovia' 'Wachovia Corp.' 'Wachovia' }
+6 25 17 | { 'Wachovia Bank & Trust Co.' 'Wachovia Bank & Trust' 'Wachovia Bank & Trust' }
+20 0 | { 'North Carolina' 'N.C.' }
+14 18 22 | { 'Thomas A. Bennett , 52 ,' 'Mr. Bennett' 'Bennett' }
+2 7 | { 'John F. McNair III' 'Mr. McNair , 62 years old ,' }
+(end gold clusters)

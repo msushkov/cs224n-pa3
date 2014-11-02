@@ -1,0 +1,84 @@
+---------gloss--------
+(0) [4m[33m{President Clinton}[0m urged [3m[35m{Congress}[0m Monday to approve [4m[31m{435 million dollars to cut the debt of the world 's poorest countries}[0m . 
+(1) [4m[33m{Mr. Clinton}[0m said [4m[31m{the money}[0m is easily within the US ability to pay . 
+(2) Now let [4m[33m{me}[0m remind you , [3m[36m{we}[0m 're talking here about 15,000 of [3m[36m{our}[0m budget , to lift [4m[32m{the burden of debt around the world}[0m for years to come . 
+(3) [3m[36m{We}[0m 're talking about giving [3m[34m{as many as 33 nations}[0m a chance for a new beginning and about doing good works that [3m[36m{our}[0m different faiths demand of [3m[36m{us}[0m . 
+(4) [4m[33m{Mr. Clinton}[0m was joined by several key republican leaders . 
+(5) [3m[35m{Congress}[0m has so far failed to provide [4m[31m{the full amount that the White House has sought}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0003); part 000
+sentences:
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0urgedurgeVBDOPER0CongressCongressNNPORGPER0MondayMondayNNPDATEPER0totoTOOPER0approveapproveVBOPER0435435CDMONEYPER0millionmillionCDMONEYPER0dollarsdollarNNSMONEYPER0totoTOOPER0cutcutVBOPER0thetheDTOPER0debtdebtNNOPER0ofofINOPER0thetheDTOPER0worldworldNNOPER0's'sPOSOPER0poorestpoorestJJSOPER0countriescountryNNSOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (VP (VBD urged) (NP (NNP Congress) (NNP Monday)) (S (VP (TO to) (VP (VB approve) (NP (QP (CD 435) (CD million)) (NNS dollars)) (S (VP (TO to) (VP (VB cut) (NP (NP (DT the) (NN debt)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (JJS poorest) (NNS countries))))))))))) (. .)))
+Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0saidsayVBDOPER0thetheDTOPER0moneymoneyNNOPER0isbeVBZOPER0easilyeasilyRBOPER0withinwithinINOPER0thetheDTOPER0USUSNNPGPEPER0abilityabilityNNOPER0totoTOOPER0paypayVBOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Clinton)) (VP (VBD said) (SBAR (S (NP (DT the) (NN money)) (VP (VBZ is) (ADVP (RB easily)) (PP (IN within) (NP (DT the) (NNP US) (NN ability))) (S (VP (TO to) (VP (VB pay)))))))) (. .)))
+NownowRBOPER0letletVBOPER0meIPRPOPER0remindremindVBOPER0youyouPRPOPER0,,,OPER0wewePRPOPER0'rebeVBPOPER0talkingtalkVBGOPER0herehereRBOPER0aboutaboutINCARDINALPER015,00015,000CDCARDINALPER0ofofINOPER0ourwePRP$OPER0budgetbudgetNNOPER0,,,OPER0totoTOOPER0liftliftVBOPER0thetheDTOPER0burdenburdenNNOPER0ofofINOPER0debtdebtNNOPER0aroundaroundINOPER0thetheDTOPER0worldworldNNOPER0forforINOPER0yearsyearNNSDATEPER0totoTOOPER0comecomeVBOPER0...OPER0(ROOT (S (S (ADVP (RB Now)) (VP (VB let) (S (NP (PRP me)) (VP (VB remind) (NP (PRP you)))))) (, ,) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG talking) (ADVP (RB here)) (PP (IN about) (NP (NP (CD 15,000)) (PP (IN of) (NP (PRP$ our) (NN budget))))) (, ,) (S (VP (TO to) (VP (VB lift) (NP (NP (DT the) (NN burden)) (PP (IN of) (NP (NN debt)))) (PP (IN around) (NP (DT the) (NN world))) (PP (IN for) (NP (NNS years))) (S (VP (TO to) (VP (VB come)))))))))) (. .)))
+WewePRPOPER0'rebeVBPOPER0talkingtalkVBGOPER0aboutaboutINOPER0givinggiveVBGOPER0asasRBCARDINALPER0manymanyJJCARDINALPER0asasINCARDINALPER03333CDCARDINALPER0nationsnationNNSOPER0aaDTOPER0chancechanceNNOPER0forforINOPER0aaDTOPER0newnewJJOPER0beginningbeginningNNOPER0andandCCOPER0aboutaboutINOPER0doingdoVBGOPER0goodgoodJJOPER0worksworkNNSOPER0thatthatWDTOPER0ourwePRP$OPER0differentdifferentJJOPER0faithsfaithNNSOPER0demanddemandVBPOPER0ofofINOPER0uswePRPOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP 're) (VP (VBG talking) (PP (PP (IN about) (S (VP (VBG giving) (NP (QP (RB as) (JJ many) (IN as) (CD 33)) (NNS nations)) (NP (NP (DT a) (NN chance)) (PP (IN for) (NP (DT a) (JJ new) (NN beginning))))))) (CC and) (PP (IN about) (S (VP (VBG doing) (NP (NP (JJ good) (NNS works)) (SBAR (WHNP (WDT that)) (S (NP (PRP$ our) (JJ different) (NNS faiths)) (VP (VBP demand) (PP (IN of) (NP (PRP us))))))))))))) (. .)))
+Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0wasbeVBDOPER0joinedjoinVBNOPER0bybyINOPER0severalseveralJJOPER0keykeyJJOPER0republicanrepublicanJJOPER0leadersleaderNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Clinton)) (VP (VBD was) (VP (VBN joined) (PP (IN by) (NP (JJ several) (JJ key) (JJ republican) (NNS leaders))))) (. .)))
+CongressCongressNNPORGPER0hashaveVBZOPER0sosoRBOPER0farfarRBOPER0failedfailVBNOPER0totoTOOPER0provideprovideVBOPER0thetheDTOPER0fullfullJJOPER0amountamountNNOPER0thatthatWDTOPER0thetheDTORGPER0WhiteWhiteNNPORGPER0HouseHouseNNPORGPER0hashaveVBZOPER0soughtseekVBNOPER0...OPER0(ROOT (S (NP (NNP Congress)) (VP (VBZ has) (ADVP (RB so) (RB far)) (VP (VBN failed) (S (VP (TO to) (VP (VB provide) (NP (NP (DT the) (JJ full) (NN amount)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (NNP White) (NNP House)) (VP (VBZ has) (VP (VBN sought))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 3 until 4 headed by 3 parsed as Congress
+sid=0 spanning 7 until 20 headed by 9 parsed as (NP (QP (CD 435) (CD million)) (NNS dollars))
+sid=0 spanning 12 until 20 headed by 13 parsed as (NP (NP (DT the) (NN debt)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (JJS poorest) (NNS countries))))
+sid=0 spanning 15 until 20 headed by 19 parsed as (NP (NP (DT the) (NN world) (POS 's)) (JJS poorest) (NNS countries))
+sid=0 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN world) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN money))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP me))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP we))
+sid=2 spanning 13 until 14 headed by 13 parsed as our
+sid=2 spanning 18 until 25 headed by 19 parsed as (NP (NP (DT the) (NN burden)) (PP (IN of) (NP (NN debt))))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN world))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=3 spanning 5 until 10 headed by 9 parsed as (NP (QP (RB as) (JJ many) (IN as) (CD 33)) (NNS nations))
+sid=3 spanning 22 until 23 headed by 22 parsed as our
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (PRP us))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Congress))
+sid=5 spanning 7 until 16 headed by 9 parsed as (NP (NP (DT the) (JJ full) (NN amount)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (NNP White) (NNP House)) (VP (VBZ has) (VP (VBN sought))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NNP Congress) (NNP Monday))
+sid=0 spanning 3 until 4 headed by 3 parsed as Congress
+sid=0 spanning 12 until 20 headed by 13 parsed as (NP (NP (DT the) (NN debt)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (JJS poorest) (NNS countries))))
+sid=0 spanning 15 until 20 headed by 19 parsed as (NP (NP (DT the) (NN world) (POS 's)) (JJS poorest) (NNS countries))
+sid=0 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN world) (POS 's))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN money))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP US) (NN ability))
+sid=1 spanning 9 until 10 headed by 9 parsed as US
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP me))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP you))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP we))
+sid=2 spanning 11 until 15 headed by 11 parsed as (NP (NP (CD 15,000)) (PP (IN of) (NP (PRP$ our) (NN budget))))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ our) (NN budget))
+sid=2 spanning 13 until 14 headed by 13 parsed as (PRP$ our)
+sid=2 spanning 18 until 22 headed by 19 parsed as (NP (NP (DT the) (NN burden)) (PP (IN of) (NP (NN debt))))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN world))
+sid=2 spanning 26 until 27 headed by 26 parsed as (NP (NNS years))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=3 spanning 5 until 10 headed by 9 parsed as (NP (QP (RB as) (JJ many) (IN as) (CD 33)) (NNS nations))
+sid=3 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT a) (NN chance)) (PP (IN for) (NP (DT a) (JJ new) (NN beginning))))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ new) (NN beginning))
+sid=3 spanning 19 until 28 headed by 20 parsed as (NP (NP (JJ good) (NNS works)) (SBAR (WHNP (WDT that)) (S (NP (PRP$ our) (JJ different) (NNS faiths)) (VP (VBP demand) (PP (IN of) (NP (PRP us)))))))
+sid=3 spanning 22 until 25 headed by 24 parsed as (NP (PRP$ our) (JJ different) (NNS faiths))
+sid=3 spanning 22 until 23 headed by 22 parsed as (PRP$ our)
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (PRP us))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=4 spanning 5 until 9 headed by 8 parsed as (NP (JJ several) (JJ key) (JJ republican) (NNS leaders))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Congress))
+sid=5 spanning 7 until 16 headed by 9 parsed as (NP (NP (DT the) (JJ full) (NN amount)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (NNP White) (NNP House)) (VP (VBZ has) (VP (VBN sought))))))
+sid=5 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP White) (NNP House))
+(end predicted mentions)
+---------gold clusters--------
+4 14 | { 'the world 's poorest countries' 'as many as 33 nations' }
+1 18 | { 'Congress' 'Congress' }
+16 15 10 13 9 | { 'us' 'our' 'our' 'We' 'we' }
+19 2 7 | { 'the full amount that the White House has sought' '435 million dollars to cut the debt of the world 's poorest countries' 'the money' }
+11 3 | { 'the burden of debt around the world' 'the debt of the world 's poorest countries' }
+0 6 17 8 | { 'President Clinton' 'Mr. Clinton' 'Mr. Clinton' 'me' }
+12 5 | { 'the world' 'the world 's' }
+(end gold clusters)

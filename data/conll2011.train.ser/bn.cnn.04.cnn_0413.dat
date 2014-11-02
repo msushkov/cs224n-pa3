@@ -1,0 +1,46 @@
+---------gloss--------
+(0) [3m[31m{The head of the Catholic Church in Phoenix , Arizona , Bishop Thomas O'Brien}[0m has resigned , just one day after being charged with [3m[32m{a felony}[0m . 
+(1) [3m[31m{He}[0m is accused of [3m[32m{leaving}[0m the scene of a fatal accident . 
+(2) Earlier this month [3m[31m{O'Brien}[0m narrowly escaped prosecution over [3m[31m{his}[0m handling of sexual abuse allegations against priests . 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0413); part 000
+sentences:
+ThetheDTOPER0headheadNNOPER0ofofINOPER0thetheDTORGPER0CatholicCatholicNNPORGPER0ChurchChurchNNPORGPER0ininINOPER0PhoenixPhoenixNNPGPEPER0,,,OPER0ArizonaArizonaNNPGPEPER0,,,OPER0BishopBishopNNPPERSONPER0ThomasThomasNNPPERSONPER0O'BrienO'BrienNNPPERSONPER0hashaveVBZOPER0resignedresignVBNOPER0,,,OPER0justjustRBDATEPER0oneoneCDDATEPER0daydayNNDATEPER0afterafterINOPER0beingbeVBGOPER0chargedchargeVBNOPER0withwithINOPER0aaDTOPER0felonyfelonyNNOPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Catholic) (NNP Church)) (PP (IN in) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Arizona))))))) (, ,) (NP (NNP Bishop) (NNP Thomas) (NNP O'Brien))) (VP (VBZ has) (VP (VBN resigned) (, ,) (SBAR (NP (RB just) (CD one) (NN day)) (IN after) (S (VP (VBG being) (VP (VBN charged) (PP (IN with) (NP (DT a) (NN felony))))))))) (. .)))
+HehePRPOPER0isbeVBZOPER0accusedaccuseVBNOPER0ofofINOPER0leavingleaveVBGOPER0thetheDTOPER0scenesceneNNOPER0ofofINOPER0aaDTOPER0fatalfatalJJOPER0accidentaccidentNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VBG leaving) (NP (NP (DT the) (NN scene)) (PP (IN of) (NP (DT a) (JJ fatal) (NN accident))))))))) (. .)))
+EarlierearlierRBRDATEPER0thisthisDTDATEPER0monthmonthNNDATEPER0O'BrienO'BrienNNPPERSONPER0narrowlynarrowlyRBOPER0escapedescapeVBDOPER0prosecutionprosecutionNNOPER0overoverINOPER0hishePRP$OPER0handlinghandlingNNOPER0ofofINOPER0sexualsexualJJOPER0abuseabuseNNOPER0allegationsallegationNNSOPER0againstagainstINOPER0priestspriestNNSOPER0...OPER0(ROOT (S (NP (ADVP (RBR Earlier)) (DT this) (NN month)) (NP (NNP O'Brien)) (ADVP (RB narrowly)) (VP (VBD escaped) (NP (NP (NN prosecution)) (PP (IN over) (NP (NP (PRP$ his) (NN handling)) (PP (IN of) (NP (JJ sexual) (NN abuse)))))) (NP (NP (NNS allegations)) (PP (IN against) (NP (NNS priests))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 14 headed by 1 parsed as (NP (NP (NP (DT The) (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Catholic) (NNP Church)) (PP (IN in) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Arizona))))))) (, ,) (NP (NNP Bishop) (NNP Thomas) (NNP O'Brien)))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (DT a) (NN felony))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 4 until 5 headed by 4 parsed as leaving
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP O'Brien))
+sid=2 spanning 8 until 9 headed by 8 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 14 headed by 1 parsed as (NP (NP (NP (DT The) (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Catholic) (NNP Church)) (PP (IN in) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Arizona))))))) (, ,) (NP (NNP Bishop) (NNP Thomas) (NNP O'Brien)))
+sid=0 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Catholic) (NNP Church)) (PP (IN in) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Arizona)))))))
+sid=0 spanning 3 until 10 headed by 5 parsed as (NP (NP (DT the) (NNP Catholic) (NNP Church)) (PP (IN in) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Arizona)))))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Arizona)))
+sid=0 spanning 7 until 10 headed by 7 parsed as (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Arizona)))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Arizona))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (NNP Bishop) (NNP Thomas) (NNP O'Brien))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (RB just) (CD one) (NN day))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (DT a) (NN felony))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT the) (NN scene)) (PP (IN of) (NP (DT a) (JJ fatal) (NN accident))))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (DT a) (JJ fatal) (NN accident))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (ADVP (RBR Earlier)) (DT this) (NN month))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP O'Brien))
+sid=2 spanning 6 until 13 headed by 6 parsed as (NP (NP (NN prosecution)) (PP (IN over) (NP (NP (PRP$ his) (NN handling)) (PP (IN of) (NP (JJ sexual) (NN abuse))))))
+sid=2 spanning 8 until 13 headed by 9 parsed as (NP (NP (PRP$ his) (NN handling)) (PP (IN of) (NP (JJ sexual) (NN abuse))))
+sid=2 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=2 spanning 13 until 16 headed by 13 parsed as (NP (NP (NNS allegations)) (PP (IN against) (NP (NNS priests))))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NNS priests))
+(end predicted mentions)
+---------gold clusters--------
+4 5 2 0 | { 'O'Brien' 'his' 'He' 'The head of the Catholic Church in Phoenix , Arizona , Bishop Thomas O'Brien' }
+3 1 | { 'leaving' 'a felony' }
+(end gold clusters)

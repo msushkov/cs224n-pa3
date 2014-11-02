@@ -1,0 +1,72 @@
+---------gloss--------
+(0) The story of [1m[36m{a woman in an East Texas jail cell tonight}[0m . 
+(1) [3m[32m{We}[0m 're told sometimes [1m[36m{she}[0m sits in the fetal position , other times singing gospel music . 
+(2) Occasionally [1m[36m{she}[0m 'll pray , sometimes cries hysterically . 
+(3) [1m[36m{Her}[0m name is Deanna Lejeune Laney . 
+(4) [1m[36m{She}[0m 's accused of [3m[31m{beating}[0m two of [1m[36m{her}[0m three children to death because , [1m[36m{she}[0m says , God told [1m[36m{her}[0m to . 
+(5) Now [3m[31m{that}[0m happened this Saturday . 
+(6) Today the wheels of justice began turning . 
+(7) Katherine Garcia of WFAA joins [3m[32m{us}[0m from the Smith County courthouse in Tyler , Texas . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0345); part 000
+sentences:
+ThetheDTOPER0storystoryNNOPER0ofofINOPER0aaDTOPER0womanwomanNNOPER0ininINOPER0anaDTOPER0EastEastNNPGPEPER0TexasTexasNNPGPEPER0jailjailNNOPER0cellcellNNOPER0tonighttonightNNOPER0...OPER0(ROOT (NP (NP (NP (DT The) (NN story)) (PP (IN of) (NP (NP (DT a) (NN woman)) (PP (IN in) (NP (DT an) (NML (NNP East) (NNP Texas)) (NN jail) (NN cell)))))) (NP (NN tonight)) (. .)))
+WewePRPOPER0'rebeVBPOPER0toldtellVBNOPER0sometimessometimesRBOPER0sheshePRPOPER0sitssitVBZOPER0ininINOPER0thetheDTOPER0fetalfetalJJOPER0positionpositionNNOPER0,,,OPER0otherotherJJOPER0timestimeNNSOPER0singingsingVBGOPER0gospelgospelNNOPER0musicmusicNNOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP 're) (VP (VBN told) (SBAR (S (ADVP (RB sometimes)) (NP (PRP she)) (VP (VBZ sits) (PP (IN in) (NP (DT the) (JJ fetal) (NN position))) (, ,) (S (NP (JJ other) (NNS times)) (VP (VBG singing) (NP (NN gospel) (NN music))))))))) (. .)))
+OccasionallyoccasionallyRBOPER0sheshePRPOPER0'll'llMDOPER0prayprayVBOPER0,,,OPER0sometimessometimesRBOPER0criescryVBZOPER0hystericallyhystericallyRBOPER0...OPER0(ROOT (S (S (ADVP (RB Occasionally)) (NP (PRP she)) (VP (MD 'll) (VP (VB pray)))) (, ,) (ADVP (RB sometimes)) (VP (VBZ cries) (ADVP (RB hysterically))) (. .)))
+HershePRP$OPER0namenameNNOPER0isbeVBZOPER0DeannaDeannaNNPPERSONPER0LejeuneLejeuneNNPPERSONPER0LaneyLaneyNNPPERSONPER0...OPER0(ROOT (S (NP (PRP$ Her) (NN name)) (VP (VBZ is) (NP (NNP Deanna) (NNP Lejeune) (NNP Laney))) (. .)))
+SheshePRPOPER0'sbeVBZOPER0accusedaccuseVBNOPER0ofofINOPER0beatingbeatVBGOPER0twotwoCDCARDINALPER0ofofINOPER0hershePRP$OPER0threethreeCDCARDINALPER0childrenchildNNSOPER0totoINOPER0deathdeathNNOPER0becausebecauseINOPER0,,,OPER0sheshePRPOPER0sayssayVBZOPER0,,,OPER0GodGodNNPOPER0toldtellVBDOPER0hershePRPOPER0totoTOOPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBZ 's) (VP (VBN accused) (PP (IN of) (S (VP (VBG beating) (NP (NP (CD two)) (PP (IN of) (NP (PRP$ her) (CD three) (NNS children)))) (PP (IN to) (NP (NN death)))))) (SBAR (IN because) (S (PRN (, ,) (S (NP (PRP she)) (VP (VBZ says))) (, ,)) (NP (NNP God)) (VP (VBD told) (NP (PRP her)) (S (VP (TO to)))))))) (. .)))
+NownowUHOPER0thatthatDTOPER0happenedhappenVBDOPER0thisthisDTDATEPER0SaturdaySaturdayNNPDATEPER0...OPER0(ROOT (S (INTJ (UH Now)) (NP (DT that)) (VP (VBD happened) (NP (DT this) (NNP Saturday))) (. .)))
+TodaytodayNNDATEPER0thetheDTOPER0wheelswheelNNSOPER0ofofINOPER0justicejusticeNNOPER0beganbeginVBDOPER0turningturnVBGOPER0...OPER0(ROOT (S (NP (NN Today)) (NP (NP (DT the) (NNS wheels)) (PP (IN of) (NP (NN justice)))) (VP (VBD began) (S (VP (VBG turning)))) (. .)))
+KatherineKatherineNNPPERSONPER0GarciaGarciaNNPPERSONPER0ofofINOPER0WFAAWFAANNPORGPER0joinsjoinVBZOPER0uswePRPOPER0fromfromINOPER0thetheDTOPER0SmithSmithNNPORGPER0CountyCountyNNPORGPER0courthousecourthouseNNOPER0ininINOPER0TylerTylerNNPPERSONPER0,,,OPER0TexasTexasNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP Katherine) (NNP Garcia)) (PP (IN of) (NP (NNP WFAA)))) (VP (VBZ joins) (NP (PRP us)) (PP (IN from) (NP (NP (DT the) (NML (NNP Smith) (NNP County)) (NN courthouse)) (PP (IN in) (NP (NNP Tyler) (, ,) (NNP Texas)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 12 headed by 4 parsed as (NP (NP (DT a) (NN woman)) (PP (IN in) (NP (DT an) (NML (NNP East) (NNP Texas)) (NN jail) (NN cell))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP she))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP she))
+sid=3 spanning 0 until 1 headed by 0 parsed as Her
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=4 spanning 4 until 5 headed by 4 parsed as beating
+sid=4 spanning 7 until 8 headed by 7 parsed as her
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (PRP she))
+sid=4 spanning 19 until 20 headed by 19 parsed as (NP (PRP her))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (DT that))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP us))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 13 headed by 1 parsed as (NP (NP (NP (DT The) (NN story)) (PP (IN of) (NP (NP (DT a) (NN woman)) (PP (IN in) (NP (DT an) (NML (NNP East) (NNP Texas)) (NN jail) (NN cell)))))) (NP (NN tonight)) (. .))
+sid=0 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT a) (NN woman)) (PP (IN in) (NP (DT an) (NML (NNP East) (NNP Texas)) (NN jail) (NN cell))))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (DT an) (NML (NNP East) (NNP Texas)) (NN jail) (NN cell))
+sid=0 spanning 7 until 9 headed by 8 parsed as Texas
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP she))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ fetal) (NN position))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (JJ other) (NNS times))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NN gospel) (NN music))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP she))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ Her) (NN name))
+sid=3 spanning 0 until 1 headed by 0 parsed as (PRP$ Her)
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (NNP Deanna) (NNP Lejeune) (NNP Laney))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=4 spanning 5 until 10 headed by 5 parsed as (NP (NP (CD two)) (PP (IN of) (NP (PRP$ her) (CD three) (NNS children))))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (PRP she))
+sid=4 spanning 17 until 18 headed by 17 parsed as (NP (NNP God))
+sid=4 spanning 19 until 20 headed by 19 parsed as (NP (PRP her))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (DT that))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT this) (NNP Saturday))
+sid=6 spanning 1 until 5 headed by 2 parsed as (NP (NP (DT the) (NNS wheels)) (PP (IN of) (NP (NN justice))))
+sid=7 spanning 0 until 4 headed by 1 parsed as (NP (NP (NNP Katherine) (NNP Garcia)) (PP (IN of) (NP (NNP WFAA))))
+sid=7 spanning 3 until 4 headed by 3 parsed as (NP (NNP WFAA))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP us))
+sid=7 spanning 7 until 15 headed by 10 parsed as (NP (NP (DT the) (NML (NNP Smith) (NNP County)) (NN courthouse)) (PP (IN in) (NP (NNP Tyler) (, ,) (NNP Texas))))
+sid=7 spanning 8 until 10 headed by 9 parsed as County
+sid=7 spanning 12 until 15 headed by 14 parsed as (NP (NNP Tyler) (, ,) (NNP Texas))
+sid=7 spanning 12 until 13 headed by 12 parsed as Tyler
+(end predicted mentions)
+---------gold clusters--------
+2 0 7 8 3 4 5 9 | { 'she' 'a woman in an East Texas jail cell tonight' 'her' 'she' 'she' 'Her' 'She' 'her' }
+10 6 | { 'that' 'beating' }
+1 11 | { 'We' 'us' }
+(end gold clusters)

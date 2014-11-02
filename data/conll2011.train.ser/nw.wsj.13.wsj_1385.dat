@@ -1,0 +1,56 @@
+---------gloss--------
+(0) [4m[36m{A group including Gene E. Phillips , former chairman of Southmark Corp. , and William S. Friedman , former vice chairman of Southmark ,}[0m lowered [4m[36m{its}[0m stake in [4m[34m{the Dallas real estate concern}[0m to 7.7 % , according to [4m[35m{a filing with the Securities and Exchange Commission}[0m . 
+(1) [4m[36m{The group}[0m said [4m[36m{it}[0m sold 455,410 [4m[34m{Southmark}[0m common shares from Sept. 5 to Oct. 5 for 18.75 cents to 25 cents a share . 
+(2) [4m[35m{The filing}[0m said [4m[36m{the group}[0m continues to hold 3,481,887 remaining shares . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1385); part 000
+sentences:
+AaDTOPER0groupgroupNNOPER0includingincludeVBGOPER0GeneGeneNNPPERSONPER0E.E.NNPPERSONPER0PhillipsPhillipsNNPPERSONPER0,,,OPER0formerformerJJOPER0chairmanchairmanNNOPER0ofofINOPER0SouthmarkSouthmarkNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0andandCCOPER0WilliamWilliamNNPPERSONPER0S.S.NNPPERSONPER0FriedmanFriedmanNNPPERSONPER0,,,OPER0formerformerJJOPER0viceviceNNOPER0chairmanchairmanNNOPER0ofofINOPER0SouthmarkSouthmarkNNPORGPER0,,,OPER0loweredlowerVBDOPER0itsitsPRP$OPER0stakestakeNNOPER0ininINOPER0thetheDTOPER0DallasDallasNNPGPEPER0realrealJJOPER0estateestateNNOPER0concernconcernNNOPER0totoINOPER07.77.7CDPERCENTPER0%%NNPERCENTPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0aaDTOPER0filingfilingNNOPER0withwithINOPER0thetheDTORGPER0SecuritiesSecuritiesNNPSORGPER0andandCCORGPER0ExchangeExchangeNNPORGPER0CommissionCommissionNNPORGPER0...OPER0(ROOT (S (NP (NP (DT A) (NN group)) (PP (VBG including) (NP (NP (NP (NNP Gene) (NNP E.) (NNP Phillips)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NNP Southmark) (NNP Corp.)))) (, ,)) (CC and) (NP (NP (NNP William) (NNP S.) (NNP Friedman)) (, ,) (NP (NP (JJ former) (NN vice) (NN chairman)) (PP (IN of) (NP (NNP Southmark)))) (, ,))))) (VP (VBD lowered) (NP (NP (PRP$ its) (NN stake)) (PP (IN in) (NP (DT the) (NNP Dallas) (NML (JJ real) (NN estate)) (NN concern)))) (PP (IN to) (NP (CD 7.7) (NN %))) (, ,) (PP (VBG according) (PP (IN to) (NP (NP (DT a) (NN filing)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))))))) (. .)))
+ThetheDTOPER0groupgroupNNOPER0saidsayVBDOPER0ititPRPOPER0soldsellVBDOPER0455,410455,410CDCARDINALPER0SouthmarkSouthmarkNNPORGPER0commoncommonJJOPER0sharesshareNNSOPER0fromfromINOPER0Sept.Sept.NNPDATEPER055CDDATEPER0totoINDATEPER0Oct.Oct.NNPDATEPER055CDDATEPER0forforINOPER018.7518.75CDMONEYPER0centscentNNSMONEYPER0totoINMONEYPER02525CDMONEYPER0centscentNNSMONEYPER0aaDTOPER0shareshareNNOPER0...OPER0(ROOT (S (NP (DT The) (NN group)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD sold) (NP (NP (CD 455,410) (NNP Southmark) (JJ common) (NNS shares)) (PP (PP (IN from) (NP (NNP Sept.) (CD 5))) (PP (IN to) (NP (NNP Oct.) (CD 5))))) (PP (IN for) (NP (CD 18.75) (NNS cents))) (PP (IN to) (NP (NP (CD 25) (NNS cents)) (NP (DT a) (NN share)))))))) (. .)))
+ThetheDTOPER0filingfilingNNOPER0saidsayVBDOPER0thetheDTOPER0groupgroupNNOPER0continuescontinueVBZOPER0totoTOOPER0holdholdVBOPER03,481,8873,481,887CDCARDINALPER0remainingremainingJJOPER0sharesshareNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN filing)) (VP (VBD said) (SBAR (S (NP (DT the) (NN group)) (VP (VBZ continues) (S (VP (TO to) (VP (VB hold) (NP (CD 3,481,887) (JJ remaining) (NNS shares))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 24 headed by 1 parsed as (NP (NP (DT A) (NN group)) (PP (VBG including) (NP (NP (NP (NNP Gene) (NNP E.) (NNP Phillips)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NNP Southmark) (NNP Corp.)))) (, ,)) (CC and) (NP (NP (NNP William) (NNP S.) (NNP Friedman)) (, ,) (NP (NP (JJ former) (NN vice) (NN chairman)) (PP (IN of) (NP (NNP Southmark)))) (, ,)))))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (NNP Southmark) (NNP Corp.))
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNP Southmark))
+sid=0 spanning 25 until 26 headed by 25 parsed as its
+sid=0 spanning 28 until 33 headed by 32 parsed as (NP (DT the) (NNP Dallas) (NML (JJ real) (NN estate)) (NN concern))
+sid=0 spanning 39 until 47 headed by 40 parsed as (NP (NP (DT a) (NN filing)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN group))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 6 until 7 headed by 6 parsed as Southmark
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN filing))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN group))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 24 headed by 1 parsed as (NP (NP (DT A) (NN group)) (PP (VBG including) (NP (NP (NP (NNP Gene) (NNP E.) (NNP Phillips)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NNP Southmark) (NNP Corp.)))) (, ,)) (CC and) (NP (NP (NNP William) (NNP S.) (NNP Friedman)) (, ,) (NP (NP (JJ former) (NN vice) (NN chairman)) (PP (IN of) (NP (NNP Southmark)))) (, ,)))))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (NP (NP (NNP Gene) (NNP E.) (NNP Phillips)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NNP Southmark) (NNP Corp.)))) (, ,)) (CC and) (NP (NP (NNP William) (NNP S.) (NNP Friedman)) (, ,) (NP (NP (JJ former) (NN vice) (NN chairman)) (PP (IN of) (NP (NNP Southmark)))) (, ,)))
+sid=0 spanning 3 until 24 headed by 5 parsed as (NP (NP (NP (NNP Gene) (NNP E.) (NNP Phillips)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NNP Southmark) (NNP Corp.)))) (, ,)) (CC and) (NP (NP (NNP William) (NNP S.) (NNP Friedman)) (, ,) (NP (NP (JJ former) (NN vice) (NN chairman)) (PP (IN of) (NP (NNP Southmark)))) (, ,)))
+sid=0 spanning 3 until 13 headed by 5 parsed as (NP (NP (NNP Gene) (NNP E.) (NNP Phillips)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NNP Southmark) (NNP Corp.)))) (, ,))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (NNP Southmark) (NNP Corp.))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (NP (NNP William) (NNP S.) (NNP Friedman)) (, ,) (NP (NP (JJ former) (NN vice) (NN chairman)) (PP (IN of) (NP (NNP Southmark)))) (, ,))
+sid=0 spanning 14 until 24 headed by 16 parsed as (NP (NP (NNP William) (NNP S.) (NNP Friedman)) (, ,) (NP (NP (JJ former) (NN vice) (NN chairman)) (PP (IN of) (NP (NNP Southmark)))) (, ,))
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNP Southmark))
+sid=0 spanning 25 until 33 headed by 26 parsed as (NP (NP (PRP$ its) (NN stake)) (PP (IN in) (NP (DT the) (NNP Dallas) (NML (JJ real) (NN estate)) (NN concern))))
+sid=0 spanning 25 until 26 headed by 25 parsed as (PRP$ its)
+sid=0 spanning 28 until 33 headed by 32 parsed as (NP (DT the) (NNP Dallas) (NML (JJ real) (NN estate)) (NN concern))
+sid=0 spanning 29 until 30 headed by 29 parsed as Dallas
+sid=0 spanning 39 until 47 headed by 40 parsed as (NP (NP (DT a) (NN filing)) (PP (IN with) (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))))
+sid=0 spanning 42 until 47 headed by 46 parsed as (NP (DT the) (NML (NNPS Securities) (CC and) (NNP Exchange)) (NNP Commission))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN group))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 5 until 15 headed by 8 parsed as (NP (NP (CD 455,410) (NNP Southmark) (JJ common) (NNS shares)) (PP (PP (IN from) (NP (NNP Sept.) (CD 5))) (PP (IN to) (NP (NNP Oct.) (CD 5)))))
+sid=1 spanning 6 until 7 headed by 6 parsed as Southmark
+sid=1 spanning 10 until 15 headed by 10 parsed as (NP (NNP Sept.) (CD 5))
+sid=1 spanning 21 until 23 headed by 22 parsed as (NP (DT a) (NN share))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN filing))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN group))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (CD 3,481,887) (JJ remaining) (NNS shares))
+(end predicted mentions)
+---------gold clusters--------
+1 8 4 2 | { 'Southmark Corp.' 'Southmark' 'the Dallas real estate concern' 'Southmark' }
+5 9 | { 'a filing with the Securities and Exchange Commission' 'The filing' }
+7 6 0 10 3 | { 'it' 'The group' 'A group including Gene E. Phillips , former chairman of Southmark Corp. , and William S. Friedman , former vice chairman of Southmark ,' 'the group' 'its' }
+(end gold clusters)

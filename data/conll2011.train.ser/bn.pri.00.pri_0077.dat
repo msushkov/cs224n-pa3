@@ -1,0 +1,190 @@
+---------gloss--------
+(0) In [1m[31m{Miami}[0m [1m[32m{today}[0m the trial of [36m{five men accused of being spies for Fidel Castro}[0m [34m{got}[0m underway . 
+(1) Prosecutors say [36m{the men}[0m ran [35m{a sophisticated eavesdropping operation}[0m . 
+(2) [35m{It}[0m served as [1m[36m{the Cuban government 's}[0m eyes and ears in South Florida . 
+(3) In Havana [1m[35m{Cuban television}[0m took little note of [34m{this development}[0m . 
+(4) [1m[35m{It}[0m was busy celebrating the 7th birthday [1m[32m{today}[0m of [1m[34m{a certain little boy named Elian}[0m . 
+(5) Last night Cubans retreated to [3m[32m{never - before seen footage of Elian Gonzalez 's first encounter with President Fidel Castro}[0m . 
+(6) [3m[32m{The scene}[0m was filmed five months ago , shortly after [1m[34m{the shipwreck victim}[0m [1m[33m{returned}[0m to [1m[36m{Cuba}[0m following a heated international custody battle . 
+(7) [1m[34m{He}[0m 'd spent 7 months in the home of [1m[31m{Miami}[0m relatives who tried to prevent [1m[34m{the boy 's}[0m return , but on that day last summer [1m[34m{Elian}[0m was indeed as far from [1m[31m{Miami}[0m as you can get . 
+(8) [3m[32m{The scene}[0m shows [33m{Fidel Castro in his traditional olive green uniform}[0m presenting [1m[34m{the boy}[0m with [3m[33m{a gift , a children 's book written by Cuban independence hero Jose Marti}[0m . 
+(9) As [1m[34m{Elian}[0m looks up speechlessly , [33m{Castro}[0m tells [1m[34m{him}[0m to take care of [3m[33m{the book}[0m because [1m[34m{he}[0m will enjoy [3m[33m{it}[0m for the rest of [1m[34m{his}[0m life . 
+(10) At one point [33m{Castro}[0m leans over and kisses [1m[34m{the boy}[0m on the hand . 
+(11) A year ago [1m[32m{today}[0m , [1m[34m{Elian}[0m was celebrating [1m[34m{his}[0m birthday in the United States being showered with gifts by [1m[34m{his}[0m Florida relatives and very much in the media spotlight . 
+(12) By contrast [33m{Castro}[0m has strictly [3m[31m{limited}[0m the media 's access to [1m[34m{the boy}[0m , but [3m[31m{that policy}[0m seems to have changed now with foreign reporters invited to attend [1m[34m{Elian 's}[0m birthday party [1m[32m{today}[0m in [1m[34m{his}[0m hometown of Cardinas , [1m[36m{Cuba}[0m . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0077); part 000
+sentences:
+IninINOPER0MiamiMiamiNNPGPEPER0todaytodayNNOPER0thetheDTOPER0trialtrialNNOPER0ofofINOPER0fivefiveCDCARDINALPER0menmanNNSOPER0accusedaccuseVBNOPER0ofofINOPER0beingbeVBGOPER0spiesspyNNSOPER0forforINOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0gotgetVBDOPER0underwayunderwayRBOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Miami))) (NP (NN today)) (NP (NP (DT the) (NN trial)) (PP (IN of) (NP (NP (CD five) (NNS men)) (VP (VBN accused) (PP (IN of) (S (VP (VBG being) (NP (NNS spies)))))))) (PP (IN for) (NP (NNP Fidel) (NNP Castro)))) (VP (VBD got) (ADVP (RB underway))) (. .)))
+ProsecutorsprosecutorNNSOPER0saysayVBPOPER0thetheDTOPER0menmanNNSOPER0ranrunVBDOPER0aaDTOPER0sophisticatedsophisticatedJJOPER0eavesdroppingeavesdroppingNNOPER0operationoperationNNOPER0...OPER0(ROOT (S (NP (NNS Prosecutors)) (VP (VBP say) (SBAR (S (NP (DT the) (NNS men)) (VP (VBD ran) (NP (DT a) (JJ sophisticated) (NN eavesdropping) (NN operation)))))) (. .)))
+ItitPRPOPER0servedserveVBDOPER0asasINOPER0thetheDTOPER0CubancubanJJOPER0governmentgovernmentNNOPER0's'sPOSOPER0eyeseyeNNSOPER0andandCCOPER0earsearNNSOPER0ininINOPER0SouthSouthNNPGPEPER0FloridaFloridaNNPGPEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD served) (PP (IN as) (NP (NP (DT the) (JJ Cuban) (NN government) (POS 's)) (NNS eyes) (CC and) (NNS ears))) (PP (IN in) (NP (NNP South) (NNP Florida)))) (. .)))
+IninINOPER0HavanaHavanaNNPGPEPER0CubanCubanNNPOPER0televisiontelevisionNNOPER0tooktakeVBDOPER0littlelittleJJOPER0notenoteNNOPER0ofofINOPER0thisthisDTOPER0developmentdevelopmentNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Havana))) (NP (NNP Cuban) (NN television)) (VP (VBD took) (NP (NP (JJ little) (NN note)) (PP (IN of) (NP (DT this) (NN development))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0busybusyJJOPER0celebratingcelebrateVBGOPER0thetheDTDATEPER07th7thJJDATEPER0birthdaybirthdayNNDATEPER0todaytodayNNDATEPER0ofofINOPER0aaDTOPER0certaincertainJJOPER0littlelittleJJOPER0boyboyNNOPER0namednameVBNOPER0ElianElianNNPPERSONPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ busy) (S (VP (VBG celebrating) (NP (NP (NP (DT the) (JJ 7th) (NN birthday)) (NP (NN today))) (PP (IN of) (NP (NP (DT a) (JJ certain) (JJ little) (NN boy)) (VP (VBN named) (S (NP (NNP Elian))))))))))) (. .)))
+LastlastJJOPER0nightnightNNOPER0CubansCubansNNPSOPER0retreatedretreatVBDOPER0totoINOPER0neverneverRBOPER0--HYPHOPER0beforebeforeRBOPER0seenseeVBNOPER0footagefootageNNOPER0ofofINOPER0ElianElianNNPPERSONPER0GonzalezGonzalezNNPPERSONPER0's'sPOSPERSONPER0firstfirstJJOPER0encounterencounterNNOPER0withwithINOPER0PresidentPresidentNNPOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0...OPER0(ROOT (S (NP (JJ Last) (NN night)) (NP (NNPS Cubans)) (VP (VBD retreated) (PP (IN to) (NP (NP (ADJP (ADVP (RB never) (HYPH -) (RB before)) (VBN seen)) (NN footage)) (PP (IN of) (NP (NP (NP (NNP Elian) (NNP Gonzalez) (POS 's)) (JJ first) (NN encounter)) (PP (IN with) (NP (NNP President) (NNP Fidel) (NNP Castro)))))))) (. .)))
+ThetheDTOPER0scenesceneNNOPER0wasbeVBDOPER0filmedfilmVBNOPER0fivefiveCDDATEPER0monthsmonthNNSDATEPER0agoagoRBDATEPER0,,,OPER0shortlyshortlyRBOPER0afterafterINOPER0thetheDTOPER0shipwreckshipwreckNNOPER0victimvictimNNOPER0returnedreturnVBDOPER0totoINOPER0CubaCubaNNPGPEPER0followingfollowVBGOPER0aaDTOPER0heatedheatedJJOPER0internationalinternationalJJOPER0custodycustodyNNOPER0battlebattleNNOPER0...OPER0(ROOT (S (NP (DT The) (NN scene)) (VP (VBD was) (VP (VBN filmed) (ADVP (NP (CD five) (NNS months)) (RB ago)) (, ,) (SBAR (ADVP (RB shortly)) (IN after) (S (NP (DT the) (NN shipwreck) (NN victim)) (VP (VBD returned) (PP (IN to) (NP (NNP Cuba))) (PP (VBG following) (NP (DT a) (JJ heated) (NML (JJ international) (NN custody)) (NN battle)))))))) (. .)))
+HehePRPOPER0'dhaveVBDOPER0spentspendVBNOPER077CDDATEPER0monthsmonthNNSDATEPER0ininINOPER0thetheDTOPER0homehomeNNOPER0ofofINOPER0MiamiMiamiNNPGPEPER0relativesrelativeNNSOPER0whowhoWPOPER0triedtryVBDOPER0totoTOOPER0preventpreventVBOPER0thetheDTOPER0boyboyNNOPER0's'sPOSOPER0returnreturnNNOPER0,,,OPER0butbutCCOPER0ononINOPER0thatthatDTDATEPER0daydayNNDATEPER0lastlastJJDATEPER0summersummerNNDATEPER0ElianElianNNPPERSONPER0wasbeVBDOPER0indeedindeedRBOPER0asasRBOPER0farfarRBOPER0fromfromINOPER0MiamiMiamiNNPGPEPER0asasINOPER0youyouPRPOPER0cancanMDOPER0getgetVBOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (VBD 'd) (VP (VBN spent) (NP (CD 7) (NNS months)) (PP (IN in) (NP (NP (DT the) (NN home)) (PP (IN of) (NP (NP (NNP Miami) (NNS relatives)) (SBAR (WHNP (WP who)) (S (VP (VBD tried) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT the) (NN boy) (POS 's)) (NN return))))))))))))))) (, ,) (CC but) (S (PP (IN on) (NP (NP (DT that) (NN day)) (NP (JJ last) (NN summer)))) (NP (NNP Elian)) (VP (VBD was) (ADVP (RB indeed)) (ADVP (ADVP (RB as) (RB far) (PP (IN from) (NP (NNP Miami)))) (SBAR (IN as) (S (NP (PRP you)) (VP (MD can) (VP (VB get)))))))) (. .)))
+ThetheDTOPER0scenesceneNNOPER0showsshowVBZOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0ininINOPER0hishePRP$OPER0traditionaltraditionalJJOPER0oliveoliveJJOPER0greengreenJJOPER0uniformuniformNNOPER0presentingpresentVBGOPER0thetheDTOPER0boyboyNNOPER0withwithINOPER0aaDTOPER0giftgiftNNOPER0,,,OPER0aaDTOPER0childrenchildNNSOPER0's'sPOSOPER0bookbookNNOPER0writtenwriteVBNOPER0bybyINOPER0CubancubanJJOPER0independenceindependenceNNOPER0heroheroNNOPER0JoseJoseNNPPERSONPER0MartiMartiNNPPERSONPER0...OPER0(ROOT (S (NP (DT The) (NN scene)) (VP (VBZ shows) (NP (NP (NNP Fidel) (NNP Castro)) (PP (IN in) (NP (NP (PRP$ his) (JJ traditional) (JJ olive) (JJ green) (NN uniform)) (VP (VBG presenting) (NP (DT the) (NN boy)) (PP (IN with) (NP (DT a) (NN gift))))))) (, ,) (S (NP (NP (DT a) (NNS children) (POS 's)) (NN book)) (VP (VBN written) (PP (IN by) (NP (NML (NML (JJ Cuban) (NN independence)) (NN hero)) (NNP Jose) (NNP Marti)))))) (. .)))
+AsasINOPER0ElianElianNNPPERSONPER0lookslookVBZOPER0upupRBOPER0speechlesslyspeechlesslyRBOPER0,,,OPER0CastroCastroNNPPERSONPER0tellstellVBZOPER0himhePRPOPER0totoTOOPER0taketakeVBOPER0carecareNNOPER0ofofINOPER0thetheDTOPER0bookbookNNOPER0becausebecauseINOPER0hehePRPOPER0willwillMDOPER0enjoyenjoyVBOPER0ititPRPOPER0forforINOPER0thetheDTOPER0restrestNNOPER0ofofINOPER0hishePRP$OPER0lifelifeNNOPER0...OPER0(ROOT (S (SBAR (IN As) (S (NP (NNP Elian)) (VP (VBZ looks) (ADVP (RB up) (RB speechlessly))))) (, ,) (NP (NNP Castro)) (VP (VBZ tells) (NP (PRP him)) (S (VP (TO to) (VP (VB take) (NP (NP (NN care)) (PP (IN of) (NP (DT the) (NN book)))) (SBAR (IN because) (S (NP (PRP he)) (VP (MD will) (VP (VB enjoy) (NP (PRP it)) (PP (IN for) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (PRP$ his) (NN life))))))))))))) (. .)))
+AtatINOPER0oneoneCDCARDINALPER0pointpointNNOPER0CastroCastroNNPPERSONPER0leansleanVBZOPER0overoverRBOPER0andandCCOPER0kisseskissVBZOPER0thetheDTOPER0boyboyNNOPER0ononINOPER0thetheDTOPER0handhandNNOPER0...OPER0(ROOT (S (PP (IN At) (NP (CD one) (NN point))) (NP (NNP Castro)) (VP (VP (VBZ leans) (ADVP (RB over))) (CC and) (VP (VBZ kisses) (NP (DT the) (NN boy)) (PP (IN on) (NP (DT the) (NN hand))))) (. .)))
+AaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0todaytodayNNDATEPER0,,,OPER0ElianElianNNPPERSONPER0wasbeVBDOPER0celebratingcelebrateVBGOPER0hishePRP$OPER0birthdaybirthdayNNOPER0ininINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0beingbeVBGOPER0showeredshowerVBDOPER0withwithINOPER0giftsgiftNNSOPER0bybyINOPER0hishePRP$OPER0FloridaFloridaNNPGPEPER0relativesrelativeNNSOPER0andandCCOPER0veryveryRBOPER0muchmuchRBOPER0ininINOPER0thetheDTOPER0mediamediaNNOPER0spotlightspotlightNNOPER0...OPER0(ROOT (S (ADVP (NP (DT A) (NN year)) (RB ago)) (NP (NN today)) (, ,) (NP (NNP Elian)) (VP (VBD was) (VP (VBG celebrating) (NP (PRP$ his) (NN birthday)) (PP (PP (IN in) (S (NP (DT the) (NNP United) (NNP States)) (VP (VBG being) (VP (VBD showered) (PP (IN with) (NP (NP (NNS gifts)) (PP (IN by) (NP (PRP$ his) (NNP Florida) (NNS relatives))))))))) (CC and) (ADVP (RB very) (RB much)) (PP (IN in) (NP (DT the) (NN media) (NN spotlight)))))) (. .)))
+BybyINOPER0contrastcontrastNNOPER0CastroCastroNNPPERSONPER0hashaveVBZOPER0strictlystrictlyRBOPER0limitedlimitVBNOPER0thetheDTOPER0mediamediaNNSOPER0's'sPOSOPER0accessaccessNNOPER0totoINOPER0thetheDTOPER0boyboyNNOPER0,,,OPER0butbutCCOPER0thatthatDTOPER0policypolicyNNOPER0seemsseemVBZOPER0totoTOOPER0havehaveVBOPER0changedchangeVBNOPER0nownowRBOPER0withwithINOPER0foreignforeignJJOPER0reportersreporterNNSOPER0invitedinviteVBNOPER0totoTOOPER0attendattendVBOPER0ElianElianNNPPERSONPER0's'sPOSOPER0birthdaybirthdayNNOPER0partypartyNNOPER0todaytodayNNDATEPER0ininINOPER0hishePRP$OPER0hometownhometownNNOPER0ofofINOPER0CardinasCardinasNNPORGPER0,,,OPER0CubaCubaNNPGPEPER0...OPER0(ROOT (S (S (PP (IN By) (NP (NN contrast))) (NP (NNP Castro)) (VP (VBZ has) (ADVP (RB strictly)) (VP (VBN limited) (NP (NP (NP (DT the) (NNS media) (POS 's)) (NN access)) (PP (IN to) (NP (DT the) (NN boy))))))) (, ,) (CC but) (S (NP (DT that) (NN policy)) (VP (VBZ seems) (S (VP (TO to) (VP (VB have) (VP (VBN changed) (ADVP (RB now) (PP (IN with) (NP (JJ foreign) (NNS reporters)))) (VP (VBN invited) (S (VP (TO to) (VP (VB attend) (NP (NP (NNP Elian) (POS 's)) (NN birthday) (NN party)) (NP (NN today)) (PP (IN in) (NP (NP (PRP$ his) (NN hometown)) (PP (IN of) (NP (NP (NNP Cardinas)) (, ,) (NP (NNP Cuba)))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Miami))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NN today))
+sid=0 spanning 6 until 15 headed by 7 parsed as (NP (NP (CD five) (NNS men)) (VP (VBN accused) (PP (IN of) (S (VP (VBG being) (NP (NNS spies)))))))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NNP Fidel) (NNP Castro))
+sid=0 spanning 15 until 16 headed by 15 parsed as got
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS men))
+sid=1 spanning 5 until 9 headed by 8 parsed as (NP (DT a) (JJ sophisticated) (NN eavesdropping) (NN operation))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 7 headed by 5 parsed as (NP (DT the) (JJ Cuban) (NN government) (POS 's))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NNP Cuban) (NN television))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT this) (NN development))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (NN today))
+sid=4 spanning 9 until 15 headed by 12 parsed as (NP (NP (DT a) (JJ certain) (JJ little) (NN boy)) (VP (VBN named) (S (NP (NNP Elian)))))
+sid=5 spanning 5 until 20 headed by 9 parsed as (NP (NP (ADJP (ADVP (RB never) (HYPH -) (RB before)) (VBN seen)) (NN footage)) (PP (IN of) (NP (NP (NP (NNP Elian) (NNP Gonzalez) (POS 's)) (JJ first) (NN encounter)) (PP (IN with) (NP (NNP President) (NNP Fidel) (NNP Castro))))))
+sid=5 spanning 11 until 14 headed by 12 parsed as (NP (NNP Elian) (NNP Gonzalez) (POS 's))
+sid=5 spanning 17 until 20 headed by 19 parsed as (NP (NNP President) (NNP Fidel) (NNP Castro))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN scene))
+sid=6 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NN shipwreck) (NN victim))
+sid=6 spanning 13 until 14 headed by 13 parsed as returned
+sid=6 spanning 15 until 16 headed by 15 parsed as (NP (NNP Cuba))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 9 until 10 headed by 9 parsed as Miami
+sid=7 spanning 15 until 19 headed by 18 parsed as (NP (NP (DT the) (NN boy) (POS 's)) (NN return))
+sid=7 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN boy) (POS 's))
+sid=7 spanning 26 until 27 headed by 26 parsed as (NP (NNP Elian))
+sid=7 spanning 32 until 33 headed by 32 parsed as (NP (NNP Miami))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN scene))
+sid=8 spanning 3 until 11 headed by 4 parsed as (NP (NP (NNP Fidel) (NNP Castro)) (PP (IN in) (NP (NP (PRP$ his) (JJ traditional) (JJ olive) (JJ green) (NN uniform)) (VP (VBG presenting) (NP (DT the) (NN boy)) (PP (IN with) (NP (DT a) (NN gift)))))))
+sid=8 spanning 6 until 7 headed by 6 parsed as his
+sid=8 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN boy))
+sid=8 spanning 15 until 29 headed by 16 parsed as (NP (DT a) (NN gift))
+sid=9 spanning 1 until 2 headed by 1 parsed as (NP (NNP Elian))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (NNP Castro))
+sid=9 spanning 8 until 9 headed by 8 parsed as (NP (PRP him))
+sid=9 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN book))
+sid=9 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=9 spanning 19 until 20 headed by 19 parsed as (NP (PRP it))
+sid=9 spanning 24 until 25 headed by 24 parsed as his
+sid=10 spanning 3 until 4 headed by 3 parsed as (NP (NNP Castro))
+sid=10 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN boy))
+sid=11 spanning 3 until 4 headed by 3 parsed as (NP (NN today))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (NNP Elian))
+sid=11 spanning 8 until 9 headed by 8 parsed as his
+sid=11 spanning 19 until 20 headed by 19 parsed as his
+sid=12 spanning 2 until 3 headed by 2 parsed as (NP (NNP Castro))
+sid=12 spanning 5 until 6 headed by 5 parsed as limited
+sid=12 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN boy))
+sid=12 spanning 15 until 17 headed by 16 parsed as (NP (DT that) (NN policy))
+sid=12 spanning 28 until 30 headed by 28 parsed as (NP (NNP Elian) (POS 's))
+sid=12 spanning 32 until 33 headed by 32 parsed as (NP (NN today))
+sid=12 spanning 34 until 35 headed by 34 parsed as his
+sid=12 spanning 39 until 40 headed by 39 parsed as (NP (NNP Cuba))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Miami))
+sid=0 spanning 3 until 15 headed by 4 parsed as (NP (NP (DT the) (NN trial)) (PP (IN of) (NP (NP (CD five) (NNS men)) (VP (VBN accused) (PP (IN of) (S (VP (VBG being) (NP (NNS spies)))))))) (PP (IN for) (NP (NNP Fidel) (NNP Castro))))
+sid=0 spanning 6 until 12 headed by 7 parsed as (NP (NP (CD five) (NNS men)) (VP (VBN accused) (PP (IN of) (S (VP (VBG being) (NP (NNS spies)))))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNS spies))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NNP Fidel) (NNP Castro))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Prosecutors))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS men))
+sid=1 spanning 5 until 9 headed by 8 parsed as (NP (DT a) (JJ sophisticated) (NN eavesdropping) (NN operation))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 10 headed by 7 parsed as (NP (NP (DT the) (JJ Cuban) (NN government) (POS 's)) (NNS eyes) (CC and) (NNS ears))
+sid=2 spanning 3 until 7 headed by 5 parsed as (NP (DT the) (JJ Cuban) (NN government) (POS 's))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NNP South) (NNP Florida))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NNP Havana))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NNP Cuban) (NN television))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT this) (NN development))
+sid=4 spanning 4 until 15 headed by 6 parsed as (NP (NP (NP (DT the) (JJ 7th) (NN birthday)) (NP (NN today))) (PP (IN of) (NP (NP (DT a) (JJ certain) (JJ little) (NN boy)) (VP (VBN named) (S (NP (NNP Elian)))))))
+sid=4 spanning 9 until 15 headed by 12 parsed as (NP (NP (DT a) (JJ certain) (JJ little) (NN boy)) (VP (VBN named) (S (NP (NNP Elian)))))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Elian))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJ Last) (NN night))
+sid=5 spanning 5 until 20 headed by 9 parsed as (NP (NP (ADJP (ADVP (RB never) (HYPH -) (RB before)) (VBN seen)) (NN footage)) (PP (IN of) (NP (NP (NP (NNP Elian) (NNP Gonzalez) (POS 's)) (JJ first) (NN encounter)) (PP (IN with) (NP (NNP President) (NNP Fidel) (NNP Castro))))))
+sid=5 spanning 11 until 20 headed by 15 parsed as (NP (NP (NP (NNP Elian) (NNP Gonzalez) (POS 's)) (JJ first) (NN encounter)) (PP (IN with) (NP (NNP President) (NNP Fidel) (NNP Castro))))
+sid=5 spanning 11 until 14 headed by 12 parsed as (NP (NNP Elian) (NNP Gonzalez) (POS 's))
+sid=5 spanning 17 until 20 headed by 19 parsed as (NP (NNP President) (NNP Fidel) (NNP Castro))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN scene))
+sid=6 spanning 4 until 7 headed by 6 parsed as ago
+sid=6 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NN shipwreck) (NN victim))
+sid=6 spanning 15 until 16 headed by 15 parsed as (NP (NNP Cuba))
+sid=6 spanning 17 until 22 headed by 21 parsed as (NP (DT a) (JJ heated) (NML (JJ international) (NN custody)) (NN battle))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (CD 7) (NNS months))
+sid=7 spanning 6 until 19 headed by 7 parsed as (NP (NP (DT the) (NN home)) (PP (IN of) (NP (NP (NNP Miami) (NNS relatives)) (SBAR (WHNP (WP who)) (S (VP (VBD tried) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT the) (NN boy) (POS 's)) (NN return)))))))))))
+sid=7 spanning 9 until 19 headed by 10 parsed as (NP (NP (NNP Miami) (NNS relatives)) (SBAR (WHNP (WP who)) (S (VP (VBD tried) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT the) (NN boy) (POS 's)) (NN return)))))))))
+sid=7 spanning 9 until 10 headed by 9 parsed as Miami
+sid=7 spanning 15 until 19 headed by 18 parsed as (NP (NP (DT the) (NN boy) (POS 's)) (NN return))
+sid=7 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN boy) (POS 's))
+sid=7 spanning 22 until 26 headed by 23 parsed as (NP (NP (DT that) (NN day)) (NP (JJ last) (NN summer)))
+sid=7 spanning 26 until 27 headed by 26 parsed as (NP (NNP Elian))
+sid=7 spanning 32 until 33 headed by 32 parsed as (NP (NNP Miami))
+sid=7 spanning 34 until 35 headed by 34 parsed as (NP (PRP you))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN scene))
+sid=8 spanning 3 until 17 headed by 4 parsed as (NP (NP (NNP Fidel) (NNP Castro)) (PP (IN in) (NP (NP (PRP$ his) (JJ traditional) (JJ olive) (JJ green) (NN uniform)) (VP (VBG presenting) (NP (DT the) (NN boy)) (PP (IN with) (NP (DT a) (NN gift)))))))
+sid=8 spanning 6 until 17 headed by 10 parsed as (NP (NP (PRP$ his) (JJ traditional) (JJ olive) (JJ green) (NN uniform)) (VP (VBG presenting) (NP (DT the) (NN boy)) (PP (IN with) (NP (DT a) (NN gift)))))
+sid=8 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=8 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN boy))
+sid=8 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN gift))
+sid=8 spanning 18 until 22 headed by 21 parsed as (NP (NP (DT a) (NNS children) (POS 's)) (NN book))
+sid=8 spanning 18 until 21 headed by 19 parsed as (NP (DT a) (NNS children) (POS 's))
+sid=8 spanning 24 until 29 headed by 28 parsed as (NP (NML (NML (JJ Cuban) (NN independence)) (NN hero)) (NNP Jose) (NNP Marti))
+sid=9 spanning 1 until 2 headed by 1 parsed as (NP (NNP Elian))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (NNP Castro))
+sid=9 spanning 8 until 9 headed by 8 parsed as (NP (PRP him))
+sid=9 spanning 11 until 15 headed by 11 parsed as (NP (NP (NN care)) (PP (IN of) (NP (DT the) (NN book))))
+sid=9 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN book))
+sid=9 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=9 spanning 19 until 20 headed by 19 parsed as (NP (PRP it))
+sid=9 spanning 21 until 26 headed by 22 parsed as (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (PRP$ his) (NN life))))
+sid=9 spanning 24 until 26 headed by 25 parsed as (NP (PRP$ his) (NN life))
+sid=9 spanning 24 until 25 headed by 24 parsed as (PRP$ his)
+sid=10 spanning 1 until 3 headed by 2 parsed as (NP (CD one) (NN point))
+sid=10 spanning 3 until 4 headed by 3 parsed as (NP (NNP Castro))
+sid=10 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN boy))
+sid=10 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN hand))
+sid=11 spanning 0 until 4 headed by 3 parsed as (NP (NN today))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (NNP Elian))
+sid=11 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ his) (NN birthday))
+sid=11 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=11 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=11 spanning 17 until 22 headed by 17 parsed as (NP (NP (NNS gifts)) (PP (IN by) (NP (PRP$ his) (NNP Florida) (NNS relatives))))
+sid=11 spanning 19 until 22 headed by 21 parsed as (NP (PRP$ his) (NNP Florida) (NNS relatives))
+sid=11 spanning 19 until 20 headed by 19 parsed as (PRP$ his)
+sid=11 spanning 20 until 21 headed by 20 parsed as Florida
+sid=11 spanning 26 until 29 headed by 28 parsed as (NP (DT the) (NN media) (NN spotlight))
+sid=12 spanning 2 until 3 headed by 2 parsed as (NP (NNP Castro))
+sid=12 spanning 6 until 13 headed by 9 parsed as (NP (NP (NP (DT the) (NNS media) (POS 's)) (NN access)) (PP (IN to) (NP (DT the) (NN boy))))
+sid=12 spanning 6 until 9 headed by 7 parsed as (NP (DT the) (NNS media) (POS 's))
+sid=12 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN boy))
+sid=12 spanning 15 until 17 headed by 16 parsed as (NP (DT that) (NN policy))
+sid=12 spanning 23 until 25 headed by 24 parsed as (NP (JJ foreign) (NNS reporters))
+sid=12 spanning 28 until 32 headed by 31 parsed as (NP (NP (NNP Elian) (POS 's)) (NN birthday) (NN party))
+sid=12 spanning 28 until 30 headed by 28 parsed as (NP (NNP Elian) (POS 's))
+sid=12 spanning 34 until 40 headed by 35 parsed as (NP (NP (PRP$ his) (NN hometown)) (PP (IN of) (NP (NP (NNP Cardinas)) (, ,) (NP (NNP Cuba)))))
+sid=12 spanning 34 until 35 headed by 34 parsed as (PRP$ his)
+sid=12 spanning 37 until 38 headed by 37 parsed as (NP (NP (NNP Cardinas)) (, ,) (NP (NNP Cuba)))
+sid=12 spanning 37 until 40 headed by 37 parsed as (NP (NP (NNP Cardinas)) (, ,) (NP (NNP Cuba)))
+sid=12 spanning 39 until 40 headed by 39 parsed as (NP (NNP Cuba))
+(end predicted mentions)
+---------gold clusters--------
+45 16 33 29 39 3 28 | { 'Castro' 'President Fidel Castro' 'Castro' 'his' 'Castro' 'Fidel Castro' 'Fidel Castro in his traditional olive green uniform' }
+10 4 | { 'this development' 'got' }
+6 7 | { 'a sophisticated eavesdropping operation' 'It' }
+2 5 | { 'five men accused of being spies for Fidel Castro' 'the men' }
+26 22 0 | { 'Miami' 'Miami' 'Miami' }
+50 1 12 41 | { 'today' 'today' 'today' 'today' }
+23 19 | { 'the boy 's return' 'returned' }
+40 34 43 24 51 21 18 25 44 15 32 36 42 49 38 30 47 13 | { 'the boy' 'him' 'his' 'the boy 's' 'his' 'He' 'the shipwreck victim' 'Elian' 'his' 'Elian Gonzalez 's' 'Elian' 'he' 'Elian' 'Elian 's' 'his' 'the boy' 'the boy' 'a certain little boy named Elian' }
+11 9 | { 'It' 'Cuban television' }
+8 20 52 | { 'the Cuban government 's' 'Cuba' 'Cuba' }
+48 46 | { 'that policy' 'limited' }
+27 17 14 | { 'The scene' 'The scene' 'never - before seen footage of Elian Gonzalez 's first encounter with President Fidel Castro' }
+35 31 37 | { 'the book' 'a gift , a children 's book written by Cuban independence hero Jose Marti' 'it' }
+(end gold clusters)

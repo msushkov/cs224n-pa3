@@ -1,0 +1,57 @@
+---------gloss--------
+(0) [34m{The Environmental Protection Agency}[0m is getting a lot out of [36m{the Superfund program}[0m . 
+(1) Of the $ 4.4 billion spent so far on [36m{the program}[0m , 60 % is going for administrative costs , management and research , the Office of Technology Assessment just reported . 
+(2) Only 36 of 1,200 priority cleanup sites have been `` decontaminated . '' 
+(3) Over the next 50 years , $ 500 billion [35m{is}[0m earmarked for [36m{the program}[0m . 
+(4) At current allocations , [35m{that}[0m means [34m{EPA}[0m will be spending $ 300 billion on [34m{itself}[0m . 
+(5) [34m{It}[0m may not be toxic , but we know where [34m{one waste dump}[0m is . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1520); part 000
+sentences:
+ThetheDTORGPER0EnvironmentalEnvironmentalNNPORGPER0ProtectionProtectionNNPORGPER0AgencyAgencyNNPORGPER0isbeVBZOPER0gettinggetVBGOPER0aaDTOPER0lotlotNNOPER0outoutINOPER0ofofINOPER0thetheDTOPER0SuperfundSuperfundNNPLAWPER0programprogramNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP Environmental) (NNP Protection)) (NNP Agency)) (VP (VBZ is) (VP (VBG getting) (NP (DT a) (NN lot)) (PP (IN out) (PP (IN of) (NP (DT the) (NNP Superfund) (NN program)))))) (. .)))
+OfofINOPER0thetheDTOPER0$$$MONEYPER04.44.4CDMONEYPER0billionbillionCDMONEYPER0spentspendVBNOPER0sosoRBOPER0farfarRBOPER0ononINOPER0thetheDTOPER0programprogramNNOPER0,,,OPER06060CDPERCENTPER0%%NNPERCENTPER0isbeVBZOPER0goinggoVBGOPER0forforINOPER0administrativeadministrativeJJOPER0costscostNNSOPER0,,,OPER0managementmanagementNNOPER0andandCCOPER0researchresearchNNOPER0,,,OPER0thetheDTORGPER0OfficeOfficeNNPORGPER0ofofINORGPER0TechnologyTechnologyNNPORGPER0AssessmentAssessmentNNPORGPER0justjustRBOPER0reportedreportVBDOPER0...OPER0(ROOT (S (S (PP (IN Of) (NP (NP (DT the) (QP ($ $) (CD 4.4) (CD billion))) (VP (VBN spent) (ADVP (RB so) (RB far)) (PP (IN on) (NP (DT the) (NN program)))))) (, ,) (NP (CD 60) (NN %)) (VP (VBZ is) (VP (VBG going) (PP (IN for) (NP (NP (JJ administrative) (NNS costs)) (, ,) (NP (NN management)) (CC and) (NP (NN research))))))) (, ,) (NP (NP (DT the) (NNP Office)) (PP (IN of) (NP (NNP Technology) (NNP Assessment)))) (ADVP (RB just)) (VP (VBD reported)) (. .)))
+OnlyonlyRBCARDINALPER03636CDCARDINALPER0ofofINOPER01,2001,200CDCARDINALPER0prioritypriorityNNOPER0cleanupcleanupNNOPER0sitessiteNNSOPER0havehaveVBPOPER0beenbeVBNOPER0``````OdecontaminateddecontaminatedJJOPER1...OPER1''''''OPER0(ROOT (S (NP (NP (QP (RB Only) (CD 36))) (PP (IN of) (NP (CD 1,200) (NML (NN priority) (NN cleanup)) (NNS sites)))) (VP (VBP have) (VP (VBN been) (`` ``) (ADJP (JJ decontaminated)))) (. .) ('' '')))
+OveroverINOPER0thetheDTDATEPER0nextnextJJDATEPER05050CDDATEPER0yearsyearNNSDATEPER0,,,OPER0$$$MONEYPER0500500CDMONEYPER0billionbillionCDMONEYPER0isbeVBZOPER0earmarkedearmarkVBNOPER0forforINOPER0thetheDTOPER0programprogramNNOPER0...OPER0(ROOT (S (PP (IN Over) (NP (DT the) (JJ next) (CD 50) (NNS years))) (, ,) (NP (QP ($ $) (CD 500) (CD billion))) (VP (VBZ is) (VP (VBN earmarked) (PP (IN for) (NP (DT the) (NN program))))) (. .)))
+AtatINOPER0currentcurrentJJOPER0allocationsallocationNNSOPER0,,,OPER0thatthatDTOPER0meansmeanVBZOPER0EPAEPANNPORGPER0willwillMDOPER0bebeVBOPER0spendingspendVBGOPER0$$$MONEYPER0300300CDMONEYPER0billionbillionCDMONEYPER0ononINOPER0itselfitselfPRPOPER0...OPER0(ROOT (S (PP (IN At) (NP (JJ current) (NNS allocations))) (, ,) (NP (DT that)) (VP (VBZ means) (SBAR (S (NP (NNP EPA)) (VP (MD will) (VP (VB be) (VP (VBG spending) (NP (QP ($ $) (CD 300) (CD billion))) (PP (IN on) (NP (PRP itself))))))))) (. .)))
+ItitPRPOPER0maymayMDOPER0notnotRBOPER0bebeVBOPER0toxictoxicJJOPER0,,,OPER0butbutCCOPER0wewePRPOPER0knowknowVBPOPER0wherewhereWRBOPER0oneoneCDCARDINALPER0wastewasteNNOPER0dumpdumpNNOPER0isbeVBZOPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ toxic))))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP know) (SBAR (WHADVP (WRB where)) (S (NP (CD one) (NN waste) (NN dump)) (VP (VBZ is)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP Environmental) (NNP Protection)) (NNP Agency))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP Superfund) (NN program))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN program))
+sid=3 spanning 9 until 10 headed by 9 parsed as is
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN program))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (DT that))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP EPA))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (PRP itself))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=5 spanning 10 until 13 headed by 12 parsed as (NP (CD one) (NN waste) (NN dump))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP Environmental) (NNP Protection)) (NNP Agency))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN lot))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP Superfund) (NN program))
+sid=0 spanning 11 until 12 headed by 11 parsed as Superfund
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN program))
+sid=1 spanning 17 until 23 headed by 18 parsed as (NP (NP (JJ administrative) (NNS costs)) (, ,) (NP (NN management)) (CC and) (NP (NN research)))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (JJ administrative) (NNS costs))
+sid=1 spanning 24 until 29 headed by 25 parsed as (NP (NP (DT the) (NNP Office)) (PP (IN of) (NP (NNP Technology) (NNP Assessment))))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (QP (RB Only) (CD 36))) (PP (IN of) (NP (CD 1,200) (NML (NN priority) (NN cleanup)) (NNS sites))))
+sid=2 spanning 3 until 7 headed by 6 parsed as (NP (CD 1,200) (NML (NN priority) (NN cleanup)) (NNS sites))
+sid=3 spanning 1 until 5 headed by 4 parsed as (NP (DT the) (JJ next) (CD 50) (NNS years))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN program))
+sid=4 spanning 1 until 3 headed by 2 parsed as (NP (JJ current) (NNS allocations))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (DT that))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP EPA))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (PRP itself))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP we))
+sid=5 spanning 10 until 13 headed by 12 parsed as (NP (CD one) (NN waste) (NN dump))
+(end predicted mentions)
+---------gold clusters--------
+9 7 0 6 8 | { 'one waste dump' 'itself' 'The Environmental Protection Agency' 'EPA' 'It' }
+3 5 | { 'is' 'that' }
+4 2 1 | { 'the program' 'the program' 'the Superfund program' }
+(end gold clusters)

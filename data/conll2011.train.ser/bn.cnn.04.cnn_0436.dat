@@ -1,0 +1,48 @@
+---------gloss--------
+(0) And the pope will reportedly name [1m[31m{a new head of the troubled Boston Archdiocese this week}[0m . 
+(1) [1m[31m{Sean Patrick O'Malley , the bishop of Palm Beach , Florida ,}[0m is [36m{expected}[0m to replace [35m{Cardinal Bernard Law}[0m . 
+(2) [36m{That}[0m 's according to the National Catholic Reporter . 
+(3) [35m{Law}[0m stepped down in December amid charges of widespread child sexual abuse in the church . 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0436); part 000
+sentences:
+AndandCCOPER0thetheDTOPER0popepopeNNOPER0willwillMDOPER0reportedlyreportedlyRBOPER0namenameVBOPER0aaDTOPER0newnewJJOPER0headheadNNOPER0ofofINOPER0thetheDTOPER0troubledtroubleVBNOPER0BostonBostonNNPORGPER0ArchdioceseArchdioceseNNPORGPER0thisthisDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (CC And) (NP (DT the) (NN pope)) (VP (MD will) (ADVP (RB reportedly)) (VP (VB name) (NP (NP (DT a) (JJ new) (NN head)) (PP (IN of) (NP (DT the) (VBN troubled) (NNP Boston) (NNP Archdiocese))) (NP (DT this) (NN week))))) (. .)))
+SeanSeanNNPPERSONPER0PatrickPatrickNNPPERSONPER0O'MalleyO'MalleyNNPPERSONPER0,,,OPER0thetheDTOPER0bishopbishopNNOPER0ofofINOPER0PalmPalmNNPGPEPER0BeachBeachNNPGPEPER0,,,OPER0FloridaFloridaNNPGPEPER0,,,OPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0replacereplaceVBOPER0CardinalCardinalNNPPERSONPER0BernardBernardNNPPERSONPER0LawLawNNPOPER0...OPER0(ROOT (S (NP (NP (NNP Sean) (NNP Patrick) (NNP O'Malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (NNP Cardinal) (NNP Bernard) (NNP Law))))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0accordingaccordVBGOPER0totoINOPER0thetheDTORGPER0NationalNationalNNPORGPER0CatholicCatholicNNPORGPER0ReporterReporterNNPORGPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (PP (VBG according) (PP (IN to) (NP (DT the) (NNP National) (NNP Catholic) (NNP Reporter))))) (. .)))
+LawLawNNPOPER0steppedstepVBDOPER0downdownRPOPER0ininINOPER0DecemberDecemberNNPDATEPER0amidamidINOPER0chargeschargeNNSOPER0ofofINOPER0widespreadwidespreadJJOPER0childchildNNOPER0sexualsexualJJOPER0abuseabuseNNOPER0ininINOPER0thetheDTOPER0churchchurchNNOPER0...OPER0(ROOT (S (NP (NNP Law)) (VP (VBD stepped) (PRT (RP down)) (PP (IN in) (NP (NNP December))) (PP (IN amid) (NP (NP (NNS charges)) (PP (IN of) (NP (NP (JJ widespread) (NN child) (JJ sexual) (NN abuse)) (PP (IN in) (NP (DT the) (NN church)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 16 headed by 8 parsed as (NP (NP (DT a) (JJ new) (NN head)) (PP (IN of) (NP (DT the) (VBN troubled) (NNP Boston) (NNP Archdiocese))) (NP (DT this) (NN week)))
+sid=1 spanning 0 until 12 headed by 2 parsed as (NP (NP (NNP Sean) (NNP Patrick) (NNP O'Malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Florida))))) (, ,))
+sid=1 spanning 13 until 14 headed by 13 parsed as expected
+sid=1 spanning 16 until 19 headed by 18 parsed as (NP (NNP Cardinal) (NNP Bernard) (NNP Law))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Law))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN pope))
+sid=0 spanning 6 until 16 headed by 8 parsed as (NP (NP (DT a) (JJ new) (NN head)) (PP (IN of) (NP (DT the) (VBN troubled) (NNP Boston) (NNP Archdiocese))) (NP (DT this) (NN week)))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (VBN troubled) (NNP Boston) (NNP Archdiocese))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT this) (NN week))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Sean) (NNP Patrick) (NNP O'Malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Florida))))) (, ,))
+sid=1 spanning 0 until 12 headed by 2 parsed as (NP (NP (NNP Sean) (NNP Patrick) (NNP O'Malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Florida))))) (, ,))
+sid=1 spanning 4 until 11 headed by 5 parsed as (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Florida)))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NP (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Florida)))
+sid=1 spanning 7 until 11 headed by 8 parsed as (NP (NP (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Florida)))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNP Florida))
+sid=1 spanning 16 until 19 headed by 18 parsed as (NP (NNP Cardinal) (NNP Bernard) (NNP Law))
+sid=1 spanning 16 until 18 headed by 17 parsed as Bernard
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=2 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (NNP National) (NNP Catholic) (NNP Reporter))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Law))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP December))
+sid=3 spanning 6 until 15 headed by 6 parsed as (NP (NP (NNS charges)) (PP (IN of) (NP (NP (JJ widespread) (NN child) (JJ sexual) (NN abuse)) (PP (IN in) (NP (DT the) (NN church))))))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN church))
+(end predicted mentions)
+---------gold clusters--------
+5 3 | { 'Law' 'Cardinal Bernard Law' }
+4 2 | { 'That' 'expected' }
+1 0 | { 'Sean Patrick O'Malley , the bishop of Palm Beach , Florida ,' 'a new head of the troubled Boston Archdiocese this week' }
+(end gold clusters)

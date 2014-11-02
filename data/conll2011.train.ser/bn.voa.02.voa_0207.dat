@@ -1,0 +1,106 @@
+---------gloss--------
+(0) [34m{Cuban leader Fidel Castro}[0m is setting up a lavish extravaganza on [36m{the island nation}[0m to welcome [31m{the new millennium}[0m , one year late for [32m{much of the rest of the world}[0m . 
+(1) [33m{Many experts}[0m contend [32m{most of the world}[0m was at least technically wrong by bringing in [31m{the new millennium}[0m with massive celebrations [35m{last year}[0m . 
+(2) [33m{These experts}[0m point out that the Gregorian calendar [1m[32m{started}[0m in 1 AD and therefore , centuries ' millennia start with a one , not a zero . 
+(3) [33m{They}[0m say [1m[32m{this}[0m makes [4m[35m{2001}[0m the first year of [31m{the third millennium}[0m . 
+(4) For those observing the start of [4m[35m{2001}[0m as a true dawn of the twenty - first century , the parties and fireworks are fewer and less elaborate than [4m[36m{the 2000 celebrations}[0m . 
+(5) In [36m{Cuba}[0m though , where [34m{President Castro}[0m had [34m{his}[0m country [1m[31m{sit}[0m out [35m{last year 's}[0m revelry , [36m{they}[0m 'll be making up for [1m[31m{it}[0m as major festivities are set . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0207); part 000
+sentences:
+CubancubanJJOPER0leaderleaderNNOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0isbeVBZOPER0settingsetVBGOPER0upupRPOPER0aaDTOPER0lavishlavishJJOPER0extravaganzaextravaganzaNNOPER0ononINOPER0thetheDTOPER0islandislandNNOPER0nationnationNNOPER0totoTOOPER0welcomewelcomeVBOPER0thetheDTDATEPER0newnewJJDATEPER0millenniummillenniumNNDATEPER0,,,OPER0oneoneCDDATEPER0yearyearNNDATEPER0latelateRBOPER0forforINOPER0muchmuchJJOPER0ofofINOPER0thetheDTOPER0restrestNNOPER0ofofINOPER0thetheDTOPER0worldworldNNOPER0...OPER0(ROOT (S (NP (NML (JJ Cuban) (NN leader)) (NNP Fidel) (NNP Castro)) (VP (VBZ is) (VP (VBG setting) (PRT (RP up)) (NP (NP (DT a) (JJ lavish) (NN extravaganza)) (PP (IN on) (NP (NP (NP (DT the) (NN island) (NN nation)) (SBAR (S (VP (TO to) (VP (VB welcome) (NP (DT the) (JJ new) (NN millennium))))))) (, ,) (NP (CD one) (NN year)))) (ADVP (RB late))) (PP (IN for) (NP (NP (JJ much)) (PP (IN of) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN world))))))))) (. .)))
+ManymanyJJOPER0expertsexpertNNSOPER0contendcontendVBPOPER0mostmostJJSOPER0ofofINOPER0thetheDTOPER0worldworldNNOPER0wasbeVBDOPER0atatINOPER0leastleastJJSOPER0technicallytechnicallyRBOPER0wrongwrongJJOPER0bybyINOPER0bringingbringVBGOPER0ininINOPER0thetheDTDATEPER0newnewJJDATEPER0millenniummillenniumNNDATEPER0withwithINOPER0massivemassiveJJOPER0celebrationscelebrationNNSOPER0lastlastJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (JJ Many) (NNS experts)) (VP (VBP contend) (SBAR (S (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN world)))) (VP (VBD was) (ADJP (ADJP (ADVP (IN at) (JJS least)) (RB technically) (JJ wrong) (PP (IN by) (S (VP (VBG bringing) (PP (IN in) (NP (DT the) (JJ new) (NN millennium))))))) (PP (IN with) (NP (NP (JJ massive) (NNS celebrations)) (NP (JJ last) (NN year))))))))) (. .)))
+ThesetheseDTOPER0expertsexpertNNSOPER0pointpointVBPOPER0outoutRPOPER0thatthatINOPER0thetheDTOPER0GregorianGregorianNNPOPER0calendarcalendarNNOPER0startedstartVBDOPER0ininINOPER011CDCARDINALPER0ADadNNORGPER0andandCCOPER0thereforethereforeRBOPER0,,,OPER0centuriescenturyNNSDATEPER0''POSOPER0millenniamillenniumNNSOPER0startstartVBPOPER0withwithINOPER0aaDTOPER0oneoneNNCARDINALPER0,,,OPER0notnotRBOPER0aaDTOPER0zerozeroNNCARDINALPER0...OPER0(ROOT (S (S (NP (DT These) (NNS experts)) (VP (VBP point) (PRT (RP out)) (SBAR (IN that) (S (NP (DT the) (NNP Gregorian) (NN calendar)) (VP (VBD started) (PP (IN in) (NP (CD 1) (NN AD)))))))) (CC and) (S (ADVP (RB therefore)) (, ,) (NP (NP (NNS centuries) (POS ')) (NNS millennia)) (VP (VBP start) (PP (IN with) (NP (NP (DT a) (NN one)) (, ,) (RB not) (NP (DT a) (NN zero)))))) (. .)))
+TheytheyPRPOPER0saysayVBPOPER0thisthisDTOPER0makesmakeVBZOPER020012001CDDATEPER0thetheDTDATEPER0firstfirstJJDATEPER0yearyearNNDATEPER0ofofINDATEPER0thetheDTDATEPER0thirdthirdJJDATEPER0millenniummillenniumNNDATEPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP say) (SBAR (S (NP (DT this)) (VP (VBZ makes) (NP (NP (NP (CD 2001)) (NP (DT the) (JJ first) (NN year))) (PP (IN of) (NP (DT the) (JJ third) (NN millennium)))))))) (. .)))
+ForforINOPER0thosethoseDTOPER0observingobserveVBGOPER0thetheDTDATEPER0startstartNNDATEPER0ofofINDATEPER020012001CDDATEPER0asasINOPER0aaDTOPER0truetrueJJOPER0dawndawnNNOPER0ofofINOPER0thetheDTDATEPER0twentytwentyCDDATEPER0--HYPHDATEPER0firstfirstJJDATEPER0centurycenturyNNDATEPER0,,,OPER0thetheDTOPER0partiespartyNNSOPER0andandCCOPER0fireworksfireworkNNSOPER0arebeVBPOPER0fewerfewerJJROPER0andandCCOPER0lesslessRBROPER0elaborateelaborateJJOPER0thanthanINOPER0thetheDTOPER020002000CDDATEPER0celebrationscelebrationNNSOPER0...OPER0(ROOT (S (PP (IN For) (NP (NP (DT those)) (VP (VBG observing) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (CD 2001)))) (PP (IN as) (NP (NP (DT a) (JJ true) (NN dawn)) (PP (IN of) (NP (DT the) (ADJP (CD twenty) (HYPH -) (JJ first)) (NN century)))))))) (, ,) (NP (DT the) (NNS parties) (CC and) (NNS fireworks)) (VP (VBP are) (ADJP (ADJP (ADJP (JJR fewer)) (CC and) (ADJP (RBR less) (JJ elaborate))) (PP (IN than) (NP (DT the) (CD 2000) (NNS celebrations))))) (. .)))
+IninINOPER0CubaCubaNNPGPEPER0thoughthoughRBOPER0,,,OPER0wherewhereWRBOPER0PresidentPresidentNNPOPER0CastroCastroNNPPERSONPER0hadhaveVBDOPER0hishePRP$OPER0countrycountryNNOPER0sitsitVBOPER0outoutRPOPER0lastlastJJDATEPER0yearyearNNDATEPER0's'sPOSDATEPER0revelryrevelryNNOPER0,,,OPER0theytheyPRPOPER0'll'llMDOPER0bebeVBOPER0makingmakeVBGOPER0upupRPOPER0forforINOPER0ititPRPOPER0asasINOPER0majormajorJJOPER0festivitiesfestivityNNSOPER0arebeVBPOPER0setsetVBNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NP (NNP Cuba)) (ADVP (RB though))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP President) (NNP Castro)) (VP (VBD had) (S (NP (PRP$ his) (NN country)) (VP (VB sit) (PRT (RP out)) (NP (NP (JJ last) (NN year) (POS 's)) (NN revelry))))))))) (, ,) (NP (PRP they)) (VP (MD 'll) (VP (VB be) (VP (VBG making) (PRT (RP up)) (PP (IN for) (NP (PRP it))) (SBAR (IN as) (S (NP (JJ major) (NNS festivities)) (VP (VBP are) (VP (VBN set)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Cuban) (NN leader)) (NNP Fidel) (NNP Castro))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (NP (NP (DT the) (NN island) (NN nation)) (SBAR (S (VP (TO to) (VP (VB welcome) (NP (DT the) (JJ new) (NN millennium))))))) (, ,) (NP (CD one) (NN year)))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ new) (NN millennium))
+sid=0 spanning 24 until 31 headed by 24 parsed as (NP (NP (JJ much)) (PP (IN of) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN world))))))
+sid=0 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN world))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Many) (NNS experts))
+sid=1 spanning 3 until 7 headed by 3 parsed as (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN world))))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN world))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (JJ new) (NN millennium))
+sid=1 spanning 21 until 23 headed by 22 parsed as (NP (JJ last) (NN year))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT These) (NNS experts))
+sid=2 spanning 8 until 9 headed by 8 parsed as started
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (DT this))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NP (NP (CD 2001)) (NP (DT the) (JJ first) (NN year))) (PP (IN of) (NP (DT the) (JJ third) (NN millennium))))
+sid=3 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (JJ third) (NN millennium))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (CD 2001))
+sid=4 spanning 28 until 31 headed by 30 parsed as (NP (DT the) (CD 2000) (NNS celebrations))
+sid=4 spanning 29 until 30 headed by 29 parsed as 2000
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (NP (NP (NNP Cuba)) (ADVP (RB though))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP President) (NNP Castro)) (VP (VBD had) (S (NP (PRP$ his) (NN country)) (VP (VB sit) (PRT (RP out)) (NP (NP (JJ last) (NN year) (POS 's)) (NN revelry))))))))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (NNP President) (NNP Castro))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ his) (NN country))
+sid=5 spanning 8 until 9 headed by 8 parsed as his
+sid=5 spanning 10 until 11 headed by 10 parsed as sit
+sid=5 spanning 12 until 16 headed by 15 parsed as (NP (NP (JJ last) (NN year) (POS 's)) (NN revelry))
+sid=5 spanning 12 until 15 headed by 13 parsed as (NP (JJ last) (NN year) (POS 's))
+sid=5 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=5 spanning 23 until 24 headed by 23 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Cuban) (NN leader)) (NNP Fidel) (NNP Castro))
+sid=0 spanning 7 until 23 headed by 9 parsed as (NP (NP (DT a) (JJ lavish) (NN extravaganza)) (PP (IN on) (NP (NP (NP (DT the) (NN island) (NN nation)) (SBAR (S (VP (TO to) (VP (VB welcome) (NP (DT the) (JJ new) (NN millennium))))))) (, ,) (NP (CD one) (NN year)))) (ADVP (RB late)))
+sid=0 spanning 11 until 22 headed by 13 parsed as (NP (NP (NP (DT the) (NN island) (NN nation)) (SBAR (S (VP (TO to) (VP (VB welcome) (NP (DT the) (JJ new) (NN millennium))))))) (, ,) (NP (CD one) (NN year)))
+sid=0 spanning 11 until 19 headed by 13 parsed as (NP (NP (DT the) (NN island) (NN nation)) (SBAR (S (VP (TO to) (VP (VB welcome) (NP (DT the) (JJ new) (NN millennium)))))))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ new) (NN millennium))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (CD one) (NN year))
+sid=0 spanning 24 until 31 headed by 24 parsed as (NP (NP (JJ much)) (PP (IN of) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN world))))))
+sid=0 spanning 26 until 31 headed by 27 parsed as (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN world))))
+sid=0 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN world))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Many) (NNS experts))
+sid=1 spanning 3 until 7 headed by 3 parsed as (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN world))))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN world))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (JJ new) (NN millennium))
+sid=1 spanning 19 until 23 headed by 20 parsed as (NP (NP (JJ massive) (NNS celebrations)) (NP (JJ last) (NN year)))
+sid=1 spanning 21 until 23 headed by 22 parsed as (NP (JJ last) (NN year))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT These) (NNS experts))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Gregorian) (NN calendar))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (CD 1) (NN AD))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (NP (NNS centuries) (POS ')) (NNS millennia))
+sid=2 spanning 15 until 17 headed by 15 parsed as (NP (NNS centuries) (POS '))
+sid=2 spanning 20 until 26 headed by 21 parsed as (NP (NP (DT a) (NN one)) (, ,) (RB not) (NP (DT a) (NN zero)))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT a) (NN one))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (DT a) (NN zero))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (DT this))
+sid=3 spanning 4 until 12 headed by 4 parsed as (NP (NP (NP (CD 2001)) (NP (DT the) (JJ first) (NN year))) (PP (IN of) (NP (DT the) (JJ third) (NN millennium))))
+sid=4 spanning 1 until 17 headed by 1 parsed as (NP (NP (DT those)) (VP (VBG observing) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (CD 2001)))) (PP (IN as) (NP (NP (DT a) (JJ true) (NN dawn)) (PP (IN of) (NP (DT the) (ADJP (CD twenty) (HYPH -) (JJ first)) (NN century)))))))
+sid=4 spanning 3 until 7 headed by 4 parsed as (NP (NP (DT the) (NN start)) (PP (IN of) (NP (CD 2001))))
+sid=4 spanning 8 until 17 headed by 10 parsed as (NP (NP (DT a) (JJ true) (NN dawn)) (PP (IN of) (NP (DT the) (ADJP (CD twenty) (HYPH -) (JJ first)) (NN century))))
+sid=4 spanning 12 until 17 headed by 16 parsed as (NP (DT the) (ADJP (CD twenty) (HYPH -) (JJ first)) (NN century))
+sid=4 spanning 18 until 22 headed by 19 parsed as (NP (DT the) (NNS parties) (CC and) (NNS fireworks))
+sid=4 spanning 28 until 31 headed by 30 parsed as (NP (DT the) (CD 2000) (NNS celebrations))
+sid=4 spanning 29 until 30 headed by 29 parsed as 2000
+sid=5 spanning 1 until 16 headed by 1 parsed as (NP (NP (NP (NNP Cuba)) (ADVP (RB though))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP President) (NNP Castro)) (VP (VBD had) (S (NP (PRP$ his) (NN country)) (VP (VB sit) (PRT (RP out)) (NP (NP (JJ last) (NN year) (POS 's)) (NN revelry))))))))
+sid=5 spanning 1 until 3 headed by 1 parsed as (NP (NP (NNP Cuba)) (ADVP (RB though)))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (NNP President) (NNP Castro))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ his) (NN country))
+sid=5 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=5 spanning 12 until 15 headed by 13 parsed as (NP (JJ last) (NN year) (POS 's))
+sid=5 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=5 spanning 23 until 24 headed by 23 parsed as (NP (PRP it))
+sid=5 spanning 25 until 27 headed by 26 parsed as (NP (JJ major) (NNS festivities))
+(end predicted mentions)
+---------gold clusters--------
+14 16 | { '2001' '2001' }
+24 17 | { 'last year 's revelry' 'the 2000 celebrations' }
+15 2 8 | { 'the third millennium' 'the new millennium' 'the new millennium' }
+6 3 | { 'most of the world' 'much of the rest of the world' }
+12 5 10 | { 'They' 'Many experts' 'These experts' }
+22 20 0 | { 'his' 'President Castro' 'Cuban leader Fidel Castro' }
+18 25 9 | { '2000' 'last year 's' 'last year' }
+1 19 21 26 | { 'the island nation' 'Cuba' 'his country' 'they' }
+23 27 | { 'sit' 'it' }
+13 11 | { 'this' 'started' }
+4 7 | { 'the world' 'the world' }
+(end gold clusters)

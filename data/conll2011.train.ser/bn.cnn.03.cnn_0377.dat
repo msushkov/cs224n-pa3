@@ -1,0 +1,88 @@
+---------gloss--------
+(0) [3m[31m{President Bush}[0m is going to be [1m[33m{meeting}[0m with [3m[32m{several Arab leaders}[0m . 
+(1) [1m[33m{That}[0m happens next hour in [1m[34m{a summit focusing on an Israeli - Palestinian peace initiative}[0m . 
+(2) [3m[31m{Mr. Bush}[0m is expected to win support for [1m[36m{his peace making campaign in the Middle East crisis}[0m . 
+(3) Earlier today , [3m[31m{he}[0m [3m[33m{said}[0m a solution should not be derailed by `` a few people a few killers , a few terrorists . '' 
+(4) Joining us now to discuss [3m[33m{that}[0m is [1m[35m{Rob Sabati , an adjunct professor at Georgetown University}[0m . 
+(5) Good to see [1m[35m{you}[0m this morning , [1m[35m{Professor}[0m . 
+(6) Are [1m[35m{you}[0m optimistic that [3m[31m{President Bush}[0m is actually going to , at this time , take the steps and say what has to be said to remove the skepticism that [3m[32m{the Arab leaders}[0m are bringing to [1m[34m{the summit}[0m ? 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0377); part 000
+sentences:
+PresidentPresidentNNPOPER0BushBushNNPPERSONPER0isbeVBZOPER0goinggoVBGOPER0totoTOOPER0bebeVBOPER0meetingmeetingNNOPER0withwithINOPER0severalseveralJJOPER0ArabArabNNPOPER0leadersleaderNNSOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Bush)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (NP (NP (NN meeting)) (PP (IN with) (NP (JJ several) (NNP Arab) (NNS leaders))))))))) (. .)))
+ThatthatDTOPER0happenshappenVBZOPER0nextnextJJOPER0hourhourNNOPER0ininINOPER0aaDTOPER0summitsummitNNOPER0focusingfocusVBGOPER0ononINOPER0anaDTOPER0IsraeliisraeliJJOPER0--HYPHOPER0PalestinianpalestinianJJOPER0peacepeaceNNOPER0initiativeinitiativeNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ happens) (NP (JJ next) (NN hour)) (PP (IN in) (NP (NP (DT a) (NN summit)) (VP (VBG focusing) (PP (IN on) (NP (DT an) (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NN initiative))))))) (. .)))
+Mr.Mr.NNPOPER0BushBushNNPPERSONPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0winwinVBOPER0supportsupportNNOPER0forforINOPER0hishePRP$OPER0peacepeaceNNOPER0makingmakeVBGOPER0campaigncampaignNNOPER0ininINOPER0thetheDTOPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0crisiscrisisNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Bush)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB win) (NP (NP (NN support)) (PP (IN for) (NP (PRP$ his) (ADJP (NN peace) (VBG making)) (NN campaign)))) (PP (IN in) (NP (DT the) (NML (NNP Middle) (NNP East)) (NN crisis)))))))) (. .)))
+EarlierearlierRBRDATEPER0todaytodayNNDATEPER0,,,OPER0hehePRPOPER0saidsayVBDOPER0aaDTOPER0solutionsolutionNNOPER0shouldshouldMDOPER0notnotRBOPER0bebeVBOPER0derailedderailVBDOPER0bybyINOPER0``````OaaDTOPER1fewfewJJOPER1peoplepeopleNNSOPER1aaDTOPER1fewfewJJOPER1killerskillerNNSOPER1,,,OPER1aaDTOPER1fewfewJJOPER1terroriststerroristNNSOPER1...OPER1''''''OPER0(ROOT (S (NP (ADVP (RBR Earlier)) (NN today)) (, ,) (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (DT a) (NN solution)) (VP (MD should) (RB not) (VP (VB be) (VP (VBD derailed) (PP (IN by) (`` ``) (NP (NP (DT a) (JJ few) (NNS people)) (NP (QP (DT a) (JJ few)) (NNS killers)) (, ,) (NP (QP (DT a) (JJ few)) (NNS terrorists)))))))))) (. .) ('' '')))
+JoiningjoinVBGOPER0uswePRPOPER0nownowRBOPER0totoTOOPER0discussdiscussVBOPER0thatthatDTOPER0isbeVBZOPER0RobRobNNPPERSONPER0SabatiSabatiNNPPERSONPER0,,,OPER0anaDTOPER0adjunctadjunctJJOPER0professorprofessorNNOPER0atatINOPER0GeorgetownGeorgetownNNPORGPER0UniversityUniversityNNPORGPER0...OPER0(ROOT (FRAG (VP (VBG Joining) (NP (PRP us)) (ADVP (RB now)) (S (VP (TO to) (VP (VB discuss) (SBAR (S (NP (DT that)) (VP (VBZ is) (NP (NP (NNP Rob) (NNP Sabati)) (, ,) (NP (NP (DT an) (JJ adjunct) (NN professor)) (PP (IN at) (NP (NNP Georgetown) (NNP University)))))))))))) (. .)))
+GoodgoodJJOPER0totoTOOPER0seeseeVBOPER0youyouPRPOPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0,,,OPER0ProfessorProfessorNNPOPER0...OPER0(ROOT (FRAG (ADJP (JJ Good) (S (VP (TO to) (VP (VB see) (NP (PRP you)) (NP (DT this) (NN morning)))))) (, ,) (NP (NNP Professor)) (. .)))
+ArebeVBPOPER0youyouPRPOPER0optimisticoptimisticJJOPER0thatthatINOPER0PresidentPresidentNNPOPER0BushBushNNPPERSONPER0isbeVBZOPER0actuallyactuallyRBOPER0goinggoVBGOPER0totoTOOPER0,,,OPER0atatINOPER0thisthisDTOPER0timetimeNNOPER0,,,OPER0taketakeVBOPER0thetheDTOPER0stepsstepNNSOPER0andandCCOPER0saysayVBOPER0whatwhatWPOPER0hashaveVBZOPER0totoTOOPER0bebeVBOPER0saidsayVBNOPER0totoTOOPER0removeremoveVBOPER0thetheDTOPER0skepticismskepticismNNOPER0thatthatINOPER0thetheDTOPER0ArabArabNNPOPER0leadersleaderNNSOPER0arebeVBPOPER0bringingbringVBGOPER0totoINOPER0thetheDTOPER0summitsummitNNOPER0??.OPER0(ROOT (SQ (VBP Are) (NP (PRP you)) (ADJP (JJ optimistic) (SBAR (IN that) (S (NP (NNP President) (NNP Bush)) (VP (VBZ is) (ADVP (RB actually)) (VP (VBG going) (S (VP (TO to) (VP (VP (, ,) (PP (IN at) (NP (DT this) (NN time))) (, ,) (VB take) (NP (DT the) (NNS steps))) (CC and) (VP (VB say) (SBAR (WHNP (WP what)) (S (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN said) (S (VP (TO to) (VP (VB remove) (NP (DT the) (NN skepticism) (SBAR (IN that) (S (NP (DT the) (NNP Arab) (NNS leaders)) (VP (VBP are) (VP (VBG bringing) (PP (IN to) (NP (DT the) (NN summit))))))))))))))))))))))))))) (. ?)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Bush))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NP (NN meeting)) (PP (IN with) (NP (JJ several) (NNP Arab) (NNS leaders))))
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (JJ several) (NNP Arab) (NNS leaders))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=1 spanning 5 until 15 headed by 6 parsed as (NP (NP (DT a) (NN summit)) (VP (VBG focusing) (PP (IN on) (NP (DT an) (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NN initiative)))))
+sid=1 spanning 9 until 15 headed by 14 parsed as (NP (DT an) (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NN initiative))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Bush))
+sid=2 spanning 8 until 9 headed by 8 parsed as his
+sid=2 spanning 8 until 17 headed by 9 parsed as peace
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=3 spanning 4 until 5 headed by 4 parsed as said
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (DT that))
+sid=4 spanning 7 until 16 headed by 8 parsed as (NP (NP (NNP Rob) (NNP Sabati)) (, ,) (NP (NP (DT an) (JJ adjunct) (NN professor)) (PP (IN at) (NP (NNP Georgetown) (NNP University)))))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (NNP Professor))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (NNP President) (NNP Bush))
+sid=6 spanning 30 until 33 headed by 32 parsed as (NP (DT the) (NNP Arab) (NNS leaders))
+sid=6 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN summit))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Bush))
+sid=0 spanning 6 until 11 headed by 6 parsed as (NP (NP (NN meeting)) (PP (IN with) (NP (JJ several) (NNP Arab) (NNS leaders))))
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (JJ several) (NNP Arab) (NNS leaders))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (JJ next) (NN hour))
+sid=1 spanning 5 until 15 headed by 6 parsed as (NP (NP (DT a) (NN summit)) (VP (VBG focusing) (PP (IN on) (NP (DT an) (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NN initiative)))))
+sid=1 spanning 9 until 15 headed by 14 parsed as (NP (DT an) (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NN initiative))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Bush))
+sid=2 spanning 6 until 12 headed by 6 parsed as (NP (NP (NN support)) (PP (IN for) (NP (PRP$ his) (ADJP (NN peace) (VBG making)) (NN campaign))))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (PRP$ his) (ADJP (NN peace) (VBG making)) (NN campaign))
+sid=2 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=2 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (NML (NNP Middle) (NNP East)) (NN crisis))
+sid=2 spanning 14 until 16 headed by 15 parsed as East
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (ADVP (RBR Earlier)) (NN today))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT a) (NN solution))
+sid=3 spanning 13 until 23 headed by 15 parsed as (NP (NP (DT a) (JJ few) (NNS people)) (NP (QP (DT a) (JJ few)) (NNS killers)) (, ,) (NP (QP (DT a) (JJ few)) (NNS terrorists)))
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (QP (DT a) (JJ few)) (NNS killers))
+sid=3 spanning 20 until 23 headed by 22 parsed as (NP (QP (DT a) (JJ few)) (NNS terrorists))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (PRP us))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (DT that))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NP (NNP Rob) (NNP Sabati)) (, ,) (NP (NP (DT an) (JJ adjunct) (NN professor)) (PP (IN at) (NP (NNP Georgetown) (NNP University)))))
+sid=4 spanning 7 until 16 headed by 8 parsed as (NP (NP (NNP Rob) (NNP Sabati)) (, ,) (NP (NP (DT an) (JJ adjunct) (NN professor)) (PP (IN at) (NP (NNP Georgetown) (NNP University)))))
+sid=4 spanning 10 until 16 headed by 12 parsed as (NP (NP (DT an) (JJ adjunct) (NN professor)) (PP (IN at) (NP (NNP Georgetown) (NNP University))))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (NNP Georgetown) (NNP University))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (DT this) (NN morning))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (NNP Professor))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (NNP President) (NNP Bush))
+sid=6 spanning 12 until 14 headed by 13 parsed as (NP (DT this) (NN time))
+sid=6 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NNS steps))
+sid=6 spanning 27 until 38 headed by 28 parsed as (NP (DT the) (NN skepticism) (SBAR (IN that) (S (NP (DT the) (NNP Arab) (NNS leaders)) (VP (VBP are) (VP (VBG bringing) (PP (IN to) (NP (DT the) (NN summit))))))))
+sid=6 spanning 30 until 33 headed by 32 parsed as (NP (DT the) (NNP Arab) (NNS leaders))
+sid=6 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN summit))
+(end predicted mentions)
+---------gold clusters--------
+1 3 | { 'meeting' 'That' }
+18 4 | { 'the summit' 'a summit focusing on an Israeli - Palestinian peace initiative' }
+12 15 13 14 | { 'Rob Sabati , an adjunct professor at Georgetown University' 'you' 'you' 'Professor' }
+5 8 | { 'an Israeli - Palestinian peace initiative' 'his peace making campaign in the Middle East crisis' }
+7 9 16 6 0 | { 'his' 'he' 'President Bush' 'Mr. Bush' 'President Bush' }
+17 2 | { 'the Arab leaders' 'several Arab leaders' }
+11 10 | { 'that' 'said' }
+(end gold clusters)

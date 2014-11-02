@@ -1,0 +1,90 @@
+---------gloss--------
+(0) [4m[33m{Robert J. Penn , president and chief executive officer ,}[0m will take early retirement from [4m[31m{this steelmaker}[0m Dec 31 . 
+(1) [3m[35m{William S. Leavitt , chairman ,}[0m said [4m[33m{Mr. Penn , 58 years old ,}[0m would continue as a consultant and would work with [3m[36m{the board}[0m in selecting a successor . 
+(2) [4m[31m{UNR}[0m recently emerged from bankruptcy - law proceedings that left 64 % of [4m[31m{the reorganized company 's}[0m common stock in the hands of trustees of an asbestos - disease claims trust . 
+(3) [4m[31m{The company}[0m said [4m[31m{it}[0m would have no further comment . 
+(4) [3m[35m{Mr. Leavitt , 37 ,}[0m was elected chairman earlier this year by [4m[31m{the company 's}[0m new board , having served as vice president for legal and corporate affairs . 
+(5) [3m[35m{His}[0m father , David S. Leavitt , was chairman and chief executive until [4m[32m{his}[0m death in an accident five years ago , at which time [4m[33m{Mr. Penn}[0m was named president . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1298); part 000
+sentences:
+RobertRobertNNPPERSONPER0J.J.NNPPERSONPER0PennPennNNPPERSONPER0,,,OPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0,,,OPER0willwillMDOPER0taketakeVBOPER0earlyearlyJJOPER0retirementretirementNNOPER0fromfromINOPER0thisthisDTOPER0steelmakersteelmakerNNOPER0DecDecNNPDATEPER03131CDDATEPER0...OPER0(ROOT (S (NP (NP (NNP Robert) (NNP J.) (NNP Penn)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (MD will) (VP (VB take) (NP (JJ early) (NN retirement)) (PP (IN from) (NP (DT this) (NN steelmaker)) (NP (NNP Dec) (CD 31))))) (. .)))
+WilliamWilliamNNPPERSONPER0S.S.NNPPERSONPER0LeavittLeavittNNPPERSONPER0,,,OPER0chairmanchairmanNNOPER0,,,OPER0saidsayVBDOPER0Mr.Mr.NNPOPER0PennPennNNPPERSONPER0,,,OPER05858CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0wouldwouldMDOPER0continuecontinueVBOPER0asasINOPER0aaDTOPER0consultantconsultantNNOPER0andandCCOPER0wouldwouldMDOPER0workworkVBOPER0withwithINOPER0thetheDTOPER0boardboardNNOPER0ininINOPER0selectingselectVBGOPER0aaDTOPER0successorsuccessorNNOPER0...OPER0(ROOT (S (NP (NP (NNP William) (NNP S.) (NNP Leavitt)) (, ,) (NP (NN chairman)) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NNP Mr.) (NNP Penn)) (, ,) (ADJP (NML (CD 58) (NNS years)) (JJ old)) (, ,)) (VP (VP (MD would) (VP (VB continue) (PP (IN as) (NP (DT a) (NN consultant))))) (CC and) (VP (MD would) (VP (VB work) (PP (IN with) (NP (DT the) (NN board))) (PP (IN in) (S (VP (VBG selecting) (NP (DT a) (NN successor))))))))))) (. .)))
+UNRUNRNNPORGPER0recentlyrecentlyRBOPER0emergedemergeVBDOPER0fromfromINOPER0bankruptcybankruptcyNNLAWPER0--HYPHLAWPER0lawlawNNLAWPER0proceedingsproceedingsNNSOPER0thatthatWDTOPER0leftleaveVBDOPER06464CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thetheDTOPER0reorganizedreorganizeVBNOPER0companycompanyNNOPER0's'sPOSOPER0commoncommonJJOPER0stockstockNNOPER0ininINOPER0thetheDTOPER0handshandNNSOPER0ofofINOPER0trusteestrusteeNNSOPER0ofofINOPER0anaDTOPER0asbestosasbestosNNOPER0--HYPHOPER0diseasediseaseNNOPER0claimsclaimNNSOPER0trusttrustNNOPER0...OPER0(ROOT (S (NP (NNP UNR)) (ADVP (RB recently)) (VP (VBD emerged) (PP (IN from) (NP (NP (NML (NN bankruptcy) (HYPH -) (NN law)) (NNS proceedings)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (NP (CD 64) (NN %)) (PP (IN of) (NP (NP (DT the) (VBN reorganized) (NN company) (POS 's)) (JJ common) (NN stock)))) (PP (IN in) (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (NP (NNS trustees)) (PP (IN of) (NP (DT an) (NML (NML (NN asbestos) (HYPH -) (NN disease)) (NNS claims)) (NN trust))))))))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0saidsayVBDOPER0ititPRPOPER0wouldwouldMDOPER0havehaveVBOPER0nonoDTOPER0furtherfurtherJJOPER0commentcommentNNOPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB have) (NP (DT no) (JJ further) (NN comment))))))) (. .)))
+Mr.Mr.NNPOPER0LeavittLeavittNNPPERSONPER0,,,OPER03737CDDATEPER0,,,OPER0wasbeVBDOPER0electedelectVBNOPER0chairmanchairmanNNOPER0earlierearlierRBRDATEPER0thisthisDTDATEPER0yearyearNNDATEPER0bybyINOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0newnewJJOPER0boardboardNNOPER0,,,OPER0havinghaveVBGOPER0servedserveVBNOPER0asasINOPER0viceviceNNOPER0presidentpresidentNNOPER0forforINOPER0legallegalJJOPER0andandCCOPER0corporatecorporateJJOPER0affairsaffairNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Leavitt)) (, ,) (NP (CD 37)) (, ,)) (VP (VBD was) (VP (VBN elected) (NP (NN chairman)) (NP (ADVP (RBR earlier)) (DT this) (NN year)) (PP (IN by) (NP (NP (DT the) (NN company) (POS 's)) (JJ new) (NN board))) (, ,) (S (VP (VBG having) (VP (VBN served) (PP (IN as) (NP (NP (NN vice) (NN president)) (PP (IN for) (NP (ADJP (JJ legal) (CC and) (JJ corporate)) (NNS affairs)))))))))) (. .)))
+HishePRP$OPER0fatherfatherNNOPER0,,,OPER0DavidDavidNNPPERSONPER0S.S.NNPPERSONPER0LeavittLeavittNNPPERSONPER0,,,OPER0wasbeVBDOPER0chairmanchairmanNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveNNOPER0untiluntilINOPER0hishePRP$OPER0deathdeathNNOPER0ininINOPER0anaDTOPER0accidentaccidentNNOPER0fivefiveCDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0,,,OPER0atatINOPER0whichwhichWDTOPER0timetimeNNOPER0Mr.Mr.NNPOPER0PennPennNNPPERSONPER0wasbeVBDOPER0namednameVBNOPER0presidentpresidentNNOPER0...OPER0(ROOT (S (NP (NP (PRP$ His) (NN father)) (, ,) (NP (NNP David) (NNP S.) (NNP Leavitt)) (, ,)) (VP (VBD was) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN until) (NP (PRP$ his) (NN death))) (PP (IN in) (NP (NP (DT an) (NN accident)) (ADVP (NP (CD five) (NNS years)) (RB ago)))) (, ,) (SBAR (WHPP (IN at) (WHNP (WDT which) (NN time))) (S (NP (NNP Mr.) (NNP Penn)) (VP (VBD was) (VP (VBN named) (S (NP (NN president)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Robert) (NNP J.) (NNP Penn)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (DT this) (NN steelmaker))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP William) (NNP S.) (NNP Leavitt)) (, ,) (NP (NN chairman)) (, ,))
+sid=1 spanning 7 until 14 headed by 8 parsed as (NP (NP (NNP Mr.) (NNP Penn)) (, ,) (ADJP (NML (CD 58) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN board))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP UNR))
+sid=2 spanning 13 until 17 headed by 15 parsed as (NP (DT the) (VBN reorganized) (NN company) (POS 's))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=4 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Leavitt)) (, ,) (NP (CD 37)) (, ,))
+sid=4 spanning 12 until 17 headed by 16 parsed as (NP (NP (DT the) (NN company) (POS 's)) (JJ new) (NN board))
+sid=4 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN company) (POS 's))
+sid=5 spanning 0 until 7 headed by 1 parsed as (NP (NP (PRP$ His) (NN father)) (, ,) (NP (NNP David) (NNP S.) (NNP Leavitt)) (, ,))
+sid=5 spanning 0 until 1 headed by 0 parsed as His
+sid=5 spanning 13 until 14 headed by 13 parsed as his
+sid=5 spanning 25 until 27 headed by 26 parsed as (NP (NNP Mr.) (NNP Penn))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Robert) (NNP J.) (NNP Penn)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,))
+sid=0 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Robert) (NNP J.) (NNP Penn)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,))
+sid=0 spanning 4 until 9 headed by 4 parsed as (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (DT this) (NN steelmaker))
+sid=0 spanning 17 until 19 headed by 17 parsed as (NP (NNP Dec) (CD 31))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP William) (NNP S.) (NNP Leavitt)) (, ,) (NP (NN chairman)) (, ,))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (NNP William) (NNP S.) (NNP Leavitt)) (, ,) (NP (NN chairman)) (, ,))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NP (NNP Mr.) (NNP Penn)) (, ,) (ADJP (NML (CD 58) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 7 until 14 headed by 8 parsed as (NP (NP (NNP Mr.) (NNP Penn)) (, ,) (ADJP (NML (CD 58) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP Mr.) (NNP Penn))
+sid=1 spanning 10 until 13 headed by 12 parsed as old
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (DT a) (NN consultant))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN board))
+sid=1 spanning 27 until 29 headed by 28 parsed as (NP (DT a) (NN successor))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP UNR))
+sid=2 spanning 4 until 31 headed by 7 parsed as (NP (NP (NML (NN bankruptcy) (HYPH -) (NN law)) (NNS proceedings)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (NP (CD 64) (NN %)) (PP (IN of) (NP (NP (DT the) (VBN reorganized) (NN company) (POS 's)) (JJ common) (NN stock)))) (PP (IN in) (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (NP (NNS trustees)) (PP (IN of) (NP (DT an) (NML (NML (NN asbestos) (HYPH -) (NN disease)) (NNS claims)) (NN trust)))))))))))
+sid=2 spanning 4 until 7 headed by 6 parsed as law
+sid=2 spanning 13 until 19 headed by 18 parsed as (NP (NP (DT the) (VBN reorganized) (NN company) (POS 's)) (JJ common) (NN stock))
+sid=2 spanning 13 until 17 headed by 15 parsed as (NP (DT the) (VBN reorganized) (NN company) (POS 's))
+sid=2 spanning 20 until 31 headed by 21 parsed as (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (NP (NNS trustees)) (PP (IN of) (NP (DT an) (NML (NML (NN asbestos) (HYPH -) (NN disease)) (NNS claims)) (NN trust))))))
+sid=2 spanning 23 until 31 headed by 23 parsed as (NP (NP (NNS trustees)) (PP (IN of) (NP (DT an) (NML (NML (NN asbestos) (HYPH -) (NN disease)) (NNS claims)) (NN trust))))
+sid=2 spanning 25 until 31 headed by 30 parsed as (NP (DT an) (NML (NML (NN asbestos) (HYPH -) (NN disease)) (NNS claims)) (NN trust))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT no) (JJ further) (NN comment))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Leavitt)) (, ,) (NP (CD 37)) (, ,))
+sid=4 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Leavitt)) (, ,) (NP (CD 37)) (, ,))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Leavitt))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (CD 37))
+sid=4 spanning 8 until 11 headed by 10 parsed as (NP (ADVP (RBR earlier)) (DT this) (NN year))
+sid=4 spanning 12 until 17 headed by 16 parsed as (NP (NP (DT the) (NN company) (POS 's)) (JJ new) (NN board))
+sid=4 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN company) (POS 's))
+sid=4 spanning 21 until 28 headed by 22 parsed as (NP (NP (NN vice) (NN president)) (PP (IN for) (NP (ADJP (JJ legal) (CC and) (JJ corporate)) (NNS affairs))))
+sid=4 spanning 24 until 28 headed by 27 parsed as (NP (ADJP (JJ legal) (CC and) (JJ corporate)) (NNS affairs))
+sid=5 spanning 0 until 7 headed by 1 parsed as (NP (NP (PRP$ His) (NN father)) (, ,) (NP (NNP David) (NNP S.) (NNP Leavitt)) (, ,))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ His) (NN father))
+sid=5 spanning 0 until 1 headed by 0 parsed as (PRP$ His)
+sid=5 spanning 3 until 6 headed by 5 parsed as (NP (NNP David) (NNP S.) (NNP Leavitt))
+sid=5 spanning 8 until 12 headed by 8 parsed as (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (NN executive)))
+sid=5 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ his) (NN death))
+sid=5 spanning 13 until 14 headed by 13 parsed as (PRP$ his)
+sid=5 spanning 16 until 21 headed by 17 parsed as (NP (NP (DT an) (NN accident)) (ADVP (NP (CD five) (NNS years)) (RB ago)))
+sid=5 spanning 18 until 21 headed by 20 parsed as ago
+sid=5 spanning 25 until 27 headed by 26 parsed as (NP (NNP Mr.) (NNP Penn))
+(end predicted mentions)
+---------gold clusters--------
+9 2 13 | { 'Mr. Leavitt , 37 ,' 'William S. Leavitt , chairman ,' 'His' }
+4 10 | { 'the board' 'the company 's new board' }
+7 8 6 11 1 5 | { 'The company' 'it' 'the reorganized company 's' 'the company 's' 'this steelmaker' 'UNR' }
+14 12 | { 'his' 'His father , David S. Leavitt ,' }
+0 3 15 | { 'Robert J. Penn , president and chief executive officer ,' 'Mr. Penn , 58 years old ,' 'Mr. Penn' }
+(end gold clusters)

@@ -1,0 +1,60 @@
+---------gloss--------
+(0) [1m[36m{A Pentagon commission}[0m has concluded that US commanders in [3m[31m{the Middle East}[0m must focus more on safety and recommends tighter security measures . 
+(1) [1m[36m{A panel appointed by Secretary of Defense William Cohen after the suicide bombing on the US destroyer Cole}[0m , reportedly found security lapses for ships and aircraft moving throughout [3m[31m{the region}[0m . 
+(2) [1m[34m{Cole}[0m , [1m[35m{attacked}[0m in the Yemeni port of Aden last October , resulted in the death of seventeen sailors and the wounding of thirty - nine others . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0208); part 000
+sentences:
+AaDTOPER0PentagonPentagonNNPORGPER0commissioncommissionNNOPER0hashaveVBZOPER0concludedconcludeVBNOPER0thatthatINOPER0USUSNNPGPEPER0commanderscommanderNNSOPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0mustmustMDOPER0focusfocusVBOPER0moremoreJJROPER0ononINOPER0safetysafetyNNOPER0andandCCOPER0recommendsrecommendVBZOPER0tightertighterJJROPER0securitysecurityNNOPER0measuresmeasureNNSOPER0...OPER0(ROOT (S (NP (DT A) (NNP Pentagon) (NN commission)) (VP (VP (VBZ has) (VP (VBN concluded) (SBAR (IN that) (S (NP (NP (NNP US) (NNS commanders)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))) (VP (MD must) (VP (VB focus) (NP (JJR more)) (PP (IN on) (NP (NN safety))))))))) (CC and) (VP (VBZ recommends) (NP (JJR tighter) (NN security) (NNS measures)))) (. .)))
+AaDTOPER0panelpanelNNOPER0appointedappointVBNOPER0bybyINOPER0SecretarySecretaryNNPOPER0ofofINOPER0DefenseDefenseNNPORGPER0WilliamWilliamNNPPERSONPER0CohenCohenNNPPERSONPER0afterafterINOPER0thetheDTOPER0suicidesuicideNNOPER0bombingbombingNNOPER0ononINOPER0thetheDTOPER0USUSNNPGPEPER0destroyerdestroyerNNOPER0ColeColeNNPPERSONPER0,,,OPER0reportedlyreportedlyRBOPER0foundfindVBDOPER0securitysecurityNNOPER0lapseslapseNNSOPER0forforINOPER0shipsshipNNSOPER0andandCCOPER0aircraftaircraftNNOPER0movingmoveVBGOPER0throughoutthroughoutINOPER0thetheDTOPER0regionregionNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (NN panel)) (VP (VBN appointed) (PP (IN by) (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP Defense) (NNP William) (NNP Cohen))))) (PP (IN after) (NP (NP (DT the) (NN suicide) (NN bombing)) (PP (IN on) (NP (NP (DT the) (NNP US) (NN destroyer)) (NP (NNP Cole)))))))) (, ,) (ADVP (RB reportedly)) (VP (VBD found) (S (NP (NP (NN security) (NNS lapses)) (PP (IN for) (NP (NNS ships) (CC and) (NN aircraft)))) (VP (VBG moving) (PP (IN throughout) (NP (DT the) (NN region)))))) (. .)))
+ColeColeNNPPERSONPER0,,,OPER0attackedattackVBNOPER0ininINOPER0thetheDTOPER0YemeniyemeniJJOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0lastlastJJDATEPER0OctoberOctoberNNPDATEPER0,,,OPER0resultedresultVBDOPER0ininINOPER0thetheDTOPER0deathdeathNNOPER0ofofINOPER0seventeenseventeenCDOPER0sailorssailorNNSOPER0andandCCOPER0thetheDTOPER0woundingwoundVBGOPER0ofofINOPER0thirtythirtyCDDATEPER0--HYPHOPER0ninenineCDCARDINALPER0othersotherNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Cole)) (, ,) (VP (VBN attacked) (PP (IN in) (NP (NP (DT the) (JJ Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))) (NP (JJ last) (NNP October))) (, ,)) (VP (VBD resulted) (PP (IN in) (NP (NP (NP (DT the) (NN death)) (PP (IN of) (NP (CD seventeen) (NNS sailors)))) (CC and) (NP (NP (DT the) (VBG wounding)) (PP (IN of) (NP (QP (CD thirty) (HYPH -) (CD nine)) (NNS others))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Pentagon) (NN commission))
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=1 spanning 0 until 18 headed by 1 parsed as (NP (NP (DT A) (NN panel)) (VP (VBN appointed) (PP (IN by) (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP Defense) (NNP William) (NNP Cohen))))) (PP (IN after) (NP (NP (DT the) (NN suicide) (NN bombing)) (PP (IN on) (NP (NP (DT the) (NNP US) (NN destroyer)) (NP (NNP Cole))))))))
+sid=1 spanning 10 until 18 headed by 12 parsed as (NP (NP (DT the) (NN suicide) (NN bombing)) (PP (IN on) (NP (NP (DT the) (NNP US) (NN destroyer)) (NP (NNP Cole)))))
+sid=1 spanning 14 until 18 headed by 16 parsed as (NP (NP (DT the) (NNP US) (NN destroyer)) (NP (NNP Cole)))
+sid=1 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN region))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Cole)) (, ,) (VP (VBN attacked) (PP (IN in) (NP (NP (DT the) (JJ Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))) (NP (JJ last) (NNP October))) (, ,))
+sid=2 spanning 2 until 3 headed by 2 parsed as attacked
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Pentagon) (NN commission))
+sid=0 spanning 1 until 2 headed by 1 parsed as Pentagon
+sid=0 spanning 6 until 12 headed by 7 parsed as (NP (NP (NNP US) (NNS commanders)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))
+sid=0 spanning 6 until 7 headed by 6 parsed as US
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (JJR more))
+sid=0 spanning 19 until 22 headed by 21 parsed as (NP (JJR tighter) (NN security) (NNS measures))
+sid=1 spanning 0 until 18 headed by 1 parsed as (NP (NP (DT A) (NN panel)) (VP (VBN appointed) (PP (IN by) (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP Defense) (NNP William) (NNP Cohen))))) (PP (IN after) (NP (NP (DT the) (NN suicide) (NN bombing)) (PP (IN on) (NP (NP (DT the) (NNP US) (NN destroyer)) (NP (NNP Cole))))))))
+sid=1 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNP Secretary)) (PP (IN of) (NP (NNP Defense) (NNP William) (NNP Cohen))))
+sid=1 spanning 6 until 9 headed by 8 parsed as (NP (NNP Defense) (NNP William) (NNP Cohen))
+sid=1 spanning 6 until 7 headed by 6 parsed as Defense
+sid=1 spanning 10 until 18 headed by 12 parsed as (NP (NP (DT the) (NN suicide) (NN bombing)) (PP (IN on) (NP (NP (DT the) (NNP US) (NN destroyer)) (NP (NNP Cole)))))
+sid=1 spanning 14 until 18 headed by 16 parsed as (NP (NP (DT the) (NNP US) (NN destroyer)) (NP (NNP Cole)))
+sid=1 spanning 15 until 16 headed by 15 parsed as US
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Cole))
+sid=1 spanning 21 until 27 headed by 22 parsed as (NP (NP (NN security) (NNS lapses)) (PP (IN for) (NP (NNS ships) (CC and) (NN aircraft))))
+sid=1 spanning 24 until 27 headed by 24 parsed as (NP (NNS ships) (CC and) (NN aircraft))
+sid=1 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN region))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Cole)) (, ,) (VP (VBN attacked) (PP (IN in) (NP (NP (DT the) (JJ Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))) (NP (JJ last) (NNP October))) (, ,))
+sid=2 spanning 0 until 12 headed by 0 parsed as (NP (NP (NNP Cole)) (, ,) (VP (VBN attacked) (PP (IN in) (NP (NP (DT the) (JJ Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))) (NP (JJ last) (NNP October))) (, ,))
+sid=2 spanning 4 until 9 headed by 6 parsed as (NP (NP (DT the) (JJ Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNP Aden))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (JJ last) (NNP October))
+sid=2 spanning 14 until 27 headed by 15 parsed as (NP (NP (NP (DT the) (NN death)) (PP (IN of) (NP (CD seventeen) (NNS sailors)))) (CC and) (NP (NP (DT the) (VBG wounding)) (PP (IN of) (NP (QP (CD thirty) (HYPH -) (CD nine)) (NNS others)))))
+sid=2 spanning 14 until 19 headed by 15 parsed as (NP (NP (DT the) (NN death)) (PP (IN of) (NP (CD seventeen) (NNS sailors))))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (CD seventeen) (NNS sailors))
+sid=2 spanning 20 until 27 headed by 20 parsed as (NP (NP (DT the) (VBG wounding)) (PP (IN of) (NP (QP (CD thirty) (HYPH -) (CD nine)) (NNS others))))
+sid=2 spanning 23 until 27 headed by 26 parsed as (NP (QP (CD thirty) (HYPH -) (CD nine)) (NNS others))
+sid=2 spanning 23 until 24 headed by 23 parsed as thirty
+(end predicted mentions)
+---------gold clusters--------
+4 6 | { 'the US destroyer Cole' 'Cole' }
+3 7 | { 'the suicide bombing on the US destroyer Cole' 'attacked' }
+0 2 | { 'A Pentagon commission' 'A panel appointed by Secretary of Defense William Cohen after the suicide bombing on the US destroyer Cole' }
+1 5 | { 'the Middle East' 'the region' }
+(end gold clusters)

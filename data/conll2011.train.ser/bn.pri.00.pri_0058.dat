@@ -1,0 +1,133 @@
+---------gloss--------
+(0) Israel has [4m[35m{fired}[0m on [3m[34m{offices of the Palestinian Authority}[0m injuring 62 people . 
+(1) The Israeli Army says [4m[35m{it}[0m 's retaliation for [4m[33m{a bomb attack on an Israeli school bus in the occupied Gaza Strip}[0m . 
+(2) [3m[35m{NPR 's}[0m Jennifer Laden reports from [4m[34m{Jerusalem}[0m . 
+(3) Israeli helicopter gun ships [4m[35m{fired}[0m across [3m[32m{the Gaza Strip}[0m for more than two hours , hitting [3m[34m{the offices of the Palestinian police , security services and Yasser Arafat 's political party , Fatah}[0m . 
+(4) Israeli defense officials accused [3m[33m{Fatah}[0m of carrying out [4m[33m{the bus attack}[0m . 
+(5) Though provided no evidence , [3m[33m{Fatah}[0m officials denied the link . 
+(6) [4m[33m{The bus bombing}[0m killed two Jewish settlers including a schoolteacher and also wounded nine others , including several children . 
+(7) [4m[31m{A brother and sister}[0m had to have parts of [4m[31m{their}[0m legs and feet amputated . 
+(8) Angry settlers gathered around [3m[36m{the bus with its melon - sized holes}[0m , denouncing Israeli Prime Minister Ehud Barak for exercising too much restraint , but Palestinians warned that [4m[35m{the missile attacks in Gaza}[0m would dangerously escalate their two - month - old conflict . 
+(9) [4m[32m{Jennifer Laden}[0m , [3m[35m{NPR News}[0m , [4m[34m{Jerusalem}[0m . 
+(10) Elsewhere , a Palestinian was killed in clashes that erupted in [3m[32m{Gaza}[0m hours after [4m[33m{the bomb attack}[0m . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0058); part 000
+sentences:
+IsraelIsraelNNPGPEPER0hashaveVBZOPER0firedfireVBDOPER0ononINOPER0officesofficeNNSOPER0ofofINOPER0thetheDTORGPER0PalestinianPalestinianNNPORGPER0AuthorityAuthorityNNPORGPER0injuringinjureVBGOPER06262CDCARDINALPER0peoplepeopleNNSOPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBZ has) (VP (VBD fired) (PP (IN on) (NP (NP (NNS offices)) (PP (IN of) (NP (DT the) (NNP Palestinian) (NNP Authority))))) (S (VP (VBG injuring) (NP (CD 62) (NNS people)))))) (. .)))
+ThetheDTOPER0IsraeliisraeliJJOPER0ArmyArmyNNPORGPER0sayssayVBZOPER0ititPRPOPER0'sbeVBZOPER0retaliationretaliationNNOPER0forforINOPER0aaDTOPER0bombbombNNOPER0attackattackNNOPER0ononINOPER0anaDTOPER0IsraeliisraeliJJOPER0schoolschoolNNOPER0busbusNNOPER0ininINOPER0thetheDTOPER0occupiedoccupiedJJOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (DT The) (JJ Israeli) (NNP Army)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN retaliation)) (PP (IN for) (NP (NP (DT a) (NN bomb) (NN attack)) (PP (IN on) (NP (DT an) (JJ Israeli) (NN school) (NN bus))) (PP (IN in) (NP (DT the) (JJ occupied) (NNP Gaza) (NNP Strip)))))))))) (. .)))
+NPRNPRNNPORGPER0's'sPOSOPER0JenniferJenniferNNPPERSONPER0LadenLadenNNPPERSONPER0reportsreportVBZOPER0fromfromINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP NPR) (POS 's)) (NNP Jennifer) (NNP Laden)) (VP (VBZ reports) (PP (IN from) (NP (NNP Jerusalem)))) (. .)))
+IsraeliisraeliJJOPER0helicopterhelicopterNNOPER0gungunNNOPER0shipsshipNNSOPER0firedfireVBDOPER0acrossacrossINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0forforINOPER0moremoreJJRTIMEPER0thanthanINTIMEPER0twotwoCDTIMEPER0hourshourNNSTIMEPER0,,,OPER0hittinghitVBGOPER0thetheDTOPER0officesofficeNNSOPER0ofofINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0policepoliceNNSOPER0,,,OPER0securitysecurityNNOPER0servicesserviceNNSOPER0andandCCOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0's'sPOSPERSONPER0politicalpoliticalJJOPER0partypartyNNOPER0,,,OPER0FatahFatahNNPORGPER0...OPER0(ROOT (S (NP (JJ Israeli) (NN helicopter) (NN gun) (NNS ships)) (VP (VBD fired) (PP (IN across) (NP (DT the) (NNP Gaza) (NNP Strip))) (PP (IN for) (NP (QP (XS (JJR more) (IN than)) (CD two)) (NNS hours))) (, ,) (S (VP (VBG hitting) (NP (NP (DT the) (NNS offices)) (PP (IN of) (NP (NP (DT the) (JJ Palestinian) (NNS police)) (, ,) (NP (NN security) (NNS services)) (CC and) (NP (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (JJ political) (NN party)) (, ,) (NP (NNP Fatah))))))))) (. .)))
+IsraeliisraeliJJOPER0defensedefenseNNOPER0officialsofficialNNSOPER0accusedaccuseVBDOPER0FatahFatahNNPORGPER0ofofINOPER0carryingcarryVBGOPER0outoutRPOPER0thetheDTOPER0busbusNNOPER0attackattackNNOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NN defense) (NNS officials)) (VP (VBD accused) (NP (NNP Fatah)) (PP (IN of) (S (VP (VBG carrying) (PRT (RP out)) (NP (DT the) (NN bus) (NN attack)))))) (. .)))
+ThoughthoughINOPER0providedprovideVBDOPER0nonoDTOPER0evidenceevidenceNNOPER0,,,OPER0FatahFatahNNPORGPER0officialsofficialNNSOPER0denieddenyVBDOPER0thetheDTOPER0linklinkNNOPER0...OPER0(ROOT (S (SBAR (IN Though) (S (VP (VBD provided) (NP (DT no) (NN evidence))))) (, ,) (NP (NNP Fatah) (NNS officials)) (VP (VBD denied) (NP (DT the) (NN link))) (. .)))
+ThetheDTOPER0busbusNNOPER0bombingbombingNNOPER0killedkillVBDOPER0twotwoCDCARDINALPER0JewishjewishJJOPER0settlerssettlerNNSOPER0includingincludeVBGOPER0aaDTOPER0schoolteacherschoolteacherNNOPER0andandCCOPER0alsoalsoRBOPER0woundedwoundVBDOPER0ninenineCDCARDINALPER0othersotherNNSOPER0,,,OPER0includingincludeVBGOPER0severalseveralJJOPER0childrenchildNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN bus) (NN bombing)) (VP (VP (VBD killed) (NP (CD two) (JJ Jewish) (NNS settlers)) (PP (VBG including) (NP (DT a) (NN schoolteacher)))) (CC and) (ADVP (RB also)) (VP (VBD wounded) (NP (NP (CD nine) (NNS others)) (, ,) (PP (VBG including) (NP (JJ several) (NNS children)))))) (. .)))
+AaDTOPER0brotherbrotherNNOPER0andandCCOPER0sistersisterNNOPER0hadhaveVBDOPER0totoTOOPER0havehaveVBOPER0partspartNNSOPER0ofofINOPER0theirtheyPRP$OPER0legslegNNSOPER0andandCCOPER0feetfootNNSOPER0amputatedamputateVBNOPER0...OPER0(ROOT (S (NP (DT A) (NN brother) (CC and) (NN sister)) (VP (VBD had) (S (VP (TO to) (VP (VB have) (S (NP (NP (NNS parts)) (PP (IN of) (NP (PRP$ their) (NNS legs) (CC and) (NNS feet)))) (VP (VBN amputated))))))) (. .)))
+AngryangryJJOPER0settlerssettlerNNSOPER0gatheredgatherVBDOPER0aroundaroundINOPER0thetheDTOPER0busbusNNOPER0withwithINOPER0itsitsPRP$OPER0melonmelonNNOPER0--HYPHOPER0sizedsizedJJOPER0holesholeNNSOPER0,,,OPER0denouncingdenounceVBGOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0forforINOPER0exercisingexerciseVBGOPER0tootooRBOPER0muchmuchJJOPER0restraintrestraintNNOPER0,,,OPER0butbutCCOPER0PalestiniansPalestiniansNNPSOPER0warnedwarnVBDOPER0thatthatINOPER0thetheDTOPER0missilemissileNNOPER0attacksattackNNSOPER0ininINOPER0GazaGazaNNPGPEPER0wouldwouldMDOPER0dangerouslydangerouslyRBOPER0escalateescalateVBOPER0theirtheyPRP$OPER0twotwoCDDATEPER0--HYPHDATEPER0monthmonthNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0conflictconflictNNOPER0...OPER0(ROOT (S (S (NP (JJ Angry) (NNS settlers)) (VP (VBD gathered) (PP (IN around) (NP (DT the) (NN bus))) (PP (IN with) (NP (PRP$ its) (ADJP (NN melon) (HYPH -) (JJ sized)) (NNS holes))) (, ,) (S (VP (VBG denouncing) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (PP (IN for) (S (VP (VBG exercising) (NP (ADJP (RB too) (JJ much)) (NN restraint))))))))) (, ,) (CC but) (S (NP (NNPS Palestinians)) (VP (VBD warned) (SBAR (IN that) (S (NP (NP (DT the) (NN missile) (NNS attacks)) (PP (IN in) (NP (NNP Gaza)))) (VP (MD would) (RB dangerously) (VP (VB escalate) (NP (PRP$ their) (ADJP (NML (CD two) (HYPH -) (NN month)) (HYPH -) (JJ old)) (NN conflict)))))))) (. .)))
+JenniferJenniferNNPPERSONPER0LadenLadenNNPPERSONPER0,,,OPER0NPRNPRNNPORGPER0NewsNewsNNPORGPER0,,,OPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Jennifer) (NNP Laden)) (, ,) (NP (NNP NPR) (NNP News)) (, ,) (NP (NNP Jerusalem)) (. .)))
+ElsewhereelsewhereRBOPER0,,,OPER0aaDTOPER0PalestinianPalestinianNNPOPER0wasbeVBDOPER0killedkillVBNOPER0ininINOPER0clashesclashNNSOPER0thatthatWDTOPER0eruptederuptVBDOPER0ininINOPER0GazaGazaNNPLOCPER0hourshourNNSTIMEPER0afterafterINOPER0thetheDTOPER0bombbombNNOPER0attackattackNNOPER0...OPER0(ROOT (S (ADVP (RB Elsewhere)) (, ,) (NP (DT a) (NNP Palestinian)) (VP (VBD was) (VP (VBN killed) (PP (IN in) (NP (NP (NNS clashes)) (SBAR (WHNP (WDT that)) (S (VP (VBD erupted) (PP (IN in) (NP (NNP Gaza))) (PP (NP (NNS hours)) (IN after) (NP (DT the) (NN bomb) (NN attack)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 3 headed by 2 parsed as fired
+sid=0 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNS offices)) (PP (IN of) (NP (DT the) (NNP Palestinian) (NNP Authority))))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=1 spanning 8 until 21 headed by 10 parsed as (NP (NP (DT a) (NN bomb) (NN attack)) (PP (IN on) (NP (DT an) (JJ Israeli) (NN school) (NN bus))) (PP (IN in) (NP (DT the) (JJ occupied) (NNP Gaza) (NNP Strip))))
+sid=1 spanning 12 until 21 headed by 15 parsed as (NP (DT an) (JJ Israeli) (NN school) (NN bus))
+sid=1 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (JJ occupied) (NNP Gaza) (NNP Strip))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP NPR) (POS 's)) (NNP Jennifer) (NNP Laden))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP NPR) (POS 's))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+sid=3 spanning 4 until 5 headed by 4 parsed as fired
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=3 spanning 16 until 33 headed by 17 parsed as (NP (NP (DT the) (NNS offices)) (PP (IN of) (NP (NP (DT the) (JJ Palestinian) (NNS police)) (, ,) (NP (NN security) (NNS services)) (CC and) (NP (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (JJ political) (NN party)) (, ,) (NP (NNP Fatah))))))
+sid=3 spanning 26 until 33 headed by 30 parsed as (NP (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (JJ political) (NN party)) (, ,) (NP (NNP Fatah)))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNP Fatah))
+sid=4 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN bus) (NN attack))
+sid=5 spanning 5 until 6 headed by 5 parsed as Fatah
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN bus) (NN bombing))
+sid=7 spanning 0 until 4 headed by 1 parsed as (NP (DT A) (NN brother) (CC and) (NN sister))
+sid=7 spanning 9 until 10 headed by 9 parsed as their
+sid=8 spanning 4 until 12 headed by 5 parsed as (NP (DT the) (NN bus))
+sid=8 spanning 7 until 8 headed by 7 parsed as its
+sid=8 spanning 29 until 34 headed by 31 parsed as (NP (NP (DT the) (NN missile) (NNS attacks)) (PP (IN in) (NP (NNP Gaza))))
+sid=8 spanning 33 until 34 headed by 33 parsed as (NP (NNP Gaza))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jennifer) (NNP Laden))
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (NNP NPR) (NNP News))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+sid=10 spanning 11 until 12 headed by 11 parsed as (NP (NNP Gaza))
+sid=10 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NN bomb) (NN attack))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=0 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNS offices)) (PP (IN of) (NP (DT the) (NNP Palestinian) (NNP Authority))))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Palestinian) (NNP Authority))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (CD 62) (NNS people))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Israeli) (NNP Army))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=1 spanning 6 until 21 headed by 6 parsed as (NP (NP (NN retaliation)) (PP (IN for) (NP (NP (DT a) (NN bomb) (NN attack)) (PP (IN on) (NP (DT an) (JJ Israeli) (NN school) (NN bus))) (PP (IN in) (NP (DT the) (JJ occupied) (NNP Gaza) (NNP Strip))))))
+sid=1 spanning 8 until 21 headed by 10 parsed as (NP (NP (DT a) (NN bomb) (NN attack)) (PP (IN on) (NP (DT an) (JJ Israeli) (NN school) (NN bus))) (PP (IN in) (NP (DT the) (JJ occupied) (NNP Gaza) (NNP Strip))))
+sid=1 spanning 12 until 16 headed by 15 parsed as (NP (DT an) (JJ Israeli) (NN school) (NN bus))
+sid=1 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (JJ occupied) (NNP Gaza) (NNP Strip))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP NPR) (POS 's)) (NNP Jennifer) (NNP Laden))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP NPR) (POS 's))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (JJ Israeli) (NN helicopter) (NN gun) (NNS ships))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=3 spanning 10 until 14 headed by 13 parsed as (NP (QP (XS (JJR more) (IN than)) (CD two)) (NNS hours))
+sid=3 spanning 16 until 33 headed by 17 parsed as (NP (NP (DT the) (NNS offices)) (PP (IN of) (NP (NP (DT the) (JJ Palestinian) (NNS police)) (, ,) (NP (NN security) (NNS services)) (CC and) (NP (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (JJ political) (NN party)) (, ,) (NP (NNP Fatah))))))
+sid=3 spanning 19 until 33 headed by 21 parsed as (NP (NP (DT the) (JJ Palestinian) (NNS police)) (, ,) (NP (NN security) (NNS services)) (CC and) (NP (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (JJ political) (NN party)) (, ,) (NP (NNP Fatah))))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (JJ Palestinian) (NNS police))
+sid=3 spanning 23 until 25 headed by 24 parsed as (NP (NN security) (NNS services))
+sid=3 spanning 26 until 33 headed by 30 parsed as (NP (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (JJ political) (NN party)) (, ,) (NP (NNP Fatah)))
+sid=3 spanning 26 until 31 headed by 30 parsed as (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (JJ political) (NN party))
+sid=3 spanning 26 until 29 headed by 27 parsed as (NP (NNP Yasser) (NNP Arafat) (POS 's))
+sid=3 spanning 32 until 33 headed by 32 parsed as (NP (NNP Fatah))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (JJ Israeli) (NN defense) (NNS officials))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNP Fatah))
+sid=4 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN bus) (NN attack))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT no) (NN evidence))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (NNP Fatah) (NNS officials))
+sid=5 spanning 5 until 6 headed by 5 parsed as Fatah
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN link))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN bus) (NN bombing))
+sid=6 spanning 4 until 7 headed by 6 parsed as (NP (CD two) (JJ Jewish) (NNS settlers))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN schoolteacher))
+sid=6 spanning 13 until 19 headed by 14 parsed as (NP (NP (CD nine) (NNS others)) (, ,) (PP (VBG including) (NP (JJ several) (NNS children))))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (CD nine) (NNS others))
+sid=6 spanning 17 until 19 headed by 18 parsed as (NP (JJ several) (NNS children))
+sid=7 spanning 0 until 4 headed by 1 parsed as (NP (DT A) (NN brother) (CC and) (NN sister))
+sid=7 spanning 7 until 13 headed by 7 parsed as (NP (NP (NNS parts)) (PP (IN of) (NP (PRP$ their) (NNS legs) (CC and) (NNS feet))))
+sid=7 spanning 9 until 13 headed by 10 parsed as (NP (PRP$ their) (NNS legs) (CC and) (NNS feet))
+sid=7 spanning 9 until 10 headed by 9 parsed as (PRP$ their)
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (JJ Angry) (NNS settlers))
+sid=8 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN bus))
+sid=8 spanning 7 until 12 headed by 11 parsed as (NP (PRP$ its) (ADJP (NN melon) (HYPH -) (JJ sized)) (NNS holes))
+sid=8 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=8 spanning 14 until 19 headed by 18 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=8 spanning 21 until 24 headed by 23 parsed as (NP (ADJP (RB too) (JJ much)) (NN restraint))
+sid=8 spanning 29 until 34 headed by 31 parsed as (NP (NP (DT the) (NN missile) (NNS attacks)) (PP (IN in) (NP (NNP Gaza))))
+sid=8 spanning 33 until 34 headed by 33 parsed as (NP (NNP Gaza))
+sid=8 spanning 37 until 44 headed by 43 parsed as (NP (PRP$ their) (ADJP (NML (CD two) (HYPH -) (NN month)) (HYPH -) (JJ old)) (NN conflict))
+sid=8 spanning 37 until 38 headed by 37 parsed as (PRP$ their)
+sid=8 spanning 38 until 43 headed by 42 parsed as old
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jennifer) (NNP Laden))
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (NNP NPR) (NNP News))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+sid=10 spanning 2 until 4 headed by 3 parsed as (NP (DT a) (NNP Palestinian))
+sid=10 spanning 7 until 17 headed by 7 parsed as (NP (NP (NNS clashes)) (SBAR (WHNP (WDT that)) (S (VP (VBD erupted) (PP (IN in) (NP (NNP Gaza))) (PP (NP (NNS hours)) (IN after) (NP (DT the) (NN bomb) (NN attack)))))))
+sid=10 spanning 11 until 12 headed by 11 parsed as (NP (NNP Gaza))
+sid=10 spanning 12 until 13 headed by 12 parsed as (NP (NNS hours))
+sid=10 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NN bomb) (NN attack))
+(end predicted mentions)
+---------gold clusters--------
+10 26 22 5 | { 'the Gaza Strip' 'Gaza' 'Gaza' 'the occupied Gaza Strip' }
+15 12 13 | { 'Fatah' 'Yasser Arafat 's political party , Fatah' 'Fatah' }
+11 1 | { 'the offices of the Palestinian police , security services and Yasser Arafat 's political party , Fatah' 'offices of the Palestinian Authority' }
+7 24 | { 'NPR 's' 'NPR News' }
+20 19 4 | { 'its' 'the bus with its melon - sized holes' 'an Israeli school bus in the occupied Gaza Strip' }
+17 18 | { 'A brother and sister' 'their' }
+23 6 | { 'Jennifer Laden' 'NPR 's Jennifer Laden' }
+14 27 16 3 | { 'the bus attack' 'the bomb attack' 'The bus bombing' 'a bomb attack on an Israeli school bus in the occupied Gaza Strip' }
+8 25 | { 'Jerusalem' 'Jerusalem' }
+9 2 21 0 | { 'fired' 'it' 'the missile attacks in Gaza' 'fired' }
+(end gold clusters)

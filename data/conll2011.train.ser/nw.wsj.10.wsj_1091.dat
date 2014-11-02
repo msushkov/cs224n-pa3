@@ -1,0 +1,146 @@
+---------gloss--------
+(0) [3m[33m{Quickview Systems Inc.}[0m said [3m[33m{it}[0m [3m[32m{filed}[0m [1m[36m{a lawsuit}[0m against [1m[35m{Apple Computer Inc.}[0m , [3m[34m{claiming}[0m patent infringement in an element of [1m[35m{Apple 's}[0m popular HyperCard software program . 
+(1) [1m[36m{The suit , filed in Minneapolis federal court ,}[0m [3m[34m{claims}[0m that [1m[35m{Apple}[0m violated a [3m[33m{Quickview}[0m patent that allows computer users to display `` only portions of multiple fields on a computer screen with the ability to see the entire contents of any given field . '' 
+(2) [1m[33m{The HyperCard program}[0m allows users to design applications for Macintosh computers without having to be hardcore programmers and is distributed with every Macintosh sold . 
+(3) [1m[33m{It}[0m 's one of the most popular computer programs of all time , but analysts said [1m[36m{the Quickview suit}[0m does n't appear to bode major difficulties for [1m[35m{Apple}[0m . 
+(4) The technology at issue `` is not an underlying technology of [1m[33m{HyperCard}[0m to [1m[34m{my}[0m knowledge , '' said [1m[34m{Danny Goodman , a San Francisco - area HyperCard program developer}[0m . 
+(5) Nonetheless , [1m[36m{the suit}[0m seeks unspecified damages that an attorney for [3m[33m{Quickview}[0m claimed could run into the millions of dollars . 
+(6) In Cupertino , [3m[31m{Calif.}[0m , [1m[35m{Apple}[0m said that [1m[35m{it}[0m believes [1m[36m{the case}[0m has no merit , and that [1m[33m{HyperCard}[0m does not infringe `` any valid claims '' of the [3m[33m{Quickview}[0m patents . 
+(7) [1m[35m{It}[0m said [1m[35m{it}[0m filed an action of [1m[35m{its}[0m own in federal court in San Jose , [3m[31m{Calif.}[0m , seeking a declaration that [3m[33m{Quickview 's}[0m claims are invalid . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1091); part 000
+sentences:
+QuickviewQuickviewNNPORGPER0SystemsSystemsNNPSORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0filedfileVBDOPER0aaDTOPER0lawsuitlawsuitNNOPER0againstagainstINOPER0AppleAppleNNPORGPER0ComputerComputerNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0claimingclaimVBGOPER0patentpatentNNOPER0infringementinfringementNNOPER0ininINOPER0anaDTOPER0elementelementNNOPER0ofofINOPER0AppleAppleNNPORGPER0's'sPOSOPER0popularpopularJJOPER0HyperCardHyperCardNNPPRODUCTPER0softwaresoftwareNNOPER0programprogramNNOPER0...OPER0(ROOT (S (NP (NNP Quickview) (NNPS Systems) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD filed) (NP (DT a) (NN lawsuit)) (PP (IN against) (NP (NNP Apple) (NNP Computer) (NNP Inc.))) (, ,) (S (VP (VBG claiming) (NP (NN patent) (NN infringement)) (PP (IN in) (NP (NP (DT an) (NN element)) (PP (IN of) (NP (NP (NNP Apple) (POS 's)) (JJ popular) (NNP HyperCard) (NN software) (NN program))))))))))) (. .)))
+ThetheDTOPER0suitsuitNNOPER0,,,OPER0filedfileVBNOPER0ininINOPER0MinneapolisMinneapolisNNPGPEPER0federalfederalJJOPER0courtcourtNNOPER0,,,OPER0claimsclaimVBZOPER0thatthatINOPER0AppleAppleNNPORGPER0violatedviolateVBDOPER0aaDTOPER0QuickviewQuickviewNNPORGPER0patentpatentNNOPER0thatthatWDTOPER0allowsallowVBZOPER0computercomputerNNOPER0usersuserNNSOPER0totoTOOPER0displaydisplayVBOPER0``````OonlyonlyRBOPER1portionsportionNNSOPER1ofofINOPER1multiplemultipleJJOPER1fieldsfieldNNSOPER1ononINOPER1aaDTOPER1computercomputerNNOPER1screenscreenNNOPER1withwithINOPER1thetheDTOPER1abilityabilityNNOPER1totoTOOPER1seeseeVBOPER1thetheDTOPER1entireentireJJOPER1contentscontentsNNSOPER1ofofINOPER1anyanyDTOPER1givengiveVBNOPER1fieldfieldNNOPER1...OPER1''''''OPER0(ROOT (S (NP (NP (DT The) (NN suit)) (, ,) (VP (VBN filed) (PP (IN in) (NP (NNP Minneapolis) (JJ federal) (NN court)))) (, ,)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NNP Apple)) (VP (VBD violated) (NP (NP (DT a) (NNP Quickview) (NN patent)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (NP (NN computer) (NNS users)) (VP (TO to) (VP (VB display) (NP (NP (`` ``) (RB only) (NNS portions)) (PP (IN of) (NP (JJ multiple) (NNS fields)))) (PP (IN on) (NP (NP (DT a) (NN computer) (NN screen)) (PP (IN with) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB see) (NP (NP (DT the) (JJ entire) (NNS contents)) (PP (IN of) (NP (DT any) (VBN given) (NN field)))))))))))))))))))))) (. .) ('' '')))
+ThetheDTOPER0HyperCardHyperCardNNPPRODUCTPER0programprogramNNOPER0allowsallowVBZOPER0usersuserNNSOPER0totoTOOPER0designdesignVBOPER0applicationsapplicationNNSOPER0forforINOPER0MacintoshMacintoshNNPORGPER0computerscomputerNNSOPER0withoutwithoutINOPER0havinghaveVBGOPER0totoTOOPER0bebeVBOPER0hardcorehardcoreJJOPER0programmersprogrammerNNSOPER0andandCCOPER0isbeVBZOPER0distributeddistributeVBNOPER0withwithINOPER0everyeveryDTOPER0MacintoshMacintoshNNPORGPER0soldsellVBNOPER0...OPER0(ROOT (S (NP (DT The) (NNP HyperCard) (NN program)) (VP (VP (VBZ allows) (S (NP (NNS users)) (VP (TO to) (VP (VB design) (NP (NP (NNS applications)) (PP (IN for) (NP (NNP Macintosh) (NNS computers)))) (PP (IN without) (S (VP (VBG having) (S (VP (TO to) (VP (VB be) (NP (JJ hardcore) (NNS programmers)))))))))))) (CC and) (VP (VBZ is) (VP (VBN distributed) (SBAR (IN with) (S (NP (DT every) (NNP Macintosh)) (VP (VBN sold))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0mostmostRBSOPER0popularpopularJJOPER0computercomputerNNOPER0programsprogramNNSOPER0ofofINOPER0allallDTOPER0timetimeNNOPER0,,,OPER0butbutCCOPER0analystsanalystNNSOPER0saidsayVBDOPER0thetheDTOPER0QuickviewQuickviewNNPORGPER0suitsuitNNOPER0doesdoVBZOPER0n'tnotRBOPER0appearappearVBOPER0totoTOOPER0bodebodeVBOPER0majormajorJJOPER0difficultiesdifficultyNNSOPER0forforINOPER0AppleAppleNNPORGPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN computer) (NNS programs)))) (PP (IN of) (NP (DT all) (NN time)))))) (, ,) (CC but) (S (NP (NNS analysts)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP Quickview) (NN suit)) (VP (VBZ does) (RB n't) (VP (VB appear) (S (VP (TO to) (VP (VB bode) (NP (JJ major) (NNS difficulties)) (PP (IN for) (NP (NNP Apple)))))))))))) (. .)))
+ThetheDTOPER0technologytechnologyNNOPER0atatINOPER0issueissueNNOPER0``````OisbeVBZOPER2notnotRBOPER2anaDTOPER2underlyingunderlieVBGOPER2technologytechnologyNNOPER2ofofINOPER2HyperCardHyperCardNNPPRODUCTPER2totoINOPER2mymyPRP$OPER2knowledgeknowledgeNNOPER2,,,OPER2''''''OPER0saidsayVBDOPER0DannyDannyNNPPERSONPER0GoodmanGoodmanNNPPERSONPER0,,,OPER0aaDTOPER0SanSanNNPGPEPER0FranciscoFranciscoNNPGPEPER0--HYPHOPER0areaareaNNOPER0HyperCardHyperCardNNPPRODUCTPER0programprogramNNOPER0developerdeveloperNNOPER0...OPER0(ROOT (SINV (S (NP (NP (DT The) (NN technology)) (PP (IN at) (NP (NN issue)))) (`` ``) (VP (VBZ is) (RB not) (NP (NP (DT an) (VBG underlying) (NN technology)) (PP (IN of) (NP (NNP HyperCard))) (PP (IN to) (NP (PRP$ my) (NN knowledge)))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Danny) (NNP Goodman)) (, ,) (NP (DT a) (NML (NML (NNP San) (NNP Francisco)) (HYPH -) (NN area)) (NNP HyperCard) (NN program) (NN developer))) (. .)))
+NonethelessnonethelessRBOPER0,,,OPER0thetheDTOPER0suitsuitNNOPER0seeksseekVBZOPER0unspecifiedunspecifiedJJOPER0damagesdamagesNNSOPER0thatthatWDTOPER0anaDTOPER0attorneyattorneyNNOPER0forforINOPER0QuickviewQuickviewNNPORGPER0claimedclaimVBDOPER0couldcouldMDOPER0runrunVBOPER0intointoINOPER0thetheDTMONEYPER0millionsmillionNNSMONEYPER0ofofINMONEYPER0dollarsdollarNNSMONEYPER0...OPER0(ROOT (S (ADVP (RB Nonetheless)) (, ,) (NP (DT the) (NN suit)) (VP (VBZ seeks) (NP (NP (JJ unspecified) (NNS damages)) (SBAR (WHNP (WDT that)) (S (NP (NP (DT an) (NN attorney)) (PP (IN for) (NP (NNP Quickview)))) (VP (VBD claimed) (SBAR (S (VP (MD could) (VP (VB run) (PP (IN into) (NP (NP (DT the) (NNS millions)) (PP (IN of) (NP (NNS dollars)))))))))))))) (. .)))
+IninINOPER0CupertinoCupertinoNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0,,,OPER0AppleAppleNNPORGPER0saidsayVBDOPER0thatthatINOPER0ititPRPOPER0believesbelieveVBZOPER0thetheDTOPER0casecaseNNOPER0hashaveVBZOPER0nonoDTOPER0meritmeritNNOPER0,,,OPER0andandCCOPER0thatthatINOPER0HyperCardHyperCardNNPPRODUCTPER0doesdoVBZOPER0notnotRBOPER0infringeinfringeVBOPER0``````OanyanyDTOPER3validvalidJJOPER3claimsclaimNNSOPER3''''''OPER0ofofINOPER0thetheDTOPER0QuickviewQuickviewNNPORGPER0patentspatentNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NNP Cupertino)) (, ,) (NP (NNP Calif.)))) (, ,) (NP (NNP Apple)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NN case)) (VP (VBZ has) (NP (DT no) (NN merit)))))))) (, ,) (CC and) (SBAR (IN that) (S (NP (NNP HyperCard)) (VP (VBZ does) (RB not) (VP (VB infringe) (NP (`` ``) (NP (DT any) (JJ valid) (NNS claims)) ('' '') (PP (IN of) (NP (DT the) (NNP Quickview) (NNS patents)))))))))) (. .)))
+ItitPRPOPER0saidsayVBDOPER0ititPRPOPER0filedfileVBDOPER0anaDTOPER0actionactionNNOPER0ofofINOPER0itsitsPRP$OPER0ownownJJOPER0ininINOPER0federalfederalJJOPER0courtcourtNNOPER0ininINOPER0SanSanNNPGPEPER0JoseJoseNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0,,,OPER0seekingseekVBGOPER0aaDTOPER0declarationdeclarationNNOPER0thatthatINOPER0QuickviewQuickviewNNPORGPER0's'sPOSOPER0claimsclaimNNSOPER0arebeVBPOPER0invalidinvalidJJOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD filed) (NP (NP (DT an) (NN action)) (PP (IN of) (NP (PRP$ its) (JJ own)))) (PP (IN in) (NP (NP (JJ federal) (NN court)) (PP (IN in) (NP (NP (NNP San) (NNP Jose)) (, ,) (NP (NNP Calif.)))))) (, ,) (S (VP (VBG seeking) (NP (DT a) (NN declaration) (SBAR (IN that) (S (NP (NP (NNP Quickview) (POS 's)) (NNS claims)) (VP (VBP are) (ADJP (JJ invalid)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Quickview) (NNPS Systems) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 5 until 6 headed by 5 parsed as filed
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN lawsuit))
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (NNP Apple) (NNP Computer) (NNP Inc.))
+sid=0 spanning 13 until 14 headed by 13 parsed as claiming
+sid=0 spanning 20 until 26 headed by 25 parsed as (NP (NP (NNP Apple) (POS 's)) (JJ popular) (NNP HyperCard) (NN software) (NN program))
+sid=0 spanning 20 until 22 headed by 20 parsed as (NP (NNP Apple) (POS 's))
+sid=1 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NN suit)) (, ,) (VP (VBN filed) (PP (IN in) (NP (NNP Minneapolis) (JJ federal) (NN court)))) (, ,))
+sid=1 spanning 3 until 4 headed by 3 parsed as filed
+sid=1 spanning 9 until 10 headed by 9 parsed as claims
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNP Apple))
+sid=1 spanning 14 until 15 headed by 14 parsed as Quickview
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP HyperCard) (NN program))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP Quickview) (NN suit))
+sid=3 spanning 17 until 18 headed by 17 parsed as Quickview
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (NNP Apple))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNP HyperCard))
+sid=4 spanning 13 until 14 headed by 13 parsed as my
+sid=4 spanning 18 until 29 headed by 19 parsed as (NP (NP (NNP Danny) (NNP Goodman)) (, ,) (NP (DT a) (NML (NML (NNP San) (NNP Francisco)) (HYPH -) (NN area)) (NNP HyperCard) (NN program) (NN developer)))
+sid=4 spanning 26 until 27 headed by 26 parsed as HyperCard
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN suit))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NNP Quickview))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (NNP Calif.))
+sid=6 spanning 5 until 6 headed by 5 parsed as (NP (NNP Apple))
+sid=6 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=6 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN case))
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (NNP HyperCard))
+sid=6 spanning 29 until 30 headed by 29 parsed as Quickview
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=7 spanning 7 until 8 headed by 7 parsed as its
+sid=7 spanning 16 until 17 headed by 16 parsed as (NP (NNP Calif.))
+sid=7 spanning 22 until 25 headed by 24 parsed as (NP (NP (NNP Quickview) (POS 's)) (NNS claims))
+sid=7 spanning 22 until 24 headed by 22 parsed as (NP (NNP Quickview) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Quickview) (NNPS Systems) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN lawsuit))
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (NNP Apple) (NNP Computer) (NNP Inc.))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (NN patent) (NN infringement))
+sid=0 spanning 17 until 26 headed by 18 parsed as (NP (NP (DT an) (NN element)) (PP (IN of) (NP (NP (NNP Apple) (POS 's)) (JJ popular) (NNP HyperCard) (NN software) (NN program))))
+sid=0 spanning 20 until 26 headed by 25 parsed as (NP (NP (NNP Apple) (POS 's)) (JJ popular) (NNP HyperCard) (NN software) (NN program))
+sid=0 spanning 20 until 22 headed by 20 parsed as (NP (NNP Apple) (POS 's))
+sid=0 spanning 23 until 24 headed by 23 parsed as HyperCard
+sid=1 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NN suit)) (, ,) (VP (VBN filed) (PP (IN in) (NP (NNP Minneapolis) (JJ federal) (NN court)))) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN suit))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (NNP Minneapolis) (JJ federal) (NN court))
+sid=1 spanning 5 until 6 headed by 5 parsed as Minneapolis
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNP Apple))
+sid=1 spanning 13 until 44 headed by 15 parsed as (NP (NP (DT a) (NNP Quickview) (NN patent)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (NP (NN computer) (NNS users)) (VP (TO to) (VP (VB display) (NP (NP (`` ``) (RB only) (NNS portions)) (PP (IN of) (NP (JJ multiple) (NNS fields)))) (PP (IN on) (NP (NP (DT a) (NN computer) (NN screen)) (PP (IN with) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB see) (NP (NP (DT the) (JJ entire) (NNS contents)) (PP (IN of) (NP (DT any) (VBN given) (NN field))))))))))))))))))
+sid=1 spanning 14 until 15 headed by 14 parsed as Quickview
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (NN computer) (NNS users))
+sid=1 spanning 22 until 28 headed by 24 parsed as (NP (NP (`` ``) (RB only) (NNS portions)) (PP (IN of) (NP (JJ multiple) (NNS fields))))
+sid=1 spanning 26 until 28 headed by 27 parsed as (NP (JJ multiple) (NNS fields))
+sid=1 spanning 29 until 44 headed by 31 parsed as (NP (NP (DT a) (NN computer) (NN screen)) (PP (IN with) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB see) (NP (NP (DT the) (JJ entire) (NNS contents)) (PP (IN of) (NP (DT any) (VBN given) (NN field))))))))))
+sid=1 spanning 33 until 44 headed by 34 parsed as (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB see) (NP (NP (DT the) (JJ entire) (NNS contents)) (PP (IN of) (NP (DT any) (VBN given) (NN field))))))))
+sid=1 spanning 37 until 44 headed by 39 parsed as (NP (NP (DT the) (JJ entire) (NNS contents)) (PP (IN of) (NP (DT any) (VBN given) (NN field))))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP HyperCard) (NN program))
+sid=2 spanning 1 until 2 headed by 1 parsed as HyperCard
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNS users))
+sid=2 spanning 7 until 11 headed by 7 parsed as (NP (NP (NNS applications)) (PP (IN for) (NP (NNP Macintosh) (NNS computers))))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NNP Macintosh) (NNS computers))
+sid=2 spanning 9 until 10 headed by 9 parsed as Macintosh
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (JJ hardcore) (NNS programmers))
+sid=2 spanning 22 until 23 headed by 22 parsed as (NP (DT every) (NNP Macintosh))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 2 until 12 headed by 2 parsed as (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN computer) (NNS programs)))) (PP (IN of) (NP (DT all) (NN time))))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (NNS analysts))
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP Quickview) (NN suit))
+sid=3 spanning 17 until 18 headed by 17 parsed as Quickview
+sid=3 spanning 24 until 26 headed by 25 parsed as (NP (JJ major) (NNS difficulties))
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (NNP Apple))
+sid=4 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN technology)) (PP (IN at) (NP (NN issue))))
+sid=4 spanning 7 until 15 headed by 9 parsed as (NP (NP (DT an) (VBG underlying) (NN technology)) (PP (IN of) (NP (NNP HyperCard))) (PP (IN to) (NP (PRP$ my) (NN knowledge))))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNP HyperCard))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ my) (NN knowledge))
+sid=4 spanning 13 until 14 headed by 13 parsed as (PRP$ my)
+sid=4 spanning 18 until 20 headed by 19 parsed as (NP (NP (NNP Danny) (NNP Goodman)) (, ,) (NP (DT a) (NML (NML (NNP San) (NNP Francisco)) (HYPH -) (NN area)) (NNP HyperCard) (NN program) (NN developer)))
+sid=4 spanning 18 until 29 headed by 19 parsed as (NP (NP (NNP Danny) (NNP Goodman)) (, ,) (NP (DT a) (NML (NML (NNP San) (NNP Francisco)) (HYPH -) (NN area)) (NNP HyperCard) (NN program) (NN developer)))
+sid=4 spanning 21 until 29 headed by 28 parsed as (NP (DT a) (NML (NML (NNP San) (NNP Francisco)) (HYPH -) (NN area)) (NNP HyperCard) (NN program) (NN developer))
+sid=4 spanning 22 until 24 headed by 23 parsed as Francisco
+sid=4 spanning 26 until 27 headed by 26 parsed as HyperCard
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN suit))
+sid=5 spanning 5 until 20 headed by 6 parsed as (NP (NP (JJ unspecified) (NNS damages)) (SBAR (WHNP (WDT that)) (S (NP (NP (DT an) (NN attorney)) (PP (IN for) (NP (NNP Quickview)))) (VP (VBD claimed) (SBAR (S (VP (MD could) (VP (VB run) (PP (IN into) (NP (NP (DT the) (NNS millions)) (PP (IN of) (NP (NNS dollars)))))))))))))
+sid=5 spanning 8 until 12 headed by 9 parsed as (NP (NP (DT an) (NN attorney)) (PP (IN for) (NP (NNP Quickview))))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NNP Quickview))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Cupertino)) (, ,) (NP (NNP Calif.)))
+sid=6 spanning 1 until 4 headed by 1 parsed as (NP (NP (NNP Cupertino)) (, ,) (NP (NNP Calif.)))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (NNP Calif.))
+sid=6 spanning 5 until 6 headed by 5 parsed as (NP (NNP Apple))
+sid=6 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=6 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN case))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (DT no) (NN merit))
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (NNP HyperCard))
+sid=6 spanning 22 until 31 headed by 25 parsed as (NP (`` ``) (NP (DT any) (JJ valid) (NNS claims)) ('' '') (PP (IN of) (NP (DT the) (NNP Quickview) (NNS patents))))
+sid=6 spanning 28 until 31 headed by 30 parsed as (NP (DT the) (NNP Quickview) (NNS patents))
+sid=6 spanning 29 until 30 headed by 29 parsed as Quickview
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=7 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT an) (NN action)) (PP (IN of) (NP (PRP$ its) (JJ own))))
+sid=7 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ its) (JJ own))
+sid=7 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=7 spanning 13 until 15 headed by 14 parsed as (NP (NP (NNP San) (NNP Jose)) (, ,) (NP (NNP Calif.)))
+sid=7 spanning 13 until 17 headed by 14 parsed as (NP (NP (NNP San) (NNP Jose)) (, ,) (NP (NNP Calif.)))
+sid=7 spanning 16 until 17 headed by 16 parsed as (NP (NNP Calif.))
+sid=7 spanning 19 until 27 headed by 20 parsed as (NP (DT a) (NN declaration) (SBAR (IN that) (S (NP (NP (NNP Quickview) (POS 's)) (NNS claims)) (VP (VBP are) (ADJP (JJ invalid))))))
+sid=7 spanning 22 until 25 headed by 24 parsed as (NP (NP (NNP Quickview) (POS 's)) (NNS claims))
+sid=7 spanning 22 until 24 headed by 22 parsed as (NP (NNP Quickview) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+18 21 14 6 28 13 | { 'HyperCard' 'HyperCard' 'It' 'Apple 's popular HyperCard software program' 'HyperCard' 'The HyperCard program' }
+19 20 | { 'my' 'Danny Goodman , a San Francisco - area HyperCard program developer' }
+26 7 4 25 31 30 17 32 11 | { 'it' 'Apple 's' 'Apple Computer Inc.' 'Apple' 'it' 'It' 'Apple' 'its' 'Apple' }
+27 22 3 15 8 | { 'the case' 'the suit' 'a lawsuit' 'the Quickview suit' 'The suit , filed in Minneapolis federal court ,' }
+24 33 | { 'Calif.' 'Calif.' }
+9 2 | { 'filed' 'filed' }
+1 12 16 35 29 23 0 | { 'it' 'Quickview' 'Quickview' 'Quickview 's' 'Quickview' 'Quickview' 'Quickview Systems Inc.' }
+5 34 10 | { 'claiming' 'Quickview 's claims' 'claims' }
+(end gold clusters)

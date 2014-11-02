@@ -1,0 +1,49 @@
+---------gloss--------
+(0) 16 years of experience and ten months of training are paying off for [4m[32m{a sheep shearer from New Zealand}[0m . 
+(1) [4m[32m{Rodney Sutton}[0m broke a seven - year - old world record by [4m[31m{shearing}[0m 839 lambs in nine hours . 
+(2) A crowd of hundreds watched [4m[32m{him}[0m accomplish [4m[31m{the feat}[0m . 
+(3) [4m[32m{Sutton}[0m says [4m[32m{he}[0m has been dreaming of completing [4m[31m{the task}[0m for years . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0160); part 000
+sentences:
+1616CDOPER0yearsyearNNSOPER0ofofINOPER0experienceexperienceNNOPER0andandCCOPER0tentenCDDATEPER0monthsmonthNNSDATEPER0ofofINOPER0trainingtrainingNNOPER0arebeVBPOPER0payingpayVBGOPER0offoffRPOPER0forforINOPER0aaDTOPER0sheepsheepNNOPER0shearershearerNNOPER0fromfromINOPER0NewNewNNPGPEPER0ZealandZealandNNPGPEPER0...OPER0(ROOT (S (NP (NP (NP (NP (CD 16) (NNS years)) (PP (IN of) (NP (NN experience)))) (CC and) (NP (CD ten) (NNS months))) (PP (IN of) (NP (NN training)))) (VP (VBP are) (VP (VBG paying) (PRT (RP off)) (PP (IN for) (NP (NP (DT a) (NN sheep) (NN shearer)) (PP (IN from) (NP (NNP New) (NNP Zealand))))))) (. .)))
+RodneyRodneyNNPPERSONPER0SuttonSuttonNNPPERSONPER0brokebreakVBDOPER0aaDTOPER0sevensevenCDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0worldworldNNOPER0recordrecordNNOPER0bybyINOPER0shearingshearVBGOPER0839839CDCARDINALPER0lambslambNNSOPER0ininINOPER0ninenineCDDATEPER0hourshourNNSDATEPER0...OPER0(ROOT (S (NP (NNP Rodney) (NNP Sutton)) (VP (VBD broke) (NP (DT a) (ADJP (NML (CD seven) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN world) (NN record)) (PP (IN by) (S (VP (VBG shearing) (NP (CD 839) (NNS lambs)) (PP (IN in) (NP (CD nine) (NNS hours))))))) (. .)))
+AaDTOPER0crowdcrowdNNOPER0ofofINOPER0hundredshundredNNSCARDINALPER0watchedwatchVBDOPER0himhePRPOPER0accomplishaccomplishVBOPER0thetheDTOPER0featfeatNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (NN crowd)) (PP (IN of) (NP (NNS hundreds)))) (VP (VBD watched) (S (NP (PRP him)) (VP (VB accomplish) (NP (DT the) (NN feat))))) (. .)))
+SuttonSuttonNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0hashaveVBZOPER0beenbeVBNOPER0dreamingdreamVBGOPER0ofofINOPER0completingcompleteVBGOPER0thetheDTOPER0tasktaskNNOPER0forforINOPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NNP Sutton)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ has) (VP (VBN been) (VP (VBG dreaming) (PP (IN of) (S (VP (VBG completing) (NP (DT the) (NN task)) (PP (IN for) (NP (NNS years)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 13 until 19 headed by 15 parsed as (NP (NP (DT a) (NN sheep) (NN shearer)) (PP (IN from) (NP (NNP New) (NNP Zealand))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Rodney) (NNP Sutton))
+sid=1 spanning 12 until 13 headed by 12 parsed as shearing
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (PRP him))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN feat))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Sutton))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN task))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 1 parsed as (NP (NP (NP (NP (CD 16) (NNS years)) (PP (IN of) (NP (NN experience)))) (CC and) (NP (CD ten) (NNS months))) (PP (IN of) (NP (NN training))))
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NP (CD 16) (NNS years)) (PP (IN of) (NP (NN experience))))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (CD ten) (NNS months))
+sid=0 spanning 13 until 19 headed by 15 parsed as (NP (NP (DT a) (NN sheep) (NN shearer)) (PP (IN from) (NP (NNP New) (NNP Zealand))))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (NNP New) (NNP Zealand))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Rodney) (NNP Sutton))
+sid=1 spanning 3 until 11 headed by 10 parsed as (NP (DT a) (ADJP (NML (CD seven) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN world) (NN record))
+sid=1 spanning 4 until 9 headed by 8 parsed as old
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (CD 839) (NNS lambs))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (CD nine) (NNS hours))
+sid=2 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT A) (NN crowd)) (PP (IN of) (NP (NNS hundreds))))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNS hundreds))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (PRP him))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN feat))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Sutton))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN task))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNS years))
+(end predicted mentions)
+---------gold clusters--------
+7 2 4 | { 'the task' 'shearing' 'the feat' }
+3 0 5 1 6 | { 'him' 'a sheep shearer from New Zealand' 'Sutton' 'Rodney Sutton' 'he' }
+(end gold clusters)

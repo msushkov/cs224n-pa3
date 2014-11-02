@@ -1,0 +1,79 @@
+---------gloss--------
+(0) [35m{BRISTOL - MYERS SQUIBB Co . -LRB- New York -RRB- --}[0m 
+(1) [1m[32m{Gerald C. Beddall , 47 years old ,}[0m was named president of [34m{the Clairol division of this pharmaceuticals and health - care company}[0m . 
+(2) [1m[32m{He}[0m succeeds [1m[31m{C. Benjamin Brooks Jr. , who will retire Nov. 1}[0m . 
+(3) [1m[31m{Mr. Brooks}[0m declined to give [1m[31m{his}[0m age , but [1m[31m{he}[0m said [1m[31m{his}[0m leaving is [1m[33m{a normal retirement}[0m . 
+(4) [1m[32m{Mr. Beddall}[0m had been executive vice president of [34m{the division}[0m since April . 
+(5) [34m{Clairol , which makes hair and skin products ,}[0m was a division of [36m{Bristol - Myers Co.}[0m before [36m{that company 's}[0m merger with Squibb Corp . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1341); part 000
+sentences:
+BRISTOLBRISTOLNNPORGPER0--HYPHORGPER0MYERSMYERSNNPORGPER0SQUIBBSQUIBBNNPORGPER0CoCoNNPORGPER0...ORGPER0-LRB--lrb--LRB-OPER0NewNewNNPORGPER0YorkYorkNNPORGPER0-RRB--rrb--RRB-OPER0----:OPER0(ROOT (NP (NP (NNP BRISTOL) (HYPH -) (NNP MYERS) (NNP SQUIBB) (NNP Co) (. .)) (-LRB- -LRB-) (NP (NNP New) (NNP York)) (-RRB- -RRB-) (: --)))
+GeraldGeraldNNPPERSONPER0C.C.NNPPERSONPER0BeddallBeddallNNPPERSONPER0,,,OPER04747CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0presidentpresidentNNOPER0ofofINOPER0thetheDTOPER0ClairolClairolNNPORGPER0divisiondivisionNNOPER0ofofINOPER0thisthisDTOPER0pharmaceuticalspharmaceuticalNNSOPER0andandCCOPER0healthhealthNNOPER0--HYPHOPER0carecareNNOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NP (NNP Gerald) (NNP C.) (NNP Beddall)) (, ,) (ADJP (NML (CD 47) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN president)) (PP (IN of) (NP (DT the) (NNP Clairol) (NN division))) (PP (IN of) (NP (DT this) (NML (NML (NNS pharmaceuticals)) (CC and) (NML (NN health) (HYPH -) (NN care))) (NN company))))))) (. .)))
+HehePRPOPER0succeedssucceedVBZOPER0C.C.NNPPERSONPER0BenjaminBenjaminNNPPERSONPER0BrooksBrooksNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER0whowhoWPOPER0willwillMDOPER0retireretireVBOPER0Nov.Nov.NNPDATEPER011CDDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ succeeds) (NP (NP (NNP C.) (NNP Benjamin) (NNP Brooks) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB retire) (NP (NNP Nov.) (CD 1)))))))) (. .)))
+Mr.Mr.NNPOPER0BrooksBrooksNNPPERSONPER0declineddeclineVBDOPER0totoTOOPER0givegiveVBOPER0hishePRP$OPER0ageageNNOPER0,,,OPER0butbutCCOPER0hehePRPOPER0saidsayVBDOPER0hishePRP$OPER0leavingleaveVBGOPER0isbeVBZOPER0aaDTOPER0normalnormalJJOPER0retirementretirementNNOPER0...OPER0(ROOT (S (S (NP (NNP Mr.) (NNP Brooks)) (VP (VBD declined) (S (VP (TO to) (VP (VB give) (NP (PRP$ his) (NN age))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (PRP$ his) (VBG leaving)) (VP (VBZ is) (NP (DT a) (JJ normal) (NN retirement))))))) (. .)))
+Mr.Mr.NNPOPER0BeddallBeddallNNPPERSONPER0hadhaveVBDOPER0beenbeVBNOPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0thetheDTOPER0divisiondivisionNNOPER0sincesinceINOPER0AprilAprilNNPDATEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Beddall)) (VP (VBD had) (VP (VBN been) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN of) (NP (DT the) (NN division)))) (PP (IN since) (NP (NNP April))))) (. .)))
+ClairolClairolNNPORGPER0,,,OPER0whichwhichWDTOPER0makesmakeVBZOPER0hairhairNNOPER0andandCCOPER0skinskinNNOPER0productsproductNNSOPER0,,,OPER0wasbeVBDOPER0aaDTOPER0divisiondivisionNNOPER0ofofINOPER0BristolBristolNNPORGPER0--HYPHORGPER0MyersMyersNNPORGPER0Co.Co.NNPORGPER0beforebeforeINOPER0thatthatDTOPER0companycompanyNNOPER0's'sPOSOPER0mergermergerNNOPER0withwithINOPER0SquibbSquibbNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP Clairol)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NML (NN hair) (CC and) (NN skin)) (NNS products))))) (, ,)) (VP (VBD was) (NP (NP (DT a) (NN division)) (PP (IN of) (NP (NML (NNP Bristol) (HYPH -) (NNP Myers)) (NNP Co.)))) (PP (IN before) (NP (NP (NP (DT that) (NN company) (POS 's)) (NN merger)) (PP (IN with) (NP (NNP Squibb) (NNP Corp)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 11 headed by 4 parsed as (NP (NP (NNP BRISTOL) (HYPH -) (NNP MYERS) (NNP SQUIBB) (NNP Co) (. .)) (-LRB- -LRB-) (NP (NNP New) (NNP York)) (-RRB- -RRB-) (: --))
+sid=1 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Gerald) (NNP C.) (NNP Beddall)) (, ,) (ADJP (NML (CD 47) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 12 until 23 headed by 14 parsed as (NP (DT the) (NNP Clairol) (NN division))
+sid=1 spanning 16 until 23 headed by 22 parsed as (NP (DT this) (NML (NML (NNS pharmaceuticals)) (CC and) (NML (NN health) (HYPH -) (NN care))) (NN company))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 12 headed by 5 parsed as (NP (NP (NNP C.) (NNP Benjamin) (NNP Brooks) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB retire) (NP (NNP Nov.) (CD 1)))))))
+sid=2 spanning 9 until 10 headed by 9 parsed as retire
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Brooks))
+sid=3 spanning 5 until 6 headed by 5 parsed as his
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=3 spanning 11 until 12 headed by 11 parsed as his
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (JJ normal) (NN retirement))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Beddall))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN division))
+sid=5 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP Clairol)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NML (NN hair) (CC and) (NN skin)) (NNS products))))) (, ,))
+sid=5 spanning 13 until 17 headed by 16 parsed as (NP (NML (NNP Bristol) (HYPH -) (NNP Myers)) (NNP Co.))
+sid=5 spanning 18 until 21 headed by 19 parsed as (NP (DT that) (NN company) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 11 headed by 4 parsed as (NP (NP (NNP BRISTOL) (HYPH -) (NNP MYERS) (NNP SQUIBB) (NNP Co) (. .)) (-LRB- -LRB-) (NP (NNP New) (NNP York)) (-RRB- -RRB-) (: --))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NNP New) (NNP York))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Gerald) (NNP C.) (NNP Beddall)) (, ,) (ADJP (NML (CD 47) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Gerald) (NNP C.) (NNP Beddall)) (, ,) (ADJP (NML (CD 47) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 4 until 7 headed by 6 parsed as old
+sid=1 spanning 10 until 23 headed by 10 parsed as (NP (NP (NN president)) (PP (IN of) (NP (DT the) (NNP Clairol) (NN division))) (PP (IN of) (NP (DT this) (NML (NML (NNS pharmaceuticals)) (CC and) (NML (NN health) (HYPH -) (NN care))) (NN company))))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP Clairol) (NN division))
+sid=1 spanning 13 until 14 headed by 13 parsed as Clairol
+sid=1 spanning 16 until 23 headed by 22 parsed as (NP (DT this) (NML (NML (NNS pharmaceuticals)) (CC and) (NML (NN health) (HYPH -) (NN care))) (NN company))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP C.) (NNP Benjamin) (NNP Brooks) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB retire) (NP (NNP Nov.) (CD 1)))))))
+sid=2 spanning 2 until 12 headed by 5 parsed as (NP (NP (NNP C.) (NNP Benjamin) (NNP Brooks) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB retire) (NP (NNP Nov.) (CD 1)))))))
+sid=2 spanning 10 until 12 headed by 10 parsed as (NP (NNP Nov.) (CD 1))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Brooks))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ his) (NN age))
+sid=3 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (PRP$ his) (VBG leaving))
+sid=3 spanning 11 until 12 headed by 11 parsed as (PRP$ his)
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (JJ normal) (NN retirement))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Beddall))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN division))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNP April))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Clairol)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NML (NN hair) (CC and) (NN skin)) (NNS products))))) (, ,))
+sid=5 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP Clairol)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NML (NN hair) (CC and) (NN skin)) (NNS products))))) (, ,))
+sid=5 spanning 4 until 8 headed by 7 parsed as (NP (NML (NN hair) (CC and) (NN skin)) (NNS products))
+sid=5 spanning 10 until 17 headed by 11 parsed as (NP (NP (DT a) (NN division)) (PP (IN of) (NP (NML (NNP Bristol) (HYPH -) (NNP Myers)) (NNP Co.))))
+sid=5 spanning 13 until 17 headed by 16 parsed as (NP (NML (NNP Bristol) (HYPH -) (NNP Myers)) (NNP Co.))
+sid=5 spanning 18 until 25 headed by 21 parsed as (NP (NP (NP (DT that) (NN company) (POS 's)) (NN merger)) (PP (IN with) (NP (NNP Squibb) (NNP Corp))))
+sid=5 spanning 18 until 21 headed by 19 parsed as (NP (DT that) (NN company) (POS 's))
+sid=5 spanning 23 until 25 headed by 24 parsed as (NP (NNP Squibb) (NNP Corp))
+(end predicted mentions)
+---------gold clusters--------
+14 2 13 | { 'Clairol , which makes hair and skin products ,' 'the Clairol division of this pharmaceuticals and health - care company' 'the division' }
+0 3 | { 'BRISTOL - MYERS SQUIBB Co . -LRB- New York -RRB- --' 'this pharmaceuticals and health - care company' }
+15 16 | { 'Bristol - Myers Co.' 'that company 's' }
+10 9 7 5 8 | { 'his' 'he' 'Mr. Brooks' 'C. Benjamin Brooks Jr. , who will retire Nov. 1' 'his' }
+4 12 1 | { 'He' 'Mr. Beddall' 'Gerald C. Beddall , 47 years old ,' }
+11 6 | { 'a normal retirement' 'retire' }
+(end gold clusters)

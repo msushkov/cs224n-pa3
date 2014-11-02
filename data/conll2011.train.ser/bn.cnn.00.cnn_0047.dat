@@ -1,0 +1,47 @@
+---------gloss--------
+(0) The United Nations General Assembly passed [1m[36m{a resolution criticizing Israel 's actions in the dispute}[0m . 
+(1) [1m[36m{The resolution}[0m also calls for an immediate end to the violence and a resumption of peace talks . 
+(2) The United States was one of six nations that voted against [1m[36m{the measure}[0m . 
+(3) [1m[35m{More than 100 people}[0m have died in the three weeks of fighting , almost all of [1m[35m{them}[0m Palestinians or Arab - Israelis . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0047); part 000
+sentences:
+ThetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPSORGPER0GeneralGeneralNNPORGPER0AssemblyAssemblyNNPORGPER0passedpassVBDOPER0aaDTOPER0resolutionresolutionNNOPER0criticizingcriticizeVBGOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0actionsactionNNSOPER0ininINOPER0thetheDTOPER0disputedisputeNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP United) (NNPS Nations)) (NNP General) (NNP Assembly)) (VP (VBD passed) (NP (NP (DT a) (NN resolution)) (VP (VBG criticizing) (NP (NP (NNP Israel) (POS 's)) (NNS actions)))) (PP (IN in) (NP (DT the) (NN dispute)))) (. .)))
+ThetheDTOPER0resolutionresolutionNNOPER0alsoalsoRBOPER0callscallVBZOPER0forforINOPER0anaDTOPER0immediateimmediateJJOPER0endendNNOPER0totoINOPER0thetheDTOPER0violenceviolenceNNOPER0andandCCOPER0aaDTOPER0resumptionresumptionNNOPER0ofofINOPER0peacepeaceNNOPER0talkstalkNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN resolution)) (ADVP (RB also)) (VP (VBZ calls) (PP (IN for) (NP (NP (DT an) (JJ immediate) (NN end)) (PP (IN to) (NP (NP (DT the) (NN violence)) (CC and) (NP (NP (DT a) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks))))))))) (. .)))
+ThetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0wasbeVBDOPER0oneoneCDOPER0ofofINOPER0sixsixCDCARDINALPER0nationsnationNNSOPER0thatthatWDTOPER0votedvoteVBDOPER0againstagainstINOPER0thetheDTOPER0measuremeasureNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP States)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD six) (NNS nations)) (SBAR (WHNP (WDT that)) (S (VP (VBD voted) (PP (IN against) (NP (DT the) (NN measure)))))))))) (. .)))
+MoremoreJJRCARDINALPER0thanthanINCARDINALPER0100100CDCARDINALPER0peoplepeopleNNSOPER0havehaveVBPOPER0dieddieVBNOPER0ininINOPER0thetheDTDATEPER0threethreeCDDATEPER0weeksweekNNSDATEPER0ofofINOPER0fightingfightingNNOPER0,,,OPER0almostalmostRBOPER0allallDTOPER0ofofINOPER0themtheyPRPOPER0PalestiniansPalestiniansNNPSOPER0ororCCOPER0ArabArabNNPSOPER0--HYPHOPER0IsraelisIsraelisNNPSOPER0...OPER0(ROOT (S (NP (QP (XS (JJR More) (IN than)) (CD 100)) (NNS people)) (VP (VBP have) (VP (VBN died) (PP (IN in) (NP (NP (DT the) (CD three) (NNS weeks)) (PP (IN of) (NP (NN fighting))))) (, ,) (S (NP (QP (RB almost) (DT all)) (PP (IN of) (NP (PRP them)))) (NP (NP (NNPS Palestinians)) (CC or) (NP (NNPS Arab) (HYPH -) (NNPS Israelis)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 15 headed by 7 parsed as (NP (NP (DT a) (NN resolution)) (VP (VBG criticizing) (NP (NP (NNP Israel) (POS 's)) (NNS actions))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN resolution))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN measure))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (QP (XS (JJR More) (IN than)) (CD 100)) (NNS people))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (PRP them))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP United) (NNPS Nations)) (NNP General) (NNP Assembly))
+sid=0 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT a) (NN resolution)) (VP (VBG criticizing) (NP (NP (NNP Israel) (POS 's)) (NNS actions))))
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (NP (NNP Israel) (POS 's)) (NNS actions))
+sid=0 spanning 9 until 11 headed by 9 parsed as (NP (NNP Israel) (POS 's))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN dispute))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN resolution))
+sid=1 spanning 5 until 17 headed by 7 parsed as (NP (NP (DT an) (JJ immediate) (NN end)) (PP (IN to) (NP (NP (DT the) (NN violence)) (CC and) (NP (NP (DT a) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks)))))))
+sid=1 spanning 9 until 17 headed by 10 parsed as (NP (NP (DT the) (NN violence)) (CC and) (NP (NP (DT a) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks)))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN violence))
+sid=1 spanning 12 until 17 headed by 13 parsed as (NP (NP (DT a) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks))))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (NN peace) (NNS talks))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP States))
+sid=2 spanning 4 until 13 headed by 4 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (CD six) (NNS nations)) (SBAR (WHNP (WDT that)) (S (VP (VBD voted) (PP (IN against) (NP (DT the) (NN measure)))))))))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN measure))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (QP (XS (JJR More) (IN than)) (CD 100)) (NNS people))
+sid=3 spanning 7 until 12 headed by 9 parsed as (NP (NP (DT the) (CD three) (NNS weeks)) (PP (IN of) (NP (NN fighting))))
+sid=3 spanning 13 until 17 headed by 14 parsed as (NP (QP (RB almost) (DT all)) (PP (IN of) (NP (PRP them))))
+sid=3 spanning 17 until 22 headed by 17 parsed as (NP (NP (NNPS Palestinians)) (CC or) (NP (NNPS Arab) (HYPH -) (NNPS Israelis)))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (NNPS Arab) (HYPH -) (NNPS Israelis))
+(end predicted mentions)
+---------gold clusters--------
+4 3 | { 'them' 'More than 100 people' }
+1 2 0 | { 'The resolution' 'the measure' 'a resolution criticizing Israel 's actions in the dispute' }
+(end gold clusters)

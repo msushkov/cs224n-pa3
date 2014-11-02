@@ -1,0 +1,71 @@
+---------gloss--------
+(0) [4m[34m{Kurzweil Music Systems Inc.}[0m said [4m[34m{it}[0m retained Kidder , Peabody & Co. to study financial alternatives , including the possible sale of [4m[34m{the financially struggling company}[0m . 
+(1) [4m[34m{Kurzweil , Waltham , Mass. ,}[0m makes digital electronic keyboard instruments used by professional recording musicians . 
+(2) [4m[34m{It}[0m recently introduced a line for the home market . 
+(3) However , [4m[33m{Raymond C. Kurzweil , chairman and chief executive ,}[0m said `` [4m[34m{The company}[0m continues to require additional funding to realize the potential of [4m[34m{its}[0m technology . '' 
+(4) In the year 's first six months , [4m[34m{Kurzweil}[0m had a loss of $ 6.9 million on sales of $ 11.2 million . 
+(5) Last month [4m[34m{its}[0m president , John S. Donnelly , resigned citing `` management differences '' with [4m[33m{Mr. Kurzweil}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1350); part 000
+sentences:
+KurzweilKurzweilNNPORGPER0MusicMusicNNPORGPER0SystemsSystemsNNPSORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0retainedretainVBDOPER0KidderKidderNNPORGPER0,,,ORGPER0PeabodyPeabodyNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0totoTOOPER0studystudyVBOPER0financialfinancialJJOPER0alternativesalternativeNNSOPER0,,,OPER0includingincludeVBGOPER0thetheDTOPER0possiblepossibleJJOPER0salesaleNNOPER0ofofINOPER0thetheDTOPER0financiallyfinanciallyRBOPER0strugglingstruggleVBGOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NNP Kurzweil) (NNP Music) (NNPS Systems) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD retained) (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)) (S (VP (TO to) (VP (VB study) (NP (NP (JJ financial) (NNS alternatives)) (, ,) (PP (VBG including) (NP (NP (DT the) (JJ possible) (NN sale)) (PP (IN of) (NP (DT the) (ADJP (RB financially) (VBG struggling)) (NN company))))))))))))) (. .)))
+KurzweilKurzweilNNPORGPER0,,,OPER0WalthamWalthamNNPGPEPER0,,,OPER0Mass.Mass.NNPGPEPER0,,,OPER0makesmakeVBZOPER0digitaldigitalJJOPER0electronicelectronicJJOPER0keyboardkeyboardNNOPER0instrumentsinstrumentNNSOPER0useduseVBNOPER0bybyINOPER0professionalprofessionalJJOPER0recordingrecordingNNOPER0musiciansmusicianNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Kurzweil)) (, ,) (NP (NP (NNP Waltham)) (, ,) (NP (NNP Mass.))) (, ,)) (VP (VBZ makes) (NP (NP (JJ digital) (JJ electronic) (NN keyboard) (NNS instruments)) (VP (VBN used) (PP (IN by) (NP (JJ professional) (NN recording) (NNS musicians)))))) (. .)))
+ItitPRPOPER0recentlyrecentlyRBOPER0introducedintroduceVBDOPER0aaDTOPER0linelineNNOPER0forforINOPER0thetheDTOPER0homehomeNNOPER0marketmarketNNOPER0...OPER0(ROOT (S (NP (PRP It)) (ADVP (RB recently)) (VP (VBD introduced) (NP (NP (DT a) (NN line)) (PP (IN for) (NP (DT the) (NN home) (NN market))))) (. .)))
+HoweverhoweverRBOPER0,,,OPER0RaymondRaymondNNPPERSONPER0C.C.NNPPERSONPER0KurzweilKurzweilNNPPERSONPER0,,,PERSONPER0chairmanchairmanNNPERSONPER0andandCCPERSONPER0chiefchiefJJPERSONPER0executiveexecutiveNNPERSONPER0,,,PERSONPER0saidsayVBDOPER0``````OThetheDTOPER1companycompanyNNOPER1continuescontinueVBZOPER1totoTOOPER1requirerequireVBOPER1additionaladditionalJJOPER1fundingfundingNNOPER1totoTOOPER1realizerealizeVBOPER1thetheDTOPER1potentialpotentialNNOPER1ofofINOPER1itsitsPRP$OPER1technologytechnologyNNOPER1...OPER1''''''OPER0(ROOT (S (ADVP (RB However)) (, ,) (NP (NP (NNP Raymond) (NNP C.) (NNP Kurzweil)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (NN executive))) (, ,)) (VP (VBD said) (`` ``) (S (NP (DT The) (NN company)) (VP (VBZ continues) (S (VP (TO to) (VP (VB require) (NP (JJ additional) (NN funding)) (S (VP (TO to) (VP (VB realize) (NP (NP (DT the) (NN potential)) (PP (IN of) (NP (PRP$ its) (NN technology))))))))))))) (. .) ('' '')))
+IninINOPER0thetheDTDATEPER0yearyearNNDATEPER0's'sPOSDATEPER0firstfirstJJDATEPER0sixsixCDDATEPER0monthsmonthNNSDATEPER0,,,OPER0KurzweilKurzweilNNPORGPER0hadhaveVBDOPER0aaDTOPER0losslossNNOPER0ofofINOPER0$$$MONEYPER06.96.9CDMONEYPER0millionmillionCDMONEYPER0ononINOPER0salessaleNNSOPER0ofofINOPER0$$$MONEYPER011.211.2CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (NN year) (POS 's)) (JJ first) (CD six) (NNS months))) (, ,) (NP (NNP Kurzweil)) (VP (VBD had) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 6.9) (CD million)))) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 11.2) (CD million)))))))) (. .)))
+LastlastJJDATEPER0monthmonthNNDATEPER0itsitsPRP$OPER0presidentpresidentNNOPER0,,,OPER0JohnJohnNNPPERSONPER0S.S.NNPPERSONPER0DonnellyDonnellyNNPPERSONPER0,,,OPER0resignedresignVBDOPER0citingciteVBGOPER0``````OmanagementmanagementNNOPER2differencesdifferenceNNSOPER2''''''OPER0withwithINOPER0Mr.Mr.NNPOPER0KurzweilKurzweilNNPPERSONPER0...OPER0(ROOT (S (NP (JJ Last) (NN month)) (NP (NP (PRP$ its) (NN president)) (, ,) (NP (NNP John) (NNP S.) (NNP Donnelly)) (, ,)) (VP (VBD resigned) (S (VP (VBG citing) (`` ``) (NP (NN management) (NNS differences)) ('' '') (PP (IN with) (NP (NNP Mr.) (NNP Kurzweil)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP Kurzweil) (NNP Music) (NNPS Systems) (NNP Inc.))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 22 until 26 headed by 25 parsed as (NP (DT the) (ADJP (RB financially) (VBG struggling)) (NN company))
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Kurzweil)) (, ,) (NP (NP (NNP Waltham)) (, ,) (NP (NNP Mass.))) (, ,))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 2 until 11 headed by 4 parsed as (NP (NP (NNP Raymond) (NNP C.) (NNP Kurzweil)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (NN executive))) (, ,))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT The) (NN company))
+sid=3 spanning 25 until 26 headed by 25 parsed as its
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP Kurzweil))
+sid=5 spanning 2 until 3 headed by 2 parsed as its
+sid=5 spanning 16 until 18 headed by 17 parsed as (NP (NNP Mr.) (NNP Kurzweil))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP Kurzweil) (NNP Music) (NNPS Systems) (NNP Inc.))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 7 until 12 headed by 7 parsed as (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.))
+sid=0 spanning 14 until 26 headed by 15 parsed as (NP (NP (JJ financial) (NNS alternatives)) (, ,) (PP (VBG including) (NP (NP (DT the) (JJ possible) (NN sale)) (PP (IN of) (NP (DT the) (ADJP (RB financially) (VBG struggling)) (NN company))))))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (JJ financial) (NNS alternatives))
+sid=0 spanning 18 until 26 headed by 20 parsed as (NP (NP (DT the) (JJ possible) (NN sale)) (PP (IN of) (NP (DT the) (ADJP (RB financially) (VBG struggling)) (NN company))))
+sid=0 spanning 22 until 26 headed by 25 parsed as (NP (DT the) (ADJP (RB financially) (VBG struggling)) (NN company))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Kurzweil)) (, ,) (NP (NP (NNP Waltham)) (, ,) (NP (NNP Mass.))) (, ,))
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Kurzweil)) (, ,) (NP (NP (NNP Waltham)) (, ,) (NP (NNP Mass.))) (, ,))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NP (NNP Waltham)) (, ,) (NP (NNP Mass.)))
+sid=1 spanning 2 until 5 headed by 2 parsed as (NP (NP (NNP Waltham)) (, ,) (NP (NNP Mass.)))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Mass.))
+sid=1 spanning 7 until 16 headed by 10 parsed as (NP (NP (JJ digital) (JJ electronic) (NN keyboard) (NNS instruments)) (VP (VBN used) (PP (IN by) (NP (JJ professional) (NN recording) (NNS musicians)))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (JJ professional) (NN recording) (NNS musicians))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 9 headed by 4 parsed as (NP (NP (DT a) (NN line)) (PP (IN for) (NP (DT the) (NN home) (NN market))))
+sid=2 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN home) (NN market))
+sid=3 spanning 2 until 11 headed by 4 parsed as (NP (NP (NNP Raymond) (NNP C.) (NNP Kurzweil)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (NN executive))) (, ,))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT The) (NN company))
+sid=3 spanning 22 until 27 headed by 23 parsed as (NP (NP (DT the) (NN potential)) (PP (IN of) (NP (PRP$ its) (NN technology))))
+sid=3 spanning 25 until 27 headed by 26 parsed as (NP (PRP$ its) (NN technology))
+sid=3 spanning 25 until 26 headed by 25 parsed as (PRP$ its)
+sid=4 spanning 1 until 7 headed by 6 parsed as (NP (NP (DT the) (NN year) (POS 's)) (JJ first) (CD six) (NNS months))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (NNP Kurzweil))
+sid=4 spanning 10 until 22 headed by 11 parsed as (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 6.9) (CD million)))) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 11.2) (CD million)))))))
+sid=4 spanning 17 until 22 headed by 17 parsed as (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 11.2) (CD million)))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJ Last) (NN month))
+sid=5 spanning 2 until 9 headed by 3 parsed as (NP (NP (PRP$ its) (NN president)) (, ,) (NP (NNP John) (NNP S.) (NNP Donnelly)) (, ,))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ its) (NN president))
+sid=5 spanning 2 until 3 headed by 2 parsed as (PRP$ its)
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (NNP John) (NNP S.) (NNP Donnelly))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (NN management) (NNS differences))
+sid=5 spanning 16 until 18 headed by 17 parsed as (NP (NNP Mr.) (NNP Kurzweil))
+(end predicted mentions)
+---------gold clusters--------
+10 5 | { 'Mr. Kurzweil' 'Raymond C. Kurzweil , chairman and chief executive ,' }
+0 4 6 1 3 9 7 2 8 | { 'Kurzweil Music Systems Inc.' 'It' 'The company' 'it' 'Kurzweil , Waltham , Mass. ,' 'its' 'its' 'the financially struggling company' 'Kurzweil' }
+(end gold clusters)

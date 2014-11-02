@@ -1,0 +1,66 @@
+---------gloss--------
+(0) [4m[34m{It}[0m 's probably the most - watched vehicle since the O.J. Simpson chase , and now [4m[34m{it}[0m can be yours , for enough money . 
+(1) [4m[34m{The Ryder rental truck which carried Palm Beach County 's ballots to Tallahassee}[0m is up for [4m[33m{auction on the internet}[0m . 
+(2) [4m[35m{Budget Group , which owns Ryder ,}[0m says [4m[35m{it}[0m received numerous offers , but decided to [4m[33m{auction}[0m [4m[34m{the truck}[0m online , with the net proceeds going to the American Red Cross . 
+(3) So [4m[33m{it}[0m 's a good cause . 
+(4) The bidding was at $ 21,900 this morning , and will be open for a week . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0128); part 000
+sentences:
+ItitPRPOPER0'sbeVBZOPER0probablyprobablyRBOPER0thetheDTOPER0mostmostRBSOPER0--HYPHOPER0watchedwatchVBNOPER0vehiclevehicleNNOPER0sincesinceINOPER0thetheDTOPER0O.J.O.J.NNPPERSONPER0SimpsonSimpsonNNPPERSONPER0chasechaseNNOPER0,,,OPER0andandCCOPER0nownowRBOPER0ititPRPOPER0cancanMDOPER0bebeVBOPER0yoursyoursPRPOPER0,,,OPER0forforINOPER0enoughenoughJJOPER0moneymoneyNNOPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB probably)) (NP (NP (DT the) (ADJP (RBS most) (HYPH -) (VBN watched)) (NN vehicle)) (PP (IN since) (NP (DT the) (NML (NNP O.J.) (NNP Simpson)) (NN chase)))))) (, ,) (CC and) (S (ADVP (RB now)) (NP (PRP it)) (VP (MD can) (VP (VB be) (NP (PRP yours)) (, ,) (PP (IN for) (NP (JJ enough) (NN money)))))) (. .)))
+ThetheDTOPER0RyderRyderNNPORGPER0rentalrentalNNOPER0trucktruckNNOPER0whichwhichWDTOPER0carriedcarryVBDOPER0PalmPalmNNPGPEPER0BeachBeachNNPGPEPER0CountyCountyNNPGPEPER0's'sPOSGPEPER0ballotsballotNNSOPER0totoINOPER0TallahasseeTallahasseeNNPGPEPER0isbeVBZOPER0upupINOPER0forforINOPER0auctionauctionNNOPER0ononINOPER0thetheDTOPER0internetinternetNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NML (NNP Ryder) (NN rental)) (NN truck)) (SBAR (WHNP (WDT which)) (S (VP (VBD carried) (NP (NP (NML (NNP Palm) (NNP Beach)) (NNP County) (POS 's)) (NNS ballots)) (PP (IN to) (NP (NNP Tallahassee))))))) (VP (VBZ is) (PP (IN up) (PP (IN for) (NP (NP (NN auction)) (PP (IN on) (NP (DT the) (NN internet))))))) (. .)))
+BudgetBudgetNNPORGPER0GroupGroupNNPORGPER0,,,OPER0whichwhichWDTOPER0ownsownVBZOPER0RyderRyderNNPORGPER0,,,OPER0sayssayVBZOPER0ititPRPOPER0receivedreceiveVBDOPER0numerousnumerousJJOPER0offersofferNNSOPER0,,,OPER0butbutCCOPER0decideddecideVBDOPER0totoTOOPER0auctionauctionVBOPER0thetheDTOPER0trucktruckNNOPER0onlineonlineRBOPER0,,,OPER0withwithINOPER0thetheDTOPER0netnetJJOPER0proceedsproceedsNNSOPER0goinggoVBGOPER0totoINOPER0thetheDTORGPER0AmericanAmericanNNPORGPER0RedRedNNPORGPER0CrossCrossNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP Budget) (NNP Group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NNP Ryder))))) (, ,)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VP (VBD received) (NP (JJ numerous) (NNS offers))) (, ,) (CC but) (VP (VBD decided) (S (VP (TO to) (VP (VB auction) (NP (DT the) (NN truck)) (ADVP (RB online)) (, ,) (PP (IN with) (S (NP (DT the) (JJ net) (NNS proceeds)) (VP (VBG going) (PP (IN to) (NP (DT the) (NNP American) (NNP Red) (NNP Cross)))))))))))))) (. .)))
+SosoRBOPER0ititPRPOPER0'sbeVBZOPER0aaDTOPER0goodgoodJJOPER0causecauseNNOPER0...OPER0(ROOT (S (ADVP (RB So)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN cause))) (. .)))
+ThetheDTOPER0biddingbiddingNNOPER0wasbeVBDOPER0atatINOPER0$$$MONEYPER021,90021,900CDMONEYPER0thisthisDTDATEPER0morningmorningNNTIMEPER0,,,OPER0andandCCOPER0willwillMDOPER0bebeVBOPER0openopenJJOPER0forforINOPER0aaDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NN bidding)) (VP (VP (VBD was) (PP (IN at) (NP (NP ($ $) (CD 21,900)) (NP (DT this) (NN morning))))) (, ,) (CC and) (VP (MD will) (VP (VB be) (ADJP (JJ open) (PP (IN for) (NP (DT a) (NN week))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=1 spanning 0 until 13 headed by 3 parsed as (NP (NP (DT The) (NML (NNP Ryder) (NN rental)) (NN truck)) (SBAR (WHNP (WDT which)) (S (VP (VBD carried) (NP (NP (NML (NNP Palm) (NNP Beach)) (NNP County) (POS 's)) (NNS ballots)) (PP (IN to) (NP (NNP Tallahassee)))))))
+sid=1 spanning 1 until 2 headed by 1 parsed as Ryder
+sid=1 spanning 16 until 20 headed by 16 parsed as (NP (NP (NN auction)) (PP (IN on) (NP (DT the) (NN internet))))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Budget) (NNP Group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NNP Ryder))))) (, ,))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Ryder))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=2 spanning 16 until 17 headed by 16 parsed as auction
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN truck))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=0 spanning 3 until 13 headed by 7 parsed as (NP (NP (DT the) (ADJP (RBS most) (HYPH -) (VBN watched)) (NN vehicle)) (PP (IN since) (NP (DT the) (NML (NNP O.J.) (NNP Simpson)) (NN chase))))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (NML (NNP O.J.) (NNP Simpson)) (NN chase))
+sid=0 spanning 10 until 12 headed by 11 parsed as Simpson
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (PRP yours))
+sid=1 spanning 0 until 13 headed by 3 parsed as (NP (NP (DT The) (NML (NNP Ryder) (NN rental)) (NN truck)) (SBAR (WHNP (WDT which)) (S (VP (VBD carried) (NP (NP (NML (NNP Palm) (NNP Beach)) (NNP County) (POS 's)) (NNS ballots)) (PP (IN to) (NP (NNP Tallahassee)))))))
+sid=1 spanning 1 until 2 headed by 1 parsed as Ryder
+sid=1 spanning 6 until 11 headed by 10 parsed as (NP (NP (NML (NNP Palm) (NNP Beach)) (NNP County) (POS 's)) (NNS ballots))
+sid=1 spanning 6 until 10 headed by 8 parsed as (NP (NML (NNP Palm) (NNP Beach)) (NNP County) (POS 's))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Tallahassee))
+sid=1 spanning 16 until 20 headed by 16 parsed as (NP (NP (NN auction)) (PP (IN on) (NP (DT the) (NN internet))))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN internet))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Budget) (NNP Group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NNP Ryder))))) (, ,))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Budget) (NNP Group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NNP Ryder))))) (, ,))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Ryder))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (JJ numerous) (NNS offers))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN truck))
+sid=2 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (JJ net) (NNS proceeds))
+sid=2 spanning 27 until 31 headed by 30 parsed as (NP (DT the) (NNP American) (NNP Red) (NNP Cross))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (DT a) (JJ good) (NN cause))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN bidding))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (DT this) (NN morning))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT this) (NN morning))
+sid=4 spanning 6 until 7 headed by 6 parsed as this
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN week))
+(end predicted mentions)
+---------gold clusters--------
+8 10 4 | { 'auction' 'it' 'auction on the internet' }
+9 2 1 0 | { 'the truck' 'The Ryder rental truck which carried Palm Beach County 's ballots to Tallahassee' 'it' 'It' }
+7 5 | { 'it' 'Budget Group , which owns Ryder ,' }
+6 3 | { 'Ryder' 'Ryder' }
+(end gold clusters)

@@ -1,0 +1,36 @@
+---------gloss--------
+(0) Resolutely implementing the guidelines of self - dependence , fighting our way , and building country thriftily . 
+(1) Our country is a large developing socialist country , the standing point of economic construction must be placed on the foundation of our own strength . 
+(2) -- Extracted from the gazette of the 13th Plenary Session of the 7th Committee of the Chinese Communist Party 
+(end gloss)
+---------document--------
+(nw/xinhua/01/chtb_0195); part 000
+sentences:
+ResolutelyresolutelyRBOPER0implementingimplementVBGOPER0thetheDTOPER0guidelinesguidelineNNSOPER0ofofINOPER0selfselfNNOPER0--HYPHOPER0dependencedependenceNNOPER0,,,OPER0fightingfightVBGOPER0ourwePRP$OPER0waywayNNOPER0,,,OPER0andandCCOPER0buildingbuildVBGOPER0countrycountryNNOPER0thriftilythriftilyRBOPER0...OPER0(ROOT (S (ADVP (RB Resolutely)) (VP (VP (VBG implementing) (NP (NP (DT the) (NNS guidelines)) (PP (IN of) (NP (NN self) (HYPH -) (NN dependence))))) (, ,) (VP (VBG fighting) (NP (PRP$ our) (NN way))) (, ,) (CC and) (VP (VBG building) (NP (NN country)) (ADVP (RB thriftily)))) (. .)))
+OurwePRP$OPER0countrycountryNNOPER0isbeVBZOPER0aaDTOPER0largelargeJJOPER0developingdevelopVBGOPER0socialistsocialistJJOPER0countrycountryNNOPER0,,,OPER0thetheDTOPER0standingstandVBGOPER0pointpointNNOPER0ofofINOPER0economiceconomicJJOPER0constructionconstructionNNOPER0mustmustMDOPER0bebeVBOPER0placedplaceVBNOPER0ononINOPER0thetheDTOPER0foundationfoundationNNOPER0ofofINOPER0ourwePRP$OPER0ownownJJOPER0strengthstrengthNNOPER0...OPER0(ROOT (S (S (NP (PRP$ Our) (NN country)) (VP (VBZ is) (NP (DT a) (JJ large) (VBG developing) (JJ socialist) (NN country)))) (, ,) (S (NP (NP (DT the) (VBG standing) (NN point)) (PP (IN of) (NP (JJ economic) (NN construction)))) (VP (MD must) (VP (VB be) (VP (VBN placed) (PP (IN on) (NP (NP (DT the) (NN foundation)) (PP (IN of) (NP (PRP$ our) (JJ own) (NN strength))))))))) (. .)))
+----_NFPNFPOPER0ExtractedextractVBNPERSONPER0fromfromINOPER0thetheDTOPER0gazettegazetteNNOPER0ofofINOPER0thetheDTOPER013th13thJJORDINALPER0PlenaryPlenaryNNPORGPER0SessionSessionNNPORGPER0ofofINORGPER0thetheDTORGPER07th7thJJORGPER0CommitteeCommitteeNNPORGPER0ofofINOPER0thetheDTOPER0ChineseChineseNNPOPER0CommunistCommunistNNPORGPER0PartyPartyNNPORGPER0(ROOT (FRAG (NFP --) (S (VP (VBN Extracted) (PP (IN from) (NP (NP (DT the) (NN gazette)) (PP (IN of) (NP (NP (DT the) (JJ 13th) (NNP Plenary) (NNP Session)) (PP (IN of) (NP (NP (DT the) (JJ 7th) (NNP Committee)) (PP (IN of) (NP (DT the) (NNP Chinese) (NNP Communist) (NNP Party)))))))))))))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 8 headed by 3 parsed as (NP (NP (DT the) (NNS guidelines)) (PP (IN of) (NP (NN self) (HYPH -) (NN dependence))))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (NN self) (HYPH -) (NN dependence))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ our) (NN way))
+sid=0 spanning 10 until 11 headed by 10 parsed as (PRP$ our)
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ Our) (NN country))
+sid=1 spanning 0 until 1 headed by 0 parsed as (PRP$ Our)
+sid=1 spanning 3 until 8 headed by 7 parsed as (NP (DT a) (JJ large) (VBG developing) (JJ socialist) (NN country))
+sid=1 spanning 9 until 15 headed by 11 parsed as (NP (NP (DT the) (VBG standing) (NN point)) (PP (IN of) (NP (JJ economic) (NN construction))))
+sid=1 spanning 19 until 25 headed by 20 parsed as (NP (NP (DT the) (NN foundation)) (PP (IN of) (NP (PRP$ our) (JJ own) (NN strength))))
+sid=1 spanning 22 until 25 headed by 24 parsed as (NP (PRP$ our) (JJ own) (NN strength))
+sid=1 spanning 22 until 23 headed by 22 parsed as (PRP$ our)
+sid=2 spanning 1 until 2 headed by 1 parsed as Extracted
+sid=2 spanning 3 until 19 headed by 4 parsed as (NP (NP (DT the) (NN gazette)) (PP (IN of) (NP (NP (DT the) (JJ 13th) (NNP Plenary) (NNP Session)) (PP (IN of) (NP (NP (DT the) (JJ 7th) (NNP Committee)) (PP (IN of) (NP (DT the) (NNP Chinese) (NNP Communist) (NNP Party))))))))
+sid=2 spanning 6 until 19 headed by 9 parsed as (NP (NP (DT the) (JJ 13th) (NNP Plenary) (NNP Session)) (PP (IN of) (NP (NP (DT the) (JJ 7th) (NNP Committee)) (PP (IN of) (NP (DT the) (NNP Chinese) (NNP Communist) (NNP Party))))))
+sid=2 spanning 7 until 8 headed by 7 parsed as 13th
+sid=2 spanning 11 until 19 headed by 13 parsed as (NP (NP (DT the) (JJ 7th) (NNP Committee)) (PP (IN of) (NP (DT the) (NNP Chinese) (NNP Communist) (NNP Party))))
+sid=2 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (NNP Chinese) (NNP Communist) (NNP Party))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

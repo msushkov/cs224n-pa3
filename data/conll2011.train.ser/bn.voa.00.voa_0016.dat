@@ -1,0 +1,39 @@
+---------gloss--------
+(0) Israeli police have reclaimed control over the site of the Al - Aqsa Mosque in [3m[34m{Jerusalem}[0m . 
+(1) Police officers tore down Palestinian flags and arrested rock throwing protestors . 
+(2) About 10 Palestinians were killed in gun battles with Israeli forces during Friday 's day of rage in [3m[34m{Jerusalem}[0m and the Palestinian territories . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0016); part 000
+sentences:
+IsraeliisraeliJJOPER0policepoliceNNSOPER0havehaveVBPOPER0reclaimedreclaimVBNOPER0controlcontrolNNOPER0overoverINOPER0thetheDTOPER0sitesiteNNOPER0ofofINOPER0thetheDTORGPER0AlAlNNPORGPER0--HYPHORGPER0AqsaAqsaNNPORGPER0MosqueMosqueNNPORGPER0ininINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS police)) (VP (VBP have) (VP (VBN reclaimed) (NP (NP (NN control)) (PP (IN over) (NP (NP (DT the) (NN site)) (PP (IN of) (NP (DT the) (NML (NNP Al) (HYPH -) (NNP Aqsa)) (NNP Mosque)))))) (PP (IN in) (NP (NNP Jerusalem))))) (. .)))
+PolicepoliceNNOPER0officersofficerNNSOPER0toretearVBDOPER0downdownRPOPER0PalestinianpalestinianJJORGPER0flagsflagNNSOPER0andandCCOPER0arrestedarrestVBNOPER0rockrockNNOPER0throwingthrowVBGOPER0protestorsprotestorNNSOPER0...OPER0(ROOT (S (NP (NN Police) (NNS officers)) (VP (VBD tore) (PRT (RP down)) (NP (NP (JJ Palestinian) (NNS flags)) (CC and) (NP (VBN arrested) (ADJP (NN rock) (VBG throwing)) (NNS protestors)))) (. .)))
+AboutaboutRBCARDINALPER01010CDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0killedkillVBNOPER0ininINOPER0gungunNNOPER0battlesbattleNNSOPER0withwithINOPER0IsraeliisraeliJJOPER0forcesforceNNSOPER0duringduringINOPER0FridayFridayNNPDATEPER0's'sPOSOPER0daydayNNOPER0ofofINOPER0ragerageNNOPER0ininINOPER0JerusalemJerusalemNNPGPEPER0andandCCOPER0thetheDTOPER0PalestinianpalestinianJJOPER0territoriesterritoryNNSOPER0...OPER0(ROOT (S (NP (QP (RB About) (CD 10)) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed) (PP (IN in) (NP (NP (NN gun) (NNS battles)) (PP (IN with) (NP (JJ Israeli) (NNS forces))))) (PP (IN during) (NP (NP (NP (NNP Friday) (POS 's)) (NN day)) (PP (IN of) (NP (NN rage))) (PP (IN in) (NP (NP (NNP Jerusalem)) (CC and) (NP (DT the) (JJ Palestinian) (NNS territories)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNP Jerusalem))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NP (NNP Jerusalem)) (CC and) (NP (DT the) (JJ Palestinian) (NNS territories)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS police))
+sid=0 spanning 4 until 14 headed by 4 parsed as (NP (NP (NN control)) (PP (IN over) (NP (NP (DT the) (NN site)) (PP (IN of) (NP (DT the) (NML (NNP Al) (HYPH -) (NNP Aqsa)) (NNP Mosque))))))
+sid=0 spanning 6 until 14 headed by 7 parsed as (NP (NP (DT the) (NN site)) (PP (IN of) (NP (DT the) (NML (NNP Al) (HYPH -) (NNP Aqsa)) (NNP Mosque))))
+sid=0 spanning 9 until 14 headed by 13 parsed as (NP (DT the) (NML (NNP Al) (HYPH -) (NNP Aqsa)) (NNP Mosque))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNP Jerusalem))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NN Police) (NNS officers))
+sid=1 spanning 4 until 11 headed by 5 parsed as (NP (NP (JJ Palestinian) (NNS flags)) (CC and) (NP (VBN arrested) (ADJP (NN rock) (VBG throwing)) (NNS protestors)))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (JJ Palestinian) (NNS flags))
+sid=1 spanning 7 until 11 headed by 10 parsed as (NP (VBN arrested) (ADJP (NN rock) (VBG throwing)) (NNS protestors))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (QP (RB About) (CD 10)) (NNPS Palestinians))
+sid=2 spanning 6 until 11 headed by 7 parsed as (NP (NP (NN gun) (NNS battles)) (PP (IN with) (NP (JJ Israeli) (NNS forces))))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (JJ Israeli) (NNS forces))
+sid=2 spanning 12 until 23 headed by 14 parsed as (NP (NP (NP (NNP Friday) (POS 's)) (NN day)) (PP (IN of) (NP (NN rage))) (PP (IN in) (NP (NP (NNP Jerusalem)) (CC and) (NP (DT the) (JJ Palestinian) (NNS territories)))))
+sid=2 spanning 12 until 14 headed by 12 parsed as (NP (NNP Friday) (POS 's))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NP (NNP Jerusalem)) (CC and) (NP (DT the) (JJ Palestinian) (NNS territories)))
+sid=2 spanning 18 until 23 headed by 18 parsed as (NP (NP (NNP Jerusalem)) (CC and) (NP (DT the) (JJ Palestinian) (NNS territories)))
+sid=2 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (JJ Palestinian) (NNS territories))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'Jerusalem' 'Jerusalem' }
+(end gold clusters)

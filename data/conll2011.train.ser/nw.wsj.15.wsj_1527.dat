@@ -1,0 +1,39 @@
+---------gloss--------
+(0) [4m[35m{Gerard E. Wood , 51 years old ,}[0m was elected president , chief executive officer and a director of this minerals and materials company . 
+(1) [4m[35m{He}[0m succeeds Harry A. Durney , 65 , who is retiring from active duty but remains a director and consultant . 
+(2) [4m[35m{Mr. Wood}[0m has been president and chief executive of Steep Rock Resources Inc . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1527); part 000
+sentences:
+GerardGerardNNPPERSONPER0E.E.NNPPERSONPER0WoodWoodNNPPERSONPER0,,,OPER05151CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0wasbeVBDOPER0electedelectVBNOPER0presidentpresidentNNOPER0,,,OPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0andandCCOPER0aaDTOPER0directordirectorNNOPER0ofofINOPER0thisthisDTOPER0mineralsmineralNNSOPER0andandCCOPER0materialsmaterialNNSOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NP (NNP Gerard) (NNP E.) (NNP Wood)) (, ,) (ADJP (NML (CD 51) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (NN president)) (, ,) (NP (JJ chief) (JJ executive) (NN officer)) (CC and) (NP (DT a) (NN director)) (PP (IN of) (NP (DT this) (NML (NNS minerals) (CC and) (NNS materials)) (NN company))))))) (. .)))
+HehePRPOPER0succeedssucceedVBZOPER0HarryHarryNNPPERSONPER0A.A.NNPPERSONPER0DurneyDurneyNNPPERSONPER0,,,OPER06565CDDATEPER0,,,OPER0whowhoWPOPER0isbeVBZOPER0retiringretireVBGOPER0fromfromINOPER0activeactiveJJOPER0dutydutyNNOPER0butbutCCOPER0remainsremainVBZOPER0aaDTOPER0directordirectorNNOPER0andandCCOPER0consultantconsultantNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ succeeds) (NP (NP (NP (NNP Harry) (NNP A.) (NNP Durney)) (, ,) (NP (CD 65))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBZ is) (VP (VBG retiring) (PP (IN from) (NP (JJ active) (NN duty))))) (CC but) (VP (VBZ remains) (NP (NP (DT a) (NN director)) (CC and) (NP (NN consultant))))))))) (. .)))
+Mr.Mr.NNPOPER0WoodWoodNNPPERSONPER0hashaveVBZOPER0beenbeVBNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveNNOPER0ofofINOPER0SteepsteepJJORGPER0RockRockNNPORGPER0ResourcesResourcesNNPORGPER0IncIncNNPORGPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Wood)) (VP (VBZ has) (VP (VBN been) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NML (JJ Steep) (NNP Rock)) (NNP Resources) (NNP Inc)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Gerard) (NNP E.) (NNP Wood)) (, ,) (ADJP (NML (CD 51) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Wood))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Gerard) (NNP E.) (NNP Wood)) (, ,) (ADJP (NML (CD 51) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Gerard) (NNP E.) (NNP Wood)) (, ,) (ADJP (NML (CD 51) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 4 until 7 headed by 6 parsed as old
+sid=0 spanning 10 until 24 headed by 10 parsed as (NP (NP (NN president)) (, ,) (NP (JJ chief) (JJ executive) (NN officer)) (CC and) (NP (DT a) (NN director)) (PP (IN of) (NP (DT this) (NML (NNS minerals) (CC and) (NNS materials)) (NN company))))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN director))
+sid=0 spanning 19 until 24 headed by 23 parsed as (NP (DT this) (NML (NNS minerals) (CC and) (NNS materials)) (NN company))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 5 headed by 4 parsed as (NP (NP (NP (NNP Harry) (NNP A.) (NNP Durney)) (, ,) (NP (CD 65))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBZ is) (VP (VBG retiring) (PP (IN from) (NP (JJ active) (NN duty))))) (CC but) (VP (VBZ remains) (NP (NP (DT a) (NN director)) (CC and) (NP (NN consultant))))))))
+sid=1 spanning 2 until 20 headed by 4 parsed as (NP (NP (NP (NNP Harry) (NNP A.) (NNP Durney)) (, ,) (NP (CD 65))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBZ is) (VP (VBG retiring) (PP (IN from) (NP (JJ active) (NN duty))))) (CC but) (VP (VBZ remains) (NP (NP (DT a) (NN director)) (CC and) (NP (NN consultant))))))))
+sid=1 spanning 2 until 7 headed by 4 parsed as (NP (NP (NNP Harry) (NNP A.) (NNP Durney)) (, ,) (NP (CD 65)))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (CD 65))
+sid=1 spanning 16 until 20 headed by 17 parsed as (NP (NP (DT a) (NN director)) (CC and) (NP (NN consultant)))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN director))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Wood))
+sid=2 spanning 4 until 13 headed by 4 parsed as (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NML (JJ Steep) (NNP Rock)) (NNP Resources) (NNP Inc))))
+sid=2 spanning 9 until 13 headed by 12 parsed as (NP (NML (JJ Steep) (NNP Rock)) (NNP Resources) (NNP Inc))
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'Mr. Wood' 'Gerard E. Wood , 51 years old ,' 'He' }
+(end gold clusters)

@@ -1,0 +1,54 @@
+---------gloss--------
+(0) Thank [1m[35m{you}[0m very much [1m[35m{Tony}[0m . 
+(1) [1m[34m{Israeli - Palestinian talks}[0m are set to [1m[36m{resume}[0m today in Taba Egypt . 
+(2) Israel suspended [1m[34m{the talks}[0m Tuesday to protest the murders of two Israeli citizens by Palestinian gunmen in the West Bank , but [1m[33m{Prime Minister Ehud Barak}[0m and [1m[33m{his}[0m senior ministers decided on [1m[36m{the resumption}[0m during a Wednesday conference at [1m[33m{Mr. Barak 's}[0m residence in Jerusalem . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0256); part 000
+sentences:
+ThankthankVBPOPER0youyouPRPOPER0veryveryRBOPER0muchmuchRBOPER0TonyTonyNNPPERSONPER0...OPER0(ROOT (S (VP (VBP Thank) (NP (PRP you)) (ADVP (RB very) (RB much)) (NP (NNP Tony))) (. .)))
+IsraeliisraeliJJOPER0--HYPHOPER0PalestinianpalestinianJJOPER0talkstalkNNSOPER0arebeVBPOPER0setsetVBNOPER0totoTOOPER0resumeresumeVBOPER0todaytodayNNDATEPER0ininINOPER0TabaTabaNNPGPEPER0EgyptEgyptNNPGPEPER0...OPER0(ROOT (S (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NNS talks)) (VP (VBP are) (VP (VBN set) (S (VP (TO to) (VP (VB resume) (NP (NN today)) (PP (IN in) (NP (NP (NNP Taba)) (NP (NNP Egypt))))))))) (. .)))
+IsraelIsraelNNPGPEPER0suspendedsuspendVBDOPER0thetheDTOPER0talkstalkNNSOPER0TuesdayTuesdayNNPDATEPER0totoTOOPER0protestprotestVBOPER0thetheDTOPER0murdersmurderNNSOPER0ofofINOPER0twotwoCDCARDINALPER0IsraeliisraeliJJOPER0citizenscitizenNNSOPER0bybyINOPER0PalestinianpalestinianJJOPER0gunmengunmanNNSOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0,,,OPER0butbutCCOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0andandCCOPER0hishePRP$OPER0seniorseniorJJOPER0ministersministerNNSOPER0decideddecideVBDOPER0ononINOPER0thetheDTOPER0resumptionresumptionNNOPER0duringduringINOPER0aaDTOPER0WednesdayWednesdayNNPDATEPER0conferenceconferenceNNOPER0atatINOPER0Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0's'sPOSOPER0residenceresidenceNNOPER0ininINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (S (NP (NNP Israel)) (VP (VBD suspended) (NP (DT the) (NNS talks)) (NP (NNP Tuesday)) (S (VP (TO to) (VP (VB protest) (NP (NP (DT the) (NNS murders)) (PP (IN of) (NP (CD two) (JJ Israeli) (NNS citizens))) (PP (IN by) (NP (NP (JJ Palestinian) (NNS gunmen)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))))))))) (, ,) (CC but) (S (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (CC and) (NP (PRP$ his) (JJ senior) (NNS ministers))) (VP (VBD decided) (PP (IN on) (NP (NP (DT the) (NN resumption)) (PP (IN during) (NP (NP (DT a) (NNP Wednesday) (NN conference)) (PP (IN at) (NP (NP (NNP Mr.) (NNP Barak) (POS 's)) (NN residence))) (PP (IN in) (NP (NNP Jerusalem))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Tony))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NNS talks))
+sid=1 spanning 7 until 8 headed by 7 parsed as resume
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS talks))
+sid=2 spanning 22 until 26 headed by 25 parsed as (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (CC and) (NP (PRP$ his) (JJ senior) (NNS ministers)))
+sid=2 spanning 27 until 28 headed by 27 parsed as his
+sid=2 spanning 32 until 34 headed by 33 parsed as (NP (NP (DT the) (NN resumption)) (PP (IN during) (NP (NP (DT a) (NNP Wednesday) (NN conference)) (PP (IN at) (NP (NP (NNP Mr.) (NNP Barak) (POS 's)) (NN residence))) (PP (IN in) (NP (NNP Jerusalem))))))
+sid=2 spanning 39 until 42 headed by 40 parsed as (NP (NNP Mr.) (NNP Barak) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Tony))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NNS talks))
+sid=1 spanning 10 until 12 headed by 10 parsed as (NP (NP (NNP Taba)) (NP (NNP Egypt)))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS talks))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNP Tuesday))
+sid=2 spanning 7 until 20 headed by 8 parsed as (NP (NP (DT the) (NNS murders)) (PP (IN of) (NP (CD two) (JJ Israeli) (NNS citizens))) (PP (IN by) (NP (NP (JJ Palestinian) (NNS gunmen)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))))
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (CD two) (JJ Israeli) (NNS citizens))
+sid=2 spanning 14 until 20 headed by 15 parsed as (NP (NP (JJ Palestinian) (NNS gunmen)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))
+sid=2 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (CC and) (NP (PRP$ his) (JJ senior) (NNS ministers)))
+sid=2 spanning 22 until 30 headed by 25 parsed as (NP (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (CC and) (NP (PRP$ his) (JJ senior) (NNS ministers)))
+sid=2 spanning 22 until 26 headed by 25 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=2 spanning 27 until 30 headed by 29 parsed as (NP (PRP$ his) (JJ senior) (NNS ministers))
+sid=2 spanning 27 until 28 headed by 27 parsed as (PRP$ his)
+sid=2 spanning 32 until 45 headed by 33 parsed as (NP (NP (DT the) (NN resumption)) (PP (IN during) (NP (NP (DT a) (NNP Wednesday) (NN conference)) (PP (IN at) (NP (NP (NNP Mr.) (NNP Barak) (POS 's)) (NN residence))) (PP (IN in) (NP (NNP Jerusalem))))))
+sid=2 spanning 35 until 45 headed by 37 parsed as (NP (NP (DT a) (NNP Wednesday) (NN conference)) (PP (IN at) (NP (NP (NNP Mr.) (NNP Barak) (POS 's)) (NN residence))) (PP (IN in) (NP (NNP Jerusalem))))
+sid=2 spanning 36 until 37 headed by 36 parsed as Wednesday
+sid=2 spanning 39 until 43 headed by 42 parsed as (NP (NP (NNP Mr.) (NNP Barak) (POS 's)) (NN residence))
+sid=2 spanning 39 until 42 headed by 40 parsed as (NP (NNP Mr.) (NNP Barak) (POS 's))
+sid=2 spanning 44 until 45 headed by 44 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+5 8 6 | { 'Prime Minister Ehud Barak' 'Mr. Barak 's' 'his' }
+4 2 | { 'the talks' 'Israeli - Palestinian talks' }
+1 0 | { 'Tony' 'you' }
+3 7 | { 'resume' 'the resumption' }
+(end gold clusters)

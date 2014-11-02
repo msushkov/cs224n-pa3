@@ -1,0 +1,34 @@
+---------gloss--------
+(0) [4m[35m{The Navy}[0m [4m[36m{awarded}[0m Litton Industries Inc. 's Ingalls Shipbuilding division $ 15.5 million for shipyard services on the Aegis cruiser program . 
+(1) [4m[36m{The award}[0m exercises a [4m[35m{Navy}[0m option to extend a contract given in 1984 . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1061); part 000
+sentences:
+ThetheDTOPER0NavyNavyNNPORGPER0awardedawardVBDOPER0LittonLittonNNPORGPER0IndustriesIndustriesNNPORGPER0Inc.Inc.NNPORGPER0's'sPOSORGPER0IngallsIngallsNNPORGPER0ShipbuildingShipbuildingNNPORGPER0divisiondivisionNNOPER0$$$MONEYPER015.515.5CDMONEYPER0millionmillionCDMONEYPER0forforINOPER0shipyardshipyardNNOPER0servicesserviceNNSOPER0ononINOPER0thetheDTOPER0AegisAegisNNPPRODUCTPER0cruisercruiserNNOPER0programprogramNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Navy)) (VP (VBD awarded) (NP (NP (NNP Litton) (NNP Industries) (NNP Inc.) (POS 's)) (NML (NNP Ingalls) (NNP Shipbuilding)) (NN division)) (NP (NP (QP ($ $) (CD 15.5) (CD million))) (PP (IN for) (NP (NP (NN shipyard) (NNS services)) (PP (IN on) (NP (DT the) (NNP Aegis) (NN cruiser) (NN program))))))) (. .)))
+ThetheDTOPER0awardawardNNOPER0exercisesexerciseVBZOPER0aaDTOPER0NavyNavyNNPORGPER0optionoptionNNOPER0totoTOOPER0extendextendVBOPER0aaDTOPER0contractcontractNNOPER0givengiveVBNOPER0ininINOPER019841984CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NN award)) (VP (VBZ exercises) (NP (NP (DT a) (NNP Navy) (NN option)) (SBAR (S (VP (TO to) (VP (VB extend) (NP (NP (DT a) (NN contract)) (VP (VBN given) (PP (IN in) (NP (CD 1984))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Navy))
+sid=0 spanning 2 until 3 headed by 2 parsed as awarded
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN award))
+sid=1 spanning 4 until 5 headed by 4 parsed as Navy
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Navy))
+sid=0 spanning 3 until 10 headed by 9 parsed as (NP (NP (NNP Litton) (NNP Industries) (NNP Inc.) (POS 's)) (NML (NNP Ingalls) (NNP Shipbuilding)) (NN division))
+sid=0 spanning 3 until 9 headed by 8 parsed as Shipbuilding
+sid=0 spanning 14 until 21 headed by 15 parsed as (NP (NP (NN shipyard) (NNS services)) (PP (IN on) (NP (DT the) (NNP Aegis) (NN cruiser) (NN program))))
+sid=0 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (NNP Aegis) (NN cruiser) (NN program))
+sid=0 spanning 18 until 19 headed by 18 parsed as Aegis
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN award))
+sid=1 spanning 3 until 13 headed by 5 parsed as (NP (NP (DT a) (NNP Navy) (NN option)) (SBAR (S (VP (TO to) (VP (VB extend) (NP (NP (DT a) (NN contract)) (VP (VBN given) (PP (IN in) (NP (CD 1984))))))))))
+sid=1 spanning 4 until 5 headed by 4 parsed as Navy
+sid=1 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT a) (NN contract)) (VP (VBN given) (PP (IN in) (NP (CD 1984)))))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (CD 1984))
+(end predicted mentions)
+---------gold clusters--------
+3 0 | { 'Navy' 'The Navy' }
+1 2 | { 'awarded' 'The award' }
+(end gold clusters)

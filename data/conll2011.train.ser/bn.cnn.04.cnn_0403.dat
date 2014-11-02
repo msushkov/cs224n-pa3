@@ -1,0 +1,40 @@
+---------gloss--------
+(0) The draining of [34m{a pond}[0m for anthrax evidence in Maryland is finished . 
+(1) Up next for investigators , to try to search sediment on the bottom of [34m{the pond located just outside Fredrick , not far from Washington , D.C}[0m . 
+(2) It 's part of the investigation into the deadly anthrax attacks in the fall of 2001 in which five people were killed . 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0403); part 000
+sentences:
+ThetheDTOPER0drainingdrainingNNOPER0ofofINOPER0aaDTOPER0pondpondNNOPER0forforINOPER0anthraxanthraxNNOPER0evidenceevidenceNNOPER0ininINOPER0MarylandMarylandNNPGPEPER0isbeVBZOPER0finishedfinishVBNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN draining)) (PP (IN of) (NP (NP (DT a) (NN pond)) (PP (IN for) (NP (NP (NN anthrax) (NN evidence)) (PP (IN in) (NP (NNP Maryland)))))))) (VP (VBZ is) (VP (VBN finished))) (. .)))
+UpupRBOPER0nextnextRBOPER0forforINOPER0investigatorsinvestigatorNNSOPER0,,,OPER0totoTOOPER0trytryVBOPER0totoTOOPER0searchsearchVBOPER0sedimentsedimentNNOPER0ononINOPER0thetheDTOPER0bottombottomNNOPER0ofofINOPER0thetheDTOPER0pondpondNNOPER0locatedlocateVBNOPER0justjustRBOPER0outsideoutsideINOPER0FredrickFredrickNNPGPEPER0,,,OPER0notnotRBOPER0farfarRBOPER0fromfromINOPER0WashingtonWashingtonNNPGPEPER0,,,OPER0D.CD.CNNPGPEPER0...OPER0(ROOT (FRAG (FRAG (ADVP (RB Up)) (ADVP (RB next)) (PP (IN for) (NP (NNS investigators)))) (, ,) (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB search) (NP (NN sediment)) (PP (IN on) (NP (NP (DT the) (NN bottom)) (PP (IN of) (NP (NP (DT the) (NN pond)) (VP (VBN located) (PP (ADVP (RB just)) (IN outside) (NP (NNP Fredrick)))))))) (, ,) (ADVP (ADVP (RB not) (RB far)) (PP (IN from) (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C))))))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0investigationinvestigationNNOPER0intointoINOPER0thetheDTOPER0deadlydeadlyJJOPER0anthraxanthraxNNOPER0attacksattackNNSOPER0ininINOPER0thetheDTDATEPER0fallfallNNDATEPER0ofofINDATEPER020012001CDDATEPER0ininINOPER0whichwhichWDTOPER0fivefiveCDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (NN investigation)) (PP (IN into) (NP (NP (DT the) (JJ deadly) (NN anthrax) (NNS attacks)) (PP (IN in) (NP (NP (DT the) (NN fall)) (PP (IN of) (NP (NP (CD 2001)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD five) (NNS people)) (VP (VBD were) (VP (VBN killed))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NP (DT a) (NN pond)) (PP (IN for) (NP (NP (NN anthrax) (NN evidence)) (PP (IN in) (NP (NNP Maryland))))))
+sid=1 spanning 14 until 27 headed by 15 parsed as (NP (NP (DT the) (NN pond)) (VP (VBN located) (PP (ADVP (RB just)) (IN outside) (NP (NNP Fredrick)))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NN draining)) (PP (IN of) (NP (NP (DT a) (NN pond)) (PP (IN for) (NP (NP (NN anthrax) (NN evidence)) (PP (IN in) (NP (NNP Maryland))))))))
+sid=0 spanning 3 until 10 headed by 4 parsed as (NP (NP (DT a) (NN pond)) (PP (IN for) (NP (NP (NN anthrax) (NN evidence)) (PP (IN in) (NP (NNP Maryland))))))
+sid=0 spanning 6 until 10 headed by 7 parsed as (NP (NP (NN anthrax) (NN evidence)) (PP (IN in) (NP (NNP Maryland))))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Maryland))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNS investigators))
+sid=1 spanning 11 until 20 headed by 12 parsed as (NP (NP (DT the) (NN bottom)) (PP (IN of) (NP (NP (DT the) (NN pond)) (VP (VBN located) (PP (ADVP (RB just)) (IN outside) (NP (NNP Fredrick)))))))
+sid=1 spanning 14 until 20 headed by 15 parsed as (NP (NP (DT the) (NN pond)) (VP (VBN located) (PP (ADVP (RB just)) (IN outside) (NP (NNP Fredrick)))))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NNP Fredrick))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C)))
+sid=1 spanning 24 until 27 headed by 24 parsed as (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C)))
+sid=1 spanning 26 until 27 headed by 26 parsed as (NP (NNP D.C))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 2 until 22 headed by 2 parsed as (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (NN investigation)) (PP (IN into) (NP (NP (DT the) (JJ deadly) (NN anthrax) (NNS attacks)) (PP (IN in) (NP (NP (DT the) (NN fall)) (PP (IN of) (NP (NP (CD 2001)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD five) (NNS people)) (VP (VBD were) (VP (VBN killed))))))))))))))
+sid=2 spanning 4 until 22 headed by 5 parsed as (NP (NP (DT the) (NN investigation)) (PP (IN into) (NP (NP (DT the) (JJ deadly) (NN anthrax) (NNS attacks)) (PP (IN in) (NP (NP (DT the) (NN fall)) (PP (IN of) (NP (NP (CD 2001)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD five) (NNS people)) (VP (VBD were) (VP (VBN killed))))))))))))
+sid=2 spanning 7 until 22 headed by 10 parsed as (NP (NP (DT the) (JJ deadly) (NN anthrax) (NNS attacks)) (PP (IN in) (NP (NP (DT the) (NN fall)) (PP (IN of) (NP (NP (CD 2001)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD five) (NNS people)) (VP (VBD were) (VP (VBN killed))))))))))
+sid=2 spanning 12 until 22 headed by 13 parsed as (NP (NP (DT the) (NN fall)) (PP (IN of) (NP (NP (CD 2001)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD five) (NNS people)) (VP (VBD were) (VP (VBN killed))))))))
+sid=2 spanning 15 until 22 headed by 15 parsed as (NP (NP (CD 2001)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD five) (NNS people)) (VP (VBD were) (VP (VBN killed))))))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (CD five) (NNS people))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'the pond located just outside Fredrick , not far from Washington , D.C' 'a pond' }
+(end gold clusters)

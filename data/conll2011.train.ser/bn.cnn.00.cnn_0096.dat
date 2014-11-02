@@ -1,0 +1,138 @@
+---------gloss--------
+(0) If [3m[31m{the volatility of the stock market}[0m has you concerned about your investments , you may want to consider something designed to be a bit more stable . 
+(1) [1m[33m{Valarie Morris}[0m has more . 
+(2) [1m[35m{The stock market 's}[0m recent volatility likely has some investors seeking a safe haven . 
+(3) One way to go is [1m[32m{a Real Estate Investment Trust or REAT}[0m . 
+(4) [1m[32m{They}[0m own and operate apartment complexes and office buildings and other properties . 
+(5) Demand is high for space . 
+(6) By law , [1m[32m{the trust}[0m must [1m[34m{pay}[0m out 5 % of [1m[32m{its}[0m taxable income each year and [1m[34m{that}[0m , in turn , creates big dividends . 
+(7) [1m[32m{The group}[0m so far in the third quarter for [3m[32m{those companies that have reported}[0m have generated about 0 % earnings growth . 
+(8) We think over the long term , at least for the next couple of years , that many of [3m[32m{these companies}[0m can have high single digit revenue growth . 
+(9) So far this return , returns are up more than 15 % , compared to the S&P 500 's loss of nearly 3 % and the Nasdaq 's loss of more than 15 % , but while [1m[32m{REATs}[0m offer some stability in a volatile market , there is some risk as well . 
+(10) You think about [1m[36m{real estate}[0m , [1m[36m{it}[0m 's a cyclical industry . 
+(11) The things that have gotten you in trouble are too much supply . 
+(12) Demand is relatively stable , but the ups and downs relative to supply were what hurts you in the real estate markets . 
+(13) That 's `` your money . '' 
+(14) [1m[33m{Valarie Morris}[0m , `` CNN Financial News , '' New York . 
+(15) For more business and consumer news , click on to cnnfn.com . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0096); part 000
+sentences:
+IfifINOPER0thetheDTOPER0volatilityvolatilityNNOPER0ofofINOPER0thetheDTOPER0stockstockNNOPER0marketmarketNNOPER0hashaveVBZOPER0youyouPRPOPER0concernedconcernVBNOPER0aboutaboutINOPER0youryouPRP$OPER0investmentsinvestmentNNSOPER0,,,OPER0youyouPRPOPER0maymayMDOPER0wantwantVBOPER0totoTOOPER0considerconsiderVBOPER0somethingsomethingNNOPER0designeddesignVBNOPER0totoTOOPER0bebeVBOPER0aaDTOPER0bitbitNNOPER0moremoreRBROPER0stablestableJJOPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (NP (DT the) (NN volatility)) (PP (IN of) (NP (DT the) (NN stock) (NN market)))) (VP (VBZ has) (S (NP (PRP you)) (VP (VBN concerned) (PP (IN about) (NP (PRP$ your) (NNS investments)))))))) (, ,) (NP (PRP you)) (VP (MD may) (VP (VB want) (S (VP (TO to) (VP (VB consider) (NP (NP (NN something)) (VP (VBN designed) (S (VP (TO to) (VP (VB be) (ADJP (ADVP (NP (DT a) (NN bit)) (RBR more)) (JJ stable)))))))))))) (. .)))
+ValarieValarieNNPORGPER0MorrisMorrisNNPORGPER0hashaveVBZOPER0moremoreJJROPER0...OPER0(ROOT (S (NP (NNP Valarie) (NNP Morris)) (VP (VBZ has) (NP (JJR more))) (. .)))
+ThetheDTOPER0stockstockNNOPER0marketmarketNNOPER0's'sPOSOPER0recentrecentJJOPER0volatilityvolatilityNNOPER0likelylikelyRBOPER0hashaveVBZOPER0somesomeDTOPER0investorsinvestorNNSOPER0seekingseekVBGOPER0aaDTOPER0safesafeJJOPER0havenhavenNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN stock) (NN market) (POS 's)) (JJ recent) (NN volatility)) (ADVP (RB likely)) (VP (VBZ has) (NP (NP (DT some) (NNS investors)) (VP (VBG seeking) (NP (DT a) (JJ safe) (NN haven))))) (. .)))
+OneoneCDCARDINALPER0waywayNNOPER0totoTOOPER0gogoVBOPER0isbeVBZOPER0aaDTOPER0RealRealNNPORGPER0EstateEstateNNPORGPER0InvestmentInvestmentNNPORGPER0TrustTrustNNPORGPER0ororCCOPER0REATREATNNPOPER0...OPER0(ROOT (S (NP (NP (CD One) (NN way)) (VP (TO to) (VP (VB go)))) (VP (VBZ is) (NP (DT a) (NML (NML (NNP Real) (NNP Estate)) (NNP Investment)) (NNP Trust) (CC or) (NNP REAT))) (. .)))
+TheytheyPRPOPER0ownownVBPOPER0andandCCOPER0operateoperateVBPOPER0apartmentapartmentNNOPER0complexescomplexNNSOPER0andandCCOPER0officeofficeNNOPER0buildingsbuildingNNSOPER0andandCCOPER0otherotherJJOPER0propertiespropertyNNSOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP own) (CC and) (VBP operate) (NP (NP (NN apartment) (NNS complexes)) (CC and) (NP (NN office) (NNS buildings)) (CC and) (NP (JJ other) (NNS properties)))) (. .)))
+DemanddemandNNOPER0isbeVBZOPER0highhighJJOPER0forforINOPER0spacespaceNNOPER0...OPER0(ROOT (S (NP (NN Demand)) (VP (VBZ is) (ADJP (JJ high)) (PP (IN for) (NP (NN space)))) (. .)))
+BybyINOPER0lawlawNNOPER0,,,OPER0thetheDTOPER0trusttrustNNOPER0mustmustMDOPER0paypayVBOPER0outoutRPOPER055CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0itsitsPRP$OPER0taxabletaxableJJOPER0incomeincomeNNOPER0eacheachDTDATEPER0yearyearNNDATEPER0andandCCOPER0thatthatDTOPER0,,,OPER0ininINOPER0turnturnNNOPER0,,,OPER0createscreateVBZOPER0bigbigJJOPER0dividendsdividendNNSOPER0...OPER0(ROOT (S (S (PP (IN By) (NP (NN law))) (, ,) (NP (DT the) (NN trust)) (VP (MD must) (VP (VB pay) (PRT (RP out)) (NP (NP (CD 5) (NN %)) (PP (IN of) (NP (NP (PRP$ its) (JJ taxable) (NN income)) (NP (DT each) (NN year)))))))) (CC and) (S (NP (DT that)) (, ,) (PP (IN in) (NP (NN turn))) (, ,) (VP (VBZ creates) (NP (JJ big) (NNS dividends)))) (. .)))
+ThetheDTOPER0groupgroupNNOPER0sosoRBOPER0farfarRBOPER0ininINOPER0thetheDTDATEPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0forforINOPER0thosethoseDTOPER0companiescompanyNNSOPER0thatthatWDTOPER0havehaveVBPOPER0reportedreportVBNOPER0havehaveVBPOPER0generatedgenerateVBNOPER0aboutaboutRBPERCENTPER000CDPERCENTPER0%%NNPERCENTPER0earningsearningsNNSOPER0growthgrowthNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN group)) (ADVP (RB so) (RB far)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (PP (IN for) (NP (NP (DT those) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN reported)))))))) (VP (VBP have) (VP (VBN generated) (NP (NML (QP (RB about) (CD 0)) (NN %)) (NNS earnings) (NN growth)))) (. .)))
+WewePRPOPER0thinkthinkVBPOPER0overoverINOPER0thetheDTOPER0longlongJJOPER0termtermNNOPER0,,,OPER0atatINOPER0leastleastJJSOPER0forforINOPER0thetheDTDATEPER0nextnextJJDATEPER0couplecoupleNNDATEPER0ofofINDATEPER0yearsyearNNSDATEPER0,,,OPER0thatthatINOPER0manymanyJJOPER0ofofINOPER0thesetheseDTOPER0companiescompanyNNSOPER0cancanMDOPER0havehaveVBOPER0highhighJJOPER0singlesingleJJOPER0digitdigitNNOPER0revenuerevenueNNOPER0growthgrowthNNOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP think) (PP (IN over) (NP (DT the) (JJ long) (NN term))) (, ,) (PP (ADVP (IN at) (JJS least)) (IN for) (NP (NP (DT the) (JJ next) (NN couple)) (PP (IN of) (NP (NNS years))))) (, ,) (SBAR (IN that) (S (NP (NP (JJ many)) (PP (IN of) (NP (DT these) (NNS companies)))) (VP (MD can) (VP (VB have) (NP (JJ high) (NML (JJ single) (NN digit)) (NN revenue) (NN growth))))))) (. .)))
+SosoRBOPER0farfarRBOPER0thisthisDTOPER0returnreturnNNOPER0,,,OPER0returnsreturnNNSOPER0arebeVBPOPER0upupRPOPER0moremoreJJRPERCENTPER0thanthanINPERCENTPER01515CDPERCENTPER0%%NNPERCENTPER0,,,OPER0comparedcompareVBNOPER0totoINOPER0thetheDTOPER0S&PS&PNNPORGPER0500500CDPRODUCTPER0's'sPOSOPER0losslossNNOPER0ofofINOPER0nearlynearlyRBPERCENTPER033CDPERCENTPER0%%NNPERCENTPER0andandCCOPER0thetheDTOPER0NasdaqNasdaqNNPORGPER0's'sPOSOPER0losslossNNOPER0ofofINOPER0moremoreJJRPERCENTPER0thanthanINPERCENTPER01515CDPERCENTPER0%%NNPERCENTPER0,,,OPER0butbutCCOPER0whilewhileINOPER0REATsreatNNSORGPER0offerofferVBPOPER0somesomeDTOPER0stabilitystabilityNNOPER0ininINOPER0aaDTOPER0volatilevolatileJJOPER0marketmarketNNOPER0,,,OPER0therethereEXOPER0isbeVBZOPER0somesomeDTOPER0riskriskNNOPER0asasRBOPER0wellwellRBOPER0...OPER0(ROOT (S (S (ADVP (RB So) (RB far)) (NP (DT this) (NN return)) (, ,) (NP (NNS returns)) (VP (VBP are) (PRT (RP up)) (NP (QP (XS (JJR more) (IN than)) (CD 15)) (NN %)) (, ,) (S (VP (VBN compared) (PP (IN to) (NP (NP (NP (DT the) (NNP S&P) (CD 500) (POS 's)) (NN loss)) (PP (IN of) (NP (NP (QP (RB nearly) (CD 3)) (NN %)) (CC and) (NP (NP (DT the) (NNP Nasdaq) (POS 's)) (NN loss)))) (PP (IN of) (NP (QP (XS (JJR more) (IN than)) (CD 15)) (NN %))))))))) (, ,) (CC but) (S (SBAR (IN while) (S (NP (NNS REATs)) (VP (VBP offer) (NP (NP (DT some) (NN stability)) (PP (IN in) (NP (DT a) (JJ volatile) (NN market))))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT some) (NN risk)) (ADVP (RB as) (RB well)))) (. .)))
+YouyouPRPOPER0thinkthinkVBOPER0aboutaboutINOPER0realrealJJOPER0estateestateNNOPER0,,,OPER0ititPRPOPER0'sbeVBZOPER0aaDTOPER0cyclicalcyclicalJJOPER0industryindustryNNOPER0...OPER0(ROOT (S (S (NP (PRP You)) (VP (VB think) (PP (IN about) (NP (JJ real) (NN estate))))) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ cyclical) (NN industry)))) (. .)))
+ThetheDTOPER0thingsthingNNSOPER0thatthatWDTOPER0havehaveVBPOPER0gottengetVBNOPER0youyouPRPOPER0ininINOPER0troubletroubleNNOPER0arebeVBPOPER0tootooRBOPER0muchmuchJJOPER0supplysupplyNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN gotten) (NP (PRP you)) (PP (IN in) (NP (NN trouble)))))))) (VP (VBP are) (NP (ADJP (RB too) (JJ much)) (NN supply))) (. .)))
+DemanddemandNNOPER0isbeVBZOPER0relativelyrelativelyRBOPER0stablestableJJOPER0,,,OPER0butbutCCOPER0thetheDTOPER0upsupNNSOPER0andandCCOPER0downsdownsNNSOPER0relativerelativeJJOPER0totoTOOPER0supplysupplyVBOPER0werebeVBDOPER0whatwhatWPOPER0hurtshurtVBZOPER0youyouPRPOPER0ininINOPER0thetheDTOPER0realrealJJOPER0estateestateNNOPER0marketsmarketNNSOPER0...OPER0(ROOT (S (S (NP (NN Demand)) (VP (VBZ is) (ADJP (RB relatively) (JJ stable)))) (, ,) (CC but) (S (NP (DT the) (NNS ups) (CC and) (NNS downs)) (ADJP (JJ relative) (S (VP (TO to) (VP (VB supply) (VP (VBD were) (SBAR (WHNP (WP what)) (S (VP (VBZ hurts) (NP (PRP you)) (PP (IN in) (NP (DT the) (NML (JJ real) (NN estate)) (NNS markets)))))))))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0``````OyouryouPRP$OPER1moneymoneyNNOPER1...OPER1''''''OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (`` ``) (NP (PRP$ your) (NN money))) (. .) ('' '')))
+ValarieValarieNNPORGPER0MorrisMorrisNNPORGPER0,,,OPER0``````OCNNCNNNNPORGPER2FinancialFinancialNNPORGPER2NewsNewsNNPORGPER2,,,OPER2''''''OPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Valarie) (NNP Morris)) (, ,) (`` ``) (NP (NNP CNN) (NNP Financial) (NNP News)) (, ,) ('' '') (NP (NNP New) (NNP York)) (. .)))
+ForforINOPER0moremoreJJROPER0businessbusinessNNOPER0andandCCOPER0consumerconsumerNNOPER0newsnewsNNOPER0,,,OPER0clickclickVBOPER0ononRPOPER0totoINOPER0cnnfn.comcnnfn.comADDOPER0...OPER0(ROOT (S (PP (IN For) (NP (NP (JJR more) (NN business)) (CC and) (NP (NN consumer) (NN news)))) (, ,) (VP (VB click) (PRT (RP on)) (PP (IN to) (NP (ADD cnnfn.com)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 7 headed by 2 parsed as (NP (NP (DT the) (NN volatility)) (PP (IN of) (NP (DT the) (NN stock) (NN market))))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN stock) (NN market))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Valarie) (NNP Morris))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (NP (DT The) (NN stock) (NN market) (POS 's)) (JJ recent) (NN volatility))
+sid=2 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (NN stock) (NN market) (POS 's))
+sid=3 spanning 5 until 12 headed by 9 parsed as (NP (DT a) (NML (NML (NNP Real) (NNP Estate)) (NNP Investment)) (NNP Trust) (CC or) (NNP REAT))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN trust))
+sid=6 spanning 6 until 7 headed by 6 parsed as pay
+sid=6 spanning 11 until 12 headed by 11 parsed as its
+sid=6 spanning 17 until 18 headed by 17 parsed as (NP (DT that))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NP (DT The) (NN group)) (ADVP (RB so) (RB far)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (PP (IN for) (NP (NP (DT those) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN reported))))))))
+sid=7 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT those) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN reported))))))
+sid=8 spanning 19 until 21 headed by 20 parsed as (NP (DT these) (NNS companies))
+sid=9 spanning 37 until 38 headed by 37 parsed as (NP (NNS REATs))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (JJ real) (NN estate))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=14 spanning 0 until 2 headed by 1 parsed as (NP (NNP Valarie) (NNP Morris))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 7 headed by 2 parsed as (NP (NP (DT the) (NN volatility)) (PP (IN of) (NP (DT the) (NN stock) (NN market))))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN stock) (NN market))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP you))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (PRP$ your) (NNS investments))
+sid=0 spanning 11 until 12 headed by 11 parsed as (PRP$ your)
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (PRP you))
+sid=0 spanning 19 until 27 headed by 19 parsed as (NP (NP (NN something)) (VP (VBN designed) (S (VP (TO to) (VP (VB be) (ADJP (ADVP (NP (DT a) (NN bit)) (RBR more)) (JJ stable)))))))
+sid=0 spanning 23 until 25 headed by 24 parsed as (NP (DT a) (NN bit))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Valarie) (NNP Morris))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (JJR more))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (NP (DT The) (NN stock) (NN market) (POS 's)) (JJ recent) (NN volatility))
+sid=2 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (NN stock) (NN market) (POS 's))
+sid=2 spanning 8 until 14 headed by 9 parsed as (NP (NP (DT some) (NNS investors)) (VP (VBG seeking) (NP (DT a) (JJ safe) (NN haven))))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (JJ safe) (NN haven))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (NP (CD One) (NN way)) (VP (TO to) (VP (VB go))))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (DT a) (NML (NML (NNP Real) (NNP Estate)) (NNP Investment)) (NNP Trust) (CC or) (NNP REAT))
+sid=3 spanning 5 until 12 headed by 9 parsed as (NP (DT a) (NML (NML (NNP Real) (NNP Estate)) (NNP Investment)) (NNP Trust) (CC or) (NNP REAT))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NNP REAT)
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=4 spanning 4 until 12 headed by 5 parsed as (NP (NP (NN apartment) (NNS complexes)) (CC and) (NP (NN office) (NNS buildings)) (CC and) (NP (JJ other) (NNS properties)))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (NN apartment) (NNS complexes))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NN office) (NNS buildings))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (JJ other) (NNS properties))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN trust))
+sid=6 spanning 11 until 16 headed by 13 parsed as (NP (NP (PRP$ its) (JJ taxable) (NN income)) (NP (DT each) (NN year)))
+sid=6 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=6 spanning 14 until 16 headed by 15 parsed as (NP (DT each) (NN year))
+sid=6 spanning 17 until 18 headed by 17 parsed as (NP (DT that))
+sid=6 spanning 23 until 25 headed by 24 parsed as (NP (JJ big) (NNS dividends))
+sid=7 spanning 0 until 14 headed by 1 parsed as (NP (NP (DT The) (NN group)) (ADVP (RB so) (RB far)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (PP (IN for) (NP (NP (DT those) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN reported))))))))
+sid=7 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ third) (NN quarter))
+sid=7 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT those) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN reported))))))
+sid=7 spanning 16 until 21 headed by 20 parsed as (NP (NML (QP (RB about) (CD 0)) (NN %)) (NNS earnings) (NN growth))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=8 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ long) (NN term))
+sid=8 spanning 10 until 15 headed by 12 parsed as (NP (NP (DT the) (JJ next) (NN couple)) (PP (IN of) (NP (NNS years))))
+sid=8 spanning 17 until 21 headed by 17 parsed as (NP (NP (JJ many)) (PP (IN of) (NP (DT these) (NNS companies))))
+sid=8 spanning 19 until 21 headed by 20 parsed as (NP (DT these) (NNS companies))
+sid=9 spanning 2 until 4 headed by 3 parsed as (NP (DT this) (NN return))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (NNS returns))
+sid=9 spanning 15 until 34 headed by 19 parsed as (NP (NP (NP (DT the) (NNP S&P) (CD 500) (POS 's)) (NN loss)) (PP (IN of) (NP (NP (QP (RB nearly) (CD 3)) (NN %)) (CC and) (NP (NP (DT the) (NNP Nasdaq) (POS 's)) (NN loss)))) (PP (IN of) (NP (QP (XS (JJR more) (IN than)) (CD 15)) (NN %))))
+sid=9 spanning 15 until 19 headed by 16 parsed as (NP (DT the) (NNP S&P) (CD 500) (POS 's))
+sid=9 spanning 17 until 19 headed by 17 parsed as 500
+sid=9 spanning 25 until 29 headed by 28 parsed as (NP (NP (DT the) (NNP Nasdaq) (POS 's)) (NN loss))
+sid=9 spanning 25 until 28 headed by 26 parsed as (NP (DT the) (NNP Nasdaq) (POS 's))
+sid=9 spanning 37 until 38 headed by 37 parsed as (NP (NNS REATs))
+sid=9 spanning 39 until 45 headed by 40 parsed as (NP (NP (DT some) (NN stability)) (PP (IN in) (NP (DT a) (JJ volatile) (NN market))))
+sid=9 spanning 42 until 45 headed by 44 parsed as (NP (DT a) (JJ volatile) (NN market))
+sid=9 spanning 48 until 50 headed by 49 parsed as (NP (DT some) (NN risk))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=10 spanning 8 until 11 headed by 10 parsed as (NP (DT a) (JJ cyclical) (NN industry))
+sid=11 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT The) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN gotten) (NP (PRP you)) (PP (IN in) (NP (NN trouble))))))))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP you))
+sid=11 spanning 9 until 12 headed by 11 parsed as (NP (ADJP (RB too) (JJ much)) (NN supply))
+sid=12 spanning 6 until 10 headed by 7 parsed as (NP (DT the) (NNS ups) (CC and) (NNS downs))
+sid=12 spanning 16 until 17 headed by 16 parsed as (NP (PRP you))
+sid=12 spanning 18 until 22 headed by 21 parsed as (NP (DT the) (NML (JJ real) (NN estate)) (NNS markets))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ your) (NN money))
+sid=13 spanning 3 until 4 headed by 3 parsed as (PRP$ your)
+sid=14 spanning 0 until 2 headed by 1 parsed as (NP (NNP Valarie) (NNP Morris))
+sid=14 spanning 4 until 7 headed by 6 parsed as (NP (NNP CNN) (NNP Financial) (NNP News))
+sid=14 spanning 9 until 11 headed by 10 parsed as (NP (NNP New) (NNP York))
+sid=15 spanning 1 until 6 headed by 2 parsed as (NP (NP (JJR more) (NN business)) (CC and) (NP (NN consumer) (NN news)))
+sid=15 spanning 1 until 3 headed by 2 parsed as (NP (JJR more) (NN business))
+sid=15 spanning 4 until 6 headed by 5 parsed as (NP (NN consumer) (NN news))
+sid=15 spanning 10 until 11 headed by 10 parsed as (NP (ADD cnnfn.com))
+(end predicted mentions)
+---------gold clusters--------
+7 14 9 5 11 6 | { 'the trust' 'REATs' 'its' 'a Real Estate Investment Trust or REAT' 'The group' 'They' }
+2 17 | { 'Valarie Morris' 'Valarie Morris' }
+10 8 | { 'that' 'pay' }
+1 4 | { 'the stock market' 'The stock market 's' }
+16 15 | { 'it' 'real estate' }
+0 3 | { 'the volatility of the stock market' 'The stock market 's recent volatility' }
+13 12 | { 'these companies' 'those companies that have reported' }
+(end gold clusters)

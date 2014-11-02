@@ -1,0 +1,50 @@
+---------gloss--------
+(0) In the Middle East , another setback in the peace process . 
+(1) [3m[31m{Senior Palestinian security officials}[0m said today [3m[31m{they}[0m can do nothing to quell the unrest until [1m[36m{Israel}[0m lifts [1m[36m{its}[0m blockade in the West Bank and Gaza Strip . 
+(2) Palestinian and Israeli negotiators are scheduled to [1m[35m{meet}[0m tomorrow in Egypt with CIA chief George Tenet but top - level officials , who were originally expected to participate in [1m[35m{the meeting}[0m , will not be there . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0057); part 000
+sentences:
+IninINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0,,,OPER0anotheranotherDTOPER0setbacksetbackNNOPER0ininINOPER0thetheDTOPER0peacepeaceNNOPER0processprocessNNOPER0...OPER0(ROOT (FRAG (PP (IN In) (NP (DT the) (NNP Middle) (NNP East))) (, ,) (NP (NP (DT another) (NN setback)) (PP (IN in) (NP (DT the) (NN peace) (NN process)))) (. .)))
+SeniorseniorJJOPER0PalestinianpalestinianJJOPER0securitysecurityNNOPER0officialsofficialNNSOPER0saidsayVBDOPER0todaytodayNNDATEPER0theytheyPRPOPER0cancanMDOPER0dodoVBOPER0nothingnothingNNOPER0totoTOOPER0quellquellVBOPER0thetheDTOPER0unrestunrestNNOPER0untiluntilINOPER0IsraelIsraelNNPGPEPER0liftsliftVBZOPER0itsitsPRP$OPER0blockadeblockadeNNOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (JJ Senior) (JJ Palestinian) (NN security) (NNS officials)) (VP (VBD said) (NP (NN today)) (SBAR (S (NP (PRP they)) (VP (MD can) (VP (VB do) (NP (NP (NN nothing)) (SBAR (S (VP (TO to) (VP (VB quell) (NP (DT the) (NN unrest)) (SBAR (IN until) (S (NP (NNP Israel)) (VP (VBZ lifts) (NP (NP (PRP$ its) (NN blockade)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))))))))))))))) (. .)))
+PalestinianpalestinianJJOPER0andandCCOPER0IsraeliisraeliJJOPER0negotiatorsnegotiatorNNSOPER0arebeVBPOPER0scheduledscheduleVBNOPER0totoTOOPER0meetmeetVBOPER0tomorrowtomorrowNNDATEPER0ininINOPER0EgyptEgyptNNPGPEPER0withwithINOPER0CIACIANNPORGPER0chiefchiefNNOPER0GeorgeGeorgeNNPPERSONPER0TenetTenetNNPPERSONPER0butbutCCOPER0toptopJJOPER0--HYPHOPER0levellevelNNOPER0officialsofficialNNSOPER0,,,OPER0whowhoWPOPER0werebeVBDOPER0originallyoriginallyRBOPER0expectedexpectVBNOPER0totoTOOPER0participateparticipateVBOPER0ininINOPER0thetheDTOPER0meetingmeetingNNOPER0,,,OPER0willwillMDOPER0notnotRBOPER0bebeVBOPER0therethereRBOPER0...OPER0(ROOT (S (NP (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NNS negotiators)) (VP (VP (VBP are) (VP (VBN scheduled) (S (VP (TO to) (VP (VB meet) (NP (NP (NN tomorrow)) (PP (IN in) (NP (NNP Egypt)))) (PP (IN with) (NP (NP (NML (NNP CIA) (NN chief)) (NNP George) (NNP Tenet)) (CC but) (NP (NP (NML (JJ top) (HYPH -) (NN level)) (NNS officials)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADVP (RB originally)) (VP (VBN expected) (S (VP (TO to) (VP (VB participate) (PP (IN in) (NP (DT the) (NN meeting)))))))))))))))))) (, ,) (VP (MD will) (RB not) (VP (VB be) (ADVP (RB there))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (JJ Senior) (JJ Palestinian) (NN security) (NNS officials))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Israel))
+sid=1 spanning 17 until 18 headed by 17 parsed as its
+sid=2 spanning 7 until 8 headed by 7 parsed as meet
+sid=2 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN meeting))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=0 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT another) (NN setback)) (PP (IN in) (NP (DT the) (NN peace) (NN process))))
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN peace) (NN process))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (JJ Senior) (JJ Palestinian) (NN security) (NNS officials))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN unrest))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Israel))
+sid=1 spanning 17 until 26 headed by 18 parsed as (NP (NP (PRP$ its) (NN blockade)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))
+sid=1 spanning 17 until 18 headed by 17 parsed as (PRP$ its)
+sid=1 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=1 spanning 20 until 26 headed by 22 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=1 spanning 24 until 26 headed by 25 parsed as Strip
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NNS negotiators))
+sid=2 spanning 8 until 11 headed by 8 parsed as (NP (NP (NN tomorrow)) (PP (IN in) (NP (NNP Egypt))))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Egypt))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (NP (NML (NNP CIA) (NN chief)) (NNP George) (NNP Tenet)) (CC but) (NP (NP (NML (JJ top) (HYPH -) (NN level)) (NNS officials)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADVP (RB originally)) (VP (VBN expected) (S (VP (TO to) (VP (VB participate) (PP (IN in) (NP (DT the) (NN meeting))))))))))))
+sid=2 spanning 12 until 31 headed by 15 parsed as (NP (NP (NML (NNP CIA) (NN chief)) (NNP George) (NNP Tenet)) (CC but) (NP (NP (NML (JJ top) (HYPH -) (NN level)) (NNS officials)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADVP (RB originally)) (VP (VBN expected) (S (VP (TO to) (VP (VB participate) (PP (IN in) (NP (DT the) (NN meeting))))))))))))
+sid=2 spanning 12 until 16 headed by 15 parsed as (NP (NML (NNP CIA) (NN chief)) (NNP George) (NNP Tenet))
+sid=2 spanning 12 until 13 headed by 12 parsed as CIA
+sid=2 spanning 17 until 31 headed by 20 parsed as (NP (NP (NML (JJ top) (HYPH -) (NN level)) (NNS officials)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADVP (RB originally)) (VP (VBN expected) (S (VP (TO to) (VP (VB participate) (PP (IN in) (NP (DT the) (NN meeting)))))))))))
+sid=2 spanning 17 until 21 headed by 20 parsed as (NP (NML (JJ top) (HYPH -) (NN level)) (NNS officials))
+sid=2 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN meeting))
+(end predicted mentions)
+---------gold clusters--------
+4 5 | { 'meet' 'the meeting' }
+2 3 | { 'Israel' 'its' }
+0 1 | { 'Senior Palestinian security officials' 'they' }
+(end gold clusters)

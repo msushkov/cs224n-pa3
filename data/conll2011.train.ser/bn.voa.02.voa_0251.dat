@@ -1,0 +1,50 @@
+---------gloss--------
+(0) [4m[35m{Former President Clinton}[0m drew cheers from admirers at a US Air Force base outside Washington [4m[36m{today}[0m before departing for [4m[35m{his}[0m home in New York . 
+(1) Prior to leaving office [4m[36m{today}[0m [4m[35m{Mr. Clinton}[0m issued more than one hundred presidential pardons . 
+(2) Among those pardoned was Susan Mcdoogle , a former business partner of [4m[35m{Mr. Clinton}[0m who became a key figure in the White Water Real Estate investigation that plagued the [4m[35m{Clinton}[0m presidency . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0251); part 000
+sentences:
+FormerformerJJOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0drewdrawVBDOPER0cheerscheerNNSOPER0fromfromINOPER0admirersadmirerNNSOPER0atatINOPER0aaDTOPER0USUSNNPORGPER0AirAirNNPORGPER0ForceForceNNPORGPER0basebaseNNOPER0outsideoutsideINOPER0WashingtonWashingtonNNPGPEPER0todaytodayNNDATEPER0beforebeforeINOPER0departingdepartVBGOPER0forforINOPER0hishePRP$OPER0homehomeNNOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (S (NP (NML (JJ Former) (NNP President)) (NNP Clinton)) (VP (VBD drew) (NP (NP (NNS cheers)) (PP (IN from) (NP (NNS admirers)))) (PP (IN at) (NP (NP (DT a) (NML (NNP US) (NNP Air) (NNP Force)) (NN base)) (PP (IN outside) (NP (NNP Washington))))) (NP (NN today)) (PP (IN before) (S (VP (VBG departing) (PP (IN for) (NP (NP (PRP$ his) (NN home)) (PP (IN in) (NP (NNP New) (NNP York))))))))) (. .)))
+PriorpriorRBOPER0totoINOPER0leavingleaveVBGOPER0officeofficeNNOPER0todaytodayNNDATEPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0issuedissueVBDOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0oneoneCDCARDINALPER0hundredhundredCDCARDINALPER0presidentialpresidentialJJOPER0pardonspardonNNSOPER0...OPER0(ROOT (S (ADVP (RB Prior) (PP (IN to) (S (VP (VBG leaving) (NP (NN office) (NN today)))))) (NP (NNP Mr.) (NNP Clinton)) (VP (VBD issued) (NP (QP (XS (JJR more) (IN than)) (CD one) (CD hundred)) (JJ presidential) (NNS pardons))) (. .)))
+AmongamongINOPER0thosethoseDTOPER0pardonedpardonVBNOPER0wasbeVBDOPER0SusanSusanNNPPERSONPER0McdoogleMcdoogleNNPPERSONPER0,,,OPER0aaDTOPER0formerformerJJOPER0businessbusinessNNOPER0partnerpartnerNNOPER0ofofINOPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0whowhoWPOPER0becamebecomeVBDOPER0aaDTOPER0keykeyJJOPER0figurefigureNNOPER0ininINOPER0thetheDTOPER0WhiteWhiteNNPORGPER0WaterWaterNNPORGPER0RealRealNNPORGPER0EstateEstateNNPORGPER0investigationinvestigationNNOPER0thatthatWDTOPER0plaguedplagueVBDOPER0thetheDTOPER0ClintonClintonNNPPERSONPER0presidencypresidencyNNOPER0...OPER0(ROOT (SINV (PP (IN Among) (NP (NP (DT those)) (VP (VBN pardoned)))) (VP (VBD was)) (NP (NP (NNP Susan) (NNP Mcdoogle)) (, ,) (NP (NP (DT a) (JJ former) (NN business) (NN partner)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Clinton)) (SBAR (WHNP (WP who)) (S (VP (VBD became) (NP (NP (DT a) (JJ key) (NN figure)) (PP (IN in) (NP (NP (DT the) (NML (NNP White) (NNP Water) (NNP Real) (NNP Estate)) (NN investigation)) (SBAR (WHNP (WDT that)) (S (VP (VBD plagued) (NP (DT the) (NNP Clinton) (NN presidency))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NML (JJ Former) (NNP President)) (NNP Clinton))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NN today))
+sid=0 spanning 19 until 20 headed by 19 parsed as his
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NN office) (NN today))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (NP (NNP Mr.) (NNP Clinton)) (SBAR (WHNP (WP who)) (S (VP (VBD became) (NP (NP (DT a) (JJ key) (NN figure)) (PP (IN in) (NP (NP (DT the) (NML (NNP White) (NNP Water) (NNP Real) (NNP Estate)) (NN investigation)) (SBAR (WHNP (WDT that)) (S (VP (VBD plagued) (NP (DT the) (NNP Clinton) (NN presidency))))))))))))
+sid=2 spanning 29 until 30 headed by 29 parsed as Clinton
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NML (JJ Former) (NNP President)) (NNP Clinton))
+sid=0 spanning 4 until 7 headed by 4 parsed as (NP (NP (NNS cheers)) (PP (IN from) (NP (NNS admirers))))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNS admirers))
+sid=0 spanning 8 until 15 headed by 12 parsed as (NP (NP (DT a) (NML (NNP US) (NNP Air) (NNP Force)) (NN base)) (PP (IN outside) (NP (NNP Washington))))
+sid=0 spanning 9 until 12 headed by 11 parsed as Force
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNP Washington))
+sid=0 spanning 19 until 24 headed by 20 parsed as (NP (NP (PRP$ his) (NN home)) (PP (IN in) (NP (NNP New) (NNP York))))
+sid=0 spanning 19 until 20 headed by 19 parsed as (PRP$ his)
+sid=0 spanning 22 until 24 headed by 23 parsed as (NP (NNP New) (NNP York))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NN office) (NN today))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=1 spanning 8 until 14 headed by 13 parsed as (NP (QP (XS (JJR more) (IN than)) (CD one) (CD hundred)) (JJ presidential) (NNS pardons))
+sid=2 spanning 1 until 3 headed by 1 parsed as (NP (NP (DT those)) (VP (VBN pardoned)))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NP (NNP Susan) (NNP Mcdoogle)) (, ,) (NP (NP (DT a) (JJ former) (NN business) (NN partner)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Clinton)) (SBAR (WHNP (WP who)) (S (VP (VBD became) (NP (NP (DT a) (JJ key) (NN figure)) (PP (IN in) (NP (NP (DT the) (NML (NNP White) (NNP Water) (NNP Real) (NNP Estate)) (NN investigation)) (SBAR (WHNP (WDT that)) (S (VP (VBD plagued) (NP (DT the) (NNP Clinton) (NN presidency)))))))))))))))
+sid=2 spanning 4 until 31 headed by 5 parsed as (NP (NP (NNP Susan) (NNP Mcdoogle)) (, ,) (NP (NP (DT a) (JJ former) (NN business) (NN partner)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Clinton)) (SBAR (WHNP (WP who)) (S (VP (VBD became) (NP (NP (DT a) (JJ key) (NN figure)) (PP (IN in) (NP (NP (DT the) (NML (NNP White) (NNP Water) (NNP Real) (NNP Estate)) (NN investigation)) (SBAR (WHNP (WDT that)) (S (VP (VBD plagued) (NP (DT the) (NNP Clinton) (NN presidency)))))))))))))))
+sid=2 spanning 7 until 31 headed by 10 parsed as (NP (NP (DT a) (JJ former) (NN business) (NN partner)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Clinton)) (SBAR (WHNP (WP who)) (S (VP (VBD became) (NP (NP (DT a) (JJ key) (NN figure)) (PP (IN in) (NP (NP (DT the) (NML (NNP White) (NNP Water) (NNP Real) (NNP Estate)) (NN investigation)) (SBAR (WHNP (WDT that)) (S (VP (VBD plagued) (NP (DT the) (NNP Clinton) (NN presidency))))))))))))))
+sid=2 spanning 12 until 31 headed by 13 parsed as (NP (NP (NNP Mr.) (NNP Clinton)) (SBAR (WHNP (WP who)) (S (VP (VBD became) (NP (NP (DT a) (JJ key) (NN figure)) (PP (IN in) (NP (NP (DT the) (NML (NNP White) (NNP Water) (NNP Real) (NNP Estate)) (NN investigation)) (SBAR (WHNP (WDT that)) (S (VP (VBD plagued) (NP (DT the) (NNP Clinton) (NN presidency))))))))))))
+sid=2 spanning 16 until 31 headed by 18 parsed as (NP (NP (DT a) (JJ key) (NN figure)) (PP (IN in) (NP (NP (DT the) (NML (NNP White) (NNP Water) (NNP Real) (NNP Estate)) (NN investigation)) (SBAR (WHNP (WDT that)) (S (VP (VBD plagued) (NP (DT the) (NNP Clinton) (NN presidency))))))))
+sid=2 spanning 20 until 31 headed by 25 parsed as (NP (NP (DT the) (NML (NNP White) (NNP Water) (NNP Real) (NNP Estate)) (NN investigation)) (SBAR (WHNP (WDT that)) (S (VP (VBD plagued) (NP (DT the) (NNP Clinton) (NN presidency))))))
+sid=2 spanning 21 until 25 headed by 24 parsed as Estate
+sid=2 spanning 28 until 31 headed by 30 parsed as (NP (DT the) (NNP Clinton) (NN presidency))
+sid=2 spanning 29 until 30 headed by 29 parsed as Clinton
+(end predicted mentions)
+---------gold clusters--------
+5 2 0 6 4 | { 'Mr. Clinton' 'his' 'Former President Clinton' 'Clinton' 'Mr. Clinton' }
+1 3 | { 'today' 'today' }
+(end gold clusters)

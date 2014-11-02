@@ -1,0 +1,66 @@
+---------gloss--------
+(0) Follow With Care 
+(1) `` Work hard , play hard '' is [1m[35m{advice Best taken with some caution}[0m , For [1m[35m{it}[0m can bring fitness and success Or a state of total exhaustion . 
+(2) -- Edward F. Dempsey . 
+(3) Double Check 
+(4) [1m[36m{The guest}[0m paid [1m[36m{his}[0m bill at the resort hotel , and as [1m[36m{he}[0m departed [1m[36m{he}[0m noticed [1m[34m{a sign saying , `` Have You Left Anything}[0m ? '' 
+(5) [1m[36m{The man}[0m went back and spoke to the desk clerk : `` [1m[34m{That sign}[0m is wrong , '' [1m[36m{he}[0m said . 
+(6) `` [1m[34m{It}[0m should read , `` Have You Anything Left ? '' 
+(7) -- Sam Ewing . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1054); part 000
+sentences:
+FollowfollowVBOPER0WithwithINOPER0CareCareNNPOPER0(ROOT (S (VP (VB Follow) (PP (IN With) (NP (NNP Care))))))
+``````OWorkworkVBOPER1hardhardRBOPER1,,,OPER1playplayVBOPER1hardhardRBOPER1''''''OPER0isbeVBZOPER0adviceadviceNNOPER0BestbestRBSOPER0takentakeVBNOPER0withwithINOPER0somesomeDTOPER0cautioncautionNNOPER0,,,OPER0ForforINOPER0ititPRPOPER0cancanMDOPER0bringbringVBOPER0fitnessfitnessNNOPER0andandCCOPER0successsuccessNNOPER0OrorCCOPER0aaDTOPER0statestateNNOPER0ofofINOPER0totaltotalJJOPER0exhaustionexhaustionNNOPER0...OPER0(ROOT (S (`` ``) (S (VP (VP (VB Work) (ADVP (RB hard))) (, ,) (VP (VB play) (ADVP (RB hard))))) ('' '') (VP (VBZ is) (NP (NP (NN advice)) (VP (ADVP (RBS Best)) (VBN taken) (PP (IN with) (NP (DT some) (NN caution))))) (, ,) (SBAR (IN For) (S (NP (PRP it)) (VP (MD can) (VP (VB bring) (NP (NP (NN fitness) (CC and) (NN success)) (CC Or) (NP (NP (DT a) (NN state)) (PP (IN of) (NP (JJ total) (NN exhaustion)))))))))) (. .)))
+----:PERSONPER0EdwardEdwardNNPPERSONPER0F.F.NNPPERSONPER0DempseyDempseyNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP Edward) (NNP F.) (NNP Dempsey) (. .)))
+DoubledoubleJJOPER0CheckcheckVBOPER0(ROOT (X (JJ Double) (VB Check)))
+ThetheDTOPER0guestguestNNOPER0paidpayVBDOPER0hishePRP$OPER0billbillNNOPER0atatINOPER0thetheDTOPER0resortresortNNOPER0hotelhotelNNOPER0,,,OPER0andandCCOPER0asasRBOPER0hehePRPOPER0departeddepartVBDOPER0hehePRPOPER0noticednoticeVBDOPER0aaDTOPER0signsignNNOPER0sayingsayVBGOPER0,,,OPER0``````OHavehaveVBPOPER2YouyouPRPOPER2LeftleaveVBNOPER2AnythinganythingNNOPER2??.OPER2''''''OPER0(ROOT (S (S (NP (DT The) (NN guest)) (VP (VBD paid) (NP (PRP$ his) (NN bill)) (PP (IN at) (NP (DT the) (NN resort) (NN hotel))))) (, ,) (CC and) (RB as) (S (NP (PRP he)) (VP (VBD departed) (SBAR (S (NP (PRP he)) (VP (VBD noticed) (NP (NP (DT a) (NN sign)) (VP (VBG saying) (, ,) (`` ``) (SQ (VBP Have) (NP (PRP You)) (VP (VBN Left) (NP (NN Anything))))))))))) (. ?) ('' '')))
+ThetheDTOPER0manmanNNOPER0wentgoVBDOPER0backbackRBOPER0andandCCOPER0spokespeakVBDOPER0totoINOPER0thetheDTOPER0deskdeskNNOPER0clerkclerkNNOPER0:::OPER0``````OThatthatDTOPER3signsignNNOPER3isbeVBZOPER3wrongwrongJJOPER3,,,OPER3''''''OPER0hehePRPOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT The) (NN man)) (VP (VP (VBD went) (ADVP (RB back))) (CC and) (VP (VBD spoke) (PP (IN to) (NP (DT the) (NN desk) (NN clerk)))))) (: :) (S (`` ``) (S (NP (DT That) (NN sign)) (VP (VBZ is) (ADJP (JJ wrong)))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said))) (. .)))
+``````OItitPRPOPER4shouldshouldMDOPER4readreadVBOPER4,,,OPER4``````OHavehaveVBPOPER5YouyouPRPOPER5AnythinganythingNNOPER5LeftleftJJOPER5??.OPER5''''''OPER0(ROOT (S (`` ``) (NP (PRP It)) (VP (MD should) (VP (VB read) (, ,) (`` ``) (SQ (VBP Have) (NP (PRP You)) (NP (NP (NN Anything)) (ADJP (JJ Left)))))) (. ?) ('' '')))
+----:PERSONPER0SamSamNNPPERSONPER0EwingEwingNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP Sam) (NNP Ewing) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 8 until 14 headed by 8 parsed as (NP (NP (NN advice)) (VP (ADVP (RBS Best)) (VBN taken) (PP (IN with) (NP (DT some) (NN caution)))))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN guest))
+sid=4 spanning 3 until 4 headed by 3 parsed as his
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP he))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=4 spanning 16 until 25 headed by 17 parsed as (NP (NP (DT a) (NN sign)) (VP (VBG saying) (, ,) (`` ``) (SQ (VBP Have) (NP (PRP You)) (VP (VBN Left) (NP (NN Anything))))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN man))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT That) (NN sign))
+sid=5 spanning 18 until 19 headed by 18 parsed as (NP (PRP he))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (PRP It))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NNP Care))
+sid=1 spanning 8 until 14 headed by 8 parsed as (NP (NP (NN advice)) (VP (ADVP (RBS Best)) (VBN taken) (PP (IN with) (NP (DT some) (NN caution)))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT some) (NN caution))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (PRP it))
+sid=1 spanning 19 until 28 headed by 19 parsed as (NP (NP (NN fitness) (CC and) (NN success)) (CC Or) (NP (NP (DT a) (NN state)) (PP (IN of) (NP (JJ total) (NN exhaustion)))))
+sid=1 spanning 19 until 22 headed by 19 parsed as (NP (NN fitness) (CC and) (NN success))
+sid=1 spanning 23 until 28 headed by 24 parsed as (NP (NP (DT a) (NN state)) (PP (IN of) (NP (JJ total) (NN exhaustion))))
+sid=2 spanning 0 until 5 headed by 3 parsed as (NP (: --) (NNP Edward) (NNP F.) (NNP Dempsey) (. .))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN guest))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN bill))
+sid=4 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN resort) (NN hotel))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP he))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=4 spanning 16 until 25 headed by 17 parsed as (NP (NP (DT a) (NN sign)) (VP (VBG saying) (, ,) (`` ``) (SQ (VBP Have) (NP (PRP You)) (VP (VBN Left) (NP (NN Anything))))))
+sid=4 spanning 22 until 23 headed by 22 parsed as (NP (PRP You))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN man))
+sid=5 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NN desk) (NN clerk))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT That) (NN sign))
+sid=5 spanning 18 until 19 headed by 18 parsed as (NP (PRP he))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (PRP It))
+sid=6 spanning 7 until 8 headed by 7 parsed as (NP (PRP You))
+sid=7 spanning 0 until 4 headed by 2 parsed as (NP (: --) (NNP Sam) (NNP Ewing) (. .))
+(end predicted mentions)
+---------gold clusters--------
+10 6 8 | { 'It' 'a sign saying , `` Have You Left Anything' 'That sign' }
+0 1 | { 'advice Best taken with some caution' 'it' }
+9 4 7 2 3 5 | { 'he' 'he' 'The man' 'The guest' 'his' 'he' }
+(end gold clusters)

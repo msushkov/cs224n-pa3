@@ -1,0 +1,127 @@
+---------gloss--------
+(0) [4m[31m{U.S. Memories Inc. , the venture that seeks to crack Japan 's domination of the memory - chip market ,}[0m said [4m[31m{it}[0m has chosen [3m[33m{four potential sites for its operations}[0m after a fierce bidding war by 15 states . 
+(1) [4m[31m{U.S. Memories}[0m said [4m[31m{it}[0m will begin visits during the next several weeks to [3m[33m{sites in Austin , Texas ; Colorado Springs , Colo. ; Middletown , N.Y. ; and Phoenix , Ariz}[0m . 
+(2) [3m[34m{Sanford Kane , president ,}[0m said [3m[33m{the finalists}[0m were chosen from among 57 locations based on financial , business , and quality of life considerations . 
+(3) Conspicuous by [3m[36m{its}[0m absence is [3m[36m{California}[0m . 
+(4) San Jose and several other [3m[36m{California}[0m cities mounted major campaigns during the summer to woo [4m[31m{the group , which was founded last June by seven electronics concerns}[0m . 
+(5) [4m[31m{The venture}[0m plans to announce a final site by late November . 
+(6) [4m[31m{It}[0m expects to begin construction by year end and start shipping four - megabit dynamic random - access memory chips by mid-1991 . 
+(7) [4m[31m{U.S. Memories}[0m investors include [3m[35m{Advanced Micro Devices Inc. , Digital Equipment Corp. , Hewlett - Packard Co. , International Business Machines Corp. , Intel Corp. , LSI Logic Corp. , and National Semiconductor Corp}[0m . 
+(8) [3m[34m{Mr. Kane}[0m said [3m[34m{he}[0m expects several other companies to join some time after [4m[31m{the venture}[0m completes a business plan , probably later this week . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1086); part 000
+sentences:
+U.S.U.S.NNPORGPER0MemoriesMemoriesNNPSORGPER0Inc.Inc.NNPORGPER0,,,OPER0thetheDTOPER0ventureventureNNOPER0thatthatWDTOPER0seeksseekVBZOPER0totoTOOPER0crackcrackVBOPER0JapanJapanNNPGPEPER0's'sPOSOPER0dominationdominationNNOPER0ofofINOPER0thetheDTOPER0memorymemoryNNOPER0--HYPHOPER0chipchipNNOPER0marketmarketNNOPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0hashaveVBZOPER0chosenchooseVBNOPER0fourfourCDCARDINALPER0potentialpotentialJJOPER0sitessiteNNSOPER0forforINOPER0itsitsPRP$OPER0operationsoperationNNSOPER0afterafterINOPER0aaDTOPER0fiercefierceJJOPER0biddingbiddingNNOPER0warwarNNOPER0bybyINOPER01515CDCARDINALPER0statesstateNNSOPER0...OPER0(ROOT (S (NP (NP (NNP U.S.) (NNPS Memories) (NNP Inc.)) (, ,) (NP (NP (DT the) (NN venture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seeks) (S (VP (TO to) (VP (VB crack) (NP (NP (NP (NNP Japan) (POS 's)) (NN domination)) (PP (IN of) (NP (DT the) (NML (NN memory) (HYPH -) (NN chip)) (NN market))))))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN chosen) (NP (NP (CD four) (JJ potential) (NNS sites)) (PP (IN for) (NP (PRP$ its) (NNS operations)))) (PP (IN after) (NP (NP (DT a) (JJ fierce) (NN bidding) (NN war)) (PP (IN by) (NP (CD 15) (NNS states)))))))))) (. .)))
+U.S.U.S.NNPORGPER0MemoriesMemoriesNNPORGPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0beginbeginVBOPER0visitsvisitNNSOPER0duringduringINOPER0thetheDTDATEPER0nextnextJJDATEPER0severalseveralJJDATEPER0weeksweekNNSDATEPER0totoINOPER0sitessiteNNSOPER0ininINOPER0AustinAustinNNPGPEPER0,,,OPER0TexasTexasNNPGPEPER0;;:OPER0ColoradoColoradoNNPGPEPER0SpringsSpringsNNPGPEPER0,,,OPER0Colo.Colo.NNPGPEPER0;;:OPER0MiddletownMiddletownNNPGPEPER0,,,OPER0N.Y.N.Y.NNPGPEPER0;;:OPER0andandCCOPER0PhoenixPhoenixNNPGPEPER0,,,OPER0ArizArizNNPGPEPER0...OPER0(ROOT (S (NP (NNP U.S.) (NNP Memories)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB begin) (NP (NNS visits)) (PP (IN during) (NP (DT the) (JJ next) (JJ several) (NNS weeks))) (PP (IN to) (NP (NP (NNS sites)) (PP (IN in) (NP (NP (NP (NNP Austin)) (, ,) (NP (NNP Texas))) (: ;) (NP (NP (NNP Colorado) (NNP Springs)) (, ,) (NP (NNP Colo.))) (: ;) (NP (NP (NNP Middletown)) (, ,) (NP (NNP N.Y.))) (: ;) (CC and) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Ariz)))))))))))) (. .)))
+SanfordSanfordNNPPERSONPER0KaneKaneNNPPERSONPER0,,,OPER0presidentpresidentNNOPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0finalistsfinalistNNSOPER0werebeVBDOPER0chosenchooseVBNOPER0fromfromINOPER0amongamongINOPER05757CDCARDINALPER0locationslocationNNSOPER0basedbaseVBNOPER0ononINOPER0financialfinancialJJOPER0,,,OPER0businessbusinessNNOPER0,,,OPER0andandCCOPER0qualityqualityNNOPER0ofofINOPER0lifelifeNNOPER0considerationsconsiderationNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Sanford) (NNP Kane)) (, ,) (NP (NN president)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS finalists)) (VP (VBD were) (VP (VBN chosen) (PP (IN from) (PP (IN among) (NP (NP (CD 57) (NNS locations)) (VP (VBN based) (PP (IN on) (NP (NP (JJ financial) (, ,) (NN business) (, ,) (CC and) (NN quality)) (PP (IN of) (NP (NN life) (NNS considerations)))))))))))))) (. .)))
+ConspicuousconspicuousJJOPER0bybyINOPER0itsitsPRP$OPER0absenceabsenceNNOPER0isbeVBZOPER0CaliforniaCaliforniaNNPGPEPER0...OPER0(ROOT (SINV (ADJP (JJ Conspicuous) (PP (IN by) (NP (PRP$ its) (NN absence)))) (VP (VBZ is)) (NP (NNP California)) (. .)))
+SanSanNNPGPEPER0JoseJoseNNPGPEPER0andandCCOPER0severalseveralJJOPER0otherotherJJOPER0CaliforniaCaliforniaNNPGPEPER0citiescityNNSOPER0mountedmountVBDOPER0majormajorJJOPER0campaignscampaignNNSOPER0duringduringINOPER0thetheDTDATEPER0summersummerNNDATEPER0totoTOOPER0woowooVBOPER0thetheDTOPER0groupgroupNNOPER0,,,OPER0whichwhichWDTOPER0wasbeVBDOPER0foundedfoundVBNOPER0lastlastJJDATEPER0JuneJuneNNPDATEPER0bybyINOPER0sevensevenCDCARDINALPER0electronicselectronicsNNOPER0concernsconcernNNSOPER0...OPER0(ROOT (S (NP (NP (NNP San) (NNP Jose)) (CC and) (NP (JJ several) (JJ other) (NNP California) (NNS cities))) (VP (VBD mounted) (NP (JJ major) (NNS campaigns)) (PP (IN during) (NP (DT the) (NN summer))) (S (VP (TO to) (VP (VB woo) (NP (NP (DT the) (NN group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN founded) (NP (JJ last) (NNP June)) (PP (IN by) (NP (CD seven) (NN electronics) (NNS concerns)))))))))))) (. .)))
+ThetheDTOPER0ventureventureNNOPER0plansplanVBZOPER0totoTOOPER0announceannounceVBOPER0aaDTOPER0finalfinalJJOPER0sitesiteNNOPER0bybyINOPER0latelateJJDATEPER0NovemberNovemberNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NN venture)) (VP (VBZ plans) (S (VP (TO to) (VP (VB announce) (NP (DT a) (JJ final) (NN site)) (PP (IN by) (NP (JJ late) (NNP November))))))) (. .)))
+ItitPRPOPER0expectsexpectVBZOPER0totoTOOPER0beginbeginVBOPER0constructionconstructionNNOPER0bybyINOPER0yearyearNNDATEPER0endendNNDATEPER0andandCCOPER0startstartVBOPER0shippingshipVBGOPER0fourfourCDQUANTITYPER0--HYPHQUANTITYPER0megabitmegabitNNQUANTITYPER0dynamicdynamicJJOPER0randomrandomJJOPER0--HYPHOPER0accessaccessNNOPER0memorymemoryNNOPER0chipschipNNSOPER0bybyINOPER0mid-1991mid-1991CDDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ expects) (S (VP (TO to) (VP (VP (VB begin) (NP (NN construction)) (PP (IN by) (NP (NN year) (NN end)))) (CC and) (VP (VB start) (S (VP (VBG shipping) (NP (NML (CD four) (HYPH -) (NN megabit)) (NML (JJ dynamic) (NML (JJ random) (HYPH -) (NN access)) (NN memory)) (NNS chips)) (PP (IN by) (NP (CD mid-1991)))))))))) (. .)))
+U.S.U.S.NNPORGPER0MemoriesMemoriesNNPORGPER0investorsinvestorNNSOPER0includeincludeVBPOPER0AdvancedAdvancedNNPORGPER0MicroMicroNNPORGPER0DevicesDevicesNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0DigitalDigitalNNPORGPER0EquipmentEquipmentNNPORGPER0Corp.Corp.NNPORGPER0,,,ORGPER0HewlettHewlettNNPORGPER0--HYPHORGPER0PackardPackardNNPORGPER0Co.Co.NNPORGPER0,,,OPER0InternationalInternationalNNPORGPER0BusinessBusinessNNPORGPER0MachinesMachinesNNPSORGPER0Corp.Corp.NNPORGPER0,,,OPER0IntelIntelNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0LSILSINNPORGPER0LogicLogicNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0andandCCOPER0NationalNationalNNPORGPER0SemiconductorSemiconductorNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NML (NNP U.S.) (NNP Memories)) (NNS investors)) (VP (VBP include) (NP (NP (NNP Advanced) (NNP Micro) (NNP Devices) (NNP Inc.)) (, ,) (NP (NNP Digital) (NNP Equipment) (NNP Corp.)) (, ,) (NP (NNP Hewlett) (HYPH -) (NNP Packard) (NNP Co.)) (, ,) (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (, ,) (NP (NNP Intel) (NNP Corp.)) (, ,) (NP (NNP LSI) (NNP Logic) (NNP Corp.)) (, ,) (CC and) (NP (NNP National) (NNP Semiconductor) (NNP Corp)))) (. .)))
+Mr.Mr.NNPOPER0KaneKaneNNPPERSONPER0saidsayVBDOPER0hehePRPOPER0expectsexpectVBZOPER0severalseveralJJOPER0otherotherJJOPER0companiescompanyNNSOPER0totoTOOPER0joinjoinVBOPER0somesomeDTOPER0timetimeNNOPER0afterafterINOPER0thetheDTOPER0ventureventureNNOPER0completescompleteVBZOPER0aaDTOPER0businessbusinessNNOPER0planplanNNOPER0,,,OPER0probablyprobablyRBOPER0laterlaterRBDATEPER0thisthisDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Kane)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ expects) (S (NP (JJ several) (JJ other) (NNS companies)) (VP (TO to) (VP (VB join) (NP (DT some) (NN time)) (SBAR (SBAR (IN after) (S (NP (DT the) (NN venture)) (VP (VBZ completes) (NP (DT a) (NN business) (NN plan))))) (, ,) (NP (ADVP (RB probably)) (RB later) (DT this) (NN week)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 20 headed by 2 parsed as (NP (NP (NNP U.S.) (NNPS Memories) (NNP Inc.)) (, ,) (NP (NP (DT the) (NN venture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seeks) (S (VP (TO to) (VP (VB crack) (NP (NP (NP (NNP Japan) (POS 's)) (NN domination)) (PP (IN of) (NP (DT the) (NML (NN memory) (HYPH -) (NN chip)) (NN market))))))))))) (, ,))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (PRP it))
+sid=0 spanning 24 until 30 headed by 26 parsed as (NP (NP (CD four) (JJ potential) (NNS sites)) (PP (IN for) (NP (PRP$ its) (NNS operations))))
+sid=0 spanning 28 until 29 headed by 28 parsed as its
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP U.S.) (NNP Memories))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 13 until 32 headed by 13 parsed as (NP (NP (NNS sites)) (PP (IN in) (NP (NP (NP (NNP Austin)) (, ,) (NP (NNP Texas))) (: ;) (NP (NP (NNP Colorado) (NNP Springs)) (, ,) (NP (NNP Colo.))) (: ;) (NP (NP (NNP Middletown)) (, ,) (NP (NNP N.Y.))) (: ;) (CC and) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Ariz))))))
+sid=2 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Sanford) (NNP Kane)) (, ,) (NP (NN president)) (, ,))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS finalists))
+sid=3 spanning 2 until 3 headed by 2 parsed as its
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NNP California))
+sid=4 spanning 5 until 6 headed by 5 parsed as California
+sid=4 spanning 15 until 27 headed by 16 parsed as (NP (NP (DT the) (NN group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN founded) (NP (JJ last) (NNP June)) (PP (IN by) (NP (CD seven) (NN electronics) (NNS concerns))))))))
+sid=4 spanning 24 until 27 headed by 26 parsed as (NP (CD seven) (NN electronics) (NNS concerns))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN venture))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=7 spanning 0 until 2 headed by 1 parsed as Memories
+sid=7 spanning 4 until 34 headed by 7 parsed as (NP (NP (NNP Advanced) (NNP Micro) (NNP Devices) (NNP Inc.)) (, ,) (NP (NNP Digital) (NNP Equipment) (NNP Corp.)) (, ,) (NP (NNP Hewlett) (HYPH -) (NNP Packard) (NNP Co.)) (, ,) (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (, ,) (NP (NNP Intel) (NNP Corp.)) (, ,) (NP (NNP LSI) (NNP Logic) (NNP Corp.)) (, ,) (CC and) (NP (NNP National) (NNP Semiconductor) (NNP Corp)))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Kane))
+sid=8 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=8 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN venture))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP U.S.) (NNPS Memories) (NNP Inc.)) (, ,) (NP (NP (DT the) (NN venture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seeks) (S (VP (TO to) (VP (VB crack) (NP (NP (NP (NNP Japan) (POS 's)) (NN domination)) (PP (IN of) (NP (DT the) (NML (NN memory) (HYPH -) (NN chip)) (NN market))))))))))) (, ,))
+sid=0 spanning 0 until 20 headed by 2 parsed as (NP (NP (NNP U.S.) (NNPS Memories) (NNP Inc.)) (, ,) (NP (NP (DT the) (NN venture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seeks) (S (VP (TO to) (VP (VB crack) (NP (NP (NP (NNP Japan) (POS 's)) (NN domination)) (PP (IN of) (NP (DT the) (NML (NN memory) (HYPH -) (NN chip)) (NN market))))))))))) (, ,))
+sid=0 spanning 4 until 19 headed by 5 parsed as (NP (NP (DT the) (NN venture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seeks) (S (VP (TO to) (VP (VB crack) (NP (NP (NP (NNP Japan) (POS 's)) (NN domination)) (PP (IN of) (NP (DT the) (NML (NN memory) (HYPH -) (NN chip)) (NN market)))))))))))
+sid=0 spanning 10 until 19 headed by 12 parsed as (NP (NP (NP (NNP Japan) (POS 's)) (NN domination)) (PP (IN of) (NP (DT the) (NML (NN memory) (HYPH -) (NN chip)) (NN market))))
+sid=0 spanning 10 until 12 headed by 10 parsed as (NP (NNP Japan) (POS 's))
+sid=0 spanning 14 until 19 headed by 18 parsed as (NP (DT the) (NML (NN memory) (HYPH -) (NN chip)) (NN market))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (PRP it))
+sid=0 spanning 24 until 30 headed by 26 parsed as (NP (NP (CD four) (JJ potential) (NNS sites)) (PP (IN for) (NP (PRP$ its) (NNS operations))))
+sid=0 spanning 28 until 30 headed by 29 parsed as (NP (PRP$ its) (NNS operations))
+sid=0 spanning 28 until 29 headed by 28 parsed as (PRP$ its)
+sid=0 spanning 31 until 38 headed by 34 parsed as (NP (NP (DT a) (JJ fierce) (NN bidding) (NN war)) (PP (IN by) (NP (CD 15) (NNS states))))
+sid=0 spanning 36 until 38 headed by 37 parsed as (NP (CD 15) (NNS states))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP U.S.) (NNP Memories))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNS visits))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (DT the) (JJ next) (JJ several) (NNS weeks))
+sid=1 spanning 13 until 32 headed by 13 parsed as (NP (NP (NNS sites)) (PP (IN in) (NP (NP (NP (NNP Austin)) (, ,) (NP (NNP Texas))) (: ;) (NP (NP (NNP Colorado) (NNP Springs)) (, ,) (NP (NNP Colo.))) (: ;) (NP (NP (NNP Middletown)) (, ,) (NP (NNP N.Y.))) (: ;) (CC and) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Ariz))))))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NP (NP (NNP Austin)) (, ,) (NP (NNP Texas))) (: ;) (NP (NP (NNP Colorado) (NNP Springs)) (, ,) (NP (NNP Colo.))) (: ;) (NP (NP (NNP Middletown)) (, ,) (NP (NNP N.Y.))) (: ;) (CC and) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Ariz))))
+sid=1 spanning 15 until 32 headed by 15 parsed as (NP (NP (NP (NNP Austin)) (, ,) (NP (NNP Texas))) (: ;) (NP (NP (NNP Colorado) (NNP Springs)) (, ,) (NP (NNP Colo.))) (: ;) (NP (NP (NNP Middletown)) (, ,) (NP (NNP N.Y.))) (: ;) (CC and) (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Ariz))))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Texas))
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (NP (NNP Colorado) (NNP Springs)) (, ,) (NP (NNP Colo.)))
+sid=1 spanning 19 until 23 headed by 20 parsed as (NP (NP (NNP Colorado) (NNP Springs)) (, ,) (NP (NNP Colo.)))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (NNP Colo.))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NP (NNP Middletown)) (, ,) (NP (NNP N.Y.)))
+sid=1 spanning 24 until 27 headed by 24 parsed as (NP (NP (NNP Middletown)) (, ,) (NP (NNP N.Y.)))
+sid=1 spanning 26 until 27 headed by 26 parsed as (NP (NNP N.Y.))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Ariz)))
+sid=1 spanning 29 until 32 headed by 29 parsed as (NP (NP (NNP Phoenix)) (, ,) (NP (NNP Ariz)))
+sid=1 spanning 31 until 32 headed by 31 parsed as (NP (NNP Ariz))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Sanford) (NNP Kane)) (, ,) (NP (NN president)) (, ,))
+sid=2 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Sanford) (NNP Kane)) (, ,) (NP (NN president)) (, ,))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS finalists))
+sid=2 spanning 12 until 25 headed by 13 parsed as (NP (NP (CD 57) (NNS locations)) (VP (VBN based) (PP (IN on) (NP (NP (JJ financial) (, ,) (NN business) (, ,) (CC and) (NN quality)) (PP (IN of) (NP (NN life) (NNS considerations)))))))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (NN life) (NNS considerations))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ its) (NN absence))
+sid=3 spanning 2 until 3 headed by 2 parsed as (PRP$ its)
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NNP California))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP San) (NNP Jose)) (CC and) (NP (JJ several) (JJ other) (NNP California) (NNS cities)))
+sid=4 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP San) (NNP Jose)) (CC and) (NP (JJ several) (JJ other) (NNP California) (NNS cities)))
+sid=4 spanning 3 until 7 headed by 6 parsed as (NP (JJ several) (JJ other) (NNP California) (NNS cities))
+sid=4 spanning 5 until 6 headed by 5 parsed as California
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (JJ major) (NNS campaigns))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN summer))
+sid=4 spanning 15 until 27 headed by 16 parsed as (NP (NP (DT the) (NN group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN founded) (NP (JJ last) (NNP June)) (PP (IN by) (NP (CD seven) (NN electronics) (NNS concerns))))))))
+sid=4 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN group))
+sid=4 spanning 21 until 23 headed by 22 parsed as (NP (JJ last) (NNP June))
+sid=4 spanning 24 until 27 headed by 26 parsed as (NP (CD seven) (NN electronics) (NNS concerns))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN venture))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ final) (NN site))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (JJ late) (NNP November))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (NN year) (NN end))
+sid=6 spanning 11 until 20 headed by 19 parsed as (NP (NML (CD four) (HYPH -) (NN megabit)) (NML (JJ dynamic) (NML (JJ random) (HYPH -) (NN access)) (NN memory)) (NNS chips))
+sid=6 spanning 21 until 22 headed by 21 parsed as (NP (CD mid-1991))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP U.S.) (NNP Memories)) (NNS investors))
+sid=7 spanning 0 until 2 headed by 1 parsed as Memories
+sid=7 spanning 4 until 8 headed by 7 parsed as (NP (NP (NNP Advanced) (NNP Micro) (NNP Devices) (NNP Inc.)) (, ,) (NP (NNP Digital) (NNP Equipment) (NNP Corp.)) (, ,) (NP (NNP Hewlett) (HYPH -) (NNP Packard) (NNP Co.)) (, ,) (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (, ,) (NP (NNP Intel) (NNP Corp.)) (, ,) (NP (NNP LSI) (NNP Logic) (NNP Corp.)) (, ,) (CC and) (NP (NNP National) (NNP Semiconductor) (NNP Corp)))
+sid=7 spanning 4 until 34 headed by 7 parsed as (NP (NP (NNP Advanced) (NNP Micro) (NNP Devices) (NNP Inc.)) (, ,) (NP (NNP Digital) (NNP Equipment) (NNP Corp.)) (, ,) (NP (NNP Hewlett) (HYPH -) (NNP Packard) (NNP Co.)) (, ,) (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (, ,) (NP (NNP Intel) (NNP Corp.)) (, ,) (NP (NNP LSI) (NNP Logic) (NNP Corp.)) (, ,) (CC and) (NP (NNP National) (NNP Semiconductor) (NNP Corp)))
+sid=7 spanning 9 until 17 headed by 11 parsed as (NP (NNP Digital) (NNP Equipment) (NNP Corp.))
+sid=7 spanning 18 until 22 headed by 21 parsed as (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.))
+sid=7 spanning 23 until 25 headed by 24 parsed as (NP (NNP Intel) (NNP Corp.))
+sid=7 spanning 26 until 29 headed by 28 parsed as (NP (NNP LSI) (NNP Logic) (NNP Corp.))
+sid=7 spanning 31 until 34 headed by 33 parsed as (NP (NNP National) (NNP Semiconductor) (NNP Corp))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Kane))
+sid=8 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=8 spanning 5 until 8 headed by 7 parsed as (NP (JJ several) (JJ other) (NNS companies))
+sid=8 spanning 10 until 12 headed by 11 parsed as (NP (DT some) (NN time))
+sid=8 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN venture))
+sid=8 spanning 16 until 19 headed by 18 parsed as (NP (DT a) (NN business) (NN plan))
+sid=8 spanning 20 until 24 headed by 23 parsed as (NP (ADVP (RB probably)) (RB later) (DT this) (NN week))
+(end predicted mentions)
+---------gold clusters--------
+2 6 8 | { 'four potential sites for its operations' 'sites in Austin , Texas ; Colorado Springs , Colo. ; Middletown , N.Y. ; and Phoenix , Ariz' 'the finalists' }
+7 18 19 | { 'Sanford Kane , president ,' 'Mr. Kane' 'he' }
+17 13 | { 'Advanced Micro Devices Inc. , Digital Equipment Corp. , Hewlett - Packard Co. , International Business Machines Corp. , Intel Corp. , LSI Logic Corp. , and National Semiconductor Corp' 'seven electronics concerns' }
+9 11 10 | { 'its' 'California' 'California' }
+16 14 20 15 4 5 12 1 0 3 | { 'U.S. Memories' 'The venture' 'the venture' 'It' 'U.S. Memories' 'it' 'the group , which was founded last June by seven electronics concerns' 'it' 'U.S. Memories Inc. , the venture that seeks to crack Japan 's domination of the memory - chip market ,' 'its' }
+(end gold clusters)

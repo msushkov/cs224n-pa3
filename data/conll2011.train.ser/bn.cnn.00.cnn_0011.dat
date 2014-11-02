@@ -1,0 +1,60 @@
+---------gloss--------
+(0) Bloodshed continues in the Mideast in spite of Israeli efforts to prevent violence by sealing off Palestinian territories . 
+(1) Stone - throwing Palestinians confronted Israeli troops protecting a Jewish settlement in [1m[35m{Gaza}[0m . 
+(2) Reports say six Palestinians have been killed today in clashes on the West Bank and in [1m[35m{the Gaza Strip}[0m . 
+(3) Earlier , Palestinian security forces intervened in [3m[31m{a confrontation at a Jerusalem site revered by both sides}[0m . 
+(4) Control of [1m[36m{the shrine}[0m has been bitterly disputed . 
+(5) Israeli police fired tear gas at stone - throwing protesters . 
+(6) Palestinian police kept [3m[31m{the clash}[0m from escalating . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0011); part 000
+sentences:
+BloodshedbloodshedNNPERSONPER0continuescontinueVBZOPER0ininINOPER0thetheDTOPER0MideastMideastNNPLOCPER0ininINOPER0spitespiteNNOPER0ofofINOPER0IsraeliisraeliJJOPER0effortseffortNNSOPER0totoTOOPER0preventpreventVBOPER0violenceviolenceNNOPER0bybyINOPER0sealingsealVBGOPER0offoffRPOPER0PalestinianpalestinianJJOPER0territoriesterritoryNNSOPER0...OPER0(ROOT (S (NP (NN Bloodshed)) (VP (VBZ continues) (PP (IN in) (NP (DT the) (NNP Mideast))) (PP (IN in) (NP (NP (NN spite)) (PP (IN of) (NP (JJ Israeli) (NNS efforts) (S (VP (TO to) (VP (VB prevent) (NP (NN violence)) (PP (IN by) (S (VP (VBG sealing) (PRT (RP off)) (NP (JJ Palestinian) (NNS territories))))))))))))) (. .)))
+StonestoneNNORGPER0--HYPHOPER0throwingthrowVBGOPER0PalestiniansPalestiniansNNPSOPER0confrontedconfrontVBDOPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0protectingprotectVBGOPER0aaDTOPER0JewishjewishJJOPER0settlementsettlementNNOPER0ininINOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (NP (ADJP (NN Stone) (HYPH -) (VBG throwing)) (NNPS Palestinians)) (VP (VBD confronted) (NP (NP (JJ Israeli) (NNS troops)) (PP (VBG protecting) (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (NNP Gaza))))))) (. .)))
+ReportsreportNNSOPER0saysayVBPOPER0sixsixCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0havehaveVBPOPER0beenbeVBNOPER0killedkillVBNOPER0todaytodayNNDATEPER0ininINOPER0clashesclashNNSOPER0ononINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (NNS Reports)) (VP (VBP say) (SBAR (S (NP (CD six) (NNPS Palestinians)) (VP (VBP have) (VP (VBN been) (VP (VBN killed) (NP (NN today)) (PP (PP (IN in) (NP (NP (NNS clashes)) (PP (IN on) (NP (DT the) (NNP West) (NNP Bank))))) (CC and) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))))))))) (. .)))
+EarlierearlierRBROPER0,,,OPER0PalestinianpalestinianJJOPER0securitysecurityNNOPER0forcesforceNNSOPER0intervenedinterveneVBDOPER0ininINOPER0aaDTOPER0confrontationconfrontationNNOPER0atatINOPER0aaDTOPER0JerusalemJerusalemNNPGPEPER0sitesiteNNOPER0reveredrevereVBNOPER0bybyINOPER0bothbothDTOPER0sidessideNNSOPER0...OPER0(ROOT (S (ADVP (RBR Earlier)) (, ,) (NP (JJ Palestinian) (NN security) (NNS forces)) (VP (VBD intervened) (PP (IN in) (NP (DT a) (NN confrontation))) (PP (IN at) (NP (NP (DT a) (NNP Jerusalem) (NN site)) (VP (VBN revered) (PP (IN by) (NP (DT both) (NNS sides))))))) (. .)))
+ControlcontrolNNORGPER0ofofINOPER0thetheDTOPER0shrineshrineNNOPER0hashaveVBZOPER0beenbeVBNOPER0bitterlybitterlyRBOPER0disputeddisputedJJOPER0...OPER0(ROOT (S (NP (NP (NN Control)) (PP (IN of) (NP (DT the) (NN shrine)))) (VP (VBZ has) (VP (VBN been) (ADJP (RB bitterly) (JJ disputed)))) (. .)))
+IsraeliisraeliJJOPER0policepoliceNNSOPER0firedfireVBDOPER0teartearJJOPER0gasgasNNOPER0atatINOPER0stonestoneNNOPER0--HYPHOPER0throwingthrowVBGOPER0protestersprotesterNNSOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS police)) (VP (VBD fired) (NP (JJ tear) (NN gas)) (PP (IN at) (NP (ADJP (NN stone) (HYPH -) (VBG throwing)) (NNS protesters)))) (. .)))
+PalestinianpalestinianJJOPER0policepoliceNNSOPER0keptkeepVBDOPER0thetheDTOPER0clashclashNNOPER0fromfromINOPER0escalatingescalateVBGOPER0...OPER0(ROOT (S (NP (JJ Palestinian) (NNS police)) (VP (VBD kept) (NP (DT the) (NN clash)) (PP (IN from) (S (VP (VBG escalating))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Gaza))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=3 spanning 7 until 17 headed by 8 parsed as (NP (DT a) (NN confrontation))
+sid=3 spanning 10 until 17 headed by 12 parsed as (NP (NP (DT a) (NNP Jerusalem) (NN site)) (VP (VBN revered) (PP (IN by) (NP (DT both) (NNS sides)))))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN shrine))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN clash))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP Mideast))
+sid=0 spanning 6 until 18 headed by 6 parsed as (NP (NP (NN spite)) (PP (IN of) (NP (JJ Israeli) (NNS efforts) (S (VP (TO to) (VP (VB prevent) (NP (NN violence)) (PP (IN by) (S (VP (VBG sealing) (PRT (RP off)) (NP (JJ Palestinian) (NNS territories)))))))))))
+sid=0 spanning 8 until 18 headed by 9 parsed as (NP (JJ Israeli) (NNS efforts) (S (VP (TO to) (VP (VB prevent) (NP (NN violence)) (PP (IN by) (S (VP (VBG sealing) (PRT (RP off)) (NP (JJ Palestinian) (NNS territories)))))))))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (JJ Palestinian) (NNS territories))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (NN Stone) (HYPH -) (VBG throwing)) (NNPS Palestinians))
+sid=1 spanning 5 until 13 headed by 6 parsed as (NP (NP (JJ Israeli) (NNS troops)) (PP (VBG protecting) (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (NNP Gaza))))))
+sid=1 spanning 8 until 13 headed by 10 parsed as (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (NNP Gaza))))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Gaza))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Reports))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (CD six) (NNPS Palestinians))
+sid=2 spanning 9 until 14 headed by 9 parsed as (NP (NP (NNS clashes)) (PP (IN on) (NP (DT the) (NNP West) (NNP Bank))))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=3 spanning 2 until 5 headed by 4 parsed as (NP (JJ Palestinian) (NN security) (NNS forces))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT a) (NN confrontation))
+sid=3 spanning 10 until 17 headed by 12 parsed as (NP (NP (DT a) (NNP Jerusalem) (NN site)) (VP (VBN revered) (PP (IN by) (NP (DT both) (NNS sides)))))
+sid=3 spanning 11 until 12 headed by 11 parsed as Jerusalem
+sid=3 spanning 15 until 17 headed by 16 parsed as (NP (DT both) (NNS sides))
+sid=4 spanning 0 until 4 headed by 0 parsed as (NP (NP (NN Control)) (PP (IN of) (NP (DT the) (NN shrine))))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN shrine))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS police))
+sid=5 spanning 6 until 10 headed by 9 parsed as (NP (ADJP (NN stone) (HYPH -) (VBG throwing)) (NNS protesters))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (JJ Palestinian) (NNS police))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN clash))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'the Gaza Strip' 'Gaza' }
+3 4 | { 'a Jerusalem site revered by both sides' 'the shrine' }
+2 5 | { 'a confrontation at a Jerusalem site revered by both sides' 'the clash' }
+(end gold clusters)

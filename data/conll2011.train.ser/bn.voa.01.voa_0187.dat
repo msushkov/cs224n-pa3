@@ -1,0 +1,31 @@
+---------gloss--------
+(0) The UN General Assembly has approved [1m[32m{a major overhaul of the world body 's finances}[0m . 
+(1) Delegates voted on [1m[32m{a measure to cut American contributions to the administrative and peacekeeping budgets for the first time in over twenty years}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0187); part 000
+sentences:
+ThetheDTORGPER0UNUNNNPORGPER0GeneralGeneralNNPORGPER0AssemblyAssemblyNNPORGPER0hashaveVBZOPER0approvedapproveVBNOPER0aaDTOPER0majormajorJJOPER0overhauloverhaulNNOPER0ofofINOPER0thetheDTOPER0worldworldNNOPER0bodybodyNNOPER0's'sPOSOPER0financesfinancesNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNP UN) (NNP General) (NNP Assembly)) (VP (VBZ has) (VP (VBN approved) (NP (NP (DT a) (JJ major) (NN overhaul)) (PP (IN of) (NP (NP (DT the) (NN world) (NN body) (POS 's)) (NNS finances)))))) (. .)))
+DelegatesdelegateNNSOPER0votedvoteVBDOPER0ononINOPER0aaDTOPER0measuremeasureNNOPER0totoTOOPER0cutcutVBOPER0AmericanamericanJJOPER0contributionscontributionNNSOPER0totoINOPER0thetheDTOPER0administrativeadministrativeJJOPER0andandCCOPER0peacekeepingpeacekeepingNNOPER0budgetsbudgetNNSOPER0forforINOPER0thetheDTOPER0firstfirstJJORDINALPER0timetimeNNOPER0ininINOPER0overoverINOPER0twentytwentyCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NNS Delegates)) (VP (VBD voted) (PP (IN on) (NP (DT a) (NN measure))) (S (VP (TO to) (VP (VB cut) (NP (NP (JJ American) (NNS contributions)) (PP (IN to) (NP (NP (DT the) (ADJP (JJ administrative) (CC and) (NN peacekeeping)) (NNS budgets)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (PP (IN in) (NP (QP (IN over) (CD twenty)) (NNS years)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 15 headed by 8 parsed as (NP (NP (DT a) (JJ major) (NN overhaul)) (PP (IN of) (NP (NP (DT the) (NN world) (NN body) (POS 's)) (NNS finances))))
+sid=1 spanning 3 until 23 headed by 4 parsed as (NP (DT a) (NN measure))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP UN) (NNP General) (NNP Assembly))
+sid=0 spanning 6 until 15 headed by 8 parsed as (NP (NP (DT a) (JJ major) (NN overhaul)) (PP (IN of) (NP (NP (DT the) (NN world) (NN body) (POS 's)) (NNS finances))))
+sid=0 spanning 10 until 15 headed by 14 parsed as (NP (NP (DT the) (NN world) (NN body) (POS 's)) (NNS finances))
+sid=0 spanning 10 until 14 headed by 12 parsed as (NP (DT the) (NN world) (NN body) (POS 's))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Delegates))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN measure))
+sid=1 spanning 7 until 23 headed by 8 parsed as (NP (NP (JJ American) (NNS contributions)) (PP (IN to) (NP (NP (DT the) (ADJP (JJ administrative) (CC and) (NN peacekeeping)) (NNS budgets)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (PP (IN in) (NP (QP (IN over) (CD twenty)) (NNS years))))))
+sid=1 spanning 10 until 23 headed by 14 parsed as (NP (NP (DT the) (ADJP (JJ administrative) (CC and) (NN peacekeeping)) (NNS budgets)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (PP (IN in) (NP (QP (IN over) (CD twenty)) (NNS years))))
+sid=1 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ first) (NN time))
+sid=1 spanning 17 until 18 headed by 17 parsed as first
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (QP (IN over) (CD twenty)) (NNS years))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'a measure to cut American contributions to the administrative and peacekeeping budgets for the first time in over twenty years' 'a major overhaul of the world body 's finances' }
+(end gold clusters)

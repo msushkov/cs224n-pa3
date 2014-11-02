@@ -1,0 +1,49 @@
+---------gloss--------
+(0) [4m[35m{Israeli Prime Minister Ehud Barak}[0m is [4m[36m{calling}[0m for [4m[34m{an official `` timeout '' in peace talks with the Palestinians}[0m . 
+(1) [4m[36m{The decision}[0m was [4m[33m{announced}[0m following an Israeli cabinet meeting today . 
+(2) [4m[35m{He}[0m did n't say when [4m[34m{the time - out}[0m would begin . 
+(3) [4m[33m{The statement from Barak 's office}[0m said Israel needed a timeout to `` reassess the peace process because of the continuing violence . '' 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0052); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0isbeVBZOPER0callingcallVBGOPER0forforINOPER0anaDTOPER0officialofficialJJOPER0``````OtimeouttimeoutNNOPER1''''''OPER0ininINOPER0peacepeaceNNOPER0talkstalkNNSOPER0withwithINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ is) (VP (VBG calling) (PP (IN for) (NP (NP (DT an) (JJ official) (`` ``) (NN timeout) ('' '')) (PP (IN in) (NP (NP (NN peace) (NNS talks)) (PP (IN with) (NP (DT the) (NNPS Palestinians))))))))) (. .)))
+ThetheDTOPER0decisiondecisionNNOPER0wasbeVBDOPER0announcedannounceVBNOPER0followingfollowVBGOPER0anaDTOPER0IsraeliisraeliJJOPER0cabinetcabinetNNOPER0meetingmeetingNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NN decision)) (VP (VBD was) (VP (VBN announced) (PP (VBG following) (NP (DT an) (JJ Israeli) (NN cabinet) (NN meeting))) (NP (NN today)))) (. .)))
+HehePRPOPER0diddoVBDOPER0n'tnotRBOPER0saysayVBOPER0whenwhenWRBOPER0thetheDTOPER0timetimeNNOPER0--HYPHOPER0outoutNNOPER0wouldwouldMDOPER0beginbeginVBOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD did) (RB n't) (VP (VB say) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN time) (HYPH -) (NN out)) (VP (MD would) (VP (VB begin))))))) (. .)))
+ThetheDTOPER0statementstatementNNOPER0fromfromINOPER0BarakBarakNNPPERSONPER0's'sPOSOPER0officeofficeNNOPER0saidsayVBDOPER0IsraelIsraelNNPGPEPER0neededneedVBDOPER0aaDTOPER0timeouttimeoutNNOPER0totoTOOPER0``````OreassessreassessVBOPER2thetheDTOPER2peacepeaceNNOPER2processprocessNNOPER2becausebecauseINOPER2ofofINOPER2thetheDTOPER2continuingcontinueVBGOPER2violenceviolenceNNOPER2...OPER2''''''OPER0(ROOT (S (NP (NP (DT The) (NN statement)) (PP (IN from) (NP (NP (NNP Barak) (POS 's)) (NN office)))) (VP (VBD said) (SBAR (S (NP (NNP Israel)) (VP (VBD needed) (NP (DT a) (NN timeout)) (S (VP (TO to) (`` ``) (VP (VB reassess) (NP (DT the) (NN peace) (NN process)) (PP (IN because) (IN of) (NP (DT the) (VBG continuing) (NN violence)))))))))) (. .) ('' '')))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 6 until 7 headed by 6 parsed as calling
+sid=0 spanning 8 until 19 headed by 11 parsed as (NP (NP (DT an) (JJ official) (`` ``) (NN timeout) ('' '')) (PP (IN in) (NP (NP (NN peace) (NNS talks)) (PP (IN with) (NP (DT the) (NNPS Palestinians))))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN decision))
+sid=1 spanning 3 until 4 headed by 3 parsed as announced
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (NN time) (HYPH -) (NN out))
+sid=3 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NN statement)) (PP (IN from) (NP (NP (NNP Barak) (POS 's)) (NN office))))
+sid=3 spanning 3 until 5 headed by 3 parsed as (NP (NNP Barak) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 19 headed by 11 parsed as (NP (NP (DT an) (JJ official) (`` ``) (NN timeout) ('' '')) (PP (IN in) (NP (NP (NN peace) (NNS talks)) (PP (IN with) (NP (DT the) (NNPS Palestinians))))))
+sid=0 spanning 14 until 19 headed by 15 parsed as (NP (NP (NN peace) (NNS talks)) (PP (IN with) (NP (DT the) (NNPS Palestinians))))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN decision))
+sid=1 spanning 5 until 9 headed by 8 parsed as (NP (DT an) (JJ Israeli) (NN cabinet) (NN meeting))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (NN time) (HYPH -) (NN out))
+sid=3 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NN statement)) (PP (IN from) (NP (NP (NNP Barak) (POS 's)) (NN office))))
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (NP (NNP Barak) (POS 's)) (NN office))
+sid=3 spanning 3 until 5 headed by 3 parsed as (NP (NNP Barak) (POS 's))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP Israel))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NN timeout))
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NN peace) (NN process))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (VBG continuing) (NN violence))
+(end predicted mentions)
+---------gold clusters--------
+7 4 | { 'The statement from Barak 's office' 'announced' }
+6 2 | { 'the time - out' 'an official `` timeout '' in peace talks with the Palestinians' }
+5 0 8 | { 'He' 'Israeli Prime Minister Ehud Barak' 'Barak 's' }
+3 1 | { 'The decision' 'calling' }
+(end gold clusters)

@@ -1,0 +1,132 @@
+---------gloss--------
+(0) [3m[36m{Prime Minister Ehud Barak}[0m defends [1m[36m{Israel 's}[0m bombardment of Palestinian targets in [3m[32m{the Gaza Strip}[0m in response to [3m[35m{a bomb attack on a school bus in Gaza that killed two Jewish settlers and injured at least nine , some of them children}[0m . 
+(1) [4m[32m{VOA}[0m correspondent Eve Connan in [4m[31m{Jerusalem}[0m reports . 
+(2) Dozens of people are reported injured in [3m[34m{the air raids which Palestinian leaders are calling an act of criminal aggression}[0m . 
+(3) As night fell , Israeli combat helicopters fired dozens of missiles at targets in [3m[32m{the Gaza Strip}[0m , striking near the office of Palestinian leader Yasser Arafat . 
+(4) Targets included a police station and security headquarters . 
+(5) Parts of [3m[33m{Gaza}[0m were plunged into darkness as electricity went off during [3m[34m{the raids}[0m . 
+(6) Following [3m[34m{the strikes}[0m , [3m[36m{Prime Minister Ehud Barak}[0m warned [1m[36m{Israel}[0m would use all force necessary with no restraints to end weeks of violence . 
+(7) [3m[36m{He}[0m described [3m[35m{the bombing of a school bus traveling from a Jewish settlement in the Gaza Strip early Monday}[0m , as a barbaric and terrorist act , and said no negotiations were currently underway with [3m[31m{the Palestinian leadership}[0m . 
+(8) Earlier , [3m[31m{the Palestinian authority}[0m issued a statement denying involvement in [3m[35m{the school bus attack}[0m . 
+(9) Palestinian leaders accused [1m[36m{Israel}[0m of choosing a path of war by launching [3m[34m{the strikes}[0m and called for international intervention . 
+(10) [1m[35m{Eve Connan}[0m , [4m[32m{VOA News}[0m , [4m[31m{Jerusalem}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0110); part 000
+sentences:
+PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0defendsdefendVBZOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0bombardmentbombardmentNNOPER0ofofINOPER0PalestinianpalestinianJJOPER0targetstargetNNSOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0ininINOPER0responseresponseNNOPER0totoINOPER0aaDTOPER0bombbombNNOPER0attackattackNNOPER0ononINOPER0aaDTOPER0schoolschoolNNOPER0busbusNNOPER0ininINOPER0GazaGazaNNPLOCPER0thatthatWDTOPER0killedkillVBDOPER0twotwoCDCARDINALPER0JewishjewishJJOPER0settlerssettlerNNSOPER0andandCCOPER0injuredinjureVBDOPER0atatINCARDINALPER0leastleastJJSCARDINALPER0ninenineCDCARDINALPER0,,,OPER0somesomeDTOPER0ofofINOPER0themtheyPRPOPER0childrenchildNNSOPER0...OPER0(ROOT (S (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ defends) (NP (NP (NP (NNP Israel) (POS 's)) (NN bombardment)) (PP (IN of) (NP (NP (JJ Palestinian) (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))))) (PP (IN in) (NP (NP (NN response)) (PP (IN to) (NP (NP (NP (DT a) (NN bomb) (NN attack)) (PP (IN on) (NP (NP (DT a) (NN school) (NN bus)) (PP (IN in) (NP (NNP Gaza)))))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD killed) (NP (CD two) (JJ Jewish) (NNS settlers))) (CC and) (VP (VBD injured) (NP (QP (ADVP (IN at) (JJS least)) (CD nine)))) (, ,) (S (NP (NP (DT some)) (PP (IN of) (NP (PRP them)))) (NP (NNS children))))))))))) (. .)))
+VOAVOANNPORGPER0correspondentcorrespondentNNOPER0EveEveNNPPERSONPER0ConnanConnanNNPPERSONPER0ininINOPER0JerusalemJerusalemNNPGPEPER0reportsreportVBZOPER0...OPER0(ROOT (S (NP (NP (NML (NNP VOA) (NN correspondent)) (NNP Eve) (NNP Connan)) (PP (IN in) (NP (NNP Jerusalem)))) (VP (VBZ reports)) (. .)))
+DozensdozenNNSCARDINALPER0ofofINOPER0peoplepeopleNNSOPER0arebeVBPOPER0reportedreportVBNOPER0injuredinjureVBNOPER0ininINOPER0thetheDTOPER0airairNNOPER0raidsraidNNSOPER0whichwhichWDTOPER0PalestinianpalestinianJJOPER0leadersleaderNNSOPER0arebeVBPOPER0callingcallVBGOPER0anaDTOPER0actactNNOPER0ofofINOPER0criminalcriminalJJOPER0aggressionaggressionNNOPER0...OPER0(ROOT (S (NP (NP (NNS Dozens)) (PP (IN of) (NP (NNS people)))) (VP (VBP are) (VP (VBN reported) (S (VP (VBN injured) (PP (IN in) (NP (NP (DT the) (NN air) (NNS raids)) (SBAR (WHNP (WDT which)) (S (NP (JJ Palestinian) (NNS leaders)) (VP (VBP are) (VP (VBG calling) (NP (NP (DT an) (NN act)) (PP (IN of) (NP (JJ criminal) (NN aggression)))))))))))))) (. .)))
+AsasINOPER0nightnightNNTIMEPER0fellfallVBDOPER0,,,OPER0IsraeliisraeliJJOPER0combatcombatNNOPER0helicoptershelicopterNNSOPER0firedfireVBDOPER0dozensdozenNNSCARDINALPER0ofofINOPER0missilesmissileNNSOPER0atatINOPER0targetstargetNNSOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0,,,OPER0strikingstrikeVBGOPER0nearnearINOPER0thetheDTOPER0officeofficeNNOPER0ofofINOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0...OPER0(ROOT (S (SBAR (IN As) (S (NP (NN night)) (VP (VBD fell)))) (, ,) (NP (JJ Israeli) (NN combat) (NNS helicopters)) (VP (VBD fired) (NP (NP (NNS dozens)) (PP (IN of) (NP (NNS missiles)))) (PP (IN at) (NP (NP (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))) (, ,) (S (VP (VBG striking) (PP (IN near) (NP (NP (DT the) (NN office)) (PP (IN of) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))))))) (. .)))
+TargetstargetNNSOPER0includedincludeVBDOPER0aaDTOPER0policepoliceNNOPER0stationstationNNOPER0andandCCOPER0securitysecurityNNOPER0headquartersheadquartersNNSOPER0...OPER0(ROOT (S (NP (NNS Targets)) (VP (VBD included) (NP (NP (DT a) (NN police) (NN station)) (CC and) (NP (NN security) (NNS headquarters)))) (. .)))
+PartspartNNSOPER0ofofINOPER0GazaGazaNNPLOCPER0werebeVBDOPER0plungedplungeVBNOPER0intointoINOPER0darknessdarknessNNOPER0asasINOPER0electricityelectricityNNOPER0wentgoVBDOPER0offoffRPOPER0duringduringINOPER0thetheDTOPER0raidsraidNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Parts)) (PP (IN of) (NP (NNP Gaza)))) (VP (VBD were) (VP (VBN plunged) (PP (IN into) (NP (NN darkness))) (SBAR (IN as) (S (NP (NN electricity)) (VP (VBD went) (PRT (RP off)) (PP (IN during) (NP (DT the) (NNS raids)))))))) (. .)))
+FollowingfollowVBGOPER0thetheDTOPER0strikesstrikeNNSOPER0,,,OPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0warnedwarnVBDOPER0IsraelIsraelNNPGPEPER0wouldwouldMDOPER0useuseVBOPER0allallDTOPER0forceforceNNOPER0necessarynecessaryJJOPER0withwithINOPER0nonoDTOPER0restraintsrestraintNNSOPER0totoTOOPER0endendVBOPER0weeksweekNNSDATEPER0ofofINOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (PP (VBG Following) (NP (DT the) (NNS strikes))) (, ,) (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD warned) (SBAR (S (NP (NNP Israel)) (VP (MD would) (VP (VB use) (NP (NP (DT all) (NN force)) (ADJP (JJ necessary) (PP (IN with) (NP (DT no) (NNS restraints))))) (S (VP (TO to) (VP (VB end) (NP (NP (NNS weeks)) (PP (IN of) (NP (NN violence)))))))))))) (. .)))
+HehePRPOPER0describeddescribeVBDOPER0thetheDTOPER0bombingbombingNNOPER0ofofINOPER0aaDTOPER0schoolschoolNNOPER0busbusNNOPER0travelingtravelVBGOPER0fromfromINOPER0aaDTOPER0JewishjewishJJOPER0settlementsettlementNNOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0earlyearlyJJDATEPER0MondayMondayNNPDATEPER0,,,OPER0asasINOPER0aaDTOPER0barbaricbarbaricJJOPER0andandCCOPER0terroristterroristJJOPER0actactNNOPER0,,,OPER0andandCCOPER0saidsayVBDOPER0nonoDTOPER0negotiationsnegotiationNNSOPER0werebeVBDOPER0currentlycurrentlyRBOPER0underwayunderwayJJOPER0withwithINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0leadershipleadershipNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VP (VBD described) (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (NP (DT a) (NN school) (NN bus)) (VP (VBG traveling) (PP (IN from) (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))))))) (NP (JJ early) (NNP Monday)) (, ,) (PP (IN as) (NP (DT a) (ADJP (JJ barbaric) (CC and) (JJ terrorist)) (NN act)))) (, ,) (CC and) (VP (VBD said) (SBAR (S (NP (DT no) (NNS negotiations)) (VP (VBD were) (ADJP (RB currently) (JJ underway) (PP (IN with) (NP (DT the) (JJ Palestinian) (NN leadership))))))))) (. .)))
+EarlierearlierRBROPER0,,,OPER0thetheDTOPER0PalestinianPalestinianNNPOPER0authorityauthorityNNPOPER0issuedissueVBDOPER0aaDTOPER0statementstatementNNOPER0denyingdenyVBGOPER0involvementinvolvementNNOPER0ininINOPER0thetheDTOPER0schoolschoolNNOPER0busbusNNOPER0attackattackNNOPER0...OPER0(ROOT (S (ADVP (RBR Earlier)) (, ,) (NP (DT the) (NNP Palestinian) (NNP authority)) (VP (VBD issued) (NP (NP (DT a) (NN statement)) (VP (VBG denying) (NP (NP (NN involvement)) (PP (IN in) (NP (DT the) (NN school) (NN bus) (NN attack))))))) (. .)))
+PalestinianpalestinianJJOPER0leadersleaderNNSOPER0accusedaccuseVBDOPER0IsraelIsraelNNPGPEPER0ofofINOPER0choosingchooseVBGOPER0aaDTOPER0pathpathNNOPER0ofofINOPER0warwarNNOPER0bybyINOPER0launchinglaunchVBGOPER0thetheDTOPER0strikesstrikeNNSOPER0andandCCOPER0calledcallVBDOPER0forforINOPER0internationalinternationalJJOPER0interventioninterventionNNOPER0...OPER0(ROOT (S (NP (JJ Palestinian) (NNS leaders)) (VP (VP (VBD accused) (NP (NNP Israel)) (PP (IN of) (S (VP (VBG choosing) (NP (NP (DT a) (NN path)) (PP (IN of) (NP (NN war)))) (PP (IN by) (S (VP (VBG launching) (NP (DT the) (NNS strikes))))))))) (CC and) (VP (VBD called) (PP (IN for) (NP (JJ international) (NN intervention))))) (. .)))
+EveEveNNPPERSONPER0ConnanConnanNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0,,,OPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Eve) (NNP Connan)) (, ,) (NP (NNP VOA) (NNP News)) (, ,) (NP (NNP Jerusalem)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 5 until 42 headed by 7 parsed as (NP (NP (NP (NNP Israel) (POS 's)) (NN bombardment)) (PP (IN of) (NP (NP (JJ Palestinian) (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))))
+sid=0 spanning 5 until 7 headed by 5 parsed as (NP (NNP Israel) (POS 's))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=0 spanning 18 until 42 headed by 20 parsed as (NP (NP (NP (DT a) (NN bomb) (NN attack)) (PP (IN on) (NP (NP (DT a) (NN school) (NN bus)) (PP (IN in) (NP (NNP Gaza)))))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD killed) (NP (CD two) (JJ Jewish) (NNS settlers))) (CC and) (VP (VBD injured) (NP (QP (ADVP (IN at) (JJS least)) (CD nine)))) (, ,) (S (NP (NP (DT some)) (PP (IN of) (NP (PRP them)))) (NP (NNS children)))))))
+sid=0 spanning 26 until 27 headed by 26 parsed as (NP (NNP Gaza))
+sid=1 spanning 0 until 6 headed by 3 parsed as (NP (NP (NML (NNP VOA) (NN correspondent)) (NNP Eve) (NNP Connan)) (PP (IN in) (NP (NNP Jerusalem))))
+sid=1 spanning 0 until 1 headed by 0 parsed as VOA
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP Jerusalem))
+sid=2 spanning 7 until 20 headed by 9 parsed as (NP (NP (DT the) (NN air) (NNS raids)) (SBAR (WHNP (WDT which)) (S (NP (JJ Palestinian) (NNS leaders)) (VP (VBP are) (VP (VBG calling) (NP (NP (DT an) (NN act)) (PP (IN of) (NP (JJ criminal) (NN aggression)))))))))
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Gaza))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS raids))
+sid=6 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNS strikes))
+sid=6 spanning 4 until 8 headed by 7 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NNP Israel))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 2 until 19 headed by 3 parsed as (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (NP (DT a) (NN school) (NN bus)) (VP (VBG traveling) (PP (IN from) (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))))))))
+sid=7 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=7 spanning 35 until 38 headed by 37 parsed as (NP (DT the) (JJ Palestinian) (NN leadership))
+sid=8 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NNP Palestinian) (NNP authority))
+sid=8 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (NN school) (NN bus) (NN attack))
+sid=9 spanning 3 until 4 headed by 3 parsed as (NP (NNP Israel))
+sid=9 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS strikes))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Eve) (NNP Connan))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 5 until 15 headed by 7 parsed as (NP (NP (NP (NNP Israel) (POS 's)) (NN bombardment)) (PP (IN of) (NP (NP (JJ Palestinian) (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))))
+sid=0 spanning 5 until 7 headed by 5 parsed as (NP (NNP Israel) (POS 's))
+sid=0 spanning 9 until 15 headed by 10 parsed as (NP (NP (JJ Palestinian) (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=0 spanning 16 until 42 headed by 16 parsed as (NP (NP (NN response)) (PP (IN to) (NP (NP (NP (DT a) (NN bomb) (NN attack)) (PP (IN on) (NP (NP (DT a) (NN school) (NN bus)) (PP (IN in) (NP (NNP Gaza)))))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD killed) (NP (CD two) (JJ Jewish) (NNS settlers))) (CC and) (VP (VBD injured) (NP (QP (ADVP (IN at) (JJS least)) (CD nine)))) (, ,) (S (NP (NP (DT some)) (PP (IN of) (NP (PRP them)))) (NP (NNS children)))))))))
+sid=0 spanning 18 until 42 headed by 20 parsed as (NP (NP (NP (DT a) (NN bomb) (NN attack)) (PP (IN on) (NP (NP (DT a) (NN school) (NN bus)) (PP (IN in) (NP (NNP Gaza)))))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD killed) (NP (CD two) (JJ Jewish) (NNS settlers))) (CC and) (VP (VBD injured) (NP (QP (ADVP (IN at) (JJS least)) (CD nine)))) (, ,) (S (NP (NP (DT some)) (PP (IN of) (NP (PRP them)))) (NP (NNS children)))))))
+sid=0 spanning 22 until 27 headed by 24 parsed as (NP (NP (DT a) (NN school) (NN bus)) (PP (IN in) (NP (NNP Gaza))))
+sid=0 spanning 26 until 27 headed by 26 parsed as (NP (NNP Gaza))
+sid=0 spanning 29 until 32 headed by 31 parsed as (NP (CD two) (JJ Jewish) (NNS settlers))
+sid=0 spanning 34 until 37 headed by 36 parsed as (NP (QP (ADVP (IN at) (JJS least)) (CD nine)))
+sid=0 spanning 38 until 41 headed by 38 parsed as (NP (NP (DT some)) (PP (IN of) (NP (PRP them))))
+sid=0 spanning 40 until 41 headed by 40 parsed as (NP (PRP them))
+sid=0 spanning 41 until 42 headed by 41 parsed as (NP (NNS children))
+sid=1 spanning 0 until 6 headed by 3 parsed as (NP (NP (NML (NNP VOA) (NN correspondent)) (NNP Eve) (NNP Connan)) (PP (IN in) (NP (NNP Jerusalem))))
+sid=1 spanning 0 until 1 headed by 0 parsed as VOA
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP Jerusalem))
+sid=2 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Dozens)) (PP (IN of) (NP (NNS people))))
+sid=2 spanning 7 until 20 headed by 9 parsed as (NP (NP (DT the) (NN air) (NNS raids)) (SBAR (WHNP (WDT which)) (S (NP (JJ Palestinian) (NNS leaders)) (VP (VBP are) (VP (VBG calling) (NP (NP (DT an) (NN act)) (PP (IN of) (NP (JJ criminal) (NN aggression)))))))))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (JJ Palestinian) (NNS leaders))
+sid=2 spanning 15 until 20 headed by 16 parsed as (NP (NP (DT an) (NN act)) (PP (IN of) (NP (JJ criminal) (NN aggression))))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NN night))
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (JJ Israeli) (NN combat) (NNS helicopters))
+sid=3 spanning 8 until 11 headed by 8 parsed as (NP (NP (NNS dozens)) (PP (IN of) (NP (NNS missiles))))
+sid=3 spanning 12 until 17 headed by 12 parsed as (NP (NP (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=3 spanning 20 until 27 headed by 21 parsed as (NP (NP (DT the) (NN office)) (PP (IN of) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))))
+sid=3 spanning 23 until 27 headed by 26 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNS Targets))
+sid=4 spanning 2 until 8 headed by 4 parsed as (NP (NP (DT a) (NN police) (NN station)) (CC and) (NP (NN security) (NNS headquarters)))
+sid=4 spanning 2 until 5 headed by 4 parsed as (NP (DT a) (NN police) (NN station))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (NN security) (NNS headquarters))
+sid=5 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Parts)) (PP (IN of) (NP (NNP Gaza))))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Gaza))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS raids))
+sid=6 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNS strikes))
+sid=6 spanning 4 until 8 headed by 7 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NNP Israel))
+sid=6 spanning 16 until 18 headed by 17 parsed as (NP (DT no) (NNS restraints))
+sid=6 spanning 20 until 23 headed by 20 parsed as (NP (NP (NNS weeks)) (PP (IN of) (NP (NN violence))))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 2 until 17 headed by 3 parsed as (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (NP (DT a) (NN school) (NN bus)) (VP (VBG traveling) (PP (IN from) (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))))))))
+sid=7 spanning 5 until 17 headed by 7 parsed as (NP (NP (DT a) (NN school) (NN bus)) (VP (VBG traveling) (PP (IN from) (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))))))
+sid=7 spanning 10 until 17 headed by 12 parsed as (NP (NP (DT a) (JJ Jewish) (NN settlement)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))
+sid=7 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=7 spanning 17 until 19 headed by 18 parsed as (NP (JJ early) (NNP Monday))
+sid=7 spanning 21 until 26 headed by 25 parsed as (NP (DT a) (ADJP (JJ barbaric) (CC and) (JJ terrorist)) (NN act))
+sid=7 spanning 29 until 31 headed by 30 parsed as (NP (DT no) (NNS negotiations))
+sid=7 spanning 35 until 38 headed by 37 parsed as (NP (DT the) (JJ Palestinian) (NN leadership))
+sid=8 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NNP Palestinian) (NNP authority))
+sid=8 spanning 6 until 15 headed by 7 parsed as (NP (NP (DT a) (NN statement)) (VP (VBG denying) (NP (NP (NN involvement)) (PP (IN in) (NP (DT the) (NN school) (NN bus) (NN attack))))))
+sid=8 spanning 9 until 15 headed by 9 parsed as (NP (NP (NN involvement)) (PP (IN in) (NP (DT the) (NN school) (NN bus) (NN attack))))
+sid=8 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (NN school) (NN bus) (NN attack))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (JJ Palestinian) (NNS leaders))
+sid=9 spanning 3 until 4 headed by 3 parsed as (NP (NNP Israel))
+sid=9 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT a) (NN path)) (PP (IN of) (NP (NN war))))
+sid=9 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS strikes))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Eve) (NNP Connan))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+24 6 | { 'Eve Connan' 'VOA correspondent Eve Connan in Jerusalem' }
+15 2 22 | { 'Israel' 'Israel 's' 'Israel' }
+20 19 | { 'the Palestinian authority' 'the Palestinian leadership' }
+18 3 10 | { 'the Gaza Strip' 'the Gaza Strip' 'the Gaza Strip' }
+11 5 | { 'Gaza' 'Gaza' }
+13 12 23 1 9 | { 'the strikes' 'the raids' 'the strikes' 'Israel 's bombardment of Palestinian targets in the Gaza Strip in response to a bomb attack on a school bus in Gaza that killed two Jewish settlers and injured at least nine , some of them children' 'the air raids which Palestinian leaders are calling an act of criminal aggression' }
+4 21 17 | { 'a bomb attack on a school bus in Gaza that killed two Jewish settlers and injured at least nine , some of them children' 'the school bus attack' 'the bombing of a school bus traveling from a Jewish settlement in the Gaza Strip early Monday' }
+16 0 14 | { 'He' 'Prime Minister Ehud Barak' 'Prime Minister Ehud Barak' }
+26 8 | { 'Jerusalem' 'Jerusalem' }
+25 7 | { 'VOA News' 'VOA' }
+(end gold clusters)

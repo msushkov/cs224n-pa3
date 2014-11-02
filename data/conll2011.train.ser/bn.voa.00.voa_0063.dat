@@ -1,0 +1,122 @@
+---------gloss--------
+(0) Voters in [4m[36m{strife - torn Colombia}[0m go to the polls today in [32m{local elections}[0m in the midst of a wave of violence directed by [36m{armed groups of the left and the right}[0m against many of the candidates . 
+(1) [4m[33m{VOA 's}[0m Bill Rodgers has a report from [4m[33m{our}[0m South American bureau . 
+(2) Some 23 million Colombians are registered to vote [33m{Sunday}[0m to elect governors , mayors and other local officials in [4m[36m{the South American nation}[0m , but [32m{the election}[0m is taking [4m[35m{place}[0m in the midst of [34m{a rising wave of assassinations , kidnappings and threats against the candidates by leftist guerillas and right - wing paramilitary groups}[0m . 
+(3) Twenty mayoral candidates have been killed and more than 200 kidnapped in recent months . 
+(4) Election authorities say [4m[34m{another 200 politicians}[0m withdrew [4m[34m{their}[0m candidacies after being threatened . 
+(5) At the same time , [36m{these armed groups}[0m are reported to have fielded a number of stealth candidates in an effort to expand [36m{its}[0m control of Colombian territory . 
+(6) Despite [34m{the violence}[0m , [4m[36m{the government of President Andres Pastrana}[0m has refused to suspend [33m{Sunday 's}[0m elections vowing [32m{they}[0m will take [4m[35m{place}[0m throughout [4m[36m{the country}[0m and in a democratic atmosphere . 
+(7) [35m{Bill Rodgers}[0m , [4m[33m{VOA News}[0m , [31m{South America Bureau}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0063); part 000
+sentences:
+VotersvoterNNSOPER0ininINOPER0strifestrifeNNOPER0--HYPHOPER0torntearVBNOPER0ColombiaColombiaNNPGPEPER0gogoVBPOPER0totoINOPER0thetheDTOPER0pollspollNNSOPER0todaytodayNNDATEPER0ininINOPER0locallocalJJOPER0electionselectionNNSOPER0ininINOPER0thetheDTOPER0midstmidstNNOPER0ofofINOPER0aaDTOPER0wavewaveNNOPER0ofofINOPER0violenceviolenceNNOPER0directeddirectVBNOPER0bybyINOPER0armedarmedJJOPER0groupsgroupNNSOPER0ofofINOPER0thetheDTOPER0leftleftJJOPER0andandCCOPER0thetheDTOPER0rightrightJJOPER0againstagainstINOPER0manymanyJJOPER0ofofINOPER0thetheDTOPER0candidatescandidateNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Voters)) (PP (IN in) (NP (ADJP (NN strife) (HYPH -) (VBN torn)) (NNP Colombia)))) (VP (VBP go) (PP (IN to) (NP (DT the) (NNS polls))) (NP (NN today)) (PP (IN in) (NP (NP (JJ local) (NNS elections)) (PP (IN in) (NP (NP (DT the) (NN midst)) (PP (IN of) (NP (NP (DT a) (NN wave)) (PP (IN of) (NP (NP (NN violence)) (VP (VBN directed) (PP (IN by) (NP (NP (JJ armed) (NNS groups)) (PP (IN of) (NP (NP (DT the) (JJ left)) (CC and) (NP (DT the) (JJ right)))))) (PP (IN against) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NNS candidates))))))))))))))) (. .)))
+VOAVOANNPORGPER0's'sPOSOPER0BillBillNNPPERSONPER0RodgersRodgersNNPPERSONPER0hashaveVBZOPER0aaDTOPER0reportreportNNOPER0fromfromINOPER0ourwePRP$OPER0SouthSouthNNPOPER0AmericanAmericanNNPOPER0bureaubureauNNOPER0...OPER0(ROOT (S (NP (NP (NNP VOA) (POS 's)) (NNP Bill) (NNP Rodgers)) (VP (VBZ has) (NP (NP (DT a) (NN report)) (PP (IN from) (NP (PRP$ our) (NML (NNP South) (NNP American)) (NN bureau))))) (. .)))
+SomesomeDTOPER02323CDCARDINALPER0millionmillionCDCARDINALPER0ColombiansColombiansNNPSOPER0arebeVBPOPER0registeredregisterVBNOPER0totoTOOPER0votevoteVBOPER0SundaySundayNNPDATEPER0totoTOOPER0electelectVBOPER0governorsgovernorNNSOPER0,,,OPER0mayorsmayorNNSOPER0andandCCOPER0otherotherJJOPER0locallocalJJOPER0officialsofficialNNSOPER0ininINOPER0thetheDTOPER0SouthSouthNNPOPER0AmericanAmericanNNPOPER0nationnationNNOPER0,,,OPER0butbutCCOPER0thetheDTOPER0electionelectionNNOPER0isbeVBZOPER0takingtakeVBGOPER0placeplaceNNOPER0ininINOPER0thetheDTOPER0midstmidstNNOPER0ofofINOPER0aaDTOPER0risingriseVBGOPER0wavewaveNNOPER0ofofINOPER0assassinationsassassinationNNSOPER0,,,OPER0kidnappingskidnappingNNSOPER0andandCCOPER0threatsthreatNNSOPER0againstagainstINOPER0thetheDTOPER0candidatescandidateNNSOPER0bybyINOPER0leftistleftistJJOPER0guerillasguerillaNNSOPER0andandCCOPER0rightrightJJOPER0--HYPHOPER0wingwingNNOPER0paramilitaryparamilitaryJJOPER0groupsgroupNNSOPER0...OPER0(ROOT (S (S (NP (DT Some) (QP (CD 23) (CD million)) (NNPS Colombians)) (VP (VBP are) (VP (VBN registered) (S (VP (TO to) (VP (VB vote) (NP (NNP Sunday)) (S (VP (TO to) (VP (VB elect) (NP (NP (NP (NNS governors)) (, ,) (NP (NNS mayors)) (CC and) (NP (JJ other) (JJ local) (NNS officials))) (PP (IN in) (NP (DT the) (NML (NNP South) (NNP American)) (NN nation))))))))))))) (, ,) (CC but) (S (NP (DT the) (NN election)) (VP (VBZ is) (VP (VBG taking) (NP (NN place)) (PP (IN in) (NP (NP (DT the) (NN midst)) (PP (IN of) (NP (NP (DT a) (VBG rising) (NN wave)) (PP (IN of) (NP (NP (NNS assassinations) (, ,) (NNS kidnappings) (CC and) (NNS threats)) (PP (IN against) (NP (DT the) (NNS candidates))) (PP (IN by) (NP (NP (JJ leftist) (NNS guerillas)) (CC and) (NP (NML (JJ right) (HYPH -) (NN wing)) (JJ paramilitary) (NNS groups))))))))))))) (. .)))
+TwentytwentyCDDATEPER0mayoralmayoralJJOPER0candidatescandidateNNSOPER0havehaveVBPOPER0beenbeVBNOPER0killedkillVBNOPER0andandCCOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0200200CDCARDINALPER0kidnappedkidnapVBNOPER0ininINOPER0recentrecentJJDATEPER0monthsmonthNNSDATEPER0...OPER0(ROOT (S (S (NP (CD Twenty) (JJ mayoral) (NNS candidates)) (VP (VBP have) (VP (VBN been) (VP (VBN killed))))) (CC and) (S (NP (QP (XS (JJR more) (IN than)) (CD 200))) (VP (VBN kidnapped) (PP (IN in) (NP (JJ recent) (NNS months))))) (. .)))
+ElectionelectionNNOPER0authoritiesauthorityNNSOPER0saysayVBPOPER0anotheranotherDTCARDINALPER0200200CDCARDINALPER0politicianspoliticianNNSOPER0withdrewwithdrawVBDOPER0theirtheyPRP$OPER0candidaciescandidacyNNSOPER0afterafterINOPER0beingbeVBGOPER0threatenedthreatenVBNOPER0...OPER0(ROOT (S (NP (NN Election) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (QP (DT another) (CD 200)) (NNS politicians)) (VP (VBD withdrew) (NP (PRP$ their) (NNS candidacies)) (PP (IN after) (S (VP (VBG being) (VP (VBN threatened))))))))) (. .)))
+AtatINOPER0thetheDTOPER0samesameJJOPER0timetimeNNOPER0,,,OPER0thesetheseDTOPER0armedarmedJJOPER0groupsgroupNNSOPER0arebeVBPOPER0reportedreportVBNOPER0totoTOOPER0havehaveVBOPER0fieldedfieldVBNOPER0aaDTOPER0numbernumberNNOPER0ofofINOPER0stealthstealthJJOPER0candidatescandidateNNSOPER0ininINOPER0anaDTOPER0efforteffortNNOPER0totoTOOPER0expandexpandVBOPER0itsitsPRP$OPER0controlcontrolNNOPER0ofofINOPER0ColombiancolombianJJOPER0territoryterritoryNNOPER0...OPER0(ROOT (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (DT these) (JJ armed) (NNS groups)) (VP (VBP are) (VP (VBN reported) (S (VP (TO to) (VP (VB have) (VP (VBN fielded) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (JJ stealth) (NNS candidates)) (PP (IN in) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB expand) (NP (NP (PRP$ its) (NN control)) (PP (IN of) (NP (JJ Colombian) (NN territory)))))))))))))))))) (. .)))
+DespitedespiteINOPER0thetheDTOPER0violenceviolenceNNOPER0,,,OPER0thetheDTOPER0governmentgovernmentNNOPER0ofofINOPER0PresidentPresidentNNPOPER0AndresAndresNNPPERSONPER0PastranaPastranaNNPPERSONPER0hashaveVBZOPER0refusedrefuseVBNOPER0totoTOOPER0suspendsuspendVBOPER0SundaySundayNNPDATEPER0's'sPOSOPER0electionselectionNNSOPER0vowingvowVBGOPER0theytheyPRPOPER0willwillMDOPER0taketakeVBOPER0placeplaceNNOPER0throughoutthroughoutINOPER0thetheDTOPER0countrycountryNNOPER0andandCCOPER0ininINOPER0aaDTOPER0democraticdemocraticJJOPER0atmosphereatmosphereNNOPER0...OPER0(ROOT (S (PP (IN Despite) (NP (DT the) (NN violence))) (, ,) (NP (NP (DT the) (NN government)) (PP (IN of) (NP (NNP President) (NNP Andres) (NNP Pastrana)))) (VP (VBZ has) (VP (VBN refused) (S (VP (TO to) (VP (VB suspend) (NP (NP (NP (NNP Sunday) (POS 's)) (NNS elections)) (VP (VBG vowing) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB take) (NP (NN place)) (PP (PP (IN throughout) (NP (DT the) (NN country))) (CC and) (PP (IN in) (NP (DT a) (JJ democratic) (NN atmosphere))))))))))))))) (. .)))
+BillBillNNPPERSONPER0RodgersRodgersNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0,,,OPER0SouthSouthNNPORGPER0AmericaAmericaNNPORGPER0BureauBureauNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP Bill) (NNP Rodgers)) (, ,) (NP (NNP VOA) (NNP News)) (, ,) (NP (NNP South) (NNP America) (NNP Bureau)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 6 headed by 5 parsed as (NP (ADJP (NN strife) (HYPH -) (VBN torn)) (NNP Colombia))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (NP (JJ local) (NNS elections)) (PP (IN in) (NP (NP (DT the) (NN midst)) (PP (IN of) (NP (NP (DT a) (NN wave)) (PP (IN of) (NP (NP (NN violence)) (VP (VBN directed) (PP (IN by) (NP (NP (JJ armed) (NNS groups)) (PP (IN of) (NP (NP (DT the) (JJ left)) (CC and) (NP (DT the) (JJ right)))))) (PP (IN against) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NNS candidates)))))))))))))
+sid=0 spanning 24 until 32 headed by 25 parsed as (NP (NP (JJ armed) (NNS groups)) (PP (IN of) (NP (NP (DT the) (JJ left)) (CC and) (NP (DT the) (JJ right)))))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP VOA) (POS 's)) (NNP Bill) (NNP Rodgers))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP VOA) (POS 's))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (PRP$ our) (NML (NNP South) (NNP American)) (NN bureau))
+sid=1 spanning 8 until 9 headed by 8 parsed as our
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNP Sunday))
+sid=2 spanning 19 until 23 headed by 22 parsed as (NP (DT the) (NML (NNP South) (NNP American)) (NN nation))
+sid=2 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN election))
+sid=2 spanning 29 until 30 headed by 29 parsed as (NP (NN place))
+sid=2 spanning 34 until 55 headed by 36 parsed as (NP (NP (DT a) (VBG rising) (NN wave)) (PP (IN of) (NP (NP (NNS assassinations) (, ,) (NNS kidnappings) (CC and) (NNS threats)) (PP (IN against) (NP (DT the) (NNS candidates))) (PP (IN by) (NP (NP (JJ leftist) (NNS guerillas)) (CC and) (NP (NML (JJ right) (HYPH -) (NN wing)) (JJ paramilitary) (NNS groups)))))))
+sid=2 spanning 47 until 55 headed by 48 parsed as (NP (NP (JJ leftist) (NNS guerillas)) (CC and) (NP (NML (JJ right) (HYPH -) (NN wing)) (JJ paramilitary) (NNS groups)))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (QP (DT another) (CD 200)) (NNS politicians))
+sid=4 spanning 7 until 8 headed by 7 parsed as their
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (DT these) (JJ armed) (NNS groups))
+sid=5 spanning 23 until 24 headed by 23 parsed as its
+sid=6 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN violence))
+sid=6 spanning 4 until 10 headed by 5 parsed as (NP (NP (DT the) (NN government)) (PP (IN of) (NP (NNP President) (NNP Andres) (NNP Pastrana))))
+sid=6 spanning 14 until 17 headed by 16 parsed as (NP (NP (NP (NNP Sunday) (POS 's)) (NNS elections)) (VP (VBG vowing) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB take) (NP (NN place)) (PP (PP (IN throughout) (NP (DT the) (NN country))) (CC and) (PP (IN in) (NP (DT a) (JJ democratic) (NN atmosphere))))))))))
+sid=6 spanning 14 until 16 headed by 14 parsed as (NP (NNP Sunday) (POS 's))
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=6 spanning 21 until 22 headed by 21 parsed as (NP (NN place))
+sid=6 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN country))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bill) (NNP Rodgers))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=7 spanning 6 until 9 headed by 8 parsed as (NP (NNP South) (NNP America) (NNP Bureau))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Voters)) (PP (IN in) (NP (ADJP (NN strife) (HYPH -) (VBN torn)) (NNP Colombia))))
+sid=0 spanning 2 until 6 headed by 5 parsed as (NP (ADJP (NN strife) (HYPH -) (VBN torn)) (NNP Colombia))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS polls))
+sid=0 spanning 12 until 37 headed by 13 parsed as (NP (NP (JJ local) (NNS elections)) (PP (IN in) (NP (NP (DT the) (NN midst)) (PP (IN of) (NP (NP (DT a) (NN wave)) (PP (IN of) (NP (NP (NN violence)) (VP (VBN directed) (PP (IN by) (NP (NP (JJ armed) (NNS groups)) (PP (IN of) (NP (NP (DT the) (JJ left)) (CC and) (NP (DT the) (JJ right)))))) (PP (IN against) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NNS candidates)))))))))))))
+sid=0 spanning 15 until 37 headed by 16 parsed as (NP (NP (DT the) (NN midst)) (PP (IN of) (NP (NP (DT a) (NN wave)) (PP (IN of) (NP (NP (NN violence)) (VP (VBN directed) (PP (IN by) (NP (NP (JJ armed) (NNS groups)) (PP (IN of) (NP (NP (DT the) (JJ left)) (CC and) (NP (DT the) (JJ right)))))) (PP (IN against) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NNS candidates)))))))))))
+sid=0 spanning 18 until 37 headed by 19 parsed as (NP (NP (DT a) (NN wave)) (PP (IN of) (NP (NP (NN violence)) (VP (VBN directed) (PP (IN by) (NP (NP (JJ armed) (NNS groups)) (PP (IN of) (NP (NP (DT the) (JJ left)) (CC and) (NP (DT the) (JJ right)))))) (PP (IN against) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NNS candidates)))))))))
+sid=0 spanning 21 until 37 headed by 21 parsed as (NP (NP (NN violence)) (VP (VBN directed) (PP (IN by) (NP (NP (JJ armed) (NNS groups)) (PP (IN of) (NP (NP (DT the) (JJ left)) (CC and) (NP (DT the) (JJ right)))))) (PP (IN against) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NNS candidates)))))))
+sid=0 spanning 24 until 32 headed by 25 parsed as (NP (NP (JJ armed) (NNS groups)) (PP (IN of) (NP (NP (DT the) (JJ left)) (CC and) (NP (DT the) (JJ right)))))
+sid=0 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (JJ right))
+sid=0 spanning 33 until 37 headed by 33 parsed as (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NNS candidates))))
+sid=0 spanning 35 until 37 headed by 36 parsed as (NP (DT the) (NNS candidates))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP VOA) (POS 's)) (NNP Bill) (NNP Rodgers))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP VOA) (POS 's))
+sid=1 spanning 5 until 12 headed by 6 parsed as (NP (NP (DT a) (NN report)) (PP (IN from) (NP (PRP$ our) (NML (NNP South) (NNP American)) (NN bureau))))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (PRP$ our) (NML (NNP South) (NNP American)) (NN bureau))
+sid=1 spanning 8 until 9 headed by 8 parsed as (PRP$ our)
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT Some) (QP (CD 23) (CD million)) (NNPS Colombians))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNP Sunday))
+sid=2 spanning 11 until 23 headed by 11 parsed as (NP (NP (NP (NNS governors)) (, ,) (NP (NNS mayors)) (CC and) (NP (JJ other) (JJ local) (NNS officials))) (PP (IN in) (NP (DT the) (NML (NNP South) (NNP American)) (NN nation))))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNS governors))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNS mayors))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (JJ other) (JJ local) (NNS officials))
+sid=2 spanning 19 until 23 headed by 22 parsed as (NP (DT the) (NML (NNP South) (NNP American)) (NN nation))
+sid=2 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN election))
+sid=2 spanning 31 until 55 headed by 32 parsed as (NP (NP (DT the) (NN midst)) (PP (IN of) (NP (NP (DT a) (VBG rising) (NN wave)) (PP (IN of) (NP (NP (NNS assassinations) (, ,) (NNS kidnappings) (CC and) (NNS threats)) (PP (IN against) (NP (DT the) (NNS candidates))) (PP (IN by) (NP (NP (JJ leftist) (NNS guerillas)) (CC and) (NP (NML (JJ right) (HYPH -) (NN wing)) (JJ paramilitary) (NNS groups)))))))))
+sid=2 spanning 34 until 55 headed by 36 parsed as (NP (NP (DT a) (VBG rising) (NN wave)) (PP (IN of) (NP (NP (NNS assassinations) (, ,) (NNS kidnappings) (CC and) (NNS threats)) (PP (IN against) (NP (DT the) (NNS candidates))) (PP (IN by) (NP (NP (JJ leftist) (NNS guerillas)) (CC and) (NP (NML (JJ right) (HYPH -) (NN wing)) (JJ paramilitary) (NNS groups)))))))
+sid=2 spanning 38 until 55 headed by 38 parsed as (NP (NP (NNS assassinations) (, ,) (NNS kidnappings) (CC and) (NNS threats)) (PP (IN against) (NP (DT the) (NNS candidates))) (PP (IN by) (NP (NP (JJ leftist) (NNS guerillas)) (CC and) (NP (NML (JJ right) (HYPH -) (NN wing)) (JJ paramilitary) (NNS groups)))))
+sid=2 spanning 44 until 46 headed by 45 parsed as (NP (DT the) (NNS candidates))
+sid=2 spanning 47 until 55 headed by 48 parsed as (NP (NP (JJ leftist) (NNS guerillas)) (CC and) (NP (NML (JJ right) (HYPH -) (NN wing)) (JJ paramilitary) (NNS groups)))
+sid=2 spanning 47 until 49 headed by 48 parsed as (NP (JJ leftist) (NNS guerillas))
+sid=2 spanning 50 until 55 headed by 54 parsed as (NP (NML (JJ right) (HYPH -) (NN wing)) (JJ paramilitary) (NNS groups))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (CD Twenty) (JJ mayoral) (NNS candidates))
+sid=3 spanning 0 until 1 headed by 0 parsed as Twenty
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 200)))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (JJ recent) (NNS months))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NN Election) (NNS authorities))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (QP (DT another) (CD 200)) (NNS politicians))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ their) (NNS candidacies))
+sid=4 spanning 7 until 8 headed by 7 parsed as (PRP$ their)
+sid=5 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (JJ same) (NN time))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (DT these) (JJ armed) (NNS groups))
+sid=5 spanning 13 until 28 headed by 14 parsed as (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (JJ stealth) (NNS candidates)) (PP (IN in) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB expand) (NP (NP (PRP$ its) (NN control)) (PP (IN of) (NP (JJ Colombian) (NN territory))))))))))))
+sid=5 spanning 19 until 28 headed by 20 parsed as (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB expand) (NP (NP (PRP$ its) (NN control)) (PP (IN of) (NP (JJ Colombian) (NN territory))))))))
+sid=5 spanning 23 until 28 headed by 24 parsed as (NP (NP (PRP$ its) (NN control)) (PP (IN of) (NP (JJ Colombian) (NN territory))))
+sid=5 spanning 23 until 24 headed by 23 parsed as (PRP$ its)
+sid=6 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN violence))
+sid=6 spanning 4 until 10 headed by 5 parsed as (NP (NP (DT the) (NN government)) (PP (IN of) (NP (NNP President) (NNP Andres) (NNP Pastrana))))
+sid=6 spanning 7 until 10 headed by 9 parsed as (NP (NNP President) (NNP Andres) (NNP Pastrana))
+sid=6 spanning 14 until 30 headed by 16 parsed as (NP (NP (NP (NNP Sunday) (POS 's)) (NNS elections)) (VP (VBG vowing) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB take) (NP (NN place)) (PP (PP (IN throughout) (NP (DT the) (NN country))) (CC and) (PP (IN in) (NP (DT a) (JJ democratic) (NN atmosphere))))))))))
+sid=6 spanning 14 until 16 headed by 14 parsed as (NP (NNP Sunday) (POS 's))
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=6 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN country))
+sid=6 spanning 27 until 30 headed by 29 parsed as (NP (DT a) (JJ democratic) (NN atmosphere))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bill) (NNP Rodgers))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=7 spanning 6 until 9 headed by 8 parsed as (NP (NNP South) (NNP America) (NNP Bureau))
+(end predicted mentions)
+---------gold clusters--------
+6 4 25 | { 'our' 'VOA 's' 'VOA News' }
+13 14 | { 'another 200 politicians' 'their' }
+22 10 | { 'place' 'place' }
+0 18 23 8 | { 'strife - torn Colombia' 'the government of President Andres Pastrana' 'the country' 'the South American nation' }
+5 26 | { 'our South American bureau' 'South America Bureau' }
+9 21 1 19 | { 'the election' 'they' 'local elections' 'Sunday 's elections' }
+20 7 | { 'Sunday 's' 'Sunday' }
+17 11 | { 'the violence' 'a rising wave of assassinations , kidnappings and threats against the candidates by leftist guerillas and right - wing paramilitary groups' }
+24 3 | { 'Bill Rodgers' 'VOA 's Bill Rodgers' }
+12 16 2 15 | { 'leftist guerillas and right - wing paramilitary groups' 'its' 'armed groups of the left and the right' 'these armed groups' }
+(end gold clusters)

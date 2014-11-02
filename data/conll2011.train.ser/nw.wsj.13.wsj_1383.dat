@@ -1,0 +1,48 @@
+---------gloss--------
+(0) [3m[31m{Rhone - Poulenc S.A. , Paris ,}[0m said [3m[31m{it}[0m completed [3m[32m{the purchase of the specialty chemicals operation of RTZ Corp. , a British mining and industrial group}[0m . 
+(1) [3m[31m{Rhone - Poulenc , a chemical and pharmaceutical company ,}[0m said [3m[33m{RTZ Chemicals}[0m has annual sales of about $ 900 million . 
+(2) [3m[31m{It}[0m did n't release terms of [3m[32m{the transaction}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1383); part 000
+sentences:
+RhoneRhoneNNPORGPER0--HYPHORGPER0PoulencPoulencNNPORGPER0S.A.S.A.NNPORGPER0,,,OPER0ParisParisNNPGPEPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0completedcompleteVBDOPER0thetheDTOPER0purchasepurchaseNNOPER0ofofINOPER0thetheDTOPER0specialtyspecialtyNNOPER0chemicalschemicalNNSOPER0operationoperationNNOPER0ofofINOPER0RTZRTZNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0aaDTOPER0BritishbritishJJOPER0miningminingNNOPER0andandCCOPER0industrialindustrialJJOPER0groupgroupNNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Rhone) (HYPH -) (NNP Poulenc)) (NP (NNP S.A.))) (, ,) (NP (NNP Paris)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD completed) (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (DT the) (NN specialty) (NNS chemicals) (NN operation))) (PP (IN of) (NP (NP (NNP RTZ) (NNP Corp.)) (, ,) (NP (DT a) (JJ British) (NP (NN mining) (CC and) (JJ industrial)) (NN group))))))))) (. .)))
+RhoneRhoneNNPORGPER0--HYPHORGPER0PoulencPoulencNNPORGPER0,,,OPER0aaDTOPER0chemicalchemicalNNOPER0andandCCOPER0pharmaceuticalpharmaceuticalNNOPER0companycompanyNNOPER0,,,OPER0saidsayVBDOPER0RTZRTZNNPORGPER0ChemicalsChemicalsNNPSORGPER0hashaveVBZOPER0annualannualJJOPER0salessaleNNSOPER0ofofINOPER0aboutaboutRBMONEYPER0$$$MONEYPER0900900CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NP (NNP Rhone) (HYPH -) (NNP Poulenc)) (, ,) (NP (DT a) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN company)) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP RTZ) (NNPS Chemicals)) (VP (VBZ has) (NP (NP (JJ annual) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 900) (CD million))))))))) (. .)))
+ItitPRPOPER0diddoVBDOPER0n'tnotRBOPER0releasereleaseVBOPER0termstermNNSOPER0ofofINOPER0thetheDTOPER0transactiontransactionNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD did) (RB n't) (VP (VB release) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN transaction)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (NP (NNP Rhone) (HYPH -) (NNP Poulenc)) (NP (NNP S.A.))) (, ,) (NP (NNP Paris)) (, ,))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=0 spanning 10 until 27 headed by 11 parsed as (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (DT the) (NN specialty) (NNS chemicals) (NN operation))) (PP (IN of) (NP (NP (NNP RTZ) (NNP Corp.)) (, ,) (NP (DT a) (JJ British) (NP (NN mining) (CC and) (JJ industrial)) (NN group)))))
+sid=0 spanning 18 until 27 headed by 19 parsed as (NP (NP (NNP RTZ) (NNP Corp.)) (, ,) (NP (DT a) (JJ British) (NP (NN mining) (CC and) (JJ industrial)) (NN group)))
+sid=1 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Rhone) (HYPH -) (NNP Poulenc)) (, ,) (NP (DT a) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN company)) (, ,))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NNP RTZ) (NNPS Chemicals))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN transaction))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 2 parsed as (NP (NP (NP (NNP Rhone) (HYPH -) (NNP Poulenc)) (NP (NNP S.A.))) (, ,) (NP (NNP Paris)) (, ,))
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (NP (NNP Rhone) (HYPH -) (NNP Poulenc)) (NP (NNP S.A.))) (, ,) (NP (NNP Paris)) (, ,))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Paris))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=0 spanning 10 until 27 headed by 11 parsed as (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (DT the) (NN specialty) (NNS chemicals) (NN operation))) (PP (IN of) (NP (NP (NNP RTZ) (NNP Corp.)) (, ,) (NP (DT a) (JJ British) (NP (NN mining) (CC and) (JJ industrial)) (NN group)))))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (NN specialty) (NNS chemicals) (NN operation))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (NP (NNP RTZ) (NNP Corp.)) (, ,) (NP (DT a) (JJ British) (NP (NN mining) (CC and) (JJ industrial)) (NN group)))
+sid=0 spanning 18 until 27 headed by 19 parsed as (NP (NP (NNP RTZ) (NNP Corp.)) (, ,) (NP (DT a) (JJ British) (NP (NN mining) (CC and) (JJ industrial)) (NN group)))
+sid=0 spanning 21 until 27 headed by 26 parsed as (NP (DT a) (JJ British) (NP (NN mining) (CC and) (JJ industrial)) (NN group))
+sid=0 spanning 23 until 26 headed by 23 parsed as (NP (NN mining) (CC and) (JJ industrial))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Rhone) (HYPH -) (NNP Poulenc)) (, ,) (NP (DT a) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN company)) (, ,))
+sid=1 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Rhone) (HYPH -) (NNP Poulenc)) (, ,) (NP (DT a) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN company)) (, ,))
+sid=1 spanning 4 until 9 headed by 8 parsed as (NP (DT a) (NML (NN chemical) (CC and) (NN pharmaceutical)) (NN company))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NNP RTZ) (NNPS Chemicals))
+sid=1 spanning 14 until 21 headed by 15 parsed as (NP (NP (JJ annual) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 900) (CD million)))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 4 until 8 headed by 4 parsed as (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN transaction))))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN transaction))
+(end predicted mentions)
+---------gold clusters--------
+6 4 1 0 | { 'It' 'Rhone - Poulenc , a chemical and pharmaceutical company ,' 'it' 'Rhone - Poulenc S.A. , Paris ,' }
+7 2 | { 'the transaction' 'the purchase of the specialty chemicals operation of RTZ Corp. , a British mining and industrial group' }
+3 5 | { 'RTZ Corp. , a British mining and industrial group' 'RTZ Chemicals' }
+(end gold clusters)

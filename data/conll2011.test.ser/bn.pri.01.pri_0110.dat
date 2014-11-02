@@ -1,0 +1,39 @@
+---------gloss--------
+(0) [3m[32m{The head of the Palestinian Television and Radio}[0m has been [3m[31m{shot}[0m dead in the Gaza Strip . 
+(1) Masked gunmen [3m[31m{opened}[0m fire on [3m[32m{Hisham Mekki}[0m at a hotel in Gaza City but the motive for [3m[31m{the attack}[0m is unclear . 
+(2) You 're listening to BBC News . 
+(end gloss)
+---------document--------
+(bn/pri/01/pri_0110); part 000
+sentences:
+ThetheDTOPER0headheadNNOPER0ofofINOPER0thetheDTORGPER0PalestinianPalestinianNNPORGPER0TelevisionTelevisionNNPORGPER0andandCCOPER0RadioRadioNNPORGPER0hashaveVBZOPER0beenbeVBNOPER0shotshootVBNOPER0deaddeadJJOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (NP (DT The) (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Palestinian) (NNP Television)) (CC and) (NP (NNP Radio))))) (VP (VBZ has) (VP (VBN been) (VP (VBN shot) (S (ADJP (JJ dead) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))))))) (. .)))
+MaskedmaskedJJOPER0gunmengunmanNNSOPER0openedopenVBDOPER0firefireNNOPER0ononINOPER0HishamHishamNNPPERSONPER0MekkiMekkiNNPPERSONPER0atatINOPER0aaDTOPER0hotelhotelNNOPER0ininINOPER0GazaGazaNNPGPEPER0CityCityNNPGPEPER0butbutCCOPER0thetheDTOPER0motivemotiveNNOPER0forforINOPER0thetheDTOPER0attackattackNNOPER0isbeVBZOPER0unclearunclearJJOPER0...OPER0(ROOT (S (S (NP (JJ Masked) (NNS gunmen)) (VP (VBD opened) (NP (NN fire)) (PP (IN on) (NP (NNP Hisham) (NNP Mekki))) (PP (IN at) (NP (NP (DT a) (NN hotel)) (PP (IN in) (NP (NNP Gaza) (NNP City))))))) (CC but) (S (NP (NP (DT the) (NN motive)) (PP (IN for) (NP (DT the) (NN attack)))) (VP (VBZ is) (ADJP (JJ unclear)))) (. .)))
+YouyouPRPOPER0'rebeVBPOPER0listeninglistenVBGOPER0totoINOPER0BBCBBCNNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP You)) (VP (VBP 're) (VP (VBG listening) (PP (IN to) (NP (NNP BBC) (NNP News))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT The) (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Palestinian) (NNP Television)) (CC and) (NP (NNP Radio)))))
+sid=0 spanning 10 until 11 headed by 10 parsed as shot
+sid=1 spanning 2 until 3 headed by 2 parsed as opened
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NNP Hisham) (NNP Mekki))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN attack))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT The) (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Palestinian) (NNP Television)) (CC and) (NP (NNP Radio)))))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (NP (DT the) (NNP Palestinian) (NNP Television)) (CC and) (NP (NNP Radio)))
+sid=0 spanning 3 until 8 headed by 5 parsed as (NP (NP (DT the) (NNP Palestinian) (NNP Television)) (CC and) (NP (NNP Radio)))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP Radio))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Masked) (NNS gunmen))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NNP Hisham) (NNP Mekki))
+sid=1 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT a) (NN hotel)) (PP (IN in) (NP (NNP Gaza) (NNP City))))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NNP Gaza) (NNP City))
+sid=1 spanning 14 until 19 headed by 15 parsed as (NP (NP (DT the) (NN motive)) (PP (IN for) (NP (DT the) (NN attack))))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN attack))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NNP BBC) (NNP News))
+(end predicted mentions)
+---------gold clusters--------
+2 1 4 | { 'opened' 'shot' 'the attack' }
+3 0 | { 'Hisham Mekki' 'The head of the Palestinian Television and Radio' }
+(end gold clusters)

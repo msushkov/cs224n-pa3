@@ -1,0 +1,78 @@
+---------gloss--------
+(0) I 'm Alisha Davis . 
+(1) Used to be [1m[36m{the King of Pop}[0m . 
+(2) Now you could call [1m[36m{him}[0m the king of lawsuits . 
+(3) [1m[36m{Michael Jackson}[0m filed suit against [3m[31m{Universal Music , the parent company of Motown Records}[0m saying [3m[31m{they}[0m owe [1m[36m{him}[0m for music [1m[36m{he}[0m recorded with the [3m[32m{Jackson Five}[0m back in the 1970s . 
+(4) [1m[36m{The gloved one}[0m claims [3m[31m{the label}[0m has been releasing new albums and [3m[32m{Jackson Five}[0m merchandise without giving [1m[36m{him}[0m `` a single dollar . '' 
+(5) [1m[36m{Jackson}[0m has been in and out of courtrooms lately . 
+(6) In recent months , [1m[36m{he}[0m 's been sued by an auction house for non-payment , and by a concert promoter for allegedly backing out of two millennium performances . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0223); part 000
+sentences:
+IIPRPOPER0'mbeVBPOPER0AlishaAlishaNNPPERSONPER0DavisDavisNNPPERSONPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NNP Alisha) (NNP Davis))) (. .)))
+UseduseVBNOPER0totoTOOPER0bebeVBOPER0thetheDTOPER0KingkingNNOPER0ofofINOPER0PoppopNNORGPER0...OPER0(ROOT (S (VP (VBN Used) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN King)) (PP (IN of) (NP (NN Pop)))))))) (. .)))
+NownowRBOPER0youyouPRPOPER0couldcouldMDOPER0callcallVBOPER0himhePRPOPER0thetheDTOPER0kingkingNNOPER0ofofINOPER0lawsuitslawsuitNNSOPER0...OPER0(ROOT (S (ADVP (RB Now)) (NP (PRP you)) (VP (MD could) (VP (VB call) (NP (PRP him)) (S (NP (NP (DT the) (NN king)) (PP (IN of) (NP (NNS lawsuits))))))) (. .)))
+MichaelMichaelNNPPERSONPER0JacksonJacksonNNPPERSONPER0filedfileVBDOPER0suitsuitNNOPER0againstagainstINOPER0UniversalUniversalNNPWORK_OF_ARTPER0MusicMusicNNPWORK_OF_ARTPER0,,,OPER0thetheDTOPER0parentparentNNOPER0companycompanyNNOPER0ofofINOPER0MotownMotownNNPORGPER0RecordsRecordsNNPSORGPER0sayingsayVBGOPER0theytheyPRPOPER0oweoweVBPOPER0himhePRPOPER0forforINOPER0musicmusicNNOPER0hehePRPOPER0recordedrecordVBDOPER0withwithINOPER0thetheDTOPER0JacksonJacksonNNPORGPER0FiveFiveNNPORGPER0backbackNNOPER0ininINOPER0thetheDTDATEPER01970s1970NNSDATEPER0...OPER0(ROOT (S (NP (NNP Michael) (NNP Jackson)) (VP (VBD filed) (NP (NN suit)) (PP (IN against) (NP (NP (NNP Universal) (NNP Music)) (, ,) (NP (NP (DT the) (NN parent) (NN company)) (PP (IN of) (NP (NNP Motown) (NNPS Records)))))) (S (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (VBP owe) (NP (PRP him)) (PP (IN for) (NP (NP (NN music)) (SBAR (S (NP (PRP he)) (VP (VBD recorded) (PP (IN with) (NP (DT the) (NML (NNP Jackson) (NNP Five)) (NN back))) (PP (IN in) (NP (DT the) (NNS 1970s)))))))))))))) (. .)))
+ThetheDTOPER0glovedglovedJJOPER0oneoneNNCARDINALPER0claimsclaimVBZOPER0thetheDTOPER0labellabelNNOPER0hashaveVBZOPER0beenbeVBNOPER0releasingreleaseVBGOPER0newnewJJOPER0albumsalbumNNSOPER0andandCCOPER0JacksonJacksonNNPORGPER0FiveFiveNNPORGPER0merchandisemerchandiseNNOPER0withoutwithoutINOPER0givinggiveVBGOPER0himhePRPOPER0``````OaaDTOPER1singlesingleJJOPER1dollardollarNNOPER1...OPER1''''''OPER0(ROOT (S (NP (DT The) (JJ gloved) (NN one)) (VP (VBZ claims) (SBAR (S (NP (DT the) (NN label)) (VP (VBZ has) (VP (VBN been) (VP (VBG releasing) (NP (NP (JJ new) (NNS albums)) (CC and) (NP (NNP Jackson) (NNP Five))) (NP (NN merchandise)) (PP (IN without) (S (VP (VBG giving) (NP (PRP him)) (NP (`` ``) (DT a) (JJ single) (NN dollar))))))))))) (. .) ('' '')))
+JacksonJacksonNNPPERSONPER0hashaveVBZOPER0beenbeVBNOPER0ininINOPER0andandCCOPER0outoutINOPER0ofofINOPER0courtroomscourtroomNNSOPER0latelylatelyRBOPER0...OPER0(ROOT (S (NP (NNP Jackson)) (VP (VBZ has) (VP (VBN been) (ADVP (IN in) (CC and) (IN out) (PP (IN of) (NP (NNS courtrooms)))) (ADVP (RB lately)))) (. .)))
+IninINOPER0recentrecentJJDATEPER0monthsmonthNNSDATEPER0,,,OPER0hehePRPOPER0'sbeVBZOPER0beenbeVBNOPER0suedsueVBNOPER0bybyINOPER0anaDTOPER0auctionauctionNNOPER0househouseNNOPER0forforINOPER0non-paymentnon-paymentNNOPER0,,,OPER0andandCCOPER0bybyINOPER0aaDTOPER0concertconcertNNOPER0promoterpromoterNNOPER0forforINOPER0allegedlyallegedlyRBOPER0backingbackVBGOPER0outoutINOPER0ofofINOPER0twotwoCDDATEPER0millenniummillenniumNNDATEPER0performancesperformanceNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (JJ recent) (NNS months))) (, ,) (NP (PRP he)) (VP (VBZ 's) (VP (VBN been) (VP (VBN sued) (PP (PP (IN by) (NP (NP (DT an) (NN auction) (NN house)) (PP (IN for) (NP (NN non-payment))))) (, ,) (CC and) (PP (IN by) (NP (NP (DT a) (NN concert) (NN promoter)) (PP (IN for) (S (ADVP (RB allegedly)) (VP (VBG backing) (PP (IN out) (PP (IN of) (NP (CD two) (NN millennium) (NNS performances))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 3 until 7 headed by 4 parsed as (NP (NP (DT the) (NN King)) (PP (IN of) (NP (NN Pop))))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP him))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Michael) (NNP Jackson))
+sid=3 spanning 5 until 14 headed by 6 parsed as (NP (NP (NNP Universal) (NNP Music)) (, ,) (NP (NP (DT the) (NN parent) (NN company)) (PP (IN of) (NP (NNP Motown) (NNPS Records)))))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (PRP they))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (PRP him))
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (PRP he))
+sid=3 spanning 24 until 26 headed by 25 parsed as Five
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ gloved) (NN one))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN label))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (NNP Jackson) (NNP Five))
+sid=4 spanning 17 until 18 headed by 17 parsed as (NP (PRP him))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Jackson))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NNP Alisha) (NNP Davis))
+sid=1 spanning 3 until 7 headed by 4 parsed as (NP (NP (DT the) (NN King)) (PP (IN of) (NP (NN Pop))))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP him))
+sid=2 spanning 5 until 9 headed by 6 parsed as (NP (NP (DT the) (NN king)) (PP (IN of) (NP (NNS lawsuits))))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNS lawsuits))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Michael) (NNP Jackson))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (NP (NNP Universal) (NNP Music)) (, ,) (NP (NP (DT the) (NN parent) (NN company)) (PP (IN of) (NP (NNP Motown) (NNPS Records)))))
+sid=3 spanning 5 until 14 headed by 6 parsed as (NP (NP (NNP Universal) (NNP Music)) (, ,) (NP (NP (DT the) (NN parent) (NN company)) (PP (IN of) (NP (NNP Motown) (NNPS Records)))))
+sid=3 spanning 8 until 14 headed by 10 parsed as (NP (NP (DT the) (NN parent) (NN company)) (PP (IN of) (NP (NNP Motown) (NNPS Records))))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (NNP Motown) (NNPS Records))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (PRP they))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (PRP him))
+sid=3 spanning 19 until 30 headed by 19 parsed as (NP (NP (NN music)) (SBAR (S (NP (PRP he)) (VP (VBD recorded) (PP (IN with) (NP (DT the) (NML (NNP Jackson) (NNP Five)) (NN back))) (PP (IN in) (NP (DT the) (NNS 1970s)))))))
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (PRP he))
+sid=3 spanning 23 until 27 headed by 26 parsed as (NP (DT the) (NML (NNP Jackson) (NNP Five)) (NN back))
+sid=3 spanning 24 until 26 headed by 25 parsed as Five
+sid=3 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NNS 1970s))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ gloved) (NN one))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN label))
+sid=4 spanning 9 until 14 headed by 10 parsed as (NP (NP (JJ new) (NNS albums)) (CC and) (NP (NNP Jackson) (NNP Five)))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (JJ new) (NNS albums))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (NNP Jackson) (NNP Five))
+sid=4 spanning 17 until 18 headed by 17 parsed as (NP (PRP him))
+sid=4 spanning 18 until 22 headed by 21 parsed as (NP (`` ``) (DT a) (JJ single) (NN dollar))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Jackson))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (NNS courtrooms))
+sid=6 spanning 1 until 3 headed by 2 parsed as (NP (JJ recent) (NNS months))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=6 spanning 9 until 14 headed by 11 parsed as (NP (NP (DT an) (NN auction) (NN house)) (PP (IN for) (NP (NN non-payment))))
+sid=6 spanning 17 until 28 headed by 19 parsed as (NP (NP (DT a) (NN concert) (NN promoter)) (PP (IN for) (S (ADVP (RB allegedly)) (VP (VBG backing) (PP (IN out) (PP (IN of) (NP (CD two) (NN millennium) (NNS performances))))))))
+sid=6 spanning 25 until 28 headed by 27 parsed as (NP (CD two) (NN millennium) (NNS performances))
+sid=6 spanning 25 until 27 headed by 26 parsed as millennium
+(end predicted mentions)
+---------gold clusters--------
+6 2 12 1 0 8 13 11 5 | { 'he' 'Michael Jackson' 'Jackson' 'him' 'the King of Pop' 'The gloved one' 'he' 'him' 'him' }
+4 9 3 | { 'they' 'the label' 'Universal Music , the parent company of Motown Records' }
+7 10 | { 'Jackson Five' 'Jackson Five' }
+(end gold clusters)

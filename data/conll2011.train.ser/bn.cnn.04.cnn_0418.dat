@@ -1,0 +1,76 @@
+---------gloss--------
+(0) I 'm Rhonda Schaffler , live from the New York Stock Exchange , where stocks are stuck in reverse . 
+(1) Stocks have rallied for three months on a hope of a turnaround in [32m{the economy}[0m . 
+(2) Investors ignoring upbeat signs about [32m{the economy}[0m today . 
+(3) [34m{A key gauge of future economic activity}[0m [31m{posted}[0m [34m{its}[0m biggest rise in 17 months . 
+(4) Despite [31m{that}[0m [34m{the Dow Jones industrial average}[0m sliding at the moment by 76 points . 
+(5) [4m[36m{General Electronic}[0m using a dollar after [33m{three brokerage companies}[0m cut [33m{their}[0m profit expectation on [4m[36m{the company}[0m . 
+(6) Nasdaq off 0.75 % . 
+(7) CNN 's `` Live From '' continues after this . 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0418); part 000
+sentences:
+IIPRPOPER0'mbeVBPOPER0RhondaRhondaNNPPERSONPER0SchafflerSchafflerNNPPERSONPER0,,,OPER0liveliveRBOPER0fromfromINOPER0thetheDTORGPER0NewNewNNPORGPER0YorkYorkNNPORGPER0StockStockNNPORGPER0ExchangeExchangeNNPORGPER0,,,OPER0wherewhereWRBOPER0stocksstockNNSOPER0arebeVBPOPER0stuckstuckJJOPER0ininINOPER0reversereverseNNOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP Rhonda) (NNP Schaffler)) (, ,) (ADVP (RB live) (PP (IN from) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange)))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS stocks)) (VP (VBP are) (ADJP (JJ stuck) (PP (IN in) (NP (NN reverse))))))))) (. .)))
+StocksstockNNSOPER0havehaveVBPOPER0ralliedrallyVBNOPER0forforINOPER0threethreeCDDATEPER0monthsmonthNNSDATEPER0ononINOPER0aaDTOPER0hopehopeNNOPER0ofofINOPER0aaDTOPER0turnaroundturnaroundNNOPER0ininINOPER0thetheDTOPER0economyeconomyNNOPER0...OPER0(ROOT (S (NP (NNS Stocks)) (VP (VBP have) (VP (VBN rallied) (PP (IN for) (NP (NP (CD three) (NNS months)) (PP (IN on) (NP (NP (DT a) (NN hope)) (PP (IN of) (NP (NP (DT a) (NN turnaround)) (PP (IN in) (NP (DT the) (NN economy))))))))))) (. .)))
+InvestorsinvestorNNSOPER0ignoringignoreVBGOPER0upbeatupbeatJJOPER0signssignNNSOPER0aboutaboutINOPER0thetheDTOPER0economyeconomyNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NNS Investors)) (VP (VBG ignoring) (NP (NP (JJ upbeat) (NNS signs)) (PP (IN about) (NP (DT the) (NN economy))) (NP (NN today)))) (. .)))
+AaDTOPER0keykeyJJOPER0gaugegaugeNNOPER0ofofINOPER0futurefutureJJOPER0economiceconomicJJOPER0activityactivityNNOPER0postedpostVBDOPER0itsitsPRP$OPER0biggestbiggestJJSOPER0riseriseNNOPER0ininINOPER01717CDDATEPER0monthsmonthNNSDATEPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ key) (NN gauge)) (PP (IN of) (NP (JJ future) (JJ economic) (NN activity)))) (VP (VBD posted) (NP (NP (PRP$ its) (JJS biggest) (NN rise)) (PP (IN in) (NP (CD 17) (NNS months))))) (. .)))
+DespitedespiteINOPER0thatthatDTOPER0thetheDTOPER0DowDowNNPOPER0JonesJonesNNPOPER0industrialindustrialJJOPER0averageaverageNNOPER0slidingslideVBGOPER0atatINOPER0thetheDTOPER0momentmomentNNOPER0bybyINOPER07676CDCARDINALPER0pointspointNNSOPER0...OPER0(ROOT (S (PP (IN Despite) (NP (DT that))) (NP (DT the) (NML (NNP Dow) (NNP Jones)) (JJ industrial) (NN average)) (VP (VBG sliding) (PP (IN at) (NP (NP (DT the) (NN moment)) (PP (IN by) (NP (CD 76) (NNS points)))))) (. .)))
+GeneralGeneralNNPORGPER0ElectronicElectronicNNPORGPER0usinguseVBGOPER0aaDTOPER0dollardollarNNOPER0afterafterINOPER0threethreeCDOPER0brokeragebrokerageNNOPER0companiescompanyNNSOPER0cutcutVBDOPER0theirtheyPRP$OPER0profitprofitNNOPER0expectationexpectationNNOPER0ononINOPER0thetheDTOPER0companycompanyNNOPER0...OPER0(ROOT (FRAG (NP (NNP General) (NNP Electronic)) (VP (VBG using) (NP (DT a) (NN dollar)) (SBAR (IN after) (S (NP (NML (CD three) (NN brokerage)) (NNS companies)) (VP (VBD cut) (NP (PRP$ their) (NN profit) (NN expectation)) (PP (IN on) (NP (DT the) (NN company))))))) (. .)))
+NasdaqNasdaqNNPORGPER0offoffINOPER00.750.75CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (FRAG (NP (NNP Nasdaq)) (PP (IN off) (NP (CD 0.75) (NN %))) (. .)))
+CNNCNNNNPORGPER0's'sPOSOPER0``````WORK_OF_ARTLiveliveJJWORK_OF_ARTPER1FromfromINWORK_OF_ARTPER1''''''WORK_OF_ARTPER0continuescontinueVBZOPER0afterafterINOPER0thisthisDTOPER0...OPER0(ROOT (S (NP (NP (NNP CNN) (POS 's)) (ADJP (`` ``) (JJ Live) (PP (IN From)) ('' ''))) (VP (VBZ continues) (PP (IN after) (NP (DT this)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN economy))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN economy))
+sid=3 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT A) (JJ key) (NN gauge)) (PP (IN of) (NP (JJ future) (JJ economic) (NN activity))))
+sid=3 spanning 7 until 8 headed by 7 parsed as posted
+sid=3 spanning 8 until 9 headed by 8 parsed as its
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (DT that))
+sid=4 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NNP Dow) (NNP Jones)) (JJ industrial) (NN average))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP General) (NNP Electronic))
+sid=5 spanning 6 until 9 headed by 8 parsed as (NP (NML (CD three) (NN brokerage)) (NNS companies))
+sid=5 spanning 10 until 11 headed by 10 parsed as their
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP Rhonda) (NNP Schaffler)) (, ,) (ADVP (RB live) (PP (IN from) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange)))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS stocks)) (VP (VBP are) (ADJP (JJ stuck) (PP (IN in) (NP (NN reverse))))))))
+sid=0 spanning 2 until 19 headed by 3 parsed as (NP (NP (NNP Rhonda) (NNP Schaffler)) (, ,) (ADVP (RB live) (PP (IN from) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange)))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS stocks)) (VP (VBP are) (ADJP (JJ stuck) (PP (IN in) (NP (NN reverse))))))))
+sid=0 spanning 7 until 12 headed by 11 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNS stocks))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Stocks))
+sid=1 spanning 4 until 15 headed by 5 parsed as (NP (NP (CD three) (NNS months)) (PP (IN on) (NP (NP (DT a) (NN hope)) (PP (IN of) (NP (NP (DT a) (NN turnaround)) (PP (IN in) (NP (DT the) (NN economy))))))))
+sid=1 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT a) (NN hope)) (PP (IN of) (NP (NP (DT a) (NN turnaround)) (PP (IN in) (NP (DT the) (NN economy))))))
+sid=1 spanning 10 until 15 headed by 11 parsed as (NP (NP (DT a) (NN turnaround)) (PP (IN in) (NP (DT the) (NN economy))))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN economy))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Investors))
+sid=2 spanning 2 until 8 headed by 3 parsed as (NP (NP (JJ upbeat) (NNS signs)) (PP (IN about) (NP (DT the) (NN economy))) (NP (NN today)))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN economy))
+sid=3 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT A) (JJ key) (NN gauge)) (PP (IN of) (NP (JJ future) (JJ economic) (NN activity))))
+sid=3 spanning 8 until 14 headed by 10 parsed as (NP (NP (PRP$ its) (JJS biggest) (NN rise)) (PP (IN in) (NP (CD 17) (NNS months))))
+sid=3 spanning 8 until 9 headed by 8 parsed as (PRP$ its)
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (CD 17) (NNS months))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (DT that))
+sid=4 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NNP Dow) (NNP Jones)) (JJ industrial) (NN average))
+sid=4 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT the) (NN moment)) (PP (IN by) (NP (CD 76) (NNS points))))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (CD 76) (NNS points))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP General) (NNP Electronic))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN dollar))
+sid=5 spanning 6 until 9 headed by 8 parsed as (NP (NML (CD three) (NN brokerage)) (NNS companies))
+sid=5 spanning 10 until 13 headed by 12 parsed as (NP (PRP$ their) (NN profit) (NN expectation))
+sid=5 spanning 10 until 11 headed by 10 parsed as (PRP$ their)
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN company))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP Nasdaq))
+sid=7 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP CNN) (POS 's)) (ADJP (`` ``) (JJ Live) (PP (IN From)) ('' '')))
+sid=7 spanning 2 until 6 headed by 3 parsed as Live
+sid=7 spanning 8 until 9 headed by 8 parsed as (NP (DT this))
+(end predicted mentions)
+---------gold clusters--------
+7 10 | { 'General Electronic' 'the company' }
+5 3 | { 'that' 'posted' }
+1 0 | { 'the economy' 'the economy' }
+9 8 | { 'their' 'three brokerage companies' }
+2 6 4 | { 'A key gauge of future economic activity' 'the Dow Jones industrial average' 'its' }
+(end gold clusters)

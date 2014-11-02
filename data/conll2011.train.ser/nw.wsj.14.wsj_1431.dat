@@ -1,0 +1,69 @@
+---------gloss--------
+(0) [4m[32m{Spending by average Japanese households}[0m in [3m[35m{August}[0m fell an adjusted 1.9 % from [4m[31m{a year}[0m earlier , [3m[36m{the Statistics Bureau of the Prime Minister 's Office}[0m said . 
+(1) [3m[36m{The bureau}[0m cited typhoons in the [3m[35m{month}[0m that discouraged shopping and leisure opportunities . 
+(2) [4m[32m{Spending by Japanese households}[0m averaged 290,782 yen -LRB- $ 2,052.10 -RRB- in [3m[35m{August}[0m . 
+(3) In nominal terms [4m[32m{it}[0m rose 0.6 % from [4m[31m{a year}[0m earlier before adjustment . 
+(4) [3m[35m{August}[0m adjusted spending by [3m[34m{wage - earning families}[0m was down 0.6 % to 309,381 yen from [4m[31m{a year}[0m earlier . 
+(5) The real income of [3m[34m{wage - earning families}[0m in [3m[35m{the month}[0m eased 1.2 % to 438,845 yen from the previous year . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1431); part 000
+sentences:
+SpendingspendingNNOPER0bybyINOPER0averageaverageJJOPER0JapanesejapaneseJJOPER0householdshouseholdNNSOPER0ininINOPER0AugustAugustNNPDATEPER0fellfallVBDOPER0anaDTPERCENTPER0adjustedadjustedJJPERCENTPER01.91.9CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0,,,OPER0thetheDTORGPER0StatisticsStatisticsNNPSORGPER0BureauBureauNNPORGPER0ofofINORGPER0thetheDTORGPER0PrimePrimeNNPORGPER0MinisterMinisterNNPORGPER0's'sPOSORGPER0OfficeOfficeNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NN Spending)) (PP (IN by) (NP (NP (JJ average) (JJ Japanese) (NNS households)) (PP (IN in) (NP (NNP August)))))) (VP (VBD fell) (NP (DT an) (ADJP (JJ adjusted)) (CD 1.9) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (, ,) (NP (NP (DT the) (NNPS Statistics) (NNP Bureau)) (PP (IN of) (NP (NP (DT the) (NML (NNP Prime) (NNP Minister)) (POS 's)) (NNP Office)))) (VP (VBD said)) (. .)))
+ThetheDTOPER0bureaubureauNNOPER0citedciteVBDOPER0typhoonstyphoonNNSOPER0ininINOPER0thetheDTOPER0monthmonthNNDATEPER0thatthatINOPER0discourageddiscourageVBNOPER0shoppingshoppingNNOPER0andandCCOPER0leisureleisureNNOPER0opportunitiesopportunityNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN bureau)) (VP (VBD cited) (NP (NP (NNS typhoons)) (PP (IN in) (NP (DT the) (NN month) (SBAR (IN that) (S (VP (VBN discouraged) (NP (NP (NN shopping) (CC and) (NN leisure)) (NNS opportunities))))))))) (. .)))
+SpendingspendVBGOPER0bybyINOPER0JapanesejapaneseJJOPER0householdshouseholdNNSOPER0averagedaverageVBDOPER0290,782290,782CDMONEYPER0yenyenNNSMONEYPER0-LRB--lrb--LRB-OPER0$$$MONEYPER02,052.102,052.10CDMONEYPER0-RRB--rrb--RRB-OPER0ininINOPER0AugustAugustNNPDATEPER0...OPER0(ROOT (S (NP (NP (VBG Spending)) (PP (IN by) (NP (JJ Japanese) (NNS households)))) (VP (VBD averaged) (NP (NP (CD 290,782) (NNS yen)) (-LRB- -LRB-) (NP ($ $) (CD 2,052.10)) (-RRB- -RRB-)) (PP (IN in) (NP (NNP August)))) (. .)))
+IninINOPER0nominalnominalJJOPER0termstermNNSOPER0ititPRPOPER0roseriseVBDOPER00.60.6CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0beforebeforeINOPER0adjustmentadjustmentNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (JJ nominal) (NNS terms))) (NP (PRP it)) (VP (VBD rose) (NP (CD 0.6) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))) (PP (IN before) (NP (NN adjustment)))) (. .)))
+AugustAugustNNPDATEPER0adjustedadjustVBNOPER0spendingspendingNNOPER0bybyINOPER0wagewageNNOPER0--HYPHOPER0earningearnVBGOPER0familiesfamilyNNSOPER0wasbeVBDOPER0downdownRBOPER00.60.6CDPERCENTPER0%%NNPERCENTPER0totoINOPER0309,381309,381CDMONEYPER0yenyenNNSMONEYPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (NP (NNP August) (VBN adjusted) (NN spending)) (PP (IN by) (NP (ADJP (NN wage) (HYPH -) (VBG earning)) (NNS families)))) (VP (VBD was) (ADVP (RB down) (NP (CD 0.6) (NN %)) (PP (IN to) (NP (NP (CD 309,381) (NNS yen)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+ThetheDTOPER0realrealJJOPER0incomeincomeNNOPER0ofofINOPER0wagewageNNOPER0--HYPHOPER0earningearnVBGOPER0familiesfamilyNNSOPER0ininINOPER0thetheDTDATEPER0monthmonthNNDATEPER0easedeaseVBDOPER01.21.2CDPERCENTPER0%%NNPERCENTPER0totoINOPER0438,845438,845CDMONEYPER0yenyenNNSMONEYPER0fromfromINOPER0thetheDTDATEPER0previouspreviousJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ real) (NN income)) (PP (IN of) (NP (NP (ADJP (NN wage) (HYPH -) (VBG earning)) (NNS families)) (PP (IN in) (NP (DT the) (NN month)))))) (VP (VBD eased) (NP (CD 1.2) (NN %)) (PP (IN to) (NP (CD 438,845) (NNS yen))) (PP (IN from) (NP (DT the) (JJ previous) (NN year)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 0 parsed as (NP (NP (NN Spending)) (PP (IN by) (NP (NP (JJ average) (JJ Japanese) (NNS households)) (PP (IN in) (NP (NNP August))))))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP August))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (DT a) (NN year))
+sid=0 spanning 17 until 26 headed by 19 parsed as (NP (NP (DT the) (NNPS Statistics) (NNP Bureau)) (PP (IN of) (NP (NP (DT the) (NML (NNP Prime) (NNP Minister)) (POS 's)) (NNP Office))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN bureau))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (DT the) (NN month) (SBAR (IN that) (S (VP (VBN discouraged) (NP (NP (NN shopping) (CC and) (NN leisure)) (NNS opportunities))))))
+sid=2 spanning 0 until 4 headed by 0 parsed as (NP (NP (VBG Spending)) (PP (IN by) (NP (JJ Japanese) (NNS households))))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP August))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN year))
+sid=4 spanning 0 until 1 headed by 0 parsed as August
+sid=4 spanning 4 until 8 headed by 7 parsed as (NP (ADJP (NN wage) (HYPH -) (VBG earning)) (NNS families))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN year))
+sid=5 spanning 4 until 8 headed by 7 parsed as (NP (NP (ADJP (NN wage) (HYPH -) (VBG earning)) (NNS families)) (PP (IN in) (NP (DT the) (NN month))))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN month))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 0 parsed as (NP (NP (NN Spending)) (PP (IN by) (NP (NP (JJ average) (JJ Japanese) (NNS households)) (PP (IN in) (NP (NNP August))))))
+sid=0 spanning 2 until 7 headed by 4 parsed as (NP (NP (JJ average) (JJ Japanese) (NNS households)) (PP (IN in) (NP (NNP August))))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP August))
+sid=0 spanning 13 until 16 headed by 15 parsed as earlier
+sid=0 spanning 17 until 26 headed by 19 parsed as (NP (NP (DT the) (NNPS Statistics) (NNP Bureau)) (PP (IN of) (NP (NP (DT the) (NML (NNP Prime) (NNP Minister)) (POS 's)) (NNP Office))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN bureau))
+sid=1 spanning 3 until 13 headed by 3 parsed as (NP (NP (NNS typhoons)) (PP (IN in) (NP (DT the) (NN month) (SBAR (IN that) (S (VP (VBN discouraged) (NP (NP (NN shopping) (CC and) (NN leisure)) (NNS opportunities))))))))
+sid=1 spanning 5 until 13 headed by 6 parsed as (NP (DT the) (NN month) (SBAR (IN that) (S (VP (VBN discouraged) (NP (NP (NN shopping) (CC and) (NN leisure)) (NNS opportunities))))))
+sid=1 spanning 9 until 13 headed by 12 parsed as (NP (NP (NN shopping) (CC and) (NN leisure)) (NNS opportunities))
+sid=1 spanning 9 until 12 headed by 9 parsed as (NP (NN shopping) (CC and) (NN leisure))
+sid=2 spanning 0 until 4 headed by 0 parsed as (NP (NP (VBG Spending)) (PP (IN by) (NP (JJ Japanese) (NNS households))))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (JJ Japanese) (NNS households))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP August))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (JJ nominal) (NNS terms))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=3 spanning 8 until 11 headed by 10 parsed as earlier
+sid=4 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP August) (VBN adjusted) (NN spending)) (PP (IN by) (NP (ADJP (NN wage) (HYPH -) (VBG earning)) (NNS families))))
+sid=4 spanning 0 until 1 headed by 0 parsed as August
+sid=4 spanning 4 until 8 headed by 7 parsed as (NP (ADJP (NN wage) (HYPH -) (VBG earning)) (NNS families))
+sid=4 spanning 16 until 19 headed by 18 parsed as earlier
+sid=5 spanning 0 until 11 headed by 2 parsed as (NP (NP (DT The) (JJ real) (NN income)) (PP (IN of) (NP (NP (ADJP (NN wage) (HYPH -) (VBG earning)) (NNS families)) (PP (IN in) (NP (DT the) (NN month))))))
+sid=5 spanning 4 until 11 headed by 7 parsed as (NP (NP (ADJP (NN wage) (HYPH -) (VBG earning)) (NNS families)) (PP (IN in) (NP (DT the) (NN month))))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN month))
+sid=5 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (JJ previous) (NN year))
+(end predicted mentions)
+---------gold clusters--------
+13 11 | { 'wage - earning families' 'wage - earning families' }
+10 7 5 14 1 | { 'August' 'August' 'month' 'the month' 'August' }
+4 3 | { 'The bureau' 'the Statistics Bureau of the Prime Minister 's Office' }
+2 12 9 | { 'a year' 'a year' 'a year' }
+6 0 8 | { 'Spending by Japanese households' 'Spending by average Japanese households' 'it' }
+(end gold clusters)

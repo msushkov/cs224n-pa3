@@ -1,0 +1,120 @@
+---------gloss--------
+(0) First an update on a long - running air safety investigation a year and a half near [3m[35m{an airline}[0m [3m[36m{crashed}[0m near New York 's Kennedy Airport there is controversy whether [3m[36m{the disaster}[0m could have been averted . 
+(1) 265 people died in [3m[36m{the November 2001 crash of Flight 587}[0m , hard to forget those images , after the pilots lost control of [3m[35m{the plane}[0m , and [3m[35m{the jet 's}[0m tail fin broke off . 
+(2) [4m[34m{Airbus}[0m strongly denies claims [4m[34m{it}[0m failed to provide sufficient warning , but critics say [4m[34m{Airbus}[0m should have sounded a stronger alarm after a similar incident occurred in [4m[36m{1997}[0m . 
+(3) [4m[36m{That}[0m is when [4m[33m{American Airlines Flight 903}[0m ran into trouble on a trip from Boston to Miami . 
+(4) [4m[31m{The pilots of that plane}[0m forcibly applied [4m[31m{their}[0m rudder to recover from a stall , and as a result [4m[33m{the plane 's}[0m tail section exceeded [4m[32m{its}[0m design limits . 
+(5) Pilots managed to land safely , only after a terrifying ordeal for passengers . 
+(6) [31m{Melanie Joyceon}[0m joins [4m[35m{us}[0m from Dallas . 
+(7) Thanks for being with [4m[35m{us}[0m . 
+(8) Can [31m{you}[0m tell me about the flight five years ago . 
+(9) What happened to [31m{you}[0m ? 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0363); part 000
+sentences:
+FirstfirstRBORDINALPER0anaDTOPER0updateupdateNNOPER0ononINOPER0aaDTOPER0longlongRBOPER0--HYPHOPER0runningrunVBGOPER0airairNNOPER0safetysafetyNNOPER0investigationinvestigationNNOPER0aaDTDATEPER0yearyearNNDATEPER0andandCCDATEPER0aaDTDATEPER0halfhalfNNDATEPER0nearnearINOPER0anaDTOPER0airlineairlineNNOPER0crashedcrashVBDOPER0nearnearINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0's'sPOSGPEPER0KennedyKennedyNNPFACPER0AirportAirportNNPFACPER0therethereEXOPER0isbeVBZOPER0controversycontroversyNNOPER0whetherwhetherINOPER0thetheDTOPER0disasterdisasterNNOPER0couldcouldMDOPER0havehaveVBOPER0beenbeVBNOPER0avertedavertVBNOPER0...OPER0(ROOT (FRAG (ADVP (RB First)) (NP (NP (DT an) (NN update)) (PP (IN on) (NP (NP (DT a) (ADJP (RB long) (HYPH -) (VBG running)) (NML (NN air) (NN safety)) (NN investigation)) (SBAR (NP (NP (DT a) (NN year)) (CC and) (NP (DT a) (NN half))) (IN near) (S (NP (DT an) (NN airline)) (VP (VBD crashed) (PP (IN near) (NP (NP (NNP New) (NNP York) (POS 's)) (NNP Kennedy) (NNP Airport))) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NN controversy)) (SBAR (IN whether) (S (NP (DT the) (NN disaster)) (VP (MD could) (VP (VB have) (VP (VBN been) (VP (VBN averted)))))))))))))))) (. .)))
+265265CDCARDINALPER0peoplepeopleNNSOPER0dieddieVBDOPER0ininINOPER0thetheDTOPER0NovemberNovemberNNPDATEPER020012001CDDATEPER0crashcrashNNOPER0ofofINOPER0FlightFlightNNPPRODUCTPER0587587CDPRODUCTPER0,,,OPER0hardhardRBOPER0totoTOOPER0forgetforgetVBOPER0thosethoseDTOPER0imagesimageNNSOPER0,,,OPER0afterafterINOPER0thetheDTOPER0pilotspilotNNSOPER0lostloseVBDOPER0controlcontrolNNOPER0ofofINOPER0thetheDTOPER0planeplaneNNOPER0,,,OPER0andandCCOPER0thetheDTOPER0jetjetNNOPER0's'sPOSOPER0tailtailNNOPER0finfinFWOPER0brokebreakVBDOPER0offoffRPOPER0...OPER0(ROOT (S (S (NP (CD 265) (NNS people)) (VP (VBD died) (PP (IN in) (NP (NP (DT the) (NML (NNP November) (CD 2001)) (NN crash)) (PP (IN of) (NP (NNP Flight) (CD 587))))) (, ,) (ADVP (RB hard)) (S (VP (TO to) (VP (VB forget) (NP (DT those) (NNS images))))) (, ,) (SBAR (IN after) (S (NP (DT the) (NNS pilots)) (VP (VBD lost) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NN plane))))))))) (, ,) (CC and) (S (NP (NP (NP (DT the) (NN jet) (POS 's)) (NN tail)) (ADVP (FW fin))) (VP (VBD broke) (PRT (RP off)))) (. .)))
+AirbusAirbusNNPORGPER0stronglystronglyRBOPER0deniesdenyVBZOPER0claimsclaimVBZOPER0ititPRPOPER0failedfailVBDOPER0totoTOOPER0provideprovideVBOPER0sufficientsufficientJJOPER0warningwarningNNOPER0,,,OPER0butbutCCOPER0criticscriticNNSOPER0saysayVBPOPER0AirbusAirbusNNPORGPER0shouldshouldMDOPER0havehaveVBOPER0soundedsoundVBDOPER0aaDTOPER0strongerstrongerJJROPER0alarmalarmNNOPER0afterafterINOPER0aaDTOPER0similarsimilarJJOPER0incidentincidentNNOPER0occurredoccurVBDOPER0ininINOPER019971997CDDATEPER0...OPER0(ROOT (S (S (NP (NNP Airbus)) (ADVP (RB strongly)) (VP (VBZ denies) (SBAR (S (VP (VBZ claims) (SBAR (S (NP (PRP it)) (VP (VBD failed) (S (VP (TO to) (VP (VB provide) (NP (JJ sufficient) (NN warning))))))))))))) (, ,) (CC but) (S (NP (NNS critics)) (VP (VBP say) (SBAR (S (NP (NNP Airbus)) (VP (MD should) (VP (VB have) (VP (VBD sounded) (NP (DT a) (JJR stronger) (NN alarm)) (SBAR (IN after) (S (NP (DT a) (JJ similar) (NN incident)) (VP (VBD occurred) (PP (IN in) (NP (CD 1997))))))))))))) (. .)))
+ThatthatDTOPER0isbeVBZOPER0whenwhenWRBOPER0AmericanAmericanNNPORGPER0AirlinesAirlinesNNPSORGPER0FlightFlightNNPOPER0903903CDOPER0ranrunVBDOPER0intointoINOPER0troubletroubleNNOPER0ononINOPER0aaDTOPER0triptripNNOPER0fromfromINOPER0BostonBostonNNPGPEPER0totoINOPER0MiamiMiamiNNPGPEPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ is) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNP American) (NNPS Airlines)) (NML (NNP Flight) (CD 903))) (VP (VBD ran) (PP (IN into) (NP (NN trouble))) (PP (IN on) (NP (NP (DT a) (NN trip)) (PP (IN from) (NP (NNP Boston))) (PP (IN to) (NP (NNP Miami))))))))) (. .)))
+ThetheDTOPER0pilotspilotNNSOPER0ofofINOPER0thatthatDTOPER0planeplaneNNOPER0forciblyforciblyRBOPER0appliedapplyVBDOPER0theirtheyPRP$OPER0rudderrudderNNOPER0totoTOOPER0recoverrecoverVBOPER0fromfromINOPER0aaDTOPER0stallstallNNOPER0,,,OPER0andandCCOPER0asasINOPER0aaDTOPER0resultresultNNOPER0thetheDTOPER0planeplaneNNOPER0's'sPOSOPER0tailtailNNOPER0sectionsectionNNOPER0exceededexceedVBDOPER0itsitsPRP$OPER0designdesignNNOPER0limitslimitNNSOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (NNS pilots)) (PP (IN of) (NP (DT that) (NN plane)))) (ADVP (RB forcibly)) (VP (VBD applied) (NP (PRP$ their) (NN rudder)) (S (VP (TO to) (VP (VB recover) (PP (IN from) (NP (DT a) (NN stall)))))))) (, ,) (CC and) (S (PP (IN as) (NP (DT a) (NN result))) (NP (NP (DT the) (NN plane) (POS 's)) (NN tail) (NN section)) (VP (VBD exceeded) (NP (PRP$ its) (NN design) (NNS limits)))) (. .)))
+PilotspilotNNSOPER0managedmanageVBDOPER0totoTOOPER0landlandVBOPER0safelysafelyRBOPER0,,,OPER0onlyonlyRBOPER0afterafterINOPER0aaDTOPER0terrifyingterrifyingJJOPER0ordealordealNNOPER0forforINOPER0passengerspassengerNNSOPER0...OPER0(ROOT (S (NP (NNS Pilots)) (VP (VBD managed) (S (VP (TO to) (VP (VB land) (ADVP (RB safely)) (, ,) (PP (ADVP (RB only)) (IN after) (NP (NP (DT a) (JJ terrifying) (NN ordeal)) (PP (IN for) (NP (NNS passengers))))))))) (. .)))
+MelanieMelanieNNPPERSONPER0JoyceonJoyceonNNPPERSONPER0joinsjoinVBZOPER0uswePRPOPER0fromfromINOPER0DallasDallasNNPGPEPER0...OPER0(ROOT (S (NP (NNP Melanie) (NNP Joyceon)) (VP (VBZ joins) (NP (PRP us)) (PP (IN from) (NP (NNP Dallas)))) (. .)))
+ThanksthanksNNSOPER0forforINOPER0beingbeVBGOPER0withwithINOPER0uswePRPOPER0...OPER0(ROOT (NP (NP (NNS Thanks)) (PP (IN for) (S (VP (VBG being) (PP (IN with) (NP (PRP us)))))) (. .)))
+CancanMDOPER0youyouPRPOPER0telltellVBOPER0meIPRPOPER0aboutaboutINOPER0thetheDTOPER0flightflightNNOPER0fivefiveCDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB tell) (NP (PRP me)) (PP (IN about) (NP (NP (DT the) (NN flight)) (ADVP (NP (CD five) (NNS years)) (RB ago))))) (. .)))
+WhatwhatWPOPER0happenedhappenVBDOPER0totoINOPER0youyouPRPOPER0??.OPER0(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBD happened) (PP (IN to) (NP (PRP you))))) (. ?)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (DT an) (NN airline))
+sid=0 spanning 19 until 20 headed by 19 parsed as crashed
+sid=0 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN disaster))
+sid=1 spanning 4 until 11 headed by 7 parsed as (NP (NP (DT the) (NML (NNP November) (CD 2001)) (NN crash)) (PP (IN of) (NP (NNP Flight) (CD 587))))
+sid=1 spanning 9 until 11 headed by 9 parsed as (NP (NNP Flight) (CD 587))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN plane))
+sid=1 spanning 28 until 31 headed by 29 parsed as (NP (DT the) (NN jet) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Airbus))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNP Airbus))
+sid=2 spanning 27 until 28 headed by 27 parsed as (NP (CD 1997))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=3 spanning 3 until 7 headed by 5 parsed as (NP (NP (NNP American) (NNPS Airlines)) (NML (NNP Flight) (CD 903)))
+sid=4 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NNS pilots)) (PP (IN of) (NP (DT that) (NN plane))))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN plane))
+sid=4 spanning 7 until 8 headed by 7 parsed as their
+sid=4 spanning 19 until 24 headed by 23 parsed as (NP (NP (DT the) (NN plane) (POS 's)) (NN tail) (NN section))
+sid=4 spanning 19 until 22 headed by 20 parsed as (NP (DT the) (NN plane) (POS 's))
+sid=4 spanning 25 until 26 headed by 25 parsed as its
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Melanie) (NNP Joyceon))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP us))
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (PRP us))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=9 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as First
+sid=0 spanning 1 until 36 headed by 2 parsed as (NP (NP (DT an) (NN update)) (PP (IN on) (NP (NP (DT a) (ADJP (RB long) (HYPH -) (VBG running)) (NML (NN air) (NN safety)) (NN investigation)) (SBAR (NP (NP (DT a) (NN year)) (CC and) (NP (DT a) (NN half))) (IN near) (S (NP (DT an) (NN airline)) (VP (VBD crashed) (PP (IN near) (NP (NP (NNP New) (NNP York) (POS 's)) (NNP Kennedy) (NNP Airport))) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NN controversy)) (SBAR (IN whether) (S (NP (DT the) (NN disaster)) (VP (MD could) (VP (VB have) (VP (VBN been) (VP (VBN averted))))))))))))))))
+sid=0 spanning 4 until 36 headed by 10 parsed as (NP (NP (DT a) (ADJP (RB long) (HYPH -) (VBG running)) (NML (NN air) (NN safety)) (NN investigation)) (SBAR (NP (NP (DT a) (NN year)) (CC and) (NP (DT a) (NN half))) (IN near) (S (NP (DT an) (NN airline)) (VP (VBD crashed) (PP (IN near) (NP (NP (NNP New) (NNP York) (POS 's)) (NNP Kennedy) (NNP Airport))) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NN controversy)) (SBAR (IN whether) (S (NP (DT the) (NN disaster)) (VP (MD could) (VP (VB have) (VP (VBN been) (VP (VBN averted))))))))))))))
+sid=0 spanning 11 until 16 headed by 12 parsed as (NP (NP (DT a) (NN year)) (CC and) (NP (DT a) (NN half)))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (DT an) (NN airline))
+sid=0 spanning 21 until 26 headed by 25 parsed as (NP (NP (NNP New) (NNP York) (POS 's)) (NNP Kennedy) (NNP Airport))
+sid=0 spanning 21 until 24 headed by 22 parsed as (NP (NNP New) (NNP York) (POS 's))
+sid=0 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN disaster))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (CD 265) (NNS people))
+sid=1 spanning 4 until 11 headed by 7 parsed as (NP (NP (DT the) (NML (NNP November) (CD 2001)) (NN crash)) (PP (IN of) (NP (NNP Flight) (CD 587))))
+sid=1 spanning 5 until 7 headed by 5 parsed as November
+sid=1 spanning 9 until 11 headed by 9 parsed as (NP (NNP Flight) (CD 587))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (DT those) (NNS images))
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NNS pilots))
+sid=1 spanning 22 until 26 headed by 22 parsed as (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NN plane))))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN plane))
+sid=1 spanning 28 until 33 headed by 31 parsed as (NP (NP (NP (DT the) (NN jet) (POS 's)) (NN tail)) (ADVP (FW fin)))
+sid=1 spanning 28 until 31 headed by 29 parsed as (NP (DT the) (NN jet) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Airbus))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNS critics))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNP Airbus))
+sid=2 spanning 18 until 21 headed by 20 parsed as (NP (DT a) (JJR stronger) (NN alarm))
+sid=2 spanning 22 until 25 headed by 24 parsed as (NP (DT a) (JJ similar) (NN incident))
+sid=2 spanning 27 until 28 headed by 27 parsed as (NP (CD 1997))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=3 spanning 3 until 7 headed by 5 parsed as (NP (NP (NNP American) (NNPS Airlines)) (NML (NNP Flight) (CD 903)))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NNP American) (NNPS Airlines))
+sid=3 spanning 11 until 17 headed by 12 parsed as (NP (NP (DT a) (NN trip)) (PP (IN from) (NP (NNP Boston))) (PP (IN to) (NP (NNP Miami))))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (NNP Boston))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Miami))
+sid=4 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NNS pilots)) (PP (IN of) (NP (DT that) (NN plane))))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN plane))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ their) (NN rudder))
+sid=4 spanning 7 until 8 headed by 7 parsed as (PRP$ their)
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (DT a) (NN stall))
+sid=4 spanning 17 until 19 headed by 18 parsed as (NP (DT a) (NN result))
+sid=4 spanning 19 until 24 headed by 23 parsed as (NP (NP (DT the) (NN plane) (POS 's)) (NN tail) (NN section))
+sid=4 spanning 19 until 22 headed by 20 parsed as (NP (DT the) (NN plane) (POS 's))
+sid=4 spanning 25 until 28 headed by 27 parsed as (NP (PRP$ its) (NN design) (NNS limits))
+sid=4 spanning 25 until 26 headed by 25 parsed as (PRP$ its)
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Pilots))
+sid=5 spanning 8 until 13 headed by 10 parsed as (NP (NP (DT a) (JJ terrifying) (NN ordeal)) (PP (IN for) (NP (NNS passengers))))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNS passengers))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Melanie) (NNP Joyceon))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP us))
+sid=6 spanning 5 until 6 headed by 5 parsed as (NP (NNP Dallas))
+sid=7 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Thanks)) (PP (IN for) (S (VP (VBG being) (PP (IN with) (NP (PRP us)))))) (. .))
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (PRP us))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=8 spanning 3 until 4 headed by 3 parsed as (NP (PRP me))
+sid=8 spanning 5 until 10 headed by 6 parsed as (NP (NP (DT the) (NN flight)) (ADVP (NP (CD five) (NNS years)) (RB ago)))
+sid=8 spanning 7 until 10 headed by 9 parsed as ago
+sid=9 spanning 3 until 4 headed by 3 parsed as (NP (PRP you))
+(end predicted mentions)
+---------gold clusters--------
+6 0 4 5 | { 'the jet 's' 'an airline' 'Flight 587' 'the plane' }
+1 3 2 | { 'crashed' 'the November 2001 crash of Flight 587' 'the disaster' }
+13 15 | { 'The pilots of that plane' 'their' }
+16 18 | { 'the plane 's tail section' 'its' }
+17 14 12 | { 'the plane 's' 'that plane' 'American Airlines Flight 903' }
+7 8 9 | { 'Airbus' 'it' 'Airbus' }
+20 21 | { 'us' 'us' }
+11 10 | { 'That' '1997' }
+19 23 22 | { 'Melanie Joyceon' 'you' 'you' }
+(end gold clusters)

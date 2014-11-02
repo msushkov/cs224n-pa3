@@ -1,0 +1,67 @@
+---------gloss--------
+(0) [32m{Violence in the West Bank and Gaza}[0m has claimed the lives of [4m[36m{eight Palestinians}[0m today . 
+(1) [4m[36m{All}[0m were shot dead in skirmishes with Israeli soldiers . 
+(2) [32m{The new violence}[0m erupted at the end of a 48 - hour cease - fire which was designed to pave the way for a resumption of [31m{peace talks}[0m . 
+(3) [33m{Israel 's}[0m acting Foreign Minister says [35m{his}[0m nation is hoping to renew [31m{those talks}[0m , but [34m{Prime Minister Ehud Barak}[0m is taking no chances . 
+(4) [34m{Barak}[0m says [34m{he}[0m will proceed with plans to form a national government of emergency . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0045); part 000
+sentences:
+ViolenceviolenceNNOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPGPEPER0hashaveVBZOPER0claimedclaimVBNOPER0thetheDTOPER0liveslifeNNSOPER0ofofINOPER0eighteightCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (NN Violence)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza))))) (VP (VBZ has) (VP (VBN claimed) (NP (NP (DT the) (NNS lives)) (PP (IN of) (NP (CD eight) (NNPS Palestinians)))) (NP (NN today)))) (. .)))
+AllallDTOPER0werebeVBDOPER0shotshootVBNOPER0deaddeadJJOPER0ininINOPER0skirmishesskirmishNNSOPER0withwithINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0...OPER0(ROOT (S (NP (DT All)) (VP (VBD were) (VP (VBN shot) (S (ADJP (JJ dead) (PP (IN in) (NP (NP (NNS skirmishes)) (PP (IN with) (NP (JJ Israeli) (NNS soldiers))))))))) (. .)))
+ThetheDTOPER0newnewJJOPER0violenceviolenceNNOPER0eruptederuptVBDOPER0atatINOPER0thetheDTTIMEPER0endendNNTIMEPER0ofofINTIMEPER0aaDTTIMEPER04848CDTIMEPER0--HYPHTIMEPER0hourhourNNTIMEPER0ceaseceaseNNOPER0--HYPHOPER0firefireNNOPER0whichwhichWDTOPER0wasbeVBDOPER0designeddesignVBNOPER0totoTOOPER0pavepaveVBOPER0thetheDTOPER0waywayNNOPER0forforINOPER0aaDTOPER0resumptionresumptionNNOPER0ofofINOPER0peacepeaceNNOPER0talkstalkNNSOPER0...OPER0(ROOT (S (NP (DT The) (JJ new) (NN violence)) (VP (VBD erupted) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NP (DT a) (NML (CD 48) (HYPH -) (NN hour)) (NN cease) (HYPH -) (NN fire)) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN designed) (S (VP (TO to) (VP (VB pave) (NP (DT the) (NN way)) (PP (IN for) (NP (NP (DT a) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks))))))))))))))))) (. .)))
+IsraelIsraelNNPGPEPER0's'sPOSOPER0actingactVBGOPER0ForeignForeignNNPOPER0MinisterMinisterNNPOPER0sayssayVBZOPER0hishePRP$OPER0nationnationNNOPER0isbeVBZOPER0hopinghopeVBGOPER0totoTOOPER0renewrenewVBOPER0thosethoseDTOPER0talkstalkNNSOPER0,,,OPER0butbutCCOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0isbeVBZOPER0takingtakeVBGOPER0nonoDTOPER0chanceschanceNNSOPER0...OPER0(ROOT (S (S (NP (NP (NNP Israel) (POS 's)) (VBG acting) (NNP Foreign) (NNP Minister)) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NN nation)) (VP (VBZ is) (VP (VBG hoping) (S (VP (TO to) (VP (VB renew) (NP (DT those) (NNS talks))))))))))) (, ,) (CC but) (S (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ is) (VP (VBG taking) (NP (DT no) (NNS chances))))) (. .)))
+BarakBarakNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0willwillMDOPER0proceedproceedVBOPER0withwithINOPER0plansplanNNSOPER0totoTOOPER0formformVBOPER0aaDTOPER0nationalnationalJJOPER0governmentgovernmentNNOPER0ofofINOPER0emergencyemergencyNNOPER0...OPER0(ROOT (S (NP (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB proceed) (PP (IN with) (NP (NNS plans) (S (VP (TO to) (VP (VB form) (NP (NP (DT a) (JJ national) (NN government)) (PP (IN of) (NP (NN emergency)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 0 parsed as (NP (NP (NN Violence)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (CD eight) (NNPS Palestinians))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT All))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ new) (NN violence))
+sid=2 spanning 26 until 28 headed by 27 parsed as (NP (NN peace) (NNS talks))
+sid=3 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Israel) (POS 's)) (VBG acting) (NNP Foreign) (NNP Minister))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Israel) (POS 's))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NN nation))
+sid=3 spanning 6 until 7 headed by 6 parsed as his
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT those) (NNS talks))
+sid=3 spanning 16 until 20 headed by 19 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 0 parsed as (NP (NP (NN Violence)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))
+sid=0 spanning 2 until 5 headed by 4 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=0 spanning 2 until 7 headed by 4 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Gaza))
+sid=0 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT the) (NNS lives)) (PP (IN of) (NP (CD eight) (NNPS Palestinians))))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (CD eight) (NNPS Palestinians))
+sid=1 spanning 5 until 9 headed by 5 parsed as (NP (NP (NNS skirmishes)) (PP (IN with) (NP (JJ Israeli) (NNS soldiers))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ new) (NN violence))
+sid=2 spanning 5 until 28 headed by 6 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NP (DT a) (NML (CD 48) (HYPH -) (NN hour)) (NN cease) (HYPH -) (NN fire)) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN designed) (S (VP (TO to) (VP (VB pave) (NP (DT the) (NN way)) (PP (IN for) (NP (NP (DT a) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks)))))))))))))))
+sid=2 spanning 8 until 28 headed by 14 parsed as (NP (NP (DT a) (NML (CD 48) (HYPH -) (NN hour)) (NN cease) (HYPH -) (NN fire)) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN designed) (S (VP (TO to) (VP (VB pave) (NP (DT the) (NN way)) (PP (IN for) (NP (NP (DT a) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks)))))))))))))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN way))
+sid=2 spanning 23 until 28 headed by 24 parsed as (NP (NP (DT a) (NN resumption)) (PP (IN of) (NP (NN peace) (NNS talks))))
+sid=2 spanning 26 until 28 headed by 27 parsed as (NP (NN peace) (NNS talks))
+sid=3 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Israel) (POS 's)) (VBG acting) (NNP Foreign) (NNP Minister))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Israel) (POS 's))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NN nation))
+sid=3 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT those) (NNS talks))
+sid=3 spanning 16 until 20 headed by 19 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=3 spanning 22 until 24 headed by 23 parsed as (NP (DT no) (NNS chances))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=4 spanning 6 until 14 headed by 6 parsed as (NP (NNS plans) (S (VP (TO to) (VP (VB form) (NP (NP (DT a) (JJ national) (NN government)) (PP (IN of) (NP (NN emergency))))))))
+sid=4 spanning 9 until 14 headed by 11 parsed as (NP (NP (DT a) (JJ national) (NN government)) (PP (IN of) (NP (NN emergency))))
+(end predicted mentions)
+---------gold clusters--------
+1 2 | { 'eight Palestinians' 'All' }
+4 9 | { 'peace talks' 'those talks' }
+0 3 | { 'Violence in the West Bank and Gaza' 'The new violence' }
+7 6 | { 'his nation' 'Israel 's' }
+12 11 10 | { 'he' 'Barak' 'Prime Minister Ehud Barak' }
+8 5 | { 'his' 'Israel 's acting Foreign Minister' }
+(end gold clusters)

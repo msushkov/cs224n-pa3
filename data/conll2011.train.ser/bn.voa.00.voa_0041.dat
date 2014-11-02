@@ -1,0 +1,142 @@
+---------gloss--------
+(0) [3m[31m{The US Navy}[0m has issued [1m[34m{a revised timetable of events leading to last week 's deadly bombing of the destroyer USS Cole in the Yemeni port of Aden}[0m . 
+(1) [35m{VOA}[0m [1m[32m{Pentagon}[0m correspondent Alex Belida reports , [1m[34m{the new timeline}[0m raises new questions about how [1m[31m{the apparent terrorist attack}[0m was carried out . 
+(2) [3m[31m{The Navy}[0m now says [1m[36m{the blast}[0m occurred nearly two hours after [1m[35m{the destroyer}[0m had [3m[35m{moored}[0m for refueling in [3m[33m{Aden Harbor}[0m , not during [3m[35m{the mooring operation itself}[0m . 
+(3) Originally [3m[31m{Navy}[0m officials said a small boat that assisted in securing [1m[35m{the ship 's}[0m lines or whose movements were masked by [3m[35m{the mooring operation}[0m pulled aside [1m[35m{the Cole}[0m and [1m[36m{blew}[0m up in [1m[31m{an apparent suicide attack}[0m . 
+(4) [1m[33m{A Navy spokesman , Commander Greg Smith}[0m offers no new explanation of [3m[34m{the circumstances leading to the blast}[0m , saying [3m[34m{that}[0m is now a matter for criminal investigators . 
+(5) However , [1m[33m{Commander Smith}[0m says , [3m[31m{the Navy}[0m remains firm in [3m[31m{its}[0m assessment that [1m[36m{the explosion}[0m was the result of [1m[31m{a terrorist attack}[0m and not a refueling accident , even though [1m[34m{the new time table}[0m confirms refueling was underway . 
+(6) [3m[32m{That}[0m raises questions about how a single boat could have approached without raising the suspicions of armed guards posted as part of the heightened alert status required for [1m[35m{the Cole 's}[0m port visit . 
+(7) [36m{Alex Belida}[0m , [35m{VOA News}[0m , [1m[32m{the Pentagon}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0041); part 000
+sentences:
+ThetheDTORGPER0USUSNNPORGPER0NavyNavyNNPORGPER0hashaveVBZOPER0issuedissueVBNOPER0aaDTOPER0revisedreviseVBNOPER0timetabletimetableNNOPER0ofofINOPER0eventseventNNSOPER0leadingleadVBGOPER0totoINOPER0lastlastJJDATEPER0weekweekNNDATEPER0's'sPOSDATEPER0deadlydeadlyJJOPER0bombingbombingNNOPER0ofofINOPER0thetheDTOPER0destroyerdestroyerNNOPER0USSUSSNNPPRODUCTPER0ColeColeNNPPRODUCTPER0ininINOPER0thetheDTOPER0YemeniYemeniNNPOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0...OPER0(ROOT (S (NP (DT The) (NNP US) (NNP Navy)) (VP (VBZ has) (VP (VBN issued) (NP (NP (DT a) (VBN revised) (NN timetable)) (PP (IN of) (NP (NP (NNS events)) (VP (VBG leading) (PP (IN to) (NP (NP (NP (JJ last) (NN week) (POS 's)) (JJ deadly) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NN destroyer)) (NP (NNP USS) (NNP Cole)))) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))))))))))) (. .)))
+VOAVOANNPORGPER0PentagonPentagonNNPORGPER0correspondentcorrespondentNNOPER0AlexAlexNNPPERSONPER0BelidaBelidaNNPPERSONPER0reportsreportVBZOPER0,,,OPER0thetheDTOPER0newnewJJOPER0timelinetimelineNNOPER0raisesraiseVBZOPER0newnewJJOPER0questionsquestionNNSOPER0aboutaboutINOPER0howhowWRBOPER0thetheDTOPER0apparentapparentJJOPER0terroristterroristJJOPER0attackattackNNOPER0wasbeVBDOPER0carriedcarryVBNOPER0outoutRPOPER0...OPER0(ROOT (S (NP (NML (NNP VOA) (NNP Pentagon) (NN correspondent)) (NNP Alex) (NNP Belida)) (VP (VBZ reports) (, ,) (SBAR (S (NP (DT the) (JJ new) (NN timeline)) (VP (VBZ raises) (NP (NP (JJ new) (NNS questions)) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ apparent) (JJ terrorist) (NN attack)) (VP (VBD was) (VP (VBN carried) (PRT (RP out)))))))))))) (. .)))
+ThetheDTOPER0NavyNavyNNPORGPER0nownowRBOPER0sayssayVBZOPER0thetheDTOPER0blastblastNNOPER0occurredoccurVBDOPER0nearlynearlyRBTIMEPER0twotwoCDTIMEPER0hourshourNNSTIMEPER0afterafterINOPER0thetheDTOPER0destroyerdestroyerNNOPER0hadhaveVBDOPER0mooredmoorVBNOPER0forforINOPER0refuelingrefuelVBGOPER0ininINOPER0AdenAdenNNPLOCPER0HarborHarborNNPLOCPER0,,,OPER0notnotRBOPER0duringduringINOPER0thetheDTOPER0mooringmooringNNOPER0operationoperationNNOPER0itselfitselfPRPOPER0...OPER0(ROOT (S (NP (DT The) (NNP Navy)) (ADVP (RB now)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN blast)) (VP (VBD occurred) (SBAR (NP (QP (RB nearly) (CD two)) (NNS hours)) (IN after) (S (NP (DT the) (NN destroyer)) (VP (VBD had) (VP (VBN moored) (PP (PP (IN for) (S (VP (VBG refueling) (PP (IN in) (NP (NNP Aden) (NNP Harbor)))))) (, ,) (RB not) (PP (IN during) (NP (DT the) (NN mooring) (NN operation)))) (NP (PRP itself)))))))))) (. .)))
+OriginallyoriginallyRBOPER0NavyNavyNNPORGPER0officialsofficialNNSOPER0saidsayVBDOPER0aaDTOPER0smallsmallJJOPER0boatboatNNOPER0thatthatWDTOPER0assistedassistVBNOPER0ininINOPER0securingsecureVBGOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0lineslineNNSOPER0ororCCOPER0whosewhoseWP$OPER0movementsmovementNNSOPER0werebeVBDOPER0maskedmaskVBNOPER0bybyINOPER0thetheDTOPER0mooringmooringNNOPER0operationoperationNNOPER0pulledpullVBDOPER0asideasideRPOPER0thetheDTOPER0ColeColeNNPPERSONPER0andandCCOPER0blewblowVBDOPER0upupRPOPER0ininINOPER0anaDTOPER0apparentapparentJJOPER0suicidesuicideNNOPER0attackattackNNOPER0...OPER0(ROOT (S (ADVP (RB Originally)) (NP (NNP Navy) (NNS officials)) (VP (VBD said) (SBAR (S (NP (NP (DT a) (JJ small) (NN boat)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBN assisted) (PP (IN in) (S (VP (VBG securing) (NP (NP (DT the) (NN ship) (POS 's)) (NNS lines)))))))) (CC or) (SBAR (WHNP (WP$ whose) (NNS movements)) (S (VP (VBD were) (VP (VBN masked) (PP (IN by) (NP (DT the) (NN mooring) (NN operation))))))))) (VP (VP (VBD pulled) (PRT (RP aside)) (NP (DT the) (NNP Cole))) (CC and) (VP (VBD blew) (PRT (RP up)) (PP (IN in) (NP (DT an) (JJ apparent) (NN suicide) (NN attack)))))))) (. .)))
+AaDTOPER0NavyNavyNNPORGPER0spokesmanspokesmanNNOPER0,,,OPER0CommanderCommanderNNPOPER0GregGregNNPPERSONPER0SmithSmithNNPPERSONPER0offersofferVBZOPER0nonoDTOPER0newnewJJOPER0explanationexplanationNNOPER0ofofINOPER0thetheDTOPER0circumstancescircumstanceNNSOPER0leadingleadVBGOPER0totoINOPER0thetheDTOPER0blastblastNNOPER0,,,OPER0sayingsayVBGOPER0thatthatDTOPER0isbeVBZOPER0nownowRBOPER0aaDTOPER0mattermatterNNOPER0forforINOPER0criminalcriminalJJOPER0investigatorsinvestigatorNNSOPER0...OPER0(ROOT (S (NP (NP (DT A) (NNP Navy) (NN spokesman)) (, ,) (NP (NNP Commander) (NNP Greg) (NNP Smith))) (VP (VBZ offers) (NP (NP (DT no) (JJ new) (NN explanation)) (PP (IN of) (NP (NP (DT the) (NNS circumstances)) (VP (VBG leading) (PP (IN to) (NP (DT the) (NN blast))))))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (DT that)) (VP (VBZ is) (ADVP (RB now)) (NP (NP (DT a) (NN matter)) (PP (IN for) (NP (JJ criminal) (NNS investigators)))))))))) (. .)))
+HoweverhoweverRBOPER0,,,OPER0CommanderCommanderNNPOPER0SmithSmithNNPPERSONPER0sayssayVBZOPER0,,,OPER0thetheDTOPER0NavyNavyNNPORGPER0remainsremainVBZOPER0firmfirmJJOPER0ininINOPER0itsitsPRP$OPER0assessmentassessmentNNOPER0thatthatINOPER0thetheDTOPER0explosionexplosionNNOPER0wasbeVBDOPER0thetheDTOPER0resultresultNNOPER0ofofINOPER0aaDTOPER0terroristterroristJJOPER0attackattackNNOPER0andandCCOPER0notnotRBOPER0aaDTOPER0refuelingrefuelingNNOPER0accidentaccidentNNOPER0,,,OPER0evenevenRBOPER0thoughthoughINOPER0thetheDTOPER0newnewJJOPER0timetimeNNOPER0tabletableNNOPER0confirmsconfirmVBZOPER0refuelingrefuelingNNOPER0wasbeVBDOPER0underwayunderwayJJOPER0...OPER0(ROOT (S (ADVP (RB However)) (PRN (, ,) (S (NP (NNP Commander) (NNP Smith)) (VP (VBZ says))) (, ,)) (NP (DT the) (NNP Navy)) (VP (VBZ remains) (ADJP (JJ firm) (PP (IN in) (NP (PRP$ its) (NN assessment)))) (SBAR (IN that) (S (NP (DT the) (NN explosion)) (VP (VBD was) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (DT a) (JJ terrorist) (NN attack)) (CC and) (NP (RB not) (DT a) (NN refueling) (NN accident))))) (, ,) (SBAR (ADVP (RB even)) (IN though) (S (NP (DT the) (JJ new) (NN time) (NN table)) (VP (VBZ confirms) (SBAR (S (NP (NN refueling)) (VP (VBD was) (ADJP (JJ underway)))))))))))) (. .)))
+ThatthatDTOPER0raisesraiseVBZOPER0questionsquestionNNSOPER0aboutaboutINOPER0howhowWRBOPER0aaDTOPER0singlesingleJJOPER0boatboatNNOPER0couldcouldMDOPER0havehaveVBOPER0approachedapproachVBNOPER0withoutwithoutINOPER0raisingraiseVBGOPER0thetheDTOPER0suspicionssuspicionNNSOPER0ofofINOPER0armedarmedJJOPER0guardsguardNNSOPER0postedpostVBNOPER0asasINOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0heightenedheightenedJJOPER0alertalertJJOPER0statusstatusNNOPER0requiredrequireVBNOPER0forforINOPER0thetheDTOPER0ColeColeNNPPERSONPER0's'sPOSOPER0portportNNOPER0visitvisitNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ raises) (NP (NP (NNS questions)) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (JJ single) (NN boat)) (VP (MD could) (VP (VB have) (VP (VBN approached) (PP (IN without) (S (VP (VBG raising) (NP (NP (DT the) (NNS suspicions)) (PP (IN of) (NP (NP (JJ armed) (NNS guards)) (VP (VBN posted) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (JJ heightened) (JJ alert) (NN status)) (VP (VBN required) (PP (IN for) (NP (NP (DT the) (NNP Cole) (POS 's)) (NN port) (NN visit))))))))))))))))))))))) (. .)))
+AlexAlexNNPPERSONPER0BelidaBelidaNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0,,,OPER0thetheDTOPER0PentagonPentagonNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP Alex) (NNP Belida)) (, ,) (NP (NNP VOA) (NNP News)) (, ,) (NP (DT the) (NNP Pentagon)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP US) (NNP Navy))
+sid=0 spanning 5 until 28 headed by 7 parsed as (NP (NP (DT a) (VBN revised) (NN timetable)) (PP (IN of) (NP (NP (NNS events)) (VP (VBG leading) (PP (IN to) (NP (NP (NP (JJ last) (NN week) (POS 's)) (JJ deadly) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NN destroyer)) (NP (NNP USS) (NNP Cole)))) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden)))))))))))
+sid=0 spanning 12 until 28 headed by 16 parsed as (NP (NP (NP (JJ last) (NN week) (POS 's)) (JJ deadly) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NN destroyer)) (NP (NNP USS) (NNP Cole)))) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))))
+sid=0 spanning 18 until 22 headed by 19 parsed as (NP (NP (DT the) (NN destroyer)) (NP (NNP USS) (NNP Cole)))
+sid=0 spanning 23 until 28 headed by 25 parsed as (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP VOA) (NNP Pentagon) (NN correspondent)) (NNP Alex) (NNP Belida))
+sid=1 spanning 0 until 1 headed by 0 parsed as VOA
+sid=1 spanning 1 until 2 headed by 1 parsed as Pentagon
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ new) (NN timeline))
+sid=1 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (JJ apparent) (JJ terrorist) (NN attack))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Navy))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN blast))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN destroyer))
+sid=2 spanning 14 until 15 headed by 14 parsed as moored
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (NNP Aden) (NNP Harbor))
+sid=2 spanning 23 until 27 headed by 25 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=2 spanning 26 until 27 headed by 26 parsed as (NP (PRP itself))
+sid=3 spanning 1 until 2 headed by 1 parsed as Navy
+sid=3 spanning 11 until 14 headed by 12 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=3 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=3 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NNP Cole))
+sid=3 spanning 29 until 30 headed by 29 parsed as blew
+sid=3 spanning 32 until 36 headed by 35 parsed as (NP (DT an) (JJ apparent) (NN suicide) (NN attack))
+sid=4 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT A) (NNP Navy) (NN spokesman)) (, ,) (NP (NNP Commander) (NNP Greg) (NNP Smith)))
+sid=4 spanning 1 until 2 headed by 1 parsed as Navy
+sid=4 spanning 12 until 18 headed by 13 parsed as (NP (NP (DT the) (NNS circumstances)) (VP (VBG leading) (PP (IN to) (NP (DT the) (NN blast)))))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN blast))
+sid=4 spanning 20 until 21 headed by 20 parsed as (NP (DT that))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (NNP Commander) (NNP Smith))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNP Navy))
+sid=5 spanning 11 until 28 headed by 12 parsed as (NP (PRP$ its) (NN assessment))
+sid=5 spanning 11 until 12 headed by 11 parsed as its
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN explosion))
+sid=5 spanning 20 until 23 headed by 22 parsed as (NP (NP (DT a) (JJ terrorist) (NN attack)) (CC and) (NP (RB not) (DT a) (NN refueling) (NN accident)))
+sid=5 spanning 31 until 35 headed by 34 parsed as (NP (DT the) (JJ new) (NN time) (NN table))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=6 spanning 28 until 31 headed by 29 parsed as (NP (DT the) (NNP Cole) (POS 's))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Alex) (NNP Belida))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=7 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNP Pentagon))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP US) (NNP Navy))
+sid=0 spanning 5 until 28 headed by 7 parsed as (NP (NP (DT a) (VBN revised) (NN timetable)) (PP (IN of) (NP (NP (NNS events)) (VP (VBG leading) (PP (IN to) (NP (NP (NP (JJ last) (NN week) (POS 's)) (JJ deadly) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NN destroyer)) (NP (NNP USS) (NNP Cole)))) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden)))))))))))
+sid=0 spanning 9 until 28 headed by 9 parsed as (NP (NP (NNS events)) (VP (VBG leading) (PP (IN to) (NP (NP (NP (JJ last) (NN week) (POS 's)) (JJ deadly) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NN destroyer)) (NP (NNP USS) (NNP Cole)))) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden)))))))))
+sid=0 spanning 12 until 15 headed by 13 parsed as (NP (JJ last) (NN week) (POS 's))
+sid=0 spanning 18 until 22 headed by 19 parsed as (NP (NP (DT the) (NN destroyer)) (NP (NNP USS) (NNP Cole)))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (NNP USS) (NNP Cole))
+sid=0 spanning 23 until 28 headed by 25 parsed as (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=0 spanning 27 until 28 headed by 27 parsed as (NP (NNP Aden))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP VOA) (NNP Pentagon) (NN correspondent)) (NNP Alex) (NNP Belida))
+sid=1 spanning 0 until 2 headed by 1 parsed as Pentagon
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ new) (NN timeline))
+sid=1 spanning 11 until 22 headed by 12 parsed as (NP (NP (JJ new) (NNS questions)) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ apparent) (JJ terrorist) (NN attack)) (VP (VBD was) (VP (VBN carried) (PRT (RP out))))))))
+sid=1 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (JJ apparent) (JJ terrorist) (NN attack))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Navy))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN blast))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (QP (RB nearly) (CD two)) (NNS hours))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN destroyer))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (NNP Aden) (NNP Harbor))
+sid=2 spanning 23 until 26 headed by 25 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=2 spanning 26 until 27 headed by 26 parsed as (NP (PRP itself))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (NNP Navy) (NNS officials))
+sid=3 spanning 1 until 2 headed by 1 parsed as Navy
+sid=3 spanning 4 until 24 headed by 6 parsed as (NP (NP (DT a) (JJ small) (NN boat)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBN assisted) (PP (IN in) (S (VP (VBG securing) (NP (NP (DT the) (NN ship) (POS 's)) (NNS lines)))))))) (CC or) (SBAR (WHNP (WP$ whose) (NNS movements)) (S (VP (VBD were) (VP (VBN masked) (PP (IN by) (NP (DT the) (NN mooring) (NN operation)))))))))
+sid=3 spanning 11 until 15 headed by 14 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NNS lines))
+sid=3 spanning 11 until 14 headed by 12 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=3 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN mooring) (NN operation))
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (DT the) (NNP Cole))
+sid=3 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NNP Cole))
+sid=3 spanning 32 until 36 headed by 35 parsed as (NP (DT an) (JJ apparent) (NN suicide) (NN attack))
+sid=4 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT A) (NNP Navy) (NN spokesman)) (, ,) (NP (NNP Commander) (NNP Greg) (NNP Smith)))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Navy) (NN spokesman))
+sid=4 spanning 1 until 2 headed by 1 parsed as Navy
+sid=4 spanning 4 until 7 headed by 6 parsed as (NP (NNP Commander) (NNP Greg) (NNP Smith))
+sid=4 spanning 8 until 18 headed by 10 parsed as (NP (NP (DT no) (JJ new) (NN explanation)) (PP (IN of) (NP (NP (DT the) (NNS circumstances)) (VP (VBG leading) (PP (IN to) (NP (DT the) (NN blast)))))))
+sid=4 spanning 12 until 18 headed by 13 parsed as (NP (NP (DT the) (NNS circumstances)) (VP (VBG leading) (PP (IN to) (NP (DT the) (NN blast)))))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN blast))
+sid=4 spanning 20 until 21 headed by 20 parsed as (NP (DT that))
+sid=4 spanning 23 until 28 headed by 24 parsed as (NP (NP (DT a) (NN matter)) (PP (IN for) (NP (JJ criminal) (NNS investigators))))
+sid=4 spanning 26 until 28 headed by 27 parsed as (NP (JJ criminal) (NNS investigators))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (NNP Commander) (NNP Smith))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNP Navy))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (PRP$ its) (NN assessment))
+sid=5 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN explosion))
+sid=5 spanning 17 until 28 headed by 18 parsed as (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (DT a) (JJ terrorist) (NN attack)) (CC and) (NP (RB not) (DT a) (NN refueling) (NN accident)))))
+sid=5 spanning 20 until 28 headed by 22 parsed as (NP (NP (DT a) (JJ terrorist) (NN attack)) (CC and) (NP (RB not) (DT a) (NN refueling) (NN accident)))
+sid=5 spanning 20 until 23 headed by 22 parsed as (NP (DT a) (JJ terrorist) (NN attack))
+sid=5 spanning 31 until 35 headed by 34 parsed as (NP (DT the) (JJ new) (NN time) (NN table))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=6 spanning 2 until 33 headed by 2 parsed as (NP (NP (NNS questions)) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (JJ single) (NN boat)) (VP (MD could) (VP (VB have) (VP (VBN approached) (PP (IN without) (S (VP (VBG raising) (NP (NP (DT the) (NNS suspicions)) (PP (IN of) (NP (NP (JJ armed) (NNS guards)) (VP (VBN posted) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (JJ heightened) (JJ alert) (NN status)) (VP (VBN required) (PP (IN for) (NP (NP (DT the) (NNP Cole) (POS 's)) (NN port) (NN visit))))))))))))))))))))))
+sid=6 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ single) (NN boat))
+sid=6 spanning 13 until 33 headed by 14 parsed as (NP (NP (DT the) (NNS suspicions)) (PP (IN of) (NP (NP (JJ armed) (NNS guards)) (VP (VBN posted) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (JJ heightened) (JJ alert) (NN status)) (VP (VBN required) (PP (IN for) (NP (NP (DT the) (NNP Cole) (POS 's)) (NN port) (NN visit))))))))))))
+sid=6 spanning 16 until 33 headed by 17 parsed as (NP (NP (JJ armed) (NNS guards)) (VP (VBN posted) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (JJ heightened) (JJ alert) (NN status)) (VP (VBN required) (PP (IN for) (NP (NP (DT the) (NNP Cole) (POS 's)) (NN port) (NN visit))))))))))
+sid=6 spanning 20 until 33 headed by 20 parsed as (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (JJ heightened) (JJ alert) (NN status)) (VP (VBN required) (PP (IN for) (NP (NP (DT the) (NNP Cole) (POS 's)) (NN port) (NN visit)))))))
+sid=6 spanning 22 until 33 headed by 25 parsed as (NP (NP (DT the) (JJ heightened) (JJ alert) (NN status)) (VP (VBN required) (PP (IN for) (NP (NP (DT the) (NNP Cole) (POS 's)) (NN port) (NN visit)))))
+sid=6 spanning 28 until 33 headed by 32 parsed as (NP (NP (DT the) (NNP Cole) (POS 's)) (NN port) (NN visit))
+sid=6 spanning 28 until 31 headed by 29 parsed as (NP (DT the) (NNP Cole) (POS 's))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Alex) (NNP Belida))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=7 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNP Pentagon))
+(end predicted mentions)
+---------gold clusters--------
+6 38 | { 'VOA' 'VOA News' }
+5 37 | { 'VOA Pentagon correspondent Alex Belida' 'Alex Belida' }
+9 33 2 22 | { 'the apparent terrorist attack' 'a terrorist attack' 'last week 's deadly bombing of the destroyer USS Cole in the Yemeni port of Aden' 'an apparent suicide attack' }
+39 7 | { 'the Pentagon' 'Pentagon' }
+28 23 | { 'Commander Smith' 'A Navy spokesman , Commander Greg Smith' }
+1 34 8 | { 'a revised timetable of events leading to last week 's deadly bombing of the destroyer USS Cole in the Yemeni port of Aden' 'the new time table' 'the new timeline' }
+3 18 12 20 36 | { 'the destroyer USS Cole' 'the ship 's' 'the destroyer' 'the Cole' 'the Cole 's' }
+32 11 26 21 | { 'the explosion' 'the blast' 'the blast' 'blew' }
+29 0 24 10 31 17 | { 'the Navy' 'The US Navy' 'Navy' 'The Navy' 'its' 'Navy' }
+30 35 | { 'its assessment that the explosion was the result of a terrorist attack and not a refueling accident' 'That' }
+4 14 | { 'the Yemeni port of Aden' 'Aden Harbor' }
+25 27 | { 'the circumstances leading to the blast' 'that' }
+16 19 13 15 | { 'itself' 'the mooring operation' 'moored' 'the mooring operation itself' }
+(end gold clusters)

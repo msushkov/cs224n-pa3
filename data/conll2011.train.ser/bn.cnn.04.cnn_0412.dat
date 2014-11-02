@@ -1,0 +1,47 @@
+---------gloss--------
+(0) In Michigan , a second straight night and into this morning , hundreds of people have been [32m{rioting}[0m in [33m{Benton Harbor}[0m . 
+(1) A man on a motorcycle was killed while being chased about I police , [32m{the violence}[0m broke out . 
+(2) The governor has declared a state of emergency . 
+(3) Mark Alberts from our affiliate has more from [33m{Benton Harbor}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0412); part 000
+sentences:
+IninINOPER0MichiganMichiganNNPGPEPER0,,,OPER0aaDTDATEPER0secondsecondJJDATEPER0straightstraightJJDATEPER0nightnightNNTIMEPER0andandCCOPER0intointoINOPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0,,,OPER0hundredshundredNNSCARDINALPER0ofofINOPER0peoplepeopleNNSOPER0havehaveVBPOPER0beenbeVBNOPER0riotingriotingNNOPER0ininINOPER0BentonBentonNNPGPEPER0HarborHarborNNPGPEPER0...OPER0(ROOT (S (PP (PP (IN In) (NP (NP (NNP Michigan)) (, ,) (NP (DT a) (JJ second) (JJ straight) (NN night)))) (CC and) (PP (IN into) (NP (DT this) (NN morning)))) (, ,) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NNS people)))) (VP (VBP have) (VP (VBN been) (NP (NP (NN rioting)) (PP (IN in) (NP (NNP Benton) (NNP Harbor)))))) (. .)))
+AaDTOPER0manmanNNOPER0ononINOPER0aaDTOPER0motorcyclemotorcycleNNOPER0wasbeVBDOPER0killedkillVBNOPER0whilewhileINOPER0beingbeVBGOPER0chasedchaseVBDOPER0aboutaboutINOPER0IINNPOPER0policepoliceNNSOPER0,,,OPER0thetheDTOPER0violenceviolenceNNOPER0brokebreakVBDOPER0outoutRPOPER0...OPER0(ROOT (S (S (NP (NP (DT A) (NN man)) (PP (IN on) (NP (DT a) (NN motorcycle)))) (VP (VBD was) (VP (VBN killed) (SBAR (IN while) (S (VP (VBG being) (VP (VBD chased) (PP (IN about) (NP (NNP I) (NNS police)))))))))) (, ,) (NP (DT the) (NN violence)) (VP (VBD broke) (PRT (RP out))) (. .)))
+ThetheDTOPER0governorgovernorNNOPER0hashaveVBZOPER0declareddeclareVBNOPER0aaDTOPER0statestateNNOPER0ofofINOPER0emergencyemergencyNNOPER0...OPER0(ROOT (S (NP (DT The) (NN governor)) (VP (VBZ has) (VP (VBN declared) (NP (NP (DT a) (NN state)) (PP (IN of) (NP (NN emergency)))))) (. .)))
+MarkMarkNNPPERSONPER0AlbertsAlbertsNNPPERSONPER0fromfromINOPER0ourwePRP$OPER0affiliateaffiliateNNOPER0hashaveVBZOPER0moremoreJJROPER0fromfromINOPER0BentonBentonNNPGPEPER0HarborHarborNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP Mark) (NNP Alberts)) (PP (IN from) (NP (PRP$ our) (NN affiliate)))) (VP (VBZ has) (NP (NP (JJR more)) (PP (IN from) (NP (NNP Benton) (NNP Harbor))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NP (NN rioting)) (PP (IN in) (NP (NNP Benton) (NNP Harbor))))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (NNP Benton) (NNP Harbor))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN violence))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (NNP Benton) (NNP Harbor))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Michigan)) (, ,) (NP (DT a) (JJ second) (JJ straight) (NN night)))
+sid=0 spanning 1 until 7 headed by 1 parsed as (NP (NP (NNP Michigan)) (, ,) (NP (DT a) (JJ second) (JJ straight) (NN night)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (DT a) (JJ second) (JJ straight) (NN night))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (DT a) (JJ second) (JJ straight) (NN night))
+sid=0 spanning 3 until 6 headed by 5 parsed as straight
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT this) (NN morning))
+sid=0 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNS hundreds)) (PP (IN of) (NP (NNS people))))
+sid=0 spanning 17 until 21 headed by 17 parsed as (NP (NP (NN rioting)) (PP (IN in) (NP (NNP Benton) (NNP Harbor))))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (NNP Benton) (NNP Harbor))
+sid=1 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT A) (NN man)) (PP (IN on) (NP (DT a) (NN motorcycle))))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN motorcycle))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NNP I) (NNS police))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN violence))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN governor))
+sid=2 spanning 4 until 8 headed by 5 parsed as (NP (NP (DT a) (NN state)) (PP (IN of) (NP (NN emergency))))
+sid=3 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Mark) (NNP Alberts)) (PP (IN from) (NP (PRP$ our) (NN affiliate))))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ our) (NN affiliate))
+sid=3 spanning 3 until 4 headed by 3 parsed as (PRP$ our)
+sid=3 spanning 6 until 10 headed by 6 parsed as (NP (NP (JJR more)) (PP (IN from) (NP (NNP Benton) (NNP Harbor))))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (NNP Benton) (NNP Harbor))
+(end predicted mentions)
+---------gold clusters--------
+0 2 | { 'rioting' 'the violence' }
+1 3 | { 'Benton Harbor' 'Benton Harbor' }
+(end gold clusters)

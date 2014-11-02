@@ -1,0 +1,104 @@
+---------gloss--------
+(0) [4m[33m{That same storm system}[0m derailed a fundraisings trip from [4m[34m{Bill Clinton}[0m , and for a brief time [4m[33m{it}[0m made it impossible for [4m[34m{the head of the free world}[0m to watch [4m[34m{his}[0m Vice President [4m[35m{debate}[0m on public television . 
+(1) It was in all not a good day for [4m[34m{Bill Clinton}[0m [4m[32m{yesterday}[0m . 
+(2) Air Force One was stranded grounded by the heavy rains . 
+(3) At the hotel , [4m[33m{the storm}[0m knocked out the cable TV . 
+(4) [4m[34m{The President}[0m tried the TV in the bar . 
+(5) No luck . 
+(6) [4m[34m{The President 's}[0m aides arranged for [4m[34m{him}[0m to watch [4m[35m{it}[0m in a big screen TV in the denial of a big campaign donor . 
+(7) [4m[34m{He}[0m missed 45 minutes . 
+(8) Tonight [4m[34m{his}[0m bullet and bomb proof limousine broke down . 
+(9) Repair attempts were unsuccessful . 
+(10) [4m[34m{He}[0m was switched to a backup car . 
+(11) [4m[32m{The day}[0m got worse when [4m[34m{he}[0m urged all Americans to vote on November 2 . 
+(12) The election is on November 7 . 
+(end gloss)
+---------document--------
+(bn/mnb/00/mnb_0002); part 000
+sentences:
+ThatthatDTOPER0samesameJJOPER0stormstormNNOPER0systemsystemNNOPER0derailedderailVBDOPER0aaDTOPER0fundraisingsfundraisingNNSOPER0triptripNNPERSONPER0fromfromINPERSONPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0,,,OPER0andandCCOPER0forforINOPER0aaDTOPER0briefbriefJJOPER0timetimeNNOPER0ititPRPOPER0mademakeVBDOPER0ititPRPOPER0impossibleimpossibleJJOPER0forforINOPER0thetheDTOPER0headheadNNOPER0ofofINOPER0thetheDTOPER0freefreeJJOPER0worldworldNNOPER0totoTOOPER0watchwatchVBOPER0hishePRP$OPER0ViceViceNNPOPER0PresidentPresidentNNPOPER0debatedebateNNOPER0ononINOPER0publicpublicJJOPER0televisiontelevisionNNOPER0...OPER0(ROOT (S (S (NP (DT That) (JJ same) (NN storm) (NN system)) (VP (VBD derailed) (NP (NP (DT a) (NNS fundraisings) (NN trip)) (PP (IN from) (NP (NNP Bill) (NNP Clinton)))))) (, ,) (CC and) (S (PP (IN for) (NP (DT a) (JJ brief) (NN time))) (NP (PRP it)) (VP (VBD made) (S (NP (PRP it)) (ADJP (JJ impossible)) (SBAR (IN for) (S (NP (NP (DT the) (NN head)) (PP (IN of) (NP (DT the) (JJ free) (NN world)))) (VP (TO to) (VP (VB watch) (NP (NP (PRP$ his) (NML (NNP Vice) (NNP President)) (NN debate)) (PP (IN on) (NP (JJ public) (NN television))))))))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0ininINOPER0allallDTOPER0notnotRBOPER0aaDTDATEPER0goodgoodJJDATEPER0daydayNNDATEPER0forforINOPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (PP (IN in) (NP (NP (DT all) (ADJP (RB not) (DT a) (JJ good)) (NN day)) (PP (IN for) (NP (NNP Bill) (NNP Clinton))))) (NP (NN yesterday))) (. .)))
+AirAirNNPORGPER0ForceForceNNPORGPER0OneOneNNPORGPER0wasbeVBDOPER0strandedstrandVBNOPER0groundedgroundVBNOPER0bybyINOPER0thetheDTOPER0heavyheavyJJOPER0rainsrainNNSOPER0...OPER0(ROOT (S (NP (NML (NNP Air) (NNP Force)) (NNP One)) (VP (VBD was) (VP (VBN stranded) (S (VP (VBN grounded) (PP (IN by) (NP (DT the) (JJ heavy) (NNS rains))))))) (. .)))
+AtatINOPER0thetheDTOPER0hotelhotelNNOPER0,,,OPER0thetheDTOPER0stormstormNNOPER0knockedknockVBDOPER0outoutRPOPER0thetheDTOPER0cablecableNNOPER0TVtvNNOPER0...OPER0(ROOT (S (PP (IN At) (NP (DT the) (NN hotel))) (, ,) (NP (DT the) (NN storm)) (VP (VBD knocked) (PRT (RP out)) (NP (DT the) (NN cable) (NN TV))) (. .)))
+ThetheDTOPER0PresidentPresidentNNPOPER0triedtryVBDOPER0thetheDTOPER0TVtvNNOPER0ininINOPER0thetheDTOPER0barbarNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP President)) (VP (VBD tried) (S (NP (NP (DT the) (NN TV)) (PP (IN in) (NP (DT the) (NN bar)))))) (. .)))
+NonoDTOPER0luckluckNNOPER0...OPER0(ROOT (NP (DT No) (NN luck) (. .)))
+ThetheDTOPER0PresidentPresidentNNPOPER0's'sPOSOPER0aidesaideNNSOPER0arrangedarrangeVBDOPER0forforINOPER0himhePRPOPER0totoTOOPER0watchwatchVBOPER0ititPRPOPER0ininINOPER0aaDTOPER0bigbigJJOPER0screenscreenNNOPER0TVtvNNOPER0ininINOPER0thetheDTOPER0denialdenialNNOPER0ofofINOPER0aaDTOPER0bigbigJJOPER0campaigncampaignNNOPER0donordonorNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP President) (POS 's)) (NNS aides)) (VP (VBD arranged) (SBAR (IN for) (S (NP (PRP him)) (VP (TO to) (VP (VB watch) (NP (PRP it)) (PP (IN in) (NP (NP (DT a) (NML (JJ big) (NN screen)) (NN TV)) (PP (IN in) (NP (NP (DT the) (NN denial)) (PP (IN of) (NP (DT a) (JJ big) (NN campaign) (NN donor)))))))))))) (. .)))
+HehePRPOPER0missedmissVBDOPER04545CDTIMEPER0minutesminuteNNSTIMEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD missed) (NP (CD 45) (NNS minutes))) (. .)))
+TonighttonightNNTIMEPER0hishePRP$OPER0bulletbulletNNOPER0andandCCOPER0bombbombNNOPER0proofproofNNOPER0limousinelimousineNNOPER0brokebreakVBDOPER0downdownRPOPER0...OPER0(ROOT (S (NP (NP (NN Tonight)) (NP (PRP$ his) (NML (NN bullet) (CC and) (NN bomb)) (NN proof) (NN limousine))) (VP (VBD broke) (PRT (RP down))) (. .)))
+RepairrepairNNOPER0attemptsattemptNNSOPER0werebeVBDOPER0unsuccessfulunsuccessfulJJOPER0...OPER0(ROOT (S (NP (NN Repair) (NNS attempts)) (VP (VBD were) (ADJP (JJ unsuccessful))) (. .)))
+HehePRPOPER0wasbeVBDOPER0switchedswitchVBNOPER0totoINOPER0aaDTOPER0backupbackupJJOPER0carcarNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBN switched) (PP (IN to) (NP (DT a) (JJ backup) (NN car))))) (. .)))
+ThetheDTDATEPER0daydayNNDATEPER0gotgetVBDOPER0worseworseJJROPER0whenwhenWRBOPER0hehePRPOPER0urgedurgeVBDOPER0allallDTOPER0AmericansAmericansNNPSOPER0totoTOOPER0votevoteVBOPER0ononINOPER0NovemberNovemberNNPDATEPER022CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NN day)) (VP (VBD got) (ADJP (JJR worse)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD urged) (NP (DT all) (NNPS Americans)) (S (VP (TO to) (VP (VB vote) (PP (IN on) (NP (NNP November) (CD 2)))))))))) (. .)))
+ThetheDTOPER0electionelectionNNOPER0isbeVBZOPER0ononINOPER0NovemberNovemberNNPDATEPER077CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NN election)) (VP (VBZ is) (PP (IN on) (NP (NNP November) (CD 7)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT That) (JJ same) (NN storm) (NN system))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (NNP Bill) (NNP Clinton))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (PRP it))
+sid=0 spanning 22 until 28 headed by 23 parsed as (NP (NP (DT the) (NN head)) (PP (IN of) (NP (DT the) (JJ free) (NN world))))
+sid=0 spanning 33 until 34 headed by 33 parsed as (NP (NP (PRP$ his) (NML (NNP Vice) (NNP President)) (NN debate)) (PP (IN on) (NP (JJ public) (NN television))))
+sid=0 spanning 30 until 31 headed by 30 parsed as his
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Bill) (NNP Clinton))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NN yesterday))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN storm))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=6 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NNP President) (POS 's))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP him))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 1 until 2 headed by 1 parsed as his
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN day))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT That) (JJ same) (NN storm) (NN system))
+sid=0 spanning 7 until 11 headed by 7 parsed as (NP (NP (DT a) (NNS fundraisings) (NN trip)) (PP (IN from) (NP (NNP Bill) (NNP Clinton))))
+sid=0 spanning 5 until 11 headed by 7 parsed as (NP (NP (DT a) (NNS fundraisings) (NN trip)) (PP (IN from) (NP (NNP Bill) (NNP Clinton))))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (JJ brief) (NN time))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (PRP it))
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (PRP it))
+sid=0 spanning 22 until 28 headed by 23 parsed as (NP (NP (DT the) (NN head)) (PP (IN of) (NP (DT the) (JJ free) (NN world))))
+sid=0 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (JJ free) (NN world))
+sid=0 spanning 30 until 37 headed by 33 parsed as (NP (NP (PRP$ his) (NML (NNP Vice) (NNP President)) (NN debate)) (PP (IN on) (NP (JJ public) (NN television))))
+sid=0 spanning 30 until 31 headed by 30 parsed as (PRP$ his)
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (NP (DT all) (ADJP (RB not) (DT a) (JJ good)) (NN day)) (PP (IN for) (NP (NNP Bill) (NNP Clinton))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Bill) (NNP Clinton))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NN yesterday))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP Air) (NNP Force)) (NNP One))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ heavy) (NNS rains))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN hotel))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN storm))
+sid=3 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NN cable) (NN TV))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=4 spanning 3 until 8 headed by 4 parsed as (NP (NP (DT the) (NN TV)) (PP (IN in) (NP (DT the) (NN bar))))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN bar))
+sid=5 spanning 0 until 3 headed by 1 parsed as (NP (DT No) (NN luck) (. .))
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NNP President) (POS 's)) (NNS aides))
+sid=6 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NNP President) (POS 's))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP him))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=6 spanning 11 until 23 headed by 14 parsed as (NP (NP (DT a) (NML (JJ big) (NN screen)) (NN TV)) (PP (IN in) (NP (NP (DT the) (NN denial)) (PP (IN of) (NP (DT a) (JJ big) (NN campaign) (NN donor))))))
+sid=6 spanning 16 until 23 headed by 17 parsed as (NP (NP (DT the) (NN denial)) (PP (IN of) (NP (DT a) (JJ big) (NN campaign) (NN donor))))
+sid=6 spanning 19 until 23 headed by 22 parsed as (NP (DT a) (JJ big) (NN campaign) (NN donor))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (CD 45) (NNS minutes))
+sid=8 spanning 0 until 7 headed by 0 parsed as (NP (NP (NN Tonight)) (NP (PRP$ his) (NML (NN bullet) (CC and) (NN bomb)) (NN proof) (NN limousine)))
+sid=8 spanning 1 until 7 headed by 6 parsed as (NP (PRP$ his) (NML (NN bullet) (CC and) (NN bomb)) (NN proof) (NN limousine))
+sid=8 spanning 1 until 2 headed by 1 parsed as (PRP$ his)
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (NN Repair) (NNS attempts))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (JJ backup) (NN car))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN day))
+sid=11 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=11 spanning 12 until 14 headed by 12 parsed as (NP (NNP November) (CD 2))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN election))
+sid=12 spanning 4 until 6 headed by 4 parsed as (NP (NNP November) (CD 7))
+(end predicted mentions)
+---------gold clusters--------
+7 16 | { 'yesterday' 'The day' }
+0 2 8 | { 'That same storm system' 'it' 'the storm' }
+14 15 1 3 13 11 5 6 17 10 9 | { 'his' 'He' 'Bill Clinton' 'the head of the free world' 'He' 'him' 'his' 'Bill Clinton' 'he' 'The President 's' 'The President' }
+4 12 | { 'debate' 'it' }
+(end gold clusters)

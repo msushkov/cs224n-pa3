@@ -1,0 +1,100 @@
+---------gloss--------
+(0) [4m[35m{Israeli Prime Minister Ariel Sharon and Palestinian Prime Minister Mahmoud Abbas}[0m have [4m[31m{postponed}[0m Wednesday 's planned meeting on the Mideast peace plan . 
+(1) [4m[31m{It}[0m 's because of what 's being described as `` scheduling conflicts . '' 
+(2) Palestinian officials say [4m[35m{the two leaders}[0m may try to meet on Thursday instead . 
+(3) Palestinian advisers say [4m[36m{Abbas}[0m will call for immediate implementation of [4m[33m{the U.S. backed road map to peace}[0m . 
+(4) [4m[33m{That}[0m would include an end to Israeli military occupation of Palestinian areas and a freeze on settlement expansion . 
+(5) Israeli sources say [4m[32m{Sharon}[0m will repeat [4m[32m{his}[0m position that the Palestinians must first crack down on Islamic militant groups , like Hamas . 
+(6) Monday , [4m[32m{Sharon}[0m startled many people when [4m[32m{he}[0m called for an end to the Israeli occupation of Palestinian areas . 
+(7) [4m[32m{He}[0m later released a clarifying statement saying [4m[32m{he}[0m was referring to the more than 3 million Palestinians now under Israeli military control and not to [4m[34m{the land itself}[0m . 
+(8) [4m[32m{Sharon}[0m says [4m[34m{the Palestinian territories}[0m remain disputed land . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0227); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0ArielArielNNPPERSONPER0SharonSharonNNPPERSONPER0andandCCOPER0PalestinianpalestinianJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0MahmoudMahmoudNNPPERSONPER0AbbasAbbasNNPPERSONPER0havehaveVBPOPER0postponedpostponeVBNOPER0WednesdayWednesdayNNPDATEPER0's'sPOSOPER0plannedplannedJJOPER0meetingmeetingNNOPER0ononINOPER0thetheDTOPER0MideastMideastNNPLOCPER0peacepeaceNNOPER0planplanNNOPER0...OPER0(ROOT (S (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ariel) (NNP Sharon)) (CC and) (NP (NML (JJ Palestinian) (NNP Prime) (NNP Minister)) (NNP Mahmoud) (NNP Abbas))) (VP (VBP have) (VP (VBN postponed) (NP (NP (NP (NNP Wednesday) (POS 's)) (JJ planned) (NN meeting)) (PP (IN on) (NP (DT the) (NNP Mideast) (NN peace) (NN plan)))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0becausebecauseINOPER0ofofINOPER0whatwhatWPOPER0'sbeVBZOPER0beingbeVBGOPER0describeddescribeVBNOPER0asasINOPER0``````OschedulingschedulingNNOPER1conflictsconflictNNSOPER1...OPER1''''''OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (PP (IN because) (IN of) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG being) (VP (VBN described) (PP (IN as) (`` ``) (NP (NN scheduling) (NNS conflicts)))))))))) (. .) ('' '')))
+PalestinianpalestinianJJOPER0officialsofficialNNSOPER0saysayVBPOPER0thetheDTOPER0twotwoCDCARDINALPER0leadersleaderNNSOPER0maymayMDOPER0trytryVBOPER0totoTOOPER0meetmeetVBOPER0ononINOPER0ThursdayThursdayNNPDATEPER0insteadinsteadRBOPER0...OPER0(ROOT (S (NP (JJ Palestinian) (NNS officials)) (VP (VBP say) (SBAR (S (NP (DT the) (CD two) (NNS leaders)) (VP (MD may) (VP (VB try) (S (VP (TO to) (VP (VB meet) (PP (IN on) (NP (NNP Thursday))) (ADVP (RB instead)))))))))) (. .)))
+PalestinianpalestinianJJOPER0advisersadviserNNSOPER0saysayVBPOPER0AbbasAbbasNNPORGPER0willwillMDOPER0callcallVBOPER0forforINOPER0immediateimmediateJJOPER0implementationimplementationNNOPER0ofofINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0backedbackVBNOPER0roadroadNNOPER0mapmapNNOPER0totoINOPER0peacepeaceNNOPER0...OPER0(ROOT (S (NP (JJ Palestinian) (NNS advisers)) (VP (VBP say) (SBAR (S (NP (NNP Abbas)) (VP (MD will) (VP (VB call) (PP (IN for) (NP (NP (JJ immediate) (NN implementation)) (PP (IN of) (NP (NP (DT the) (ADJP (NNP U.S.) (VBN backed)) (NN road) (NN map)) (PP (IN to) (NP (NN peace)))))))))))) (. .)))
+ThatthatDTOPER0wouldwouldMDOPER0includeincludeVBOPER0anaDTOPER0endendNNOPER0totoINOPER0IsraeliisraeliJJOPER0militarymilitaryJJOPER0occupationoccupationNNOPER0ofofINOPER0PalestinianpalestinianJJOPER0areasareaNNSOPER0andandCCOPER0aaDTOPER0freezefreezeNNOPER0ononINOPER0settlementsettlementNNOPER0expansionexpansionNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (MD would) (VP (VB include) (NP (NP (DT an) (NN end)) (PP (IN to) (NP (NP (NP (JJ Israeli) (JJ military) (NN occupation)) (PP (IN of) (NP (JJ Palestinian) (NNS areas)))) (CC and) (NP (NP (DT a) (NN freeze)) (PP (IN on) (NP (NN settlement) (NN expansion))))))))) (. .)))
+IsraeliisraeliJJOPER0sourcessourceNNSOPER0saysayVBPOPER0SharonSharonNNPORGPER0willwillMDOPER0repeatrepeatVBOPER0hishePRP$OPER0positionpositionNNOPER0thatthatINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0mustmustMDOPER0firstfirstRBOPER0crackcrackVBOPER0downdownRPOPER0ononINOPER0IslamicislamicJJOPER0militantmilitantJJOPER0groupsgroupNNSOPER0,,,OPER0likelikeINOPER0HamasHamasNNPORGPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS sources)) (VP (VBP say) (SBAR (S (NP (NNP Sharon)) (VP (MD will) (VP (VB repeat) (NP (PRP$ his) (NN position) (SBAR (IN that) (S (NP (DT the) (NNPS Palestinians)) (VP (MD must) (ADVP (RB first)) (VP (VB crack) (PRT (RP down)) (PP (IN on) (NP (NP (JJ Islamic) (JJ militant) (NNS groups)) (, ,) (PP (IN like) (NP (NNP Hamas))))))))))))))) (. .)))
+MondayMondayNNPDATEPER0,,,OPER0SharonSharonNNPORGPER0startledstartleVBDOPER0manymanyJJOPER0peoplepeopleNNSOPER0whenwhenWRBOPER0hehePRPOPER0calledcallVBDOPER0forforINOPER0anaDTOPER0endendNNOPER0totoINOPER0thetheDTOPER0IsraeliisraeliJJOPER0occupationoccupationNNOPER0ofofINOPER0PalestinianpalestinianJJOPER0areasareaNNSOPER0...OPER0(ROOT (S (NP (NNP Monday)) (, ,) (NP (NNP Sharon)) (VP (VBD startled) (NP (JJ many) (NNS people)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD called) (PP (IN for) (NP (NP (DT an) (NN end)) (PP (IN to) (NP (NP (DT the) (JJ Israeli) (NN occupation)) (PP (IN of) (NP (JJ Palestinian) (NNS areas))))))))))) (. .)))
+HehePRPOPER0laterlaterRBOPER0releasedreleaseVBDOPER0aaDTOPER0clarifyingclarifyVBGOPER0statementstatementNNOPER0sayingsayVBGOPER0hehePRPOPER0wasbeVBDOPER0referringreferVBGOPER0totoINOPER0thetheDTOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER033CDCARDINALPER0millionmillionCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0nownowRBOPER0underunderINOPER0IsraeliisraeliJJOPER0militarymilitaryJJOPER0controlcontrolNNOPER0andandCCOPER0notnotRBOPER0totoINOPER0thetheDTOPER0landlandNNOPER0itselfitselfPRPOPER0...OPER0(ROOT (S (NP (PRP He)) (ADVP (RB later)) (VP (VBD released) (NP (NP (DT a) (VBG clarifying) (NN statement)) (VP (VBG saying) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (VBG referring) (PP (PP (IN to) (NP (NP (DT the) (QP (XS (JJR more) (IN than)) (CD 3) (CD million)) (NNPS Palestinians)) (PP (ADVP (RB now)) (IN under) (NP (JJ Israeli) (JJ military) (NN control))))) (CC and) (RB not) (PP (IN to) (NP (NP (DT the) (NN land)) (NP (PRP itself)))))))))))) (. .)))
+SharonSharonNNPORGPER0sayssayVBZOPER0thetheDTOPER0PalestinianpalestinianJJOPER0territoriesterritoryNNSOPER0remainremainVBPOPER0disputeddisputeVBNOPER0landlandNNOPER0...OPER0(ROOT (S (NP (NNP Sharon)) (VP (VBZ says) (SBAR (S (NP (DT the) (JJ Palestinian) (NNS territories)) (VP (VBP remain) (VP (VBN disputed) (NP (NN land))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ariel) (NNP Sharon)) (CC and) (NP (NML (JJ Palestinian) (NNP Prime) (NNP Minister)) (NNP Mahmoud) (NNP Abbas)))
+sid=0 spanning 0 until 11 headed by 4 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ariel) (NNP Sharon)) (CC and) (NP (NML (JJ Palestinian) (NNP Prime) (NNP Minister)) (NNP Mahmoud) (NNP Abbas)))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (NML (JJ Palestinian) (NNP Prime) (NNP Minister)) (NNP Mahmoud) (NNP Abbas))
+sid=0 spanning 12 until 13 headed by 12 parsed as postponed
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (CD two) (NNS leaders))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Abbas))
+sid=3 spanning 10 until 17 headed by 14 parsed as (NP (NP (DT the) (ADJP (NNP U.S.) (VBN backed)) (NN road) (NN map)) (PP (IN to) (NP (NN peace))))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NNP Sharon))
+sid=5 spanning 6 until 7 headed by 6 parsed as his
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (NNP Sharon))
+sid=6 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=7 spanning 25 until 28 headed by 26 parsed as (NP (NP (DT the) (NN land)) (NP (PRP itself)))
+sid=7 spanning 27 until 28 headed by 27 parsed as (NP (PRP itself))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Sharon))
+sid=8 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ Palestinian) (NNS territories))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ariel) (NNP Sharon)) (CC and) (NP (NML (JJ Palestinian) (NNP Prime) (NNP Minister)) (NNP Mahmoud) (NNP Abbas)))
+sid=0 spanning 0 until 11 headed by 4 parsed as (NP (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ariel) (NNP Sharon)) (CC and) (NP (NML (JJ Palestinian) (NNP Prime) (NNP Minister)) (NNP Mahmoud) (NNP Abbas)))
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ariel) (NNP Sharon))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (NML (JJ Palestinian) (NNP Prime) (NNP Minister)) (NNP Mahmoud) (NNP Abbas))
+sid=0 spanning 13 until 22 headed by 16 parsed as (NP (NP (NP (NNP Wednesday) (POS 's)) (JJ planned) (NN meeting)) (PP (IN on) (NP (DT the) (NNP Mideast) (NN peace) (NN plan))))
+sid=0 spanning 13 until 15 headed by 13 parsed as (NP (NNP Wednesday) (POS 's))
+sid=0 spanning 18 until 22 headed by 21 parsed as (NP (DT the) (NNP Mideast) (NN peace) (NN plan))
+sid=0 spanning 19 until 20 headed by 19 parsed as Mideast
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NN scheduling) (NNS conflicts))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (JJ Palestinian) (NNS officials))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (CD two) (NNS leaders))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNP Thursday))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Palestinian) (NNS advisers))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Abbas))
+sid=3 spanning 10 until 17 headed by 14 parsed as (NP (NP (DT the) (ADJP (NNP U.S.) (VBN backed)) (NN road) (NN map)) (PP (IN to) (NP (NN peace))))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=4 spanning 3 until 18 headed by 4 parsed as (NP (NP (DT an) (NN end)) (PP (IN to) (NP (NP (NP (JJ Israeli) (JJ military) (NN occupation)) (PP (IN of) (NP (JJ Palestinian) (NNS areas)))) (CC and) (NP (NP (DT a) (NN freeze)) (PP (IN on) (NP (NN settlement) (NN expansion)))))))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (JJ Palestinian) (NNS areas))
+sid=4 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT a) (NN freeze)) (PP (IN on) (NP (NN settlement) (NN expansion))))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (NN settlement) (NN expansion))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS sources))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NNP Sharon))
+sid=5 spanning 6 until 22 headed by 7 parsed as (NP (PRP$ his) (NN position) (SBAR (IN that) (S (NP (DT the) (NNPS Palestinians)) (VP (MD must) (ADVP (RB first)) (VP (VB crack) (PRT (RP down)) (PP (IN on) (NP (NP (JJ Islamic) (JJ militant) (NNS groups)) (, ,) (PP (IN like) (NP (NNP Hamas))))))))))
+sid=5 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNPS Palestinians))
+sid=5 spanning 16 until 22 headed by 18 parsed as (NP (NP (JJ Islamic) (JJ militant) (NNS groups)) (, ,) (PP (IN like) (NP (NNP Hamas))))
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (JJ Islamic) (JJ militant) (NNS groups))
+sid=5 spanning 21 until 22 headed by 21 parsed as (NP (NNP Hamas))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP Monday))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (NNP Sharon))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (JJ many) (NNS people))
+sid=6 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=6 spanning 10 until 19 headed by 11 parsed as (NP (NP (DT an) (NN end)) (PP (IN to) (NP (NP (DT the) (JJ Israeli) (NN occupation)) (PP (IN of) (NP (JJ Palestinian) (NNS areas))))))
+sid=6 spanning 13 until 19 headed by 15 parsed as (NP (NP (DT the) (JJ Israeli) (NN occupation)) (PP (IN of) (NP (JJ Palestinian) (NNS areas))))
+sid=6 spanning 17 until 19 headed by 18 parsed as (NP (JJ Palestinian) (NNS areas))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 3 until 28 headed by 5 parsed as (NP (NP (DT a) (VBG clarifying) (NN statement)) (VP (VBG saying) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (VBG referring) (PP (PP (IN to) (NP (NP (DT the) (QP (XS (JJR more) (IN than)) (CD 3) (CD million)) (NNPS Palestinians)) (PP (ADVP (RB now)) (IN under) (NP (JJ Israeli) (JJ military) (NN control))))) (CC and) (RB not) (PP (IN to) (NP (NP (DT the) (NN land)) (NP (PRP itself)))))))))))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=7 spanning 11 until 22 headed by 16 parsed as (NP (NP (DT the) (QP (XS (JJR more) (IN than)) (CD 3) (CD million)) (NNPS Palestinians)) (PP (ADVP (RB now)) (IN under) (NP (JJ Israeli) (JJ military) (NN control))))
+sid=7 spanning 25 until 28 headed by 26 parsed as (NP (NP (DT the) (NN land)) (NP (PRP itself)))
+sid=7 spanning 27 until 28 headed by 27 parsed as (NP (PRP itself))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Sharon))
+sid=8 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ Palestinian) (NNS territories))
+(end predicted mentions)
+---------gold clusters--------
+3 4 | { 'postponed' 'It' }
+9 14 11 13 17 0 10 12 | { 'Sharon' 'he' 'Sharon' 'He' 'Sharon' 'Israeli Prime Minister Ariel Sharon' 'his' 'he' }
+7 8 | { 'the U.S. backed road map to peace' 'That' }
+16 15 18 | { 'itself' 'the land itself' 'the Palestinian territories' }
+5 1 | { 'the two leaders' 'Israeli Prime Minister Ariel Sharon and Palestinian Prime Minister Mahmoud Abbas' }
+6 2 | { 'Abbas' 'Palestinian Prime Minister Mahmoud Abbas' }
+(end gold clusters)

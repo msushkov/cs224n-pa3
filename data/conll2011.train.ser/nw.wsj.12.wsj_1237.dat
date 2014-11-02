@@ -1,0 +1,56 @@
+---------gloss--------
+(0) [1m[31m{Birtcher Corp.}[0m said [1m[31m{it}[0m signed a definitive agreement with [36m{C.R. Bard Inc. , a Murray Hill , N.J. , maker of health - care products ,}[0m for [1m[33m{the purchase of the company 's Bard / EMS Electrosurgery division for about $ 11 million}[0m . 
+(1) [1m[31m{Birtcher , a maker of electronic medical equipment ,}[0m said [1m[33m{the transaction}[0m is expected to close on or before Nov. 30 . 
+(2) [1m[32m{Bard / EMS}[0m had 1988 sales of about $ 14 million , [1m[31m{Birtcher}[0m said . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1237); part 000
+sentences:
+BirtcherBirtcherNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0signedsignVBDOPER0aaDTOPER0definitivedefinitiveJJOPER0agreementagreementNNOPER0withwithINOPER0C.R.C.R.NNPORGPER0BardBardNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0aaDTGPEPER0MurrayMurrayNNPGPEPER0HillHillNNPGPEPER0,,,OPER0N.J.N.J.NNPGPEPER0,,,OPER0makermakerNNOPER0ofofINOPER0healthhealthNNOPER0--HYPHOPER0carecareNNOPER0productsproductNNSOPER0,,,OPER0forforINOPER0thetheDTOPER0purchasepurchaseNNOPER0ofofINOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0BardBardNNPORGPER0//SYMORGPER0EMSEMSNNPORGPER0ElectrosurgeryElectrosurgeryNNPORGPER0divisiondivisionNNOPER0forforINOPER0aboutaboutRBMONEYPER0$$$MONEYPER01111CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NNP Birtcher) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD signed) (NP (NP (DT a) (JJ definitive) (NN agreement)) (PP (IN with) (NP (NP (NNP C.R.) (NNP Bard) (NNP Inc.)) (, ,) (NP (NP (DT a) (NNP Murray) (NNP Hill)) (, ,) (NP (NNP N.J.))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NML (NN health) (HYPH -) (NN care)) (NNS products)))) (, ,)))) (PP (IN for) (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NML (NNP Bard) (SYM /) (NNP EMS) (NNP Electrosurgery)) (NN division))))) (PP (IN for) (NP (QP (RB about) ($ $) (CD 11) (CD million)))))))) (. .)))
+BirtcherBirtcherNNPORGPER0,,,OPER0aaDTOPER0makermakerNNOPER0ofofINOPER0electronicelectronicJJOPER0medicalmedicalJJOPER0equipmentequipmentNNOPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0transactiontransactionNNOPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0closecloseVBOPER0ononINOPER0ororCCOPER0beforebeforeINOPER0Nov.Nov.NNPDATEPER03030CDDATEPER0...OPER0(ROOT (S (NP (NP (NNP Birtcher)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ electronic) (JJ medical) (NN equipment)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN transaction)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB close) (PP (IN on) (CC or) (IN before) (NP (NNP Nov.) (CD 30))))))))))) (. .)))
+BardBardNNPORGPER0//SYMORGPER0EMSEMSNNPORGPER0hadhaveVBDOPER019881988CDDATEPER0salessaleNNSOPER0ofofINOPER0aboutaboutRBMONEYPER0$$$MONEYPER01414CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0BirtcherBirtcherNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NNP Bard) (SYM /) (NNP EMS)) (VP (VBD had) (NP (NP (CD 1988) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 14) (CD million))))))) (, ,) (NP (NNP Birtcher)) (VP (VBD said)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Birtcher) (NNP Corp.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 9 until 26 headed by 11 parsed as (NP (NP (NNP C.R.) (NNP Bard) (NNP Inc.)) (, ,) (NP (NP (DT a) (NNP Murray) (NNP Hill)) (, ,) (NP (NNP N.J.))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NML (NN health) (HYPH -) (NN care)) (NNS products)))) (, ,))
+sid=0 spanning 27 until 43 headed by 28 parsed as (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NML (NNP Bard) (SYM /) (NNP EMS) (NNP Electrosurgery)) (NN division))))
+sid=0 spanning 30 until 38 headed by 37 parsed as (NP (NP (DT the) (NN company) (POS 's)) (NML (NNP Bard) (SYM /) (NNP EMS) (NNP Electrosurgery)) (NN division))
+sid=0 spanning 30 until 33 headed by 31 parsed as (NP (DT the) (NN company) (POS 's))
+sid=1 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP Birtcher)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ electronic) (JJ medical) (NN equipment)))) (, ,))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN transaction))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NNP Bard) (SYM /) (NNP EMS))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Birtcher))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Birtcher) (NNP Corp.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 5 until 26 headed by 7 parsed as (NP (NP (DT a) (JJ definitive) (NN agreement)) (PP (IN with) (NP (NP (NNP C.R.) (NNP Bard) (NNP Inc.)) (, ,) (NP (NP (DT a) (NNP Murray) (NNP Hill)) (, ,) (NP (NNP N.J.))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NML (NN health) (HYPH -) (NN care)) (NNS products)))) (, ,))))
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (NP (NNP C.R.) (NNP Bard) (NNP Inc.)) (, ,) (NP (NP (DT a) (NNP Murray) (NNP Hill)) (, ,) (NP (NNP N.J.))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NML (NN health) (HYPH -) (NN care)) (NNS products)))) (, ,))
+sid=0 spanning 9 until 26 headed by 11 parsed as (NP (NP (NNP C.R.) (NNP Bard) (NNP Inc.)) (, ,) (NP (NP (DT a) (NNP Murray) (NNP Hill)) (, ,) (NP (NNP N.J.))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NML (NN health) (HYPH -) (NN care)) (NNS products)))) (, ,))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (NP (DT a) (NNP Murray) (NNP Hill)) (, ,) (NP (NNP N.J.)))
+sid=0 spanning 13 until 18 headed by 15 parsed as (NP (NP (DT a) (NNP Murray) (NNP Hill)) (, ,) (NP (NNP N.J.)))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NNP N.J.))
+sid=0 spanning 19 until 25 headed by 19 parsed as (NP (NP (NN maker)) (PP (IN of) (NP (NML (NN health) (HYPH -) (NN care)) (NNS products))))
+sid=0 spanning 21 until 25 headed by 24 parsed as (NP (NML (NN health) (HYPH -) (NN care)) (NNS products))
+sid=0 spanning 27 until 38 headed by 28 parsed as (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NML (NNP Bard) (SYM /) (NNP EMS) (NNP Electrosurgery)) (NN division))))
+sid=0 spanning 30 until 38 headed by 37 parsed as (NP (NP (DT the) (NN company) (POS 's)) (NML (NNP Bard) (SYM /) (NNP EMS) (NNP Electrosurgery)) (NN division))
+sid=0 spanning 30 until 33 headed by 31 parsed as (NP (DT the) (NN company) (POS 's))
+sid=0 spanning 33 until 37 headed by 36 parsed as Electrosurgery
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Birtcher)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ electronic) (JJ medical) (NN equipment)))) (, ,))
+sid=1 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNP Birtcher)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ electronic) (JJ medical) (NN equipment)))) (, ,))
+sid=1 spanning 2 until 8 headed by 3 parsed as (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ electronic) (JJ medical) (NN equipment))))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN transaction))
+sid=1 spanning 19 until 21 headed by 19 parsed as (NP (NNP Nov.) (CD 30))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NNP Bard) (SYM /) (NNP EMS))
+sid=2 spanning 4 until 11 headed by 5 parsed as (NP (NP (CD 1988) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 14) (CD million)))))
+sid=2 spanning 4 until 5 headed by 4 parsed as 1988
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Birtcher))
+(end predicted mentions)
+---------gold clusters--------
+5 2 | { 'the company 's' 'C.R. Bard Inc. , a Murray Hill , N.J. , maker of health - care products ,' }
+1 0 6 9 | { 'it' 'Birtcher Corp.' 'Birtcher , a maker of electronic medical equipment ,' 'Birtcher' }
+8 4 | { 'Bard / EMS' 'the company 's Bard / EMS Electrosurgery division' }
+7 3 | { 'the transaction' 'the purchase of the company 's Bard / EMS Electrosurgery division for about $ 11 million' }
+(end gold clusters)

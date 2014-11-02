@@ -1,0 +1,59 @@
+---------gloss--------
+(0) And yet another familiar face will grace `` the West Wing '' in the incoming [32m{Bush}[0m administration -- [33m{Mary Matalin , a former senior campaign aide to President - elect Bush 's father}[0m . 
+(1) [33m{She}[0m 'll serve as assistant to [32m{the President}[0m and counselor to Vice President - elect Dick Cheney . 
+(2) No comment tonight on [31m{his}[0m wife 's new job , from [31m{Democratic strategist James Carville , who , after all , masterminded Bill Clinton 's successful race against President Bush in 1992}[0m . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0035); part 000
+sentences:
+AndandCCOPER0yetyetRBOPER0anotheranotherDTOPER0familiarfamiliarJJOPER0facefaceNNOPER0willwillMDOPER0gracegraceVBOPER0``````WORK_OF_ARTthetheDTWORK_OF_ARTPER1WestwestJJWORK_OF_ARTPER1WingwingNNWORK_OF_ARTPER1''''''WORK_OF_ARTPER0ininINOPER0thetheDTOPER0incomingincomingJJOPER0BushBushNNPPERSONPER0administrationadministrationNNOPER0----:OPER0MaryMaryNNPPERSONPER0MatalinMatalinNNPPERSONPER0,,,OPER0aaDTOPER0formerformerJJOPER0seniorseniorJJOPER0campaigncampaignNNOPER0aideaideNNOPER0totoINOPER0PresidentPresidentNNPOPER0--HYPHOPER0electelectNNPOPER0BushBushNNPPERSONPER0's'sPOSOPER0fatherfatherNNOPER0...OPER0(ROOT (S (CC And) (ADVP (RB yet)) (NP (DT another) (JJ familiar) (NN face)) (VP (MD will) (VP (VB grace) (NP (NP (NP (`` ``) (DT the) (JJ West) (NN Wing) ('' '')) (PP (IN in) (NP (DT the) (JJ incoming) (NNP Bush) (NN administration)))) (: --) (NP (NP (NNP Mary) (NNP Matalin)) (, ,) (NP (NP (DT a) (JJ former) (JJ senior) (NN campaign) (NN aide)) (PP (IN to) (NP (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's)) (NN father)))))))) (. .)))
+SheshePRPOPER0'll'llMDOPER0serveserveVBOPER0asasINOPER0assistantassistantNNOPER0totoINOPER0thetheDTOPER0PresidentPresidentNNPOPER0andandCCOPER0counselorcounselorNNOPER0totoINOPER0ViceViceNNPOPER0PresidentPresidentNNPOPER0--HYPHOPER0electelectNNPOPER0DickDickNNPPERSONPER0CheneyCheneyNNPPERSONPER0...OPER0(ROOT (S (NP (PRP She)) (VP (MD 'll) (VP (VB serve) (PP (IN as) (NP (NP (NN assistant)) (PP (IN to) (NP (NP (NP (DT the) (NNP President)) (CC and) (NP (NP (NN counselor)) (PP (IN to) (NP (NNP Vice) (NNP President) (HYPH -) (NNP elect))))) (NP (NNP Dick) (NNP Cheney)))))))) (. .)))
+NonoUHOPER0commentcommentVBOPER0tonighttonightNNTIMEPER0ononINOPER0hishePRP$OPER0wifewifeNNOPER0's'sPOSOPER0newnewJJOPER0jobjobNNOPER0,,,OPER0fromfromINOPER0DemocraticdemocraticJJOPER0strategiststrategistNNOPER0JamesJamesNNPPERSONPER0CarvilleCarvilleNNPPERSONPER0,,,OPER0whowhoWPOPER0,,,OPER0afterafterINOPER0allallDTOPER0,,,OPER0mastermindedmastermindVBDOPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0's'sPOSPERSONPER0successfulsuccessfulJJOPER0raceraceNNOPER0againstagainstINOPER0PresidentPresidentNNPOPER0BushBushNNPPERSONPER0ininINOPER019921992CDDATEPER0...OPER0(ROOT (S (INTJ (UH No)) (VP (VB comment) (NP (NN tonight)) (PP (IN on) (NP (NP (PRP$ his) (NN wife) (POS 's)) (JJ new) (NN job))) (, ,) (PP (IN from) (NP (NP (NML (JJ Democratic) (NN strategist)) (NNP James) (NNP Carville)) (, ,) (SBAR (WHNP (WP who)) (S (, ,) (PP (IN after) (NP (DT all))) (, ,) (VP (VBD masterminded) (NP (NP (NP (NNP Bill) (NNP Clinton) (POS 's)) (JJ successful) (NN race)) (PP (IN against) (NP (NNP President) (NNP Bush)))) (PP (IN in) (NP (CD 1992))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 15 until 16 headed by 15 parsed as Bush
+sid=0 spanning 18 until 33 headed by 19 parsed as (NP (NP (NNP Mary) (NNP Matalin)) (, ,) (NP (NP (DT a) (JJ former) (JJ senior) (NN campaign) (NN aide)) (PP (IN to) (NP (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's)) (NN father)))))
+sid=0 spanning 27 until 33 headed by 32 parsed as (NP (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's)) (NN father))
+sid=0 spanning 27 until 32 headed by 30 parsed as (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (NP (NP (DT the) (NNP President)) (CC and) (NP (NP (NN counselor)) (PP (IN to) (NP (NNP Vice) (NNP President) (HYPH -) (NNP elect))))) (NP (NNP Dick) (NNP Cheney)))
+sid=2 spanning 4 until 7 headed by 5 parsed as (NP (PRP$ his) (NN wife) (POS 's))
+sid=2 spanning 4 until 5 headed by 4 parsed as his
+sid=2 spanning 11 until 32 headed by 14 parsed as (NP (NP (NML (JJ Democratic) (NN strategist)) (NNP James) (NNP Carville)) (, ,) (SBAR (WHNP (WP who)) (S (, ,) (PP (IN after) (NP (DT all))) (, ,) (VP (VBD masterminded) (NP (NP (NP (NNP Bill) (NNP Clinton) (POS 's)) (JJ successful) (NN race)) (PP (IN against) (NP (NNP President) (NNP Bush)))) (PP (IN in) (NP (CD 1992)))))))
+sid=2 spanning 28 until 30 headed by 29 parsed as (NP (NNP President) (NNP Bush))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 5 headed by 4 parsed as (NP (DT another) (JJ familiar) (NN face))
+sid=0 spanning 7 until 33 headed by 10 parsed as (NP (NP (NP (`` ``) (DT the) (JJ West) (NN Wing) ('' '')) (PP (IN in) (NP (DT the) (JJ incoming) (NNP Bush) (NN administration)))) (: --) (NP (NP (NNP Mary) (NNP Matalin)) (, ,) (NP (NP (DT a) (JJ former) (JJ senior) (NN campaign) (NN aide)) (PP (IN to) (NP (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's)) (NN father))))))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (JJ incoming) (NNP Bush) (NN administration))
+sid=0 spanning 15 until 16 headed by 15 parsed as Bush
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (NP (NNP Mary) (NNP Matalin)) (, ,) (NP (NP (DT a) (JJ former) (JJ senior) (NN campaign) (NN aide)) (PP (IN to) (NP (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's)) (NN father)))))
+sid=0 spanning 18 until 33 headed by 19 parsed as (NP (NP (NNP Mary) (NNP Matalin)) (, ,) (NP (NP (DT a) (JJ former) (JJ senior) (NN campaign) (NN aide)) (PP (IN to) (NP (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's)) (NN father)))))
+sid=0 spanning 21 until 33 headed by 25 parsed as (NP (NP (DT a) (JJ former) (JJ senior) (NN campaign) (NN aide)) (PP (IN to) (NP (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's)) (NN father))))
+sid=0 spanning 27 until 33 headed by 32 parsed as (NP (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's)) (NN father))
+sid=0 spanning 27 until 32 headed by 30 parsed as (NP (NML (NNP President) (HYPH -) (NNP elect)) (NNP Bush) (POS 's))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=1 spanning 4 until 17 headed by 4 parsed as (NP (NP (NN assistant)) (PP (IN to) (NP (NP (NP (DT the) (NNP President)) (CC and) (NP (NP (NN counselor)) (PP (IN to) (NP (NNP Vice) (NNP President) (HYPH -) (NNP elect))))) (NP (NNP Dick) (NNP Cheney)))))
+sid=1 spanning 6 until 17 headed by 7 parsed as (NP (NP (NP (DT the) (NNP President)) (CC and) (NP (NP (NN counselor)) (PP (IN to) (NP (NNP Vice) (NNP President) (HYPH -) (NNP elect))))) (NP (NNP Dick) (NNP Cheney)))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNP President))
+sid=1 spanning 9 until 15 headed by 9 parsed as (NP (NP (NN counselor)) (PP (IN to) (NP (NNP Vice) (NNP President) (HYPH -) (NNP elect))))
+sid=1 spanning 11 until 15 headed by 14 parsed as (NP (NNP Vice) (NNP President) (HYPH -) (NNP elect))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (NNP Dick) (NNP Cheney))
+sid=2 spanning 4 until 9 headed by 8 parsed as (NP (NP (PRP$ his) (NN wife) (POS 's)) (JJ new) (NN job))
+sid=2 spanning 4 until 7 headed by 5 parsed as (NP (PRP$ his) (NN wife) (POS 's))
+sid=2 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (NP (NML (JJ Democratic) (NN strategist)) (NNP James) (NNP Carville)) (, ,) (SBAR (WHNP (WP who)) (S (, ,) (PP (IN after) (NP (DT all))) (, ,) (VP (VBD masterminded) (NP (NP (NP (NNP Bill) (NNP Clinton) (POS 's)) (JJ successful) (NN race)) (PP (IN against) (NP (NNP President) (NNP Bush)))) (PP (IN in) (NP (CD 1992)))))))
+sid=2 spanning 11 until 32 headed by 14 parsed as (NP (NP (NML (JJ Democratic) (NN strategist)) (NNP James) (NNP Carville)) (, ,) (SBAR (WHNP (WP who)) (S (, ,) (PP (IN after) (NP (DT all))) (, ,) (VP (VBD masterminded) (NP (NP (NP (NNP Bill) (NNP Clinton) (POS 's)) (JJ successful) (NN race)) (PP (IN against) (NP (NNP President) (NNP Bush)))) (PP (IN in) (NP (CD 1992)))))))
+sid=2 spanning 11 until 15 headed by 14 parsed as (NP (NML (JJ Democratic) (NN strategist)) (NNP James) (NNP Carville))
+sid=2 spanning 22 until 30 headed by 26 parsed as (NP (NP (NP (NNP Bill) (NNP Clinton) (POS 's)) (JJ successful) (NN race)) (PP (IN against) (NP (NNP President) (NNP Bush))))
+sid=2 spanning 22 until 25 headed by 23 parsed as (NP (NNP Bill) (NNP Clinton) (POS 's))
+sid=2 spanning 28 until 30 headed by 29 parsed as (NP (NNP President) (NNP Bush))
+sid=2 spanning 31 until 32 headed by 31 parsed as (NP (CD 1992))
+(end predicted mentions)
+---------gold clusters--------
+8 7 | { 'Democratic strategist James Carville , who , after all , masterminded Bill Clinton 's successful race against President Bush in 1992' 'his' }
+3 0 5 | { 'President - elect Bush 's' 'Bush' 'the President' }
+1 4 6 | { 'Mary Matalin , a former senior campaign aide to President - elect Bush 's father' 'She' 'his wife 's' }
+9 2 | { 'President Bush' 'President - elect Bush 's father' }
+(end gold clusters)

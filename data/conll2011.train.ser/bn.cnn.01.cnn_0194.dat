@@ -1,0 +1,43 @@
+---------gloss--------
+(0) [3m[34m{Ehud Barak}[0m is talking to [3m[34m{his}[0m team today . 
+(1) [3m[34m{He}[0m called a time - out after three days of [3m[33m{talks in the Egyptian resort of Tabah}[0m . 
+(2) Even if [3m[34m{Barak}[0m decides to go ahead with [3m[33m{the talks}[0m , [3m[33m{they}[0m would not restart before tomorrow 's funerals for the two slain Israelis . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0194); part 000
+sentences:
+EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0isbeVBZOPER0talkingtalkVBGOPER0totoINOPER0hishePRP$OPER0teamteamNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NNP Ehud) (NNP Barak)) (VP (VBZ is) (VP (VBG talking) (PP (IN to) (NP (NP (PRP$ his) (NN team)) (NP (NN today)))))) (. .)))
+HehePRPOPER0calledcallVBDOPER0aaDTOPER0timetimeNNOPER0--HYPHOPER0outoutNNOPER0afterafterINOPER0threethreeCDDATEPER0daysdayNNSDATEPER0ofofINOPER0talkstalkNNSOPER0ininINOPER0thetheDTOPER0EgyptianegyptianJJOPER0resortresortNNOPER0ofofINOPER0TabahTabahNNPORGPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD called) (NP (DT a) (NN time) (HYPH -) (NN out)) (PP (IN after) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (NNS talks)) (PP (IN in) (NP (NP (DT the) (JJ Egyptian) (NN resort)) (PP (IN of) (NP (NNP Tabah)))))))))) (. .)))
+EvenevenRBOPER0ififINOPER0BarakBarakNNPPERSONPER0decidesdecideVBZOPER0totoTOOPER0gogoVBOPER0aheadaheadRBOPER0withwithINOPER0thetheDTOPER0talkstalkNNSOPER0,,,OPER0theytheyPRPOPER0wouldwouldMDOPER0notnotRBOPER0restartrestartVBOPER0beforebeforeINOPER0tomorrowtomorrowNNDATEPER0's'sPOSOPER0funeralsfuneralNNSOPER0forforINOPER0thetheDTOPER0twotwoCDOPER0slainslayVBNOPER0IsraelisIsraelisNNPSOPER0...OPER0(ROOT (S (SBAR (ADVP (RB Even)) (IN if) (S (NP (NNP Barak)) (VP (VBZ decides) (S (VP (TO to) (VP (VB go) (ADVP (RB ahead)) (PP (IN with) (NP (DT the) (NNS talks))))))))) (, ,) (NP (PRP they)) (VP (MD would) (RB not) (VP (VB restart) (PP (IN before) (NP (NP (NP (NN tomorrow) (POS 's)) (NNS funerals)) (PP (IN for) (NP (DT the) (CD two) (VBN slain) (NNPS Israelis))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ehud) (NNP Barak))
+sid=0 spanning 5 until 6 headed by 5 parsed as his
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 10 until 17 headed by 10 parsed as (NP (NP (NNS talks)) (PP (IN in) (NP (NP (DT the) (JJ Egyptian) (NN resort)) (PP (IN of) (NP (NNP Tabah))))))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP Barak))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS talks))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ehud) (NNP Barak))
+sid=0 spanning 5 until 8 headed by 6 parsed as (NP (NP (PRP$ his) (NN team)) (NP (NN today)))
+sid=0 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (DT a) (NN time) (HYPH -) (NN out))
+sid=1 spanning 7 until 17 headed by 8 parsed as (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (NNS talks)) (PP (IN in) (NP (NP (DT the) (JJ Egyptian) (NN resort)) (PP (IN of) (NP (NNP Tabah))))))))
+sid=1 spanning 10 until 17 headed by 10 parsed as (NP (NP (NNS talks)) (PP (IN in) (NP (NP (DT the) (JJ Egyptian) (NN resort)) (PP (IN of) (NP (NNP Tabah))))))
+sid=1 spanning 12 until 17 headed by 14 parsed as (NP (NP (DT the) (JJ Egyptian) (NN resort)) (PP (IN of) (NP (NNP Tabah))))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Tabah))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP Barak))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNS talks))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=2 spanning 16 until 24 headed by 18 parsed as (NP (NP (NP (NN tomorrow) (POS 's)) (NNS funerals)) (PP (IN for) (NP (DT the) (CD two) (VBN slain) (NNPS Israelis))))
+sid=2 spanning 16 until 18 headed by 16 parsed as (NP (NN tomorrow) (POS 's))
+sid=2 spanning 20 until 24 headed by 23 parsed as (NP (DT the) (CD two) (VBN slain) (NNPS Israelis))
+(end predicted mentions)
+---------gold clusters--------
+3 6 5 | { 'talks in the Egyptian resort of Tabah' 'they' 'the talks' }
+2 4 0 1 | { 'He' 'Barak' 'Ehud Barak' 'his' }
+(end gold clusters)

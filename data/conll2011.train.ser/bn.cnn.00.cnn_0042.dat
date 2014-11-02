@@ -1,0 +1,59 @@
+---------gloss--------
+(0) [3m[34m{New violence}[0m was reported in the West Bank and Gaza today , in spite of [3m[32m{the U.S. - brokered cease - fire between Israel and the Palestinians}[0m . 
+(1) [3m[34m{The clashes}[0m took place as [3m[35m{Yasser Arafat 's Palestinian Authority}[0m reaffirmed [3m[35m{its}[0m commitment to [3m[32m{the truce}[0m . 
+(2) [3m[31m{Israel}[0m is to withdraw [3m[31m{its}[0m forces from several areas over the next two days , and [3m[33m{an Israeli official}[0m says [3m[33m{his}[0m country would honor [3m[32m{the cease - fire}[0m even if sporadic rock - throwing continues . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0042); part 000
+sentences:
+NewnewJJOPER0violenceviolenceNNOPER0wasbeVBDOPER0reportedreportVBNOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0todaytodayNNOPER0,,,OPER0ininINOPER0spitespiteNNOPER0ofofINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0--HYPHOPER0brokeredbrokerVBNOPER0ceaseceaseNNOPER0--HYPHOPER0firefireNNOPER0betweenbetweenINOPER0IsraelIsraelNNPGPEPER0andandCCOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (JJ New) (NN violence)) (VP (VBD was) (VP (VBN reported) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))) (NP (NN today)) (, ,) (PP (IN in) (NP (NP (NN spite)) (PP (IN of) (NP (NP (DT the) (ADJP (NNP U.S.) (HYPH -) (VBN brokered)) (NN cease) (HYPH -) (NN fire)) (PP (IN between) (NP (NP (NNP Israel)) (CC and) (NP (DT the) (NNPS Palestinians)))))))))) (. .)))
+ThetheDTOPER0clashesclashNNSOPER0tooktakeVBDOPER0placeplaceNNOPER0asasINOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0's'sPOSPERSONPER0PalestinianPalestinianNNPORGPER0AuthorityAuthorityNNPORGPER0reaffirmedreaffirmVBDOPER0itsitsPRP$OPER0commitmentcommitmentNNOPER0totoINOPER0thetheDTOPER0trucetruceNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS clashes)) (VP (VBD took) (NP (NN place)) (SBAR (IN as) (S (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (NNP Palestinian) (NNP Authority)) (VP (VBD reaffirmed) (NP (NP (PRP$ its) (NN commitment)) (PP (IN to) (NP (DT the) (NN truce)))))))) (. .)))
+IsraelIsraelNNPGPEPER0isbeVBZOPER0totoTOOPER0withdrawwithdrawVBOPER0itsitsPRP$OPER0forcesforceNNSOPER0fromfromINOPER0severalseveralJJOPER0areasareaNNSOPER0overoverINOPER0thetheDTDATEPER0nextnextJJDATEPER0twotwoCDDATEPER0daysdayNNSDATEPER0,,,OPER0andandCCOPER0anaDTOPER0IsraeliisraeliJJOPER0officialofficialNNOPER0sayssayVBZOPER0hishePRP$OPER0countrycountryNNOPER0wouldwouldMDOPER0honorhonorVBOPER0thetheDTOPER0ceaseceaseNNOPER0--HYPHOPER0firefireNNOPER0evenevenRBOPER0ififINOPER0sporadicsporadicJJOPER0rockrockNNOPER0--HYPHOPER0throwingthrowingNNOPER0continuescontinueVBZOPER0...OPER0(ROOT (S (S (NP (NNP Israel)) (VP (VBZ is) (S (VP (TO to) (VP (VB withdraw) (NP (PRP$ its) (NNS forces)) (PP (IN from) (NP (NP (JJ several) (NNS areas)) (PP (IN over) (NP (DT the) (JJ next) (CD two) (NNS days)))))))))) (, ,) (CC and) (S (NP (DT an) (JJ Israeli) (NN official)) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NN country)) (VP (MD would) (VP (VB honor) (NP (DT the) (NN cease) (HYPH -) (NN fire)) (SBAR (ADVP (RB even)) (IN if) (S (NP (JJ sporadic) (NN rock) (HYPH -) (NN throwing)) (VP (VBZ continues)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ New) (NN violence))
+sid=0 spanning 15 until 27 headed by 21 parsed as (NP (NP (DT the) (ADJP (NNP U.S.) (HYPH -) (VBN brokered)) (NN cease) (HYPH -) (NN fire)) (PP (IN between) (NP (NP (NNP Israel)) (CC and) (NP (DT the) (NNPS Palestinians)))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS clashes))
+sid=1 spanning 5 until 10 headed by 9 parsed as (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (NNP Palestinian) (NNP Authority))
+sid=1 spanning 11 until 12 headed by 11 parsed as its
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN truce))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=2 spanning 4 until 5 headed by 4 parsed as its
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (DT an) (JJ Israeli) (NN official))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (PRP$ his) (NN country))
+sid=2 spanning 20 until 21 headed by 20 parsed as his
+sid=2 spanning 24 until 28 headed by 27 parsed as (NP (DT the) (NN cease) (HYPH -) (NN fire))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=0 spanning 5 until 10 headed by 7 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Gaza))
+sid=0 spanning 13 until 27 headed by 13 parsed as (NP (NP (NN spite)) (PP (IN of) (NP (NP (DT the) (ADJP (NNP U.S.) (HYPH -) (VBN brokered)) (NN cease) (HYPH -) (NN fire)) (PP (IN between) (NP (NP (NNP Israel)) (CC and) (NP (DT the) (NNPS Palestinians)))))))
+sid=0 spanning 15 until 27 headed by 21 parsed as (NP (NP (DT the) (ADJP (NNP U.S.) (HYPH -) (VBN brokered)) (NN cease) (HYPH -) (NN fire)) (PP (IN between) (NP (NP (NNP Israel)) (CC and) (NP (DT the) (NNPS Palestinians)))))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NP (NNP Israel)) (CC and) (NP (DT the) (NNPS Palestinians)))
+sid=0 spanning 23 until 27 headed by 23 parsed as (NP (NP (NNP Israel)) (CC and) (NP (DT the) (NNPS Palestinians)))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS clashes))
+sid=1 spanning 5 until 10 headed by 9 parsed as (NP (NP (NNP Yasser) (NNP Arafat) (POS 's)) (NNP Palestinian) (NNP Authority))
+sid=1 spanning 5 until 8 headed by 6 parsed as (NP (NNP Yasser) (NNP Arafat) (POS 's))
+sid=1 spanning 11 until 16 headed by 12 parsed as (NP (NP (PRP$ its) (NN commitment)) (PP (IN to) (NP (DT the) (NN truce))))
+sid=1 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN truce))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ its) (NNS forces))
+sid=2 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=2 spanning 7 until 14 headed by 8 parsed as (NP (NP (JJ several) (NNS areas)) (PP (IN over) (NP (DT the) (JJ next) (CD two) (NNS days))))
+sid=2 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (JJ next) (CD two) (NNS days))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (DT an) (JJ Israeli) (NN official))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (PRP$ his) (NN country))
+sid=2 spanning 20 until 21 headed by 20 parsed as (PRP$ his)
+sid=2 spanning 24 until 28 headed by 27 parsed as (NP (DT the) (NN cease) (HYPH -) (NN fire))
+(end predicted mentions)
+---------gold clusters--------
+9 7 6 | { 'his country' 'its' 'Israel' }
+5 11 1 | { 'the truce' 'the cease - fire' 'the U.S. - brokered cease - fire between Israel and the Palestinians' }
+10 8 | { 'his' 'an Israeli official' }
+2 0 | { 'The clashes' 'New violence' }
+3 4 | { 'Yasser Arafat 's Palestinian Authority' 'its' }
+(end gold clusters)

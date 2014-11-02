@@ -1,0 +1,63 @@
+---------gloss--------
+(0) [36m{American Physicians Service Group Inc.}[0m said [36m{it}[0m purchased about 42 % of [1m[31m{Prime Medical Services Inc.}[0m for about $ 5 million from [35m{Texas American Energy Corp}[0m . 
+(1) [36m{American Physicians}[0m said [36m{it}[0m also replaced four [35m{Texas American}[0m representatives on [1m[31m{Prime}[0m 's five - member board . 
+(2) [36m{American}[0m provides a variety of financial services to doctors and hospitals . 
+(3) [1m[31m{Prime , based in Bedminster , N.J. ,}[0m provides management services to cardiac rehabilitation clinics and diagnostic imaging centers . 
+(4) For the year ended June 30 , [1m[31m{Prime}[0m had a net loss of $ 3 million on sales of $ 13.8 million . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2409); part 000
+sentences:
+AmericanAmericanNNPORGPER0PhysiciansPhysiciansNNPORGPER0ServiceServiceNNPORGPER0GroupGroupNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0purchasedpurchaseVBDOPER0aboutaboutRBPERCENTPER04242CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0PrimePrimeNNPORGPER0MedicalMedicalNNPORGPER0ServicesServicesNNPSORGPER0Inc.Inc.NNPORGPER0forforINOPER0aboutaboutRBMONEYPER0$$$MONEYPER055CDMONEYPER0millionmillionCDMONEYPER0fromfromINOPER0TexasTexasNNPORGPER0AmericanAmericanNNPORGPER0EnergyEnergyNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NNP American) (NNP Physicians) (NNP Service) (NNP Group) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD purchased) (NP (NP (QP (RB about) (CD 42)) (NN %)) (PP (IN of) (NP (NNP Prime) (NNP Medical) (NNPS Services) (NNP Inc.)))) (PP (IN for) (NP (NP (QP (RB about) ($ $) (CD 5) (CD million))) (PP (IN from) (NP (NNP Texas) (NNP American) (NNP Energy) (NNP Corp))))))))) (. .)))
+AmericanAmericanNNPORGPER0PhysiciansPhysiciansNNPORGPER0saidsayVBDOPER0ititPRPOPER0alsoalsoRBOPER0replacedreplaceVBDOPER0fourfourCDCARDINALPER0TexasTexasNNPORGPER0AmericanAmericanNNPORGPER0representativesrepresentativeNNSOPER0ononINOPER0PrimePrimeNNPORGPER0's'sPOSOPER0fivefiveCDCARDINALPER0--HYPHOPER0membermemberNNOPER0boardboardNNOPER0...OPER0(ROOT (S (NP (NNP American) (NNP Physicians)) (VP (VBD said) (SBAR (S (NP (PRP it)) (ADVP (RB also)) (VP (VBD replaced) (NP (CD four) (NML (NNP Texas) (NNP American)) (NNS representatives)) (PP (IN on) (NP (NP (NNP Prime) (POS 's)) (NML (CD five) (HYPH -) (NN member)) (NN board))))))) (. .)))
+AmericanAmericanNNPORGPER0providesprovideVBZOPER0aaDTOPER0varietyvarietyNNOPER0ofofINOPER0financialfinancialJJOPER0servicesserviceNNSOPER0totoINOPER0doctorsdoctorNNSOPER0andandCCOPER0hospitalshospitalNNSOPER0...OPER0(ROOT (S (NP (NNP American)) (VP (VBZ provides) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ financial) (NNS services)))) (PP (IN to) (NP (NNS doctors) (CC and) (NNS hospitals)))) (. .)))
+PrimePrimeNNPORGPER0,,,OPER0basedbaseVBNOPER0ininINOPER0BedminsterBedminsterNNPGPEPER0,,,OPER0N.J.N.J.NNPGPEPER0,,,OPER0providesprovideVBZOPER0managementmanagementNNOPER0servicesserviceNNSOPER0totoINOPER0cardiaccardiacJJOPER0rehabilitationrehabilitationNNOPER0clinicsclinicNNSOPER0andandCCOPER0diagnosticdiagnosticJJOPER0imagingimagingNNOPER0centerscenterNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Prime)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Bedminster)) (, ,) (NP (NNP N.J.))))) (, ,)) (VP (VBZ provides) (NP (NN management) (NNS services)) (PP (IN to) (NP (NP (NML (JJ cardiac) (NN rehabilitation)) (NNS clinics)) (CC and) (NP (JJ diagnostic) (NN imaging) (NNS centers))))) (. .)))
+ForforINOPER0thetheDTDATEPER0yearyearNNDATEPER0endedendVBNDATEPER0JuneJuneNNPDATEPER03030CDDATEPER0,,,OPER0PrimePrimeNNPORGPER0hadhaveVBDOPER0aaDTOPER0netnetJJOPER0losslossNNOPER0ofofINOPER0$$$MONEYPER033CDMONEYPER0millionmillionCDMONEYPER0ononINOPER0salessaleNNSOPER0ofofINOPER0$$$MONEYPER013.813.8CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (PP (IN For) (NP (NP (DT the) (NN year)) (VP (VBN ended) (NP (NNP June) (CD 30))))) (, ,) (NP (NNP Prime)) (VP (VBD had) (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 3) (CD million)))) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 13.8) (CD million)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NNP American) (NNP Physicians) (NNP Service) (NNP Group) (NNP Inc.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 12 until 16 headed by 15 parsed as (NP (NNP Prime) (NNP Medical) (NNPS Services) (NNP Inc.))
+sid=0 spanning 22 until 26 headed by 25 parsed as (NP (NNP Texas) (NNP American) (NNP Energy) (NNP Corp))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP American) (NNP Physicians))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 7 until 9 headed by 8 parsed as American
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNP Prime) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP American))
+sid=3 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNP Prime)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Bedminster)) (, ,) (NP (NNP N.J.))))) (, ,))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (NNP Prime))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NNP American) (NNP Physicians) (NNP Service) (NNP Group) (NNP Inc.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 12 until 16 headed by 15 parsed as (NP (NNP Prime) (NNP Medical) (NNPS Services) (NNP Inc.))
+sid=0 spanning 22 until 26 headed by 25 parsed as (NP (NNP Texas) (NNP American) (NNP Energy) (NNP Corp))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP American) (NNP Physicians))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 6 until 10 headed by 9 parsed as (NP (CD four) (NML (NNP Texas) (NNP American)) (NNS representatives))
+sid=1 spanning 7 until 9 headed by 8 parsed as American
+sid=1 spanning 11 until 17 headed by 16 parsed as (NP (NP (NNP Prime) (POS 's)) (NML (CD five) (HYPH -) (NN member)) (NN board))
+sid=1 spanning 11 until 13 headed by 11 parsed as (NP (NNP Prime) (POS 's))
+sid=2 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ financial) (NNS services))))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (JJ financial) (NNS services))
+sid=2 spanning 8 until 11 headed by 8 parsed as (NP (NNS doctors) (CC and) (NNS hospitals))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Prime)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Bedminster)) (, ,) (NP (NNP N.J.))))) (, ,))
+sid=3 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNP Prime)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Bedminster)) (, ,) (NP (NNP N.J.))))) (, ,))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NP (NNP Bedminster)) (, ,) (NP (NNP N.J.)))
+sid=3 spanning 4 until 7 headed by 4 parsed as (NP (NP (NNP Bedminster)) (, ,) (NP (NNP N.J.)))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP N.J.))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (NN management) (NNS services))
+sid=3 spanning 12 until 19 headed by 14 parsed as (NP (NP (NML (JJ cardiac) (NN rehabilitation)) (NNS clinics)) (CC and) (NP (JJ diagnostic) (NN imaging) (NNS centers)))
+sid=3 spanning 12 until 15 headed by 14 parsed as (NP (NML (JJ cardiac) (NN rehabilitation)) (NNS clinics))
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (JJ diagnostic) (NN imaging) (NNS centers))
+sid=4 spanning 1 until 6 headed by 2 parsed as (NP (NP (DT the) (NN year)) (VP (VBN ended) (NP (NNP June) (CD 30))))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (NNP Prime))
+sid=4 spanning 9 until 22 headed by 11 parsed as (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 3) (CD million)))) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 13.8) (CD million)))))))
+sid=4 spanning 17 until 22 headed by 17 parsed as (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 13.8) (CD million)))))
+(end predicted mentions)
+---------gold clusters--------
+6 3 | { 'Texas American' 'Texas American Energy Corp' }
+1 0 8 5 4 | { 'it' 'American Physicians Service Group Inc.' 'American' 'it' 'American Physicians' }
+9 7 2 10 | { 'Prime , based in Bedminster , N.J. ,' 'Prime' 'Prime Medical Services Inc.' 'Prime' }
+(end gold clusters)

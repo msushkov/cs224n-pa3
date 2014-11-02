@@ -1,0 +1,52 @@
+---------gloss--------
+(0) [3m[36m{Drug Emporium Inc.}[0m said [3m[35m{Gary Wilber , 39 years old , who had been president and chief operating officer for the past year ,}[0m was named chief executive officer of [3m[36m{this drugstore chain}[0m . 
+(1) [3m[35m{He}[0m succeeds his father , Philip T. Wilber , who founded [3m[36m{the company}[0m and remains chairman . 
+(2) Robert E. Lyons III , 39 , who headed the [3m[36m{company}[0m 's Philadelphia region , was appointed president and chief operating officer , succeeding [3m[35m{Gary Wilber}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2408); part 000
+sentences:
+DrugDrugNNPOPER0EmporiumEmporiumNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0GaryGaryNNPPERSONPER0WilberWilberNNPPERSONPER0,,,OPER03939CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0whowhoWPOPER0hadhaveVBDOPER0beenbeVBNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0operatingoperatingNNOPER0officerofficerNNOPER0forforINOPER0thetheDTDATEPER0pastpastJJDATEPER0yearyearNNDATEPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0ofofINOPER0thisthisDTOPER0drugstoredrugstoreNNOPER0chainchainNNOPER0...OPER0(ROOT (S (NP (NNP Drug) (NNP Emporium) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (NP (NP (NNP Gary) (NNP Wilber)) (, ,) (ADJP (NML (CD 39) (NNS years)) (JJ old))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN for) (NP (DT the) (JJ past) (NN year)))))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (DT this) (NN drugstore) (NN chain)))))))))) (. .)))
+HehePRPOPER0succeedssucceedVBZOPER0hishePRP$OPER0fatherfatherNNOPER0,,,OPER0PhilipPhilipNNPPERSONPER0T.T.NNPPERSONPER0WilberWilberNNPPERSONPER0,,,OPER0whowhoWPOPER0foundedfoundVBDOPER0thetheDTOPER0companycompanyNNOPER0andandCCOPER0remainsremainVBZOPER0chairmanchairmanNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ succeeds) (NP (NP (NP (PRP$ his) (NN father)) (, ,) (NP (NNP Philip) (NNP T.) (NNP Wilber))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD founded) (NP (DT the) (NN company))) (CC and) (VP (VBZ remains) (NP (NN chairman)))))))) (. .)))
+RobertRobertNNPPERSONPER0E.E.NNPPERSONPER0LyonsLyonsNNPPERSONPER0IIIIIINNPPERSONPER0,,,OPER03939CDDATEPER0,,,OPER0whowhoWPOPER0headedheadVBDOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0PhiladelphiaPhiladelphiaNNPGPEPER0regionregionNNOPER0,,,OPER0wasbeVBDOPER0appointedappointVBNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0operatingoperatingNNOPER0officerofficerNNOPER0,,,OPER0succeedingsucceedVBGOPER0GaryGaryNNPPERSONPER0WilberWilberNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NP (NNP Robert) (NNP E.) (NNP Lyons) (NNP III)) (, ,) (NP (CD 39))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD headed) (NP (NP (DT the) (NN company) (POS 's)) (NNP Philadelphia) (NN region))))) (, ,)) (VP (VBD was) (VP (VBN appointed) (S (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer)))) (, ,) (S (VP (VBG succeeding) (NP (NNP Gary) (NNP Wilber)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Drug) (NNP Emporium) (NNP Inc.))
+sid=0 spanning 4 until 24 headed by 5 parsed as (NP (NP (NP (NNP Gary) (NNP Wilber)) (, ,) (ADJP (NML (CD 39) (NNS years)) (JJ old))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN for) (NP (DT the) (JJ past) (NN year)))))))) (, ,))
+sid=0 spanning 30 until 33 headed by 32 parsed as (NP (DT this) (NN drugstore) (NN chain))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN company))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (DT the) (NN company) (POS 's))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (NNP Gary) (NNP Wilber))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Drug) (NNP Emporium) (NNP Inc.))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NP (NP (NNP Gary) (NNP Wilber)) (, ,) (ADJP (NML (CD 39) (NNS years)) (JJ old))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN for) (NP (DT the) (JJ past) (NN year)))))))) (, ,))
+sid=0 spanning 4 until 24 headed by 5 parsed as (NP (NP (NP (NNP Gary) (NNP Wilber)) (, ,) (ADJP (NML (CD 39) (NNS years)) (JJ old))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN for) (NP (DT the) (JJ past) (NN year)))))))) (, ,))
+sid=0 spanning 4 until 10 headed by 5 parsed as (NP (NP (NNP Gary) (NNP Wilber)) (, ,) (ADJP (NML (CD 39) (NNS years)) (JJ old)))
+sid=0 spanning 7 until 10 headed by 9 parsed as old
+sid=0 spanning 14 until 23 headed by 14 parsed as (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN for) (NP (DT the) (JJ past) (NN year))))
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (JJ past) (NN year))
+sid=0 spanning 30 until 33 headed by 32 parsed as (NP (DT this) (NN drugstore) (NN chain))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 16 headed by 3 parsed as (NP (NP (NP (PRP$ his) (NN father)) (, ,) (NP (NNP Philip) (NNP T.) (NNP Wilber))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD founded) (NP (DT the) (NN company))) (CC and) (VP (VBZ remains) (NP (NN chairman)))))))
+sid=1 spanning 2 until 8 headed by 3 parsed as (NP (NP (PRP$ his) (NN father)) (, ,) (NP (NNP Philip) (NNP T.) (NNP Wilber)))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ his) (NN father))
+sid=1 spanning 2 until 3 headed by 2 parsed as (PRP$ his)
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (NNP Philip) (NNP T.) (NNP Wilber))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN company))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NP (NNP Robert) (NNP E.) (NNP Lyons) (NNP III)) (, ,) (NP (CD 39))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD headed) (NP (NP (DT the) (NN company) (POS 's)) (NNP Philadelphia) (NN region))))) (, ,))
+sid=2 spanning 0 until 15 headed by 3 parsed as (NP (NP (NP (NNP Robert) (NNP E.) (NNP Lyons) (NNP III)) (, ,) (NP (CD 39))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD headed) (NP (NP (DT the) (NN company) (POS 's)) (NNP Philadelphia) (NN region))))) (, ,))
+sid=2 spanning 0 until 6 headed by 3 parsed as (NP (NP (NNP Robert) (NNP E.) (NNP Lyons) (NNP III)) (, ,) (NP (CD 39)))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (CD 39))
+sid=2 spanning 9 until 14 headed by 13 parsed as (NP (NP (DT the) (NN company) (POS 's)) (NNP Philadelphia) (NN region))
+sid=2 spanning 9 until 12 headed by 10 parsed as (NP (DT the) (NN company) (POS 's))
+sid=2 spanning 12 until 13 headed by 12 parsed as Philadelphia
+sid=2 spanning 17 until 22 headed by 17 parsed as (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer)))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (NNP Gary) (NNP Wilber))
+(end predicted mentions)
+---------gold clusters--------
+1 3 6 | { 'Gary Wilber , 39 years old , who had been president and chief operating officer for the past year ,' 'He' 'Gary Wilber' }
+0 5 4 2 | { 'Drug Emporium Inc.' 'company' 'the company' 'this drugstore chain' }
+(end gold clusters)

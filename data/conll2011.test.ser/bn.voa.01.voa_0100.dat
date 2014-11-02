@@ -1,0 +1,39 @@
+---------gloss--------
+(0) The United Nations says nationalist parties [1m[35m{are}[0m the apparent winners in [3m[31m{Saturday 's general elections}[0m in [1m[36m{Bosnia - Herzegovina}[0m . 
+(1) [1m[35m{The outcome}[0m disappointed Western officials who had hoped [3m[31m{the balloting}[0m would signal an end to [1m[36m{the country 's}[0m ethnic divisions . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0100); part 000
+sentences:
+ThetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0sayssayVBZOPER0nationalistnationalistJJOPER0partiespartyNNSOPER0arebeVBPOPER0thetheDTOPER0apparentapparentJJOPER0winnerswinnerNNSOPER0ininINOPER0SaturdaySaturdayNNPDATEPER0's'sPOSOPER0generalgeneralJJOPER0electionselectionNNSOPER0ininINOPER0BosniaBosniaNNPGPEPER0--HYPHOPER0HerzegovinaHerzegovinaNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP Nations)) (VP (VBZ says) (SBAR (S (NP (JJ nationalist) (NNS parties)) (VP (VBP are) (NP (NP (DT the) (JJ apparent) (NNS winners)) (PP (IN in) (NP (NP (NP (NNP Saturday) (POS 's)) (JJ general) (NNS elections)) (PP (IN in) (NP (NNP Bosnia) (HYPH -) (NNP Herzegovina)))))))))) (. .)))
+ThetheDTOPER0outcomeoutcomeNNOPER0disappointeddisappointVBNOPER0WesternwesternJJOPER0officialsofficialNNSOPER0whowhoWPOPER0hadhaveVBDOPER0hopedhopeVBNOPER0thetheDTOPER0ballotingballotingNNOPER0wouldwouldMDOPER0signalsignalVBOPER0anaDTOPER0endendNNOPER0totoINOPER0thetheDTOPER0countrycountryNNOPER0's'sPOSOPER0ethnicethnicJJOPER0divisionsdivisionNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN outcome)) (VP (VBN disappointed) (NP (NP (JJ Western) (NNS officials)) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN hoped) (SBAR (S (NP (DT the) (NN balloting)) (VP (MD would) (VP (VB signal) (NP (NP (DT an) (NN end)) (PP (IN to) (NP (NP (DT the) (NN country) (POS 's)) (JJ ethnic) (NNS divisions)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 7 headed by 6 parsed as are
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (NP (NP (NNP Saturday) (POS 's)) (JJ general) (NNS elections)) (PP (IN in) (NP (NNP Bosnia) (HYPH -) (NNP Herzegovina))))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (NNP Bosnia) (HYPH -) (NNP Herzegovina))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN outcome))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN balloting))
+sid=1 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN country) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP Nations))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (JJ nationalist) (NNS parties))
+sid=0 spanning 7 until 19 headed by 9 parsed as (NP (NP (DT the) (JJ apparent) (NNS winners)) (PP (IN in) (NP (NP (NP (NNP Saturday) (POS 's)) (JJ general) (NNS elections)) (PP (IN in) (NP (NNP Bosnia) (HYPH -) (NNP Herzegovina))))))
+sid=0 spanning 11 until 19 headed by 14 parsed as (NP (NP (NP (NNP Saturday) (POS 's)) (JJ general) (NNS elections)) (PP (IN in) (NP (NNP Bosnia) (HYPH -) (NNP Herzegovina))))
+sid=0 spanning 11 until 13 headed by 11 parsed as (NP (NNP Saturday) (POS 's))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (NNP Bosnia) (HYPH -) (NNP Herzegovina))
+sid=0 spanning 16 until 17 headed by 16 parsed as Bosnia
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN outcome))
+sid=1 spanning 3 until 20 headed by 4 parsed as (NP (NP (JJ Western) (NNS officials)) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN hoped) (SBAR (S (NP (DT the) (NN balloting)) (VP (MD would) (VP (VB signal) (NP (NP (DT an) (NN end)) (PP (IN to) (NP (NP (DT the) (NN country) (POS 's)) (JJ ethnic) (NNS divisions)))))))))))))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN balloting))
+sid=1 spanning 12 until 20 headed by 13 parsed as (NP (NP (DT an) (NN end)) (PP (IN to) (NP (NP (DT the) (NN country) (POS 's)) (JJ ethnic) (NNS divisions))))
+sid=1 spanning 15 until 20 headed by 19 parsed as (NP (NP (DT the) (NN country) (POS 's)) (JJ ethnic) (NNS divisions))
+sid=1 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN country) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+3 0 | { 'The outcome' 'are' }
+5 2 | { 'the country 's' 'Bosnia - Herzegovina' }
+1 4 | { 'Saturday 's general elections' 'the balloting' }
+(end gold clusters)

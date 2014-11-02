@@ -1,0 +1,75 @@
+---------gloss--------
+(0) [1m[34m{Lynch Corp.}[0m said [1m[34m{its}[0m Lynch Telephone Corp. subsidiary completed [1m[35m{the acquisition of Western New Mexico Telephone Co.}[0m for $ 20 million plus assumption of $ 24 million of debt . 
+(1) [1m[33m{Western New Mexico Telephone , Silver City ,}[0m had net income of $ 1.9 million on revenue of about $ 10 million last year . 
+(2) [1m[33m{It}[0m is an independent phone company with a service area of 15,000 square miles in southwest New Mexico . 
+(3) [1m[33m{It}[0m is also a partner in the wireline cellular franchise covering most of western New Mexico . 
+(4) [1m[35m{The transaction}[0m represents [1m[34m{Lynch 's}[0m entry into the telephone business . 
+(5) [1m[34m{The company , which has interests in television , trucking services , and glass - making and food - processing equipment ,}[0m said [1m[34m{it}[0m plans to make other acquisitions in the telephone industry . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1553); part 000
+sentences:
+LynchLynchNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0LynchLynchNNPORGPER0TelephoneTelephoneNNPORGPER0Corp.Corp.NNPORGPER0subsidiarysubsidiaryNNOPER0completedcompleteVBDOPER0thetheDTOPER0acquisitionacquisitionNNOPER0ofofINOPER0WesternWesternNNPORGPER0NewNewNNPORGPER0MexicoMexicoNNPORGPER0TelephoneTelephoneNNPORGPER0Co.Co.NNPORGPER0forforINOPER0$$$MONEYPER02020CDMONEYPER0millionmillionCDMONEYPER0plusplusCCOPER0assumptionassumptionNNOPER0ofofINOPER0$$$MONEYPER02424CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0debtdebtNNOPER0...OPER0(ROOT (S (NP (NNP Lynch) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NML (NNP Lynch) (NNP Telephone) (NNP Corp.)) (NN subsidiary)) (VP (VBD completed) (NP (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (NML (NNP Western) (NNP New) (NNP Mexico)) (NNP Telephone) (NNP Co.)) (PP (IN for) (NP (QP ($ $) (CD 20) (CD million))))))) (CC plus) (NP (NP (NN assumption)) (PP (IN of) (NP (NP (QP ($ $) (CD 24) (CD million))) (PP (IN of) (NP (NN debt))))))))))) (. .)))
+WesternWesternNNPORGPER0NewNewNNPORGPER0MexicoMexicoNNPORGPER0TelephoneTelephoneNNPORGPER0,,,OPER0SilverSilverNNPGPEPER0CityCityNNPGPEPER0,,,OPER0hadhaveVBDOPER0netnetJJOPER0incomeincomeNNOPER0ofofINOPER0$$$MONEYPER01.91.9CDMONEYPER0millionmillionCDMONEYPER0ononINOPER0revenuerevenueNNOPER0ofofINOPER0aboutaboutRBMONEYPER0$$$MONEYPER01010CDMONEYPER0millionmillionCDMONEYPER0lastlastJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP Western) (NML (NNP New) (NNP Mexico)) (NNP Telephone)) (, ,) (NP (NNP Silver) (NNP City)) (, ,)) (VP (VBD had) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (QP ($ $) (CD 1.9) (CD million))))) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (NP (QP (RB about) ($ $) (CD 10) (CD million))) (NP (JJ last) (NN year))))))) (. .)))
+ItitPRPOPER0isbeVBZOPER0anaDTOPER0independentindependentJJOPER0phonephoneNNOPER0companycompanyNNOPER0withwithINOPER0aaDTOPER0serviceserviceNNOPER0areaareaNNOPER0ofofINOPER015,00015,000CDQUANTITYPER0squaresquareJJQUANTITYPER0milesmileNNSQUANTITYPER0ininINOPER0southwestsouthwestJJOPER0NewNewNNPGPEPER0MexicoMexicoNNPGPEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT an) (JJ independent) (NN phone) (NN company)) (PP (IN with) (NP (NP (DT a) (NN service) (NN area)) (PP (IN of) (NP (NP (CD 15,000) (JJ square) (NNS miles)) (PP (IN in) (NP (JJ southwest) (NNP New) (NNP Mexico))))))))) (. .)))
+ItitPRPOPER0isbeVBZOPER0alsoalsoRBOPER0aaDTOPER0partnerpartnerNNOPER0ininINOPER0thetheDTOPER0wirelinewirelineJJOPER0cellularcellularJJOPER0franchisefranchiseNNOPER0coveringcoverVBGOPER0mostmostJJSOPER0ofofINOPER0westernwesternJJOPER0NewNewNNPGPEPER0MexicoMexicoNNPGPEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (NN partner)) (PP (IN in) (NP (NP (DT the) (JJ wireline) (JJ cellular) (NN franchise)) (VP (VBG covering) (NP (NP (JJS most)) (PP (IN of) (NP (JJ western) (NNP New) (NNP Mexico))))))))) (. .)))
+ThetheDTOPER0transactiontransactionNNOPER0representsrepresentVBZOPER0LynchLynchNNPORGPER0's'sPOSOPER0entryentryNNOPER0intointoINOPER0thetheDTOPER0telephonetelephoneNNOPER0businessbusinessNNOPER0...OPER0(ROOT (S (NP (DT The) (NN transaction)) (VP (VBZ represents) (NP (NP (NP (NNP Lynch) (POS 's)) (NN entry)) (PP (IN into) (NP (DT the) (NN telephone) (NN business))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0,,,OPER0whichwhichWDTOPER0hashaveVBZOPER0interestsinterestNNSOPER0ininINOPER0televisiontelevisionNNOPER0,,,OPER0truckingtruckingNNOPER0servicesserviceNNSOPER0,,,OPER0andandCCOPER0glassglassNNOPER0--HYPHOPER0makingmakeVBGOPER0andandCCOPER0foodfoodNNOPER0--HYPHOPER0processingprocessVBGOPER0equipmentequipmentNNOPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0plansplanVBZOPER0totoTOOPER0makemakeVBOPER0otherotherJJOPER0acquisitionsacquisitionNNSOPER0ininINOPER0thetheDTOPER0telephonetelephoneNNOPER0industryindustryNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NP (NNS interests)) (PP (IN in) (NP (NN television)))) (, ,) (NP (NN trucking) (NNS services)) (, ,) (CC and) (NP (ADJP (ADJP (NN glass) (HYPH -) (VBG making)) (CC and) (ADJP (NN food) (HYPH -) (VBG processing))) (NN equipment)))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ plans) (S (VP (TO to) (VP (VB make) (NP (NP (JJ other) (NNS acquisitions)) (PP (IN in) (NP (DT the) (NN telephone) (NN industry))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Lynch) (NNP Corp.))
+sid=0 spanning 3 until 4 headed by 3 parsed as its
+sid=0 spanning 9 until 17 headed by 10 parsed as (NP (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (NML (NNP Western) (NNP New) (NNP Mexico)) (NNP Telephone) (NNP Co.)) (PP (IN for) (NP (QP ($ $) (CD 20) (CD million))))))) (CC plus) (NP (NP (NN assumption)) (PP (IN of) (NP (NP (QP ($ $) (CD 24) (CD million))) (PP (IN of) (NP (NN debt)))))))
+sid=0 spanning 12 until 17 headed by 16 parsed as (NP (NP (NML (NNP Western) (NNP New) (NNP Mexico)) (NNP Telephone) (NNP Co.)) (PP (IN for) (NP (QP ($ $) (CD 20) (CD million)))))
+sid=1 spanning 0 until 8 headed by 3 parsed as (NP (NP (NNP Western) (NML (NNP New) (NNP Mexico)) (NNP Telephone)) (, ,) (NP (NNP Silver) (NNP City)) (, ,))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN transaction))
+sid=4 spanning 3 until 5 headed by 3 parsed as (NP (NNP Lynch) (POS 's))
+sid=5 spanning 0 until 22 headed by 1 parsed as (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NP (NNS interests)) (PP (IN in) (NP (NN television)))) (, ,) (NP (NN trucking) (NNS services)) (, ,) (CC and) (NP (ADJP (ADJP (NN glass) (HYPH -) (VBG making)) (CC and) (ADJP (NN food) (HYPH -) (VBG processing))) (NN equipment)))))) (, ,))
+sid=5 spanning 23 until 24 headed by 23 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Lynch) (NNP Corp.))
+sid=0 spanning 3 until 8 headed by 7 parsed as (NP (PRP$ its) (NML (NNP Lynch) (NNP Telephone) (NNP Corp.)) (NN subsidiary))
+sid=0 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=0 spanning 4 until 7 headed by 6 parsed as Corp.
+sid=0 spanning 9 until 29 headed by 10 parsed as (NP (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (NML (NNP Western) (NNP New) (NNP Mexico)) (NNP Telephone) (NNP Co.)) (PP (IN for) (NP (QP ($ $) (CD 20) (CD million))))))) (CC plus) (NP (NP (NN assumption)) (PP (IN of) (NP (NP (QP ($ $) (CD 24) (CD million))) (PP (IN of) (NP (NN debt)))))))
+sid=0 spanning 9 until 21 headed by 10 parsed as (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (NML (NNP Western) (NNP New) (NNP Mexico)) (NNP Telephone) (NNP Co.)) (PP (IN for) (NP (QP ($ $) (CD 20) (CD million)))))))
+sid=0 spanning 12 until 21 headed by 16 parsed as (NP (NP (NML (NNP Western) (NNP New) (NNP Mexico)) (NNP Telephone) (NNP Co.)) (PP (IN for) (NP (QP ($ $) (CD 20) (CD million)))))
+sid=0 spanning 22 until 29 headed by 22 parsed as (NP (NP (NN assumption)) (PP (IN of) (NP (NP (QP ($ $) (CD 24) (CD million))) (PP (IN of) (NP (NN debt))))))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Western) (NML (NNP New) (NNP Mexico)) (NNP Telephone)) (, ,) (NP (NNP Silver) (NNP City)) (, ,))
+sid=1 spanning 0 until 8 headed by 3 parsed as (NP (NP (NNP Western) (NML (NNP New) (NNP Mexico)) (NNP Telephone)) (, ,) (NP (NNP Silver) (NNP City)) (, ,))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NNP Silver) (NNP City))
+sid=1 spanning 16 until 24 headed by 16 parsed as (NP (NP (NN revenue)) (PP (IN of) (NP (NP (QP (RB about) ($ $) (CD 10) (CD million))) (NP (JJ last) (NN year)))))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (JJ last) (NN year))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 2 until 18 headed by 5 parsed as (NP (NP (DT an) (JJ independent) (NN phone) (NN company)) (PP (IN with) (NP (NP (DT a) (NN service) (NN area)) (PP (IN of) (NP (NP (CD 15,000) (JJ square) (NNS miles)) (PP (IN in) (NP (JJ southwest) (NNP New) (NNP Mexico))))))))
+sid=2 spanning 7 until 18 headed by 9 parsed as (NP (NP (DT a) (NN service) (NN area)) (PP (IN of) (NP (NP (CD 15,000) (JJ square) (NNS miles)) (PP (IN in) (NP (JJ southwest) (NNP New) (NNP Mexico))))))
+sid=2 spanning 11 until 18 headed by 13 parsed as (NP (NP (CD 15,000) (JJ square) (NNS miles)) (PP (IN in) (NP (JJ southwest) (NNP New) (NNP Mexico))))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (JJ southwest) (NNP New) (NNP Mexico))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 3 until 16 headed by 4 parsed as (NP (NP (DT a) (NN partner)) (PP (IN in) (NP (NP (DT the) (JJ wireline) (JJ cellular) (NN franchise)) (VP (VBG covering) (NP (NP (JJS most)) (PP (IN of) (NP (JJ western) (NNP New) (NNP Mexico))))))))
+sid=3 spanning 6 until 16 headed by 9 parsed as (NP (NP (DT the) (JJ wireline) (JJ cellular) (NN franchise)) (VP (VBG covering) (NP (NP (JJS most)) (PP (IN of) (NP (JJ western) (NNP New) (NNP Mexico))))))
+sid=3 spanning 11 until 16 headed by 11 parsed as (NP (NP (JJS most)) (PP (IN of) (NP (JJ western) (NNP New) (NNP Mexico))))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (JJ western) (NNP New) (NNP Mexico))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN transaction))
+sid=4 spanning 3 until 10 headed by 5 parsed as (NP (NP (NP (NNP Lynch) (POS 's)) (NN entry)) (PP (IN into) (NP (DT the) (NN telephone) (NN business))))
+sid=4 spanning 3 until 5 headed by 3 parsed as (NP (NNP Lynch) (POS 's))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NN telephone) (NN business))
+sid=5 spanning 0 until 22 headed by 1 parsed as (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NP (NNS interests)) (PP (IN in) (NP (NN television)))) (, ,) (NP (NN trucking) (NNS services)) (, ,) (CC and) (NP (ADJP (ADJP (NN glass) (HYPH -) (VBG making)) (CC and) (ADJP (NN food) (HYPH -) (VBG processing))) (NN equipment)))))) (, ,))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=5 spanning 5 until 21 headed by 5 parsed as (NP (NP (NP (NNS interests)) (PP (IN in) (NP (NN television)))) (, ,) (NP (NN trucking) (NNS services)) (, ,) (CC and) (NP (ADJP (ADJP (NN glass) (HYPH -) (VBG making)) (CC and) (ADJP (NN food) (HYPH -) (VBG processing))) (NN equipment)))
+sid=5 spanning 5 until 8 headed by 5 parsed as (NP (NP (NNS interests)) (PP (IN in) (NP (NN television))))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (NN trucking) (NNS services))
+sid=5 spanning 13 until 21 headed by 20 parsed as (NP (ADJP (ADJP (NN glass) (HYPH -) (VBG making)) (CC and) (ADJP (NN food) (HYPH -) (VBG processing))) (NN equipment))
+sid=5 spanning 23 until 24 headed by 23 parsed as (NP (PRP it))
+sid=5 spanning 27 until 33 headed by 28 parsed as (NP (NP (JJ other) (NNS acquisitions)) (PP (IN in) (NP (DT the) (NN telephone) (NN industry))))
+sid=5 spanning 30 until 33 headed by 32 parsed as (NP (DT the) (NN telephone) (NN industry))
+(end predicted mentions)
+---------gold clusters--------
+4 5 6 3 | { 'Western New Mexico Telephone , Silver City ,' 'It' 'It' 'Western New Mexico Telephone Co.' }
+0 1 8 9 10 | { 'Lynch Corp.' 'its' 'Lynch 's' 'The company , which has interests in television , trucking services , and glass - making and food - processing equipment ,' 'it' }
+7 2 | { 'The transaction' 'the acquisition of Western New Mexico Telephone Co.' }
+(end gold clusters)

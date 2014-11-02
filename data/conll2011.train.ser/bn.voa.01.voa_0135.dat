@@ -1,0 +1,59 @@
+---------gloss--------
+(0) [4m[36m{Iraqi Deputy Prime Minister Tariq Aziz}[0m has reiterated [31m{Baghdad 's}[0m strong opposition to [33m{the resumption of UN weapons inspections}[0m . 
+(1) Wrapping up a two - day visit in Moscow , [4m[36m{Mr. Aziz}[0m added that [31m{Baghdad}[0m is still considering talks with [32m{the United Nations}[0m on [33m{the issue}[0m . 
+(2) Earlier this week , [32m{UN}[0m officials in New York said Secretary General Kofi Annan would be meeting with Iraqi officials in early January . 
+(3) I 'm David Coler , VOA News . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0135); part 000
+sentences:
+IraqiiraqiJJOPER0DeputyDeputyNNPOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0TariqTariqNNPPERSONPER0AzizAzizNNPPERSONPER0hashaveVBZOPER0reiteratedreiterateVBNOPER0BaghdadBaghdadNNPGPEPER0's'sPOSOPER0strongstrongJJOPER0oppositionoppositionNNOPER0totoINOPER0thetheDTOPER0resumptionresumptionNNOPER0ofofINOPER0UNUNNNPORGPER0weaponsweaponNNSOPER0inspectionsinspectionNNSOPER0...OPER0(ROOT (S (NP (NML (JJ Iraqi) (NNP Deputy) (NNP Prime) (NNP Minister)) (NNP Tariq) (NNP Aziz)) (VP (VBZ has) (VP (VBN reiterated) (NP (NP (NP (NNP Baghdad) (POS 's)) (JJ strong) (NN opposition)) (PP (IN to) (NP (NP (DT the) (NN resumption)) (PP (IN of) (NP (NNP UN) (NNS weapons) (NNS inspections)))))))) (. .)))
+WrappingwrapVBGOPER0upupRPOPER0aaDTOPER0twotwoCDDATEPER0--HYPHDATEPER0daydayNNDATEPER0visitvisitNNOPER0ininINOPER0MoscowMoscowNNPGPEPER0,,,OPER0Mr.Mr.NNPOPER0AzizAzizNNPPERSONPER0addedaddVBDOPER0thatthatINOPER0BaghdadBaghdadNNPGPEPER0isbeVBZOPER0stillstillRBOPER0consideringconsiderVBGOPER0talkstalkNNSOPER0withwithINOPER0thetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0ononINOPER0thetheDTOPER0issueissueNNOPER0...OPER0(ROOT (S (S (VP (VBG Wrapping) (PRT (RP up)) (NP (DT a) (NML (CD two) (HYPH -) (NN day)) (NN visit)) (PP (IN in) (NP (NNP Moscow))))) (, ,) (NP (NNP Mr.) (NNP Aziz)) (VP (VBD added) (SBAR (IN that) (S (NP (NNP Baghdad)) (VP (VBZ is) (ADVP (RB still)) (VP (VBG considering) (NP (NP (NNS talks)) (PP (IN with) (NP (DT the) (NNP United) (NNP Nations))) (PP (IN on) (NP (DT the) (NN issue))))))))) (. .)))
+EarlierearlierRBRDATEPER0thisthisDTDATEPER0weekweekNNDATEPER0,,,OPER0UNUNNNPORGPER0officialsofficialNNSOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0saidsayVBDOPER0SecretarySecretaryNNPOPER0GeneralGeneralNNPOPER0KofiKofiNNPPERSONPER0AnnanAnnanNNPPERSONPER0wouldwouldMDOPER0bebeVBOPER0meetingmeetVBGOPER0withwithINOPER0IraqiiraqiJJOPER0officialsofficialNNSOPER0ininINOPER0earlyearlyJJOPER0JanuaryJanuaryNNPDATEPER0...OPER0(ROOT (S (NP (ADVP (RBR Earlier)) (DT this) (NN week)) (, ,) (NP (NP (NNP UN) (NNS officials)) (PP (IN in) (NP (NNP New) (NNP York)))) (VP (VBD said) (SBAR (S (NP (NML (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan)) (VP (MD would) (VP (VB be) (VP (VBG meeting) (PP (IN with) (NP (NP (JJ Iraqi) (NNS officials)) (PP (IN in) (NP (JJ early) (NNP January))))))))))) (. .)))
+IIPRPOPER0'mbeVBPOPER0DavidDavidNNPPERSONPER0ColerColerNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP David) (NNP Coler)) (, ,) (NP (NNP VOA) (NNP News)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NML (JJ Iraqi) (NNP Deputy) (NNP Prime) (NNP Minister)) (NNP Tariq) (NNP Aziz))
+sid=0 spanning 8 until 10 headed by 8 parsed as (NP (NNP Baghdad) (POS 's))
+sid=0 spanning 13 until 19 headed by 14 parsed as (NP (NP (DT the) (NN resumption)) (PP (IN of) (NP (NNP UN) (NNS weapons) (NNS inspections))))
+sid=0 spanning 16 until 17 headed by 16 parsed as UN
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NNP Mr.) (NNP Aziz))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Baghdad))
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (NNP United) (NNP Nations))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN issue))
+sid=2 spanning 4 until 5 headed by 4 parsed as UN
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NML (JJ Iraqi) (NNP Deputy) (NNP Prime) (NNP Minister)) (NNP Tariq) (NNP Aziz))
+sid=0 spanning 8 until 19 headed by 11 parsed as (NP (NP (NP (NNP Baghdad) (POS 's)) (JJ strong) (NN opposition)) (PP (IN to) (NP (NP (DT the) (NN resumption)) (PP (IN of) (NP (NNP UN) (NNS weapons) (NNS inspections))))))
+sid=0 spanning 8 until 10 headed by 8 parsed as (NP (NNP Baghdad) (POS 's))
+sid=0 spanning 13 until 19 headed by 14 parsed as (NP (NP (DT the) (NN resumption)) (PP (IN of) (NP (NNP UN) (NNS weapons) (NNS inspections))))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (NNP UN) (NNS weapons) (NNS inspections))
+sid=0 spanning 16 until 17 headed by 16 parsed as UN
+sid=1 spanning 2 until 7 headed by 6 parsed as (NP (DT a) (NML (CD two) (HYPH -) (NN day)) (NN visit))
+sid=1 spanning 3 until 6 headed by 5 parsed as day
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Moscow))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NNP Mr.) (NNP Aziz))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Baghdad))
+sid=1 spanning 18 until 26 headed by 18 parsed as (NP (NP (NNS talks)) (PP (IN with) (NP (DT the) (NNP United) (NNP Nations))) (PP (IN on) (NP (DT the) (NN issue))))
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (NNP United) (NNP Nations))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN issue))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (ADVP (RBR Earlier)) (DT this) (NN week))
+sid=2 spanning 4 until 9 headed by 5 parsed as (NP (NP (NNP UN) (NNS officials)) (PP (IN in) (NP (NNP New) (NNP York))))
+sid=2 spanning 4 until 5 headed by 4 parsed as UN
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NNP New) (NNP York))
+sid=2 spanning 10 until 14 headed by 13 parsed as (NP (NML (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=2 spanning 18 until 23 headed by 19 parsed as (NP (NP (JJ Iraqi) (NNS officials)) (PP (IN in) (NP (JJ early) (NNP January))))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (JJ early) (NNP January))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP David) (NNP Coler)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=3 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP David) (NNP Coler)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+(end predicted mentions)
+---------gold clusters--------
+4 0 | { 'Mr. Aziz' 'Iraqi Deputy Prime Minister Tariq Aziz' }
+1 5 | { 'Baghdad 's' 'Baghdad' }
+3 8 6 | { 'UN' 'UN' 'the United Nations' }
+2 7 | { 'the resumption of UN weapons inspections' 'the issue' }
+(end gold clusters)

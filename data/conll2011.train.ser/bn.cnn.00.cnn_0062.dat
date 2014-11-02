@@ -1,0 +1,61 @@
+---------gloss--------
+(0) The Chicago suburb of Arlington Heights is the first stop for [31m{George W. Bush}[0m today . 
+(1) As part of [31m{his}[0m Barnstorm for Reform tour , [31m{he}[0m is joined by Republican governors from Connecticut , South Dakota , and Montana . 
+(2) The message for the morning was education reform . 
+(3) [31m{The Texas governor}[0m stops in Gore 's home state of Tennessee this afternoon for remarks at a middle school . 
+(4) Tonight , [31m{Bush}[0m holds what 's called a victory rally in Jacksonville , Florida . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0062); part 000
+sentences:
+ThetheDTOPER0ChicagoChicagoNNPGPEPER0suburbsuburbNNOPER0ofofINOPER0ArlingtonArlingtonNNPGPEPER0HeightsHeightsNNPGPEPER0isbeVBZOPER0thetheDTOPER0firstfirstJJOPER0stopstopNNOPER0forforINOPER0GeorgeGeorgeNNPPERSONPER0W.W.NNPPERSONPER0BushBushNNPPERSONPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP Chicago) (NN suburb)) (PP (IN of) (NP (NNP Arlington) (NNP Heights)))) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN stop)) (PP (IN for) (NP (NP (NNP George) (NNP W.) (NNP Bush)) (NP (NN today)))))) (. .)))
+AsasINOPER0partpartNNOPER0ofofINOPER0hishePRP$OPER0BarnstormBarnstormNNPORGPER0forforCCOPER0ReformReformNNPORGPER0tourtourNNOPER0,,,OPER0hehePRPOPER0isbeVBZOPER0joinedjoinVBNOPER0bybyINOPER0RepublicanrepublicanJJOPER0governorsgovernorNNSOPER0fromfromINOPER0ConnecticutConnecticutNNPGPEPER0,,,OPER0SouthSouthNNPGPEPER0DakotaDakotaNNPGPEPER0,,,OPER0andandCCOPER0MontanaMontanaNNPGPEPER0...OPER0(ROOT (S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (PRP$ his) (NML (NNP Barnstorm) (CC for) (NNP Reform)) (NN tour))))) (, ,) (NP (PRP he)) (VP (VBZ is) (VP (VBN joined) (PP (IN by) (NP (NP (JJ Republican) (NNS governors)) (PP (IN from) (NP (NP (NNP Connecticut)) (, ,) (NP (NNP South) (NNP Dakota)) (, ,) (CC and) (NP (NNP Montana)))))))) (. .)))
+ThetheDTOPER0messagemessageNNOPER0forforINOPER0thetheDTTIMEPER0morningmorningNNTIMEPER0wasbeVBDOPER0educationeducationNNOPER0reformreformNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN message)) (PP (IN for) (NP (DT the) (NN morning)))) (VP (VBD was) (NP (NN education) (NN reform))) (. .)))
+ThetheDTOPER0TexasTexasNNPGPEPER0governorgovernorNNOPER0stopsstopVBZOPER0ininINOPER0GoreGoreNNPPERSONPER0's'sPOSOPER0homehomeNNOPER0statestateNNOPER0ofofINOPER0TennesseeTennesseeNNPORGPER0thisthisDTTIMEPER0afternoonafternoonNNTIMEPER0forforINOPER0remarksremarkNNSOPER0atatINOPER0aaDTOPER0middlemiddleJJOPER0schoolschoolNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Texas) (NN governor)) (VP (VBZ stops) (PP (IN in) (NP (NP (NP (NNP Gore) (POS 's)) (NN home) (NN state)) (PP (IN of) (NP (NNP Tennessee))) (NP (DT this) (NN afternoon)))) (PP (IN for) (NP (NP (NNS remarks)) (PP (IN at) (NP (DT a) (JJ middle) (NN school)))))) (. .)))
+TonighttonightNNTIMEPER0,,,OPER0BushBushNNPPERSONPER0holdsholdVBZOPER0whatwhatWPOPER0'sbeVBZOPER0calledcallVBNOPER0aaDTOPER0victoryvictoryNNOPER0rallyrallyNNOPER0ininINOPER0JacksonvilleJacksonvilleNNPGPEPER0,,,OPER0FloridaFloridaNNPGPEPER0...OPER0(ROOT (S (NP (NN Tonight)) (, ,) (NP (NNP Bush)) (VP (VBZ holds) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBN called) (S (NP (NP (DT a) (NN victory) (NN rally)) (PP (IN in) (NP (NP (NNP Jacksonville)) (, ,) (NP (NNP Florida))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (NP (NNP George) (NNP W.) (NNP Bush)) (NP (NN today)))
+sid=1 spanning 3 until 4 headed by 3 parsed as his
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Texas) (NN governor))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (NNP Bush))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (NNP Chicago) (NN suburb)) (PP (IN of) (NP (NNP Arlington) (NNP Heights))))
+sid=0 spanning 1 until 2 headed by 1 parsed as Chicago
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Arlington) (NNP Heights))
+sid=0 spanning 7 until 15 headed by 9 parsed as (NP (NP (DT the) (JJ first) (NN stop)) (PP (IN for) (NP (NP (NNP George) (NNP W.) (NNP Bush)) (NP (NN today)))))
+sid=0 spanning 11 until 15 headed by 13 parsed as (NP (NP (NNP George) (NNP W.) (NNP Bush)) (NP (NN today)))
+sid=1 spanning 1 until 8 headed by 1 parsed as (NP (NP (NN part)) (PP (IN of) (NP (PRP$ his) (NML (NNP Barnstorm) (CC for) (NNP Reform)) (NN tour))))
+sid=1 spanning 3 until 8 headed by 7 parsed as (NP (PRP$ his) (NML (NNP Barnstorm) (CC for) (NNP Reform)) (NN tour))
+sid=1 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=1 spanning 4 until 5 headed by 4 parsed as Barnstorm
+sid=1 spanning 6 until 7 headed by 6 parsed as Reform
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=1 spanning 13 until 23 headed by 14 parsed as (NP (NP (JJ Republican) (NNS governors)) (PP (IN from) (NP (NP (NNP Connecticut)) (, ,) (NP (NNP South) (NNP Dakota)) (, ,) (CC and) (NP (NNP Montana)))))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NP (NNP Connecticut)) (, ,) (NP (NNP South) (NNP Dakota)) (, ,) (CC and) (NP (NNP Montana)))
+sid=1 spanning 16 until 23 headed by 16 parsed as (NP (NP (NNP Connecticut)) (, ,) (NP (NNP South) (NNP Dakota)) (, ,) (CC and) (NP (NNP Montana)))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (NNP South) (NNP Dakota))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (NNP Montana))
+sid=2 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN message)) (PP (IN for) (NP (DT the) (NN morning))))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN morning))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NN education) (NN reform))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Texas) (NN governor))
+sid=3 spanning 1 until 2 headed by 1 parsed as Texas
+sid=3 spanning 5 until 13 headed by 8 parsed as (NP (NP (NP (NNP Gore) (POS 's)) (NN home) (NN state)) (PP (IN of) (NP (NNP Tennessee))) (NP (DT this) (NN afternoon)))
+sid=3 spanning 5 until 7 headed by 5 parsed as (NP (NNP Gore) (POS 's))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (NNP Tennessee))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT this) (NN afternoon))
+sid=3 spanning 14 until 19 headed by 14 parsed as (NP (NP (NNS remarks)) (PP (IN at) (NP (DT a) (JJ middle) (NN school))))
+sid=3 spanning 16 until 19 headed by 18 parsed as (NP (DT a) (JJ middle) (NN school))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (NNP Bush))
+sid=4 spanning 7 until 14 headed by 9 parsed as (NP (NP (DT a) (NN victory) (NN rally)) (PP (IN in) (NP (NP (NNP Jacksonville)) (, ,) (NP (NNP Florida)))))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NP (NNP Jacksonville)) (, ,) (NP (NNP Florida)))
+sid=4 spanning 11 until 14 headed by 11 parsed as (NP (NP (NNP Jacksonville)) (, ,) (NP (NNP Florida)))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (NNP Florida))
+(end predicted mentions)
+---------gold clusters--------
+1 0 4 3 2 | { 'his' 'George W. Bush' 'Bush' 'The Texas governor' 'he' }
+(end gold clusters)

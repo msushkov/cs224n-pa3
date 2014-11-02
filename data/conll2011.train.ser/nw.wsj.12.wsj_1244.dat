@@ -1,0 +1,76 @@
+---------gloss--------
+(0) [3m[35m{International Minerals & Chemical Corp.}[0m said [3m[35m{it}[0m agreed definitively to [3m[36m{sell}[0m [3m[35m{its}[0m international fragrance business to Bayer AG of West Germany . 
+(1) Terms were n't disclosed . 
+(2) [3m[35m{The maker of animal health and nutrition products}[0m said [3m[33m{the business , Creations Aromatiques of Port Valais , Switzerland , and Woodside , N.Y. ,}[0m is a division of [3m[35m{its}[0m Mallinckrodt Inc. subsidiary and had sales of about $ 30 million for [3m[33m{its}[0m most recent year . 
+(3) [3m[35m{International Minerals}[0m said [3m[36m{the sale}[0m will allow [3m[34m{Mallinckrodt}[0m to focus [3m[34m{its}[0m resources on [3m[34m{its}[0m core businesses of medical products , specialty chemicals and flavors . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1244); part 000
+sentences:
+InternationalInternationalNNPORGPER0MineralsMineralsNNPSORGPER0&&CCORGPER0ChemicalChemicalNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0agreedagreeVBDOPER0definitivelydefinitivelyRBOPER0totoTOOPER0sellsellVBOPER0itsitsPRP$OPER0internationalinternationalJJOPER0fragrancefragranceNNOPER0businessbusinessNNOPER0totoINOPER0BayerBayerNNPORGPER0AGAGNNPORGPER0ofofINOPER0WestWestNNPGPEPER0GermanyGermanyNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP International) (NNPS Minerals)) (CC &) (NP (NNP Chemical) (NNP Corp.))) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (S (ADVP (RB definitively)) (VP (TO to) (VP (VB sell) (NP (PRP$ its) (NML (JJ international) (NN fragrance)) (NN business)) (PP (IN to) (NP (NP (NNP Bayer) (NNP AG)) (PP (IN of) (NP (NNP West) (NNP Germany)))))))))))) (. .)))
+TermstermNNSOPER0werebeVBDOPER0n'tnotRBOPER0discloseddiscloseVBNOPER0...OPER0(ROOT (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+ThetheDTOPER0makermakerNNOPER0ofofINOPER0animalanimalNNOPER0healthhealthNNOPER0andandCCOPER0nutritionnutritionNNOPER0productsproductNNSOPER0saidsayVBDOPER0thetheDTOPER0businessbusinessNNOPER0,,,OPER0CreationscreationNNSPERSONPER0AromatiquesaromatiqueNNSPERSONPER0ofofINOPER0PortPortNNPGPEPER0ValaisValaisNNPGPEPER0,,,OPER0SwitzerlandSwitzerlandNNPGPEPER0,,,OPER0andandCCOPER0WoodsideWoodsideNNPGPEPER0,,,OPER0N.Y.N.Y.NNPGPEPER0,,,OPER0isbeVBZOPER0aaDTOPER0divisiondivisionNNOPER0ofofINOPER0itsitsPRP$OPER0MallinckrodtMallinckrodtNNPORGPER0Inc.Inc.NNPORGPER0subsidiarysubsidiaryNNOPER0andandCCOPER0hadhaveVBDOPER0salessaleNNSOPER0ofofINOPER0aboutaboutRBMONEYPER0$$$MONEYPER03030CDMONEYPER0millionmillionCDMONEYPER0forforINOPER0itsitsPRP$OPER0mostmostRBSDATEPER0recentrecentJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NML (NN animal) (NN health) (CC and) (NN nutrition)) (NNS products)))) (VP (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN business)) (, ,) (NP (NP (NNS Creations) (NNS Aromatiques)) (PP (IN of) (NP (NP (NP (NNP Port) (NNP Valais)) (, ,) (NP (NNP Switzerland)) (, ,) (CC and) (NP (NNP Woodside))) (, ,) (NP (NNP N.Y.))))) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NN division)) (PP (IN of) (NP (PRP$ its) (NML (NNP Mallinckrodt) (NNP Inc.)) (NN subsidiary)))))))) (CC and) (VP (VBD had) (NP (NP (NNS sales)) (PP (IN of) (NP (NP (QP (RB about) ($ $) (CD 30) (CD million))) (PP (IN for) (NP (PRP$ its) (ADJP (RBS most) (JJ recent)) (NN year)))))))) (. .)))
+InternationalInternationalNNPORGPER0MineralsMineralsNNPSORGPER0saidsayVBDOPER0thetheDTOPER0salesaleNNOPER0willwillMDOPER0allowallowVBOPER0MallinckrodtMallinckrodtNNPORGPER0totoTOOPER0focusfocusVBOPER0itsitsPRP$OPER0resourcesresourceNNSOPER0ononINOPER0itsitsPRP$OPER0corecoreNNOPER0businessesbusinessNNSOPER0ofofINOPER0medicalmedicalJJOPER0productsproductNNSOPER0,,,OPER0specialtyspecialtyNNOPER0chemicalschemicalNNSOPER0andandCCOPER0flavorsflavorNNSOPER0...OPER0(ROOT (S (NP (NNP International) (NNPS Minerals)) (VP (VBD said) (SBAR (S (NP (DT the) (NN sale)) (VP (MD will) (VP (VB allow) (S (NP (NNP Mallinckrodt)) (VP (TO to) (VP (VB focus) (NP (PRP$ its) (NNS resources)) (PP (IN on) (NP (NP (PRP$ its) (NN core) (NNS businesses)) (PP (IN of) (NP (NP (JJ medical) (NNS products)) (, ,) (NP (NN specialty) (NNS chemicals)) (CC and) (NP (NNS flavors)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP International) (NNPS Minerals)) (CC &) (NP (NNP Chemical) (NNP Corp.)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 10 until 11 headed by 10 parsed as sell
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (PRP$ its) (NML (JJ international) (NN fragrance)) (NN business))
+sid=0 spanning 11 until 12 headed by 11 parsed as its
+sid=2 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NML (NN animal) (NN health) (CC and) (NN nutrition)) (NNS products))))
+sid=2 spanning 9 until 25 headed by 10 parsed as (NP (NP (DT the) (NN business)) (, ,) (NP (NP (NNS Creations) (NNS Aromatiques)) (PP (IN of) (NP (NP (NP (NNP Port) (NNP Valais)) (, ,) (NP (NNP Switzerland)) (, ,) (CC and) (NP (NNP Woodside))) (, ,) (NP (NNP N.Y.))))) (, ,))
+sid=2 spanning 29 until 33 headed by 32 parsed as (NP (PRP$ its) (NML (NNP Mallinckrodt) (NNP Inc.)) (NN subsidiary))
+sid=2 spanning 29 until 30 headed by 29 parsed as its
+sid=2 spanning 42 until 43 headed by 42 parsed as its
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP International) (NNPS Minerals))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN sale))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP Mallinckrodt))
+sid=3 spanning 10 until 11 headed by 10 parsed as its
+sid=3 spanning 13 until 14 headed by 13 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP International) (NNPS Minerals)) (CC &) (NP (NNP Chemical) (NNP Corp.)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (PRP$ its) (NML (JJ international) (NN fragrance)) (NN business))
+sid=0 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=0 spanning 16 until 21 headed by 17 parsed as (NP (NP (NNP Bayer) (NNP AG)) (PP (IN of) (NP (NNP West) (NNP Germany))))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (NNP West) (NNP Germany))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Terms))
+sid=2 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NML (NN animal) (NN health) (CC and) (NN nutrition)) (NNS products))))
+sid=2 spanning 3 until 8 headed by 7 parsed as (NP (NML (NN animal) (NN health) (CC and) (NN nutrition)) (NNS products))
+sid=2 spanning 9 until 25 headed by 10 parsed as (NP (NP (DT the) (NN business)) (, ,) (NP (NP (NNS Creations) (NNS Aromatiques)) (PP (IN of) (NP (NP (NP (NNP Port) (NNP Valais)) (, ,) (NP (NNP Switzerland)) (, ,) (CC and) (NP (NNP Woodside))) (, ,) (NP (NNP N.Y.))))) (, ,))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN business))
+sid=2 spanning 12 until 24 headed by 13 parsed as (NP (NP (NNS Creations) (NNS Aromatiques)) (PP (IN of) (NP (NP (NP (NNP Port) (NNP Valais)) (, ,) (NP (NNP Switzerland)) (, ,) (CC and) (NP (NNP Woodside))) (, ,) (NP (NNP N.Y.)))))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (NP (NP (NNP Port) (NNP Valais)) (, ,) (NP (NNP Switzerland)) (, ,) (CC and) (NP (NNP Woodside))) (, ,) (NP (NNP N.Y.)))
+sid=2 spanning 15 until 24 headed by 16 parsed as (NP (NP (NP (NNP Port) (NNP Valais)) (, ,) (NP (NNP Switzerland)) (, ,) (CC and) (NP (NNP Woodside))) (, ,) (NP (NNP N.Y.)))
+sid=2 spanning 15 until 22 headed by 16 parsed as (NP (NP (NNP Port) (NNP Valais)) (, ,) (NP (NNP Switzerland)) (, ,) (CC and) (NP (NNP Woodside)))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NNP Switzerland))
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (NNP Woodside))
+sid=2 spanning 23 until 24 headed by 23 parsed as (NP (NNP N.Y.))
+sid=2 spanning 26 until 33 headed by 27 parsed as (NP (NP (DT a) (NN division)) (PP (IN of) (NP (PRP$ its) (NML (NNP Mallinckrodt) (NNP Inc.)) (NN subsidiary))))
+sid=2 spanning 29 until 33 headed by 32 parsed as (NP (PRP$ its) (NML (NNP Mallinckrodt) (NNP Inc.)) (NN subsidiary))
+sid=2 spanning 29 until 30 headed by 29 parsed as (PRP$ its)
+sid=2 spanning 30 until 32 headed by 31 parsed as Inc.
+sid=2 spanning 35 until 46 headed by 35 parsed as (NP (NP (NNS sales)) (PP (IN of) (NP (NP (QP (RB about) ($ $) (CD 30) (CD million))) (PP (IN for) (NP (PRP$ its) (ADJP (RBS most) (JJ recent)) (NN year))))))
+sid=2 spanning 42 until 46 headed by 45 parsed as (NP (PRP$ its) (ADJP (RBS most) (JJ recent)) (NN year))
+sid=2 spanning 42 until 43 headed by 42 parsed as (PRP$ its)
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP International) (NNPS Minerals))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN sale))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP Mallinckrodt))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ its) (NNS resources))
+sid=3 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=3 spanning 13 until 24 headed by 15 parsed as (NP (NP (PRP$ its) (NN core) (NNS businesses)) (PP (IN of) (NP (NP (JJ medical) (NNS products)) (, ,) (NP (NN specialty) (NNS chemicals)) (CC and) (NP (NNS flavors)))))
+sid=3 spanning 13 until 14 headed by 13 parsed as (PRP$ its)
+sid=3 spanning 17 until 24 headed by 18 parsed as (NP (NP (JJ medical) (NNS products)) (, ,) (NP (NN specialty) (NNS chemicals)) (CC and) (NP (NNS flavors)))
+sid=3 spanning 17 until 19 headed by 18 parsed as (NP (JJ medical) (NNS products))
+sid=3 spanning 20 until 22 headed by 21 parsed as (NP (NN specialty) (NNS chemicals))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (NNS flavors))
+(end predicted mentions)
+---------gold clusters--------
+6 9 3 | { 'the business , Creations Aromatiques of Port Valais , Switzerland , and Woodside , N.Y. ,' 'its' 'its international fragrance business' }
+14 7 12 13 | { 'its' 'its Mallinckrodt Inc. subsidiary' 'Mallinckrodt' 'its' }
+0 1 4 5 10 8 | { 'International Minerals & Chemical Corp.' 'it' 'its' 'The maker of animal health and nutrition products' 'International Minerals' 'its' }
+11 2 | { 'the sale' 'sell' }
+(end gold clusters)

@@ -1,0 +1,60 @@
+---------gloss--------
+(0) Israeli and Palestinian negotiators are beginning [4m[33m{a new round of peace talks in Egypt , a session that could last ten days}[0m . 
+(1) For [4m[34m{Israeli Prime Minister Ehud Barak}[0m , [4m[33m{it}[0m 's a chance to reach a peace agreement and boost [4m[34m{his}[0m popularity with voters just weeks before Israeli elections . 
+(2) [4m[33m{The talks}[0m were proposed by [4m[35m{the Palestinians , who say they 're ready to explore all possibilities}[0m . 
+(3) [4m[34m{Barak}[0m says [4m[34m{he}[0m 's holding firm on the key issues that led to the breakdown of the last round of talks . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0182); part 000
+sentences:
+IsraeliisraeliJJOPER0andandCCOPER0PalestinianpalestinianJJOPER0negotiatorsnegotiatorNNSOPER0arebeVBPOPER0beginningbeginVBGOPER0aaDTOPER0newnewJJOPER0roundroundNNOPER0ofofINOPER0peacepeaceNNOPER0talkstalkNNSOPER0ininINOPER0EgyptEgyptNNPGPEPER0,,,OPER0aaDTOPER0sessionsessionNNOPER0thatthatWDTOPER0couldcouldMDOPER0lastlastVBOPER0tentenCDDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators)) (VP (VBP are) (VP (VBG beginning) (NP (NP (DT a) (JJ new) (NN round)) (PP (IN of) (NP (NP (NN peace) (NNS talks)) (PP (IN in) (NP (NP (NNP Egypt)) (, ,) (NP (NP (DT a) (NN session)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB last) (NP (CD ten) (NNS days)))))))))))))) (. .)))
+ForforINOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0,,,OPER0ititPRPOPER0'sbeVBZOPER0aaDTOPER0chancechanceNNOPER0totoTOOPER0reachreachVBOPER0aaDTOPER0peacepeaceNNOPER0agreementagreementNNOPER0andandCCOPER0boostboostVBOPER0hishePRP$OPER0popularitypopularityNNOPER0withwithINOPER0votersvoterNNSOPER0justjustRBOPER0weeksweekNNSDATEPER0beforebeforeINOPER0IsraeliisraeliJJOPER0electionselectionNNSOPER0...OPER0(ROOT (S (PP (IN For) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN chance) (S (VP (TO to) (VP (VP (VB reach) (NP (DT a) (NN peace) (NN agreement))) (CC and) (VP (VB boost) (NP (PRP$ his) (NN popularity)) (PP (IN with) (NP (NNS voters)))))))) (ADVP (RB just)) (PP (NP (NNS weeks)) (IN before) (NP (JJ Israeli) (NNS elections)))) (. .)))
+ThetheDTOPER0talkstalkNNSOPER0werebeVBDOPER0proposedproposeVBNOPER0bybyINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0,,,OPER0whowhoWPOPER0saysayVBPOPER0theytheyPRPOPER0'rebeVBPOPER0readyreadyJJOPER0totoTOOPER0exploreexploreVBOPER0allallDTOPER0possibilitiespossibilityNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNS talks)) (VP (VBD were) (VP (VBN proposed) (PP (IN by) (NP (NP (DT the) (NNPS Palestinians)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ ready) (S (VP (TO to) (VP (VB explore) (NP (DT all) (NNS possibilities)))))))))))))))) (. .)))
+BarakBarakNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0'sbeVBZOPER0holdingholdVBGOPER0firmfirmJJOPER0ononINOPER0thetheDTOPER0keykeyJJOPER0issuesissueNNSOPER0thatthatWDTOPER0ledleadVBDOPER0totoINOPER0thetheDTOPER0breakdownbreakdownNNOPER0ofofINOPER0thetheDTOPER0lastlastJJOPER0roundroundNNOPER0ofofINOPER0talkstalkNNSOPER0...OPER0(ROOT (S (NP (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG holding) (S (ADJP (JJ firm) (PP (IN on) (NP (NP (DT the) (JJ key) (NNS issues)) (SBAR (WHNP (WDT that)) (S (VP (VBD led) (PP (IN to) (NP (NP (DT the) (NN breakdown)) (PP (IN of) (NP (NP (DT the) (JJ last) (NN round)) (PP (IN of) (NP (NNS talks))))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 22 headed by 8 parsed as (NP (NP (DT a) (JJ new) (NN round)) (PP (IN of) (NP (NP (NN peace) (NNS talks)) (PP (IN in) (NP (NP (NNP Egypt)) (, ,) (NP (NP (DT a) (NN session)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB last) (NP (CD ten) (NNS days))))))))))))
+sid=1 spanning 1 until 6 headed by 5 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=1 spanning 18 until 19 headed by 18 parsed as his
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS talks))
+sid=2 spanning 5 until 17 headed by 6 parsed as (NP (NP (DT the) (NNPS Palestinians)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ ready) (S (VP (TO to) (VP (VB explore) (NP (DT all) (NNS possibilities)))))))))))))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators))
+sid=0 spanning 6 until 22 headed by 8 parsed as (NP (NP (DT a) (JJ new) (NN round)) (PP (IN of) (NP (NP (NN peace) (NNS talks)) (PP (IN in) (NP (NP (NNP Egypt)) (, ,) (NP (NP (DT a) (NN session)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB last) (NP (CD ten) (NNS days))))))))))))
+sid=0 spanning 10 until 22 headed by 11 parsed as (NP (NP (NN peace) (NNS talks)) (PP (IN in) (NP (NP (NNP Egypt)) (, ,) (NP (NP (DT a) (NN session)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB last) (NP (CD ten) (NNS days))))))))))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NP (NNP Egypt)) (, ,) (NP (NP (DT a) (NN session)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB last) (NP (CD ten) (NNS days))))))))
+sid=0 spanning 13 until 22 headed by 13 parsed as (NP (NP (NNP Egypt)) (, ,) (NP (NP (DT a) (NN session)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB last) (NP (CD ten) (NNS days))))))))
+sid=0 spanning 15 until 22 headed by 16 parsed as (NP (NP (DT a) (NN session)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB last) (NP (CD ten) (NNS days)))))))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (CD ten) (NNS days))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 1 until 6 headed by 5 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=1 spanning 9 until 22 headed by 10 parsed as (NP (DT a) (NN chance) (S (VP (TO to) (VP (VP (VB reach) (NP (DT a) (NN peace) (NN agreement))) (CC and) (VP (VB boost) (NP (PRP$ his) (NN popularity)) (PP (IN with) (NP (NNS voters))))))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (NN peace) (NN agreement))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (PRP$ his) (NN popularity))
+sid=1 spanning 18 until 19 headed by 18 parsed as (PRP$ his)
+sid=1 spanning 21 until 22 headed by 21 parsed as (NP (NNS voters))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (NNS weeks))
+sid=1 spanning 25 until 27 headed by 26 parsed as (NP (JJ Israeli) (NNS elections))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS talks))
+sid=2 spanning 5 until 17 headed by 6 parsed as (NP (NP (DT the) (NNPS Palestinians)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ ready) (S (VP (TO to) (VP (VB explore) (NP (DT all) (NNS possibilities)))))))))))))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNPS Palestinians))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=3 spanning 7 until 21 headed by 9 parsed as (NP (NP (DT the) (JJ key) (NNS issues)) (SBAR (WHNP (WDT that)) (S (VP (VBD led) (PP (IN to) (NP (NP (DT the) (NN breakdown)) (PP (IN of) (NP (NP (DT the) (JJ last) (NN round)) (PP (IN of) (NP (NNS talks)))))))))))
+sid=3 spanning 13 until 21 headed by 14 parsed as (NP (NP (DT the) (NN breakdown)) (PP (IN of) (NP (NP (DT the) (JJ last) (NN round)) (PP (IN of) (NP (NNS talks))))))
+sid=3 spanning 16 until 21 headed by 18 parsed as (NP (NP (DT the) (JJ last) (NN round)) (PP (IN of) (NP (NNS talks))))
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (NNS talks))
+(end predicted mentions)
+---------gold clusters--------
+4 2 0 | { 'The talks' 'it' 'a new round of peace talks in Egypt , a session that could last ten days' }
+1 3 7 8 | { 'Israeli Prime Minister Ehud Barak' 'his' 'Barak' 'he' }
+5 6 | { 'the Palestinians , who say they 're ready to explore all possibilities' 'they' }
+(end gold clusters)

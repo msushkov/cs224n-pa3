@@ -1,0 +1,34 @@
+---------gloss--------
+(0) Well Bob , [3m[35m{Palestinian and Israeli negotiators}[0m left for home on Saturday after five day of talks in Washington ended without a breakthrough . 
+(1) [3m[35m{Both delegations}[0m say [3m[35m{they}[0m will report back to President Clinton next week to determine the future of the troubled peace process . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0185); part 000
+sentences:
+WellwellUHOPER0BobBobNNPPERSONPER0,,,OPER0PalestinianpalestinianJJOPER0andandCCOPER0IsraeliisraeliJJOPER0negotiatorsnegotiatorNNSOPER0leftleaveVBDOPER0forforINOPER0homehomeNNOPER0ononINOPER0SaturdaySaturdayNNPDATEPER0afterafterINOPER0fivefiveCDDATEPER0daydayNNDATEPER0ofofINOPER0talkstalkNNSOPER0ininINOPER0WashingtonWashingtonNNPGPEPER0endedendVBNOPER0withoutwithoutINOPER0aaDTOPER0breakthroughbreakthroughNNOPER0...OPER0(ROOT (S (INTJ (UH Well)) (NP (NNP Bob)) (, ,) (NP (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NNS negotiators)) (VP (VBD left) (PP (IN for) (NP (NN home))) (PP (IN on) (NP (NNP Saturday))) (PP (IN after) (NP (NP (CD five) (NN day)) (PP (IN of) (NP (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Washington)))) (VP (VBN ended) (PP (IN without) (NP (DT a) (NN breakthrough))))))))) (. .)))
+BothbothDTOPER0delegationsdelegationNNSOPER0saysayVBPOPER0theytheyPRPOPER0willwillMDOPER0reportreportVBOPER0backbackRBOPER0totoINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0nextnextJJDATEPER0weekweekNNDATEPER0totoTOOPER0determinedetermineVBOPER0thetheDTOPER0futurefutureNNOPER0ofofINOPER0thetheDTOPER0troubledtroubledJJOPER0peacepeaceNNOPER0processprocessNNOPER0...OPER0(ROOT (S (NP (DT Both) (NNS delegations)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB report) (ADVP (RB back) (PP (IN to) (NP (NNP President) (NNP Clinton)))) (NP (JJ next) (NN week)) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN future)) (PP (IN of) (NP (DT the) (JJ troubled) (NN peace) (NN process)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NNS negotiators))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT Both) (NNS delegations))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (NNP Bob))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (ADJP (JJ Palestinian) (CC and) (JJ Israeli)) (NNS negotiators))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Saturday))
+sid=0 spanning 13 until 23 headed by 14 parsed as (NP (NP (CD five) (NN day)) (PP (IN of) (NP (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Washington)))) (VP (VBN ended) (PP (IN without) (NP (DT a) (NN breakthrough)))))))
+sid=0 spanning 16 until 23 headed by 16 parsed as (NP (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Washington)))) (VP (VBN ended) (PP (IN without) (NP (DT a) (NN breakthrough)))))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Washington))
+sid=0 spanning 21 until 23 headed by 22 parsed as (NP (DT a) (NN breakthrough))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT Both) (NNS delegations))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (NNP President) (NNP Clinton))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (JJ next) (NN week))
+sid=1 spanning 14 until 21 headed by 15 parsed as (NP (NP (DT the) (NN future)) (PP (IN of) (NP (DT the) (JJ troubled) (NN peace) (NN process))))
+sid=1 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (JJ troubled) (NN peace) (NN process))
+(end predicted mentions)
+---------gold clusters--------
+0 1 2 | { 'Palestinian and Israeli negotiators' 'Both delegations' 'they' }
+(end gold clusters)

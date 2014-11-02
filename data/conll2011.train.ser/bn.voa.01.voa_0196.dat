@@ -1,0 +1,96 @@
+---------gloss--------
+(0) On the ski slopes [3m[31m{Christian Hummer}[0m [3m[32m{edged}[0m [3m[34m{fellow Norwegian Biarka Engenvick}[0m after a thrilling duel down the stretch of [1m[36m{a World Cup Nordic combined ski sprint event in Norway Friday}[0m . 
+(1) [3m[31m{Hummer}[0m [3m[33m{trailed}[0m [3m[34m{Engenvick}[0m by 21 seconds at the start of [1m[36m{the 7.5 kilometer cross-country race}[0m . 
+(2) [3m[33m{that}[0m 's because [3m[31m{Hummer}[0m finished third in [3m[35m{the morning jumping portion on Lillehammer 's Olympic Hill}[0m . 
+(3) However , [3m[31m{Hummer}[0m overtook Austrian David Kriner who placed second in [3m[35m{the ski jump}[0m after about one kilometer . 
+(4) two kilometers later [3m[31m{Hummer}[0m approached [3m[34m{Engenvick}[0m and they skied together the rest of the way . 
+(5) [3m[32m{It}[0m was only the second [1m[35m{World Cup}[0m win for [3m[31m{Hummer who 's been on the national team for five years}[0m . 
+(6) And that 's sports , I am Dave Byrd . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0196); part 000
+sentences:
+OnonINOPER0thetheDTOPER0skiskiNNOPER0slopesslopeNNSOPER0ChristianChristianNNPORGPER0HummerHummerNNPORGPER0edgededgeVBDOPER0fellowfellowJJOPER0NorwegiannorwegianJJOPER0BiarkaBiarkaNNPOPER0EngenvickEngenvickNNPOPER0afterafterINOPER0aaDTOPER0thrillingthrillingJJOPER0duelduelNNOPER0downdownINOPER0thetheDTOPER0stretchstretchNNOPER0ofofINOPER0aaDTOPER0WorldWorldNNPEVENTPER0CupCupNNPEVENTPER0NordicNordicNNPEVENTPER0combinedcombinedJJOPER0skiskiNNOPER0sprintsprintNNOPER0eventeventNNOPER0ininINOPER0NorwayNorwayNNPGPEPER0FridayFridayNNPDATEPER0...OPER0(ROOT (S (PP (IN On) (NP (DT the) (NN ski) (NNS slopes))) (NP (NNP Christian) (NNP Hummer)) (VP (VBD edged) (NP (JJ fellow) (JJ Norwegian) (NNP Biarka) (NNP Engenvick)) (PP (IN after) (NP (DT a) (JJ thrilling) (NN duel))) (PP (IN down) (NP (NP (DT the) (NN stretch)) (PP (IN of) (NP (NP (DT a) (NML (NNP World) (NNP Cup)) (NML (NNP Nordic) (JJ combined) (NN ski) (NN sprint)) (NN event)) (PP (IN in) (NP (NNP Norway) (NNP Friday)))))))) (. .)))
+HummerHummerNNPOPER0trailedtrailVBDOPER0EngenvickEngenvickNNPORGPER0bybyINOPER02121CDTIMEPER0secondssecondsNNSTIMEPER0atatINOPER0thetheDTOPER0startstartNNOPER0ofofINOPER0thetheDTOPER07.57.5CDQUANTITYPER0kilometerkilometerNNQUANTITYPER0cross-countrycross-countryNNOPER0raceraceNNOPER0...OPER0(ROOT (S (NP (NNP Hummer)) (VP (VBD trailed) (NP (NNP Engenvick)) (PP (IN by) (NP (CD 21) (NNS seconds))) (PP (IN at) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (DT the) (NML (CD 7.5) (NN kilometer)) (NN cross-country) (NN race)))))) (. .)))
+thatthatDTOPER0'sbeVBZOPER0becausebecauseINOPER0HummerHummerNNPORGPER0finishedfinishVBDOPER0thirdthirdRBORDINALPER0ininINOPER0thetheDTTIMEPER0morningmorningNNTIMEPER0jumpingjumpVBGOPER0portionportionNNOPER0ononINOPER0LillehammerLillehammerNNPGPEPER0's'sPOSOPER0OlympicOlympicNNPORGPER0HillHillNNPORGPER0...OPER0(ROOT (S (NP (DT that)) (VP (VBZ 's) (SBAR (IN because) (S (NP (NNP Hummer)) (VP (VBD finished) (ADVP (RB third) (PP (IN in) (NP (DT the) (NN morning)))) (VP (VBG jumping) (NP (NN portion)) (PP (IN on) (NP (NP (NNP Lillehammer) (POS 's)) (NNP Olympic) (NNP Hill)))))))) (. .)))
+HoweverhoweverRBOPER0,,,OPER0HummerHummerNNPORGPER0overtookovertakeVBPOPER0AustrianaustrianJJOPER0DavidDavidNNPPERSONPER0KrinerKrinerNNPPERSONPER0whowhoWPOPER0placedplaceVBDOPER0secondsecondJJORDINALPER0ininINOPER0thetheDTOPER0skiskiJJOPER0jumpjumpNNOPER0afterafterINOPER0aboutaboutRBQUANTITYPER0oneoneCDQUANTITYPER0kilometerkilometerNNQUANTITYPER0...OPER0(ROOT (S (ADVP (RB However)) (, ,) (NP (NNP Hummer)) (VP (VBP overtook) (NP (NP (JJ Austrian) (NNP David) (NNP Kriner)) (SBAR (WHNP (WP who)) (S (VP (VBD placed) (NP (JJ second)) (PP (IN in) (NP (DT the) (JJ ski) (NN jump))) (PP (IN after) (NP (QP (RB about) (CD one)) (NN kilometer)))))))) (. .)))
+twotwoCDCARDINALPER0kilometerskilometerNNSQUANTITYPER0laterlaterRBOPER0HummerHummerNNPORGPER0approachedapproachVBDOPER0EngenvickEngenvickNNPORGPER0andandCCOPER0theytheyPRPOPER0skiedskiVBDOPER0togethertogetherRBOPER0thetheDTOPER0restrestNNOPER0ofofINOPER0thetheDTOPER0waywayNNOPER0...OPER0(ROOT (S (S (ADVP (NP (CD two) (NNS kilometers)) (RB later)) (NP (NNP Hummer)) (VP (VBD approached) (NP (NNP Engenvick)))) (CC and) (S (NP (PRP they)) (VP (VBD skied) (ADVP (RB together)) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN way)))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0onlyonlyRBOPER0thetheDTOPER0secondsecondJJORDINALPER0WorldWorldNNPEVENTPER0CupCupNNPEVENTPER0winwinNNOPER0forforINOPER0HummerHummerNNPORGPER0whowhoWPOPER0'sbeVBZOPER0beenbeVBNOPER0ononINOPER0thetheDTOPER0nationalnationalJJOPER0teamteamNNOPER0forforINOPER0fivefiveCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (ADVP (RB only)) (NP (NP (DT the) (JJ second) (NML (NNP World) (NNP Cup)) (NN win)) (PP (IN for) (NP (NNP Hummer)))) (SBAR (WHNP (WP who)) (S (VP (VBZ 's) (VP (VBN been) (PP (IN on) (NP (DT the) (JJ national) (NN team))) (PP (IN for) (NP (CD five) (NNS years)))))))) (. .)))
+AndandCCOPER0thatthatDTOPER0'sbeVBZOPER0sportssportNNSOPER0,,,OPER0IIPRPOPER0ambeVBPOPER0DaveDaveNNPPERSONPER0ByrdByrdNNPPERSONPER0...OPER0(ROOT (S (CC And) (NP (DT that)) (VP (VBZ 's) (NP (NP (NNS sports)) (, ,) (SBAR (S (NP (PRP I)) (VP (VBP am) (NP (NNP Dave) (NNP Byrd))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Christian) (NNP Hummer))
+sid=0 spanning 6 until 7 headed by 6 parsed as edged
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (JJ fellow) (JJ Norwegian) (NNP Biarka) (NNP Engenvick))
+sid=0 spanning 19 until 30 headed by 26 parsed as (NP (NP (DT a) (NML (NNP World) (NNP Cup)) (NML (NNP Nordic) (JJ combined) (NN ski) (NN sprint)) (NN event)) (PP (IN in) (NP (NNP Norway) (NNP Friday))))
+sid=0 spanning 20 until 22 headed by 21 parsed as Cup
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Hummer))
+sid=1 spanning 1 until 2 headed by 1 parsed as trailed
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Engenvick))
+sid=1 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (NML (CD 7.5) (NN kilometer)) (NN cross-country) (NN race))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT that))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Hummer))
+sid=2 spanning 7 until 16 headed by 8 parsed as (NP (DT the) (NN morning))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Hummer))
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (JJ ski) (NN jump))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Hummer))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNP Engenvick))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=5 spanning 5 until 7 headed by 6 parsed as Cup
+sid=5 spanning 9 until 20 headed by 9 parsed as (NP (NNP Hummer))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NN ski) (NNS slopes))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Christian) (NNP Hummer))
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (JJ fellow) (JJ Norwegian) (NNP Biarka) (NNP Engenvick))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (JJ thrilling) (NN duel))
+sid=0 spanning 16 until 30 headed by 17 parsed as (NP (NP (DT the) (NN stretch)) (PP (IN of) (NP (NP (DT a) (NML (NNP World) (NNP Cup)) (NML (NNP Nordic) (JJ combined) (NN ski) (NN sprint)) (NN event)) (PP (IN in) (NP (NNP Norway) (NNP Friday))))))
+sid=0 spanning 19 until 30 headed by 26 parsed as (NP (NP (DT a) (NML (NNP World) (NNP Cup)) (NML (NNP Nordic) (JJ combined) (NN ski) (NN sprint)) (NN event)) (PP (IN in) (NP (NNP Norway) (NNP Friday))))
+sid=0 spanning 20 until 23 headed by 22 parsed as Nordic
+sid=0 spanning 28 until 30 headed by 29 parsed as (NP (NNP Norway) (NNP Friday))
+sid=0 spanning 28 until 29 headed by 28 parsed as Norway
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Hummer))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Engenvick))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (CD 21) (NNS seconds))
+sid=1 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT the) (NN start)) (PP (IN of) (NP (DT the) (NML (CD 7.5) (NN kilometer)) (NN cross-country) (NN race))))
+sid=1 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (NML (CD 7.5) (NN kilometer)) (NN cross-country) (NN race))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT that))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Hummer))
+sid=2 spanning 5 until 6 headed by 5 parsed as third
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN morning))
+sid=2 spanning 12 until 16 headed by 15 parsed as (NP (NP (NNP Lillehammer) (POS 's)) (NNP Olympic) (NNP Hill))
+sid=2 spanning 12 until 14 headed by 12 parsed as (NP (NNP Lillehammer) (POS 's))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Hummer))
+sid=3 spanning 4 until 18 headed by 6 parsed as (NP (NP (JJ Austrian) (NNP David) (NNP Kriner)) (SBAR (WHNP (WP who)) (S (VP (VBD placed) (NP (JJ second)) (PP (IN in) (NP (DT the) (JJ ski) (NN jump))) (PP (IN after) (NP (QP (RB about) (CD one)) (NN kilometer)))))))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (JJ second))
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (JJ ski) (NN jump))
+sid=3 spanning 15 until 18 headed by 17 parsed as (NP (QP (RB about) (CD one)) (NN kilometer))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (CD two) (NNS kilometers))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Hummer))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNP Engenvick))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=4 spanning 10 until 15 headed by 11 parsed as (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN way))))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN way))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=5 spanning 3 until 10 headed by 7 parsed as (NP (NP (DT the) (JJ second) (NML (NNP World) (NNP Cup)) (NN win)) (PP (IN for) (NP (NNP Hummer))))
+sid=5 spanning 4 until 5 headed by 4 parsed as second
+sid=5 spanning 5 until 7 headed by 6 parsed as Cup
+sid=5 spanning 9 until 10 headed by 9 parsed as (NP (NNP Hummer))
+sid=5 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (JJ national) (NN team))
+sid=5 spanning 18 until 20 headed by 19 parsed as (NP (CD five) (NNS years))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (DT that))
+sid=6 spanning 3 until 9 headed by 3 parsed as (NP (NP (NNS sports)) (, ,) (SBAR (S (NP (PRP I)) (VP (VBP am) (NP (NNP Dave) (NNP Byrd))))))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (NNS sports))
+sid=6 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (NNP Dave) (NNP Byrd))
+(end predicted mentions)
+---------gold clusters--------
+4 17 | { 'World Cup' 'World Cup' }
+3 8 | { 'a World Cup Nordic combined ski sprint event in Norway Friday' 'the 7.5 kilometer cross-country race' }
+14 18 5 12 10 0 | { 'Hummer' 'Hummer who 's been on the national team for five years' 'Hummer' 'Hummer' 'Hummer' 'Christian Hummer' }
+1 16 | { 'edged' 'It' }
+6 9 | { 'trailed' 'that' }
+7 2 15 | { 'Engenvick' 'fellow Norwegian Biarka Engenvick' 'Engenvick' }
+13 11 | { 'the ski jump' 'the morning jumping portion on Lillehammer 's Olympic Hill' }
+(end gold clusters)

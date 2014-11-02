@@ -1,0 +1,78 @@
+---------gloss--------
+(0) Checking our top stories -- [1m[36m{Israeli Prime Minister Ehud Barak}[0m has reiterated [1m[36m{his}[0m threat to take action against Palestinians if violence does not stop by Monday . 
+(1) [1m[36m{Barak}[0m says Palestinian Authority President Yasser Arafat has the power to halt the clashes . 
+(2) Palestinians blame the Israelis for igniting the tensions . 
+(3) [1m[35m{First Lady Hillary Clinton and Representative Rick Lazio}[0m debate a second time in [1m[35m{their}[0m race for a New York Senate seat . 
+(4) [1m[34m{Yugoslavia 's}[0m new President is trying to form a government without support from [1m[33m{his}[0m supporters . 
+(5) [3m[31m{Milosevic himself}[0m has said that [3m[31m{he}[0m will remain in [1m[34m{Yugoslavia}[0m as a political force . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0022); part 000
+sentences:
+CheckingcheckVBGOPER0ourwePRP$OPER0toptopJJOPER0storiesstoryNNSOPER0----:OPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0hashaveVBZOPER0reiteratedreiterateVBNOPER0hishePRP$OPER0threatthreatNNOPER0totoTOOPER0taketakeVBOPER0actionactionNNOPER0againstagainstINOPER0PalestiniansPalestiniansNNPSOPER0ififINOPER0violenceviolenceNNOPER0doesdoVBZOPER0notnotRBOPER0stopstopVBOPER0bybyINOPER0MondayMondayNNPDATEPER0...OPER0(ROOT (FRAG (S (VP (VBG Checking) (NP (PRP$ our) (JJ top) (NNS stories)))) (: --) (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ has) (VP (VBN reiterated) (NP (PRP$ his) (NN threat) (S (VP (TO to) (VP (VB take) (NP (NP (NN action)) (PP (IN against) (NP (NNPS Palestinians)))) (SBAR (IN if) (S (NP (NN violence)) (VP (VBZ does) (RB not) (VP (VB stop) (PP (IN by) (NP (NNP Monday)))))))))))))) (. .)))
+BarakBarakNNPPERSONPER0sayssayVBZOPER0PalestinianPalestinianNNPORGPER0AuthorityAuthorityNNPORGPER0PresidentPresidentNNPOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0hashaveVBZOPER0thetheDTOPER0powerpowerNNOPER0totoTOOPER0halthaltVBOPER0thetheDTOPER0clashesclashNNSOPER0...OPER0(ROOT (S (NP (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (NML (NML (NNP Palestinian) (NNP Authority)) (NNP President)) (NNP Yasser) (NNP Arafat)) (VP (VBZ has) (NP (DT the) (NN power) (S (VP (TO to) (VP (VB halt) (NP (DT the) (NNS clashes)))))))))) (. .)))
+PalestiniansPalestiniansNNPSOPER0blameblameVBPOPER0thetheDTOPER0IsraelisIsraelisNNPSOPER0forforINOPER0ignitingigniteVBGOPER0thetheDTOPER0tensionstensionNNSOPER0...OPER0(ROOT (S (NP (NNPS Palestinians)) (VP (VBP blame) (NP (DT the) (NNPS Israelis)) (PP (IN for) (S (VP (VBG igniting) (NP (DT the) (NNS tensions)))))) (. .)))
+FirstFirstNNPOPER0LadyLadyNNPPERSONPER0HillaryHillaryNNPPERSONPER0ClintonClintonNNPPERSONPER0andandCCOPER0RepresentativeRepresentativeNNPOPER0RickRickNNPPERSONPER0LazioLazioNNPPERSONPER0debatedebateNNOPER0aaDTOPER0secondsecondJJORDINALPER0timetimeNNOPER0ininINOPER0theirtheyPRP$OPER0raceraceNNOPER0forforINOPER0aaDTOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0SenateSenateNNPORGPER0seatseatNNOPER0...OPER0(ROOT (S (NP (NP (NML (NNP First) (NNP Lady)) (NNP Hillary) (NNP Clinton)) (CC and) (NP (NNP Representative) (NNP Rick) (NNP Lazio))) (VP (NN debate) (NP (NP (DT a) (JJ second) (NN time)) (PP (IN in) (NP (PRP$ their) (NN race)))) (PP (IN for) (NP (DT a) (NML (NNP New) (NNP York)) (NNP Senate) (NN seat)))) (. .)))
+YugoslaviaYugoslaviaNNPORGPER0's'sPOSOPER0newnewJJOPER0PresidentPresidentNNPOPER0isbeVBZOPER0tryingtryVBGOPER0totoTOOPER0formformVBOPER0aaDTOPER0governmentgovernmentNNOPER0withoutwithoutINOPER0supportsupportNNOPER0fromfromINOPER0hishePRP$OPER0supporterssupporterNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB form) (NP (DT a) (NN government)) (PP (IN without) (NP (NP (NN support)) (PP (IN from) (NP (PRP$ his) (NNS supporters)))))))))) (. .)))
+MilosevicMilosevicNNPPERSONPER0himselfhimselfPRPOPER0hashaveVBZOPER0saidsayVBNOPER0thatthatINOPER0hehePRPOPER0willwillMDOPER0remainremainVBOPER0ininINOPER0YugoslaviaYugoslaviaNNPGPEPER0asasINOPER0aaDTOPER0politicalpoliticalJJOPER0forceforceNNOPER0...OPER0(ROOT (S (NP (NNP Milosevic) (PRP himself)) (VP (VBZ has) (VP (VBN said) (SBAR (IN that) (S (NP (PRP he)) (VP (MD will) (VP (VB remain) (PP (IN in) (NP (NNP Yugoslavia))) (PP (IN as) (NP (DT a) (JJ political) (NN force))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 12 until 13 headed by 12 parsed as his
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=3 spanning 0 until 8 headed by 3 parsed as (NP (NP (NML (NNP First) (NNP Lady)) (NNP Hillary) (NNP Clinton)) (CC and) (NP (NNP Representative) (NNP Rick) (NNP Lazio)))
+sid=3 spanning 13 until 14 headed by 13 parsed as their
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=4 spanning 13 until 14 headed by 13 parsed as his
+sid=5 spanning 0 until 2 headed by 0 parsed as (NP (NNP Milosevic) (PRP himself))
+sid=5 spanning 1 until 2 headed by 1 parsed as himself
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=5 spanning 9 until 10 headed by 9 parsed as (NP (NNP Yugoslavia))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (PRP$ our) (JJ top) (NNS stories))
+sid=0 spanning 1 until 2 headed by 1 parsed as (PRP$ our)
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 12 until 26 headed by 13 parsed as (NP (PRP$ his) (NN threat) (S (VP (TO to) (VP (VB take) (NP (NP (NN action)) (PP (IN against) (NP (NNPS Palestinians)))) (SBAR (IN if) (S (NP (NN violence)) (VP (VBZ does) (RB not) (VP (VB stop) (PP (IN by) (NP (NNP Monday)))))))))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (PRP$ his)
+sid=0 spanning 16 until 19 headed by 16 parsed as (NP (NP (NN action)) (PP (IN against) (NP (NNPS Palestinians))))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNP Monday))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=1 spanning 2 until 7 headed by 6 parsed as (NP (NML (NML (NNP Palestinian) (NNP Authority)) (NNP President)) (NNP Yasser) (NNP Arafat))
+sid=1 spanning 2 until 4 headed by 3 parsed as Authority
+sid=1 spanning 8 until 14 headed by 9 parsed as (NP (DT the) (NN power) (S (VP (TO to) (VP (VB halt) (NP (DT the) (NNS clashes))))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS clashes))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNPS Israelis))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS tensions))
+sid=3 spanning 1 until 4 headed by 3 parsed as (NP (NP (NML (NNP First) (NNP Lady)) (NNP Hillary) (NNP Clinton)) (CC and) (NP (NNP Representative) (NNP Rick) (NNP Lazio)))
+sid=3 spanning 0 until 8 headed by 3 parsed as (NP (NP (NML (NNP First) (NNP Lady)) (NNP Hillary) (NNP Clinton)) (CC and) (NP (NNP Representative) (NNP Rick) (NNP Lazio)))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP First) (NNP Lady)) (NNP Hillary) (NNP Clinton))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (NNP Representative) (NNP Rick) (NNP Lazio))
+sid=3 spanning 9 until 15 headed by 11 parsed as (NP (NP (DT a) (JJ second) (NN time)) (PP (IN in) (NP (PRP$ their) (NN race))))
+sid=3 spanning 10 until 11 headed by 10 parsed as second
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ their) (NN race))
+sid=3 spanning 13 until 14 headed by 13 parsed as (PRP$ their)
+sid=3 spanning 16 until 21 headed by 20 parsed as (NP (DT a) (NML (NNP New) (NNP York)) (NNP Senate) (NN seat))
+sid=3 spanning 17 until 19 headed by 18 parsed as York
+sid=3 spanning 19 until 20 headed by 19 parsed as Senate
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN government))
+sid=4 spanning 11 until 15 headed by 11 parsed as (NP (NP (NN support)) (PP (IN from) (NP (PRP$ his) (NNS supporters))))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ his) (NNS supporters))
+sid=4 spanning 13 until 14 headed by 13 parsed as (PRP$ his)
+sid=5 spanning 0 until 2 headed by 0 parsed as (NP (NNP Milosevic) (PRP himself))
+sid=5 spanning 1 until 2 headed by 1 parsed as (PRP himself)
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=5 spanning 9 until 10 headed by 9 parsed as (NP (NNP Yugoslavia))
+sid=5 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (JJ political) (NN force))
+(end predicted mentions)
+---------gold clusters--------
+5 7 | { 'Yugoslavia 's new President' 'his' }
+6 11 | { 'Yugoslavia 's' 'Yugoslavia' }
+3 4 | { 'First Lady Hillary Clinton and Representative Rick Lazio' 'their' }
+0 1 2 | { 'Israeli Prime Minister Ehud Barak' 'his' 'Barak' }
+8 9 10 | { 'Milosevic himself' 'himself' 'he' }
+(end gold clusters)

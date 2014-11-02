@@ -1,0 +1,121 @@
+---------gloss--------
+(0) Experts [3m[35m{say}[0m there 's no accurate or useful way to profile the personality of a child that might commit violent acts . 
+(1) [3m[35m{That}[0m 's according to [3m[31m{a new study from the Secret Service on school violence}[0m . 
+(2) [3m[31m{It}[0m shows that attackers , like the two who killed 13 people at Columbine High School last year in Colorado , come from a variety of family and ethnic backgrounds . 
+(3) Academic performance ranged from excellent to failure . 
+(4) Some -- so far only boys , were considered loners , others popular . 
+(5) Behavioral problems were common among some children , but others had no such history . 
+(6) Experts say [3m[31m{the study 's}[0m information is still useful . 
+(7) [3m[31m{It}[0m 's really a fact - based report , and with [3m[36m{these facts}[0m , [3m[33m{a school}[0m can move out and actually do [4m[31m{prevention}[0m , and some of [4m[31m{that prevention}[0m is to realize that there are [3m[34m{boys out there who are in pain who will just mention it slightly because they are afraid to talk about it}[0m , and [3m[33m{the school}[0m can do something about that . 
+(8) [3m[33m{They}[0m can respond in a supportive shame - free way and help [3m[34m{that boy}[0m out before [3m[34m{he}[0m moves on to targeted violence , instead of saying , Boys will be boys or all boys say these things , so let 's just forget about it . 
+(9) [3m[31m{The study}[0m also found more than half the students who perpetrated attacks were motivated by revenge and had a history of gun use . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0037); part 000
+sentences:
+ExpertsexpertNNSOPER0saysayVBPOPER0therethereEXOPER0'sbeVBZOPER0nonoDTOPER0accurateaccurateJJOPER0ororCCOPER0usefulusefulJJOPER0waywayNNOPER0totoTOOPER0profileprofileVBOPER0thetheDTOPER0personalitypersonalityNNOPER0ofofINOPER0aaDTOPER0childchildNNOPER0thatthatWDTOPER0mightmightMDOPER0commitcommitVBOPER0violentviolentJJOPER0actsactNNSOPER0...OPER0(ROOT (S (NP (NNS Experts)) (VP (VBP say) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT no) (ADJP (JJ accurate) (CC or) (JJ useful)) (NN way)) (SBAR (S (VP (TO to) (VP (VB profile) (NP (NP (DT the) (NN personality)) (PP (IN of) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB commit) (NP (JJ violent) (NNS acts)))))))))))))))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0accordingaccordVBGOPER0totoINOPER0aaDTOPER0newnewJJOPER0studystudyNNOPER0fromfromINOPER0thetheDTORGPER0SecretSecretNNPORGPER0ServiceServiceNNPORGPER0ononINOPER0schoolschoolNNOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (PP (VBG according) (PP (IN to) (NP (NP (DT a) (JJ new) (NN study)) (PP (IN from) (NP (DT the) (NNP Secret) (NNP Service))) (PP (IN on) (NP (NN school) (NN violence))))))) (. .)))
+ItitPRPOPER0showsshowVBZOPER0thatthatINOPER0attackersattackerNNSOPER0,,,OPER0likelikeINOPER0thetheDTOPER0twotwoCDCARDINALPER0whowhoWPOPER0killedkillVBDOPER01313CDCARDINALPER0peoplepeopleNNSOPER0atatINOPER0ColumbineColumbineNNPORGPER0HighHighNNPORGPER0SchoolSchoolNNPORGPER0lastlastJJDATEPER0yearyearNNDATEPER0ininINOPER0ColoradoColoradoNNPGPEPER0,,,OPER0comecomeVBDOPER0fromfromINOPER0aaDTOPER0varietyvarietyNNOPER0ofofINOPER0familyfamilyNNOPER0andandCCOPER0ethnicethnicJJOPER0backgroundsbackgroundNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (NNS attackers)) (, ,) (PP (IN like) (NP (NP (DT the) (CD two)) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (CD 13) (NNS people)) (PP (IN at) (NP (NNP Columbine) (NNP High) (NNP School))) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Colorado)))))))) (, ,)) (VP (VBD come) (PP (IN from) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NN family) (CC and) (JJ ethnic)) (NNS backgrounds))))))))) (. .)))
+AcademicacademicJJOPER0performanceperformanceNNOPER0rangedrangeVBDOPER0fromfromINOPER0excellentexcellentNNOPER0totoINOPER0failurefailureNNOPER0...OPER0(ROOT (S (NP (JJ Academic) (NN performance)) (VP (VBD ranged) (PP (IN from) (NP (NN excellent)) (PP (IN to) (NP (NN failure))))) (. .)))
+SomesomeDTOPER0----:OPER0sosoRBOPER0farfarRBOPER0onlyonlyJJOPER0boysboyNNSOPER0,,,OPER0werebeVBDOPER0consideredconsiderVBNOPER0lonerslonerNNSOPER0,,,OPER0othersotherNNSOPER0popularpopularJJOPER0...OPER0(ROOT (S (NP (NP (DT Some)) (: --) (NP (ADVP (RB so) (RB far)) (JJ only) (NNS boys))) (, ,) (VP (VBD were) (VP (VBN considered) (NP (NNS loners)) (, ,) (S (NP (NNS others)) (ADJP (JJ popular))))) (. .)))
+BehavioralbehavioralJJOPER0problemsproblemNNSOPER0werebeVBDOPER0commoncommonJJOPER0amongamongINOPER0somesomeDTOPER0childrenchildNNSOPER0,,,OPER0butbutCCOPER0othersotherNNSOPER0hadhaveVBDOPER0nonoDTOPER0suchsuchJJOPER0historyhistoryNNOPER0...OPER0(ROOT (S (S (NP (JJ Behavioral) (NNS problems)) (VP (VBD were) (ADJP (JJ common) (PP (IN among) (NP (DT some) (NNS children)))))) (, ,) (CC but) (S (NP (NNS others)) (VP (VBD had) (NP (DT no) (JJ such) (NN history)))) (. .)))
+ExpertsexpertNNSOPER0saysayVBPOPER0thetheDTOPER0studystudyNNOPER0's'sPOSOPER0informationinformationNNOPER0isbeVBZOPER0stillstillRBOPER0usefulusefulJJOPER0...OPER0(ROOT (S (NP (NNS Experts)) (VP (VBP say) (SBAR (S (NP (NP (DT the) (NN study) (POS 's)) (NN information)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ useful)))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0reallyreallyRBOPER0aaDTOPER0factfactNNOPER0--HYPHOPER0basedbaseVBNOPER0reportreportNNOPER0,,,OPER0andandCCOPER0withwithINOPER0thesetheseDTOPER0factsfactNNSOPER0,,,OPER0aaDTOPER0schoolschoolNNOPER0cancanMDOPER0movemoveVBOPER0outoutRPOPER0andandCCOPER0actuallyactuallyRBOPER0dodoVBOPER0preventionpreventionNNOPER0,,,OPER0andandCCOPER0somesomeDTOPER0ofofINOPER0thatthatDTOPER0preventionpreventionNNOPER0isbeVBZOPER0totoTOOPER0realizerealizeVBOPER0thatthatINOPER0therethereEXOPER0arebeVBPOPER0boysboyNNSOPER0outoutRBOPER0therethereRBOPER0whowhoWPOPER0arebeVBPOPER0ininINOPER0painpainNNOPER0whowhoWPOPER0willwillMDOPER0justjustRBOPER0mentionmentionVBOPER0ititPRPOPER0slightlyslightlyRBOPER0becausebecauseINOPER0theytheyPRPOPER0arebeVBPOPER0afraidafraidJJOPER0totoTOOPER0talktalkVBOPER0aboutaboutINOPER0ititPRPOPER0,,,OPER0andandCCOPER0thetheDTOPER0schoolschoolNNOPER0cancanMDOPER0dodoVBOPER0somethingsomethingNNOPER0aboutaboutINOPER0thatthatDTOPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB really)) (NP (DT a) (ADJP (NN fact) (HYPH -) (VBN based)) (NN report)))) (, ,) (CC and) (S (PP (IN with) (NP (DT these) (NNS facts))) (, ,) (S (NP (DT a) (NN school)) (VP (MD can) (VP (VP (VB move) (PRT (RP out))) (CC and) (ADVP (RB actually)) (VP (VB do) (NP (NN prevention)))))) (, ,) (CC and) (S (NP (NP (DT some)) (PP (IN of) (NP (DT that) (NN prevention)))) (VP (VBZ is) (S (VP (TO to) (VP (VB realize) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NNS boys)) (ADVP (RB out) (RB there)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (PP (IN in) (NP (NP (NN pain)) (SBAR (WHNP (WP who)) (S (VP (MD will) (ADVP (RB just)) (VP (VB mention) (NP (PRP it)) (ADVP (RB slightly)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ afraid) (S (VP (TO to) (VP (VB talk) (PP (IN about) (NP (PRP it))))))))))))))))))))))))))) (, ,) (CC and) (S (NP (DT the) (NN school)) (VP (MD can) (VP (VB do) (NP (NP (NN something)) (PP (IN about) (NP (DT that)))))))) (. .)))
+TheytheyPRPOPER0cancanMDOPER0respondrespondVBOPER0ininINOPER0aaDTOPER0supportivesupportiveJJOPER0shameshameNNOPER0--HYPHOPER0freefreeJJOPER0waywayNNOPER0andandCCOPER0helphelpVBOPER0thatthatDTOPER0boyboyNNOPER0outoutRPOPER0beforebeforeINOPER0hehePRPOPER0movesmoveVBZOPER0ononRPOPER0totoINOPER0targetedtargetedJJOPER0violenceviolenceNNOPER0,,,OPER0insteadinsteadRBOPER0ofofINOPER0sayingsayingNNOPER0,,,OPER0BoysBoysNNPSOPER0willwillMDOPER0bebeVBOPER0boysboyNNSOPER0ororCCOPER0allallDTOPER0boysboyNNSOPER0saysayVBPOPER0thesetheseDTOPER0thingsthingNNSOPER0,,,OPER0sosoCCOPER0letletVBOPER0's'sPRPOPER0justjustRBOPER0forgetforgetVBOPER0aboutaboutINOPER0ititPRPOPER0...OPER0(ROOT (S (S (NP (PRP They)) (VP (MD can) (VP (VP (VB respond) (PP (IN in) (NP (DT a) (JJ supportive) (ADJP (NN shame) (HYPH -) (JJ free)) (NN way)))) (CC and) (VP (VB help) (NP (DT that) (NN boy)) (PRT (RP out)) (SBAR (IN before) (S (S (NP (PRP he)) (VP (VBZ moves) (PRT (RP on)) (PP (IN to) (NP (NP (JJ targeted) (NN violence)) (, ,) (CONJP (RB instead) (IN of)) (NP (NN saying)))))) (, ,) (S (NP (NNPS Boys)) (VP (MD will) (VP (VB be) (NP (NNS boys))))) (CC or) (S (NP (DT all) (NNS boys)) (VP (VBP say) (NP (DT these) (NNS things)))))))))) (, ,) (CC so) (S (VP (VB let) (S (NP (PRP 's)) (ADVP (RB just)) (VP (VB forget) (PP (IN about) (NP (PRP it))))))) (. .)))
+ThetheDTOPER0studystudyNNOPER0alsoalsoRBOPER0foundfindVBDOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0halfhalfPDTCARDINALPER0thetheDTOPER0studentsstudentNNSOPER0whowhoWPOPER0perpetratedperpetrateVBNOPER0attacksattackNNSOPER0werebeVBDOPER0motivatedmotivateVBNOPER0bybyINOPER0revengerevengeNNOPER0andandCCOPER0hadhaveVBDOPER0aaDTOPER0historyhistoryNNOPER0ofofINOPER0gungunNNOPER0useuseNNOPER0...OPER0(ROOT (S (NP (DT The) (NN study)) (ADVP (RB also)) (VP (VP (VBD found) (NP (NP (JJR more)) (PP (IN than) (NP (NP (PDT half) (DT the) (NNS students)) (SBAR (WHNP (WP who)) (S (NP (VBN perpetrated) (NNS attacks)) (VP (VBD were) (VP (VBN motivated) (PP (IN by) (NP (NN revenge))))))))))) (CC and) (VP (VBD had) (NP (NP (DT a) (NN history)) (PP (IN of) (NP (NN gun) (NN use)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as say
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=1 spanning 4 until 14 headed by 6 parsed as (NP (NP (DT a) (JJ new) (NN study)) (PP (IN from) (NP (DT the) (NNP Secret) (NNP Service))) (PP (IN on) (NP (NN school) (NN violence))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 2 until 6 headed by 5 parsed as (NP (NP (DT the) (NN study) (POS 's)) (NN information))
+sid=6 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NN study) (POS 's))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (DT these) (NNS facts))
+sid=7 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN school))
+sid=7 spanning 22 until 23 headed by 22 parsed as (NP (NN prevention))
+sid=7 spanning 27 until 29 headed by 28 parsed as (NP (DT that) (NN prevention))
+sid=7 spanning 35 until 56 headed by 35 parsed as (NP (NNS boys))
+sid=7 spanning 39 until 40 headed by 39 parsed as are
+sid=7 spanning 46 until 47 headed by 46 parsed as (NP (PRP it))
+sid=7 spanning 49 until 50 headed by 49 parsed as (NP (PRP they))
+sid=7 spanning 55 until 56 headed by 55 parsed as (NP (PRP it))
+sid=7 spanning 58 until 60 headed by 59 parsed as (NP (DT the) (NN school))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=8 spanning 12 until 14 headed by 13 parsed as (NP (DT that) (NN boy))
+sid=8 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN study))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNS Experts))
+sid=0 spanning 4 until 21 headed by 8 parsed as (NP (NP (DT no) (ADJP (JJ accurate) (CC or) (JJ useful)) (NN way)) (SBAR (S (VP (TO to) (VP (VB profile) (NP (NP (DT the) (NN personality)) (PP (IN of) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB commit) (NP (JJ violent) (NNS acts))))))))))))))
+sid=0 spanning 11 until 21 headed by 12 parsed as (NP (NP (DT the) (NN personality)) (PP (IN of) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB commit) (NP (JJ violent) (NNS acts)))))))))
+sid=0 spanning 14 until 21 headed by 15 parsed as (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB commit) (NP (JJ violent) (NNS acts)))))))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (JJ violent) (NNS acts))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=1 spanning 4 until 14 headed by 6 parsed as (NP (NP (DT a) (JJ new) (NN study)) (PP (IN from) (NP (DT the) (NNP Secret) (NNP Service))) (PP (IN on) (NP (NN school) (NN violence))))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Secret) (NNP Service))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NN school) (NN violence))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 21 headed by 3 parsed as (NP (NP (NNS attackers)) (, ,) (PP (IN like) (NP (NP (DT the) (CD two)) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (CD 13) (NNS people)) (PP (IN at) (NP (NNP Columbine) (NNP High) (NNP School))) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Colorado)))))))) (, ,))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNS attackers))
+sid=2 spanning 6 until 20 headed by 7 parsed as (NP (NP (DT the) (CD two)) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (CD 13) (NNS people)) (PP (IN at) (NP (NNP Columbine) (NNP High) (NNP School))) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Colorado)))))))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (CD 13) (NNS people))
+sid=2 spanning 13 until 16 headed by 15 parsed as (NP (NNP Columbine) (NNP High) (NNP School))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (JJ last) (NN year))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (NNP Colorado))
+sid=2 spanning 23 until 30 headed by 24 parsed as (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NN family) (CC and) (JJ ethnic)) (NNS backgrounds))))
+sid=2 spanning 26 until 30 headed by 29 parsed as (NP (NP (NN family) (CC and) (JJ ethnic)) (NNS backgrounds))
+sid=2 spanning 26 until 29 headed by 26 parsed as (NP (NN family) (CC and) (JJ ethnic))
+sid=4 spanning 0 until 6 headed by 0 parsed as (NP (NP (DT Some)) (: --) (NP (ADVP (RB so) (RB far)) (JJ only) (NNS boys)))
+sid=4 spanning 2 until 6 headed by 5 parsed as (NP (ADVP (RB so) (RB far)) (JJ only) (NNS boys))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (NNS loners))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNS others))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJ Behavioral) (NNS problems))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (DT some) (NNS children))
+sid=5 spanning 9 until 10 headed by 9 parsed as (NP (NNS others))
+sid=5 spanning 11 until 14 headed by 13 parsed as (NP (DT no) (JJ such) (NN history))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNS Experts))
+sid=6 spanning 2 until 6 headed by 5 parsed as (NP (NP (DT the) (NN study) (POS 's)) (NN information))
+sid=6 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NN study) (POS 's))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=7 spanning 3 until 8 headed by 7 parsed as (NP (DT a) (ADJP (NN fact) (HYPH -) (VBN based)) (NN report))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (DT these) (NNS facts))
+sid=7 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN school))
+sid=7 spanning 25 until 29 headed by 25 parsed as (NP (NP (DT some)) (PP (IN of) (NP (DT that) (NN prevention))))
+sid=7 spanning 27 until 29 headed by 28 parsed as (NP (DT that) (NN prevention))
+sid=7 spanning 35 until 36 headed by 35 parsed as (NP (NNS boys))
+sid=7 spanning 41 until 56 headed by 41 parsed as (NP (NP (NN pain)) (SBAR (WHNP (WP who)) (S (VP (MD will) (ADVP (RB just)) (VP (VB mention) (NP (PRP it)) (ADVP (RB slightly)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ afraid) (S (VP (TO to) (VP (VB talk) (PP (IN about) (NP (PRP it)))))))))))))))
+sid=7 spanning 46 until 47 headed by 46 parsed as (NP (PRP it))
+sid=7 spanning 49 until 50 headed by 49 parsed as (NP (PRP they))
+sid=7 spanning 55 until 56 headed by 55 parsed as (NP (PRP it))
+sid=7 spanning 58 until 60 headed by 59 parsed as (NP (DT the) (NN school))
+sid=7 spanning 62 until 65 headed by 62 parsed as (NP (NP (NN something)) (PP (IN about) (NP (DT that))))
+sid=7 spanning 64 until 65 headed by 64 parsed as (NP (DT that))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=8 spanning 4 until 10 headed by 9 parsed as (NP (DT a) (JJ supportive) (ADJP (NN shame) (HYPH -) (JJ free)) (NN way))
+sid=8 spanning 12 until 14 headed by 13 parsed as (NP (DT that) (NN boy))
+sid=8 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=8 spanning 27 until 28 headed by 27 parsed as (NP (NNPS Boys))
+sid=8 spanning 30 until 31 headed by 30 parsed as (NP (NNS boys))
+sid=8 spanning 35 until 37 headed by 36 parsed as (NP (DT these) (NNS things))
+sid=8 spanning 40 until 41 headed by 40 parsed as (NP (PRP 's))
+sid=8 spanning 44 until 45 headed by 44 parsed as (NP (PRP it))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN study))
+sid=9 spanning 4 until 16 headed by 4 parsed as (NP (NP (JJR more)) (PP (IN than) (NP (NP (PDT half) (DT the) (NNS students)) (SBAR (WHNP (WP who)) (S (NP (VBN perpetrated) (NNS attacks)) (VP (VBD were) (VP (VBN motivated) (PP (IN by) (NP (NN revenge))))))))))
+sid=9 spanning 6 until 16 headed by 8 parsed as (NP (NP (PDT half) (DT the) (NNS students)) (SBAR (WHNP (WP who)) (S (NP (VBN perpetrated) (NNS attacks)) (VP (VBD were) (VP (VBN motivated) (PP (IN by) (NP (NN revenge))))))))
+sid=9 spanning 10 until 12 headed by 11 parsed as (NP (VBN perpetrated) (NNS attacks))
+sid=9 spanning 18 until 23 headed by 19 parsed as (NP (NP (DT a) (NN history)) (PP (IN of) (NP (NN gun) (NN use))))
+sid=9 spanning 21 until 23 headed by 22 parsed as (NP (NN gun) (NN use))
+(end predicted mentions)
+---------gold clusters--------
+2 6 3 20 5 | { 'a new study from the Secret Service on school violence' 'It' 'It' 'The study' 'the study 's' }
+15 12 13 | { 'it' 'are' 'it' }
+8 16 17 | { 'a school' 'the school' 'They' }
+14 11 19 18 | { 'they' 'boys out there who are in pain who will just mention it slightly because they are afraid to talk about it' 'he' 'that boy' }
+0 1 | { 'say' 'That' }
+4 7 | { 'the study 's information' 'these facts' }
+10 9 | { 'that prevention' 'prevention' }
+(end gold clusters)

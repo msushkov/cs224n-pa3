@@ -1,0 +1,65 @@
+---------gloss--------
+(0) German police say [4m[36m{a teenage Lebanese gunman , who hijacked a bus today ,}[0m was hoping to free [4m[35m{a key September 11th suspect}[0m . 
+(1) [4m[36m{The gunman}[0m is accused of commandeering [31m{the bus}[0m in the north German city of Bremen and holding [32m{16 people}[0m hostage during a 75 - mile police chase down the autobahn . 
+(2) Negotiators say [4m[36m{he}[0m demanded the release of four prisoners , including [4m[35m{Ramzi Binalshibh , a September 11th suspect apprehended last year in Pakistan}[0m . 
+(3) Police captured [4m[36m{the 17 - year - old hijacking suspect}[0m without firing a shot . 
+(4) [32m{All hostages}[0m were released unharmed . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0216); part 000
+sentences:
+GermangermanJJOPER0policepoliceNNSOPER0saysayVBPOPER0aaDTOPER0teenageteenageJJOPER0LebaneselebaneseJJOPER0gunmangunmanNNOPER0,,,OPER0whowhoWPOPER0hijackedhijackVBDOPER0aaDTOPER0busbusNNOPER0todaytodayNNDATEPER0,,,OPER0wasbeVBDOPER0hopinghopeVBGOPER0totoTOOPER0freefreeVBOPER0aaDTOPER0keykeyJJOPER0SeptemberSeptemberNNPDATEPER011th11thNNOPER0suspectsuspectNNOPER0...OPER0(ROOT (S (NP (JJ German) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ Lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NML (NNP September) (NN 11th)) (NN suspect)))))))))) (. .)))
+ThetheDTOPER0gunmangunmanNNOPER0isbeVBZOPER0accusedaccuseVBNOPER0ofofINOPER0commandeeringcommandeerVBGOPER0thetheDTOPER0busbusNNOPER0ininINOPER0thetheDTOPER0northnorthNNPOPER0GermanGermanNNPOPER0citycityNNOPER0ofofINOPER0BremenBremenNNPGPEPER0andandCCOPER0holdingholdVBGOPER01616CDCARDINALPER0peoplepeopleNNSOPER0hostagehostageNNOPER0duringduringINOPER0aaDTOPER07575CDQUANTITYPER0--HYPHQUANTITYPER0milemileNNQUANTITYPER0policepoliceNNOPER0chasechaseNNOPER0downdownINOPER0thetheDTOPER0autobahnautobahnNNOPER0...OPER0(ROOT (S (NP (DT The) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NML (NNP north) (NNP German)) (NN city)) (PP (IN of) (NP (NNP Bremen)))))) (CC and) (VP (VBG holding) (NP (CD 16) (NNS people)) (S (VP (NN hostage) (PP (IN during) (NP (DT a) (NML (CD 75) (HYPH -) (NN mile)) (NN police) (NN chase))) (PP (IN down) (NP (DT the) (NN autobahn))))))))))) (. .)))
+NegotiatorsnegotiatorNNSOPER0saysayVBPOPER0hehePRPOPER0demandeddemandVBDOPER0thetheDTOPER0releasereleaseNNOPER0ofofINOPER0fourfourCDCARDINALPER0prisonersprisonerNNSOPER0,,,OPER0includingincludeVBGOPER0RamziRamziNNPPERSONPER0BinalshibhBinalshibhNNPPERSONPER0,,,OPER0aaDTOPER0SeptemberSeptemberNNPDATEPER011th11thNNOPER0suspectsuspectNNOPER0apprehendedapprehendVBNOPER0lastlastJJDATEPER0yearyearNNDATEPER0ininINOPER0PakistanPakistanNNPGPEPER0...OPER0(ROOT (S (NP (NNS Negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (NP (CD four) (NNS prisoners)) (, ,) (PP (VBG including) (NP (NP (NNP Ramzi) (NNP Binalshibh)) (, ,) (NP (NP (DT a) (NML (NNP September) (NN 11th)) (NN suspect)) (VP (VBN apprehended) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Pakistan)))))))))))))) (. .)))
+PolicepoliceNNSOPER0capturedcaptureVBDOPER0thetheDTOPER01717CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0hijackinghijackingNNOPER0suspectsuspectNNOPER0withoutwithoutINOPER0firingfireVBGOPER0aaDTOPER0shotshotNNOPER0...OPER0(ROOT (S (NP (NNS Police)) (VP (VBD captured) (NP (DT the) (ADJP (NML (CD 17) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN hijacking) (NN suspect)) (PP (IN without) (S (VP (VBG firing) (NP (DT a) (NN shot)))))) (. .)))
+AllallDTOPER0hostageshostageNNSOPER0werebeVBDOPER0releasedreleaseVBNOPER0unharmedunharmedJJOPER0...OPER0(ROOT (S (NP (DT All) (NNS hostages)) (VP (VBD were) (VP (VBN released) (S (ADJP (JJ unharmed))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 14 headed by 6 parsed as (NP (NP (DT a) (JJ teenage) (JJ Lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP (NN today))))) (, ,))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (DT a) (NN bus))
+sid=0 spanning 18 until 23 headed by 22 parsed as (NP (DT a) (JJ key) (NML (NNP September) (NN 11th)) (NN suspect))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN gunman))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN bus))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (CD 16) (NNS people))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=2 spanning 11 until 23 headed by 12 parsed as (NP (NP (NNP Ramzi) (NNP Binalshibh)) (, ,) (NP (NP (DT a) (NML (NNP September) (NN 11th)) (NN suspect)) (VP (VBN apprehended) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Pakistan))))))
+sid=3 spanning 2 until 10 headed by 9 parsed as (NP (DT the) (ADJP (NML (CD 17) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN hijacking) (NN suspect))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT All) (NNS hostages))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ German) (NNS police))
+sid=0 spanning 3 until 14 headed by 6 parsed as (NP (NP (DT a) (JJ teenage) (JJ Lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP (NN today))))) (, ,))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (DT a) (JJ teenage) (JJ Lebanese) (NN gunman))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (DT a) (NN bus))
+sid=0 spanning 18 until 23 headed by 22 parsed as (NP (DT a) (JJ key) (NML (NNP September) (NN 11th)) (NN suspect))
+sid=0 spanning 20 until 21 headed by 20 parsed as September
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN gunman))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN bus))
+sid=1 spanning 9 until 15 headed by 12 parsed as (NP (NP (DT the) (NML (NNP north) (NNP German)) (NN city)) (PP (IN of) (NP (NNP Bremen))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Bremen))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (CD 16) (NNS people))
+sid=1 spanning 21 until 27 headed by 26 parsed as (NP (DT a) (NML (CD 75) (HYPH -) (NN mile)) (NN police) (NN chase))
+sid=1 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN autobahn))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Negotiators))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=2 spanning 4 until 23 headed by 5 parsed as (NP (NP (DT the) (NN release)) (PP (IN of) (NP (NP (CD four) (NNS prisoners)) (, ,) (PP (VBG including) (NP (NP (NNP Ramzi) (NNP Binalshibh)) (, ,) (NP (NP (DT a) (NML (NNP September) (NN 11th)) (NN suspect)) (VP (VBN apprehended) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Pakistan))))))))))
+sid=2 spanning 7 until 23 headed by 8 parsed as (NP (NP (CD four) (NNS prisoners)) (, ,) (PP (VBG including) (NP (NP (NNP Ramzi) (NNP Binalshibh)) (, ,) (NP (NP (DT a) (NML (NNP September) (NN 11th)) (NN suspect)) (VP (VBN apprehended) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Pakistan))))))))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (CD four) (NNS prisoners))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NP (NNP Ramzi) (NNP Binalshibh)) (, ,) (NP (NP (DT a) (NML (NNP September) (NN 11th)) (NN suspect)) (VP (VBN apprehended) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Pakistan))))))
+sid=2 spanning 11 until 23 headed by 12 parsed as (NP (NP (NNP Ramzi) (NNP Binalshibh)) (, ,) (NP (NP (DT a) (NML (NNP September) (NN 11th)) (NN suspect)) (VP (VBN apprehended) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Pakistan))))))
+sid=2 spanning 14 until 23 headed by 17 parsed as (NP (NP (DT a) (NML (NNP September) (NN 11th)) (NN suspect)) (VP (VBN apprehended) (NP (JJ last) (NN year)) (PP (IN in) (NP (NNP Pakistan)))))
+sid=2 spanning 15 until 16 headed by 15 parsed as September
+sid=2 spanning 19 until 21 headed by 20 parsed as (NP (JJ last) (NN year))
+sid=2 spanning 22 until 23 headed by 22 parsed as (NP (NNP Pakistan))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Police))
+sid=3 spanning 2 until 10 headed by 9 parsed as (NP (DT the) (ADJP (NML (CD 17) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN hijacking) (NN suspect))
+sid=3 spanning 3 until 8 headed by 7 parsed as old
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT a) (NN shot))
+(end predicted mentions)
+---------gold clusters--------
+7 2 | { 'Ramzi Binalshibh , a September 11th suspect apprehended last year in Pakistan' 'a key September 11th suspect' }
+0 6 8 3 | { 'a teenage Lebanese gunman , who hijacked a bus today ,' 'he' 'the 17 - year - old hijacking suspect' 'The gunman' }
+4 1 | { 'the bus' 'a bus' }
+9 5 | { 'All hostages' '16 people' }
+(end gold clusters)

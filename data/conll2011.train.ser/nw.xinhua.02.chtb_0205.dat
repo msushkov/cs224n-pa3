@@ -1,0 +1,26 @@
+---------gloss--------
+(0) Chinese young pathfinder Mingxia Fu wins the diving champion of the Women 's 10 - meter diving tower at the World Swimming Championships . 
+(1) Photos taken by Xinhua news agency reporter Zhishan Cheng -LRB- telephotograph -RRB- 
+(end gloss)
+---------document--------
+(nw/xinhua/02/chtb_0205); part 000
+sentences:
+ChinesechineseJJOPER0youngyoungJJOPER0pathfinderpathfinderNNOPER0MingxiaMingxiaNNPPERSONPER0FuFuNNPPERSONPER0winswinVBZOPER0thetheDTOPER0divingdivingJJOPER0championchampionNNOPER0ofofINOPER0thetheDTOPER0WomenWomenNNPSORGPER0's'sPOSOPER01010CDQUANTITYPER0--HYPHQUANTITYPER0metermeterNNQUANTITYPER0divingdivingNNOPER0towertowerNNOPER0atatINOPER0thetheDTEVENTPER0WorldWorldNNPEVENTPER0SwimmingSwimmingNNPEVENTPER0ChampionshipsChampionshipsNNPSEVENTPER0...OPER0(ROOT (S (NP (NML (JJ Chinese) (JJ young) (NN pathfinder)) (NNP Mingxia) (NNP Fu)) (VP (VBZ wins) (NP (NP (DT the) (JJ diving) (NN champion)) (PP (IN of) (NP (NP (DT the) (NNPS Women) (POS 's)) (NML (NML (CD 10) (HYPH -) (NN meter)) (NN diving)) (NN tower)))) (PP (IN at) (NP (DT the) (NNP World) (NNP Swimming) (NNPS Championships)))) (. .)))
+PhotosphotoNNSOPER0takentakeVBNOPER0bybyINOPER0XinhuaXinhuaNNPORGPER0newsnewsNNPOPER0agencyagencyNNPOPER0reporterreporterNNOPER0ZhishanZhishanNNPPERSONPER0ChengChengNNPPERSONPER0-LRB--lrb--LRB-PERSONPER0telephotographtelephotographNNPOPER0-RRB--rrb--RRB-OPER0(ROOT (FRAG (NP (NNS Photos)) (VP (VBN taken) (PP (IN by) (NP (NML (NML (NNP Xinhua) (NNP news) (NNP agency)) (NN reporter)) (NNP Zhishan) (NNP Cheng) (-LRB- -LRB-) (NNP telephotograph) (-RRB- -RRB-))))))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Chinese) (JJ young) (NN pathfinder)) (NNP Mingxia) (NNP Fu))
+sid=0 spanning 6 until 18 headed by 8 parsed as (NP (NP (DT the) (JJ diving) (NN champion)) (PP (IN of) (NP (NP (DT the) (NNPS Women) (POS 's)) (NML (NML (CD 10) (HYPH -) (NN meter)) (NN diving)) (NN tower))))
+sid=0 spanning 10 until 18 headed by 17 parsed as (NP (NP (DT the) (NNPS Women) (POS 's)) (NML (NML (CD 10) (HYPH -) (NN meter)) (NN diving)) (NN tower))
+sid=0 spanning 10 until 13 headed by 11 parsed as (NP (DT the) (NNPS Women) (POS 's))
+sid=0 spanning 19 until 23 headed by 22 parsed as (NP (DT the) (NNP World) (NNP Swimming) (NNPS Championships))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Photos))
+sid=1 spanning 3 until 12 headed by 10 parsed as (NP (NML (NML (NNP Xinhua) (NNP news) (NNP agency)) (NN reporter)) (NNP Zhishan) (NNP Cheng) (-LRB- -LRB-) (NNP telephotograph) (-RRB- -RRB-))
+sid=1 spanning 3 until 4 headed by 3 parsed as Xinhua
+sid=1 spanning 7 until 10 headed by 8 parsed as Cheng
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

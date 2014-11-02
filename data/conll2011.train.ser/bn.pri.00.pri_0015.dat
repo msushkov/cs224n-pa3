@@ -1,0 +1,124 @@
+---------gloss--------
+(0) [4m[36m{Two American professors}[0m will share [4m[34m{this year 's Noble Prize in Economics}[0m . 
+(1) [4m[36m{They}[0m are [4m[32m{James Heckman of the University of Chicago}[0m and [4m[33m{Daniel Mcfedden of the University of California , Berkeley}[0m . 
+(2) [31m{NPR 's}[0m John Edsty reports . 
+(3) The Nobel Committee said [4m[36m{the two}[0m were awarded [4m[34m{the prize}[0m for [4m[36m{their}[0m work in micro-econometrics , which combined economics and statistics . 
+(4) As friends and colleagues , [4m[36m{Heckman and Mcfedden}[0m developed and exchanged ideas over a period of 30 years . 
+(5) According to [4m[33m{Mcfedden}[0m , [4m[36m{their}[0m work is closely related and the common theme is the use of economic theory to study individual behaviour . 
+(6) [4m[32m{Heckmann}[0m is best known for labour force studies , including how married women decide whether to work . 
+(7) [4m[33m{Mcfedden}[0m has created models aimed at figuring out how people make life 's big choices , like when to get married and how many children to have . 
+(8) [4m[33m{Mcfedden}[0m says , [4m[33m{he}[0m will use [4m[33m{his}[0m half of the 915,000 dollar prize to support [4m[33m{his}[0m farm in Northern California 's wine country . 
+(9) [4m[32m{Heckman}[0m is currently travelling in Brazil . 
+(10) [32m{John Edsty}[0m , [31m{NPR News}[0m , Washington . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0015); part 000
+sentences:
+TwotwoCDCARDINALPER0AmericanamericanJJOPER0professorsprofessorNNSOPER0willwillMDOPER0shareshareVBOPER0thisthisDTOPER0yearyearNNDATEPER0's'sPOSOPER0NobleNobleNNPWORK_OF_ARTPER0PrizePrizeNNPWORK_OF_ARTPER0ininINOPER0EconomicsEconomicsNNPORGPER0...OPER0(ROOT (S (NP (CD Two) (JJ American) (NNS professors)) (VP (MD will) (VP (VB share) (NP (NP (NP (DT this) (NN year) (POS 's)) (NNP Noble) (NNP Prize)) (PP (IN in) (NP (NNP Economics)))))) (. .)))
+TheytheyPRPOPER0arebeVBPOPER0JamesJamesNNPPERSONPER0HeckmanHeckmanNNPPERSONPER0ofofINOPER0thetheDTORGPER0UniversityUniversityNNPORGPER0ofofINORGPER0ChicagoChicagoNNPORGPER0andandCCOPER0DanielDanielNNPPERSONPER0McfeddenMcfeddenNNPPERSONPER0ofofINOPER0thetheDTOPER0UniversityUniversityNNPORGPER0ofofINORGPER0CaliforniaCaliforniaNNPORGPER0,,,OPER0BerkeleyBerkeleyNNPGPEPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP are) (NP (NP (NP (NNP James) (NNP Heckman)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Chicago)))))) (CC and) (NP (NP (NNP Daniel) (NNP Mcfedden)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NP (NNP California)) (, ,) (NP (NNP Berkeley))))))))) (. .)))
+NPRNPRNNPORGPER0's'sPOSOPER0JohnJohnNNPPERSONPER0EdstyEdstyNNPPERSONPER0reportsreportVBZOPER0...OPER0(ROOT (S (NP (NP (NNP NPR) (POS 's)) (NNP John) (NNP Edsty)) (VP (VBZ reports)) (. .)))
+ThetheDTORGPER0NobelNobelNNPORGPER0CommitteeCommitteeNNPORGPER0saidsayVBDOPER0thetheDTOPER0twotwoCDCARDINALPER0werebeVBDOPER0awardedawardVBNOPER0thetheDTOPER0prizeprizeNNOPER0forforINOPER0theirtheyPRP$OPER0workworkNNOPER0ininINOPER0micro-econometricsmicro-econometricNNSOPER0,,,OPER0whichwhichWDTOPER0combinedcombineVBDOPER0economicseconomicsNNSOPER0andandCCOPER0statisticsstatisticsNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNP Nobel) (NNP Committee)) (VP (VBD said) (SBAR (S (NP (DT the) (CD two)) (VP (VBD were) (VP (VBN awarded) (NP (NP (DT the) (NN prize)) (PP (IN for) (NP (PRP$ their) (NN work)))) (PP (IN in) (NP (NP (NNS micro-econometrics)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD combined) (NP (NNS economics) (CC and) (NNS statistics)))))))))))) (. .)))
+AsasINOPER0friendsfriendNNSOPER0andandCCOPER0colleaguescolleagueNNSOPER0,,,OPER0HeckmanHeckmanNNPORGPER0andandCCOPER0McfeddenMcfeddenNNPORGPER0developeddevelopVBDOPER0andandCCOPER0exchangedexchangeVBDOPER0ideasideaNNSOPER0overoverINOPER0aaDTDATEPER0periodperiodNNDATEPER0ofofINDATEPER03030CDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (PP (IN As) (NP (NNS friends) (CC and) (NNS colleagues))) (, ,) (NP (NP (NNP Heckman)) (CC and) (NP (NNP Mcfedden))) (VP (VBD developed) (CC and) (VBD exchanged) (NP (NP (NNS ideas)) (PP (IN over) (NP (NP (DT a) (NN period)) (PP (IN of) (NP (CD 30) (NNS years))))))) (. .)))
+AccordingaccordVBGOPER0totoINOPER0McfeddenMcfeddenNNPPERSONPER0,,,OPER0theirtheyPRP$OPER0workworkNNOPER0isbeVBZOPER0closelycloselyRBOPER0relatedrelatedJJOPER0andandCCOPER0thetheDTOPER0commoncommonJJOPER0themethemeNNOPER0isbeVBZOPER0thetheDTOPER0useuseNNOPER0ofofINOPER0economiceconomicJJOPER0theorytheoryNNOPER0totoTOOPER0studystudyVBOPER0individualindividualJJOPER0behaviourbehaviourNNOPER0...OPER0(ROOT (S (S (PP (VBG According) (PP (IN to) (NP (NNP Mcfedden)))) (, ,) (NP (PRP$ their) (NN work)) (VP (VBZ is) (ADJP (RB closely) (JJ related)))) (CC and) (S (NP (DT the) (JJ common) (NN theme)) (VP (VBZ is) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ economic) (NN theory))) (S (VP (TO to) (VP (VB study) (NP (JJ individual) (NN behaviour)))))))) (. .)))
+HeckmannHeckmannNNPORGPER0isbeVBZOPER0bestbestRBSOPER0knownknownJJOPER0forforINOPER0labourlabourNNPOPER0forceforceNNOPER0studiesstudyNNSOPER0,,,OPER0includingincludeVBGOPER0howhowWRBOPER0marriedmarriedJJOPER0womenwomanNNSOPER0decidedecideVBPOPER0whetherwhetherINOPER0totoTOOPER0workworkVBOPER0...OPER0(ROOT (S (NP (NNP Heckmann)) (VP (VBZ is) (ADJP (RBS best) (JJ known) (PP (IN for) (NP (NP (NML (NNP labour) (NN force)) (NNS studies)) (, ,) (PP (VBG including) (SBAR (WHADVP (WRB how)) (S (NP (JJ married) (NNS women)) (VP (VBP decide) (SBAR (IN whether) (S (VP (TO to) (VP (VB work))))))))))))) (. .)))
+McfeddenMcfeddenNNPORGPER0hashaveVBZOPER0createdcreateVBNOPER0modelsmodelNNSOPER0aimedaimVBNOPER0atatINOPER0figuringfigureVBGOPER0outoutRPOPER0howhowWRBOPER0peoplepeopleNNSOPER0makemakeVBPOPER0lifelifeNNOPER0's'sPOSOPER0bigbigJJOPER0choiceschoiceNNSOPER0,,,OPER0likelikeVBOPER0whenwhenWRBOPER0totoTOOPER0getgetVBOPER0marriedmarryVBNOPER0andandCCOPER0howhowWRBOPER0manymanyJJOPER0childrenchildNNSOPER0totoTOOPER0havehaveVBOPER0...OPER0(ROOT (S (NP (NNP Mcfedden)) (VP (VBZ has) (VP (VBN created) (NP (NP (NNS models)) (VP (VBN aimed) (PP (IN at) (S (VP (VBG figuring) (PRT (RP out)) (SBAR (WHNP (WHADVP (WRB how)) (NNS people)) (S (VP (VBP make) (NP (NP (NN life) (POS 's)) (JJ big) (NNS choices))))))))) (, ,) (PP (VB like) (SBAR (SBAR (WHADVP (WRB when)) (S (VP (TO to) (VP (VB get) (VP (VBN married)))))) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (JJ many) (NNS children)) (VP (TO to) (VP (VB have)))))))))) (. .)))
+McfeddenMcfeddenNNPPERSONPER0sayssayVBZOPER0,,,OPER0hehePRPOPER0willwillMDOPER0useuseVBOPER0hishePRP$OPER0halfhalfNNCARDINALPER0ofofINOPER0thetheDTOPER0915,000915,000CDMONEYPER0dollardollarNNMONEYPER0prizeprizeNNOPER0totoTOOPER0supportsupportVBOPER0hishePRP$OPER0farmfarmNNOPER0ininINOPER0NorthernNorthernNNPLOCPER0CaliforniaCaliforniaNNPLOCPER0's'sPOSLOCPER0winewineNNOPER0countrycountryNNOPER0...OPER0(ROOT (S (NP (NNP Mcfedden)) (VP (VBZ says) (, ,) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB use) (NP (NP (PRP$ his) (NN half)) (PP (IN of) (NP (DT the) (NML (CD 915,000) (NN dollar)) (NN prize)))) (S (VP (TO to) (VP (VB support) (NP (NP (PRP$ his) (NN farm)) (PP (IN in) (NP (NP (NNP Northern) (NNP California) (POS 's)) (NN wine) (NN country)))))))))))) (. .)))
+HeckmanHeckmanNNPORGPER0isbeVBZOPER0currentlycurrentlyRBOPER0travellingtravelVBGOPER0ininINOPER0BrazilBrazilNNPGPEPER0...OPER0(ROOT (S (NP (NNP Heckman)) (VP (VBZ is) (ADVP (RB currently)) (VP (VBG travelling) (PP (IN in) (NP (NNP Brazil))))) (. .)))
+JohnJohnNNPPERSONPER0EdstyEdstyNNPPERSONPER0,,,OPER0NPRNPRNNPORGPER0NewsNewsNNPORGPER0,,,OPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP John) (NNP Edsty)) (, ,) (NP (NNP NPR) (NNP News)) (, ,) (NP (NNP Washington)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (CD Two) (JJ American) (NNS professors))
+sid=0 spanning 5 until 12 headed by 9 parsed as (NP (NP (NP (DT this) (NN year) (POS 's)) (NNP Noble) (NNP Prize)) (PP (IN in) (NP (NNP Economics))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=1 spanning 2 until 9 headed by 3 parsed as (NP (NP (NP (NNP James) (NNP Heckman)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Chicago)))))) (CC and) (NP (NP (NNP Daniel) (NNP Mcfedden)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NP (NNP California)) (, ,) (NP (NNP Berkeley))))))))
+sid=1 spanning 10 until 19 headed by 11 parsed as (NP (NP (NNP Daniel) (NNP Mcfedden)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NP (NNP California)) (, ,) (NP (NNP Berkeley)))))))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP NPR) (POS 's)) (NNP John) (NNP Edsty))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP NPR) (POS 's))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (CD two))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (NP (DT the) (NN prize)) (PP (IN for) (NP (PRP$ their) (NN work))))
+sid=3 spanning 11 until 21 headed by 12 parsed as (NP (PRP$ their) (NN work))
+sid=3 spanning 11 until 12 headed by 11 parsed as their
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NP (NNP Heckman)) (CC and) (NP (NNP Mcfedden)))
+sid=4 spanning 5 until 8 headed by 5 parsed as (NP (NP (NNP Heckman)) (CC and) (NP (NNP Mcfedden)))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (NNP Mcfedden))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Mcfedden))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ their) (NN work))
+sid=5 spanning 4 until 5 headed by 4 parsed as their
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP Heckmann))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Mcfedden))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Mcfedden))
+sid=8 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=8 spanning 6 until 7 headed by 6 parsed as his
+sid=8 spanning 15 until 16 headed by 15 parsed as his
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNP Heckman))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP John) (NNP Edsty))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (NNP NPR) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (CD Two) (JJ American) (NNS professors))
+sid=0 spanning 5 until 12 headed by 9 parsed as (NP (NP (NP (DT this) (NN year) (POS 's)) (NNP Noble) (NNP Prize)) (PP (IN in) (NP (NNP Economics))))
+sid=0 spanning 5 until 8 headed by 6 parsed as (NP (DT this) (NN year) (POS 's))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Economics))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=1 spanning 2 until 19 headed by 3 parsed as (NP (NP (NP (NNP James) (NNP Heckman)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Chicago)))))) (CC and) (NP (NP (NNP Daniel) (NNP Mcfedden)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NP (NNP California)) (, ,) (NP (NNP Berkeley))))))))
+sid=1 spanning 2 until 9 headed by 3 parsed as (NP (NP (NNP James) (NNP Heckman)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Chicago))))))
+sid=1 spanning 5 until 9 headed by 6 parsed as (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Chicago))))
+sid=1 spanning 10 until 19 headed by 11 parsed as (NP (NP (NNP Daniel) (NNP Mcfedden)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NP (NNP California)) (, ,) (NP (NNP Berkeley)))))))
+sid=1 spanning 14 until 17 headed by 14 parsed as (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NP (NNP California)) (, ,) (NP (NNP Berkeley)))))
+sid=1 spanning 13 until 19 headed by 14 parsed as (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NP (NNP California)) (, ,) (NP (NNP Berkeley)))))
+sid=1 spanning 16 until 19 headed by 16 parsed as (NP (NP (NNP California)) (, ,) (NP (NNP Berkeley)))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (NNP Berkeley))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP NPR) (POS 's)) (NNP John) (NNP Edsty))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP NPR) (POS 's))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Nobel) (NNP Committee))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (CD two))
+sid=3 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT the) (NN prize)) (PP (IN for) (NP (PRP$ their) (NN work))))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (PRP$ their) (NN work))
+sid=3 spanning 11 until 12 headed by 11 parsed as (PRP$ their)
+sid=3 spanning 14 until 21 headed by 14 parsed as (NP (NP (NNS micro-econometrics)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD combined) (NP (NNS economics) (CC and) (NNS statistics))))))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (NNS micro-econometrics))
+sid=3 spanning 18 until 21 headed by 18 parsed as (NP (NNS economics) (CC and) (NNS statistics))
+sid=4 spanning 1 until 4 headed by 1 parsed as (NP (NNS friends) (CC and) (NNS colleagues))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NP (NNP Heckman)) (CC and) (NP (NNP Mcfedden)))
+sid=4 spanning 5 until 8 headed by 5 parsed as (NP (NP (NNP Heckman)) (CC and) (NP (NNP Mcfedden)))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (NNP Mcfedden))
+sid=4 spanning 11 until 18 headed by 11 parsed as (NP (NP (NNS ideas)) (PP (IN over) (NP (NP (DT a) (NN period)) (PP (IN of) (NP (CD 30) (NNS years))))))
+sid=4 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT a) (NN period)) (PP (IN of) (NP (CD 30) (NNS years))))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Mcfedden))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ their) (NN work))
+sid=5 spanning 4 until 5 headed by 4 parsed as (PRP$ their)
+sid=5 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ common) (NN theme))
+sid=5 spanning 14 until 23 headed by 15 parsed as (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ economic) (NN theory))) (S (VP (TO to) (VP (VB study) (NP (JJ individual) (NN behaviour))))))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP Heckmann))
+sid=6 spanning 5 until 17 headed by 7 parsed as (NP (NP (NML (NNP labour) (NN force)) (NNS studies)) (, ,) (PP (VBG including) (SBAR (WHADVP (WRB how)) (S (NP (JJ married) (NNS women)) (VP (VBP decide) (SBAR (IN whether) (S (VP (TO to) (VP (VB work))))))))))
+sid=6 spanning 5 until 8 headed by 7 parsed as (NP (NML (NNP labour) (NN force)) (NNS studies))
+sid=6 spanning 11 until 13 headed by 12 parsed as (NP (JJ married) (NNS women))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Mcfedden))
+sid=7 spanning 3 until 27 headed by 3 parsed as (NP (NP (NNS models)) (VP (VBN aimed) (PP (IN at) (S (VP (VBG figuring) (PRT (RP out)) (SBAR (WHNP (WHADVP (WRB how)) (NNS people)) (S (VP (VBP make) (NP (NP (NN life) (POS 's)) (JJ big) (NNS choices))))))))) (, ,) (PP (VB like) (SBAR (SBAR (WHADVP (WRB when)) (S (VP (TO to) (VP (VB get) (VP (VBN married)))))) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (JJ many) (NNS children)) (VP (TO to) (VP (VB have))))))))
+sid=7 spanning 11 until 15 headed by 14 parsed as (NP (NP (NN life) (POS 's)) (JJ big) (NNS choices))
+sid=7 spanning 11 until 13 headed by 11 parsed as (NP (NN life) (POS 's))
+sid=7 spanning 23 until 25 headed by 24 parsed as (NP (JJ many) (NNS children))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNP Mcfedden))
+sid=8 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=8 spanning 6 until 13 headed by 7 parsed as (NP (NP (PRP$ his) (NN half)) (PP (IN of) (NP (DT the) (NML (CD 915,000) (NN dollar)) (NN prize))))
+sid=8 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=8 spanning 15 until 23 headed by 16 parsed as (NP (NP (PRP$ his) (NN farm)) (PP (IN in) (NP (NP (NNP Northern) (NNP California) (POS 's)) (NN wine) (NN country))))
+sid=8 spanning 15 until 16 headed by 15 parsed as (PRP$ his)
+sid=8 spanning 18 until 23 headed by 22 parsed as (NP (NP (NNP Northern) (NNP California) (POS 's)) (NN wine) (NN country))
+sid=8 spanning 18 until 21 headed by 19 parsed as (NP (NNP Northern) (NNP California) (POS 's))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNP Heckman))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (NNP Brazil))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP John) (NNP Edsty))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (NNP NPR) (NNP News))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+3 23 11 17 | { 'James Heckman of the University of Chicago' 'Heckman' 'Heckman' 'Heckmann' }
+21 4 18 19 13 22 14 20 | { 'his' 'Daniel Mcfedden of the University of California , Berkeley' 'Mcfedden' 'Mcfedden' 'Mcfedden' 'his' 'Mcfedden' 'he' }
+1 8 | { 'this year 's Noble Prize in Economics' 'the prize' }
+15 9 | { 'their work' 'their work in micro-econometrics , which combined economics and statistics' }
+0 12 2 7 16 10 | { 'Two American professors' 'Heckman and Mcfedden' 'They' 'the two' 'their' 'their' }
+6 25 | { 'NPR 's' 'NPR News' }
+5 24 | { 'NPR 's John Edsty' 'John Edsty' }
+(end gold clusters)

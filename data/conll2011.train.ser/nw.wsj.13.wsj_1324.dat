@@ -1,0 +1,84 @@
+---------gloss--------
+(0) [1m[35m{AEG AG}[0m and [3m[32m{Siemens AG}[0m said [1m[36m{they}[0m will launch [1m[36m{their}[0m previously announced joint venture for power semiconductors in January . 
+(1) [1m[36m{The two West German electronics concerns}[0m said [1m[36m{they}[0m have set up [3m[33m{European Power Semiconductor Co.}[0m to merge [1m[36m{their}[0m activities in the field . 
+(2) [1m[35m{AEG}[0m and [3m[32m{Siemens}[0m each will hold a 50 % stake in [3m[33m{the venture}[0m . 
+(3) [3m[33m{The joint venture}[0m will have nominal capital of 50 million marks -LRB- $ 26.9 million -RRB- and 700 employees . 
+(4) [3m[33m{It}[0m will develop , produce and market high - performance electronic parts . 
+(5) [3m[32m{Siemens}[0m is [3m[31m{West Germany 's}[0m largest electronics group . 
+(6) [1m[35m{AEG}[0m is 80 % owned by Daimler - Benz AG , [3m[31m{the country 's}[0m biggest industrial concern . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1324); part 000
+sentences:
+AEGAEGNNPORGPER0AGAGNNPORGPER0andandCCOPER0SiemensSiemensNNPORGPER0AGAGNNPORGPER0saidsayVBDOPER0theytheyPRPOPER0willwillMDOPER0launchlaunchVBOPER0theirtheyPRP$OPER0previouslypreviouslyRBOPER0announcedannounceVBNOPER0jointjointJJOPER0ventureventureNNOPER0forforINOPER0powerpowerNNOPER0semiconductorssemiconductorNNSOPER0ininINOPER0JanuaryJanuaryNNPDATEPER0...OPER0(ROOT (S (NP (NP (NNP AEG) (NNP AG)) (CC and) (NP (NNP Siemens) (NNP AG))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB launch) (NP (NP (PRP$ their) (ADJP (RB previously) (VBN announced)) (JJ joint) (NN venture)) (PP (IN for) (NP (NN power) (NNS semiconductors)))) (PP (IN in) (NP (NNP January)))))))) (. .)))
+ThetheDTOPER0twotwoCDCARDINALPER0WestWestNNPOPER0GermanGermanNNPOPER0electronicselectronicsNNSOPER0concernsconcernNNSOPER0saidsayVBDOPER0theytheyPRPOPER0havehaveVBPOPER0setsetVBNOPER0upupRPOPER0EuropeanEuropeanNNPORGPER0PowerPowerNNPORGPER0SemiconductorSemiconductorNNPORGPER0Co.Co.NNPORGPER0totoTOOPER0mergemergeVBOPER0theirtheyPRP$OPER0activitiesactivityNNSOPER0ininINOPER0thetheDTOPER0fieldfieldNNOPER0...OPER0(ROOT (S (NP (DT The) (CD two) (NML (NNP West) (NNP German)) (NNS electronics) (NNS concerns)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP have) (VP (VBN set) (PRT (RP up)) (NP (NP (NNP European) (NNP Power) (NNP Semiconductor) (NNP Co.)) (SBAR (S (VP (TO to) (VP (VB merge) (NP (PRP$ their) (NNS activities)) (PP (IN in) (NP (DT the) (NN field))))))))))))) (. .)))
+AEGAEGNNPORGPER0andandCCOPER0SiemensSiemensNNPORGPER0eacheachDTOPER0willwillMDOPER0holdholdVBOPER0aaDTOPER05050CDPERCENTPER0%%NNPERCENTPER0stakestakeNNOPER0ininINOPER0thetheDTOPER0ventureventureNNOPER0...OPER0(ROOT (S (NP (NP (NNP AEG) (CC and) (NNP Siemens)) (NP (DT each))) (VP (MD will) (VP (VB hold) (NP (NP (DT a) (NML (CD 50) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN venture)))))) (. .)))
+ThetheDTOPER0jointjointJJOPER0ventureventureNNOPER0willwillMDOPER0havehaveVBOPER0nominalnominalJJOPER0capitalcapitalNNOPER0ofofINOPER05050CDMONEYPER0millionmillionCDMONEYPER0marksmarkNNSMONEYPER0-LRB--lrb--LRB-OPER0$$$MONEYPER026.926.9CDMONEYPER0millionmillionCDMONEYPER0-RRB--rrb--RRB-OPER0andandCCOPER0700700CDCARDINALPER0employeesemployeeNNSOPER0...OPER0(ROOT (S (NP (DT The) (JJ joint) (NN venture)) (VP (MD will) (VP (VB have) (NP (NP (JJ nominal) (NN capital)) (PP (IN of) (NP (NP (NP (QP (CD 50) (CD million)) (NNS marks)) (-LRB- -LRB-) (NP (QP ($ $) (CD 26.9) (CD million))) (-RRB- -RRB-)) (CC and) (NP (CD 700) (NNS employees))))))) (. .)))
+ItitPRPOPER0willwillMDOPER0developdevelopVBOPER0,,,OPER0produceproduceVBOPER0andandCCOPER0marketmarketVBOPER0highhighJJOPER0--HYPHOPER0performanceperformanceNNOPER0electronicelectronicJJOPER0partspartNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (MD will) (VP (VB develop) (, ,) (VB produce) (CC and) (VB market) (NP (NML (JJ high) (HYPH -) (NN performance)) (JJ electronic) (NNS parts)))) (. .)))
+SiemensSiemensNNPORGPER0isbeVBZOPER0WestWestNNPGPEPER0GermanyGermanyNNPGPEPER0's'sPOSGPEPER0largestlargestJJSOPER0electronicselectronicsNNOPER0groupgroupNNOPER0...OPER0(ROOT (S (NP (NNP Siemens)) (VP (VBZ is) (NP (NP (NNP West) (NNP Germany) (POS 's)) (JJS largest) (NN electronics) (NN group))) (. .)))
+AEGAEGNNPORGPER0isbeVBZOPER08080CDPERCENTPER0%%NNPERCENTPER0ownedownVBNOPER0bybyINOPER0DaimlerDaimlerNNPORGPER0--HYPHORGPER0BenzBenzNNPORGPER0AGAGNNPORGPER0,,,OPER0thetheDTOPER0countrycountryNNOPER0's'sPOSOPER0biggestbiggestJJSOPER0industrialindustrialJJOPER0concernconcernNNOPER0...OPER0(ROOT (S (NP (NNP AEG)) (VP (VBZ is) (VP (NP (CD 80) (NN %)) (VBN owned) (PP (IN by) (NP (NP (NNP Daimler) (HYPH -) (NNP Benz) (NNP AG)) (, ,) (NP (NP (DT the) (NN country) (POS 's)) (JJS biggest) (JJ industrial) (NN concern)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP AEG) (NNP AG)) (CC and) (NP (NNP Siemens) (NNP AG)))
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP AEG) (NNP AG)) (CC and) (NP (NNP Siemens) (NNP AG)))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NNP Siemens) (NNP AG))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=0 spanning 9 until 17 headed by 13 parsed as (NP (NP (PRP$ their) (ADJP (RB previously) (VBN announced)) (JJ joint) (NN venture)) (PP (IN for) (NP (NN power) (NNS semiconductors))))
+sid=0 spanning 9 until 10 headed by 9 parsed as their
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (CD two) (NML (NNP West) (NNP German)) (NNS electronics) (NNS concerns))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=1 spanning 11 until 15 headed by 14 parsed as (NP (NP (NNP European) (NNP Power) (NNP Semiconductor) (NNP Co.)) (SBAR (S (VP (TO to) (VP (VB merge) (NP (PRP$ their) (NNS activities)) (PP (IN in) (NP (DT the) (NN field))))))))
+sid=1 spanning 17 until 18 headed by 17 parsed as their
+sid=2 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNP AEG) (CC and) (NNP Siemens)) (NP (DT each)))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP AEG) (CC and) (NNP Siemens)) (NP (DT each)))
+sid=2 spanning 2 until 3 headed by 2 parsed as Siemens
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN venture))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ joint) (NN venture))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Siemens))
+sid=5 spanning 2 until 5 headed by 3 parsed as (NP (NNP West) (NNP Germany) (POS 's))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP AEG))
+sid=6 spanning 11 until 14 headed by 12 parsed as (NP (DT the) (NN country) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP AEG) (NNP AG)) (CC and) (NP (NNP Siemens) (NNP AG)))
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP AEG) (NNP AG)) (CC and) (NP (NNP Siemens) (NNP AG)))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NNP Siemens) (NNP AG))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP they))
+sid=0 spanning 9 until 17 headed by 13 parsed as (NP (NP (PRP$ their) (ADJP (RB previously) (VBN announced)) (JJ joint) (NN venture)) (PP (IN for) (NP (NN power) (NNS semiconductors))))
+sid=0 spanning 9 until 10 headed by 9 parsed as (PRP$ their)
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (NN power) (NNS semiconductors))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP January))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (CD two) (NML (NNP West) (NNP German)) (NNS electronics) (NNS concerns))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=1 spanning 11 until 22 headed by 14 parsed as (NP (NP (NNP European) (NNP Power) (NNP Semiconductor) (NNP Co.)) (SBAR (S (VP (TO to) (VP (VB merge) (NP (PRP$ their) (NNS activities)) (PP (IN in) (NP (DT the) (NN field))))))))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (PRP$ their) (NNS activities))
+sid=1 spanning 17 until 18 headed by 17 parsed as (PRP$ their)
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN field))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP AEG) (CC and) (NNP Siemens)) (NP (DT each)))
+sid=2 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNP AEG) (CC and) (NNP Siemens)) (NP (DT each)))
+sid=2 spanning 2 until 3 headed by 2 parsed as Siemens
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (DT each))
+sid=2 spanning 6 until 13 headed by 9 parsed as (NP (NP (DT a) (NML (CD 50) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN venture))))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN venture))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ joint) (NN venture))
+sid=3 spanning 17 until 19 headed by 18 parsed as (NP (CD 700) (NNS employees))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 7 until 12 headed by 11 parsed as (NP (NML (JJ high) (HYPH -) (NN performance)) (JJ electronic) (NNS parts))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Siemens))
+sid=5 spanning 2 until 8 headed by 7 parsed as (NP (NP (NNP West) (NNP Germany) (POS 's)) (JJS largest) (NN electronics) (NN group))
+sid=5 spanning 2 until 5 headed by 3 parsed as (NP (NNP West) (NNP Germany) (POS 's))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP AEG))
+sid=6 spanning 6 until 10 headed by 9 parsed as (NP (NP (NNP Daimler) (HYPH -) (NNP Benz) (NNP AG)) (, ,) (NP (NP (DT the) (NN country) (POS 's)) (JJS biggest) (JJ industrial) (NN concern)))
+sid=6 spanning 6 until 17 headed by 9 parsed as (NP (NP (NNP Daimler) (HYPH -) (NNP Benz) (NNP AG)) (, ,) (NP (NP (DT the) (NN country) (POS 's)) (JJS biggest) (JJ industrial) (NN concern)))
+sid=6 spanning 11 until 17 headed by 16 parsed as (NP (NP (DT the) (NN country) (POS 's)) (JJS biggest) (JJ industrial) (NN concern))
+sid=6 spanning 11 until 14 headed by 12 parsed as (NP (DT the) (NN country) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+1 18 11 | { 'AEG AG' 'AEG' 'AEG' }
+9 10 0 7 6 3 5 | { 'their' 'AEG and Siemens' 'AEG AG and Siemens AG' 'they' 'The two West German electronics concerns' 'they' 'their' }
+19 17 | { 'the country 's' 'West Germany 's' }
+16 12 2 | { 'Siemens' 'Siemens' 'Siemens AG' }
+13 15 14 4 8 | { 'the venture' 'It' 'The joint venture' 'their previously announced joint venture for power semiconductors' 'European Power Semiconductor Co.' }
+(end gold clusters)

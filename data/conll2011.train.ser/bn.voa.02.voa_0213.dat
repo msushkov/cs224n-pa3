@@ -1,0 +1,43 @@
+---------gloss--------
+(0) Poland is calling for international inspections of Russian military bases in [1m[34m{Kaleningrad}[0m to determine if [1m[35m{Moscow}[0m is moving tactical nuclear weapons to [1m[35m{its}[0m enclave on [1m[33m{the Baltic Sea}[0m . 
+(1) [1m[35m{Russia}[0m strongly denies [1m[35m{it}[0m has violated [1m[35m{its}[0m commitment to keep [1m[33m{the Baltic}[0m nuclear free . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0213); part 000
+sentences:
+PolandPolandNNPGPEPER0isbeVBZOPER0callingcallVBGOPER0forforINOPER0internationalinternationalJJOPER0inspectionsinspectionNNSOPER0ofofINOPER0RussianrussianJJOPER0militarymilitaryJJOPER0basesbasisNNSOPER0ininINOPER0KaleningradKaleningradNNPGPEPER0totoTOOPER0determinedetermineVBOPER0ififINOPER0MoscowMoscowNNPGPEPER0isbeVBZOPER0movingmoveVBGOPER0tacticaltacticalJJOPER0nuclearnuclearJJOPER0weaponsweaponNNSOPER0totoINOPER0itsitsPRP$OPER0enclaveenclaveNNOPER0ononINOPER0thetheDTLOCPER0BalticBalticNNPLOCPER0SeaSeaNNPLOCPER0...OPER0(ROOT (S (NP (NNP Poland)) (VP (VBZ is) (VP (VBG calling) (PP (IN for) (NP (NP (JJ international) (NNS inspections)) (PP (IN of) (NP (NP (JJ Russian) (JJ military) (NNS bases)) (PP (IN in) (NP (NNP Kaleningrad))))))) (S (VP (TO to) (VP (VB determine) (SBAR (IN if) (S (NP (NNP Moscow)) (VP (VBZ is) (VP (VBG moving) (NP (JJ tactical) (JJ nuclear) (NNS weapons)) (PP (IN to) (NP (NP (PRP$ its) (NN enclave)) (PP (IN on) (NP (DT the) (NNP Baltic) (NNP Sea)))))))))))))) (. .)))
+RussiaRussiaNNPORGPER0stronglystronglyRBOPER0deniesdenyVBZOPER0ititPRPOPER0hashaveVBZOPER0violatedviolateVBNOPER0itsitsPRP$OPER0commitmentcommitmentNNOPER0totoTOOPER0keepkeepVBOPER0thetheDTOPER0BalticBalticNNPOPER0nuclearnuclearNNOPER0freefreeJJOPER0...OPER0(ROOT (S (NP (NNP Russia)) (ADVP (RB strongly)) (VP (VBZ denies) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN violated) (NP (PRP$ its) (NN commitment) (S (VP (TO to) (VP (VB keep) (NP (DT the) (NNP Baltic)) (S (ADJP (NN nuclear) (JJ free)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Kaleningrad))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNP Moscow))
+sid=0 spanning 22 until 28 headed by 23 parsed as (NP (NP (PRP$ its) (NN enclave)) (PP (IN on) (NP (DT the) (NNP Baltic) (NNP Sea))))
+sid=0 spanning 22 until 23 headed by 22 parsed as its
+sid=0 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (NNP Baltic) (NNP Sea))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Russia))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 6 until 7 headed by 6 parsed as its
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP Baltic))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Poland))
+sid=0 spanning 4 until 12 headed by 5 parsed as (NP (NP (JJ international) (NNS inspections)) (PP (IN of) (NP (NP (JJ Russian) (JJ military) (NNS bases)) (PP (IN in) (NP (NNP Kaleningrad))))))
+sid=0 spanning 7 until 12 headed by 9 parsed as (NP (NP (JJ Russian) (JJ military) (NNS bases)) (PP (IN in) (NP (NNP Kaleningrad))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Kaleningrad))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNP Moscow))
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (JJ tactical) (JJ nuclear) (NNS weapons))
+sid=0 spanning 22 until 28 headed by 23 parsed as (NP (NP (PRP$ its) (NN enclave)) (PP (IN on) (NP (DT the) (NNP Baltic) (NNP Sea))))
+sid=0 spanning 22 until 23 headed by 22 parsed as (PRP$ its)
+sid=0 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (NNP Baltic) (NNP Sea))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Russia))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 6 until 14 headed by 7 parsed as (NP (PRP$ its) (NN commitment) (S (VP (TO to) (VP (VB keep) (NP (DT the) (NNP Baltic)) (S (ADJP (NN nuclear) (JJ free)))))))
+sid=1 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP Baltic))
+(end predicted mentions)
+---------gold clusters--------
+4 8 | { 'the Baltic Sea' 'the Baltic' }
+2 0 | { 'its enclave on the Baltic Sea' 'Kaleningrad' }
+6 1 3 5 7 | { 'it' 'Moscow' 'its' 'Russia' 'its' }
+(end gold clusters)

@@ -1,0 +1,88 @@
+---------gloss--------
+(0) Meanwhile , more violence in the [4m[32m{West Bank}[0m and [4m[36m{Gaza Strip}[0m has resulted in at least four more deaths . 
+(1) [4m[34m{Hillary Anderson}[0m reports from [4m[33m{Jerusalem}[0m . 
+(2) [4m[35m{The Palestinian suicide bomber}[0m had explosives strapped to [4m[35m{his}[0m body . 
+(3) [4m[35m{He}[0m blew [4m[35m{himself}[0m up at an outdoor cafe frequented by Israeli soldiers near a Jewish settlement . 
+(4) Three Israelis were wounded . 
+(5) In other violence , a Palestinian worker was shot dead in [4m[36m{the Gaza Strip}[0m and in [4m[32m{the West Bank}[0m , another Palestinian , a teenager , was shot by Israeli soldiers during clashes . 
+(6) Tensions were at a peak across the Palestinian areas because this is the holiest day in the Muslim calendar and the Israelis had banned Muslims under the age of 45 and in some cases 35 from praying at [4m[33m{Jerusalem 's}[0m holy sites . 
+(7) [4m[34m{Hillary Anderson}[0m , BBC News , [4m[33m{Jerusalem}[0m . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0098); part 000
+sentences:
+MeanwhilemeanwhileRBOPER0,,,OPER0moremoreJJROPER0violenceviolenceNNOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0hashaveVBZOPER0resultedresultVBNOPER0ininINOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER0fourfourCDCARDINALPER0moremoreJJROPER0deathsdeathNNSOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (JJR more) (NN violence)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))))) (VP (VBZ has) (VP (VBN resulted) (PP (IN in) (NP (QP (ADVP (RB at) (RBS least)) (CD four) (JJR more)) (NNS deaths))))) (. .)))
+HillaryHillaryNNPPERSONPER0AndersonAndersonNNPPERSONPER0reportsreportVBZOPER0fromfromINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (NNP Hillary) (NNP Anderson)) (VP (VBZ reports) (PP (IN from) (NP (NNP Jerusalem)))) (. .)))
+ThetheDTOPER0PalestinianpalestinianJJOPER0suicidesuicideNNOPER0bomberbomberNNOPER0hadhaveVBDOPER0explosivesexplosiveNNSOPER0strappedstrapVBNOPER0totoINOPER0hishePRP$OPER0bodybodyNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ Palestinian) (NN suicide) (NN bomber)) (VP (VBD had) (NP (NP (NNS explosives)) (VP (VBN strapped) (PP (IN to) (NP (PRP$ his) (NN body)))))) (. .)))
+HehePRPOPER0blewblowVBDOPER0himselfhimselfPRPOPER0upupRPOPER0atatINOPER0anaDTOPER0outdooroutdoorJJOPER0cafecafeNNOPER0frequentedfrequentVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0nearnearINOPER0aaDTOPER0JewishjewishJJOPER0settlementsettlementNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD blew) (NP (PRP himself)) (PRT (RP up)) (PP (IN at) (NP (NP (NP (DT an) (JJ outdoor) (NN cafe)) (VP (VBN frequented) (PP (IN by) (NP (JJ Israeli) (NNS soldiers))))) (PP (IN near) (NP (DT a) (JJ Jewish) (NN settlement)))))) (. .)))
+ThreethreeCDCARDINALPER0IsraelisIsraelisNNPSOPER0werebeVBDOPER0woundedwoundVBNOPER0...OPER0(ROOT (S (NP (CD Three) (NNPS Israelis)) (VP (VBD were) (VP (VBN wounded))) (. .)))
+IninINOPER0otherotherJJOPER0violenceviolenceNNOPER0,,,OPER0aaDTOPER0PalestinianpalestinianJJOPER0workerworkerNNOPER0wasbeVBDOPER0shotshootVBNOPER0deaddeadJJOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0andandCCOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0,,,OPER0anotheranotherDTOPER0PalestinianPalestinianNNPOPER0,,,OPER0aaDTOPER0teenagerteenagerNNOPER0,,,OPER0wasbeVBDOPER0shotshootVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0duringduringINOPER0clashesclashNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (JJ other) (NN violence))) (, ,) (S (NP (DT a) (JJ Palestinian) (NN worker)) (VP (VBD was) (VP (VBN shot) (S (ADJP (JJ dead) (PP (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))) (CC and) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))))))) (, ,) (S (NP (NP (DT another) (NNP Palestinian)) (, ,) (NP (DT a) (NN teenager)) (, ,)) (VP (VBD was) (VP (VBN shot) (PP (IN by) (NP (JJ Israeli) (NNS soldiers))) (PP (IN during) (NP (NNS clashes)))))) (. .)))
+TensionstensionNNSOPER0werebeVBDOPER0atatINOPER0aaDTOPER0peakpeakNNOPER0acrossacrossINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0areasareaNNSOPER0becausebecauseINOPER0thisthisDTOPER0isbeVBZOPER0thetheDTDATEPER0holiestholiestJJSDATEPER0daydayNNDATEPER0ininINOPER0thetheDTOPER0MuslimmuslimJJOPER0calendarcalendarNNOPER0andandCCOPER0thetheDTOPER0IsraelisIsraelisNNPSOPER0hadhaveVBDOPER0bannedbanVBNOPER0MuslimsMuslimsNNPSOPER0underunderINOPER0thetheDTDATEPER0ageageNNDATEPER0ofofINDATEPER04545CDDATEPER0andandCCOPER0ininINOPER0somesomeDTOPER0casescaseNNSOPER03535CDDATEPER0fromfromINOPER0prayingprayVBGOPER0atatINOPER0JerusalemJerusalemNNPGPEPER0's'sPOSOPER0holyholyJJOPER0sitessiteNNSOPER0...OPER0(ROOT (S (S (NP (NNS Tensions)) (VP (VBD were) (PP (IN at) (NP (NP (DT a) (NN peak)) (PP (IN across) (NP (DT the) (JJ Palestinian) (NNS areas))))) (SBAR (IN because) (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJS holiest) (NN day)) (PP (IN in) (NP (DT the) (JJ Muslim) (NN calendar))))))))) (CC and) (S (NP (DT the) (NNPS Israelis)) (VP (VBD had) (VP (VBN banned) (NP (NP (NNPS Muslims)) (PP (PP (IN under) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (CD 45))))) (CC and) (PP (IN in) (NP (DT some) (NNS cases))) (NP (CD 35)))) (PP (IN from) (S (VP (VBG praying) (PP (IN at) (NP (NP (NNP Jerusalem) (POS 's)) (JJ holy) (NNS sites))))))))) (. .)))
+HillaryHillaryNNPPERSONPER0AndersonAndersonNNPPERSONPER0,,,OPER0BBCBBCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Hillary) (NNP Anderson)) (, ,) (NP (NNP BBC) (NNP News)) (, ,) (NP (NNP Jerusalem)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=0 spanning 9 until 11 headed by 10 parsed as Strip
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hillary) (NNP Anderson))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Jerusalem))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ Palestinian) (NN suicide) (NN bomber))
+sid=2 spanning 8 until 9 headed by 8 parsed as his
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (PRP himself))
+sid=5 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=6 spanning 38 until 40 headed by 38 parsed as (NP (NNP Jerusalem) (POS 's))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hillary) (NNP Anderson))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 11 headed by 3 parsed as (NP (NP (JJR more) (NN violence)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=0 spanning 5 until 11 headed by 7 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=0 spanning 9 until 11 headed by 10 parsed as Strip
+sid=0 spanning 14 until 19 headed by 18 parsed as (NP (QP (ADVP (RB at) (RBS least)) (CD four) (JJR more)) (NNS deaths))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hillary) (NNP Anderson))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Jerusalem))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ Palestinian) (NN suicide) (NN bomber))
+sid=2 spanning 5 until 10 headed by 5 parsed as (NP (NP (NNS explosives)) (VP (VBN strapped) (PP (IN to) (NP (PRP$ his) (NN body)))))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ his) (NN body))
+sid=2 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (PRP himself))
+sid=3 spanning 5 until 16 headed by 7 parsed as (NP (NP (NP (DT an) (JJ outdoor) (NN cafe)) (VP (VBN frequented) (PP (IN by) (NP (JJ Israeli) (NNS soldiers))))) (PP (IN near) (NP (DT a) (JJ Jewish) (NN settlement))))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ Jewish) (NN settlement))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (CD Three) (NNPS Israelis))
+sid=5 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (JJ Palestinian) (NN worker))
+sid=5 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=5 spanning 20 until 26 headed by 21 parsed as (NP (NP (DT another) (NNP Palestinian)) (, ,) (NP (DT a) (NN teenager)) (, ,))
+sid=5 spanning 20 until 22 headed by 21 parsed as (NP (DT another) (NNP Palestinian))
+sid=5 spanning 23 until 25 headed by 24 parsed as (NP (DT a) (NN teenager))
+sid=5 spanning 29 until 31 headed by 30 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=5 spanning 32 until 33 headed by 32 parsed as (NP (NNS clashes))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNS Tensions))
+sid=6 spanning 3 until 9 headed by 4 parsed as (NP (NP (DT a) (NN peak)) (PP (IN across) (NP (DT the) (JJ Palestinian) (NNS areas))))
+sid=6 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (JJ Palestinian) (NNS areas))
+sid=6 spanning 10 until 11 headed by 10 parsed as (NP (DT this))
+sid=6 spanning 12 until 19 headed by 14 parsed as (NP (NP (DT the) (JJS holiest) (NN day)) (PP (IN in) (NP (DT the) (JJ Muslim) (NN calendar))))
+sid=6 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ Muslim) (NN calendar))
+sid=6 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNPS Israelis))
+sid=6 spanning 24 until 35 headed by 24 parsed as (NP (NP (NNPS Muslims)) (PP (PP (IN under) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (CD 45))))) (CC and) (PP (IN in) (NP (DT some) (NNS cases))) (NP (CD 35))))
+sid=6 spanning 26 until 30 headed by 27 parsed as (NP (NP (DT the) (NN age)) (PP (IN of) (NP (CD 45))))
+sid=6 spanning 32 until 34 headed by 33 parsed as (NP (DT some) (NNS cases))
+sid=6 spanning 34 until 35 headed by 34 parsed as (NP (CD 35))
+sid=6 spanning 38 until 42 headed by 41 parsed as (NP (NP (NNP Jerusalem) (POS 's)) (JJ holy) (NNS sites))
+sid=6 spanning 38 until 40 headed by 38 parsed as (NP (NNP Jerusalem) (POS 's))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hillary) (NNP Anderson))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (NNP BBC) (NNP News))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+9 0 | { 'the West Bank' 'West Bank' }
+12 10 3 | { 'Jerusalem' 'Jerusalem 's' 'Jerusalem' }
+2 11 | { 'Hillary Anderson' 'Hillary Anderson' }
+7 6 4 5 | { 'himself' 'He' 'The Palestinian suicide bomber' 'his' }
+1 8 | { 'Gaza Strip' 'the Gaza Strip' }
+(end gold clusters)

@@ -1,0 +1,52 @@
+---------gloss--------
+(0) [33m{Yemen 's}[0m President says [34m{his}[0m country 's constitution wo n't allow any suspects in [35m{the bombing of the `` USS Cole ''}[0m to be extradited . 
+(1) [34m{He}[0m tells `` the Washington Post '' authorities are still searching for the suspected mastermind behind [35m{the attack}[0m , but [34m{he}[0m would n't speculate if suspected terrorist Osama Bin Laden was involved . 
+(2) Next month , [33m{Yemen}[0m plans to try six suspects in [35m{the October suicide bombing that killed 17 U.S. sailors}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0135); part 000
+sentences:
+YemenYemenNNPGPEPER0's'sPOSOPER0PresidentPresidentNNPOPER0sayssayVBZOPER0hishePRP$OPER0countrycountryNNOPER0's'sPOSOPER0constitutionconstitutionNNOPER0wowillMDOPER0n'tnotRBOPER0allowallowVBOPER0anyanyDTOPER0suspectssuspectNNSOPER0ininINOPER0thetheDTOPER0bombingbombingNNOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0totoTOOPER0bebeVBOPER0extraditedextraditeVBNOPER0...OPER0(ROOT (S (NP (NP (NNP Yemen) (POS 's)) (NNP President)) (VP (VBZ says) (SBAR (S (NP (NP (PRP$ his) (NN country) (POS 's)) (NN constitution)) (VP (MD wo) (RB n't) (VP (VB allow) (S (NP (NP (DT any) (NNS suspects)) (PP (IN in) (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))))) (VP (TO to) (VP (VB be) (VP (VBN extradited)))))))))) (. .)))
+HehePRPOPER0tellstellVBZOPER0``````ORGthetheDTORGPER2WashingtonWashingtonNNPORGPER2PostPostNNPORGPER2''''''ORGPER0authoritiesauthorityNNSOPER0arebeVBPOPER0stillstillRBOPER0searchingsearchVBGOPER0forforINOPER0thetheDTOPER0suspectedsuspectVBNOPER0mastermindmastermindNNOPER0behindbehindINOPER0thetheDTOPER0attackattackNNOPER0,,,OPER0butbutCCOPER0hehePRPOPER0wouldwouldMDOPER0n'tnotRBOPER0speculatespeculateVBOPER0ififINOPER0suspectedsuspectVBNOPER0terroristterroristNNOPER0OsamaOsamaNNPPERSONPER0BinBinNNPPERSONPER0LadenLadenNNPPERSONPER0wasbeVBDOPER0involvedinvolveVBNOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (VBZ tells) (NP (`` ``) (DT the) (NNP Washington) (NNP Post) ('' '')) (SBAR (S (NP (NNS authorities)) (VP (VBP are) (ADVP (RB still)) (VP (VBG searching) (PP (IN for) (NP (NP (DT the) (VBN suspected) (NN mastermind)) (PP (IN behind) (NP (DT the) (NN attack))))))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (MD would) (RB n't) (VP (VB speculate) (SBAR (IN if) (S (NP (NML (VBN suspected) (NN terrorist)) (NNP Osama) (NNP Bin) (NNP Laden)) (VP (VBD was) (VP (VBN involved)))))))) (. .)))
+NextnextJJDATEPER0monthmonthNNDATEPER0,,,OPER0YemenYemenNNPGPEPER0plansplanVBZOPER0totoTOOPER0trytryVBOPER0sixsixCDCARDINALPER0suspectssuspectNNSOPER0ininINOPER0thetheDTOPER0OctoberOctoberNNPDATEPER0suicidesuicideNNOPER0bombingbombingNNOPER0thatthatWDTOPER0killedkillVBDOPER01717CDCARDINALPER0U.S.U.S.NNPGPEPER0sailorssailorNNSOPER0...OPER0(ROOT (S (NP (JJ Next) (NN month)) (, ,) (NP (NNP Yemen)) (VP (VBZ plans) (S (VP (TO to) (VP (VB try) (NP (NP (CD six) (NNS suspects)) (PP (IN in) (NP (NP (DT the) (NNP October) (NN suicide) (NN bombing)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP U.S.) (NNS sailors)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Yemen) (POS 's)) (NNP President))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Yemen) (POS 's))
+sid=0 spanning 4 until 7 headed by 5 parsed as (NP (PRP$ his) (NN country) (POS 's))
+sid=0 spanning 4 until 5 headed by 4 parsed as his
+sid=0 spanning 14 until 22 headed by 15 parsed as (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN attack))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (PRP he))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Yemen))
+sid=2 spanning 10 until 19 headed by 13 parsed as (NP (NP (DT the) (NNP October) (NN suicide) (NN bombing)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP U.S.) (NNS sailors))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Yemen) (POS 's)) (NNP President))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Yemen) (POS 's))
+sid=0 spanning 4 until 8 headed by 7 parsed as (NP (NP (PRP$ his) (NN country) (POS 's)) (NN constitution))
+sid=0 spanning 4 until 7 headed by 5 parsed as (NP (PRP$ his) (NN country) (POS 's))
+sid=0 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=0 spanning 14 until 22 headed by 15 parsed as (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 17 until 22 headed by 20 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 7 headed by 5 parsed as (NP (`` ``) (DT the) (NNP Washington) (NNP Post) ('' ''))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (NNS authorities))
+sid=1 spanning 12 until 18 headed by 14 parsed as (NP (NP (DT the) (VBN suspected) (NN mastermind)) (PP (IN behind) (NP (DT the) (NN attack))))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN attack))
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (PRP he))
+sid=1 spanning 25 until 30 headed by 29 parsed as (NP (NML (VBN suspected) (NN terrorist)) (NNP Osama) (NNP Bin) (NNP Laden))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (JJ Next) (NN month))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Yemen))
+sid=2 spanning 7 until 19 headed by 8 parsed as (NP (NP (CD six) (NNS suspects)) (PP (IN in) (NP (NP (DT the) (NNP October) (NN suicide) (NN bombing)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP U.S.) (NNS sailors))))))))
+sid=2 spanning 10 until 19 headed by 13 parsed as (NP (NP (DT the) (NNP October) (NN suicide) (NN bombing)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP U.S.) (NNS sailors))))))
+sid=2 spanning 11 until 12 headed by 11 parsed as October
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (CD 17) (NNP U.S.) (NNS sailors))
+(end predicted mentions)
+---------gold clusters--------
+1 8 2 | { 'Yemen 's' 'Yemen' 'his country 's' }
+7 3 5 0 | { 'he' 'his' 'He' 'Yemen 's President' }
+4 6 9 | { 'the bombing of the `` USS Cole ''' 'the attack' 'the October suicide bombing that killed 17 U.S. sailors' }
+(end gold clusters)

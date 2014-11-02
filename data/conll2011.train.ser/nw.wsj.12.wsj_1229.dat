@@ -1,0 +1,39 @@
+---------gloss--------
+(0) [34m{David W. Lodge}[0m was elected vice president and chief financial officer , effective Nov. 1 . 
+(1) [34m{Mr. Lodge , 48 years old , a former finance executive at Singer Sewing Machine Co. and Celanese Corp. ,}[0m succeeds Francis L. Brophy , 64 , who plans to retire from the company next year . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1229); part 000
+sentences:
+DavidDavidNNPPERSONPER0W.W.NNPPERSONPER0LodgeLodgeNNPPERSONPER0wasbeVBDOPER0electedelectVBNOPER0viceviceNNOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0financialfinancialJJOPER0officerofficerNNOPER0,,,OPER0effectiveeffectiveJJOPER0Nov.Nov.NNPDATEPER011CDDATEPER0...OPER0(ROOT (S (NP (NNP David) (NNP W.) (NNP Lodge)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer))) (, ,) (ADJP (JJ effective) (NP (NNP Nov.) (CD 1))))))) (. .)))
+Mr.Mr.NNPOPER0LodgeLodgeNNPPERSONPER0,,,OPER04848CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0aaDTOPER0formerformerJJOPER0financefinanceNNOPER0executiveexecutiveNNOPER0atatINOPER0SingerSingerNNPORGPER0SewingsewingNNORGPER0MachineMachineNNPORGPER0Co.Co.NNPORGPER0andandCCOPER0CelaneseCelaneseNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0succeedssucceedVBZOPER0FrancisFrancisNNPPERSONPER0L.L.NNPPERSONPER0BrophyBrophyNNPPERSONPER0,,,OPER06464CDDATEPER0,,,OPER0whowhoWPOPER0plansplanVBZOPER0totoTOOPER0retireretireVBOPER0fromfromINOPER0thetheDTOPER0companycompanyNNOPER0nextnextJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Lodge)) (, ,) (ADJP (NML (CD 48) (NNS years)) (JJ old)) (, ,) (NP (NP (DT a) (JJ former) (NN finance) (NN executive)) (PP (IN at) (NP (NP (NNP Singer) (NN Sewing) (NNP Machine) (NNP Co.)) (CC and) (NP (NNP Celanese) (NNP Corp.))))) (, ,)) (VP (VBZ succeeds) (NP (NP (NP (NNP Francis) (NNP L.) (NNP Brophy)) (, ,) (NP (CD 64))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ plans) (S (VP (TO to) (VP (VB retire) (PP (IN from) (NP (DT the) (NN company))) (NP (JJ next) (NN year)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP David) (NNP W.) (NNP Lodge))
+sid=1 spanning 0 until 20 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Lodge)) (, ,) (ADJP (NML (CD 48) (NNS years)) (JJ old)) (, ,) (NP (NP (DT a) (JJ former) (NN finance) (NN executive)) (PP (IN at) (NP (NP (NNP Singer) (NN Sewing) (NNP Machine) (NNP Co.)) (CC and) (NP (NNP Celanese) (NNP Corp.))))) (, ,))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP David) (NNP W.) (NNP Lodge))
+sid=0 spanning 5 until 15 headed by 6 parsed as (NP (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer))) (, ,) (ADJP (JJ effective) (NP (NNP Nov.) (CD 1))))
+sid=0 spanning 5 until 11 headed by 6 parsed as (NP (NP (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer)))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NN vice) (NN president))
+sid=0 spanning 13 until 15 headed by 13 parsed as (NP (NNP Nov.) (CD 1))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Lodge)) (, ,) (ADJP (NML (CD 48) (NNS years)) (JJ old)) (, ,) (NP (NP (DT a) (JJ former) (NN finance) (NN executive)) (PP (IN at) (NP (NP (NNP Singer) (NN Sewing) (NNP Machine) (NNP Co.)) (CC and) (NP (NNP Celanese) (NNP Corp.))))) (, ,))
+sid=1 spanning 0 until 20 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Lodge)) (, ,) (ADJP (NML (CD 48) (NNS years)) (JJ old)) (, ,) (NP (NP (DT a) (JJ former) (NN finance) (NN executive)) (PP (IN at) (NP (NP (NNP Singer) (NN Sewing) (NNP Machine) (NNP Co.)) (CC and) (NP (NNP Celanese) (NNP Corp.))))) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Lodge))
+sid=1 spanning 3 until 6 headed by 5 parsed as old
+sid=1 spanning 7 until 19 headed by 10 parsed as (NP (NP (DT a) (JJ former) (NN finance) (NN executive)) (PP (IN at) (NP (NP (NNP Singer) (NN Sewing) (NNP Machine) (NNP Co.)) (CC and) (NP (NNP Celanese) (NNP Corp.)))))
+sid=1 spanning 12 until 16 headed by 15 parsed as (NP (NP (NNP Singer) (NN Sewing) (NNP Machine) (NNP Co.)) (CC and) (NP (NNP Celanese) (NNP Corp.)))
+sid=1 spanning 12 until 19 headed by 15 parsed as (NP (NP (NNP Singer) (NN Sewing) (NNP Machine) (NNP Co.)) (CC and) (NP (NNP Celanese) (NNP Corp.)))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (NNP Celanese) (NNP Corp.))
+sid=1 spanning 21 until 24 headed by 23 parsed as (NP (NP (NP (NNP Francis) (NNP L.) (NNP Brophy)) (, ,) (NP (CD 64))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ plans) (S (VP (TO to) (VP (VB retire) (PP (IN from) (NP (DT the) (NN company))) (NP (JJ next) (NN year)))))))))
+sid=1 spanning 21 until 36 headed by 23 parsed as (NP (NP (NP (NNP Francis) (NNP L.) (NNP Brophy)) (, ,) (NP (CD 64))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ plans) (S (VP (TO to) (VP (VB retire) (PP (IN from) (NP (DT the) (NN company))) (NP (JJ next) (NN year)))))))))
+sid=1 spanning 21 until 26 headed by 23 parsed as (NP (NP (NNP Francis) (NNP L.) (NNP Brophy)) (, ,) (NP (CD 64)))
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (CD 64))
+sid=1 spanning 32 until 34 headed by 33 parsed as (NP (DT the) (NN company))
+sid=1 spanning 34 until 36 headed by 35 parsed as (NP (JJ next) (NN year))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'David W. Lodge' 'Mr. Lodge , 48 years old , a former finance executive at Singer Sewing Machine Co. and Celanese Corp. ,' }
+(end gold clusters)

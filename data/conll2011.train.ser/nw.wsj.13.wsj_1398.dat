@@ -1,0 +1,71 @@
+---------gloss--------
+(0) With a Twist of the Wrist [4m[35m{Boys with tops , and Frisbee tossers , And P.R. types with bees in their bonnet ,}[0m Have [31m{a goal}[0m in common , [4m[35m{all of them}[0m try To put the right spin on [31m{it}[0m . 
+(1) -- George O. Ludcke . 
+(2) Net Gain 
+(3) [32m{Investment letters}[0m now abound , [4m[36m{I}[0m really like to read [32m{them}[0m ; If [4m[36m{I}[0m peruse enough , [4m[36m{I}[0m 've found [4m[36m{I}[0m 've no time left to heed [32m{them}[0m ! 
+(4) [4m[36m{-- Bern Sharfman .}[0m 
+(5) Daffynition 
+(6) TV evangelist : salesparson . 
+(7) -- Marguerite Whitley May . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1398); part 000
+sentences:
+WithwithINOPER0aaDTOPER0TwisttwistNNOPER0ofofINOPER0thetheDTOPER0WristwristNNOPER0BoysBoysNNPSOPER0withwithINOPER0topstopNNSOPER0,,,OPER0andandCCOPER0FrisbeeFrisbeeNNPPRODUCTPER0tosserstosserNNSOPER0,,,OPER0AndandCCOPER0P.R.P.R.NNPOPER0typestypeNNSOPER0withwithINOPER0beesbeeNNSOPER0ininINOPER0theirtheyPRP$OPER0bonnetbonnetNNOPER0,,,OPER0HavehaveVBPOPER0aaDTOPER0goalgoalNNOPER0ininINOPER0commoncommonJJOPER0,,,OPER0allallDTOPER0ofofINOPER0themtheyPRPOPER0trytryVBPOPER0TotoTOOPER0putputVBOPER0thetheDTOPER0rightrightJJOPER0spinspinNNOPER0ononINOPER0ititPRPOPER0...OPER0(ROOT (S (PP (IN With) (NP (NP (DT a) (NN Twist)) (PP (IN of) (NP (DT the) (NN Wrist))))) (NP (NP (NP (NNPS Boys)) (PP (IN with) (NP (NNS tops)))) (, ,) (CC and) (NP (NNP Frisbee) (NNS tossers)) (, ,) (CC And) (NP (NP (NNP P.R.) (NNS types)) (PP (IN with) (NP (NP (NNS bees)) (PP (IN in) (NP (PRP$ their) (NN bonnet)))))) (, ,)) (VP (VBP Have) (NP (NP (DT a) (NN goal)) (SBAR (S (PP (IN in) (ADJP (JJ common))) (, ,) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBP try) (S (VP (TO To) (VP (VB put) (NP (DT the) (JJ right) (NN spin)) (PP (IN on) (NP (PRP it))))))))))) (. .)))
+----:PERSONPER0GeorgeGeorgeNNPPERSONPER0O.O.NNPPERSONPER0LudckeLudckeNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .)))
+NetnetJJOPER0GaingainNNOPER0(ROOT (NP (JJ Net) (NN Gain)))
+InvestmentinvestmentNNOPER0lettersletterNNSOPER0nownowRBOPER0aboundaboundVBPOPER0,,,OPER0IIPRPOPER0reallyreallyRBOPER0likelikeVBPOPER0totoTOOPER0readreadVBOPER0themtheyPRPOPER0;;:OPER0IfifINOPER0IIPRPOPER0peruseperuseVBOPER0enoughenoughRBOPER0,,,OPER0IIPRPOPER0'vehaveVBPOPER0foundfindVBNOPER0IIPRPOPER0'vehaveVBPOPER0nonoDTOPER0timetimeNNOPER0leftleaveVBNOPER0totoTOOPER0heedheedVBOPER0themtheyPRPOPER0!!.OPER0(ROOT (S (S (S (NP (NN Investment) (NNS letters)) (ADVP (RB now)) (VP (VBP abound))) (, ,) (NP (PRP I)) (ADVP (RB really)) (VP (VBP like) (S (VP (TO to) (VP (VB read) (NP (PRP them))))))) (: ;) (S (SBAR (IN If) (S (NP (PRP I)) (VP (VB peruse) (ADVP (RB enough))))) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBN found) (SBAR (S (NP (PRP I)) (VP (VBP 've) (NP (NP (DT no) (NN time)) (VP (VBN left) (S (VP (TO to) (VP (VB heed) (NP (PRP them))))))))))))) (. !)))
+----:PERSONPER0BernBernNNPPERSONPER0SharfmanSharfmanNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP Bern) (NNP Sharfman) (. .)))
+DaffynitiondaffynitionNNOPER0(ROOT (NP (NN Daffynition)))
+TVtvNNOPER0evangelistevangelistNNOPER0:::OPER0salesparsonsalesparsonNNOPER0...OPER0(ROOT (NP (NP (NN TV) (NN evangelist)) (: :) (NP (NN salesparson)) (. .)))
+----:PERSONPER0MargueriteMargueriteNNPPERSONPER0WhitleyWhitleyNNPPERSONPER0MayMayNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP Marguerite) (NNP Whitley) (NNP May) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 23 headed by 6 parsed as (NP (NP (NP (NNPS Boys)) (PP (IN with) (NP (NNS tops)))) (, ,) (CC and) (NP (NNP Frisbee) (NNS tossers)) (, ,) (CC And) (NP (NP (NNP P.R.) (NNS types)) (PP (IN with) (NP (NP (NNS bees)) (PP (IN in) (NP (PRP$ their) (NN bonnet)))))) (, ,))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (NP (DT a) (NN goal)) (SBAR (S (PP (IN in) (ADJP (JJ common))) (, ,) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBP try) (S (VP (TO To) (VP (VB put) (NP (DT the) (JJ right) (NN spin)) (PP (IN on) (NP (PRP it))))))))))
+sid=0 spanning 29 until 32 headed by 29 parsed as (NP (NP (DT all)) (PP (IN of) (NP (PRP them))))
+sid=0 spanning 39 until 40 headed by 39 parsed as (NP (PRP it))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NN Investment) (NNS letters))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP them))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (PRP I))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (PRP I))
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (PRP I))
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (PRP them))
+sid=4 spanning 0 until 4 headed by 2 parsed as (NP (: --) (NNP Bern) (NNP Sharfman) (. .))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 6 headed by 2 parsed as (NP (NP (DT a) (NN Twist)) (PP (IN of) (NP (DT the) (NN Wrist))))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN Wrist))
+sid=0 spanning 6 until 23 headed by 6 parsed as (NP (NP (NP (NNPS Boys)) (PP (IN with) (NP (NNS tops)))) (, ,) (CC and) (NP (NNP Frisbee) (NNS tossers)) (, ,) (CC And) (NP (NP (NNP P.R.) (NNS types)) (PP (IN with) (NP (NP (NNS bees)) (PP (IN in) (NP (PRP$ their) (NN bonnet)))))) (, ,))
+sid=0 spanning 6 until 9 headed by 6 parsed as (NP (NP (NNPS Boys)) (PP (IN with) (NP (NNS tops))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNS tops))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (NNP Frisbee) (NNS tossers))
+sid=0 spanning 11 until 12 headed by 11 parsed as Frisbee
+sid=0 spanning 15 until 22 headed by 16 parsed as (NP (NP (NNP P.R.) (NNS types)) (PP (IN with) (NP (NP (NNS bees)) (PP (IN in) (NP (PRP$ their) (NN bonnet))))))
+sid=0 spanning 18 until 22 headed by 18 parsed as (NP (NP (NNS bees)) (PP (IN in) (NP (PRP$ their) (NN bonnet))))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (PRP$ their) (NN bonnet))
+sid=0 spanning 20 until 21 headed by 20 parsed as (PRP$ their)
+sid=0 spanning 24 until 40 headed by 25 parsed as (NP (NP (DT a) (NN goal)) (SBAR (S (PP (IN in) (ADJP (JJ common))) (, ,) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBP try) (S (VP (TO To) (VP (VB put) (NP (DT the) (JJ right) (NN spin)) (PP (IN on) (NP (PRP it))))))))))
+sid=0 spanning 35 until 38 headed by 37 parsed as (NP (DT the) (JJ right) (NN spin))
+sid=0 spanning 39 until 40 headed by 39 parsed as (NP (PRP it))
+sid=1 spanning 0 until 5 headed by 3 parsed as (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NN Investment) (NNS letters))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP I))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP them))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (PRP I))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (PRP I))
+sid=3 spanning 20 until 21 headed by 20 parsed as (NP (PRP I))
+sid=3 spanning 22 until 28 headed by 23 parsed as (NP (NP (DT no) (NN time)) (VP (VBN left) (S (VP (TO to) (VP (VB heed) (NP (PRP them)))))))
+sid=3 spanning 27 until 28 headed by 27 parsed as (NP (PRP them))
+sid=4 spanning 0 until 4 headed by 2 parsed as (NP (: --) (NNP Bern) (NNP Sharfman) (. .))
+sid=6 spanning 0 until 5 headed by 1 parsed as (NP (NP (NN TV) (NN evangelist)) (: :) (NP (NN salesparson)) (. .))
+sid=7 spanning 0 until 5 headed by 3 parsed as (NP (: --) (NNP Marguerite) (NNP Whitley) (NNP May) (. .))
+(end predicted mentions)
+---------gold clusters--------
+2 0 | { 'all of them' 'Boys with tops , and Frisbee tossers , And P.R. types with bees in their bonnet ,' }
+11 7 8 9 5 | { '-- Bern Sharfman .' 'I' 'I' 'I' 'I' }
+1 3 | { 'a goal' 'it' }
+6 10 4 | { 'them' 'them' 'Investment letters' }
+(end gold clusters)

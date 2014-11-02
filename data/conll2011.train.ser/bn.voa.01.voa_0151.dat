@@ -1,0 +1,51 @@
+---------gloss--------
+(0) Israel has blockaded all [3m[35m{West Bank}[0m cities after 10 people died in one of the worst days of Israeli - Palestinian violence in more than 10 weeks . 
+(1) Israeli tank - fire killed five Palestinians including four policemen in the [3m[35m{West Bank}[0m town of Jenine . 
+(2) Israeli forces killed one Palestinian near Bethlehem and another in Arab East Jerusalem . 
+(3) Palestinian gunmen in [3m[35m{the West Bank}[0m killed two Jewish settlers in a roadside ambush near Hebron and a third Israeli in an attack against a bus outside of Jericho . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0151); part 000
+sentences:
+IsraelIsraelNNPGPEPER0hashaveVBZOPER0blockadedblockadeVBDOPER0allallDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0citiescityNNSOPER0afterafterINOPER01010CDCARDINALPER0peoplepeopleNNSOPER0dieddieVBDOPER0ininINOPER0oneoneCDOPER0ofofINOPER0thetheDTDATEPER0worstworstJJSDATEPER0daysdayNNSDATEPER0ofofINOPER0IsraeliisraeliJJOPER0--HYPHOPER0PalestinianpalestinianJJOPER0violenceviolenceNNOPER0ininINOPER0moremoreJJRDATEPER0thanthanINDATEPER01010CDDATEPER0weeksweekNNSDATEPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBZ has) (VP (VBD blockaded) (SBAR (NP (DT all) (NML (NNP West) (NNP Bank)) (NNS cities)) (IN after) (S (NP (CD 10) (NNS people)) (VP (VBD died) (PP (IN in) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS worst) (NNS days)) (PP (IN of) (NP (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN violence)) (PP (IN in) (NP (QP (XS (JJR more) (IN than)) (CD 10)) (NNS weeks)))))))))))))) (. .)))
+IsraeliisraeliJJOPER0tanktankNNOPER0--HYPHOPER0firefireNNOPER0killedkillVBDOPER0fivefiveCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0includingincludeVBGOPER0fourfourCDCARDINALPER0policemenpolicemanNNSOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0towntownNNOPER0ofofINOPER0JenineJenineNNPORGPER0...OPER0(ROOT (S (NP (JJ Israeli) (NN tank) (HYPH -) (NN fire)) (VP (VBD killed) (NP (NP (CD five) (NNPS Palestinians)) (PP (VBG including) (NP (CD four) (NNS policemen)))) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Jenine)))))) (. .)))
+IsraeliisraeliJJOPER0forcesforceNNSOPER0killedkillVBDOPER0oneoneCDCARDINALPER0PalestinianPalestinianNNPSOPER0nearnearINOPER0BethlehemBethlehemNNPGPEPER0andandCCOPER0anotheranotherDTOPER0ininINOPER0ArabarabJJOPER0EastEastNNPGPEPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS forces)) (VP (VBD killed) (NP (CD one) (NNPS Palestinian)) (PP (IN near) (NP (NP (NNP Bethlehem)) (CC and) (NP (NP (DT another)) (PP (IN in) (NP (JJ Arab) (NNP East) (NNP Jerusalem))))))) (. .)))
+PalestinianpalestinianJJOPER0gunmengunmanNNSOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0killedkillVBDOPER0twotwoCDCARDINALPER0JewishjewishJJOPER0settlerssettlerNNSOPER0ininINOPER0aaDTOPER0roadsideroadsideNNOPER0ambushambushNNOPER0nearnearINOPER0HebronHebronNNPGPEPER0andandCCOPER0aaDTOPER0thirdthirdJJCARDINALPER0IsraeliisraeliJJOPER0ininINOPER0anaDTOPER0attackattackNNOPER0againstagainstINOPER0aaDTOPER0busbusNNOPER0outsideoutsideINOPER0ofofINOPER0JerichoJerichoNNPORGPER0...OPER0(ROOT (S (NP (NP (JJ Palestinian) (NNS gunmen)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank)))) (VP (VBD killed) (NP (NP (CD two) (JJ Jewish) (NNS settlers)) (PP (IN in) (NP (NP (NP (DT a) (NN roadside) (NN ambush)) (PP (IN near) (NP (NNP Hebron)))) (CC and) (NP (DT a) (JJ third) (JJ Israeli))))) (PP (IN in) (NP (NP (DT an) (NN attack)) (PP (IN against) (NP (DT a) (NN bus))) (PP (IN outside) (PP (IN of) (NP (NNP Jericho))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 6 headed by 5 parsed as Bank
+sid=1 spanning 12 until 14 headed by 13 parsed as Bank
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP West) (NNP Bank))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=0 spanning 4 until 6 headed by 5 parsed as Bank
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (CD 10) (NNS people))
+sid=0 spanning 12 until 27 headed by 12 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS worst) (NNS days)) (PP (IN of) (NP (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN violence)) (PP (IN in) (NP (QP (XS (JJR more) (IN than)) (CD 10)) (NNS weeks))))))))
+sid=0 spanning 23 until 27 headed by 26 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 10)) (NNS weeks))
+sid=1 spanning 5 until 10 headed by 6 parsed as (NP (NP (CD five) (NNPS Palestinians)) (PP (VBG including) (NP (CD four) (NNS policemen))))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (CD four) (NNS policemen))
+sid=1 spanning 11 until 17 headed by 14 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Jenine))))
+sid=1 spanning 12 until 14 headed by 13 parsed as Bank
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Jenine))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS forces))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (CD one) (NNPS Palestinian))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP Bethlehem)) (CC and) (NP (NP (DT another)) (PP (IN in) (NP (JJ Arab) (NNP East) (NNP Jerusalem)))))
+sid=2 spanning 6 until 13 headed by 6 parsed as (NP (NP (NNP Bethlehem)) (CC and) (NP (NP (DT another)) (PP (IN in) (NP (JJ Arab) (NNP East) (NNP Jerusalem)))))
+sid=2 spanning 8 until 13 headed by 8 parsed as (NP (NP (DT another)) (PP (IN in) (NP (JJ Arab) (NNP East) (NNP Jerusalem))))
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (JJ Arab) (NNP East) (NNP Jerusalem))
+sid=3 spanning 0 until 6 headed by 1 parsed as (NP (NP (JJ Palestinian) (NNS gunmen)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))
+sid=3 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=3 spanning 7 until 20 headed by 9 parsed as (NP (NP (CD two) (JJ Jewish) (NNS settlers)) (PP (IN in) (NP (NP (NP (DT a) (NN roadside) (NN ambush)) (PP (IN near) (NP (NNP Hebron)))) (CC and) (NP (DT a) (JJ third) (JJ Israeli)))))
+sid=3 spanning 11 until 20 headed by 13 parsed as (NP (NP (NP (DT a) (NN roadside) (NN ambush)) (PP (IN near) (NP (NNP Hebron)))) (CC and) (NP (DT a) (JJ third) (JJ Israeli)))
+sid=3 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT a) (NN roadside) (NN ambush)) (PP (IN near) (NP (NNP Hebron))))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (NNP Hebron))
+sid=3 spanning 17 until 20 headed by 19 parsed as (NP (DT a) (JJ third) (JJ Israeli))
+sid=3 spanning 21 until 29 headed by 22 parsed as (NP (NP (DT an) (NN attack)) (PP (IN against) (NP (DT a) (NN bus))) (PP (IN outside) (PP (IN of) (NP (NNP Jericho)))))
+sid=3 spanning 24 until 26 headed by 25 parsed as (NP (DT a) (NN bus))
+sid=3 spanning 28 until 29 headed by 28 parsed as (NP (NNP Jericho))
+(end predicted mentions)
+---------gold clusters--------
+1 2 0 | { 'West Bank' 'the West Bank' 'West Bank' }
+(end gold clusters)

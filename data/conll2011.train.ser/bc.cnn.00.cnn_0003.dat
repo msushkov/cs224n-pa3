@@ -1,0 +1,117 @@
+---------gloss--------
+(0) What 's [4m[36m{your}[0m new TV series coming up /? 
+(1) Oh [31m{it}[0m 's a new show for FX called Beef /. 
+(2) [31m{Beef /?}[0m 
+(3) [31m{Beef /.}[0m 
+(4) [4m[36m{You}[0m start shooting /? 
+(5) Um [4m[36m{I}[0m 'm going to [32m{Shriport}[0m tomorrow /. 
+(6) [32m{Shriport Louisiana /.}[0m 
+(7) But you do n't pronounce [33m{the r}[0m /. 
+(8) You do n't want [33m{the second r}[0m /. 
+(9) [32m{Shriport /.}[0m 
+(10) Alright /. 
+(11) [32m{Shriport /.}[0m 
+(12) Ca n't wait /. 
+(13) OK [32m{Shriport}[0m [32m{Shriport}[0m /. 
+(14) OK /. 
+(15) Thank [4m[36m{you}[0m [4m[36m{Linda}[0m /. 
+(16) And again for more information it 's www dot complete wellness approach dot com /. 
+(17) Ha ha OK /. 
+(18) Tomorrow night Rod Stewart /. 
+(19) Monday night Colin Powell Robert Downey Jr. Sharon Stone /. 
+(20) Anderson Cooper off tonight /. 
+(21) but that does n't matter nah because Erin Brown is here and there 's that fam- /. 
+(end gloss)
+---------document--------
+(bc/cnn/00/cnn_0003); part 014
+sentences:
+WhatwhatWPOLarry King'sbeVBZOLarry KingyouryouPRP$OLarry KingnewnewJJOLarry KingTVtvNNOLarry KingseriesseriesNNOLarry KingcomingcomeVBGOLarry KingupupRPOLarry King/?/?.OLarry King(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP$ your) (JJ new) (NN TV) (NN series)) (VP (VBG coming) (PRT (RP up)))) (. /?)))
+OhohUHOLinda HamiltonititPRPOLinda Hamilton'sbeVBZOLinda HamiltonaaDTOLinda HamiltonnewnewJJOLinda HamiltonshowshowNNOLinda HamiltonforforINOLinda HamiltonFXFXNNPORGLinda HamiltoncalledcallVBNOLinda HamiltonBeefBeefNNPOLinda Hamilton/./..OLinda Hamilton(ROOT (S (INTJ (UH Oh)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NP (DT a) (JJ new) (NN show)) (PP (IN for) (NP (NNP FX)))) (VP (VBN called) (S (NP (NNP Beef)))))) (. /.)))
+BeefbeefNNOLarry King/?/?.OLarry King(ROOT (NP (NN Beef) (. /?)))
+BeefbeefNNOLinda Hamilton/./..OLinda Hamilton(ROOT (NP (NN Beef) (. /.)))
+YouyouPRPOLarry KingstartstartVBPOLarry KingshootingshootVBGOLarry King/?/?.OLarry King(ROOT (S (NP (PRP You)) (VP (VBP start) (S (VP (VBG shooting)))) (. /?)))
+UmumUHOLinda HamiltonIIPRPOLinda Hamilton'mbeVBPOLinda HamiltongoinggoVBGOLinda HamiltontotoTOOLinda HamiltonShriportShriportNNPGPELinda HamiltontomorrowtomorrowNNDATELinda Hamilton/./..OLinda Hamilton(ROOT (S (INTJ (UH Um)) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (NNP Shriport) (NP (NN tomorrow))))))) (. /.)))
+ShriportShriportNNPOLarry KingLouisianaLouisianaNNPGPELarry King/./..OLarry King(ROOT (FRAG (NP (NNP Shriport)) (NP (NNP Louisiana)) (. /.)))
+ButbutCCOLarry KingyouyouPRPOLarry KingdodoVBPOLarry Kingn'tnotRBOLarry KingpronouncepronounceVBOLarry KingthetheDTOLarry KingrrNNOLarry King/./..OLarry King(ROOT (S (CC But) (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB pronounce) (NP (DT the) (NN r)))) (. /.)))
+YouyouPRPOLarry KingdodoVBPOLarry Kingn'tnotRBOLarry KingwantwantVBOLarry KingthetheDTOLarry KingsecondsecondJJORDINALLarry KingrrNNOLarry King/./..OLarry King(ROOT (S (NP (PRP You)) (VP (VBP do) (RB n't) (VP (VB want) (NP (DT the) (JJ second) (NN r)))) (. /.)))
+ShriportShriportNNPORGLarry King/./..OLarry King(ROOT (NP (NNP Shriport) (. /.)))
+AlrightalrightUHORGLarry King/./..OLarry King(ROOT (INTJ (UH Alright) (. /.)))
+ShriportShriportNNPORGLinda Hamilton/./..OLinda Hamilton(ROOT (NP (NNP Shriport) (. /.)))
+CacanMDOLinda Hamiltonn'tnotRBOLinda HamiltonwaitwaitVBOLinda Hamilton/./..OLinda Hamilton(ROOT (S (VP (MD Ca) (RB n't) (VP (VB wait))) (. /.)))
+OKokUHOLinda HamiltonShriportShriportNNPORGLinda HamiltonShriportShriportNNPORGLinda Hamilton/./..OLinda Hamilton(ROOT (FRAG (INTJ (UH OK)) (NP (NNP Shriport) (NNP Shriport)) (. /.)))
+OKokUHOLarry King/./..OLarry King(ROOT (INTJ (UH OK) (. /.)))
+ThankthankVBPOLarry KingyouyouPRPOLarry KingLindaLindaNNPPERSONLarry King/./..OLarry King(ROOT (S (VP (VBP Thank) (NP (PRP you)) (NP (NNP Linda))) (. /.)))
+AndandCCOLarry KingagainagainRBOLarry KingforforINOLarry KingmoremoreJJROLarry KinginformationinformationNNOLarry KingititPRPOLarry King'sbeVBZOLarry KingwwwwwwNNOLarry KingdotdotNNOLarry KingcompletecompleteNNOLarry KingwellnesswellnessNNOLarry KingapproachapproachNNOLarry KingdotdotNNOLarry KingcomcomNNOLarry King/./..OLarry King(ROOT (S (CC And) (ADVP (RB again)) (PP (IN for) (NP (JJR more) (NN information))) (NP (PRP it)) (VP (VBZ 's) (NP (NN www) (NN dot) (NN complete) (NN wellness) (NN approach) (NN dot) (NN com))) (. /.)))
+HahaUHORGLinda HamiltonhahaUHORGLinda HamiltonOKokUHOLinda Hamilton/./..OLinda Hamilton(ROOT (INTJ (UH Ha) (UH ha) (UH OK) (. /.)))
+TomorrowtomorrowNNDATELarry KingnightnightNNTIMELarry KingRodRodNNPPERSONLarry KingStewartStewartNNPPERSONLarry King/./..OLarry King(ROOT (FRAG (NP (NN Tomorrow) (NN night)) (NP (NNP Rod) (NNP Stewart)) (. /.)))
+MondayMondayNNPDATELarry KingnightnightNNTIMELarry KingColinColinNNPPERSONLarry KingPowellPowellNNPPERSONLarry KingRobertRobertNNPPERSONLarry KingDowneyDowneyNNPPERSONLarry KingJr.Jr.NNPPERSONLarry KingSharonSharonNNPPERSONLarry KingStoneStoneNNPPERSONLarry King/./..OLarry King(ROOT (FRAG (NP (NML (NNP Monday) (NN night)) (NNP Colin) (NNP Powell)) (NP (NNP Robert) (NNP Downey) (NNP Jr.)) (NP (NNP Sharon) (NNP Stone)) (. /.)))
+AndersonAndersonNNPPERSONLarry KingCooperCooperNNPPERSONLarry KingoffoffRBOLarry KingtonighttonightNNTIMELarry King/./..OLarry King(ROOT (FRAG (NP (NNP Anderson) (NNP Cooper)) (ADVP (RB off) (NP (NN tonight))) (. /.)))
+butbutCCOLarry KingthatthatDTOLarry KingdoesdoVBZOLarry Kingn'tnotRBOLarry KingmattermatterVBOLarry KingnahnahUHOLarry KingbecausebecauseINOLarry KingErinErinNNPPERSONLarry KingBrownBrownNNPPERSONLarry KingisbeVBZOLarry KingherehereRBOLarry KingandandCCOLarry KingtherethereEXOLarry King'sbeVBZOLarry KingthatthatRBOLarry Kingfam-fam-JJOLarry King/./..OLarry King(ROOT (S (CC but) (NP (DT that)) (VP (VBZ does) (RB n't) (VP (VB matter) (INTJ (UH nah)) (SBAR (IN because) (S (S (NP (NNP Erin) (NNP Brown)) (VP (VBZ is) (ADVP (RB here)))) (CC and) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB that) (JJ fam-)))))))) (. /.)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 8 headed by 5 parsed as (NP (PRP$ your) (JJ new) (NN TV) (NN series))
+sid=0 spanning 2 until 3 headed by 2 parsed as your
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NN Beef) (. /?))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NN Beef) (. /.))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=5 spanning 5 until 6 headed by 5 parsed as Shriport
+sid=6 spanning 0 until 3 headed by 0 parsed as (NP (NNP Shriport))
+sid=7 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN r))
+sid=8 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ second) (NN r))
+sid=9 spanning 0 until 2 headed by 0 parsed as (NP (NNP Shriport) (. /.))
+sid=11 spanning 0 until 2 headed by 0 parsed as (NP (NNP Shriport) (. /.))
+sid=13 spanning 2 until 3 headed by 2 parsed as (NP (NNP Shriport) (NNP Shriport))
+sid=13 spanning 1 until 2 headed by 1 parsed as Shriport
+sid=15 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=15 spanning 2 until 3 headed by 2 parsed as (NP (NNP Linda))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 6 headed by 5 parsed as (NP (PRP$ your) (JJ new) (NN TV) (NN series))
+sid=0 spanning 2 until 3 headed by 2 parsed as (PRP$ your)
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=1 spanning 3 until 10 headed by 5 parsed as (NP (NP (NP (DT a) (JJ new) (NN show)) (PP (IN for) (NP (NNP FX)))) (VP (VBN called) (S (NP (NNP Beef)))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (NNP FX))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Beef))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NN Beef) (. /?))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NN Beef) (. /.))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=5 spanning 5 until 6 headed by 5 parsed as Shriport
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NN tomorrow))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP Shriport))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (NNP Louisiana))
+sid=7 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=7 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN r))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=8 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ second) (NN r))
+sid=8 spanning 5 until 6 headed by 5 parsed as second
+sid=9 spanning 0 until 2 headed by 0 parsed as (NP (NNP Shriport) (. /.))
+sid=10 spanning 0 until 1 headed by 0 parsed as Alright
+sid=11 spanning 0 until 2 headed by 0 parsed as (NP (NNP Shriport) (. /.))
+sid=13 spanning 1 until 3 headed by 2 parsed as (NP (NNP Shriport) (NNP Shriport))
+sid=15 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=15 spanning 2 until 3 headed by 2 parsed as (NP (NNP Linda))
+sid=16 spanning 3 until 5 headed by 4 parsed as (NP (JJR more) (NN information))
+sid=16 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=16 spanning 7 until 14 headed by 13 parsed as (NP (NN www) (NN dot) (NN complete) (NN wellness) (NN approach) (NN dot) (NN com))
+sid=17 spanning 0 until 2 headed by 0 parsed as Ha
+sid=18 spanning 0 until 2 headed by 1 parsed as (NP (NN Tomorrow) (NN night))
+sid=18 spanning 0 until 1 headed by 0 parsed as Tomorrow
+sid=18 spanning 2 until 4 headed by 3 parsed as (NP (NNP Rod) (NNP Stewart))
+sid=19 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Monday) (NN night)) (NNP Colin) (NNP Powell))
+sid=19 spanning 0 until 1 headed by 0 parsed as Monday
+sid=19 spanning 1 until 2 headed by 1 parsed as night
+sid=19 spanning 2 until 9 headed by 8 parsed as (NP (NNP Sharon) (NNP Stone))
+sid=20 spanning 0 until 2 headed by 1 parsed as (NP (NNP Anderson) (NNP Cooper))
+sid=21 spanning 1 until 2 headed by 1 parsed as (NP (DT that))
+sid=21 spanning 7 until 9 headed by 8 parsed as (NP (NNP Erin) (NNP Brown))
+(end predicted mentions)
+---------gold clusters--------
+5 16 15 6 1 | { 'You' 'Linda' 'you' 'I' 'your' }
+0 3 2 4 | { 'your new TV series coming up' 'Beef /?' 'it' 'Beef /.' }
+8 13 12 11 14 7 | { 'Shriport Louisiana /.' 'Shriport' 'Shriport /.' 'Shriport /.' 'Shriport' 'Shriport' }
+10 9 | { 'the second r' 'the r' }
+(end gold clusters)

@@ -1,0 +1,51 @@
+---------gloss--------
+(0) [3m[32m{Former U.N. Ambassador Jeane Kirkpatrick}[0m , in a CNN `` Capital Gang '' discussion Oct. 7 of [1m[36m{House}[0m action on [3m[33m{federal catastrophic - illness insurance}[0m : 
+(1) [3m[32m{I}[0m think [3m[31m{this repeal}[0m was kind of a thoughtless action , as a matter of fact ... . 
+(2) [1m[36m{They}[0m will have to revisit [3m[33m{this issue}[0m , and [1m[36m{they}[0m 'll have to revisit [3m[33m{it}[0m before long . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1452); part 000
+sentences:
+FormerformerJJOPER0U.N.U.N.NNPORGPER0AmbassadorAmbassadorNNPOPER0JeaneJeaneNNPPERSONPER0KirkpatrickKirkpatrickNNPPERSONPER0,,,OPER0ininINOPER0aaDTOPER0CNNCNNNNPORGPER0``````OCapitalCapitalNNPWORK_OF_ARTPER1GanggangNNWORK_OF_ARTPER1''''''OPER0discussiondiscussionNNOPER0Oct.Oct.NNPDATEPER077CDDATEPER0ofofINOPER0HouseHouseNNPORGPER0actionactionNNOPER0ononINOPER0federalfederalJJOPER0catastrophiccatastrophicJJOPER0--HYPHOPER0illnessillnessNNOPER0insuranceinsuranceNNOPER0:::OPER0(ROOT (FRAG (NP (NML (JJ Former) (NNP U.N.) (NNP Ambassador)) (NNP Jeane) (NNP Kirkpatrick)) (, ,) (PP (IN in) (NP (DT a) (NNP CNN) (`` ``) (NML (NNP Capital) (NN Gang)) ('' '') (NN discussion))) (NP (NP (NNP Oct.) (CD 7)) (PP (IN of) (NP (NP (NNP House) (NN action)) (PP (IN on) (NP (JJ federal) (NML (JJ catastrophic) (HYPH -) (NN illness)) (NN insurance)))))) (: :)))
+IIPRPOPER0thinkthinkVBPOPER0thisthisDTOPER0repealrepealNNOPER0wasbeVBDOPER0kindkindJJOPER0ofofINOPER0aaDTOPER0thoughtlessthoughtlessJJOPER0actionactionNNOPER0,,,OPER0asasINOPER0aaDTOPER0mattermatterNNOPER0ofofINOPER0factfactNNOPER0......:OPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT this) (NN repeal)) (VP (VBD was) (ADJP (JJ kind) (PP (IN of) (NP (DT a) (JJ thoughtless) (NN action)))) (, ,) (PP (IN as) (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NN fact))))))))) (: ...) (. .)))
+TheytheyPRPOPER0willwillMDOPER0havehaveVBOPER0totoTOOPER0revisitrevisitVBOPER0thisthisDTOPER0issueissueNNOPER0,,,OPER0andandCCOPER0theytheyPRPOPER0'll'llMDOPER0havehaveVBOPER0totoTOOPER0revisitrevisitVBOPER0ititPRPOPER0beforebeforeINOPER0longlongJJOPER0...OPER0(ROOT (S (S (NP (PRP They)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB revisit) (NP (DT this) (NN issue)))))))) (, ,) (CC and) (S (NP (PRP they)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB revisit) (NP (PRP it)) (PP (IN before) (NP (JJ long))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Former) (NNP U.N.) (NNP Ambassador)) (NNP Jeane) (NNP Kirkpatrick))
+sid=0 spanning 17 until 25 headed by 18 parsed as (NP (NP (NNP House) (NN action)) (PP (IN on) (NP (JJ federal) (NML (JJ catastrophic) (HYPH -) (NN illness)) (NN insurance))))
+sid=0 spanning 17 until 18 headed by 17 parsed as House
+sid=0 spanning 20 until 25 headed by 24 parsed as (NP (JJ federal) (NML (JJ catastrophic) (HYPH -) (NN illness)) (NN insurance))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT this) (NN repeal))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT this) (NN issue))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP they))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NML (JJ Former) (NNP U.N.) (NNP Ambassador)) (NNP Jeane) (NNP Kirkpatrick))
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Former) (NNP U.N.) (NNP Ambassador)) (NNP Jeane) (NNP Kirkpatrick))
+sid=0 spanning 1 until 2 headed by 1 parsed as U.N.
+sid=0 spanning 7 until 14 headed by 13 parsed as (NP (DT a) (NNP CNN) (`` ``) (NML (NNP Capital) (NN Gang)) ('' '') (NN discussion))
+sid=0 spanning 8 until 9 headed by 8 parsed as CNN
+sid=0 spanning 10 until 12 headed by 11 parsed as Gang
+sid=0 spanning 14 until 25 headed by 14 parsed as (NP (NP (NNP Oct.) (CD 7)) (PP (IN of) (NP (NP (NNP House) (NN action)) (PP (IN on) (NP (JJ federal) (NML (JJ catastrophic) (HYPH -) (NN illness)) (NN insurance))))))
+sid=0 spanning 17 until 25 headed by 18 parsed as (NP (NP (NNP House) (NN action)) (PP (IN on) (NP (JJ federal) (NML (JJ catastrophic) (HYPH -) (NN illness)) (NN insurance))))
+sid=0 spanning 17 until 18 headed by 17 parsed as House
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT this) (NN repeal))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (JJ thoughtless) (NN action))
+sid=1 spanning 12 until 16 headed by 13 parsed as (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NN fact))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT this) (NN issue))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP they))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (JJ long))
+(end predicted mentions)
+---------gold clusters--------
+2 8 6 | { 'House' 'they' 'They' }
+5 1 | { 'this repeal' 'House action on federal catastrophic - illness insurance' }
+0 4 | { 'Former U.N. Ambassador Jeane Kirkpatrick' 'I' }
+9 3 7 | { 'it' 'federal catastrophic - illness insurance' 'this issue' }
+(end gold clusters)

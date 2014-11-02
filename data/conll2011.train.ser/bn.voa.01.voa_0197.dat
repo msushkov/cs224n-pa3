@@ -1,0 +1,68 @@
+---------gloss--------
+(0) [35m{Britain 's Millennium Dome}[0m will close down this coming Monday after a year of mishaps . 
+(1) [36m{Officials at London 's Millennium Dome}[0m say [35m{the structure}[0m will close down after a final New Year 's Eve party . 
+(2) [36m{They}[0m say [35m{it}[0m will be likely sold to a developer and be turned into a technology park . 
+(3) Problems riddled [35m{the Dome}[0m even before [35m{its}[0m grand opening last New Year 's Eve . 
+(4) Construction delays and cost - overruns hurt [35m{the project , which was originally expected to cost at least 1 billion 300 million dollars}[0m . 
+(5) [35m{Dome}[0m officials had to seek an additional 265 million dollars to complete [35m{the structure}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0197); part 000
+sentences:
+BritainBritainNNPGPEPER0's'sPOSOPER0MillenniumMillenniumNNPFACPER0DomeDomeNNPFACPER0willwillMDOPER0closecloseVBOPER0downdownRPOPER0thisthisDTDATEPER0comingcomingJJDATEPER0MondayMondayNNPDATEPER0afterafterINOPER0aaDTDATEPER0yearyearNNDATEPER0ofofINOPER0mishapsmishapNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Britain) (POS 's)) (NNP Millennium) (NNP Dome)) (VP (MD will) (VP (VB close) (PRT (RP down)) (NP (DT this) (JJ coming) (NNP Monday)) (PP (IN after) (NP (NP (DT a) (NN year)) (PP (IN of) (NP (NNS mishaps))))))) (. .)))
+OfficialsofficialNNSOPER0atatINOPER0LondonLondonNNPGPEPER0's'sPOSOPER0MillenniumMillenniumNNPFACPER0DomeDomeNNPFACPER0saysayVBPOPER0thetheDTOPER0structurestructureNNOPER0willwillMDOPER0closecloseVBOPER0downdownRPOPER0afterafterINOPER0aaDTOPER0finalfinalJJOPER0NewNewNNPDATEPER0YearYearNNPDATEPER0's'sPOSDATEPER0EveEveNNPPERSONPER0partypartyNNOPER0...OPER0(ROOT (S (NP (NP (NNS Officials)) (PP (IN at) (NP (NP (NNP London) (POS 's)) (NNP Millennium) (NNP Dome)))) (VP (VBP say) (SBAR (S (NP (DT the) (NN structure)) (VP (MD will) (VP (VB close) (PRT (RP down)) (PP (IN after) (NP (DT a) (JJ final) (NML (NP (NNP New) (NNP Year) (POS 's)) (NNP Eve)) (NN party)))))))) (. .)))
+TheytheyPRPOPER0saysayVBPOPER0ititPRPOPER0willwillMDOPER0bebeVBOPER0likelylikelyRBOPER0soldsellVBNOPER0totoINOPER0aaDTOPER0developerdeveloperNNOPER0andandCCOPER0bebeVBOPER0turnedturnVBNOPER0intointoINOPER0aaDTOPER0technologytechnologyNNOPER0parkparkNNOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VP (VB be) (ADVP (RB likely)) (VP (VBN sold) (PP (IN to) (NP (DT a) (NN developer))))) (CC and) (VP (VB be) (VP (VBN turned) (PP (IN into) (NP (DT a) (NN technology) (NN park)))))))))) (. .)))
+ProblemsproblemNNSOPER0riddledriddleVBNOPER0thetheDTOPER0DomeDomeNNPORGPER0evenevenRBOPER0beforebeforeINOPER0itsitsPRP$OPER0grandgrandJJOPER0openingopeningNNOPER0lastlastJJDATEPER0NewNewNNPDATEPER0YearYearNNPDATEPER0's'sPOSOPER0EveEveNNPDATEPER0...OPER0(ROOT (S (NP (NNS Problems)) (VP (VBN riddled) (NP (DT the) (NNP Dome)) (PP (ADVP (RB even)) (IN before) (NP (NP (PRP$ its) (JJ grand) (NN opening)) (JJ last) (NML (NP (NNP New) (NNP Year) (POS 's)) (NNP Eve))))) (. .)))
+ConstructionconstructionNNOPER0delaysdelayNNSOPER0andandCCOPER0costcostNNOPER0--HYPHOPER0overrunsoverrunNNSOPER0hurthurtVBPOPER0thetheDTOPER0projectprojectNNOPER0,,,OPER0whichwhichWDTOPER0wasbeVBDOPER0originallyoriginallyRBOPER0expectedexpectVBNOPER0totoTOOPER0costcostVBOPER0atatRBMONEYPER0leastleastRBSMONEYPER011CDMONEYPER0billionbillionCDMONEYPER0300300CDMONEYPER0millionmillionCDMONEYPER0dollarsdollarNNSMONEYPER0...OPER0(ROOT (S (NP (NP (NN Construction) (NNS delays)) (CC and) (NP (NN cost) (HYPH -) (NNS overruns))) (VP (VBP hurt) (NP (NP (DT the) (NN project)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB originally)) (VP (VBN expected) (S (VP (TO to) (VP (VB cost) (NP (QP (ADVP (RB at) (RBS least)) (CD 1) (CD billion))) (NP (QP (CD 300) (CD million)) (NNS dollars))))))))))) (. .)))
+DomeDomeNNPORGPER0officialsofficialNNSOPER0hadhaveVBDOPER0totoTOOPER0seekseekVBOPER0anaDTMONEYPER0additionaladditionalJJMONEYPER0265265CDMONEYPER0millionmillionCDMONEYPER0dollarsdollarNNSMONEYPER0totoTOOPER0completecompleteVBOPER0thetheDTOPER0structurestructureNNOPER0...OPER0(ROOT (S (NP (NNP Dome) (NNS officials)) (VP (VBD had) (S (VP (TO to) (VP (VB seek) (NP (DT an) (JJ additional) (QP (CD 265) (CD million)) (NNS dollars)) (S (VP (TO to) (VP (VB complete) (NP (DT the) (NN structure))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Britain) (POS 's)) (NNP Millennium) (NNP Dome))
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Officials)) (PP (IN at) (NP (NP (NNP London) (POS 's)) (NNP Millennium) (NNP Dome))))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP London) (POS 's)) (NNP Millennium) (NNP Dome))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN structure))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Dome))
+sid=3 spanning 6 until 7 headed by 6 parsed as its
+sid=4 spanning 7 until 23 headed by 8 parsed as (NP (NP (DT the) (NN project)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB originally)) (VP (VBN expected) (S (VP (TO to) (VP (VB cost) (NP (QP (ADVP (RB at) (RBS least)) (CD 1) (CD billion))) (NP (QP (CD 300) (CD million)) (NNS dollars))))))))))
+sid=5 spanning 0 until 1 headed by 0 parsed as Dome
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN structure))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Britain) (POS 's)) (NNP Millennium) (NNP Dome))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Britain) (POS 's))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT this) (JJ coming) (NNP Monday))
+sid=0 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT a) (NN year)) (PP (IN of) (NP (NNS mishaps))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNS mishaps))
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNS Officials)) (PP (IN at) (NP (NP (NNP London) (POS 's)) (NNP Millennium) (NNP Dome))))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (NP (NNP London) (POS 's)) (NNP Millennium) (NNP Dome))
+sid=1 spanning 2 until 4 headed by 2 parsed as (NP (NNP London) (POS 's))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN structure))
+sid=1 spanning 13 until 20 headed by 19 parsed as (NP (DT a) (JJ final) (NML (NP (NNP New) (NNP Year) (POS 's)) (NNP Eve)) (NN party))
+sid=1 spanning 15 until 18 headed by 16 parsed as (NP (NNP New) (NNP Year) (POS 's))
+sid=1 spanning 18 until 19 headed by 18 parsed as Eve
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN developer))
+sid=2 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (NN technology) (NN park))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Problems))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Dome))
+sid=3 spanning 6 until 14 headed by 13 parsed as (NP (NP (PRP$ its) (JJ grand) (NN opening)) (JJ last) (NML (NP (NNP New) (NNP Year) (POS 's)) (NNP Eve)))
+sid=3 spanning 6 until 9 headed by 8 parsed as (NP (PRP$ its) (JJ grand) (NN opening))
+sid=3 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=3 spanning 9 until 13 headed by 11 parsed as (NP (NNP New) (NNP Year) (POS 's))
+sid=4 spanning 0 until 6 headed by 1 parsed as (NP (NP (NN Construction) (NNS delays)) (CC and) (NP (NN cost) (HYPH -) (NNS overruns)))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NN Construction) (NNS delays))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (NN cost) (HYPH -) (NNS overruns))
+sid=4 spanning 7 until 23 headed by 8 parsed as (NP (NP (DT the) (NN project)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB originally)) (VP (VBN expected) (S (VP (TO to) (VP (VB cost) (NP (QP (ADVP (RB at) (RBS least)) (CD 1) (CD billion))) (NP (QP (CD 300) (CD million)) (NNS dollars))))))))))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN project))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Dome) (NNS officials))
+sid=5 spanning 0 until 1 headed by 0 parsed as Dome
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN structure))
+(end predicted mentions)
+---------gold clusters--------
+3 6 8 2 7 5 10 0 9 | { 'the structure' 'the Dome' 'the project , which was originally expected to cost at least 1 billion 300 million dollars' 'London 's Millennium Dome' 'its' 'it' 'the structure' 'Britain 's Millennium Dome' 'Dome' }
+4 1 | { 'They' 'Officials at London 's Millennium Dome' }
+(end gold clusters)

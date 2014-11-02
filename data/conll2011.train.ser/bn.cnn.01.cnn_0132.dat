@@ -1,0 +1,86 @@
+---------gloss--------
+(0) [3m[35m{Senator Barbara Boxer of California}[0m is in [3m[36m{Florida}[0m to support the undervote recount . 
+(1) [3m[35m{She}[0m says on Election Day , exit polls in [3m[36m{the state}[0m indicated voters [4m[31m{chose}[0m Al Gore , and now it 's time to see if [4m[31m{that}[0m 's true , but not everyone appreciated what [3m[35m{she}[0m had to say . 
+(2) [3m[35m{I}[0m have [4m[32m{something I want to say to the Bush people}[0m , and [4m[32m{that}[0m is , if [3m[33m{they}[0m were up here speaking , [3m[35m{I}[0m would not boo [3m[33m{them}[0m , and [3m[35m{I}[0m also wanted to mention to [3m[33m{them}[0m that [3m[35m{I}[0m come from [3m[34m{the state that elected Ronald Reagan , who they revere}[0m , and also those same people elected [3m[35m{me}[0m , so [3m[35m{I}[0m hope that [3m[33m{they}[0m would have the decency to allow [3m[35m{me}[0m to speak . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0132); part 000
+sentences:
+SenatorSenatorNNPOPER0BarbaraBarbaraNNPPERSONPER0BoxerBoxerNNPPERSONPER0ofofINOPER0CaliforniaCaliforniaNNPGPEPER0isbeVBZOPER0ininINOPER0FloridaFloridaNNPGPEPER0totoTOOPER0supportsupportVBOPER0thetheDTOPER0undervoteundervoteJJOPER0recountrecountNNOPER0...OPER0(ROOT (S (NP (NP (NNP Senator) (NNP Barbara) (NNP Boxer)) (PP (IN of) (NP (NNP California)))) (VP (VBZ is) (PP (IN in) (NP (NNP Florida))) (S (VP (TO to) (VP (VB support) (NP (DT the) (JJ undervote) (NN recount)))))) (. .)))
+SheshePRPOPER0sayssayVBZOPER0ononINOPER0ElectionElectionNNPDATEPER0DayDayNNPDATEPER0,,,OPER0exitexitNNOPER0pollspollNNSOPER0ininINOPER0thetheDTOPER0statestateNNOPER0indicatedindicateVBDOPER0votersvoterNNSOPER0chosechooseVBDOPER0AlAlNNPPERSONPER0GoreGoreNNPPERSONPER0,,,OPER0andandCCOPER0nownowRBOPER0ititPRPOPER0'sbeVBZOPER0timetimeNNOPER0totoTOOPER0seeseeVBOPER0ififINOPER0thatthatDTOPER0'sbeVBZOPER0truetrueJJOPER0,,,OPER0butbutCCOPER0notnotRBOPER0everyoneeveryoneNNOPER0appreciatedappreciateVBDOPER0whatwhatWPOPER0sheshePRPOPER0hadhaveVBDOPER0totoTOOPER0saysayVBOPER0...OPER0(ROOT (S (S (NP (PRP She)) (VP (VBZ says) (SBAR (S (S (PP (IN on) (NP (NNP Election) (NNP Day))) (, ,) (NP (NP (NN exit) (NNS polls)) (PP (IN in) (NP (DT the) (NN state)))) (VP (VBD indicated) (SBAR (S (NP (NNS voters)) (VP (VBD chose) (NP (NNP Al) (NNP Gore))))))) (, ,) (CC and) (S (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB see) (SBAR (IN if) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)))))))))))))))) (, ,) (CC but) (S (NP (RB not) (NN everyone)) (VP (VBD appreciated) (SBAR (WHNP (WP what)) (S (NP (PRP she)) (VP (VBD had) (S (VP (TO to) (VP (VB say))))))))) (. .)))
+IIPRPOPER0havehaveVBPOPER0somethingsomethingNNOPER0IIPRPOPER0wantwantVBPOPER0totoTOOPER0saysayVBOPER0totoINOPER0thetheDTOPER0BushBushNNPPERSONPER0peoplepeopleNNSOPER0,,,OPER0andandCCOPER0thatthatDTOPER0isbeVBZOPER0,,,OPER0ififINOPER0theytheyPRPOPER0werebeVBDOPER0upupRBOPER0herehereRBOPER0speakingspeakVBGOPER0,,,OPER0IIPRPOPER0wouldwouldMDOPER0notnotRBOPER0boobooVBOPER0themtheyPRPOPER0,,,OPER0andandCCOPER0IIPRPOPER0alsoalsoRBOPER0wantedwantVBDOPER0totoTOOPER0mentionmentionVBOPER0totoINOPER0themtheyPRPOPER0thatthatINOPER0IIPRPOPER0comecomeVBPOPER0fromfromINOPER0thetheDTOPER0statestateNNOPER0thatthatWDTOPER0electedelectVBDOPER0RonaldRonaldNNPPERSONPER0ReaganReaganNNPPERSONPER0,,,OPER0whowhoWPOPER0theytheyPRPOPER0revererevereVBPOPER0,,,OPER0andandCCOPER0alsoalsoRBOPER0thosethoseDTOPER0samesameJJOPER0peoplepeopleNNSOPER0electedelectVBDOPER0meIPRPOPER0,,,OPER0sosoCCOPER0IIPRPOPER0hopehopeVBPOPER0thatthatINOPER0theytheyPRPOPER0wouldwouldMDOPER0havehaveVBOPER0thetheDTOPER0decencydecencyNNOPER0totoTOOPER0allowallowVBOPER0meIPRPOPER0totoTOOPER0speakspeakVBOPER0...OPER0(ROOT (S (S (NP (PRP I)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB say) (PP (IN to) (NP (DT the) (NNP Bush) (NNS people)))))))))))) (, ,) (CC and) (S (S (NP (DT that)) (VP (VBZ is) (, ,) (SBAR (S (SBAR (IN if) (S (NP (PRP they)) (VP (VBD were) (RB up) (ADVP (RB here)) (VP (VBG speaking))))) (, ,) (S (NP (PRP I)) (VP (MD would) (RB not) (VP (VB boo) (NP (PRP them))))) (, ,) (CC and) (S (NP (PRP I)) (ADVP (RB also)) (VP (VBD wanted) (S (VP (TO to) (VP (VB mention) (SBAR (IN to) (S (NP (PRP them)) (SBAR (IN that) (S (S (NP (PRP I)) (VP (VBP come) (PP (IN from) (NP (NP (DT the) (NN state)) (SBAR (WHNP (WDT that)) (S (VP (VBD elected) (NP (NP (NNP Ronald) (NNP Reagan)) (, ,) (SBAR (WHNP (WP who)) (S (NP (PRP they)) (VP (VBP revere)))))))))))) (, ,) (CC and) (S (ADVP (RB also)) (NP (DT those) (JJ same) (NNS people)) (VP (VBD elected) (NP (PRP me))))))))))))))))) (, ,) (CC so) (S (NP (PRP I)) (VP (VBP hope) (SBAR (IN that) (S (NP (PRP they)) (VP (MD would) (VP (VB have) (S (NP (DT the) (NN decency)) (VP (TO to) (VP (VB allow) (S (NP (PRP me)) (VP (TO to) (VP (VB speak)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (NNP Senator) (NNP Barbara) (NNP Boxer)) (PP (IN of) (NP (NNP California))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP California))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP Florida))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN state))
+sid=1 spanning 13 until 14 headed by 13 parsed as chose
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (DT that))
+sid=1 spanning 34 until 35 headed by 34 parsed as (NP (PRP she))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=2 spanning 2 until 11 headed by 2 parsed as (NP (NP (NN something)) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB say) (PP (IN to) (NP (DT the) (NNP Bush) (NNS people))))))))))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP I))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Bush) (NNS people))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (DT that))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=2 spanning 23 until 24 headed by 23 parsed as (NP (PRP I))
+sid=2 spanning 27 until 28 headed by 27 parsed as (NP (PRP them))
+sid=2 spanning 30 until 31 headed by 30 parsed as (NP (PRP I))
+sid=2 spanning 36 until 37 headed by 36 parsed as (NP (PRP them))
+sid=2 spanning 38 until 39 headed by 38 parsed as (NP (PRP I))
+sid=2 spanning 41 until 51 headed by 42 parsed as (NP (NP (DT the) (NN state)) (SBAR (WHNP (WDT that)) (S (VP (VBD elected) (NP (NP (NNP Ronald) (NNP Reagan)) (, ,) (SBAR (WHNP (WP who)) (S (NP (PRP they)) (VP (VBP revere)))))))))
+sid=2 spanning 49 until 50 headed by 49 parsed as (NP (PRP they))
+sid=2 spanning 58 until 59 headed by 58 parsed as (NP (PRP me))
+sid=2 spanning 61 until 62 headed by 61 parsed as (NP (PRP I))
+sid=2 spanning 64 until 65 headed by 64 parsed as (NP (PRP they))
+sid=2 spanning 71 until 72 headed by 71 parsed as (NP (PRP me))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (NNP Senator) (NNP Barbara) (NNP Boxer)) (PP (IN of) (NP (NNP California))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP California))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP Florida))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ undervote) (NN recount))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NNP Election) (NNP Day))
+sid=1 spanning 6 until 11 headed by 7 parsed as (NP (NP (NN exit) (NNS polls)) (PP (IN in) (NP (DT the) (NN state))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN state))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNS voters))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NNP Al) (NNP Gore))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (PRP it))
+sid=1 spanning 21 until 28 headed by 21 parsed as (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB see) (SBAR (IN if) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true))))))))))
+sid=1 spanning 25 until 26 headed by 25 parsed as (NP (DT that))
+sid=1 spanning 34 until 35 headed by 34 parsed as (NP (PRP she))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=2 spanning 2 until 11 headed by 2 parsed as (NP (NP (NN something)) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB say) (PP (IN to) (NP (DT the) (NNP Bush) (NNS people))))))))))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP I))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Bush) (NNS people))
+sid=2 spanning 9 until 10 headed by 9 parsed as Bush
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (DT that))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (PRP they))
+sid=2 spanning 23 until 24 headed by 23 parsed as (NP (PRP I))
+sid=2 spanning 27 until 28 headed by 27 parsed as (NP (PRP them))
+sid=2 spanning 30 until 31 headed by 30 parsed as (NP (PRP I))
+sid=2 spanning 36 until 37 headed by 36 parsed as (NP (PRP them))
+sid=2 spanning 38 until 39 headed by 38 parsed as (NP (PRP I))
+sid=2 spanning 41 until 51 headed by 42 parsed as (NP (NP (DT the) (NN state)) (SBAR (WHNP (WDT that)) (S (VP (VBD elected) (NP (NP (NNP Ronald) (NNP Reagan)) (, ,) (SBAR (WHNP (WP who)) (S (NP (PRP they)) (VP (VBP revere)))))))))
+sid=2 spanning 45 until 47 headed by 46 parsed as (NP (NP (NNP Ronald) (NNP Reagan)) (, ,) (SBAR (WHNP (WP who)) (S (NP (PRP they)) (VP (VBP revere)))))
+sid=2 spanning 45 until 51 headed by 46 parsed as (NP (NP (NNP Ronald) (NNP Reagan)) (, ,) (SBAR (WHNP (WP who)) (S (NP (PRP they)) (VP (VBP revere)))))
+sid=2 spanning 49 until 50 headed by 49 parsed as (NP (PRP they))
+sid=2 spanning 54 until 57 headed by 56 parsed as (NP (DT those) (JJ same) (NNS people))
+sid=2 spanning 58 until 59 headed by 58 parsed as (NP (PRP me))
+sid=2 spanning 61 until 62 headed by 61 parsed as (NP (PRP I))
+sid=2 spanning 64 until 65 headed by 64 parsed as (NP (PRP they))
+sid=2 spanning 67 until 69 headed by 68 parsed as (NP (DT the) (NN decency))
+sid=2 spanning 71 until 72 headed by 71 parsed as (NP (PRP me))
+(end predicted mentions)
+---------gold clusters--------
+11 15 13 20 23 17 | { 'the Bush people' 'them' 'they' 'they' 'they' 'them' }
+19 1 | { 'the state that elected Ronald Reagan , who they revere' 'California' }
+24 10 22 8 16 14 3 18 0 7 21 | { 'me' 'I' 'I' 'I' 'I' 'I' 'She' 'I' 'Senator Barbara Boxer of California' 'she' 'me' }
+4 2 | { 'the state' 'Florida' }
+6 5 | { 'that' 'chose' }
+12 9 | { 'that' 'something I want to say to the Bush people' }
+(end gold clusters)

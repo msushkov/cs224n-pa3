@@ -1,0 +1,50 @@
+---------gloss--------
+(0) The Washington Post newspaper reported Sunday that [3m[35m{the officer overseeing the Navy probe of the terrorist bombing of the US Navy destroyer Cole}[0m has concluded that no one should be punished . 
+(1) [3m[35m{Admiral Robert Nader}[0m reportedly rejected the conclusion of a lower ranking investigating officer that better security precautions could have mitigated the effects of [3m[36m{the explosion}[0m . 
+(2) [3m[36m{That October 12th bombing in the Yemeni port of Aden}[0m killed seventeen sailors and wounded thirty - nine . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0225); part 000
+sentences:
+ThetheDTOPER0WashingtonWashingtonNNPORGPER0PostPostNNPORGPER0newspapernewspaperNNOPER0reportedreportVBDOPER0SundaySundayNNPDATEPER0thatthatINOPER0thetheDTOPER0officerofficerNNOPER0overseeingoverseeVBGOPER0thetheDTOPER0NavyNavyNNPORGPER0probeprobeNNOPER0ofofINOPER0thetheDTOPER0terroristterroristJJOPER0bombingbombingNNOPER0ofofINOPER0thetheDTOPER0USUSNNPORGPER0NavyNavyNNPORGPER0destroyerdestroyerNNOPER0ColeColeNNPPERSONPER0hashaveVBZOPER0concludedconcludeVBNOPER0thatthatINOPER0nonoDTOPER0oneoneNNOPER0shouldshouldMDOPER0bebeVBOPER0punishedpunishVBNOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP Washington) (NNP Post)) (NN newspaper)) (VP (VBD reported) (NP (NNP Sunday)) (SBAR (IN that) (S (NP (NP (DT the) (NN officer)) (VP (VBG overseeing) (NP (NP (DT the) (NNP Navy) (NN probe)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NP (NNP Cole))))))))) (VP (VBZ has) (VP (VBN concluded) (SBAR (IN that) (S (NP (DT no) (NN one)) (VP (MD should) (VP (VB be) (VP (VBN punished))))))))))) (. .)))
+AdmiralAdmiralNNPPERSONPER0RobertRobertNNPPERSONPER0NaderNaderNNPPERSONPER0reportedlyreportedlyRBOPER0rejectedrejectVBDOPER0thetheDTOPER0conclusionconclusionNNOPER0ofofINOPER0aaDTOPER0lowerlowerJJROPER0rankingrankingNNOPER0investigatinginvestigateVBGOPER0officerofficerNNOPER0thatthatWDTOPER0betterbetterJJROPER0securitysecurityNNOPER0precautionsprecautionNNSOPER0couldcouldMDOPER0havehaveVBOPER0mitigatedmitigateVBNOPER0thetheDTOPER0effectseffectNNSOPER0ofofINOPER0thetheDTOPER0explosionexplosionNNOPER0...OPER0(ROOT (S (NP (NNP Admiral) (NNP Robert) (NNP Nader)) (ADVP (RB reportedly)) (VP (VBD rejected) (NP (NP (DT the) (NN conclusion)) (PP (IN of) (NP (NP (DT a) (JJR lower) (NN ranking) (VBG investigating) (NN officer)) (SBAR (WHNP (WDT that)) (S (NP (JJR better) (NN security) (NNS precautions)) (VP (MD could) (VP (VB have) (VP (VBN mitigated) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (DT the) (NN explosion))))))))))))) (. .)))
+ThatthatDTOPER0OctoberOctoberNNPDATEPER012th12thNNDATEPER0bombingbombingNNOPER0ininINOPER0thetheDTOPER0YemeniYemeniNNPOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0killedkillVBDOPER0seventeenseventeenCDCARDINALPER0sailorssailorNNSOPER0andandCCOPER0woundedwoundVBDOPER0thirtythirtyCDDATEPER0--HYPHOPER0ninenineCDCARDINALPER0...OPER0(ROOT (S (NP (NP (DT That) (NML (NNP October) (NN 12th)) (NN bombing)) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden)))))) (VP (VP (VBD killed) (NP (CD seventeen) (NNS sailors))) (CC and) (VP (VBD wounded) (NP (CD thirty) (HYPH -) (CD nine)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 7 until 23 headed by 8 parsed as (NP (NP (DT the) (NN officer)) (VP (VBG overseeing) (NP (NP (DT the) (NNP Navy) (NN probe)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NP (NNP Cole)))))))))
+sid=0 spanning 14 until 23 headed by 16 parsed as (NP (NP (DT the) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NP (NNP Cole)))))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NNP Admiral) (NNP Robert) (NNP Nader))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN explosion))
+sid=2 spanning 0 until 10 headed by 3 parsed as (NP (NP (DT That) (NML (NNP October) (NN 12th)) (NN bombing)) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP Washington) (NNP Post)) (NN newspaper))
+sid=0 spanning 1 until 3 headed by 2 parsed as Post
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Sunday))
+sid=0 spanning 7 until 23 headed by 8 parsed as (NP (NP (DT the) (NN officer)) (VP (VBG overseeing) (NP (NP (DT the) (NNP Navy) (NN probe)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NP (NNP Cole)))))))))
+sid=0 spanning 10 until 23 headed by 12 parsed as (NP (NP (DT the) (NNP Navy) (NN probe)) (PP (IN of) (NP (NP (DT the) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NP (NNP Cole)))))))
+sid=0 spanning 11 until 12 headed by 11 parsed as Navy
+sid=0 spanning 14 until 23 headed by 16 parsed as (NP (NP (DT the) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (NP (DT the) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NP (NNP Cole)))))
+sid=0 spanning 18 until 23 headed by 21 parsed as (NP (NP (DT the) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NP (NNP Cole)))
+sid=0 spanning 19 until 21 headed by 20 parsed as Navy
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNP Cole))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (DT no) (NN one))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NNP Admiral) (NNP Robert) (NNP Nader))
+sid=1 spanning 5 until 25 headed by 6 parsed as (NP (NP (DT the) (NN conclusion)) (PP (IN of) (NP (NP (DT a) (JJR lower) (NN ranking) (VBG investigating) (NN officer)) (SBAR (WHNP (WDT that)) (S (NP (JJR better) (NN security) (NNS precautions)) (VP (MD could) (VP (VB have) (VP (VBN mitigated) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (DT the) (NN explosion))))))))))))
+sid=1 spanning 8 until 25 headed by 12 parsed as (NP (NP (DT a) (JJR lower) (NN ranking) (VBG investigating) (NN officer)) (SBAR (WHNP (WDT that)) (S (NP (JJR better) (NN security) (NNS precautions)) (VP (MD could) (VP (VB have) (VP (VBN mitigated) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (DT the) (NN explosion))))))))))
+sid=1 spanning 14 until 17 headed by 16 parsed as (NP (JJR better) (NN security) (NNS precautions))
+sid=1 spanning 20 until 25 headed by 21 parsed as (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (DT the) (NN explosion))))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN explosion))
+sid=2 spanning 0 until 10 headed by 3 parsed as (NP (NP (DT That) (NML (NNP October) (NN 12th)) (NN bombing)) (PP (IN in) (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))))
+sid=2 spanning 1 until 3 headed by 2 parsed as 12th
+sid=2 spanning 5 until 10 headed by 7 parsed as (NP (NP (DT the) (NNP Yemeni) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Aden))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (CD seventeen) (NNS sailors))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (CD thirty) (HYPH -) (CD nine))
+sid=2 spanning 15 until 16 headed by 15 parsed as thirty
+(end predicted mentions)
+---------gold clusters--------
+0 2 | { 'the officer overseeing the Navy probe of the terrorist bombing of the US Navy destroyer Cole' 'Admiral Robert Nader' }
+4 3 1 | { 'That October 12th bombing in the Yemeni port of Aden' 'the explosion' 'the terrorist bombing of the US Navy destroyer Cole' }
+(end gold clusters)

@@ -1,0 +1,58 @@
+---------gloss--------
+(0) [4m[32m{Israeli Prime Minister Ehud Barak}[0m is [4m[33m{proposing}[0m an interim peace deal with [4m[34m{the Palestinians}[0m . 
+(1) [4m[33m{The proposal}[0m would give [4m[34m{the Palestinians}[0m a state and 10 % more land , but [4m[33m{it}[0m would put off decisions on the fate of Jerusalem . 
+(2) [4m[32m{Barak}[0m announced [4m[33m{the proposition}[0m in a speech to newspaper editors . 
+(3) [4m[31m{Palestinian officials}[0m say [4m[31m{they}[0m have not formally received [4m[33m{it}[0m , but [4m[31m{they}[0m add [4m[31m{they}[0m oppose any interim agreement . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0116); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0isbeVBZOPER0proposingproposeVBGOPER0anaDTOPER0interiminterimJJOPER0peacepeaceNNOPER0dealdealNNOPER0withwithINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ is) (VP (VBG proposing) (NP (NP (DT an) (JJ interim) (NN peace) (NN deal)) (PP (IN with) (NP (DT the) (NNPS Palestinians)))))) (. .)))
+ThetheDTOPER0proposalproposalNNOPER0wouldwouldMDOPER0givegiveVBOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0aaDTOPER0statestateNNOPER0andandCCOPER01010CDPERCENTPER0%%NNPERCENTPER0moremoreJJROPER0landlandNNOPER0,,,OPER0butbutCCOPER0ititPRPOPER0wouldwouldMDOPER0putputVBOPER0offoffRPOPER0decisionsdecisionNNSOPER0ononINOPER0thetheDTOPER0fatefateNNOPER0ofofINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (S (NP (DT The) (NN proposal)) (VP (MD would) (VP (VB give) (NP (DT the) (NNPS Palestinians)) (NP (ADJP (NP (DT a) (NP (NN state) (CC and) (CD 10)) (NN %)) (JJR more)) (NN land))))) (, ,) (CC but) (S (NP (PRP it)) (VP (MD would) (VP (VB put) (PRT (RP off)) (NP (NNS decisions)) (PP (IN on) (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (NNP Jerusalem)))))))) (. .)))
+BarakBarakNNPPERSONPER0announcedannounceVBDOPER0thetheDTOPER0propositionpropositionNNOPER0ininINOPER0aaDTOPER0speechspeechNNOPER0totoINOPER0newspapernewspaperNNOPER0editorseditorNNSOPER0...OPER0(ROOT (S (NP (NNP Barak)) (VP (VBD announced) (NP (NP (DT the) (NN proposition)) (PP (IN in) (NP (NP (DT a) (NN speech)) (PP (IN to) (NP (NN newspaper) (NNS editors))))))) (. .)))
+PalestinianpalestinianJJOPER0officialsofficialNNSOPER0saysayVBPOPER0theytheyPRPOPER0havehaveVBPOPER0notnotRBOPER0formallyformallyRBOPER0receivedreceiveVBNOPER0ititPRPOPER0,,,OPER0butbutCCOPER0theytheyPRPOPER0addaddVBPOPER0theytheyPRPOPER0opposeopposeVBPOPER0anyanyDTOPER0interiminterimJJOPER0agreementagreementNNOPER0...OPER0(ROOT (S (S (NP (JJ Palestinian) (NNS officials)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP have) (RB not) (ADVP (RB formally)) (VP (VBN received) (NP (PRP it)))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP add) (SBAR (S (NP (PRP they)) (VP (VBP oppose) (NP (DT any) (JJ interim) (NN agreement))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 6 until 7 headed by 6 parsed as proposing
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN proposal))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (PRP it))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (NP (DT the) (NN proposition)) (PP (IN in) (NP (NP (DT a) (NN speech)) (PP (IN to) (NP (NN newspaper) (NNS editors))))))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Palestinian) (NNS officials))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 7 until 14 headed by 10 parsed as (NP (NP (DT an) (JJ interim) (NN peace) (NN deal)) (PP (IN with) (NP (DT the) (NNPS Palestinians))))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN proposal))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 6 until 13 headed by 12 parsed as (NP (ADJP (NP (DT a) (NP (NN state) (CC and) (CD 10)) (NN %)) (JJR more)) (NN land))
+sid=1 spanning 7 until 10 headed by 7 parsed as (NP (NN state) (CC and) (CD 10))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (PRP it))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NNS decisions))
+sid=1 spanning 21 until 25 headed by 22 parsed as (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (NNP Jerusalem))))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNP Jerusalem))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Barak))
+sid=2 spanning 2 until 10 headed by 3 parsed as (NP (NP (DT the) (NN proposition)) (PP (IN in) (NP (NP (DT a) (NN speech)) (PP (IN to) (NP (NN newspaper) (NNS editors))))))
+sid=2 spanning 5 until 10 headed by 6 parsed as (NP (NP (DT a) (NN speech)) (PP (IN to) (NP (NN newspaper) (NNS editors))))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (NN newspaper) (NNS editors))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Palestinian) (NNS officials))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (PRP they))
+(end predicted mentions)
+---------gold clusters--------
+8 9 12 11 | { 'Palestinian officials' 'they' 'they' 'they' }
+6 0 | { 'Barak' 'Israeli Prime Minister Ehud Barak' }
+10 1 3 7 5 | { 'it' 'proposing' 'The proposal' 'the proposition' 'it' }
+4 2 | { 'the Palestinians' 'the Palestinians' }
+(end gold clusters)

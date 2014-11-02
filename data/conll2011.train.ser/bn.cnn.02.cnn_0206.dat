@@ -1,0 +1,78 @@
+---------gloss--------
+(0) The struggle for power in [4m[32m{a post-Saddam Iraq}[0m has begun . 
+(1) [4m[31m{A key faction bidding for control}[0m announced [4m[31m{it}[0m will protest [3m[35m{the presence of a prominent Iraqi exile leader}[0m . 
+(2) [3m[36m{The head of the Iraqi Democratic Movement}[0m says [3m[36m{his}[0m group will hold a demonstration in Nasiriyah to denounce [3m[35m{the presence of Ahmad Chalabi}[0m . 
+(3) [3m[34m{Chalabi}[0m is the founder and leader of the Iraqi National Congress . 
+(4) [3m[34m{He}[0m was escorted into [4m[32m{Iraq}[0m Tuesday by U.S. Marines . 
+(5) [3m[34m{Chalabi}[0m staged [3m[34m{his}[0m own rally yesterday to support [3m[34m{his}[0m bid to become the next leader of [4m[32m{Iraq}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0206); part 000
+sentences:
+ThetheDTOPER0strugglestruggleNNOPER0forforINOPER0powerpowerNNOPER0ininINOPER0aaDTGPEPER0post-Saddampost-saddamJJGPEPER0IraqIraqNNPGPEPER0hashaveVBZOPER0begunbeginVBNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN struggle)) (PP (IN for) (NP (NP (NN power)) (PP (IN in) (NP (DT a) (JJ post-Saddam) (NNP Iraq)))))) (VP (VBZ has) (VP (VBN begun))) (. .)))
+AaDTOPER0keykeyJJOPER0factionfactionNNOPER0biddingbidVBGOPER0forforINOPER0controlcontrolNNOPER0announcedannounceVBDOPER0ititPRPOPER0willwillMDOPER0protestprotestVBOPER0thetheDTOPER0presencepresenceNNOPER0ofofINOPER0aaDTOPER0prominentprominentJJOPER0IraqiiraqiJJOPER0exileexileNNOPER0leaderleaderNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ key) (NN faction)) (VP (VBG bidding) (PP (IN for) (NP (NN control))))) (VP (VBD announced) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB protest) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT a) (JJ prominent) (NML (JJ Iraqi) (NN exile)) (NN leader))))))))) (. .)))
+ThetheDTOPER0headheadNNOPER0ofofINOPER0thetheDTOPER0IraqiIraqiNNPOPER0DemocraticDemocraticNNPOPER0MovementMovementNNPORGPER0sayssayVBZOPER0hishePRP$OPER0groupgroupNNOPER0willwillMDOPER0holdholdVBOPER0aaDTOPER0demonstrationdemonstrationNNOPER0ininINOPER0NasiriyahNasiriyahNNPGPEPER0totoINOPER0denouncedenounceVBPOPER0thetheDTOPER0presencepresenceNNOPER0ofofINOPER0AhmadAhmadNNPPERSONPER0ChalabiChalabiNNPPERSONPER0...OPER0(ROOT (S (NP (NP (DT The) (NN head)) (PP (IN of) (NP (DT the) (NNP Iraqi) (NNP Democratic) (NNP Movement)))) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NN group)) (VP (MD will) (VP (VB hold) (NP (NP (DT a) (NN demonstration)) (PP (IN in) (NP (NNP Nasiriyah)))) (PP (IN to) (S (VP (VBP denounce) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NNP Ahmad) (NNP Chalabi)))))))))))) (. .)))
+ChalabiChalabiNNPORGPER0isbeVBZOPER0thetheDTOPER0founderfounderNNOPER0andandCCOPER0leaderleaderNNOPER0ofofINOPER0thetheDTORGPER0IraqiIraqiNNPORGPER0NationalNationalNNPORGPER0CongressCongressNNPORGPER0...OPER0(ROOT (S (NP (NNP Chalabi)) (VP (VBZ is) (NP (NP (DT the) (NN founder) (CC and) (NN leader)) (PP (IN of) (NP (DT the) (NNP Iraqi) (NNP National) (NNP Congress))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0escortedescortVBNOPER0intointoINOPER0IraqIraqNNPGPEPER0TuesdayTuesdayNNPDATEPER0bybyINOPER0U.S.U.S.NNPORGPER0MarinesMarinesNNPSORGPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBN escorted) (PP (IN into) (NP (NNP Iraq) (NNP Tuesday))) (PP (IN by) (NP (NNP U.S.) (NNPS Marines))))) (. .)))
+ChalabiChalabiNNPOPER0stagedstageVBDOPER0hishePRP$OPER0ownownJJOPER0rallyrallyNNOPER0yesterdayyesterdayNNDATEPER0totoTOOPER0supportsupportVBOPER0hishePRP$OPER0bidbidNNOPER0totoTOOPER0becomebecomeVBOPER0thetheDTOPER0nextnextJJOPER0leaderleaderNNOPER0ofofINOPER0IraqIraqNNPGPEPER0...OPER0(ROOT (S (NP (NNP Chalabi)) (VP (VBD staged) (NP (PRP$ his) (JJ own) (NN rally)) (NP (NN yesterday)) (S (VP (TO to) (VP (VB support) (NP (PRP$ his) (NN bid) (S (VP (TO to) (VP (VB become) (NP (NP (DT the) (JJ next) (NN leader)) (PP (IN of) (NP (NNP Iraq)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ post-Saddam) (NNP Iraq))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT A) (JJ key) (NN faction)) (VP (VBG bidding) (PP (IN for) (NP (NN control)))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=1 spanning 10 until 18 headed by 11 parsed as (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT a) (JJ prominent) (NML (JJ Iraqi) (NN exile)) (NN leader))))
+sid=1 spanning 13 until 18 headed by 17 parsed as (NP (DT a) (JJ prominent) (NML (JJ Iraqi) (NN exile)) (NN leader))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN head)) (PP (IN of) (NP (DT the) (NNP Iraqi) (NNP Democratic) (NNP Movement))))
+sid=2 spanning 3 until 7 headed by 6 parsed as (NP (DT the) (NNP Iraqi) (NNP Democratic) (NNP Movement))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ his) (NN group))
+sid=2 spanning 8 until 9 headed by 8 parsed as his
+sid=2 spanning 18 until 23 headed by 19 parsed as (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NNP Ahmad) (NNP Chalabi))))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (NNP Ahmad) (NNP Chalabi))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Chalabi))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 4 until 5 headed by 4 parsed as Iraq
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Chalabi))
+sid=5 spanning 2 until 3 headed by 2 parsed as his
+sid=5 spanning 8 until 9 headed by 8 parsed as his
+sid=5 spanning 16 until 17 headed by 16 parsed as (NP (NNP Iraq))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT The) (NN struggle)) (PP (IN for) (NP (NP (NN power)) (PP (IN in) (NP (DT a) (JJ post-Saddam) (NNP Iraq))))))
+sid=0 spanning 3 until 8 headed by 3 parsed as (NP (NP (NN power)) (PP (IN in) (NP (DT a) (JJ post-Saddam) (NNP Iraq))))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ post-Saddam) (NNP Iraq))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT A) (JJ key) (NN faction)) (VP (VBG bidding) (PP (IN for) (NP (NN control)))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=1 spanning 10 until 18 headed by 11 parsed as (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT a) (JJ prominent) (NML (JJ Iraqi) (NN exile)) (NN leader))))
+sid=1 spanning 13 until 18 headed by 17 parsed as (NP (DT a) (JJ prominent) (NML (JJ Iraqi) (NN exile)) (NN leader))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN head)) (PP (IN of) (NP (DT the) (NNP Iraqi) (NNP Democratic) (NNP Movement))))
+sid=2 spanning 3 until 7 headed by 6 parsed as (NP (DT the) (NNP Iraqi) (NNP Democratic) (NNP Movement))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ his) (NN group))
+sid=2 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=2 spanning 12 until 16 headed by 13 parsed as (NP (NP (DT a) (NN demonstration)) (PP (IN in) (NP (NNP Nasiriyah))))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NNP Nasiriyah))
+sid=2 spanning 18 until 23 headed by 19 parsed as (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NNP Ahmad) (NNP Chalabi))))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (NNP Ahmad) (NNP Chalabi))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Chalabi))
+sid=3 spanning 2 until 11 headed by 3 parsed as (NP (NP (DT the) (NN founder) (CC and) (NN leader)) (PP (IN of) (NP (DT the) (NNP Iraqi) (NNP National) (NNP Congress))))
+sid=3 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (NNP Iraqi) (NNP National) (NNP Congress))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (NNP Iraq) (NNP Tuesday))
+sid=4 spanning 4 until 5 headed by 4 parsed as Iraq
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NNP U.S.) (NNPS Marines))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Chalabi))
+sid=5 spanning 2 until 5 headed by 4 parsed as (NP (PRP$ his) (JJ own) (NN rally))
+sid=5 spanning 2 until 3 headed by 2 parsed as (PRP$ his)
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (NN yesterday))
+sid=5 spanning 8 until 17 headed by 9 parsed as (NP (PRP$ his) (NN bid) (S (VP (TO to) (VP (VB become) (NP (NP (DT the) (JJ next) (NN leader)) (PP (IN of) (NP (NNP Iraq))))))))
+sid=5 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=5 spanning 12 until 17 headed by 14 parsed as (NP (NP (DT the) (JJ next) (NN leader)) (PP (IN of) (NP (NNP Iraq))))
+sid=5 spanning 16 until 17 headed by 16 parsed as (NP (NNP Iraq))
+(end predicted mentions)
+---------gold clusters--------
+11 12 14 4 15 16 10 | { 'Chalabi' 'He' 'Chalabi' 'a prominent Iraqi exile leader' 'his' 'his' 'Ahmad Chalabi' }
+3 9 | { 'the presence of a prominent Iraqi exile leader' 'the presence of Ahmad Chalabi' }
+5 8 | { 'The head of the Iraqi Democratic Movement' 'his' }
+6 1 2 7 | { 'the Iraqi Democratic Movement' 'A key faction bidding for control' 'it' 'his group' }
+13 17 0 | { 'Iraq' 'Iraq' 'a post-Saddam Iraq' }
+(end gold clusters)

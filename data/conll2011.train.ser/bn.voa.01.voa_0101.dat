@@ -1,0 +1,72 @@
+---------gloss--------
+(0) [1m[36m{President Bill Clinton}[0m has become the first US President to visit [3m[31m{Vietnam}[0m in 31 years . 
+(1) A small number of Vietnamese officials , including Foreign Minister Nguyen Dy Nien , greeted [1m[36m{Mr. Clinton}[0m and [1m[36m{his}[0m daughter Chelsea as [3m[32m{they}[0m stepped off the plane at Hanoi . 
+(2) Although the official welcoming ceremony will not occur until Friday morning , thousands of Vietnamese gathered on the road from the airport and thousands more jammed a square in front of [1m[36m{Mr. Clinton 's}[0m hotel . 
+(3) [1m[36m{The President}[0m will stay in [3m[31m{vietnam}[0m for three days , culminating a process of normalizing relations that began early in [1m[36m{Mr. Clinton 's}[0m first term in office , eight years ago . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0101); part 000
+sentences:
+PresidentPresidentNNPOPER0BillBillNNPPERSONPER0ClintonClintonNNPPERSONPER0hashaveVBZOPER0becomebecomeVBNOPER0thetheDTOPER0firstfirstJJOPER0USUSNNPGPEPER0PresidentPresidentNNPOPER0totoTOOPER0visitvisitVBOPER0VietnamVietnamNNPGPEPER0ininINOPER03131CDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NNP President) (NNP Bill) (NNP Clinton)) (VP (VBZ has) (VP (VBN become) (NP (DT the) (JJ first) (NNP US) (NNP President)) (S (VP (TO to) (VP (VB visit) (NP (NNP Vietnam)) (PP (IN in) (NP (CD 31) (NNS years)))))))) (. .)))
+AaDTOPER0smallsmallJJOPER0numbernumberNNOPER0ofofINOPER0VietnamesevietnameseJJOPER0officialsofficialNNSOPER0,,,OPER0includingincludeVBGOPER0ForeignForeignNNPOPER0MinisterMinisterNNPOPER0NguyenNguyenNNPPERSONPER0DyDyNNPPERSONPER0NienNienNNPPERSONPER0,,,OPER0greetedgreetVBDOPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0andandCCOPER0hishePRP$OPER0daughterdaughterNNOPER0ChelseaChelseaNNPPERSONPER0asasINOPER0theytheyPRPOPER0steppedstepVBDOPER0offoffRPOPER0thetheDTOPER0planeplaneNNOPER0atatINOPER0HanoiHanoiNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ small) (NN number)) (PP (IN of) (NP (JJ Vietnamese) (NNS officials))) (, ,) (PP (VBG including) (NP (NML (NNP Foreign) (NNP Minister)) (NNP Nguyen) (NNP Dy) (NNP Nien))) (, ,)) (VP (VBD greeted) (NP (NP (NNP Mr.) (NNP Clinton)) (CC and) (NP (PRP$ his) (NN daughter))) (NP (NNP Chelsea)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD stepped) (PRT (RP off)) (NP (DT the) (NN plane)) (PP (IN at) (NP (NNP Hanoi))))))) (. .)))
+AlthoughalthoughINOPER0thetheDTOPER0officialofficialJJOPER0welcomingwelcomeVBGOPER0ceremonyceremonyNNOPER0willwillMDOPER0notnotRBOPER0occuroccurVBOPER0untiluntilINOPER0FridayFridayNNPDATEPER0morningmorningNNTIMEPER0,,,OPER0thousandsthousandNNSCARDINALPER0ofofINOPER0VietnameseVietnameseNNPOPER0gatheredgatherVBDOPER0ononINOPER0thetheDTOPER0roadroadNNOPER0fromfromINOPER0thetheDTOPER0airportairportNNOPER0andandCCOPER0thousandsthousandNNSCARDINALPER0moremoreJJROPER0jammedjamVBDOPER0aaDTOPER0squaresquareNNOPER0ininINOPER0frontfrontNNOPER0ofofINOPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0's'sPOSOPER0hotelhotelNNOPER0...OPER0(ROOT (S (SBAR (IN Although) (S (NP (DT the) (JJ official) (VBG welcoming) (NN ceremony)) (VP (MD will) (RB not) (VP (VB occur) (PP (IN until) (NP (NNP Friday) (NN morning))))))) (, ,) (S (NP (NP (NNS thousands)) (PP (IN of) (NP (NNP Vietnamese)))) (VP (VBD gathered) (PP (IN on) (NP (DT the) (NN road))) (PP (IN from) (NP (DT the) (NN airport))))) (CC and) (S (NP (NNS thousands) (JJR more)) (VP (VBD jammed) (NP (NP (DT a) (NN square)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Clinton) (POS 's)) (NN hotel)))))))) (. .)))
+ThetheDTOPER0PresidentPresidentNNPOPER0willwillMDOPER0staystayVBOPER0ininINOPER0vietnamvietnamNNPEVENTPER0forforINOPER0threethreeCDDATEPER0daysdayNNSDATEPER0,,,OPER0culminatingculminateVBGOPER0aaDTOPER0processprocessNNOPER0ofofINOPER0normalizingnormalizeVBGOPER0relationsrelationNNSOPER0thatthatWDTOPER0beganbeginVBDOPER0earlyearlyRBOPER0ininINOPER0Mr.Mr.NNPOPER0ClintonClintonNNPPERSONPER0's'sPOSOPER0firstfirstJJORDINALPER0termtermNNOPER0ininINOPER0officeofficeNNOPER0,,,OPER0eighteightCDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP President)) (VP (MD will) (VP (VB stay) (PP (IN in) (NP (NNP vietnam))) (PP (IN for) (NP (CD three) (NNS days))) (, ,) (S (VP (VBG culminating) (NP (NP (DT a) (NN process)) (PP (IN of) (S (VP (VBG normalizing) (NP (NP (NNS relations)) (SBAR (WHNP (WDT that)) (S (VP (VBD began) (ADVP (RB early) (PP (IN in) (NP (NP (NP (NNP Mr.) (NNP Clinton) (POS 's)) (JJ first) (NN term)) (PP (IN in) (NP (NN office)))))) (, ,) (ADVP (NP (CD eight) (NNS years)) (RB ago)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP President) (NNP Bill) (NNP Clinton))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Vietnam))
+sid=1 spanning 15 until 21 headed by 16 parsed as (NP (NP (NNP Mr.) (NNP Clinton)) (CC and) (NP (PRP$ his) (NN daughter)))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (NP (NNP Mr.) (NNP Clinton)) (CC and) (NP (PRP$ his) (NN daughter)))
+sid=1 spanning 18 until 19 headed by 18 parsed as his
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (PRP they))
+sid=2 spanning 31 until 34 headed by 32 parsed as (NP (NNP Mr.) (NNP Clinton) (POS 's))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NNP vietnam))
+sid=3 spanning 20 until 23 headed by 21 parsed as (NP (NNP Mr.) (NNP Clinton) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP President) (NNP Bill) (NNP Clinton))
+sid=0 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (JJ first) (NNP US) (NNP President))
+sid=0 spanning 7 until 8 headed by 7 parsed as US
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Vietnam))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (CD 31) (NNS years))
+sid=1 spanning 0 until 14 headed by 2 parsed as (NP (NP (DT A) (JJ small) (NN number)) (PP (IN of) (NP (JJ Vietnamese) (NNS officials))) (, ,) (PP (VBG including) (NP (NML (NNP Foreign) (NNP Minister)) (NNP Nguyen) (NNP Dy) (NNP Nien))) (, ,))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (NML (NNP Foreign) (NNP Minister)) (NNP Nguyen) (NNP Dy) (NNP Nien))
+sid=1 spanning 8 until 13 headed by 12 parsed as (NP (NML (NNP Foreign) (NNP Minister)) (NNP Nguyen) (NNP Dy) (NNP Nien))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NP (NNP Mr.) (NNP Clinton)) (CC and) (NP (PRP$ his) (NN daughter)))
+sid=1 spanning 15 until 20 headed by 16 parsed as (NP (NP (NNP Mr.) (NNP Clinton)) (CC and) (NP (PRP$ his) (NN daughter)))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (NNP Mr.) (NNP Clinton))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (PRP$ his) (NN daughter))
+sid=1 spanning 18 until 19 headed by 18 parsed as (PRP$ his)
+sid=1 spanning 20 until 21 headed by 20 parsed as (NP (NNP Chelsea))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (PRP they))
+sid=1 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN plane))
+sid=1 spanning 28 until 29 headed by 28 parsed as (NP (NNP Hanoi))
+sid=2 spanning 1 until 5 headed by 4 parsed as (NP (DT the) (JJ official) (VBG welcoming) (NN ceremony))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Friday) (NN morning))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NNP Friday) (NN morning))
+sid=2 spanning 9 until 10 headed by 9 parsed as Friday
+sid=2 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNS thousands)) (PP (IN of) (NP (NNP Vietnamese))))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN road))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN airport))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (NNS thousands) (JJR more))
+sid=2 spanning 26 until 35 headed by 27 parsed as (NP (NP (DT a) (NN square)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Clinton) (POS 's)) (NN hotel))))))
+sid=2 spanning 29 until 35 headed by 29 parsed as (NP (NP (NN front)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Clinton) (POS 's)) (NN hotel))))
+sid=2 spanning 31 until 35 headed by 34 parsed as (NP (NP (NNP Mr.) (NNP Clinton) (POS 's)) (NN hotel))
+sid=2 spanning 31 until 34 headed by 32 parsed as (NP (NNP Mr.) (NNP Clinton) (POS 's))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (NNP vietnam))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (CD three) (NNS days))
+sid=3 spanning 11 until 31 headed by 12 parsed as (NP (NP (DT a) (NN process)) (PP (IN of) (S (VP (VBG normalizing) (NP (NP (NNS relations)) (SBAR (WHNP (WDT that)) (S (VP (VBD began) (ADVP (RB early) (PP (IN in) (NP (NP (NP (NNP Mr.) (NNP Clinton) (POS 's)) (JJ first) (NN term)) (PP (IN in) (NP (NN office)))))) (, ,) (ADVP (NP (CD eight) (NNS years)) (RB ago))))))))))
+sid=3 spanning 15 until 31 headed by 15 parsed as (NP (NP (NNS relations)) (SBAR (WHNP (WDT that)) (S (VP (VBD began) (ADVP (RB early) (PP (IN in) (NP (NP (NP (NNP Mr.) (NNP Clinton) (POS 's)) (JJ first) (NN term)) (PP (IN in) (NP (NN office)))))) (, ,) (ADVP (NP (CD eight) (NNS years)) (RB ago))))))
+sid=3 spanning 20 until 27 headed by 24 parsed as (NP (NP (NP (NNP Mr.) (NNP Clinton) (POS 's)) (JJ first) (NN term)) (PP (IN in) (NP (NN office))))
+sid=3 spanning 20 until 23 headed by 21 parsed as (NP (NNP Mr.) (NNP Clinton) (POS 's))
+sid=3 spanning 23 until 24 headed by 23 parsed as first
+sid=3 spanning 28 until 31 headed by 30 parsed as ago
+(end predicted mentions)
+---------gold clusters--------
+4 6 9 0 3 7 | { 'his' 'Mr. Clinton 's' 'Mr. Clinton 's' 'President Bill Clinton' 'Mr. Clinton' 'The President' }
+1 8 | { 'Vietnam' 'vietnam' }
+5 2 | { 'they' 'Mr. Clinton and his daughter Chelsea' }
+(end gold clusters)

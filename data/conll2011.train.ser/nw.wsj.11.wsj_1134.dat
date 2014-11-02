@@ -1,0 +1,38 @@
+---------gloss--------
+(0) [35m{Harris Ravine , executive vice president of customer satisfaction ,}[0m was named executive vice president , finance and administration of [1m[31m{this maker of data storage equipment}[0m . 
+(1) [35m{Mr. Ravine}[0m [36m{succeeds}[0m William R. Mansfield Jr. , who will remain with [1m[31m{the company}[0m until the end of the year to support [36m{the transition}[0m and to complete important projects . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1134); part 000
+sentences:
+HarrisHarrisNNPPERSONPER0RavineRavineNNPPERSONPER0,,,OPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0customercustomerNNOPER0satisfactionsatisfactionNNOPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0,,,OPER0financefinanceNNOPER0andandCCOPER0administrationadministrationNNOPER0ofofINOPER0thisthisDTOPER0makermakerNNOPER0ofofINOPER0datadatumNNOPER0storagestorageNNOPER0equipmentequipmentNNOPER0...OPER0(ROOT (S (NP (NP (NNP Harris) (NNP Ravine)) (, ,) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN of) (NP (NN customer) (NN satisfaction)))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ executive) (NN vice) (NN president)) (, ,) (NP (NN finance)) (CC and) (NP (NN administration)) (PP (IN of) (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NML (NN data) (NN storage)) (NN equipment))))))))) (. .)))
+Mr.Mr.NNPOPER0RavineRavineNNPPERSONPER0succeedssucceedVBZOPER0WilliamWilliamNNPPERSONPER0R.R.NNPPERSONPER0MansfieldMansfieldNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER0whowhoWPOPER0willwillMDOPER0remainremainVBOPER0withwithINOPER0thetheDTOPER0companycompanyNNOPER0untiluntilINOPER0thetheDTDATEPER0endendNNDATEPER0ofofINDATEPER0thetheDTDATEPER0yearyearNNDATEPER0totoTOOPER0supportsupportVBOPER0thetheDTOPER0transitiontransitionNNOPER0andandCCOPER0totoTOOPER0completecompleteVBOPER0importantimportantJJOPER0projectsprojectNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Ravine)) (VP (VBZ succeeds) (NP (NP (NNP William) (NNP R.) (NNP Mansfield) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB remain) (PP (IN with) (NP (DT the) (NN company))) (PP (IN until) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))) (S (VP (VP (TO to) (VP (VB support) (NP (DT the) (NN transition)))) (CC and) (VP (TO to) (VP (VB complete) (NP (JJ important) (NNS projects)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 10 headed by 1 parsed as (NP (NP (NNP Harris) (NNP Ravine)) (, ,) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN of) (NP (NN customer) (NN satisfaction)))) (, ,))
+sid=0 spanning 20 until 26 headed by 21 parsed as (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NML (NN data) (NN storage)) (NN equipment))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Ravine))
+sid=1 spanning 2 until 3 headed by 2 parsed as succeeds
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN company))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN transition))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Harris) (NNP Ravine)) (, ,) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN of) (NP (NN customer) (NN satisfaction)))) (, ,))
+sid=0 spanning 0 until 10 headed by 1 parsed as (NP (NP (NNP Harris) (NNP Ravine)) (, ,) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN of) (NP (NN customer) (NN satisfaction)))) (, ,))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NN customer) (NN satisfaction))
+sid=0 spanning 20 until 26 headed by 21 parsed as (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NML (NN data) (NN storage)) (NN equipment))))
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (NML (NN data) (NN storage)) (NN equipment))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Ravine))
+sid=1 spanning 3 until 7 headed by 6 parsed as (NP (NP (NNP William) (NNP R.) (NNP Mansfield) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB remain) (PP (IN with) (NP (DT the) (NN company))) (PP (IN until) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))) (S (VP (VP (TO to) (VP (VB support) (NP (DT the) (NN transition)))) (CC and) (VP (TO to) (VP (VB complete) (NP (JJ important) (NNS projects)))))))))))
+sid=1 spanning 3 until 29 headed by 6 parsed as (NP (NP (NNP William) (NNP R.) (NNP Mansfield) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB remain) (PP (IN with) (NP (DT the) (NN company))) (PP (IN until) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))) (S (VP (VP (TO to) (VP (VB support) (NP (DT the) (NN transition)))) (CC and) (VP (TO to) (VP (VB complete) (NP (JJ important) (NNS projects)))))))))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN company))
+sid=1 spanning 15 until 20 headed by 16 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN transition))
+sid=1 spanning 27 until 29 headed by 28 parsed as (NP (JJ important) (NNS projects))
+(end predicted mentions)
+---------gold clusters--------
+2 0 | { 'Mr. Ravine' 'Harris Ravine , executive vice president of customer satisfaction ,' }
+5 3 | { 'the transition' 'succeeds' }
+4 1 | { 'the company' 'this maker of data storage equipment' }
+(end gold clusters)

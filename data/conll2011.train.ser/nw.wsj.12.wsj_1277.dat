@@ -1,0 +1,51 @@
+---------gloss--------
+(0) [3m[36m{Weyerhaeuser Co.}[0m said [3m[36m{it}[0m [3m[34m{sold}[0m [3m[36m{its}[0m wall - paneling business to an affiliate of one of Indonesia 's largest wood - products firms . 
+(1) Terms of [3m[34m{the transaction}[0m were n't disclosed . 
+(2) [3m[36m{Weyerhaeuser}[0m said [3m[36m{its}[0m paneling business employs about 300 workers at two facilities in Chesapeake , Va. , and Hancock , Vt . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1277); part 000
+sentences:
+WeyerhaeuserWeyerhaeuserNNPORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0ititPRPOPER0soldsellVBDOPER0itsitsPRP$OPER0wallwallNNOPER0--HYPHOPER0panelingpanelingNNOPER0businessbusinessNNOPER0totoINOPER0anaDTOPER0affiliateaffiliateNNOPER0ofofINOPER0oneoneCDCARDINALPER0ofofINOPER0IndonesiaIndonesiaNNPGPEPER0's'sPOSOPER0largestlargestJJSOPER0woodwoodNNOPER0--HYPHOPER0productsproductNNSOPER0firmsfirmNNSOPER0...OPER0(ROOT (S (NP (NNP Weyerhaeuser) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD sold) (NP (PRP$ its) (NML (NN wall) (HYPH -) (NN paneling)) (NN business)) (PP (IN to) (NP (NP (DT an) (NN affiliate)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP Indonesia) (POS 's)) (JJS largest) (NML (NN wood) (HYPH -) (NNS products)) (NNS firms))))))))))) (. .)))
+TermstermNNSOPER0ofofINOPER0thetheDTOPER0transactiontransactionNNOPER0werebeVBDOPER0n'tnotRBOPER0discloseddiscloseVBNOPER0...OPER0(ROOT (S (NP (NP (NNS Terms)) (PP (IN of) (NP (DT the) (NN transaction)))) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+WeyerhaeuserWeyerhaeuserNNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0panelingpanelingNNOPER0businessbusinessNNOPER0employsemployVBZOPER0aboutaboutRBCARDINALPER0300300CDCARDINALPER0workersworkerNNSOPER0atatINOPER0twotwoCDCARDINALPER0facilitiesfacilityNNSOPER0ininINOPER0ChesapeakeChesapeakeNNPGPEPER0,,,OPER0Va.Va.NNPGPEPER0,,,OPER0andandCCOPER0HancockHancockNNPPERSONPER0,,,OPER0VtVtNNPGPEPER0...OPER0(ROOT (S (NP (NNP Weyerhaeuser)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN paneling) (NN business)) (VP (VBZ employs) (NP (NP (QP (RB about) (CD 300)) (NNS workers)) (PP (IN at) (NP (NP (CD two) (NNS facilities)) (PP (IN in) (NP (NP (NP (NNP Chesapeake)) (, ,) (NP (NNP Va.)) (, ,)) (CC and) (NP (NP (NNP Hancock)) (, ,) (NP (NNP Vt)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Weyerhaeuser) (NNP Co.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 4 until 5 headed by 4 parsed as sold
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (PRP$ its) (NML (NN wall) (HYPH -) (NN paneling)) (NN business))
+sid=0 spanning 5 until 6 headed by 5 parsed as its
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN transaction))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Weyerhaeuser))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (PRP$ its) (NN paneling) (NN business))
+sid=2 spanning 2 until 3 headed by 2 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Weyerhaeuser) (NNP Co.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (PRP$ its) (NML (NN wall) (HYPH -) (NN paneling)) (NN business))
+sid=0 spanning 5 until 6 headed by 5 parsed as (PRP$ its)
+sid=0 spanning 11 until 23 headed by 12 parsed as (NP (NP (DT an) (NN affiliate)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP Indonesia) (POS 's)) (JJS largest) (NML (NN wood) (HYPH -) (NNS products)) (NNS firms))))))
+sid=0 spanning 14 until 23 headed by 14 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP Indonesia) (POS 's)) (JJS largest) (NML (NN wood) (HYPH -) (NNS products)) (NNS firms))))
+sid=1 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Terms)) (PP (IN of) (NP (DT the) (NN transaction))))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN transaction))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Weyerhaeuser))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (PRP$ its) (NN paneling) (NN business))
+sid=2 spanning 2 until 3 headed by 2 parsed as (PRP$ its)
+sid=2 spanning 6 until 21 headed by 8 parsed as (NP (NP (QP (RB about) (CD 300)) (NNS workers)) (PP (IN at) (NP (NP (CD two) (NNS facilities)) (PP (IN in) (NP (NP (NP (NNP Chesapeake)) (, ,) (NP (NNP Va.)) (, ,)) (CC and) (NP (NP (NNP Hancock)) (, ,) (NP (NNP Vt))))))))
+sid=2 spanning 10 until 21 headed by 11 parsed as (NP (NP (CD two) (NNS facilities)) (PP (IN in) (NP (NP (NP (NNP Chesapeake)) (, ,) (NP (NNP Va.)) (, ,)) (CC and) (NP (NP (NNP Hancock)) (, ,) (NP (NNP Vt))))))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NP (NP (NNP Chesapeake)) (, ,) (NP (NNP Va.)) (, ,)) (CC and) (NP (NP (NNP Hancock)) (, ,) (NP (NNP Vt))))
+sid=2 spanning 13 until 21 headed by 13 parsed as (NP (NP (NP (NNP Chesapeake)) (, ,) (NP (NNP Va.)) (, ,)) (CC and) (NP (NP (NNP Hancock)) (, ,) (NP (NNP Vt))))
+sid=2 spanning 13 until 17 headed by 13 parsed as (NP (NP (NNP Chesapeake)) (, ,) (NP (NNP Va.)) (, ,))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NNP Va.))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NP (NNP Hancock)) (, ,) (NP (NNP Vt)))
+sid=2 spanning 18 until 21 headed by 18 parsed as (NP (NP (NNP Hancock)) (, ,) (NP (NNP Vt)))
+sid=2 spanning 20 until 21 headed by 20 parsed as (NP (NNP Vt))
+(end predicted mentions)
+---------gold clusters--------
+2 5 | { 'sold' 'the transaction' }
+3 7 | { 'its wall - paneling business' 'its paneling business' }
+4 1 0 6 8 | { 'its' 'it' 'Weyerhaeuser Co.' 'Weyerhaeuser' 'its' }
+(end gold clusters)

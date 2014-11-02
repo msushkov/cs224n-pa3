@@ -1,0 +1,286 @@
+---------gloss--------
+(0) Okay . 
+(1) [35m{Question of the day .}[0m 
+(2) Here 's Jack back with [35m{that}[0m . 
+(3) Thank [3m[35m{you}[0m , [3m[35m{Bill}[0m . 
+(4) There 's [34m{a new poll out}[0m [1m[32m{this morning}[0m , [34m{ABC News Washington Post poll that suggests that most Americans would support U.S. military action against Iran in order to keep the country from acquiring nuclear weapons}[0m . 
+(5) According to [34m{the survey}[0m , [32m{56 %}[0m said [32m{they}[0m would back [36m{military force}[0m to block [3m[36m{Iran}[0m from developing nuclear weapons . 
+(6) [4m[34m{38 %}[0m said [4m[34m{they}[0m 'd oppose [36m{it}[0m . 
+(7) [35m{That}[0m was the question [1m[32m{this morning}[0m . 
+(8) Would you support [36m{the use of military force}[0m to block [3m[36m{Iran}[0m from developing nuclear weapons ? 
+(9) We have gotten hundreds of responses beginning with this one from [4m[31m{Edward in Oklahoma}[0m . 
+(10) [4m[31m{I}[0m support the use of military force 100 % . 
+(11) The problem is with all of the American forces busy in Iraq , Afghanistan , [1m[34m{Korea}[0m , the Balkans , the Philippines and [1m[34m{Korea}[0m , can we be sure that France and Russia are up to the job ? 
+(12) Not bad . 
+(13) [4m[33m{Sally in Daytona Beach .}[0m 
+(14) [4m[33m{I}[0m think if [33m{we}[0m 're going to get this terror thing over with , [4m[33m{I}[0m think [33m{we}[0m need to clear the countries that house them . 
+(15) It would be deadly to let [3m[36m{Iran}[0m get [3m[36m{their}[0m hands on nuclear weapons employ [4m[33m{I}[0m would support any action . 
+(16) [4m[35m{Karen Brights .}[0m 
+(17) [4m[35m{I}[0m do n't support [3m[36m{Iran}[0m . 
+(18) Why do [31m{we , America ,}[0m get to [4m[36m{choose}[0m who has nukes and who does n't ? 
+(19) Is n't [4m[36m{that}[0m the responsibility of the United Nations ? 
+(20) Kay Jones in Waterford , Connecticut . 
+(21) Sure , let [31m{'s}[0m invade [3m[36m{Iran}[0m . 
+(22) [31m{We}[0m 're already over there . 
+(23) Besides the biggest cost to [31m{us}[0m next to the loss of life is transporting [31m{our}[0m troops overseas . 
+(24) Iraq , Iran , it 's only one letter off , [31m{we}[0m could call it a typo . 
+(25) A little cruel . 
+(26) Bill in Montana . 
+(27) Nuclear weapons in [3m[36m{Iran}[0m , hope -- 
+(28) And [4m[32m{Buzz}[0m writes no one wants to see a war , but no one wants to see another September 11th even more , especially a nuclear September 11th . 
+(29) [4m[32m{I}[0m would support [1m[35m{military action in Iran}[0m if [1m[35m{it}[0m helps to stabilize that area of the world . 
+(30) [1m[33m{You}[0m see [1m[31m{it}[0m going this way ? 
+(31) [1m[33m{You}[0m see [1m[31m{it}[0m going this way ? 
+(32) [1m[33m{I}[0m do n't know . 
+(33) [1m[33m{I}[0m do n't know . 
+(34) I think it 's fascinating if you put up a map and a dot for all of the places that you get an -- 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0426); part 000
+sentences:
+OkayokayUHOPER0...OPER0(ROOT (INTJ (UH Okay) (. .)))
+QuestionquestionNNOPER0ofofINOPER0thetheDTDATEPER0daydayNNDATEPER0...OPER0(ROOT (NP (NP (NN Question)) (PP (IN of) (NP (DT the) (NN day))) (. .)))
+HerehereRBOPER0'sbeVBZOPER0JackJackNNPPERSONPER0backbackRBOPER0withwithINOPER0thatthatDTOPER0...OPER0(ROOT (SINV (ADVP (RB Here)) (VP (VBZ 's)) (NP (NNP Jack)) (PP (ADVP (RB back)) (IN with) (NP (DT that))) (. .)))
+ThankthankVBPOPER0youyouPRPOPER0,,,OPER0BillBillNNPPERSONPER0...OPER0(ROOT (S (VP (VBP Thank) (NP (PRP you)) (, ,) (NP (NNP Bill))) (. .)))
+TherethereEXOPER0'sbeVBZOPER0aaDTOPER0newnewJJOPER0pollpollNNOPER0outoutINOPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0,,,OPER0ABCABCNNPORGPER0NewsNewsNNPORGPER0WashingtonWashingtonNNPORGPER0PostPostNNPORGPER0pollpollNNOPER0thatthatWDTOPER0suggestssuggestVBZOPER0thatthatINOPER0mostmostJJSOPER0AmericansAmericansNNPSOPER0wouldwouldMDOPER0supportsupportVBOPER0U.S.U.S.NNPGPEPER0militarymilitaryJJOPER0actionactionNNOPER0againstagainstINOPER0IranIranNNPGPEPER0ininINOPER0orderorderNNOPER0totoTOOPER0keepkeepVBOPER0thetheDTOPER0countrycountryNNOPER0fromfromINOPER0acquiringacquireVBGOPER0nuclearnuclearJJOPER0weaponsweaponNNSOPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (JJ new) (NN poll)) (PP (IN out) (NP (DT this) (NN morning)))) (, ,) (NP (NP (NML (NNP ABC) (NNP News)) (NML (NNP Washington) (NNP Post)) (NN poll)) (SBAR (WHNP (WDT that)) (S (VP (VBZ suggests) (SBAR (IN that) (S (NP (JJS most) (NNPS Americans)) (VP (MD would) (VP (VB support) (NP (NP (NNP U.S.) (JJ military) (NN action)) (PP (IN against) (NP (NNP Iran)))) (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB keep) (NP (DT the) (NN country)) (PP (IN from) (S (VP (VBG acquiring) (NP (JJ nuclear) (NNS weapons))))))))))))))))))) (. .)))
+AccordingaccordVBGOPER0totoINOPER0thetheDTOPER0surveysurveyNNOPER0,,,OPER05656CDPERCENTPER0%%NNPERCENTPER0saidsayVBDOPER0theytheyPRPOPER0wouldwouldMDOPER0backbackVBOPER0militarymilitaryJJOPER0forceforceNNOPER0totoTOOPER0blockblockVBOPER0IranIranNNPGPEPER0fromfromINOPER0developingdevelopVBGOPER0nuclearnuclearJJOPER0weaponsweaponNNSOPER0...OPER0(ROOT (S (PP (VBG According) (PP (IN to) (NP (DT the) (NN survey)))) (, ,) (NP (CD 56) (NN %)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB back) (NP (JJ military) (NN force)) (S (VP (TO to) (VP (VB block) (NP (NNP Iran)) (PP (IN from) (S (VP (VBG developing) (NP (JJ nuclear) (NNS weapons))))))))))))) (. .)))
+3838CDPERCENTPER0%%NNPERCENTPER0saidsayVBDOPER0theytheyPRPOPER0'dwouldMDOPER0opposeopposeVBOPER0ititPRPOPER0...OPER0(ROOT (S (NP (CD 38) (NN %)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD 'd) (VP (VB oppose) (NP (PRP it))))))) (. .)))
+ThatthatDTOPER0wasbeVBDOPER0thetheDTOPER0questionquestionNNOPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBD was) (NP (NP (DT the) (NN question)) (NP (DT this) (NN morning)))) (. .)))
+WouldwouldMDOPER0youyouPRPOPER0supportsupportVBOPER0thetheDTOPER0useuseNNOPER0ofofINOPER0militarymilitaryJJOPER0forceforceNNOPER0totoTOOPER0blockblockVBOPER0IranIranNNPGPEPER0fromfromINOPER0developingdevelopVBGOPER0nuclearnuclearJJOPER0weaponsweaponNNSOPER0??.OPER0(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB support) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ military) (NN force))) (S (VP (TO to) (VP (VB block) (NP (NNP Iran)) (PP (IN from) (S (VP (VBG developing) (NP (JJ nuclear) (NNS weapons)))))))))) (. ?)))
+WewePRPOPER0havehaveVBPOPER0gottengetVBNOPER0hundredshundredNNSCARDINALPER0ofofINCARDINALPER0responsesresponseNNSOPER0beginningbeginVBGOPER0withwithINOPER0thisthisDTOPER0oneoneNNOPER0fromfromINOPER0EdwardEdwardNNPORGPER0ininINOPER0OklahomaOklahomaNNPGPEPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN gotten) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS responses)) (VP (VBG beginning) (PP (IN with) (NP (DT this) (NN one))))))) (PP (IN from) (NP (NNP Edward))) (PP (IN in) (NP (NNP Oklahoma))))) (. .)))
+IIPRPOPER0supportsupportVBPOPER0thetheDTOPER0useuseNNOPER0ofofINOPER0militarymilitaryJJOPER0forceforceNNOPER0100100CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP support) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (JJ military) (NN force)) (NP (CD 100) (NN %)))))) (. .)))
+ThetheDTOPER0problemproblemNNOPER0isbeVBZOPER0withwithINOPER0allallDTOPER0ofofINOPER0thetheDTOPER0AmericanamericanJJOPER0forcesforceNNSOPER0busybusyJJOPER0ininINOPER0IraqIraqNNPGPEPER0,,,OPER0AfghanistanAfghanistanNNPGPEPER0,,,OPER0KoreaKoreaNNPGPEPER0,,,OPER0thetheDTOPER0BalkansBalkansNNPSLOCPER0,,,OPER0thetheDTOPER0PhilippinesPhilippinesNNPSGPEPER0andandCCOPER0KoreaKoreaNNPGPEPER0,,,OPER0cancanMDOPER0wewePRPOPER0bebeVBOPER0suresureJJOPER0thatthatINOPER0FranceFranceNNPGPEPER0andandCCOPER0RussiaRussiaNNPGPEPER0arebeVBPOPER0upupRPOPER0totoINOPER0thetheDTOPER0jobjobNNOPER0??.OPER0(ROOT (S (S (NP (DT The) (NN problem)) (VP (VBZ is) (PP (IN with) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (JJ American) (NNS forces)) (PP (JJ busy) (IN in) (NP (NP (NP (NNP Iraq)) (, ,) (NP (NNP Afghanistan))) (, ,) (NP (NNP Korea)) (, ,) (NP (DT the) (NNPS Balkans)) (, ,) (NP (DT the) (NNPS Philippines)) (CC and) (NP (NNP Korea)))))))))) (, ,) (SQ (MD can) (NP (PRP we)) (VP (VB be) (ADJP (JJ sure) (SBAR (IN that) (S (NP (NP (NNP France)) (CC and) (NP (NNP Russia))) (VP (VBP are) (PRT (RP up)) (PP (IN to) (NP (DT the) (NN job))))))))) (. ?)))
+NotnotRBOPER0badbadJJOPER0...OPER0(ROOT (ADJP (RB Not) (JJ bad) (. .)))
+SallySallyNNPPERSONPER0ininINOPER0DaytonaDaytonaNNPGPEPER0BeachBeachNNPGPEPER0...OPER0(ROOT (NP (NP (NNP Sally)) (PP (IN in) (NP (NNP Daytona) (NNP Beach))) (. .)))
+IIPRPOPER0thinkthinkVBPOPER0ififINOPER0wewePRPOPER0'rebeVBPOPER0goinggoVBGOPER0totoTOOPER0getgetVBOPER0thisthisDTOPER0terrorterrorNNOPER0thingthingNNOPER0overoverRPOPER0withwithINOPER0,,,OPER0IIPRPOPER0thinkthinkVBPOPER0wewePRPOPER0needneedVBPOPER0totoTOOPER0clearclearVBOPER0thetheDTOPER0countriescountryNNSOPER0thatthatWDTOPER0househouseVBPOPER0themtheyPRPOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (SBAR (IN if) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB get) (NP (DT this) (NN terror) (NN thing)) (PRT (RP over)) (PP (IN with))))))))) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB clear) (NP (NP (DT the) (NNS countries)) (SBAR (WHNP (WDT that)) (S (VP (VBP house) (NP (PRP them)))))))))))))))) (. .)))
+ItitPRPOPER0wouldwouldMDOPER0bebeVBOPER0deadlydeadlyJJOPER0totoTOOPER0letletVBOPER0IranIranNNPGPEPER0getgetVBOPER0theirtheyPRP$OPER0handshandNNSOPER0ononINOPER0nuclearnuclearJJOPER0weaponsweaponNNSOPER0employemployVBOPER0IIPRPOPER0wouldwouldMDOPER0supportsupportVBOPER0anyanyDTOPER0actionactionNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (MD would) (VP (VB be) (ADJP (JJ deadly) (S (VP (TO to) (VP (VB let) (S (NP (NNP Iran)) (VP (VP (VB get) (NP (PRP$ their) (NNS hands)) (PP (IN on) (NP (JJ nuclear) (NNS weapons)))) (VP (VB employ) (SBAR (S (NP (PRP I)) (VP (MD would) (VP (VB support) (NP (DT any) (NN action))))))))))))))) (. .)))
+KarenKarenNNPPERSONPER0BrightsBrightsNNPPERSONPER0...PERSONPER0(ROOT (NP (NNP Karen) (NNP Brights) (. .)))
+IIPRPOPER0dodoVBPOPER0n'tnotRBOPER0supportsupportVBOPER0IranIranNNPGPEPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB support) (NP (NNP Iran)))) (. .)))
+WhywhyWRBOPER0dodoVBPOPER0wewePRPOPER0,,,OPER0AmericaAmericaNNPGPEPER0,,,OPER0getgetVBOPER0totoTOOPER0choosechooseVBOPER0whowhoWPOPER0hashaveVBZOPER0nukesnukeNNSOPER0andandCCOPER0whowhoWPOPER0doesdoVBZOPER0n'tnotRBOPER0??.OPER0(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (NP (PRP we)) (, ,) (NP (NNP America)) (, ,)) (VP (VB get) (S (VP (TO to) (VP (VB choose) (SBAR (SBAR (WHNP (WP who)) (S (VP (VBZ has) (NP (NNS nukes))))) (CC and) (SBAR (WHNP (WP who)) (S (VP (VBZ does) (RB n't)))))))))) (. ?)))
+IsbeVBZOPER0n'tnotRBOPER0thatthatDTOPER0thetheDTOPER0responsibilityresponsibilityNNOPER0ofofINOPER0thetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0??.OPER0(ROOT (SQ (VBZ Is) (NP (RB n't) (DT that)) (NP (NP (DT the) (NN responsibility)) (PP (IN of) (NP (DT the) (NNP United) (NNP Nations)))) (. ?)))
+KayKayNNPPERSONPER0JonesJonesNNPPERSONPER0ininINOPER0WaterfordWaterfordNNPORGPER0,,,OPER0ConnecticutConnecticutNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Kay) (NNP Jones)) (PP (IN in) (NP (NNP Waterford))) (, ,) (NP (NNP Connecticut)) (. .)))
+SuresureUHOPER0,,,OPER0letletVBOPER0's'sPRPOPER0invadeinvadeVBOPER0IranIranNNPGPEPER0...OPER0(ROOT (S (INTJ (UH Sure)) (, ,) (VP (VB let) (NP (PRP 's)) (VP (VB invade) (NP (NNP Iran)))) (. .)))
+WewePRPOPER0'rebeVBPOPER0alreadyalreadyRBOPER0overoverRBOPER0therethereRBOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP 're) (ADVP (RB already)) (ADVP (RB over) (RB there))) (. .)))
+BesidesbesidesRBOPER0thetheDTOPER0biggestbiggestJJSOPER0costcostNNOPER0totoINOPER0uswePRPOPER0nextnextRBOPER0totoINOPER0thetheDTOPER0losslossNNOPER0ofofINOPER0lifelifeNNOPER0isbeVBZOPER0transportingtransportVBGOPER0ourwePRP$OPER0troopstroopsNNSOPER0overseasoverseasRBOPER0...OPER0(ROOT (S (ADVP (RB Besides)) (NP (NP (DT the) (JJS biggest) (NN cost)) (PP (IN to) (NP (NP (PRP us)) (ADVP (RB next) (PP (IN to) (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NN life))))))))) (VP (VBZ is) (VP (VBG transporting) (NP (PRP$ our) (NNS troops)) (ADVP (RB overseas)))) (. .)))
+IraqIraqNNPGPEPER0,,,OPER0IranIranNNPGPEPER0,,,OPER0ititPRPOPER0'sbeVBZOPER0onlyonlyRBCARDINALPER0oneoneCDCARDINALPER0letterletterNNOPER0offoffRBOPER0,,,OPER0wewePRPOPER0couldcouldMDOPER0callcallVBOPER0ititPRPOPER0aaDTOPER0typotypoNNOPER0...OPER0(ROOT (S (NP (NNP Iraq)) (, ,) (NP (NNP Iran)) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (NP (QP (RB only) (CD one)) (NN letter)) (RB off)))) (, ,) (NP (PRP we)) (VP (MD could) (VP (VB call) (NP (PRP it)) (NP (DT a) (NN typo)))) (. .)))
+AaDTOPER0littlelittleJJOPER0cruelcruelJJOPER0...OPER0(ROOT (FRAG (ADJP (NP (DT A) (JJ little)) (JJ cruel)) (. .)))
+BillBillNNPPERSONPER0ininINOPER0MontanaMontanaNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Bill)) (PP (IN in) (NP (NNP Montana))) (. .)))
+NuclearnuclearJJOPER0weaponsweaponNNSOPER0ininINOPER0IranIranNNPGPEPER0,,,OPER0hopehopeVBPOPER0----.OPER0(ROOT (FRAG (NP (JJ Nuclear) (NNS weapons)) (PP (IN in) (NP (NNP Iran))) (, ,) (S (VP (VBP hope))) (. --)))
+AndandCCOPER0BuzzBuzzNNPPERSONPER0writeswriteVBZOPER0nonoDTOPER0oneoneNNOPER0wantswantVBZOPER0totoTOOPER0seeseeVBOPER0aaDTOPER0warwarNNOPER0,,,OPER0butbutCCOPER0nonoDTOPER0oneoneNNOPER0wantswantVBZOPER0totoTOOPER0seeseeVBOPER0anotheranotherDTDATEPER0SeptemberSeptemberNNPDATEPER011th11thNNDATEPER0evenevenRBOPER0moremoreJJROPER0,,,OPER0especiallyespeciallyRBOPER0aaDTOPER0nuclearnuclearJJOPER0SeptemberSeptemberNNPDATEPER011th11thNNDATEPER0...OPER0(ROOT (S (CC And) (NP (NNP Buzz)) (VP (VBZ writes) (SBAR (S (S (NP (DT no) (NN one)) (VP (VBZ wants) (S (VP (TO to) (VP (VB see) (NP (DT a) (NN war))))))) (, ,) (CC but) (S (NP (DT no) (NN one)) (VP (VBZ wants) (S (VP (TO to) (VP (VB see) (S (NP (DT another) (NNP September) (NN 11th)) (ADJP (RB even) (JJR more)))))) (, ,) (FRAG (ADVP (RB especially)) (NP (DT a) (JJ nuclear) (NNP September) (NN 11th)))))))) (. .)))
+IIPRPOPER0wouldwouldMDOPER0supportsupportVBOPER0militarymilitaryJJOPER0actionactionNNOPER0ininINOPER0IranIranNNPGPEPER0ififINOPER0ititPRPOPER0helpshelpVBZOPER0totoTOOPER0stabilizestabilizeVBOPER0thatthatDTOPER0areaareaNNOPER0ofofINOPER0thetheDTOPER0worldworldNNOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB support) (NP (NP (JJ military) (NN action)) (PP (IN in) (NP (NNP Iran)))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ helps) (S (VP (TO to) (VP (VB stabilize) (NP (NP (DT that) (NN area)) (PP (IN of) (NP (DT the) (NN world)))))))))))) (. .)))
+YouyouPRPOPER0seeseeVBPOPER0ititPRPOPER0goinggoVBGOPER0thisthisDTOPER0waywayNNOPER0??.OPER0(ROOT (SQ (NP (PRP You)) (VP (VBP see) (S (NP (PRP it)) (VP (VBG going) (NP (DT this) (NN way))))) (. ?)))
+YouyouPRPOPER0seeseeVBPOPER0ititPRPOPER0goinggoVBGOPER0thisthisDTOPER0waywayNNOPER0??.OPER0(ROOT (SQ (NP (PRP You)) (VP (VBP see) (S (NP (PRP it)) (VP (VBG going) (NP (DT this) (NN way))))) (. ?)))
+IIPRPOPER0dodoVBPOPER0n'tnotRBOPER0knowknowVBOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))) (. .)))
+IIPRPOPER0dodoVBPOPER0n'tnotRBOPER0knowknowVBOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))) (. .)))
+IIPRPOPER0thinkthinkVBPOPER0ititPRPOPER0'sbeVBZOPER0fascinatingfascinatingJJOPER0ififINOPER0youyouPRPOPER0putputVBPOPER0upupRPOPER0aaDTOPER0mapmapNNOPER0andandCCOPER0aaDTOPER0dotdotNNOPER0forforINOPER0allallDTOPER0ofofINOPER0thetheDTOPER0placesplaceNNSOPER0thatthatWDTOPER0youyouPRPOPER0getgetVBPOPER0anaDTOPER0----.OPER0(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ fascinating)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP put) (PRT (RP up)) (NP (NP (DT a) (NN map)) (CC and) (NP (NP (DT a) (NN dot)) (PP (IN for) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (NNS places)) (SBAR (WHNP (WDT that)) (S (NP (PRP you)) (VP (VBP get) (NP (DT an)))))))))))))))))) (. --)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 5 headed by 0 parsed as (NP (NP (NN Question)) (PP (IN of) (NP (DT the) (NN day))) (. .))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (DT that))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Bill))
+sid=4 spanning 2 until 6 headed by 4 parsed as (NP (NP (DT a) (JJ new) (NN poll)) (PP (IN out) (NP (DT this) (NN morning))))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT this) (NN morning))
+sid=4 spanning 9 until 36 headed by 13 parsed as (NP (NP (NML (NNP ABC) (NNP News)) (NML (NNP Washington) (NNP Post)) (NN poll)) (SBAR (WHNP (WDT that)) (S (VP (VBZ suggests) (SBAR (IN that) (S (NP (JJS most) (NNPS Americans)) (VP (MD would) (VP (VB support) (NP (NP (NNP U.S.) (JJ military) (NN action)) (PP (IN against) (NP (NNP Iran)))) (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB keep) (NP (DT the) (NN country)) (PP (IN from) (S (VP (VBG acquiring) (NP (JJ nuclear) (NNS weapons))))))))))))))))))
+sid=4 spanning 25 until 26 headed by 25 parsed as (NP (NNP Iran))
+sid=4 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN country))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN survey))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (CD 56) (NN %))
+sid=5 spanning 8 until 9 headed by 8 parsed as (NP (PRP they))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (JJ military) (NN force))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (NNP Iran))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (CD 38) (NN %))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (DT this) (NN morning))
+sid=8 spanning 3 until 8 headed by 4 parsed as (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ military) (NN force))) (S (VP (TO to) (VP (VB block) (NP (NNP Iran)) (PP (IN from) (S (VP (VBG developing) (NP (JJ nuclear) (NNS weapons)))))))))
+sid=8 spanning 10 until 11 headed by 10 parsed as (NP (NNP Iran))
+sid=9 spanning 11 until 14 headed by 11 parsed as (NP (NNP Edward))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=11 spanning 15 until 16 headed by 15 parsed as (NP (NNP Korea))
+sid=11 spanning 23 until 24 headed by 23 parsed as (NP (NNP Korea))
+sid=13 spanning 0 until 5 headed by 0 parsed as (NP (NP (NNP Sally)) (PP (IN in) (NP (NNP Daytona) (NNP Beach))) (. .))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=14 spanning 3 until 4 headed by 3 parsed as (NP (PRP we))
+sid=14 spanning 14 until 15 headed by 14 parsed as (NP (PRP I))
+sid=14 spanning 16 until 17 headed by 16 parsed as (NP (PRP we))
+sid=15 spanning 6 until 7 headed by 6 parsed as (NP (NNP Iran))
+sid=15 spanning 8 until 9 headed by 8 parsed as their
+sid=15 spanning 14 until 15 headed by 14 parsed as (NP (PRP I))
+sid=16 spanning 0 until 3 headed by 1 parsed as (NP (NNP Karen) (NNP Brights) (. .))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=17 spanning 4 until 5 headed by 4 parsed as (NP (NNP Iran))
+sid=18 spanning 2 until 6 headed by 2 parsed as (NP (NP (PRP we)) (, ,) (NP (NNP America)) (, ,))
+sid=18 spanning 8 until 9 headed by 8 parsed as choose
+sid=19 spanning 2 until 3 headed by 2 parsed as (NP (RB n't) (DT that))
+sid=21 spanning 3 until 4 headed by 3 parsed as (NP (PRP 's))
+sid=21 spanning 5 until 6 headed by 5 parsed as (NP (NNP Iran))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=23 spanning 5 until 6 headed by 5 parsed as (NP (NP (PRP us)) (ADVP (RB next) (PP (IN to) (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NN life)))))))
+sid=23 spanning 14 until 15 headed by 14 parsed as our
+sid=24 spanning 11 until 12 headed by 11 parsed as (NP (PRP we))
+sid=27 spanning 3 until 4 headed by 3 parsed as (NP (NNP Iran))
+sid=28 spanning 1 until 2 headed by 1 parsed as (NP (NNP Buzz))
+sid=29 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=29 spanning 3 until 7 headed by 4 parsed as (NP (NP (JJ military) (NN action)) (PP (IN in) (NP (NNP Iran))))
+sid=29 spanning 6 until 7 headed by 6 parsed as (NP (NNP Iran))
+sid=29 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=30 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=30 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=31 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=31 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=32 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=33 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+(end gold mentions)
+---------predicted mentions--------
+sid=1 spanning 0 until 5 headed by 0 parsed as (NP (NP (NN Question)) (PP (IN of) (NP (DT the) (NN day))) (. .))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN day))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (NNP Jack))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (DT that))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNP Bill))
+sid=4 spanning 2 until 8 headed by 4 parsed as (NP (NP (DT a) (JJ new) (NN poll)) (PP (IN out) (NP (DT this) (NN morning))))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT this) (NN morning))
+sid=4 spanning 9 until 36 headed by 13 parsed as (NP (NP (NML (NNP ABC) (NNP News)) (NML (NNP Washington) (NNP Post)) (NN poll)) (SBAR (WHNP (WDT that)) (S (VP (VBZ suggests) (SBAR (IN that) (S (NP (JJS most) (NNPS Americans)) (VP (MD would) (VP (VB support) (NP (NP (NNP U.S.) (JJ military) (NN action)) (PP (IN against) (NP (NNP Iran)))) (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB keep) (NP (DT the) (NN country)) (PP (IN from) (S (VP (VBG acquiring) (NP (JJ nuclear) (NNS weapons))))))))))))))))))
+sid=4 spanning 9 until 13 headed by 12 parsed as Post
+sid=4 spanning 17 until 19 headed by 18 parsed as (NP (JJS most) (NNPS Americans))
+sid=4 spanning 21 until 26 headed by 23 parsed as (NP (NP (NNP U.S.) (JJ military) (NN action)) (PP (IN against) (NP (NNP Iran))))
+sid=4 spanning 25 until 26 headed by 25 parsed as (NP (NNP Iran))
+sid=4 spanning 27 until 36 headed by 27 parsed as (NP (NN order) (S (VP (TO to) (VP (VB keep) (NP (DT the) (NN country)) (PP (IN from) (S (VP (VBG acquiring) (NP (JJ nuclear) (NNS weapons)))))))))
+sid=4 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN country))
+sid=4 spanning 34 until 36 headed by 35 parsed as (NP (JJ nuclear) (NNS weapons))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN survey))
+sid=5 spanning 8 until 9 headed by 8 parsed as (NP (PRP they))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (NNP Iran))
+sid=5 spanning 18 until 20 headed by 19 parsed as (NP (JJ nuclear) (NNS weapons))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=7 spanning 2 until 6 headed by 3 parsed as (NP (NP (DT the) (NN question)) (NP (DT this) (NN morning)))
+sid=7 spanning 4 until 6 headed by 5 parsed as (NP (DT this) (NN morning))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=8 spanning 3 until 15 headed by 4 parsed as (NP (NP (DT the) (NN use)) (PP (IN of) (NP (JJ military) (NN force))) (S (VP (TO to) (VP (VB block) (NP (NNP Iran)) (PP (IN from) (S (VP (VBG developing) (NP (JJ nuclear) (NNS weapons)))))))))
+sid=8 spanning 10 until 11 headed by 10 parsed as (NP (NNP Iran))
+sid=8 spanning 13 until 15 headed by 14 parsed as (NP (JJ nuclear) (NNS weapons))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=9 spanning 3 until 10 headed by 3 parsed as (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS responses)) (VP (VBG beginning) (PP (IN with) (NP (DT this) (NN one)))))))
+sid=9 spanning 8 until 10 headed by 9 parsed as (NP (DT this) (NN one))
+sid=9 spanning 11 until 12 headed by 11 parsed as (NP (NNP Edward))
+sid=9 spanning 13 until 14 headed by 13 parsed as (NP (NNP Oklahoma))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=10 spanning 2 until 9 headed by 3 parsed as (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (JJ military) (NN force)) (NP (CD 100) (NN %)))))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN problem))
+sid=11 spanning 11 until 12 headed by 11 parsed as (NP (NP (NP (NNP Iraq)) (, ,) (NP (NNP Afghanistan))) (, ,) (NP (NNP Korea)) (, ,) (NP (DT the) (NNPS Balkans)) (, ,) (NP (DT the) (NNPS Philippines)) (CC and) (NP (NNP Korea)))
+sid=11 spanning 11 until 24 headed by 11 parsed as (NP (NP (NP (NNP Iraq)) (, ,) (NP (NNP Afghanistan))) (, ,) (NP (NNP Korea)) (, ,) (NP (DT the) (NNPS Balkans)) (, ,) (NP (DT the) (NNPS Philippines)) (CC and) (NP (NNP Korea)))
+sid=11 spanning 11 until 14 headed by 11 parsed as (NP (NP (NNP Iraq)) (, ,) (NP (NNP Afghanistan)))
+sid=11 spanning 13 until 14 headed by 13 parsed as (NP (NNP Afghanistan))
+sid=11 spanning 15 until 16 headed by 15 parsed as (NP (NNP Korea))
+sid=11 spanning 18 until 19 headed by 18 parsed as (NP (DT the) (NNPS Balkans))
+sid=11 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNPS Balkans))
+sid=11 spanning 21 until 22 headed by 21 parsed as (NP (DT the) (NNPS Philippines))
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNPS Philippines))
+sid=11 spanning 23 until 24 headed by 23 parsed as (NP (NNP Korea))
+sid=11 spanning 26 until 27 headed by 26 parsed as (NP (PRP we))
+sid=11 spanning 30 until 31 headed by 30 parsed as (NP (NP (NNP France)) (CC and) (NP (NNP Russia)))
+sid=11 spanning 30 until 33 headed by 30 parsed as (NP (NP (NNP France)) (CC and) (NP (NNP Russia)))
+sid=11 spanning 32 until 33 headed by 32 parsed as (NP (NNP Russia))
+sid=11 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN job))
+sid=13 spanning 0 until 5 headed by 0 parsed as (NP (NP (NNP Sally)) (PP (IN in) (NP (NNP Daytona) (NNP Beach))) (. .))
+sid=13 spanning 2 until 4 headed by 3 parsed as (NP (NNP Daytona) (NNP Beach))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=14 spanning 3 until 4 headed by 3 parsed as (NP (PRP we))
+sid=14 spanning 8 until 11 headed by 10 parsed as (NP (DT this) (NN terror) (NN thing))
+sid=14 spanning 14 until 15 headed by 14 parsed as (NP (PRP I))
+sid=14 spanning 16 until 17 headed by 16 parsed as (NP (PRP we))
+sid=14 spanning 20 until 25 headed by 21 parsed as (NP (NP (DT the) (NNS countries)) (SBAR (WHNP (WDT that)) (S (VP (VBP house) (NP (PRP them))))))
+sid=14 spanning 24 until 25 headed by 24 parsed as (NP (PRP them))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=15 spanning 6 until 7 headed by 6 parsed as (NP (NNP Iran))
+sid=15 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ their) (NNS hands))
+sid=15 spanning 8 until 9 headed by 8 parsed as (PRP$ their)
+sid=15 spanning 11 until 13 headed by 12 parsed as (NP (JJ nuclear) (NNS weapons))
+sid=15 spanning 14 until 15 headed by 14 parsed as (NP (PRP I))
+sid=16 spanning 0 until 3 headed by 1 parsed as (NP (NNP Karen) (NNP Brights) (. .))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=17 spanning 4 until 5 headed by 4 parsed as (NP (NNP Iran))
+sid=18 spanning 2 until 6 headed by 2 parsed as (NP (NP (PRP we)) (, ,) (NP (NNP America)) (, ,))
+sid=18 spanning 2 until 3 headed by 2 parsed as (NP (PRP we))
+sid=18 spanning 4 until 5 headed by 4 parsed as (NP (NNP America))
+sid=18 spanning 11 until 12 headed by 11 parsed as (NP (NNS nukes))
+sid=19 spanning 1 until 3 headed by 2 parsed as (NP (RB n't) (DT that))
+sid=19 spanning 3 until 9 headed by 4 parsed as (NP (NP (DT the) (NN responsibility)) (PP (IN of) (NP (DT the) (NNP United) (NNP Nations))))
+sid=19 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP United) (NNP Nations))
+sid=20 spanning 0 until 2 headed by 1 parsed as (NP (NNP Kay) (NNP Jones))
+sid=20 spanning 3 until 4 headed by 3 parsed as (NP (NNP Waterford))
+sid=20 spanning 5 until 6 headed by 5 parsed as (NP (NNP Connecticut))
+sid=21 spanning 3 until 4 headed by 3 parsed as (NP (PRP 's))
+sid=21 spanning 5 until 6 headed by 5 parsed as (NP (NNP Iran))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=23 spanning 1 until 12 headed by 3 parsed as (NP (NP (DT the) (JJS biggest) (NN cost)) (PP (IN to) (NP (NP (PRP us)) (ADVP (RB next) (PP (IN to) (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NN life)))))))))
+sid=23 spanning 5 until 12 headed by 5 parsed as (NP (NP (PRP us)) (ADVP (RB next) (PP (IN to) (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NN life)))))))
+sid=23 spanning 8 until 12 headed by 9 parsed as (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NN life))))
+sid=23 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ our) (NNS troops))
+sid=23 spanning 14 until 15 headed by 14 parsed as (PRP$ our)
+sid=24 spanning 0 until 1 headed by 0 parsed as (NP (NNP Iraq))
+sid=24 spanning 2 until 3 headed by 2 parsed as (NP (NNP Iran))
+sid=24 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=24 spanning 6 until 9 headed by 8 parsed as (NP (QP (RB only) (CD one)) (NN letter))
+sid=24 spanning 11 until 12 headed by 11 parsed as (NP (PRP we))
+sid=24 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=24 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN typo))
+sid=25 spanning 0 until 2 headed by 1 parsed as (NP (DT A) (JJ little))
+sid=26 spanning 0 until 1 headed by 0 parsed as (NP (NNP Bill))
+sid=26 spanning 2 until 3 headed by 2 parsed as (NP (NNP Montana))
+sid=27 spanning 0 until 2 headed by 1 parsed as (NP (JJ Nuclear) (NNS weapons))
+sid=27 spanning 3 until 4 headed by 3 parsed as (NP (NNP Iran))
+sid=28 spanning 1 until 2 headed by 1 parsed as (NP (NNP Buzz))
+sid=28 spanning 3 until 5 headed by 4 parsed as (NP (DT no) (NN one))
+sid=28 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN war))
+sid=28 spanning 12 until 14 headed by 13 parsed as (NP (DT no) (NN one))
+sid=28 spanning 17 until 20 headed by 19 parsed as (NP (DT another) (NNP September) (NN 11th))
+sid=28 spanning 24 until 28 headed by 27 parsed as (NP (DT a) (JJ nuclear) (NNP September) (NN 11th))
+sid=29 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=29 spanning 6 until 7 headed by 6 parsed as (NP (NNP Iran))
+sid=29 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=29 spanning 12 until 17 headed by 13 parsed as (NP (NP (DT that) (NN area)) (PP (IN of) (NP (DT the) (NN world))))
+sid=29 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN world))
+sid=30 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=30 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=30 spanning 4 until 6 headed by 5 parsed as (NP (DT this) (NN way))
+sid=31 spanning 0 until 1 headed by 0 parsed as (NP (PRP You))
+sid=31 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=31 spanning 4 until 6 headed by 5 parsed as (NP (DT this) (NN way))
+sid=32 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=33 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=34 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=34 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=34 spanning 6 until 7 headed by 6 parsed as (NP (PRP you))
+sid=34 spanning 9 until 23 headed by 10 parsed as (NP (NP (DT a) (NN map)) (CC and) (NP (NP (DT a) (NN dot)) (PP (IN for) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (NNS places)) (SBAR (WHNP (WDT that)) (S (NP (PRP you)) (VP (VBP get) (NP (DT an)))))))))))
+sid=34 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NN map))
+sid=34 spanning 12 until 23 headed by 13 parsed as (NP (NP (DT a) (NN dot)) (PP (IN for) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (NNS places)) (SBAR (WHNP (WDT that)) (S (NP (PRP you)) (VP (VBP get) (NP (DT an))))))))))
+sid=34 spanning 20 until 21 headed by 20 parsed as (NP (PRP you))
+sid=34 spanning 22 until 23 headed by 22 parsed as (NP (DT an))
+(end predicted mentions)
+---------gold clusters--------
+2 3 | { 'you' 'Bill' }
+31 13 8 20 49 45 30 40 7 35 | { 'their' 'Iran' 'the country' 'Iran' 'Iran' 'Iran' 'Iran' 'Iran' 'Iran' 'Iran' }
+21 22 | { 'Edward in Oklahoma' 'I' }
+46 47 | { 'Buzz' 'I' }
+26 25 32 28 | { 'I' 'Sally in Daytona Beach .' 'I' 'I' }
+15 14 | { 'they' '38 %' }
+34 33 | { 'I' 'Karen Brights .' }
+38 37 | { 'that' 'choose' }
+44 43 42 41 39 36 | { 'we' 'our' 'us' 'We' ''s' 'we , America ,' }
+11 10 | { 'they' '56 %' }
+29 27 | { 'we' 'we' }
+6 9 4 | { 'ABC News Washington Post poll that suggests that most Americans would support U.S. military action against Iran in order to keep the country from acquiring nuclear weapons' 'the survey' 'a new poll out' }
+1 0 17 | { 'that' 'Question of the day .' 'That' }
+12 19 16 | { 'military force' 'the use of military force' 'it' }
+52 54 | { 'it' 'it' }
+18 5 | { 'this morning' 'this morning' }
+51 53 56 55 | { 'You' 'You' 'I' 'I' }
+24 23 | { 'Korea' 'Korea' }
+50 48 | { 'it' 'military action in Iran' }
+(end gold clusters)

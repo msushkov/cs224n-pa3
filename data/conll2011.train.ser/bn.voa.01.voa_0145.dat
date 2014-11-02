@@ -1,0 +1,23 @@
+---------gloss--------
+(0) And the UN High Commissioner for Refugees says southwestern Guinea is on the verge of a major humanitarian disaster because of regional fighting . 
+(1) David Coler , VOA News . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0145); part 000
+sentences:
+AndandCCOPER0thetheDTORGPER0UNUNNNPORGPER0HighHighNNPORGPER0CommissionerCommissionerNNPORGPER0forforINORGPER0RefugeesRefugeesNNPSORGPER0sayssayVBZOPER0southwesternsouthwesternNNPOPER0GuineaGuineaNNPGPEPER0isbeVBZOPER0ononINOPER0thetheDTOPER0vergevergeNNOPER0ofofINOPER0aaDTOPER0majormajorJJOPER0humanitarianhumanitarianJJOPER0disasterdisasterNNOPER0becausebecauseRBOPER0ofofINOPER0regionalregionalJJOPER0fightingfightingNNOPER0...OPER0(ROOT (S (CC And) (NP (NP (DT the) (NNP UN) (NNP High) (NNP Commissioner)) (PP (IN for) (NP (NNPS Refugees)))) (VP (VBZ says) (SBAR (S (NP (NNP southwestern) (NNP Guinea)) (VP (VBZ is) (PP (IN on) (NP (NP (DT the) (NN verge)) (PP (IN of) (NP (NP (DT a) (JJ major) (JJ humanitarian) (NN disaster)) (PP (RB because) (IN of) (NP (JJ regional) (NN fighting))))))))))) (. .)))
+DavidDavidNNPPERSONPER0ColerColerNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP David) (NNP Coler)) (, ,) (NP (NNP VOA) (NNP News)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 7 headed by 4 parsed as (NP (NP (DT the) (NNP UN) (NNP High) (NNP Commissioner)) (PP (IN for) (NP (NNPS Refugees))))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP southwestern) (NNP Guinea))
+sid=0 spanning 12 until 23 headed by 13 parsed as (NP (NP (DT the) (NN verge)) (PP (IN of) (NP (NP (DT a) (JJ major) (JJ humanitarian) (NN disaster)) (PP (RB because) (IN of) (NP (JJ regional) (NN fighting))))))
+sid=0 spanning 15 until 23 headed by 18 parsed as (NP (NP (DT a) (JJ major) (JJ humanitarian) (NN disaster)) (PP (RB because) (IN of) (NP (JJ regional) (NN fighting))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP David) (NNP Coler))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

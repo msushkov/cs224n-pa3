@@ -1,0 +1,126 @@
+---------gloss--------
+(0) [1m[32m{The Federal Reserve}[0m considers interest rates , and some key economic reports come out [34m{this week}[0m . 
+(1) [1m[31m{Kitty Pilgrim}[0m has more in today 's edition of `` Ahead of the Curve . '' 
+(2) Wall Street will be on [1m[32m{Fed}[0m watch [34m{this week}[0m . 
+(3) On [1m[33m{Tuesday}[0m , the Federal Reserve Open Market Committee meets for the final time this year to discuss interest rates . 
+(4) Recent economic reports indicate the economy is slowing , leading analysts to believe that [1m[32m{the Fed}[0m will most likely ease the inflation - fighting policy and take a more neutral stance . 
+(5) Now , [1m[32m{the Fed}[0m has held rates steady in [1m[32m{its}[0m last four meetings . 
+(6) Also [1m[33m{Tuesday}[0m , October international trade figures are out . 
+(7) The deficit is expected to drop from September 's record high of $ 34.3 billion , to just over $ 33 billion . 
+(8) Also [34m{this week}[0m , [35m{November}[0m housing starts , which are forecast to hold steady , and the revised third - quarter gross domestic product is expected to remain in line with previous figures , up to .4 % . 
+(9) Rounding out [34m{the week}[0m , [35m{November}[0m personal income and outlays figures and [35m{November}[0m durable goods . 
+(10) Personal income and spending are both expected to rise , and sales of durable goods should climb slightly for [35m{the month}[0m , as well . 
+(11) To stay `` Ahead of the Curve '' all week long , watch `` The Moneyline News Hour '' with Willow Bay and Stewart Varney , week nights at on [36m{CNN}[0m . 
+(12) [1m[31m{Kitty Pilgrim}[0m , `` [36m{CNN}[0m Financial News , '' New York . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0145); part 000
+sentences:
+ThetheDTORGPER0FederalFederalNNPORGPER0ReserveReserveNNPORGPER0considersconsiderVBZOPER0interestinterestNNOPER0ratesrateNNSOPER0,,,OPER0andandCCOPER0somesomeDTOPER0keykeyJJOPER0economiceconomicJJOPER0reportsreportNNSOPER0comecomeVBPOPER0outoutRPOPER0thisthisDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (S (NP (DT The) (NNP Federal) (NNP Reserve)) (VP (VBZ considers) (NP (NN interest) (NNS rates)))) (, ,) (CC and) (S (NP (DT some) (JJ key) (JJ economic) (NNS reports)) (VP (VBP come) (PRT (RP out)) (NP (DT this) (NN week)))) (. .)))
+KittyKittyNNPORGPER0PilgrimPilgrimNNPORGPER0hashaveVBZOPER0moremoreJJROPER0ininINOPER0todaytodayNNDATEPER0's'sPOSOPER0editioneditionNNOPER0ofofINOPER0``````OAheadaheadJJWORK_OF_ARTPER1ofofINWORK_OF_ARTPER1thetheDTWORK_OF_ARTPER1CurvecurveNNWORK_OF_ARTPER1...OPER1''''''OPER0(ROOT (S (NP (NNP Kitty) (NNP Pilgrim)) (VP (VBZ has) (NP (JJR more)) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NP (JJ Ahead)) (PP (IN of) (NP (DT the) (NN Curve)))))))) (. .) ('' '')))
+WallWallNNPOPER0StreetStreetNNPOPER0willwillMDOPER0bebeVBOPER0ononINOPER0FedFedNNPORGPER0watchwatchNNOPER0thisthisDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (NNP Wall) (NNP Street)) (VP (MD will) (VP (VB be) (PP (IN on) (NP (NNP Fed) (NN watch))) (NP (DT this) (NN week)))) (. .)))
+OnonINOPER0TuesdayTuesdayNNPDATEPER0,,,OPER0thetheDTORGPER0FederalFederalNNPORGPER0ReserveReserveNNPORGPER0OpenOpenNNPORGPER0MarketMarketNNPORGPER0CommitteeCommitteeNNPORGPER0meetsmeetVBZOPER0forforINOPER0thetheDTOPER0finalfinalJJOPER0timetimeNNOPER0thisthisDTOPER0yearyearNNDATEPER0totoTOOPER0discussdiscussVBOPER0interestinterestNNOPER0ratesrateNNSOPER0...OPER0(ROOT (S (PP (IN On) (NP (NNP Tuesday))) (, ,) (NP (DT the) (NML (NML (NNP Federal) (NNP Reserve)) (NNP Open) (NNP Market)) (NNP Committee)) (VP (VBZ meets) (PP (IN for) (NP (DT the) (JJ final) (NN time))) (NP (DT this) (NN year) (S (VP (TO to) (VP (VB discuss) (NP (NN interest) (NNS rates))))))) (. .)))
+RecentrecentJJOPER0economiceconomicJJOPER0reportsreportNNSOPER0indicateindicateVBPOPER0thetheDTOPER0economyeconomyNNOPER0isbeVBZOPER0slowingslowVBGOPER0,,,OPER0leadingleadVBGOPER0analystsanalystNNSOPER0totoTOOPER0believebelieveVBOPER0thatthatINOPER0thetheDTOPER0FedFedNNPORGPER0willwillMDOPER0mostmostRBSOPER0likelylikelyRBOPER0easeeaseVBOPER0thetheDTOPER0inflationinflationNNOPER0--HYPHOPER0fightingfightVBGOPER0policypolicyNNOPER0andandCCOPER0taketakeVBOPER0aaDTOPER0moremoreRBROPER0neutralneutralJJOPER0stancestanceNNOPER0...OPER0(ROOT (S (NP (JJ Recent) (JJ economic) (NNS reports)) (VP (VBP indicate) (SBAR (S (NP (DT the) (NN economy)) (VP (VBZ is) (VP (VBG slowing))))) (, ,) (S (VP (VBG leading) (S (NP (NNS analysts)) (VP (TO to) (VP (VB believe) (SBAR (IN that) (S (NP (DT the) (NNP Fed)) (VP (MD will) (ADVP (RBS most) (RB likely)) (VP (VP (VB ease) (NP (DT the) (ADJP (NN inflation) (HYPH -) (VBG fighting)) (NN policy))) (CC and) (VP (VB take) (NP (DT a) (ADJP (RBR more) (JJ neutral)) (NN stance))))))))))))) (. .)))
+NownowRBOPER0,,,OPER0thetheDTOPER0FedFedNNPORGPER0hashaveVBZOPER0heldholdVBNOPER0ratesrateNNSOPER0steadysteadyJJOPER0ininINOPER0itsitsPRP$OPER0lastlastJJOPER0fourfourCDCARDINALPER0meetingsmeetingNNSOPER0...OPER0(ROOT (S (ADVP (RB Now)) (, ,) (NP (DT the) (NNP Fed)) (VP (VBZ has) (VP (VBN held) (S (NP (NNS rates)) (ADJP (JJ steady))) (PP (IN in) (NP (PRP$ its) (JJ last) (CD four) (NNS meetings))))) (. .)))
+AlsoalsoRBOPER0TuesdayTuesdayNNPDATEPER0,,,DATEPER0OctoberOctoberNNPDATEPER0internationalinternationalJJOPER0tradetradeNNOPER0figuresfigureNNSOPER0arebeVBPOPER0outoutRPOPER0...OPER0(ROOT (S (ADVP (RB Also)) (NP (NP (NP (NNP Tuesday)) (, ,) (NP (NNP October))) (JJ international) (NN trade) (NNS figures)) (VP (VBP are) (PRT (RP out))) (. .)))
+ThetheDTOPER0deficitdeficitNNOPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0dropdropVBOPER0fromfromINOPER0SeptemberSeptemberNNPDATEPER0's'sPOSOPER0recordrecordNNOPER0highhighNNOPER0ofofINOPER0$$$MONEYPER034.334.3CDMONEYPER0billionbillionCDMONEYPER0,,,OPER0totoINOPER0justjustRBMONEYPER0overoverINMONEYPER0$$$MONEYPER03333CDMONEYPER0billionbillionCDMONEYPER0...OPER0(ROOT (S (NP (DT The) (NN deficit)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB drop) (PP (IN from) (NP (NP (NP (NNP September) (POS 's)) (NN record) (NN high)) (PP (IN of) (NP (QP ($ $) (CD 34.3) (CD billion)))))) (, ,) (PP (IN to) (NP (QP (RB just) (IN over) ($ $) (CD 33) (CD billion))))))))) (. .)))
+AlsoalsoRBOPER0thisthisDTDATEPER0weekweekNNDATEPER0,,,OPER0NovemberNovemberNNPDATEPER0housinghousingNNOPER0startsstartVBZOPER0,,,OPER0whichwhichWDTOPER0arebeVBPOPER0forecastforecastVBNOPER0totoTOOPER0holdholdVBOPER0steadysteadyJJOPER0,,,OPER0andandCCOPER0thetheDTOPER0revisedreviseVBNOPER0thirdthirdJJDATEPER0--HYPHDATEPER0quarterquarterNNDATEPER0grossgrossJJOPER0domesticdomesticJJOPER0productproductNNOPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0remainremainVBOPER0ininINOPER0linelineNNOPER0withwithINOPER0previouspreviousJJOPER0figuresfigureNNSOPER0,,,OPER0upupINOPER0totoINOPER0.4.4CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (ADVP (ADVP (RB Also)) (NP (DT this) (NN week))) (, ,) (S (NP (NNP November) (NN housing)) (VP (VBZ starts) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN forecast) (S (VP (TO to) (VP (VB hold) (S (ADJP (JJ steady)))))))))))) (, ,) (CC and) (S (NP (DT the) (VBN revised) (NML (JJ third) (HYPH -) (NN quarter)) (JJ gross) (JJ domestic) (NN product)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB remain) (PP (IN in) (NP (NP (NN line)) (PP (IN with) (NP (JJ previous) (NNS figures))))) (, ,) (PP (IN up) (PP (IN to) (NP (CD .4) (NN %)))))))))) (. .)))
+RoundingroundVBGOPER0outoutRPOPER0thetheDTDATEPER0weekweekNNDATEPER0,,,OPER0NovemberNovemberNNPDATEPER0personalpersonalJJOPER0incomeincomeNNOPER0andandCCOPER0outlaysoutlayNNSOPER0figuresfigureVBZOPER0andandCCOPER0NovemberNovemberNNPDATEPER0durabledurableJJOPER0goodsgoodsNNSOPER0...OPER0(ROOT (S (S (S (VP (VBG Rounding) (PRT (RP out)) (NP (DT the) (NN week)))) (, ,) (NP (NP (NNP November) (JJ personal) (NN income)) (CC and) (NP (NNS outlays))) (VP (VBZ figures))) (CC and) (S (NP (NNP November)) (NP (JJ durable) (NNS goods))) (. .)))
+PersonalpersonalJJOPER0incomeincomeNNOPER0andandCCOPER0spendingspendingNNOPER0arebeVBPOPER0bothbothDTOPER0expectedexpectVBNOPER0totoTOOPER0riseriseVBOPER0,,,OPER0andandCCOPER0salessaleNNSOPER0ofofINOPER0durabledurableJJOPER0goodsgoodsNNSOPER0shouldshouldMDOPER0climbclimbVBOPER0slightlyslightlyRBOPER0forforINOPER0thetheDTDATEPER0monthmonthNNDATEPER0,,,OPER0asasRBOPER0wellwellRBOPER0...OPER0(ROOT (S (S (NP (NP (JJ Personal) (NN income)) (CC and) (NP (NN spending))) (VP (VBP are) (DT both) (VP (VBN expected) (S (VP (TO to) (VP (VB rise))))))) (, ,) (CC and) (S (NP (NP (NNS sales)) (PP (IN of) (NP (JJ durable) (NNS goods)))) (VP (MD should) (VP (VB climb) (ADVP (RB slightly)) (PP (IN for) (NP (DT the) (NN month))) (, ,) (ADVP (RB as) (RB well))))) (. .)))
+TotoTOOPER0staystayVBOPER0``````OAheadaheadRBWORK_OF_ARTPER2ofofINWORK_OF_ARTPER2thetheDTWORK_OF_ARTPER2CurvecurveNNWORK_OF_ARTPER2''''''OPER0allallDTDATEPER0weekweekNNDATEPER0longlongRBOPER0,,,OPER0watchwatchVBOPER0``````WORK_OF_ARTThetheDTWORK_OF_ARTPER3MoneylineMoneylineNNPWORK_OF_ARTPER3NewsNewsNNPWORK_OF_ARTPER3HourHourNNPWORK_OF_ARTPER3''''''WORK_OF_ARTPER0withwithINOPER0WillowwillowNNLOCPER0BayBayNNPLOCPER0andandCCOPER0StewartStewartNNPPERSONPER0VarneyVarneyNNPPERSONPER0,,,OPER0weekweekNNDATEPER0nightsnightNNSDATEPER0atatINOPER0ononINOPER0CNNCNNNNPORGPER0...OPER0(ROOT (SINV (S (VP (TO To) (VP (VB stay) (`` ``) (ADVP (RB Ahead) (PP (IN of) (NP (DT the) (NN Curve)))) ('' '') (NP (DT all) (NN week)) (ADVP (RB long))))) (, ,) (VP (VB watch) (NP (`` ``) (DT The) (NNP Moneyline) (NNP News) (NNP Hour) ('' '')) (PP (IN with) (NP (NN Willow)))) (NP (NP (NP (NNP Bay) (CC and) (NNP Stewart)) (NNP Varney)) (, ,) (NP (NP (NN week) (NNS nights)) (PP (IN at) (PP (IN on) (NP (NNP CNN)))))) (. .)))
+KittyKittyNNPORGPER0PilgrimPilgrimNNPORGPER0,,,OPER0``````OCNNCNNNNPORGPER4FinancialFinancialNNPORGPER4NewsNewsNNPORGPER4,,,OPER4''''''OPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Kitty) (NNP Pilgrim)) (, ,) (`` ``) (NP (NNP CNN) (NNP Financial) (NNP News)) (, ,) ('' '') (NP (NNP New) (NNP York)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Federal) (NNP Reserve))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT this) (NN week))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Kitty) (NNP Pilgrim))
+sid=2 spanning 5 until 6 headed by 5 parsed as Fed
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN week))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NNP Tuesday))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NNP Fed))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Fed))
+sid=5 spanning 9 until 10 headed by 9 parsed as its
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Tuesday)) (, ,) (NP (NNP October)))
+sid=8 spanning 1 until 3 headed by 2 parsed as (NP (DT this) (NN week))
+sid=8 spanning 4 until 5 headed by 4 parsed as November
+sid=9 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN week))
+sid=9 spanning 5 until 6 headed by 5 parsed as November
+sid=9 spanning 12 until 13 headed by 12 parsed as (NP (NNP November))
+sid=10 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN month))
+sid=11 spanning 30 until 31 headed by 30 parsed as (NP (NNP CNN))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (NNP Kitty) (NNP Pilgrim))
+sid=12 spanning 4 until 5 headed by 4 parsed as CNN
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Federal) (NNP Reserve))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NN interest) (NNS rates))
+sid=0 spanning 8 until 12 headed by 11 parsed as (NP (DT some) (JJ key) (JJ economic) (NNS reports))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT this) (NN week))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Kitty) (NNP Pilgrim))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (JJR more))
+sid=1 spanning 5 until 14 headed by 7 parsed as (NP (NP (NP (NN today) (POS 's)) (NN edition)) (PP (IN of) (`` ``) (NP (NP (JJ Ahead)) (PP (IN of) (NP (DT the) (NN Curve))))))
+sid=1 spanning 5 until 7 headed by 5 parsed as (NP (NN today) (POS 's))
+sid=1 spanning 10 until 14 headed by 10 parsed as (NP (NP (JJ Ahead)) (PP (IN of) (NP (DT the) (NN Curve))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Wall) (NNP Street))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (NNP Fed) (NN watch))
+sid=2 spanning 5 until 6 headed by 5 parsed as Fed
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN week))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NNP Tuesday))
+sid=3 spanning 3 until 9 headed by 8 parsed as (NP (DT the) (NML (NML (NNP Federal) (NNP Reserve)) (NNP Open) (NNP Market)) (NNP Committee))
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (JJ final) (NN time))
+sid=3 spanning 14 until 20 headed by 15 parsed as (NP (DT this) (NN year) (S (VP (TO to) (VP (VB discuss) (NP (NN interest) (NNS rates))))))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (NN interest) (NNS rates))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (JJ Recent) (JJ economic) (NNS reports))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN economy))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NNS analysts))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NNP Fed))
+sid=4 spanning 20 until 25 headed by 24 parsed as (NP (DT the) (ADJP (NN inflation) (HYPH -) (VBG fighting)) (NN policy))
+sid=4 spanning 27 until 31 headed by 30 parsed as (NP (DT a) (ADJP (RBR more) (JJ neutral)) (NN stance))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP Fed))
+sid=5 spanning 6 until 7 headed by 6 parsed as (NP (NNS rates))
+sid=5 spanning 9 until 13 headed by 12 parsed as (NP (PRP$ its) (JJ last) (CD four) (NNS meetings))
+sid=5 spanning 9 until 10 headed by 9 parsed as (PRP$ its)
+sid=6 spanning 1 until 7 headed by 6 parsed as (NP (NP (NP (NNP Tuesday)) (, ,) (NP (NNP October))) (JJ international) (NN trade) (NNS figures))
+sid=6 spanning 1 until 4 headed by 1 parsed as (NP (NP (NNP Tuesday)) (, ,) (NP (NNP October)))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN deficit))
+sid=7 spanning 7 until 15 headed by 10 parsed as (NP (NP (NP (NNP September) (POS 's)) (NN record) (NN high)) (PP (IN of) (NP (QP ($ $) (CD 34.3) (CD billion)))))
+sid=7 spanning 7 until 9 headed by 7 parsed as (NP (NNP September) (POS 's))
+sid=8 spanning 1 until 3 headed by 2 parsed as (NP (DT this) (NN week))
+sid=8 spanning 4 until 6 headed by 5 parsed as (NP (NNP November) (NN housing))
+sid=8 spanning 4 until 5 headed by 4 parsed as November
+sid=8 spanning 16 until 24 headed by 23 parsed as (NP (DT the) (VBN revised) (NML (JJ third) (HYPH -) (NN quarter)) (JJ gross) (JJ domestic) (NN product))
+sid=8 spanning 18 until 21 headed by 20 parsed as quarter
+sid=8 spanning 29 until 33 headed by 29 parsed as (NP (NP (NN line)) (PP (IN with) (NP (JJ previous) (NNS figures))))
+sid=8 spanning 31 until 33 headed by 32 parsed as (NP (JJ previous) (NNS figures))
+sid=9 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN week))
+sid=9 spanning 5 until 10 headed by 7 parsed as (NP (NP (NNP November) (JJ personal) (NN income)) (CC and) (NP (NNS outlays)))
+sid=9 spanning 5 until 8 headed by 7 parsed as (NP (NNP November) (JJ personal) (NN income))
+sid=9 spanning 5 until 6 headed by 5 parsed as November
+sid=9 spanning 9 until 10 headed by 9 parsed as (NP (NNS outlays))
+sid=9 spanning 12 until 13 headed by 12 parsed as (NP (NNP November))
+sid=9 spanning 13 until 15 headed by 14 parsed as (NP (JJ durable) (NNS goods))
+sid=10 spanning 11 until 15 headed by 11 parsed as (NP (NP (NNS sales)) (PP (IN of) (NP (JJ durable) (NNS goods))))
+sid=10 spanning 13 until 15 headed by 14 parsed as (NP (JJ durable) (NNS goods))
+sid=10 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN month))
+sid=11 spanning 3 until 7 headed by 3 parsed as Ahead
+sid=11 spanning 13 until 19 headed by 17 parsed as (NP (`` ``) (DT The) (NNP Moneyline) (NNP News) (NNP Hour) ('' ''))
+sid=11 spanning 23 until 25 headed by 24 parsed as (NP (NP (NP (NNP Bay) (CC and) (NNP Stewart)) (NNP Varney)) (, ,) (NP (NP (NN week) (NNS nights)) (PP (IN at) (PP (IN on) (NP (NNP CNN))))))
+sid=11 spanning 21 until 31 headed by 24 parsed as (NP (NP (NP (NNP Bay) (CC and) (NNP Stewart)) (NNP Varney)) (, ,) (NP (NP (NN week) (NNS nights)) (PP (IN at) (PP (IN on) (NP (NNP CNN))))))
+sid=11 spanning 21 until 25 headed by 24 parsed as (NP (NP (NNP Bay) (CC and) (NNP Stewart)) (NNP Varney))
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (NNP Bay) (CC and) (NNP Stewart))
+sid=11 spanning 21 until 24 headed by 21 parsed as (NP (NNP Bay) (CC and) (NNP Stewart))
+sid=11 spanning 26 until 31 headed by 27 parsed as (NP (NP (NN week) (NNS nights)) (PP (IN at) (PP (IN on) (NP (NNP CNN)))))
+sid=11 spanning 30 until 31 headed by 30 parsed as (NP (NNP CNN))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (NNP Kitty) (NNP Pilgrim))
+sid=12 spanning 4 until 7 headed by 6 parsed as (NP (NNP CNN) (NNP Financial) (NNP News))
+sid=12 spanning 9 until 11 headed by 10 parsed as (NP (NNP New) (NNP York))
+(end predicted mentions)
+---------gold clusters--------
+4 1 12 10 | { 'this week' 'this week' 'the week' 'this week' }
+15 14 11 13 | { 'the month' 'November' 'November' 'November' }
+18 16 | { 'CNN' 'CNN' }
+2 17 | { 'Kitty Pilgrim' 'Kitty Pilgrim' }
+7 8 3 6 0 | { 'the Fed' 'its' 'Fed' 'the Fed' 'The Federal Reserve' }
+5 9 | { 'Tuesday' 'Tuesday' }
+(end gold clusters)

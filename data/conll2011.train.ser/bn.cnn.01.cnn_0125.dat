@@ -1,0 +1,59 @@
+---------gloss--------
+(0) The United Nations is denying Iraqi claims that the two are in urgent talks to settle a dispute . 
+(1) [36m{Iraq}[0m halted oil exports five days ago . 
+(2) [36m{Baghdad}[0m is insisting that [36m{its}[0m customers pay a 50 cent surcharge on every barrel of oil . 
+(3) [36m{It}[0m 's also threatening to boycott the sale of oil to countries [36m{it}[0m views as hostile . 
+(4) [36m{It}[0m did n't give any specific examples , but [1m[31m{the United States}[0m is an obvious target . 
+(5) [36m{Iraq}[0m is the sixth largest supplier of crude oil to [1m[31m{the U.S.}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0125); part 000
+sentences:
+ThetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0isbeVBZOPER0denyingdenyVBGOPER0IraqiiraqiJJOPER0claimsclaimNNSOPER0thatthatINOPER0thetheDTOPER0twotwoCDCARDINALPER0arebeVBPOPER0ininINOPER0urgenturgentJJOPER0talkstalkNNSOPER0totoTOOPER0settlesettleVBOPER0aaDTOPER0disputedisputeNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP Nations)) (VP (VBZ is) (VP (VBG denying) (NP (JJ Iraqi) (NNS claims) (SBAR (IN that) (S (NP (DT the) (CD two)) (VP (VBP are) (PP (IN in) (NP (NP (JJ urgent) (NNS talks)) (SBAR (S (VP (TO to) (VP (VB settle) (NP (DT a) (NN dispute)))))))))))))) (. .)))
+IraqIraqNNPGPEPER0haltedhaltVBDOPER0oiloilNNOPER0exportsexportNNSOPER0fivefiveCDDATEPER0daysdayNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (NNP Iraq)) (VP (VBD halted) (NP (NN oil) (NNS exports)) (ADVP (NP (CD five) (NNS days)) (RB ago))) (. .)))
+BaghdadBaghdadNNPGPEPER0isbeVBZOPER0insistinginsistVBGOPER0thatthatINOPER0itsitsPRP$OPER0customerscustomerNNSOPER0paypayVBOPER0aaDTOPER05050CDMONEYPER0centcentNNMONEYPER0surchargesurchargeNNOPER0ononINOPER0everyeveryDTOPER0barrelbarrelNNOPER0ofofINOPER0oiloilNNOPER0...OPER0(ROOT (S (NP (NNP Baghdad)) (VP (VBZ is) (VP (VBG insisting) (SBAR (IN that) (S (NP (PRP$ its) (NNS customers)) (VP (VB pay) (NP (NP (DT a) (NML (CD 50) (NN cent)) (NN surcharge)) (PP (IN on) (NP (NP (DT every) (NN barrel)) (PP (IN of) (NP (NN oil))))))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0alsoalsoRBOPER0threateningthreatenVBGOPER0totoTOOPER0boycottboycottVBOPER0thetheDTOPER0salesaleNNOPER0ofofINOPER0oiloilNNOPER0totoINOPER0countriescountryNNSOPER0ititPRPOPER0viewsviewVBZOPER0asasINOPER0hostilehostileJJOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB also)) (VP (VBG threatening) (S (VP (TO to) (VP (VB boycott) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NN oil))) (PP (IN to) (NP (NP (NNS countries)) (SBAR (S (NP (PRP it)) (VP (VBZ views) (PP (IN as) (ADJP (JJ hostile)))))))))))))) (. .)))
+ItitPRPOPER0diddoVBDOPER0n'tnotRBOPER0givegiveVBOPER0anyanyDTOPER0specificspecificJJOPER0examplesexampleNNSOPER0,,,OPER0butbutCCOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0isbeVBZOPER0anaDTOPER0obviousobviousJJOPER0targettargetNNOPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBD did) (RB n't) (VP (VB give) (NP (DT any) (JJ specific) (NNS examples))))) (, ,) (CC but) (S (NP (DT the) (NNP United) (NNP States)) (VP (VBZ is) (NP (DT an) (JJ obvious) (NN target)))) (. .)))
+IraqIraqNNPGPEPER0isbeVBZOPER0thetheDTOPER0sixthsixthJJORDINALPER0largestlargestJJSOPER0suppliersupplierNNOPER0ofofINOPER0crudecrudeJJOPER0oiloilNNOPER0totoINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0...OPER0(ROOT (S (NP (NNP Iraq)) (VP (VBZ is) (NP (NP (DT the) (JJ sixth) (JJS largest) (NN supplier)) (PP (IN of) (NP (JJ crude) (NN oil))) (PP (IN to) (NP (DT the) (NNP U.S.))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Iraq))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Baghdad))
+sid=2 spanning 4 until 5 headed by 4 parsed as its
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Iraq))
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP U.S.))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP Nations))
+sid=0 spanning 5 until 18 headed by 6 parsed as (NP (JJ Iraqi) (NNS claims) (SBAR (IN that) (S (NP (DT the) (CD two)) (VP (VBP are) (PP (IN in) (NP (NP (JJ urgent) (NNS talks)) (SBAR (S (VP (TO to) (VP (VB settle) (NP (DT a) (NN dispute))))))))))))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (CD two))
+sid=0 spanning 12 until 18 headed by 13 parsed as (NP (NP (JJ urgent) (NNS talks)) (SBAR (S (VP (TO to) (VP (VB settle) (NP (DT a) (NN dispute)))))))
+sid=0 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN dispute))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Iraq))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (NN oil) (NNS exports))
+sid=1 spanning 4 until 7 headed by 6 parsed as ago
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Baghdad))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ its) (NNS customers))
+sid=2 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=2 spanning 7 until 16 headed by 10 parsed as (NP (NP (DT a) (NML (CD 50) (NN cent)) (NN surcharge)) (PP (IN on) (NP (NP (DT every) (NN barrel)) (PP (IN of) (NP (NN oil))))))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 6 until 16 headed by 7 parsed as (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NN oil))) (PP (IN to) (NP (NP (NNS countries)) (SBAR (S (NP (PRP it)) (VP (VBZ views) (PP (IN as) (ADJP (JJ hostile)))))))))
+sid=3 spanning 11 until 16 headed by 11 parsed as (NP (NP (NNS countries)) (SBAR (S (NP (PRP it)) (VP (VBZ views) (PP (IN as) (ADJP (JJ hostile)))))))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=4 spanning 13 until 16 headed by 15 parsed as (NP (DT an) (JJ obvious) (NN target))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Iraq))
+sid=5 spanning 2 until 12 headed by 5 parsed as (NP (NP (DT the) (JJ sixth) (JJS largest) (NN supplier)) (PP (IN of) (NP (JJ crude) (NN oil))) (PP (IN to) (NP (DT the) (NNP U.S.))))
+sid=5 spanning 3 until 4 headed by 3 parsed as sixth
+sid=5 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP U.S.))
+(end predicted mentions)
+---------gold clusters--------
+4 0 7 5 1 3 2 | { 'it' 'Iraq' 'Iraq' 'It' 'Baghdad' 'It' 'its' }
+8 6 | { 'the U.S.' 'the United States' }
+(end gold clusters)

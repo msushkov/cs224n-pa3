@@ -1,0 +1,62 @@
+---------gloss--------
+(0) Good evening , everyone . 
+(1) Tonight , the Middle East peace process is in danger of being swept away by violence . 
+(2) President Bush called upon the world to stop terrorism after a suicide bomb attack on a bus in [4m[36m{Jerusalem}[0m today . 
+(3) 16 people were killed . 
+(4) At least 70 were injured . 
+(5) Shortly afterward , Israel killed [31m{seven people}[0m in Gaza , two of [31m{them}[0m members of Hamas . 
+(6) Mike Hanna in [4m[36m{Jerusalem}[0m , but first , going to [32m{Kelly Wallace in Kbasda where there 's more helicopter attacks tonight}[0m . 
+(7) [32m{Kelly ?}[0m 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0398); part 000
+sentences:
+GoodgoodJJOPER0eveningeveningNNTIMEPER0,,,OPER0everyoneeveryoneNNOPER0...OPER0(ROOT (FRAG (INTJ (JJ Good) (NN evening)) (, ,) (NP (NN everyone)) (. .)))
+TonighttonightNNTIMEPER0,,,OPER0thetheDTOPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0peacepeaceNNOPER0processprocessNNOPER0isbeVBZOPER0ininINOPER0dangerdangerNNOPER0ofofINOPER0beingbeVBGOPER0sweptsweepVBNOPER0awayawayRBOPER0bybyINOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (NN Tonight)) (, ,) (NP (DT the) (NML (NNP Middle) (NNP East)) (NN peace) (NN process)) (VP (VBZ is) (PP (IN in) (NP (NP (NN danger)) (PP (IN of) (S (VP (VBG being) (VP (VBN swept) (ADVP (RB away)) (PP (IN by) (NP (NN violence)))))))))) (. .)))
+PresidentPresidentNNPOPER0BushBushNNPPERSONPER0calledcallVBDOPER0uponuponINOPER0thetheDTOPER0worldworldNNOPER0totoTOOPER0stopstopVBOPER0terrorismterrorismNNOPER0afterafterINOPER0aaDTOPER0suicidesuicideNNOPER0bombbombNNOPER0attackattackNNOPER0ononINOPER0aaDTOPER0busbusNNOPER0ininINOPER0JerusalemJerusalemNNPGPEPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NNP President) (NNP Bush)) (VP (VBD called) (PP (IN upon) (NP (DT the) (NN world))) (S (VP (TO to) (VP (VB stop) (NP (NN terrorism)) (PP (IN after) (NP (NP (NP (DT a) (NN suicide) (NN bomb) (NN attack)) (PP (IN on) (NP (DT a) (NN bus)))) (PP (IN in) (NP (NNP Jerusalem))) (NP (NN today)))))))) (. .)))
+1616CDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0...OPER0(ROOT (S (NP (CD 16) (NNS people)) (VP (VBD were) (VP (VBN killed))) (. .)))
+AtatINCARDINALPER0leastleastJJSCARDINALPER07070CDCARDINALPER0werebeVBDOPER0injuredinjureVBNOPER0...OPER0(ROOT (S (NP (QP (ADVP (IN At) (JJS least)) (CD 70))) (VP (VBD were) (VP (VBN injured))) (. .)))
+ShortlyshortlyRBOPER0afterwardafterwardRBOPER0,,,OPER0IsraelIsraelNNPGPEPER0killedkillVBDOPER0sevensevenCDCARDINALPER0peoplepeopleNNSOPER0ininINOPER0GazaGazaNNPGPEPER0,,,OPER0twotwoCDCARDINALPER0ofofINOPER0themtheyPRPOPER0membersmemberNNSOPER0ofofINOPER0HamasHamasNNPORGPER0...OPER0(ROOT (S (ADVP (RB Shortly) (RB afterward)) (, ,) (NP (NNP Israel)) (VP (VBD killed) (NP (CD seven) (NNS people)) (PP (IN in) (NP (NP (NNP Gaza)) (, ,) (NP (NP (CD two)) (PP (IN of) (NP (PRP them)))))) (NP (NP (NNS members)) (PP (IN of) (NP (NNP Hamas))))) (. .)))
+MikeMikeNNPPERSONPER0HannaHannaNNPPERSONPER0ininINOPER0JerusalemJerusalemNNPGPEPER0,,,OPER0butbutCCOPER0firstfirstRBOPER0,,,OPER0goinggoVBGOPER0totoINOPER0KellyKellyNNPPERSONPER0WallaceWallaceNNPPERSONPER0ininINOPER0KbasdaKbasdaNNPGPEPER0wherewhereWRBOPER0therethereEXOPER0'sbeVBZOPER0moremoreJJROPER0helicopterhelicopterNNOPER0attacksattackNNSOPER0tonighttonightNNTIMEPER0...OPER0(ROOT (FRAG (NP (NNP Mike) (NNP Hanna)) (PP (PP (IN in) (NP (NNP Jerusalem))) (, ,) (CC but) (ADVP (RB first))) (, ,) (S (VP (VBG going) (PP (IN to) (NP (NP (NNP Kelly) (NNP Wallace)) (PP (IN in) (NP (NP (NNP Kbasda)) (SBAR (WHADVP (WRB where)) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJR more) (NN helicopter) (NNS attacks)) (NP (NN tonight)))))))))))) (. .)))
+KellyKellyNNPPERSONPER0??.OPER0(ROOT (NP (NNP Kelly) (. ?)))
+<end>
+(end document)
+---------gold mentions--------
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NNP Jerusalem))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (CD seven) (NNS people))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (PRP them))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (NNP Jerusalem))
+sid=6 spanning 10 until 21 headed by 11 parsed as (NP (NP (NNP Kelly) (NNP Wallace)) (PP (IN in) (NP (NP (NNP Kbasda)) (SBAR (WHADVP (WRB where)) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJR more) (NN helicopter) (NNS attacks)) (NP (NN tonight)))))))))
+sid=7 spanning 0 until 2 headed by 0 parsed as (NP (NNP Kelly) (. ?))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as evening
+sid=1 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NNP Middle) (NNP East)) (NN peace) (NN process))
+sid=1 spanning 3 until 5 headed by 4 parsed as East
+sid=1 spanning 9 until 16 headed by 9 parsed as (NP (NP (NN danger)) (PP (IN of) (S (VP (VBG being) (VP (VBN swept) (ADVP (RB away)) (PP (IN by) (NP (NN violence))))))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Bush))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN world))
+sid=2 spanning 10 until 20 headed by 13 parsed as (NP (NP (NP (DT a) (NN suicide) (NN bomb) (NN attack)) (PP (IN on) (NP (DT a) (NN bus)))) (PP (IN in) (NP (NNP Jerusalem))) (NP (NN today)))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN bus))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NNP Jerusalem))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (CD 16) (NNS people))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (QP (ADVP (IN At) (JJS least)) (CD 70)))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NNP Israel))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (CD seven) (NNS people))
+sid=5 spanning 8 until 9 headed by 8 parsed as (NP (NP (NNP Gaza)) (, ,) (NP (NP (CD two)) (PP (IN of) (NP (PRP them)))))
+sid=5 spanning 8 until 13 headed by 8 parsed as (NP (NP (NNP Gaza)) (, ,) (NP (NP (CD two)) (PP (IN of) (NP (PRP them)))))
+sid=5 spanning 10 until 13 headed by 10 parsed as (NP (NP (CD two)) (PP (IN of) (NP (PRP them))))
+sid=5 spanning 13 until 16 headed by 13 parsed as (NP (NP (NNS members)) (PP (IN of) (NP (NNP Hamas))))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (NNP Hamas))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mike) (NNP Hanna))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (NNP Jerusalem))
+sid=6 spanning 10 until 21 headed by 11 parsed as (NP (NP (NNP Kelly) (NNP Wallace)) (PP (IN in) (NP (NP (NNP Kbasda)) (SBAR (WHADVP (WRB where)) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJR more) (NN helicopter) (NNS attacks)) (NP (NN tonight)))))))))
+sid=6 spanning 13 until 21 headed by 13 parsed as (NP (NP (NNP Kbasda)) (SBAR (WHADVP (WRB where)) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJR more) (NN helicopter) (NNS attacks)) (NP (NN tonight)))))))
+sid=6 spanning 17 until 21 headed by 19 parsed as (NP (NP (JJR more) (NN helicopter) (NNS attacks)) (NP (NN tonight)))
+sid=7 spanning 0 until 2 headed by 0 parsed as (NP (NNP Kelly) (. ?))
+(end predicted mentions)
+---------gold clusters--------
+0 3 | { 'Jerusalem' 'Jerusalem' }
+1 2 | { 'seven people' 'them' }
+4 5 | { 'Kelly Wallace in Kbasda where there 's more helicopter attacks tonight' 'Kelly ?' }
+(end gold clusters)

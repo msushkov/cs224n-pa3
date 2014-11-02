@@ -1,0 +1,68 @@
+---------gloss--------
+(0) [4m[31m{Palestinian leader Yasser Arafat and Israeli Prime Minister Ehud Barak}[0m have made progress to end [4m[33m{weeklong violence in the West Bank and Gaza Strip}[0m . 
+(1) The Paris talks mediated by [3m[36m{US Secretary of State Madeleine Albright}[0m Wednesday . 
+(2) The two sides agreed to improve security arrangements in areas engulfed by [4m[33m{the violence}[0m . 
+(3) Later , [4m[34m{all three}[0m met with [4m[32m{French President Jacques Chirac}[0m . 
+(4) [4m[32m{Mr. Chirac}[0m said an important step had been taken to return to calm . 
+(5) [4m[34m{Ms. Albright and the Israeli and Palestinian leaders}[0m are due in Egypt today for talks with President Hosni Mubarak . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0011); part 000
+sentences:
+PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0andandCCOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0havehaveVBPOPER0mademakeVBNOPER0progressprogressNNOPER0totoTOOPER0endendVBOPER0weeklongweeklongJJOPER0violenceviolenceNNOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))) (VP (VBP have) (VP (VBN made) (NP (NP (NN progress)) (SBAR (S (VP (TO to) (VP (VB end) (NP (NP (JJ weeklong) (NN violence)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))))))))) (. .)))
+ThetheDTOPER0ParisParisNNPGPEPER0talkstalkNNSOPER0mediatedmediateVBNOPER0bybyINOPER0USUSNNPORGPER0SecretarySecretaryNNPOPER0ofofINOPER0StateStateNNPORGPER0MadeleineMadeleineNNPPERSONPER0AlbrightAlbrightNNPPERSONPER0WednesdayWednesdayNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP Paris) (NNS talks)) (VP (VBN mediated) (PP (IN by) (NP (NML (NML (NNP US) (NNP Secretary)) (PP (IN of) (NP (NNP State) (NNP Madeleine) (NNP Albright)))) (NNP Wednesday)))) (. .)))
+ThetheDTOPER0twotwoCDCARDINALPER0sidessideNNSOPER0agreedagreeVBDOPER0totoTOOPER0improveimproveVBOPER0securitysecurityNNOPER0arrangementsarrangementNNSOPER0ininINOPER0areasareaNNSOPER0engulfedengulfVBNOPER0bybyINOPER0thetheDTOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (DT The) (CD two) (NNS sides)) (VP (VBD agreed) (S (VP (TO to) (VP (VB improve) (NP (NN security) (NNS arrangements)) (PP (IN in) (NP (NP (NNS areas)) (VP (VBN engulfed) (PP (IN by) (NP (DT the) (NN violence)))))))))) (. .)))
+LaterlaterRBOPER0,,,OPER0allallDTCARDINALPER0threethreeCDCARDINALPER0metmeetVBDOPER0withwithINOPER0FrenchfrenchJJOPER0PresidentPresidentNNPOPER0JacquesJacquesNNPPERSONPER0ChiracChiracNNPPERSONPER0...OPER0(ROOT (S (ADVP (RB Later)) (, ,) (NP (DT all) (CD three)) (VP (VBD met) (PP (IN with) (NP (NML (JJ French) (NNP President)) (NNP Jacques) (NNP Chirac)))) (. .)))
+Mr.Mr.NNPOPER0ChiracChiracNNPPERSONPER0saidsayVBDOPER0anaDTOPER0importantimportantJJOPER0stepstepNNOPER0hadhaveVBDOPER0beenbeVBNOPER0takentakeVBNOPER0totoTOOPER0returnreturnVBOPER0totoTOOPER0calmcalmVBOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Chirac)) (VP (VBD said) (SBAR (S (NP (DT an) (JJ important) (NN step)) (VP (VBD had) (VP (VBN been) (VP (VBN taken) (S (VP (TO to) (VP (VB return) (S (VP (TO to) (VP (VB calm))))))))))))) (. .)))
+Ms.Ms.NNPOPER0AlbrightAlbrightNNPPERSONPER0andandCCOPER0thetheDTOPER0IsraeliisraeliJJOPER0andandCCOPER0PalestinianpalestinianJJOPER0leadersleaderNNSOPER0arebeVBPOPER0duedueJJOPER0ininINOPER0EgyptEgyptNNPGPEPER0todaytodayNNDATEPER0forforINOPER0talkstalkNNSOPER0withwithINOPER0PresidentPresidentNNPOPER0HosniHosniNNPPERSONPER0MubarakMubarakNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NNP Ms.) (NNP Albright)) (CC and) (NP (DT the) (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS leaders))) (VP (VBP are) (ADJP (JJ due) (PP (IN in) (NP (NNP Egypt))) (NP (NN today)) (PP (IN for) (NP (NP (NNS talks)) (PP (IN with) (NP (NNP President) (NNP Hosni) (NNP Mubarak))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 10 headed by 3 parsed as (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))
+sid=0 spanning 15 until 24 headed by 16 parsed as (NP (NP (JJ weeklong) (NN violence)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))
+sid=1 spanning 5 until 11 headed by 6 parsed as Secretary
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN violence))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT all) (CD three))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (NML (JJ French) (NNP President)) (NNP Jacques) (NNP Chirac))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Chirac))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Ms.) (NNP Albright)) (CC and) (NP (DT the) (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS leaders)))
+sid=5 spanning 0 until 8 headed by 1 parsed as (NP (NP (NNP Ms.) (NNP Albright)) (CC and) (NP (DT the) (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS leaders)))
+sid=5 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS leaders))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))
+sid=0 spanning 0 until 10 headed by 3 parsed as (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 12 until 24 headed by 12 parsed as (NP (NP (NN progress)) (SBAR (S (VP (TO to) (VP (VB end) (NP (NP (JJ weeklong) (NN violence)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))))))))))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=0 spanning 18 until 24 headed by 20 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=0 spanning 22 until 24 headed by 23 parsed as Strip
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Paris) (NNS talks))
+sid=1 spanning 1 until 2 headed by 1 parsed as Paris
+sid=1 spanning 5 until 12 headed by 11 parsed as (NP (NML (NML (NNP US) (NNP Secretary)) (PP (IN of) (NP (NNP State) (NNP Madeleine) (NNP Albright)))) (NNP Wednesday))
+sid=1 spanning 5 until 6 headed by 5 parsed as US
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (NNP State) (NNP Madeleine) (NNP Albright))
+sid=1 spanning 8 until 9 headed by 8 parsed as State
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD two) (NNS sides))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NN security) (NNS arrangements))
+sid=2 spanning 9 until 14 headed by 9 parsed as (NP (NP (NNS areas)) (VP (VBN engulfed) (PP (IN by) (NP (DT the) (NN violence)))))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN violence))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (NML (JJ French) (NNP President)) (NNP Jacques) (NNP Chirac))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Chirac))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (DT an) (JJ important) (NN step))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Ms.) (NNP Albright)) (CC and) (NP (DT the) (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS leaders)))
+sid=5 spanning 0 until 8 headed by 1 parsed as (NP (NP (NNP Ms.) (NNP Albright)) (CC and) (NP (DT the) (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS leaders)))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ms.) (NNP Albright))
+sid=5 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS leaders))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NNP Egypt))
+sid=5 spanning 14 until 19 headed by 14 parsed as (NP (NP (NNS talks)) (PP (IN with) (NP (NNP President) (NNP Hosni) (NNP Mubarak))))
+sid=5 spanning 16 until 19 headed by 18 parsed as (NP (NNP President) (NNP Hosni) (NNP Mubarak))
+(end predicted mentions)
+---------gold clusters--------
+7 2 | { 'Ms. Albright' 'US Secretary of State Madeleine Albright' }
+9 0 | { 'the Israeli and Palestinian leaders' 'Palestinian leader Yasser Arafat and Israeli Prime Minister Ehud Barak' }
+5 6 | { 'French President Jacques Chirac' 'Mr. Chirac' }
+3 1 | { 'the violence' 'weeklong violence in the West Bank and Gaza Strip' }
+8 4 | { 'Ms. Albright and the Israeli and Palestinian leaders' 'all three' }
+(end gold clusters)

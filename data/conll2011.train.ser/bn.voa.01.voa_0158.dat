@@ -1,0 +1,24 @@
+---------gloss--------
+(0) In the Middle East , the Israeli parliament gave preliminary approval Wednesday to a bill that would allow former leader Benjamin Netanyahu to run for Prime Minister in February against Labor Party leader Ehud Barak . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0158); part 000
+sentences:
+IninINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0,,,OPER0thetheDTOPER0IsraeliisraeliJJOPER0parliamentparliamentNNOPER0gavegiveVBDOPER0preliminarypreliminaryJJOPER0approvalapprovalNNOPER0WednesdayWednesdayNNPDATEPER0totoINOPER0aaDTOPER0billbillNNOPER0thatthatWDTOPER0wouldwouldMDOPER0allowallowVBOPER0formerformerJJOPER0leaderleaderNNOPER0BenjaminBenjaminNNPPERSONPER0NetanyahuNetanyahuNNPPERSONPER0totoTOOPER0runrunVBOPER0forforINOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0ininINOPER0FebruaryFebruaryNNPDATEPER0againstagainstINOPER0LaborLaborNNPORGPER0PartyPartyNNPORGPER0leaderleaderNNOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0...OPER0(ROOT (S (PP (IN In) (NP (DT the) (NNP Middle) (NNP East))) (, ,) (NP (DT the) (JJ Israeli) (NN parliament)) (VP (VBD gave) (NP (JJ preliminary) (NN approval)) (NP (NNP Wednesday)) (PP (IN to) (NP (NP (DT a) (NN bill)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB allow) (S (NP (NML (JJ former) (NN leader)) (NNP Benjamin) (NNP Netanyahu)) (VP (TO to) (VP (VB run) (PP (IN for) (NP (NNP Prime) (NNP Minister))) (PP (IN in) (NP (NNP February))) (PP (IN against) (NP (NML (NML (NNP Labor) (NNP Party)) (NN leader)) (NNP Ehud) (NNP Barak))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ Israeli) (NN parliament))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Wednesday))
+sid=0 spanning 13 until 35 headed by 14 parsed as (NP (NP (DT a) (NN bill)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB allow) (S (NP (NML (JJ former) (NN leader)) (NNP Benjamin) (NNP Netanyahu)) (VP (TO to) (VP (VB run) (PP (IN for) (NP (NNP Prime) (NNP Minister))) (PP (IN in) (NP (NNP February))) (PP (IN against) (NP (NML (NML (NNP Labor) (NNP Party)) (NN leader)) (NNP Ehud) (NNP Barak)))))))))))
+sid=0 spanning 18 until 22 headed by 21 parsed as (NP (NML (JJ former) (NN leader)) (NNP Benjamin) (NNP Netanyahu))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (NNP Prime) (NNP Minister))
+sid=0 spanning 28 until 29 headed by 28 parsed as (NP (NNP February))
+sid=0 spanning 30 until 35 headed by 34 parsed as (NP (NML (NML (NNP Labor) (NNP Party)) (NN leader)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 30 until 32 headed by 31 parsed as Party
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

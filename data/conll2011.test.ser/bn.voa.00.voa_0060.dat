@@ -1,0 +1,66 @@
+---------gloss--------
+(0) [34m{The Balkan Stability Pact}[0m has admitted [35m{Yugoslavia as a full member}[0m marking [35m{Belgrade 's}[0m return to the international community after years of isolation under ousted President Slobodan Milosevic . 
+(1) The head of [34m{the Stability Pact}[0m for South Eastern Europe Bodo Hombak announced the decision as representatives of member countries met in the Romanian capital Bucharest . 
+(2) [36m{A special envoy of Yugoslavia 's new President Vojislav Kostunica}[0m reaffirmed [36m{his}[0m country 's commitment to peace in the region . 
+(3) [34m{The Balkan Stability Pact}[0m was established last year in response to the Kosovo crisis . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0060); part 000
+sentences:
+ThetheDTORGPER0BalkanBalkanNNPORGPER0StabilityStabilityNNPORGPER0PactPactNNPORGPER0hashaveVBZOPER0admittedadmitVBNOPER0YugoslaviaYugoslaviaNNPGPEPER0asasINOPER0aaDTOPER0fullfullJJOPER0membermemberNNOPER0markingmarkVBGOPER0BelgradeBelgradeNNPGPEPER0's'sPOSOPER0returnreturnNNOPER0totoINOPER0thetheDTOPER0internationalinternationalJJOPER0communitycommunityNNOPER0afterafterINOPER0yearsyearNNSDATEPER0ofofINOPER0isolationisolationNNOPER0underunderINOPER0oustedoustVBNOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0...OPER0(ROOT (S (NP (DT The) (NNP Balkan) (NNP Stability) (NNP Pact)) (VP (VBZ has) (VP (VBN admitted) (NP (NNP Yugoslavia)) (PP (IN as) (NP (NP (DT a) (JJ full) (NN member)) (VP (VBG marking) (NP (NP (NP (NNP Belgrade) (POS 's)) (NN return)) (PP (IN to) (NP (DT the) (JJ international) (NN community))) (PP (IN after) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN isolation)) (PP (IN under) (NP (NML (VBN ousted) (NNP President)) (NNP Slobodan) (NNP Milosevic))))))))))))) (. .)))
+ThetheDTOPER0headheadNNOPER0ofofINOPER0thetheDTLAWPER0StabilityStabilityNNPLAWPER0PactPactNNPLAWPER0forforINOPER0SouthSouthNNPLOCPER0EasternEasternNNPLOCPER0EuropeEuropeNNPLOCPER0BodoBodoNNPLOCPER0HombakHombakNNPLOCPER0announcedannounceVBDOPER0thetheDTOPER0decisiondecisionNNOPER0asasINOPER0representativesrepresentativeNNSOPER0ofofINOPER0membermemberNNOPER0countriescountryNNSOPER0metmeetVBDOPER0ininINOPER0thetheDTOPER0RomanianRomanianNNPOPER0capitalcapitalNNPOPER0BucharestBucharestNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Stability) (NNP Pact)) (PP (IN for) (NP (NNP South) (NNP Eastern) (NNP Europe)))))) (NP (NNP Bodo) (NNP Hombak)) (VP (VBD announced) (NP (DT the) (NN decision)) (SBAR (IN as) (S (NP (NP (NNS representatives)) (PP (IN of) (NP (NN member) (NNS countries)))) (VP (VBD met) (PP (IN in) (NP (DT the) (NNP Romanian) (NNP capital) (NNP Bucharest))))))) (. .)))
+AaDTOPER0specialspecialJJOPER0envoyenvoyNNOPER0ofofINOPER0YugoslaviaYugoslaviaNNPGPEPER0's'sPOSOPER0newnewJJOPER0PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0reaffirmedreaffirmVBDOPER0hishePRP$OPER0countrycountryNNOPER0's'sPOSOPER0commitmentcommitmentNNOPER0totoINOPER0peacepeaceNNOPER0ininINOPER0thetheDTOPER0regionregionNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ special) (NN envoy)) (PP (IN of) (NP (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President)) (NP (NNP Vojislav) (NNP Kostunica))))) (VP (VBD reaffirmed) (NP (NP (NP (PRP$ his) (NN country) (POS 's)) (NN commitment)) (PP (IN to) (NP (NP (NN peace)) (PP (IN in) (NP (DT the) (NN region))))))) (. .)))
+ThetheDTORGPER0BalkanBalkanNNPORGPER0StabilityStabilityNNPORGPER0PactPactNNPORGPER0wasbeVBDOPER0establishedestablishVBNOPER0lastlastJJDATEPER0yearyearNNDATEPER0ininINOPER0responseresponseNNOPER0totoINOPER0thetheDTOPER0KosovoKosovoNNPGPEPER0crisiscrisisNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Balkan) (NNP Stability) (NNP Pact)) (VP (VBD was) (VP (VBN established) (NP (JJ last) (NN year)) (PP (IN in) (NP (NP (NN response)) (PP (IN to) (NP (DT the) (NNP Kosovo) (NN crisis))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP Balkan) (NNP Stability) (NNP Pact))
+sid=0 spanning 6 until 11 headed by 6 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 12 until 14 headed by 12 parsed as (NP (NNP Belgrade) (POS 's))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (NP (DT the) (NNP Stability) (NNP Pact)) (PP (IN for) (NP (NNP South) (NNP Eastern) (NNP Europe))))
+sid=2 spanning 0 until 10 headed by 2 parsed as (NP (NP (DT A) (JJ special) (NN envoy)) (PP (IN of) (NP (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President)) (NP (NNP Vojislav) (NNP Kostunica)))))
+sid=2 spanning 4 until 8 headed by 7 parsed as (NP (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President)) (NP (NNP Vojislav) (NNP Kostunica)))
+sid=2 spanning 4 until 6 headed by 4 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (NNP Vojislav) (NNP Kostunica))
+sid=2 spanning 11 until 14 headed by 12 parsed as (NP (PRP$ his) (NN country) (POS 's))
+sid=2 spanning 11 until 12 headed by 11 parsed as his
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP Balkan) (NNP Stability) (NNP Pact))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP Balkan) (NNP Stability) (NNP Pact))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 8 until 28 headed by 10 parsed as (NP (NP (DT a) (JJ full) (NN member)) (VP (VBG marking) (NP (NP (NP (NNP Belgrade) (POS 's)) (NN return)) (PP (IN to) (NP (DT the) (JJ international) (NN community))) (PP (IN after) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN isolation)) (PP (IN under) (NP (NML (VBN ousted) (NNP President)) (NNP Slobodan) (NNP Milosevic))))))))))
+sid=0 spanning 12 until 28 headed by 14 parsed as (NP (NP (NP (NNP Belgrade) (POS 's)) (NN return)) (PP (IN to) (NP (DT the) (JJ international) (NN community))) (PP (IN after) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN isolation)) (PP (IN under) (NP (NML (VBN ousted) (NNP President)) (NNP Slobodan) (NNP Milosevic))))))))
+sid=0 spanning 12 until 14 headed by 12 parsed as (NP (NNP Belgrade) (POS 's))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ international) (NN community))
+sid=0 spanning 20 until 28 headed by 20 parsed as (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN isolation)) (PP (IN under) (NP (NML (VBN ousted) (NNP President)) (NNP Slobodan) (NNP Milosevic))))))
+sid=0 spanning 22 until 28 headed by 22 parsed as (NP (NP (NN isolation)) (PP (IN under) (NP (NML (VBN ousted) (NNP President)) (NNP Slobodan) (NNP Milosevic))))
+sid=0 spanning 24 until 28 headed by 27 parsed as (NP (NML (VBN ousted) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Stability) (NNP Pact)) (PP (IN for) (NP (NNP South) (NNP Eastern) (NNP Europe))))))
+sid=1 spanning 3 until 10 headed by 5 parsed as (NP (NP (DT the) (NNP Stability) (NNP Pact)) (PP (IN for) (NP (NNP South) (NNP Eastern) (NNP Europe))))
+sid=1 spanning 7 until 12 headed by 11 parsed as (NP (NNP Bodo) (NNP Hombak))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN decision))
+sid=1 spanning 16 until 20 headed by 16 parsed as (NP (NP (NNS representatives)) (PP (IN of) (NP (NN member) (NNS countries))))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (NN member) (NNS countries))
+sid=1 spanning 22 until 26 headed by 25 parsed as (NP (DT the) (NNP Romanian) (NNP capital) (NNP Bucharest))
+sid=2 spanning 0 until 10 headed by 2 parsed as (NP (NP (DT A) (JJ special) (NN envoy)) (PP (IN of) (NP (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President)) (NP (NNP Vojislav) (NNP Kostunica)))))
+sid=2 spanning 4 until 10 headed by 7 parsed as (NP (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President)) (NP (NNP Vojislav) (NNP Kostunica)))
+sid=2 spanning 4 until 6 headed by 4 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (NNP Vojislav) (NNP Kostunica))
+sid=2 spanning 11 until 20 headed by 14 parsed as (NP (NP (NP (PRP$ his) (NN country) (POS 's)) (NN commitment)) (PP (IN to) (NP (NP (NN peace)) (PP (IN in) (NP (DT the) (NN region))))))
+sid=2 spanning 11 until 14 headed by 12 parsed as (NP (PRP$ his) (NN country) (POS 's))
+sid=2 spanning 11 until 12 headed by 11 parsed as (PRP$ his)
+sid=2 spanning 16 until 20 headed by 16 parsed as (NP (NP (NN peace)) (PP (IN in) (NP (DT the) (NN region))))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN region))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP Balkan) (NNP Stability) (NNP Pact))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (JJ last) (NN year))
+sid=3 spanning 9 until 14 headed by 9 parsed as (NP (NP (NN response)) (PP (IN to) (NP (DT the) (NNP Kosovo) (NN crisis))))
+sid=3 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP Kosovo) (NN crisis))
+sid=3 spanning 12 until 13 headed by 12 parsed as Kosovo
+(end predicted mentions)
+---------gold clusters--------
+7 5 | { 'Vojislav Kostunica' 'Yugoslavia 's new President' }
+3 0 10 | { 'the Stability Pact' 'The Balkan Stability Pact' 'The Balkan Stability Pact' }
+8 1 2 6 | { 'his country 's' 'Yugoslavia as a full member' 'Belgrade 's' 'Yugoslavia 's' }
+9 4 | { 'his' 'A special envoy of Yugoslavia 's new President Vojislav Kostunica' }
+(end gold clusters)

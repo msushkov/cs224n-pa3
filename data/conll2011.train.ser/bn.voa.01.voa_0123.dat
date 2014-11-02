@@ -1,0 +1,34 @@
+---------gloss--------
+(0) [1m[32m{Former Yugoslav President Slobodan Milosevic}[0m won a landslide victory Saturday , as [1m[32m{he}[0m was re-elected leader of the Socialist Party of Serbia . 
+(1) [1m[32m{A defiant Mr. Milosevic}[0m made [1m[32m{his}[0m first public appearance since being deposed in a popular uprising last month . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0123); part 000
+sentences:
+FormerformerJJOPER0YugoslavyugoslavJJOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0wonwinVBDOPER0aaDTOPER0landslidelandslideNNOPER0victoryvictoryNNOPER0SaturdaySaturdayNNPDATEPER0,,,OPER0asasINOPER0hehePRPOPER0wasbeVBDOPER0re-electedre-electVBNOPER0leaderleaderNNOPER0ofofINOPER0thetheDTORGPER0SocialistSocialistNNPORGPER0PartyPartyNNPORGPER0ofofINOPER0SerbiaSerbiaNNPGPEPER0...OPER0(ROOT (S (NP (NML (JJ Former) (JJ Yugoslav) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (VP (VBD won) (NP (NP (DT a) (NN landslide) (NN victory)) (NP (NNP Saturday))) (, ,) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD was) (VP (VBN re-elected) (S (NP (NP (NN leader)) (PP (IN of) (NP (NP (DT the) (NNP Socialist) (NNP Party)) (PP (IN of) (NP (NNP Serbia)))))))))))) (. .)))
+AaDTOPER0defiantdefiantJJOPER0Mr.Mr.NNPOPER0MilosevicMilosevicNNPPERSONPER0mademakeVBDOPER0hishePRP$OPER0firstfirstJJOPER0publicpublicJJOPER0appearanceappearanceNNOPER0sincesinceINOPER0beingbeVBGOPER0deposeddeposeVBNOPER0ininINOPER0aaDTOPER0popularpopularJJOPER0uprisinguprisingNNOPER0lastlastJJDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (NP (DT A) (JJ defiant) (NNP Mr.) (NNP Milosevic)) (VP (VBD made) (NP (PRP$ his) (JJ first) (JJ public) (NN appearance) (SBAR (IN since) (S (VP (VBG being) (VP (VBN deposed) (PP (IN in) (NP (DT a) (JJ popular) (NN uprising)))))))) (NP (JJ last) (NN month))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Former) (JJ Yugoslav) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (PRP he))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ defiant) (NNP Mr.) (NNP Milosevic))
+sid=1 spanning 5 until 6 headed by 5 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Former) (JJ Yugoslav) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=0 spanning 6 until 10 headed by 8 parsed as (NP (NP (DT a) (NN landslide) (NN victory)) (NP (NNP Saturday)))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP Saturday))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (PRP he))
+sid=0 spanning 15 until 22 headed by 15 parsed as (NP (NP (NN leader)) (PP (IN of) (NP (NP (DT the) (NNP Socialist) (NNP Party)) (PP (IN of) (NP (NNP Serbia))))))
+sid=0 spanning 17 until 22 headed by 19 parsed as (NP (NP (DT the) (NNP Socialist) (NNP Party)) (PP (IN of) (NP (NNP Serbia))))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP Serbia))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ defiant) (NNP Mr.) (NNP Milosevic))
+sid=1 spanning 5 until 16 headed by 8 parsed as (NP (PRP$ his) (JJ first) (JJ public) (NN appearance) (SBAR (IN since) (S (VP (VBG being) (VP (VBN deposed) (PP (IN in) (NP (DT a) (JJ popular) (NN uprising))))))))
+sid=1 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ popular) (NN uprising))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (JJ last) (NN month))
+(end predicted mentions)
+---------gold clusters--------
+1 3 2 0 | { 'he' 'his' 'A defiant Mr. Milosevic' 'Former Yugoslav President Slobodan Milosevic' }
+(end gold clusters)

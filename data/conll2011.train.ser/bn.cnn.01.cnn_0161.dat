@@ -1,0 +1,71 @@
+---------gloss--------
+(0) The first official parliamentary vote results in [3m[35m{the Yugoslav republic of Serbia}[0m show [4m[32m{President Vojislav Kostunica 's}[0m reform government winning in a landslide victory . 
+(1) The official electoral commission [3m[36m{says}[0m [4m[31m{the Democratic Opposition of Serbia}[0m won about 65 % of the vote , compared to 13 % for [3m[34m{Slobodan Milosevic 's}[0m Socialist Party . 
+(2) [3m[36m{That}[0m 's based on returns from just under a third of polling stations . 
+(3) [4m[32m{Kostunica}[0m defeated [3m[34m{Milosevic}[0m in September 's presidential elections . 
+(4) [3m[34m{Milosevic}[0m will be swept out of [3m[35m{the powerful Serbian government}[0m , leaving [3m[34m{him}[0m vulnerable to U.N. war crimes prosecution . 
+(5) Final official voting results could take until Wednesday . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0161); part 000
+sentences:
+ThetheDTOPER0firstfirstJJORDINALPER0officialofficialJJOPER0parliamentaryparliamentaryJJOPER0votevoteNNOPER0resultsresultNNSOPER0ininINOPER0thetheDTOPER0YugoslavyugoslavJJOPER0republicrepublicNNOPER0ofofINOPER0SerbiaSerbiaNNPGPEPER0showshowVBPOPER0PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0'sbeVBZOPER0reformreformNNOPER0governmentgovernmentNNOPER0winningwinVBGOPER0ininINOPER0aaDTOPER0landslidelandslideNNOPER0victoryvictoryNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ first) (JJ official) (JJ parliamentary) (NN vote) (NNS results)) (PP (IN in) (NP (NP (DT the) (JJ Yugoslav) (NN republic)) (PP (IN of) (NP (NNP Serbia)))))) (VP (VBP show) (SBAR (S (NP (NNP President) (NNP Vojislav) (NNP Kostunica)) (VP (VBZ 's) (NP (NP (NN reform) (NN government)) (VP (VBG winning) (PP (IN in) (NP (DT a) (NN landslide) (NN victory))))))))) (. .)))
+ThetheDTOPER0officialofficialJJOPER0electoralelectoralJJOPER0commissioncommissionNNOPER0sayssayVBZOPER0thetheDTOPER0DemocraticDemocraticNNPOPER0OppositionOppositionNNPOPER0ofofINOPER0SerbiaSerbiaNNPGPEPER0wonwinVBDOPER0aboutaboutRBPERCENTPER06565CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thetheDTOPER0votevoteNNOPER0,,,OPER0comparedcompareVBNOPER0totoINOPER01313CDPERCENTPER0%%NNPERCENTPER0forforINOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0's'sPOSPERSONPER0SocialistSocialistNNPORGPER0PartyPartyNNPORGPER0...OPER0(ROOT (S (NP (DT The) (JJ official) (JJ electoral) (NN commission)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (NNP Democratic) (NNP Opposition)) (PP (IN of) (NP (NNP Serbia)))) (VP (VBD won) (NP (NP (QP (RB about) (CD 65)) (NN %)) (PP (IN of) (NP (DT the) (NN vote)))) (, ,) (PP (VBN compared) (PP (IN to) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NP (NNP Slobodan) (NNP Milosevic) (POS 's)) (NNP Socialist) (NNP Party)))))))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0basedbaseVBNOPER0ononINOPER0returnsreturnNNSOPER0fromfromINOPER0justjustRBCARDINALPER0underunderINCARDINALPER0aaDTCARDINALPER0thirdthirdJJCARDINALPER0ofofINOPER0pollingpollingNNOPER0stationsstationNNSOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (VP (VBN based) (PP (IN on) (NP (NP (NNS returns)) (PP (IN from) (NP (NP (QP (XS (RB just) (IN under)) (DT a) (JJ third))) (PP (IN of) (NP (NN polling) (NNS stations))))))))) (. .)))
+KostunicaKostunicaNNPPERSONPER0defeateddefeatVBDOPER0MilosevicMilosevicNNPPERSONPER0ininINOPER0SeptemberSeptemberNNPDATEPER0's'sPOSOPER0presidentialpresidentialJJOPER0electionselectionNNSOPER0...OPER0(ROOT (S (NP (NNP Kostunica)) (VP (VBD defeated) (NP (NNP Milosevic)) (PP (IN in) (NP (NP (NNP September) (POS 's)) (JJ presidential) (NNS elections)))) (. .)))
+MilosevicMilosevicNNPPERSONPER0willwillMDOPER0bebeVBOPER0sweptsweepVBNOPER0outoutINOPER0ofofINOPER0thetheDTOPER0powerfulpowerfulJJOPER0SerbianserbianJJOPER0governmentgovernmentNNOPER0,,,OPER0leavingleaveVBGOPER0himhePRPOPER0vulnerablevulnerableJJOPER0totoINOPER0U.N.U.N.NNPORGPER0warwarNNOPER0crimescrimeNNSOPER0prosecutionprosecutionNNOPER0...OPER0(ROOT (S (NP (NNP Milosevic)) (VP (MD will) (VP (VB be) (VP (VBN swept) (PP (IN out) (PP (IN of) (NP (DT the) (JJ powerful) (JJ Serbian) (NN government)))) (, ,) (S (VP (VBG leaving) (NP (PRP him)) (S (ADJP (JJ vulnerable) (PP (IN to) (NP (NNP U.N.) (NML (NN war) (NNS crimes)) (NN prosecution)))))))))) (. .)))
+FinalfinalJJOPER0officialofficialJJOPER0votingvotingNNOPER0resultsresultNNSOPER0couldcouldMDOPER0taketakeVBOPER0untiluntilINOPER0WednesdayWednesdayNNPDATEPER0...OPER0(ROOT (S (NP (JJ Final) (JJ official) (NN voting) (NNS results)) (VP (MD could) (VP (VB take) (PP (IN until) (NP (NNP Wednesday))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 7 until 12 headed by 9 parsed as (NP (NP (DT the) (JJ Yugoslav) (NN republic)) (PP (IN of) (NP (NNP Serbia))))
+sid=0 spanning 13 until 19 headed by 15 parsed as (NP (NNP President) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 13 until 17 headed by 15 parsed as (NP (NNP President) (NNP Vojislav) (NNP Kostunica))
+sid=1 spanning 4 until 5 headed by 4 parsed as says
+sid=1 spanning 5 until 10 headed by 7 parsed as (NP (NP (DT the) (NNP Democratic) (NNP Opposition)) (PP (IN of) (NP (NNP Serbia))))
+sid=1 spanning 23 until 26 headed by 24 parsed as (NP (NNP Slobodan) (NNP Milosevic) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Kostunica))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Milosevic))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Milosevic))
+sid=4 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (JJ powerful) (JJ Serbian) (NN government))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP him))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 12 headed by 5 parsed as (NP (NP (DT The) (JJ first) (JJ official) (JJ parliamentary) (NN vote) (NNS results)) (PP (IN in) (NP (NP (DT the) (JJ Yugoslav) (NN republic)) (PP (IN of) (NP (NNP Serbia))))))
+sid=0 spanning 1 until 2 headed by 1 parsed as first
+sid=0 spanning 7 until 12 headed by 9 parsed as (NP (NP (DT the) (JJ Yugoslav) (NN republic)) (PP (IN of) (NP (NNP Serbia))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NNP Serbia))
+sid=0 spanning 14 until 17 headed by 15 parsed as (NP (NNP President) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (NNP President) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 17 until 24 headed by 18 parsed as (NP (NP (NN reform) (NN government)) (VP (VBG winning) (PP (IN in) (NP (DT a) (NN landslide) (NN victory)))))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT a) (NN landslide) (NN victory))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ official) (JJ electoral) (NN commission))
+sid=1 spanning 5 until 10 headed by 7 parsed as (NP (NP (DT the) (NNP Democratic) (NNP Opposition)) (PP (IN of) (NP (NNP Serbia))))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Serbia))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN vote))
+sid=1 spanning 23 until 28 headed by 27 parsed as (NP (NP (NNP Slobodan) (NNP Milosevic) (POS 's)) (NNP Socialist) (NNP Party))
+sid=1 spanning 23 until 26 headed by 24 parsed as (NP (NNP Slobodan) (NNP Milosevic) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=2 spanning 4 until 13 headed by 4 parsed as (NP (NP (NNS returns)) (PP (IN from) (NP (NP (QP (XS (RB just) (IN under)) (DT a) (JJ third))) (PP (IN of) (NP (NN polling) (NNS stations))))))
+sid=2 spanning 6 until 13 headed by 9 parsed as (NP (NP (QP (XS (RB just) (IN under)) (DT a) (JJ third))) (PP (IN of) (NP (NN polling) (NNS stations))))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NN polling) (NNS stations))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Kostunica))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Milosevic))
+sid=3 spanning 4 until 8 headed by 7 parsed as (NP (NP (NNP September) (POS 's)) (JJ presidential) (NNS elections))
+sid=3 spanning 4 until 6 headed by 4 parsed as (NP (NNP September) (POS 's))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Milosevic))
+sid=4 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (JJ powerful) (JJ Serbian) (NN government))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP him))
+sid=4 spanning 15 until 19 headed by 18 parsed as (NP (NNP U.N.) (NML (NN war) (NNS crimes)) (NN prosecution))
+sid=4 spanning 15 until 16 headed by 15 parsed as U.N.
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (JJ Final) (JJ official) (NN voting) (NNS results))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (NNP Wednesday))
+(end predicted mentions)
+---------gold clusters--------
+5 8 9 11 | { 'Slobodan Milosevic 's' 'Milosevic' 'Milosevic' 'him' }
+0 10 | { 'the Yugoslav republic of Serbia' 'the powerful Serbian government' }
+3 6 | { 'says' 'That' }
+1 4 | { 'President Vojislav Kostunica 's reform government' 'the Democratic Opposition of Serbia' }
+7 2 | { 'Kostunica' 'President Vojislav Kostunica 's' }
+(end gold clusters)

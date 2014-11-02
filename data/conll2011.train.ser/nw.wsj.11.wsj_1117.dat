@@ -1,0 +1,32 @@
+---------gloss--------
+(0) Retired Adm. William J. Crowe , former chairman of the Joint Chiefs of Staff , and Robert P. Luciano , chairman and chief executive officer of [1m[31m{Schering - Plough Corp.}[0m , were elected directors of [1m[31m{this securities firm}[0m . 
+(1) The board expanded to 17 seats . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1117); part 000
+sentences:
+RetiredRetiredNNPPERSONPER0Adm.Adm.NNPPERSONPER0WilliamWilliamNNPPERSONPER0J.J.NNPPERSONPER0CroweCroweNNPPERSONPER0,,,OPER0formerformerJJOPER0chairmanchairmanNNOPER0ofofINOPER0thetheDTORGPER0JointJointNNPORGPER0ChiefsChiefsNNPSORGPER0ofofINORGPER0StaffStaffNNPORGPER0,,,OPER0andandCCOPER0RobertRobertNNPPERSONPER0P.P.NNPPERSONPER0LucianoLucianoNNPPERSONPER0,,,PERSONPER0chairmanchairmanNNPERSONPER0andandCCPERSONPER0chiefchiefJJPERSONPER0executiveexecutiveJJPERSONPER0officerofficerNNPERSONPER0ofofINOPER0ScheringScheringNNPORGPER0--HYPHORGPER0PloughPloughNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0werebeVBDOPER0electedelectVBNOPER0directorsdirectorNNSOPER0ofofINOPER0thisthisDTOPER0securitiessecurityNNSOPER0firmfirmNNOPER0...OPER0(ROOT (S (NP (NP (NP (NP (NNP Retired) (NNP Adm.) (NNP William) (NNP J.) (NNP Crowe)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NP (DT the) (NNP Joint) (NNPS Chiefs)) (PP (IN of) (NP (NNP Staff)))))) (, ,)) (CC and) (NP (NNP Robert) (NNP P.) (NNP Luciano))) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NNP Schering) (HYPH -) (NNP Plough)) (NNP Corp.)))) (, ,)) (VP (VBD were) (VP (VBN elected) (S (NP (NP (NNS directors)) (PP (IN of) (NP (DT this) (NNS securities) (NN firm))))))) (. .)))
+ThetheDTOPER0boardboardNNOPER0expandedexpandVBDOPER0totoINOPER01717CDCARDINALPER0seatsseatNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN board)) (VP (VBD expanded) (PP (IN to) (NP (CD 17) (NNS seats)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 26 until 30 headed by 29 parsed as (NP (NP (NNP Schering) (HYPH -) (NNP Plough)) (NNP Corp.))
+sid=0 spanning 35 until 38 headed by 37 parsed as (NP (DT this) (NNS securities) (NN firm))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NP (NP (NNP Retired) (NNP Adm.) (NNP William) (NNP J.) (NNP Crowe)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NP (DT the) (NNP Joint) (NNPS Chiefs)) (PP (IN of) (NP (NNP Staff)))))) (, ,)) (CC and) (NP (NNP Robert) (NNP P.) (NNP Luciano))) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NNP Schering) (HYPH -) (NNP Plough)) (NNP Corp.)))) (, ,))
+sid=0 spanning 0 until 31 headed by 4 parsed as (NP (NP (NP (NP (NNP Retired) (NNP Adm.) (NNP William) (NNP J.) (NNP Crowe)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NP (DT the) (NNP Joint) (NNPS Chiefs)) (PP (IN of) (NP (NNP Staff)))))) (, ,)) (CC and) (NP (NNP Robert) (NNP P.) (NNP Luciano))) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NNP Schering) (HYPH -) (NNP Plough)) (NNP Corp.)))) (, ,))
+sid=0 spanning 0 until 19 headed by 4 parsed as (NP (NP (NP (NNP Retired) (NNP Adm.) (NNP William) (NNP J.) (NNP Crowe)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NP (DT the) (NNP Joint) (NNPS Chiefs)) (PP (IN of) (NP (NNP Staff)))))) (, ,)) (CC and) (NP (NNP Robert) (NNP P.) (NNP Luciano)))
+sid=0 spanning 0 until 15 headed by 4 parsed as (NP (NP (NNP Retired) (NNP Adm.) (NNP William) (NNP J.) (NNP Crowe)) (, ,) (NP (NP (JJ former) (NN chairman)) (PP (IN of) (NP (NP (DT the) (NNP Joint) (NNPS Chiefs)) (PP (IN of) (NP (NNP Staff)))))) (, ,))
+sid=0 spanning 9 until 14 headed by 11 parsed as (NP (NP (DT the) (NNP Joint) (NNPS Chiefs)) (PP (IN of) (NP (NNP Staff))))
+sid=0 spanning 16 until 25 headed by 18 parsed as (NP (NNP Robert) (NNP P.) (NNP Luciano))
+sid=0 spanning 20 until 30 headed by 20 parsed as (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NNP Schering) (HYPH -) (NNP Plough)) (NNP Corp.))))
+sid=0 spanning 26 until 30 headed by 29 parsed as (NP (NP (NNP Schering) (HYPH -) (NNP Plough)) (NNP Corp.))
+sid=0 spanning 33 until 38 headed by 33 parsed as (NP (NP (NNS directors)) (PP (IN of) (NP (DT this) (NNS securities) (NN firm))))
+sid=0 spanning 35 until 38 headed by 37 parsed as (NP (DT this) (NNS securities) (NN firm))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN board))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (CD 17) (NNS seats))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'this securities firm' 'Schering - Plough Corp.' }
+(end gold clusters)

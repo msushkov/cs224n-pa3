@@ -1,0 +1,54 @@
+---------gloss--------
+(0) In the Palestinian territories today , four Palestinians were killed by Israeli soldiers and a motorist was shot by a sniper . 
+(1) The Clinton administration is concerned about a situation spinning out of control . 
+(2) [1m[34m{The U.S.}[0m said that yesterday 's Palestinian attack to a school bus was an atrocious act and [1m[34m{the U.S.}[0m told [1m[35m{the Israelis}[0m that [1m[35m{their}[0m use of excessive force is not the right way to go . 
+(3) [1m[36m{Egypt}[0m has recalled [1m[36m{its}[0m ambassador from Israel to protest the rocket attacks on Gaza . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0036); part 000
+sentences:
+IninINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0territoriesterritoryNNSOPER0todaytodayNNDATEPER0,,,OPER0fourfourCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0killedkillVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0andandCCOPER0aaDTOPER0motoristmotoristNNOPER0wasbeVBDOPER0shotshootVBNOPER0bybyINOPER0aaDTOPER0snipersniperNNOPER0...OPER0(ROOT (S (S (PP (IN In) (NP (DT the) (JJ Palestinian) (NNS territories))) (NP (NN today)) (, ,) (NP (CD four) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (JJ Israeli) (NNS soldiers)))))) (CC and) (S (NP (DT a) (NN motorist)) (VP (VBD was) (VP (VBN shot) (PP (IN by) (NP (DT a) (NN sniper)))))) (. .)))
+ThetheDTOPER0ClintonClintonNNPPERSONPER0administrationadministrationNNOPER0isbeVBZOPER0concernedconcernedJJOPER0aboutaboutINOPER0aaDTOPER0situationsituationNNOPER0spinningspinVBGOPER0outoutINOPER0ofofINOPER0controlcontrolNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Clinton) (NN administration)) (VP (VBZ is) (ADJP (JJ concerned) (PP (IN about) (NP (NP (DT a) (NN situation)) (VP (VBG spinning) (PP (IN out) (PP (IN of) (NP (NN control))))))))) (. .)))
+ThetheDTOPER0U.S.U.S.NNPGPEPER0saidsayVBDOPER0thatthatINOPER0yesterdayyesterdayNNDATEPER0's'sPOSOPER0PalestinianpalestinianJJOPER0attackattackNNOPER0totoINOPER0aaDTOPER0schoolschoolNNOPER0busbusNNOPER0wasbeVBDOPER0anaDTOPER0atrociousatrociousJJOPER0actactNNOPER0andandCCOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0toldtellVBDOPER0thetheDTOPER0IsraelisIsraelisNNPSOPER0thatthatINOPER0theirtheyPRP$OPER0useuseNNOPER0ofofINOPER0excessiveexcessiveJJOPER0forceforceNNOPER0isbeVBZOPER0notnotRBOPER0thetheDTOPER0rightrightJJOPER0waywayNNOPER0totoTOOPER0gogoVBOPER0...OPER0(ROOT (S (NP (DT The) (NNP U.S.)) (VP (VBD said) (SBAR (IN that) (S (S (NP (NP (NP (NN yesterday) (POS 's)) (JJ Palestinian) (NN attack)) (PP (IN to) (NP (DT a) (NN school) (NN bus)))) (VP (VBD was) (NP (DT an) (JJ atrocious) (NN act)))) (CC and) (S (NP (DT the) (NNP U.S.)) (VP (VBD told) (NP (DT the) (NNPS Israelis)) (SBAR (IN that) (S (NP (NP (PRP$ their) (NN use)) (PP (IN of) (NP (JJ excessive) (NN force)))) (VP (VBZ is) (RB not) (NP (NP (DT the) (JJ right) (NN way)) (SBAR (S (VP (TO to) (VP (VB go)))))))))))))) (. .)))
+EgyptEgyptNNPGPEPER0hashaveVBZOPER0recalledrecallVBNOPER0itsitsPRP$OPER0ambassadorambassadorNNOPER0fromfromINOPER0IsraelIsraelNNPGPEPER0totoTOOPER0protestprotestVBOPER0thetheDTOPER0rocketrocketNNOPER0attacksattackNNSOPER0ononINOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (NP (NNP Egypt)) (VP (VBZ has) (VP (VBN recalled) (NP (NP (PRP$ its) (NN ambassador)) (PP (IN from) (NP (NNP Israel)))) (S (VP (TO to) (VP (VB protest) (NP (NP (DT the) (NN rocket) (NNS attacks)) (PP (IN on) (NP (NNP Gaza))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP U.S.))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNP U.S.))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNPS Israelis))
+sid=2 spanning 23 until 24 headed by 23 parsed as their
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Egypt))
+sid=3 spanning 3 until 4 headed by 3 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (JJ Palestinian) (NNS territories))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (CD four) (NNPS Palestinians))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN motorist))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (DT a) (NN sniper))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Clinton) (NN administration))
+sid=1 spanning 1 until 2 headed by 1 parsed as Clinton
+sid=1 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT a) (NN situation)) (VP (VBG spinning) (PP (IN out) (PP (IN of) (NP (NN control))))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP U.S.))
+sid=2 spanning 4 until 12 headed by 7 parsed as (NP (NP (NP (NN yesterday) (POS 's)) (JJ Palestinian) (NN attack)) (PP (IN to) (NP (DT a) (NN school) (NN bus))))
+sid=2 spanning 4 until 6 headed by 4 parsed as (NP (NN yesterday) (POS 's))
+sid=2 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (NN school) (NN bus))
+sid=2 spanning 13 until 16 headed by 15 parsed as (NP (DT an) (JJ atrocious) (NN act))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNP U.S.))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNPS Israelis))
+sid=2 spanning 23 until 28 headed by 24 parsed as (NP (NP (PRP$ their) (NN use)) (PP (IN of) (NP (JJ excessive) (NN force))))
+sid=2 spanning 23 until 24 headed by 23 parsed as (PRP$ their)
+sid=2 spanning 30 until 35 headed by 32 parsed as (NP (NP (DT the) (JJ right) (NN way)) (SBAR (S (VP (TO to) (VP (VB go))))))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Egypt))
+sid=3 spanning 3 until 7 headed by 4 parsed as (NP (NP (PRP$ its) (NN ambassador)) (PP (IN from) (NP (NNP Israel))))
+sid=3 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Israel))
+sid=3 spanning 9 until 14 headed by 11 parsed as (NP (NP (DT the) (NN rocket) (NNS attacks)) (PP (IN on) (NP (NNP Gaza))))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (NNP Gaza))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'the U.S.' 'The U.S.' }
+2 3 | { 'the Israelis' 'their' }
+4 5 | { 'Egypt' 'its' }
+(end gold clusters)

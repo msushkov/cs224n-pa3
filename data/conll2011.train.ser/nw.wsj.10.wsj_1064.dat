@@ -1,0 +1,153 @@
+---------gloss--------
+(0) [3m[32m{American Telephone & Telegraph Co.}[0m unveiled [3m[35m{new optical transmission systems for data , video and voice communications}[0m . 
+(1) [1m[36m{Two products in what the telecommunications giant called a new generation of such equipment}[0m are available now , [3m[32m{AT&T}[0m said , and [3m[31m{three others}[0m will be introduced in 1990 and 1991 . 
+(2) [3m[35m{The products}[0m are aimed at a market expected to total more than $ 1 billion a year in sales by 1995 , said [1m[35m{Morgan Buchner Jr. , vice president of transmission systems for AT&T}[0m . 
+(3) [1m[36m{The products already available}[0m are cross-connect systems , [3m[34m{used}[0m instead of mazes of wiring to interconnect other telecommunications equipment . 
+(4) [3m[34m{This}[0m cuts down greatly on labor , [1m[35m{Mr. Buchner}[0m said . 
+(5) To be introduced later are [3m[31m{a multiplexer , which will allow several signals to travel along a single optical line ; a light - wave system , which carries voice channels ; and a network controller , which directs data flow through cross-connect systems}[0m . 
+(6) [3m[32m{AT&T}[0m said [3m[35m{the products}[0m , unlike previous generations , will meet so - called [3m[33m{Sonet}[0m compatability standards , which [3m[32m{AT&T}[0m expects to be broadly adopted . 
+(7) [3m[33m{Sonet , or synchronous optical network ,}[0m products have more capacity than earlier models . 
+(8) `` [3m[35m{These products}[0m are the heart of our transmission - product line , '' [1m[35m{Mr. Buchner}[0m said . 
+(9) [1m[35m{He}[0m declined to disclose specific prices , but said each product costs in the tens of thousands , or even hundreds of thousands , of dollars . 
+(10) [3m[32m{AT&T}[0m said [3m[32m{it}[0m expects to beat to the marketplace two rivals , Northern Telecom Ltd. of Canada and France 's Alcatel N.V. , which also have announced [3m[33m{Sonet - based}[0m products . 
+(11) [3m[32m{AT&T}[0m predicted strong growth in demand for such products . 
+(12) [3m[32m{It}[0m noted that last July , Nippon Telegraph & Telephone Corp. of Japan selected AT&T to supply $ 154 million of such equipment over a four - year period starting next year . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1064); part 000
+sentences:
+AmericanAmericanNNPORGPER0TelephoneTelephoneNNPORGPER0&&CCORGPER0TelegraphTelegraphNNPORGPER0Co.Co.NNPORGPER0unveiledunveilVBDOPER0newnewJJOPER0opticalopticalJJOPER0transmissiontransmissionNNOPER0systemssystemNNSOPER0forforINOPER0datadatumNNOPER0,,,OPER0videovideoNNOPER0andandCCOPER0voicevoiceNNOPER0communicationscommunicationNNSOPER0...OPER0(ROOT (S (NP (NP (NNP American) (NNP Telephone)) (CC &) (NP (NNP Telegraph) (NNP Co.))) (VP (VBD unveiled) (NP (NP (JJ new) (JJ optical) (NN transmission) (NNS systems)) (PP (IN for) (NP (NML (NN data) (, ,) (NN video) (CC and) (NN voice)) (NNS communications))))) (. .)))
+TwotwoCDCARDINALPER0productsproductNNSOPER0ininINOPER0whatwhatWPOPER0thetheDTOPER0telecommunicationstelecommunicationsNNOPER0giantgiantNNOPER0calledcallVBDOPER0aaDTOPER0newnewJJOPER0generationgenerationNNOPER0ofofINOPER0suchsuchJJOPER0equipmentequipmentNNOPER0arebeVBPOPER0availableavailableJJOPER0nownowRBOPER0,,,OPER0AT&TAT&TNNPORGPER0saidsayVBDOPER0,,,OPER0andandCCOPER0threethreeCDCARDINALPER0othersotherNNSOPER0willwillMDOPER0bebeVBOPER0introducedintroduceVBNOPER0ininINOPER019901990CDDATEPER0andandCCDATEPER019911991CDDATEPER0...OPER0(ROOT (S (S (NP (NP (CD Two) (NNS products)) (PP (IN in) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN telecommunications) (NN giant)) (VP (VBD called) (NP (NP (DT a) (JJ new) (NN generation)) (PP (IN of) (NP (JJ such) (NN equipment))))))))) (VP (VBP are) (ADJP (JJ available)) (ADVP (RB now)))) (PRN (, ,) (S (NP (NNP AT&T)) (VP (VBD said))) (, ,)) (CC and) (S (NP (CD three) (NNS others)) (VP (MD will) (VP (VB be) (VP (VBN introduced) (PP (IN in) (NP (NP (CD 1990)) (CC and) (NP (CD 1991)))))))) (. .)))
+ThetheDTOPER0productsproductNNSOPER0arebeVBPOPER0aimedaimVBNOPER0atatINOPER0aaDTOPER0marketmarketNNOPER0expectedexpectVBNOPER0totoTOOPER0totaltotalVBOPER0moremoreJJRMONEYPER0thanthanINMONEYPER0$$$MONEYPER011CDMONEYPER0billionbillionCDMONEYPER0aaDTDATEPER0yearyearNNDATEPER0ininINOPER0salessaleNNSOPER0bybyINOPER019951995CDDATEPER0,,,OPER0saidsayVBDOPER0MorganMorganNNPPERSONPER0BuchnerBuchnerNNPPERSONPER0Jr.Jr.NNPPERSONPER0,,,OPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0transmissiontransmissionNNOPER0systemssystemNNSOPER0forforINOPER0AT&TAT&TNNPORGPER0...OPER0(ROOT (SINV (S (NP (DT The) (NNS products)) (VP (VBP are) (VP (VBN aimed) (PP (IN at) (NP (NP (DT a) (NN market)) (VP (VBN expected) (S (VP (TO to) (VP (VB total) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 1) (CD billion))) (NP (DT a) (NN year)) (PP (IN in) (NP (NNS sales)))) (PP (IN by) (NP (CD 1995)))))))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Morgan) (NNP Buchner) (NNP Jr.)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NN transmission) (NNS systems)) (PP (IN for) (NP (NNP AT&T))))))) (. .)))
+ThetheDTOPER0productsproductNNSOPER0alreadyalreadyRBOPER0availableavailableJJOPER0arebeVBPOPER0cross-connectcross-connectJJOPER0systemssystemNNSOPER0,,,OPER0useduseVBNOPER0insteadinsteadRBOPER0ofofINOPER0mazesmazeNNSOPER0ofofINOPER0wiringwiringNNOPER0totoTOOPER0interconnectinterconnectVBOPER0otherotherJJOPER0telecommunicationstelecommunicationsNNOPER0equipmentequipmentNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS products)) (ADJP (RB already) (JJ available))) (VP (VBP are) (NP (NP (JJ cross-connect) (NNS systems)) (, ,) (VP (VBN used) (PP (RB instead) (IN of) (NP (NP (NNS mazes)) (PP (IN of) (NP (NN wiring) (S (VP (TO to) (VP (VB interconnect) (NP (JJ other) (NN telecommunications) (NN equipment)))))))))))) (. .)))
+ThisthisDTOPER0cutscutVBZOPER0downdownRPOPER0greatlygreatlyRBOPER0ononINOPER0laborlaborNNOPER0,,,OPER0Mr.Mr.NNPOPER0BuchnerBuchnerNNPPERSONPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT This)) (VP (VBZ cuts) (PRT (RP down)) (ADVP (RB greatly)) (PP (IN on) (NP (NN labor))))) (, ,) (NP (NNP Mr.) (NNP Buchner)) (VP (VBD said)) (. .)))
+TotoTOOPER0bebeVBOPER0introducedintroduceVBNOPER0laterlaterRBOPER0arebeVBPOPER0aaDTOPER0multiplexermultiplexerNNOPER0,,,OPER0whichwhichWDTOPER0willwillMDOPER0allowallowVBOPER0severalseveralJJOPER0signalssignalNNSOPER0totoTOOPER0traveltravelVBOPER0alongalongINOPER0aaDTOPER0singlesingleJJOPER0opticalopticalJJOPER0linelineNNOPER0;;:OPER0aaDTOPER0lightlightJJOPER0--HYPHOPER0wavewaveNNOPER0systemsystemNNOPER0,,,OPER0whichwhichWDTOPER0carriescarryVBZOPER0voicevoiceNNOPER0channelschannelNNSOPER0;;:OPER0andandCCOPER0aaDTOPER0networknetworkNNOPER0controllercontrollerNNOPER0,,,OPER0whichwhichWDTOPER0directsdirectVBZOPER0datadatumNNOPER0flowflowNNOPER0throughthroughINOPER0cross-connectcross-connectJJOPER0systemssystemNNSOPER0...OPER0(ROOT (S (S (VP (TO To) (VP (VB be) (VP (VBN introduced) (ADVP (RB later)))))) (VP (VBP are) (NP (NP (DT a) (NN multiplexer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB allow) (S (NP (JJ several) (NNS signals)) (VP (TO to) (VP (VB travel) (PP (IN along) (NP (NP (NP (DT a) (JJ single) (JJ optical) (NN line)) (: ;) (NP (NP (DT a) (NML (JJ light) (HYPH -) (NN wave)) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ carries) (NP (NN voice) (NNS channels)))))) (: ;)) (CC and) (NP (DT a) (NN network) (NN controller))))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ directs) (NP (NN data) (NN flow)) (PP (IN through) (NP (JJ cross-connect) (NNS systems)))))))))))) (. .)))
+AT&TAT&TNNPORGPER0saidsayVBDOPER0thetheDTOPER0productsproductNNSOPER0,,,OPER0unlikeunlikeINOPER0previouspreviousJJOPER0generationsgenerationNNSOPER0,,,OPER0willwillMDOPER0meetmeetVBOPER0sosoRBOPER0--HYPHOPER0calledcallVBNOPER0SonetSonetNNPOPER0compatabilitycompatabilityNNOPER0standardsstandardNNSOPER0,,,OPER0whichwhichWDTOPER0AT&TAT&TNNPORGPER0expectsexpectVBZOPER0totoTOOPER0bebeVBOPER0broadlybroadlyRBOPER0adoptedadoptVBNOPER0...OPER0(ROOT (S (NP (NNP AT&T)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS products)) (, ,) (PP (IN unlike) (NP (JJ previous) (NNS generations))) (, ,) (VP (MD will) (VP (VB meet) (NP (NP (ADJP (RB so) (HYPH -) (VBN called)) (NNP Sonet) (NN compatability) (NNS standards)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP AT&T)) (VP (VBZ expects) (S (VP (TO to) (VP (VB be) (ADVP (RB broadly)) (VP (VBN adopted)))))))))))))) (. .)))
+SonetSonetNNPOPER0,,,OPER0ororCCOPER0synchronoussynchronousJJOPER0opticalopticalJJOPER0networknetworkNNOPER0,,,OPER0productsproductNNSOPER0havehaveVBPOPER0moremoreJJROPER0capacitycapacityNNOPER0thanthanINOPER0earlierearlierJJROPER0modelsmodelNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Sonet)) (, ,) (CC or) (NP (JJ synchronous) (NML (NML (JJ optical) (NN network)) (, ,)) (NNS products))) (VP (VBP have) (NP (NP (JJR more) (NN capacity)) (PP (IN than) (NP (JJR earlier) (NNS models))))) (. .)))
+``````OThesetheseDTOPER1productsproductNNSOPER1arebeVBPOPER1thetheDTOPER1heartheartNNOPER1ofofINOPER1ourwePRP$OPER1transmissiontransmissionNNOPER1--HYPHOPER1productproductNNOPER1linelineNNOPER1,,,OPER1''''''OPER0Mr.Mr.NNPOPER0BuchnerBuchnerNNPPERSONPER0saidsayVBDOPER0...OPER0(ROOT (S (`` ``) (S (NP (DT These) (NNS products)) (VP (VBP are) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (PRP$ our) (NML (NN transmission) (HYPH -) (NN product)) (NN line)))))) (, ,) ('' '') (NP (NNP Mr.) (NNP Buchner)) (VP (VBD said)) (. .)))
+HehePRPOPER0declineddeclineVBDOPER0totoTOOPER0disclosediscloseVBOPER0specificspecificJJOPER0pricespriceNNSOPER0,,,OPER0butbutCCOPER0saidsayVBDOPER0eacheachDTOPER0productproductNNOPER0costscostVBZOPER0ininINOPER0thetheDTMONEYPER0tenstenNNSMONEYPER0ofofINMONEYPER0thousandsthousandNNSMONEYPER0,,,MONEYPER0ororCCMONEYPER0evenevenRBMONEYPER0hundredshundredNNSMONEYPER0ofofINMONEYPER0thousandsthousandNNSMONEYPER0,,,MONEYPER0ofofINMONEYPER0dollarsdollarNNSMONEYPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VP (VBD declined) (S (VP (TO to) (VP (VB disclose) (NP (JJ specific) (NNS prices)))))) (, ,) (CC but) (VP (VBD said) (SBAR (S (NP (DT each) (NN product)) (VP (VBZ costs) (PP (IN in) (NP (NP (DT the) (NNS tens)) (PP (IN of) (NP (NP (NNS thousands)) (, ,) (CC or) (RB even) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS thousands)) (, ,) (PP (IN of) (NP (NNS dollars))))))))))))))) (. .)))
+AT&TAT&TNNPORGPER0saidsayVBDOPER0ititPRPOPER0expectsexpectVBZOPER0totoTOOPER0beatbeatVBOPER0totoINOPER0thetheDTOPER0marketplacemarketplaceNNOPER0twotwoCDCARDINALPER0rivalsrivalNNSOPER0,,,OPER0NorthernNorthernNNPORGPER0TelecomTelecomNNPORGPER0Ltd.Ltd.NNPORGPER0ofofINOPER0CanadaCanadaNNPGPEPER0andandCCOPER0FranceFranceNNPGPEPER0's'sPOSOPER0AlcatelAlcatelNNPORGPER0N.V.N.V.NNPORGPER0,,,OPER0whichwhichWDTOPER0alsoalsoRBOPER0havehaveVBPOPER0announcedannounceVBNOPER0SonetSonetNNPOPER0--HYPHOPER0basedbaseVBNOPER0productsproductNNSOPER0...OPER0(ROOT (S (NP (NNP AT&T)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB beat) (PP (IN to) (NP (DT the) (NN marketplace))) (NP (NP (CD two) (NNS rivals)) (, ,) (NP (NP (NNP Northern) (NNP Telecom) (NNP Ltd.)) (PP (IN of) (NP (NP (NP (NP (NNP Canada) (CC and) (NNP France)) (POS 's)) (NNP Alcatel) (NNP N.V.)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBP have) (VP (VBN announced) (NP (ADJP (NNP Sonet) (HYPH -) (VBN based)) (NNS products))))))))))))))))) (. .)))
+AT&TAT&TNNPORGPER0predictedpredictVBDOPER0strongstrongJJOPER0growthgrowthNNOPER0ininINOPER0demanddemandNNOPER0forforINOPER0suchsuchJJOPER0productsproductNNSOPER0...OPER0(ROOT (S (NP (NNP AT&T)) (VP (VBD predicted) (NP (NP (JJ strong) (NN growth)) (PP (IN in) (NP (NP (NN demand)) (PP (IN for) (NP (JJ such) (NNS products))))))) (. .)))
+ItitPRPOPER0notednoteVBDOPER0thatthatINOPER0lastlastJJDATEPER0JulyJulyNNPDATEPER0,,,OPER0NipponNipponNNPORGPER0TelegraphTelegraphNNPORGPER0&&CCORGPER0TelephoneTelephoneNNPORGPER0Corp.Corp.NNPORGPER0ofofINORGPER0JapanJapanNNPORGPER0selectedselectVBDOPER0AT&TAT&TNNPORGPER0totoTOOPER0supplysupplyVBOPER0$$$MONEYPER0154154CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0suchsuchJJOPER0equipmentequipmentNNOPER0overoverINOPER0aaDTOPER0fourfourCDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0periodperiodNNOPER0startingstartVBGOPER0nextnextJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD noted) (SBAR (IN that) (S (NP (NP (JJ last) (NNP July)) (, ,) (NP (NNP Nippon) (NNP Telegraph)) (CC &) (NP (NP (NNP Telephone) (NNP Corp.)) (PP (IN of) (NP (NNP Japan))))) (VP (VBD selected) (NP (NNP AT&T)) (S (VP (TO to) (VP (VB supply) (NP (NP (QP ($ $) (CD 154) (CD million))) (PP (IN of) (NP (JJ such) (NN equipment)))) (PP (IN over) (NP (NP (DT a) (NML (CD four) (HYPH -) (NN year)) (NN period)) (VP (VBG starting) (NP (JJ next) (NN year)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP American) (NNP Telephone)) (CC &) (NP (NNP Telegraph) (NNP Co.)))
+sid=0 spanning 6 until 17 headed by 9 parsed as (NP (NP (JJ new) (JJ optical) (NN transmission) (NNS systems)) (PP (IN for) (NP (NML (NN data) (, ,) (NN video) (CC and) (NN voice)) (NNS communications))))
+sid=1 spanning 0 until 14 headed by 1 parsed as (NP (NP (CD Two) (NNS products)) (PP (IN in) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN telecommunications) (NN giant)) (VP (VBD called) (NP (NP (DT a) (JJ new) (NN generation)) (PP (IN of) (NP (JJ such) (NN equipment)))))))))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN telecommunications) (NN giant))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (NNP AT&T))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (CD three) (NNS others))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS products))
+sid=2 spanning 23 until 34 headed by 25 parsed as (NP (NP (NNP Morgan) (NNP Buchner) (NNP Jr.)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NN transmission) (NNS systems)) (PP (IN for) (NP (NNP AT&T)))))))
+sid=2 spanning 33 until 34 headed by 33 parsed as (NP (NNP AT&T))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NNS products)) (ADJP (RB already) (JJ available)))
+sid=3 spanning 8 until 9 headed by 8 parsed as used
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NNP Mr.) (NNP Buchner))
+sid=5 spanning 5 until 44 headed by 6 parsed as (NP (NP (DT a) (NN multiplexer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB allow) (S (NP (JJ several) (NNS signals)) (VP (TO to) (VP (VB travel) (PP (IN along) (NP (NP (NP (DT a) (JJ single) (JJ optical) (NN line)) (: ;) (NP (NP (DT a) (NML (JJ light) (HYPH -) (NN wave)) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ carries) (NP (NN voice) (NNS channels)))))) (: ;)) (CC and) (NP (DT a) (NN network) (NN controller))))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ directs) (NP (NN data) (NN flow)) (PP (IN through) (NP (JJ cross-connect) (NNS systems)))))))))))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP AT&T))
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS products))
+sid=6 spanning 14 until 15 headed by 14 parsed as Sonet
+sid=6 spanning 19 until 20 headed by 19 parsed as (NP (NNP AT&T))
+sid=7 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNP Sonet)) (, ,) (CC or) (NP (JJ synchronous) (NML (NML (JJ optical) (NN network)) (, ,)) (NNS products)))
+sid=8 spanning 1 until 3 headed by 2 parsed as (NP (DT These) (NNS products))
+sid=8 spanning 14 until 16 headed by 15 parsed as (NP (NNP Mr.) (NNP Buchner))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (NNP AT&T))
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=10 spanning 27 until 30 headed by 29 parsed as based
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (NNP AT&T))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP American) (NNP Telephone)) (CC &) (NP (NNP Telegraph) (NNP Co.)))
+sid=0 spanning 6 until 17 headed by 9 parsed as (NP (NP (JJ new) (JJ optical) (NN transmission) (NNS systems)) (PP (IN for) (NP (NML (NN data) (, ,) (NN video) (CC and) (NN voice)) (NNS communications))))
+sid=0 spanning 11 until 17 headed by 16 parsed as (NP (NML (NN data) (, ,) (NN video) (CC and) (NN voice)) (NNS communications))
+sid=1 spanning 0 until 14 headed by 1 parsed as (NP (NP (CD Two) (NNS products)) (PP (IN in) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN telecommunications) (NN giant)) (VP (VBD called) (NP (NP (DT a) (JJ new) (NN generation)) (PP (IN of) (NP (JJ such) (NN equipment)))))))))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN telecommunications) (NN giant))
+sid=1 spanning 8 until 14 headed by 10 parsed as (NP (NP (DT a) (JJ new) (NN generation)) (PP (IN of) (NP (JJ such) (NN equipment))))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (NNP AT&T))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (CD three) (NNS others))
+sid=1 spanning 28 until 31 headed by 28 parsed as (NP (NP (CD 1990)) (CC and) (NP (CD 1991)))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS products))
+sid=2 spanning 5 until 21 headed by 6 parsed as (NP (NP (DT a) (NN market)) (VP (VBN expected) (S (VP (TO to) (VP (VB total) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 1) (CD billion))) (NP (DT a) (NN year)) (PP (IN in) (NP (NNS sales)))) (PP (IN by) (NP (CD 1995))))))))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN year))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NNS sales))
+sid=2 spanning 20 until 21 headed by 20 parsed as (NP (CD 1995))
+sid=2 spanning 23 until 26 headed by 25 parsed as (NP (NP (NNP Morgan) (NNP Buchner) (NNP Jr.)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NN transmission) (NNS systems)) (PP (IN for) (NP (NNP AT&T)))))))
+sid=2 spanning 23 until 34 headed by 25 parsed as (NP (NP (NNP Morgan) (NNP Buchner) (NNP Jr.)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NN transmission) (NNS systems)) (PP (IN for) (NP (NNP AT&T)))))))
+sid=2 spanning 27 until 34 headed by 28 parsed as (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NN transmission) (NNS systems)) (PP (IN for) (NP (NNP AT&T))))))
+sid=2 spanning 30 until 34 headed by 31 parsed as (NP (NP (NN transmission) (NNS systems)) (PP (IN for) (NP (NNP AT&T))))
+sid=2 spanning 33 until 34 headed by 33 parsed as (NP (NNP AT&T))
+sid=3 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NNS products)) (ADJP (RB already) (JJ available)))
+sid=3 spanning 5 until 19 headed by 6 parsed as (NP (NP (JJ cross-connect) (NNS systems)) (, ,) (VP (VBN used) (PP (RB instead) (IN of) (NP (NP (NNS mazes)) (PP (IN of) (NP (NN wiring) (S (VP (TO to) (VP (VB interconnect) (NP (JJ other) (NN telecommunications) (NN equipment)))))))))))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (JJ cross-connect) (NNS systems))
+sid=3 spanning 11 until 19 headed by 11 parsed as (NP (NP (NNS mazes)) (PP (IN of) (NP (NN wiring) (S (VP (TO to) (VP (VB interconnect) (NP (JJ other) (NN telecommunications) (NN equipment))))))))
+sid=3 spanning 13 until 19 headed by 13 parsed as (NP (NN wiring) (S (VP (TO to) (VP (VB interconnect) (NP (JJ other) (NN telecommunications) (NN equipment))))))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NNP Mr.) (NNP Buchner))
+sid=5 spanning 5 until 44 headed by 6 parsed as (NP (NP (DT a) (NN multiplexer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB allow) (S (NP (JJ several) (NNS signals)) (VP (TO to) (VP (VB travel) (PP (IN along) (NP (NP (NP (DT a) (JJ single) (JJ optical) (NN line)) (: ;) (NP (NP (DT a) (NML (JJ light) (HYPH -) (NN wave)) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ carries) (NP (NN voice) (NNS channels)))))) (: ;)) (CC and) (NP (DT a) (NN network) (NN controller))))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ directs) (NP (NN data) (NN flow)) (PP (IN through) (NP (JJ cross-connect) (NNS systems)))))))))))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (DT a) (NN multiplexer))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (JJ several) (NNS signals))
+sid=5 spanning 16 until 36 headed by 19 parsed as (NP (NP (NP (DT a) (JJ single) (JJ optical) (NN line)) (: ;) (NP (NP (DT a) (NML (JJ light) (HYPH -) (NN wave)) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ carries) (NP (NN voice) (NNS channels)))))) (: ;)) (CC and) (NP (DT a) (NN network) (NN controller)))
+sid=5 spanning 16 until 32 headed by 19 parsed as (NP (NP (DT a) (JJ single) (JJ optical) (NN line)) (: ;) (NP (NP (DT a) (NML (JJ light) (HYPH -) (NN wave)) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ carries) (NP (NN voice) (NNS channels)))))) (: ;))
+sid=5 spanning 21 until 31 headed by 25 parsed as (NP (NP (DT a) (NML (JJ light) (HYPH -) (NN wave)) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ carries) (NP (NN voice) (NNS channels))))))
+sid=5 spanning 21 until 26 headed by 25 parsed as (NP (DT a) (NML (JJ light) (HYPH -) (NN wave)) (NN system))
+sid=5 spanning 29 until 31 headed by 30 parsed as (NP (NN voice) (NNS channels))
+sid=5 spanning 33 until 36 headed by 35 parsed as (NP (DT a) (NN network) (NN controller))
+sid=5 spanning 39 until 41 headed by 40 parsed as (NP (NN data) (NN flow))
+sid=5 spanning 42 until 44 headed by 43 parsed as (NP (JJ cross-connect) (NNS systems))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP AT&T))
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS products))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (JJ previous) (NNS generations))
+sid=6 spanning 11 until 25 headed by 16 parsed as (NP (NP (ADJP (RB so) (HYPH -) (VBN called)) (NNP Sonet) (NN compatability) (NNS standards)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP AT&T)) (VP (VBZ expects) (S (VP (TO to) (VP (VB be) (ADVP (RB broadly)) (VP (VBN adopted)))))))))
+sid=6 spanning 11 until 17 headed by 16 parsed as (NP (ADJP (RB so) (HYPH -) (VBN called)) (NNP Sonet) (NN compatability) (NNS standards))
+sid=6 spanning 19 until 20 headed by 19 parsed as (NP (NNP AT&T))
+sid=7 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNP Sonet)) (, ,) (CC or) (NP (JJ synchronous) (NML (NML (JJ optical) (NN network)) (, ,)) (NNS products)))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNP Sonet))
+sid=7 spanning 3 until 8 headed by 7 parsed as (NP (JJ synchronous) (NML (NML (JJ optical) (NN network)) (, ,)) (NNS products))
+sid=7 spanning 9 until 14 headed by 10 parsed as (NP (NP (JJR more) (NN capacity)) (PP (IN than) (NP (JJR earlier) (NNS models))))
+sid=7 spanning 12 until 14 headed by 13 parsed as (NP (JJR earlier) (NNS models))
+sid=8 spanning 1 until 3 headed by 2 parsed as (NP (DT These) (NNS products))
+sid=8 spanning 4 until 12 headed by 5 parsed as (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (PRP$ our) (NML (NN transmission) (HYPH -) (NN product)) (NN line))))
+sid=8 spanning 7 until 12 headed by 11 parsed as (NP (PRP$ our) (NML (NN transmission) (HYPH -) (NN product)) (NN line))
+sid=8 spanning 7 until 8 headed by 7 parsed as (PRP$ our)
+sid=8 spanning 14 until 16 headed by 15 parsed as (NP (NNP Mr.) (NNP Buchner))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (JJ specific) (NNS prices))
+sid=9 spanning 9 until 11 headed by 10 parsed as (NP (DT each) (NN product))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (NNP AT&T))
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=10 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN marketplace))
+sid=10 spanning 9 until 31 headed by 10 parsed as (NP (NP (CD two) (NNS rivals)) (, ,) (NP (NP (NNP Northern) (NNP Telecom) (NNP Ltd.)) (PP (IN of) (NP (NP (NP (NP (NNP Canada) (CC and) (NNP France)) (POS 's)) (NNP Alcatel) (NNP N.V.)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBP have) (VP (VBN announced) (NP (ADJP (NNP Sonet) (HYPH -) (VBN based)) (NNS products))))))))))
+sid=10 spanning 9 until 11 headed by 10 parsed as (NP (CD two) (NNS rivals))
+sid=10 spanning 12 until 31 headed by 14 parsed as (NP (NP (NNP Northern) (NNP Telecom) (NNP Ltd.)) (PP (IN of) (NP (NP (NP (NP (NNP Canada) (CC and) (NNP France)) (POS 's)) (NNP Alcatel) (NNP N.V.)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBP have) (VP (VBN announced) (NP (ADJP (NNP Sonet) (HYPH -) (VBN based)) (NNS products)))))))))
+sid=10 spanning 20 until 22 headed by 21 parsed as (NP (NP (NP (NP (NNP Canada) (CC and) (NNP France)) (POS 's)) (NNP Alcatel) (NNP N.V.)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBP have) (VP (VBN announced) (NP (ADJP (NNP Sonet) (HYPH -) (VBN based)) (NNS products)))))))
+sid=10 spanning 16 until 31 headed by 21 parsed as (NP (NP (NP (NP (NNP Canada) (CC and) (NNP France)) (POS 's)) (NNP Alcatel) (NNP N.V.)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBP have) (VP (VBN announced) (NP (ADJP (NNP Sonet) (HYPH -) (VBN based)) (NNS products)))))))
+sid=10 spanning 16 until 22 headed by 21 parsed as (NP (NP (NP (NNP Canada) (CC and) (NNP France)) (POS 's)) (NNP Alcatel) (NNP N.V.))
+sid=10 spanning 16 until 17 headed by 16 parsed as (NP (NP (NNP Canada) (CC and) (NNP France)) (POS 's))
+sid=10 spanning 16 until 20 headed by 16 parsed as (NP (NP (NNP Canada) (CC and) (NNP France)) (POS 's))
+sid=10 spanning 18 until 20 headed by 18 parsed as France
+sid=10 spanning 27 until 31 headed by 30 parsed as (NP (ADJP (NNP Sonet) (HYPH -) (VBN based)) (NNS products))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (NNP AT&T))
+sid=11 spanning 5 until 9 headed by 5 parsed as (NP (NP (NN demand)) (PP (IN for) (NP (JJ such) (NNS products))))
+sid=11 spanning 7 until 9 headed by 8 parsed as (NP (JJ such) (NNS products))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=12 spanning 3 until 5 headed by 4 parsed as (NP (NP (JJ last) (NNP July)) (, ,) (NP (NNP Nippon) (NNP Telegraph)) (CC &) (NP (NP (NNP Telephone) (NNP Corp.)) (PP (IN of) (NP (NNP Japan)))))
+sid=12 spanning 3 until 13 headed by 4 parsed as (NP (NP (JJ last) (NNP July)) (, ,) (NP (NNP Nippon) (NNP Telegraph)) (CC &) (NP (NP (NNP Telephone) (NNP Corp.)) (PP (IN of) (NP (NNP Japan)))))
+sid=12 spanning 6 until 13 headed by 7 parsed as (NP (NNP Nippon) (NNP Telegraph))
+sid=12 spanning 14 until 15 headed by 14 parsed as (NP (NNP AT&T))
+sid=12 spanning 24 until 32 headed by 28 parsed as (NP (NP (DT a) (NML (CD four) (HYPH -) (NN year)) (NN period)) (VP (VBG starting) (NP (JJ next) (NN year))))
+sid=12 spanning 25 until 28 headed by 27 parsed as year
+sid=12 spanning 30 until 32 headed by 31 parsed as (NP (JJ next) (NN year))
+(end predicted mentions)
+---------gold clusters--------
+20 7 12 21 | { 'Mr. Buchner' 'Morgan Buchner Jr. , vice president of transmission systems for AT&T' 'Mr. Buchner' 'He' }
+2 9 | { 'Two products in what the telecommunications giant called a new generation of such equipment' 'The products already available' }
+5 13 | { 'three others' 'a multiplexer , which will allow several signals to travel along a single optical line ; a light - wave system , which carries voice channels ; and a network controller , which directs data flow through cross-connect systems' }
+4 25 26 8 17 14 3 22 0 23 | { 'AT&T' 'AT&T' 'It' 'AT&T' 'AT&T' 'AT&T' 'the telecommunications giant' 'AT&T' 'American Telephone & Telegraph Co.' 'it' }
+24 16 18 | { 'Sonet - based' 'Sonet' 'Sonet , or synchronous optical network ,' }
+10 11 | { 'used' 'This' }
+6 1 19 15 | { 'The products' 'new optical transmission systems for data , video and voice communications' 'These products' 'the products' }
+(end gold clusters)

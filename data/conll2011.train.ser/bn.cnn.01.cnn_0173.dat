@@ -1,0 +1,64 @@
+---------gloss--------
+(0) In [1m[35m{their}[0m closing arguments , [1m[35m{defense lawyers in the Pan Am Flight 103 bombing trial}[0m are attacking prosecution theories about where the bomb came from . 
+(1) Prosecutors say the two Libyan defendants loaded [1m[34m{a rigged suitcase}[0m aboard a plane in the Mediterranean , and [1m[34m{the bag}[0m eventually made [1m[34m{its}[0m way on to [1m[36m{the Pan Am flight}[0m , but [1m[35m{the defense}[0m says a `` rogue bag '' could have come from somewhere else . 
+(2) 270 people were killed when [1m[36m{the jet}[0m went down over Lockerbie , Scotland , in 1988 . 
+(3) [3m[31m{The trial}[0m will continue Tuesday . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0173); part 000
+sentences:
+IninINOPER0theirtheyPRP$OPER0closingclosingNNOPER0argumentsargumentNNSOPER0,,,OPER0defensedefenseNNOPER0lawyerslawyerNNSOPER0ininINOPER0thetheDTOPER0PanPanNNPORGPER0AmAmNNPORGPER0FlightFlightNNPOPER0103103CDOPER0bombingbombingNNOPER0trialtrialNNOPER0arebeVBPOPER0attackingattackVBGOPER0prosecutionprosecutionNNOPER0theoriestheoryNNSOPER0aboutaboutINOPER0wherewhereWRBOPER0thetheDTOPER0bombbombNNOPER0camecomeVBDOPER0fromfromINOPER0...OPER0(ROOT (S (PP (IN In) (NP (PRP$ their) (NN closing) (NNS arguments))) (, ,) (NP (NP (NN defense) (NNS lawyers)) (PP (IN in) (NP (DT the) (NML (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)) (NN bombing) (NN trial)))) (VP (VBP are) (VP (VBG attacking) (NP (NN prosecution) (NNS theories)) (PP (IN about) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN bomb)) (VP (VBD came) (PP (IN from)))))))) (. .)))
+ProsecutorsprosecutorNNSOPER0saysayVBPOPER0thetheDTOPER0twotwoCDCARDINALPER0LibyanlibyanJJOPER0defendantsdefendantNNSOPER0loadedloadVBDOPER0aaDTOPER0riggedrigVBNOPER0suitcasesuitcaseNNOPER0aboardaboardINOPER0aaDTOPER0planeplaneNNOPER0ininINOPER0thetheDTOPER0MediterraneanMediterraneanNNPLOCPER0,,,OPER0andandCCOPER0thetheDTOPER0bagbagNNOPER0eventuallyeventuallyRBOPER0mademakeVBDOPER0itsitsPRP$OPER0waywayNNOPER0ononINOPER0totoINOPER0thetheDTOPER0PanPanNNPORGPER0AmAmNNPORGPER0flightflightNNOPER0,,,OPER0butbutCCOPER0thetheDTOPER0defensedefenseNNOPER0sayssayVBZOPER0aaDTOPER0``````OroguerogueNNOPER1bagbagNNOPER1''''''OPER0couldcouldMDOPER0havehaveVBOPER0comecomeVBNOPER0fromfromINOPER0somewheresomewhereRBOPER0elseelseRBOPER0...OPER0(ROOT (S (S (NP (NNS Prosecutors)) (VP (VBP say) (SBAR (S (S (NP (DT the) (CD two) (JJ Libyan) (NNS defendants)) (VP (VBD loaded) (NP (DT a) (VBN rigged) (NN suitcase)) (PP (IN aboard) (NP (NP (DT a) (NN plane)) (PP (IN in) (NP (DT the) (NNP Mediterranean))))))) (, ,) (CC and) (S (NP (DT the) (NN bag)) (ADVP (RB eventually)) (VP (VBD made) (NP (PRP$ its) (NN way)) (PP (IN on) (PP (IN to) (NP (DT the) (NML (NNP Pan) (NNP Am)) (NN flight)))))))))) (, ,) (CC but) (S (NP (DT the) (NN defense)) (VP (VBZ says) (SBAR (S (NP (DT a) (`` ``) (NN rogue) (NN bag) ('' '')) (VP (MD could) (VP (VB have) (VP (VBN come) (PP (IN from) (ADVP (RB somewhere) (RB else)))))))))) (. .)))
+270270CDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0whenwhenWRBOPER0thetheDTOPER0jetjetNNOPER0wentgoVBDOPER0downdownRBOPER0overoverINOPER0LockerbieLockerbieNNPGPEPER0,,,OPER0ScotlandScotlandNNPGPEPER0,,,OPER0ininINOPER019881988CDDATEPER0...OPER0(ROOT (S (NP (CD 270) (NNS people)) (VP (VBD were) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN jet)) (VP (VBD went) (ADVP (RB down)) (PP (IN over) (NP (NP (NNP Lockerbie)) (, ,) (NP (NNP Scotland))))))) (, ,) (PP (IN in) (NP (CD 1988))))) (. .)))
+ThetheDTOPER0trialtrialNNOPER0willwillMDOPER0continuecontinueVBOPER0TuesdayTuesdayNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NN trial)) (VP (MD will) (VP (VB continue) (NP (NNP Tuesday)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as their
+sid=0 spanning 5 until 15 headed by 6 parsed as (NP (NP (NN defense) (NNS lawyers)) (PP (IN in) (NP (DT the) (NML (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)) (NN bombing) (NN trial))))
+sid=0 spanning 8 until 15 headed by 14 parsed as (NP (DT the) (NML (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)) (NN bombing) (NN trial))
+sid=0 spanning 9 until 13 headed by 11 parsed as Flight
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (VBN rigged) (NN suitcase))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN bag))
+sid=1 spanning 22 until 23 headed by 22 parsed as its
+sid=1 spanning 26 until 30 headed by 29 parsed as (NP (DT the) (NML (NNP Pan) (NNP Am)) (NN flight))
+sid=1 spanning 32 until 34 headed by 33 parsed as (NP (DT the) (NN defense))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN jet))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN trial))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (PRP$ their) (NN closing) (NNS arguments))
+sid=0 spanning 1 until 2 headed by 1 parsed as (PRP$ their)
+sid=0 spanning 5 until 15 headed by 6 parsed as (NP (NP (NN defense) (NNS lawyers)) (PP (IN in) (NP (DT the) (NML (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)) (NN bombing) (NN trial))))
+sid=0 spanning 8 until 15 headed by 14 parsed as (NP (DT the) (NML (NML (NNP Pan) (NNP Am)) (NNP Flight) (CD 103)) (NN bombing) (NN trial))
+sid=0 spanning 9 until 11 headed by 10 parsed as Am
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (NN prosecution) (NNS theories))
+sid=0 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN bomb))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Prosecutors))
+sid=1 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (CD two) (JJ Libyan) (NNS defendants))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (VBN rigged) (NN suitcase))
+sid=1 spanning 11 until 16 headed by 12 parsed as (NP (NP (DT a) (NN plane)) (PP (IN in) (NP (DT the) (NNP Mediterranean))))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (DT the) (NNP Mediterranean))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NNP Mediterranean))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN bag))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ its) (NN way))
+sid=1 spanning 22 until 23 headed by 22 parsed as (PRP$ its)
+sid=1 spanning 26 until 30 headed by 29 parsed as (NP (DT the) (NML (NNP Pan) (NNP Am)) (NN flight))
+sid=1 spanning 27 until 29 headed by 28 parsed as Am
+sid=1 spanning 32 until 34 headed by 33 parsed as (NP (DT the) (NN defense))
+sid=1 spanning 35 until 40 headed by 38 parsed as (NP (DT a) (`` ``) (NN rogue) (NN bag) ('' ''))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (CD 270) (NNS people))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN jet))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NP (NNP Lockerbie)) (, ,) (NP (NNP Scotland)))
+sid=2 spanning 10 until 13 headed by 10 parsed as (NP (NP (NNP Lockerbie)) (, ,) (NP (NNP Scotland)))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Scotland))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (CD 1988))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN trial))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Tuesday))
+(end predicted mentions)
+---------gold clusters--------
+5 6 4 | { 'the bag' 'its' 'a rigged suitcase' }
+0 1 8 | { 'their' 'defense lawyers in the Pan Am Flight 103 bombing trial' 'the defense' }
+3 9 7 | { 'Pan Am Flight 103' 'the jet' 'the Pan Am flight' }
+2 10 | { 'the Pan Am Flight 103 bombing trial' 'The trial' }
+(end gold clusters)

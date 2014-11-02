@@ -1,0 +1,67 @@
+---------gloss--------
+(0) [4m[31m{Israeli Prime Minister Ehud Barak}[0m says [4m[31m{he}[0m is freezing [4m[32m{tens of millions of dollars in tax payments to the Palestinian Authority}[0m as outside efforts to stop the Israeli - Palestinian violence continue . 
+(1) [4m[31m{Prime Minister Barak}[0m said late Thursday , [4m[31m{he}[0m is withholding [4m[32m{the money}[0m until the Palestinians abide by previous agreements with the Israelis . 
+(2) [3m[36m{Mr. Barak and Palestinian leader Yasser Arafat}[0m held separate talks Thursday with [4m[33m{both US envoy Dennis Ross and Russian Foreign Minister Igor Ivanov}[0m . 
+(3) [4m[33m{Both}[0m urged [3m[36m{the Middle East leaders}[0m to resume peace talks and to stop the violence that has killed more than 200 Palestinians since late September . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0104); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0isbeVBZOPER0freezingfreezeVBGOPER0tenstenNNSMONEYPER0ofofINMONEYPER0millionsmillionNNSMONEYPER0ofofINMONEYPER0dollarsdollarNNSMONEYPER0ininINOPER0taxtaxNNOPER0paymentspaymentNNSOPER0totoINOPER0thetheDTORGPER0PalestinianPalestinianNNPORGPER0AuthorityAuthorityNNPORGPER0asasINOPER0outsideoutsideJJOPER0effortseffortNNSOPER0totoTOOPER0stopstopVBOPER0thetheDTOPER0IsraeliisraeliJJOPER0--HYPHOPER0PalestinianpalestinianJJOPER0violenceviolenceNNOPER0continuecontinueVBPOPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (VP (VBG freezing) (NP (NP (QP (NNS tens) (IN of) (NNS millions))) (PP (IN of) (NP (NP (NNS dollars)) (PP (IN in) (NP (NP (NN tax) (NNS payments)) (PP (IN to) (NP (DT the) (NNP Palestinian) (NNP Authority)))))))) (SBAR (IN as) (S (NP (JJ outside) (NNS efforts) (S (VP (TO to) (VP (VB stop) (NP (DT the) (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN violence)))))) (VP (VBP continue))))))))) (. .)))
+PrimePrimeNNPOPER0MinisterMinisterNNPOPER0BarakBarakNNPPERSONPER0saidsayVBDOPER0latelateJJDATEPER0ThursdayThursdayNNPDATEPER0,,,OPER0hehePRPOPER0isbeVBZOPER0withholdingwithholdVBGOPER0thetheDTOPER0moneymoneyNNOPER0untiluntilINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0abideabideVBPOPER0bybyINOPER0previouspreviousJJOPER0agreementsagreementNNSOPER0withwithINOPER0thetheDTOPER0IsraelisIsraelisNNPSOPER0...OPER0(ROOT (S (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak)) (VP (VBD said) (NP (JJ late) (NNP Thursday)) (, ,) (SBAR (S (NP (PRP he)) (VP (VBZ is) (VP (VBG withholding) (NP (DT the) (NN money)) (SBAR (IN until) (S (NP (DT the) (NNPS Palestinians)) (VP (VBP abide) (PP (IN by) (NP (NP (JJ previous) (NNS agreements)) (PP (IN with) (NP (DT the) (NNPS Israelis))))))))))))) (. .)))
+Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0andandCCOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0heldholdVBDOPER0separateseparateJJOPER0talkstalkNNSOPER0ThursdayThursdayNNPDATEPER0withwithINOPER0bothbothCCOPER0USUSNNPGPEPER0envoyenvoyNNOPER0DennisDennisNNPPERSONPER0RossRossNNPPERSONPER0andandCCOPER0RussianrussianJJOPER0ForeignForeignNNPOPER0MinisterMinisterNNPOPER0IgorIgorNNPPERSONPER0IvanovIvanovNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))) (VP (VBD held) (NP (NP (JJ separate) (NNS talks)) (NP (NNP Thursday)) (PP (IN with) (NP (CC both) (NP (NML (NNP US) (NN envoy)) (NNP Dennis) (NNP Ross)) (CC and) (NP (NML (JJ Russian) (NNP Foreign) (NNP Minister)) (NNP Igor) (NNP Ivanov)))))) (. .)))
+BothbothDTOPER0urgedurgeVBDOPER0thetheDTOPER0MiddleMiddleNNPORGPER0EastEastNNPORGPER0leadersleaderNNSOPER0totoTOOPER0resumeresumeVBOPER0peacepeaceNNOPER0talkstalkNNSOPER0andandCCOPER0totoTOOPER0stopstopVBOPER0thetheDTOPER0violenceviolenceNNOPER0thatthatWDTOPER0hashaveVBZOPER0killedkillVBDOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0200200CDCARDINALPER0PalestiniansPalestiniansNNPSOPER0sincesinceINOPER0latelateJJDATEPER0SeptemberSeptemberNNPDATEPER0...OPER0(ROOT (S (NP (DT Both)) (VP (VBD urged) (NP (DT the) (NML (NNP Middle) (NNP East)) (NNS leaders)) (S (VP (VP (TO to) (VP (VB resume) (NP (NN peace) (NNS talks)))) (CC and) (VP (TO to) (VP (VB stop) (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBD killed) (NP (QP (XS (JJR more) (IN than)) (CD 200)) (NNPS Palestinians)) (PP (IN since) (NP (JJ late) (NNP September))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=0 spanning 9 until 21 headed by 11 parsed as (NP (NP (QP (NNS tens) (IN of) (NNS millions))) (PP (IN of) (NP (NP (NNS dollars)) (PP (IN in) (NP (NP (NN tax) (NNS payments)) (PP (IN to) (NP (DT the) (NNP Palestinian) (NNP Authority))))))))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN money))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=2 spanning 12 until 23 headed by 16 parsed as (NP (CC both) (NP (NML (NNP US) (NN envoy)) (NNP Dennis) (NNP Ross)) (CC and) (NP (NML (JJ Russian) (NNP Foreign) (NNP Minister)) (NNP Igor) (NNP Ivanov)))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT Both))
+sid=3 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (NML (NNP Middle) (NNP East)) (NNS leaders))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=0 spanning 15 until 21 headed by 16 parsed as (NP (NP (NN tax) (NNS payments)) (PP (IN to) (NP (DT the) (NNP Palestinian) (NNP Authority))))
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP Palestinian) (NNP Authority))
+sid=0 spanning 22 until 31 headed by 23 parsed as (NP (JJ outside) (NNS efforts) (S (VP (TO to) (VP (VB stop) (NP (DT the) (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN violence))))))
+sid=0 spanning 26 until 31 headed by 30 parsed as (NP (DT the) (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN violence))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Barak))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (JJ late) (NNP Thursday))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN money))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 17 until 22 headed by 18 parsed as (NP (NP (JJ previous) (NNS agreements)) (PP (IN with) (NP (DT the) (NNPS Israelis))))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNPS Israelis))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=2 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Barak)) (CC and) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=2 spanning 3 until 7 headed by 6 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=2 spanning 8 until 23 headed by 9 parsed as (NP (NP (JJ separate) (NNS talks)) (NP (NNP Thursday)) (PP (IN with) (NP (CC both) (NP (NML (NNP US) (NN envoy)) (NNP Dennis) (NNP Ross)) (CC and) (NP (NML (JJ Russian) (NNP Foreign) (NNP Minister)) (NNP Igor) (NNP Ivanov)))))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Thursday))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (CC both) (NP (NML (NNP US) (NN envoy)) (NNP Dennis) (NNP Ross)) (CC and) (NP (NML (JJ Russian) (NNP Foreign) (NNP Minister)) (NNP Igor) (NNP Ivanov)))
+sid=2 spanning 12 until 23 headed by 16 parsed as (NP (CC both) (NP (NML (NNP US) (NN envoy)) (NNP Dennis) (NNP Ross)) (CC and) (NP (NML (JJ Russian) (NNP Foreign) (NNP Minister)) (NNP Igor) (NNP Ivanov)))
+sid=2 spanning 13 until 17 headed by 16 parsed as (NP (NML (NNP US) (NN envoy)) (NNP Dennis) (NNP Ross))
+sid=2 spanning 13 until 14 headed by 13 parsed as US
+sid=2 spanning 18 until 23 headed by 22 parsed as (NP (NML (JJ Russian) (NNP Foreign) (NNP Minister)) (NNP Igor) (NNP Ivanov))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT Both))
+sid=3 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (NML (NNP Middle) (NNP East)) (NNS leaders))
+sid=3 spanning 3 until 5 headed by 4 parsed as East
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (NN peace) (NNS talks))
+sid=3 spanning 13 until 25 headed by 14 parsed as (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBD killed) (NP (QP (XS (JJR more) (IN than)) (CD 200)) (NNPS Palestinians)) (PP (IN since) (NP (JJ late) (NNP September))))))))
+sid=3 spanning 18 until 22 headed by 21 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 200)) (NNPS Palestinians))
+sid=3 spanning 23 until 25 headed by 24 parsed as (NP (JJ late) (NNP September))
+(end predicted mentions)
+---------gold clusters--------
+7 10 | { 'Mr. Barak and Palestinian leader Yasser Arafat' 'the Middle East leaders' }
+4 3 0 6 1 | { 'he' 'Prime Minister Barak' 'Israeli Prime Minister Ehud Barak' 'Mr. Barak' 'he' }
+2 5 | { 'tens of millions of dollars in tax payments to the Palestinian Authority' 'the money' }
+8 9 | { 'both US envoy Dennis Ross and Russian Foreign Minister Igor Ivanov' 'Both' }
+(end gold clusters)

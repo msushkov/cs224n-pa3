@@ -1,0 +1,61 @@
+---------gloss--------
+(0) Good evening . 
+(1) Coalition forces in Baghdad have arrested the Palestinian terrorist who led [4m[33m{the hijacking of the Italian cruise ship the Achille Lauro in 1985}[0m . 
+(2) During [4m[33m{that hijacking}[0m [4m[31m{the terrorists}[0m shot and killed [4m[32m{a disabled American , Leon Klinghoffer ,}[0m as [4m[32m{he}[0m sat in [4m[32m{his}[0m wheelchair . 
+(3) [4m[31m{They}[0m threw [4m[32m{his}[0m body overboard . 
+(4) [3m[36m{National security correspondent David Ensor}[0m joins us live from Washington . 
+(5) [3m[36m{David ?}[0m 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0287); part 000
+sentences:
+GoodgoodJJOPER0eveningeveningNNTIMEPER0...OPER0(ROOT (INTJ (JJ Good) (NN evening) (. .)))
+CoalitioncoalitionNNOPER0forcesforceNNSOPER0ininINOPER0BaghdadBaghdadNNPGPEPER0havehaveVBPOPER0arrestedarrestVBNOPER0thetheDTOPER0PalestinianpalestinianJJOPER0terroristterroristNNOPER0whowhoWPOPER0ledleadVBDOPER0thetheDTOPER0hijackinghijackingNNOPER0ofofINOPER0thetheDTOPER0ItalianitalianJJOPER0cruisecruiseNNOPER0shipshipNNOPER0thetheDTOPER0AchilleAchilleNNPPRODUCTPER0LauroLauroNNPPRODUCTPER0ininINOPER019851985CDDATEPER0...OPER0(ROOT (S (NP (NP (NN Coalition) (NNS forces)) (PP (IN in) (NP (NNP Baghdad)))) (VP (VBP have) (VP (VBN arrested) (NP (NP (DT the) (JJ Palestinian) (NN terrorist)) (SBAR (WHNP (WP who)) (S (VP (VBD led) (NP (NP (DT the) (NN hijacking)) (PP (IN of) (NP (DT the) (JJ Italian) (NN cruise) (NN ship)))) (S (NP (DT the) (NML (NNP Achille) (NNP Lauro))) (PP (IN in) (NP (CD 1985)))))))))) (. .)))
+DuringduringINOPER0thatthatDTOPER0hijackinghijackingNNOPER0thetheDTOPER0terroriststerroristNNSOPER0shotshootVBDOPER0andandCCOPER0killedkillVBDOPER0aaDTOPER0disableddisabledJJOPER0AmericanAmericanNNPOPER0,,,OPER0LeonLeonNNPPERSONPER0KlinghofferKlinghofferNNPPERSONPER0,,,OPER0asasINOPER0hehePRPOPER0satsitVBDOPER0ininINOPER0hishePRP$OPER0wheelchairwheelchairNNOPER0...OPER0(ROOT (S (PP (IN During) (NP (DT that) (NN hijacking))) (NP (DT the) (NNS terrorists)) (VP (VBD shot) (CC and) (VBD killed) (NP (DT a) (JJ disabled) (NNP American) (, ,) (NNP Leon) (NNP Klinghoffer) (, ,)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD sat) (PP (IN in) (NP (PRP$ his) (NN wheelchair))))))) (. .)))
+TheytheyPRPOPER0threwthrowVBDOPER0hishePRP$OPER0bodybodyNNOPER0overboardoverboardRBOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBD threw) (NP (PRP$ his) (NN body)) (ADVP (RB overboard))) (. .)))
+NationalnationalJJOPER0securitysecurityNNOPER0correspondentcorrespondentNNOPER0DavidDavidNNPPERSONPER0EnsorEnsorNNPPERSONPER0joinsjoinVBZOPER0uswePRPOPER0liveliveRBOPER0fromfromINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (NP (NP (NML (JJ National) (NN security)) (NN correspondent)) (NP (NNP David) (NNP Ensor))) (VP (VBZ joins) (NP (PRP us)) (ADVP (RB live) (PP (IN from) (NP (NNP Washington))))) (. .)))
+DavidDavidNNPPERSONPER0??.OPER0(ROOT (NP (NNP David) (. ?)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 11 until 23 headed by 12 parsed as (NP (NP (DT the) (NN hijacking)) (PP (IN of) (NP (DT the) (JJ Italian) (NN cruise) (NN ship))))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (DT that) (NN hijacking))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS terrorists))
+sid=2 spanning 8 until 15 headed by 13 parsed as (NP (DT a) (JJ disabled) (NNP American) (, ,) (NNP Leon) (NNP Klinghoffer) (, ,))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=2 spanning 19 until 20 headed by 19 parsed as his
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=3 spanning 2 until 3 headed by 2 parsed as his
+sid=4 spanning 0 until 5 headed by 2 parsed as (NP (NP (NML (JJ National) (NN security)) (NN correspondent)) (NP (NNP David) (NNP Ensor)))
+sid=5 spanning 0 until 2 headed by 0 parsed as (NP (NNP David) (. ?))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as evening
+sid=1 spanning 0 until 4 headed by 1 parsed as (NP (NP (NN Coalition) (NNS forces)) (PP (IN in) (NP (NNP Baghdad))))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNP Baghdad))
+sid=1 spanning 6 until 23 headed by 8 parsed as (NP (NP (DT the) (JJ Palestinian) (NN terrorist)) (SBAR (WHNP (WP who)) (S (VP (VBD led) (NP (NP (DT the) (NN hijacking)) (PP (IN of) (NP (DT the) (JJ Italian) (NN cruise) (NN ship)))) (S (NP (DT the) (NML (NNP Achille) (NNP Lauro))) (PP (IN in) (NP (CD 1985))))))))
+sid=1 spanning 11 until 18 headed by 12 parsed as (NP (NP (DT the) (NN hijacking)) (PP (IN of) (NP (DT the) (JJ Italian) (NN cruise) (NN ship))))
+sid=1 spanning 14 until 18 headed by 17 parsed as (NP (DT the) (JJ Italian) (NN cruise) (NN ship))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NML (NNP Achille) (NNP Lauro)))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (CD 1985))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (DT that) (NN hijacking))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS terrorists))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (DT a) (JJ disabled) (NNP American) (, ,) (NNP Leon) (NNP Klinghoffer) (, ,))
+sid=2 spanning 8 until 15 headed by 13 parsed as (NP (DT a) (JJ disabled) (NNP American) (, ,) (NNP Leon) (NNP Klinghoffer) (, ,))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (PRP he))
+sid=2 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ his) (NN wheelchair))
+sid=2 spanning 19 until 20 headed by 19 parsed as (PRP$ his)
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ his) (NN body))
+sid=3 spanning 2 until 3 headed by 2 parsed as (PRP$ his)
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (NNP David) (NNP Ensor))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (PRP us))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (NNP Washington))
+sid=5 spanning 0 until 2 headed by 0 parsed as (NP (NNP David) (. ?))
+(end predicted mentions)
+---------gold clusters--------
+9 8 | { 'David ?' 'National security correspondent David Ensor' }
+6 2 | { 'They' 'the terrorists' }
+7 3 4 5 | { 'his' 'a disabled American , Leon Klinghoffer ,' 'he' 'his' }
+0 1 | { 'the hijacking of the Italian cruise ship the Achille Lauro in 1985' 'that hijacking' }
+(end gold clusters)

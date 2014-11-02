@@ -1,0 +1,83 @@
+---------gloss--------
+(0) Strange story coming out of [33m{Syracuse , New York , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years}[0m . 
+(1) [4m[36m{He}[0m pleaded guilty this morning to five counts of kidnapping . 
+(2) Under a plea deal [4m[36m{he}[0m could get 15 years to life . 
+(3) [4m[36m{He}[0m was [32m{arrested}[0m in April for holding a [34m{girl}[0m hostage nearly seven months . 
+(4) [34m{The girl}[0m was kept in [4m[35m{a two - room concrete dungeon he built under the background of his home near Syracuse}[0m . 
+(5) After [4m[36m{his}[0m arrest , police found [31m{four other women who said they were abducted and raped by him}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0233); part 000
+sentences:
+StrangestrangeJJOPER0storystoryNNOPER0comingcomeVBGOPER0outoutINOPER0ofofINOPER0SyracuseSyracuseNNPGPEPER0,,,OPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0,,,OPER0wherewhereWRBOPER0aaDTOPER0retiredretireVBNOPER0handymanhandymanNNOPER0admittedadmitVBDOPER0hehePRPOPER0heldholdVBDOPER0fivefiveCDCARDINALPER0womenwomanNNSOPER0asasINOPER0sexsexNNOPER0slavesslaveNNSOPER0ininINOPER0anaDTOPER0undergroundundergroundJJOPER0bunkerbunkerNNOPER0overoverINOPER01515CDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (FRAG (NP (JJ Strange) (NN story)) (VP (VBG coming) (PP (IN out) (PP (IN of) (NP (NP (NP (NNP Syracuse)) (, ,) (NP (NNP New) (NNP York))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (VBN retired) (NN handyman)) (VP (VBD admitted) (SBAR (S (NP (PRP he)) (VP (VBD held) (NP (CD five) (NNS women)) (PP (IN as) (NP (NN sex) (NNS slaves))) (PP (IN in) (NP (NP (DT an) (JJ underground) (NN bunker)) (PP (IN over) (NP (CD 15) (NNS years))))))))))))))) (. .)))
+HehePRPOPER0pleadedpleadVBDOPER0guiltyguiltyJJOPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0totoINOPER0fivefiveCDCARDINALPER0countscountNNSOPER0ofofINOPER0kidnappingkidnappingNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD pleaded) (ADJP (JJ guilty)) (NP (DT this) (NN morning)) (PP (IN to) (NP (NP (CD five) (NNS counts)) (PP (IN of) (NP (NN kidnapping)))))) (. .)))
+UnderunderINOPER0aaDTOPER0pleapleaNNOPER0dealdealNNOPER0hehePRPOPER0couldcouldMDOPER0getgetVBOPER01515CDDATEPER0yearsyearNNSDATEPER0totoINOPER0lifelifeNNOPER0...OPER0(ROOT (S (PP (IN Under) (NP (DT a) (NN plea) (NN deal))) (NP (PRP he)) (VP (MD could) (VP (VB get) (NP (CD 15) (NNS years)) (PP (IN to) (NP (NN life))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0arrestedarrestVBNOPER0ininINOPER0AprilAprilNNPDATEPER0forforINOPER0holdingholdVBGOPER0aaDTOPER0girlgirlNNOPER0hostagehostageNNOPER0nearlynearlyRBOPER0sevensevenCDDATEPER0monthsmonthNNSDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBN arrested) (PP (IN in) (NP (NNP April))) (PP (IN for) (S (VP (VBG holding) (S (NP (NP (DT a) (NN girl) (NN hostage)) (NP (QP (RB nearly) (CD seven)) (NNS months))))))))) (. .)))
+ThetheDTOPER0girlgirlNNOPER0wasbeVBDOPER0keptkeepVBNOPER0ininINOPER0aaDTOPER0twotwoCDCARDINALPER0--HYPHOPER0roomroomNNOPER0concreteconcreteJJOPER0dungeondungeonNNOPER0hehePRPOPER0builtbuildVBDOPER0underunderINOPER0thetheDTOPER0backgroundbackgroundNNOPER0ofofINOPER0hishePRP$OPER0homehomeNNOPER0nearnearINOPER0SyracuseSyracuseNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN girl)) (VP (VBD was) (VP (VBN kept) (PP (IN in) (NP (NP (DT a) (NML (CD two) (HYPH -) (NN room)) (JJ concrete) (NN dungeon)) (SBAR (S (NP (PRP he)) (VP (VBD built) (PP (IN under) (NP (NP (DT the) (NN background)) (PP (IN of) (NP (NP (PRP$ his) (NN home)) (PP (IN near) (NP (NNP Syracuse)))))))))))))) (. .)))
+AfterafterINOPER0hishePRP$OPER0arrestarrestNNOPER0,,,OPER0policepoliceNNSOPER0foundfindVBDOPER0fourfourCDCARDINALPER0otherotherJJOPER0womenwomanNNSOPER0whowhoWPOPER0saidsayVBDOPER0theytheyPRPOPER0werebeVBDOPER0abductedabductVBNOPER0andandCCOPER0rapedrapeVBNOPER0bybyINOPER0himhePRPOPER0...OPER0(ROOT (S (PP (IN After) (NP (PRP$ his) (NN arrest))) (, ,) (NP (NNS police)) (VP (VBD found) (NP (NP (CD four) (JJ other) (NNS women)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBN abducted) (CC and) (VBN raped) (PP (IN by) (NP (PRP him)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 29 headed by 5 parsed as (NP (NP (NP (NNP Syracuse)) (, ,) (NP (NNP New) (NNP York))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (VBN retired) (NN handyman)) (VP (VBD admitted) (SBAR (S (NP (PRP he)) (VP (VBD held) (NP (CD five) (NNS women)) (PP (IN as) (NP (NN sex) (NNS slaves))) (PP (IN in) (NP (NP (DT an) (JJ underground) (NN bunker)) (PP (IN over) (NP (CD 15) (NNS years))))))))))))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (VBN retired) (NN handyman))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (NP (DT an) (JJ underground) (NN bunker)) (PP (IN over) (NP (CD 15) (NNS years))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 3 headed by 2 parsed as arrested
+sid=3 spanning 8 until 9 headed by 8 parsed as girl
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN girl))
+sid=4 spanning 5 until 21 headed by 10 parsed as (NP (NP (DT a) (NML (CD two) (HYPH -) (NN room)) (JJ concrete) (NN dungeon)) (SBAR (S (NP (PRP he)) (VP (VBD built) (PP (IN under) (NP (NP (DT the) (NN background)) (PP (IN of) (NP (NP (PRP$ his) (NN home)) (PP (IN near) (NP (NNP Syracuse)))))))))))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=4 spanning 17 until 18 headed by 17 parsed as his
+sid=4 spanning 20 until 21 headed by 20 parsed as (NP (NNP Syracuse))
+sid=5 spanning 1 until 3 headed by 2 parsed as (NP (PRP$ his) (NN arrest))
+sid=5 spanning 1 until 2 headed by 1 parsed as his
+sid=5 spanning 6 until 18 headed by 8 parsed as (NP (NP (CD four) (JJ other) (NNS women)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBN abducted) (CC and) (VBN raped) (PP (IN by) (NP (PRP him)))))))))))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=5 spanning 17 until 18 headed by 17 parsed as (NP (PRP him))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NP (NP (NNP Syracuse)) (, ,) (NP (NNP New) (NNP York))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (VBN retired) (NN handyman)) (VP (VBD admitted) (SBAR (S (NP (PRP he)) (VP (VBD held) (NP (CD five) (NNS women)) (PP (IN as) (NP (NN sex) (NNS slaves))) (PP (IN in) (NP (NP (DT an) (JJ underground) (NN bunker)) (PP (IN over) (NP (CD 15) (NNS years))))))))))))
+sid=0 spanning 5 until 29 headed by 5 parsed as (NP (NP (NP (NNP Syracuse)) (, ,) (NP (NNP New) (NNP York))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (VBN retired) (NN handyman)) (VP (VBD admitted) (SBAR (S (NP (PRP he)) (VP (VBD held) (NP (CD five) (NNS women)) (PP (IN as) (NP (NN sex) (NNS slaves))) (PP (IN in) (NP (NP (DT an) (JJ underground) (NN bunker)) (PP (IN over) (NP (CD 15) (NNS years))))))))))))
+sid=0 spanning 5 until 9 headed by 5 parsed as (NP (NP (NNP Syracuse)) (, ,) (NP (NNP New) (NNP York)))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NNP New) (NNP York))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (VBN retired) (NN handyman))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (CD five) (NNS women))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (NN sex) (NNS slaves))
+sid=0 spanning 23 until 29 headed by 25 parsed as (NP (NP (DT an) (JJ underground) (NN bunker)) (PP (IN over) (NP (CD 15) (NNS years))))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (CD 15) (NNS years))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT this) (NN morning))
+sid=1 spanning 6 until 10 headed by 7 parsed as (NP (NP (CD five) (NNS counts)) (PP (IN of) (NP (NN kidnapping))))
+sid=2 spanning 1 until 4 headed by 3 parsed as (NP (DT a) (NN plea) (NN deal))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP he))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (CD 15) (NNS years))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP April))
+sid=3 spanning 7 until 13 headed by 9 parsed as (NP (NP (DT a) (NN girl) (NN hostage)) (NP (QP (RB nearly) (CD seven)) (NNS months)))
+sid=3 spanning 10 until 13 headed by 12 parsed as (NP (QP (RB nearly) (CD seven)) (NNS months))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN girl))
+sid=4 spanning 5 until 21 headed by 10 parsed as (NP (NP (DT a) (NML (CD two) (HYPH -) (NN room)) (JJ concrete) (NN dungeon)) (SBAR (S (NP (PRP he)) (VP (VBD built) (PP (IN under) (NP (NP (DT the) (NN background)) (PP (IN of) (NP (NP (PRP$ his) (NN home)) (PP (IN near) (NP (NNP Syracuse)))))))))))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=4 spanning 14 until 21 headed by 15 parsed as (NP (NP (DT the) (NN background)) (PP (IN of) (NP (NP (PRP$ his) (NN home)) (PP (IN near) (NP (NNP Syracuse))))))
+sid=4 spanning 17 until 21 headed by 18 parsed as (NP (NP (PRP$ his) (NN home)) (PP (IN near) (NP (NNP Syracuse))))
+sid=4 spanning 17 until 18 headed by 17 parsed as (PRP$ his)
+sid=4 spanning 20 until 21 headed by 20 parsed as (NP (NNP Syracuse))
+sid=5 spanning 1 until 3 headed by 2 parsed as (NP (PRP$ his) (NN arrest))
+sid=5 spanning 1 until 2 headed by 1 parsed as (PRP$ his)
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (NNS police))
+sid=5 spanning 6 until 18 headed by 8 parsed as (NP (NP (CD four) (JJ other) (NNS women)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBN abducted) (CC and) (VBN raped) (PP (IN by) (NP (PRP him)))))))))))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=5 spanning 17 until 18 headed by 17 parsed as (NP (PRP him))
+(end predicted mentions)
+---------gold clusters--------
+10 3 | { 'a two - room concrete dungeon he built under the background of his home near Syracuse' 'an underground bunker' }
+4 5 2 6 15 1 12 18 11 | { 'He' 'he' 'he' 'He' 'his' 'a retired handyman' 'his' 'him' 'he' }
+16 17 | { 'four other women who said they were abducted and raped by him' 'they' }
+7 14 | { 'arrested' 'his arrest' }
+13 0 | { 'Syracuse' 'Syracuse , New York , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years' }
+9 8 | { 'The girl' 'girl' }
+(end gold clusters)

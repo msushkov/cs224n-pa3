@@ -1,0 +1,72 @@
+---------gloss--------
+(0) [1m[31m{Safeway Stores Inc.}[0m reported a 69 % decline in [1m[32m{profit}[0m for [35m{the fiscal third quarter}[0m , but said operating improvements were masked by [36m{unusual gains in the year - earlier period}[0m . 
+(1) [1m[31m{The Oakland grocery retailer , closely held since a $ 4.2 billion leveraged buy - out in 1986 ,}[0m said [1m[32m{profit for the three months ended Sept. 9}[0m was $ 7.1 million , compared with [1m[33m{$ 23 million a year earlier}[0m . 
+(2) But [1m[31m{it}[0m said [1m[33m{the year - earlier results}[0m included [36m{gains of $ 23.5 million from divestitures}[0m . 
+(3) Sales rose 4.2 % to $ 3.31 billion from $ 3.2 billion . 
+(4) For the nine months , [1m[31m{the company}[0m said profit fell 49 % to $ 23.5 million from $ 46 million in [1m[34m{the year - earlier quarter}[0m , which included divestiture - related gains of $ 50.6 million . 
+(5) Sales increased 5.5 % to $ 9.81 billion from $ 9.3 billion . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1170); part 000
+sentences:
+SafewaySafewayNNPORGPER0StoresStoresNNPSORGPER0Inc.Inc.NNPORGPER0reportedreportVBDOPER0aaDTOPER06969CDPERCENTPER0%%NNPERCENTPER0declinedeclineNNOPER0ininINOPER0profitprofitNNOPER0forforINOPER0thetheDTDATEPER0fiscalfiscalJJDATEPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0,,,OPER0butbutCCOPER0saidsayVBDOPER0operatingoperatingNNOPER0improvementsimprovementNNSOPER0werebeVBDOPER0maskedmaskVBNOPER0bybyINOPER0unusualunusualJJOPER0gainsgainNNSOPER0ininINOPER0thetheDTOPER0yearyearNNDATEPER0--HYPHDATEPER0earlierearlierJJRDATEPER0periodperiodNNOPER0...OPER0(ROOT (S (NP (NNP Safeway) (NNPS Stores) (NNP Inc.)) (VP (VP (VBD reported) (NP (NP (DT a) (NML (CD 69) (NN %)) (NN decline)) (PP (IN in) (NP (NP (NN profit)) (PP (IN for) (NP (DT the) (JJ fiscal) (JJ third) (NN quarter))))))) (, ,) (CC but) (VP (VBD said) (SBAR (S (NP (NN operating) (NNS improvements)) (VP (VBD were) (VP (VBN masked) (PP (IN by) (NP (NP (JJ unusual) (NNS gains)) (PP (IN in) (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN period))))))))))) (. .)))
+ThetheDTOPER0OaklandOaklandNNPGPEPER0grocerygroceryNNOPER0retailerretailerNNOPER0,,,OPER0closelycloselyRBOPER0heldholdVBNOPER0sincesinceINOPER0aaDTMONEYPER0$$$MONEYPER04.24.2CDMONEYPER0billionbillionCDMONEYPER0leveragedleverageVBNOPER0buybuyVBOPER0--HYPHOPER0outoutRPOPER0ininINOPER019861986CDDATEPER0,,,OPER0saidsayVBDOPER0profitprofitNNOPER0forforINOPER0thetheDTDATEPER0threethreeCDDATEPER0monthsmonthNNSDATEPER0endedendVBDDATEPER0Sept.Sept.NNPDATEPER099CDDATEPER0wasbeVBDOPER0$$$MONEYPER07.17.1CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0comparedcompareVBNOPER0withwithINOPER0$$$MONEYPER02323CDMONEYPER0millionmillionCDMONEYPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP Oakland) (NN grocery) (NN retailer)) (, ,) (VP (ADVP (RB closely)) (VBN held) (PP (IN since) (NP (NP (QP (DT a) ($ $) (CD 4.2) (CD billion))) (VP (VBN leveraged) (ADJP (VB buy) (HYPH -) (RP out)) (PP (IN in) (NP (CD 1986))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NP (NN profit)) (PP (IN for) (NP (DT the) (CD three) (NNS months)))) (VP (VBD ended) (NP (NNP Sept.) (CD 9)))) (VP (VBD was) (NP (QP ($ $) (CD 7.1) (CD million))) (, ,) (PP (VBN compared) (PP (IN with) (NP (QP ($ $) (CD 23) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))) (. .)))
+ButbutCCOPER0ititPRPOPER0saidsayVBDOPER0thetheDTOPER0yearyearNNDATEPER0--HYPHDATEPER0earlierearlierJJRDATEPER0resultsresultNNSOPER0includedincludeVBDOPER0gainsgainNNSOPER0ofofINOPER0$$$MONEYPER023.523.5CDMONEYPER0millionmillionCDMONEYPER0fromfromINOPER0divestituresdivestitureNNSOPER0...OPER0(ROOT (S (CC But) (NP (PRP it)) (VP (VBD said) (SBAR (S (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NNS results)) (VP (VBD included) (NP (NP (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 23.5) (CD million)))) (PP (IN from) (NP (NNS divestitures)))))))) (. .)))
+SalessaleNNSOPER0roseriseVBDOPER04.24.2CDPERCENTPER0%%NNPERCENTPER0totoINOPER0$$$MONEYPER03.313.31CDMONEYPER0billionbillionCDMONEYPER0fromfromINOPER0$$$MONEYPER03.23.2CDMONEYPER0billionbillionCDMONEYPER0...OPER0(ROOT (S (NP (NNS Sales)) (VP (VBD rose) (NP (CD 4.2) (NN %)) (PP (IN to) (NP (QP ($ $) (CD 3.31) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 3.2) (CD billion))))) (. .)))
+ForforINOPER0thetheDTDATEPER0ninenineCDDATEPER0monthsmonthNNSDATEPER0,,,OPER0thetheDTOPER0companycompanyNNOPER0saidsayVBDOPER0profitprofitNNOPER0fellfallVBDOPER04949CDPERCENTPER0%%NNPERCENTPER0totoINOPER0$$$MONEYPER023.523.5CDMONEYPER0millionmillionCDMONEYPER0fromfromINOPER0$$$MONEYPER04646CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0thetheDTDATEPER0yearyearNNDATEPER0--HYPHDATEPER0earlierearlierJJRDATEPER0quarterquarterNNDATEPER0,,,OPER0whichwhichWDTOPER0includedincludeVBDOPER0divestituredivestitureNNOPER0--HYPHOPER0relatedrelateVBNOPER0gainsgainNNSOPER0ofofINOPER0$$$MONEYPER050.650.6CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (PP (IN For) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (NN profit)) (VP (VBD fell) (NP (CD 49) (NN %)) (PP (IN to) (NP (QP ($ $) (CD 23.5) (CD million)))) (PP (IN from) (NP (NP (QP ($ $) (CD 46) (CD million))) (PP (IN in) (NP (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN quarter)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD included) (NP (NP (ADJP (NN divestiture) (HYPH -) (VBN related)) (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 50.6) (CD million)))))))))))))))) (. .)))
+SalessaleNNSOPER0increasedincreaseVBDOPER05.55.5CDPERCENTPER0%%NNPERCENTPER0totoINOPER0$$$MONEYPER09.819.81CDMONEYPER0billionbillionCDMONEYPER0fromfromINOPER0$$$MONEYPER09.39.3CDMONEYPER0billionbillionCDMONEYPER0...OPER0(ROOT (S (NP (NNS Sales)) (VP (VBD increased) (NP (CD 5.5) (NN %)) (PP (IN to) (NP (QP ($ $) (CD 9.81) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 9.3) (CD billion))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Safeway) (NNPS Stores) (NNP Inc.))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NP (NN profit)) (PP (IN for) (NP (DT the) (JJ fiscal) (JJ third) (NN quarter))))
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (JJ fiscal) (JJ third) (NN quarter))
+sid=0 spanning 23 until 31 headed by 24 parsed as (NP (NP (JJ unusual) (NNS gains)) (PP (IN in) (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN period))))
+sid=0 spanning 26 until 31 headed by 30 parsed as (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN period))
+sid=1 spanning 0 until 19 headed by 3 parsed as (NP (NP (DT The) (NNP Oakland) (NN grocery) (NN retailer)) (, ,) (VP (ADVP (RB closely)) (VBN held) (PP (IN since) (NP (NP (QP (DT a) ($ $) (CD 4.2) (CD billion))) (VP (VBN leveraged) (ADJP (VB buy) (HYPH -) (RP out)) (PP (IN in) (NP (CD 1986))))))) (, ,))
+sid=1 spanning 20 until 28 headed by 20 parsed as (NP (NP (NP (NN profit)) (PP (IN for) (NP (DT the) (CD three) (NNS months)))) (VP (VBD ended) (NP (NNP Sept.) (CD 9))))
+sid=1 spanning 22 until 28 headed by 24 parsed as (NP (DT the) (CD three) (NNS months))
+sid=1 spanning 35 until 41 headed by 40 parsed as earlier
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=2 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NNS results))
+sid=2 spanning 9 until 16 headed by 9 parsed as (NP (NP (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 23.5) (CD million)))) (PP (IN from) (NP (NNS divestitures))))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN company))
+sid=4 spanning 21 until 26 headed by 25 parsed as (NP (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN quarter)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD included) (NP (NP (ADJP (NN divestiture) (HYPH -) (VBN related)) (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 50.6) (CD million)))))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Safeway) (NNPS Stores) (NNP Inc.))
+sid=0 spanning 4 until 15 headed by 7 parsed as (NP (NP (DT a) (NML (CD 69) (NN %)) (NN decline)) (PP (IN in) (NP (NP (NN profit)) (PP (IN for) (NP (DT the) (JJ fiscal) (JJ third) (NN quarter))))))
+sid=0 spanning 9 until 15 headed by 9 parsed as (NP (NP (NN profit)) (PP (IN for) (NP (DT the) (JJ fiscal) (JJ third) (NN quarter))))
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (JJ fiscal) (JJ third) (NN quarter))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (NN operating) (NNS improvements))
+sid=0 spanning 23 until 31 headed by 24 parsed as (NP (NP (JJ unusual) (NNS gains)) (PP (IN in) (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN period))))
+sid=0 spanning 26 until 31 headed by 30 parsed as (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN period))
+sid=0 spanning 27 until 30 headed by 27 parsed as year
+sid=1 spanning 0 until 19 headed by 3 parsed as (NP (NP (DT The) (NNP Oakland) (NN grocery) (NN retailer)) (, ,) (VP (ADVP (RB closely)) (VBN held) (PP (IN since) (NP (NP (QP (DT a) ($ $) (CD 4.2) (CD billion))) (VP (VBN leveraged) (ADJP (VB buy) (HYPH -) (RP out)) (PP (IN in) (NP (CD 1986))))))) (, ,))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP Oakland) (NN grocery) (NN retailer))
+sid=1 spanning 1 until 2 headed by 1 parsed as Oakland
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (CD 1986))
+sid=1 spanning 20 until 28 headed by 20 parsed as (NP (NP (NP (NN profit)) (PP (IN for) (NP (DT the) (CD three) (NNS months)))) (VP (VBD ended) (NP (NNP Sept.) (CD 9))))
+sid=1 spanning 22 until 28 headed by 24 parsed as (NP (DT the) (CD three) (NNS months))
+sid=1 spanning 38 until 41 headed by 40 parsed as earlier
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP it))
+sid=2 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NNS results))
+sid=2 spanning 4 until 7 headed by 4 parsed as year
+sid=2 spanning 9 until 16 headed by 9 parsed as (NP (NP (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 23.5) (CD million)))) (PP (IN from) (NP (NNS divestitures))))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NNS divestitures))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Sales))
+sid=4 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (CD nine) (NNS months))
+sid=4 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN company))
+sid=4 spanning 21 until 26 headed by 25 parsed as (NP (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN quarter)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD included) (NP (NP (ADJP (NN divestiture) (HYPH -) (VBN related)) (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 50.6) (CD million)))))))))
+sid=4 spanning 21 until 37 headed by 25 parsed as (NP (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN quarter)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD included) (NP (NP (ADJP (NN divestiture) (HYPH -) (VBN related)) (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 50.6) (CD million)))))))))
+sid=4 spanning 29 until 37 headed by 32 parsed as (NP (NP (ADJP (NN divestiture) (HYPH -) (VBN related)) (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 50.6) (CD million)))))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Sales))
+(end predicted mentions)
+---------gold clusters--------
+2 7 | { 'the fiscal third quarter' 'the three months ended Sept. 9' }
+11 3 | { 'gains of $ 23.5 million from divestitures' 'unusual gains in the year - earlier period' }
+5 9 12 0 | { 'The Oakland grocery retailer , closely held since a $ 4.2 billion leveraged buy - out in 1986 ,' 'it' 'the company' 'Safeway Stores Inc.' }
+1 6 | { 'profit' 'profit for the three months ended Sept. 9' }
+10 8 | { 'the year - earlier results' '$ 23 million a year earlier' }
+4 13 | { 'the year - earlier period' 'the year - earlier quarter' }
+(end gold clusters)

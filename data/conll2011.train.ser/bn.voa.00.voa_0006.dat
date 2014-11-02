@@ -1,0 +1,44 @@
+---------gloss--------
+(0) Monday , Israeli forces began using helicopter gun ships against Palestinians in the West Bank and Gaza Strip who were armed with stones and automatic weapons . 
+(1) The fighting also spread to Arab villages inside Israel . 
+(2) In New York , the UN Security Council is holding a closed door meeting on the clashes that began last Thursday after Israeli opposition leader Ariel Sharon made a controversial visit to a site in East Jerusalem sacred to both Muslims and Jews . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0006); part 000
+sentences:
+MondayMondayNNPDATEPER0,,,OPER0IsraeliisraeliJJOPER0forcesforceNNSOPER0beganbeginVBDOPER0usinguseVBGOPER0helicopterhelicopterNNOPER0gungunNNOPER0shipsshipNNSOPER0againstagainstINOPER0PalestiniansPalestiniansNNPSOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0whowhoWPOPER0werebeVBDOPER0armedarmVBNOPER0withwithINOPER0stonesstoneNNSOPER0andandCCOPER0automaticautomaticJJOPER0weaponsweaponNNSOPER0...OPER0(ROOT (S (NP (NNP Monday)) (, ,) (NP (JJ Israeli) (NNS forces)) (VP (VBD began) (S (VP (VBG using) (NP (NN helicopter) (NN gun) (NNS ships)) (PP (IN against) (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN armed) (PP (IN with) (NP (NP (NNS stones)) (CC and) (NP (JJ automatic) (NNS weapons))))))))))))))) (. .)))
+ThetheDTOPER0fightingfightingNNOPER0alsoalsoRBOPER0spreadspreadVBNOPER0totoINOPER0ArabarabJJOPER0villagesvillageNNSOPER0insideinsideINOPER0IsraelIsraelNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN fighting)) (ADVP (RB also)) (VP (VBN spread) (PP (IN to) (NP (NP (JJ Arab) (NNS villages)) (PP (IN inside) (NP (NNP Israel)))))) (. .)))
+IninINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0,,,OPER0thetheDTORGPER0UNUNNNPORGPER0SecuritySecurityNNPORGPER0CouncilCouncilNNPORGPER0isbeVBZOPER0holdingholdVBGOPER0aaDTOPER0closedclosedJJOPER0doordoorNNOPER0meetingmeetingNNOPER0ononINOPER0thetheDTOPER0clashesclashNNSOPER0thatthatWDTOPER0beganbeginVBDOPER0lastlastJJDATEPER0ThursdayThursdayNNPDATEPER0afterafterINOPER0IsraeliisraeliJJOPER0oppositionoppositionNNOPER0leaderleaderNNOPER0ArielArielNNPPERSONPER0SharonSharonNNPPERSONPER0mademakeVBDOPER0aaDTOPER0controversialcontroversialJJOPER0visitvisitNNOPER0totoINOPER0aaDTOPER0sitesiteNNOPER0ininINOPER0EastEastNNPGPEPER0JerusalemJerusalemNNPGPEPER0sacredsacredJJOPER0totoINOPER0bothbothDTOPER0MuslimsMuslimsNNPSOPER0andandCCOPER0JewsJewsNNPSOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP New) (NNP York))) (, ,) (NP (DT the) (NNP UN) (NNP Security) (NNP Council)) (VP (VBZ is) (VP (VBG holding) (NP (DT a) (NML (JJ closed) (NN door)) (NN meeting)) (PP (IN on) (NP (NP (DT the) (NNS clashes)) (SBAR (WHNP (WDT that)) (S (VP (VBD began) (NP (JJ last) (NNP Thursday)) (SBAR (IN after) (S (NP (NML (JJ Israeli) (NN opposition) (NN leader)) (NNP Ariel) (NNP Sharon)) (VP (VBD made) (S (NP (NP (DT a) (JJ controversial) (NN visit)) (PP (IN to) (NP (NP (DT a) (NN site)) (PP (IN in) (NP (NNP East) (NNP Jerusalem)))))) (ADJP (JJ sacred) (PP (IN to) (NP (DT both) (NNPS Muslims) (CC and) (NNPS Jews))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Monday))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (JJ Israeli) (NNS forces))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (NN helicopter) (NN gun) (NNS ships))
+sid=0 spanning 10 until 26 headed by 10 parsed as (NP (NP (NNPS Palestinians)) (PP (IN in) (NP (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN armed) (PP (IN with) (NP (NP (NNS stones)) (CC and) (NP (JJ automatic) (NNS weapons)))))))))))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN armed) (PP (IN with) (NP (NP (NNS stones)) (CC and) (NP (JJ automatic) (NNS weapons)))))))))
+sid=0 spanning 12 until 26 headed by 14 parsed as (NP (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN armed) (PP (IN with) (NP (NP (NNS stones)) (CC and) (NP (JJ automatic) (NNS weapons)))))))))
+sid=0 spanning 16 until 18 headed by 17 parsed as Strip
+sid=0 spanning 22 until 26 headed by 22 parsed as (NP (NP (NNS stones)) (CC and) (NP (JJ automatic) (NNS weapons)))
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNS stones))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (JJ automatic) (NNS weapons))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN fighting))
+sid=1 spanning 5 until 9 headed by 6 parsed as (NP (NP (JJ Arab) (NNS villages)) (PP (IN inside) (NP (NNP Israel))))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Israel))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (NNP New) (NNP York))
+sid=2 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (NNP UN) (NNP Security) (NNP Council))
+sid=2 spanning 10 until 14 headed by 13 parsed as (NP (DT a) (NML (JJ closed) (NN door)) (NN meeting))
+sid=2 spanning 15 until 43 headed by 16 parsed as (NP (NP (DT the) (NNS clashes)) (SBAR (WHNP (WDT that)) (S (VP (VBD began) (NP (JJ last) (NNP Thursday)) (SBAR (IN after) (S (NP (NML (JJ Israeli) (NN opposition) (NN leader)) (NNP Ariel) (NNP Sharon)) (VP (VBD made) (S (NP (NP (DT a) (JJ controversial) (NN visit)) (PP (IN to) (NP (NP (DT a) (NN site)) (PP (IN in) (NP (NNP East) (NNP Jerusalem)))))) (ADJP (JJ sacred) (PP (IN to) (NP (DT both) (NNPS Muslims) (CC and) (NNPS Jews))))))))))))
+sid=2 spanning 19 until 21 headed by 20 parsed as (NP (JJ last) (NNP Thursday))
+sid=2 spanning 22 until 27 headed by 26 parsed as (NP (NML (JJ Israeli) (NN opposition) (NN leader)) (NNP Ariel) (NNP Sharon))
+sid=2 spanning 28 until 37 headed by 30 parsed as (NP (NP (DT a) (JJ controversial) (NN visit)) (PP (IN to) (NP (NP (DT a) (NN site)) (PP (IN in) (NP (NNP East) (NNP Jerusalem))))))
+sid=2 spanning 32 until 37 headed by 33 parsed as (NP (NP (DT a) (NN site)) (PP (IN in) (NP (NNP East) (NNP Jerusalem))))
+sid=2 spanning 35 until 37 headed by 36 parsed as (NP (NNP East) (NNP Jerusalem))
+sid=2 spanning 39 until 43 headed by 40 parsed as (NP (DT both) (NNPS Muslims) (CC and) (NNPS Jews))
+sid=2 spanning 40 until 41 headed by 40 parsed as (NNPS Muslims)
+sid=2 spanning 42 until 43 headed by 42 parsed as (NNPS Jews)
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

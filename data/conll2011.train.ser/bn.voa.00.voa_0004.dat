@@ -1,0 +1,24 @@
+---------gloss--------
+(0) The head of [3m[31m{the United Nations Refugee Agency}[0m Sadaqal O'Gatta has warned that [3m[31m{the agency}[0m will become critically weakened unless [3m[31m{it}[0m receives increased funding . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0004); part 000
+sentences:
+ThetheDTOPER0headheadNNOPER0ofofINOPER0thetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0RefugeeRefugeeNNPORGPER0AgencyAgencyNNPORGPER0SadaqalSadaqalNNPPERSONPER0O'GattaO'GattaNNPPERSONPER0hashaveVBZOPER0warnedwarnVBNOPER0thatthatINOPER0thetheDTOPER0agencyagencyNNOPER0willwillMDOPER0becomebecomeVBOPER0criticallycriticallyRBOPER0weakenedweakenVBNOPER0unlessunlessINOPER0ititPRPOPER0receivesreceiveVBZOPER0increasedincreaseVBNOPER0fundingfundingNNOPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NN head)) (PP (IN of) (NP (DT the) (NML (NNP United) (NNP Nations)) (NNP Refugee) (NNP Agency)))) (NP (NNP Sadaqal) (NNP O'Gatta))) (VP (VBZ has) (VP (VBN warned) (SBAR (IN that) (S (NP (DT the) (NN agency)) (VP (MD will) (VP (VB become) (ADVP (RB critically)) (VP (VBN weakened) (SBAR (IN unless) (S (NP (PRP it)) (VP (VBZ receives) (VP (VBN increased) (NP (NN funding))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (NML (NNP United) (NNP Nations)) (NNP Refugee) (NNP Agency))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN agency))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 10 headed by 1 parsed as (NP (NP (NP (DT The) (NN head)) (PP (IN of) (NP (DT the) (NML (NNP United) (NNP Nations)) (NNP Refugee) (NNP Agency)))) (NP (NNP Sadaqal) (NNP O'Gatta)))
+sid=0 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (NML (NNP United) (NNP Nations)) (NNP Refugee) (NNP Agency))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NNP Sadaqal) (NNP O'Gatta))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN agency))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'it' 'the United Nations Refugee Agency' 'the agency' }
+(end gold clusters)

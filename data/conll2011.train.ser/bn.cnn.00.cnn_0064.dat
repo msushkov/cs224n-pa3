@@ -1,0 +1,66 @@
+---------gloss--------
+(0) Reformers in [36m{Yugoslavia}[0m got a significant boost today . 
+(1) [1m[33m{The Serbian parliament}[0m approved a power - sharing administration to run [36m{the republic}[0m until early elections in December . 
+(2) [1m[33m{The legislative body}[0m is the last major bastion of support for [1m[32m{former President Slobodan Milosevic}[0m . 
+(3) [1m[32m{His}[0m successor , Vojislav Kostunica leader to admit Army and police forces committed widespread killings in Kosovo last year . 
+(4) In a television interview , [1m[31m{Kostunica}[0m says [1m[31m{he}[0m is ready to accept responsibility for the crimes committed under the [1m[32m{Milosevic}[0m regime . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0064); part 000
+sentences:
+ReformersreformerNNSOPER0ininINOPER0YugoslaviaYugoslaviaNNPGPEPER0gotgetVBDOPER0aaDTOPER0significantsignificantJJOPER0boostboostNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (NNS Reformers)) (PP (IN in) (NP (NNP Yugoslavia)))) (VP (VBD got) (NP (DT a) (JJ significant) (NN boost)) (NP (NN today))) (. .)))
+ThetheDTOPER0SerbianserbianJJOPER0parliamentparliamentNNOPER0approvedapproveVBDOPER0aaDTOPER0powerpowerNNOPER0--HYPHOPER0sharingshareVBGOPER0administrationadministrationNNOPER0totoTOOPER0runrunVBOPER0thetheDTOPER0republicrepublicNNOPER0untiluntilINOPER0earlyearlyJJDATEPER0electionselectionNNSOPER0ininINOPER0DecemberDecemberNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ Serbian) (NN parliament)) (VP (VBD approved) (NP (DT a) (ADJP (NN power) (HYPH -) (VBG sharing)) (NN administration) (S (VP (TO to) (VP (VB run) (NP (DT the) (NN republic)) (PP (IN until) (NP (NP (JJ early) (NNS elections)) (PP (IN in) (NP (NNP December)))))))))) (. .)))
+ThetheDTOPER0legislativelegislativeJJOPER0bodybodyNNOPER0isbeVBZOPER0thetheDTOPER0lastlastJJOPER0majormajorJJOPER0bastionbastionNNOPER0ofofINOPER0supportsupportNNOPER0forforINOPER0formerformerJJOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0...OPER0(ROOT (S (NP (DT The) (JJ legislative) (NN body)) (VP (VBZ is) (NP (NP (DT the) (JJ last) (JJ major) (NN bastion)) (PP (IN of) (NP (NP (NN support)) (PP (IN for) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))))))) (. .)))
+HishePRP$OPER0successorsuccessorNNOPER0,,,OPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0leaderleaderNNOPER0totoTOOPER0admitadmitVBOPER0ArmyArmyNNPORGPER0andandCCOPER0policepoliceNNSOPER0forcesforceNNSOPER0committedcommitVBDOPER0widespreadwidespreadJJOPER0killingskillingNNSOPER0ininINOPER0KosovoKosovoNNPGPEPER0lastlastJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (PRP$ His) (NN successor)) (, ,) (NP (NNP Vojislav) (NNP Kostunica))) (VP (NN leader) (S (VP (TO to) (VP (VB admit) (SBAR (S (NP (NML (NML (NNP Army)) (CC and) (NML (NNS police))) (NNS forces)) (VP (VBD committed) (NP (NP (JJ widespread) (NNS killings)) (PP (IN in) (NP (NNP Kosovo)))) (NP (JJ last) (NN year))))))))) (. .)))
+IninINOPER0aaDTOPER0televisiontelevisionNNOPER0interviewinterviewNNOPER0,,,OPER0KostunicaKostunicaNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0isbeVBZOPER0readyreadyJJOPER0totoTOOPER0acceptacceptVBOPER0responsibilityresponsibilityNNOPER0forforINOPER0thetheDTOPER0crimescrimeNNSOPER0committedcommitVBNOPER0underunderINOPER0thetheDTOPER0MilosevicMilosevicNNPPERSONPER0regimeregimeNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (DT a) (NN television) (NN interview))) (, ,) (NP (NNP Kostunica)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (ADJP (JJ ready) (S (VP (TO to) (VP (VB accept) (NP (NP (NN responsibility)) (PP (IN for) (NP (NP (DT the) (NNS crimes)) (VP (VBN committed) (PP (IN under) (NP (DT the) (NNP Milosevic) (NN regime))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NNP Yugoslavia))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Serbian) (NN parliament))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN republic))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ legislative) (NN body))
+sid=2 spanning 11 until 15 headed by 14 parsed as (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=3 spanning 0 until 5 headed by 1 parsed as (NP (NP (PRP$ His) (NN successor)) (, ,) (NP (NNP Vojislav) (NNP Kostunica)))
+sid=3 spanning 0 until 1 headed by 0 parsed as His
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNP Kostunica))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=4 spanning 19 until 20 headed by 19 parsed as Milosevic
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Reformers)) (PP (IN in) (NP (NNP Yugoslavia))))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (JJ significant) (NN boost))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Serbian) (NN parliament))
+sid=1 spanning 4 until 18 headed by 8 parsed as (NP (DT a) (ADJP (NN power) (HYPH -) (VBG sharing)) (NN administration) (S (VP (TO to) (VP (VB run) (NP (DT the) (NN republic)) (PP (IN until) (NP (NP (JJ early) (NNS elections)) (PP (IN in) (NP (NNP December)))))))))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN republic))
+sid=1 spanning 14 until 18 headed by 15 parsed as (NP (NP (JJ early) (NNS elections)) (PP (IN in) (NP (NNP December))))
+sid=1 spanning 14 until 15 headed by 14 parsed as early
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP December))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ legislative) (NN body))
+sid=2 spanning 4 until 15 headed by 7 parsed as (NP (NP (DT the) (JJ last) (JJ major) (NN bastion)) (PP (IN of) (NP (NP (NN support)) (PP (IN for) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))))))
+sid=2 spanning 9 until 15 headed by 9 parsed as (NP (NP (NN support)) (PP (IN for) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))))
+sid=2 spanning 11 until 15 headed by 14 parsed as (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=3 spanning 0 until 5 headed by 1 parsed as (NP (NP (PRP$ His) (NN successor)) (, ,) (NP (NNP Vojislav) (NNP Kostunica)))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ His) (NN successor))
+sid=3 spanning 0 until 1 headed by 0 parsed as (PRP$ His)
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NNP Vojislav) (NNP Kostunica))
+sid=3 spanning 8 until 12 headed by 11 parsed as (NP (NML (NML (NNP Army)) (CC and) (NML (NNS police))) (NNS forces))
+sid=3 spanning 8 until 9 headed by 8 parsed as Army
+sid=3 spanning 13 until 17 headed by 14 parsed as (NP (NP (JJ widespread) (NNS killings)) (PP (IN in) (NP (NNP Kosovo))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (NNP Kosovo))
+sid=3 spanning 17 until 19 headed by 18 parsed as (NP (JJ last) (NN year))
+sid=4 spanning 1 until 4 headed by 3 parsed as (NP (DT a) (NN television) (NN interview))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNP Kostunica))
+sid=4 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=4 spanning 12 until 21 headed by 12 parsed as (NP (NP (NN responsibility)) (PP (IN for) (NP (NP (DT the) (NNS crimes)) (VP (VBN committed) (PP (IN under) (NP (DT the) (NNP Milosevic) (NN regime)))))))
+sid=4 spanning 14 until 21 headed by 15 parsed as (NP (NP (DT the) (NNS crimes)) (VP (VBN committed) (PP (IN under) (NP (DT the) (NNP Milosevic) (NN regime)))))
+sid=4 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NNP Milosevic) (NN regime))
+sid=4 spanning 19 until 20 headed by 19 parsed as Milosevic
+(end predicted mentions)
+---------gold clusters--------
+2 0 | { 'the republic' 'Yugoslavia' }
+5 7 8 | { 'His successor , Vojislav Kostunica' 'Kostunica' 'he' }
+6 9 4 | { 'His' 'Milosevic' 'former President Slobodan Milosevic' }
+1 3 | { 'The Serbian parliament' 'The legislative body' }
+(end gold clusters)

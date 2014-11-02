@@ -1,0 +1,59 @@
+---------gloss--------
+(0) [4m[32m{Falcon Cable Systems Co.}[0m said [4m[32m{it}[0m proposed [4m[31m{an amendment that would allow it to increase its debt cap to 65 % of the company 's fair market value from the 40 % currently allowed}[0m . 
+(1) [4m[32m{Falcon , a limited partnership ,}[0m said [4m[32m{it}[0m wanted [3m[36m{the increase}[0m in order to continue [4m[32m{its}[0m $ 2.15 - per - unit annual payment , and for expansion and acquisitions . 
+(2) A spokesman for [4m[32m{the company}[0m said a meeting would be held for shareholders to vote on [4m[31m{the amendment}[0m before year 's end . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1433); part 000
+sentences:
+FalconFalconNNPORGPER0CableCableNNPORGPER0SystemsSystemsNNPSORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0ititPRPOPER0proposedproposeVBDOPER0anaDTOPER0amendmentamendmentNNOPER0thatthatWDTOPER0wouldwouldMDOPER0allowallowVBOPER0ititPRPOPER0totoTOOPER0increaseincreaseVBOPER0itsitsPRP$OPER0debtdebtNNOPER0capcapNNOPER0totoINOPER06565CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0fairfairJJOPER0marketmarketNNOPER0valuevalueNNOPER0fromfromINOPER0thetheDTPERCENTPER04040CDPERCENTPER0%%NNPERCENTPER0currentlycurrentlyRBOPER0allowedallowVBNOPER0...OPER0(ROOT (S (NP (NNP Falcon) (NNP Cable) (NNPS Systems) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD proposed) (NP (NP (DT an) (NN amendment)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB allow) (S (NP (PRP it)) (VP (TO to) (VP (VB increase) (NP (PRP$ its) (NN debt) (NN cap)) (PP (IN to) (NP (NP (CD 65) (NN %)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (JJ fair) (NN market) (NN value))))) (PP (IN from) (NP (NP (DT the) (CD 40) (NN %)) (VP (ADVP (RB currently)) (VBN allowed)))))))))))))))) (. .)))
+FalconFalconNNPORGPER0,,,OPER0aaDTOPER0limitedlimitedJJOPER0partnershippartnershipNNOPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0wantedwantVBDOPER0thetheDTOPER0increaseincreaseNNOPER0ininINOPER0orderorderNNOPER0totoTOOPER0continuecontinueVBOPER0itsitsPRP$OPER0$$$MONEYPER02.152.15CDMONEYPER0--HYPHMONEYPER0perperINOPER0--HYPHOPER0unitunitNNOPER0annualannualJJDATEPER0paymentpaymentNNOPER0,,,OPER0andandCCOPER0forforINOPER0expansionexpansionNNOPER0andandCCOPER0acquisitionsacquisitionNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Falcon)) (, ,) (NP (DT a) (JJ limited) (NN partnership)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD wanted) (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB continue) (NP (PRP$ its) (NML (NML (QP ($ $) (CD 2.15))) (HYPH -) (PP (IN per) (HYPH -) (NP (NN unit)))) (JJ annual) (NN payment)) (, ,) (NAC (CC and) (PP (IN for) (NP (NN expansion) (CC and) (NNS acquisitions)))))))))))))) (. .)))
+AaDTOPER0spokesmanspokesmanNNOPER0forforINOPER0thetheDTOPER0companycompanyNNOPER0saidsayVBDOPER0aaDTOPER0meetingmeetingNNOPER0wouldwouldMDOPER0bebeVBOPER0heldholdVBNOPER0forforINOPER0shareholdersshareholderNNSOPER0totoTOOPER0votevoteVBOPER0ononINOPER0thetheDTOPER0amendmentamendmentNNOPER0beforebeforeINOPER0yearyearNNDATEPER0's'sPOSDATEPER0endendNNDATEPER0...OPER0(ROOT (S (NP (NP (DT A) (NN spokesman)) (PP (IN for) (NP (DT the) (NN company)))) (VP (VBD said) (SBAR (S (NP (DT a) (NN meeting)) (VP (MD would) (VP (VB be) (VP (VBN held) (SBAR (IN for) (S (NP (NNS shareholders)) (VP (TO to) (VP (VB vote) (PP (IN on) (NP (DT the) (NN amendment))) (PP (IN before) (NP (NP (NN year) (POS 's)) (NN end))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP Falcon) (NNP Cable) (NNPS Systems) (NNP Co.))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 7 until 34 headed by 8 parsed as (NP (NP (DT an) (NN amendment)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB allow) (S (NP (PRP it)) (VP (TO to) (VP (VB increase) (NP (PRP$ its) (NN debt) (NN cap)) (PP (IN to) (NP (NP (CD 65) (NN %)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (JJ fair) (NN market) (NN value))))) (PP (IN from) (NP (NP (DT the) (CD 40) (NN %)) (VP (ADVP (RB currently)) (VBN allowed))))))))))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=0 spanning 14 until 15 headed by 14 parsed as increase
+sid=0 spanning 15 until 16 headed by 15 parsed as its
+sid=0 spanning 22 until 25 headed by 23 parsed as (NP (DT the) (NN company) (POS 's))
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Falcon)) (, ,) (NP (DT a) (JJ limited) (NN partnership)) (, ,))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB continue) (NP (PRP$ its) (NML (NML (QP ($ $) (CD 2.15))) (HYPH -) (PP (IN per) (HYPH -) (NP (NN unit)))) (JJ annual) (NN payment)) (, ,) (NAC (CC and) (PP (IN for) (NP (NN expansion) (CC and) (NNS acquisitions))))))))))
+sid=1 spanning 15 until 16 headed by 15 parsed as its
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN company))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN amendment))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP Falcon) (NNP Cable) (NNPS Systems) (NNP Co.))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=0 spanning 7 until 34 headed by 8 parsed as (NP (NP (DT an) (NN amendment)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB allow) (S (NP (PRP it)) (VP (TO to) (VP (VB increase) (NP (PRP$ its) (NN debt) (NN cap)) (PP (IN to) (NP (NP (CD 65) (NN %)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (JJ fair) (NN market) (NN value))))) (PP (IN from) (NP (NP (DT the) (CD 40) (NN %)) (VP (ADVP (RB currently)) (VBN allowed))))))))))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=0 spanning 15 until 18 headed by 17 parsed as (NP (PRP$ its) (NN debt) (NN cap))
+sid=0 spanning 15 until 16 headed by 15 parsed as (PRP$ its)
+sid=0 spanning 22 until 28 headed by 27 parsed as (NP (NP (DT the) (NN company) (POS 's)) (JJ fair) (NN market) (NN value))
+sid=0 spanning 22 until 25 headed by 23 parsed as (NP (DT the) (NN company) (POS 's))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Falcon)) (, ,) (NP (DT a) (JJ limited) (NN partnership)) (, ,))
+sid=1 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Falcon)) (, ,) (NP (DT a) (JJ limited) (NN partnership)) (, ,))
+sid=1 spanning 2 until 5 headed by 4 parsed as (NP (DT a) (JJ limited) (NN partnership))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=1 spanning 9 until 30 headed by 10 parsed as (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB continue) (NP (PRP$ its) (NML (NML (QP ($ $) (CD 2.15))) (HYPH -) (PP (IN per) (HYPH -) (NP (NN unit)))) (JJ annual) (NN payment)) (, ,) (NAC (CC and) (PP (IN for) (NP (NN expansion) (CC and) (NNS acquisitions))))))))))
+sid=1 spanning 12 until 30 headed by 12 parsed as (NP (NN order) (S (VP (TO to) (VP (VB continue) (NP (PRP$ its) (NML (NML (QP ($ $) (CD 2.15))) (HYPH -) (PP (IN per) (HYPH -) (NP (NN unit)))) (JJ annual) (NN payment)) (, ,) (NAC (CC and) (PP (IN for) (NP (NN expansion) (CC and) (NNS acquisitions))))))))
+sid=1 spanning 15 until 24 headed by 23 parsed as (NP (PRP$ its) (NML (NML (QP ($ $) (CD 2.15))) (HYPH -) (PP (IN per) (HYPH -) (NP (NN unit)))) (JJ annual) (NN payment))
+sid=1 spanning 15 until 16 headed by 15 parsed as (PRP$ its)
+sid=1 spanning 22 until 23 headed by 22 parsed as annual
+sid=1 spanning 27 until 30 headed by 27 parsed as (NP (NN expansion) (CC and) (NNS acquisitions))
+sid=2 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT A) (NN spokesman)) (PP (IN for) (NP (DT the) (NN company))))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN company))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN meeting))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNS shareholders))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN amendment))
+sid=2 spanning 19 until 22 headed by 21 parsed as (NP (NP (NN year) (POS 's)) (NN end))
+(end predicted mentions)
+---------gold clusters--------
+9 4 | { 'the increase' 'increase' }
+12 2 | { 'the amendment' 'an amendment that would allow it to increase its debt cap to 65 % of the company 's fair market value from the 40 % currently allowed' }
+7 8 10 1 5 11 6 3 0 | { 'Falcon , a limited partnership ,' 'it' 'its' 'it' 'its' 'the company' 'the company 's' 'it' 'Falcon Cable Systems Co.' }
+(end gold clusters)

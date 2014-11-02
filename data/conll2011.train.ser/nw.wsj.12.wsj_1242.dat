@@ -1,0 +1,67 @@
+---------gloss--------
+(0) [1m[35m{Bausch & Lomb Inc.}[0m said [1m[35m{its}[0m pharmaceuticals subsidiary [1m[31m{agreed}[0m to supply [1m[33m{collagen corneal shields for animal eye surgery}[0m to [1m[34m{a unit of International Minerals & Chemical Corp}[0m . 
+(1) Terms were n't disclosed . 
+(2) [1m[31m{The agreement}[0m marks [1m[35m{Bausch & Lomb 's}[0m first venture selling [1m[35m{its}[0m eye care products for use by veterinarians . 
+(3) [1m[33m{The collagen corneal shield}[0m helps speed healing of the cornea after eye surgery . 
+(4) [1m[33m{The product}[0m will be distributed by [1m[34m{Pitman - Moore Inc. , a subsidiary of International Minerals}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1242); part 000
+sentences:
+BauschBauschNNPORGPER0&&CCORGPER0LombLombNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0pharmaceuticalspharmaceuticalsNNPOPER0subsidiarysubsidiaryNNOPER0agreedagreeVBDOPER0totoTOOPER0supplysupplyVBOPER0collagencollagenNNOPER0cornealcornealJJOPER0shieldsshieldNNSOPER0forforINOPER0animalanimalNNOPER0eyeeyeNNOPER0surgerysurgeryNNOPER0totoINOPER0aaDTOPER0unitunitNNOPER0ofofINOPER0InternationalInternationalNNPORGPER0MineralsMineralsNNPSORGPER0&&CCORGPER0ChemicalChemicalNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP Bausch) (CC &) (NNP Lomb)) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NNP pharmaceuticals) (NN subsidiary)) (VP (VBD agreed) (S (VP (TO to) (VP (VB supply) (NP (NN collagen) (JJ corneal) (NNS shields)) (PP (IN for) (NP (NN animal) (NN eye) (NN surgery))) (PP (IN to) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP International) (NNPS Minerals)) (CC &) (NP (NNP Chemical) (NNP Corp))))))))))))) (. .)))
+TermstermNNSOPER0werebeVBDOPER0n'tnotRBOPER0discloseddiscloseVBNOPER0...OPER0(ROOT (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+ThetheDTOPER0agreementagreementNNOPER0marksmarkVBZOPER0BauschBauschNNPORGPER0&&CCORGPER0LombLombNNPORGPER0's'sPOSOPER0firstfirstJJORDINALPER0ventureventureNNOPER0sellingsellVBGOPER0itsitsPRP$OPER0eyeeyeNNOPER0carecareNNOPER0productsproductNNSOPER0forforINOPER0useuseNNOPER0bybyINOPER0veterinariansveterinarianNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN agreement)) (VP (VBZ marks) (NP (NP (NP (NP (NNP Bausch) (CC &) (NNP Lomb)) (POS 's)) (JJ first) (NN venture)) (S (VP (VBG selling) (NP (PRP$ its) (NML (NN eye) (NN care)) (NNS products)) (PP (IN for) (NP (NP (NN use)) (PP (IN by) (NP (NNS veterinarians))))))))) (. .)))
+ThetheDTOPER0collagencollagenNNPOPER0cornealcornealJJOPER0shieldshieldNNOPER0helpshelpVBZOPER0speedspeedVBOPER0healinghealingNNOPER0ofofINOPER0thetheDTOPER0corneacorneaNNOPER0afterafterINOPER0eyeeyeNNOPER0surgerysurgeryNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP collagen) (JJ corneal) (NN shield)) (VP (VBZ helps) (S (VP (VB speed) (NP (NP (NN healing)) (PP (IN of) (NP (DT the) (NN cornea)))) (PP (IN after) (NP (NN eye) (NN surgery)))))) (. .)))
+ThetheDTOPER0productproductNNOPER0willwillMDOPER0bebeVBOPER0distributeddistributeVBNOPER0bybyINOPER0PitmanPitmanNNPPERSONPER0--HYPHPERSONPER0MooreMooreNNPPERSONPER0Inc.Inc.NNPOPER0,,,OPER0aaDTOPER0subsidiarysubsidiaryNNOPER0ofofINOPER0InternationalInternationalNNPORGPER0MineralsMineralsNNPSORGPER0...OPER0(ROOT (S (NP (DT The) (NN product)) (VP (MD will) (VP (VB be) (VP (VBN distributed) (PP (IN by) (NP (NP (NNP Pitman) (HYPH -) (NNP Moore) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP International) (NNPS Minerals))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Bausch) (CC &) (NNP Lomb)) (NNP Inc.))
+sid=0 spanning 5 until 6 headed by 5 parsed as its
+sid=0 spanning 8 until 9 headed by 8 parsed as agreed
+sid=0 spanning 11 until 18 headed by 13 parsed as (NP (NN collagen) (JJ corneal) (NNS shields))
+sid=0 spanning 19 until 27 headed by 20 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP International) (NNPS Minerals)) (CC &) (NP (NNP Chemical) (NNP Corp)))))
+sid=0 spanning 22 until 27 headed by 23 parsed as (NP (NP (NNP International) (NNPS Minerals)) (CC &) (NP (NNP Chemical) (NNP Corp)))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agreement))
+sid=2 spanning 3 until 7 headed by 3 parsed as (NP (NP (NNP Bausch) (CC &) (NNP Lomb)) (POS 's))
+sid=2 spanning 10 until 11 headed by 10 parsed as its
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP collagen) (JJ corneal) (NN shield))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN product))
+sid=4 spanning 6 until 16 headed by 9 parsed as (NP (NP (NNP Pitman) (HYPH -) (NNP Moore) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP International) (NNPS Minerals)))))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (NNP International) (NNPS Minerals))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Bausch) (CC &) (NNP Lomb)) (NNP Inc.))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (PRP$ its) (NNP pharmaceuticals) (NN subsidiary))
+sid=0 spanning 5 until 6 headed by 5 parsed as (PRP$ its)
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (NN collagen) (JJ corneal) (NNS shields))
+sid=0 spanning 15 until 18 headed by 17 parsed as (NP (NN animal) (NN eye) (NN surgery))
+sid=0 spanning 19 until 27 headed by 20 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP International) (NNPS Minerals)) (CC &) (NP (NNP Chemical) (NNP Corp)))))
+sid=0 spanning 22 until 27 headed by 23 parsed as (NP (NP (NNP International) (NNPS Minerals)) (CC &) (NP (NNP Chemical) (NNP Corp)))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Terms))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agreement))
+sid=2 spanning 3 until 18 headed by 8 parsed as (NP (NP (NP (NP (NNP Bausch) (CC &) (NNP Lomb)) (POS 's)) (JJ first) (NN venture)) (S (VP (VBG selling) (NP (PRP$ its) (NML (NN eye) (NN care)) (NNS products)) (PP (IN for) (NP (NP (NN use)) (PP (IN by) (NP (NNS veterinarians))))))))
+sid=2 spanning 3 until 7 headed by 3 parsed as (NP (NP (NNP Bausch) (CC &) (NNP Lomb)) (POS 's))
+sid=2 spanning 7 until 8 headed by 7 parsed as first
+sid=2 spanning 10 until 14 headed by 13 parsed as (NP (PRP$ its) (NML (NN eye) (NN care)) (NNS products))
+sid=2 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=2 spanning 15 until 18 headed by 15 parsed as (NP (NP (NN use)) (PP (IN by) (NP (NNS veterinarians))))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NNS veterinarians))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP collagen) (JJ corneal) (NN shield))
+sid=3 spanning 6 until 10 headed by 6 parsed as (NP (NP (NN healing)) (PP (IN of) (NP (DT the) (NN cornea))))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN cornea))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (NN eye) (NN surgery))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN product))
+sid=4 spanning 6 until 16 headed by 9 parsed as (NP (NP (NNP Pitman) (HYPH -) (NNP Moore) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP International) (NNPS Minerals)))))
+sid=4 spanning 6 until 10 headed by 9 parsed as (NP (NNP Pitman) (HYPH -) (NNP Moore) (NNP Inc.))
+sid=4 spanning 6 until 9 headed by 8 parsed as Moore
+sid=4 spanning 11 until 16 headed by 12 parsed as (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP International) (NNPS Minerals))))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (NNP International) (NNPS Minerals))
+(end predicted mentions)
+---------gold clusters--------
+6 2 | { 'The agreement' 'agreed' }
+12 5 | { 'International Minerals' 'International Minerals & Chemical Corp' }
+10 3 9 | { 'The product' 'collagen corneal shields for animal eye surgery' 'The collagen corneal shield' }
+4 11 | { 'a unit of International Minerals & Chemical Corp' 'Pitman - Moore Inc. , a subsidiary of International Minerals' }
+8 1 7 0 | { 'its' 'its' 'Bausch & Lomb 's' 'Bausch & Lomb Inc.' }
+(end gold clusters)

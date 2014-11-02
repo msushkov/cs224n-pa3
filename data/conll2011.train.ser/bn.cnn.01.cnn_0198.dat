@@ -1,0 +1,238 @@
+---------gloss--------
+(0) The search for [4m[36m{a small plane that disappeared Sunday in Massachusetts}[0m has a bittersweet ending . 
+(1) [35m{Three young boys , ages 2 , 5 and 10}[0m survived and are in critical condition after spending 18 hours in the cold . 
+(2) [36m{The father , who was piloting the plane ,}[0m also was rescued , but died late yesterday at the hospital . 
+(3) [35m{The boys '}[0m mother and two other brothers were killed . 
+(4) Officials say [36m{the pilot}[0m reported ice on [4m[36m{the plane}[0m and planned to land in [34m{Massachusetts}[0m when [4m[36m{the plane}[0m left radar . 
+(5) [31m{Aviators}[0m described [4m[32m{the scene}[0m as [31m{they}[0m approached [4m[32m{it}[0m from above . 
+(6) the cabin was intact completely . 
+(7) The wings were off of [4m[36m{it}[0m , but it looked like a survivable crash . 
+(8) Initially the wreckage was spotted , and there was no person spotted , but when [31m{we}[0m moved in closer and started to scan [4m[32m{the area}[0m , then I saw the 2 - year - old waving from next to [4m[36m{the airplane}[0m . 
+(9) [1m[32m{The family}[0m had been heading to New Hampshire from Lakeland , Florida when [1m[32m{their}[0m plane went down . 
+(10) If you are one of the many unemployed , expect company . 
+(11) [1m[31m{Valerie Morris}[0m joins us live from New York with that story . 
+(12) [1m[31m{Valerie ?}[0m 
+(13) Hi , Renay , Sharon . 
+(14) The pace of job cuts is quickening . 
+(15) The survey by Challenger Gray and Christmas says layoffs [4m[33m{rose}[0m about 5 % in February . 
+(16) [4m[33m{That}[0m 's the second straight monthly increase . 
+(17) The ax fell heavily on government and non-profit workers as many state and local governments face severe budget crunches . 
+(18) The U.S. economy has lost more than 2 million jobs in the past two years . 
+(19) [33m{Airlines}[0m are [1m[33m{getting}[0m flyers to destinations on time more often . 
+(20) [33m{The top ten air carriers}[0m arrived on time more and cancelled fewer flights in [32m{January}[0m than the month before . 
+(21) A government report says [1m[33m{the improvements}[0m are the result of changes in air traffic controls , and a dropoff in passengers . 
+(22) Despite operating under bankruptcy laws , [4m[35m{United}[0m posted the best on - time performance . 
+(23) [4m[35m{United}[0m also cancelled the fewest flights . 
+(24) Still [4m[35m{United}[0m lost $ 382 million in [32m{January}[0m . 
+(25) And [4m[34m{one other note of improvement}[0m . 
+(26) Airlines [4m[34m{reported}[0m fewer complaints about lost , damaged or delayed luggage . 
+(27) Turning to Wall Street , disappointing auto sales are denting the shares of the Big Three . 
+(28) Of course there are ongoing fears about terrorism and a war with Iraq . 
+(29) The Dow has slipped 116 points . 
+(30) The NASDAQ is down three -- 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0198); part 000
+sentences:
+ThetheDTOPER0searchsearchNNOPER0forforINOPER0aaDTOPER0smallsmallJJOPER0planeplaneNNOPER0thatthatWDTOPER0disappeareddisappearVBDOPER0SundaySundayNNPDATEPER0ininINOPER0MassachusettsMassachusettsNNPGPEPER0hashaveVBZOPER0aaDTOPER0bittersweetbittersweetJJOPER0endingendingNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN search)) (PP (IN for) (NP (NP (DT a) (JJ small) (NN plane)) (SBAR (WHNP (WDT that)) (S (VP (VBD disappeared) (NP (NNP Sunday)) (PP (IN in) (NP (NNP Massachusetts))))))))) (VP (VBZ has) (NP (DT a) (JJ bittersweet) (NN ending))) (. .)))
+ThreethreeCDCARDINALPER0youngyoungJJOPER0boysboyNNSOPER0,,,OPER0agesageNNSDATEPER022CDDATEPER0,,,DATEPER055CDDATEPER0andandCCDATEPER01010CDDATEPER0survivedsurviveVBDOPER0andandCCOPER0arebeVBPOPER0ininINOPER0criticalcriticalJJOPER0conditionconditionNNOPER0afterafterINOPER0spendingspendVBGOPER01818CDTIMEPER0hourshourNNSTIMEPER0ininINOPER0thetheDTOPER0coldcoldNNOPER0...OPER0(ROOT (S (NP (NP (CD Three) (JJ young) (NNS boys)) (, ,) (NP (NP (NNS ages)) (QP (CD 2) (, ,) (CD 5) (CC and) (CD 10)))) (VP (VP (VBD survived)) (CC and) (VP (VBP are) (PP (IN in) (NP (JJ critical) (NN condition))) (PP (IN after) (S (VP (VBG spending) (NP (CD 18) (NNS hours)) (PP (IN in) (NP (DT the) (NN cold)))))))) (. .)))
+ThetheDTOPER0fatherfatherNNOPER0,,,OPER0whowhoWPOPER0wasbeVBDOPER0pilotingpilotVBGOPER0thetheDTOPER0planeplaneNNOPER0,,,OPER0alsoalsoRBOPER0wasbeVBDOPER0rescuedrescueVBNOPER0,,,OPER0butbutCCOPER0dieddieVBDOPER0latelateJJDATEPER0yesterdayyesterdayNNDATEPER0atatINOPER0thetheDTOPER0hospitalhospitalNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN father)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBG piloting) (NP (DT the) (NN plane)))))) (, ,)) (ADVP (RB also)) (VP (VP (VBD was) (VP (VBN rescued))) (, ,) (CC but) (VP (VBD died) (NP (JJ late) (NN yesterday)) (PP (IN at) (NP (DT the) (NN hospital))))) (. .)))
+ThetheDTOPER0boysboyNNSOPER0''POSOPER0mothermotherNNOPER0andandCCOPER0twotwoCDCARDINALPER0otherotherJJOPER0brothersbrotherNNSOPER0werebeVBDOPER0killedkillVBNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS boys) (POS ')) (NML (NML (NN mother)) (CC and) (NML (CD two) (JJ other) (NNS brothers)))) (VP (VBD were) (VP (VBN killed))) (. .)))
+OfficialsofficialNNSOPER0saysayVBPOPER0thetheDTOPER0pilotpilotNNOPER0reportedreportVBDOPER0iceiceNNOPER0ononINOPER0thetheDTOPER0planeplaneNNOPER0andandCCOPER0plannedplanVBDOPER0totoTOOPER0landlandVBOPER0ininINOPER0MassachusettsMassachusettsNNPGPEPER0whenwhenWRBOPER0thetheDTOPER0planeplaneNNOPER0leftleaveVBDOPER0radarradarNNOPER0...OPER0(ROOT (S (NP (NNS Officials)) (VP (VBP say) (SBAR (S (NP (DT the) (NN pilot)) (VP (VP (VBD reported) (NP (NN ice)) (PP (IN on) (NP (DT the) (NN plane)))) (CC and) (VP (VBD planned) (S (VP (TO to) (VP (VB land) (PP (IN in) (NP (NNP Massachusetts))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN plane)) (VP (VBD left) (NP (NN radar))))))))))))) (. .)))
+AviatorsaviatorNNSPERSONPER0describeddescribeVBDOPER0thetheDTOPER0scenesceneNNOPER0asasINOPER0theytheyPRPOPER0approachedapproachVBDOPER0ititPRPOPER0fromfromINOPER0aboveaboveRBOPER0...OPER0(ROOT (S (NP (NNS Aviators)) (VP (VBD described) (NP (NP (DT the) (NN scene)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD approached) (NP (PRP it)) (PP (IN from) (ADVP (RB above)))))))) (. .)))
+thetheDTOPER0cabincabinNNOPER0wasbeVBDOPER0intactintactJJOPER0completelycompletelyRBOPER0...OPER0(ROOT (S (NP (DT the) (NN cabin)) (VP (VBD was) (ADJP (JJ intact) (RB completely))) (. .)))
+ThetheDTOPER0wingswingNNSOPER0werebeVBDOPER0offoffINOPER0ofofINOPER0ititPRPOPER0,,,OPER0butbutCCOPER0ititPRPOPER0lookedlookVBDOPER0likelikeINOPER0aaDTOPER0survivablesurvivableJJOPER0crashcrashNNOPER0...OPER0(ROOT (S (S (NP (DT The) (NNS wings)) (VP (VBD were) (PP (IN off) (PP (IN of) (NP (PRP it)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBD looked) (PP (IN like) (NP (DT a) (JJ survivable) (NN crash))))) (. .)))
+InitiallyinitiallyRBOPER0thetheDTOPER0wreckagewreckageNNOPER0wasbeVBDOPER0spottedspotVBNOPER0,,,OPER0andandCCOPER0therethereEXOPER0wasbeVBDOPER0nonoDTOPER0personpersonNNOPER0spottedspotVBNOPER0,,,OPER0butbutCCOPER0whenwhenWRBOPER0wewePRPOPER0movedmoveVBDOPER0ininRBOPER0closercloserJJROPER0andandCCOPER0startedstartVBDOPER0totoTOOPER0scanscanVBOPER0thetheDTOPER0areaareaNNOPER0,,,OPER0thenthenRBOPER0IIPRPOPER0sawseeVBDOPER0thetheDTOPER022CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0wavingwaveVBGOPER0fromfromINOPER0nextnextJJOPER0totoINOPER0thetheDTOPER0airplaneairplaneNNOPER0...OPER0(ROOT (S (S (ADVP (RB Initially)) (NP (DT the) (NN wreckage)) (VP (VBD was) (VP (VBN spotted)))) (, ,) (CC and) (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN person)) (VP (VBN spotted))))) (, ,) (CC but) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VP (VBD moved) (ADVP (RB in)) (ADJP (JJR closer))) (CC and) (VP (VBD started) (S (VP (TO to) (VP (VB scan) (NP (DT the) (NN area))))))))) (, ,) (ADVP (RB then)) (NP (PRP I)) (VP (VBD saw) (NP (NP (DT the) (ADJP (NML (CD 2) (HYPH -) (NN year)) (HYPH -) (JJ old))) (VP (VBG waving) (PP (IN from) (NP (NP (JJ next)) (PP (IN to) (NP (DT the) (NN airplane))))))))) (. .)))
+ThetheDTOPER0familyfamilyNNOPER0hadhaveVBDOPER0beenbeVBNOPER0headingheadVBGOPER0totoINOPER0NewNewNNPORGPER0HampshireHampshireNNPORGPER0fromfromINOPER0LakelandLakelandNNPORGPER0,,,OPER0FloridaFloridaNNPGPEPER0whenwhenWRBOPER0theirtheyPRP$OPER0planeplaneNNOPER0wentgoVBDOPER0downdownRBOPER0...OPER0(ROOT (S (NP (DT The) (NN family)) (VP (VBD had) (VP (VBN been) (VP (VBG heading) (PP (IN to) (NP (NNP New) (NNP Hampshire))) (PP (IN from) (NP (NP (NP (NNP Lakeland)) (, ,) (NP (NNP Florida))) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ their) (NN plane)) (VP (VBD went) (ADVP (RB down)))))))))) (. .)))
+IfifINOPER0youyouPRPOPER0arebeVBPOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0manymanyJJOPER0unemployedunemployedJJOPER0,,,OPER0expectexpectVBOPER0companycompanyNNOPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP are) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ many) (JJ unemployed))))))) (, ,) (VP (VB expect) (NP (NN company))) (. .)))
+ValerieValerieNNPORGPER0MorrisMorrisNNPORGPER0joinsjoinVBZOPER0uswePRPOPER0liveliveRBOPER0fromfromINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0withwithINOPER0thatthatDTOPER0storystoryNNOPER0...OPER0(ROOT (S (NP (NNP Valerie) (NNP Morris)) (VP (VBZ joins) (NP (PRP us)) (ADVP (RB live) (PP (IN from) (NP (NNP New) (NNP York)))) (PP (IN with) (NP (DT that) (NN story)))) (. .)))
+ValerieValerieNNPORGPER0??.OPER0(ROOT (NP (NNP Valerie) (. ?)))
+HihiUHOPER0,,,OPER0RenayRenayNNPGPEPER0,,,OPER0SharonSharonNNPORGPER0...OPER0(ROOT (FRAG (INTJ (UH Hi)) (, ,) (NP (NNP Renay)) (, ,) (NP (NNP Sharon)) (. .)))
+ThetheDTOPER0pacepaceNNOPER0ofofINOPER0jobjobNNOPER0cutscutNNSOPER0isbeVBZOPER0quickeningquickenVBGOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN pace)) (PP (IN of) (NP (NN job) (NNS cuts)))) (VP (VBZ is) (VP (VBG quickening))) (. .)))
+ThetheDTOPER0surveysurveyNNOPER0bybyINOPER0ChallengerchallengerNNORGPER0GrayGrayNNPORGPER0andandCCORGPER0ChristmasChristmasNNPORGPER0sayssayVBZOPER0layoffslayoffNNSOPER0roseriseVBDOPER0aboutaboutRBPERCENTPER055CDPERCENTPER0%%NNPERCENTPER0ininINOPER0FebruaryFebruaryNNPDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN survey)) (PP (IN by) (NP (NP (NN Challenger)) (NP (NNP Gray) (CC and) (NNP Christmas))))) (VP (VBZ says) (SBAR (S (NP (NNS layoffs)) (VP (VBD rose) (NP (QP (RB about) (CD 5)) (NN %)) (PP (IN in) (NP (NNP February))))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0thetheDTDATEPER0secondsecondJJDATEPER0straightstraightJJDATEPER0monthlymonthlyJJDATEPER0increaseincreaseNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT the) (JJ second) (JJ straight) (JJ monthly) (NN increase))) (. .)))
+ThetheDTOPER0axaxNNOPER0fellfallVBDOPER0heavilyheavilyRBOPER0ononINOPER0governmentgovernmentNNOPER0andandCCOPER0non-profitnon-profitJJOPER0workersworkerNNSOPER0asasINOPER0manymanyJJOPER0statestateNNOPER0andandCCOPER0locallocalJJOPER0governmentsgovernmentNNSOPER0facefaceVBPOPER0severesevereJJOPER0budgetbudgetNNOPER0crunchescrunchNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN ax)) (VP (VBD fell) (ADVP (RB heavily)) (PP (IN on) (NP (NP (NN government) (CC and) (JJ non-profit)) (NNS workers))) (SBAR (IN as) (S (NP (JJ many) (NP (NN state) (CC and) (JJ local)) (NNS governments)) (VP (VBP face) (NP (JJ severe) (NN budget) (NNS crunches)))))) (. .)))
+ThetheDTOPER0U.S.U.S.NNPGPEPER0economyeconomyNNOPER0hashaveVBZOPER0lostloseVBNOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER022CDCARDINALPER0millionmillionCDCARDINALPER0jobsjobNNSOPER0ininINOPER0thetheDTDATEPER0pastpastJJDATEPER0twotwoCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP U.S.) (NN economy)) (VP (VBZ has) (VP (VBN lost) (NP (QP (XS (JJR more) (IN than)) (CD 2) (CD million)) (NNS jobs)) (PP (IN in) (NP (DT the) (JJ past) (CD two) (NNS years))))) (. .)))
+AirlinesairlineNNSOPER0arebeVBPOPER0gettinggetVBGOPER0flyersflyerNNSOPER0totoINOPER0destinationsdestinationNNSOPER0ononINOPER0timetimeNNOPER0moremoreRBROPER0oftenoftenRBOPER0...OPER0(ROOT (S (NP (NNS Airlines)) (VP (VBP are) (VP (VBG getting) (NP (NP (NNS flyers)) (PP (IN to) (NP (NP (NNS destinations)) (PP (IN on) (NP (NN time)))))) (ADVP (RBR more) (RB often)))) (. .)))
+ThetheDTOPER0toptopJJOPER0tentenCDCARDINALPER0airairNNOPER0carrierscarrierNNSOPER0arrivedarriveVBDOPER0ononINOPER0timetimeNNOPER0moremoreRBROPER0andandCCOPER0cancelledcancelVBDOPER0fewerfewerJJROPER0flightsflightNNSOPER0ininINOPER0JanuaryJanuaryNNPDATEPER0thanthanINOPER0thetheDTDATEPER0monthmonthNNDATEPER0beforebeforeRBDATEPER0...OPER0(ROOT (S (NP (DT The) (NML (JJ top) (CD ten)) (NN air) (NNS carriers)) (VP (VP (VBD arrived) (PP (IN on) (NP (NN time))) (ADVP (RBR more))) (CC and) (VP (VBD cancelled) (NP (NP (JJR fewer) (NNS flights)) (PP (IN in) (NP (NNP January))) (PP (IN than) (ADVP (NP (DT the) (NN month)) (RB before)))))) (. .)))
+AaDTOPER0governmentgovernmentNNOPER0reportreportNNOPER0sayssayVBZOPER0thetheDTOPER0improvementsimprovementNNSOPER0arebeVBPOPER0thetheDTOPER0resultresultNNOPER0ofofINOPER0changeschangeNNSOPER0ininINOPER0airairNNOPER0traffictrafficNNOPER0controlscontrolNNSOPER0,,,OPER0andandCCOPER0aaDTOPER0dropoffdropoffNNOPER0ininINOPER0passengerspassengerNNSOPER0...OPER0(ROOT (S (NP (DT A) (NN government) (NN report)) (VP (VBZ says) (SBAR (S (NP (DT the) (NNS improvements)) (VP (VBP are) (NP (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (NNS changes)) (PP (IN in) (NP (NML (NN air) (NN traffic)) (NNS controls)))))) (, ,) (CC and) (NP (NP (DT a) (NN dropoff)) (PP (IN in) (NP (NNS passengers))))))))) (. .)))
+DespitedespiteINOPER0operatingoperateVBGOPER0underunderINOPER0bankruptcybankruptcyNNOPER0lawslawNNSOPER0,,,OPER0UnitedUnitedNNPORGPER0postedpostVBDOPER0thetheDTOPER0bestbestJJSOPER0ononINOPER0--HYPHOPER0timetimeNNOPER0performanceperformanceNNOPER0...OPER0(ROOT (S (PP (IN Despite) (S (VP (VBG operating) (PP (IN under) (NP (NN bankruptcy) (NNS laws)))))) (, ,) (NP (NNP United)) (VP (VBD posted) (NP (DT the) (JJS best) (NML (IN on) (HYPH -) (NN time)) (NN performance))) (. .)))
+UnitedUnitedNNPORGPER0alsoalsoRBOPER0cancelledcancelVBDOPER0thetheDTOPER0fewestfewestJJSOPER0flightsflightNNSOPER0...OPER0(ROOT (S (NP (NNP United)) (ADVP (RB also)) (VP (VBD cancelled) (NP (DT the) (JJS fewest) (NNS flights))) (. .)))
+StillstillRBOPER0UnitedUnitedNNPORGPER0lostloseVBDOPER0$$$MONEYPER0382382CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0JanuaryJanuaryNNPDATEPER0...OPER0(ROOT (S (ADVP (RB Still)) (NP (NNP United)) (VP (VBD lost) (NP (NP (QP ($ $) (CD 382) (CD million))) (PP (IN in) (NP (NNP January))))) (. .)))
+AndandCCOPER0oneoneCDCARDINALPER0otherotherJJOPER0notenoteNNOPER0ofofINOPER0improvementimprovementNNOPER0...OPER0(ROOT (FRAG (CC And) (NP (NP (CD one) (JJ other) (NN note)) (PP (IN of) (NP (NN improvement)))) (. .)))
+AirlinesairlineNNSOPER0reportedreportVBDOPER0fewerfewerJJROPER0complaintscomplaintNNSOPER0aboutaboutINOPER0lostloseVBNOPER0,,,OPER0damageddamageVBNOPER0ororCCOPER0delayeddelayVBNOPER0luggageluggageNNOPER0...OPER0(ROOT (S (NP (NNS Airlines)) (VP (VBD reported) (NP (NP (JJR fewer) (NNS complaints)) (PP (IN about) (NP (ADJP (VBN lost) (, ,) (VBN damaged) (CC or) (VBN delayed)) (NN luggage))))) (. .)))
+TurningturnVBGOPER0totoINOPER0WallWallNNPOPER0StreetStreetNNPOPER0,,,OPER0disappointingdisappointingJJOPER0autoautoNNOPER0salessaleNNSOPER0arebeVBPOPER0dentingdentVBGOPER0thetheDTOPER0sharesshareNNSOPER0ofofINOPER0thetheDTOPER0BigBigNNPOPER0ThreeThreeNNPOPER0...OPER0(ROOT (S (S (VP (VBG Turning) (PP (IN to) (NP (NNP Wall) (NNP Street))))) (, ,) (NP (JJ disappointing) (NN auto) (NNS sales)) (VP (VBP are) (VP (VBG denting) (NP (NP (DT the) (NNS shares)) (PP (IN of) (NP (DT the) (NNP Big) (NNP Three)))))) (. .)))
+OfofRBOPER0coursecourseRBOPER0therethereEXOPER0arebeVBPOPER0ongoingongoingJJOPER0fearsfearNNSOPER0aboutaboutINOPER0terrorismterrorismNNOPER0andandCCOPER0aaDTOPER0warwarNNOPER0withwithINOPER0IraqIraqNNPGPEPER0...OPER0(ROOT (S (ADVP (RB Of) (RB course)) (NP (EX there)) (VP (VBP are) (NP (NP (JJ ongoing) (NNS fears)) (PP (IN about) (NP (NP (NN terrorism)) (CC and) (NP (NP (DT a) (NN war)) (PP (IN with) (NP (NNP Iraq)))))))) (. .)))
+ThetheDTOPER0DowDowNNPORGPER0hashaveVBZOPER0slippedslipVBNOPER0116116CDCARDINALPER0pointspointNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNP Dow)) (VP (VBZ has) (VP (VBN slipped) (NP (CD 116) (NNS points)))) (. .)))
+ThetheDTOPER0NASDAQNASDAQNNPORGPER0isbeVBZOPER0downdownRBOPER0threethreeCDCARDINALPER0----.OPER0(ROOT (S (NP (DT The) (NNP NASDAQ)) (VP (VBZ is) (ADVP (RB down)) (NP (CD three))) (. --)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 11 headed by 5 parsed as (NP (NP (DT a) (JJ small) (NN plane)) (SBAR (WHNP (WDT that)) (S (VP (VBD disappeared) (NP (NNP Sunday)) (PP (IN in) (NP (NNP Massachusetts)))))))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Massachusetts))
+sid=1 spanning 0 until 10 headed by 2 parsed as (NP (NP (CD Three) (JJ young) (NNS boys)) (, ,) (NP (NP (NNS ages)) (QP (CD 2) (, ,) (CD 5) (CC and) (CD 10))))
+sid=2 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NN father)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBG piloting) (NP (DT the) (NN plane)))))) (, ,))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN plane))
+sid=3 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NNS boys) (POS '))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN pilot))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN plane))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Massachusetts))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN plane))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Aviators))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (NP (DT the) (NN scene)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD approached) (NP (PRP it)) (PP (IN from) (ADVP (RB above)))))))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=8 spanning 15 until 16 headed by 15 parsed as (NP (PRP we))
+sid=8 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN area))
+sid=8 spanning 39 until 41 headed by 40 parsed as (NP (DT the) (NN airplane))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN family))
+sid=9 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ their) (NN plane))
+sid=9 spanning 13 until 14 headed by 13 parsed as their
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Valerie) (NNP Morris))
+sid=12 spanning 0 until 2 headed by 0 parsed as (NP (NNP Valerie) (. ?))
+sid=15 spanning 9 until 10 headed by 9 parsed as rose
+sid=16 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (NNS Airlines))
+sid=19 spanning 2 until 3 headed by 2 parsed as getting
+sid=20 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (JJ top) (CD ten)) (NN air) (NNS carriers))
+sid=20 spanning 14 until 15 headed by 14 parsed as (NP (NNP January))
+sid=21 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNS improvements))
+sid=22 spanning 6 until 7 headed by 6 parsed as (NP (NNP United))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (NNP United))
+sid=24 spanning 1 until 2 headed by 1 parsed as (NP (NNP United))
+sid=24 spanning 7 until 8 headed by 7 parsed as (NP (NNP January))
+sid=25 spanning 1 until 6 headed by 3 parsed as (NP (NP (CD one) (JJ other) (NN note)) (PP (IN of) (NP (NN improvement))))
+sid=26 spanning 1 until 2 headed by 1 parsed as reported
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 11 headed by 1 parsed as (NP (NP (DT The) (NN search)) (PP (IN for) (NP (NP (DT a) (JJ small) (NN plane)) (SBAR (WHNP (WDT that)) (S (VP (VBD disappeared) (NP (NNP Sunday)) (PP (IN in) (NP (NNP Massachusetts)))))))))
+sid=0 spanning 3 until 11 headed by 5 parsed as (NP (NP (DT a) (JJ small) (NN plane)) (SBAR (WHNP (WDT that)) (S (VP (VBD disappeared) (NP (NNP Sunday)) (PP (IN in) (NP (NNP Massachusetts)))))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Sunday))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Massachusetts))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (JJ bittersweet) (NN ending))
+sid=1 spanning 0 until 10 headed by 2 parsed as (NP (NP (CD Three) (JJ young) (NNS boys)) (, ,) (NP (NP (NNS ages)) (QP (CD 2) (, ,) (CD 5) (CC and) (CD 10))))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (CD Three) (JJ young) (NNS boys))
+sid=1 spanning 4 until 10 headed by 4 parsed as (NP (NP (NNS ages)) (QP (CD 2) (, ,) (CD 5) (CC and) (CD 10)))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (CD 18) (NNS hours))
+sid=1 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN cold))
+sid=2 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NN father)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBG piloting) (NP (DT the) (NN plane)))))) (, ,))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN father))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN plane))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (JJ late) (NN yesterday))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN hospital))
+sid=3 spanning 0 until 8 headed by 3 parsed as (NP (NP (DT The) (NNS boys) (POS ')) (NML (NML (NN mother)) (CC and) (NML (CD two) (JJ other) (NNS brothers))))
+sid=3 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NNS boys) (POS '))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN pilot))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN plane))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Massachusetts))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN plane))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Aviators))
+sid=5 spanning 2 until 10 headed by 3 parsed as (NP (NP (DT the) (NN scene)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD approached) (NP (PRP it)) (PP (IN from) (ADVP (RB above)))))))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP it))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT the) (NN cabin))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS wings))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=7 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=7 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (JJ survivable) (NN crash))
+sid=8 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN wreckage))
+sid=8 spanning 9 until 12 headed by 10 parsed as (NP (NP (DT no) (NN person)) (VP (VBN spotted)))
+sid=8 spanning 15 until 16 headed by 15 parsed as (NP (PRP we))
+sid=8 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN area))
+sid=8 spanning 27 until 28 headed by 27 parsed as (NP (PRP I))
+sid=8 spanning 29 until 41 headed by 34 parsed as (NP (NP (DT the) (ADJP (NML (CD 2) (HYPH -) (NN year)) (HYPH -) (JJ old))) (VP (VBG waving) (PP (IN from) (NP (NP (JJ next)) (PP (IN to) (NP (DT the) (NN airplane)))))))
+sid=8 spanning 37 until 41 headed by 37 parsed as (NP (NP (JJ next)) (PP (IN to) (NP (DT the) (NN airplane))))
+sid=8 spanning 39 until 41 headed by 40 parsed as (NP (DT the) (NN airplane))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN family))
+sid=9 spanning 6 until 8 headed by 7 parsed as (NP (NNP New) (NNP Hampshire))
+sid=9 spanning 9 until 10 headed by 9 parsed as (NP (NP (NP (NNP Lakeland)) (, ,) (NP (NNP Florida))) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ their) (NN plane)) (VP (VBD went) (ADVP (RB down))))))
+sid=9 spanning 9 until 17 headed by 9 parsed as (NP (NP (NP (NNP Lakeland)) (, ,) (NP (NNP Florida))) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ their) (NN plane)) (VP (VBD went) (ADVP (RB down))))))
+sid=9 spanning 11 until 12 headed by 11 parsed as (NP (NNP Florida))
+sid=9 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ their) (NN plane))
+sid=9 spanning 13 until 14 headed by 13 parsed as (PRP$ their)
+sid=10 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=10 spanning 3 until 8 headed by 3 parsed as (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ many) (JJ unemployed))))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (NNP Valerie) (NNP Morris))
+sid=11 spanning 3 until 4 headed by 3 parsed as (NP (PRP us))
+sid=11 spanning 6 until 8 headed by 7 parsed as (NP (NNP New) (NNP York))
+sid=11 spanning 9 until 11 headed by 10 parsed as (NP (DT that) (NN story))
+sid=12 spanning 0 until 2 headed by 0 parsed as (NP (NNP Valerie) (. ?))
+sid=13 spanning 2 until 3 headed by 2 parsed as (NP (NNP Renay))
+sid=13 spanning 4 until 5 headed by 4 parsed as (NP (NNP Sharon))
+sid=14 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN pace)) (PP (IN of) (NP (NN job) (NNS cuts))))
+sid=14 spanning 3 until 5 headed by 4 parsed as (NP (NN job) (NNS cuts))
+sid=15 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN survey)) (PP (IN by) (NP (NP (NN Challenger)) (NP (NNP Gray) (CC and) (NNP Christmas)))))
+sid=15 spanning 3 until 7 headed by 3 parsed as (NP (NP (NN Challenger)) (NP (NNP Gray) (CC and) (NNP Christmas)))
+sid=15 spanning 8 until 9 headed by 8 parsed as (NP (NNS layoffs))
+sid=15 spanning 14 until 15 headed by 14 parsed as (NP (NNP February))
+sid=16 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=16 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (JJ second) (JJ straight) (JJ monthly) (NN increase))
+sid=16 spanning 2 until 6 headed by 4 parsed as straight
+sid=17 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN ax))
+sid=17 spanning 5 until 9 headed by 8 parsed as (NP (NP (NN government) (CC and) (JJ non-profit)) (NNS workers))
+sid=17 spanning 5 until 8 headed by 5 parsed as (NP (NN government) (CC and) (JJ non-profit))
+sid=17 spanning 10 until 15 headed by 14 parsed as (NP (JJ many) (NP (NN state) (CC and) (JJ local)) (NNS governments))
+sid=17 spanning 11 until 14 headed by 11 parsed as (NP (NN state) (CC and) (JJ local))
+sid=17 spanning 16 until 19 headed by 18 parsed as (NP (JJ severe) (NN budget) (NNS crunches))
+sid=18 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP U.S.) (NN economy))
+sid=18 spanning 5 until 10 headed by 9 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 2) (CD million)) (NNS jobs))
+sid=18 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (JJ past) (CD two) (NNS years))
+sid=19 spanning 0 until 1 headed by 0 parsed as (NP (NNS Airlines))
+sid=19 spanning 3 until 8 headed by 3 parsed as (NP (NP (NNS flyers)) (PP (IN to) (NP (NP (NNS destinations)) (PP (IN on) (NP (NN time))))))
+sid=19 spanning 5 until 8 headed by 5 parsed as (NP (NP (NNS destinations)) (PP (IN on) (NP (NN time))))
+sid=19 spanning 7 until 8 headed by 7 parsed as (NP (NN time))
+sid=20 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (JJ top) (CD ten)) (NN air) (NNS carriers))
+sid=20 spanning 7 until 8 headed by 7 parsed as (NP (NN time))
+sid=20 spanning 11 until 19 headed by 12 parsed as (NP (NP (JJR fewer) (NNS flights)) (PP (IN in) (NP (NNP January))) (PP (IN than) (ADVP (NP (DT the) (NN month)) (RB before))))
+sid=20 spanning 14 until 15 headed by 14 parsed as (NP (NNP January))
+sid=20 spanning 16 until 19 headed by 18 parsed as before
+sid=21 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NN government) (NN report))
+sid=21 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNS improvements))
+sid=21 spanning 7 until 21 headed by 8 parsed as (NP (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (NNS changes)) (PP (IN in) (NP (NML (NN air) (NN traffic)) (NNS controls)))))) (, ,) (CC and) (NP (NP (DT a) (NN dropoff)) (PP (IN in) (NP (NNS passengers)))))
+sid=21 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (NNS changes)) (PP (IN in) (NP (NML (NN air) (NN traffic)) (NNS controls))))))
+sid=21 spanning 10 until 15 headed by 10 parsed as (NP (NP (NNS changes)) (PP (IN in) (NP (NML (NN air) (NN traffic)) (NNS controls))))
+sid=21 spanning 12 until 15 headed by 14 parsed as (NP (NML (NN air) (NN traffic)) (NNS controls))
+sid=21 spanning 17 until 21 headed by 18 parsed as (NP (NP (DT a) (NN dropoff)) (PP (IN in) (NP (NNS passengers))))
+sid=21 spanning 20 until 21 headed by 20 parsed as (NP (NNS passengers))
+sid=22 spanning 3 until 5 headed by 4 parsed as (NP (NN bankruptcy) (NNS laws))
+sid=22 spanning 6 until 7 headed by 6 parsed as (NP (NNP United))
+sid=22 spanning 8 until 14 headed by 13 parsed as (NP (DT the) (JJS best) (NML (IN on) (HYPH -) (NN time)) (NN performance))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (NNP United))
+sid=23 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJS fewest) (NNS flights))
+sid=24 spanning 1 until 2 headed by 1 parsed as (NP (NNP United))
+sid=24 spanning 7 until 8 headed by 7 parsed as (NP (NNP January))
+sid=25 spanning 1 until 6 headed by 3 parsed as (NP (NP (CD one) (JJ other) (NN note)) (PP (IN of) (NP (NN improvement))))
+sid=26 spanning 0 until 1 headed by 0 parsed as (NP (NNS Airlines))
+sid=26 spanning 2 until 11 headed by 3 parsed as (NP (NP (JJR fewer) (NNS complaints)) (PP (IN about) (NP (ADJP (VBN lost) (, ,) (VBN damaged) (CC or) (VBN delayed)) (NN luggage))))
+sid=26 spanning 5 until 11 headed by 10 parsed as (NP (ADJP (VBN lost) (, ,) (VBN damaged) (CC or) (VBN delayed)) (NN luggage))
+sid=27 spanning 2 until 4 headed by 3 parsed as (NP (NNP Wall) (NNP Street))
+sid=27 spanning 5 until 8 headed by 7 parsed as (NP (JJ disappointing) (NN auto) (NNS sales))
+sid=27 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT the) (NNS shares)) (PP (IN of) (NP (DT the) (NNP Big) (NNP Three))))
+sid=27 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NNP Big) (NNP Three))
+sid=28 spanning 4 until 13 headed by 5 parsed as (NP (NP (JJ ongoing) (NNS fears)) (PP (IN about) (NP (NP (NN terrorism)) (CC and) (NP (NP (DT a) (NN war)) (PP (IN with) (NP (NNP Iraq)))))))
+sid=28 spanning 7 until 13 headed by 7 parsed as (NP (NP (NN terrorism)) (CC and) (NP (NP (DT a) (NN war)) (PP (IN with) (NP (NNP Iraq)))))
+sid=28 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT a) (NN war)) (PP (IN with) (NP (NNP Iraq))))
+sid=28 spanning 12 until 13 headed by 12 parsed as (NP (NNP Iraq))
+sid=29 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Dow))
+sid=29 spanning 4 until 6 headed by 5 parsed as (NP (CD 116) (NNS points))
+sid=30 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP NASDAQ))
+sid=30 spanning 4 until 5 headed by 4 parsed as (NP (CD three))
+(end predicted mentions)
+---------gold clusters--------
+11 13 16 | { 'the scene' 'it' 'the area' }
+24 23 | { 'That' 'rose' }
+35 34 | { 'reported' 'one other note of improvement' }
+32 31 30 | { 'United' 'United' 'United' }
+17 4 0 9 19 7 14 | { 'the airplane' 'the plane' 'a small plane that disappeared Sunday in Massachusetts' 'the plane' 'their plane' 'the plane' 'it' }
+12 10 15 | { 'they' 'Aviators' 'we' }
+33 28 | { 'January' 'January' }
+27 25 | { 'The top ten air carriers' 'Airlines' }
+8 1 | { 'Massachusetts' 'Massachusetts' }
+2 5 | { 'Three young boys , ages 2 , 5 and 10' 'The boys '' }
+6 3 | { 'the pilot' 'The father , who was piloting the plane ,' }
+22 21 | { 'Valerie ?' 'Valerie Morris' }
+20 18 | { 'their' 'The family' }
+29 26 | { 'the improvements' 'getting' }
+(end gold clusters)

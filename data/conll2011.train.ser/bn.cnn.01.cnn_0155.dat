@@ -1,0 +1,54 @@
+---------gloss--------
+(0) [4m[36m{Some Canadian farmers}[0m [31m{are}[0m steamed at [4m[35m{the United States}[0m . 
+(1) [31m{It}[0m 's because of potatoes . 
+(2) Some spuds from [32m{Prince Edward Island}[0m are being turned back at the border because of a fungus . 
+(3) Officials say [4m[35m{the U.S.}[0m is overreacting . 
+(4) [4m[36m{The farmers}[0m say [4m[36m{they}[0m are losing millions and [32m{the island 's government}[0m says [32m{it}[0m might comment say the them . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0155); part 000
+sentences:
+SomesomeDTOPER0CanadiancanadianJJOPER0farmersfarmerNNSOPER0arebeVBPOPER0steamedsteamVBNOPER0atatINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (NP (DT Some) (JJ Canadian) (NNS farmers)) (VP (VBP are) (VP (VBN steamed) (PP (IN at) (NP (DT the) (NNP United) (NNP States))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0becausebecauseINOPER0ofofINOPER0potatoespotatoNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (PP (IN because) (IN of) (NP (NNS potatoes)))) (. .)))
+SomesomeDTOPER0spudsspudNNSOPER0fromfromINOPER0PrincePrinceNNPOPER0EdwardEdwardNNPPERSONPER0IslandIslandNNPPERSONPER0arebeVBPOPER0beingbeVBGOPER0turnedturnVBNOPER0backbackRBOPER0atatINOPER0thetheDTOPER0borderborderNNOPER0becausebecauseINOPER0ofofINOPER0aaDTOPER0fungusfungusNNOPER0...OPER0(ROOT (S (NP (NP (DT Some) (NNS spuds)) (PP (IN from) (NP (NNP Prince) (NNP Edward) (NNP Island)))) (VP (VBP are) (VP (VBG being) (VP (VBN turned) (ADVP (RB back) (PP (IN at) (NP (DT the) (NN border)))) (PP (IN because) (IN of) (NP (DT a) (NN fungus)))))) (. .)))
+OfficialsofficialNNSOPER0saysayVBPOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0isbeVBZOPER0overreactingoverreactVBGOPER0...OPER0(ROOT (S (NP (NNS Officials)) (VP (VBP say) (SBAR (S (NP (DT the) (NNP U.S.)) (VP (VBZ is) (VP (VBG overreacting)))))) (. .)))
+ThetheDTOPER0farmersfarmerNNSOPER0saysayVBPOPER0theytheyPRPOPER0arebeVBPOPER0losingloseVBGOPER0millionsmillionNNSCARDINALPER0andandCCOPER0thetheDTOPER0islandislandNNOPER0's'sPOSOPER0governmentgovernmentNNOPER0sayssayVBZOPER0ititPRPOPER0mightmightMDOPER0commentcommentVBOPER0saysayVBOPER0thetheDTOPER0themtheyPRPOPER0...OPER0(ROOT (S (NP (DT The) (NNS farmers)) (VP (VBP say) (SBAR (S (S (NP (PRP they)) (VP (VBP are) (VP (VBG losing) (NP (NNS millions))))) (CC and) (S (NP (NP (DT the) (NN island) (POS 's)) (NN government)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD might) (VP (VB comment) (S (VP (VB say) (NP (DT the) (PRP them))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT Some) (JJ Canadian) (NNS farmers))
+sid=0 spanning 3 until 4 headed by 3 parsed as are
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (NNP Prince) (NNP Edward) (NNP Island))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP U.S.))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS farmers))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=4 spanning 8 until 12 headed by 11 parsed as (NP (NP (DT the) (NN island) (POS 's)) (NN government))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT Some) (JJ Canadian) (NNS farmers))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNS potatoes))
+sid=2 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT Some) (NNS spuds)) (PP (IN from) (NP (NNP Prince) (NNP Edward) (NNP Island))))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (NNP Prince) (NNP Edward) (NNP Island))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN border))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN fungus))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNP U.S.))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS farmers))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNS millions))
+sid=4 spanning 8 until 12 headed by 11 parsed as (NP (NP (DT the) (NN island) (POS 's)) (NN government))
+sid=4 spanning 8 until 11 headed by 9 parsed as (NP (DT the) (NN island) (POS 's))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=4 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (PRP them))
+(end predicted mentions)
+---------gold clusters--------
+2 5 | { 'the United States' 'the U.S.' }
+0 7 6 | { 'Some Canadian farmers' 'they' 'The farmers' }
+3 1 | { 'It' 'are' }
+4 9 8 | { 'Prince Edward Island' 'it' 'the island 's government' }
+(end gold clusters)

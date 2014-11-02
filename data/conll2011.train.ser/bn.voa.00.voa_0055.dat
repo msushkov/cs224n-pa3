@@ -1,0 +1,56 @@
+---------gloss--------
+(0) There are fears in Israel of a renewed suicide bombing campaign following [3m[36m{a suicide bicycle attack against an Israeli military post in the Gaza Strip}[0m . 
+(1) [3m[33m{The suicide bomber}[0m [3m[36m{blew}[0m [3m[33m{himself}[0m up Thursday as [3m[33m{his}[0m bicycle reached a concrete barrier at [3m[35m{the Israeli post}[0m . 
+(2) An Israeli soldier was slightly hurt . 
+(3) [3m[34m{The Islamic Jihad group}[0m claimed responsibility for [3m[36m{the bombing}[0m and said in a statement [3m[34m{it}[0m would continue the suicide attacks . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0055); part 000
+sentences:
+TherethereEXOPER0arebeVBPOPER0fearsfearNNSOPER0ininINOPER0IsraelIsraelNNPGPEPER0ofofINOPER0aaDTOPER0renewedrenewVBNOPER0suicidesuicideNNOPER0bombingbombingNNOPER0campaigncampaignNNOPER0followingfollowVBGOPER0aaDTOPER0suicidesuicideNNOPER0bicyclebicycleNNOPER0attackattackNNOPER0againstagainstINOPER0anaDTOPER0IsraeliisraeliJJOPER0militarymilitaryJJOPER0postpostNNOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBP are) (NP (NP (NNS fears)) (PP (IN in) (NP (NNP Israel))) (PP (IN of) (NP (NP (DT a) (VBN renewed) (NN suicide) (NN bombing) (NN campaign)) (PP (VBG following) (NP (NP (DT a) (NN suicide) (NN bicycle) (NN attack)) (PP (IN against) (NP (NP (DT an) (JJ Israeli) (JJ military) (NN post)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))))))))) (. .)))
+ThetheDTOPER0suicidesuicideNNOPER0bomberbomberNNOPER0blewblowVBDOPER0himselfhimselfPRPOPER0upupRPOPER0ThursdayThursdayNNPDATEPER0asasINOPER0hishePRP$OPER0bicyclebicycleNNOPER0reachedreachVBNOPER0aaDTOPER0concreteconcreteJJOPER0barrierbarrierNNOPER0atatINOPER0thetheDTOPER0IsraeliisraeliJJOPER0postpostNNOPER0...OPER0(ROOT (S (NP (DT The) (NN suicide) (NN bomber)) (VP (VBD blew) (NP (PRP himself)) (PRT (RP up)) (NP (NNP Thursday)) (PP (IN as) (NP (NP (PRP$ his) (NN bicycle)) (VP (VBN reached) (NP (DT a) (JJ concrete) (NN barrier)) (PP (IN at) (NP (DT the) (JJ Israeli) (NN post))))))) (. .)))
+AnaDTOPER0IsraeliisraeliJJOPER0soldiersoldierNNOPER0wasbeVBDOPER0slightlyslightlyRBOPER0hurthurtVBNOPER0...OPER0(ROOT (S (NP (DT An) (JJ Israeli) (NN soldier)) (VP (VBD was) (ADVP (RB slightly)) (VP (VBN hurt))) (. .)))
+ThetheDTOPER0IslamicIslamicNNPORGPER0JihadJihadNNPORGPER0groupgroupNNOPER0claimedclaimVBDOPER0responsibilityresponsibilityNNOPER0forforINOPER0thetheDTOPER0bombingbombingNNOPER0andandCCOPER0saidsayVBDOPER0ininINOPER0aaDTOPER0statementstatementNNOPER0ititPRPOPER0wouldwouldMDOPER0continuecontinueVBOPER0thetheDTOPER0suicidesuicideNNOPER0attacksattackNNSOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP Islamic) (NNP Jihad)) (NN group)) (VP (VP (VBD claimed) (NP (NP (NN responsibility)) (PP (IN for) (NP (DT the) (NN bombing))))) (CC and) (VP (VBD said) (SBAR (S (PP (IN in) (NP (DT a) (NN statement))) (NP (PRP it)) (VP (MD would) (VP (VB continue) (NP (DT the) (NN suicide) (NNS attacks)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 12 until 25 headed by 15 parsed as (NP (NP (DT a) (NN suicide) (NN bicycle) (NN attack)) (PP (IN against) (NP (NP (DT an) (JJ Israeli) (JJ military) (NN post)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))))
+sid=0 spanning 17 until 25 headed by 20 parsed as (NP (NP (DT an) (JJ Israeli) (JJ military) (NN post)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN suicide) (NN bomber))
+sid=1 spanning 3 until 4 headed by 3 parsed as blew
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP himself))
+sid=1 spanning 8 until 9 headed by 8 parsed as his
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (JJ Israeli) (NN post))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP Islamic) (NNP Jihad)) (NN group))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN bombing))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 25 headed by 2 parsed as (NP (NP (NNS fears)) (PP (IN in) (NP (NNP Israel))) (PP (IN of) (NP (NP (DT a) (VBN renewed) (NN suicide) (NN bombing) (NN campaign)) (PP (VBG following) (NP (NP (DT a) (NN suicide) (NN bicycle) (NN attack)) (PP (IN against) (NP (NP (DT an) (JJ Israeli) (JJ military) (NN post)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))))))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Israel))
+sid=0 spanning 6 until 25 headed by 10 parsed as (NP (NP (DT a) (VBN renewed) (NN suicide) (NN bombing) (NN campaign)) (PP (VBG following) (NP (NP (DT a) (NN suicide) (NN bicycle) (NN attack)) (PP (IN against) (NP (NP (DT an) (JJ Israeli) (JJ military) (NN post)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))))))
+sid=0 spanning 12 until 25 headed by 15 parsed as (NP (NP (DT a) (NN suicide) (NN bicycle) (NN attack)) (PP (IN against) (NP (NP (DT an) (JJ Israeli) (JJ military) (NN post)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))))
+sid=0 spanning 17 until 25 headed by 20 parsed as (NP (NP (DT an) (JJ Israeli) (JJ military) (NN post)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))
+sid=0 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN suicide) (NN bomber))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP himself))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNP Thursday))
+sid=1 spanning 8 until 18 headed by 9 parsed as (NP (NP (PRP$ his) (NN bicycle)) (VP (VBN reached) (NP (DT a) (JJ concrete) (NN barrier)) (PP (IN at) (NP (DT the) (JJ Israeli) (NN post)))))
+sid=1 spanning 8 until 9 headed by 8 parsed as (PRP$ his)
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (JJ concrete) (NN barrier))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (JJ Israeli) (NN post))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (JJ Israeli) (NN soldier))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP Islamic) (NNP Jihad)) (NN group))
+sid=3 spanning 1 until 3 headed by 2 parsed as Jihad
+sid=3 spanning 5 until 9 headed by 5 parsed as (NP (NP (NN responsibility)) (PP (IN for) (NP (DT the) (NN bombing))))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN bombing))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT a) (NN statement))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=3 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NN suicide) (NNS attacks))
+(end predicted mentions)
+---------gold clusters--------
+2 4 5 | { 'The suicide bomber' 'himself' 'his' }
+7 9 | { 'The Islamic Jihad group' 'it' }
+6 1 | { 'the Israeli post' 'an Israeli military post in the Gaza Strip' }
+0 8 3 | { 'a suicide bicycle attack against an Israeli military post in the Gaza Strip' 'the bombing' 'blew' }
+(end gold clusters)

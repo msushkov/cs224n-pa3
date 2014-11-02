@@ -1,0 +1,69 @@
+---------gloss--------
+(0) Israeli Prime Minister Ehud Barak has met with the opposition [3m[35m{Likud Party}[0m leader to discuss forming [4m[32m{a unity government}[0m . 
+(1) Palestinians are warning against such a coalition because [3m[35m{Likud}[0m opposes peace talks . 
+(2) As the chief Palestinian negotiator puts it , bringing [3m[35m{Likud}[0m into [4m[32m{the government}[0m would be `` a bullet of mercy for the peace process . '' 
+(3) Palestinian hospital officials say four Palestinians were killed yesterday and [3m[36m{two others}[0m died of [3m[36m{their}[0m wounds today . 
+(4) Israeli helicopter gunships fired on one Palestinian town and later cut off the area . 
+(5) Israel has also shut down the Gaza airport . 
+(6) [4m[31m{135 people}[0m have been killed in the recent violence , all but nine of [4m[31m{them}[0m Palestinians or Israeli Arabs . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0061); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0hashaveVBZOPER0metmeetVBNOPER0withwithINOPER0thetheDTOPER0oppositionoppositionNNOPER0LikudLikudNNPORGPER0PartyPartyNNPORGPER0leaderleaderNNOPER0totoTOOPER0discussdiscussVBOPER0formingformVBGOPER0aaDTOPER0unityunityNNOPER0governmentgovernmentNNOPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ has) (VP (VBN met) (PP (IN with) (NP (DT the) (NN opposition) (NML (NNP Likud) (NNP Party)) (NN leader))) (S (VP (TO to) (VP (VB discuss) (S (VP (VBG forming) (NP (DT a) (NN unity) (NN government))))))))) (. .)))
+PalestiniansPalestiniansNNPSOPER0arebeVBPOPER0warningwarnVBGOPER0againstagainstINOPER0suchsuchPDTOPER0aaDTOPER0coalitioncoalitionNNOPER0becausebecauseINOPER0LikudLikudNNPORGPER0opposesopposeVBZOPER0peacepeaceNNOPER0talkstalkNNSOPER0...OPER0(ROOT (S (NP (NNPS Palestinians)) (VP (VBP are) (VP (VBG warning) (PP (IN against) (NP (PDT such) (DT a) (NN coalition))) (SBAR (IN because) (S (NP (NNP Likud)) (VP (VBZ opposes) (NP (NN peace) (NNS talks))))))) (. .)))
+AsasINOPER0thetheDTOPER0chiefchiefJJOPER0PalestinianpalestinianJJOPER0negotiatornegotiatorNNOPER0putsputVBZOPER0ititPRPOPER0,,,OPER0bringingbringVBGOPER0LikudLikudNNPORGPER0intointoINOPER0thetheDTOPER0governmentgovernmentNNOPER0wouldwouldMDOPER0bebeVBOPER0``````OaaDTOPER1bulletbulletNNOPER1ofofINOPER1mercymercyNNOPER1forforINOPER1thetheDTOPER1peacepeaceNNOPER1processprocessNNOPER1...OPER1''''''OPER0(ROOT (S (SBAR (IN As) (S (NP (DT the) (JJ chief) (JJ Palestinian) (NN negotiator)) (VP (VBZ puts) (NP (PRP it))))) (, ,) (S (VP (VBG bringing) (NP (NNP Likud)) (PP (IN into) (NP (DT the) (NN government))))) (VP (MD would) (VP (VB be) (`` ``) (NP (NP (DT a) (NN bullet)) (PP (IN of) (NP (NN mercy))) (PP (IN for) (NP (DT the) (NN peace) (NN process)))))) (. .) ('' '')))
+PalestinianpalestinianJJOPER0hospitalhospitalNNOPER0officialsofficialNNSOPER0saysayVBPOPER0fourfourCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0killedkillVBNOPER0yesterdayyesterdayNNDATEPER0andandCCOPER0twotwoCDCARDINALPER0othersotherNNSOPER0dieddieVBDOPER0ofofINOPER0theirtheyPRP$OPER0woundswoundNNSOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (JJ Palestinian) (NN hospital) (NNS officials)) (VP (VBP say) (SBAR (S (S (NP (CD four) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed) (NP (NN yesterday))))) (CC and) (S (NP (CD two) (NNS others)) (VP (VBD died) (PP (IN of) (NP (PRP$ their) (NNS wounds))) (NP (NN today))))))) (. .)))
+IsraeliisraeliJJOPER0helicopterhelicopterNNOPER0gunshipsgunshipNNSOPER0firedfireVBDOPER0ononRPOPER0oneoneCDCARDINALPER0PalestinianpalestinianJJOPER0towntownNNOPER0andandCCOPER0laterlaterRBOPER0cutcutVBDOPER0offoffRPOPER0thetheDTOPER0areaareaNNOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NN helicopter) (NNS gunships)) (VP (VP (VBD fired) (PRT (RP on)) (NP (CD one) (JJ Palestinian) (NN town))) (CC and) (ADVP (RB later)) (VP (VBD cut) (PRT (RP off)) (NP (DT the) (NN area)))) (. .)))
+IsraelIsraelNNPGPEPER0hashaveVBZOPER0alsoalsoRBOPER0shutshutVBDOPER0downdownRPOPER0thetheDTOPER0GazaGazaNNPLOCPER0airportairportNNOPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBZ has) (ADVP (RB also)) (VP (VBD shut) (PRT (RP down)) (NP (DT the) (NNP Gaza) (NN airport)))) (. .)))
+135135CDCARDINALPER0peoplepeopleNNSOPER0havehaveVBPOPER0beenbeVBNOPER0killedkillVBNOPER0ininINOPER0thetheDTOPER0recentrecentJJOPER0violenceviolenceNNOPER0,,,OPER0allallDTOPER0butbutCCOPER0ninenineCDCARDINALPER0ofofINOPER0themtheyPRPOPER0PalestiniansPalestiniansNNPSOPER0ororCCOPER0IsraeliisraeliJJOPER0ArabsArabsNNPSOPER0...OPER0(ROOT (S (NP (CD 135) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN killed) (PP (IN in) (NP (DT the) (JJ recent) (NN violence))) (, ,) (S (NP (NP (DT all) (QP (CC but) (CD nine))) (PP (IN of) (NP (PRP them)))) (NP (NP (NNPS Palestinians)) (CC or) (NP (JJ Israeli) (NNPS Arabs))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 10 until 12 headed by 11 parsed as Party
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT a) (NN unity) (NN government))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Likud))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Likud))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN government))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (CD two) (NNS others))
+sid=3 spanning 14 until 15 headed by 14 parsed as their
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (CD 135) (NNS people))
+sid=6 spanning 14 until 15 headed by 14 parsed as (NP (PRP them))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 13 headed by 12 parsed as (NP (DT the) (NN opposition) (NML (NNP Likud) (NNP Party)) (NN leader))
+sid=0 spanning 10 until 12 headed by 11 parsed as Party
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT a) (NN unity) (NN government))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (PDT such) (DT a) (NN coalition))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP Likud))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (NN peace) (NNS talks))
+sid=2 spanning 1 until 5 headed by 4 parsed as (NP (DT the) (JJ chief) (JJ Palestinian) (NN negotiator))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Likud))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN government))
+sid=2 spanning 16 until 24 headed by 17 parsed as (NP (NP (DT a) (NN bullet)) (PP (IN of) (NP (NN mercy))) (PP (IN for) (NP (DT the) (NN peace) (NN process))))
+sid=2 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NN peace) (NN process))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (JJ Palestinian) (NN hospital) (NNS officials))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (CD four) (NNPS Palestinians))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NN yesterday))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (CD two) (NNS others))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ their) (NNS wounds))
+sid=3 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (JJ Israeli) (NN helicopter) (NNS gunships))
+sid=4 spanning 5 until 8 headed by 7 parsed as (NP (CD one) (JJ Palestinian) (NN town))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN area))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NNP Gaza) (NN airport))
+sid=5 spanning 6 until 7 headed by 6 parsed as Gaza
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (CD 135) (NNS people))
+sid=6 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (JJ recent) (NN violence))
+sid=6 spanning 15 until 19 headed by 15 parsed as (NP (NP (NNPS Palestinians)) (CC or) (NP (JJ Israeli) (NNPS Arabs)))
+sid=6 spanning 17 until 19 headed by 18 parsed as (NP (JJ Israeli) (NNPS Arabs))
+(end predicted mentions)
+---------gold clusters--------
+3 0 2 | { 'Likud' 'Likud Party' 'Likud' }
+5 6 | { 'two others' 'their' }
+7 8 | { '135 people' 'them' }
+4 1 | { 'the government' 'a unity government' }
+(end gold clusters)

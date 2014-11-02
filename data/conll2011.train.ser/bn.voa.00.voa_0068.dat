@@ -1,0 +1,51 @@
+---------gloss--------
+(0) [1m[36m{The battered US Navy destroyer Cole}[0m has begun [1m[36m{its}[0m journey home from Yemen , 17 days after a suspected terrorist bomb [3m[31m{tore}[0m a gapping hole in [1m[36m{its}[0m side . 
+(1) [3m[31m{The attack}[0m killed 17 American sailors and wounded 39 . 
+(2) Flanked by other US warships and guarded by aircraft , [1m[36m{the ship}[0m was towed out of Aden Harbor to rendezvous with a huge Norwegian transport vessel that will carry [1m[36m{the crippled ship}[0m back to the United States . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0068); part 000
+sentences:
+ThetheDTOPER0batteredbatterVBNOPER0USUSNNPORGPER0NavyNavyNNPORGPER0destroyerdestroyerNNOPER0ColeColeNNPPERSONPER0hashaveVBZOPER0begunbeginVBNOPER0itsitsPRP$OPER0journeyjourneyNNOPER0homehomeRBOPER0fromfromINOPER0YemenYemenNNPGPEPER0,,,OPER01717CDDATEPER0daysdayNNSDATEPER0afterafterINOPER0aaDTOPER0suspectedsuspectVBNOPER0terroristterroristNNOPER0bombbombNNOPER0toretearVBDOPER0aaDTOPER0gappinggapVBGOPER0holeholeNNOPER0ininINOPER0itsitsPRP$OPER0sidesideNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (VBN battered) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NNP Cole)) (VP (VBZ has) (VP (VBN begun) (NP (NP (NP (PRP$ its) (NN journey)) (ADVP (RB home) (PP (IN from) (NP (NNP Yemen))))) (, ,) (NP (CD 17) (NNS days))) (SBAR (IN after) (S (NP (DT a) (VBN suspected) (NN terrorist) (NN bomb)) (VP (VBD tore) (NP (NP (DT a) (VBG gapping) (NN hole)) (PP (IN in) (NP (PRP$ its) (NN side))))))))) (. .)))
+ThetheDTOPER0attackattackNNOPER0killedkillVBDOPER01717CDCARDINALPER0AmericanamericanJJOPER0sailorssailorNNSOPER0andandCCOPER0woundedwoundVBDOPER03939CDTIMEPER0...OPER0(ROOT (S (NP (DT The) (NN attack)) (VP (VP (VBD killed) (NP (CD 17) (JJ American) (NNS sailors))) (CC and) (VP (VBD wounded) (NP (CD 39)))) (. .)))
+FlankedflankVBNOPER0bybyINOPER0otherotherJJOPER0USUSNNPORGPER0warshipswarshipNNSOPER0andandCCOPER0guardedguardVBNOPER0bybyINOPER0aircraftaircraftNNOPER0,,,OPER0thetheDTOPER0shipshipNNOPER0wasbeVBDOPER0towedtowVBNOPER0outoutRPOPER0ofofINOPER0AdenAdenNNPLOCPER0HarborHarborNNPLOCPER0totoINOPER0rendezvousrendezvousNNOPER0withwithINOPER0aaDTOPER0hugehugeJJOPER0NorwegiannorwegianJJOPER0transporttransportNNOPER0vesselvesselNNOPER0thatthatWDTOPER0willwillMDOPER0carrycarryVBOPER0thetheDTOPER0crippledcrippleVBNOPER0shipshipNNOPER0backbackRBOPER0totoINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (S (VP (VP (VBN Flanked) (PP (IN by) (NP (JJ other) (NNP US) (NNS warships)))) (CC and) (VP (VBN guarded) (PP (IN by) (NP (NN aircraft)))))) (, ,) (NP (DT the) (NN ship)) (VP (VBD was) (VP (VBN towed) (PRT (RP out)) (PP (IN of) (NP (NNP Aden) (NNP Harbor))) (PP (IN to) (NP (NP (NN rendezvous)) (PP (IN with) (NP (NP (DT a) (JJ huge) (JJ Norwegian) (NN transport) (NN vessel)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB carry) (NP (DT the) (VBN crippled) (NN ship)) (ADVP (RB back) (PP (IN to) (NP (DT the) (NNP United) (NNP States)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NP (DT The) (VBN battered) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NNP Cole))
+sid=0 spanning 8 until 9 headed by 8 parsed as its
+sid=0 spanning 21 until 22 headed by 21 parsed as tore
+sid=0 spanning 26 until 27 headed by 26 parsed as its
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN attack))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN ship))
+sid=2 spanning 29 until 32 headed by 31 parsed as (NP (DT the) (VBN crippled) (NN ship))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NP (DT The) (VBN battered) (NML (NNP US) (NNP Navy)) (NN destroyer)) (NNP Cole))
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (VBN battered) (NML (NNP US) (NNP Navy)) (NN destroyer))
+sid=0 spanning 2 until 4 headed by 3 parsed as Navy
+sid=0 spanning 8 until 16 headed by 9 parsed as (NP (NP (NP (PRP$ its) (NN journey)) (ADVP (RB home) (PP (IN from) (NP (NNP Yemen))))) (, ,) (NP (CD 17) (NNS days)))
+sid=0 spanning 8 until 13 headed by 9 parsed as (NP (NP (PRP$ its) (NN journey)) (ADVP (RB home) (PP (IN from) (NP (NNP Yemen)))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (PRP$ its)
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Yemen))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (CD 17) (NNS days))
+sid=0 spanning 17 until 21 headed by 20 parsed as (NP (DT a) (VBN suspected) (NN terrorist) (NN bomb))
+sid=0 spanning 22 until 28 headed by 24 parsed as (NP (NP (DT a) (VBG gapping) (NN hole)) (PP (IN in) (NP (PRP$ its) (NN side))))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (PRP$ its) (NN side))
+sid=0 spanning 26 until 27 headed by 26 parsed as (PRP$ its)
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN attack))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (CD 17) (JJ American) (NNS sailors))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (CD 39))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (JJ other) (NNP US) (NNS warships))
+sid=2 spanning 3 until 4 headed by 3 parsed as US
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN ship))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (NNP Aden) (NNP Harbor))
+sid=2 spanning 19 until 37 headed by 19 parsed as (NP (NP (NN rendezvous)) (PP (IN with) (NP (NP (DT a) (JJ huge) (JJ Norwegian) (NN transport) (NN vessel)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB carry) (NP (DT the) (VBN crippled) (NN ship)) (ADVP (RB back) (PP (IN to) (NP (DT the) (NNP United) (NNP States)))))))))))
+sid=2 spanning 21 until 37 headed by 25 parsed as (NP (NP (DT a) (JJ huge) (JJ Norwegian) (NN transport) (NN vessel)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB carry) (NP (DT the) (VBN crippled) (NN ship)) (ADVP (RB back) (PP (IN to) (NP (DT the) (NNP United) (NNP States)))))))))
+sid=2 spanning 29 until 32 headed by 31 parsed as (NP (DT the) (VBN crippled) (NN ship))
+sid=2 spanning 34 until 37 headed by 36 parsed as (NP (DT the) (NNP United) (NNP States))
+(end predicted mentions)
+---------gold clusters--------
+1 5 6 0 3 | { 'its' 'the ship' 'the crippled ship' 'The battered US Navy destroyer Cole' 'its' }
+4 2 | { 'The attack' 'tore' }
+(end gold clusters)

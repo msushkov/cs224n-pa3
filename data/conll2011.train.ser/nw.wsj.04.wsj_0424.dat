@@ -1,0 +1,50 @@
+---------gloss--------
+(0) [4m[32m{Vernon E. Jordan}[0m was [4m[34m{elected}[0m to [4m[31m{the board of this transportation services concern}[0m . 
+(1) [4m[32m{Mr. Jordan}[0m has served as executive director of the United Negro College Fund , director of the Voter Education Project of the Southern Regional Council and attorney - consultant to the U.S. Office of Economic Opportunity . 
+(2) [4m[32m{His}[0m election increases [4m[33m{Ryder 's}[0m board to 14 members . 
+(end gloss)
+---------document--------
+(nw/wsj/04/wsj_0424); part 000
+sentences:
+VernonVernonNNPPERSONPER0E.E.NNPPERSONPER0JordanJordanNNPPERSONPER0wasbeVBDOPER0electedelectVBNOPER0totoINOPER0thetheDTOPER0boardboardNNOPER0ofofINOPER0thisthisDTOPER0transportationtransportationNNOPER0servicesserviceNNSOPER0concernconcernNNOPER0...OPER0(ROOT (S (NP (NNP Vernon) (NNP E.) (NNP Jordan)) (VP (VBD was) (VP (VBN elected) (PP (IN to) (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NML (NN transportation) (NNS services)) (NN concern))))))) (. .)))
+Mr.Mr.NNPOPER0JordanJordanNNPPERSONPER0hashaveVBZOPER0servedserveVBNOPER0asasINOPER0executiveexecutiveNNOPER0directordirectorNNOPER0ofofINOPER0thetheDTORGPER0UnitedUnitedNNPORGPER0NegroNegroNNPORGPER0CollegeCollegeNNPORGPER0FundFundNNPORGPER0,,,OPER0directordirectorNNOPER0ofofINOPER0thetheDTOPER0VotervoterNNORGPER0EducationEducationNNPORGPER0ProjectProjectNNPORGPER0ofofINORGPER0thetheDTORGPER0SouthernSouthernNNPORGPER0RegionalRegionalNNPORGPER0CouncilCouncilNNPORGPER0andandCCOPER0attorneyattorneyNNOPER0--HYPHOPER0consultantconsultantNNOPER0totoINOPER0thetheDTOPER0U.S.U.S.NNPORGPER0OfficeOfficeNNPORGPER0ofofINORGPER0EconomicEconomicNNPORGPER0OpportunityOpportunityNNPORGPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Jordan)) (VP (VBZ has) (VP (VBN served) (PP (IN as) (NP (NP (NN executive) (NN director)) (PP (IN of) (NP (NP (DT the) (NNP United) (NNP Negro) (NNP College) (NNP Fund)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (DT the) (NN Voter) (NNP Education) (NNP Project))) (PP (IN of) (NP (NP (DT the) (NNP Southern) (NNP Regional) (NNP Council)) (CC and) (NP (NP (NML (NML (NN attorney) (HYPH -) (NN consultant)) (PP (IN to) (NP (DT the) (NNP U.S.)))) (NNP Office)) (PP (IN of) (NP (NNP Economic) (NNP Opportunity))))))))))))) (. .)))
+HishePRP$OPER0electionelectionNNOPER0increasesincreaseVBZOPER0RyderRyderNNPORGPER0's'sPOSOPER0boardboardNNOPER0totoINOPER01414CDCARDINALPER0membersmemberNNSOPER0...OPER0(ROOT (S (NP (PRP$ His) (NN election)) (VP (VBZ increases) (NP (NP (NNP Ryder) (POS 's)) (NN board)) (PP (IN to) (NP (CD 14) (NNS members)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Vernon) (NNP E.) (NNP Jordan))
+sid=0 spanning 4 until 5 headed by 4 parsed as elected
+sid=0 spanning 6 until 13 headed by 7 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NML (NN transportation) (NNS services)) (NN concern))))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (DT this) (NML (NN transportation) (NNS services)) (NN concern))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Jordan))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ His) (NN election))
+sid=2 spanning 0 until 1 headed by 0 parsed as His
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (NP (NNP Ryder) (POS 's)) (NN board))
+sid=2 spanning 3 until 5 headed by 3 parsed as (NP (NNP Ryder) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Vernon) (NNP E.) (NNP Jordan))
+sid=0 spanning 6 until 13 headed by 7 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NML (NN transportation) (NNS services)) (NN concern))))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (DT this) (NML (NN transportation) (NNS services)) (NN concern))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Jordan))
+sid=1 spanning 5 until 36 headed by 6 parsed as (NP (NP (NN executive) (NN director)) (PP (IN of) (NP (NP (DT the) (NNP United) (NNP Negro) (NNP College) (NNP Fund)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (DT the) (NN Voter) (NNP Education) (NNP Project))) (PP (IN of) (NP (NP (DT the) (NNP Southern) (NNP Regional) (NNP Council)) (CC and) (NP (NP (NML (NML (NN attorney) (HYPH -) (NN consultant)) (PP (IN to) (NP (DT the) (NNP U.S.)))) (NNP Office)) (PP (IN of) (NP (NNP Economic) (NNP Opportunity))))))))))
+sid=1 spanning 8 until 13 headed by 12 parsed as (NP (NP (DT the) (NNP United) (NNP Negro) (NNP College) (NNP Fund)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (DT the) (NN Voter) (NNP Education) (NNP Project))) (PP (IN of) (NP (NP (DT the) (NNP Southern) (NNP Regional) (NNP Council)) (CC and) (NP (NP (NML (NML (NN attorney) (HYPH -) (NN consultant)) (PP (IN to) (NP (DT the) (NNP U.S.)))) (NNP Office)) (PP (IN of) (NP (NNP Economic) (NNP Opportunity))))))))
+sid=1 spanning 8 until 36 headed by 12 parsed as (NP (NP (DT the) (NNP United) (NNP Negro) (NNP College) (NNP Fund)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (DT the) (NN Voter) (NNP Education) (NNP Project))) (PP (IN of) (NP (NP (DT the) (NNP Southern) (NNP Regional) (NNP Council)) (CC and) (NP (NP (NML (NML (NN attorney) (HYPH -) (NN consultant)) (PP (IN to) (NP (DT the) (NNP U.S.)))) (NNP Office)) (PP (IN of) (NP (NNP Economic) (NNP Opportunity))))))))
+sid=1 spanning 14 until 36 headed by 14 parsed as (NP (NP (NN director)) (PP (IN of) (NP (DT the) (NN Voter) (NNP Education) (NNP Project))) (PP (IN of) (NP (NP (DT the) (NNP Southern) (NNP Regional) (NNP Council)) (CC and) (NP (NP (NML (NML (NN attorney) (HYPH -) (NN consultant)) (PP (IN to) (NP (DT the) (NNP U.S.)))) (NNP Office)) (PP (IN of) (NP (NNP Economic) (NNP Opportunity)))))))
+sid=1 spanning 17 until 25 headed by 19 parsed as (NP (DT the) (NN Voter) (NNP Education) (NNP Project))
+sid=1 spanning 16 until 20 headed by 19 parsed as (NP (DT the) (NN Voter) (NNP Education) (NNP Project))
+sid=1 spanning 21 until 36 headed by 24 parsed as (NP (NP (DT the) (NNP Southern) (NNP Regional) (NNP Council)) (CC and) (NP (NP (NML (NML (NN attorney) (HYPH -) (NN consultant)) (PP (IN to) (NP (DT the) (NNP U.S.)))) (NNP Office)) (PP (IN of) (NP (NNP Economic) (NNP Opportunity)))))
+sid=1 spanning 26 until 36 headed by 32 parsed as (NP (NP (NML (NML (NN attorney) (HYPH -) (NN consultant)) (PP (IN to) (NP (DT the) (NNP U.S.)))) (NNP Office)) (PP (IN of) (NP (NNP Economic) (NNP Opportunity))))
+sid=1 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NNP U.S.))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ His) (NN election))
+sid=2 spanning 0 until 1 headed by 0 parsed as (PRP$ His)
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (NP (NNP Ryder) (POS 's)) (NN board))
+sid=2 spanning 3 until 5 headed by 3 parsed as (NP (NNP Ryder) (POS 's))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (CD 14) (NNS members))
+(end predicted mentions)
+---------gold clusters--------
+2 7 | { 'the board of this transportation services concern' 'Ryder 's board' }
+6 4 0 | { 'His' 'Mr. Jordan' 'Vernon E. Jordan' }
+8 3 | { 'Ryder 's' 'this transportation services concern' }
+1 5 | { 'elected' 'His election' }
+(end gold clusters)

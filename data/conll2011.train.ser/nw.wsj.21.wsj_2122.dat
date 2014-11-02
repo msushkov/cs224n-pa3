@@ -1,0 +1,38 @@
+---------gloss--------
+(0) General Dynamics Services Co. , a unit of General Dynamics Corp. , won a $ 48.2 million Army contract to establish maintenance facilities for tracked vehicles in Pakistan . 
+(1) Grumman Corp. was given a $ 15 million Navy contract for aircraft - electronics improvements . 
+(2) Hughes Aircraft Co. , a unit of General Motors Corp. , got a $ 10.3 million Air Force contract for airborne - radar equipment . 
+(end gloss)
+---------document--------
+(nw/wsj/21/wsj_2122); part 000
+sentences:
+GeneralGeneralNNPORGPER0DynamicsDynamicsNNPORGPER0ServicesServicesNNPSORGPER0Co.Co.NNPORGPER0,,,OPER0aaDTOPER0unitunitNNOPER0ofofINOPER0GeneralGeneralNNPORGPER0DynamicsDynamicsNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0wonwinVBDOPER0aaDTOPER0$$$MONEYPER048.248.2CDMONEYPER0millionmillionCDMONEYPER0ArmyArmyNNPORGPER0contractcontractNNOPER0totoTOOPER0establishestablishVBOPER0maintenancemaintenanceNNOPER0facilitiesfacilityNNSOPER0forforINOPER0trackedtrackVBNOPER0vehiclesvehicleNNSOPER0ininINOPER0PakistanPakistanNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP General) (NNP Dynamics) (NNPS Services) (NNP Co.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNP Dynamics) (NNP Corp.)))) (, ,)) (VP (VBD won) (NP (NP (DT a) (NML (QP ($ $) (CD 48.2) (CD million))) (NNP Army) (NN contract)) (SBAR (S (VP (TO to) (VP (VB establish) (NP (NP (NN maintenance) (NNS facilities)) (PP (IN for) (NP (VBN tracked) (NNS vehicles)))) (PP (IN in) (NP (NNP Pakistan))))))))) (. .)))
+GrummanGrummanNNPORGPER0Corp.Corp.NNPORGPER0wasbeVBDOPER0givengiveVBNOPER0aaDTOPER0$$$MONEYPER01515CDMONEYPER0millionmillionCDMONEYPER0NavyNavyNNPORGPER0contractcontractNNOPER0forforINOPER0aircraftaircraftNNOPER0--HYPHOPER0electronicselectronicsNNOPER0improvementsimprovementNNSOPER0...OPER0(ROOT (S (NP (NNP Grumman) (NNP Corp.)) (VP (VBD was) (VP (VBN given) (NP (NP (DT a) (NML (QP ($ $) (CD 15) (CD million))) (NNP Navy) (NN contract)) (PP (IN for) (NP (NML (NN aircraft) (HYPH -) (NN electronics)) (NNS improvements)))))) (. .)))
+HughesHughesNNPORGPER0AircraftAircraftNNPORGPER0Co.Co.NNPORGPER0,,,OPER0aaDTOPER0unitunitNNOPER0ofofINOPER0GeneralGeneralNNPORGPER0MotorsMotorsNNPSORGPER0Corp.Corp.NNPORGPER0,,,OPER0gotgetVBDOPER0aaDTOPER0$$$MONEYPER010.310.3CDMONEYPER0millionmillionCDMONEYPER0AirAirNNPORGPER0ForceForceNNPORGPER0contractcontractNNOPER0forforINOPER0airborneairborneJJOPER0--HYPHOPER0radarradarNNOPER0equipmentequipmentNNOPER0...OPER0(ROOT (S (NP (NP (NNP Hughes) (NNP Aircraft) (NNP Co.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNPS Motors) (NNP Corp.)))) (, ,)) (VP (VBD got) (NP (NP (DT a) (NML (QP ($ $) (CD 10.3) (CD million))) (NML (NNP Air) (NNP Force)) (NN contract)) (PP (IN for) (NP (NML (JJ airborne) (HYPH -) (NN radar)) (NN equipment))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP General) (NNP Dynamics) (NNPS Services) (NNP Co.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNP Dynamics) (NNP Corp.)))) (, ,))
+sid=0 spanning 0 until 12 headed by 3 parsed as (NP (NP (NNP General) (NNP Dynamics) (NNPS Services) (NNP Co.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNP Dynamics) (NNP Corp.)))) (, ,))
+sid=0 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNP Dynamics) (NNP Corp.))))
+sid=0 spanning 8 until 11 headed by 10 parsed as (NP (NNP General) (NNP Dynamics) (NNP Corp.))
+sid=0 spanning 13 until 28 headed by 18 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 48.2) (CD million))) (NNP Army) (NN contract)) (SBAR (S (VP (TO to) (VP (VB establish) (NP (NP (NN maintenance) (NNS facilities)) (PP (IN for) (NP (VBN tracked) (NNS vehicles)))) (PP (IN in) (NP (NNP Pakistan))))))))
+sid=0 spanning 17 until 18 headed by 17 parsed as Army
+sid=0 spanning 21 until 26 headed by 22 parsed as (NP (NP (NN maintenance) (NNS facilities)) (PP (IN for) (NP (VBN tracked) (NNS vehicles))))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (VBN tracked) (NNS vehicles))
+sid=0 spanning 27 until 28 headed by 27 parsed as (NP (NNP Pakistan))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Grumman) (NNP Corp.))
+sid=1 spanning 4 until 15 headed by 9 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 15) (CD million))) (NNP Navy) (NN contract)) (PP (IN for) (NP (NML (NN aircraft) (HYPH -) (NN electronics)) (NNS improvements))))
+sid=1 spanning 8 until 9 headed by 8 parsed as Navy
+sid=1 spanning 11 until 15 headed by 14 parsed as (NP (NML (NN aircraft) (HYPH -) (NN electronics)) (NNS improvements))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Hughes) (NNP Aircraft) (NNP Co.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNPS Motors) (NNP Corp.)))) (, ,))
+sid=2 spanning 0 until 11 headed by 2 parsed as (NP (NP (NNP Hughes) (NNP Aircraft) (NNP Co.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNPS Motors) (NNP Corp.)))) (, ,))
+sid=2 spanning 4 until 10 headed by 5 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNPS Motors) (NNP Corp.))))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (NNP General) (NNPS Motors) (NNP Corp.))
+sid=2 spanning 12 until 24 headed by 18 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 10.3) (CD million))) (NML (NNP Air) (NNP Force)) (NN contract)) (PP (IN for) (NP (NML (JJ airborne) (HYPH -) (NN radar)) (NN equipment))))
+sid=2 spanning 16 until 18 headed by 17 parsed as Force
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

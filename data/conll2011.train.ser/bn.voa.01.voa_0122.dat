@@ -1,0 +1,128 @@
+---------gloss--------
+(0) The [33m{United Nations}[0m climate change conference in the Hague has ended in [1m[35m{an impasse}[0m after two weeks of intense negotiations . 
+(1) [34m{Delegates from 180 countries}[0m were unable to agree on how to [1m[32m{cut}[0m greenhouse gas emissions , which many believe causes global warming . 
+(2) [1m[31m{Lisa Schline}[0m has been monitoring developments from the [33m{United Nations}[0m headquarters in [1m[33m{Geneva}[0m . 
+(3) [34m{The delegates}[0m were close to [35m{an agreement}[0m , but in the end a feud between [1m[36m{the European Union and the United States}[0m caused [1m[35m{its unravel}[0m . 
+(4) [1m[36m{They}[0m disagreed over how [1m[32m{targeted cuts in greenhouse gas emissions}[0m could be achieved . 
+(5) Under the Kyoto Protocol , 38 developed countries have to reduce emissions by more than 5 % over the next 10 years . 
+(6) [1m[34m{The United States , which is the world 's biggest polluter ,}[0m wants to reach [1m[34m{its}[0m target in large part by counting so - called carbon sinks against [1m[34m{its}[0m emissions quota . 
+(7) [1m[34m{The United States}[0m argued that [1m[34m{it}[0m has many rich forests and will plant new trees to help absorb carbon from the atmosphere as a means of cutting [1m[34m{its}[0m emissions . 
+(8) [36m{The EU}[0m rejected this proposal as self - serving . 
+(9) Environmentalists have reacted to [1m[35m{the failure}[0m with dismay . 
+(10) [1m[31m{Lisa Schline}[0m for VOA News , [1m[33m{Geneva}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0122); part 000
+sentences:
+ThetheDTOPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0climateclimateNNOPER0changechangeNNOPER0conferenceconferenceNNOPER0ininINOPER0thetheDTOPER0HagueHagueNNPGPEPER0hashaveVBZOPER0endedendVBNOPER0ininINOPER0anaDTOPER0impasseimpasseNNOPER0afterafterINOPER0twotwoCDDATEPER0weeksweekNNSDATEPER0ofofINOPER0intenseintenseJJOPER0negotiationsnegotiationNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NML (NNP United) (NNP Nations)) (NML (NN climate) (NN change)) (NN conference)) (PP (IN in) (NP (DT the) (NNP Hague)))) (VP (VBZ has) (VP (VBN ended) (PP (IN in) (NP (DT an) (NN impasse))) (PP (IN after) (NP (NP (CD two) (NNS weeks)) (PP (IN of) (NP (JJ intense) (NNS negotiations))))))) (. .)))
+DelegatesdelegateNNSOPER0fromfromINOPER0180180CDCARDINALPER0countriescountryNNSOPER0werebeVBDOPER0unableunableJJOPER0totoTOOPER0agreeagreeVBOPER0ononINOPER0howhowWRBOPER0totoTOOPER0cutcutVBOPER0greenhousegreenhouseNNOPER0gasgasNNOPER0emissionsemissionNNSOPER0,,,OPER0whichwhichWDTOPER0manymanyJJOPER0believebelieveVBPOPER0causescauseVBZOPER0globalglobalJJOPER0warmingwarmingNNOPER0...OPER0(ROOT (S (NP (NP (NNS Delegates)) (PP (IN from) (NP (CD 180) (NNS countries)))) (VP (VBD were) (ADJP (JJ unable) (S (VP (TO to) (VP (VB agree) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB cut) (NP (NML (NN greenhouse) (NN gas)) (NNS emissions))))))))))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (JJ many)) (VP (VBP believe) (SBAR (S (VP (VBZ causes) (NP (JJ global) (NN warming))))))))) (. .)))
+LisaLisaNNPPERSONPER0SchlineSchlineNNPPERSONPER0hashaveVBZOPER0beenbeVBNOPER0monitoringmonitorVBGOPER0developmentsdevelopmentNNSOPER0fromfromINOPER0thetheDTOPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0headquartersheadquartersNNOPER0ininINOPER0GenevaGenevaNNPGPEPER0...OPER0(ROOT (S (NP (NNP Lisa) (NNP Schline)) (VP (VBZ has) (VP (VBN been) (VP (VBG monitoring) (NP (NP (NNS developments)) (PP (IN from) (NP (NP (DT the) (NML (NNP United) (NNP Nations)) (NN headquarters)) (PP (IN in) (NP (NNP Geneva))))))))) (. .)))
+ThetheDTOPER0delegatesdelegateNNSOPER0werebeVBDOPER0closecloseJJOPER0totoINOPER0anaDTOPER0agreementagreementNNOPER0,,,OPER0butbutCCOPER0ininINOPER0thetheDTOPER0endendNNOPER0aaDTOPER0feudfeudNNOPER0betweenbetweenINOPER0thetheDTORGPER0EuropeanEuropeanNNPORGPER0UnionUnionNNPORGPER0andandCCOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0causedcauseVBDOPER0itsitsPRPOPER0unravelunravelVBOPER0...OPER0(ROOT (S (S (NP (DT The) (NNS delegates)) (VP (VBD were) (ADJP (JJ close) (PP (IN to) (NP (DT an) (NN agreement)))))) (, ,) (CC but) (S (PP (IN in) (NP (DT the) (NN end))) (NP (NP (DT a) (NN feud)) (PP (IN between) (NP (NP (DT the) (NNP European) (NNP Union)) (CC and) (NP (DT the) (NNP United) (NNP States))))) (VP (VBD caused) (S (NP (PRP its)) (VP (VB unravel))))) (. .)))
+TheytheyPRPOPER0disagreeddisagreeVBDOPER0overoverINOPER0howhowWRBOPER0targetedtargetVBNOPER0cutscutNNSOPER0ininINOPER0greenhousegreenhouseNNOPER0gasgasNNOPER0emissionsemissionNNSOPER0couldcouldMDOPER0bebeVBOPER0achievedachieveVBNOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBD disagreed) (PP (IN over) (SBAR (WHADVP (WRB how)) (S (NP (NP (VBN targeted) (NNS cuts)) (PP (IN in) (NP (NML (NN greenhouse) (NN gas)) (NNS emissions)))) (VP (MD could) (VP (VB be) (VP (VBN achieved)))))))) (. .)))
+UnderunderINOPER0thetheDTLAWPER0KyotoKyotoNNPLAWPER0ProtocolProtocolNNPLAWPER0,,,OPER03838CDDATEPER0developeddevelopVBNOPER0countriescountryNNSOPER0havehaveVBPOPER0totoTOOPER0reducereduceVBOPER0emissionsemissionNNSOPER0bybyINOPER0moremoreJJRPERCENTPER0thanthanINPERCENTPER055CDPERCENTPER0%%NNPERCENTPER0overoverINOPER0thetheDTDATEPER0nextnextJJDATEPER01010CDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (PP (IN Under) (NP (DT the) (NNP Kyoto) (NNP Protocol))) (, ,) (NP (CD 38) (VBN developed) (NNS countries)) (VP (VBP have) (S (VP (TO to) (VP (VB reduce) (NP (NNS emissions)) (PP (IN by) (NP (NP (QP (XS (JJR more) (IN than)) (CD 5)) (NN %)) (PP (IN over) (NP (DT the) (JJ next) (CD 10) (NNS years))))))))) (. .)))
+ThetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0,,,OPER0whichwhichWDTOPER0isbeVBZOPER0thetheDTOPER0worldworldNNOPER0's'sPOSOPER0biggestbiggestJJSOPER0polluterpolluterNNOPER0,,,OPER0wantswantVBZOPER0totoTOOPER0reachreachVBOPER0itsitsPRP$OPER0targettargetNNOPER0ininINOPER0largelargeJJOPER0partpartNNOPER0bybyINOPER0countingcountVBGOPER0sosoRBOPER0--HYPHOPER0calledcallVBNOPER0carboncarbonNNOPER0sinkssinkNNSOPER0againstagainstINOPER0itsitsPRP$OPER0emissionsemissionNNSOPER0quotaquotaNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP United) (NNP States)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN world) (POS 's)) (JJS biggest) (NN polluter))))) (, ,)) (VP (VBZ wants) (S (VP (TO to) (VP (VB reach) (NP (PRP$ its) (NN target)) (PP (IN in) (NP (JJ large) (NN part))) (PP (IN by) (S (VP (VBG counting) (NP (NP (ADJP (RB so) (HYPH -) (VBN called)) (NN carbon) (NNS sinks)) (PP (IN against) (NP (PRP$ its) (NNS emissions) (NN quota))))))))))) (. .)))
+ThetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0arguedargueVBDOPER0thatthatINOPER0ititPRPOPER0hashaveVBZOPER0manymanyJJOPER0richrichJJOPER0forestsforestNNSOPER0andandCCOPER0willwillMDOPER0plantplantVBOPER0newnewJJOPER0treestreeNNSOPER0totoTOOPER0helphelpVBOPER0absorbabsorbVBOPER0carboncarbonNNOPER0fromfromINOPER0thetheDTOPER0atmosphereatmosphereNNOPER0asasINOPER0aaDTOPER0meansmeansNNOPER0ofofINOPER0cuttingcutVBGOPER0itsitsPRP$OPER0emissionsemissionNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP States)) (VP (VBD argued) (SBAR (IN that) (S (NP (PRP it)) (VP (VP (VBZ has) (NP (JJ many) (JJ rich) (NNS forests))) (CC and) (VP (MD will) (VP (VB plant) (NP (JJ new) (NNS trees)) (S (VP (TO to) (VP (VB help) (S (VP (VB absorb) (NP (NP (NN carbon)) (PP (IN from) (NP (DT the) (NN atmosphere)))) (PP (IN as) (NP (NP (DT a) (NN means)) (PP (IN of) (S (VP (VBG cutting) (NP (PRP$ its) (NNS emissions)))))))))))))))))) (. .)))
+ThetheDTOPER0EUEUNNPORGPER0rejectedrejectVBDOPER0thisthisDTOPER0proposalproposalNNOPER0asasINOPER0selfselfNNOPER0--HYPHOPER0servingserveVBGOPER0...OPER0(ROOT (S (NP (DT The) (NNP EU)) (VP (VBD rejected) (NP (DT this) (NN proposal)) (PP (IN as) (ADJP (NN self) (HYPH -) (VBG serving)))) (. .)))
+EnvironmentalistsenvironmentalistNNSOPER0havehaveVBPOPER0reactedreactVBNOPER0totoINOPER0thetheDTOPER0failurefailureNNOPER0withwithINOPER0dismaydismayNNOPER0...OPER0(ROOT (S (NP (NNS Environmentalists)) (VP (VBP have) (VP (VBN reacted) (PP (IN to) (NP (NP (DT the) (NN failure)) (PP (IN with) (NP (NN dismay))))))) (. .)))
+LisaLisaNNPPERSONPER0SchlineSchlineNNPPERSONPER0forforINOPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0,,,OPER0GenevaGenevaNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Lisa) (NNP Schline)) (PP (IN for) (NP (NP (NNP VOA) (NNP News)) (, ,) (NP (NNP Geneva)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as Nations
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (DT an) (NN impasse))
+sid=1 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Delegates)) (PP (IN from) (NP (CD 180) (NNS countries))))
+sid=1 spanning 11 until 12 headed by 11 parsed as cut
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Lisa) (NNP Schline))
+sid=2 spanning 8 until 10 headed by 9 parsed as Nations
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Geneva))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS delegates))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT an) (NN agreement))
+sid=3 spanning 15 until 18 headed by 17 parsed as (NP (NP (DT the) (NNP European) (NNP Union)) (CC and) (NP (DT the) (NNP United) (NNP States)))
+sid=3 spanning 15 until 22 headed by 17 parsed as (NP (NP (DT the) (NNP European) (NNP Union)) (CC and) (NP (DT the) (NNP United) (NNP States)))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (PRP its))
+sid=3 spanning 23 until 25 headed by 24 parsed as unravel
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=4 spanning 4 until 10 headed by 5 parsed as (NP (NP (VBN targeted) (NNS cuts)) (PP (IN in) (NP (NML (NN greenhouse) (NN gas)) (NNS emissions))))
+sid=6 spanning 0 until 12 headed by 2 parsed as (NP (NP (DT The) (NNP United) (NNP States)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN world) (POS 's)) (JJS biggest) (NN polluter))))) (, ,))
+sid=6 spanning 15 until 16 headed by 15 parsed as its
+sid=6 spanning 28 until 29 headed by 28 parsed as its
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP States))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=7 spanning 27 until 28 headed by 27 parsed as its
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP EU))
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (NP (DT the) (NN failure)) (PP (IN with) (NP (NN dismay))))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Lisa) (NNP Schline))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (NNP Geneva))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 5 parsed as (NP (NP (DT The) (NML (NNP United) (NNP Nations)) (NML (NN climate) (NN change)) (NN conference)) (PP (IN in) (NP (DT the) (NNP Hague))))
+sid=0 spanning 1 until 3 headed by 2 parsed as Nations
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNP Hague))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (DT an) (NN impasse))
+sid=0 spanning 15 until 20 headed by 16 parsed as (NP (NP (CD two) (NNS weeks)) (PP (IN of) (NP (JJ intense) (NNS negotiations))))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (JJ intense) (NNS negotiations))
+sid=1 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Delegates)) (PP (IN from) (NP (CD 180) (NNS countries))))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (CD 180) (NNS countries))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (NML (NN greenhouse) (NN gas)) (NNS emissions))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (JJ many))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Lisa) (NNP Schline))
+sid=2 spanning 5 until 13 headed by 5 parsed as (NP (NP (NNS developments)) (PP (IN from) (NP (NP (DT the) (NML (NNP United) (NNP Nations)) (NN headquarters)) (PP (IN in) (NP (NNP Geneva))))))
+sid=2 spanning 7 until 13 headed by 10 parsed as (NP (NP (DT the) (NML (NNP United) (NNP Nations)) (NN headquarters)) (PP (IN in) (NP (NNP Geneva))))
+sid=2 spanning 8 until 10 headed by 9 parsed as Nations
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Geneva))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS delegates))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT an) (NN agreement))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN end))
+sid=3 spanning 12 until 22 headed by 13 parsed as (NP (NP (DT a) (NN feud)) (PP (IN between) (NP (NP (DT the) (NNP European) (NNP Union)) (CC and) (NP (DT the) (NNP United) (NNP States)))))
+sid=3 spanning 15 until 18 headed by 17 parsed as (NP (NP (DT the) (NNP European) (NNP Union)) (CC and) (NP (DT the) (NNP United) (NNP States)))
+sid=3 spanning 15 until 22 headed by 17 parsed as (NP (NP (DT the) (NNP European) (NNP Union)) (CC and) (NP (DT the) (NNP United) (NNP States)))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (PRP its))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=4 spanning 4 until 10 headed by 5 parsed as (NP (NP (VBN targeted) (NNS cuts)) (PP (IN in) (NP (NML (NN greenhouse) (NN gas)) (NNS emissions))))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (NML (NN greenhouse) (NN gas)) (NNS emissions))
+sid=5 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP Kyoto) (NNP Protocol))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (CD 38) (VBN developed) (NNS countries))
+sid=5 spanning 5 until 6 headed by 5 parsed as 38
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NNS emissions))
+sid=5 spanning 18 until 22 headed by 21 parsed as (NP (DT the) (JJ next) (CD 10) (NNS years))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (NP (DT The) (NNP United) (NNP States)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN world) (POS 's)) (JJS biggest) (NN polluter))))) (, ,))
+sid=6 spanning 0 until 12 headed by 2 parsed as (NP (NP (DT The) (NNP United) (NNP States)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN world) (POS 's)) (JJS biggest) (NN polluter))))) (, ,))
+sid=6 spanning 6 until 11 headed by 10 parsed as (NP (NP (DT the) (NN world) (POS 's)) (JJS biggest) (NN polluter))
+sid=6 spanning 6 until 9 headed by 7 parsed as (NP (DT the) (NN world) (POS 's))
+sid=6 spanning 15 until 17 headed by 16 parsed as (NP (PRP$ its) (NN target))
+sid=6 spanning 15 until 16 headed by 15 parsed as (PRP$ its)
+sid=6 spanning 22 until 31 headed by 26 parsed as (NP (NP (ADJP (RB so) (HYPH -) (VBN called)) (NN carbon) (NNS sinks)) (PP (IN against) (NP (PRP$ its) (NNS emissions) (NN quota))))
+sid=6 spanning 28 until 31 headed by 30 parsed as (NP (PRP$ its) (NNS emissions) (NN quota))
+sid=6 spanning 28 until 29 headed by 28 parsed as (PRP$ its)
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP States))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=7 spanning 7 until 10 headed by 9 parsed as (NP (JJ many) (JJ rich) (NNS forests))
+sid=7 spanning 13 until 15 headed by 14 parsed as (NP (JJ new) (NNS trees))
+sid=7 spanning 18 until 22 headed by 18 parsed as (NP (NP (NN carbon)) (PP (IN from) (NP (DT the) (NN atmosphere))))
+sid=7 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN atmosphere))
+sid=7 spanning 23 until 29 headed by 24 parsed as (NP (NP (DT a) (NN means)) (PP (IN of) (S (VP (VBG cutting) (NP (PRP$ its) (NNS emissions))))))
+sid=7 spanning 27 until 29 headed by 28 parsed as (NP (PRP$ its) (NNS emissions))
+sid=7 spanning 27 until 28 headed by 27 parsed as (PRP$ its)
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP EU))
+sid=8 spanning 3 until 5 headed by 4 parsed as (NP (DT this) (NN proposal))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNS Environmentalists))
+sid=9 spanning 4 until 8 headed by 5 parsed as (NP (NP (DT the) (NN failure)) (PP (IN with) (NP (NN dismay))))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Lisa) (NNP Schline))
+sid=10 spanning 3 until 5 headed by 4 parsed as (NP (NP (NNP VOA) (NNP News)) (, ,) (NP (NNP Geneva)))
+sid=10 spanning 3 until 7 headed by 4 parsed as (NP (NP (NNP VOA) (NNP News)) (, ,) (NP (NNP Geneva)))
+sid=10 spanning 6 until 7 headed by 6 parsed as (NP (NNP Geneva))
+(end predicted mentions)
+---------gold clusters--------
+5 0 | { 'United Nations' 'United Nations' }
+2 7 | { 'Delegates from 180 countries' 'The delegates' }
+12 8 | { 'its' 'an agreement' }
+22 9 | { 'The EU' 'the European Union' }
+24 4 | { 'Lisa Schline' 'Lisa Schline' }
+3 15 | { 'cut' 'targeted cuts in greenhouse gas emissions' }
+25 6 | { 'Geneva' 'Geneva' }
+11 19 18 21 16 20 17 | { 'the United States' 'The United States' 'its' 'its' 'The United States , which is the world 's biggest polluter ,' 'it' 'its' }
+23 1 13 | { 'the failure' 'an impasse' 'its unravel' }
+14 10 | { 'They' 'the European Union and the United States' }
+(end gold clusters)

@@ -1,0 +1,23 @@
+---------gloss--------
+(0) And in Yemen , the investigation into the bombing that killed 17 U.S. sailors continues as 33 injured sailors returned home today to Norfolk , Virginia . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0012); part 000
+sentences:
+AndandCCOPER0ininINOPER0YemenYemenNNPGPEPER0,,,OPER0thetheDTOPER0investigationinvestigationNNOPER0intointoINOPER0thetheDTOPER0bombingbombingNNOPER0thatthatWDTOPER0killedkillVBDOPER01717CDCARDINALPER0U.S.U.S.NNPGPEPER0sailorssailorNNSOPER0continuescontinueVBZOPER0asasINOPER03333CDCARDINALPER0injuredinjuredJJOPER0sailorssailorNNSOPER0returnedreturnVBDOPER0homehomeRBOPER0todaytodayNNDATEPER0totoINOPER0NorfolkNorfolkNNPGPEPER0,,,OPER0VirginiaVirginiaNNPGPEPER0...OPER0(ROOT (S (CC And) (PP (IN in) (NP (NNP Yemen))) (, ,) (NP (NP (DT the) (NN investigation)) (PP (IN into) (NP (NP (DT the) (NN bombing)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP U.S.) (NNS sailors)))))))) (VP (VBZ continues) (SBAR (IN as) (S (NP (CD 33) (JJ injured) (NNS sailors)) (VP (VBD returned) (ADVP (RB home)) (NP (NN today)) (PP (IN to) (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NNP Yemen))
+sid=0 spanning 4 until 14 headed by 5 parsed as (NP (NP (DT the) (NN investigation)) (PP (IN into) (NP (NP (DT the) (NN bombing)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP U.S.) (NNS sailors))))))))
+sid=0 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT the) (NN bombing)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 17) (NNP U.S.) (NNS sailors))))))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (CD 17) (NNP U.S.) (NNS sailors))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (CD 33) (JJ injured) (NNS sailors))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))
+sid=0 spanning 23 until 26 headed by 23 parsed as (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNP Virginia))
+(end predicted mentions)
+---------gold clusters--------
+(end gold clusters)

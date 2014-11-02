@@ -1,0 +1,55 @@
+---------gloss--------
+(0) [3m[33m{Yugoslav President Vojislav Kostunica}[0m has staged a major military staff reshuffle to remove [3m[34m{officers associated with long time ruler Slobodan Milosevic}[0m . 
+(1) [3m[33m{The President}[0m has retired [3m[34m{fourteen senior officers}[0m from active duty . 
+(2) [3m[34m{These}[0m include Admiral Milanzech , head of the Navy , General Gezafarcus , Chief of Military Intelligence and General Vragulyuv Voidanich , a former Defense Minister . 
+(3) In the meantime , a disputed area in southern Serbia 's Presavo Valley has reopened to traffic after Serb police and Albanian rebel fighters agreed to dismantle two roadblocks . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0201); part 000
+sentences:
+YugoslavyugoslavJJOPER0PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0hashaveVBZOPER0stagedstageVBNOPER0aaDTOPER0majormajorJJOPER0militarymilitaryJJOPER0staffstaffNNOPER0reshufflereshuffleNNOPER0totoTOOPER0removeremoveVBOPER0officersofficerNNSOPER0associatedassociateVBNOPER0withwithINOPER0longlongJJOPER0timetimeNNOPER0rulerrulerNNOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0...OPER0(ROOT (S (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica)) (VP (VBZ has) (VP (VBN staged) (NP (DT a) (JJ major) (JJ military) (NN staff) (NN reshuffle)) (S (VP (TO to) (VP (VB remove) (NP (NP (NNS officers)) (VP (VBN associated) (PP (IN with) (NP (NML (NML (JJ long) (NN time)) (NN ruler)) (NNP Slobodan) (NNP Milosevic)))))))))) (. .)))
+ThetheDTOPER0PresidentPresidentNNPOPER0hashaveVBZOPER0retiredretireVBNOPER0fourteenfourteenCDCARDINALPER0seniorseniorJJOPER0officersofficerNNSOPER0fromfromINOPER0activeactiveJJOPER0dutydutyNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP President)) (VP (VBZ has) (VP (VBN retired) (NP (CD fourteen) (JJ senior) (NNS officers)) (PP (IN from) (NP (JJ active) (NN duty))))) (. .)))
+ThesetheseDTOPER0includeincludeVBPOPER0AdmiralAdmiralNNPPERSONPER0MilanzechMilanzechNNPPERSONPER0,,,OPER0headheadNNOPER0ofofINOPER0thetheDTOPER0NavyNavyNNPORGPER0,,,OPER0GeneralGeneralNNPORGPER0GezafarcusGezafarcusNNPORGPER0,,,OPER0ChiefchiefNNOPER0ofofINOPER0MilitaryMilitaryNNPORGPER0IntelligenceIntelligenceNNPORGPER0andandCCORGPER0GeneralGeneralNNPORGPER0VragulyuvVragulyuvNNPORGPER0VoidanichVoidanichNNPORGPER0,,,OPER0aaDTOPER0formerformerJJOPER0DefenseDefenseNNPORGPER0MinisterMinisterNNPOPER0...OPER0(ROOT (S (NP (DT These)) (VP (VBP include) (NP (NP (NP (NNP Admiral) (NNP Milanzech)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NNP Navy))))) (, ,) (NP (NP (NNP General) (NNP Gezafarcus)) (, ,) (NP (NP (NN Chief)) (PP (IN of) (NP (NML (NML (NNP Military) (NNP Intelligence)) (CC and) (NML (NNP General) (NNP Vragulyuv))) (NNP Voidanich))))) (, ,) (NP (DT a) (JJ former) (NNP Defense) (NNP Minister)))) (. .)))
+IninINOPER0thetheDTOPER0meantimemeantimeNNOPER0,,,OPER0aaDTOPER0disputeddisputeVBNOPER0areaareaNNOPER0ininINOPER0southernsouthernJJOPER0SerbiaSerbiaNNPGPEPER0's'sPOSOPER0PresavoPresavoNNPLOCPER0ValleyValleyNNPLOCPER0hashaveVBZOPER0reopenedreopenVBNOPER0totoINOPER0traffictrafficNNOPER0afterafterINOPER0SerbserbJJOPER0policepoliceNNSOPER0andandCCOPER0AlbanianalbanianJJOPER0rebelrebelNNOPER0fightersfighterNNSOPER0agreedagreeVBDOPER0totoTOOPER0dismantledismantleVBOPER0twotwoCDCARDINALPER0roadblocksroadblockNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (DT the) (NN meantime))) (, ,) (NP (NP (DT a) (VBN disputed) (NN area)) (PP (IN in) (NP (NP (JJ southern) (NNP Serbia) (POS 's)) (NNP Presavo) (NNP Valley)))) (VP (VBZ has) (VP (VBN reopened) (PP (IN to) (NP (NN traffic))) (SBAR (IN after) (S (NP (NP (JJ Serb) (NNS police)) (CC and) (NP (JJ Albanian) (NN rebel) (NNS fighters))) (VP (VBD agreed) (S (VP (TO to) (VP (VB dismantle) (NP (CD two) (NNS roadblocks)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 13 until 21 headed by 13 parsed as (NP (NP (NNS officers)) (VP (VBN associated) (PP (IN with) (NP (NML (NML (JJ long) (NN time)) (NN ruler)) (NNP Slobodan) (NNP Milosevic)))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (CD fourteen) (JJ senior) (NNS officers))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT These))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Yugoslav) (NNP President)) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (DT a) (JJ major) (JJ military) (NN staff) (NN reshuffle))
+sid=0 spanning 13 until 21 headed by 13 parsed as (NP (NP (NNS officers)) (VP (VBN associated) (PP (IN with) (NP (NML (NML (JJ long) (NN time)) (NN ruler)) (NNP Slobodan) (NNP Milosevic)))))
+sid=0 spanning 16 until 21 headed by 20 parsed as (NP (NML (NML (JJ long) (NN time)) (NN ruler)) (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (CD fourteen) (JJ senior) (NNS officers))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT These))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (NP (NP (NNP Admiral) (NNP Milanzech)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NNP Navy))))) (, ,) (NP (NP (NNP General) (NNP Gezafarcus)) (, ,) (NP (NP (NN Chief)) (PP (IN of) (NP (NML (NML (NNP Military) (NNP Intelligence)) (CC and) (NML (NNP General) (NNP Vragulyuv))) (NNP Voidanich))))) (, ,) (NP (DT a) (JJ former) (NNP Defense) (NNP Minister)))
+sid=2 spanning 2 until 26 headed by 3 parsed as (NP (NP (NP (NNP Admiral) (NNP Milanzech)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NNP Navy))))) (, ,) (NP (NP (NNP General) (NNP Gezafarcus)) (, ,) (NP (NP (NN Chief)) (PP (IN of) (NP (NML (NML (NNP Military) (NNP Intelligence)) (CC and) (NML (NNP General) (NNP Vragulyuv))) (NNP Voidanich))))) (, ,) (NP (DT a) (JJ former) (NNP Defense) (NNP Minister)))
+sid=2 spanning 2 until 9 headed by 3 parsed as (NP (NP (NNP Admiral) (NNP Milanzech)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NNP Navy)))))
+sid=2 spanning 5 until 9 headed by 5 parsed as (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NNP Navy))))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (DT the) (NNP Navy))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNP Navy))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (NP (NNP General) (NNP Gezafarcus)) (, ,) (NP (NP (NN Chief)) (PP (IN of) (NP (NML (NML (NNP Military) (NNP Intelligence)) (CC and) (NML (NNP General) (NNP Vragulyuv))) (NNP Voidanich)))))
+sid=2 spanning 10 until 21 headed by 11 parsed as (NP (NP (NNP General) (NNP Gezafarcus)) (, ,) (NP (NP (NN Chief)) (PP (IN of) (NP (NML (NML (NNP Military) (NNP Intelligence)) (CC and) (NML (NNP General) (NNP Vragulyuv))) (NNP Voidanich)))))
+sid=2 spanning 13 until 21 headed by 13 parsed as (NP (NP (NN Chief)) (PP (IN of) (NP (NML (NML (NNP Military) (NNP Intelligence)) (CC and) (NML (NNP General) (NNP Vragulyuv))) (NNP Voidanich))))
+sid=2 spanning 15 until 21 headed by 20 parsed as (NP (NML (NML (NNP Military) (NNP Intelligence)) (CC and) (NML (NNP General) (NNP Vragulyuv))) (NNP Voidanich))
+sid=2 spanning 22 until 26 headed by 25 parsed as (NP (DT a) (JJ former) (NNP Defense) (NNP Minister))
+sid=2 spanning 24 until 25 headed by 24 parsed as Defense
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN meantime))
+sid=3 spanning 4 until 13 headed by 6 parsed as (NP (NP (DT a) (VBN disputed) (NN area)) (PP (IN in) (NP (NP (JJ southern) (NNP Serbia) (POS 's)) (NNP Presavo) (NNP Valley))))
+sid=3 spanning 8 until 13 headed by 12 parsed as (NP (NP (JJ southern) (NNP Serbia) (POS 's)) (NNP Presavo) (NNP Valley))
+sid=3 spanning 8 until 11 headed by 9 parsed as (NP (JJ southern) (NNP Serbia) (POS 's))
+sid=3 spanning 18 until 24 headed by 19 parsed as (NP (NP (JJ Serb) (NNS police)) (CC and) (NP (JJ Albanian) (NN rebel) (NNS fighters)))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (JJ Serb) (NNS police))
+sid=3 spanning 21 until 24 headed by 23 parsed as (NP (JJ Albanian) (NN rebel) (NNS fighters))
+sid=3 spanning 27 until 29 headed by 28 parsed as (NP (CD two) (NNS roadblocks))
+(end predicted mentions)
+---------gold clusters--------
+2 0 | { 'The President' 'Yugoslav President Vojislav Kostunica' }
+4 1 3 | { 'These' 'officers associated with long time ruler Slobodan Milosevic' 'fourteen senior officers' }
+(end gold clusters)

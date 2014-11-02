@@ -1,0 +1,47 @@
+---------gloss--------
+(0) [1m[32m{The President of Yemen Ali Abdullah Saleh}[0m has acknowledged [1m[33m{the explosion that killed the 17 American sailors in Aden last week}[0m was deliberate . 
+(1) US authorities insist [1m[33m{the blast}[0m was a deliberate act but [1m[31m{the Yemenis}[0m initially called [1m[33m{it}[0m an accident . 
+(2) [1m[32m{President Salah}[0m now says the security forces have preliminary evidence that shows [1m[33m{it}[0m was a premeditated criminal act . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0024); part 000
+sentences:
+ThetheDTOPER0PresidentPresidentNNPOPER0ofofINOPER0YemenYemenNNPPERSONPER0AliAliNNPPERSONPER0AbdullahAbdullahNNPPERSONPER0SalehSalehNNPPERSONPER0hashaveVBZOPER0acknowledgedacknowledgeVBNOPER0thetheDTOPER0explosionexplosionNNOPER0thatthatWDTOPER0killedkillVBDOPER0thetheDTOPER01717CDCARDINALPER0AmericanamericanJJOPER0sailorssailorNNSOPER0ininINOPER0AdenAdenNNPLOCPER0lastlastJJDATEPER0weekweekNNDATEPER0wasbeVBDOPER0deliberatedeliberateJJOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP President)) (PP (IN of) (NP (NP (NNP Yemen)) (NP (NNP Ali) (NNP Abdullah) (NNP Saleh))))) (VP (VBZ has) (VP (VBN acknowledged) (NP (NP (DT the) (NN explosion)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (DT the) (CD 17) (JJ American) (NNS sailors)) (PP (IN in) (NP (NNP Aden))) (SBAR (S (NP (JJ last) (NN week)) (VP (VBD was) (ADJP (JJ deliberate))))))))))) (. .)))
+USUSNNPGPEPER0authoritiesauthorityNNSOPER0insistinsistVBPOPER0thetheDTOPER0blastblastNNOPER0wasbeVBDOPER0aaDTOPER0deliberatedeliberateJJOPER0actactNNOPER0butbutCCOPER0thetheDTOPER0YemenisYemenisNNPSORGPER0initiallyinitiallyRBOPER0calledcallVBDOPER0ititPRPOPER0anaDTOPER0accidentaccidentNNOPER0...OPER0(ROOT (S (NP (NNP US) (NNS authorities)) (VP (VBP insist) (SBAR (S (S (NP (DT the) (NN blast)) (VP (VBD was) (NP (DT a) (JJ deliberate) (NN act)))) (CC but) (S (NP (DT the) (NNPS Yemenis)) (ADVP (RB initially)) (VP (VBD called) (NP (PRP it)) (S (NP (DT an) (NN accident)))))))) (. .)))
+PresidentPresidentNNPOPER0SalahSalahNNPPERSONPER0nownowRBOPER0sayssayVBZOPER0thetheDTOPER0securitysecurityNNOPER0forcesforceNNSOPER0havehaveVBPOPER0preliminarypreliminaryJJOPER0evidenceevidenceNNOPER0thatthatWDTOPER0showsshowVBZOPER0ititPRPOPER0wasbeVBDOPER0aaDTOPER0premeditatedpremeditatedJJOPER0criminalcriminalJJOPER0actactNNOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Salah)) (ADVP (RB now)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN security) (NNS forces)) (VP (VBP have) (NP (NP (JJ preliminary) (NN evidence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ shows) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (JJ premeditated) (JJ criminal) (NN act))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NNP President)) (PP (IN of) (NP (NP (NNP Yemen)) (NP (NNP Ali) (NNP Abdullah) (NNP Saleh)))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NP (NNP Yemen)) (NP (NNP Ali) (NNP Abdullah) (NNP Saleh)))
+sid=0 spanning 9 until 21 headed by 10 parsed as (NP (NP (DT the) (NN explosion)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (DT the) (CD 17) (JJ American) (NNS sailors)) (PP (IN in) (NP (NNP Aden))) (SBAR (S (NP (JJ last) (NN week)) (VP (VBD was) (ADJP (JJ deliberate)))))))))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN blast))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNPS Yemenis))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Salah))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NNP President)) (PP (IN of) (NP (NP (NNP Yemen)) (NP (NNP Ali) (NNP Abdullah) (NNP Saleh)))))
+sid=0 spanning 3 until 7 headed by 3 parsed as (NP (NP (NNP Yemen)) (NP (NNP Ali) (NNP Abdullah) (NNP Saleh)))
+sid=0 spanning 9 until 23 headed by 10 parsed as (NP (NP (DT the) (NN explosion)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (DT the) (CD 17) (JJ American) (NNS sailors)) (PP (IN in) (NP (NNP Aden))) (SBAR (S (NP (JJ last) (NN week)) (VP (VBD was) (ADJP (JJ deliberate)))))))))
+sid=0 spanning 13 until 17 headed by 16 parsed as (NP (DT the) (CD 17) (JJ American) (NNS sailors))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Aden))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (JJ last) (NN week))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP US) (NNS authorities))
+sid=1 spanning 0 until 1 headed by 0 parsed as US
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN blast))
+sid=1 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (JJ deliberate) (NN act))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNPS Yemenis))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=1 spanning 15 until 17 headed by 16 parsed as (NP (DT an) (NN accident))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Salah))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NN security) (NNS forces))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=2 spanning 14 until 18 headed by 17 parsed as (NP (DT a) (JJ premeditated) (JJ criminal) (NN act))
+(end predicted mentions)
+---------gold clusters--------
+4 1 | { 'the Yemenis' 'Yemen' }
+0 6 | { 'The President of Yemen Ali Abdullah Saleh' 'President Salah' }
+3 2 5 7 | { 'the blast' 'the explosion that killed the 17 American sailors in Aden last week' 'it' 'it' }
+(end gold clusters)

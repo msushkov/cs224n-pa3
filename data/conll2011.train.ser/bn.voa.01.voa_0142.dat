@@ -1,0 +1,126 @@
+---------gloss--------
+(0) [3m[32m{Ebola}[0m virus is one of the most feared in the world . 
+(1) [3m[34m{The deadly disease}[0m periodically attacks African villages and kills up to 90 % of those infected . 
+(2) Now , a team of researchers led by scientists at [3m[36m{the National Institutes of Health in Bethesda , Maryland}[0m has developed [3m[33m{a vaccine that prevents Ebola virus infections in monkeys}[0m . 
+(3) Dr. Garry Nabal of [3m[36m{NIH}[0m says , the experiment with [3m[33m{the new vaccine}[0m involved giving [3m[35m{four monkeys}[0m the [3m[32m{Ebola}[0m virus , then injecting [3m[35m{them}[0m with [1m[36m{a placebo immunization , which has no effect}[0m . 
+(4) [1m[35m{Four other monkeys}[0m were infected with [3m[31m{the Ebola virus DNA}[0m and then were injected with [1m[33m{a vaccine called Ebola - Adnia virus booster}[0m . 
+(5) In [3m[35m{the animals that received the control vaccine , i.e. the same vectors , but not expressing the virus proteins}[0m , [3m[35m{all of the animals}[0m had died within six days after challenge . 
+(6) In contrast , [1m[35m{the animals who received the DNA plus the Adnia viral vector that made the viral proteins}[0m , not only survived the challenge , but [1m[35m{they}[0m continued to be symptom - free for over six months , the time point that [1m[35m{they}[0m were followed . 
+(7) Scientists must do far more research on [1m[33m{this vaccine}[0m before a version of [1m[33m{it}[0m might be used to prevent the disease in humans . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0142); part 000
+sentences:
+EbolaEbolaNNPOPER0virusvirusNNOPER0isbeVBZOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0mostmostRBSOPER0fearedfearVBNOPER0ininINOPER0thetheDTOPER0worldworldNNOPER0...OPER0(ROOT (S (NP (NNP Ebola) (NN virus)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (RBS most) (VBN feared)) (PP (IN in) (NP (DT the) (NN world))))))) (. .)))
+ThetheDTOPER0deadlydeadlyJJOPER0diseasediseaseNNOPER0periodicallyperiodicallyRBOPER0attacksattackVBZOPER0AfricanafricanJJOPER0villagesvillageNNSOPER0andandCCOPER0killskillVBZOPER0upupRPPERCENTPER0totoINPERCENTPER09090CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thosethoseDTOPER0infectedinfectVBNOPER0...OPER0(ROOT (S (NP (DT The) (JJ deadly) (NN disease)) (ADVP (RB periodically)) (VP (VP (VBZ attacks) (NP (JJ African) (NNS villages))) (CC and) (VP (VBZ kills) (PRT (RP up)) (PP (IN to) (NP (NP (CD 90) (NN %)) (PP (IN of) (NP (NP (DT those)) (VP (VBN infected)))))))) (. .)))
+NownowRBOPER0,,,OPER0aaDTOPER0teamteamNNOPER0ofofINOPER0researchersresearcherNNSOPER0ledleadVBNOPER0bybyINOPER0scientistsscientistNNSOPER0atatINOPER0thetheDTORGPER0NationalNationalNNPORGPER0InstitutesInstitutesNNPSORGPER0ofofINORGPER0HealthHealthNNPORGPER0ininINOPER0BethesdaBethesdaNNPGPEPER0,,,OPER0MarylandMarylandNNPGPEPER0hashaveVBZOPER0developeddevelopVBNOPER0aaDTOPER0vaccinevaccineNNOPER0thatthatWDTOPER0preventspreventVBZOPER0EbolaEbolaNNPOPER0virusvirusNNOPER0infectionsinfectionNNSOPER0ininINOPER0monkeysmonkeyNNSOPER0...OPER0(ROOT (S (ADVP (RB Now)) (, ,) (NP (NP (DT a) (NN team)) (PP (IN of) (NP (NP (NNS researchers)) (VP (VBN led) (PP (IN by) (NP (NP (NNS scientists)) (PP (IN at) (NP (NP (DT the) (NNP National) (NNPS Institutes)) (PP (IN of) (NP (NNP Health)))))))))) (PP (IN in) (NP (NP (NNP Bethesda)) (, ,) (NP (NNP Maryland))))) (VP (VBZ has) (VP (VBN developed) (NP (NP (DT a) (NN vaccine)) (SBAR (WHNP (WDT that)) (S (VP (VBZ prevents) (NP (NNP Ebola) (NN virus)) (NP (NP (NNS infections)) (PP (IN in) (NP (NNS monkeys)))))))))) (. .)))
+Dr.Dr.NNPOPER0GarryGarryNNPPERSONPER0NabalNabalNNPPERSONPER0ofofINOPER0NIHNIHNNPORGPER0sayssayVBZOPER0,,,OPER0thetheDTOPER0experimentexperimentNNOPER0withwithINOPER0thetheDTOPER0newnewJJOPER0vaccinevaccineNNOPER0involvedinvolveVBNOPER0givinggiveVBGOPER0fourfourCDCARDINALPER0monkeysmonkeyNNSOPER0thetheDTOPER0EbolaEbolaNNPOPER0virusvirusNNOPER0,,,OPER0thenthenRBOPER0injectinginjectVBGOPER0themtheyPRPOPER0withwithINOPER0aaDTOPER0placeboplaceboNNOPER0immunizationimmunizationNNOPER0,,,OPER0whichwhichWDTOPER0hashaveVBZOPER0nonoDTOPER0effecteffectNNOPER0...OPER0(ROOT (S (NP (NP (NNP Dr.) (NNP Garry) (NNP Nabal)) (PP (IN of) (NP (NNP NIH)))) (VP (VBZ says) (, ,) (S (NP (NP (DT the) (NN experiment)) (PP (IN with) (NP (DT the) (JJ new) (NN vaccine)))) (VP (VBN involved) (S (VP (VBG giving) (NP (CD four) (NNS monkeys)) (NP (DT the) (NNP Ebola) (NN virus)))))) (, ,) (S (ADVP (RB then)) (VP (VBG injecting) (NP (PRP them)) (PP (IN with) (NP (NP (DT a) (NN placebo) (NN immunization)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (DT no) (NN effect)))))))))) (. .)))
+FourfourCDCARDINALPER0otherotherJJOPER0monkeysmonkeyNNSOPER0werebeVBDOPER0infectedinfectVBNOPER0withwithINOPER0thetheDTOPER0EbolaEbolaNNPORGPER0virusvirusNNOPER0DNAdnaNNOPER0andandCCOPER0thenthenRBOPER0werebeVBDOPER0injectedinjectVBNOPER0withwithINOPER0aaDTOPER0vaccinevaccineNNOPER0calledcallVBNOPER0EbolaEbolaNNPPRODUCTPER0--HYPHPRODUCTPER0AdniaAdniaNNPPRODUCTPER0virusvirusNNOPER0boosterboosterJJROPER0...OPER0(ROOT (S (S (NP (CD Four) (JJ other) (NNS monkeys)) (VP (VBD were) (VP (VBN infected) (PP (IN with) (NP (DT the) (NNP Ebola) (NN virus))) (NP (NN DNA))))) (CC and) (S (ADVP (RB then)) (VP (VBD were) (VP (VBN injected) (PP (IN with) (NP (NP (DT a) (NN vaccine)) (VP (VBN called) (S (NP (NNP Ebola) (HYPH -) (NNP Adnia) (NN virus)) (ADJP (JJR booster))))))))) (. .)))
+IninINOPER0thetheDTOPER0animalsanimalNNSOPER0thatthatWDTOPER0receivedreceiveVBDOPER0thetheDTOPER0controlcontrolJJOPER0vaccinevaccineNNOPER0,,,OPER0i.e.i.e.FWOPER0thetheDTOPER0samesameJJOPER0vectorsvectorNNSOPER0,,,OPER0butbutCCOPER0notnotRBOPER0expressingexpressVBGOPER0thetheDTOPER0virusvirusNNOPER0proteinsproteinNNSOPER0,,,OPER0allallDTOPER0ofofINOPER0thetheDTOPER0animalsanimalNNSOPER0hadhaveVBDOPER0dieddieVBNOPER0withinwithinINOPER0sixsixCDDATEPER0daysdayNNSDATEPER0afterafterINOPER0challengechallengeNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (NNS animals)) (SBAR (WHNP (WDT that)) (S (VP (VBD received) (NP (NP (DT the) (JJ control) (NN vaccine)) (, ,) (ADVP (FW i.e.))) (NP (DT the) (JJ same) (NNS vectors)) (, ,) (CONJP (CC but) (RB not)) (VP (VBG expressing) (NP (DT the) (NN virus) (NNS proteins)))))))) (, ,) (NP (NP (DT all)) (PP (IN of) (NP (DT the) (NNS animals)))) (VP (VBD had) (VP (VBN died) (PP (IN within) (NP (NP (CD six) (NNS days)) (PP (IN after) (NP (NN challenge))))))) (. .)))
+IninINOPER0contrastcontrastNNOPER0,,,OPER0thetheDTOPER0animalsanimalNNSOPER0whowhoWPOPER0receivedreceiveVBDOPER0thetheDTOPER0DNAdnaNNOPER0plusplusCCOPER0thetheDTOPER0AdniaAdniaNNPORGPER0viralviralJJOPER0vectorvectorNNOPER0thatthatWDTOPER0mademakeVBDOPER0thetheDTOPER0viralviralJJOPER0proteinsproteinNNSOPER0,,,OPER0notnotRBOPER0onlyonlyRBOPER0survivedsurviveVBDOPER0thetheDTOPER0challengechallengeNNOPER0,,,OPER0butbutCCOPER0theytheyPRPOPER0continuedcontinueVBDOPER0totoTOOPER0bebeVBOPER0symptomsymptomNNOPER0--HYPHOPER0freefreeJJOPER0forforINOPER0overoverINDATEPER0sixsixCDDATEPER0monthsmonthNNSDATEPER0,,,OPER0thetheDTOPER0timetimeNNOPER0pointpointVBPOPER0thatthatINOPER0theytheyPRPOPER0werebeVBDOPER0followedfollowVBNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NN contrast))) (, ,) (NP (NP (NP (DT the) (NNS animals)) (SBAR (WHNP (WP who)) (S (S (VP (VBD received) (NP (NP (NP (DT the) (NN DNA)) (CC plus) (NP (DT the) (NNP Adnia) (JJ viral) (NN vector))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD made) (NP (DT the) (JJ viral) (NNS proteins))) (, ,) (CONJP (RB not) (RB only)) (VP (VBD survived) (NP (DT the) (NN challenge))))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBD continued) (S (VP (TO to) (VP (VB be) (ADJP (NN symptom) (HYPH -) (JJ free) (PP (IN for) (NP (IN over) (CD six) (NNS months)))))))))))) (, ,) (NP (DT the) (NN time))) (VP (VBP point) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD were) (VP (VBN followed)))))) (. .)))
+ScientistsscientistNNSOPER0mustmustMDOPER0dodoVBOPER0farfarRBOPER0moremoreJJROPER0researchresearchNNOPER0ononINOPER0thisthisDTOPER0vaccinevaccineNNOPER0beforebeforeINOPER0aaDTOPER0versionversionNNOPER0ofofINOPER0ititPRPOPER0mightmightMDOPER0bebeVBOPER0useduseVBNOPER0totoTOOPER0preventpreventVBOPER0thetheDTOPER0diseasediseaseNNOPER0ininINOPER0humanshumanNNSOPER0...OPER0(ROOT (S (NP (NNS Scientists)) (VP (MD must) (VP (VB do) (NP (NP (ADJP (RB far) (JJR more)) (NN research)) (PP (IN on) (NP (DT this) (NN vaccine)))) (SBAR (IN before) (S (NP (NP (DT a) (NN version)) (PP (IN of) (NP (PRP it)))) (VP (MD might) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT the) (NN disease)) (PP (IN in) (NP (NNS humans)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ebola) (NN virus))
+sid=0 spanning 0 until 1 headed by 0 parsed as Ebola
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ deadly) (NN disease))
+sid=2 spanning 10 until 19 headed by 12 parsed as (NP (NP (DT the) (NNP National) (NNPS Institutes)) (PP (IN of) (NP (NNP Health))))
+sid=2 spanning 21 until 30 headed by 22 parsed as (NP (NP (DT a) (NN vaccine)) (SBAR (WHNP (WDT that)) (S (VP (VBZ prevents) (NP (NNP Ebola) (NN virus)) (NP (NP (NNS infections)) (PP (IN in) (NP (NNS monkeys))))))))
+sid=2 spanning 25 until 26 headed by 25 parsed as Ebola
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP NIH))
+sid=3 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ new) (NN vaccine))
+sid=3 spanning 15 until 17 headed by 16 parsed as (NP (CD four) (NNS monkeys))
+sid=3 spanning 18 until 19 headed by 18 parsed as Ebola
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (PRP them))
+sid=3 spanning 25 until 33 headed by 27 parsed as (NP (NP (DT a) (NN placebo) (NN immunization)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (DT no) (NN effect))))))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (CD Four) (JJ other) (NNS monkeys))
+sid=4 spanning 7 until 8 headed by 7 parsed as Ebola
+sid=4 spanning 6 until 10 headed by 9 parsed as (NP (NN DNA))
+sid=4 spanning 15 until 23 headed by 16 parsed as (NP (NP (DT a) (NN vaccine)) (VP (VBN called) (S (NP (NNP Ebola) (HYPH -) (NNP Adnia) (NN virus)) (ADJP (JJR booster)))))
+sid=4 spanning 18 until 19 headed by 18 parsed as Ebola
+sid=5 spanning 1 until 20 headed by 2 parsed as (NP (NP (DT the) (NNS animals)) (SBAR (WHNP (WDT that)) (S (VP (VBD received) (NP (NP (DT the) (JJ control) (NN vaccine)) (, ,) (ADVP (FW i.e.))) (NP (DT the) (JJ same) (NNS vectors)) (, ,) (CONJP (CC but) (RB not)) (VP (VBG expressing) (NP (DT the) (NN virus) (NNS proteins)))))))
+sid=5 spanning 5 until 20 headed by 7 parsed as (NP (NP (DT the) (JJ control) (NN vaccine)) (, ,) (ADVP (FW i.e.)))
+sid=5 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NN virus) (NNS proteins))
+sid=5 spanning 21 until 25 headed by 21 parsed as (NP (NP (DT all)) (PP (IN of) (NP (DT the) (NNS animals))))
+sid=6 spanning 3 until 19 headed by 4 parsed as (NP (NP (NP (DT the) (NNS animals)) (SBAR (WHNP (WP who)) (S (S (VP (VBD received) (NP (NP (NP (DT the) (NN DNA)) (CC plus) (NP (DT the) (NNP Adnia) (JJ viral) (NN vector))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD made) (NP (DT the) (JJ viral) (NNS proteins))) (, ,) (CONJP (RB not) (RB only)) (VP (VBD survived) (NP (DT the) (NN challenge))))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBD continued) (S (VP (TO to) (VP (VB be) (ADJP (NN symptom) (HYPH -) (JJ free) (PP (IN for) (NP (IN over) (CD six) (NNS months)))))))))))) (, ,) (NP (DT the) (NN time)))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (NP (NP (DT the) (NN DNA)) (CC plus) (NP (DT the) (NNP Adnia) (JJ viral) (NN vector))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD made) (NP (DT the) (JJ viral) (NNS proteins))) (, ,) (CONJP (RB not) (RB only)) (VP (VBD survived) (NP (DT the) (NN challenge)))))))
+sid=6 spanning 10 until 19 headed by 13 parsed as (NP (DT the) (NNP Adnia) (JJ viral) (NN vector))
+sid=6 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ viral) (NNS proteins))
+sid=6 spanning 27 until 28 headed by 27 parsed as (NP (PRP they))
+sid=6 spanning 43 until 44 headed by 43 parsed as (NP (PRP they))
+sid=7 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN vaccine))
+sid=7 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ebola) (NN virus))
+sid=0 spanning 3 until 11 headed by 3 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (RBS most) (VBN feared)) (PP (IN in) (NP (DT the) (NN world))))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN world))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ deadly) (NN disease))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (JJ African) (NNS villages))
+sid=1 spanning 14 until 16 headed by 14 parsed as (NP (NP (DT those)) (VP (VBN infected)))
+sid=2 spanning 2 until 19 headed by 3 parsed as (NP (NP (DT a) (NN team)) (PP (IN of) (NP (NP (NNS researchers)) (VP (VBN led) (PP (IN by) (NP (NP (NNS scientists)) (PP (IN at) (NP (NP (DT the) (NNP National) (NNPS Institutes)) (PP (IN of) (NP (NNP Health)))))))))) (PP (IN in) (NP (NP (NNP Bethesda)) (, ,) (NP (NNP Maryland)))))
+sid=2 spanning 5 until 15 headed by 5 parsed as (NP (NP (NNS researchers)) (VP (VBN led) (PP (IN by) (NP (NP (NNS scientists)) (PP (IN at) (NP (NP (DT the) (NNP National) (NNPS Institutes)) (PP (IN of) (NP (NNP Health)))))))))
+sid=2 spanning 8 until 15 headed by 8 parsed as (NP (NP (NNS scientists)) (PP (IN at) (NP (NP (DT the) (NNP National) (NNPS Institutes)) (PP (IN of) (NP (NNP Health))))))
+sid=2 spanning 10 until 15 headed by 12 parsed as (NP (NP (DT the) (NNP National) (NNPS Institutes)) (PP (IN of) (NP (NNP Health))))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NP (NNP Bethesda)) (, ,) (NP (NNP Maryland)))
+sid=2 spanning 16 until 19 headed by 16 parsed as (NP (NP (NNP Bethesda)) (, ,) (NP (NNP Maryland)))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NNP Maryland))
+sid=2 spanning 21 until 30 headed by 22 parsed as (NP (NP (DT a) (NN vaccine)) (SBAR (WHNP (WDT that)) (S (VP (VBZ prevents) (NP (NNP Ebola) (NN virus)) (NP (NP (NNS infections)) (PP (IN in) (NP (NNS monkeys))))))))
+sid=2 spanning 25 until 27 headed by 26 parsed as (NP (NNP Ebola) (NN virus))
+sid=2 spanning 27 until 30 headed by 27 parsed as (NP (NP (NNS infections)) (PP (IN in) (NP (NNS monkeys))))
+sid=2 spanning 29 until 30 headed by 29 parsed as (NP (NNS monkeys))
+sid=3 spanning 0 until 5 headed by 2 parsed as (NP (NP (NNP Dr.) (NNP Garry) (NNP Nabal)) (PP (IN of) (NP (NNP NIH))))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP NIH))
+sid=3 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT the) (NN experiment)) (PP (IN with) (NP (DT the) (JJ new) (NN vaccine))))
+sid=3 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ new) (NN vaccine))
+sid=3 spanning 15 until 17 headed by 16 parsed as (NP (CD four) (NNS monkeys))
+sid=3 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NNP Ebola) (NN virus))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (PRP them))
+sid=3 spanning 25 until 33 headed by 27 parsed as (NP (NP (DT a) (NN placebo) (NN immunization)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (DT no) (NN effect))))))
+sid=3 spanning 25 until 28 headed by 27 parsed as (NP (DT a) (NN placebo) (NN immunization))
+sid=3 spanning 31 until 33 headed by 32 parsed as (NP (DT no) (NN effect))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (CD Four) (JJ other) (NNS monkeys))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Ebola) (NN virus))
+sid=4 spanning 7 until 8 headed by 7 parsed as Ebola
+sid=4 spanning 15 until 23 headed by 16 parsed as (NP (NP (DT a) (NN vaccine)) (VP (VBN called) (S (NP (NNP Ebola) (HYPH -) (NNP Adnia) (NN virus)) (ADJP (JJR booster)))))
+sid=4 spanning 18 until 22 headed by 21 parsed as (NP (NNP Ebola) (HYPH -) (NNP Adnia) (NN virus))
+sid=4 spanning 18 until 21 headed by 20 parsed as Adnia
+sid=5 spanning 1 until 20 headed by 2 parsed as (NP (NP (DT the) (NNS animals)) (SBAR (WHNP (WDT that)) (S (VP (VBD received) (NP (NP (DT the) (JJ control) (NN vaccine)) (, ,) (ADVP (FW i.e.))) (NP (DT the) (JJ same) (NNS vectors)) (, ,) (CONJP (CC but) (RB not)) (VP (VBG expressing) (NP (DT the) (NN virus) (NNS proteins)))))))
+sid=5 spanning 5 until 10 headed by 7 parsed as (NP (NP (DT the) (JJ control) (NN vaccine)) (, ,) (ADVP (FW i.e.)))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ control) (NN vaccine))
+sid=5 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ same) (NNS vectors))
+sid=5 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (NN virus) (NNS proteins))
+sid=5 spanning 28 until 32 headed by 29 parsed as (NP (NP (CD six) (NNS days)) (PP (IN after) (NP (NN challenge))))
+sid=6 spanning 3 until 41 headed by 4 parsed as (NP (NP (NP (DT the) (NNS animals)) (SBAR (WHNP (WP who)) (S (S (VP (VBD received) (NP (NP (NP (DT the) (NN DNA)) (CC plus) (NP (DT the) (NNP Adnia) (JJ viral) (NN vector))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD made) (NP (DT the) (JJ viral) (NNS proteins))) (, ,) (CONJP (RB not) (RB only)) (VP (VBD survived) (NP (DT the) (NN challenge))))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBD continued) (S (VP (TO to) (VP (VB be) (ADJP (NN symptom) (HYPH -) (JJ free) (PP (IN for) (NP (IN over) (CD six) (NNS months)))))))))))) (, ,) (NP (DT the) (NN time)))
+sid=6 spanning 3 until 38 headed by 4 parsed as (NP (NP (DT the) (NNS animals)) (SBAR (WHNP (WP who)) (S (S (VP (VBD received) (NP (NP (NP (DT the) (NN DNA)) (CC plus) (NP (DT the) (NNP Adnia) (JJ viral) (NN vector))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD made) (NP (DT the) (JJ viral) (NNS proteins))) (, ,) (CONJP (RB not) (RB only)) (VP (VBD survived) (NP (DT the) (NN challenge))))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBD continued) (S (VP (TO to) (VP (VB be) (ADJP (NN symptom) (HYPH -) (JJ free) (PP (IN for) (NP (IN over) (CD six) (NNS months))))))))))))
+sid=6 spanning 7 until 25 headed by 8 parsed as (NP (NP (NP (DT the) (NN DNA)) (CC plus) (NP (DT the) (NNP Adnia) (JJ viral) (NN vector))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD made) (NP (DT the) (JJ viral) (NNS proteins))) (, ,) (CONJP (RB not) (RB only)) (VP (VBD survived) (NP (DT the) (NN challenge)))))))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN DNA))
+sid=6 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (NNP Adnia) (JJ viral) (NN vector))
+sid=6 spanning 11 until 12 headed by 11 parsed as Adnia
+sid=6 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ viral) (NNS proteins))
+sid=6 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN challenge))
+sid=6 spanning 27 until 28 headed by 27 parsed as (NP (PRP they))
+sid=6 spanning 35 until 38 headed by 37 parsed as (NP (IN over) (CD six) (NNS months))
+sid=6 spanning 39 until 41 headed by 40 parsed as (NP (DT the) (NN time))
+sid=6 spanning 43 until 44 headed by 43 parsed as (NP (PRP they))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNS Scientists))
+sid=7 spanning 3 until 9 headed by 5 parsed as (NP (NP (ADJP (RB far) (JJR more)) (NN research)) (PP (IN on) (NP (DT this) (NN vaccine))))
+sid=7 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN vaccine))
+sid=7 spanning 10 until 14 headed by 11 parsed as (NP (NP (DT a) (NN version)) (PP (IN of) (NP (PRP it))))
+sid=7 spanning 13 until 14 headed by 13 parsed as (NP (PRP it))
+sid=7 spanning 19 until 23 headed by 20 parsed as (NP (NP (DT the) (NN disease)) (PP (IN in) (NP (NNS humans))))
+sid=7 spanning 22 until 23 headed by 22 parsed as (NP (NNS humans))
+(end predicted mentions)
+---------gold clusters--------
+15 27 28 23 | { 'a vaccine called Ebola - Adnia virus booster' 'this vaccine' 'it' 'the Adnia viral vector that made the viral proteins' }
+19 24 | { 'the virus proteins' 'the viral proteins' }
+26 12 25 21 | { 'they' 'Four other monkeys' 'they' 'the animals who received the DNA plus the Adnia viral vector that made the viral proteins' }
+18 11 | { 'the control vaccine , i.e. the same vectors , but not expressing the virus proteins' 'a placebo immunization , which has no effect' }
+22 14 | { 'the DNA' 'the Ebola virus DNA' }
+1 5 13 16 9 | { 'Ebola' 'Ebola' 'Ebola' 'Ebola' 'Ebola' }
+4 7 | { 'a vaccine that prevents Ebola virus infections in monkeys' 'the new vaccine' }
+0 2 | { 'Ebola virus' 'The deadly disease' }
+8 17 10 20 | { 'four monkeys' 'the animals that received the control vaccine , i.e. the same vectors , but not expressing the virus proteins' 'them' 'all of the animals' }
+6 3 | { 'NIH' 'the National Institutes of Health in Bethesda , Maryland' }
+(end gold clusters)

@@ -1,0 +1,35 @@
+---------gloss--------
+(0) Finally , Yasser Arafat has ordered Palestinians to stop shooting at Israeli targets from Palestinian controlled territory , but [31m{Israeli Prime Minister Ehud Barak}[0m says words are not enough . 
+(1) [31m{He}[0m says Israel is waiting for action . 
+(2) BBC News for The World . 
+(3) I am Gregor Cragey . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0056); part 000
+sentences:
+FinallyfinallyRBOPER0,,,OPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0hashaveVBZOPER0orderedorderVBNOPER0PalestiniansPalestiniansNNPSOPER0totoTOOPER0stopstopVBOPER0shootingshootVBGOPER0atatINOPER0IsraeliisraeliJJOPER0targetstargetNNSOPER0fromfromINOPER0PalestinianPalestinianNNPOPER0controlledcontrolVBNOPER0territoryterritoryNNOPER0,,,OPER0butbutCCOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0sayssayVBZOPER0wordswordNNSOPER0arebeVBPOPER0notnotRBOPER0enoughenoughJJOPER0...OPER0(ROOT (S (S (ADVP (RB Finally)) (, ,) (NP (NNP Yasser) (NNP Arafat)) (VP (VBZ has) (VP (VBN ordered) (NP (NNPS Palestinians)) (S (VP (TO to) (VP (VB stop) (S (VP (VBG shooting) (PP (IN at) (NP (JJ Israeli) (NNS targets))))) (PP (IN from) (NP (ADJP (NNP Palestinian) (VBN controlled)) (NN territory))))))))) (, ,) (CC but) (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (NNS words)) (VP (VBP are) (RB not) (ADJP (JJ enough))))))) (. .)))
+HehePRPOPER0sayssayVBZOPER0IsraelIsraelNNPGPEPER0isbeVBZOPER0waitingwaitVBGOPER0forforINOPER0actionactionNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (NNP Israel)) (VP (VBZ is) (VP (VBG waiting) (PP (IN for) (NP (NN action)))))))) (. .)))
+BBCBBCNNPORGPER0NewsNewsNNPORGPER0forforINOPER0ThetheDTORGPER0WorldWorldNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP BBC) (NNP News)) (PP (IN for) (NP (DT The) (NNP World))) (. .)))
+IIPRPOPER0ambeVBPOPER0GregorGregorNNPORGPER0CrageyCrageyNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP am) (NP (NNP Gregor) (NNP Cragey))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 19 until 24 headed by 23 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NNP Yasser) (NNP Arafat))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (JJ Israeli) (NNS targets))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (ADJP (NNP Palestinian) (VBN controlled)) (NN territory))
+sid=0 spanning 19 until 24 headed by 23 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNS words))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Israel))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP BBC) (NNP News))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT The) (NNP World))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NNP Gregor) (NNP Cragey))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'He' 'Israeli Prime Minister Ehud Barak' }
+(end gold clusters)

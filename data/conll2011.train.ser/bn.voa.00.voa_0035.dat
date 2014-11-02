@@ -1,0 +1,113 @@
+---------gloss--------
+(0) [31m{Thirty - three US sailors injured in a deadly blast that left the USS Cole crippled in Yemen seaport Aden}[0m have come home . 
+(1) [31m{The sailors}[0m returned to [4m[35m{the United States}[0m after receiving medical treatment in [32m{Germany}[0m . 
+(2) A military transport plane brought [31m{the injured sailors}[0m to [31m{their}[0m home base of Norfolk Virginia on Sunday where [31m{they}[0m received an emotional greeting from family members who were brought to the Navy facility from all over [4m[35m{the United States}[0m . 
+(3) Six more seriously injured shipmates stayed behind at Ramstein Air Force Base in [32m{Germany}[0m for further treatment . 
+(4) Meanwhile , in [35m{Yemen}[0m scores of US forensic investigators have descended on [4m[34m{Aden}[0m to begin probing [33m{Thursday 's blast which killed 17 sailors aboard the guided missile destroyer as it docked to refuel}[0m . 
+(5) In a press briefing , the American Ambassador to [35m{Yemen}[0m Barbara Bodien commented on [33m{the explosion}[0m . 
+(6) All the evidence does point very clearly that [33m{the explosion}[0m came outside [4m[36m{the ship}[0m . 
+(7) Now exactly who was behind [33m{it}[0m , what [34m{their}[0m motivation was and how [34m{they}[0m were able to arrange [33m{it}[0m that we ca n't speculate on , but certainly [33m{the explosion}[0m did come from outside [4m[36m{the ship}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0035); part 000
+sentences:
+ThirtythirtyCDPERSONPER0--HYPHOPER0threethreeCDCARDINALPER0USUSNNPGPEPER0sailorssailorNNSOPER0injuredinjureVBNOPER0ininINOPER0aaDTOPER0deadlydeadlyJJOPER0blastblastNNOPER0thatthatWDTOPER0leftleaveVBDOPER0thetheDTPRODUCTPER0USSUSSNNPPRODUCTPER0ColeColeNNPPRODUCTPER0crippledcrippleVBNOPER0ininINOPER0YemenYemenNNPGPEPER0seaportseaportNNOPER0AdenAdenNNPLOCPER0havehaveVBPOPER0comecomeVBNOPER0homehomeRBOPER0...OPER0(ROOT (S (NP (NP (QP (CD Thirty) (HYPH -) (CD three)) (NNP US) (NNS sailors)) (VP (VBN injured) (PP (IN in) (NP (NP (DT a) (JJ deadly) (NN blast)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (DT the) (NNP USS) (NNP Cole)) (S (VP (VBN crippled) (PP (IN in) (NP (NNP Yemen) (NN seaport) (NNP Aden)))))))))))) (VP (VBP have) (VP (VBN come) (ADVP (RB home)))) (. .)))
+ThetheDTOPER0sailorssailorNNSOPER0returnedreturnVBDOPER0totoINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0afterafterINOPER0receivingreceiveVBGOPER0medicalmedicalJJOPER0treatmenttreatmentNNOPER0ininINOPER0GermanyGermanyNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NNS sailors)) (VP (VBD returned) (PP (IN to) (NP (DT the) (NNP United) (NNP States))) (PP (IN after) (S (VP (VBG receiving) (NP (JJ medical) (NN treatment)) (PP (IN in) (NP (NNP Germany))))))) (. .)))
+AaDTOPER0militarymilitaryJJOPER0transporttransportNNOPER0planeplaneNNOPER0broughtbringVBDOPER0thetheDTOPER0injuredinjureVBNOPER0sailorssailorNNSOPER0totoINOPER0theirtheyPRP$OPER0homehomeNNOPER0basebaseNNOPER0ofofINOPER0NorfolkNorfolkNNPGPEPER0VirginiaVirginiaNNPGPEPER0ononINOPER0SundaySundayNNPDATEPER0wherewhereWRBOPER0theytheyPRPOPER0receivedreceiveVBDOPER0anaDTOPER0emotionalemotionalJJOPER0greetinggreetingNNOPER0fromfromINOPER0familyfamilyNNOPER0membersmemberNNSOPER0whowhoWPOPER0werebeVBDOPER0broughtbringVBNOPER0totoINOPER0thetheDTOPER0NavyNavyNNPORGPER0facilityfacilityNNOPER0fromfromINOPER0allallRBOPER0overoverINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0...OPER0(ROOT (S (NP (DT A) (JJ military) (NN transport) (NN plane)) (VP (VBD brought) (NP (DT the) (VBN injured) (NNS sailors)) (PP (IN to) (NP (NP (PRP$ their) (NN home) (NN base)) (PP (IN of) (NP (NNP Norfolk) (NNP Virginia))) (PP (IN on) (NP (NP (NNP Sunday)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD received) (NP (DT an) (JJ emotional) (NN greeting)) (PP (IN from) (NP (NP (NN family) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN brought) (PP (IN to) (NP (DT the) (NNP Navy) (NN facility))))))))) (PP (IN from) (PP (ADVP (RB all)) (IN over) (NP (DT the) (NNP United) (NNP States)))))))))))) (. .)))
+SixsixCDCARDINALPER0moremoreRBROPER0seriouslyseriouslyRBOPER0injuredinjureVBNOPER0shipmatesshipmateNNSOPER0stayedstayVBDOPER0behindbehindRBOPER0atatINOPER0RamsteinRamsteinNNPFACPER0AirAirNNPFACPER0ForceForceNNPFACPER0BaseBaseNNPFACPER0ininINOPER0GermanyGermanyNNPGPEPER0forforINOPER0furtherfurtherJJOPER0treatmenttreatmentNNOPER0...OPER0(ROOT (S (NP (CD Six) (ADJP (ADVP (RBR more) (RB seriously)) (VBN injured)) (NNS shipmates)) (VP (VBD stayed) (ADVP (RB behind)) (PP (IN at) (NP (NP (NNP Ramstein) (NML (NNP Air) (NNP Force)) (NNP Base)) (PP (IN in) (NP (NNP Germany))))) (PP (IN for) (NP (JJ further) (NN treatment)))) (. .)))
+MeanwhilemeanwhileRBOPER0,,,OPER0ininINOPER0YemenYemenNNPGPEPER0scoresscoreNNSOPER0ofofINOPER0USwePRPGPEPER0forensicforensicJJOPER0investigatorsinvestigatorNNSOPER0havehaveVBPOPER0descendeddescendVBDOPER0ononINOPER0AdenAdenNNPLOCPER0totoTOOPER0beginbeginVBOPER0probingprobeVBGOPER0ThursdayThursdayNNPDATEPER0's'sPOSOPER0blastblastNNOPER0whichwhichWDTOPER0killedkillVBDOPER01717CDCARDINALPER0sailorssailorNNSOPER0aboardaboardINOPER0thetheDTOPER0guidedguideVBNOPER0missilemissileNNOPER0destroyerdestroyerNNOPER0asasINOPER0ititPRPOPER0dockeddockVBNOPER0totoTOOPER0refuelrefuelVBOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (PP (IN in) (NP (NNP Yemen))) (NP (NP (NNS scores)) (PP (IN of) (NP (PRP US)))) (NP (JJ forensic) (NNS investigators)) (VP (VBP have) (VP (VBD descended) (PP (IN on) (NP (NNP Aden))) (S (VP (TO to) (VP (VB begin) (S (VP (VBG probing) (NP (NP (NP (NNP Thursday) (POS 's)) (NN blast)) (SBAR (WHNP (WDT which)) (S (VP (VBD killed) (NP (CD 17) (NNS sailors)) (PP (IN aboard) (NP (DT the) (NML (VBN guided) (NN missile)) (NN destroyer))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBN docked) (S (VP (TO to) (VP (VB refuel)))))))))))))))))) (. .)))
+IninINOPER0aaDTOPER0presspressNNOPER0briefingbriefingNNOPER0,,,OPER0thetheDTOPER0AmericanAmericanNNPOPER0AmbassadorAmbassadorNNPOPER0totoINOPER0YemenYemenNNPPERSONPER0BarbaraBarbaraNNPPERSONPER0BodienBodienNNPPERSONPER0commentedcommentVBDOPER0ononINOPER0thetheDTOPER0explosionexplosionNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (DT a) (NN press) (NN briefing))) (, ,) (NP (DT the) (NML (NML (NNP American) (NNP Ambassador)) (PP (IN to) (NP (NNP Yemen)))) (NNP Barbara) (NNP Bodien)) (VP (VBD commented) (PP (IN on) (NP (DT the) (NN explosion)))) (. .)))
+AllallPDTOPER0thetheDTOPER0evidenceevidenceNNOPER0doesdoVBZOPER0pointpointVBOPER0veryveryRBOPER0clearlyclearlyRBOPER0thatthatINOPER0thetheDTOPER0explosionexplosionNNOPER0camecomeVBDOPER0outsideoutsideINOPER0thetheDTOPER0shipshipNNOPER0...OPER0(ROOT (S (NP (PDT All) (DT the) (NN evidence)) (VP (VBZ does) (VP (VB point) (ADVP (RB very) (RB clearly)) (SBAR (IN that) (S (NP (DT the) (NN explosion)) (VP (VBD came) (PP (IN outside) (NP (DT the) (NN ship)))))))) (. .)))
+NownowRBOPER0exactlyexactlyRBOPER0whowhoWPOPER0wasbeVBDOPER0behindbehindINOPER0ititPRPOPER0,,,OPER0whatwhatWPOPER0theirtheyPRP$OPER0motivationmotivationNNOPER0wasbeVBDOPER0andandCCOPER0howhowWRBOPER0theytheyPRPOPER0werebeVBDOPER0ableableJJOPER0totoTOOPER0arrangearrangeVBOPER0ititPRPOPER0thatthatINOPER0wewePRPOPER0cacanMDOPER0n'tnotRBOPER0speculatespeculateVBOPER0ononINOPER0,,,OPER0butbutCCOPER0certainlycertainlyRBOPER0thetheDTOPER0explosionexplosionNNOPER0diddoVBDOPER0comecomeVBNOPER0fromfromINOPER0outsideoutsideINOPER0thetheDTOPER0shipshipNNOPER0...OPER0(ROOT (FRAG (ADVP (RB Now)) (SBAR (SBAR (WHNP (RB exactly) (WP who)) (S (VP (VBD was) (PP (IN behind) (NP (PRP it)))))) (, ,) (SBAR (WHNP (WP what)) (S (NP (PRP$ their) (NN motivation)) (VP (VBD was)))) (CC and) (SBAR (WHADVP (WRB how)) (S (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB arrange) (NP (PRP it)) (SBAR (IN that) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB speculate) (PP (IN on)))))))))))) (, ,) (CC but) (S (ADVP (RB certainly)) (NP (DT the) (NN explosion)) (VP (VBD did) (VP (VBN come) (PP (IN from) (PP (IN outside) (NP (DT the) (NN ship)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 20 headed by 4 parsed as (NP (NP (QP (CD Thirty) (HYPH -) (CD three)) (NNP US) (NNS sailors)) (VP (VBN injured) (PP (IN in) (NP (NP (DT a) (JJ deadly) (NN blast)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (DT the) (NNP USS) (NNP Cole)) (S (VP (VBN crippled) (PP (IN in) (NP (NNP Yemen) (NN seaport) (NNP Aden))))))))))))
+sid=0 spanning 7 until 20 headed by 9 parsed as (NP (NP (DT a) (JJ deadly) (NN blast)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (DT the) (NNP USS) (NNP Cole)) (S (VP (VBN crippled) (PP (IN in) (NP (NNP Yemen) (NN seaport) (NNP Aden)))))))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP USS) (NNP Cole))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (NNP Yemen) (NN seaport) (NNP Aden))
+sid=0 spanning 17 until 18 headed by 17 parsed as Yemen
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS sailors))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Germany))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (VBN injured) (NNS sailors))
+sid=2 spanning 9 until 10 headed by 9 parsed as their
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=2 spanning 36 until 39 headed by 38 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (NNP Germany))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Yemen))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NNP Aden))
+sid=4 spanning 16 until 33 headed by 18 parsed as (NP (NP (NP (NNP Thursday) (POS 's)) (NN blast)) (SBAR (WHNP (WDT which)) (S (VP (VBD killed) (NP (CD 17) (NNS sailors)) (PP (IN aboard) (NP (DT the) (NML (VBN guided) (NN missile)) (NN destroyer))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBN docked) (S (VP (TO to) (VP (VB refuel)))))))))))
+sid=4 spanning 24 until 28 headed by 27 parsed as (NP (DT the) (NML (VBN guided) (NN missile)) (NN destroyer))
+sid=4 spanning 29 until 30 headed by 29 parsed as (NP (PRP it))
+sid=5 spanning 9 until 10 headed by 9 parsed as (NP (NNP Yemen))
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN explosion))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN explosion))
+sid=6 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN ship))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=7 spanning 8 until 9 headed by 8 parsed as their
+sid=7 spanning 13 until 14 headed by 13 parsed as (NP (PRP they))
+sid=7 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=7 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN explosion))
+sid=7 spanning 34 until 36 headed by 35 parsed as (NP (DT the) (NN ship))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 20 headed by 4 parsed as (NP (NP (QP (CD Thirty) (HYPH -) (CD three)) (NNP US) (NNS sailors)) (VP (VBN injured) (PP (IN in) (NP (NP (DT a) (JJ deadly) (NN blast)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (DT the) (NNP USS) (NNP Cole)) (S (VP (VBN crippled) (PP (IN in) (NP (NNP Yemen) (NN seaport) (NNP Aden))))))))))))
+sid=0 spanning 0 until 1 headed by 0 parsed as Thirty
+sid=0 spanning 3 until 4 headed by 3 parsed as US
+sid=0 spanning 7 until 20 headed by 9 parsed as (NP (NP (DT a) (JJ deadly) (NN blast)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (DT the) (NNP USS) (NNP Cole)) (S (VP (VBN crippled) (PP (IN in) (NP (NNP Yemen) (NN seaport) (NNP Aden)))))))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP USS) (NNP Cole))
+sid=0 spanning 17 until 20 headed by 19 parsed as (NP (NNP Yemen) (NN seaport) (NNP Aden))
+sid=0 spanning 17 until 18 headed by 17 parsed as Yemen
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS sailors))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Germany))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (JJ military) (NN transport) (NN plane))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (VBN injured) (NNS sailors))
+sid=2 spanning 9 until 39 headed by 11 parsed as (NP (NP (PRP$ their) (NN home) (NN base)) (PP (IN of) (NP (NNP Norfolk) (NNP Virginia))) (PP (IN on) (NP (NP (NNP Sunday)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD received) (NP (DT an) (JJ emotional) (NN greeting)) (PP (IN from) (NP (NP (NN family) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN brought) (PP (IN to) (NP (DT the) (NNP Navy) (NN facility))))))))) (PP (IN from) (PP (ADVP (RB all)) (IN over) (NP (DT the) (NNP United) (NNP States))))))))))
+sid=2 spanning 9 until 10 headed by 9 parsed as (PRP$ their)
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (NNP Norfolk) (NNP Virginia))
+sid=2 spanning 16 until 39 headed by 16 parsed as (NP (NP (NNP Sunday)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD received) (NP (DT an) (JJ emotional) (NN greeting)) (PP (IN from) (NP (NP (NN family) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN brought) (PP (IN to) (NP (DT the) (NNP Navy) (NN facility))))))))) (PP (IN from) (PP (ADVP (RB all)) (IN over) (NP (DT the) (NNP United) (NNP States))))))))
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (PRP they))
+sid=2 spanning 20 until 23 headed by 22 parsed as (NP (DT an) (JJ emotional) (NN greeting))
+sid=2 spanning 24 until 33 headed by 25 parsed as (NP (NP (NN family) (NNS members)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN brought) (PP (IN to) (NP (DT the) (NNP Navy) (NN facility))))))))
+sid=2 spanning 30 until 33 headed by 32 parsed as (NP (DT the) (NNP Navy) (NN facility))
+sid=2 spanning 31 until 32 headed by 31 parsed as Navy
+sid=2 spanning 36 until 39 headed by 38 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=3 spanning 0 until 5 headed by 4 parsed as (NP (CD Six) (ADJP (ADVP (RBR more) (RB seriously)) (VBN injured)) (NNS shipmates))
+sid=3 spanning 8 until 14 headed by 11 parsed as (NP (NP (NNP Ramstein) (NML (NNP Air) (NNP Force)) (NNP Base)) (PP (IN in) (NP (NNP Germany))))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (NNP Germany))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Yemen))
+sid=4 spanning 4 until 7 headed by 4 parsed as (NP (NP (NNS scores)) (PP (IN of) (NP (PRP US))))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (PRP US))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (JJ forensic) (NNS investigators))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NNP Aden))
+sid=4 spanning 16 until 33 headed by 18 parsed as (NP (NP (NP (NNP Thursday) (POS 's)) (NN blast)) (SBAR (WHNP (WDT which)) (S (VP (VBD killed) (NP (CD 17) (NNS sailors)) (PP (IN aboard) (NP (DT the) (NML (VBN guided) (NN missile)) (NN destroyer))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBN docked) (S (VP (TO to) (VP (VB refuel)))))))))))
+sid=4 spanning 16 until 18 headed by 16 parsed as (NP (NNP Thursday) (POS 's))
+sid=4 spanning 21 until 23 headed by 22 parsed as (NP (CD 17) (NNS sailors))
+sid=4 spanning 24 until 28 headed by 27 parsed as (NP (DT the) (NML (VBN guided) (NN missile)) (NN destroyer))
+sid=4 spanning 29 until 30 headed by 29 parsed as (NP (PRP it))
+sid=5 spanning 1 until 4 headed by 3 parsed as (NP (DT a) (NN press) (NN briefing))
+sid=5 spanning 5 until 12 headed by 11 parsed as (NP (DT the) (NML (NML (NNP American) (NNP Ambassador)) (PP (IN to) (NP (NNP Yemen)))) (NNP Barbara) (NNP Bodien))
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN explosion))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN explosion))
+sid=6 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN ship))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ their) (NN motivation))
+sid=7 spanning 8 until 9 headed by 8 parsed as (PRP$ their)
+sid=7 spanning 13 until 14 headed by 13 parsed as (NP (PRP they))
+sid=7 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=7 spanning 20 until 21 headed by 20 parsed as (NP (PRP we))
+sid=7 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN explosion))
+sid=7 spanning 34 until 36 headed by 35 parsed as (NP (DT the) (NN ship))
+(end predicted mentions)
+---------gold clusters--------
+3 14 | { 'Yemen seaport Aden' 'Aden' }
+6 11 | { 'the United States' 'the United States' }
+21 27 17 2 16 | { 'the ship' 'the ship' 'it' 'the USS Cole' 'the guided missile destroyer' }
+9 0 8 5 10 | { 'their' 'Thirty - three US sailors injured in a deadly blast that left the USS Cole crippled in Yemen seaport Aden' 'the injured sailors' 'The sailors' 'they' }
+12 7 | { 'Germany' 'Germany' }
+19 20 15 1 26 25 22 | { 'the explosion' 'the explosion' 'Thursday 's blast which killed 17 sailors aboard the guided missile destroyer as it docked to refuel' 'a deadly blast that left the USS Cole crippled in Yemen seaport Aden' 'the explosion' 'it' 'it' }
+24 23 | { 'they' 'their' }
+4 13 18 | { 'Yemen' 'Yemen' 'Yemen' }
+(end gold clusters)

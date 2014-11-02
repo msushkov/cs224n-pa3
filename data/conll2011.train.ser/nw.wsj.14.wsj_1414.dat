@@ -1,0 +1,71 @@
+---------gloss--------
+(0) [3m[34m{Rochester Telephone Corp.}[0m said [3m[34m{it}[0m completed [3m[34m{its}[0m purchase of [3m[33m{Urban Telephone Corp. , of Clintonville , Wis. , the second - largest unaffiliated independent telephone company in that state}[0m . 
+(1) [3m[34m{Rochester Telephone}[0m said [3m[32m{the acquisition}[0m was made in an exchange of [3m[34m{its}[0m common shares for all the shares of [3m[33m{Urban Telephone}[0m , but a price was n't disclosed . 
+(2) [3m[33m{Urban}[0m is [3m[34m{the company 's}[0m first telephone subsidiary in [3m[35m{Wisconsin}[0m . 
+(3) Since June , [3m[34m{Rochester Telephone}[0m signed letters of intent to purchase three other [3m[35m{Wisconsin}[0m firms . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1414); part 000
+sentences:
+RochesterRochesterNNPORGPER0TelephoneTelephoneNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0completedcompleteVBDOPER0itsitsPRP$OPER0purchasepurchaseNNOPER0ofofINOPER0UrbanUrbanNNPORGPER0TelephoneTelephoneNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0ofofINOPER0ClintonvilleClintonvilleNNPGPEPER0,,,OPER0Wis.Wis.NNPGPEPER0,,,OPER0thetheDTOPER0secondsecondRBORDINALPER0--HYPHOPER0largestlargestJJSOPER0unaffiliatedunaffiliateVBNOPER0independentindependentJJOPER0telephonetelephoneNNOPER0companycompanyNNOPER0ininINOPER0thatthatDTOPER0statestateNNOPER0...OPER0(ROOT (S (NP (NNP Rochester) (NNP Telephone) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD completed) (NP (NP (PRP$ its) (NN purchase)) (PP (IN of) (NP (NP (NNP Urban) (NNP Telephone) (NNP Corp.)) (, ,) (PP (IN of) (NP (NP (NNP Clintonville)) (, ,) (NP (NNP Wis.)))) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest) (VBN unaffiliated)) (JJ independent) (NN telephone) (NN company)) (PP (IN in) (NP (DT that) (NN state))))))))))) (. .)))
+RochesterRochesterNNPORGPER0TelephoneTelephoneNNPORGPER0saidsayVBDOPER0thetheDTOPER0acquisitionacquisitionNNOPER0wasbeVBDOPER0mademakeVBNOPER0ininINOPER0anaDTOPER0exchangeexchangeNNOPER0ofofINOPER0itsitsPRP$OPER0commoncommonJJOPER0sharesshareNNSOPER0forforINOPER0allallPDTOPER0thetheDTOPER0sharesshareNNSOPER0ofofINOPER0UrbanUrbanNNPORGPER0TelephoneTelephoneNNPORGPER0,,,OPER0butbutCCOPER0aaDTOPER0pricepriceNNOPER0wasbeVBDOPER0n'tnotRBOPER0discloseddiscloseVBNOPER0...OPER0(ROOT (S (NP (NNP Rochester) (NNP Telephone)) (VP (VBD said) (SBAR (S (S (NP (DT the) (NN acquisition)) (VP (VBD was) (VP (VBN made) (PP (IN in) (NP (NP (DT an) (NN exchange)) (PP (IN of) (NP (PRP$ its) (JJ common) (NNS shares))) (PP (IN for) (NP (NP (PDT all) (DT the) (NNS shares)) (PP (IN of) (NP (NNP Urban) (NNP Telephone)))))))))) (, ,) (CC but) (S (NP (DT a) (NN price)) (VP (VBD was) (RB n't) (VP (VBN disclosed))))))) (. .)))
+UrbanurbanJJORGPER0isbeVBZOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0firstfirstJJORDINALPER0telephonetelephoneNNOPER0subsidiarysubsidiaryNNOPER0ininINOPER0WisconsinWisconsinNNPGPEPER0...OPER0(ROOT (SINV (ADJP (JJ Urban)) (VP (VBZ is)) (NP (NP (NP (DT the) (NN company) (POS 's)) (JJ first) (NN telephone) (NN subsidiary)) (PP (IN in) (NP (NNP Wisconsin)))) (. .)))
+SincesinceINOPER0JuneJuneNNPDATEPER0,,,OPER0RochesterRochesterNNPORGPER0TelephoneTelephoneNNPORGPER0signedsignVBDOPER0lettersletterNNSOPER0ofofINOPER0intentintentNNOPER0totoTOOPER0purchasepurchaseVBOPER0threethreeCDCARDINALPER0otherotherJJOPER0WisconsinWisconsinNNPGPEPER0firmsfirmNNSOPER0...OPER0(ROOT (S (PP (IN Since) (NP (NNP June))) (, ,) (NP (NNP Rochester) (NNP Telephone)) (VP (VBD signed) (NP (NP (NNS letters)) (PP (IN of) (NP (NN intent) (S (VP (TO to) (VP (VB purchase) (NP (CD three) (JJ other) (NNP Wisconsin) (NNS firms))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Rochester) (NNP Telephone) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 29 headed by 7 parsed as (NP (NP (PRP$ its) (NN purchase)) (PP (IN of) (NP (NP (NNP Urban) (NNP Telephone) (NNP Corp.)) (, ,) (PP (IN of) (NP (NP (NNP Clintonville)) (, ,) (NP (NNP Wis.)))) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest) (VBN unaffiliated)) (JJ independent) (NN telephone) (NN company)) (PP (IN in) (NP (DT that) (NN state)))))))
+sid=0 spanning 6 until 7 headed by 6 parsed as its
+sid=0 spanning 9 until 29 headed by 11 parsed as (NP (NP (NNP Urban) (NNP Telephone) (NNP Corp.)) (, ,) (PP (IN of) (NP (NP (NNP Clintonville)) (, ,) (NP (NNP Wis.)))) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest) (VBN unaffiliated)) (JJ independent) (NN telephone) (NN company)) (PP (IN in) (NP (DT that) (NN state)))))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNP Wis.))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (DT that) (NN state))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Rochester) (NNP Telephone))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN acquisition))
+sid=1 spanning 11 until 12 headed by 11 parsed as its
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (NNP Urban) (NNP Telephone))
+sid=2 spanning 0 until 1 headed by 0 parsed as Urban
+sid=2 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NN company) (POS 's))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Wisconsin))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NNP Rochester) (NNP Telephone))
+sid=3 spanning 13 until 14 headed by 13 parsed as Wisconsin
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Rochester) (NNP Telephone) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 29 headed by 7 parsed as (NP (NP (PRP$ its) (NN purchase)) (PP (IN of) (NP (NP (NNP Urban) (NNP Telephone) (NNP Corp.)) (, ,) (PP (IN of) (NP (NP (NNP Clintonville)) (, ,) (NP (NNP Wis.)))) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest) (VBN unaffiliated)) (JJ independent) (NN telephone) (NN company)) (PP (IN in) (NP (DT that) (NN state)))))))
+sid=0 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=0 spanning 9 until 12 headed by 11 parsed as (NP (NP (NNP Urban) (NNP Telephone) (NNP Corp.)) (, ,) (PP (IN of) (NP (NP (NNP Clintonville)) (, ,) (NP (NNP Wis.)))) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest) (VBN unaffiliated)) (JJ independent) (NN telephone) (NN company)) (PP (IN in) (NP (DT that) (NN state)))))
+sid=0 spanning 9 until 29 headed by 11 parsed as (NP (NP (NNP Urban) (NNP Telephone) (NNP Corp.)) (, ,) (PP (IN of) (NP (NP (NNP Clintonville)) (, ,) (NP (NNP Wis.)))) (, ,) (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest) (VBN unaffiliated)) (JJ independent) (NN telephone) (NN company)) (PP (IN in) (NP (DT that) (NN state)))))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NP (NNP Clintonville)) (, ,) (NP (NNP Wis.)))
+sid=0 spanning 14 until 17 headed by 14 parsed as (NP (NP (NNP Clintonville)) (, ,) (NP (NNP Wis.)))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNP Wis.))
+sid=0 spanning 18 until 29 headed by 25 parsed as (NP (NP (DT the) (ADJP (RB second) (HYPH -) (JJS largest) (VBN unaffiliated)) (JJ independent) (NN telephone) (NN company)) (PP (IN in) (NP (DT that) (NN state))))
+sid=0 spanning 19 until 20 headed by 19 parsed as second
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (DT that) (NN state))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Rochester) (NNP Telephone))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN acquisition))
+sid=1 spanning 8 until 21 headed by 9 parsed as (NP (NP (DT an) (NN exchange)) (PP (IN of) (NP (PRP$ its) (JJ common) (NNS shares))) (PP (IN for) (NP (NP (PDT all) (DT the) (NNS shares)) (PP (IN of) (NP (NNP Urban) (NNP Telephone))))))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (PRP$ its) (JJ common) (NNS shares))
+sid=1 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (NNP Urban) (NNP Telephone))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (DT a) (NN price))
+sid=2 spanning 0 until 1 headed by 0 parsed as Urban
+sid=2 spanning 2 until 10 headed by 7 parsed as (NP (NP (NP (DT the) (NN company) (POS 's)) (JJ first) (NN telephone) (NN subsidiary)) (PP (IN in) (NP (NNP Wisconsin))))
+sid=2 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NN company) (POS 's))
+sid=2 spanning 5 until 6 headed by 5 parsed as first
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Wisconsin))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (NNP June))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (NNP Rochester) (NNP Telephone))
+sid=3 spanning 6 until 15 headed by 6 parsed as (NP (NP (NNS letters)) (PP (IN of) (NP (NN intent) (S (VP (TO to) (VP (VB purchase) (NP (CD three) (JJ other) (NNP Wisconsin) (NNS firms))))))))
+sid=3 spanning 8 until 15 headed by 8 parsed as (NP (NN intent) (S (VP (TO to) (VP (VB purchase) (NP (CD three) (JJ other) (NNP Wisconsin) (NNS firms))))))
+sid=3 spanning 11 until 15 headed by 14 parsed as (NP (CD three) (JJ other) (NNP Wisconsin) (NNS firms))
+sid=3 spanning 13 until 14 headed by 13 parsed as Wisconsin
+(end predicted mentions)
+---------gold clusters--------
+8 2 | { 'the acquisition' 'its purchase of Urban Telephone Corp. , of Clintonville , Wis. , the second - largest unaffiliated independent telephone company in that state' }
+10 4 11 | { 'Urban Telephone' 'Urban Telephone Corp. , of Clintonville , Wis. , the second - largest unaffiliated independent telephone company in that state' 'Urban' }
+3 7 1 0 12 14 9 | { 'its' 'Rochester Telephone' 'it' 'Rochester Telephone Corp.' 'the company 's' 'Rochester Telephone' 'its' }
+6 13 15 5 | { 'that state' 'Wisconsin' 'Wisconsin' 'Wis.' }
+(end gold clusters)

@@ -1,0 +1,40 @@
+---------gloss--------
+(0) Roy E. Parrott , [3m[33m{the company 's}[0m president and chief operating officer since Sept. 1 , was [3m[32m{named}[0m to [3m[33m{its}[0m board . 
+(1) [3m[32m{The appointment}[0m increased the number of directors to 10 , three of whom are company employees . 
+(2) [3m[33m{Simpson}[0m is an auto parts maker . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1119); part 000
+sentences:
+RoyRoyNNPPERSONPER0E.E.NNPPERSONPER0ParrottParrottNNPPERSONPER0,,,OPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0operatingoperatingNNOPER0officerofficerNNOPER0sincesinceINOPER0Sept.Sept.NNPDATEPER011CDDATEPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0totoINOPER0itsitsPRP$OPER0boardboardNNOPER0...OPER0(ROOT (S (NP (NP (NNP Roy) (NNP E.) (NNP Parrott)) (, ,) (NP (NP (NP (NP (DT the) (NN company) (POS 's)) (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN since) (NP (NNP Sept.) (CD 1)))) (, ,)) (VP (VBD was) (VP (VBN named) (PP (IN to) (NP (PRP$ its) (NN board))))) (. .)))
+ThetheDTOPER0appointmentappointmentNNOPER0increasedincreaseVBDOPER0thetheDTOPER0numbernumberNNOPER0ofofINOPER0directorsdirectorNNSOPER0totoINOPER01010CDCARDINALPER0,,,OPER0threethreeCDCARDINALPER0ofofINOPER0whomwhomWPOPER0arebeVBPOPER0companycompanyNNOPER0employeesemployeeNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN appointment)) (VP (VBD increased) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS directors)))) (PP (IN to) (NP (CD 10))) (, ,) (SBAR (WHNP (WHNP (CD three)) (WHPP (IN of) (WHNP (WP whom)))) (S (VP (VBP are) (NP (NN company) (NNS employees)))))) (. .)))
+SimpsonSimpsonNNPORGPER0isbeVBZOPER0anaDTOPER0autoautoNNOPER0partspartNNSOPER0makermakerNNOPER0...OPER0(ROOT (S (NP (NNP Simpson)) (VP (VBZ is) (NP (DT an) (NML (NN auto) (NNS parts)) (NN maker))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 7 headed by 5 parsed as (NP (DT the) (NN company) (POS 's))
+sid=0 spanning 17 until 18 headed by 17 parsed as named
+sid=0 spanning 19 until 20 headed by 19 parsed as its
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN appointment))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Simpson))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Roy) (NNP E.) (NNP Parrott)) (, ,) (NP (NP (NP (NP (DT the) (NN company) (POS 's)) (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN since) (NP (NNP Sept.) (CD 1)))) (, ,))
+sid=0 spanning 0 until 16 headed by 2 parsed as (NP (NP (NNP Roy) (NNP E.) (NNP Parrott)) (, ,) (NP (NP (NP (NP (DT the) (NN company) (POS 's)) (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN since) (NP (NNP Sept.) (CD 1)))) (, ,))
+sid=0 spanning 4 until 15 headed by 7 parsed as (NP (NP (NP (NP (DT the) (NN company) (POS 's)) (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN since) (NP (NNP Sept.) (CD 1))))
+sid=0 spanning 4 until 8 headed by 7 parsed as (NP (NP (DT the) (NN company) (POS 's)) (NN president))
+sid=0 spanning 4 until 7 headed by 5 parsed as (NP (DT the) (NN company) (POS 's))
+sid=0 spanning 13 until 15 headed by 13 parsed as (NP (NNP Sept.) (CD 1))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ its) (NN board))
+sid=0 spanning 19 until 20 headed by 19 parsed as (PRP$ its)
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN appointment))
+sid=1 spanning 3 until 7 headed by 4 parsed as (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS directors))))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (CD 10))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NN company) (NNS employees))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Simpson))
+sid=2 spanning 2 until 6 headed by 5 parsed as (NP (DT an) (NML (NN auto) (NNS parts)) (NN maker))
+(end predicted mentions)
+---------gold clusters--------
+3 1 | { 'The appointment' 'named' }
+4 0 2 | { 'Simpson' 'the company 's' 'its' }
+(end gold clusters)

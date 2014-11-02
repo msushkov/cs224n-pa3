@@ -1,0 +1,58 @@
+---------gloss--------
+(0) [1m[34m{BUELL INDUSTRIES Inc.}[0m halved [1m[34m{its}[0m quarterly dividend to five cents a share , payable Nov. 17 to stock of record Nov. 3 . 
+(1) [1m[34m{The company 's}[0m quarterly dividend had been 10 cents a share since April 30 , 1988 . 
+(2) [1m[34m{Buell}[0m recently said [1m[34m{it}[0m would incur an aftertax charge of about $ 3.6 million in [1m[34m{its}[0m fourth quarter ending Tuesday , in connection with the sale and discontinuance of several lines at a plant . 
+(3) [1m[34m{The Waterbury , Conn. , maker of industrial fasteners and metal stampings}[0m has 2.3 million shares outstanding . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1175); part 000
+sentences:
+BUELLBUELLNNPORGPER0INDUSTRIESINDUSTRIESNNPSORGPER0Inc.Inc.NNPORGPER0halvedhalveVBDOPER0itsitsPRP$OPER0quarterlyquarterlyJJOPER0dividenddividendNNOPER0totoINOPER0fivefiveCDMONEYPER0centscentNNSMONEYPER0aaDTOPER0shareshareNNOPER0,,,OPER0payablepayableJJOPER0Nov.Nov.NNPDATEPER01717CDDATEPER0totoINOPER0stockstockNNOPER0ofofINOPER0recordrecordNNOPER0Nov.Nov.NNPDATEPER033CDDATEPER0...OPER0(ROOT (S (NP (NNP BUELL) (NNPS INDUSTRIES) (NNP Inc.)) (VP (VBD halved) (NP (NP (PRP$ its) (JJ quarterly) (NN dividend)) (PP (IN to) (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share)))) (, ,) (ADJP (JJ payable) (NP (NNP Nov.) (CD 17)) (PP (IN to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 3))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0's'sPOSOPER0quarterlyquarterlyJJOPER0dividenddividendNNOPER0hadhaveVBDOPER0beenbeVBNOPER01010CDMONEYPER0centscentNNSMONEYPER0aaDTOPER0shareshareNNOPER0sincesinceINOPER0AprilAprilNNPDATEPER03030CDDATEPER0,,,DATEPER019881988CDDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN company) (POS 's)) (JJ quarterly) (NN dividend)) (VP (VBD had) (VP (VBN been) (NP (NP (CD 10) (NNS cents)) (NP (DT a) (NN share))) (PP (IN since) (NP (NNP April) (CD 30) (, ,) (CD 1988))))) (. .)))
+BuellBuellNNPORGPER0recentlyrecentlyRBOPER0saidsayVBDOPER0ititPRPOPER0wouldwouldMDOPER0incurincurVBOPER0anaDTOPER0aftertaxaftertaxJJOPER0chargechargeNNOPER0ofofINOPER0aboutaboutRBMONEYPER0$$$MONEYPER03.63.6CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0itsitsPRP$DATEPER0fourthfourthJJDATEPER0quarterquarterNNDATEPER0endingendVBGDATEPER0TuesdayTuesdayNNPDATEPER0,,,OPER0ininINOPER0connectionconnectionNNOPER0withwithINOPER0thetheDTOPER0salesaleNNOPER0andandCCOPER0discontinuancediscontinuanceNNOPER0ofofINOPER0severalseveralJJOPER0lineslineNNSOPER0atatINOPER0aaDTOPER0plantplantNNOPER0...OPER0(ROOT (S (NP (NNP Buell)) (ADVP (RB recently)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB incur) (NP (NP (DT an) (JJ aftertax) (NN charge)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 3.6) (CD million))))) (PP (IN in) (NP (NP (PRP$ its) (JJ fourth) (NN quarter)) (VP (VBG ending) (NP (NNP Tuesday))))) (, ,) (PP (IN in) (NP (NP (NN connection)) (PP (IN with) (NP (NP (DT the) (NN sale) (CC and) (NN discontinuance)) (PP (IN of) (NP (NP (JJ several) (NNS lines)) (PP (IN at) (NP (DT a) (NN plant)))))))))))))) (. .)))
+ThetheDTOPER0WaterburyWaterburyNNPGPEPER0,,,OPER0Conn.Conn.NNPGPEPER0,,,OPER0makermakerNNOPER0ofofINOPER0industrialindustrialJJOPER0fastenersfastenerNNSOPER0andandCCOPER0metalmetalNNOPER0stampingsstampingNNSOPER0hashaveVBZOPER02.32.3CDCARDINALPER0millionmillionCDCARDINALPER0sharesshareNNSOPER0outstandingoutstandingJJOPER0...OPER0(ROOT (S (NP (NP (DT The) (NML (NNP Waterbury) (, ,) (NNP Conn.) (, ,)) (NN maker)) (PP (IN of) (NP (NP (JJ industrial) (NNS fasteners)) (CC and) (NP (NN metal) (NNS stampings))))) (VP (VBZ has) (NP (NP (QP (CD 2.3) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP BUELL) (NNPS INDUSTRIES) (NNP Inc.))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (NP (PRP$ its) (JJ quarterly) (NN dividend)) (PP (IN to) (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share)))) (, ,) (ADJP (JJ payable) (NP (NNP Nov.) (CD 17)) (PP (IN to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 3))))))
+sid=0 spanning 4 until 5 headed by 4 parsed as its
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NN company) (POS 's)) (JJ quarterly) (NN dividend))
+sid=1 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN company) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Buell))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=2 spanning 15 until 16 headed by 15 parsed as its
+sid=3 spanning 0 until 12 headed by 5 parsed as (NP (NP (DT The) (NML (NNP Waterbury) (, ,) (NNP Conn.) (, ,)) (NN maker)) (PP (IN of) (NP (NP (JJ industrial) (NNS fasteners)) (CC and) (NP (NN metal) (NNS stampings)))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP BUELL) (NNPS INDUSTRIES) (NNP Inc.))
+sid=0 spanning 4 until 22 headed by 6 parsed as (NP (NP (PRP$ its) (JJ quarterly) (NN dividend)) (PP (IN to) (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share)))) (, ,) (ADJP (JJ payable) (NP (NNP Nov.) (CD 17)) (PP (IN to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 3))))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (DT a) (NN share))
+sid=0 spanning 14 until 16 headed by 14 parsed as (NP (NNP Nov.) (CD 17))
+sid=0 spanning 17 until 22 headed by 17 parsed as (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 3)))
+sid=0 spanning 20 until 22 headed by 20 parsed as (NP (NNP Nov.) (CD 3))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NN company) (POS 's)) (JJ quarterly) (NN dividend))
+sid=1 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN company) (POS 's))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NN share))
+sid=1 spanning 12 until 16 headed by 12 parsed as (NP (NNP April) (CD 30) (, ,) (CD 1988))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Buell))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=2 spanning 6 until 14 headed by 8 parsed as (NP (NP (DT an) (JJ aftertax) (NN charge)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 3.6) (CD million)))))
+sid=2 spanning 15 until 20 headed by 17 parsed as (NP (NP (PRP$ its) (JJ fourth) (NN quarter)) (VP (VBG ending) (NP (NNP Tuesday))))
+sid=2 spanning 22 until 34 headed by 22 parsed as (NP (NP (NN connection)) (PP (IN with) (NP (NP (DT the) (NN sale) (CC and) (NN discontinuance)) (PP (IN of) (NP (NP (JJ several) (NNS lines)) (PP (IN at) (NP (DT a) (NN plant))))))))
+sid=2 spanning 24 until 34 headed by 25 parsed as (NP (NP (DT the) (NN sale) (CC and) (NN discontinuance)) (PP (IN of) (NP (NP (JJ several) (NNS lines)) (PP (IN at) (NP (DT a) (NN plant))))))
+sid=2 spanning 29 until 34 headed by 30 parsed as (NP (NP (JJ several) (NNS lines)) (PP (IN at) (NP (DT a) (NN plant))))
+sid=2 spanning 32 until 34 headed by 33 parsed as (NP (DT a) (NN plant))
+sid=3 spanning 0 until 12 headed by 5 parsed as (NP (NP (DT The) (NML (NNP Waterbury) (, ,) (NNP Conn.) (, ,)) (NN maker)) (PP (IN of) (NP (NP (JJ industrial) (NNS fasteners)) (CC and) (NP (NN metal) (NNS stampings)))))
+sid=3 spanning 1 until 2 headed by 1 parsed as Waterbury
+sid=3 spanning 3 until 4 headed by 3 parsed as Conn.
+sid=3 spanning 7 until 12 headed by 8 parsed as (NP (NP (JJ industrial) (NNS fasteners)) (CC and) (NP (NN metal) (NNS stampings)))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (JJ industrial) (NNS fasteners))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (NN metal) (NNS stampings))
+sid=3 spanning 13 until 17 headed by 15 parsed as (NP (NP (QP (CD 2.3) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))
+(end predicted mentions)
+---------gold clusters--------
+0 2 5 7 8 4 6 | { 'BUELL INDUSTRIES Inc.' 'its' 'Buell' 'its' 'The Waterbury , Conn. , maker of industrial fasteners and metal stampings' 'The company 's' 'it' }
+1 3 | { 'its quarterly dividend' 'The company 's quarterly dividend' }
+(end gold clusters)

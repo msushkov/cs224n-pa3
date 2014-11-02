@@ -1,0 +1,169 @@
+---------gloss--------
+(0) [1m[35m{The nation 's jobless}[0m rate is holding steady . 
+(1) The Labor Department said yesterday [1m[35m{the unemployment rate}[0m remained at the 30 - year low of 3.9 % in [4m[32m{October}[0m . 
+(2) [3m[35m{Bob Beard}[0m reports . 
+(3) Lower mortgage rates [4m[32m{last month}[0m helped construction firms add 34,000 jobs . 
+(4) The huge services sector added 99,000 , but growth in manufacturing was unchanged , suggesting sluggish demand for factory labor . 
+(5) That as [4m[32m{October}[0m payrolls picked up far fewer jobs than expected and September 's payroll gains were revised sharply lower . 
+(6) So far this year , [3m[33m{the pace of job growth}[0m is slowing -- averaging 182,000 jobs a month , versus 229,000 for all of last year . 
+(7) [3m[33m{It}[0m shows the top line . 
+(8) The headline number is weakening [4m[33m{the economy}[0m is weakening , but again , the persistence of that labor market tightness is still there . 
+(9) [4m[31m{One key measure of inflation}[0m picked up slightly [4m[32m{last month}[0m above market expectations . 
+(10) [4m[31m{Average hourly earnings}[0m now up [3m[31m{3.8 %}[0m year over year . 
+(11) Some economists note that 's been the trend for the last few years and is one of the main reasons [3m[36m{the Fed}[0m remains on inflation alert despite other signs [4m[33m{the economy}[0m is cooling . 
+(12) [3m[34m{I}[0m think [3m[31m{this number}[0m will certainly continue to calm the fears of policymakers , but [3m[34m{I}[0m think [3m[31m{it}[0m will put off that belief that [3m[36m{the Fed}[0m is going to lower interest rates anytime soon . 
+(13) Meantime , the administration could n't wait to put a positive spin on [3m[32m{the nation 's}[0m unemployment rate , which stayed at a 30 - year low . 
+(14) [1m[36m{We}[0m have [4m[33m{an economy that 's in balance}[0m . 
+(15) Obviously , [1m[36m{we}[0m continue to see signs of moderation , but let [1m[36m{'s}[0m remember this is still the longest and strongest boom in all of American history . 
+(16) For now , most economists see a portrait of a moderating economy , with few signs of a dramatic slowdown . 
+(17) [3m[35m{Bob Beard}[0m , `` CNN Financial News , '' Washington . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0091); part 000
+sentences:
+ThetheDTOPER0nationnationNNOPER0's'sPOSOPER0joblessjoblessJJOPER0raterateNNOPER0isbeVBZOPER0holdingholdVBGOPER0steadysteadyJJOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN nation) (POS 's)) (JJ jobless) (NN rate)) (VP (VBZ is) (VP (VBG holding) (S (ADJP (JJ steady))))) (. .)))
+ThetheDTORGPER0LaborLaborNNPORGPER0DepartmentDepartmentNNPORGPER0saidsayVBDOPER0yesterdayyesterdayNNDATEPER0thetheDTOPER0unemploymentunemploymentNNOPER0raterateNNOPER0remainedremainVBDOPER0atatINOPER0thetheDTOPER03030CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0lowlowNNOPER0ofofINOPER03.93.9CDPERCENTPER0%%NNPERCENTPER0ininINOPER0OctoberOctoberNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP Labor) (NNP Department)) (VP (VBD said) (NP (NN yesterday)) (SBAR (S (NP (DT the) (NN unemployment) (NN rate)) (VP (VBD remained) (PP (IN at) (NP (NP (DT the) (NML (CD 30) (HYPH -) (NN year)) (NN low)) (PP (IN of) (NP (CD 3.9) (NN %))))) (PP (IN in) (NP (NNP October))))))) (. .)))
+BobBobNNPPERSONPER0BeardBeardNNPPERSONPER0reportsreportVBZOPER0...OPER0(ROOT (S (NP (NNP Bob) (NNP Beard)) (VP (VBZ reports)) (. .)))
+LowerlowerJJROPER0mortgagemortgageNNOPER0ratesrateNNSOPER0lastlastJJDATEPER0monthmonthNNDATEPER0helpedhelpVBDOPER0constructionconstructionNNOPER0firmsfirmNNSOPER0addaddVBOPER034,00034,000CDCARDINALPER0jobsjobNNSOPER0...OPER0(ROOT (S (NP (JJR Lower) (NN mortgage) (NNS rates)) (NP (JJ last) (NN month)) (VP (VBD helped) (S (NP (NN construction) (NNS firms)) (VP (VB add) (NP (CD 34,000) (NNS jobs))))) (. .)))
+ThetheDTOPER0hugehugeJJOPER0servicesserviceNNSOPER0sectorsectorNNOPER0addedaddVBDOPER099,00099,000CDCARDINALPER0,,,OPER0butbutCCOPER0growthgrowthNNOPER0ininINOPER0manufacturingmanufacturingNNOPER0wasbeVBDOPER0unchangedunchangedJJOPER0,,,OPER0suggestingsuggestVBGOPER0sluggishsluggishJJOPER0demanddemandNNOPER0forforINOPER0factoryfactoryNNOPER0laborlaborNNOPER0...OPER0(ROOT (S (S (NP (DT The) (NML (JJ huge) (NNS services)) (NN sector)) (VP (VBD added) (NP (CD 99,000)))) (, ,) (CC but) (S (NP (NP (NN growth)) (PP (IN in) (NP (NN manufacturing)))) (VP (VBD was) (ADJP (JJ unchanged)) (, ,) (S (VP (VBG suggesting) (NP (NP (JJ sluggish) (NN demand)) (PP (IN for) (NP (NN factory) (NN labor)))))))) (. .)))
+ThatthatDTOPER0asasINOPER0OctoberOctoberNNPDATEPER0payrollspayrollNNSOPER0pickedpickVBDOPER0upupRPOPER0farfarRBOPER0fewerfewerJJROPER0jobsjobNNSOPER0thanthanINOPER0expectedexpectVBNOPER0andandCCOPER0SeptemberSeptemberNNPDATEPER0's'sPOSOPER0payrollpayrollNNOPER0gainsgainNNSOPER0werebeVBDOPER0revisedreviseVBNOPER0sharplysharplyRBOPER0lowerlowerJJROPER0...OPER0(ROOT (FRAG (NP (DT That)) (SBAR (IN as) (S (S (NP (NNP October) (NNS payrolls)) (VP (VBD picked) (PRT (RP up)) (NP (ADJP (RB far) (JJR fewer)) (NNS jobs) (SBAR (IN than) (S (VP (VBN expected))))))) (CC and) (S (NP (NP (NNP September) (POS 's)) (NN payroll) (NNS gains)) (VP (VBD were) (VP (VBN revised) (S (ADJP (RB sharply) (JJR lower)))))))) (. .)))
+SosoRBOPER0farfarRBOPER0thisthisDTDATEPER0yearyearNNDATEPER0,,,OPER0thetheDTOPER0pacepaceNNOPER0ofofINOPER0jobjobNNOPER0growthgrowthNNOPER0isbeVBZOPER0slowingslowVBGOPER0----:OPER0averagingaverageVBGOPER0182,000182,000CDCARDINALPER0jobsjobNNSOPER0aaDTDATEPER0monthmonthNNDATEPER0,,,OPER0versusversusINOPER0229,000229,000CDCARDINALPER0forforINOPER0allallDTOPER0ofofINOPER0lastlastJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (ADVP (ADVP (RB So) (RB far)) (NP (DT this) (NN year))) (, ,) (NP (NP (DT the) (NN pace)) (PP (IN of) (NP (NN job) (NN growth)))) (VP (VBZ is) (VP (VBG slowing) (: --) (S (VP (VBG averaging) (NP (NP (CD 182,000) (NNS jobs)) (NP (DT a) (NN month)) (, ,) (QP (IN versus) (CD 229,000))) (PP (IN for) (NP (NP (DT all)) (PP (IN of) (NP (JJ last) (NN year))))))))) (. .)))
+ItitPRPOPER0showsshowVBZOPER0thetheDTOPER0toptopJJOPER0linelineNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ shows) (NP (DT the) (JJ top) (NN line))) (. .)))
+ThetheDTOPER0headlineheadlineNNOPER0numbernumberNNOPER0isbeVBZOPER0weakeningweakenVBGOPER0thetheDTOPER0economyeconomyNNOPER0isbeVBZOPER0weakeningweakenVBGOPER0,,,OPER0butbutCCOPER0againagainRBOPER0,,,OPER0thetheDTOPER0persistencepersistenceNNOPER0ofofINOPER0thatthatDTOPER0laborlaborNNOPER0marketmarketNNOPER0tightnesstightnessNNOPER0isbeVBZOPER0stillstillRBOPER0therethereRBOPER0...OPER0(ROOT (S (S (NP (DT The) (NN headline) (NN number)) (VP (VBZ is) (VP (VBG weakening) (SBAR (S (NP (DT the) (NN economy)) (VP (VBZ is) (VP (VBG weakening)))))))) (, ,) (CC but) (S (ADVP (RB again)) (, ,) (NP (NP (DT the) (NN persistence)) (PP (IN of) (NP (DT that) (NML (NN labor) (NN market)) (NN tightness)))) (VP (VBZ is) (ADVP (RB still)) (ADVP (RB there)))) (. .)))
+OneoneCDCARDINALPER0keykeyJJOPER0measuremeasureNNOPER0ofofINOPER0inflationinflationNNOPER0pickedpickVBDOPER0upupRPOPER0slightlyslightlyRBOPER0lastlastJJDATEPER0monthmonthNNDATEPER0aboveaboveINOPER0marketmarketNNOPER0expectationsexpectationNNSOPER0...OPER0(ROOT (S (NP (NP (CD One) (JJ key) (NN measure)) (PP (IN of) (NP (NN inflation)))) (VP (VBD picked) (PRT (RP up)) (NP (RB slightly) (JJ last) (NN month)) (PP (IN above) (NP (NN market) (NNS expectations)))) (. .)))
+AverageaverageJJOPER0hourlyhourlyJJTIMEPER0earningsearningsNNSOPER0nownowRBOPER0upupINOPER03.83.8CDPERCENTPER0%%NNPERCENTPER0yearyearNNDATEPER0overoverINOPER0yearyearNNDATEPER0...OPER0(ROOT (FRAG (NP (JJ Average) (JJ hourly) (NNS earnings)) (ADVP (RB now)) (PP (IN up) (NP (NP (NP (CD 3.8) (NN %)) (NP (NN year))) (PP (IN over) (NP (NN year))))) (. .)))
+SomesomeDTOPER0economistseconomistNNSOPER0notenoteVBPOPER0thatthatDTOPER0'sbeVBZOPER0beenbeVBNOPER0thetheDTOPER0trendtrendNNOPER0forforINOPER0thetheDTDATEPER0lastlastJJDATEPER0fewfewJJDATEPER0yearsyearNNSDATEPER0andandCCOPER0isbeVBZOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0mainmainJJOPER0reasonsreasonNNSOPER0thetheDTOPER0FedFedNNPORGPER0remainsremainVBZOPER0ononINOPER0inflationinflationNNOPER0alertalertNNOPER0despitedespiteINOPER0otherotherJJOPER0signssignNNSOPER0thetheDTOPER0economyeconomyNNOPER0isbeVBZOPER0coolingcoolVBGOPER0...OPER0(ROOT (S (NP (DT Some) (NNS economists)) (VP (VBP note) (SBAR (S (NP (DT that)) (VP (VP (VBZ 's) (VP (VBN been) (NP (DT the) (NN trend)) (PP (IN for) (NP (DT the) (JJ last) (JJ few) (NNS years))))) (CC and) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS reasons)) (SBAR (S (NP (DT the) (NNP Fed)) (VP (VBZ remains) (PP (IN on) (NP (NN inflation) (NN alert))) (PP (IN despite) (NP (NP (JJ other) (NNS signs)) (SBAR (S (NP (DT the) (NN economy)) (VP (VBZ is) (VP (VBG cooling)))))))))))))))))) (. .)))
+IIPRPOPER0thinkthinkVBPOPER0thisthisDTOPER0numbernumberNNOPER0willwillMDOPER0certainlycertainlyRBOPER0continuecontinueVBOPER0totoTOOPER0calmcalmVBOPER0thetheDTOPER0fearsfearNNSOPER0ofofINOPER0policymakerspolicymakerNNSOPER0,,,OPER0butbutCCOPER0IIPRPOPER0thinkthinkVBPOPER0ititPRPOPER0willwillMDOPER0putputVBOPER0offoffRPOPER0thatthatDTOPER0beliefbeliefNNOPER0thatthatINOPER0thetheDTOPER0FedFedNNPORGPER0isbeVBZOPER0goinggoVBGOPER0totoTOOPER0lowerlowerVBOPER0interestinterestNNOPER0ratesrateNNSOPER0anytimeanytimeRBOPER0soonsoonRBOPER0...OPER0(ROOT (S (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT this) (NN number)) (VP (MD will) (ADVP (RB certainly)) (VP (VB continue) (S (VP (TO to) (VP (VB calm) (NP (NP (DT the) (NNS fears)) (PP (IN of) (NP (NNS policymakers))))))))))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB put) (PRT (RP off)) (NP (DT that) (NN belief) (SBAR (IN that) (S (NP (DT the) (NNP Fed)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB lower) (NP (NN interest) (NNS rates)) (ADVP (RB anytime) (RB soon)))))))))))))))) (. .)))
+MeantimemeantimeRBOPER0,,,OPER0thetheDTOPER0administrationadministrationNNOPER0couldcouldMDOPER0n'tnotRBOPER0waitwaitVBPOPER0totoTOOPER0putputVBOPER0aaDTOPER0positivepositiveJJOPER0spinspinNNOPER0ononINOPER0thetheDTOPER0nationnationNNOPER0's'sPOSOPER0unemploymentunemploymentNNOPER0raterateNNOPER0,,,OPER0whichwhichWDTOPER0stayedstayVBDOPER0atatINOPER0aaDTOPER03030CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0lowlowNNOPER0...OPER0(ROOT (S (ADVP (RB Meantime)) (, ,) (NP (DT the) (NN administration)) (VP (MD could) (RB n't) (VP (VBP wait) (S (VP (TO to) (VP (VB put) (NP (DT a) (JJ positive) (NN spin)) (PP (IN on) (NP (NP (NP (DT the) (NN nation) (POS 's)) (NN unemployment) (NN rate)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD stayed) (PP (IN at) (NP (DT a) (NML (CD 30) (HYPH -) (NN year)) (NN low))))))))))))) (. .)))
+WewePRPOPER0havehaveVBPOPER0anaDTOPER0economyeconomyNNOPER0thatthatWDTOPER0'sbeVBZOPER0ininINOPER0balancebalanceNNOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP have) (NP (NP (DT an) (NN economy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN in) (NP (NN balance)))))))) (. .)))
+ObviouslyobviouslyRBOPER0,,,OPER0wewePRPOPER0continuecontinueVBPOPER0totoTOOPER0seeseeVBOPER0signssignNNSOPER0ofofINOPER0moderationmoderationNNOPER0,,,OPER0butbutCCOPER0letletVBOPER0's'sPRPOPER0rememberrememberVBOPER0thisthisDTOPER0isbeVBZOPER0stillstillRBOPER0thetheDTOPER0longestlongestJJSOPER0andandCCOPER0strongeststrongestJJSOPER0boomboomNNOPER0ininINOPER0allallDTOPER0ofofINOPER0AmericanamericanJJOPER0historyhistoryNNOPER0...OPER0(ROOT (S (ADVP (RB Obviously)) (, ,) (S (NP (PRP we)) (VP (VBP continue) (S (VP (TO to) (VP (VB see) (NP (NP (NNS signs)) (PP (IN of) (NP (NN moderation))))))))) (, ,) (CC but) (S (VP (VB let) (S (NP (PRP 's)) (VP (VB remember) (SBAR (S (NP (DT this)) (VP (VBZ is) (ADVP (RB still)) (NP (NP (DT the) (ADJP (JJS longest) (CC and) (JJS strongest)) (NN boom)) (PP (IN in) (NP (NP (DT all)) (PP (IN of) (NP (JJ American) (NN history))))))))))))) (. .)))
+ForforINOPER0nownowRBOPER0,,,OPER0mostmostJJSOPER0economistseconomistNNSOPER0seeseeVBPOPER0aaDTOPER0portraitportraitNNOPER0ofofINOPER0aaDTOPER0moderatingmoderateVBGOPER0economyeconomyNNOPER0,,,OPER0withwithINOPER0fewfewJJOPER0signssignNNSOPER0ofofINOPER0aaDTOPER0dramaticdramaticJJOPER0slowdownslowdownNNOPER0...OPER0(ROOT (S (PP (IN For) (ADVP (RB now))) (, ,) (NP (JJS most) (NNS economists)) (VP (VBP see) (NP (NP (DT a) (NN portrait)) (PP (IN of) (NP (DT a) (VBG moderating) (NN economy)))) (, ,) (PP (IN with) (NP (NP (JJ few) (NNS signs)) (PP (IN of) (NP (DT a) (JJ dramatic) (NN slowdown)))))) (. .)))
+BobBobNNPPERSONPER0BeardBeardNNPPERSONPER0,,,OPER0``````OCNNCNNNNPORGPER1FinancialFinancialNNPORGPER1NewsNewsNNPORGPER1,,,OPER1''''''OPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Bob) (NNP Beard)) (, ,) (`` ``) (NP (NNP CNN) (NNP Financial) (NNP News)) (, ,) ('' '') (NP (NNP Washington)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN nation) (POS 's))
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (DT The) (NN nation) (POS 's))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NN unemployment) (NN rate))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NNP October))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Beard))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (JJ last) (NN month))
+sid=5 spanning 2 until 3 headed by 2 parsed as October
+sid=6 spanning 5 until 10 headed by 6 parsed as (NP (NP (DT the) (NN pace)) (PP (IN of) (NP (NN job) (NN growth))))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN economy))
+sid=9 spanning 0 until 5 headed by 2 parsed as (NP (NP (CD One) (JJ key) (NN measure)) (PP (IN of) (NP (NN inflation))))
+sid=9 spanning 8 until 10 headed by 9 parsed as (NP (RB slightly) (JJ last) (NN month))
+sid=10 spanning 0 until 3 headed by 2 parsed as (NP (JJ Average) (JJ hourly) (NNS earnings))
+sid=10 spanning 5 until 7 headed by 6 parsed as (NP (NP (NP (CD 3.8) (NN %)) (NP (NN year))) (PP (IN over) (NP (NN year))))
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNP Fed))
+sid=11 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN economy))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=12 spanning 2 until 4 headed by 3 parsed as (NP (DT this) (NN number))
+sid=12 spanning 15 until 16 headed by 15 parsed as (NP (PRP I))
+sid=12 spanning 17 until 18 headed by 17 parsed as (NP (PRP it))
+sid=12 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NNP Fed))
+sid=13 spanning 13 until 27 headed by 17 parsed as (NP (NP (NP (DT the) (NN nation) (POS 's)) (NN unemployment) (NN rate)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD stayed) (PP (IN at) (NP (DT a) (NML (CD 30) (HYPH -) (NN year)) (NN low)))))))
+sid=13 spanning 13 until 16 headed by 14 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=14 spanning 2 until 8 headed by 3 parsed as (NP (NP (DT an) (NN economy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN in) (NP (NN balance)))))))
+sid=15 spanning 2 until 3 headed by 2 parsed as (NP (PRP we))
+sid=15 spanning 12 until 13 headed by 12 parsed as (NP (PRP 's))
+sid=17 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Beard))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NN nation) (POS 's)) (JJ jobless) (NN rate))
+sid=0 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN nation) (POS 's))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Labor) (NNP Department))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NN yesterday))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NN unemployment) (NN rate))
+sid=1 spanning 10 until 18 headed by 14 parsed as (NP (NP (DT the) (NML (CD 30) (HYPH -) (NN year)) (NN low)) (PP (IN of) (NP (CD 3.9) (NN %))))
+sid=1 spanning 11 until 14 headed by 13 parsed as year
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NNP October))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Beard))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (JJR Lower) (NN mortgage) (NNS rates))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (JJ last) (NN month))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (NN construction) (NNS firms))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (CD 34,000) (NNS jobs))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (JJ huge) (NNS services)) (NN sector))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (CD 99,000))
+sid=4 spanning 8 until 11 headed by 8 parsed as (NP (NP (NN growth)) (PP (IN in) (NP (NN manufacturing))))
+sid=4 spanning 18 until 20 headed by 19 parsed as (NP (NN factory) (NN labor))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (NNP October) (NNS payrolls))
+sid=5 spanning 2 until 3 headed by 2 parsed as October
+sid=5 spanning 6 until 11 headed by 8 parsed as (NP (ADJP (RB far) (JJR fewer)) (NNS jobs) (SBAR (IN than) (S (VP (VBN expected)))))
+sid=5 spanning 12 until 16 headed by 15 parsed as (NP (NP (NNP September) (POS 's)) (NN payroll) (NNS gains))
+sid=5 spanning 12 until 14 headed by 12 parsed as (NP (NNP September) (POS 's))
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (DT this) (NN year))
+sid=6 spanning 5 until 10 headed by 6 parsed as (NP (NP (DT the) (NN pace)) (PP (IN of) (NP (NN job) (NN growth))))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (NN job) (NN growth))
+sid=6 spanning 14 until 21 headed by 15 parsed as (NP (NP (CD 182,000) (NNS jobs)) (NP (DT a) (NN month)) (, ,) (QP (IN versus) (CD 229,000)))
+sid=6 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN month))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=7 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ top) (NN line))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN headline) (NN number))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN economy))
+sid=8 spanning 13 until 20 headed by 14 parsed as (NP (NP (DT the) (NN persistence)) (PP (IN of) (NP (DT that) (NML (NN labor) (NN market)) (NN tightness))))
+sid=8 spanning 16 until 20 headed by 19 parsed as (NP (DT that) (NML (NN labor) (NN market)) (NN tightness))
+sid=9 spanning 0 until 5 headed by 2 parsed as (NP (NP (CD One) (JJ key) (NN measure)) (PP (IN of) (NP (NN inflation))))
+sid=9 spanning 7 until 10 headed by 9 parsed as (NP (RB slightly) (JJ last) (NN month))
+sid=9 spanning 11 until 13 headed by 12 parsed as (NP (NN market) (NNS expectations))
+sid=10 spanning 0 until 3 headed by 2 parsed as (NP (JJ Average) (JJ hourly) (NNS earnings))
+sid=10 spanning 1 until 2 headed by 1 parsed as hourly
+sid=10 spanning 7 until 8 headed by 7 parsed as (NP (NN year))
+sid=10 spanning 9 until 10 headed by 9 parsed as (NP (NN year))
+sid=11 spanning 0 until 2 headed by 1 parsed as (NP (DT Some) (NNS economists))
+sid=11 spanning 3 until 4 headed by 3 parsed as (NP (DT that))
+sid=11 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN trend))
+sid=11 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (JJ last) (JJ few) (NNS years))
+sid=11 spanning 15 until 33 headed by 15 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS reasons)) (SBAR (S (NP (DT the) (NNP Fed)) (VP (VBZ remains) (PP (IN on) (NP (NN inflation) (NN alert))) (PP (IN despite) (NP (NP (JJ other) (NNS signs)) (SBAR (S (NP (DT the) (NN economy)) (VP (VBZ is) (VP (VBG cooling)))))))))))))
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNP Fed))
+sid=11 spanning 24 until 26 headed by 25 parsed as (NP (NN inflation) (NN alert))
+sid=11 spanning 27 until 33 headed by 28 parsed as (NP (NP (JJ other) (NNS signs)) (SBAR (S (NP (DT the) (NN economy)) (VP (VBZ is) (VP (VBG cooling))))))
+sid=11 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN economy))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=12 spanning 2 until 4 headed by 3 parsed as (NP (DT this) (NN number))
+sid=12 spanning 9 until 13 headed by 10 parsed as (NP (NP (DT the) (NNS fears)) (PP (IN of) (NP (NNS policymakers))))
+sid=12 spanning 12 until 13 headed by 12 parsed as (NP (NNS policymakers))
+sid=12 spanning 15 until 16 headed by 15 parsed as (NP (PRP I))
+sid=12 spanning 17 until 18 headed by 17 parsed as (NP (PRP it))
+sid=12 spanning 21 until 34 headed by 22 parsed as (NP (DT that) (NN belief) (SBAR (IN that) (S (NP (DT the) (NNP Fed)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB lower) (NP (NN interest) (NNS rates)) (ADVP (RB anytime) (RB soon))))))))))
+sid=12 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NNP Fed))
+sid=12 spanning 30 until 32 headed by 31 parsed as (NP (NN interest) (NNS rates))
+sid=13 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN administration))
+sid=13 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (JJ positive) (NN spin))
+sid=13 spanning 13 until 27 headed by 17 parsed as (NP (NP (NP (DT the) (NN nation) (POS 's)) (NN unemployment) (NN rate)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD stayed) (PP (IN at) (NP (DT a) (NML (CD 30) (HYPH -) (NN year)) (NN low)))))))
+sid=13 spanning 13 until 18 headed by 17 parsed as (NP (NP (DT the) (NN nation) (POS 's)) (NN unemployment) (NN rate))
+sid=13 spanning 13 until 16 headed by 14 parsed as (NP (DT the) (NN nation) (POS 's))
+sid=13 spanning 22 until 27 headed by 26 parsed as (NP (DT a) (NML (CD 30) (HYPH -) (NN year)) (NN low))
+sid=13 spanning 23 until 26 headed by 25 parsed as year
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=14 spanning 2 until 8 headed by 3 parsed as (NP (NP (DT an) (NN economy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN in) (NP (NN balance)))))))
+sid=15 spanning 2 until 3 headed by 2 parsed as (NP (PRP we))
+sid=15 spanning 6 until 9 headed by 6 parsed as (NP (NP (NNS signs)) (PP (IN of) (NP (NN moderation))))
+sid=15 spanning 12 until 13 headed by 12 parsed as (NP (PRP 's))
+sid=15 spanning 14 until 15 headed by 14 parsed as (NP (DT this))
+sid=15 spanning 17 until 27 headed by 21 parsed as (NP (NP (DT the) (ADJP (JJS longest) (CC and) (JJS strongest)) (NN boom)) (PP (IN in) (NP (NP (DT all)) (PP (IN of) (NP (JJ American) (NN history))))))
+sid=16 spanning 3 until 5 headed by 4 parsed as (NP (JJS most) (NNS economists))
+sid=16 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT a) (NN portrait)) (PP (IN of) (NP (DT a) (VBG moderating) (NN economy))))
+sid=16 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (VBG moderating) (NN economy))
+sid=16 spanning 14 until 20 headed by 15 parsed as (NP (NP (JJ few) (NNS signs)) (PP (IN of) (NP (DT a) (JJ dramatic) (NN slowdown))))
+sid=16 spanning 17 until 20 headed by 19 parsed as (NP (DT a) (JJ dramatic) (NN slowdown))
+sid=17 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bob) (NNP Beard))
+sid=17 spanning 4 until 7 headed by 6 parsed as (NP (NNP CNN) (NNP Financial) (NNP News))
+sid=17 spanning 9 until 10 headed by 9 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+21 1 2 | { 'the nation 's unemployment rate , which stayed at a 30 - year low' 'The nation 's jobless' 'the unemployment rate' }
+26 25 23 | { ''s' 'we' 'We' }
+13 17 19 | { '3.8 %' 'this number' 'it' }
+0 22 | { 'The nation 's' 'the nation 's' }
+8 7 | { 'It' 'the pace of job growth' }
+18 16 | { 'I' 'I' }
+4 27 | { 'Bob Beard' 'Bob Beard' }
+20 14 | { 'the Fed' 'the Fed' }
+10 12 | { 'One key measure of inflation' 'Average hourly earnings' }
+6 11 3 5 | { 'October' 'last month' 'October' 'last month' }
+24 9 15 | { 'an economy that 's in balance' 'the economy' 'the economy' }
+(end gold clusters)

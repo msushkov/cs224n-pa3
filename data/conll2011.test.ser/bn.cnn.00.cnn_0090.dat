@@ -1,0 +1,62 @@
+---------gloss--------
+(0) [36m{216 sailors from the `` USS Cole ''}[0m are back in [36m{their}[0m home port of Norfolk , Virginia . 
+(1) Cheering family members greeted [36m{the crew}[0m with flowers and waving flags yesterday . 
+(2) A few `` [35m{Cole}[0m '' crew members are staying with [35m{the ship}[0m . 
+(3) [35m{It}[0m will begin [35m{its}[0m five - week trip home on the deck of the rescue ship `` Blue Marlin '' today . 
+(4) 17 crew members were killed and 39 injured in last month 's apparent terrorist bombing of [35m{the warship}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0090); part 000
+sentences:
+216216CDCARDINALPER0sailorssailorNNSOPER0fromfromINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0arebeVBPOPER0backbackRBOPER0ininINOPER0theirtheyPRP$OPER0homehomeNNOPER0portportNNOPER0ofofINOPER0NorfolkNorfolkNNPGPEPER0,,,OPER0VirginiaVirginiaNNPGPEPER0...OPER0(ROOT (S (NP (NP (CD 216) (NNS sailors)) (PP (IN from) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))) (VP (VBP are) (ADVP (RB back)) (PP (IN in) (NP (NP (PRP$ their) (NN home) (NN port)) (PP (IN of) (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia))))))) (. .)))
+CheeringcheerVBGPERSONPER0familyfamilyNNOPER0membersmemberNNSOPER0greetedgreetVBDOPER0thetheDTOPER0crewcrewNNOPER0withwithINOPER0flowersflowerNNSOPER0andandCCOPER0wavingwaveVBGOPER0flagsflagNNSOPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (VBG Cheering) (NN family) (NNS members)) (VP (VBD greeted) (NP (DT the) (NN crew)) (PP (IN with) (NP (NP (NNS flowers)) (CC and) (NP (VBG waving) (NNS flags)))) (NP (NN yesterday))) (. .)))
+AaDTOPER0fewfewJJOPER0``````OColeColeNNPWORK_OF_ARTPER2''''''OPER0crewcrewNNOPER0membersmemberNNSOPER0arebeVBPOPER0stayingstayVBGOPER0withwithINOPER0thetheDTOPER0shipshipNNOPER0...OPER0(ROOT (S (NP (DT A) (JJ few) (`` ``) (NNP Cole) ('' '') (NN crew) (NNS members)) (VP (VBP are) (VP (VBG staying) (PP (IN with) (NP (DT the) (NN ship))))) (. .)))
+ItitPRPOPER0willwillMDOPER0beginbeginVBOPER0itsitsPRP$OPER0fivefiveCDDATEPER0--HYPHDATEPER0weekweekNNDATEPER0triptripNNOPER0homehomeRBOPER0ononINOPER0thetheDTOPER0deckdeckNNOPER0ofofINOPER0thetheDTOPER0rescuerescueNNOPER0shipshipNNOPER0``````WORK_OF_ARTBlueBlueNNPWORK_OF_ARTPER3MarlinMarlinNNPWORK_OF_ARTPER3''''''WORK_OF_ARTPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (MD will) (VP (VB begin) (NP (PRP$ its) (NML (CD five) (HYPH -) (NN week)) (NN trip)) (ADVP (RB home)) (PP (IN on) (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (NP (DT the) (NN rescue) (NN ship)) (NP (`` ``) (NNP Blue) (NNP Marlin) ('' '')))))) (NP (NN today)))) (. .)))
+1717CDCARDINALPER0crewcrewNNOPER0membersmemberNNSOPER0werebeVBDOPER0killedkillVBNOPER0andandCCOPER03939CDCARDINALPER0injuredinjureVBNOPER0ininINOPER0lastlastJJDATEPER0monthmonthNNDATEPER0's'sPOSDATEPER0apparentapparentJJOPER0terroristterroristJJOPER0bombingbombingNNOPER0ofofINOPER0thetheDTOPER0warshipwarshipNNOPER0...OPER0(ROOT (S (S (NP (CD 17) (NN crew) (NNS members)) (VP (VBD were) (VP (VBN killed)))) (CC and) (S (NP (CD 39)) (VP (VBN injured) (PP (IN in) (NP (NP (NP (JJ last) (NN month) (POS 's)) (JJ apparent) (JJ terrorist) (NN bombing)) (PP (IN of) (NP (DT the) (NN warship))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (CD 216) (NNS sailors)) (PP (IN from) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 3 until 8 headed by 6 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 11 until 12 headed by 11 parsed as their
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN crew))
+sid=2 spanning 3 until 4 headed by 3 parsed as Cole
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN ship))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 3 until 4 headed by 3 parsed as its
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN warship))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (CD 216) (NNS sailors)) (PP (IN from) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 3 until 8 headed by 6 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 11 until 18 headed by 13 parsed as (NP (NP (PRP$ their) (NN home) (NN port)) (PP (IN of) (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (PRP$ their)
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))
+sid=0 spanning 15 until 18 headed by 15 parsed as (NP (NP (NNP Norfolk)) (, ,) (NP (NNP Virginia)))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (NNP Virginia))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (VBG Cheering) (NN family) (NNS members))
+sid=1 spanning 0 until 1 headed by 0 parsed as Cheering
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN crew))
+sid=1 spanning 7 until 11 headed by 7 parsed as (NP (NP (NNS flowers)) (CC and) (NP (VBG waving) (NNS flags)))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (NNS flowers))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (VBG waving) (NNS flags))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NN yesterday))
+sid=2 spanning 0 until 7 headed by 6 parsed as (NP (DT A) (JJ few) (`` ``) (NNP Cole) ('' '') (NN crew) (NNS members))
+sid=2 spanning 3 until 4 headed by 3 parsed as Cole
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN ship))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 3 until 8 headed by 7 parsed as (NP (PRP$ its) (NML (CD five) (HYPH -) (NN week)) (NN trip))
+sid=3 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=3 spanning 4 until 7 headed by 6 parsed as week
+sid=3 spanning 10 until 20 headed by 11 parsed as (NP (NP (DT the) (NN deck)) (PP (IN of) (NP (NP (DT the) (NN rescue) (NN ship)) (NP (`` ``) (NNP Blue) (NNP Marlin) ('' '')))))
+sid=3 spanning 13 until 20 headed by 15 parsed as (NP (NP (DT the) (NN rescue) (NN ship)) (NP (`` ``) (NNP Blue) (NNP Marlin) ('' '')))
+sid=3 spanning 16 until 20 headed by 18 parsed as (NP (`` ``) (NNP Blue) (NNP Marlin) ('' ''))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (CD 17) (NN crew) (NNS members))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (CD 39))
+sid=4 spanning 9 until 12 headed by 10 parsed as (NP (JJ last) (NN month) (POS 's))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN warship))
+(end predicted mentions)
+---------gold clusters--------
+8 6 5 1 4 7 | { 'the warship' 'It' 'the ship' 'the `` USS Cole ''' 'Cole' 'its' }
+0 2 3 | { '216 sailors from the `` USS Cole ''' 'their' 'the crew' }
+(end gold clusters)

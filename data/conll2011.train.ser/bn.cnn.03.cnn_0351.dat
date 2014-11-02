@@ -1,0 +1,48 @@
+---------gloss--------
+(0) A bomb exploded today in [1m[33m{a courtroom in southern Yemen}[0m , injuring [1m[34m{four people , one of them a judge}[0m . 
+(1) [1m[32m{A man with a pistol}[0m was arrested outside of the courthouse and police say [1m[32m{he}[0m admits planting the bombs . 
+(2) [1m[33m{It}[0m was the same courtroom where a suspected al Qaeda militant got a death sentence last week for killing three American missionaries . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0351); part 000
+sentences:
+AaDTOPER0bombbombNNOPER0explodedexplodeVBDOPER0todaytodayNNDATEPER0ininINOPER0aaDTOPER0courtroomcourtroomNNOPER0ininINOPER0southernsouthernJJOPER0YemenYemenNNPGPEPER0,,,OPER0injuringinjureVBGOPER0fourfourCDCARDINALPER0peoplepeopleNNSOPER0,,,OPER0oneoneCDOPER0ofofINOPER0themtheyPRPOPER0aaDTOPER0judgejudgeNNOPER0...OPER0(ROOT (S (NP (DT A) (NN bomb)) (VP (VBD exploded) (NP (NN today)) (PP (IN in) (NP (NP (DT a) (NN courtroom)) (PP (IN in) (NP (JJ southern) (NNP Yemen))))) (, ,) (S (VP (VBG injuring) (NP (NP (CD four) (NNS people)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))) (NP (DT a) (NN judge))))) (. .)))
+AaDTOPER0manmanNNOPER0withwithINOPER0aaDTOPER0pistolpistolNNOPER0wasbeVBDOPER0arrestedarrestVBNOPER0outsideoutsideINOPER0ofofINOPER0thetheDTOPER0courthousecourthouseNNOPER0andandCCOPER0policepoliceNNSOPER0saysayVBPOPER0hehePRPOPER0admitsadmitVBZOPER0plantingplantVBGOPER0thetheDTOPER0bombsbombNNSOPER0...OPER0(ROOT (S (S (NP (NP (DT A) (NN man)) (PP (IN with) (NP (DT a) (NN pistol)))) (VP (VBD was) (VP (VBN arrested) (PP (IN outside) (IN of) (NP (DT the) (NN courthouse)))))) (CC and) (S (NP (NNS police)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBZ admits) (VP (VBG planting) (NP (DT the) (NNS bombs)))))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0thetheDTOPER0samesameJJOPER0courtroomcourtroomNNOPER0wherewhereWRBOPER0aaDTOPER0suspectedsuspectVBNOPER0alalNNPPERSONPER0QaedaQaedaNNPPERSONPER0militantmilitantNNOPER0gotgetVBDOPER0aaDTOPER0deathdeathNNOPER0sentencesentenceNNOPER0lastlastJJDATEPER0weekweekNNDATEPER0forforINOPER0killingkillVBGOPER0threethreeCDCARDINALPER0AmericanamericanJJOPER0missionariesmissionaryNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN courtroom)) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (VBN suspected) (NML (NNP al) (NNP Qaeda)) (NN militant)) (VP (VBD got) (NP (DT a) (NN death) (NN sentence)) (NP (JJ last) (NN week)) (PP (IN for) (S (VP (VBG killing) (NP (CD three) (JJ American) (NNS missionaries)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 10 headed by 6 parsed as (NP (NP (DT a) (NN courtroom)) (PP (IN in) (NP (JJ southern) (NNP Yemen))))
+sid=0 spanning 12 until 20 headed by 13 parsed as (NP (NP (CD four) (NNS people)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))))
+sid=0 spanning 17 until 18 headed by 17 parsed as (NP (PRP them))
+sid=1 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT A) (NN man)) (PP (IN with) (NP (DT a) (NN pistol))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT A) (NN bomb))
+sid=0 spanning 5 until 10 headed by 6 parsed as (NP (NP (DT a) (NN courtroom)) (PP (IN in) (NP (JJ southern) (NNP Yemen))))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (JJ southern) (NNP Yemen))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (JJ southern) (NNP Yemen))
+sid=0 spanning 12 until 18 headed by 13 parsed as (NP (NP (CD four) (NNS people)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (CD four) (NNS people))
+sid=0 spanning 15 until 18 headed by 15 parsed as (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (DT a) (NN judge))
+sid=1 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT A) (NN man)) (PP (IN with) (NP (DT a) (NN pistol))))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NN pistol))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN courthouse))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNS police))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (PRP he))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNS bombs))
+sid=2 spanning 2 until 22 headed by 4 parsed as (NP (NP (DT the) (JJ same) (NN courtroom)) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (VBN suspected) (NML (NNP al) (NNP Qaeda)) (NN militant)) (VP (VBD got) (NP (DT a) (NN death) (NN sentence)) (NP (JJ last) (NN week)) (PP (IN for) (S (VP (VBG killing) (NP (CD three) (JJ American) (NNS missionaries)))))))))
+sid=2 spanning 6 until 11 headed by 10 parsed as (NP (DT a) (VBN suspected) (NML (NNP al) (NNP Qaeda)) (NN militant))
+sid=2 spanning 8 until 10 headed by 9 parsed as Qaeda
+sid=2 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (NN death) (NN sentence))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (JJ last) (NN week))
+sid=2 spanning 19 until 22 headed by 21 parsed as (NP (CD three) (JJ American) (NNS missionaries))
+(end predicted mentions)
+---------gold clusters--------
+3 4 | { 'A man with a pistol' 'he' }
+5 0 | { 'It' 'a courtroom in southern Yemen' }
+2 1 | { 'them' 'four people , one of them a judge' }
+(end gold clusters)

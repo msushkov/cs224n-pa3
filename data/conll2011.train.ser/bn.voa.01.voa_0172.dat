@@ -1,0 +1,30 @@
+---------gloss--------
+(0) President Clinton telephoned [4m[35m{Palestinian leader Yasser Arafat}[0m Saturday in a bid to restart Israeli - Palestinian peace negotiations . 
+(1) An [4m[35m{Arafat}[0m advisor told reporters the two leaders agreed to work together to try to reach a peace agreement . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0172); part 000
+sentences:
+PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0telephonedtelephoneVBDOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0SaturdaySaturdayNNPDATEPER0ininINOPER0aaDTOPER0bidbidNNOPER0totoTOOPER0restartrestartVBOPER0IsraeliisraeliJJOPER0--HYPHOPER0PalestinianpalestinianJJOPER0peacepeaceNNOPER0negotiationsnegotiationNNSOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Clinton)) (VP (VBD telephoned) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (NP (NNP Saturday)) (PP (IN in) (NP (DT a) (NN bid) (S (VP (TO to) (VP (VB restart) (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NNS negotiations)))))))) (. .)))
+AnaDTOPER0ArafatArafatNNPPERSONPER0advisoradvisorNNOPER0toldtellVBDOPER0reportersreporterNNSOPER0thetheDTOPER0twotwoCDCARDINALPER0leadersleaderNNSOPER0agreedagreeVBDOPER0totoTOOPER0workworkVBOPER0togethertogetherRBOPER0totoTOOPER0trytryVBOPER0totoTOOPER0reachreachVBOPER0aaDTOPER0peacepeaceNNOPER0agreementagreementNNOPER0...OPER0(ROOT (S (NP (DT An) (NNP Arafat) (NN advisor)) (VP (VBD told) (NP (NNS reporters)) (SBAR (S (NP (DT the) (CD two) (NNS leaders)) (VP (VBD agreed) (S (VP (TO to) (VP (VB work) (ADVP (RB together)) (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB reach) (NP (DT a) (NN peace) (NN agreement))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=1 spanning 1 until 2 headed by 1 parsed as Arafat
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Clinton))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP Saturday))
+sid=0 spanning 9 until 18 headed by 10 parsed as (NP (DT a) (NN bid) (S (VP (TO to) (VP (VB restart) (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NNS negotiations))))))
+sid=0 spanning 13 until 18 headed by 17 parsed as (NP (ADJP (JJ Israeli) (HYPH -) (JJ Palestinian)) (NN peace) (NNS negotiations))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (NNP Arafat) (NN advisor))
+sid=1 spanning 1 until 2 headed by 1 parsed as Arafat
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNS reporters))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (CD two) (NNS leaders))
+sid=1 spanning 16 until 19 headed by 18 parsed as (NP (DT a) (NN peace) (NN agreement))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'Arafat' 'Palestinian leader Yasser Arafat' }
+(end gold clusters)

@@ -1,0 +1,60 @@
+---------gloss--------
+(0) [3m[33m{The Bush administration}[0m is officially endorsing [3m[32m{the pro-democracy demonstrations in Iran}[0m . 
+(1) For a week now , [3m[35m{protesters}[0m have been clashing with police and backers of the clerical regime in Tehran . 
+(2) In turn , [3m[34m{the Iranian government}[0m has accused [3m[33m{the Bush administration}[0m of providing material support to [3m[35m{the protesters}[0m . 
+(3) [3m[31m{The State Department spokesman}[0m says [3m[32m{the demonstrations}[0m are about [3m[34m{Iran}[0m and Iranians , and have nothing to do with the U.S. , but [3m[31m{he}[0m did make it clear where U.S. sympathies lie . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0238); part 000
+sentences:
+ThetheDTOPER0BushBushNNPPERSONPER0administrationadministrationNNOPER0isbeVBZOPER0officiallyofficiallyRBOPER0endorsingendorseVBGOPER0thetheDTOPER0pro-democracypro-democracyJJOPER0demonstrationsdemonstrationNNSOPER0ininINOPER0IranIranNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NNP Bush) (NN administration)) (VP (VBZ is) (ADVP (RB officially)) (VP (VBG endorsing) (NP (DT the) (JJ pro-democracy) (NNS demonstrations)) (PP (IN in) (NP (NNP Iran))))) (. .)))
+ForforINOPER0aaDTDATEPER0weekweekNNDATEPER0nownowRBOPER0,,,OPER0protestersprotesterNNSOPER0havehaveVBPOPER0beenbeVBNOPER0clashingclashVBGOPER0withwithINOPER0policepoliceNNSOPER0andandCCOPER0backersbackerNNSOPER0ofofINOPER0thetheDTOPER0clericalclericalJJOPER0regimeregimeNNOPER0ininINOPER0TehranTehranNNPGPEPER0...OPER0(ROOT (S (PP (IN For) (NP (NP (DT a) (NN week)) (ADVP (RB now)))) (, ,) (NP (NNS protesters)) (VP (VBP have) (VP (VBN been) (VP (VBG clashing) (PP (IN with) (NP (NP (NNS police) (CC and) (NNS backers)) (PP (IN of) (NP (NP (DT the) (JJ clerical) (NN regime)) (PP (IN in) (NP (NNP Tehran)))))))))) (. .)))
+IninINOPER0turnturnNNOPER0,,,OPER0thetheDTOPER0IranianiranianJJOPER0governmentgovernmentNNOPER0hashaveVBZOPER0accusedaccuseVBNOPER0thetheDTOPER0BushBushNNPPERSONPER0administrationadministrationNNOPER0ofofINOPER0providingprovideVBGOPER0materialmaterialNNOPER0supportsupportNNOPER0totoINOPER0thetheDTOPER0protestersprotesterNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (NN turn))) (, ,) (NP (DT the) (JJ Iranian) (NN government)) (VP (VBZ has) (VP (VBN accused) (NP (DT the) (NNP Bush) (NN administration)) (PP (IN of) (S (VP (VBG providing) (NP (NN material) (NN support)) (PP (IN to) (NP (DT the) (NNS protesters)))))))) (. .)))
+ThetheDTOPER0StateStateNNPORGPER0DepartmentDepartmentNNPORGPER0spokesmanspokesmanNNOPER0sayssayVBZOPER0thetheDTOPER0demonstrationsdemonstrationNNSOPER0arebeVBPOPER0aboutaboutINOPER0IranIranNNPGPEPER0andandCCOPER0IraniansIraniansNNPSOPER0,,,OPER0andandCCOPER0havehaveVBPOPER0nothingnothingNNOPER0totoTOOPER0dodoVBOPER0withwithINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0,,,OPER0butbutCCOPER0hehePRPOPER0diddoVBDOPER0makemakeVBOPER0ititPRPOPER0clearclearJJOPER0wherewhereWRBOPER0U.S.U.S.NNPGPEPER0sympathiessympathyNNSOPER0lielieVBPOPER0...OPER0(ROOT (S (S (NP (DT The) (NML (NNP State) (NNP Department)) (NN spokesman)) (VP (VBZ says) (SBAR (S (NP (DT the) (NNS demonstrations)) (VP (VP (VBP are) (PP (IN about) (NP (NNP Iran) (CC and) (NNPS Iranians)))) (, ,) (CC and) (VP (VBP have) (NP (NP (NN nothing)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (DT the) (NNP U.S.)))))))))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD did) (VP (VB make) (S (NP (PRP it)) (ADJP (JJ clear) (SBAR (WHADVP (WRB where)) (S (NP (NNP U.S.) (NNS sympathies)) (VP (VBP lie))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Bush) (NN administration))
+sid=0 spanning 6 until 11 headed by 8 parsed as (NP (DT the) (JJ pro-democracy) (NNS demonstrations))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Iran))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNS protesters))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ Iranian) (NN government))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Bush) (NN administration))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NNS protesters))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP State) (NNP Department)) (NN spokesman))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS demonstrations))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP Iran) (CC and) (NNPS Iranians))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Bush) (NN administration))
+sid=0 spanning 1 until 2 headed by 1 parsed as Bush
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (JJ pro-democracy) (NNS demonstrations))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Iran))
+sid=1 spanning 1 until 4 headed by 2 parsed as (NP (NP (DT a) (NN week)) (ADVP (RB now)))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNS protesters))
+sid=1 spanning 10 until 19 headed by 10 parsed as (NP (NP (NNS police) (CC and) (NNS backers)) (PP (IN of) (NP (NP (DT the) (JJ clerical) (NN regime)) (PP (IN in) (NP (NNP Tehran))))))
+sid=1 spanning 14 until 19 headed by 16 parsed as (NP (NP (DT the) (JJ clerical) (NN regime)) (PP (IN in) (NP (NNP Tehran))))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (NNP Tehran))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ Iranian) (NN government))
+sid=2 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (NNP Bush) (NN administration))
+sid=2 spanning 9 until 10 headed by 9 parsed as Bush
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (NN material) (NN support))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NNS protesters))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP State) (NNP Department)) (NN spokesman))
+sid=3 spanning 1 until 3 headed by 2 parsed as Department
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS demonstrations))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP Iran) (CC and) (NNPS Iranians))
+sid=3 spanning 9 until 12 headed by 9 parsed as (NP (NNP Iran) (CC and) (NNPS Iranians))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NNP U.S.))
+sid=3 spanning 23 until 24 headed by 23 parsed as (NP (PRP he))
+sid=3 spanning 26 until 27 headed by 26 parsed as (NP (PRP it))
+sid=3 spanning 29 until 31 headed by 30 parsed as (NP (NNP U.S.) (NNS sympathies))
+(end predicted mentions)
+---------gold clusters--------
+7 10 | { 'The State Department spokesman' 'he' }
+1 8 | { 'the pro-democracy demonstrations in Iran' 'the demonstrations' }
+5 0 | { 'the Bush administration' 'The Bush administration' }
+2 9 4 | { 'Iran' 'Iran' 'the Iranian government' }
+3 6 | { 'protesters' 'the protesters' }
+(end gold clusters)

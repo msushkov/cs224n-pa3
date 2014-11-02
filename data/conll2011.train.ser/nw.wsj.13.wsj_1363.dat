@@ -1,0 +1,95 @@
+---------gloss--------
+(0) [3m[36m{First Executive Corp.}[0m said [4m[32m{about 96 % of the rights to purchase its depositary shares and warrants}[0m have been exercised . 
+(1) Of [4m[31m{the 17.6 million rights units issued}[0m , [4m[32m{just under 17 million}[0m were exercised before the Oct. 10 expiration of [3m[35m{the offering}[0m , [3m[36m{the insurance holding company}[0m said . 
+(2) Remaining units will be sold to the underwriters , Drexel Burnham Lambert Inc. and Kidder , Peabody & Co. , which will also purchase an over - allotment of 2.3 million additional units . 
+(3) [3m[36m{First Executive}[0m said [3m[35m{the offering}[0m will raise about $ 299 million -- minus underwriting fees and other expenses -- that [3m[36m{the company}[0m plans to use to write new life insurance and annuity business . 
+(4) In addition , analysts have viewed [3m[35m{the rights offering}[0m as a takeover defense that prospectively balloons the number of shares outstanding . 
+(5) Each of [4m[31m{the units}[0m consists of two warrants , each of which could be used to purchase a half - share of common stock , and one depositary preference share . 
+(6) Depositary shares are convertible into common stock on a 1 - to - 1 basis . 
+(7) Currently , [3m[36m{the company}[0m has about 88.1 million common shares outstanding . 
+(8) In over - the - counter trading Monday , the stock closed at $ 10.625 , off 37.5 cents . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1363); part 000
+sentences:
+FirstFirstNNPORGPER0ExecutiveExecutiveNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0aboutaboutRBPERCENTPER09696CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thetheDTOPER0rightsrightsNNSOPER0totoTOOPER0purchasepurchaseVBOPER0itsitsPRP$OPER0depositarydepositaryJJOPER0sharesshareNNSOPER0andandCCOPER0warrantswarrantNNSOPER0havehaveVBPOPER0beenbeVBNOPER0exercisedexerciseVBNOPER0...OPER0(ROOT (S (NP (NNP First) (NNP Executive) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NP (QP (RB about) (CD 96)) (NN %)) (PP (IN of) (NP (NP (NP (DT the) (NNS rights)) (SBAR (S (VP (TO to) (VP (VB purchase) (NP (PRP$ its) (JJ depositary) (NNS shares))))))) (CC and) (NP (NNS warrants))))) (VP (VBP have) (VP (VBN been) (VP (VBN exercised))))))) (. .)))
+OfofINOPER0thetheDTOPER017.617.6CDCARDINALPER0millionmillionCDCARDINALPER0rightsrightsNNSOPER0unitsunitNNSOPER0issuedissueVBNOPER0,,,OPER0justjustRBCARDINALPER0underunderINCARDINALPER01717CDCARDINALPER0millionmillionCDCARDINALPER0werebeVBDOPER0exercisedexerciseVBNOPER0beforebeforeINOPER0thetheDTOPER0Oct.Oct.NNPDATEPER01010CDDATEPER0expirationexpirationNNOPER0ofofINOPER0thetheDTOPER0offeringofferingNNOPER0,,,OPER0thetheDTOPER0insuranceinsuranceNNOPER0holdingholdVBGOPER0companycompanyNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (PP (IN Of) (NP (NP (DT the) (NML (QP (CD 17.6) (CD million)) (NNS rights)) (NNS units)) (VP (VBN issued)))) (, ,) (NP (QP (XS (RB just) (IN under)) (CD 17) (CD million))) (VP (VBD were) (VP (VBN exercised) (PP (IN before) (NP (NP (DT the) (NML (NNP Oct.) (CD 10)) (NN expiration)) (PP (IN of) (NP (DT the) (NN offering)))))))) (, ,) (NP (DT the) (ADJP (NN insurance) (VBG holding)) (NN company)) (VP (VBD said)) (. .)))
+RemainingremainVBGOPER0unitsunitNNSOPER0willwillMDOPER0bebeVBOPER0soldsellVBNOPER0totoINOPER0thetheDTOPER0underwritersunderwriterNNSOPER0,,,OPER0DrexelDrexelNNPORGPER0BurnhamBurnhamNNPORGPER0LambertLambertNNPORGPER0Inc.Inc.NNPORGPER0andandCCOPER0KidderKidderNNPORGPER0,,,ORGPER0PeabodyPeabodyNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0,,,OPER0whichwhichWDTOPER0willwillMDOPER0alsoalsoRBOPER0purchasepurchaseVBOPER0anaDTOPER0overoverNNOPER0--HYPHOPER0allotmentallotmentNNOPER0ofofINOPER02.32.3CDCARDINALPER0millionmillionCDCARDINALPER0additionaladditionalJJOPER0unitsunitNNSOPER0...OPER0(ROOT (S (NP (VBG Remaining) (NNS units)) (VP (MD will) (VP (VB be) (VP (VBN sold) (PP (IN to) (NP (NP (DT the) (NNS underwriters)) (, ,) (NP (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.)) (CC and) (NP (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB also)) (VP (VB purchase) (NP (NP (DT an) (NN over) (HYPH -) (NN allotment)) (PP (IN of) (NP (QP (CD 2.3) (CD million)) (JJ additional) (NNS units))))))))))))))) (. .)))
+FirstFirstNNPORGPER0ExecutiveExecutiveNNPORGPER0saidsayVBDOPER0thetheDTOPER0offeringofferingNNOPER0willwillMDOPER0raiseraiseVBOPER0aboutaboutRBMONEYPER0$$$MONEYPER0299299CDMONEYPER0millionmillionCDMONEYPER0----:OPER0minusminusJJOPER0underwritingunderwritingNNOPER0feesfeeNNSOPER0andandCCOPER0otherotherJJOPER0expensesexpenseNNSOPER0----:OPER0thatthatINOPER0thetheDTOPER0companycompanyNNOPER0plansplanVBZOPER0totoTOOPER0useuseVBOPER0totoTOOPER0writewriteVBOPER0newnewJJOPER0lifelifeNNOPER0insuranceinsuranceNNOPER0andandCCOPER0annuityannuityNNOPER0businessbusinessNNOPER0...OPER0(ROOT (S (NP (NNP First) (NNP Executive)) (VP (VBD said) (SBAR (S (NP (DT the) (NN offering)) (VP (MD will) (VP (VB raise) (NP (NP (QP (RB about) ($ $) (CD 299) (CD million))) (: --) (NP (NP (JJ minus) (NN underwriting) (NNS fees)) (CC and) (NP (JJ other) (NNS expenses))) (: --)) (SBAR (IN that) (S (NP (DT the) (NN company)) (VP (VBZ plans) (S (VP (TO to) (VP (VB use) (S (VP (TO to) (VP (VB write) (NP (JJ new) (NML (NML (NN life) (NN insurance)) (CC and) (NML (NN annuity))) (NN business)))))))))))))))) (. .)))
+IninINOPER0additionadditionNNOPER0,,,OPER0analystsanalystNNSOPER0havehaveVBPOPER0viewedviewVBNOPER0thetheDTOPER0rightsrightsNNSOPER0offeringofferingNNOPER0asasINOPER0aaDTOPER0takeovertakeoverNNOPER0defensedefenseNNOPER0thatthatINOPER0prospectivelyprospectivelyRBOPER0balloonsballoonNNSOPER0thetheDTOPER0numbernumberNNOPER0ofofINOPER0sharesshareNNSOPER0outstandingoutstandingJJOPER0...OPER0(ROOT (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNS analysts)) (VP (VBP have) (VP (VBN viewed) (NP (DT the) (NNS rights) (NN offering)) (PP (IN as) (NP (NP (DT a) (NN takeover) (NN defense)) (SBAR (WHNP (IN that)) (S (ADVP (RB prospectively)) (VP (NNS balloons) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS shares)) (ADJP (JJ outstanding)))))))))))) (. .)))
+EacheachDTOPER0ofofINOPER0thetheDTOPER0unitsunitNNSOPER0consistsconsistVBZOPER0ofofINOPER0twotwoCDCARDINALPER0warrantswarrantNNSOPER0,,,OPER0eacheachDTOPER0ofofINOPER0whichwhichWDTOPER0couldcouldMDOPER0bebeVBOPER0useduseVBNOPER0totoTOOPER0purchasepurchaseVBOPER0aaDTOPER0halfhalfNNCARDINALPER0--HYPHOPER0shareshareNNOPER0ofofINOPER0commoncommonJJOPER0stockstockNNOPER0,,,OPER0andandCCOPER0oneoneCDCARDINALPER0depositarydepositaryJJOPER0preferencepreferenceNNOPER0shareshareNNOPER0...OPER0(ROOT (S (NP (NP (DT Each)) (PP (IN of) (NP (DT the) (NNS units)))) (VP (VBZ consists) (PP (IN of) (NP (NP (NP (CD two) (NNS warrants)) (, ,) (SBAR (WHNP (WHNP (DT each)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (MD could) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB purchase) (NP (NP (DT a) (NN half) (HYPH -) (NN share)) (PP (IN of) (NP (JJ common) (NN stock)))))))))))) (, ,)) (CC and) (NP (CD one) (NML (JJ depositary) (NN preference)) (NN share))))) (. .)))
+DepositarydepositaryJJOPER0sharesshareNNSOPER0arebeVBPOPER0convertibleconvertibleJJOPER0intointoINOPER0commoncommonJJOPER0stockstockNNOPER0ononINOPER0aaDTOPER011CDCARDINALPER0--HYPHCARDINALPER0totoTOCARDINALPER0--HYPHCARDINALPER011CDCARDINALPER0basisbasisNNOPER0...OPER0(ROOT (S (NP (JJ Depositary) (NNS shares)) (VP (VBP are) (ADJP (JJ convertible) (PP (IN into) (NP (JJ common) (NN stock)))) (PP (IN on) (NP (DT a) (NML (QP (CD 1) (HYPH -) (TO to) (HYPH -) (CD 1))) (NN basis)))) (. .)))
+CurrentlycurrentlyRBOPER0,,,OPER0thetheDTOPER0companycompanyNNOPER0hashaveVBZOPER0aboutaboutRBCARDINALPER088.188.1CDCARDINALPER0millionmillionCDCARDINALPER0commoncommonJJOPER0sharesshareNNSOPER0outstandingoutstandingJJOPER0...OPER0(ROOT (S (ADVP (RB Currently)) (, ,) (NP (DT the) (NN company)) (VP (VBZ has) (NP (NP (QP (RB about) (CD 88.1) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
+IninINOPER0overoverINCARDINALPER0--HYPHOPER0thetheDTCARDINALPER0--HYPHOPER0countercounterNNOPER0tradingtradingNNOPER0MondayMondayNNPDATEPER0,,,OPER0thetheDTOPER0stockstockNNOPER0closedcloseVBDOPER0atatINOPER0$$$MONEYPER010.62510.625CDMONEYPER0,,,OPER0offoffINOPER037.537.5CDMONEYPER0centscentNNSMONEYPER0...OPER0(ROOT (S (PP (IN In) (NP (NML (PP (IN over) (HYPH -) (NP (DT the) (HYPH -) (NN counter)))) (NN trading))) (NP (NNP Monday)) (, ,) (NP (DT the) (NN stock)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 10.625))) (, ,) (PP (IN off) (NP (CD 37.5) (NNS cents)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP First) (NNP Executive) (NNP Corp.))
+sid=0 spanning 4 until 17 headed by 6 parsed as (NP (NP (QP (RB about) (CD 96)) (NN %)) (PP (IN of) (NP (NP (NP (DT the) (NNS rights)) (SBAR (S (VP (TO to) (VP (VB purchase) (NP (PRP$ its) (JJ depositary) (NNS shares))))))) (CC and) (NP (NNS warrants)))))
+sid=0 spanning 8 until 17 headed by 9 parsed as (NP (NP (NP (DT the) (NNS rights)) (SBAR (S (VP (TO to) (VP (VB purchase) (NP (PRP$ its) (JJ depositary) (NNS shares))))))) (CC and) (NP (NNS warrants)))
+sid=0 spanning 12 until 13 headed by 12 parsed as its
+sid=1 spanning 1 until 7 headed by 5 parsed as (NP (NP (DT the) (NML (QP (CD 17.6) (CD million)) (NNS rights)) (NNS units)) (VP (VBN issued)))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (QP (XS (RB just) (IN under)) (CD 17) (CD million)))
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN offering))
+sid=1 spanning 23 until 27 headed by 26 parsed as (NP (DT the) (ADJP (NN insurance) (VBG holding)) (NN company))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP First) (NNP Executive))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN offering))
+sid=3 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN company))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNS rights) (NN offering))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS units))
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP First) (NNP Executive) (NNP Corp.))
+sid=0 spanning 8 until 17 headed by 9 parsed as (NP (NP (NP (DT the) (NNS rights)) (SBAR (S (VP (TO to) (VP (VB purchase) (NP (PRP$ its) (JJ depositary) (NNS shares))))))) (CC and) (NP (NNS warrants)))
+sid=0 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT the) (NNS rights)) (SBAR (S (VP (TO to) (VP (VB purchase) (NP (PRP$ its) (JJ depositary) (NNS shares)))))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (PRP$ its) (JJ depositary) (NNS shares))
+sid=0 spanning 12 until 13 headed by 12 parsed as (PRP$ its)
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNS warrants))
+sid=1 spanning 1 until 7 headed by 5 parsed as (NP (NP (DT the) (NML (QP (CD 17.6) (CD million)) (NNS rights)) (NNS units)) (VP (VBN issued)))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (QP (XS (RB just) (IN under)) (CD 17) (CD million)))
+sid=1 spanning 15 until 22 headed by 18 parsed as (NP (NP (DT the) (NML (NNP Oct.) (CD 10)) (NN expiration)) (PP (IN of) (NP (DT the) (NN offering))))
+sid=1 spanning 16 until 18 headed by 16 parsed as Oct.
+sid=1 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN offering))
+sid=1 spanning 23 until 27 headed by 26 parsed as (NP (DT the) (ADJP (NN insurance) (VBG holding)) (NN company))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (VBG Remaining) (NNS units))
+sid=2 spanning 6 until 33 headed by 7 parsed as (NP (NP (DT the) (NNS underwriters)) (, ,) (NP (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.)) (CC and) (NP (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB also)) (VP (VB purchase) (NP (NP (DT an) (NN over) (HYPH -) (NN allotment)) (PP (IN of) (NP (QP (CD 2.3) (CD million)) (JJ additional) (NNS units)))))))))))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS underwriters))
+sid=2 spanning 9 until 13 headed by 12 parsed as (NP (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.)) (CC and) (NP (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB also)) (VP (VB purchase) (NP (NP (DT an) (NN over) (HYPH -) (NN allotment)) (PP (IN of) (NP (QP (CD 2.3) (CD million)) (JJ additional) (NNS units))))))))))
+sid=2 spanning 9 until 33 headed by 12 parsed as (NP (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.)) (CC and) (NP (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB also)) (VP (VB purchase) (NP (NP (DT an) (NN over) (HYPH -) (NN allotment)) (PP (IN of) (NP (QP (CD 2.3) (CD million)) (JJ additional) (NNS units))))))))))
+sid=2 spanning 14 until 19 headed by 14 parsed as (NP (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB also)) (VP (VB purchase) (NP (NP (DT an) (NN over) (HYPH -) (NN allotment)) (PP (IN of) (NP (QP (CD 2.3) (CD million)) (JJ additional) (NNS units)))))))))
+sid=2 spanning 14 until 33 headed by 14 parsed as (NP (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB also)) (VP (VB purchase) (NP (NP (DT an) (NN over) (HYPH -) (NN allotment)) (PP (IN of) (NP (QP (CD 2.3) (CD million)) (JJ additional) (NNS units)))))))))
+sid=2 spanning 24 until 33 headed by 27 parsed as (NP (NP (DT an) (NN over) (HYPH -) (NN allotment)) (PP (IN of) (NP (QP (CD 2.3) (CD million)) (JJ additional) (NNS units))))
+sid=2 spanning 29 until 33 headed by 32 parsed as (NP (QP (CD 2.3) (CD million)) (JJ additional) (NNS units))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP First) (NNP Executive))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN offering))
+sid=3 spanning 12 until 18 headed by 14 parsed as (NP (NP (JJ minus) (NN underwriting) (NNS fees)) (CC and) (NP (JJ other) (NNS expenses)))
+sid=3 spanning 12 until 15 headed by 14 parsed as (NP (JJ minus) (NN underwriting) (NNS fees))
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (JJ other) (NNS expenses))
+sid=3 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN company))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNS analysts))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNS rights) (NN offering))
+sid=4 spanning 10 until 21 headed by 12 parsed as (NP (NP (DT a) (NN takeover) (NN defense)) (SBAR (WHNP (IN that)) (S (ADVP (RB prospectively)) (VP (NNS balloons) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS shares)) (ADJP (JJ outstanding)))))))))
+sid=4 spanning 16 until 21 headed by 17 parsed as (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS shares)) (ADJP (JJ outstanding)))))
+sid=5 spanning 0 until 4 headed by 0 parsed as (NP (NP (DT Each)) (PP (IN of) (NP (DT the) (NNS units))))
+sid=5 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS units))
+sid=5 spanning 6 until 30 headed by 7 parsed as (NP (NP (NP (CD two) (NNS warrants)) (, ,) (SBAR (WHNP (WHNP (DT each)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (MD could) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB purchase) (NP (NP (DT a) (NN half) (HYPH -) (NN share)) (PP (IN of) (NP (JJ common) (NN stock)))))))))))) (, ,)) (CC and) (NP (CD one) (NML (JJ depositary) (NN preference)) (NN share)))
+sid=5 spanning 6 until 25 headed by 7 parsed as (NP (NP (CD two) (NNS warrants)) (, ,) (SBAR (WHNP (WHNP (DT each)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (MD could) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB purchase) (NP (NP (DT a) (NN half) (HYPH -) (NN share)) (PP (IN of) (NP (JJ common) (NN stock)))))))))))) (, ,))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (CD two) (NNS warrants))
+sid=5 spanning 17 until 24 headed by 20 parsed as (NP (NP (DT a) (NN half) (HYPH -) (NN share)) (PP (IN of) (NP (JJ common) (NN stock))))
+sid=5 spanning 26 until 30 headed by 29 parsed as (NP (CD one) (NML (JJ depositary) (NN preference)) (NN share))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (JJ Depositary) (NNS shares))
+sid=6 spanning 8 until 15 headed by 14 parsed as (NP (DT a) (NML (QP (CD 1) (HYPH -) (TO to) (HYPH -) (CD 1))) (NN basis))
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN company))
+sid=7 spanning 5 until 11 headed by 9 parsed as (NP (NP (QP (RB about) (CD 88.1) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding)))
+sid=8 spanning 1 until 7 headed by 6 parsed as (NP (NML (PP (IN over) (HYPH -) (NP (DT the) (HYPH -) (NN counter)))) (NN trading))
+sid=8 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (HYPH -) (NN counter))
+sid=8 spanning 7 until 8 headed by 7 parsed as (NP (NNP Monday))
+sid=8 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN stock))
+(end predicted mentions)
+---------gold clusters--------
+9 11 6 | { 'the offering' 'the rights offering' 'the offering' }
+7 10 3 8 13 0 | { 'the insurance holding company' 'the company' 'its' 'First Executive' 'the company' 'First Executive Corp.' }
+12 4 2 | { 'the units' 'the 17.6 million rights units issued' 'the rights to purchase its depositary shares and warrants' }
+1 5 | { 'about 96 % of the rights to purchase its depositary shares and warrants' 'just under 17 million' }
+(end gold clusters)

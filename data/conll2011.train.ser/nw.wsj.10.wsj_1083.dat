@@ -1,0 +1,67 @@
+---------gloss--------
+(0) [1m[31m{Coda Energy Inc.}[0m said [1m[31m{it}[0m completed the sale of [1m[35m{Phenix - Transmission Co.}[0m to [1m[32m{Bishop Pipeline Co.}[0m , for [1m[34m{$ 17 million in cash and notes}[0m . 
+(1) [1m[31m{Coda , an oil and gas concern ,}[0m said [1m[31m{it}[0m and [1m[31m{its}[0m partners received [1m[34m{$ 7 million in cash and $ 10 million in five - year notes}[0m for [1m[35m{the Kansas intrastate pipeline}[0m . 
+(2) [1m[31m{Coda}[0m owned 60 % of [1m[35m{the pipeline}[0m and private entities owned the rest . 
+(3) [1m[32m{Bishop}[0m is based in Hutchinson , [1m[33m{Kansas}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1083); part 000
+sentences:
+CodaCodaNNPORGPER0EnergyEnergyNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0completedcompleteVBDOPER0thetheDTOPER0salesaleNNOPER0ofofINOPER0PhenixPhenixNNPORGPER0--HYPHORGPER0TransmissionTransmissionNNPORGPER0Co.Co.NNPORGPER0totoINOPER0BishopBishopNNPORGPER0PipelinePipelineNNPORGPER0Co.Co.NNPORGPER0,,,OPER0forforINOPER0$$$MONEYPER01717CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0cashcashNNOPER0andandCCOPER0notesnoteNNSOPER0...OPER0(ROOT (S (NP (NNP Coda) (NNP Energy) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD completed) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NNP Phenix) (HYPH -) (NNP Transmission) (NNP Co.))) (PP (IN to) (NP (NNP Bishop) (NNP Pipeline) (NNP Co.)))) (, ,) (PP (IN for) (NP (NP (QP ($ $) (CD 17) (CD million))) (PP (IN in) (NP (NP (NN cash)) (CC and) (NP (NNS notes)))))))))) (. .)))
+CodaCodaNNPORGPER0,,,OPER0anaDTOPER0oiloilNNOPER0andandCCOPER0gasgasNNOPER0concernconcernNNOPER0,,,OPER0saidsayVBDOPER0ititPRPOPER0andandCCOPER0itsitsPRP$OPER0partnerspartnerNNSOPER0receivedreceiveVBDOPER0$$$MONEYPER077CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0cashcashNNOPER0andandCCOPER0$$$MONEYPER01010CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0fivefiveCDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0notesnoteNNSOPER0forforINOPER0thetheDTOPER0KansasKansasNNPGPEPER0intrastateintrastateNNOPER0pipelinepipelineNNOPER0...OPER0(ROOT (S (NP (NP (NNP Coda)) (, ,) (NP (DT an) (NML (NN oil) (CC and) (NN gas)) (NN concern)) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (PRP it)) (CC and) (NP (PRP$ its) (NNS partners))) (VP (VBD received) (NP (NP (NP (QP ($ $) (CD 7) (CD million))) (PP (IN in) (NP (NN cash)))) (CC and) (NP (NP (QP ($ $) (CD 10) (CD million))) (PP (IN in) (NP (NML (CD five) (HYPH -) (NN year)) (NNS notes))))) (PP (IN for) (NP (DT the) (NML (NNP Kansas) (NN intrastate)) (NN pipeline))))))) (. .)))
+CodaCodaNNPORGPER0ownedownVBDOPER06060CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0thetheDTOPER0pipelinepipelineNNOPER0andandCCOPER0privateprivateJJOPER0entitiesentityNNSOPER0ownedownVBDOPER0thetheDTOPER0restrestNNOPER0...OPER0(ROOT (S (S (NP (NNP Coda)) (VP (VBD owned) (NP (NP (CD 60) (NN %)) (PP (IN of) (NP (DT the) (NN pipeline)))))) (CC and) (S (NP (JJ private) (NNS entities)) (VP (VBD owned) (NP (DT the) (NN rest)))) (. .)))
+BishopBishopNNPORGPER0isbeVBZOPER0basedbaseVBNOPER0ininINOPER0HutchinsonHutchinsonNNPGPEPER0,,,OPER0KansasKansasNNPGPEPER0...OPER0(ROOT (S (NP (NNP Bishop)) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Hutchinson)) (, ,) (NP (NNP Kansas)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Coda) (NNP Energy) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (NNP Phenix) (HYPH -) (NNP Transmission) (NNP Co.))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (NNP Bishop) (NNP Pipeline) (NNP Co.))
+sid=0 spanning 19 until 26 headed by 19 parsed as (NP (NP (QP ($ $) (CD 17) (CD million))) (PP (IN in) (NP (NP (NN cash)) (CC and) (NP (NNS notes)))))
+sid=1 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNP Coda)) (, ,) (NP (DT an) (NML (NN oil) (CC and) (NN gas)) (NN concern)) (, ,))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NP (PRP it)) (CC and) (NP (PRP$ its) (NNS partners)))
+sid=1 spanning 11 until 12 headed by 11 parsed as its
+sid=1 spanning 14 until 28 headed by 14 parsed as (NP (NP (NP (QP ($ $) (CD 7) (CD million))) (PP (IN in) (NP (NN cash)))) (CC and) (NP (NP (QP ($ $) (CD 10) (CD million))) (PP (IN in) (NP (NML (CD five) (HYPH -) (NN year)) (NNS notes)))))
+sid=1 spanning 29 until 33 headed by 32 parsed as (NP (DT the) (NML (NNP Kansas) (NN intrastate)) (NN pipeline))
+sid=1 spanning 30 until 31 headed by 30 parsed as Kansas
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Coda))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN pipeline))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Bishop))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Kansas))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Coda) (NNP Energy) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 17 headed by 7 parsed as (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NNP Phenix) (HYPH -) (NNP Transmission) (NNP Co.))) (PP (IN to) (NP (NNP Bishop) (NNP Pipeline) (NNP Co.))))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (NNP Phenix) (HYPH -) (NNP Transmission) (NNP Co.))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (NNP Bishop) (NNP Pipeline) (NNP Co.))
+sid=0 spanning 23 until 26 headed by 23 parsed as (NP (NP (NN cash)) (CC and) (NP (NNS notes)))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNS notes))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Coda)) (, ,) (NP (DT an) (NML (NN oil) (CC and) (NN gas)) (NN concern)) (, ,))
+sid=1 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNP Coda)) (, ,) (NP (DT an) (NML (NN oil) (CC and) (NN gas)) (NN concern)) (, ,))
+sid=1 spanning 2 until 7 headed by 6 parsed as (NP (DT an) (NML (NN oil) (CC and) (NN gas)) (NN concern))
+sid=1 spanning 9 until 13 headed by 9 parsed as (NP (NP (PRP it)) (CC and) (NP (PRP$ its) (NNS partners)))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (PRP$ its) (NNS partners))
+sid=1 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=1 spanning 24 until 28 headed by 27 parsed as (NP (NML (CD five) (HYPH -) (NN year)) (NNS notes))
+sid=1 spanning 24 until 27 headed by 26 parsed as year
+sid=1 spanning 29 until 33 headed by 32 parsed as (NP (DT the) (NML (NNP Kansas) (NN intrastate)) (NN pipeline))
+sid=1 spanning 30 until 31 headed by 30 parsed as Kansas
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Coda))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN pipeline))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (JJ private) (NNS entities))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN rest))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Bishop))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NP (NNP Hutchinson)) (, ,) (NP (NNP Kansas)))
+sid=3 spanning 4 until 7 headed by 4 parsed as (NP (NP (NNP Hutchinson)) (, ,) (NP (NNP Kansas)))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Kansas))
+(end predicted mentions)
+---------gold clusters--------
+11 5 1 6 7 0 | { 'Coda' 'Coda , an oil and gas concern ,' 'it' 'it' 'its' 'Coda Energy Inc.' }
+13 3 | { 'Bishop' 'Bishop Pipeline Co.' }
+14 10 | { 'Kansas' 'Kansas' }
+8 4 | { '$ 7 million in cash and $ 10 million in five - year notes' '$ 17 million in cash and notes' }
+12 2 9 | { 'the pipeline' 'Phenix - Transmission Co.' 'the Kansas intrastate pipeline' }
+(end gold clusters)

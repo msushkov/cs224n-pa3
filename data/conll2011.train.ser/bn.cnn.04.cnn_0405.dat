@@ -1,0 +1,67 @@
+---------gloss--------
+(0) Reports showing a rebound in New York 's manufacturing sector is helping to fuel that optimism today . 
+(1) Right now the Dow Jones industrial average with [1m[35m{a triple - digit gain}[0m , up [1m[35m{137}[0m . 
+(2) [1m[35m{The blue chip advance}[0m is being led by manufacturers 3M and Caterpillar , as well as Merck and Johnson & Johnson , and the Nasdaq composite is adding more than 1.5 % . 
+(3) Meantime , shares of [3m[31m{Kmart}[0m are surging nearly $ 3 . 
+(4) [3m[31m{It}[0m [1m[36m{lost}[0m $ 862 million in the first quarter , but [1m[36m{that}[0m 's much better than [3m[31m{the retailer}[0m did a year ago when [3m[31m{it}[0m was under bankruptcy protection . 
+(5) That 's the very latest from Wall Street . 
+(end gloss)
+---------document--------
+(bn/cnn/04/cnn_0405); part 000
+sentences:
+ReportsreportNNSOPER0showingshowVBGOPER0aaDTOPER0reboundreboundNNOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0's'sPOSOPER0manufacturingmanufacturingNNOPER0sectorsectorNNOPER0isbeVBZOPER0helpinghelpVBGOPER0totoTOOPER0fuelfuelVBOPER0thatthatDTOPER0optimismoptimismNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (FRAG (NP (NNS Reports)) (VP (VBG showing) (SBAR (S (NP (NP (NP (DT a) (NN rebound)) (PP (IN in) (NP (NNP New) (NNP York))) (POS 's)) (NN manufacturing) (NN sector)) (VP (VBZ is) (VP (VBG helping) (S (VP (TO to) (VP (VB fuel) (NP (DT that) (NN optimism)) (NP (NN today)))))))))) (. .)))
+RightrightRBOPER0nownowRBOPER0thetheDTOPER0DowDowNNPOPER0JonesJonesNNPOPER0industrialindustrialJJOPER0averageaverageNNOPER0withwithINOPER0aaDTOPER0tripletripleJJOPER0--HYPHOPER0digitdigitNNOPER0gaingainNNOPER0,,,OPER0upupRBOPER0137137CDCARDINALPER0...OPER0(ROOT (FRAG (ADVP (RB Right) (RB now)) (NP (DT the) (NML (NNP Dow) (NNP Jones)) (JJ industrial) (NN average)) (PP (IN with) (NP (NP (DT a) (NML (JJ triple) (HYPH -) (NN digit)) (NN gain)) (, ,) (ADVP (RB up) (NP (CD 137))))) (. .)))
+ThetheDTOPER0blueblueJJOPER0chipchipNNOPER0advanceadvanceNNOPER0isbeVBZOPER0beingbeVBGOPER0ledleadVBNOPER0bybyINOPER0manufacturersmanufacturerNNSOPER03M3MNNPOPER0andandCCOPER0CaterpillarCaterpillarNNPORGPER0,,,OPER0asasRBOPER0wellwellRBOPER0asasINOPER0MerckMerckNNPORGPER0andandCCOPER0JohnsonJohnsonNNPPERSONPER0&&CCPERSONPER0JohnsonJohnsonNNPPERSONPER0,,,OPER0andandCCOPER0thetheDTOPER0NasdaqNasdaqNNPOPER0compositecompositeNNOPER0isbeVBZOPER0addingaddVBGOPER0moremoreJJROPER0thanthanINOPER01.51.5CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (S (NP (DT The) (NML (JJ blue) (NN chip)) (NN advance)) (VP (VBZ is) (VP (VBG being) (VP (VBN led) (PP (IN by) (NP (NP (NNS manufacturers) (NNP 3M) (CC and) (NNP Caterpillar)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNP Merck)) (CC and) (NP (NNP Johnson) (CC &) (NNP Johnson))))))))) (, ,) (CC and) (S (NP (DT the) (NNP Nasdaq) (NN composite)) (VP (VBZ is) (VP (VBG adding) (NP (QP (XS (JJR more) (IN than)) (CD 1.5)) (NN %))))) (. .)))
+MeantimemeantimeRBOPER0,,,OPER0sharesshareNNSOPER0ofofINOPER0KmartKmartNNPORGPER0arebeVBPOPER0surgingsurgeVBGOPER0nearlynearlyRBMONEYPER0$$$MONEYPER033CDMONEYPER0...OPER0(ROOT (S (ADVP (RB Meantime)) (, ,) (NP (NP (NNS shares)) (PP (IN of) (NP (NNP Kmart)))) (VP (VBP are) (VP (VBG surging) (NP (QP (RB nearly) ($ $) (CD 3))))) (. .)))
+ItitPRPOPER0lostloseVBDOPER0$$$MONEYPER0862862CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0thetheDTDATEPER0firstfirstJJDATEPER0quarterquarterNNDATEPER0,,,OPER0butbutCCOPER0thatthatDTOPER0'sbeVBZOPER0muchmuchRBOPER0betterbetterJJROPER0thanthanINOPER0thetheDTOPER0retailerretailerNNOPER0diddoVBDOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0whenwhenWRBOPER0ititPRPOPER0wasbeVBDOPER0underunderINOPER0bankruptcybankruptcyNNOPER0protectionprotectionNNOPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBD lost) (NP (NP (QP ($ $) (CD 862) (CD million))) (PP (IN in) (NP (DT the) (JJ first) (NN quarter)))))) (, ,) (CC but) (S (NP (DT that)) (VP (VBZ 's) (ADJP (ADJP (RB much) (JJR better)) (SBAR (IN than) (S (NP (DT the) (NN retailer)) (VP (VBD did) (ADVP (NP (DT a) (NN year)) (RB ago)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD was) (PP (IN under) (NP (NN bankruptcy) (NN protection)))))))))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0thetheDTOPER0veryveryRBOPER0latestlatestJJSOPER0fromfromINOPER0WallWallNNPOPER0StreetStreetNNPOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT the) (ADJP (RB very) (JJS latest))) (PP (IN from) (NP (NNP Wall) (NNP Street))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 8 until 13 headed by 12 parsed as (NP (NP (DT a) (NML (JJ triple) (HYPH -) (NN digit)) (NN gain)) (, ,) (ADVP (RB up) (NP (CD 137))))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (CD 137))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (JJ blue) (NN chip)) (NN advance))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Kmart))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 1 until 2 headed by 1 parsed as lost
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (DT that))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN retailer))
+sid=4 spanning 23 until 24 headed by 23 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNS Reports))
+sid=0 spanning 2 until 10 headed by 9 parsed as (NP (NP (NP (DT a) (NN rebound)) (PP (IN in) (NP (NNP New) (NNP York))) (POS 's)) (NN manufacturing) (NN sector))
+sid=0 spanning 2 until 8 headed by 3 parsed as (NP (NP (DT a) (NN rebound)) (PP (IN in) (NP (NNP New) (NNP York))) (POS 's))
+sid=0 spanning 5 until 8 headed by 6 parsed as (NP (NNP New) (NNP York))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT that) (NN optimism))
+sid=1 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NNP Dow) (NNP Jones)) (JJ industrial) (NN average))
+sid=1 spanning 8 until 16 headed by 12 parsed as (NP (NP (DT a) (NML (JJ triple) (HYPH -) (NN digit)) (NN gain)) (, ,) (ADVP (RB up) (NP (CD 137))))
+sid=1 spanning 8 until 13 headed by 12 parsed as (NP (DT a) (NML (JJ triple) (HYPH -) (NN digit)) (NN gain))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (CD 137))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (JJ blue) (NN chip)) (NN advance))
+sid=2 spanning 8 until 21 headed by 9 parsed as (NP (NP (NNS manufacturers) (NNP 3M) (CC and) (NNP Caterpillar)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNP Merck)) (CC and) (NP (NNP Johnson) (CC &) (NNP Johnson))))
+sid=2 spanning 8 until 12 headed by 9 parsed as (NP (NNS manufacturers) (NNP 3M) (CC and) (NNP Caterpillar))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NNP 3M)
+sid=2 spanning 11 until 12 headed by 11 parsed as Caterpillar
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NP (NNP Merck)) (CC and) (NP (NNP Johnson) (CC &) (NNP Johnson)))
+sid=2 spanning 16 until 21 headed by 16 parsed as (NP (NP (NNP Merck)) (CC and) (NP (NNP Johnson) (CC &) (NNP Johnson)))
+sid=2 spanning 18 until 21 headed by 18 parsed as (NP (NNP Johnson) (CC &) (NNP Johnson))
+sid=2 spanning 23 until 26 headed by 25 parsed as (NP (DT the) (NNP Nasdaq) (NN composite))
+sid=3 spanning 2 until 5 headed by 2 parsed as (NP (NP (NNS shares)) (PP (IN of) (NP (NNP Kmart))))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Kmart))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (JJ first) (NN quarter))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (DT that))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN retailer))
+sid=4 spanning 19 until 22 headed by 21 parsed as ago
+sid=4 spanning 23 until 24 headed by 23 parsed as (NP (PRP it))
+sid=4 spanning 26 until 28 headed by 27 parsed as (NP (NN bankruptcy) (NN protection))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=5 spanning 2 until 8 headed by 4 parsed as (NP (NP (DT the) (ADJP (RB very) (JJS latest))) (PP (IN from) (NP (NNP Wall) (NNP Street))))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (NNP Wall) (NNP Street))
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'The blue chip advance' 'a triple - digit gain' '137' }
+6 5 | { 'that' 'lost' }
+4 3 7 8 | { 'It' 'Kmart' 'the retailer' 'it' }
+(end gold clusters)

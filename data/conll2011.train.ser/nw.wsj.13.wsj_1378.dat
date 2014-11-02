@@ -1,0 +1,32 @@
+---------gloss--------
+(0) [33m{American Telephone & Telegraph Co.}[0m said [33m{it}[0m will lay off [34m{75 to 85 technicians}[0m here , effective Nov. 1 . 
+(1) [34m{The workers}[0m install , maintain and repair [33m{its}[0m private branch exchanges , which are large intracompany telephone networks . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1378); part 000
+sentences:
+AmericanAmericanNNPORGPER0TelephoneTelephoneNNPORGPER0&&CCORGPER0TelegraphTelegraphNNPORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0laylayVBOPER0offoffRPOPER07575CDCARDINALPER0totoTOCARDINALPER08585CDCARDINALPER0technicianstechnicianNNSOPER0herehereRBOPER0,,,OPER0effectiveeffectiveJJOPER0Nov.Nov.NNPDATEPER011CDDATEPER0...OPER0(ROOT (S (NP (NP (NNP American) (NNP Telephone)) (CC &) (NP (NNP Telegraph) (NNP Co.))) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB lay) (PRT (RP off)) (NP (NP (QP (CD 75) (TO to) (CD 85)) (NNS technicians)) (ADVP (RB here))) (, ,) (S (ADJP (JJ effective) (NP (NNP Nov.) (CD 1))))))))) (. .)))
+ThetheDTOPER0workersworkerNNSOPER0installinstallVBOPER0,,,OPER0maintainmaintainVBOPER0andandCCOPER0repairrepairVBOPER0itsitsPRP$OPER0privateprivateJJOPER0branchbranchNNOPER0exchangesexchangeNNSOPER0,,,OPER0whichwhichWDTOPER0arebeVBPOPER0largelargeJJOPER0intracompanyintracompanyNNOPER0telephonetelephoneNNOPER0networksnetworkNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNS workers)) (VP (VP (VB install)) (, ,) (VP (VB maintain) (CC and) (VB repair) (NP (PRP$ its) (JJ private) (NN branch) (NNS exchanges))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (JJ large) (NN intracompany) (NN telephone) (NNS networks)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP American) (NNP Telephone)) (CC &) (NP (NNP Telegraph) (NNP Co.)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NP (QP (CD 75) (TO to) (CD 85)) (NNS technicians)) (ADVP (RB here)))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS workers))
+sid=1 spanning 7 until 8 headed by 7 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP American) (NNP Telephone)) (CC &) (NP (NNP Telegraph) (NNP Co.)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 10 until 15 headed by 13 parsed as (NP (NP (QP (CD 75) (TO to) (CD 85)) (NNS technicians)) (ADVP (RB here)))
+sid=0 spanning 17 until 19 headed by 17 parsed as (NP (NNP Nov.) (CD 1))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS workers))
+sid=1 spanning 7 until 11 headed by 10 parsed as (NP (PRP$ its) (JJ private) (NN branch) (NNS exchanges))
+sid=1 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=1 spanning 14 until 18 headed by 17 parsed as (NP (JJ large) (NN intracompany) (NN telephone) (NNS networks))
+(end predicted mentions)
+---------gold clusters--------
+4 0 1 | { 'its' 'American Telephone & Telegraph Co.' 'it' }
+3 2 | { 'The workers' '75 to 85 technicians' }
+(end gold clusters)

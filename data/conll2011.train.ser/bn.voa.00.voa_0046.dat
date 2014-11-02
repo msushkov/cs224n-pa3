@@ -1,0 +1,64 @@
+---------gloss--------
+(0) I 'm David Coller , VOA News . 
+(1) Israeli Prime Minister Ehud Barak held coalition talks , [35m{Monday}[0m with [34m{Likud Party}[0m leader Ariel Sharon , but [32m{the two}[0m failed to agree on forming a national unity government . 
+(2) A [34m{Likud}[0m official said [32m{they}[0m will meet again today . 
+(3) The current explosion of violence between Palestinians and Israelis began more than three weeks ago , after [33m{Mr. Sharon}[0m visited a Jerusalem holy site . 
+(4) Sporadic clashes continued , [35m{Monday}[0m in the West Bank and Gaza Strip . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0046); part 000
+sentences:
+IIPRPOPER0'mbeVBPOPER0DavidDavidNNPPERSONPER0CollerCollerNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))) (. .)))
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0heldholdVBDOPER0coalitioncoalitionNNOPER0talkstalkNNSOPER0,,,OPER0MondayMondayNNPDATEPER0withwithINOPER0LikudLikudNNPORGPER0PartyPartyNNPORGPER0leaderleaderNNOPER0ArielArielNNPPERSONPER0SharonSharonNNPPERSONPER0,,,OPER0butbutCCOPER0thetheDTOPER0twotwoCDCARDINALPER0failedfailVBDOPER0totoTOOPER0agreeagreeVBOPER0ononINOPER0formingformVBGOPER0aaDTOPER0nationalnationalJJOPER0unityunityNNOPER0governmentgovernmentNNOPER0...OPER0(ROOT (S (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD held) (NP (NP (NP (NN coalition) (NNS talks)) (, ,) (NP (NNP Monday))) (PP (IN with) (NP (NML (NML (NNP Likud) (NNP Party)) (NN leader)) (NNP Ariel) (NNP Sharon)))))) (, ,) (CC but) (S (NP (DT the) (CD two)) (VP (VBD failed) (S (VP (TO to) (VP (VB agree) (PP (IN on) (S (VP (VBG forming) (NP (DT a) (NML (JJ national) (NN unity)) (NN government)))))))))) (. .)))
+AaDTOPER0LikudLikudNNPORGPER0officialofficialNNOPER0saidsayVBDOPER0theytheyPRPOPER0willwillMDOPER0meetmeetVBOPER0againagainRBOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (DT A) (NNP Likud) (NN official)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB meet) (NP (RB again) (NN today))))))) (. .)))
+ThetheDTOPER0currentcurrentJJOPER0explosionexplosionNNOPER0ofofINOPER0violenceviolenceNNOPER0betweenbetweenINOPER0PalestiniansPalestiniansNNPSOPER0andandCCOPER0IsraelisIsraelisNNPSOPER0beganbeginVBDOPER0moremoreJJRDATEPER0thanthanINDATEPER0threethreeCDDATEPER0weeksweekNNSDATEPER0agoagoRBDATEPER0,,,OPER0afterafterINOPER0Mr.Mr.NNPOPER0SharonSharonNNPPERSONPER0visitedvisitVBDOPER0aaDTOPER0JerusalemJerusalemNNPGPEPER0holyholyJJOPER0sitesiteNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ current) (NN explosion)) (PP (IN of) (NP (NP (NN violence)) (PP (IN between) (NP (NNPS Palestinians) (CC and) (NNPS Israelis)))))) (VP (VBD began) (ADVP (NP (QP (XS (JJR more) (IN than)) (CD three)) (NNS weeks)) (RB ago)) (, ,) (SBAR (IN after) (S (NP (NNP Mr.) (NNP Sharon)) (VP (VBD visited) (NP (DT a) (NNP Jerusalem) (JJ holy) (NN site)))))) (. .)))
+SporadicsporadicJJOPER0clashesclashNNSOPER0continuedcontinueVBDOPER0,,,OPER0MondayMondayNNPDATEPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (JJ Sporadic) (NNS clashes)) (VP (VBD continued) (, ,) (NP (NNP Monday)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Monday))
+sid=1 spanning 11 until 16 headed by 15 parsed as (NP (NML (NML (NNP Likud) (NNP Party)) (NN leader)) (NNP Ariel) (NNP Sharon))
+sid=1 spanning 11 until 13 headed by 12 parsed as Party
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (CD two))
+sid=2 spanning 1 until 2 headed by 1 parsed as Likud
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=3 spanning 17 until 19 headed by 18 parsed as (NP (NNP Mr.) (NNP Sharon))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNP Monday))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 6 until 16 headed by 7 parsed as (NP (NP (NP (NN coalition) (NNS talks)) (, ,) (NP (NNP Monday))) (PP (IN with) (NP (NML (NML (NNP Likud) (NNP Party)) (NN leader)) (NNP Ariel) (NNP Sharon))))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (NN coalition) (NNS talks))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Monday))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NML (NML (NNP Likud) (NNP Party)) (NN leader)) (NNP Ariel) (NNP Sharon))
+sid=1 spanning 11 until 16 headed by 15 parsed as (NP (NML (NML (NNP Likud) (NNP Party)) (NN leader)) (NNP Ariel) (NNP Sharon))
+sid=1 spanning 11 until 13 headed by 12 parsed as Party
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (CD two))
+sid=1 spanning 25 until 29 headed by 28 parsed as (NP (DT a) (NML (JJ national) (NN unity)) (NN government))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Likud) (NN official))
+sid=2 spanning 1 until 2 headed by 1 parsed as Likud
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (RB again) (NN today))
+sid=3 spanning 0 until 9 headed by 2 parsed as (NP (NP (DT The) (JJ current) (NN explosion)) (PP (IN of) (NP (NP (NN violence)) (PP (IN between) (NP (NNPS Palestinians) (CC and) (NNPS Israelis))))))
+sid=3 spanning 4 until 9 headed by 4 parsed as (NP (NP (NN violence)) (PP (IN between) (NP (NNPS Palestinians) (CC and) (NNPS Israelis))))
+sid=3 spanning 6 until 9 headed by 6 parsed as (NP (NNPS Palestinians) (CC and) (NNPS Israelis))
+sid=3 spanning 10 until 15 headed by 14 parsed as ago
+sid=3 spanning 17 until 19 headed by 18 parsed as (NP (NNP Mr.) (NNP Sharon))
+sid=3 spanning 20 until 24 headed by 23 parsed as (NP (DT a) (NNP Jerusalem) (JJ holy) (NN site))
+sid=3 spanning 21 until 22 headed by 21 parsed as Jerusalem
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (JJ Sporadic) (NNS clashes))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNP Monday))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=4 spanning 6 until 12 headed by 8 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=4 spanning 10 until 12 headed by 11 parsed as Strip
+(end predicted mentions)
+---------gold clusters--------
+5 3 | { 'they' 'the two' }
+6 1 | { 'Mr. Sharon' 'Likud Party leader Ariel Sharon' }
+2 4 | { 'Likud Party' 'Likud' }
+0 7 | { 'Monday' 'Monday' }
+(end gold clusters)

@@ -1,0 +1,50 @@
+---------gloss--------
+(0) In other news , [3m[36m{Daimler Chrysler}[0m lost [3m[36m{its}[0m major Wall Street backer , investment firm Goldman Sachs downgraded [3m[36m{the German auto - maker}[0m after [3m[36m{its}[0m US - based Chrysler unit showed poor third quarter earnings and warned the fourth quarter does not look good either . 
+(1) [4m[31m{Goldman Sachs}[0m was the chief consultant in [3m[36m{the merger of Germany 's Daimler Benz and US auto - maker Chrysler}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0105); part 000
+sentences:
+IninINOPER0otherotherJJOPER0newsnewsNNOPER0,,,OPER0DaimlerDaimlerNNPORGPER0ChryslerChryslerNNPORGPER0lostloseVBDOPER0itsitsPRP$OPER0majormajorJJOPER0WallWallNNPOPER0StreetStreetNNPOPER0backerbackerNNOPER0,,,OPER0investmentinvestmentNNOPER0firmfirmNNOPER0GoldmanGoldmanNNPORGPER0SachsSachsNNPORGPER0downgradeddowngradeVBDOPER0thetheDTOPER0GermangermanJJOPER0autoautoNNOPER0--HYPHOPER0makermakerNNOPER0afterafterINOPER0itsitsPRP$OPER0USUSNNPGPEPER0--HYPHOPER0basedbaseVBNOPER0ChryslerChryslerNNPORGPER0unitunitNNOPER0showedshowVBDOPER0poorpoorJJOPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0earningsearningsNNSOPER0andandCCOPER0warnedwarnVBDOPER0thetheDTDATEPER0fourthfourthJJDATEPER0quarterquarterNNDATEPER0doesdoVBZOPER0notnotRBOPER0looklookVBOPER0goodgoodJJOPER0eithereitherRBOPER0...OPER0(ROOT (S (PP (IN In) (NP (JJ other) (NN news))) (, ,) (NP (NNP Daimler) (NNP Chrysler)) (VP (VBD lost) (NP (NP (PRP$ its) (JJ major) (NML (NNP Wall) (NNP Street)) (NN backer)) (, ,) (NP (NN investment) (NN firm))) (SBAR (S (NP (NNP Goldman) (NNP Sachs)) (VP (VP (VBD downgraded) (NP (DT the) (JJ German) (NN auto) (HYPH -) (NN maker)) (SBAR (IN after) (S (NP (PRP$ its) (ADJP (NNP US) (HYPH -) (VBN based)) (NNP Chrysler) (NN unit)) (VP (VBD showed) (NP (JJ poor) (NML (JJ third) (NN quarter)) (NNS earnings)))))) (CC and) (VP (VBD warned) (SBAR (S (NP (DT the) (JJ fourth) (NN quarter)) (VP (VBZ does) (RB not) (VP (VB look) (ADJP (JJ good)) (ADVP (RB either))))))))))) (. .)))
+GoldmanGoldmanNNPORGPER0SachsSachsNNPORGPER0wasbeVBDOPER0thetheDTOPER0chiefchiefJJOPER0consultantconsultantNNOPER0ininINOPER0thetheDTOPER0mergermergerNNOPER0ofofINOPER0GermanyGermanyNNPGPEPER0's'sPOSOPER0DaimlerDaimlerNNPORGPER0BenzBenzNNPORGPER0andandCCOPER0USUSNNPGPEPER0autoautoNNOPER0--HYPHOPER0makermakerNNOPER0ChryslerChryslerNNPORGPER0...OPER0(ROOT (S (NP (NNP Goldman) (NNP Sachs)) (VP (VBD was) (NP (NP (DT the) (JJ chief) (NN consultant)) (PP (IN in) (NP (NP (DT the) (NN merger)) (PP (IN of) (NP (NP (NP (NNP Germany) (POS 's)) (NNP Daimler) (NNP Benz)) (CC and) (NP (NP (NNP US) (NN auto) (HYPH -) (NN maker)) (NP (NNP Chrysler))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Daimler) (NNP Chrysler))
+sid=0 spanning 7 until 17 headed by 11 parsed as (NP (NP (PRP$ its) (JJ major) (NML (NNP Wall) (NNP Street)) (NN backer)) (, ,) (NP (NN investment) (NN firm)))
+sid=0 spanning 7 until 8 headed by 7 parsed as its
+sid=0 spanning 18 until 23 headed by 22 parsed as (NP (DT the) (JJ German) (NN auto) (HYPH -) (NN maker))
+sid=0 spanning 24 until 25 headed by 24 parsed as its
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Goldman) (NNP Sachs))
+sid=1 spanning 7 until 20 headed by 8 parsed as (NP (NP (DT the) (NN merger)) (PP (IN of) (NP (NP (NP (NNP Germany) (POS 's)) (NNP Daimler) (NNP Benz)) (CC and) (NP (NP (NNP US) (NN auto) (HYPH -) (NN maker)) (NP (NNP Chrysler))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Daimler) (NNP Chrysler))
+sid=0 spanning 7 until 15 headed by 11 parsed as (NP (NP (PRP$ its) (JJ major) (NML (NNP Wall) (NNP Street)) (NN backer)) (, ,) (NP (NN investment) (NN firm)))
+sid=0 spanning 7 until 12 headed by 11 parsed as (NP (PRP$ its) (JJ major) (NML (NNP Wall) (NNP Street)) (NN backer))
+sid=0 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NN investment) (NN firm))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (NNP Goldman) (NNP Sachs))
+sid=0 spanning 18 until 23 headed by 22 parsed as (NP (DT the) (JJ German) (NN auto) (HYPH -) (NN maker))
+sid=0 spanning 24 until 30 headed by 29 parsed as (NP (PRP$ its) (ADJP (NNP US) (HYPH -) (VBN based)) (NNP Chrysler) (NN unit))
+sid=0 spanning 24 until 25 headed by 24 parsed as (PRP$ its)
+sid=0 spanning 25 until 26 headed by 25 parsed as US
+sid=0 spanning 28 until 29 headed by 28 parsed as Chrysler
+sid=0 spanning 31 until 35 headed by 34 parsed as (NP (JJ poor) (NML (JJ third) (NN quarter)) (NNS earnings))
+sid=0 spanning 32 until 34 headed by 33 parsed as quarter
+sid=0 spanning 37 until 40 headed by 39 parsed as (NP (DT the) (JJ fourth) (NN quarter))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Goldman) (NNP Sachs))
+sid=1 spanning 3 until 20 headed by 5 parsed as (NP (NP (DT the) (JJ chief) (NN consultant)) (PP (IN in) (NP (NP (DT the) (NN merger)) (PP (IN of) (NP (NP (NP (NNP Germany) (POS 's)) (NNP Daimler) (NNP Benz)) (CC and) (NP (NP (NNP US) (NN auto) (HYPH -) (NN maker)) (NP (NNP Chrysler))))))))
+sid=1 spanning 7 until 20 headed by 8 parsed as (NP (NP (DT the) (NN merger)) (PP (IN of) (NP (NP (NP (NNP Germany) (POS 's)) (NNP Daimler) (NNP Benz)) (CC and) (NP (NP (NNP US) (NN auto) (HYPH -) (NN maker)) (NP (NNP Chrysler))))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NP (NP (NNP Germany) (POS 's)) (NNP Daimler) (NNP Benz)) (CC and) (NP (NP (NNP US) (NN auto) (HYPH -) (NN maker)) (NP (NNP Chrysler))))
+sid=1 spanning 10 until 20 headed by 13 parsed as (NP (NP (NP (NNP Germany) (POS 's)) (NNP Daimler) (NNP Benz)) (CC and) (NP (NP (NNP US) (NN auto) (HYPH -) (NN maker)) (NP (NNP Chrysler))))
+sid=1 spanning 10 until 14 headed by 13 parsed as (NP (NP (NNP Germany) (POS 's)) (NNP Daimler) (NNP Benz))
+sid=1 spanning 10 until 12 headed by 10 parsed as (NP (NNP Germany) (POS 's))
+sid=1 spanning 15 until 20 headed by 18 parsed as (NP (NP (NNP US) (NN auto) (HYPH -) (NN maker)) (NP (NNP Chrysler)))
+sid=1 spanning 15 until 16 headed by 15 parsed as US
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NNP Chrysler))
+(end predicted mentions)
+---------gold clusters--------
+3 2 0 6 4 | { 'the German auto - maker' 'its' 'Daimler Chrysler' 'the merger of Germany 's Daimler Benz and US auto - maker Chrysler' 'its' }
+1 5 | { 'its major Wall Street backer , investment firm Goldman Sachs' 'Goldman Sachs' }
+(end gold clusters)

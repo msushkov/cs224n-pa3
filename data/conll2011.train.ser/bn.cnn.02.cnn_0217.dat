@@ -1,0 +1,79 @@
+---------gloss--------
+(0) [4m[34m{An American astronaut and Russian cosmonaut}[0m are settling in at [4m[33m{the International Space Station}[0m . 
+(1) [4m[35m{A Russian Soyuz capsule}[0m dropped [4m[34m{them}[0m off this morning after [4m[36m{docking}[0m perfectly at [4m[33m{the orbiting outpost}[0m . 
+(2) It was the first manned flight to [4m[33m{the space station}[0m since the February first shuttle `` Columbia '' disaster . 
+(3) About 90 minutes after [4m[36m{the docking}[0m , the crews opened the hatch between the two spacecraft . 
+(4) [4m[34m{Edward Lu and Yuri Malenchenko of Russia}[0m will spend the next six months in [4m[33m{the space station}[0m . 
+(5) [4m[34m{They}[0m 're replacing [4m[32m{the two astronauts and one cosmonaut currently there}[0m . 
+(6) [4m[35m{The Soyuz}[0m will carry [4m[32m{that crew}[0m back to earth May 4th . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0217); part 000
+sentences:
+AnaDTOPER0AmericanamericanJJOPER0astronautastronautNNOPER0andandCCOPER0RussianrussianJJOPER0cosmonautcosmonautNNOPER0arebeVBPOPER0settlingsettleVBGOPER0ininRPOPER0atatINOPER0thetheDTFACPER0InternationalInternationalNNPFACPER0SpaceSpaceNNPFACPER0StationStationNNPFACPER0...OPER0(ROOT (S (NP (NP (DT An) (JJ American) (NN astronaut)) (CC and) (NP (JJ Russian) (NN cosmonaut))) (VP (VBP are) (VP (VBG settling) (PRT (RP in)) (PP (IN at) (NP (DT the) (NNP International) (NNP Space) (NNP Station))))) (. .)))
+AaDTOPER0RussianRussianNNPORGPER0SoyuzSoyuzNNPORGPER0capsulecapsuleNNPOPER0droppeddropVBDOPER0themtheyPRPOPER0offoffINOPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0afterafterINOPER0dockingdockingNNOPER0perfectlyperfectlyRBOPER0atatINOPER0thetheDTOPER0orbitingorbitVBGOPER0outpostoutpostNNOPER0...OPER0(ROOT (S (NP (DT A) (NNP Russian) (NNP Soyuz) (NNP capsule)) (VP (VBD dropped) (NP (PRP them)) (PP (IN off) (NP (DT this) (NN morning))) (PP (IN after) (NP (NP (NN docking)) (ADVP (RB perfectly) (PP (IN at) (NP (DT the) (VBG orbiting) (NN outpost))))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0thetheDTOPER0firstfirstJJOPER0mannedmanVBNOPER0flightflightNNOPER0totoINOPER0thetheDTOPER0spacespaceNNOPER0stationstationNNOPER0sincesinceINOPER0thetheDTOPER0FebruaryFebruaryNNPDATEPER0firstfirstJJOPER0shuttleshuttleNNOPER0``````OColumbiaColumbiaNNPORGPER1''''''OPER0disasterdisasterNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (JJ first) (VBN manned) (NN flight)) (PP (IN to) (NP (NP (DT the) (NN space) (NN station)) (PP (IN since) (NP (DT the) (NNP February) (JJ first) (NN shuttle) (`` ``) (NNP Columbia) ('' '') (NN disaster))))))) (. .)))
+AboutaboutRBCARDINALPER09090CDTIMEPER0minutesminuteNNSTIMEPER0afterafterINOPER0thetheDTOPER0dockingdockingNNOPER0,,,OPER0thetheDTOPER0crewscrewNNSOPER0openedopenVBDOPER0thetheDTOPER0hatchhatchNNOPER0betweenbetweenINOPER0thetheDTOPER0twotwoCDCARDINALPER0spacecraftspacecraftNNOPER0...OPER0(ROOT (S (PP (NP (QP (RB About) (CD 90)) (NNS minutes)) (IN after) (NP (DT the) (NN docking))) (, ,) (NP (DT the) (NNS crews)) (VP (VBD opened) (NP (NP (DT the) (NN hatch)) (PP (IN between) (NP (DT the) (CD two) (NN spacecraft))))) (. .)))
+EdwardEdwardNNPPERSONPER0LuLuNNPPERSONPER0andandCCOPER0YuriYuriNNPPERSONPER0MalenchenkoMalenchenkoNNPPERSONPER0ofofINOPER0RussiaRussiaNNPGPEPER0willwillMDOPER0spendspendVBOPER0thetheDTDATEPER0nextnextJJDATEPER0sixsixCDDATEPER0monthsmonthNNSDATEPER0ininINOPER0thetheDTOPER0spacespaceNNOPER0stationstationNNOPER0...OPER0(ROOT (S (NP (NP (NNP Edward) (NNP Lu)) (CC and) (NP (NP (NNP Yuri) (NNP Malenchenko)) (PP (IN of) (NP (NNP Russia))))) (VP (MD will) (VP (VB spend) (NP (NP (DT the) (JJ next) (CD six) (NNS months)) (PP (IN in) (NP (DT the) (NN space) (NN station)))))) (. .)))
+TheytheyPRPOPER0'rebeVBPOPER0replacingreplaceVBGOPER0thetheDTOPER0twotwoCDCARDINALPER0astronautsastronautNNSOPER0andandCCOPER0oneoneCDCARDINALPER0cosmonautcosmonautNNOPER0currentlycurrentlyRBOPER0therethereRBOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBG replacing) (NP (NP (DT the) (CD two) (NNS astronauts)) (CC and) (NP (CD one) (NN cosmonaut))) (ADVP (RB currently)) (ADVP (RB there)))) (. .)))
+ThetheDTOPER0SoyuzSoyuzNNPORGPER0willwillMDOPER0carrycarryVBOPER0thatthatDTOPER0crewcrewNNOPER0backbackRPOPER0totoINOPER0earthearthNNOPER0MayMayNNPDATEPER04th4thNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP Soyuz)) (VP (MD will) (VP (VB carry) (NP (DT that) (NN crew)) (PRT (RP back)) (PP (IN to) (NP (NN earth) (NNP May) (NN 4th))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT An) (JJ American) (NN astronaut)) (CC and) (NP (JJ Russian) (NN cosmonaut)))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (NNP International) (NNP Space) (NNP Station))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (NNP Russian) (NNP Soyuz) (NNP capsule))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (PRP them))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NP (NN docking)) (ADVP (RB perfectly) (PP (IN at) (NP (DT the) (VBG orbiting) (NN outpost)))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (VBG orbiting) (NN outpost))
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (NP (DT the) (NN space) (NN station)) (PP (IN since) (NP (DT the) (NNP February) (JJ first) (NN shuttle) (`` ``) (NNP Columbia) ('' '') (NN disaster))))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN docking))
+sid=4 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Edward) (NNP Lu)) (CC and) (NP (NP (NNP Yuri) (NNP Malenchenko)) (PP (IN of) (NP (NNP Russia)))))
+sid=4 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NN space) (NN station))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=5 spanning 3 until 11 headed by 5 parsed as (NP (NP (DT the) (CD two) (NNS astronauts)) (CC and) (NP (CD one) (NN cosmonaut)))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Soyuz))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (DT that) (NN crew))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT An) (JJ American) (NN astronaut)) (CC and) (NP (JJ Russian) (NN cosmonaut)))
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (JJ American) (NN astronaut))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (NNP International) (NNP Space) (NNP Station))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (NNP Russian) (NNP Soyuz) (NNP capsule))
+sid=1 spanning 1 until 3 headed by 2 parsed as Soyuz
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (PRP them))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN morning))
+sid=1 spanning 10 until 16 headed by 10 parsed as (NP (NP (NN docking)) (ADVP (RB perfectly) (PP (IN at) (NP (DT the) (VBG orbiting) (NN outpost)))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (VBG orbiting) (NN outpost))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 2 until 19 headed by 5 parsed as (NP (NP (DT the) (JJ first) (VBN manned) (NN flight)) (PP (IN to) (NP (NP (DT the) (NN space) (NN station)) (PP (IN since) (NP (DT the) (NNP February) (JJ first) (NN shuttle) (`` ``) (NNP Columbia) ('' '') (NN disaster))))))
+sid=2 spanning 7 until 19 headed by 9 parsed as (NP (NP (DT the) (NN space) (NN station)) (PP (IN since) (NP (DT the) (NNP February) (JJ first) (NN shuttle) (`` ``) (NNP Columbia) ('' '') (NN disaster))))
+sid=2 spanning 11 until 19 headed by 18 parsed as (NP (DT the) (NNP February) (JJ first) (NN shuttle) (`` ``) (NNP Columbia) ('' '') (NN disaster))
+sid=2 spanning 12 until 13 headed by 12 parsed as February
+sid=2 spanning 16 until 17 headed by 16 parsed as Columbia
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (QP (RB About) (CD 90)) (NNS minutes))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN docking))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNS crews))
+sid=3 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT the) (NN hatch)) (PP (IN between) (NP (DT the) (CD two) (NN spacecraft))))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (CD two) (NN spacecraft))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Edward) (NNP Lu)) (CC and) (NP (NP (NNP Yuri) (NNP Malenchenko)) (PP (IN of) (NP (NNP Russia)))))
+sid=4 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Edward) (NNP Lu)) (CC and) (NP (NP (NNP Yuri) (NNP Malenchenko)) (PP (IN of) (NP (NNP Russia)))))
+sid=4 spanning 3 until 7 headed by 4 parsed as (NP (NP (NNP Yuri) (NNP Malenchenko)) (PP (IN of) (NP (NNP Russia))))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Russia))
+sid=4 spanning 9 until 17 headed by 12 parsed as (NP (NP (DT the) (JJ next) (CD six) (NNS months)) (PP (IN in) (NP (DT the) (NN space) (NN station))))
+sid=4 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NN space) (NN station))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=5 spanning 3 until 9 headed by 5 parsed as (NP (NP (DT the) (CD two) (NNS astronauts)) (CC and) (NP (CD one) (NN cosmonaut)))
+sid=5 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (CD two) (NNS astronauts))
+sid=5 spanning 7 until 9 headed by 8 parsed as (NP (CD one) (NN cosmonaut))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Soyuz))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (DT that) (NN crew))
+sid=6 spanning 8 until 11 headed by 10 parsed as (NP (NN earth) (NNP May) (NN 4th))
+(end predicted mentions)
+---------gold clusters--------
+11 13 | { 'the two astronauts and one cosmonaut currently there' 'that crew' }
+5 9 1 6 | { 'the orbiting outpost' 'the space station' 'the International Space Station' 'the space station' }
+0 3 8 10 | { 'An American astronaut and Russian cosmonaut' 'them' 'Edward Lu and Yuri Malenchenko of Russia' 'They' }
+2 12 | { 'A Russian Soyuz capsule' 'The Soyuz' }
+7 4 | { 'the docking' 'docking' }
+(end gold clusters)

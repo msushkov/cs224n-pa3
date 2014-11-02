@@ -1,0 +1,51 @@
+---------gloss--------
+(0) [4m[34m{Chambers Development Co.}[0m said [4m[34m{its}[0m Security Bureau Inc. unit [4m[33m{purchased}[0m [4m[32m{two security concerns in Florida that will add $ 2.1 million of annual revenue}[0m . 
+(1) [4m[33m{Purchase of the businesses serving Miami , Fort Lauderdale and West Palm Beach , Fla. ,}[0m is part of a plan by [4m[34m{Chambers}[0m to expand in the growing security industry . 
+(2) Terms were n't disclosed . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1521); part 000
+sentences:
+ChambersChambersNNPSORGPER0DevelopmentDevelopmentNNPORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0SecuritySecurityNNPORGPER0BureauBureauNNPORGPER0Inc.Inc.NNPORGPER0unitunitNNOPER0purchasedpurchaseVBDOPER0twotwoCDCARDINALPER0securitysecurityNNOPER0concernsconcernNNSOPER0ininINOPER0FloridaFloridaNNPGPEPER0thatthatINOPER0willwillMDOPER0addaddVBOPER0$$$MONEYPER02.12.1CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0annualannualJJDATEPER0revenuerevenueNNOPER0...OPER0(ROOT (S (NP (NNPS Chambers) (NNP Development) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NML (NML (NNP Security) (NNP Bureau)) (NNP Inc.)) (NN unit)) (VP (VBD purchased) (NP (CD two) (NN security) (NNS concerns)) (PP (IN in) (NP (NNP Florida))) (SBAR (IN that) (S (VP (MD will) (VP (VB add) (NP (NP (QP ($ $) (CD 2.1) (CD million))) (PP (IN of) (NP (JJ annual) (NN revenue)))))))))))) (. .)))
+PurchasepurchaseNNOPER0ofofINOPER0thetheDTOPER0businessesbusinessNNSOPER0servingserveVBGOPER0MiamiMiamiNNPGPEPER0,,,OPER0FortFortNNPGPEPER0LauderdaleLauderdaleNNPGPEPER0andandCCOPER0WestWestNNPGPEPER0PalmPalmNNPGPEPER0BeachBeachNNPGPEPER0,,,OPER0Fla.Fla.NNPGPEPER0,,,OPER0isbeVBZOPER0partpartNNOPER0ofofINOPER0aaDTOPER0planplanNNOPER0bybyINOPER0ChambersChambersNNPSORGPER0totoTOOPER0expandexpandVBOPER0ininINOPER0thetheDTOPER0growinggrowVBGOPER0securitysecurityNNOPER0industryindustryNNOPER0...OPER0(ROOT (S (NP (NP (NN Purchase)) (PP (IN of) (NP (NP (DT the) (NNS businesses)) (VP (VBG serving) (NP (NP (NNP Miami)) (, ,) (NP (NNP Fort) (NNP Lauderdale)) (CC and) (NP (NP (NNP West) (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Fla.)) (, ,))))))) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NN plan)) (PP (IN by) (NP (NNPS Chambers))) (S (VP (TO to) (VP (VB expand) (PP (IN in) (NP (DT the) (VBG growing) (NN security) (NN industry)))))))))) (. .)))
+TermstermNNSOPER0werebeVBDOPER0n'tnotRBOPER0discloseddiscloseVBNOPER0...OPER0(ROOT (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNPS Chambers) (NNP Development) (NNP Co.))
+sid=0 spanning 4 until 5 headed by 4 parsed as its
+sid=0 spanning 9 until 10 headed by 9 parsed as purchased
+sid=0 spanning 10 until 24 headed by 12 parsed as (NP (CD two) (NN security) (NNS concerns))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNP Florida))
+sid=1 spanning 0 until 16 headed by 0 parsed as (NP (NP (NN Purchase)) (PP (IN of) (NP (NP (DT the) (NNS businesses)) (VP (VBG serving) (NP (NP (NNP Miami)) (, ,) (NP (NNP Fort) (NNP Lauderdale)) (CC and) (NP (NP (NNP West) (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Fla.)) (, ,)))))))
+sid=1 spanning 2 until 16 headed by 3 parsed as (NP (NP (DT the) (NNS businesses)) (VP (VBG serving) (NP (NP (NNP Miami)) (, ,) (NP (NNP Fort) (NNP Lauderdale)) (CC and) (NP (NP (NNP West) (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Fla.)) (, ,)))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Fla.))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (NNPS Chambers))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNPS Chambers) (NNP Development) (NNP Co.))
+sid=0 spanning 4 until 9 headed by 8 parsed as (NP (PRP$ its) (NML (NML (NNP Security) (NNP Bureau)) (NNP Inc.)) (NN unit))
+sid=0 spanning 4 until 5 headed by 4 parsed as (PRP$ its)
+sid=0 spanning 5 until 8 headed by 7 parsed as Inc.
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (CD two) (NN security) (NNS concerns))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNP Florida))
+sid=1 spanning 0 until 16 headed by 0 parsed as (NP (NP (NN Purchase)) (PP (IN of) (NP (NP (DT the) (NNS businesses)) (VP (VBG serving) (NP (NP (NNP Miami)) (, ,) (NP (NNP Fort) (NNP Lauderdale)) (CC and) (NP (NP (NNP West) (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Fla.)) (, ,)))))))
+sid=1 spanning 2 until 16 headed by 3 parsed as (NP (NP (DT the) (NNS businesses)) (VP (VBG serving) (NP (NP (NNP Miami)) (, ,) (NP (NNP Fort) (NNP Lauderdale)) (CC and) (NP (NP (NNP West) (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Fla.)) (, ,)))))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NP (NNP Miami)) (, ,) (NP (NNP Fort) (NNP Lauderdale)) (CC and) (NP (NP (NNP West) (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Fla.)) (, ,)))
+sid=1 spanning 5 until 16 headed by 5 parsed as (NP (NP (NNP Miami)) (, ,) (NP (NNP Fort) (NNP Lauderdale)) (CC and) (NP (NP (NNP West) (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Fla.)) (, ,)))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP Fort) (NNP Lauderdale))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (NP (NNP West) (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Fla.)) (, ,))
+sid=1 spanning 10 until 16 headed by 12 parsed as (NP (NP (NNP West) (NNP Palm) (NNP Beach)) (, ,) (NP (NNP Fla.)) (, ,))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Fla.))
+sid=1 spanning 17 until 30 headed by 17 parsed as (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NN plan)) (PP (IN by) (NP (NNPS Chambers))) (S (VP (TO to) (VP (VB expand) (PP (IN in) (NP (DT the) (VBG growing) (NN security) (NN industry)))))))))
+sid=1 spanning 19 until 30 headed by 20 parsed as (NP (NP (DT a) (NN plan)) (PP (IN by) (NP (NNPS Chambers))) (S (VP (TO to) (VP (VB expand) (PP (IN in) (NP (DT the) (VBG growing) (NN security) (NN industry)))))))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (NNPS Chambers))
+sid=1 spanning 26 until 30 headed by 29 parsed as (NP (DT the) (VBG growing) (NN security) (NN industry))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Terms))
+(end predicted mentions)
+---------gold clusters--------
+4 7 | { 'Florida' 'Fla.' }
+3 6 | { 'two security concerns in Florida that will add $ 2.1 million of annual revenue' 'the businesses serving Miami , Fort Lauderdale and West Palm Beach , Fla. ,' }
+5 2 | { 'Purchase of the businesses serving Miami , Fort Lauderdale and West Palm Beach , Fla. ,' 'purchased' }
+0 8 1 | { 'Chambers Development Co.' 'Chambers' 'its' }
+(end gold clusters)

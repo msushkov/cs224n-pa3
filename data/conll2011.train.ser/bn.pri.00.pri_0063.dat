@@ -1,0 +1,60 @@
+---------gloss--------
+(0) [1m[31m{GOP vice - presidential nominee Dick Cheney}[0m celebrated Thanksgiving in a [1m[32m{Washington D.C.}[0m hospital where [1m[31m{he}[0m is [36m{recovering}[0m from what doctors said was a mild heart attack . 
+(1) [1m[31m{Cheney}[0m got a telephone call from [1m[31m{his}[0m democratic counterpart Joseph Lieberman wishing [1m[31m{him}[0m a speedy recovery . 
+(2) The hospital spokeswoman said that [1m[31m{Cheney}[0m could go home as early as tomorrow if [1m[31m{his}[0m recovery continues to go well . 
+(3) I am Corey Flintoff , NPR News , [1m[32m{Washington}[0m . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0063); part 000
+sentences:
+GOPGOPNNPORGPER0viceviceNNOPER0--:OPER0presidentialpresidentialJJOPER0nomineenomineeNNOPER0DickDickNNPPERSONPER0CheneyCheneyNNPPERSONPER0celebratedcelebrateVBDOPER0ThanksgivingThanksgivingNNPDATEPER0ininINOPER0aaDTOPER0WashingtonWashingtonNNPGPEPER0D.C.D.C.NNPGPEPER0hospitalhospitalNNOPER0wherewhereWRBOPER0hehePRPOPER0isbeVBZOPER0recoveringrecoverVBGOPER0fromfromINOPER0whatwhatWPOPER0doctorsdoctorNNSOPER0saidsayVBDOPER0wasbeVBDOPER0aaDTOPER0mildmildJJOPER0heartheartNNOPER0attackattackNNOPER0...OPER0(ROOT (FRAG (NP (NNP GOP) (NN vice)) (: -) (S (NP (NML (JJ presidential) (NN nominee)) (NNP Dick) (NNP Cheney)) (VP (VBD celebrated) (NP (NNP Thanksgiving)) (PP (IN in) (NP (NP (DT a) (NML (NNP Washington) (NNP D.C.)) (NN hospital)) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ is) (VP (VBG recovering) (PP (IN from) (SBAR (WHNP (WP what)) (S (NP (NNS doctors)) (VP (VBD said) (SBAR (S (VP (VBD was) (NP (DT a) (JJ mild) (NN heart) (NN attack))))))))))))))))) (. .)))
+CheneyCheneyNNPPERSONPER0gotgetVBDOPER0aaDTOPER0telephonetelephoneNNOPER0callcallNNOPER0fromfromINOPER0hishePRP$OPER0democraticdemocraticJJOPER0counterpartcounterpartNNOPER0JosephJosephNNPPERSONPER0LiebermanLiebermanNNPPERSONPER0wishingwishVBGOPER0himhePRPOPER0aaDTOPER0speedyspeedyJJOPER0recoveryrecoveryNNOPER0...OPER0(ROOT (S (NP (NNP Cheney)) (VP (VBD got) (NP (NP (DT a) (NN telephone) (NN call)) (PP (IN from) (NP (PRP$ his) (JJ democratic) (NN counterpart)))) (NP (NNP Joseph) (NNP Lieberman)) (S (VP (VBG wishing) (NP (PRP him)) (NP (DT a) (JJ speedy) (NN recovery))))) (. .)))
+ThetheDTOPER0hospitalhospitalNNOPER0spokeswomanspokeswomanNNOPER0saidsayVBDOPER0thatthatINOPER0CheneyCheneyNNPPERSONPER0couldcouldMDOPER0gogoVBOPER0homehomeRBOPER0asasRBDATEPER0earlyearlyRBDATEPER0asasINDATEPER0tomorrowtomorrowNNDATEPER0ififINOPER0hishePRP$OPER0recoveryrecoveryNNOPER0continuescontinueVBZOPER0totoTOOPER0gogoVBOPER0wellwellRBOPER0...OPER0(ROOT (S (NP (DT The) (NN hospital) (NN spokeswoman)) (VP (VBD said) (SBAR (IN that) (S (NP (NNP Cheney)) (VP (MD could) (VP (VB go) (ADVP (RB home)) (ADVP (ADVP (RB as) (RB early)) (PP (IN as) (NP (NN tomorrow)))) (SBAR (IN if) (S (NP (PRP$ his) (NN recovery)) (VP (VBZ continues) (S (VP (TO to) (VP (VB go) (ADVP (RB well))))))))))))) (. .)))
+IIPRPOPER0ambeVBPOPER0CoreyCoreyNNPPERSONPER0FlintoffFlintoffNNPPERSONPER0,,,OPER0NPRNPRNNPORGPER0NewsNewsNNPORGPER0,,,OPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (FRAG (S (NP (PRP I)) (VP (VBP am) (NP (NNP Corey) (NNP Flintoff)))) (, ,) (NP (NNP NPR) (NNP News)) (, ,) (NP (NNP Washington)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 4 parsed as nominee
+sid=0 spanning 11 until 13 headed by 12 parsed as D.C.
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=0 spanning 17 until 18 headed by 17 parsed as recovering
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Cheney))
+sid=1 spanning 6 until 7 headed by 6 parsed as his
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (PRP him))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Cheney))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ his) (NN recovery))
+sid=2 spanning 14 until 15 headed by 14 parsed as his
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNP Washington))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP GOP) (NN vice))
+sid=0 spanning 0 until 1 headed by 0 parsed as GOP
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (NML (JJ presidential) (NN nominee)) (NNP Dick) (NNP Cheney))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Thanksgiving))
+sid=0 spanning 10 until 27 headed by 13 parsed as (NP (NP (DT a) (NML (NNP Washington) (NNP D.C.)) (NN hospital)) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ is) (VP (VBG recovering) (PP (IN from) (SBAR (WHNP (WP what)) (S (NP (NNS doctors)) (VP (VBD said) (SBAR (S (VP (VBD was) (NP (DT a) (JJ mild) (NN heart) (NN attack))))))))))))))
+sid=0 spanning 11 until 13 headed by 12 parsed as D.C.
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (NNS doctors))
+sid=0 spanning 23 until 27 headed by 26 parsed as (NP (DT a) (JJ mild) (NN heart) (NN attack))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Cheney))
+sid=1 spanning 2 until 9 headed by 4 parsed as (NP (NP (DT a) (NN telephone) (NN call)) (PP (IN from) (NP (PRP$ his) (JJ democratic) (NN counterpart))))
+sid=1 spanning 6 until 9 headed by 8 parsed as (NP (PRP$ his) (JJ democratic) (NN counterpart))
+sid=1 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Joseph) (NNP Lieberman))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (PRP him))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ speedy) (NN recovery))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN hospital) (NN spokeswoman))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Cheney))
+sid=2 spanning 9 until 13 headed by 10 parsed as early
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ his) (NN recovery))
+sid=2 spanning 14 until 15 headed by 14 parsed as (PRP$ his)
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NNP Corey) (NNP Flintoff))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (NNP NPR) (NNP News))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNP Washington))
+(end predicted mentions)
+---------gold clusters--------
+3 8 | { 'recovering' 'his recovery' }
+4 0 9 5 7 6 2 | { 'Cheney' 'GOP vice - presidential nominee Dick Cheney' 'his' 'his' 'Cheney' 'him' 'he' }
+10 1 | { 'Washington' 'Washington D.C.' }
+(end gold clusters)

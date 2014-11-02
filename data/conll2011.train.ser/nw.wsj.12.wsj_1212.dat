@@ -1,0 +1,67 @@
+---------gloss--------
+(0) Child 's Game 
+(1) There was very slow play on the market today , [34m{They}[0m were selling and buying by halves ; Instead of trading like Bears and Bulls , [34m{They}[0m behaved like cubs and calves . 
+(2) -- George O. Ludcke . 
+(3) Politrick 
+(4) [36m{I}[0m 've learned one thing from candidates , A technique so deftly done : If a question ca n't be answered , Strongly answer an unasked one ! 
+(5) [36m{-- Mimi Kay .}[0m 
+(6) Foresight 
+(7) [35m{We}[0m need to get a space platform set up soon -- just in case [35m{we}[0m want to step out for a breath of fresh air . 
+(8) -- Ivern Ball . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1212); part 000
+sentences:
+ChildchildNNOPER0's'sPOSOPER0GameGameNNPEVENTPER0(ROOT (NP (NP (NN Child) (POS 's)) (NNP Game)))
+TherethereEXOPER0wasbeVBDOPER0veryveryRBOPER0slowslowJJOPER0playplayNNOPER0ononINOPER0thetheDTOPER0marketmarketNNOPER0todaytodayNNDATEPER0,,,OPER0TheytheyPRPOPER0werebeVBDOPER0sellingsellVBGOPER0andandCCOPER0buyingbuyVBGOPER0bybyINOPER0halveshalfNNSCARDINALPER0;;:OPER0InsteadinsteadRBOPER0ofofINOPER0tradingtradingNNOPER0likelikeINOPER0BearsBearsNNPOPER0andandCCOPER0BullsbullNNSORGPER0,,,OPER0TheytheyPRPOPER0behavedbehaveVBDOPER0likelikeINOPER0cubscubsNNPSOPER0andandCCOPER0calvescalfNNSOPER0...OPER0(ROOT (S (S (NP (EX There)) (VP (VBD was) (NP (ADJP (RB very) (JJ slow)) (NN play)) (PP (IN on) (NP (NP (DT the) (NN market)) (NP (NN today)))))) (, ,) (S (NP (PRP They)) (VP (VBD were) (VP (VBG selling) (CC and) (VBG buying) (PP (IN by) (NP (NNS halves)))))) (: ;) (S (PP (RB Instead) (IN of) (S (VP (NN trading) (PP (IN like) (NP (NP (NNP Bears)) (CC and) (NP (NNS Bulls))))))) (, ,) (NP (PRP They)) (VP (VBD behaved) (PP (IN like) (NP (NP (NNPS cubs)) (CC and) (NP (NNS calves)))))) (. .)))
+----:PERSONPER0GeorgeGeorgeNNPPERSONPER0O.O.NNPPERSONPER0LudckeLudckeNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .)))
+PolitrickPolitrickNNPWORK_OF_ARTPER0(ROOT (FRAG (NP (NNP Politrick))))
+IIPRPOPER0'vehaveVBPOPER0learnedlearnVBNOPER0oneoneCDOPER0thingthingNNOPER0fromfromINOPER0candidatescandidateNNSOPER0,,,OPER0AaDTOPER0techniquetechniqueNNOPER0sosoRBOPER0deftlydeftlyRBOPER0donedoVBNOPER0:::OPER0IfifINOPER0aaDTOPER0questionquestionNNOPER0cacanMDOPER0n'tnotRBOPER0bebeVBOPER0answeredanswerVBNOPER0,,,OPER0StronglystronglyRBOPER0answeranswerVBOPER0anaDTOPER0unaskedunaskedJJOPER0oneoneCDOPER0!!.OPER0(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN learned) (NP (CD one) (NN thing)) (PP (IN from) (NP (NNS candidates))) (, ,) (S (NP (DT A) (NN technique)) (ADVP (RB so) (RB deftly)) (VP (VBN done))))) (: :) (S (SBAR (IN If) (S (NP (DT a) (NN question)) (VP (MD ca) (RB n't) (VP (VB be) (VP (VBN answered)))))) (, ,) (ADVP (RB Strongly)) (VP (VB answer) (NP (DT an) (JJ unasked) (CD one)))) (. !)))
+----:PERSONPER0MimiMimiNNPPERSONPER0KayKayNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP Mimi) (NNP Kay) (. .)))
+ForesightforesightNNWORK_OF_ARTPER0(ROOT (NP (NN Foresight)))
+WewePRPOPER0needneedVBPOPER0totoTOOPER0getgetVBOPER0aaDTOPER0spacespaceNNOPER0platformplatformNNOPER0setsetVBNOPER0upupRPOPER0soonsoonRBOPER0----:OPER0justjustRBOPER0ininINOPER0casecaseNNOPER0wewePRPOPER0wantwantVBPOPER0totoTOOPER0stepstepVBOPER0outoutRPOPER0forforINOPER0aaDTOPER0breathbreathNNOPER0ofofINOPER0freshfreshJJOPER0airairNNOPER0...OPER0(ROOT (S (S (NP (PRP We)) (VP (VBP need) (S (VP (TO to) (VP (VB get) (S (NP (DT a) (NN space) (NN platform)) (VP (VBN set) (PRT (RP up)) (ADVP (RB soon))))))))) (: --) (S (ADVP (RB just)) (PP (IN in) (NP (NN case))) (NP (PRP we)) (VP (VBP want) (S (VP (TO to) (VP (VB step) (PRT (RP out)) (PP (IN for) (NP (NP (DT a) (NN breath)) (PP (IN of) (NP (JJ fresh) (NN air)))))))))) (. .)))
+----:PERSONPER0IvernIvernNNPPERSONPER0BallBallNNPPERSONPER0...PERSONPER0(ROOT (NP (: --) (NNP Ivern) (NNP Ball) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (PRP They))
+sid=1 spanning 26 until 27 headed by 26 parsed as (NP (PRP They))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=5 spanning 0 until 4 headed by 2 parsed as (NP (: --) (NNP Mimi) (NNP Kay) (. .))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=7 spanning 14 until 15 headed by 14 parsed as (NP (PRP we))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NN Child) (POS 's)) (NNP Game))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NN Child) (POS 's))
+sid=1 spanning 2 until 5 headed by 4 parsed as (NP (ADJP (RB very) (JJ slow)) (NN play))
+sid=1 spanning 6 until 9 headed by 7 parsed as (NP (NP (DT the) (NN market)) (NP (NN today)))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (PRP They))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNS halves))
+sid=1 spanning 22 until 25 headed by 22 parsed as (NP (NP (NNP Bears)) (CC and) (NP (NNS Bulls)))
+sid=1 spanning 22 until 23 headed by 22 parsed as (NP (NNP Bears))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (NNS Bulls))
+sid=1 spanning 26 until 27 headed by 26 parsed as (NP (PRP They))
+sid=1 spanning 29 until 32 headed by 29 parsed as (NP (NP (NNPS cubs)) (CC and) (NP (NNS calves)))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (NNPS cubs))
+sid=1 spanning 31 until 32 headed by 31 parsed as (NP (NNS calves))
+sid=2 spanning 0 until 5 headed by 3 parsed as (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Politrick))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (CD one) (NN thing))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNS candidates))
+sid=4 spanning 8 until 10 headed by 9 parsed as (NP (DT A) (NN technique))
+sid=4 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN question))
+sid=4 spanning 24 until 27 headed by 26 parsed as (NP (DT an) (JJ unasked) (CD one))
+sid=5 spanning 0 until 4 headed by 2 parsed as (NP (: --) (NNP Mimi) (NNP Kay) (. .))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=7 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NN space) (NN platform))
+sid=7 spanning 14 until 15 headed by 14 parsed as (NP (PRP we))
+sid=7 spanning 20 until 25 headed by 21 parsed as (NP (NP (DT a) (NN breath)) (PP (IN of) (NP (JJ fresh) (NN air))))
+sid=8 spanning 0 until 4 headed by 2 parsed as (NP (: --) (NNP Ivern) (NNP Ball) (. .))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'They' 'They' }
+4 5 | { 'We' 'we' }
+3 2 | { '-- Mimi Kay .' 'I' }
+(end gold clusters)

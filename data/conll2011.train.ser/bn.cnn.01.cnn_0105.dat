@@ -1,0 +1,55 @@
+---------gloss--------
+(0) [1m[34m{Former Senate Majority Leader George Mitchell}[0m is in Tallahassee in support of the Gore campaign . 
+(1) [1m[34m{He}[0m is defending the use of the hand counts to resolve disputes over ballots . 
+(2) The laws of Texas and Florida and other states are based on the reality that the most fair and effective way to count every valid vote and to discern the intent of the voter is [1m[33m{a careful fair hand count}[0m . 
+(3) Up to now in [1m[33m{this process}[0m , no court , state or federal , has accepted the assertion that hand recounts are unfair or unconstitutional . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0105); part 000
+sentences:
+FormerformerJJOPER0SenateSenateNNPORGPER0MajorityMajorityNNPOPER0LeaderLeaderNNPOPER0GeorgeGeorgeNNPPERSONPER0MitchellMitchellNNPPERSONPER0isbeVBZOPER0ininINOPER0TallahasseeTallahasseeNNPGPEPER0ininINOPER0supportsupportNNOPER0ofofINOPER0thetheDTOPER0GoreGoreNNPPERSONPER0campaigncampaignNNOPER0...OPER0(ROOT (S (NP (NML (JJ Former) (NNP Senate) (NNP Majority) (NNP Leader)) (NNP George) (NNP Mitchell)) (VP (VBZ is) (PP (IN in) (NP (NNP Tallahassee))) (PP (IN in) (NP (NP (NN support)) (PP (IN of) (NP (DT the) (NNP Gore) (NN campaign)))))) (. .)))
+HehePRPOPER0isbeVBZOPER0defendingdefendVBGOPER0thetheDTOPER0useuseNNOPER0ofofINOPER0thetheDTOPER0handhandNNOPER0countscountNNSOPER0totoTOOPER0resolveresolveVBOPER0disputesdisputeNNSOPER0overoverINOPER0ballotsballotNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ is) (VP (VBG defending) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT the) (NN hand) (NNS counts)))) (S (VP (TO to) (VP (VB resolve) (NP (NP (NNS disputes)) (PP (IN over) (NP (NNS ballots))))))))) (. .)))
+ThetheDTOPER0lawslawNNSOPER0ofofINOPER0TexasTexasNNPGPEPER0andandCCOPER0FloridaFloridaNNPGPEPER0andandCCOPER0otherotherJJOPER0statesstateNNSOPER0arebeVBPOPER0basedbaseVBNOPER0ononINOPER0thetheDTOPER0realityrealityNNOPER0thatthatINOPER0thetheDTOPER0mostmostRBSOPER0fairfairJJOPER0andandCCOPER0effectiveeffectiveJJOPER0waywayNNOPER0totoTOOPER0countcountVBOPER0everyeveryDTOPER0validvalidJJOPER0votevoteNNOPER0andandCCOPER0totoTOOPER0discerndiscernVBOPER0thetheDTOPER0intentintentNNOPER0ofofINOPER0thetheDTOPER0votervoterNNOPER0isbeVBZOPER0aaDTOPER0carefulcarefulJJOPER0fairfairJJOPER0handhandNNOPER0countcountNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS laws)) (PP (IN of) (NP (NP (NNP Texas) (CC and) (NNP Florida)) (CC and) (NP (JJ other) (NNS states))))) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (DT the) (NN reality) (SBAR (IN that) (S (NP (NP (DT the) (ADJP (RBS most) (JJ fair) (CC and) (JJ effective)) (NN way)) (SBAR (S (VP (VP (TO to) (VP (VB count) (NP (DT every) (JJ valid) (NN vote)))) (CC and) (VP (TO to) (VP (VB discern) (NP (NP (DT the) (NN intent)) (PP (IN of) (NP (DT the) (NN voter)))))))))) (VP (VBZ is) (NP (DT a) (JJ careful) (JJ fair) (NN hand) (NN count))))))))) (. .)))
+UpupINOPER0totoINOPER0nownowRBOPER0ininINOPER0thisthisDTOPER0processprocessNNOPER0,,,OPER0nonoDTOPER0courtcourtNNOPER0,,,OPER0statestateNNOPER0ororCCOPER0federalfederalJJOPER0,,,OPER0hashaveVBZOPER0acceptedacceptVBNOPER0thetheDTOPER0assertionassertionNNOPER0thatthatINOPER0handhandNNOPER0recountsrecountNNSOPER0arebeVBPOPER0unfairunfairJJOPER0ororCCOPER0unconstitutionalunconstitutionalJJOPER0...OPER0(ROOT (S (PP (IN Up) (PP (IN to) (ADVP (ADVP (RB now)) (PP (IN in) (NP (DT this) (NN process)))))) (, ,) (NP (NP (DT no) (NN court)) (, ,) (NP (NN state) (CC or) (JJ federal))) (, ,) (VP (VBZ has) (VP (VBN accepted) (NP (DT the) (NN assertion) (SBAR (IN that) (S (NP (NN hand) (NNS recounts)) (VP (VBP are) (ADJP (JJ unfair) (CC or) (JJ unconstitutional)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NML (JJ Former) (NNP Senate) (NNP Majority) (NNP Leader)) (NNP George) (NNP Mitchell))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 35 until 40 headed by 39 parsed as (NP (DT a) (JJ careful) (JJ fair) (NN hand) (NN count))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT this) (NN process))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 5 parsed as (NP (NML (JJ Former) (NNP Senate) (NNP Majority) (NNP Leader)) (NNP George) (NNP Mitchell))
+sid=0 spanning 1 until 2 headed by 1 parsed as Senate
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Tallahassee))
+sid=0 spanning 10 until 15 headed by 10 parsed as (NP (NP (NN support)) (PP (IN of) (NP (DT the) (NNP Gore) (NN campaign))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP Gore) (NN campaign))
+sid=0 spanning 13 until 14 headed by 13 parsed as Gore
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 3 until 9 headed by 4 parsed as (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT the) (NN hand) (NNS counts))))
+sid=1 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN hand) (NNS counts))
+sid=1 spanning 11 until 14 headed by 11 parsed as (NP (NP (NNS disputes)) (PP (IN over) (NP (NNS ballots))))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NNS ballots))
+sid=2 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NNS laws)) (PP (IN of) (NP (NP (NNP Texas) (CC and) (NNP Florida)) (CC and) (NP (JJ other) (NNS states)))))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NP (NNP Texas) (CC and) (NNP Florida)) (CC and) (NP (JJ other) (NNS states)))
+sid=2 spanning 3 until 9 headed by 3 parsed as (NP (NP (NNP Texas) (CC and) (NNP Florida)) (CC and) (NP (JJ other) (NNS states)))
+sid=2 spanning 3 until 6 headed by 3 parsed as (NP (NNP Texas) (CC and) (NNP Florida))
+sid=2 spanning 5 until 6 headed by 5 parsed as Florida
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (JJ other) (NNS states))
+sid=2 spanning 12 until 40 headed by 13 parsed as (NP (DT the) (NN reality) (SBAR (IN that) (S (NP (NP (DT the) (ADJP (RBS most) (JJ fair) (CC and) (JJ effective)) (NN way)) (SBAR (S (VP (VP (TO to) (VP (VB count) (NP (DT every) (JJ valid) (NN vote)))) (CC and) (VP (TO to) (VP (VB discern) (NP (NP (DT the) (NN intent)) (PP (IN of) (NP (DT the) (NN voter)))))))))) (VP (VBZ is) (NP (DT a) (JJ careful) (JJ fair) (NN hand) (NN count))))))
+sid=2 spanning 15 until 34 headed by 20 parsed as (NP (NP (DT the) (ADJP (RBS most) (JJ fair) (CC and) (JJ effective)) (NN way)) (SBAR (S (VP (VP (TO to) (VP (VB count) (NP (DT every) (JJ valid) (NN vote)))) (CC and) (VP (TO to) (VP (VB discern) (NP (NP (DT the) (NN intent)) (PP (IN of) (NP (DT the) (NN voter))))))))))
+sid=2 spanning 29 until 34 headed by 30 parsed as (NP (NP (DT the) (NN intent)) (PP (IN of) (NP (DT the) (NN voter))))
+sid=2 spanning 32 until 34 headed by 33 parsed as (NP (DT the) (NN voter))
+sid=2 spanning 35 until 40 headed by 39 parsed as (NP (DT a) (JJ careful) (JJ fair) (NN hand) (NN count))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT this) (NN process))
+sid=3 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT no) (NN court)) (, ,) (NP (NN state) (CC or) (JJ federal)))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT no) (NN court))
+sid=3 spanning 10 until 13 headed by 10 parsed as (NP (NN state) (CC or) (JJ federal))
+sid=3 spanning 16 until 25 headed by 17 parsed as (NP (DT the) (NN assertion) (SBAR (IN that) (S (NP (NN hand) (NNS recounts)) (VP (VBP are) (ADJP (JJ unfair) (CC or) (JJ unconstitutional))))))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (NN hand) (NNS recounts))
+(end predicted mentions)
+---------gold clusters--------
+3 2 | { 'this process' 'a careful fair hand count' }
+1 0 | { 'He' 'Former Senate Majority Leader George Mitchell' }
+(end gold clusters)

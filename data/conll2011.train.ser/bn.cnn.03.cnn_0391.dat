@@ -1,0 +1,48 @@
+---------gloss--------
+(0) Up first , on `` CNN Live Today '' , [1m[33m{sentencing this hour in the case of Sam Waksal , the man at the center of the Martha Stewart scandal}[0m . 
+(1) [1m[32m{He}[0m could become the highest ranking executive to go to prison in the recent series of corporate scandals . 
+(2) [1m[34m{CNN Financial News correspondent Chris Huntington}[0m is outside the federal courthouse where [1m[33m{sentencing}[0m is under way . 
+(3) [1m[34m{Chris ?}[0m 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0391); part 000
+sentences:
+UpupINOPER0firstfirstRBORDINALPER0,,,OPER0ononINOPER0``````WORK_OF_ARTCNNCNNNNPWORK_OF_ARTPER1LiveLiveNNPWORK_OF_ARTPER1TodayTodayNNPWORK_OF_ARTPER1''''''WORK_OF_ARTPER0,,,OPER0sentencingsentenceVBGOPER0thisthisDTTIMEPER0hourhourNNTIMEPER0ininINOPER0thetheDTOPER0casecaseNNOPER0ofofINOPER0SamSamNNPPERSONPER0WaksalWaksalNNPPERSONPER0,,,OPER0thetheDTOPER0manmanNNOPER0atatINOPER0thetheDTOPER0centercenterNNOPER0ofofINOPER0thetheDTOPER0MarthaMarthaNNPPERSONPER0StewartStewartNNPPERSONPER0scandalscandalNNOPER0...OPER0(ROOT (S (PP (IN Up) (ADVP (RB first))) (, ,) (PP (IN on) (NP (`` ``) (NNP CNN) (NNP Live) (NNP Today) ('' ''))) (, ,) (VP (VBG sentencing) (NP (DT this) (NN hour)) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (NNP Sam) (NNP Waksal)) (, ,) (NP (NP (DT the) (NN man)) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NML (NNP Martha) (NNP Stewart)) (NN scandal))))))))))) (. .)))
+HehePRPOPER0couldcouldMDOPER0becomebecomeVBOPER0thetheDTOPER0highesthighestJJSOPER0rankingrankVBGOPER0executiveexecutiveNNOPER0totoTOOPER0gogoVBOPER0totoINOPER0prisonprisonNNOPER0ininINOPER0thetheDTOPER0recentrecentJJOPER0seriesseriesNNOPER0ofofINOPER0corporatecorporateJJOPER0scandalsscandalNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (MD could) (VP (VB become) (NP (NP (DT the) (ADJP (JJS highest) (VBG ranking)) (NN executive)) (SBAR (S (VP (TO to) (VP (VB go) (PP (IN to) (NP (NN prison))) (PP (IN in) (NP (NP (DT the) (JJ recent) (NN series)) (PP (IN of) (NP (JJ corporate) (NNS scandals)))))))))))) (. .)))
+CNNCNNNNPORGPER0FinancialFinancialNNPORGPER0NewsNewsNNPORGPER0correspondentcorrespondentNNOPER0ChrisChrisNNPPERSONPER0HuntingtonHuntingtonNNPPERSONPER0isbeVBZOPER0outsideoutsideINOPER0thetheDTOPER0federalfederalJJOPER0courthousecourthouseNNOPER0wherewhereWRBOPER0sentencingsentencingNNOPER0isbeVBZOPER0underunderINOPER0waywayNNOPER0...OPER0(ROOT (S (NP (NML (NNP CNN) (NML (NNP Financial) (NNP News)) (NN correspondent)) (NNP Chris) (NNP Huntington)) (VP (VBZ is) (PP (IN outside) (NP (NP (DT the) (JJ federal) (NN courthouse)) (SBAR (WHADVP (WRB where)) (S (NP (NN sentencing)) (VP (VBZ is) (PP (IN under) (NP (NN way))))))))) (. .)))
+ChrisChrisNNPPERSONPER0??.OPER0(ROOT (NP (NNP Chris) (. ?)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 10 until 30 headed by 10 parsed as sentencing
+sid=0 spanning 17 until 30 headed by 18 parsed as (NP (NP (NNP Sam) (NNP Waksal)) (, ,) (NP (NP (DT the) (NN man)) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NML (NNP Martha) (NNP Stewart)) (NN scandal)))))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (NML (NNP CNN) (NML (NNP Financial) (NNP News)) (NN correspondent)) (NNP Chris) (NNP Huntington))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NN sentencing))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Chris) (. ?))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as first
+sid=0 spanning 4 until 9 headed by 7 parsed as (NP (`` ``) (NNP CNN) (NNP Live) (NNP Today) ('' ''))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT this) (NN hour))
+sid=0 spanning 14 until 30 headed by 15 parsed as (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (NNP Sam) (NNP Waksal)) (, ,) (NP (NP (DT the) (NN man)) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NML (NNP Martha) (NNP Stewart)) (NN scandal)))))))))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (NP (NNP Sam) (NNP Waksal)) (, ,) (NP (NP (DT the) (NN man)) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NML (NNP Martha) (NNP Stewart)) (NN scandal)))))))
+sid=0 spanning 17 until 30 headed by 18 parsed as (NP (NP (NNP Sam) (NNP Waksal)) (, ,) (NP (NP (DT the) (NN man)) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NML (NNP Martha) (NNP Stewart)) (NN scandal)))))))
+sid=0 spanning 20 until 30 headed by 21 parsed as (NP (NP (DT the) (NN man)) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NML (NNP Martha) (NNP Stewart)) (NN scandal))))))
+sid=0 spanning 23 until 30 headed by 24 parsed as (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NML (NNP Martha) (NNP Stewart)) (NN scandal))))
+sid=0 spanning 26 until 30 headed by 29 parsed as (NP (DT the) (NML (NNP Martha) (NNP Stewart)) (NN scandal))
+sid=0 spanning 27 until 29 headed by 28 parsed as Stewart
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 3 until 18 headed by 6 parsed as (NP (NP (DT the) (ADJP (JJS highest) (VBG ranking)) (NN executive)) (SBAR (S (VP (TO to) (VP (VB go) (PP (IN to) (NP (NN prison))) (PP (IN in) (NP (NP (DT the) (JJ recent) (NN series)) (PP (IN of) (NP (JJ corporate) (NNS scandals))))))))))
+sid=1 spanning 12 until 18 headed by 14 parsed as (NP (NP (DT the) (JJ recent) (NN series)) (PP (IN of) (NP (JJ corporate) (NNS scandals))))
+sid=1 spanning 16 until 18 headed by 17 parsed as (NP (JJ corporate) (NNS scandals))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (NML (NNP CNN) (NML (NNP Financial) (NNP News)) (NN correspondent)) (NNP Chris) (NNP Huntington))
+sid=2 spanning 0 until 3 headed by 2 parsed as News
+sid=2 spanning 8 until 16 headed by 10 parsed as (NP (NP (DT the) (JJ federal) (NN courthouse)) (SBAR (WHADVP (WRB where)) (S (NP (NN sentencing)) (VP (VBZ is) (PP (IN under) (NP (NN way)))))))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP Chris) (. ?))
+(end predicted mentions)
+---------gold clusters--------
+2 1 | { 'He' 'Sam Waksal , the man at the center of the Martha Stewart scandal' }
+0 4 | { 'sentencing this hour in the case of Sam Waksal , the man at the center of the Martha Stewart scandal' 'sentencing' }
+5 3 | { 'Chris ?' 'CNN Financial News correspondent Chris Huntington' }
+(end gold clusters)

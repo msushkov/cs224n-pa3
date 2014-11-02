@@ -1,0 +1,38 @@
+---------gloss--------
+(0) [3m[33m{Joseph P. Jordan , 52 years old ,}[0m becomes president , chief executive officer and a director of the bank company . 
+(1) [3m[33m{Mr. Jordan , formerly president and chief executive of Fishkill National Bank in Beacon , N.Y. ,}[0m succeeds Donald Broderick , who died at 52 in an automobile accident . 
+(end gloss)
+---------document--------
+(nw/wsj/05/wsj_0572); part 000
+sentences:
+JosephJosephNNPPERSONPER0P.P.NNPPERSONPER0JordanJordanNNPPERSONPER0,,,OPER05252CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0becomesbecomeVBZOPER0presidentpresidentNNOPER0,,,OPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0andandCCOPER0aaDTOPER0directordirectorNNOPER0ofofINOPER0thetheDTOPER0bankbankNNOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NP (NNP Joseph) (NNP P.) (NNP Jordan)) (, ,) (ADJP (NML (CD 52) (NNS years)) (JJ old)) (, ,)) (VP (VBZ becomes) (NP (NP (NP (NN president)) (, ,) (NP (JJ chief) (JJ executive) (NN officer)) (CC and) (NP (DT a) (NN director))) (PP (IN of) (NP (DT the) (NN bank) (NN company))))) (. .)))
+Mr.Mr.NNPOPER0JordanJordanNNPPERSONPER0,,,OPER0formerlyformerlyRBOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0executiveexecutiveNNOPER0ofofINOPER0FishkillFishkillNNPORGPER0NationalNationalNNPORGPER0BankBankNNPORGPER0ininINOPER0BeaconBeaconNNPGPEPER0,,,OPER0N.Y.N.Y.NNPGPEPER0,,,OPER0succeedssucceedVBZOPER0DonaldDonaldNNPPERSONPER0BroderickBroderickNNPPERSONPER0,,,OPER0whowhoWPOPER0dieddieVBDOPER0atatINOPER05252CDCARDINALPER0ininINOPER0anaDTOPER0automobileautomobileNNOPER0accidentaccidentNNOPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Jordan)) (, ,) (RRC (ADVP (RB formerly)) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NP (NNP Fishkill) (NNP National) (NNP Bank)) (PP (IN in) (NP (NP (NNP Beacon)) (, ,) (NP (NNP N.Y.)))))))) (, ,)) (VP (VBZ succeeds) (NP (NP (NNP Donald) (NNP Broderick)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN at) (NP (CD 52))) (PP (IN in) (NP (DT an) (NN automobile) (NN accident)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Joseph) (NNP P.) (NNP Jordan)) (, ,) (ADJP (NML (CD 52) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 0 until 17 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Jordan)) (, ,) (RRC (ADVP (RB formerly)) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NP (NNP Fishkill) (NNP National) (NNP Bank)) (PP (IN in) (NP (NP (NNP Beacon)) (, ,) (NP (NNP N.Y.)))))))) (, ,))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Joseph) (NNP P.) (NNP Jordan)) (, ,) (ADJP (NML (CD 52) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Joseph) (NNP P.) (NNP Jordan)) (, ,) (ADJP (NML (CD 52) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 4 until 7 headed by 6 parsed as old
+sid=0 spanning 9 until 21 headed by 9 parsed as (NP (NP (NP (NN president)) (, ,) (NP (JJ chief) (JJ executive) (NN officer)) (CC and) (NP (DT a) (NN director))) (PP (IN of) (NP (DT the) (NN bank) (NN company))))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (DT a) (NN director))
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NN bank) (NN company))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Jordan)) (, ,) (RRC (ADVP (RB formerly)) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NP (NNP Fishkill) (NNP National) (NNP Bank)) (PP (IN in) (NP (NP (NNP Beacon)) (, ,) (NP (NNP N.Y.)))))))) (, ,))
+sid=1 spanning 0 until 17 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Jordan)) (, ,) (RRC (ADVP (RB formerly)) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NP (NNP Fishkill) (NNP National) (NNP Bank)) (PP (IN in) (NP (NP (NNP Beacon)) (, ,) (NP (NNP N.Y.)))))))) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Jordan))
+sid=1 spanning 4 until 16 headed by 4 parsed as (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NP (NNP Fishkill) (NNP National) (NNP Bank)) (PP (IN in) (NP (NP (NNP Beacon)) (, ,) (NP (NNP N.Y.)))))))
+sid=1 spanning 9 until 16 headed by 11 parsed as (NP (NP (NNP Fishkill) (NNP National) (NNP Bank)) (PP (IN in) (NP (NP (NNP Beacon)) (, ,) (NP (NNP N.Y.)))))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NP (NNP Beacon)) (, ,) (NP (NNP N.Y.)))
+sid=1 spanning 13 until 16 headed by 13 parsed as (NP (NP (NNP Beacon)) (, ,) (NP (NNP N.Y.)))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP N.Y.))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (NP (NNP Donald) (NNP Broderick)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN at) (NP (CD 52))) (PP (IN in) (NP (DT an) (NN automobile) (NN accident)))))))
+sid=1 spanning 18 until 29 headed by 19 parsed as (NP (NP (NNP Donald) (NNP Broderick)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN at) (NP (CD 52))) (PP (IN in) (NP (DT an) (NN automobile) (NN accident)))))))
+sid=1 spanning 24 until 25 headed by 24 parsed as (NP (CD 52))
+sid=1 spanning 26 until 29 headed by 28 parsed as (NP (DT an) (NN automobile) (NN accident))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'Mr. Jordan , formerly president and chief executive of Fishkill National Bank in Beacon , N.Y. ,' 'Joseph P. Jordan , 52 years old ,' }
+(end gold clusters)

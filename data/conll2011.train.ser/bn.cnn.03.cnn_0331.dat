@@ -1,0 +1,173 @@
+---------gloss--------
+(0) And the growing number of [34m{SARS}[0m cases in [32m{China}[0m . 
+(1) [32m{The country}[0m reported now 160 new cases and nine more deaths . 
+(2) There are no signs that this infection rate has grown . 
+(3) Beijing remains the most affected part of [32m{the country}[0m , but figures show [34m{this disease}[0m is also spreading in northern China . 
+(4) 11:00 a.m. on the East Coast , 8:00 a.m. on the West . 
+(5) Leon Harris checking in here . 
+(6) Up first , searching for survivors , from [4m[36m{deadly tornadoes in the Midwest and the South}[0m . 
+(7) The path of destruction scratches through [4m[32m{Kansas}[0m , [4m[34m{Missouri}[0m , Arkansas and [33m{Tennessee}[0m . 
+(8) Cameras captured a tornado on the ground in [4m[34m{Missouri}[0m . 
+(9) The governor has declared a state of emergency after twisters struck several Western counties . 
+(10) 20 people were killed in [4m[34m{that state}[0m . 
+(11) In [4m[32m{Kansas}[0m , authorities say seven people were killed when tornadoes cut across the southeastern part of [4m[32m{the state}[0m . 
+(12) Several counties have been declared disaster areas there . 
+(13) Now , across [4m[31m{the region}[0m , [4m[36m{the storms}[0m demolished homes , ripped down power lines , uprooted trees . 
+(14) Search teams looking for people who are still missing . 
+(15) One of the sites proving to be the most deadly was the law enforcement center in [4m[35m{the western Tennessee city of Jackson}[0m . 
+(16) An emergency official tells [31m{CNN}[0m that ten people died there . 
+(17) Dozens were hurt . 
+(18) Joining [31m{us}[0m on the phone is [4m[33m{the mayor of Jackson , Tennessee , Charles Farmer}[0m . 
+(19) [4m[33m{Mayor Farmer}[0m , can [4m[33m{you}[0m give [31m{us}[0m the latest on [4m[33m{your}[0m town . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0331); part 000
+sentences:
+AndandCCOPER0thetheDTOPER0growinggrowVBGOPER0numbernumberNNOPER0ofofINOPER0SARSSARSNNPOPER0casescaseNNSOPER0ininINOPER0ChinaChinaNNPGPEPER0...OPER0(ROOT (FRAG (CC And) (NP (NP (DT the) (VBG growing) (NN number)) (PP (IN of) (NP (NNP SARS) (NNS cases)))) (PP (IN in) (NP (NNP China))) (. .)))
+ThetheDTOPER0countrycountryNNOPER0reportedreportVBDOPER0nownowRBDATEPER0160160CDCARDINALPER0newnewJJOPER0casescaseNNSOPER0andandCCOPER0ninenineCDCARDINALPER0moremoreJJROPER0deathsdeathNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN country)) (VP (VBD reported) (NP (ADVP (RB now)) (NP (CD 160) (JJ new) (NNS cases)) (CC and) (NP (QP (CD nine) (JJR more)) (NNS deaths)))) (. .)))
+TherethereEXOPER0arebeVBPOPER0nonoDTOPER0signssignNNSOPER0thatthatINOPER0thisthisDTOPER0infectioninfectionNNOPER0raterateNNOPER0hashaveVBZOPER0growngrowVBNOPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBP are) (NP (DT no) (NNS signs) (SBAR (IN that) (S (NP (DT this) (NN infection) (NN rate)) (VP (VBZ has) (VP (VBN grown))))))) (. .)))
+BeijingBeijingNNPGPEPER0remainsremainVBZOPER0thetheDTOPER0mostmostRBSOPER0affectedaffectedJJOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0countrycountryNNOPER0,,,OPER0butbutCCOPER0figuresfigureNNSOPER0showshowVBPOPER0thisthisDTOPER0diseasediseaseNNOPER0isbeVBZOPER0alsoalsoRBOPER0spreadingspreadVBGOPER0ininINOPER0northernnorthernJJOPER0ChinaChinaNNPGPEPER0...OPER0(ROOT (S (S (NP (NNP Beijing)) (VP (VBZ remains) (NP (NP (DT the) (ADJP (RBS most) (JJ affected)) (NN part)) (PP (IN of) (NP (DT the) (NN country)))))) (, ,) (CC but) (S (NP (NNS figures)) (VP (VBP show) (SBAR (S (NP (DT this) (NN disease)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG spreading) (PP (IN in) (NP (JJ northern) (NNP China))))))))) (. .)))
+11:0011:00CDTIMEPER0a.m.a.m.NNTIMEPER0ononINOPER0thetheDTLOCPER0EastEastNNPLOCPER0CoastCoastNNPLOCPER0,,,OPER08:008:00CDTIMEPER0a.m.a.m.NNTIMEPER0ononINOPER0thetheDTOPER0WestWestNNPOPER0...OPER0(ROOT (FRAG (NP (CD 11:00) (NN a.m.)) (PP (IN on) (NP (DT the) (NNP East) (NNP Coast))) (, ,) (NP (NP (CD 8:00) (NN a.m.)) (PP (IN on) (NP (DT the) (NNP West)))) (. .)))
+LeonLeonNNPPERSONPER0HarrisHarrisNNPPERSONPER0checkingcheckVBGOPER0ininRBOPER0herehereRBOPER0...OPER0(ROOT (FRAG (NP (NNP Leon) (NNP Harris)) (VP (VBG checking) (ADVP (RB in) (RB here))) (. .)))
+UpupRPOPER0firstfirstRBORDINALPER0,,,OPER0searchingsearchVBGOPER0forforINOPER0survivorssurvivorNNSOPER0,,,OPER0fromfromINOPER0deadlydeadlyJJOPER0tornadoestornadoNNSOPER0ininINOPER0thetheDTOPER0MidwestMidwestNNPLOCPER0andandCCOPER0thetheDTOPER0SouthSouthNNPLOCPER0...OPER0(ROOT (FRAG (PRT (RP Up)) (ADVP (RB first)) (, ,) (VP (VBG searching) (PP (IN for) (NP (NP (NNS survivors)) (, ,) (PP (IN from) (NP (NP (JJ deadly) (NNS tornadoes)) (PP (IN in) (NP (NP (DT the) (NNP Midwest)) (CC and) (NP (DT the) (NNP South))))))))) (. .)))
+ThetheDTOPER0pathpathNNOPER0ofofINOPER0destructiondestructionNNOPER0scratchesscratchVBZOPER0throughthroughINOPER0KansasKansasNNPGPEPER0,,,OPER0MissouriMissouriNNPGPEPER0,,,OPER0ArkansasArkansasNNPGPEPER0andandCCOPER0TennesseeTennesseeNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN path)) (PP (IN of) (NP (NN destruction)))) (VP (VBZ scratches) (PP (IN through) (NP (NNP Kansas) (, ,) (NNP Missouri) (, ,) (NNP Arkansas) (CC and) (NNP Tennessee)))) (. .)))
+CamerascameraNNSOPER0capturedcaptureVBDOPER0aaDTOPER0tornadotornadoNNOPER0ononINOPER0thetheDTOPER0groundgroundNNOPER0ininINOPER0MissouriMissouriNNPGPEPER0...OPER0(ROOT (S (NP (NNS Cameras)) (VP (VBD captured) (NP (NP (DT a) (NN tornado)) (PP (IN on) (NP (DT the) (NN ground)))) (PP (IN in) (NP (NNP Missouri)))) (. .)))
+ThetheDTOPER0governorgovernorNNOPER0hashaveVBZOPER0declareddeclareVBNOPER0aaDTOPER0statestateNNOPER0ofofINOPER0emergencyemergencyNNOPER0afterafterINOPER0twisterstwisterNNSOPER0struckstrikeVBDOPER0severalseveralJJOPER0WesternwesternJJOPER0countiescountyNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN governor)) (VP (VBZ has) (VP (VBN declared) (NP (NP (DT a) (NN state)) (PP (IN of) (NP (NN emergency)))) (SBAR (IN after) (S (NP (NNS twisters)) (VP (VBD struck) (NP (JJ several) (JJ Western) (NNS counties))))))) (. .)))
+2020CDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0ininINOPER0thatthatDTOPER0statestateNNOPER0...OPER0(ROOT (S (NP (CD 20) (NNS people)) (VP (VBD were) (VP (VBN killed) (PP (IN in) (NP (DT that) (NN state))))) (. .)))
+IninINOPER0KansasKansasNNPGPEPER0,,,OPER0authoritiesauthorityNNSOPER0saysayVBPOPER0sevensevenCDCARDINALPER0peoplepeopleNNSOPER0werebeVBDOPER0killedkillVBNOPER0whenwhenWRBOPER0tornadoestornadoNNSOPER0cutcutVBDOPER0acrossacrossINOPER0thetheDTOPER0southeasternsoutheasternJJOPER0partpartNNOPER0ofofINOPER0thetheDTOPER0statestateNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Kansas))) (, ,) (NP (NNS authorities)) (VP (VBP say) (SBAR (S (NP (CD seven) (NNS people)) (VP (VBD were) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (NNS tornadoes)) (VP (VBD cut) (PP (IN across) (NP (NP (DT the) (JJ southeastern) (NN part)) (PP (IN of) (NP (DT the) (NN state))))))))))))) (. .)))
+SeveralseveralJJOPER0countiescountyNNSOPER0havehaveVBPOPER0beenbeVBNOPER0declareddeclareVBNOPER0disasterdisasterNNOPER0areasareaNNSOPER0therethereRBOPER0...OPER0(ROOT (S (NP (JJ Several) (NNS counties)) (VP (VBP have) (VP (VBN been) (VP (VBN declared) (NP (NP (NN disaster) (NNS areas)) (ADVP (RB there)))))) (. .)))
+NownowUHOPER0,,,OPER0acrossacrossINOPER0thetheDTOPER0regionregionNNOPER0,,,OPER0thetheDTOPER0stormsstormNNSOPER0demolisheddemolishVBNOPER0homeshomeNNSOPER0,,,OPER0rippedripVBDOPER0downdownRPOPER0powerpowerNNOPER0lineslineNNSOPER0,,,OPER0uprooteduprootVBDOPER0treestreeNNSOPER0...OPER0(ROOT (S (INTJ (UH Now)) (, ,) (S (PP (IN across) (NP (DT the) (NN region))) (, ,) (NP (DT the) (NNS storms)) (VP (VBN demolished) (NP (NNS homes)))) (, ,) (VP (VP (VBD ripped) (PRT (RP down)) (NP (NN power) (NNS lines))) (, ,) (VP (VBD uprooted) (NP (NNS trees)))) (. .)))
+SearchsearchNNOPER0teamsteamNNSOPER0lookinglookVBGOPER0forforINOPER0peoplepeopleNNSOPER0whowhoWPOPER0arebeVBPOPER0stillstillRBOPER0missingmissVBGOPER0...OPER0(ROOT (S (NP (NN Search) (NNS teams)) (VP (VBG looking) (PP (IN for) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (ADVP (RB still)) (VP (VBG missing)))))))) (. .)))
+OneoneCDCARDINALPER0ofofINOPER0thetheDTOPER0sitessiteNNSOPER0provingproveVBGOPER0totoTOOPER0bebeVBOPER0thetheDTOPER0mostmostRBSOPER0deadlydeadlyJJOPER0wasbeVBDOPER0thetheDTOPER0lawlawNNOPER0enforcementenforcementNNOPER0centercenterNNOPER0ininINOPER0thetheDTOPER0westernwesternJJOPER0TennesseeTennesseeNNPGPEPER0citycityNNOPER0ofofINOPER0JacksonJacksonNNPGPEPER0...OPER0(ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (NNS sites)) (VP (VBG proving) (S (VP (TO to) (VP (VB be) (ADJP (DT the) (RBS most) (JJ deadly))))))))) (VP (VBD was) (NP (NP (DT the) (NML (NN law) (NN enforcement)) (NN center)) (PP (IN in) (NP (NP (DT the) (JJ western) (NNP Tennessee) (NN city)) (PP (IN of) (NP (NNP Jackson))))))) (. .)))
+AnaDTOPER0emergencyemergencyNNOPER0officialofficialNNOPER0tellstellVBZOPER0CNNCNNNNPORGPER0thatthatINOPER0tentenCDCARDINALPER0peoplepeopleNNSOPER0dieddieVBDOPER0therethereRBOPER0...OPER0(ROOT (S (NP (DT An) (NN emergency) (NN official)) (VP (VBZ tells) (NP (NNP CNN)) (SBAR (IN that) (S (NP (CD ten) (NNS people)) (VP (VBD died) (ADVP (RB there)))))) (. .)))
+DozensdozenNNSCARDINALPER0werebeVBDOPER0hurthurtVBNOPER0...OPER0(ROOT (S (NP (NNS Dozens)) (VP (VBD were) (VP (VBN hurt))) (. .)))
+JoiningjoinVBGOPER0uswePRPOPER0ononINOPER0thetheDTOPER0phonephoneNNOPER0isbeVBZOPER0thetheDTOPER0mayormayorNNOPER0ofofINOPER0JacksonJacksonNNPGPEPER0,,,OPER0TennesseeTennesseeNNPGPEPER0,,,OPER0CharlesCharlesNNPPERSONPER0FarmerFarmerNNPPERSONPER0...OPER0(ROOT (SINV (VP (VBG Joining) (NP (PRP us)) (PP (IN on) (NP (DT the) (NN phone)))) (VP (VBZ is) (NP (NP (DT the) (NN mayor)) (PP (IN of) (NP (NP (NNP Jackson)) (, ,) (NP (NNP Tennessee)) (, ,))))) (NP (NNP Charles) (NNP Farmer)) (. .)))
+MayorMayorNNPOPER0FarmerFarmerNNPPERSONPER0,,,OPER0cancanMDOPER0youyouPRPOPER0givegiveVBOPER0uswePRPOPER0thetheDTOPER0latestlatestJJSOPER0ononINOPER0youryouPRP$OPER0towntownNNOPER0...OPER0(ROOT (SQ (NP (NNP Mayor) (NNP Farmer)) (, ,) (MD can) (NP (PRP you)) (VP (VB give) (NP (PRP us)) (NP (NP (DT the) (JJS latest)) (PP (IN on) (NP (PRP$ your) (NN town))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 6 headed by 5 parsed as SARS
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP China))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN country))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN country))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT this) (NN disease))
+sid=6 spanning 8 until 16 headed by 9 parsed as (NP (NP (JJ deadly) (NNS tornadoes)) (PP (IN in) (NP (NP (DT the) (NNP Midwest)) (CC and) (NP (DT the) (NNP South)))))
+sid=6 spanning 11 until 16 headed by 12 parsed as (NP (NP (DT the) (NNP Midwest)) (CC and) (NP (DT the) (NNP South)))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Kansas) (, ,) (NNP Missouri) (, ,) (NNP Arkansas) (CC and) (NNP Tennessee))
+sid=7 spanning 8 until 9 headed by 8 parsed as Missouri
+sid=7 spanning 12 until 13 headed by 12 parsed as Tennessee
+sid=8 spanning 8 until 9 headed by 8 parsed as (NP (NNP Missouri))
+sid=10 spanning 5 until 7 headed by 6 parsed as (NP (DT that) (NN state))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (NNP Kansas))
+sid=11 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN state))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN region))
+sid=13 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS storms))
+sid=15 spanning 16 until 22 headed by 19 parsed as (NP (NP (DT the) (JJ western) (NNP Tennessee) (NN city)) (PP (IN of) (NP (NNP Jackson))))
+sid=15 spanning 18 until 19 headed by 18 parsed as Tennessee
+sid=16 spanning 4 until 5 headed by 4 parsed as (NP (NNP CNN))
+sid=18 spanning 1 until 2 headed by 1 parsed as (NP (PRP us))
+sid=18 spanning 6 until 15 headed by 7 parsed as (NP (NP (DT the) (NN mayor)) (PP (IN of) (NP (NP (NNP Jackson)) (, ,) (NP (NNP Tennessee)) (, ,))))
+sid=18 spanning 9 until 13 headed by 9 parsed as (NP (NP (NNP Jackson)) (, ,) (NP (NNP Tennessee)) (, ,))
+sid=18 spanning 11 until 12 headed by 11 parsed as (NP (NNP Tennessee))
+sid=19 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mayor) (NNP Farmer))
+sid=19 spanning 4 until 5 headed by 4 parsed as (NP (PRP you))
+sid=19 spanning 6 until 7 headed by 6 parsed as (NP (PRP us))
+sid=19 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ your) (NN town))
+sid=19 spanning 10 until 11 headed by 10 parsed as your
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 7 headed by 3 parsed as (NP (NP (DT the) (VBG growing) (NN number)) (PP (IN of) (NP (NNP SARS) (NNS cases))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP China))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN country))
+sid=1 spanning 3 until 11 headed by 6 parsed as (NP (ADVP (RB now)) (NP (CD 160) (JJ new) (NNS cases)) (CC and) (NP (QP (CD nine) (JJR more)) (NNS deaths)))
+sid=1 spanning 3 until 4 headed by 3 parsed as now
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (CD 160) (JJ new) (NNS cases))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (QP (CD nine) (JJR more)) (NNS deaths))
+sid=2 spanning 2 until 10 headed by 3 parsed as (NP (DT no) (NNS signs) (SBAR (IN that) (S (NP (DT this) (NN infection) (NN rate)) (VP (VBZ has) (VP (VBN grown))))))
+sid=2 spanning 5 until 8 headed by 7 parsed as (NP (DT this) (NN infection) (NN rate))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Beijing))
+sid=3 spanning 2 until 9 headed by 5 parsed as (NP (NP (DT the) (ADJP (RBS most) (JJ affected)) (NN part)) (PP (IN of) (NP (DT the) (NN country))))
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN country))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNS figures))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (DT this) (NN disease))
+sid=3 spanning 19 until 21 headed by 20 parsed as (NP (JJ northern) (NNP China))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (CD 11:00) (NN a.m.))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP East) (NNP Coast))
+sid=4 spanning 7 until 12 headed by 8 parsed as (NP (NP (CD 8:00) (NN a.m.)) (PP (IN on) (NP (DT the) (NNP West))))
+sid=4 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NNP West))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Leon) (NNP Harris))
+sid=6 spanning 1 until 2 headed by 1 parsed as first
+sid=6 spanning 5 until 16 headed by 5 parsed as (NP (NP (NNS survivors)) (, ,) (PP (IN from) (NP (NP (JJ deadly) (NNS tornadoes)) (PP (IN in) (NP (NP (DT the) (NNP Midwest)) (CC and) (NP (DT the) (NNP South)))))))
+sid=6 spanning 5 until 6 headed by 5 parsed as (NP (NNS survivors))
+sid=6 spanning 8 until 16 headed by 9 parsed as (NP (NP (JJ deadly) (NNS tornadoes)) (PP (IN in) (NP (NP (DT the) (NNP Midwest)) (CC and) (NP (DT the) (NNP South)))))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (NP (DT the) (NNP Midwest)) (CC and) (NP (DT the) (NNP South)))
+sid=6 spanning 11 until 16 headed by 12 parsed as (NP (NP (DT the) (NNP Midwest)) (CC and) (NP (DT the) (NNP South)))
+sid=6 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNP Midwest))
+sid=6 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NNP South))
+sid=7 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN path)) (PP (IN of) (NP (NN destruction))))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Kansas) (, ,) (NNP Missouri) (, ,) (NNP Arkansas) (CC and) (NNP Tennessee))
+sid=7 spanning 6 until 13 headed by 6 parsed as (NP (NNP Kansas) (, ,) (NNP Missouri) (, ,) (NNP Arkansas) (CC and) (NNP Tennessee))
+sid=7 spanning 8 until 9 headed by 8 parsed as Missouri
+sid=7 spanning 10 until 11 headed by 10 parsed as Arkansas
+sid=7 spanning 12 until 13 headed by 12 parsed as Tennessee
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (NNS Cameras))
+sid=8 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT a) (NN tornado)) (PP (IN on) (NP (DT the) (NN ground))))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN ground))
+sid=8 spanning 8 until 9 headed by 8 parsed as (NP (NNP Missouri))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN governor))
+sid=9 spanning 4 until 8 headed by 5 parsed as (NP (NP (DT a) (NN state)) (PP (IN of) (NP (NN emergency))))
+sid=9 spanning 9 until 10 headed by 9 parsed as (NP (NNS twisters))
+sid=9 spanning 11 until 14 headed by 13 parsed as (NP (JJ several) (JJ Western) (NNS counties))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (CD 20) (NNS people))
+sid=10 spanning 5 until 7 headed by 6 parsed as (NP (DT that) (NN state))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (NNP Kansas))
+sid=11 spanning 3 until 4 headed by 3 parsed as (NP (NNS authorities))
+sid=11 spanning 5 until 7 headed by 6 parsed as (NP (CD seven) (NNS people))
+sid=11 spanning 10 until 11 headed by 10 parsed as (NP (NNS tornadoes))
+sid=11 spanning 13 until 19 headed by 15 parsed as (NP (NP (DT the) (JJ southeastern) (NN part)) (PP (IN of) (NP (DT the) (NN state))))
+sid=11 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN state))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (JJ Several) (NNS counties))
+sid=12 spanning 5 until 8 headed by 6 parsed as (NP (NP (NN disaster) (NNS areas)) (ADVP (RB there)))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN region))
+sid=13 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS storms))
+sid=13 spanning 9 until 10 headed by 9 parsed as (NP (NNS homes))
+sid=13 spanning 13 until 15 headed by 14 parsed as (NP (NN power) (NNS lines))
+sid=13 spanning 17 until 18 headed by 17 parsed as (NP (NNS trees))
+sid=14 spanning 0 until 2 headed by 1 parsed as (NP (NN Search) (NNS teams))
+sid=14 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (ADVP (RB still)) (VP (VBG missing))))))
+sid=15 spanning 0 until 10 headed by 0 parsed as (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (NNS sites)) (VP (VBG proving) (S (VP (TO to) (VP (VB be) (ADJP (DT the) (RBS most) (JJ deadly)))))))))
+sid=15 spanning 11 until 22 headed by 14 parsed as (NP (NP (DT the) (NML (NN law) (NN enforcement)) (NN center)) (PP (IN in) (NP (NP (DT the) (JJ western) (NNP Tennessee) (NN city)) (PP (IN of) (NP (NNP Jackson))))))
+sid=15 spanning 16 until 22 headed by 19 parsed as (NP (NP (DT the) (JJ western) (NNP Tennessee) (NN city)) (PP (IN of) (NP (NNP Jackson))))
+sid=15 spanning 18 until 19 headed by 18 parsed as Tennessee
+sid=15 spanning 21 until 22 headed by 21 parsed as (NP (NNP Jackson))
+sid=16 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (NN emergency) (NN official))
+sid=16 spanning 4 until 5 headed by 4 parsed as (NP (NNP CNN))
+sid=16 spanning 6 until 8 headed by 7 parsed as (NP (CD ten) (NNS people))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (NNS Dozens))
+sid=18 spanning 1 until 2 headed by 1 parsed as (NP (PRP us))
+sid=18 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN phone))
+sid=18 spanning 6 until 13 headed by 7 parsed as (NP (NP (DT the) (NN mayor)) (PP (IN of) (NP (NP (NNP Jackson)) (, ,) (NP (NNP Tennessee)) (, ,))))
+sid=18 spanning 9 until 10 headed by 9 parsed as (NP (NP (NNP Jackson)) (, ,) (NP (NNP Tennessee)) (, ,))
+sid=18 spanning 9 until 13 headed by 9 parsed as (NP (NP (NNP Jackson)) (, ,) (NP (NNP Tennessee)) (, ,))
+sid=18 spanning 11 until 12 headed by 11 parsed as (NP (NNP Tennessee))
+sid=18 spanning 13 until 15 headed by 14 parsed as (NP (NNP Charles) (NNP Farmer))
+sid=19 spanning 1 until 2 headed by 1 parsed as (NP (NNP Mayor) (NNP Farmer))
+sid=19 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mayor) (NNP Farmer))
+sid=19 spanning 4 until 5 headed by 4 parsed as (NP (PRP you))
+sid=19 spanning 6 until 7 headed by 6 parsed as (NP (PRP us))
+sid=19 spanning 7 until 12 headed by 8 parsed as (NP (NP (DT the) (JJS latest)) (PP (IN on) (NP (PRP$ your) (NN town))))
+sid=19 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ your) (NN town))
+sid=19 spanning 10 until 11 headed by 10 parsed as (PRP$ your)
+(end predicted mentions)
+---------gold clusters--------
+14 6 | { 'the region' 'the Midwest and the South' }
+7 13 12 | { 'Kansas' 'the state' 'Kansas' }
+24 23 27 20 | { 'you' 'Mayor Farmer' 'your' 'the mayor of Jackson , Tennessee , Charles Farmer' }
+10 8 11 | { 'Missouri' 'Missouri' 'that state' }
+21 26 16 | { 'Jackson , Tennessee ,' 'your town' 'the western Tennessee city of Jackson' }
+15 5 | { 'the storms' 'deadly tornadoes in the Midwest and the South' }
+19 25 18 | { 'us' 'us' 'CNN' }
+3 1 2 | { 'the country' 'China' 'The country' }
+9 17 22 | { 'Tennessee' 'Tennessee' 'Tennessee' }
+0 4 | { 'SARS' 'this disease' }
+(end gold clusters)

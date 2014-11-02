@@ -1,0 +1,68 @@
+---------gloss--------
+(0) [34m{Yugoslavia 's}[0m new President , Vojislav Kostunica , is still having trouble consolidating [36m{his}[0m power . 
+(1) [36m{Kostunica 's}[0m supporters and allies of Slobodan Milosevic failed to agree [35m{today}[0m on a transitional government and a new election in [34m{Yugoslavia 's}[0m main republic , Serbia . 
+(2) [36m{Kostunica}[0m is enjoying more success abroad . 
+(3) [36m{He}[0m got some support [35m{today}[0m as [36m{he}[0m attended a summit of [1m[31m{European Union}[0m leaders in France . 
+(4) [1m[31m{The EU}[0m promised [34m{Yugoslavia}[0m $ 175 million in aid without attaching conditions . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0035); part 000
+sentences:
+YugoslaviaYugoslaviaNNPORGPER0's'sPOSOPER0newnewJJOPER0PresidentPresidentNNPOPER0,,,OPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0,,,OPER0isbeVBZOPER0stillstillRBOPER0havinghaveVBGOPER0troubletroubleNNOPER0consolidatingconsolidateVBGOPER0hishePRP$OPER0powerpowerNNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President)) (, ,) (NP (NNP Vojislav) (NNP Kostunica)) (, ,)) (VP (VBZ is) (ADVP (RB still)) (VP (VBG having) (NP (NP (NN trouble)) (S (VP (VBG consolidating) (NP (PRP$ his) (NN power))))))) (. .)))
+KostunicaKostunicaNNPPERSONPER0's'sPOSOPER0supporterssupporterNNSOPER0andandCCOPER0alliesallyNNSOPER0ofofINOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0failedfailVBDOPER0totoTOOPER0agreeagreeVBOPER0todaytodayNNDATEPER0ononINOPER0aaDTOPER0transitionaltransitionalJJOPER0governmentgovernmentNNOPER0andandCCOPER0aaDTOPER0newnewJJOPER0electionelectionNNOPER0ininINOPER0YugoslaviaYugoslaviaNNPGPEPER0's'sPOSOPER0mainmainJJOPER0republicrepublicNNOPER0,,,OPER0SerbiaSerbiaNNPGPEPER0...OPER0(ROOT (S (NP (NP (NP (NNP Kostunica) (POS 's)) (NNS supporters) (CC and) (NNS allies)) (PP (IN of) (NP (NNP Slobodan) (NNP Milosevic)))) (VP (VBD failed) (S (VP (TO to) (VP (VB agree) (NP (NN today)) (PP (IN on) (NP (NP (DT a) (JJ transitional) (NN government)) (CC and) (NP (NP (DT a) (JJ new) (NN election)) (PP (IN in) (NP (NP (NNP Yugoslavia) (POS 's)) (JJ main) (NN republic)))))) (, ,) (NP (NNP Serbia)))))) (. .)))
+KostunicaKostunicaNNPPERSONPER0isbeVBZOPER0enjoyingenjoyVBGOPER0moremoreJJROPER0successsuccessNNOPER0abroadabroadRBOPER0...OPER0(ROOT (S (NP (NNP Kostunica)) (VP (VBZ is) (VP (VBG enjoying) (NP (JJR more) (NN success)) (ADVP (RB abroad)))) (. .)))
+HehePRPOPER0gotgetVBDOPER0somesomeDTOPER0supportsupportNNOPER0todaytodayNNDATEPER0asasINOPER0hehePRPOPER0attendedattendVBDOPER0aaDTOPER0summitsummitNNOPER0ofofINOPER0EuropeanEuropeanNNPORGPER0UnionUnionNNPORGPER0leadersleaderNNSOPER0ininINOPER0FranceFranceNNPGPEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD got) (NP (DT some) (NN support)) (NP (NN today)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD attended) (NP (NP (DT a) (NN summit)) (PP (IN of) (NP (NP (NML (NNP European) (NNP Union)) (NNS leaders)) (PP (IN in) (NP (NNP France)))))))))) (. .)))
+ThetheDTOPER0EUEUNNPORGPER0promisedpromiseVBDOPER0YugoslaviaYugoslaviaNNPGPEPER0$$$MONEYPER0175175CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0aidaidNNOPER0withoutwithoutINOPER0attachingattachVBGOPER0conditionsconditionNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNP EU)) (VP (VBD promised) (NP (NNP Yugoslavia)) (NP (NP (QP ($ $) (CD 175) (CD million))) (PP (IN in) (NP (NN aid)))) (PP (IN without) (S (VP (VBG attaching) (NP (NNS conditions)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 3 parsed as (NP (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President)) (, ,) (NP (NNP Vojislav) (NNP Kostunica)) (, ,))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=0 spanning 13 until 14 headed by 13 parsed as his
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Kostunica) (POS 's))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NN today))
+sid=1 spanning 21 until 23 headed by 21 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Kostunica))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NN today))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=3 spanning 11 until 13 headed by 12 parsed as Union
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP EU))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Yugoslavia))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 8 headed by 3 parsed as (NP (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President)) (, ,) (NP (NNP Vojislav) (NNP Kostunica)) (, ,))
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP Yugoslavia) (POS 's)) (JJ new) (NNP President))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 11 until 15 headed by 11 parsed as (NP (NP (NN trouble)) (S (VP (VBG consolidating) (NP (PRP$ his) (NN power)))))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ his) (NN power))
+sid=0 spanning 13 until 14 headed by 13 parsed as (PRP$ his)
+sid=1 spanning 0 until 8 headed by 2 parsed as (NP (NP (NP (NNP Kostunica) (POS 's)) (NNS supporters) (CC and) (NNS allies)) (PP (IN of) (NP (NNP Slobodan) (NNP Milosevic))))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Kostunica) (POS 's))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 13 until 25 headed by 15 parsed as (NP (NP (DT a) (JJ transitional) (NN government)) (CC and) (NP (NP (DT a) (JJ new) (NN election)) (PP (IN in) (NP (NP (NNP Yugoslavia) (POS 's)) (JJ main) (NN republic)))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (JJ transitional) (NN government))
+sid=1 spanning 17 until 25 headed by 19 parsed as (NP (NP (DT a) (JJ new) (NN election)) (PP (IN in) (NP (NP (NNP Yugoslavia) (POS 's)) (JJ main) (NN republic))))
+sid=1 spanning 21 until 25 headed by 24 parsed as (NP (NP (NNP Yugoslavia) (POS 's)) (JJ main) (NN republic))
+sid=1 spanning 21 until 23 headed by 21 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=1 spanning 26 until 27 headed by 26 parsed as (NP (NNP Serbia))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Kostunica))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (JJR more) (NN success))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT some) (NN support))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=3 spanning 8 until 16 headed by 9 parsed as (NP (NP (DT a) (NN summit)) (PP (IN of) (NP (NP (NML (NNP European) (NNP Union)) (NNS leaders)) (PP (IN in) (NP (NNP France))))))
+sid=3 spanning 11 until 16 headed by 13 parsed as (NP (NP (NML (NNP European) (NNP Union)) (NNS leaders)) (PP (IN in) (NP (NNP France))))
+sid=3 spanning 11 until 13 headed by 12 parsed as Union
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (NNP France))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP EU))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (NNP Yugoslavia))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNS conditions))
+(end predicted mentions)
+---------gold clusters--------
+1 12 5 | { 'Yugoslavia 's' 'Yugoslavia' 'Yugoslavia 's' }
+4 8 | { 'today' 'today' }
+0 9 6 3 7 2 | { 'Yugoslavia 's new President , Vojislav Kostunica ,' 'he' 'Kostunica' 'Kostunica 's' 'He' 'his' }
+10 11 | { 'European Union' 'The EU' }
+(end gold clusters)

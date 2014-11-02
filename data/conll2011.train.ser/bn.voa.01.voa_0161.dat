@@ -1,0 +1,38 @@
+---------gloss--------
+(0) [1m[35m{The US missile destroyer ` Cole ' , badly damaged by a terrorist bombing in Yemen two months ago ,}[0m has returned to a shipyard in the southern United States for repairs . 
+(1) Carried by another large vessel [1m[35m{the crippled US destroyer}[0m completed [1m[35m{its}[0m long trip across the Atlantic Ocean Wednesday . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0161); part 000
+sentences:
+ThetheDTOPER0USUSNNPORGPER0missilemissileNNOPER0destroyerdestroyerNNOPER0````OPER0ColeColeNNPPERSONPER0''''OPER0,,,OPER0badlybadlyRBOPER0damageddamageVBNOPER0bybyINOPER0aaDTOPER0terroristterroristJJOPER0bombingbombingNNOPER0ininINOPER0YemenYemenNNPGPEPER0twotwoCDDATEPER0monthsmonthNNSDATEPER0agoagoRBDATEPER0,,,OPER0hashaveVBZOPER0returnedreturnVBNOPER0totoINOPER0aaDTOPER0shipyardshipyardNNOPER0ininINOPER0thetheDTOPER0southernsouthernJJOPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0forforINOPER0repairsrepairNNSOPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NML (NNP US) (NN missile)) (NN destroyer)) (NP (`` `) (NNP Cole) ('' '))) (, ,) (VP (ADVP (RB badly)) (VBN damaged) (PP (IN by) (NP (NP (DT a) (JJ terrorist) (NN bombing)) (PP (IN in) (NP (NNP Yemen))) (ADVP (NP (CD two) (NNS months)) (RB ago))))) (, ,)) (VP (VBZ has) (VP (VBN returned) (PP (IN to) (NP (NP (DT a) (NN shipyard)) (PP (IN in) (NP (NP (DT the) (JJ southern) (NNP United) (NNP States)) (PP (IN for) (NP (NNS repairs))))))))) (. .)))
+CarriedcarryVBNOPER0bybyINOPER0anotheranotherDTOPER0largelargeJJOPER0vesselvesselNNOPER0thetheDTOPER0crippledcrippledJJOPER0USUSNNPGPEPER0destroyerdestroyerNNOPER0completedcompleteVBDOPER0itsitsPRP$OPER0longlongJJOPER0triptripNNOPER0acrossacrossINOPER0thetheDTLOCPER0AtlanticAtlanticNNPLOCPER0OceanOceanNNPLOCPER0WednesdayWednesdayNNPDATEPER0...OPER0(ROOT (S (S (VP (VBN Carried) (PP (IN by) (NP (DT another) (JJ large) (NN vessel))))) (NP (DT the) (JJ crippled) (NNP US) (NN destroyer)) (VP (VBD completed) (NP (NP (PRP$ its) (JJ long) (NN trip)) (PP (IN across) (NP (DT the) (NNP Atlantic) (NNP Ocean)))) (NP (NNP Wednesday))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 20 headed by 3 parsed as (NP (NP (NP (DT The) (NML (NNP US) (NN missile)) (NN destroyer)) (NP (`` `) (NNP Cole) ('' '))) (, ,) (VP (ADVP (RB badly)) (VBN damaged) (PP (IN by) (NP (NP (DT a) (JJ terrorist) (NN bombing)) (PP (IN in) (NP (NNP Yemen))) (ADVP (NP (CD two) (NNS months)) (RB ago))))) (, ,))
+sid=1 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (JJ crippled) (NNP US) (NN destroyer))
+sid=1 spanning 10 until 11 headed by 10 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 20 headed by 3 parsed as (NP (NP (NP (DT The) (NML (NNP US) (NN missile)) (NN destroyer)) (NP (`` `) (NNP Cole) ('' '))) (, ,) (VP (ADVP (RB badly)) (VBN damaged) (PP (IN by) (NP (NP (DT a) (JJ terrorist) (NN bombing)) (PP (IN in) (NP (NNP Yemen))) (ADVP (NP (CD two) (NNS months)) (RB ago))))) (, ,))
+sid=0 spanning 0 until 7 headed by 3 parsed as (NP (NP (DT The) (NML (NNP US) (NN missile)) (NN destroyer)) (NP (`` `) (NNP Cole) ('' ')))
+sid=0 spanning 1 until 2 headed by 1 parsed as US
+sid=0 spanning 4 until 7 headed by 5 parsed as (NP (`` `) (NNP Cole) ('' '))
+sid=0 spanning 11 until 19 headed by 13 parsed as (NP (NP (DT a) (JJ terrorist) (NN bombing)) (PP (IN in) (NP (NNP Yemen))) (ADVP (NP (CD two) (NNS months)) (RB ago)))
+sid=0 spanning 15 until 16 headed by 15 parsed as (NP (NNP Yemen))
+sid=0 spanning 16 until 19 headed by 18 parsed as ago
+sid=0 spanning 23 until 32 headed by 24 parsed as (NP (NP (DT a) (NN shipyard)) (PP (IN in) (NP (NP (DT the) (JJ southern) (NNP United) (NNP States)) (PP (IN for) (NP (NNS repairs))))))
+sid=0 spanning 26 until 32 headed by 29 parsed as (NP (NP (DT the) (JJ southern) (NNP United) (NNP States)) (PP (IN for) (NP (NNS repairs))))
+sid=0 spanning 31 until 32 headed by 31 parsed as (NP (NNS repairs))
+sid=1 spanning 2 until 5 headed by 4 parsed as (NP (DT another) (JJ large) (NN vessel))
+sid=1 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (JJ crippled) (NNP US) (NN destroyer))
+sid=1 spanning 7 until 8 headed by 7 parsed as US
+sid=1 spanning 10 until 17 headed by 12 parsed as (NP (NP (PRP$ its) (JJ long) (NN trip)) (PP (IN across) (NP (DT the) (NNP Atlantic) (NNP Ocean))))
+sid=1 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=1 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Atlantic) (NNP Ocean))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Wednesday))
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'its' 'The US missile destroyer ` Cole ' , badly damaged by a terrorist bombing in Yemen two months ago ,' 'the crippled US destroyer' }
+(end gold clusters)

@@ -1,0 +1,326 @@
+---------gloss--------
+(0) Good evening . 
+(1) [3m[31m{George W. Bush}[0m has [36m{chosen}[0m [33m{the person he wants to be Attorney General}[0m . 
+(2) [33m{He}[0m is the 58 - year - old , soon to be former Senator John Ashcroft of [1m[36m{Missouri}[0m . 
+(3) [33m{Senator Ashcroft}[0m [31m{lost}[0m [33m{his}[0m bid for re-election this year . 
+(4) [33m{The senator}[0m is a former law professor and former Attorney General of [1m[36m{Missouri}[0m and Governor , from [3m[33m{the conservative wing of the Republican Party}[0m , and some of [3m[36m{the positions he 's taken as a politician}[0m have galvanized liberal opposition to [33m{his}[0m nomination [1m[33m{today}[0m . 
+(5) [3m[35m{ABC 's Mike Von Fremd}[0m is with us this evening from Austin , [32m{Texas}[0m . 
+(6) [3m[35m{Mike ?}[0m 
+(7) Reporter : 
+(8) [35m{Peter}[0m , [33m{Senator John Ashcroft}[0m is clearly [3m[31m{the President - elect 's}[0m most controversial nominee to date . 
+(9) Many of [33m{his}[0m positions are bound to upset Democrats . 
+(10) [3m[31m{He}[0m said [33m{Ashcroft}[0m would serve everyone . 
+(11) [33m{He}[0m will be faithful to the law , pursuing justice without favor . 
+(12) Reporter : 
+(13) The American Conservative Union gives [33m{him}[0m a top approval rating . 
+(14) [33m{He}[0m has voted against some tobacco regulations , against expanding hate crime legislation and against allowing abortions at military hospitals . 
+(15) A record that troubles most Democratic constituencies . 
+(16) For [3m[31m{a President - elect who is committed to uniting the country and not dividing it}[0m , [36m{this nomination}[0m is one of the most divisive [3m[31m{he}[0m could have chosen . 
+(17) We are tremendously concerned that [36m{this}[0m is a harbinger of things to come . 
+(18) Reporter : 
+(19) [33m{Mr. Ashcroft}[0m has also angered civil rights groups . 
+(20) [33m{He}[0m blocked [3m[32m{the nomination of Missouri Supreme Court Judge Ronnie White to the federal bench}[0m . 
+(21) [34m{Judge White}[0m was the first black member of [1m[36m{Missouri 's}[0m Supreme . 
+(22) [33m{Ashcroft}[0m said [34m{the judge}[0m was soft on criminals . 
+(23) [33m{He}[0m had [33m{his}[0m reasons for blocking [3m[32m{a single nomination}[0m , and [3m[31m{I}[0m thought about [1m[32m{that}[0m , and [3m[31m{I}[0m looked at the facts , and [3m[31m{I}[0m listened to [33m{him}[0m , and there 's no question in [3m[31m{my}[0m mind that [33m{this}[0m is a person who believes in civil rights for all citizens . 
+(24) Reporter : 
+(25) If [33m{he}[0m is confirmed , [33m{the outgoing senator}[0m said [33m{he}[0m would be an effective Attorney General . 
+(26) [33m{I}[0m will enforce the laws of [1m[35m{the United States of America}[0m with integrity . 
+(27) Reporter : 
+(28) [33m{Ashcroft}[0m said [33m{his}[0m recent loss in the U.S. Senate race has given [33m{him}[0m time to reflect . 
+(29) [3m[34m{Political defeat}[0m brings more than emotion and pain . 
+(30) [3m[34m{It}[0m brings perspective , and [1m[33m{today}[0m , for Janet and [33m{me}[0m , [3m[34m{it}[0m brings a renewed and noble call to public service . 
+(31) Reporter : 
+(32) Now [36m{this}[0m is the first nomination to have been even mildly controversial , but [36m{it}[0m does go a long way to satisfy [3m[33m{the conservative wing of Mr. Bush 's party}[0m . 
+(33) And [35m{Peter}[0m , [3m[31m{he}[0m 'll need [3m[33m{them}[0m when [3m[31m{he}[0m begins to govern . 
+(34) Thank [3m[35m{you}[0m very much , [3m[35m{Mike Von Fremd in Texas tonight}[0m . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0055); part 000
+sentences:
+GoodgoodJJOPER0eveningeveningNNTIMEPER0...OPER0(ROOT (INTJ (JJ Good) (NN evening) (. .)))
+GeorgeGeorgeNNPPERSONPER0W.W.NNPPERSONPER0BushBushNNPPERSONPER0hashaveVBZOPER0chosenchooseVBNOPER0thetheDTOPER0personpersonNNOPER0hehePRPOPER0wantswantVBZOPER0totoTOOPER0bebeVBOPER0AttorneyAttorneyNNPOPER0GeneralGeneralNNPOPER0...OPER0(ROOT (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (VBZ has) (VP (VBN chosen) (NP (NP (DT the) (NN person)) (SBAR (S (NP (PRP he)) (VP (VBZ wants) (S (VP (TO to) (VP (VB be) (NP (NNP Attorney) (NNP General))))))))))) (. .)))
+HehePRPOPER0isbeVBZOPER0thetheDTOPER05858CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0,,,OPER0soonsoonRBOPER0totoTOOPER0bebeVBOPER0formerformerJJOPER0SenatorSenatorNNPOPER0JohnJohnNNPPERSONPER0AshcroftAshcroftNNPPERSONPER0ofofINOPER0MissouriMissouriNNPGPEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ is) (NP (DT the) (ADJP (NML (CD 58) (HYPH -) (NN year)) (HYPH -) (JJ old))) (, ,) (S (ADVP (RB soon)) (VP (TO to) (VP (VB be) (NP (NP (NML (JJ former) (NNP Senator)) (NNP John) (NNP Ashcroft)) (PP (IN of) (NP (NNP Missouri)))))))) (. .)))
+SenatorSenatorNNPOPER0AshcroftAshcroftNNPPERSONPER0lostloseVBDOPER0hishePRP$OPER0bidbidNNOPER0forforINOPER0re-electionre-electionNNOPER0thisthisDTDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NNP Senator) (NNP Ashcroft)) (VP (VBD lost) (NP (NP (PRP$ his) (NN bid)) (PP (IN for) (NP (NN re-election)))) (NP (DT this) (NN year))) (. .)))
+ThetheDTOPER0senatorsenatorNNOPER0isbeVBZOPER0aaDTOPER0formerformerJJOPER0lawlawNNOPER0professorprofessorNNOPER0andandCCOPER0formerformerJJOPER0AttorneyAttorneyNNPOPER0GeneralGeneralNNPOPER0ofofINOPER0MissouriMissouriNNPGPEPER0andandCCOPER0GovernorGovernorNNPOPER0,,,OPER0fromfromINOPER0thetheDTOPER0conservativeconservativeJJOPER0wingwingNNOPER0ofofINOPER0thetheDTORGPER0RepublicanRepublicanNNPORGPER0PartyPartyNNPORGPER0,,,OPER0andandCCOPER0somesomeDTOPER0ofofINOPER0thetheDTOPER0positionspositionNNSOPER0hehePRPOPER0'sbeVBZOPER0takentakeVBNOPER0asasINOPER0aaDTOPER0politicianpoliticianNNOPER0havehaveVBPOPER0galvanizedgalvanizeVBNOPER0liberalliberalJJOPER0oppositionoppositionNNOPER0totoINOPER0hishePRP$OPER0nominationnominationNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (S (NP (DT The) (NN senator)) (VP (VBZ is) (NP (NP (DT a) (NML (JJ former) (NN law)) (NN professor)) (CC and) (NP (NP (JJ former) (NNP Attorney) (NNP General)) (PP (IN of) (NP (NP (NNP Missouri)) (CC and) (NP (NNP Governor)))))) (, ,) (PP (IN from) (NP (NP (DT the) (JJ conservative) (NN wing)) (PP (IN of) (NP (DT the) (NNP Republican) (NNP Party))))))) (, ,) (CC and) (S (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS positions)) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN taken) (PP (IN as) (NP (DT a) (NN politician)))))))))) (VP (VBP have) (VP (VBN galvanized) (NP (NP (JJ liberal) (NN opposition)) (PP (IN to) (NP (NP (PRP$ his) (NN nomination)) (NP (NN today)))))))) (. .)))
+ABCABCNNPORGPER0's'sPOSOPER0MikeMikeNNPPERSONPER0VonVonNNPPERSONPER0FremdFremdNNPPERSONPER0isbeVBZOPER0withwithINOPER0uswePRPOPER0thisthisDTOPER0eveningeveningNNTIMEPER0fromfromINOPER0AustinAustinNNPGPEPER0,,,OPER0TexasTexasNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP ABC) (POS 's)) (NNP Mike) (NNP Von) (NNP Fremd)) (VP (VBZ is) (PP (IN with) (NP (PRP us))) (NP (NP (DT this) (NN evening)) (PP (IN from) (NP (NNP Austin) (, ,) (NNP Texas))))) (. .)))
+MikeMikeNNPPERSONPER0??.OPER0(ROOT (NP (NNP Mike) (. ?)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+PeterPeterNNPPERSONPER0,,,OPER0SenatorSenatorNNPOPER0JohnJohnNNPPERSONPER0AshcroftAshcroftNNPPERSONPER0isbeVBZOPER0clearlyclearlyRBOPER0thetheDTOPER0PresidentPresidentNNPOPER0--HYPHOPER0electelectNNPOPER0's'sPOSOPER0mostmostRBSOPER0controversialcontroversialJJOPER0nomineenomineeNNOPER0totoINOPER0datedateNNOPER0...OPER0(ROOT (S (NP (NML (NNP Peter) (, ,) (NNP Senator)) (NNP John) (NNP Ashcroft)) (VP (VBZ is) (ADVP (RB clearly)) (NP (NP (NP (DT the) (NML (NNP President) (HYPH -) (NNP elect)) (POS 's)) (ADJP (RBS most) (JJ controversial)) (NN nominee)) (PP (IN to) (NP (NN date))))) (. .)))
+ManymanyJJOPER0ofofINOPER0hishePRP$OPER0positionspositionNNSOPER0arebeVBPOPER0boundbindVBNOPER0totoTOOPER0upsetupsetVBOPER0DemocratsDemocratsNNPSOPER0...OPER0(ROOT (S (NP (NP (JJ Many)) (PP (IN of) (NP (PRP$ his) (NNS positions)))) (VP (VBP are) (VP (VBN bound) (S (VP (TO to) (VP (VB upset) (NP (NNPS Democrats))))))) (. .)))
+HehePRPOPER0saidsayVBDOPER0AshcroftAshcroftNNPPERSONPER0wouldwouldMDOPER0serveserveVBOPER0everyoneeveryoneNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NNP Ashcroft)) (VP (MD would) (VP (VB serve) (NP (NN everyone))))))) (. .)))
+HehePRPOPER0willwillMDOPER0bebeVBOPER0faithfulfaithfulJJOPER0totoINOPER0thetheDTOPER0lawlawNNOPER0,,,OPER0pursuingpursueVBGOPER0justicejusticeNNOPER0withoutwithoutINOPER0favorfavorNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (MD will) (VP (VB be) (ADJP (JJ faithful) (PP (IN to) (NP (DT the) (NN law)))) (, ,) (S (VP (VBG pursuing) (NP (NN justice)) (PP (IN without) (NP (NN favor))))))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+ThetheDTORGPER0AmericanAmericanNNPORGPER0ConservativeConservativeNNPORGPER0UnionUnionNNPORGPER0givesgiveVBZOPER0himhePRPOPER0aaDTOPER0toptopJJOPER0approvalapprovalNNOPER0ratingratingNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP American) (NNP Conservative) (NNP Union)) (VP (VBZ gives) (NP (PRP him)) (NP (DT a) (JJ top) (NN approval) (NN rating))) (. .)))
+HehePRPOPER0hashaveVBZOPER0votedvoteVBNOPER0againstagainstINOPER0somesomeDTOPER0tobaccotobaccoNNOPER0regulationsregulationNNSOPER0,,,OPER0againstagainstINOPER0expandingexpandVBGOPER0hatehateNNOPER0crimecrimeNNOPER0legislationlegislationNNOPER0andandCCOPER0againstagainstINOPER0allowingallowVBGOPER0abortionsabortionNNSOPER0atatINOPER0militarymilitaryJJOPER0hospitalshospitalNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ has) (VP (VBN voted) (PP (PP (IN against) (NP (DT some) (NN tobacco) (NNS regulations))) (, ,) (PP (IN against) (S (VP (VBG expanding) (NP (NML (NN hate) (NN crime)) (NN legislation))))) (CC and) (PP (IN against) (S (VP (VBG allowing) (NP (NP (NNS abortions)) (PP (IN at) (NP (JJ military) (NNS hospitals)))))))))) (. .)))
+AaDTOPER0recordrecordNNOPER0thatthatWDTOPER0troublestroubleNNSOPER0mostmostRBSOPER0DemocraticdemocraticJJOPER0constituenciesconstituencyNNSOPER0...OPER0(ROOT (NP (NP (DT A) (NN record)) (SBAR (WHNP (WDT that)) (S (VP (NNS troubles) (NP (ADJP (RBS most) (JJ Democratic)) (NNS constituencies))))) (. .)))
+ForforINOPER0aaDTOPER0PresidentPresidentNNPOPER0--HYPHOPER0electelectNNPOPER0whowhoWPOPER0isbeVBZOPER0committedcommittedJJOPER0totoINOPER0unitinguniteVBGOPER0thetheDTOPER0countrycountryNNOPER0andandCCOPER0notnotRBOPER0dividingdivideVBGOPER0ititPRPOPER0,,,OPER0thisthisDTOPER0nominationnominationNNOPER0isbeVBZOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0mostmostRBSOPER0divisivedivisiveJJOPER0hehePRPOPER0couldcouldMDOPER0havehaveVBOPER0chosenchooseVBNOPER0...OPER0(ROOT (S (PP (IN For) (NP (NP (DT a) (NNP President) (HYPH -) (NNP elect)) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADJP (JJ committed) (PP (IN to) (S (VP (VP (VBG uniting) (NP (DT the) (NN country))) (CC and) (RB not) (VP (VBG dividing) (NP (PRP it)))))))))))) (, ,) (NP (DT this) (NN nomination)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ divisive))) (SBAR (S (NP (PRP he)) (VP (MD could) (VP (VB have) (VP (VBN chosen)))))))))) (. .)))
+WewePRPOPER0arebeVBPOPER0tremendouslytremendouslyRBOPER0concernedconcernedJJOPER0thatthatINOPER0thisthisDTOPER0isbeVBZOPER0aaDTOPER0harbingerharbingerNNOPER0ofofINOPER0thingsthingNNSOPER0totoTOOPER0comecomeVBOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP are) (ADJP (RB tremendously) (JJ concerned) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT a) (NN harbinger)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (TO to) (VP (VB come))))))))))))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+Mr.Mr.NNPOPER0AshcroftAshcroftNNPPERSONPER0hashaveVBZOPER0alsoalsoRBOPER0angeredangerVBDOPER0civilcivilJJOPER0rightsrightsNNSOPER0groupsgroupNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Ashcroft)) (VP (VBZ has) (ADVP (RB also)) (VP (VBD angered) (NP (NML (JJ civil) (NNS rights)) (NNS groups)))) (. .)))
+HehePRPOPER0blockedblockVBDOPER0thetheDTOPER0nominationnominationNNOPER0ofofINOPER0MissouriMissouriNNPORGPER0SupremeSupremeNNPORGPER0CourtCourtNNPORGPER0JudgeJudgeNNPOPER0RonnieRonnieNNPPERSONPER0WhiteWhiteNNPPERSONPER0totoINOPER0thetheDTOPER0federalfederalJJOPER0benchbenchNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD blocked) (NP (NP (NP (DT the) (NN nomination)) (PP (IN of) (NP (NNP Missouri) (NNP Supreme) (NNP Court)))) (NP (NNP Judge) (NNP Ronnie) (NNP White))) (PP (IN to) (NP (DT the) (JJ federal) (NN bench)))) (. .)))
+JudgeJudgeNNPOPER0WhiteWhiteNNPPERSONPER0wasbeVBDOPER0thetheDTOPER0firstfirstJJORDINALPER0blackblackJJOPER0membermemberNNOPER0ofofINOPER0MissouriMissouriNNPGPEPER0's'sPOSOPER0SupremeSupremeNNPORGPER0...OPER0(ROOT (S (NP (NNP Judge) (NNP White)) (VP (VBD was) (NP (NP (DT the) (JJ first) (JJ black) (NN member)) (PP (IN of) (NP (NP (NNP Missouri) (POS 's)) (NNP Supreme))))) (. .)))
+AshcroftAshcroftNNPORGPER0saidsayVBDOPER0thetheDTOPER0judgejudgeNNOPER0wasbeVBDOPER0softsoftJJOPER0ononINOPER0criminalscriminalNNSOPER0...OPER0(ROOT (S (NP (NNP Ashcroft)) (VP (VBD said) (SBAR (S (NP (DT the) (NN judge)) (VP (VBD was) (ADJP (JJ soft)) (PP (IN on) (NP (NNS criminals))))))) (. .)))
+HehePRPOPER0hadhaveVBDOPER0hishePRP$OPER0reasonsreasonNNSOPER0forforINOPER0blockingblockVBGOPER0aaDTOPER0singlesingleJJOPER0nominationnominationNNOPER0,,,OPER0andandCCOPER0IIPRPOPER0thoughtthinkVBDOPER0aboutaboutINOPER0thatthatDTOPER0,,,OPER0andandCCOPER0IIPRPOPER0lookedlookVBDOPER0atatINOPER0thetheDTOPER0factsfactNNSOPER0,,,OPER0andandCCOPER0IIPRPOPER0listenedlistenVBDOPER0totoINOPER0himhePRPOPER0,,,OPER0andandCCOPER0therethereEXOPER0'sbeVBZOPER0nonoDTOPER0questionquestionNNOPER0ininINOPER0mymyPRP$OPER0mindmindNNOPER0thatthatINOPER0thisthisDTOPER0isbeVBZOPER0aaDTOPER0personpersonNNOPER0whowhoWPOPER0believesbelieveVBZOPER0ininINOPER0civilcivilJJOPER0rightsrightsNNSOPER0forforINOPER0allallDTOPER0citizenscitizenNNSOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (VBD had) (NP (NP (PRP$ his) (NNS reasons)) (PP (IN for) (S (VP (VBG blocking) (NP (DT a) (JJ single) (NN nomination)))))))) (, ,) (CC and) (S (S (NP (PRP I)) (VP (VBD thought) (PP (IN about) (NP (DT that))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD looked) (PP (IN at) (NP (DT the) (NNS facts))))) (, ,) (CC and) (S (S (NP (PRP I)) (VP (VBD listened) (PP (IN to) (NP (PRP him))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT no) (NN question)) (PP (IN in) (NP (PRP$ my) (NN mind))) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT a) (NN person)) (SBAR (WHNP (WP who)) (S (VP (VBZ believes) (PP (IN in) (NP (NP (JJ civil) (NNS rights)) (PP (IN for) (NP (DT all) (NNS citizens))))))))))))))))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+IfifINOPER0hehePRPOPER0isbeVBZOPER0confirmedconfirmVBNOPER0,,,OPER0thetheDTOPER0outgoingoutgoingJJOPER0senatorsenatorNNOPER0saidsayVBDOPER0hehePRPOPER0wouldwouldMDOPER0bebeVBOPER0anaDTOPER0effectiveeffectiveJJOPER0AttorneyAttorneyNNPOPER0GeneralGeneralNNPOPER0...OPER0(ROOT (S (SBAR (IN If) (S (NP (PRP he)) (VP (VBZ is) (VP (VBN confirmed))))) (, ,) (NP (DT the) (JJ outgoing) (NN senator)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB be) (NP (DT an) (JJ effective) (NNP Attorney) (NNP General))))))) (. .)))
+IIPRPOPER0willwillMDOPER0enforceenforceVBOPER0thetheDTOPER0lawslawNNSOPER0ofofINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0ofofINGPEPER0AmericaAmericaNNPGPEPER0withwithINOPER0integrityintegrityNNOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (MD will) (VP (VB enforce) (NP (NP (DT the) (NNS laws)) (PP (IN of) (NP (NP (DT the) (NNP United) (NNP States)) (PP (IN of) (NP (NNP America)))))) (PP (IN with) (NP (NN integrity))))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+AshcroftAshcroftNNPORGPER0saidsayVBDOPER0hishePRP$OPER0recentrecentJJOPER0losslossNNOPER0ininINOPER0thetheDTOPER0U.S.U.S.NNPORGPER0SenateSenateNNPORGPER0raceraceNNOPER0hashaveVBZOPER0givengiveVBNOPER0himhePRPOPER0timetimeNNOPER0totoTOOPER0reflectreflectVBOPER0...OPER0(ROOT (S (NP (NNP Ashcroft)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ his) (JJ recent) (NN loss)) (PP (IN in) (NP (DT the) (NML (NNP U.S.) (NNP Senate)) (NN race)))) (VP (VBZ has) (VP (VBN given) (NP (PRP him)) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB reflect))))))))))) (. .)))
+PoliticalpoliticalJJOPER0defeatdefeatNNOPER0bringsbringVBZOPER0moremoreJJROPER0thanthanINOPER0emotionemotionNNOPER0andandCCOPER0painpainNNOPER0...OPER0(ROOT (S (NP (JJ Political) (NN defeat)) (VP (VBZ brings) (NP (NP (JJR more)) (PP (IN than) (NP (NN emotion) (CC and) (NN pain))))) (. .)))
+ItitPRPOPER0bringsbringVBZOPER0perspectiveperspectiveNNOPER0,,,OPER0andandCCOPER0todaytodayNNDATEPER0,,,OPER0forforINOPER0JanetJanetNNPPERSONPER0andandCCOPER0meIPRPOPER0,,,OPER0ititPRPOPER0bringsbringVBZOPER0aaDTOPER0renewedrenewVBNOPER0andandCCOPER0noblenobleJJOPER0callcallNNOPER0totoINOPER0publicpublicJJOPER0serviceserviceNNOPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBZ brings) (NP (NN perspective)))) (, ,) (CC and) (S (NP (NN today)) (, ,) (PP (IN for) (NP (NNP Janet) (CC and) (PRP me))) (, ,) (NP (PRP it)) (VP (VBZ brings) (NP (DT a) (ADJP (VBN renewed) (CC and) (JJ noble)) (NN call)) (PP (IN to) (NP (JJ public) (NN service))))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+NownowRBOPER0thisthisDTOPER0isbeVBZOPER0thetheDTOPER0firstfirstJJOPER0nominationnominationNNOPER0totoTOOPER0havehaveVBOPER0beenbeVBNOPER0evenevenRBOPER0mildlymildlyRBOPER0controversialcontroversialJJOPER0,,,OPER0butbutCCOPER0ititPRPOPER0doesdoVBZOPER0gogoVBOPER0aaDTOPER0longlongJJOPER0waywayNNOPER0totoTOOPER0satisfysatisfyVBOPER0thetheDTOPER0conservativeconservativeJJOPER0wingwingNNOPER0ofofINOPER0Mr.Mr.NNPOPER0BushBushNNPPERSONPER0's'sPOSOPER0partypartyNNOPER0...OPER0(ROOT (S (S (ADVP (RB Now)) (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN nomination)) (SBAR (S (VP (TO to) (VP (VB have) (VP (VBN been) (ADJP (RB even) (RB mildly) (JJ controversial)))))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ does) (VP (VB go) (NP (NP (DT a) (JJ long) (NN way)) (SBAR (S (VP (TO to) (VP (VB satisfy) (NP (NP (DT the) (JJ conservative) (NN wing)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Bush) (POS 's)) (NN party)))))))))))) (. .)))
+AndandCCOPER0PeterPeterNNPPERSONPER0,,,OPER0hehePRPOPER0'll'llMDOPER0needneedVBOPER0themtheyPRPOPER0whenwhenWRBOPER0hehePRPOPER0beginsbeginVBZOPER0totoTOOPER0governgovernVBOPER0...OPER0(ROOT (S (CC And) (NP (NNP Peter)) (, ,) (NP (PRP he)) (VP (MD 'll) (VP (VB need) (NP (PRP them)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBZ begins) (S (VP (TO to) (VP (VB govern))))))))) (. .)))
+ThankthankVBPOPER0youyouPRPOPER0veryveryRBOPER0muchmuchRBOPER0,,,OPER0MikeMikeNNPPERSONPER0VonVonNNPPERSONPER0FremdFremdNNPPERSONPER0ininINOPER0TexasTexasNNPGPEPER0tonighttonightNNOPER0...OPER0(ROOT (S (VP (VBP Thank) (NP (PRP you)) (ADVP (RB very) (RB much)) (, ,) (NP (NP (NNP Mike) (NNP Von) (NNP Fremd)) (PP (IN in) (NP (NNP Texas))) (NP (NN tonight)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NNP George) (NNP W.) (NNP Bush))
+sid=1 spanning 4 until 5 headed by 4 parsed as chosen
+sid=1 spanning 5 until 13 headed by 6 parsed as (NP (NP (DT the) (NN person)) (SBAR (S (NP (PRP he)) (VP (VBZ wants) (S (VP (TO to) (VP (VB be) (NP (NNP Attorney) (NNP General)))))))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NNP Missouri))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Senator) (NNP Ashcroft))
+sid=3 spanning 2 until 3 headed by 2 parsed as lost
+sid=3 spanning 3 until 4 headed by 3 parsed as his
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN senator))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP Missouri)) (CC and) (NP (NNP Governor)))
+sid=4 spanning 17 until 24 headed by 19 parsed as (NP (NP (DT the) (JJ conservative) (NN wing)) (PP (IN of) (NP (DT the) (NNP Republican) (NNP Party))))
+sid=4 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NNP Republican) (NNP Party))
+sid=4 spanning 28 until 36 headed by 29 parsed as (NP (NP (DT the) (NNS positions)) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN taken) (PP (IN as) (NP (DT a) (NN politician))))))))
+sid=4 spanning 30 until 31 headed by 30 parsed as (NP (PRP he))
+sid=4 spanning 41 until 44 headed by 42 parsed as (NP (NP (PRP$ his) (NN nomination)) (NP (NN today)))
+sid=4 spanning 41 until 42 headed by 41 parsed as his
+sid=4 spanning 43 until 44 headed by 43 parsed as (NP (NN today))
+sid=5 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Mike) (NNP Von) (NNP Fremd))
+sid=5 spanning 13 until 14 headed by 13 parsed as (NP (NNP Austin) (, ,) (NNP Texas))
+sid=6 spanning 0 until 2 headed by 0 parsed as (NP (NNP Mike) (. ?))
+sid=8 spanning 2 until 5 headed by 4 parsed as (NP (NML (NNP Peter) (, ,) (NNP Senator)) (NNP John) (NNP Ashcroft))
+sid=8 spanning 0 until 1 headed by 0 parsed as Peter
+sid=8 spanning 7 until 12 headed by 10 parsed as (NP (DT the) (NML (NNP President) (HYPH -) (NNP elect)) (POS 's))
+sid=9 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ his) (NNS positions))
+sid=9 spanning 2 until 3 headed by 2 parsed as his
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (NNP Ashcroft))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (PRP him))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=16 spanning 1 until 16 headed by 4 parsed as (NP (NP (DT a) (NNP President) (HYPH -) (NNP elect)) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADJP (JJ committed) (PP (IN to) (S (VP (VP (VBG uniting) (NP (DT the) (NN country))) (CC and) (RB not) (VP (VBG dividing) (NP (PRP it)))))))))))
+sid=16 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN country))
+sid=16 spanning 15 until 16 headed by 15 parsed as (NP (PRP it))
+sid=16 spanning 17 until 19 headed by 18 parsed as (NP (DT this) (NN nomination))
+sid=16 spanning 25 until 26 headed by 25 parsed as (NP (PRP he))
+sid=17 spanning 5 until 6 headed by 5 parsed as (NP (DT this))
+sid=19 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Ashcroft))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=20 spanning 2 until 15 headed by 3 parsed as (NP (NP (NP (DT the) (NN nomination)) (PP (IN of) (NP (NNP Missouri) (NNP Supreme) (NNP Court)))) (NP (NNP Judge) (NNP Ronnie) (NNP White)))
+sid=20 spanning 5 until 8 headed by 7 parsed as (NP (NNP Missouri) (NNP Supreme) (NNP Court))
+sid=20 spanning 5 until 11 headed by 10 parsed as (NP (NNP Judge) (NNP Ronnie) (NNP White))
+sid=21 spanning 0 until 2 headed by 1 parsed as (NP (NNP Judge) (NNP White))
+sid=21 spanning 8 until 11 headed by 10 parsed as (NP (NP (NNP Missouri) (POS 's)) (NNP Supreme))
+sid=21 spanning 8 until 10 headed by 8 parsed as (NP (NNP Missouri) (POS 's))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (NNP Ashcroft))
+sid=22 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN judge))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=23 spanning 2 until 9 headed by 3 parsed as (NP (NP (PRP$ his) (NNS reasons)) (PP (IN for) (S (VP (VBG blocking) (NP (DT a) (JJ single) (NN nomination))))))
+sid=23 spanning 2 until 3 headed by 2 parsed as his
+sid=23 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (JJ single) (NN nomination))
+sid=23 spanning 11 until 12 headed by 11 parsed as (NP (PRP I))
+sid=23 spanning 14 until 15 headed by 14 parsed as (NP (DT that))
+sid=23 spanning 17 until 18 headed by 17 parsed as (NP (PRP I))
+sid=23 spanning 24 until 25 headed by 24 parsed as (NP (PRP I))
+sid=23 spanning 27 until 28 headed by 27 parsed as (NP (PRP him))
+sid=23 spanning 35 until 36 headed by 35 parsed as my
+sid=23 spanning 38 until 39 headed by 38 parsed as (NP (DT this))
+sid=25 spanning 1 until 2 headed by 1 parsed as (NP (PRP he))
+sid=25 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ outgoing) (NN senator))
+sid=25 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=26 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=26 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (PP (IN of) (NP (NNP America))))
+sid=28 spanning 0 until 1 headed by 0 parsed as (NP (NNP Ashcroft))
+sid=28 spanning 2 until 10 headed by 4 parsed as (NP (NP (PRP$ his) (JJ recent) (NN loss)) (PP (IN in) (NP (DT the) (NML (NNP U.S.) (NNP Senate)) (NN race))))
+sid=28 spanning 2 until 3 headed by 2 parsed as his
+sid=28 spanning 12 until 13 headed by 12 parsed as (NP (PRP him))
+sid=29 spanning 0 until 2 headed by 1 parsed as (NP (JJ Political) (NN defeat))
+sid=30 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=30 spanning 5 until 6 headed by 5 parsed as (NP (NN today))
+sid=30 spanning 10 until 11 headed by 10 parsed as me
+sid=30 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=32 spanning 1 until 2 headed by 1 parsed as (NP (DT this))
+sid=32 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=32 spanning 22 until 30 headed by 24 parsed as (NP (NP (DT the) (JJ conservative) (NN wing)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Bush) (POS 's)) (NN party))))
+sid=32 spanning 26 until 30 headed by 29 parsed as (NP (NP (NNP Mr.) (NNP Bush) (POS 's)) (NN party))
+sid=32 spanning 26 until 29 headed by 27 parsed as (NP (NNP Mr.) (NNP Bush) (POS 's))
+sid=33 spanning 1 until 2 headed by 1 parsed as (NP (NNP Peter))
+sid=33 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=33 spanning 6 until 7 headed by 6 parsed as (NP (PRP them))
+sid=33 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=34 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=34 spanning 5 until 11 headed by 7 parsed as (NP (NP (NNP Mike) (NNP Von) (NNP Fremd)) (PP (IN in) (NP (NNP Texas))) (NP (NN tonight)))
+sid=34 spanning 9 until 10 headed by 9 parsed as (NP (NNP Texas))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as evening
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NNP George) (NNP W.) (NNP Bush))
+sid=1 spanning 5 until 13 headed by 6 parsed as (NP (NP (DT the) (NN person)) (SBAR (S (NP (PRP he)) (VP (VBZ wants) (S (VP (TO to) (VP (VB be) (NP (NNP Attorney) (NNP General)))))))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NNP Attorney) (NNP General))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 3 until 8 headed by 7 parsed as (NP (DT the) (ADJP (NML (CD 58) (HYPH -) (NN year)) (HYPH -) (JJ old)))
+sid=2 spanning 2 until 8 headed by 7 parsed as (NP (DT the) (ADJP (NML (CD 58) (HYPH -) (NN year)) (HYPH -) (JJ old)))
+sid=2 spanning 12 until 18 headed by 15 parsed as (NP (NP (NML (JJ former) (NNP Senator)) (NNP John) (NNP Ashcroft)) (PP (IN of) (NP (NNP Missouri))))
+sid=2 spanning 17 until 18 headed by 17 parsed as (NP (NNP Missouri))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Senator) (NNP Ashcroft))
+sid=3 spanning 3 until 7 headed by 4 parsed as (NP (NP (PRP$ his) (NN bid)) (PP (IN for) (NP (NN re-election))))
+sid=3 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=3 spanning 7 until 9 headed by 8 parsed as (NP (DT this) (NN year))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN senator))
+sid=4 spanning 3 until 15 headed by 6 parsed as (NP (NP (DT a) (NML (JJ former) (NN law)) (NN professor)) (CC and) (NP (NP (JJ former) (NNP Attorney) (NNP General)) (PP (IN of) (NP (NP (NNP Missouri)) (CC and) (NP (NNP Governor))))))
+sid=4 spanning 3 until 7 headed by 6 parsed as (NP (DT a) (NML (JJ former) (NN law)) (NN professor))
+sid=4 spanning 8 until 15 headed by 10 parsed as (NP (NP (JJ former) (NNP Attorney) (NNP General)) (PP (IN of) (NP (NP (NNP Missouri)) (CC and) (NP (NNP Governor)))))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP Missouri)) (CC and) (NP (NNP Governor)))
+sid=4 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNP Missouri)) (CC and) (NP (NNP Governor)))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (NNP Governor))
+sid=4 spanning 17 until 24 headed by 19 parsed as (NP (NP (DT the) (JJ conservative) (NN wing)) (PP (IN of) (NP (DT the) (NNP Republican) (NNP Party))))
+sid=4 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NNP Republican) (NNP Party))
+sid=4 spanning 26 until 36 headed by 26 parsed as (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS positions)) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN taken) (PP (IN as) (NP (DT a) (NN politician))))))))))
+sid=4 spanning 28 until 36 headed by 29 parsed as (NP (NP (DT the) (NNS positions)) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN taken) (PP (IN as) (NP (DT a) (NN politician))))))))
+sid=4 spanning 30 until 31 headed by 30 parsed as (NP (PRP he))
+sid=4 spanning 34 until 36 headed by 35 parsed as (NP (DT a) (NN politician))
+sid=4 spanning 41 until 44 headed by 42 parsed as (NP (NP (PRP$ his) (NN nomination)) (NP (NN today)))
+sid=4 spanning 41 until 42 headed by 41 parsed as (PRP$ his)
+sid=5 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Mike) (NNP Von) (NNP Fremd))
+sid=5 spanning 0 until 2 headed by 0 parsed as (NP (NNP ABC) (POS 's))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP us))
+sid=5 spanning 8 until 14 headed by 9 parsed as (NP (NP (DT this) (NN evening)) (PP (IN from) (NP (NNP Austin) (, ,) (NNP Texas))))
+sid=5 spanning 11 until 14 headed by 13 parsed as (NP (NNP Austin) (, ,) (NNP Texas))
+sid=5 spanning 11 until 12 headed by 11 parsed as Austin
+sid=6 spanning 0 until 2 headed by 0 parsed as (NP (NNP Mike) (. ?))
+sid=7 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=8 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP Peter) (, ,) (NNP Senator)) (NNP John) (NNP Ashcroft))
+sid=8 spanning 0 until 1 headed by 0 parsed as Peter
+sid=8 spanning 7 until 17 headed by 14 parsed as (NP (NP (NP (DT the) (NML (NNP President) (HYPH -) (NNP elect)) (POS 's)) (ADJP (RBS most) (JJ controversial)) (NN nominee)) (PP (IN to) (NP (NN date))))
+sid=8 spanning 7 until 12 headed by 10 parsed as (NP (DT the) (NML (NNP President) (HYPH -) (NNP elect)) (POS 's))
+sid=9 spanning 0 until 4 headed by 0 parsed as (NP (NP (JJ Many)) (PP (IN of) (NP (PRP$ his) (NNS positions))))
+sid=9 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ his) (NNS positions))
+sid=9 spanning 2 until 3 headed by 2 parsed as (PRP$ his)
+sid=9 spanning 8 until 9 headed by 8 parsed as (NP (NNPS Democrats))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (NNP Ashcroft))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=11 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN law))
+sid=12 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=13 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP American) (NNP Conservative) (NNP Union))
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (PRP him))
+sid=13 spanning 6 until 10 headed by 9 parsed as (NP (DT a) (JJ top) (NN approval) (NN rating))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=14 spanning 4 until 7 headed by 6 parsed as (NP (DT some) (NN tobacco) (NNS regulations))
+sid=14 spanning 10 until 13 headed by 12 parsed as (NP (NML (NN hate) (NN crime)) (NN legislation))
+sid=14 spanning 16 until 20 headed by 16 parsed as (NP (NP (NNS abortions)) (PP (IN at) (NP (JJ military) (NNS hospitals))))
+sid=14 spanning 18 until 20 headed by 19 parsed as (NP (JJ military) (NNS hospitals))
+sid=15 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT A) (NN record)) (SBAR (WHNP (WDT that)) (S (VP (NNS troubles) (NP (ADJP (RBS most) (JJ Democratic)) (NNS constituencies))))) (. .))
+sid=15 spanning 4 until 7 headed by 6 parsed as (NP (ADJP (RBS most) (JJ Democratic)) (NNS constituencies))
+sid=16 spanning 1 until 16 headed by 4 parsed as (NP (NP (DT a) (NNP President) (HYPH -) (NNP elect)) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADJP (JJ committed) (PP (IN to) (S (VP (VP (VBG uniting) (NP (DT the) (NN country))) (CC and) (RB not) (VP (VBG dividing) (NP (PRP it)))))))))))
+sid=16 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN country))
+sid=16 spanning 15 until 16 headed by 15 parsed as (NP (PRP it))
+sid=16 spanning 17 until 19 headed by 18 parsed as (NP (DT this) (NN nomination))
+sid=16 spanning 20 until 29 headed by 20 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ divisive))) (SBAR (S (NP (PRP he)) (VP (MD could) (VP (VB have) (VP (VBN chosen)))))))))
+sid=16 spanning 25 until 26 headed by 25 parsed as (NP (PRP he))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=17 spanning 5 until 6 headed by 5 parsed as (NP (DT this))
+sid=17 spanning 7 until 13 headed by 8 parsed as (NP (NP (DT a) (NN harbinger)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (TO to) (VP (VB come))))))))
+sid=17 spanning 10 until 13 headed by 10 parsed as (NP (NP (NNS things)) (SBAR (S (VP (TO to) (VP (VB come))))))
+sid=18 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=19 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Ashcroft))
+sid=19 spanning 5 until 8 headed by 7 parsed as (NP (NML (JJ civil) (NNS rights)) (NNS groups))
+sid=20 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=20 spanning 2 until 11 headed by 3 parsed as (NP (NP (NP (DT the) (NN nomination)) (PP (IN of) (NP (NNP Missouri) (NNP Supreme) (NNP Court)))) (NP (NNP Judge) (NNP Ronnie) (NNP White)))
+sid=20 spanning 5 until 8 headed by 7 parsed as (NP (NNP Missouri) (NNP Supreme) (NNP Court))
+sid=20 spanning 8 until 11 headed by 10 parsed as (NP (NNP Judge) (NNP Ronnie) (NNP White))
+sid=20 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (JJ federal) (NN bench))
+sid=21 spanning 0 until 2 headed by 1 parsed as (NP (NNP Judge) (NNP White))
+sid=21 spanning 3 until 11 headed by 6 parsed as (NP (NP (DT the) (JJ first) (JJ black) (NN member)) (PP (IN of) (NP (NP (NNP Missouri) (POS 's)) (NNP Supreme))))
+sid=21 spanning 4 until 5 headed by 4 parsed as first
+sid=21 spanning 8 until 11 headed by 10 parsed as (NP (NP (NNP Missouri) (POS 's)) (NNP Supreme))
+sid=21 spanning 8 until 10 headed by 8 parsed as (NP (NNP Missouri) (POS 's))
+sid=22 spanning 0 until 1 headed by 0 parsed as (NP (NNP Ashcroft))
+sid=22 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN judge))
+sid=22 spanning 7 until 8 headed by 7 parsed as (NP (NNS criminals))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=23 spanning 2 until 9 headed by 3 parsed as (NP (NP (PRP$ his) (NNS reasons)) (PP (IN for) (S (VP (VBG blocking) (NP (DT a) (JJ single) (NN nomination))))))
+sid=23 spanning 2 until 3 headed by 2 parsed as (PRP$ his)
+sid=23 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (JJ single) (NN nomination))
+sid=23 spanning 11 until 12 headed by 11 parsed as (NP (PRP I))
+sid=23 spanning 14 until 15 headed by 14 parsed as (NP (DT that))
+sid=23 spanning 17 until 18 headed by 17 parsed as (NP (PRP I))
+sid=23 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNS facts))
+sid=23 spanning 24 until 25 headed by 24 parsed as (NP (PRP I))
+sid=23 spanning 27 until 28 headed by 27 parsed as (NP (PRP him))
+sid=23 spanning 32 until 50 headed by 33 parsed as (NP (NP (DT no) (NN question)) (PP (IN in) (NP (PRP$ my) (NN mind))) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT a) (NN person)) (SBAR (WHNP (WP who)) (S (VP (VBZ believes) (PP (IN in) (NP (NP (JJ civil) (NNS rights)) (PP (IN for) (NP (DT all) (NNS citizens)))))))))))))
+sid=23 spanning 35 until 37 headed by 36 parsed as (NP (PRP$ my) (NN mind))
+sid=23 spanning 35 until 36 headed by 35 parsed as (PRP$ my)
+sid=23 spanning 38 until 39 headed by 38 parsed as (NP (DT this))
+sid=23 spanning 40 until 50 headed by 41 parsed as (NP (NP (DT a) (NN person)) (SBAR (WHNP (WP who)) (S (VP (VBZ believes) (PP (IN in) (NP (NP (JJ civil) (NNS rights)) (PP (IN for) (NP (DT all) (NNS citizens)))))))))
+sid=23 spanning 45 until 50 headed by 46 parsed as (NP (NP (JJ civil) (NNS rights)) (PP (IN for) (NP (DT all) (NNS citizens))))
+sid=24 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=25 spanning 1 until 2 headed by 1 parsed as (NP (PRP he))
+sid=25 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ outgoing) (NN senator))
+sid=25 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=25 spanning 12 until 16 headed by 15 parsed as (NP (DT an) (JJ effective) (NNP Attorney) (NNP General))
+sid=26 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=26 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NNS laws)) (PP (IN of) (NP (NP (DT the) (NNP United) (NNP States)) (PP (IN of) (NP (NNP America))))))
+sid=26 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (PP (IN of) (NP (NNP America))))
+sid=27 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=28 spanning 0 until 1 headed by 0 parsed as (NP (NNP Ashcroft))
+sid=28 spanning 2 until 10 headed by 4 parsed as (NP (NP (PRP$ his) (JJ recent) (NN loss)) (PP (IN in) (NP (DT the) (NML (NNP U.S.) (NNP Senate)) (NN race))))
+sid=28 spanning 2 until 3 headed by 2 parsed as (PRP$ his)
+sid=28 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (NML (NNP U.S.) (NNP Senate)) (NN race))
+sid=28 spanning 7 until 9 headed by 8 parsed as Senate
+sid=28 spanning 12 until 13 headed by 12 parsed as (NP (PRP him))
+sid=28 spanning 13 until 16 headed by 13 parsed as (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB reflect))))))
+sid=29 spanning 3 until 8 headed by 3 parsed as (NP (NP (JJR more)) (PP (IN than) (NP (NN emotion) (CC and) (NN pain))))
+sid=29 spanning 5 until 8 headed by 5 parsed as (NP (NN emotion) (CC and) (NN pain))
+sid=30 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=30 spanning 8 until 9 headed by 8 parsed as (NP (NNP Janet) (CC and) (PRP me))
+sid=30 spanning 8 until 11 headed by 8 parsed as (NP (NNP Janet) (CC and) (PRP me))
+sid=30 spanning 10 until 11 headed by 10 parsed as (PRP me)
+sid=30 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=30 spanning 14 until 19 headed by 18 parsed as (NP (DT a) (ADJP (VBN renewed) (CC and) (JJ noble)) (NN call))
+sid=31 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=32 spanning 1 until 2 headed by 1 parsed as (NP (DT this))
+sid=32 spanning 3 until 12 headed by 5 parsed as (NP (NP (DT the) (JJ first) (NN nomination)) (SBAR (S (VP (TO to) (VP (VB have) (VP (VBN been) (ADJP (RB even) (RB mildly) (JJ controversial))))))))
+sid=32 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=32 spanning 17 until 30 headed by 19 parsed as (NP (NP (DT a) (JJ long) (NN way)) (SBAR (S (VP (TO to) (VP (VB satisfy) (NP (NP (DT the) (JJ conservative) (NN wing)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Bush) (POS 's)) (NN party)))))))))
+sid=32 spanning 22 until 30 headed by 24 parsed as (NP (NP (DT the) (JJ conservative) (NN wing)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Bush) (POS 's)) (NN party))))
+sid=32 spanning 26 until 30 headed by 29 parsed as (NP (NP (NNP Mr.) (NNP Bush) (POS 's)) (NN party))
+sid=32 spanning 26 until 29 headed by 27 parsed as (NP (NNP Mr.) (NNP Bush) (POS 's))
+sid=33 spanning 1 until 2 headed by 1 parsed as (NP (NNP Peter))
+sid=33 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=33 spanning 6 until 7 headed by 6 parsed as (NP (PRP them))
+sid=33 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=34 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=34 spanning 5 until 11 headed by 7 parsed as (NP (NP (NNP Mike) (NNP Von) (NNP Fremd)) (PP (IN in) (NP (NNP Texas))) (NP (NN tonight)))
+sid=34 spanning 9 until 10 headed by 9 parsed as (NP (NNP Texas))
+(end predicted mentions)
+---------gold clusters--------
+7 64 | { 'lost' 'his recent loss in the U.S. Senate race' }
+83 19 | { 'Texas' 'Texas' }
+45 21 49 9 70 59 60 38 2 29 25 37 30 6 57 58 66 47 27 55 65 61 8 16 4 14 63 28 | { 'Ashcroft' 'Senator John Ashcroft' 'his' 'The senator' 'me' 'the outgoing senator' 'he' 'He' 'the person he wants to be Attorney General' 'him' 'his' 'Mr. Ashcroft' 'He' 'Senator Ashcroft' 'this' 'he' 'him' 'He' 'Ashcroft' 'him' 'his' 'I' 'his' 'his' 'He' 'he' 'Ashcroft' 'He' }
+46 41 42 | { 'the judge' 'Missouri Supreme Court Judge Ronnie White' 'Judge White' }
+77 22 | { 'Peter' 'Peter' }
+15 72 73 36 1 34 | { 'his nomination today' 'this' 'it' 'this' 'chosen' 'this nomination' }
+75 12 | { 'Mr. Bush 's party' 'the Republican Party' }
+52 48 | { 'that' 'his reasons for blocking a single nomination' }
+17 69 | { 'today' 'today' }
+40 43 | { 'Missouri Supreme Court' 'Missouri 's Supreme' }
+32 62 33 | { 'the country' 'the United States of America' 'it' }
+5 44 10 | { 'Missouri' 'Missouri 's' 'Missouri' }
+0 23 56 76 54 26 31 78 3 51 35 80 53 | { 'George W. Bush' 'the President - elect 's' 'my' 'Mr. Bush 's' 'I' 'He' 'a President - elect who is committed to uniting the country and not dividing it' 'he' 'he' 'I' 'he' 'he' 'I' }
+39 50 | { 'the nomination of Missouri Supreme Court Judge Ronnie White to the federal bench' 'a single nomination' }
+11 79 74 | { 'the conservative wing of the Republican Party' 'them' 'the conservative wing of Mr. Bush 's party' }
+68 67 71 | { 'It' 'Political defeat' 'it' }
+81 20 82 18 | { 'you' 'Mike ?' 'Mike Von Fremd in Texas tonight' 'ABC 's Mike Von Fremd' }
+13 24 | { 'the positions he 's taken as a politician' 'his positions' }
+(end gold clusters)

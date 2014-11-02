@@ -1,0 +1,57 @@
+---------gloss--------
+(0) [1m[35m{CRI Inc.}[0m said [1m[35m{it}[0m [1m[36m{reduced}[0m the estimated cash distribution for [1m[35m{its}[0m [3m[31m{Capital Housing and Mortgage Partners Inc.}[0m trust to between 71 cents and 74 cents a share , from between 75 cents and 80 cents , for the year ending June 9 , 1990 . 
+(1) [1m[36m{The change in expected cash distributions from the Champs real estate investment trust}[0m stems from a revised estimate of administrative costs , said Jay R. Cohen , [3m[31m{Champs}[0m executive vice president . 
+(2) [1m[35m{CRI , which sponsors Champs ,}[0m is a world - wide real estate investment firm . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1400); part 000
+sentences:
+CRICRINNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0reducedreduceVBDOPER0thetheDTOPER0estimatedestimateVBNOPER0cashcashNNOPER0distributiondistributionNNOPER0forforINOPER0itsitsPRP$OPER0CapitalCapitalNNPORGPER0HousingHousingNNPORGPER0andandCCORGPER0MortgageMortgageNNPORGPER0PartnersPartnersNNPSORGPER0Inc.Inc.NNPORGPER0trusttrustNNOPER0totoINOPER0betweenbetweenINMONEYPER07171CDMONEYPER0centscentNNSMONEYPER0andandCCMONEYPER07474CDMONEYPER0centscentNNSMONEYPER0aaDTOPER0shareshareNNOPER0,,,OPER0fromfromINOPER0betweenbetweenINMONEYPER07575CDMONEYPER0centscentNNSMONEYPER0andandCCMONEYPER08080CDMONEYPER0centscentNNSMONEYPER0,,,OPER0forforINOPER0thetheDTDATEPER0yearyearNNDATEPER0endingendVBGDATEPER0JuneJuneNNPDATEPER099CDDATEPER0,,,DATEPER019901990CDDATEPER0...OPER0(ROOT (S (NP (NNP CRI) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD reduced) (NP (NP (DT the) (VBN estimated) (NN cash) (NN distribution)) (PP (IN for) (NP (PRP$ its) (NML (NML (NNP Capital) (NNP Housing)) (CC and) (NML (NNP Mortgage) (NNPS Partners) (NNP Inc.))) (NN trust)))) (PP (IN to) (IN between) (NP (NP (NP (CD 71) (NNS cents)) (CC and) (NP (CD 74) (NNS cents))) (NP (DT a) (NN share)))) (, ,) (PP (IN from) (NP (NP (NP (IN between) (CD 75) (NNS cents)) (CC and) (NP (CD 80) (NNS cents))) (, ,) (PP (IN for) (NP (NP (DT the) (NN year)) (VP (VBG ending) (NP (NNP June) (CD 9) (, ,) (CD 1990))))))))))) (. .)))
+ThetheDTOPER0changechangeNNOPER0ininINOPER0expectedexpectVBNOPER0cashcashNNOPER0distributionsdistributionNNSOPER0fromfromINOPER0thetheDTOPER0ChampsChampsNNPORGPER0realrealJJOPER0estateestateNNOPER0investmentinvestmentNNOPER0trusttrustNNOPER0stemsstemVBZOPER0fromfromINOPER0aaDTOPER0revisedreviseVBNOPER0estimateestimateNNOPER0ofofINOPER0administrativeadministrativeJJOPER0costscostNNSOPER0,,,OPER0saidsayVBDOPER0JayJayNNPPERSONPER0R.R.NNPPERSONPER0CohenCohenNNPPERSONPER0,,,OPER0ChampsChampsNNPORGPER0executiveexecutiveJJOPER0viceviceNNOPER0presidentpresidentNNOPER0...OPER0(ROOT (SINV (S (NP (NP (DT The) (NN change)) (PP (IN in) (NP (VBN expected) (NN cash) (NNS distributions))) (PP (IN from) (NP (DT the) (NNP Champs) (NML (NML (JJ real) (NN estate)) (NN investment)) (NN trust)))) (VP (VBZ stems) (PP (IN from) (NP (NP (DT a) (VBN revised) (NN estimate)) (PP (IN of) (NP (JJ administrative) (NNS costs))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Jay) (NNP R.) (NNP Cohen)) (, ,) (NP (NNP Champs) (JJ executive) (NN vice) (NN president))) (. .)))
+CRICRINNPORGPER0,,,OPER0whichwhichWDTOPER0sponsorssponsorVBZOPER0ChampsChampsNNPORGPER0,,,OPER0isbeVBZOPER0aaDTOPER0worldworldNNOPER0--HYPHOPER0widewideJJOPER0realrealJJOPER0estateestateNNOPER0investmentinvestmentNNOPER0firmfirmNNOPER0...OPER0(ROOT (S (NP (NP (NNP CRI)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ sponsors) (NP (NNP Champs))))) (, ,)) (VP (VBZ is) (NP (DT a) (ADJP (NN world) (HYPH -) (JJ wide)) (NML (NML (JJ real) (NN estate)) (NN investment)) (NN firm))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP CRI) (NNP Inc.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 4 until 5 headed by 4 parsed as reduced
+sid=0 spanning 10 until 18 headed by 17 parsed as (NP (PRP$ its) (NML (NML (NNP Capital) (NNP Housing)) (CC and) (NML (NNP Mortgage) (NNPS Partners) (NNP Inc.))) (NN trust))
+sid=0 spanning 10 until 11 headed by 10 parsed as its
+sid=0 spanning 11 until 17 headed by 12 parsed as Housing
+sid=1 spanning 0 until 13 headed by 1 parsed as (NP (NP (DT The) (NN change)) (PP (IN in) (NP (VBN expected) (NN cash) (NNS distributions))) (PP (IN from) (NP (DT the) (NNP Champs) (NML (NML (JJ real) (NN estate)) (NN investment)) (NN trust))))
+sid=1 spanning 7 until 13 headed by 12 parsed as (NP (DT the) (NNP Champs) (NML (NML (JJ real) (NN estate)) (NN investment)) (NN trust))
+sid=1 spanning 8 until 9 headed by 8 parsed as Champs
+sid=1 spanning 27 until 28 headed by 27 parsed as Champs
+sid=2 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP CRI)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ sponsors) (NP (NNP Champs))))) (, ,))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNP Champs))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP CRI) (NNP Inc.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=0 spanning 5 until 18 headed by 8 parsed as (NP (NP (DT the) (VBN estimated) (NN cash) (NN distribution)) (PP (IN for) (NP (PRP$ its) (NML (NML (NNP Capital) (NNP Housing)) (CC and) (NML (NNP Mortgage) (NNPS Partners) (NNP Inc.))) (NN trust))))
+sid=0 spanning 10 until 18 headed by 17 parsed as (NP (PRP$ its) (NML (NML (NNP Capital) (NNP Housing)) (CC and) (NML (NNP Mortgage) (NNPS Partners) (NNP Inc.))) (NN trust))
+sid=0 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=0 spanning 11 until 17 headed by 12 parsed as Housing
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (DT a) (NN share))
+sid=0 spanning 37 until 44 headed by 38 parsed as (NP (NP (DT the) (NN year)) (VP (VBG ending) (NP (NNP June) (CD 9) (, ,) (CD 1990))))
+sid=1 spanning 0 until 13 headed by 1 parsed as (NP (NP (DT The) (NN change)) (PP (IN in) (NP (VBN expected) (NN cash) (NNS distributions))) (PP (IN from) (NP (DT the) (NNP Champs) (NML (NML (JJ real) (NN estate)) (NN investment)) (NN trust))))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (VBN expected) (NN cash) (NNS distributions))
+sid=1 spanning 7 until 13 headed by 12 parsed as (NP (DT the) (NNP Champs) (NML (NML (JJ real) (NN estate)) (NN investment)) (NN trust))
+sid=1 spanning 8 until 9 headed by 8 parsed as Champs
+sid=1 spanning 15 until 21 headed by 17 parsed as (NP (NP (DT a) (VBN revised) (NN estimate)) (PP (IN of) (NP (JJ administrative) (NNS costs))))
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (JJ administrative) (NNS costs))
+sid=1 spanning 23 until 26 headed by 25 parsed as (NP (NP (NNP Jay) (NNP R.) (NNP Cohen)) (, ,) (NP (NNP Champs) (JJ executive) (NN vice) (NN president)))
+sid=1 spanning 23 until 31 headed by 25 parsed as (NP (NP (NNP Jay) (NNP R.) (NNP Cohen)) (, ,) (NP (NNP Champs) (JJ executive) (NN vice) (NN president)))
+sid=1 spanning 27 until 31 headed by 30 parsed as (NP (NNP Champs) (JJ executive) (NN vice) (NN president))
+sid=1 spanning 27 until 28 headed by 27 parsed as Champs
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP CRI)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ sponsors) (NP (NNP Champs))))) (, ,))
+sid=2 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP CRI)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ sponsors) (NP (NNP Champs))))) (, ,))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNP Champs))
+sid=2 spanning 7 until 15 headed by 14 parsed as (NP (DT a) (ADJP (NN world) (HYPH -) (JJ wide)) (NML (NML (JJ real) (NN estate)) (NN investment)) (NN firm))
+(end predicted mentions)
+---------gold clusters--------
+10 0 1 4 | { 'CRI , which sponsors Champs ,' 'CRI Inc.' 'it' 'its' }
+2 6 | { 'reduced' 'The change in expected cash distributions from the Champs real estate investment trust' }
+5 8 9 11 | { 'Capital Housing and Mortgage Partners Inc.' 'Champs' 'Champs' 'Champs' }
+7 3 | { 'the Champs real estate investment trust' 'its Capital Housing and Mortgage Partners Inc. trust' }
+(end gold clusters)

@@ -1,0 +1,39 @@
+---------gloss--------
+(0) [1m[35m{Westinghouse Electric Corp.}[0m said [1m[35m{it}[0m will buy [1m[34m{Shaw - Walker Co}[0m . 
+(1) Terms were n't disclosed . 
+(2) [1m[34m{Shaw - Walker , based in Muskegon , Mich. ,}[0m makes metal files and desks , and seating and office systems furniture . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1100); part 000
+sentences:
+WestinghouseWestinghouseNNPORGPER0ElectricElectricNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0ititPRPOPER0willwillMDOPER0buybuyVBOPER0ShawShawNNPORGPER0--HYPHORGPER0WalkerWalkerNNPORGPER0CoCoNNPORGPER0...OPER0(ROOT (S (NP (NNP Westinghouse) (NNP Electric) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB buy) (NP (NP (NNP Shaw) (HYPH -) (NNP Walker)) (NNP Co))))))) (. .)))
+TermstermNNSOPER0werebeVBDOPER0n'tnotRBOPER0discloseddiscloseVBNOPER0...OPER0(ROOT (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+ShawShawNNPORGPER0--HYPHORGPER0WalkerWalkerNNPORGPER0,,,OPER0basedbaseVBNOPER0ininINOPER0MuskegonMuskegonNNPGPEPER0,,,OPER0Mich.Mich.NNPGPEPER0,,,OPER0makesmakeVBZOPER0metalmetalNNOPER0filesfileNNSOPER0andandCCOPER0desksdeskNNSOPER0,,,OPER0andandCCOPER0seatingseatVBGOPER0andandCCOPER0officeofficeNNOPER0systemssystemNNSOPER0furniturefurnitureNNOPER0...OPER0(ROOT (S (NP (NP (NNP Shaw) (HYPH -) (NNP Walker)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Muskegon)) (, ,) (NP (NNP Mich.))))) (, ,)) (VP (VBZ makes) (NP (NP (NP (NN metal) (NNS files)) (CC and) (NP (NNS desks))) (, ,) (CC and) (NP (UCP (VBG seating) (CC and) (NN office)) (NNS systems)) (NP (NN furniture)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Westinghouse) (NNP Electric) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (NP (NNP Shaw) (HYPH -) (NNP Walker)) (NNP Co))
+sid=2 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Shaw) (HYPH -) (NNP Walker)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Muskegon)) (, ,) (NP (NNP Mich.))))) (, ,))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Westinghouse) (NNP Electric) (NNP Corp.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (NP (NNP Shaw) (HYPH -) (NNP Walker)) (NNP Co))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Terms))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Shaw) (HYPH -) (NNP Walker)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Muskegon)) (, ,) (NP (NNP Mich.))))) (, ,))
+sid=2 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Shaw) (HYPH -) (NNP Walker)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Muskegon)) (, ,) (NP (NNP Mich.))))) (, ,))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NP (NNP Muskegon)) (, ,) (NP (NNP Mich.)))
+sid=2 spanning 6 until 9 headed by 6 parsed as (NP (NP (NNP Muskegon)) (, ,) (NP (NNP Mich.)))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNP Mich.))
+sid=2 spanning 11 until 22 headed by 12 parsed as (NP (NP (NP (NN metal) (NNS files)) (CC and) (NP (NNS desks))) (, ,) (CC and) (NP (UCP (VBG seating) (CC and) (NN office)) (NNS systems)) (NP (NN furniture)))
+sid=2 spanning 11 until 15 headed by 12 parsed as (NP (NP (NN metal) (NNS files)) (CC and) (NP (NNS desks)))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NN metal) (NNS files))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNS desks))
+sid=2 spanning 17 until 21 headed by 20 parsed as (NP (UCP (VBG seating) (CC and) (NN office)) (NNS systems))
+(end predicted mentions)
+---------gold clusters--------
+3 2 | { 'Shaw - Walker , based in Muskegon , Mich. ,' 'Shaw - Walker Co' }
+0 1 | { 'Westinghouse Electric Corp.' 'it' }
+(end gold clusters)

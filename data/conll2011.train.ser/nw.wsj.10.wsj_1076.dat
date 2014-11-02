@@ -1,0 +1,64 @@
+---------gloss--------
+(0) [4m[32m{The average interest rate}[0m rose to 8.337 % at [4m[31m{Citicorp 's}[0m $ 50 million weekly auction of 91 - day commercial paper , or corporate IOUs , from 8.292 % at [4m[33m{last week 's}[0m sale . 
+(1) Bids totaling $ 475 million were submitted . 
+(2) Accepted bids ranged from 8.328 % to 8.347 % . 
+(3) However , [4m[31m{Citicorp}[0m said that [4m[32m{the average rate}[0m fell to 7.962 % at [4m[31m{its}[0m $ 50 million auction of 182 - day commercial paper from 7.986 % at [4m[33m{last week 's}[0m sale . 
+(4) Bids totaling $ 425 million were submitted . 
+(5) Accepted bids were all at 7.962 % . 
+(6) [4m[31m{The bank holding company}[0m will auction another $ 50 million in each maturity next Tuesday . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1076); part 000
+sentences:
+ThetheDTOPER0averageaverageJJOPER0interestinterestNNOPER0raterateNNOPER0roseriseVBDOPER0totoINOPER08.3378.337CDPERCENTPER0%%NNPERCENTPER0atatINOPER0CiticorpCiticorpNNPORGPER0's'sPOSOPER0$$$MONEYPER05050CDMONEYPER0millionmillionCDMONEYPER0weeklyweeklyJJDATEPER0auctionauctionNNOPER0ofofINOPER09191CDDATEPER0--HYPHDATEPER0daydayNNDATEPER0commercialcommercialJJOPER0paperpaperNNOPER0,,,OPER0ororCCOPER0corporatecorporateJJOPER0IOUsiousNNSOPER0,,,OPER0fromfromINOPER08.2928.292CDPERCENTPER0%%NNPERCENTPER0atatINOPER0lastlastJJDATEPER0weekweekNNDATEPER0's'sPOSDATEPER0salesaleNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ average) (NN interest) (NN rate)) (VP (VBD rose) (PP (IN to) (NP (CD 8.337) (NN %))) (PP (IN at) (NP (NP (NP (NNP Citicorp) (POS 's)) (NML (QP ($ $) (CD 50) (CD million))) (JJ weekly) (NN auction)) (PP (IN of) (NP (NP (NML (CD 91) (HYPH -) (NN day)) (JJ commercial) (NN paper)) (, ,) (CC or) (NP (JJ corporate) (NNS IOUs)))))) (, ,) (PP (PP (IN from) (NP (CD 8.292) (NN %))) (PP (IN at) (NP (NP (JJ last) (NN week) (POS 's)) (NN sale))))) (. .)))
+BidsbidNNSOPER0totalingtotalVBGOPER0$$$MONEYPER0475475CDMONEYPER0millionmillionCDMONEYPER0werebeVBDOPER0submittedsubmitVBNOPER0...OPER0(ROOT (S (NP (NP (NNS Bids)) (VP (VBG totaling) (NP (QP ($ $) (CD 475) (CD million))))) (VP (VBD were) (VP (VBN submitted))) (. .)))
+AcceptedacceptedJJOPER0bidsbidNNSOPER0rangedrangeVBDOPER0fromfromINOPER08.3288.328CDPERCENTPER0%%NNPERCENTPER0totoTOPERCENTPER08.3478.347CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (JJ Accepted) (NNS bids)) (VP (VBD ranged) (PP (IN from) (NP (QP (CD 8.328) (NN %) (TO to) (CD 8.347) (NN %))))) (. .)))
+HoweverhoweverRBOPER0,,,OPER0CiticorpCiticorpNNPORGPER0saidsayVBDOPER0thatthatINOPER0thetheDTOPER0averageaverageJJOPER0raterateNNOPER0fellfallVBDOPER0totoINOPER07.9627.962CDPERCENTPER0%%NNPERCENTPER0atatINOPER0itsitsPRP$OPER0$$$MONEYPER05050CDMONEYPER0millionmillionCDMONEYPER0auctionauctionNNOPER0ofofINOPER0182182CDDATEPER0--HYPHDATEPER0daydayNNDATEPER0commercialcommercialJJOPER0paperpaperNNOPER0fromfromINOPER07.9867.986CDPERCENTPER0%%NNPERCENTPER0atatINOPER0lastlastJJDATEPER0weekweekNNDATEPER0's'sPOSDATEPER0salesaleNNOPER0...OPER0(ROOT (S (ADVP (RB However)) (, ,) (NP (NNP Citicorp)) (VP (VBD said) (SBAR (IN that) (S (NP (DT the) (JJ average) (NN rate)) (VP (VBD fell) (PP (IN to) (NP (CD 7.962) (NN %))) (PP (IN at) (NP (NP (PRP$ its) (NML (QP ($ $) (CD 50) (CD million))) (NN auction)) (PP (IN of) (NP (NML (CD 182) (HYPH -) (NN day)) (JJ commercial) (NN paper))))) (PP (IN from) (NP (CD 7.986) (NN %)) (PP (IN at) (NP (NP (JJ last) (NN week) (POS 's)) (NN sale)))))))) (. .)))
+BidsbidNNSOPER0totalingtotalVBGOPER0$$$MONEYPER0425425CDMONEYPER0millionmillionCDMONEYPER0werebeVBDOPER0submittedsubmitVBNOPER0...OPER0(ROOT (S (NP (NP (NNS Bids)) (VP (VBG totaling) (NP (QP ($ $) (CD 425) (CD million))))) (VP (VBD were) (VP (VBN submitted))) (. .)))
+AcceptedacceptedJJOPER0bidsbidNNSOPER0werebeVBDOPER0allallDTOPER0atatINOPER07.9627.962CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (JJ Accepted) (NNS bids)) (VP (VBD were) (DT all) (PP (IN at) (NP (CD 7.962) (NN %)))) (. .)))
+ThetheDTOPER0bankbankNNOPER0holdingholdVBGOPER0companycompanyNNOPER0willwillMDOPER0auctionauctionVBOPER0anotheranotherDTMONEYPER0$$$MONEYPER05050CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0eacheachDTOPER0maturitymaturityNNOPER0nextnextINDATEPER0TuesdayTuesdayNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (ADJP (NN bank) (VBG holding)) (NN company)) (VP (MD will) (VP (VB auction) (NP (NP (QP (DT another) ($ $) (CD 50) (CD million))) (PP (IN in) (NP (NP (DT each) (NN maturity)) (NP (IN next) (NNP Tuesday))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ average) (NN interest) (NN rate))
+sid=0 spanning 9 until 11 headed by 9 parsed as (NP (NNP Citicorp) (POS 's))
+sid=0 spanning 31 until 35 headed by 34 parsed as (NP (NP (JJ last) (NN week) (POS 's)) (NN sale))
+sid=0 spanning 31 until 34 headed by 32 parsed as (NP (JJ last) (NN week) (POS 's))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Citicorp))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ average) (NN rate))
+sid=3 spanning 13 until 14 headed by 13 parsed as its
+sid=3 spanning 28 until 32 headed by 31 parsed as (NP (NP (JJ last) (NN week) (POS 's)) (NN sale))
+sid=3 spanning 28 until 31 headed by 29 parsed as (NP (JJ last) (NN week) (POS 's))
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (ADJP (NN bank) (VBG holding)) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (JJ average) (NN interest) (NN rate))
+sid=0 spanning 9 until 26 headed by 15 parsed as (NP (NP (NP (NNP Citicorp) (POS 's)) (NML (QP ($ $) (CD 50) (CD million))) (JJ weekly) (NN auction)) (PP (IN of) (NP (NP (NML (CD 91) (HYPH -) (NN day)) (JJ commercial) (NN paper)) (, ,) (CC or) (NP (JJ corporate) (NNS IOUs)))))
+sid=0 spanning 9 until 11 headed by 9 parsed as (NP (NNP Citicorp) (POS 's))
+sid=0 spanning 14 until 15 headed by 14 parsed as weekly
+sid=0 spanning 17 until 26 headed by 21 parsed as (NP (NP (NML (CD 91) (HYPH -) (NN day)) (JJ commercial) (NN paper)) (, ,) (CC or) (NP (JJ corporate) (NNS IOUs)))
+sid=0 spanning 17 until 22 headed by 21 parsed as (NP (NML (CD 91) (HYPH -) (NN day)) (JJ commercial) (NN paper))
+sid=0 spanning 17 until 20 headed by 19 parsed as day
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (JJ corporate) (NNS IOUs))
+sid=0 spanning 31 until 34 headed by 32 parsed as (NP (JJ last) (NN week) (POS 's))
+sid=1 spanning 0 until 5 headed by 0 parsed as (NP (NP (NNS Bids)) (VP (VBG totaling) (NP (QP ($ $) (CD 475) (CD million)))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (JJ Accepted) (NNS bids))
+sid=3 spanning 2 until 3 headed by 2 parsed as (NP (NNP Citicorp))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ average) (NN rate))
+sid=3 spanning 13 until 24 headed by 17 parsed as (NP (NP (PRP$ its) (NML (QP ($ $) (CD 50) (CD million))) (NN auction)) (PP (IN of) (NP (NML (CD 182) (HYPH -) (NN day)) (JJ commercial) (NN paper))))
+sid=3 spanning 13 until 14 headed by 13 parsed as (PRP$ its)
+sid=3 spanning 19 until 24 headed by 23 parsed as (NP (NML (CD 182) (HYPH -) (NN day)) (JJ commercial) (NN paper))
+sid=3 spanning 19 until 22 headed by 21 parsed as day
+sid=3 spanning 28 until 31 headed by 29 parsed as (NP (JJ last) (NN week) (POS 's))
+sid=4 spanning 0 until 5 headed by 0 parsed as (NP (NP (NNS Bids)) (VP (VBG totaling) (NP (QP ($ $) (CD 425) (CD million)))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJ Accepted) (NNS bids))
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (ADJP (NN bank) (VBG holding)) (NN company))
+sid=6 spanning 11 until 15 headed by 12 parsed as (NP (NP (DT each) (NN maturity)) (NP (IN next) (NNP Tuesday)))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (IN next) (NNP Tuesday))
+(end predicted mentions)
+---------gold clusters--------
+2 7 | { 'last week 's sale' 'last week 's sale' }
+9 1 4 6 | { 'The bank holding company' 'Citicorp 's' 'Citicorp' 'its' }
+5 0 | { 'the average rate' 'The average interest rate' }
+3 8 | { 'last week 's' 'last week 's' }
+(end gold clusters)

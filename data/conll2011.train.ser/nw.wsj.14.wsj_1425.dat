@@ -1,0 +1,44 @@
+---------gloss--------
+(0) Translant Inc. , Rancho Cucamonga , Calif. , got an $ 86 million Navy contract for missile - launch systems . 
+(1) General Electric Co. received a $ 30.6 million [4m[35m{Air Force}[0m contract for MX - missile nose cones . 
+(2) Goodyear Tire & Rubber Co. was awarded a $ 19.1 million Army contract for armored - vehicle parts . 
+(3) Analytic Sciences Corp. was awarded a $ 10.1 million [4m[35m{Air Force}[0m contract for technical support . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1425); part 000
+sentences:
+TranslantTranslantNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0RanchoRanchoNNPGPEPER0CucamongaCucamongaNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0,,,OPER0gotgetVBDOPER0anaDTOPER0$$$MONEYPER08686CDMONEYPER0millionmillionCDMONEYPER0NavyNavyNNPORGPER0contractcontractNNOPER0forforINOPER0missilemissileNNOPER0--HYPHOPER0launchlaunchNNOPER0systemssystemNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Translant) (NNP Inc.)) (, ,) (NP (NP (NNP Rancho) (NNP Cucamonga)) (, ,) (NP (NNP Calif.))) (, ,)) (VP (VBD got) (NP (NP (DT an) (NML (QP ($ $) (CD 86) (CD million))) (NNP Navy) (NN contract)) (PP (IN for) (NP (NML (NN missile) (HYPH -) (NN launch)) (NNS systems))))) (. .)))
+GeneralGeneralNNPORGPER0ElectricElectricNNPORGPER0Co.Co.NNPORGPER0receivedreceiveVBDOPER0aaDTOPER0$$$MONEYPER030.630.6CDMONEYPER0millionmillionCDMONEYPER0AirAirNNPORGPER0ForceForceNNPORGPER0contractcontractNNOPER0forforINOPER0MXMXNNPPRODUCTPER0--HYPHPRODUCTPER0missilemissileNNOPER0nosenoseNNOPER0conesconeNNSOPER0...OPER0(ROOT (S (NP (NNP General) (NNP Electric) (NNP Co.)) (VP (VBD received) (NP (NP (DT a) (NML (QP ($ $) (CD 30.6) (CD million))) (NML (NNP Air) (NNP Force)) (NN contract)) (PP (IN for) (NP (NML (NNP MX) (HYPH -) (NN missile)) (NN nose) (NNS cones))))) (. .)))
+GoodyearGoodyearNNPORGPER0TireTireNNPORGPER0&&CCORGPER0RubberrubberNNORGPER0Co.Co.NNPORGPER0wasbeVBDOPER0awardedawardVBNOPER0aaDTOPER0$$$MONEYPER019.119.1CDMONEYPER0millionmillionCDMONEYPER0ArmyArmyNNPORGPER0contractcontractNNOPER0forforINOPER0armoredarmoredJJOPER0--HYPHOPER0vehiclevehicleNNOPER0partspartNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Goodyear) (NNP Tire)) (CC &) (NP (NN Rubber) (NNP Co.))) (VP (VBD was) (VP (VBN awarded) (NP (NP (DT a) (NML (QP ($ $) (CD 19.1) (CD million))) (NNP Army) (NN contract)) (PP (IN for) (NP (NML (JJ armored) (HYPH -) (NN vehicle)) (NNS parts)))))) (. .)))
+AnalyticanalyticJJORGPER0SciencesSciencesNNPORGPER0Corp.Corp.NNPORGPER0wasbeVBDOPER0awardedawardVBNOPER0aaDTOPER0$$$MONEYPER010.110.1CDMONEYPER0millionmillionCDMONEYPER0AirAirNNPORGPER0ForceForceNNPORGPER0contractcontractNNOPER0forforINOPER0technicaltechnicalJJOPER0supportsupportNNOPER0...OPER0(ROOT (S (NP (JJ Analytic) (NNP Sciences) (NNP Corp.)) (VP (VBD was) (VP (VBN awarded) (NP (NP (DT a) (NML (QP ($ $) (CD 10.1) (CD million))) (NML (NNP Air) (NNP Force)) (NN contract)) (PP (IN for) (NP (JJ technical) (NN support)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 8 until 10 headed by 9 parsed as Force
+sid=3 spanning 9 until 11 headed by 10 parsed as Force
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Translant) (NNP Inc.)) (, ,) (NP (NP (NNP Rancho) (NNP Cucamonga)) (, ,) (NP (NNP Calif.))) (, ,))
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (NNP Translant) (NNP Inc.)) (, ,) (NP (NP (NNP Rancho) (NNP Cucamonga)) (, ,) (NP (NNP Calif.))) (, ,))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NP (NNP Rancho) (NNP Cucamonga)) (, ,) (NP (NNP Calif.)))
+sid=0 spanning 3 until 7 headed by 4 parsed as (NP (NP (NNP Rancho) (NNP Cucamonga)) (, ,) (NP (NNP Calif.)))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Calif.))
+sid=0 spanning 9 until 20 headed by 14 parsed as (NP (NP (DT an) (NML (QP ($ $) (CD 86) (CD million))) (NNP Navy) (NN contract)) (PP (IN for) (NP (NML (NN missile) (HYPH -) (NN launch)) (NNS systems))))
+sid=0 spanning 13 until 14 headed by 13 parsed as Navy
+sid=0 spanning 16 until 20 headed by 19 parsed as (NP (NML (NN missile) (HYPH -) (NN launch)) (NNS systems))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NNP General) (NNP Electric) (NNP Co.))
+sid=1 spanning 4 until 17 headed by 10 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 30.6) (CD million))) (NML (NNP Air) (NNP Force)) (NN contract)) (PP (IN for) (NP (NML (NNP MX) (HYPH -) (NN missile)) (NN nose) (NNS cones))))
+sid=1 spanning 8 until 10 headed by 9 parsed as Force
+sid=1 spanning 12 until 17 headed by 16 parsed as (NP (NML (NNP MX) (HYPH -) (NN missile)) (NN nose) (NNS cones))
+sid=1 spanning 12 until 14 headed by 12 parsed as MX
+sid=2 spanning 0 until 5 headed by 1 parsed as (NP (NP (NNP Goodyear) (NNP Tire)) (CC &) (NP (NN Rubber) (NNP Co.)))
+sid=2 spanning 7 until 18 headed by 12 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 19.1) (CD million))) (NNP Army) (NN contract)) (PP (IN for) (NP (NML (JJ armored) (HYPH -) (NN vehicle)) (NNS parts))))
+sid=2 spanning 11 until 12 headed by 11 parsed as Army
+sid=2 spanning 14 until 18 headed by 17 parsed as (NP (NML (JJ armored) (HYPH -) (NN vehicle)) (NNS parts))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (JJ Analytic) (NNP Sciences) (NNP Corp.))
+sid=3 spanning 5 until 15 headed by 11 parsed as (NP (NP (DT a) (NML (QP ($ $) (CD 10.1) (CD million))) (NML (NNP Air) (NNP Force)) (NN contract)) (PP (IN for) (NP (JJ technical) (NN support))))
+sid=3 spanning 9 until 11 headed by 10 parsed as Force
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Air Force' 'Air Force' }
+(end gold clusters)

@@ -1,0 +1,233 @@
+---------gloss--------
+(0) [1m[31m{A man in New York}[0m is facing attempted murder charges after allegedly throwing [1m[31m{his}[0m baby seven stories to the ground below . 
+(1) Jordeena Ginsburg from [1m[32m{News 12 Westchester}[0m has the story . 
+(2) Reporter : 
+(3) Police measure the spot where [36m{ten months old Miana Williams}[0m landed after [36m{she}[0m was thrown from [32m{a seventh floor window at this apartment building}[0m . 
+(4) [36m{The baby}[0m fell 80 feet . 
+(5) These tree branches cushioned [36m{her}[0m fall and saved [36m{her}[0m life . 
+(6) [36m{The baby 's}[0m aunt did n't want [33m{her}[0m face shown on TV but told [1m[32m{us}[0m [33m{she}[0m was stunned . 
+(7) [33m{I}[0m 'm glad [36m{she}[0m 's alive . 
+(8) It 's a miracle [36m{she}[0m survived . 
+(9) Reporter : 
+(10) Now [1m[31m{Willie Williams the girl 's father}[0m is charged with attempted murder . 
+(11) It all started around 11:30 Saturday night , when [1m[31m{Williams}[0m got into a fight with [36m{the baby 's}[0m mother , Jasmine . 
+(12) [1m[31m{He}[0m wanted to date [35m{her}[0m again and [35m{she}[0m was n't interested . 
+(13) Cops say [1m[31m{he}[0m allegedly kidnapped [35m{her}[0m in [1m[31m{his}[0m car and threatened [35m{her}[0m but eventually brought [35m{her}[0m back to [35m{her}[0m home . 
+(14) That 's when police say [1m[31m{he}[0m grabbed [35m{her}[0m daughter . 
+(15) [1m[31m{The father}[0m allegedly picked [36m{the baby}[0m up , dangled [36m{it}[0m out the window of the seventh floor , pulled [36m{the child}[0m back in . 
+(16) Reporter : 
+(17) Then [36m{the baby 's}[0m mother made a frantic call to police . 
+(18) While [35m{she}[0m was on the phone , police say [1m[31m{Williams}[0m picked up [36m{the child}[0m again and this time , threw [36m{her}[0m out [32m{the window}[0m . 
+(19) Then police say [36m{the baby 's}[0m mother pulled out a kitchen knife . 
+(20) opinion 
+(21) On the 911 tape you can hear [1m[31m{William 's}[0m tape say `` go ahead kill [1m[31m{me}[0m . '' 
+(22) Still bleeding , [1m[31m{he}[0m ran downstairs and scooped up [36m{the baby}[0m and took [36m{the baby}[0m to [34m{the hospital}[0m . 
+(23) Police were on [1m[31m{his}[0m trail and found [1m[31m{Williams}[0m and [36m{the baby}[0m at [34m{Memorial Hospital where}[0m -- 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0242); part 000
+sentences:
+AaDTOPER0manmanNNOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0isbeVBZOPER0facingfaceVBGOPER0attemptedattemptVBNOPER0murdermurderNNOPER0chargeschargeNNSOPER0afterafterINOPER0allegedlyallegedlyRBOPER0throwingthrowVBGOPER0hishePRP$OPER0babybabyNNOPER0sevensevenCDCARDINALPER0storiesstoryNNSOPER0totoINOPER0thetheDTOPER0groundgroundNNOPER0belowbelowINOPER0...OPER0(ROOT (S (NP (NP (DT A) (NN man)) (PP (IN in) (NP (NNP New) (NNP York)))) (VP (VBZ is) (VP (VBG facing) (NP (VBN attempted) (NN murder) (NNS charges)) (PP (IN after) (S (ADVP (RB allegedly)) (VP (VBG throwing) (NP (NP (NP (PRP$ his) (NN baby)) (NP (CD seven) (NNS stories))) (PP (IN to) (NP (DT the) (NN ground)))) (PP (IN below))))))) (. .)))
+JordeenaJordeenaNNPPERSONPER0GinsburgGinsburgNNPPERSONPER0fromfromINOPER0NewsNewsNNPORGPER01212CDORGPER0WestchesterWestchesterNNPORGPER0hashaveVBZOPER0thetheDTOPER0storystoryNNOPER0...OPER0(ROOT (S (NP (NP (NNP Jordeena) (NNP Ginsburg)) (PP (IN from) (NP (NP (NNP News) (CD 12)) (NP (NNP Westchester))))) (VP (VBZ has) (NP (DT the) (NN story))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+PolicepoliceNNSOPER0measuremeasureVBOPER0thetheDTOPER0spotspotNNOPER0wherewhereWRBOPER0tentenCDDATEPER0monthsmonthNNSDATEPER0oldoldJJOPER0MianaMianaNNPORGPER0WilliamsWilliamsNNPORGPER0landedlandVBDOPER0afterafterINOPER0sheshePRPOPER0wasbeVBDOPER0thrownthrowVBNOPER0fromfromINOPER0aaDTOPER0seventhseventhJJORDINALPER0floorfloorNNOPER0windowwindowNNOPER0atatINOPER0thisthisDTOPER0apartmentapartmentNNOPER0buildingbuildingNNOPER0...OPER0(ROOT (S (NP (NNS Police)) (VP (VB measure) (NP (NP (DT the) (NN spot)) (SBAR (WHADVP (WRB where)) (S (NP (NP (CD ten) (NNS months)) (JJ old) (NNP Miana) (NNP Williams)) (VP (VBD landed) (SBAR (IN after) (S (NP (PRP she)) (VP (VBD was) (VP (VBN thrown) (PP (IN from) (NP (DT a) (NML (JJ seventh) (NN floor)) (NN window))) (PP (IN at) (NP (DT this) (NN apartment) (NN building)))))))))))) (. .)))
+ThetheDTOPER0babybabyNNOPER0fellfallVBDOPER08080CDQUANTITYPER0feetfootNNSQUANTITYPER0...OPER0(ROOT (S (NP (DT The) (NN baby)) (VP (VBD fell) (NP (CD 80) (NNS feet))) (. .)))
+ThesetheseDTOPER0treetreeNNOPER0branchesbranchNNSOPER0cushionedcushionVBDOPER0hershePRP$OPER0fallfallNNOPER0andandCCOPER0savedsaveVBDOPER0hershePRP$OPER0lifelifeNNOPER0...OPER0(ROOT (S (NP (DT These) (NN tree) (NNS branches)) (VP (VP (VBD cushioned) (NP (PRP$ her) (NN fall))) (CC and) (VP (VBD saved) (NP (PRP$ her) (NN life)))) (. .)))
+ThetheDTOPER0babybabyNNOPER0's'sPOSOPER0auntauntNNOPER0diddoVBDOPER0n'tnotRBOPER0wantwantVBOPER0hershePRP$OPER0facefaceNNOPER0shownshowVBNOPER0ononINOPER0TVtvNNOPER0butbutCCOPER0toldtellVBDOPER0uswePRPOPER0sheshePRPOPER0wasbeVBDOPER0stunnedstunnedJJOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN baby) (POS 's)) (NN aunt)) (VP (VP (VBD did) (RB n't) (VP (VB want) (S (NP (PRP$ her) (NN face)) (VP (VBN shown) (PP (IN on) (NP (NN TV))))))) (CC but) (VP (VBD told) (NP (PRP us)) (SBAR (S (NP (PRP she)) (VP (VBD was) (ADJP (JJ stunned))))))) (. .)))
+IIPRPOPER0'mbeVBPOPER0gladgladJJOPER0sheshePRPOPER0'sbeVBZOPER0alivealiveJJOPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ glad) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (ADJP (JJ alive))))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0aaDTOPER0miraclemiracleNNOPER0sheshePRPOPER0survivedsurviveVBDOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN miracle)) (SBAR (S (NP (PRP she)) (VP (VBD survived)))))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+NownowRBOPER0WillieWillieNNPPERSONPER0WilliamsWilliamsNNPPERSONPER0thetheDTOPER0girlgirlNNOPER0's'sPOSOPER0fatherfatherNNOPER0isbeVBZOPER0chargedchargeVBNOPER0withwithINOPER0attemptedattemptVBNOPER0murdermurderNNOPER0...OPER0(ROOT (S (ADVP (RB Now)) (NP (NP (NNP Willie) (NNP Williams)) (NP (NP (DT the) (NN girl) (POS 's)) (NN father))) (VP (VBZ is) (VP (VBN charged) (PP (IN with) (NP (VBN attempted) (NN murder))))) (. .)))
+ItitPRPOPER0allallDTOPER0startedstartVBDOPER0aroundaroundRBTIMEPER011:3011:30CDTIMEPER0SaturdaySaturdayNNPTIMEPER0nightnightNNTIMEPER0,,,OPER0whenwhenWRBOPER0WilliamsWilliamsNNPPERSONPER0gotgetVBDOPER0intointoINOPER0aaDTOPER0fightfightNNOPER0withwithINOPER0thetheDTOPER0babybabyNNOPER0's'sPOSOPER0mothermotherNNOPER0,,,OPER0JasmineJasmineNNPPERSONPER0...OPER0(ROOT (S (NP (NP (PRP It)) (NP (DT all))) (VP (VBD started) (NP (NP (NP (RB around) (CD 11:30)) (NP (NNP Saturday) (NN night))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Williams)) (VP (VBD got) (PP (IN into) (NP (NP (DT a) (NN fight)) (PP (IN with) (NP (NP (NP (DT the) (NN baby) (POS 's)) (NN mother)) (, ,) (NP (NNP Jasmine))))))))))) (. .)))
+HehePRPOPER0wantedwantVBDOPER0totoTOOPER0datedateVBOPER0hershePRPOPER0againagainRBOPER0andandCCOPER0sheshePRPOPER0wasbeVBDOPER0n'tnotRBOPER0interestedinterestedJJOPER0...OPER0(ROOT (S (S (NP (PRP He)) (VP (VBD wanted) (S (VP (TO to) (VP (VB date) (NP (PRP her)) (ADVP (RB again))))))) (CC and) (S (NP (PRP she)) (VP (VBD was) (RB n't) (ADJP (JJ interested)))) (. .)))
+CopscopNNSPERSONPER0saysayVBPOPER0hehePRPOPER0allegedlyallegedlyRBOPER0kidnappedkidnapVBDOPER0hershePRPOPER0ininINOPER0hishePRP$OPER0carcarNNOPER0andandCCOPER0threatenedthreatenVBDOPER0hershePRPOPER0butbutCCOPER0eventuallyeventuallyRBOPER0broughtbringVBDOPER0hershePRPOPER0backbackRBOPER0totoINOPER0hershePRP$OPER0homehomeNNOPER0...OPER0(ROOT (S (NP (NNS Cops)) (VP (VBP say) (SBAR (S (NP (PRP he)) (ADVP (RB allegedly)) (VP (VP (VP (VBD kidnapped) (NP (PRP her)) (PP (IN in) (NP (PRP$ his) (NN car)))) (CC and) (VP (VBD threatened) (NP (PRP her)))) (CC but) (ADVP (RB eventually)) (VP (VBD brought) (NP (PRP her)) (ADVP (RB back) (PP (IN to) (NP (PRP$ her) (NN home))))))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0whenwhenWRBOPER0policepoliceNNSOPER0saysayVBPOPER0hehePRPOPER0grabbedgrabVBDOPER0hershePRP$OPER0daughterdaughterNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB when)) (S (NP (NNS police)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD grabbed) (NP (PRP$ her) (NN daughter))))))))) (. .)))
+ThetheDTOPER0fatherfatherNNOPER0allegedlyallegedlyRBOPER0pickedpickVBDOPER0thetheDTOPER0babybabyNNOPER0upupRPOPER0,,,OPER0dangleddangleVBNOPER0ititPRPOPER0outoutINOPER0thetheDTOPER0windowwindowNNOPER0ofofINOPER0thetheDTOPER0seventhseventhJJORDINALPER0floorfloorNNOPER0,,,OPER0pulledpullVBDOPER0thetheDTOPER0childchildNNOPER0backbackRBOPER0ininINOPER0...OPER0(ROOT (S (NP (DT The) (NN father)) (ADVP (RB allegedly)) (VP (VP (VBD picked) (NP (DT the) (NN baby)) (PRT (RP up))) (, ,) (VP (VBN dangled) (NP (PRP it)) (PP (IN out) (NP (NP (DT the) (NN window)) (PP (IN of) (NP (DT the) (JJ seventh) (NN floor)))))) (, ,) (VP (VBD pulled) (NP (DT the) (NN child)) (ADVP (RB back)) (PP (IN in)))) (. .)))
+ReporterreporterNNOPER0::.OPER0(ROOT (NP (NN Reporter) (. :)))
+ThenthenRBOPER0thetheDTOPER0babybabyNNOPER0's'sPOSOPER0mothermotherNNOPER0mademakeVBDOPER0aaDTOPER0franticfranticJJOPER0callcallNNOPER0totoINOPER0policepoliceNNOPER0...OPER0(ROOT (S (ADVP (RB Then)) (NP (NP (DT the) (NN baby) (POS 's)) (NN mother)) (VP (VBD made) (NP (NP (DT a) (JJ frantic) (NN call)) (PP (IN to) (NP (NN police))))) (. .)))
+WhilewhileINOPER0sheshePRPOPER0wasbeVBDOPER0ononINOPER0thetheDTOPER0phonephoneNNOPER0,,,OPER0policepoliceNNSOPER0saysayVBPOPER0WilliamsWilliamsNNPPERSONPER0pickedpickVBDOPER0upupRPOPER0thetheDTOPER0childchildNNOPER0againagainRBOPER0andandCCOPER0thisthisDTOPER0timetimeNNOPER0,,,OPER0threwthrowVBDOPER0hershePRPOPER0outoutINOPER0thetheDTOPER0windowwindowNNOPER0...OPER0(ROOT (S (SBAR (IN While) (S (NP (PRP she)) (VP (VBD was) (PP (IN on) (NP (DT the) (NN phone)))))) (, ,) (NP (NNS police)) (VP (VBP say) (SBAR (S (NP (NNP Williams)) (VP (VP (VBD picked) (PRT (RP up)) (NP (DT the) (NN child)) (ADVP (RB again))) (CC and) (NP (DT this) (NN time)) (, ,) (VP (VBD threw) (NP (PRP her)) (PP (IN out) (NP (DT the) (NN window)))))))) (. .)))
+ThenthenRBOPER0policepoliceNNSOPER0saysayVBPOPER0thetheDTOPER0babybabyNNOPER0's'sPOSOPER0mothermotherNNOPER0pulledpullVBDOPER0outoutRPOPER0aaDTOPER0kitchenkitchenNNOPER0knifeknifeNNOPER0...OPER0(ROOT (S (ADVP (RB Then)) (NP (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT the) (NN baby) (POS 's)) (NN mother)) (VP (VBD pulled) (PRT (RP out)) (NP (DT a) (NN kitchen) (NN knife)))))) (. .)))
+opinionopinionNNOPER0(ROOT (NP (NN opinion)))
+OnonINOPER0thetheDTOPER0911911CDCARDINALPER0tapetapeNNOPER0youyouPRPOPER0cancanMDOPER0hearhearVBOPER0WilliamWilliamNNPPERSONPER0's'sPOSOPER0tapetapeNNOPER0saysayVBOPER0``````OgogoVBOPER1aheadaheadRBOPER1killkillVBOPER1meIPRPOPER1...OPER1''''''OPER0(ROOT (S (PP (IN On) (NP (DT the) (CD 911) (NN tape))) (NP (PRP you)) (VP (MD can) (VP (VB hear) (S (NP (NP (NNP William) (POS 's)) (NN tape)) (VP (VB say) (S (`` ``) (VP (VB go) (ADVP (RB ahead)) (S (VP (VB kill) (NP (PRP me)))))))))) (. .) ('' '')))
+StillstillRBOPER0bleedingbleedVBGOPER0,,,OPER0hehePRPOPER0ranrunVBDOPER0downstairsdownstairsRBOPER0andandCCOPER0scoopedscoopVBDOPER0upupRPOPER0thetheDTOPER0babybabyNNOPER0andandCCOPER0tooktakeVBDOPER0thetheDTOPER0babybabyNNOPER0totoINOPER0thetheDTOPER0hospitalhospitalNNOPER0...OPER0(ROOT (S (S (ADVP (RB Still)) (VP (VBG bleeding))) (, ,) (NP (PRP he)) (VP (VP (VBD ran) (ADVP (RB downstairs))) (CC and) (VP (VBD scooped) (PRT (RP up)) (NP (DT the) (NN baby))) (CC and) (VP (VBD took) (NP (DT the) (NN baby)) (PP (IN to) (NP (DT the) (NN hospital))))) (. .)))
+PolicepoliceNNSOPER0werebeVBDOPER0ononINOPER0hishePRP$OPER0trailtrailNNOPER0andandCCOPER0foundfindVBDOPER0WilliamsWilliamsNNPPERSONPER0andandCCOPER0thetheDTOPER0babybabyNNOPER0atatINOPER0MemorialMemorialNNPORGPER0HospitalHospitalNNPORGPER0wherewhereWRBOPER0----.OPER0(ROOT (S (NP (NNS Police)) (VP (VP (VBD were) (PP (IN on) (NP (PRP$ his) (NN trail)))) (CC and) (VP (VBD found) (NP (NP (NNP Williams)) (CC and) (NP (DT the) (NN baby))) (PP (IN at) (NP (NP (NNP Memorial) (NNP Hospital)) (ADVP (WRB where)))))) (. --)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT A) (NN man)) (PP (IN in) (NP (NNP New) (NNP York))))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NP (NP (PRP$ his) (NN baby)) (NP (CD seven) (NNS stories))) (PP (IN to) (NP (DT the) (NN ground))))
+sid=0 spanning 13 until 14 headed by 13 parsed as his
+sid=1 spanning 3 until 6 headed by 3 parsed as (NP (NP (NNP News) (CD 12)) (NP (NNP Westchester)))
+sid=3 spanning 5 until 10 headed by 9 parsed as (NP (NP (CD ten) (NNS months)) (JJ old) (NNP Miana) (NNP Williams))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP she))
+sid=3 spanning 16 until 24 headed by 19 parsed as (NP (DT a) (NML (JJ seventh) (NN floor)) (NN window))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN baby))
+sid=5 spanning 4 until 5 headed by 4 parsed as her
+sid=5 spanning 8 until 9 headed by 8 parsed as her
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NN baby) (POS 's)) (NN aunt))
+sid=6 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN baby) (POS 's))
+sid=6 spanning 7 until 8 headed by 7 parsed as her
+sid=6 spanning 14 until 15 headed by 14 parsed as (NP (PRP us))
+sid=6 spanning 15 until 16 headed by 15 parsed as (NP (PRP she))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=7 spanning 3 until 4 headed by 3 parsed as (NP (PRP she))
+sid=8 spanning 4 until 5 headed by 4 parsed as (NP (PRP she))
+sid=10 spanning 1 until 7 headed by 2 parsed as (NP (NP (NNP Willie) (NNP Williams)) (NP (NP (DT the) (NN girl) (POS 's)) (NN father)))
+sid=10 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NN girl) (POS 's))
+sid=11 spanning 9 until 10 headed by 9 parsed as (NP (NNP Williams))
+sid=11 spanning 15 until 21 headed by 18 parsed as (NP (NP (NP (DT the) (NN baby) (POS 's)) (NN mother)) (, ,) (NP (NNP Jasmine)))
+sid=11 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN baby) (POS 's))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=12 spanning 4 until 5 headed by 4 parsed as (NP (PRP her))
+sid=12 spanning 7 until 8 headed by 7 parsed as (NP (PRP she))
+sid=13 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (PRP her))
+sid=13 spanning 7 until 8 headed by 7 parsed as his
+sid=13 spanning 11 until 12 headed by 11 parsed as (NP (PRP her))
+sid=13 spanning 15 until 16 headed by 15 parsed as (NP (PRP her))
+sid=13 spanning 18 until 19 headed by 18 parsed as her
+sid=14 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=14 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ her) (NN daughter))
+sid=14 spanning 7 until 8 headed by 7 parsed as her
+sid=15 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN father))
+sid=15 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN baby))
+sid=15 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=15 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN child))
+sid=17 spanning 1 until 5 headed by 4 parsed as (NP (NP (DT the) (NN baby) (POS 's)) (NN mother))
+sid=17 spanning 1 until 4 headed by 2 parsed as (NP (DT the) (NN baby) (POS 's))
+sid=18 spanning 1 until 2 headed by 1 parsed as (NP (PRP she))
+sid=18 spanning 9 until 10 headed by 9 parsed as (NP (NNP Williams))
+sid=18 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN child))
+sid=18 spanning 20 until 21 headed by 20 parsed as (NP (PRP her))
+sid=18 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN window))
+sid=19 spanning 3 until 7 headed by 6 parsed as (NP (NP (DT the) (NN baby) (POS 's)) (NN mother))
+sid=19 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NN baby) (POS 's))
+sid=21 spanning 7 until 9 headed by 7 parsed as (NP (NNP William) (POS 's))
+sid=21 spanning 15 until 16 headed by 15 parsed as (NP (PRP me))
+sid=22 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=22 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN baby))
+sid=22 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN baby))
+sid=22 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN hospital))
+sid=23 spanning 3 until 4 headed by 3 parsed as his
+sid=23 spanning 7 until 8 headed by 7 parsed as (NP (NP (NNP Williams)) (CC and) (NP (DT the) (NN baby)))
+sid=23 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN baby))
+sid=23 spanning 12 until 15 headed by 13 parsed as (NP (NP (NNP Memorial) (NNP Hospital)) (ADVP (WRB where)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT A) (NN man)) (PP (IN in) (NP (NNP New) (NNP York))))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NNP New) (NNP York))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (VBN attempted) (NN murder) (NNS charges))
+sid=0 spanning 13 until 20 headed by 14 parsed as (NP (NP (NP (PRP$ his) (NN baby)) (NP (CD seven) (NNS stories))) (PP (IN to) (NP (DT the) (NN ground))))
+sid=0 spanning 13 until 14 headed by 13 parsed as (PRP$ his)
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (CD seven) (NNS stories))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN ground))
+sid=1 spanning 0 until 6 headed by 1 parsed as (NP (NP (NNP Jordeena) (NNP Ginsburg)) (PP (IN from) (NP (NP (NNP News) (CD 12)) (NP (NNP Westchester)))))
+sid=1 spanning 3 until 6 headed by 3 parsed as (NP (NP (NNP News) (CD 12)) (NP (NNP Westchester)))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN story))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Police))
+sid=3 spanning 2 until 24 headed by 3 parsed as (NP (NP (DT the) (NN spot)) (SBAR (WHADVP (WRB where)) (S (NP (NP (CD ten) (NNS months)) (JJ old) (NNP Miana) (NNP Williams)) (VP (VBD landed) (SBAR (IN after) (S (NP (PRP she)) (VP (VBD was) (VP (VBN thrown) (PP (IN from) (NP (DT a) (NML (JJ seventh) (NN floor)) (NN window))) (PP (IN at) (NP (DT this) (NN apartment) (NN building)))))))))))
+sid=3 spanning 5 until 10 headed by 9 parsed as (NP (NP (CD ten) (NNS months)) (JJ old) (NNP Miana) (NNP Williams))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (CD ten) (NNS months))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (PRP she))
+sid=3 spanning 16 until 20 headed by 19 parsed as (NP (DT a) (NML (JJ seventh) (NN floor)) (NN window))
+sid=3 spanning 17 until 18 headed by 17 parsed as seventh
+sid=3 spanning 21 until 24 headed by 23 parsed as (NP (DT this) (NN apartment) (NN building))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN baby))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (CD 80) (NNS feet))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT These) (NN tree) (NNS branches))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ her) (NN fall))
+sid=5 spanning 4 until 5 headed by 4 parsed as (PRP$ her)
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (PRP$ her) (NN life))
+sid=5 spanning 8 until 9 headed by 8 parsed as (PRP$ her)
+sid=6 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NN baby) (POS 's)) (NN aunt))
+sid=6 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NN baby) (POS 's))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ her) (NN face))
+sid=6 spanning 7 until 8 headed by 7 parsed as (PRP$ her)
+sid=6 spanning 14 until 15 headed by 14 parsed as (NP (PRP us))
+sid=6 spanning 15 until 16 headed by 15 parsed as (NP (PRP she))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=7 spanning 3 until 4 headed by 3 parsed as (NP (PRP she))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=8 spanning 2 until 6 headed by 3 parsed as (NP (NP (DT a) (NN miracle)) (SBAR (S (NP (PRP she)) (VP (VBD survived)))))
+sid=8 spanning 4 until 5 headed by 4 parsed as (NP (PRP she))
+sid=9 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=10 spanning 1 until 7 headed by 2 parsed as (NP (NP (NNP Willie) (NNP Williams)) (NP (NP (DT the) (NN girl) (POS 's)) (NN father)))
+sid=10 spanning 3 until 7 headed by 6 parsed as (NP (NP (DT the) (NN girl) (POS 's)) (NN father))
+sid=10 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NN girl) (POS 's))
+sid=10 spanning 10 until 12 headed by 11 parsed as (NP (VBN attempted) (NN murder))
+sid=11 spanning 0 until 2 headed by 0 parsed as (NP (NP (PRP It)) (NP (DT all)))
+sid=11 spanning 3 until 7 headed by 4 parsed as (NP (NP (NP (RB around) (CD 11:30)) (NP (NNP Saturday) (NN night))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Williams)) (VP (VBD got) (PP (IN into) (NP (NP (DT a) (NN fight)) (PP (IN with) (NP (NP (NP (DT the) (NN baby) (POS 's)) (NN mother)) (, ,) (NP (NNP Jasmine))))))))))
+sid=11 spanning 3 until 21 headed by 4 parsed as (NP (NP (NP (RB around) (CD 11:30)) (NP (NNP Saturday) (NN night))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Williams)) (VP (VBD got) (PP (IN into) (NP (NP (DT a) (NN fight)) (PP (IN with) (NP (NP (NP (DT the) (NN baby) (POS 's)) (NN mother)) (, ,) (NP (NNP Jasmine))))))))))
+sid=11 spanning 9 until 10 headed by 9 parsed as (NP (NNP Williams))
+sid=11 spanning 12 until 21 headed by 13 parsed as (NP (NP (DT a) (NN fight)) (PP (IN with) (NP (NP (NP (DT the) (NN baby) (POS 's)) (NN mother)) (, ,) (NP (NNP Jasmine)))))
+sid=11 spanning 15 until 21 headed by 18 parsed as (NP (NP (NP (DT the) (NN baby) (POS 's)) (NN mother)) (, ,) (NP (NNP Jasmine)))
+sid=11 spanning 15 until 19 headed by 18 parsed as (NP (NP (DT the) (NN baby) (POS 's)) (NN mother))
+sid=11 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN baby) (POS 's))
+sid=11 spanning 20 until 21 headed by 20 parsed as (NP (NNP Jasmine))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=12 spanning 4 until 5 headed by 4 parsed as (NP (PRP her))
+sid=12 spanning 7 until 8 headed by 7 parsed as (NP (PRP she))
+sid=13 spanning 0 until 1 headed by 0 parsed as (NP (NNS Cops))
+sid=13 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (PRP her))
+sid=13 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ his) (NN car))
+sid=13 spanning 7 until 8 headed by 7 parsed as (PRP$ his)
+sid=13 spanning 11 until 12 headed by 11 parsed as (NP (PRP her))
+sid=13 spanning 15 until 16 headed by 15 parsed as (NP (PRP her))
+sid=13 spanning 18 until 20 headed by 19 parsed as (NP (PRP$ her) (NN home))
+sid=13 spanning 18 until 19 headed by 18 parsed as (PRP$ her)
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=14 spanning 3 until 4 headed by 3 parsed as (NP (NNS police))
+sid=14 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=14 spanning 7 until 9 headed by 8 parsed as (NP (PRP$ her) (NN daughter))
+sid=14 spanning 7 until 8 headed by 7 parsed as (PRP$ her)
+sid=15 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN father))
+sid=15 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN baby))
+sid=15 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=15 spanning 11 until 17 headed by 12 parsed as (NP (NP (DT the) (NN window)) (PP (IN of) (NP (DT the) (JJ seventh) (NN floor))))
+sid=15 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (JJ seventh) (NN floor))
+sid=15 spanning 15 until 16 headed by 15 parsed as seventh
+sid=15 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN child))
+sid=16 spanning 0 until 2 headed by 0 parsed as (NP (NN Reporter) (. :))
+sid=17 spanning 1 until 5 headed by 4 parsed as (NP (NP (DT the) (NN baby) (POS 's)) (NN mother))
+sid=17 spanning 1 until 4 headed by 2 parsed as (NP (DT the) (NN baby) (POS 's))
+sid=17 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT a) (JJ frantic) (NN call)) (PP (IN to) (NP (NN police))))
+sid=18 spanning 1 until 2 headed by 1 parsed as (NP (PRP she))
+sid=18 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN phone))
+sid=18 spanning 7 until 8 headed by 7 parsed as (NP (NNS police))
+sid=18 spanning 9 until 10 headed by 9 parsed as (NP (NNP Williams))
+sid=18 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN child))
+sid=18 spanning 16 until 18 headed by 17 parsed as (NP (DT this) (NN time))
+sid=18 spanning 20 until 21 headed by 20 parsed as (NP (PRP her))
+sid=18 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NN window))
+sid=19 spanning 1 until 2 headed by 1 parsed as (NP (NNS police))
+sid=19 spanning 3 until 7 headed by 6 parsed as (NP (NP (DT the) (NN baby) (POS 's)) (NN mother))
+sid=19 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NN baby) (POS 's))
+sid=19 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (NN kitchen) (NN knife))
+sid=21 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (CD 911) (NN tape))
+sid=21 spanning 4 until 5 headed by 4 parsed as (NP (PRP you))
+sid=21 spanning 7 until 10 headed by 9 parsed as (NP (NP (NNP William) (POS 's)) (NN tape))
+sid=21 spanning 7 until 9 headed by 7 parsed as (NP (NNP William) (POS 's))
+sid=21 spanning 15 until 16 headed by 15 parsed as (NP (PRP me))
+sid=22 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=22 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN baby))
+sid=22 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN baby))
+sid=22 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN hospital))
+sid=23 spanning 0 until 1 headed by 0 parsed as (NP (NNS Police))
+sid=23 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ his) (NN trail))
+sid=23 spanning 3 until 4 headed by 3 parsed as (PRP$ his)
+sid=23 spanning 7 until 8 headed by 7 parsed as (NP (NP (NNP Williams)) (CC and) (NP (DT the) (NN baby)))
+sid=23 spanning 7 until 11 headed by 7 parsed as (NP (NP (NNP Williams)) (CC and) (NP (DT the) (NN baby)))
+sid=23 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN baby))
+sid=23 spanning 12 until 15 headed by 13 parsed as (NP (NP (NNP Memorial) (NNP Hospital)) (ADVP (WRB where)))
+(end predicted mentions)
+---------gold clusters--------
+6 45 | { 'a seventh floor window at this apartment building' 'the window' }
+15 14 12 10 | { 'I' 'she' 'her' 'The baby 's aunt' }
+53 57 | { 'the hospital' 'Memorial Hospital where' }
+24 34 46 41 39 29 21 31 25 30 27 | { 'her' 'her' 'the baby 's mother' 'she' 'the baby 's mother' 'her' 'the baby 's mother , Jasmine' 'her' 'she' 'her' 'her' }
+44 11 17 43 19 40 22 16 4 9 38 36 56 51 33 47 8 7 5 1 52 37 | { 'her' 'The baby 's' 'she' 'the child' 'the girl 's' 'the baby 's' 'the baby 's' 'she' 'ten months old Miana Williams' 'her' 'the child' 'the baby' 'the baby' 'the baby' 'her daughter' 'the baby 's' 'her' 'The baby' 'she' 'his baby' 'the baby' 'it' }
+18 26 32 48 0 20 23 49 54 50 42 55 35 2 28 | { 'Willie Williams the girl 's father' 'he' 'he' 'William 's' 'A man in New York' 'Williams' 'He' 'me' 'his' 'he' 'Williams' 'Williams' 'The father' 'his' 'his' }
+3 13 | { 'News 12 Westchester' 'us' }
+(end gold clusters)

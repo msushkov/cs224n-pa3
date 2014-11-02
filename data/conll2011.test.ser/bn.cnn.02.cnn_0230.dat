@@ -1,0 +1,71 @@
+---------gloss--------
+(0) [4m[31m{Tens of thousands of people}[0m are greeting [4m[33m{Pope John Paul II}[0m in [4m[32m{Croatia}[0m . 
+(1) In the port city of Dubrovnik , [4m[33m{he}[0m beatified [3m[35m{a nun who dedicated her life to serving the poor}[0m . 
+(2) [3m[35m{Her}[0m life to the poor . 
+(3) [3m[35m{Marija Petkovic}[0m founded a religious order of nuns in the 1920s that cared for impoverished children in [4m[32m{Croatia}[0m and South America . 
+(4) [3m[35m{She}[0m is the first Croatian woman to be beatified , which is one step before sainthood . 
+(5) [4m[33m{The pope}[0m also said Mass before [4m[31m{a crowd of 70,000 people}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0230); part 000
+sentences:
+TenstenNNSCARDINALPER0ofofINCARDINALPER0thousandsthousandNNSCARDINALPER0ofofINOPER0peoplepeopleNNSOPER0arebeVBPOPER0greetinggreetVBGOPER0PopePopeNNPPERSONPER0JohnJohnNNPPERSONPER0PaulPaulNNPPERSONPER0IIIINNPPERSONPER0ininINOPER0CroatiaCroatiaNNPGPEPER0...OPER0(ROOT (S (NP (NP (QP (NNS Tens) (IN of) (NNS thousands))) (PP (IN of) (NP (NNS people)))) (VP (VBP are) (VP (VBG greeting) (NP (NP (NNP Pope) (NNP John) (NNP Paul) (NNP II)) (PP (IN in) (NP (NNP Croatia)))))) (. .)))
+IninINOPER0thetheDTOPER0portportNNOPER0citycityNNOPER0ofofINOPER0DubrovnikDubrovnikNNPORGPER0,,,OPER0hehePRPOPER0beatifiedbeatifyVBDOPER0aaDTOPER0nunnunNNOPER0whowhoWPOPER0dedicateddedicateVBDOPER0hershePRP$OPER0lifelifeNNOPER0totoINOPER0servingserveVBGOPER0thetheDTOPER0poorpoorJJOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (NN port) (NN city)) (PP (IN of) (NP (NNP Dubrovnik))))) (, ,) (NP (PRP he)) (VP (VBD beatified) (NP (NP (DT a) (NN nun)) (SBAR (WHNP (WP who)) (S (VP (VBD dedicated) (NP (PRP$ her) (NN life)) (PP (IN to) (S (VP (VBG serving) (NP (DT the) (JJ poor)))))))))) (. .)))
+HershePRP$OPER0lifelifeNNOPER0totoINOPER0thetheDTOPER0poorpoorJJOPER0...OPER0(ROOT (FRAG (NP (PRP$ Her) (NN life)) (PP (IN to) (NP (DT the) (JJ poor))) (. .)))
+MarijaMarijaNNPPERSONPER0PetkovicPetkovicNNPPERSONPER0foundedfoundVBDOPER0aaDTOPER0religiousreligiousJJOPER0orderorderNNOPER0ofofINOPER0nunsnunNNSOPER0ininINOPER0thetheDTDATEPER01920s1920NNSDATEPER0thatthatWDTOPER0caredcareVBDOPER0forforINOPER0impoverishedimpoverishedJJOPER0childrenchildNNSOPER0ininINOPER0CroatiaCroatiaNNPGPEPER0andandCCOPER0SouthSouthNNPLOCPER0AmericaAmericaNNPLOCPER0...OPER0(ROOT (S (NP (NNP Marija) (NNP Petkovic)) (VP (VBD founded) (NP (NP (DT a) (JJ religious) (NN order)) (PP (IN of) (NP (NNS nuns)))) (PP (IN in) (NP (NP (DT the) (NNS 1920s)) (SBAR (WHNP (WDT that)) (S (VP (VBD cared) (PP (IN for) (NP (NP (JJ impoverished) (NNS children)) (PP (IN in) (NP (NML (NNP Croatia) (CC and) (NNP South)) (NNP America))))))))))) (. .)))
+SheshePRPOPER0isbeVBZOPER0thetheDTOPER0firstfirstJJOPER0CroatiancroatianJJORGPER0womanwomanNNOPER0totoTOOPER0bebeVBOPER0beatifiedbeatifyVBNOPER0,,,OPER0whichwhichWDTOPER0isbeVBZOPER0oneoneCDCARDINALPER0stepstepNNOPER0beforebeforeINOPER0sainthoodsainthoodNNOPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ Croatian) (NN woman)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN beatified) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (CD one) (NN step)) (PP (IN before) (NP (NN sainthood)))))))))))))) (. .)))
+ThetheDTOPER0popepopeNNPOPER0alsoalsoRBOPER0saidsayVBDOPER0MassMassNNPGPEPER0beforebeforeINOPER0aaDTOPER0crowdcrowdNNOPER0ofofINOPER070,00070,000CDCARDINALPER0peoplepeopleNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNP pope)) (ADVP (RB also)) (VP (VBD said) (NP (NNP Mass)) (PP (IN before) (NP (NP (DT a) (NN crowd)) (PP (IN of) (NP (CD 70,000) (NNS people)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (QP (NNS Tens) (IN of) (NNS thousands))) (PP (IN of) (NP (NNS people))))
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (NP (NNP Pope) (NNP John) (NNP Paul) (NNP II)) (PP (IN in) (NP (NNP Croatia))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Croatia))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=1 spanning 9 until 19 headed by 10 parsed as (NP (NP (DT a) (NN nun)) (SBAR (WHNP (WP who)) (S (VP (VBD dedicated) (NP (PRP$ her) (NN life)) (PP (IN to) (S (VP (VBG serving) (NP (DT the) (JJ poor)))))))))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ her) (NN life))
+sid=1 spanning 13 until 14 headed by 13 parsed as her
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ Her) (NN life))
+sid=2 spanning 0 until 1 headed by 0 parsed as Her
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Marija) (NNP Petkovic))
+sid=3 spanning 17 until 18 headed by 17 parsed as Croatia
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP pope))
+sid=5 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT a) (NN crowd)) (PP (IN of) (NP (CD 70,000) (NNS people))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 2 parsed as (NP (NP (QP (NNS Tens) (IN of) (NNS thousands))) (PP (IN of) (NP (NNS people))))
+sid=0 spanning 7 until 13 headed by 10 parsed as (NP (NP (NNP Pope) (NNP John) (NNP Paul) (NNP II)) (PP (IN in) (NP (NNP Croatia))))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNP Croatia))
+sid=1 spanning 1 until 6 headed by 3 parsed as (NP (NP (DT the) (NN port) (NN city)) (PP (IN of) (NP (NNP Dubrovnik))))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP Dubrovnik))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=1 spanning 9 until 19 headed by 10 parsed as (NP (NP (DT a) (NN nun)) (SBAR (WHNP (WP who)) (S (VP (VBD dedicated) (NP (PRP$ her) (NN life)) (PP (IN to) (S (VP (VBG serving) (NP (DT the) (JJ poor)))))))))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ her) (NN life))
+sid=1 spanning 13 until 14 headed by 13 parsed as (PRP$ her)
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (JJ poor))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ Her) (NN life))
+sid=2 spanning 0 until 1 headed by 0 parsed as (PRP$ Her)
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (JJ poor))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Marija) (NNP Petkovic))
+sid=3 spanning 3 until 8 headed by 5 parsed as (NP (NP (DT a) (JJ religious) (NN order)) (PP (IN of) (NP (NNS nuns))))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNS nuns))
+sid=3 spanning 9 until 21 headed by 10 parsed as (NP (NP (DT the) (NNS 1920s)) (SBAR (WHNP (WDT that)) (S (VP (VBD cared) (PP (IN for) (NP (NP (JJ impoverished) (NNS children)) (PP (IN in) (NP (NML (NNP Croatia) (CC and) (NNP South)) (NNP America)))))))))
+sid=3 spanning 14 until 21 headed by 15 parsed as (NP (NP (JJ impoverished) (NNS children)) (PP (IN in) (NP (NML (NNP Croatia) (CC and) (NNP South)) (NNP America))))
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (NML (NNP Croatia) (CC and) (NNP South)) (NNP America))
+sid=3 spanning 17 until 18 headed by 17 parsed as Croatia
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=4 spanning 2 until 16 headed by 5 parsed as (NP (NP (DT the) (JJ first) (JJ Croatian) (NN woman)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN beatified) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (CD one) (NN step)) (PP (IN before) (NP (NN sainthood)))))))))))))
+sid=4 spanning 12 until 16 headed by 13 parsed as (NP (NP (CD one) (NN step)) (PP (IN before) (NP (NN sainthood))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP pope))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (NNP Mass))
+sid=5 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT a) (NN crowd)) (PP (IN of) (NP (CD 70,000) (NNS people))))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (CD 70,000) (NNS people))
+(end predicted mentions)
+---------gold clusters--------
+9 11 8 4 6 | { 'Marija Petkovic' 'She' 'Her' 'a nun who dedicated her life to serving the poor' 'her' }
+7 5 | { 'Her life' 'her life' }
+13 0 | { 'a crowd of 70,000 people' 'Tens of thousands of people' }
+2 10 | { 'Croatia' 'Croatia' }
+3 1 12 | { 'he' 'Pope John Paul II' 'The pope' }
+(end gold clusters)

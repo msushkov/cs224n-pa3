@@ -1,0 +1,105 @@
+---------gloss--------
+(0) Yugoslavians are waking up today to a new political landscape . 
+(1) [1m[31m{Vojislav Kostunica}[0m Saturday was sworn in as [1m[34m{the country 's}[0m new President yesterday . 
+(2) [1m[31m{He}[0m took the oath of [35m{office}[0m before [1m[35m{parliament}[0m . 
+(3) In [1m[31m{his}[0m acceptance speech , [1m[31m{he}[0m said democracy is now realized in [1m[34m{Yugoslavia}[0m , and [1m[31m{he}[0m encouraged [36m{members of parliament}[0m to put [36m{their}[0m differences aside . 
+(4) [1m[32m{We}[0m can work together , in spite of [1m[32m{our}[0m political differences , here in [1m[35m{this federal parliament}[0m . 
+(5) [1m[31m{I}[0m think the consequences of what has [1m[33m{happened}[0m will be obvious after a while , but [1m[32m{we}[0m are a little bit surprised right now , and even now [1m[31m{I}[0m sometimes think [1m[33m{it}[0m looks like a dream , but [1m[33m{it}[0m is a reality , and [1m[33m{it}[0m is good . 
+(6) Thursday , tens of thousands of people stormed [1m[35m{parliament}[0m , demanding [1m[36m{former President Slobodan Milosevic}[0m admit defeat in September 's presidential election and leave [35m{office}[0m . 
+(7) [1m[36m{He}[0m agreed to do so a day later but is vowing to remain active in politics . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0018); part 000
+sentences:
+YugoslaviansYugoslaviansNNPSOPER0arebeVBPOPER0wakingwakeVBGOPER0upupRPOPER0todaytodayNNDATEPER0totoINOPER0aaDTOPER0newnewJJOPER0politicalpoliticalJJOPER0landscapelandscapeNNOPER0...OPER0(ROOT (S (NP (NNPS Yugoslavians)) (VP (VBP are) (VP (VBG waking) (PRT (RP up)) (NP (NN today)) (PP (IN to) (NP (DT a) (JJ new) (JJ political) (NN landscape))))) (. .)))
+VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0SaturdaySaturdayNNPDATEPER0wasbeVBDOPER0swornswearVBNOPER0ininRPOPER0asasINOPER0thetheDTOPER0countrycountryNNOPER0's'sPOSOPER0newnewJJOPER0PresidentpresidentNNOPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP Vojislav) (NNP Kostunica)) (NP (NNP Saturday))) (VP (VBD was) (VP (VBN sworn) (PRT (RP in)) (PP (IN as) (NP (NP (NP (DT the) (NN country) (POS 's)) (JJ new) (NN President)) (NP (NN yesterday)))))) (. .)))
+HehePRPOPER0tooktakeVBDOPER0thetheDTOPER0oathoathNNOPER0ofofINOPER0officeofficeNNOPER0beforebeforeINOPER0parliamentparliamentNNORGPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD took) (NP (NP (DT the) (NN oath)) (PP (IN of) (NP (NN office)))) (PP (IN before) (NP (NN parliament)))) (. .)))
+IninINOPER0hishePRP$OPER0acceptanceacceptanceNNOPER0speechspeechNNOPER0,,,OPER0hehePRPOPER0saidsayVBDOPER0democracydemocracyNNOPER0isbeVBZOPER0nownowRBOPER0realizedrealizeVBNOPER0ininINOPER0YugoslaviaYugoslaviaNNPGPEPER0,,,OPER0andandCCOPER0hehePRPOPER0encouragedencourageVBDOPER0membersmemberNNSOPER0ofofINOPER0parliamentparliamentNNORGPER0totoTOOPER0putputVBOPER0theirtheyPRP$OPER0differencesdifferenceNNSOPER0asideasideRBOPER0...OPER0(ROOT (S (PP (IN In) (NP (PRP$ his) (NN acceptance) (NN speech))) (, ,) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (NN democracy)) (VP (VBZ is) (ADVP (RB now)) (VP (VBN realized) (PP (IN in) (NP (NNP Yugoslavia))))))))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBD encouraged) (NP (NP (NNS members)) (PP (IN of) (NP (NN parliament)))) (S (VP (TO to) (VP (VB put) (NP (PRP$ their) (NNS differences)) (ADVP (RB aside))))))) (. .)))
+WewePRPOPER0cancanMDOPER0workworkVBOPER0togethertogetherRBOPER0,,,OPER0ininINOPER0spitespiteNNOPER0ofofINOPER0ourwePRP$OPER0politicalpoliticalJJOPER0differencesdifferenceNNSOPER0,,,OPER0herehereRBOPER0ininINOPER0thisthisDTOPER0federalfederalJJOPER0parliamentparliamentNNOPER0...OPER0(ROOT (S (S (NP (PRP We)) (VP (MD can) (VP (VB work) (ADVP (RB together))))) (, ,) (S (PP (IN in) (NP (NP (NN spite)) (PP (IN of) (NP (PRP$ our) (JJ political) (NNS differences))))) (, ,) (ADVP (RB here) (PP (IN in) (NP (DT this) (JJ federal) (NN parliament))))) (. .)))
+IIPRPOPER0thinkthinkVBPOPER0thetheDTOPER0consequencesconsequenceNNSOPER0ofofINOPER0whatwhatWPOPER0hashaveVBZOPER0happenedhappenVBNOPER0willwillMDOPER0bebeVBOPER0obviousobviousJJOPER0afterafterINOPER0aaDTOPER0whilewhileNNOPER0,,,OPER0butbutCCOPER0wewePRPOPER0arebeVBPOPER0aaDTOPER0littlelittleJJOPER0bitbitNNOPER0surprisedsurpriseVBNOPER0rightrightRBOPER0nownowRBOPER0,,,OPER0andandCCOPER0evenevenRBOPER0nownowRBOPER0IIPRPOPER0sometimessometimesRBOPER0thinkthinkVBPOPER0ititPRPOPER0lookslookVBZOPER0likelikeINOPER0aaDTOPER0dreamdreamNNOPER0,,,OPER0butbutCCOPER0ititPRPOPER0isbeVBZOPER0aaDTOPER0realityrealityNNOPER0,,,OPER0andandCCOPER0ititPRPOPER0isbeVBZOPER0goodgoodJJOPER0...OPER0(ROOT (S (S (S (S (NP (PRP I)) (VP (VBP think) (NP (NP (DT the) (NNS consequences)) (PP (IN of) (SBAR (WHNP (WP what)) (S (VP (VBZ has) (VP (VBN happened) (SBAR (S (VP (MD will) (VP (VB be) (ADJP (JJ obvious)) (PP (IN after) (NP (DT a) (NN while))))))))))))))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP are) (NP (NP (DT a) (JJ little) (NN bit)) (VP (VBN surprised) (ADVP (RB right) (RB now))))))) (, ,) (CC and) (ADVP (RB even) (RB now)) (S (NP (PRP I)) (ADVP (RB sometimes)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ looks) (PP (IN like) (NP (DT a) (NN dream))))))))) (, ,) (CC but) (S (S (NP (PRP it)) (VP (VBZ is) (NP (DT a) (NN reality)))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ good))))) (. .)))
+ThursdayThursdayNNPDATEPER0,,,OPER0tenstenNNSCARDINALPER0ofofINCARDINALPER0thousandsthousandNNSCARDINALPER0ofofINOPER0peoplepeopleNNSOPER0stormedstormVBDOPER0parliamentparliamentNNOPER0,,,OPER0demandingdemandVBGOPER0formerformerJJOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0admitadmitVBOPER0defeatdefeatNNOPER0ininINOPER0SeptemberSeptemberNNPDATEPER0's'sPOSOPER0presidentialpresidentialJJOPER0electionelectionNNOPER0andandCCOPER0leaveleaveVBOPER0officeofficeNNOPER0...OPER0(ROOT (S (NP (NNP Thursday)) (, ,) (NP (NP (QP (NNS tens) (IN of) (NNS thousands))) (PP (IN of) (NP (NNS people)))) (VP (VBD stormed) (NP (NN parliament)) (, ,) (S (VP (VBG demanding) (S (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (VP (VP (VB admit) (NP (NP (NN defeat)) (PP (IN in) (NP (NP (NNP September) (POS 's)) (JJ presidential) (NN election))))) (CC and) (VP (VB leave) (NP (NN office)))))))) (. .)))
+HehePRPOPER0agreedagreeVBDOPER0totoTOOPER0dodoVBOPER0sosoRBOPER0aaDTTIMEPER0daydayNNTIMEPER0laterlaterRBOPER0butbutCCOPER0isbeVBZOPER0vowingvowVBGOPER0totoTOOPER0remainremainVBOPER0activeactiveJJOPER0ininINOPER0politicspoliticsNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VP (VBD agreed) (S (VP (TO to) (VP (VB do) (ADVP (RB so)) (ADVP (NP (DT a) (NN day)) (RB later)))))) (CC but) (VP (VBZ is) (VP (VBG vowing) (S (VP (TO to) (VP (VB remain) (ADJP (JJ active) (PP (IN in) (NP (NNS politics)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Vojislav) (NNP Kostunica)) (NP (NNP Saturday)))
+sid=1 spanning 7 until 10 headed by 8 parsed as (NP (DT the) (NN country) (POS 's))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NN office))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NN parliament))
+sid=3 spanning 1 until 2 headed by 1 parsed as his
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (NNP Yugoslavia))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=3 spanning 17 until 20 headed by 17 parsed as (NP (NP (NNS members)) (PP (IN of) (NP (NN parliament))))
+sid=3 spanning 19 until 20 headed by 19 parsed as (NP (NN parliament))
+sid=3 spanning 22 until 23 headed by 22 parsed as their
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=4 spanning 8 until 9 headed by 8 parsed as our
+sid=4 spanning 14 until 17 headed by 16 parsed as (NP (DT this) (JJ federal) (NN parliament))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=5 spanning 7 until 8 headed by 7 parsed as happened
+sid=5 spanning 16 until 17 headed by 16 parsed as (NP (PRP we))
+sid=5 spanning 28 until 29 headed by 28 parsed as (NP (PRP I))
+sid=5 spanning 31 until 32 headed by 31 parsed as (NP (PRP it))
+sid=5 spanning 38 until 39 headed by 38 parsed as (NP (PRP it))
+sid=5 spanning 44 until 45 headed by 44 parsed as (NP (PRP it))
+sid=6 spanning 8 until 9 headed by 8 parsed as (NP (NN parliament))
+sid=6 spanning 11 until 15 headed by 14 parsed as (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=6 spanning 24 until 25 headed by 24 parsed as (NP (NN office))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNPS Yugoslavians))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (DT a) (JJ new) (JJ political) (NN landscape))
+sid=1 spanning 0 until 3 headed by 1 parsed as (NP (NP (NNP Vojislav) (NNP Kostunica)) (NP (NNP Saturday)))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Saturday))
+sid=1 spanning 7 until 13 headed by 11 parsed as (NP (NP (NP (DT the) (NN country) (POS 's)) (JJ new) (NN President)) (NP (NN yesterday)))
+sid=1 spanning 7 until 10 headed by 8 parsed as (NP (DT the) (NN country) (POS 's))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NN yesterday))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 6 headed by 3 parsed as (NP (NP (DT the) (NN oath)) (PP (IN of) (NP (NN office))))
+sid=3 spanning 1 until 4 headed by 3 parsed as (NP (PRP$ his) (NN acceptance) (NN speech))
+sid=3 spanning 1 until 2 headed by 1 parsed as (PRP$ his)
+sid=3 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (NNP Yugoslavia))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=3 spanning 17 until 20 headed by 17 parsed as (NP (NP (NNS members)) (PP (IN of) (NP (NN parliament))))
+sid=3 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ their) (NNS differences))
+sid=3 spanning 22 until 23 headed by 22 parsed as (PRP$ their)
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=4 spanning 6 until 11 headed by 6 parsed as (NP (NP (NN spite)) (PP (IN of) (NP (PRP$ our) (JJ political) (NNS differences))))
+sid=4 spanning 8 until 11 headed by 10 parsed as (NP (PRP$ our) (JJ political) (NNS differences))
+sid=4 spanning 8 until 9 headed by 8 parsed as (PRP$ our)
+sid=4 spanning 14 until 17 headed by 16 parsed as (NP (DT this) (JJ federal) (NN parliament))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=5 spanning 2 until 14 headed by 3 parsed as (NP (NP (DT the) (NNS consequences)) (PP (IN of) (SBAR (WHNP (WP what)) (S (VP (VBZ has) (VP (VBN happened) (SBAR (S (VP (MD will) (VP (VB be) (ADJP (JJ obvious)) (PP (IN after) (NP (DT a) (NN while)))))))))))))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT a) (NN while))
+sid=5 spanning 16 until 17 headed by 16 parsed as (NP (PRP we))
+sid=5 spanning 18 until 24 headed by 20 parsed as (NP (NP (DT a) (JJ little) (NN bit)) (VP (VBN surprised) (ADVP (RB right) (RB now))))
+sid=5 spanning 28 until 29 headed by 28 parsed as (NP (PRP I))
+sid=5 spanning 31 until 32 headed by 31 parsed as (NP (PRP it))
+sid=5 spanning 34 until 36 headed by 35 parsed as (NP (DT a) (NN dream))
+sid=5 spanning 38 until 39 headed by 38 parsed as (NP (PRP it))
+sid=5 spanning 40 until 42 headed by 41 parsed as (NP (DT a) (NN reality))
+sid=5 spanning 44 until 45 headed by 44 parsed as (NP (PRP it))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNP Thursday))
+sid=6 spanning 2 until 7 headed by 4 parsed as (NP (NP (QP (NNS tens) (IN of) (NNS thousands))) (PP (IN of) (NP (NNS people))))
+sid=6 spanning 11 until 15 headed by 14 parsed as (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=6 spanning 16 until 22 headed by 16 parsed as (NP (NP (NN defeat)) (PP (IN in) (NP (NP (NNP September) (POS 's)) (JJ presidential) (NN election))))
+sid=6 spanning 18 until 22 headed by 21 parsed as (NP (NP (NNP September) (POS 's)) (JJ presidential) (NN election))
+sid=6 spanning 18 until 20 headed by 18 parsed as (NP (NNP September) (POS 's))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 5 until 7 headed by 6 parsed as (NP (DT a) (NN day))
+sid=7 spanning 15 until 16 headed by 15 parsed as (NP (NNS politics))
+(end predicted mentions)
+---------gold clusters--------
+24 3 | { 'office' 'office' }
+9 11 | { 'members of parliament' 'their' }
+0 2 5 18 8 15 6 | { 'Vojislav Kostunica' 'He' 'his' 'I' 'he' 'I' 'he' }
+13 17 12 | { 'our' 'we' 'We' }
+16 21 19 20 | { 'happened' 'it' 'it' 'it' }
+1 7 | { 'the country 's' 'Yugoslavia' }
+10 4 14 22 | { 'parliament' 'parliament' 'this federal parliament' 'parliament' }
+25 23 | { 'He' 'former President Slobodan Milosevic' }
+(end gold clusters)

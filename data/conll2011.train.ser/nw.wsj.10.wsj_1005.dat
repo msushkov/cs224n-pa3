@@ -1,0 +1,61 @@
+---------gloss--------
+(0) [33m{Allied - Signal Aerospace Co.}[0m received a $ 65 million contract to outfit [34m{Continental Airlines '}[0m 393 planes with [35m{the Bendix / King Traffic Alert and Collision Avoidance System}[0m . 
+(1) [35m{The airborne system}[0m operates independent of ground - based radar systems , informing pilots of nearby aircraft , [33m{Allied - Signal}[0m said . 
+(2) [35m{The system}[0m also provides course - correction advisories . 
+(3) [33m{Allied - Signal}[0m is a unit of Allied - Signal Inc. , a manufacturer with interests in aerospace , automotive products and engineered materials . 
+(4) [34m{Continental Airlines}[0m is a unit of Texas Air Corp. , Houston . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1005); part 000
+sentences:
+AlliedAlliedNNPORGPER0--HYPHORGPER0SignalSignalNNPORGPER0AerospaceAerospaceNNPORGPER0Co.Co.NNPORGPER0receivedreceiveVBDOPER0aaDTOPER0$$$MONEYPER06565CDMONEYPER0millionmillionCDMONEYPER0contractcontractNNOPER0totoTOOPER0outfitoutfitVBOPER0ContinentalContinentalNNPORGPER0AirlinesAirlinesNNPORGPER0''POSORGPER0393393CDCARDINALPER0planesplaneNNSOPER0withwithINOPER0thetheDTPRODUCTPER0BendixBendixNNPPRODUCTPER0//SYMPRODUCTPER0KingKingNNPPRODUCTPER0TrafficTrafficNNPPRODUCTPER0AlertAlertNNPPRODUCTPER0andandCCPRODUCTPER0CollisioncollisionNNPRODUCTPER0AvoidanceavoidanceNNPRODUCTPER0SystemSystemNNPPRODUCTPER0...OPER0(ROOT (S (NP (NNP Allied) (HYPH -) (NNP Signal)) (NP (NNP Aerospace) (NNP Co.)) (VP (VBD received) (NP (DT a) (NML (QP ($ $) (CD 65) (CD million))) (NN contract) (S (VP (TO to) (VP (VB outfit) (NP (NP (NNP Continental) (NNP Airlines) (POS ')) (CD 393) (NNS planes)) (PP (IN with) (NP (DT the) (NML (NNP Bendix) (SYM /) (NNP King)) (NML (NML (NNP Traffic) (NNP Alert)) (CC and) (NML (NN Collision) (NN Avoidance))) (NNP System)))))))) (. .)))
+ThetheDTOPER0airborneairborneJJOPER0systemsystemNNOPER0operatesoperateVBZOPER0independentindependentJJOPER0ofofINOPER0groundgroundNNOPER0--HYPHOPER0basedbaseVBNOPER0radarradarNNOPER0systemssystemNNSOPER0,,,OPER0informinginformVBGOPER0pilotspilotNNSOPER0ofofINOPER0nearbynearbyJJOPER0aircraftaircraftNNOPER0,,,OPER0AlliedAlliedNNPORGPER0--HYPHORGPER0SignalSignalNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (DT The) (JJ airborne) (NN system)) (VP (VBZ operates) (ADJP (JJ independent) (PP (IN of) (NP (NP (ADJP (NN ground) (HYPH -) (VBN based)) (NN radar) (NNS systems)) (, ,) (PP (VBG informing) (NP (NP (NNS pilots)) (PP (IN of) (NP (JJ nearby) (NN aircraft)))))))))) (, ,) (NP (NNP Allied) (HYPH -) (NNP Signal)) (VP (VBD said)) (. .)))
+ThetheDTOPER0systemsystemNNOPER0alsoalsoRBOPER0providesprovideVBZOPER0coursecourseNNOPER0--HYPHOPER0correctioncorrectionNNOPER0advisoriesadvisoryNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN system)) (ADVP (RB also)) (VP (VBZ provides) (NP (NN course) (HYPH -) (NN correction)) (NP (NNS advisories))) (. .)))
+AlliedAlliedNNPORGPER0--HYPHORGPER0SignalSignalNNPORGPER0isbeVBZOPER0aaDTOPER0unitunitNNOPER0ofofINOPER0AlliedAlliedNNPORGPER0--HYPHORGPER0SignalSignalNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0aaDTOPER0manufacturermanufacturerNNOPER0withwithINOPER0interestsinterestNNSOPER0ininINOPER0aerospaceaerospaceJJOPER0,,,OPER0automotiveautomotiveJJOPER0productsproductNNSOPER0andandCCOPER0engineeredengineerVBNOPER0materialsmaterialNNSOPER0...OPER0(ROOT (S (NP (NNP Allied) (HYPH -) (NNP Signal)) (VP (VBZ is) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Allied) (HYPH -) (NNP Signal) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN manufacturer)) (PP (IN with) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (JJ aerospace) (, ,) (JJ automotive) (NNS products)) (CC and) (NP (VBN engineered) (NNS materials))))))))))) (. .)))
+ContinentalContinentalNNPORGPER0AirlinesAirlinesNNPSORGPER0isbeVBZOPER0aaDTOPER0unitunitNNOPER0ofofINOPER0TexasTexasNNPORGPER0AirAirNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0HoustonHoustonNNPGPEPER0...OPER0(ROOT (S (NP (NNP Continental) (NNPS Airlines)) (VP (VBZ is) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Texas) (NNP Air) (NNP Corp.)) (, ,) (NP (NNP Houston)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NNP Aerospace) (NNP Co.))
+sid=0 spanning 13 until 16 headed by 14 parsed as (NP (NNP Continental) (NNP Airlines) (POS '))
+sid=0 spanning 19 until 29 headed by 28 parsed as (NP (DT the) (NML (NNP Bendix) (SYM /) (NNP King)) (NML (NML (NNP Traffic) (NNP Alert)) (CC and) (NML (NN Collision) (NN Avoidance))) (NNP System))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ airborne) (NN system))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (NNP Allied) (HYPH -) (NNP Signal))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN system))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NNP Allied) (HYPH -) (NNP Signal))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Continental) (NNPS Airlines))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NNP Aerospace) (NNP Co.))
+sid=0 spanning 6 until 29 headed by 10 parsed as (NP (DT a) (NML (QP ($ $) (CD 65) (CD million))) (NN contract) (S (VP (TO to) (VP (VB outfit) (NP (NP (NNP Continental) (NNP Airlines) (POS ')) (CD 393) (NNS planes)) (PP (IN with) (NP (DT the) (NML (NNP Bendix) (SYM /) (NNP King)) (NML (NML (NNP Traffic) (NNP Alert)) (CC and) (NML (NN Collision) (NN Avoidance))) (NNP System)))))))
+sid=0 spanning 13 until 18 headed by 17 parsed as (NP (NP (NNP Continental) (NNP Airlines) (POS ')) (CD 393) (NNS planes))
+sid=0 spanning 13 until 16 headed by 14 parsed as (NP (NNP Continental) (NNP Airlines) (POS '))
+sid=0 spanning 19 until 29 headed by 28 parsed as (NP (DT the) (NML (NNP Bendix) (SYM /) (NNP King)) (NML (NML (NNP Traffic) (NNP Alert)) (CC and) (NML (NN Collision) (NN Avoidance))) (NNP System))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ airborne) (NN system))
+sid=1 spanning 6 until 17 headed by 10 parsed as (NP (NP (ADJP (NN ground) (HYPH -) (VBN based)) (NN radar) (NNS systems)) (, ,) (PP (VBG informing) (NP (NP (NNS pilots)) (PP (IN of) (NP (JJ nearby) (NN aircraft))))))
+sid=1 spanning 6 until 11 headed by 10 parsed as (NP (ADJP (NN ground) (HYPH -) (VBN based)) (NN radar) (NNS systems))
+sid=1 spanning 13 until 17 headed by 13 parsed as (NP (NP (NNS pilots)) (PP (IN of) (NP (JJ nearby) (NN aircraft))))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (NNP Allied) (HYPH -) (NNP Signal))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN system))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (NN course) (HYPH -) (NN correction))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (NNS advisories))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (NNP Allied) (HYPH -) (NNP Signal))
+sid=3 spanning 4 until 24 headed by 5 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Allied) (HYPH -) (NNP Signal) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN manufacturer)) (PP (IN with) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (JJ aerospace) (, ,) (JJ automotive) (NNS products)) (CC and) (NP (VBN engineered) (NNS materials))))))))))
+sid=3 spanning 7 until 11 headed by 10 parsed as (NP (NP (NNP Allied) (HYPH -) (NNP Signal) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN manufacturer)) (PP (IN with) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (JJ aerospace) (, ,) (JJ automotive) (NNS products)) (CC and) (NP (VBN engineered) (NNS materials))))))))
+sid=3 spanning 7 until 24 headed by 10 parsed as (NP (NP (NNP Allied) (HYPH -) (NNP Signal) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN manufacturer)) (PP (IN with) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (JJ aerospace) (, ,) (JJ automotive) (NNS products)) (CC and) (NP (VBN engineered) (NNS materials))))))))
+sid=3 spanning 12 until 24 headed by 13 parsed as (NP (NP (DT a) (NN manufacturer)) (PP (IN with) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (JJ aerospace) (, ,) (JJ automotive) (NNS products)) (CC and) (NP (VBN engineered) (NNS materials)))))))
+sid=3 spanning 15 until 24 headed by 15 parsed as (NP (NP (NNS interests)) (PP (IN in) (NP (NP (JJ aerospace) (, ,) (JJ automotive) (NNS products)) (CC and) (NP (VBN engineered) (NNS materials)))))
+sid=3 spanning 17 until 24 headed by 20 parsed as (NP (NP (JJ aerospace) (, ,) (JJ automotive) (NNS products)) (CC and) (NP (VBN engineered) (NNS materials)))
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (JJ aerospace) (, ,) (JJ automotive) (NNS products))
+sid=3 spanning 22 until 24 headed by 23 parsed as (NP (VBN engineered) (NNS materials))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Continental) (NNPS Airlines))
+sid=4 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Texas) (NNP Air) (NNP Corp.)) (, ,) (NP (NNP Houston)))))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (NP (NNP Texas) (NNP Air) (NNP Corp.)) (, ,) (NP (NNP Houston)))
+sid=4 spanning 6 until 11 headed by 8 parsed as (NP (NP (NNP Texas) (NNP Air) (NNP Corp.)) (, ,) (NP (NNP Houston)))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NNP Houston))
+(end predicted mentions)
+---------gold clusters--------
+0 4 6 | { 'Allied - Signal Aerospace Co.' 'Allied - Signal' 'Allied - Signal' }
+7 1 | { 'Continental Airlines' 'Continental Airlines '' }
+3 5 2 | { 'The airborne system' 'The system' 'the Bendix / King Traffic Alert and Collision Avoidance System' }
+(end gold clusters)

@@ -1,0 +1,70 @@
+---------gloss--------
+(0) [1m[35m{OPPENHEIMER CAPITAL LIMITED PARTNERSHIP}[0m increased [3m[31m{the quarterly distribution}[0m to 40 cents a limited partnership unit from 36.25 cents . 
+(1) [3m[31m{The distribution}[0m represents available cash flow from [1m[35m{the partnership}[0m between Aug. 1 and [1m[36m{Oct. 31}[0m . 
+(2) [3m[31m{It}[0m is payable Nov. 30 to units of record [1m[36m{Oct. 31}[0m . 
+(3) [1m[35m{The money manager}[0m is controlled 67.7 % by [1m[35m{its}[0m top officers and top officers of Oppenheimer & Co. , a securities firm . 
+(4) Both firms are in New York . 
+(5) [1m[35m{Oppenheimer Capital}[0m has [3m[32m{about 7.9 million limited partnership units outstanding}[0m . 
+(6) In New York Stock Exchange composite trading yesterday , [3m[32m{the units}[0m closed at $ 15.125 , up 12.5 cents . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1180); part 000
+sentences:
+OPPENHEIMEROPPENHEIMERNNPORGPER0CAPITALCAPITALNNPORGPER0LIMITEDLIMITEDNNPORGPER0PARTNERSHIPPARTNERSHIPNNPORGPER0increasedincreaseVBDOPER0thetheDTOPER0quarterlyquarterlyJJDATEPER0distributiondistributionNNOPER0totoINOPER04040CDMONEYPER0centscentNNSMONEYPER0aaDTOPER0limitedlimitedJJOPER0partnershippartnershipNNOPER0unitunitNNOPER0fromfromINOPER036.2536.25CDMONEYPER0centscentNNSMONEYPER0...OPER0(ROOT (S (NP (NNP OPPENHEIMER) (NNP CAPITAL) (NNP LIMITED) (NNP PARTNERSHIP)) (VP (VBD increased) (NP (DT the) (JJ quarterly) (NN distribution)) (PP (IN to) (NP (NP (CD 40) (NNS cents)) (NP (DT a) (NML (JJ limited) (NN partnership)) (NN unit)))) (PP (IN from) (NP (CD 36.25) (NNS cents)))) (. .)))
+ThetheDTOPER0distributiondistributionNNOPER0representsrepresentVBZOPER0availableavailableJJOPER0cashcashNNOPER0flowflowNNOPER0fromfromINOPER0thetheDTOPER0partnershippartnershipNNOPER0betweenbetweenINOPER0Aug.Aug.NNPDATEPER011CDDATEPER0andandCCDATEPER0Oct.Oct.NNPDATEPER03131CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NN distribution)) (VP (VBZ represents) (NP (ADJP (JJ available)) (NN cash) (NN flow)) (PP (IN from) (NP (NP (DT the) (NN partnership)) (PP (IN between) (NP (NNP Aug.) (CD 1) (CC and) (NP (NNP Oct.) (CD 31))))))) (. .)))
+ItitPRPOPER0isbeVBZOPER0payablepayableJJOPER0Nov.Nov.NNPDATEPER03030CDDATEPER0totoINOPER0unitsunitNNSOPER0ofofINOPER0recordrecordNNOPER0Oct.Oct.NNPDATEPER03131CDDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ payable) (NP (NNP Nov.) (CD 30)) (PP (IN to) (NP (NP (NNS units)) (PP (IN of) (NP (NN record))) (NP (NNP Oct.) (CD 31)))))) (. .)))
+ThetheDTOPER0moneymoneyNNOPER0managermanagerNNOPER0isbeVBZOPER0controlledcontrolVBNOPER067.767.7CDPERCENTPER0%%NNPERCENTPER0bybyINOPER0itsitsPRP$OPER0toptopJJOPER0officersofficerNNSOPER0andandCCOPER0toptopJJOPER0officersofficerNNSOPER0ofofINOPER0OppenheimerOppenheimerNNPORGPER0&&CCORGPER0Co.Co.NNPORGPER0,,,OPER0aaDTOPER0securitiessecurityNNSOPER0firmfirmNNOPER0...OPER0(ROOT (S (NP (DT The) (NN money) (NN manager)) (VP (VBZ is) (VP (VBN controlled) (NP (CD 67.7) (NN %)) (PP (IN by) (NP (NP (PRP$ its) (JJ top) (NNS officers)) (CC and) (NP (NP (JJ top) (NNS officers)) (PP (IN of) (NP (NP (NNP Oppenheimer) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NNS securities) (NN firm))))))))) (. .)))
+BothbothDTOPER0firmsfirmNNSOPER0arebeVBPOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (S (NP (DT Both) (NNS firms)) (VP (VBP are) (PP (IN in) (NP (NNP New) (NNP York)))) (. .)))
+OppenheimerOppenheimerNNPORGPER0CapitalCapitalNNPORGPER0hashaveVBZOPER0aboutaboutRBCARDINALPER07.97.9CDCARDINALPER0millionmillionCDCARDINALPER0limitedlimitedJJOPER0partnershippartnershipNNOPER0unitsunitNNSOPER0outstandingoutstandingJJOPER0...OPER0(ROOT (S (NP (NNP Oppenheimer) (NNP Capital)) (VP (VBZ has) (S (NP (QP (RB about) (CD 7.9) (CD million)) (NML (JJ limited) (NN partnership)) (NNS units)) (ADJP (JJ outstanding)))) (. .)))
+IninINOPER0NewNewNNPORGPER0YorkYorkNNPORGPER0StockStockNNPORGPER0ExchangeExchangeNNPORGPER0compositecompositeJJOPER0tradingtradingNNOPER0yesterdayyesterdayNNOPER0,,,OPER0thetheDTOPER0unitsunitNNSOPER0closedcloseVBDOPER0atatINOPER0$$$MONEYPER015.12515.125CDMONEYPER0,,,OPER0upupRBOPER012.512.5CDMONEYPER0centscentNNSMONEYPER0...OPER0(ROOT (S (PP (IN In) (NP (NML (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange)) (JJ composite) (NN trading))) (NP (NN yesterday)) (, ,) (NP (DT the) (NNS units)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 15.125))) (, ,) (ADVP (RB up) (NP (CD 12.5) (NNS cents)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP OPPENHEIMER) (NNP CAPITAL) (NNP LIMITED) (NNP PARTNERSHIP))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ quarterly) (NN distribution))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN distribution))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NP (DT the) (NN partnership)) (PP (IN between) (NP (NNP Aug.) (CD 1) (CC and) (NP (NNP Oct.) (CD 31)))))
+sid=1 spanning 13 until 15 headed by 13 parsed as (NP (NNP Oct.) (CD 31))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 9 until 11 headed by 9 parsed as (NP (NNP Oct.) (CD 31))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN money) (NN manager))
+sid=3 spanning 8 until 9 headed by 8 parsed as its
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Oppenheimer) (NNP Capital))
+sid=5 spanning 3 until 10 headed by 9 parsed as outstanding
+sid=6 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS units))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP OPPENHEIMER) (NNP CAPITAL) (NNP LIMITED) (NNP PARTNERSHIP))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ quarterly) (NN distribution))
+sid=0 spanning 6 until 7 headed by 6 parsed as quarterly
+sid=0 spanning 11 until 15 headed by 14 parsed as (NP (DT a) (NML (JJ limited) (NN partnership)) (NN unit))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN distribution))
+sid=1 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT the) (NN partnership)) (PP (IN between) (NP (NNP Aug.) (CD 1) (CC and) (NP (NNP Oct.) (CD 31)))))
+sid=1 spanning 10 until 15 headed by 10 parsed as (NP (NNP Aug.) (CD 1) (CC and) (NP (NNP Oct.) (CD 31)))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 5 headed by 3 parsed as (NP (NNP Nov.) (CD 30))
+sid=2 spanning 6 until 11 headed by 6 parsed as (NP (NP (NNS units)) (PP (IN of) (NP (NN record))) (NP (NNP Oct.) (CD 31)))
+sid=2 spanning 9 until 11 headed by 9 parsed as (NP (NNP Oct.) (CD 31))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN money) (NN manager))
+sid=3 spanning 8 until 22 headed by 10 parsed as (NP (NP (PRP$ its) (JJ top) (NNS officers)) (CC and) (NP (NP (JJ top) (NNS officers)) (PP (IN of) (NP (NP (NNP Oppenheimer) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NNS securities) (NN firm))))))
+sid=3 spanning 8 until 11 headed by 10 parsed as (NP (PRP$ its) (JJ top) (NNS officers))
+sid=3 spanning 8 until 9 headed by 8 parsed as (PRP$ its)
+sid=3 spanning 12 until 22 headed by 13 parsed as (NP (NP (JJ top) (NNS officers)) (PP (IN of) (NP (NP (NNP Oppenheimer) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NNS securities) (NN firm)))))
+sid=3 spanning 15 until 18 headed by 15 parsed as (NP (NP (NNP Oppenheimer) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NNS securities) (NN firm)))
+sid=3 spanning 15 until 22 headed by 15 parsed as (NP (NP (NNP Oppenheimer) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NNS securities) (NN firm)))
+sid=3 spanning 19 until 22 headed by 21 parsed as (NP (DT a) (NNS securities) (NN firm))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT Both) (NNS firms))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (NNP New) (NNP York))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Oppenheimer) (NNP Capital))
+sid=5 spanning 3 until 9 headed by 8 parsed as (NP (QP (RB about) (CD 7.9) (CD million)) (NML (JJ limited) (NN partnership)) (NNS units))
+sid=6 spanning 1 until 7 headed by 6 parsed as (NP (NML (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange)) (JJ composite) (NN trading))
+sid=6 spanning 1 until 5 headed by 4 parsed as Exchange
+sid=6 spanning 7 until 8 headed by 7 parsed as (NP (NN yesterday))
+sid=6 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS units))
+(end predicted mentions)
+---------gold clusters--------
+3 0 8 9 7 | { 'the partnership' 'OPPENHEIMER CAPITAL LIMITED PARTNERSHIP' 'its' 'Oppenheimer Capital' 'The money manager' }
+4 6 | { 'Oct. 31' 'Oct. 31' }
+1 5 2 | { 'the quarterly distribution' 'It' 'The distribution' }
+10 11 | { 'about 7.9 million limited partnership units outstanding' 'the units' }
+(end gold clusters)

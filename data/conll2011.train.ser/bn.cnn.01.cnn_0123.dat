@@ -1,0 +1,64 @@
+---------gloss--------
+(0) [4m[32m{Israeli helicopter gunships}[0m opened [4m[34m{fire}[0m on a Palestinian position in Bethlehem overnight . 
+(1) The Army says [4m[32m{the choppers}[0m were [4m[34m{firing}[0m on gunmen who were shooting at [4m[33m{Rachel 's}[0m Tomb for several hours . 
+(2) [4m[31m{That holy shrine}[0m is the traditional burial place of [4m[33m{the biblical matriarch}[0m . 
+(3) At least 25 Palestinians were wounded in gun battles with Israeli troops yesterday . 
+(4) Earlier , two Israeli soldiers were stabbed at a roadblock north of Jerusalem . 
+(5) Meantime , aides to Israeli Prime Minister Ehud Barak say Israel is willing to cooperate with a U.S. - led inquiry into the violence that has killed at least 319 people . 
+(6) Investigators are expected to arrive in mid-December . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0123); part 000
+sentences:
+IsraeliisraeliJJOPER0helicopterhelicopterNNOPER0gunshipsgunshipNNSOPER0openedopenVBDOPER0firefireNNOPER0ononINOPER0aaDTOPER0PalestinianpalestinianJJOPER0positionpositionNNOPER0ininINOPER0BethlehemBethlehemNNPORGPER0overnightovernightRBOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NN helicopter) (NNS gunships)) (VP (VBD opened) (NP (NN fire)) (PP (IN on) (NP (NP (DT a) (JJ Palestinian) (NN position)) (PP (IN in) (NP (NNP Bethlehem))))) (ADVP (RB overnight))) (. .)))
+ThetheDTOPER0ArmyArmyNNPORGPER0sayssayVBZOPER0thetheDTOPER0chopperschopperNNSOPER0werebeVBDOPER0firingfireVBGOPER0ononINOPER0gunmengunmanNNSOPER0whowhoWPOPER0werebeVBDOPER0shootingshootVBGOPER0atatINOPER0RachelRachelNNPFACPER0's'sPOSFACPER0TombtombNNFACPER0forforINOPER0severalseveralJJTIMEPER0hourshourNNSTIMEPER0...OPER0(ROOT (S (NP (DT The) (NNP Army)) (VP (VBZ says) (SBAR (S (NP (DT the) (NNS choppers)) (VP (VBD were) (VP (VBG firing) (PP (IN on) (NP (NP (NNS gunmen)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBG shooting) (PP (IN at) (NP (NP (NNP Rachel) (POS 's)) (NN Tomb))) (PP (IN for) (NP (JJ several) (NNS hours)))))))))))))) (. .)))
+ThatthatDTOPER0holyholyJJOPER0shrineshrineNNOPER0isbeVBZOPER0thetheDTOPER0traditionaltraditionalJJOPER0burialburialNNOPER0placeplaceNNOPER0ofofINOPER0thetheDTOPER0biblicalbiblicalJJOPER0matriarchmatriarchNNOPER0...OPER0(ROOT (S (NP (DT That) (ADJP (JJ holy)) (NN shrine)) (VP (VBZ is) (NP (NP (DT the) (JJ traditional) (NN burial) (NN place)) (PP (IN of) (NP (DT the) (JJ biblical) (NN matriarch))))) (. .)))
+AtatRBCARDINALPER0leastleastRBSCARDINALPER02525CDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0woundedwoundVBNOPER0ininINOPER0gungunNNOPER0battlesbattleNNSOPER0withwithINOPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (QP (ADVP (RB At) (RBS least)) (CD 25)) (NNPS Palestinians)) (VP (VBD were) (VP (VBN wounded) (PP (IN in) (NP (NP (NN gun) (NNS battles)) (PP (IN with) (NP (JJ Israeli) (NNS troops))))) (NP (NN yesterday)))) (. .)))
+EarlierearlierRBROPER0,,,OPER0twotwoCDCARDINALPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0werebeVBDOPER0stabbedstabVBNOPER0atatINOPER0aaDTOPER0roadblockroadblockNNOPER0northnorthRBOPER0ofofINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (ADVP (RBR Earlier)) (, ,) (NP (CD two) (JJ Israeli) (NNS soldiers)) (VP (VBD were) (VP (VBN stabbed) (PP (IN at) (NP (NP (DT a) (NN roadblock)) (ADVP (RB north) (PP (IN of) (NP (NNP Jerusalem)))))))) (. .)))
+MeantimemeantimeRBOPER0,,,OPER0aidesaideNNSOPER0totoINOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0saysayVBPOPER0IsraelIsraelNNPGPEPER0isbeVBZOPER0willingwillingJJOPER0totoTOOPER0cooperatecooperateVBOPER0withwithINOPER0aaDTOPER0U.S.U.S.NNPGPEPER0--HYPHOPER0ledleadVBNOPER0inquiryinquiryNNOPER0intointoINOPER0thetheDTOPER0violenceviolenceNNOPER0thatthatWDTOPER0hashaveVBZOPER0killedkillVBDOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER0319319CDCARDINALPER0peoplepeopleNNSOPER0...OPER0(ROOT (S (ADVP (RB Meantime)) (, ,) (NP (NP (NNS aides)) (PP (IN to) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))) (VP (VBP say) (SBAR (S (NP (NNP Israel)) (VP (VBZ is) (ADJP (JJ willing) (S (VP (TO to) (VP (VB cooperate) (PP (IN with) (NP (NP (DT a) (ADJP (NNP U.S.) (HYPH -) (VBN led)) (NN inquiry)) (PP (IN into) (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBD killed) (NP (QP (ADVP (RB at) (RBS least)) (CD 319)) (NNS people)))))))))))))))))) (. .)))
+InvestigatorsinvestigatorNNSOPER0arebeVBPOPER0expectedexpectVBNOPER0totoTOOPER0arrivearriveVBOPER0ininINOPER0mid-Decembermid-decemberNNDATEPER0...OPER0(ROOT (S (NP (NNS Investigators)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB arrive) (PP (IN in) (NP (NN mid-December)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (JJ Israeli) (NN helicopter) (NNS gunships))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NN fire))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS choppers))
+sid=1 spanning 6 until 7 headed by 6 parsed as firing
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (NP (NNP Rachel) (POS 's)) (NN Tomb))
+sid=1 spanning 13 until 15 headed by 13 parsed as (NP (NNP Rachel) (POS 's))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT That) (ADJP (JJ holy)) (NN shrine))
+sid=2 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (JJ biblical) (NN matriarch))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (JJ Israeli) (NN helicopter) (NNS gunships))
+sid=0 spanning 6 until 11 headed by 8 parsed as (NP (NP (DT a) (JJ Palestinian) (NN position)) (PP (IN in) (NP (NNP Bethlehem))))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Bethlehem))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Army))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS choppers))
+sid=1 spanning 8 until 19 headed by 8 parsed as (NP (NP (NNS gunmen)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBG shooting) (PP (IN at) (NP (NP (NNP Rachel) (POS 's)) (NN Tomb))) (PP (IN for) (NP (JJ several) (NNS hours))))))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (NP (NNP Rachel) (POS 's)) (NN Tomb))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (JJ several) (NNS hours))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT That) (ADJP (JJ holy)) (NN shrine))
+sid=2 spanning 4 until 12 headed by 7 parsed as (NP (NP (DT the) (JJ traditional) (NN burial) (NN place)) (PP (IN of) (NP (DT the) (JJ biblical) (NN matriarch))))
+sid=2 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (JJ biblical) (NN matriarch))
+sid=3 spanning 0 until 4 headed by 3 parsed as (NP (QP (ADVP (RB At) (RBS least)) (CD 25)) (NNPS Palestinians))
+sid=3 spanning 7 until 12 headed by 8 parsed as (NP (NP (NN gun) (NNS battles)) (PP (IN with) (NP (JJ Israeli) (NNS troops))))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (JJ Israeli) (NNS troops))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (NN yesterday))
+sid=4 spanning 2 until 5 headed by 4 parsed as (NP (CD two) (JJ Israeli) (NNS soldiers))
+sid=4 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT a) (NN roadblock)) (ADVP (RB north) (PP (IN of) (NP (NNP Jerusalem)))))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NNP Jerusalem))
+sid=5 spanning 2 until 9 headed by 2 parsed as (NP (NP (NNS aides)) (PP (IN to) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))))
+sid=5 spanning 4 until 9 headed by 8 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (NNP Israel))
+sid=5 spanning 16 until 31 headed by 20 parsed as (NP (NP (DT a) (ADJP (NNP U.S.) (HYPH -) (VBN led)) (NN inquiry)) (PP (IN into) (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBD killed) (NP (QP (ADVP (RB at) (RBS least)) (CD 319)) (NNS people)))))))))
+sid=5 spanning 22 until 31 headed by 23 parsed as (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBD killed) (NP (QP (ADVP (RB at) (RBS least)) (CD 319)) (NNS people)))))))
+sid=5 spanning 27 until 31 headed by 30 parsed as (NP (QP (ADVP (RB at) (RBS least)) (CD 319)) (NNS people))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNS Investigators))
+(end predicted mentions)
+---------gold clusters--------
+6 4 | { 'That holy shrine' 'Rachel 's Tomb' }
+2 0 | { 'the choppers' 'Israeli helicopter gunships' }
+7 5 | { 'the biblical matriarch' 'Rachel 's' }
+3 1 | { 'firing' 'fire' }
+(end gold clusters)

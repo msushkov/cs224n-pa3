@@ -1,0 +1,46 @@
+---------gloss--------
+(0) As one city digs out from record snow , `` In Depth '' tonight , dramatic new details of how [36m{the Texas Seven}[0m pulled off [36m{their}[0m great escape , the deepening mystery over [34m{the first American shot down in the Gulf War}[0m , could [34m{he}[0m be alive ? and `` The Fleecing of America . '' 
+(1) Cops ca n't find [35m{them}[0m , but Social Security knows just where to send [35m{their}[0m checks . 
+(end gloss)
+---------document--------
+(bn/nbc/00/nbc_0036); part 000
+sentences:
+AsasINOPER0oneoneCDCARDINALPER0citycityNNOPER0digsdigVBZOPER0outoutRPOPER0fromfromINOPER0recordrecordNNOPER0snowsnowNNOPER0,,,OPER0``````OIninINWORK_OF_ARTPER1DepthdepthNNWORK_OF_ARTPER1''''''OPER0tonighttonightNNTIMEPER0,,,OPER0dramaticdramaticJJOPER0newnewJJOPER0detailsdetailNNSOPER0ofofINOPER0howhowWRBOPER0thetheDTORGPER0TexasTexasNNPORGPER0SevenSevenNNPORGPER0pulledpullVBDOPER0offoffRPOPER0theirtheyPRP$OPER0greatgreatJJOPER0escapeescapeNNOPER0,,,OPER0thetheDTOPER0deepeningdeepenVBGOPER0mysterymysteryNNOPER0overoverINOPER0thetheDTOPER0firstfirstJJORDINALPER0AmericanAmericanNNPOPER0shotshootVBDOPER0downdownRBOPER0ininINOPER0thetheDTEVENTPER0GulfGulfNNPEVENTPER0WarWarNNPEVENTPER0,,,OPER0couldcouldMDOPER0hehePRPOPER0bebeVBOPER0alivealiveJJOPER0??.OPER0andandCCOPER0``````OThetheDTORGPER2FleecingFleecingNNPORGPER2ofofINORGPER2AmericaAmericaNNPORGPER2...OPER2''''''OPER0(ROOT (S (SBAR (IN As) (S (NP (CD one) (NN city)) (VP (VBZ digs) (PRT (RP out)) (PP (IN from) (NP (NP (NN record) (NN snow)) (, ,) (NP (`` ``) (PP (IN In) (NP (NN Depth))) ('' '') (NN tonight)))) (, ,) (NP (NP (JJ dramatic) (JJ new) (NNS details)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNP Texas) (NNP Seven)) (VP (VBD pulled) (PRT (RP off)) (NP (PRP$ their) (JJ great) (NN escape)))))))))) (, ,) (NP (NP (DT the) (VBG deepening) (NN mystery)) (PP (IN over) (NP (DT the) (JJ first) (NNP American)))) (VP (VBD shot) (ADVP (RB down)) (PP (IN in) (NP (DT the) (NNP Gulf) (NNP War))) (, ,) (UCP (SQ (MD could) (NP (PRP he)) (VP (VB be) (ADJP (JJ alive))) (. ?)) (CC and) (S (`` ``) (NP (NP (DT The) (NNP Fleecing)) (PP (IN of) (NP (NNP America))))))) (. .) ('' '')))
+CopscopNNSOPER0cacanMDOPER0n'tnotRBOPER0findfindVBOPER0themtheyPRPOPER0,,,OPER0butbutCCOPER0SocialSocialNNPORGPER0SecuritySecurityNNPORGPER0knowsknowVBZOPER0justjustRBOPER0wherewhereWRBOPER0totoTOOPER0sendsendVBOPER0theirtheyPRP$OPER0checkscheckNNSOPER0...OPER0(ROOT (S (S (NP (NNS Cops)) (VP (MD ca) (RB n't) (VP (VB find) (NP (PRP them))))) (, ,) (CC but) (S (NP (NNP Social) (NNP Security)) (VP (VBZ knows) (ADVP (RB just)) (SBAR (WHADVP (WRB where)) (S (VP (TO to) (VP (VB send) (NP (PRP$ their) (NNS checks)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (NNP Texas) (NNP Seven))
+sid=0 spanning 25 until 26 headed by 25 parsed as their
+sid=0 spanning 33 until 42 headed by 35 parsed as (NP (DT the) (JJ first) (NNP American))
+sid=0 spanning 44 until 45 headed by 44 parsed as (NP (PRP he))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP them))
+sid=1 spanning 14 until 15 headed by 14 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (CD one) (NN city))
+sid=0 spanning 6 until 14 headed by 7 parsed as (NP (NP (NN record) (NN snow)) (, ,) (NP (`` ``) (PP (IN In) (NP (NN Depth))) ('' '') (NN tonight)))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NN record) (NN snow))
+sid=0 spanning 9 until 14 headed by 13 parsed as (NP (`` ``) (PP (IN In) (NP (NN Depth))) ('' '') (NN tonight))
+sid=0 spanning 10 until 12 headed by 10 parsed as In
+sid=0 spanning 15 until 28 headed by 17 parsed as (NP (NP (JJ dramatic) (JJ new) (NNS details)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNP Texas) (NNP Seven)) (VP (VBD pulled) (PRT (RP off)) (NP (PRP$ their) (JJ great) (NN escape)))))))
+sid=0 spanning 20 until 23 headed by 22 parsed as (NP (DT the) (NNP Texas) (NNP Seven))
+sid=0 spanning 25 until 28 headed by 27 parsed as (NP (PRP$ their) (JJ great) (NN escape))
+sid=0 spanning 25 until 26 headed by 25 parsed as (PRP$ their)
+sid=0 spanning 29 until 36 headed by 31 parsed as (NP (NP (DT the) (VBG deepening) (NN mystery)) (PP (IN over) (NP (DT the) (JJ first) (NNP American))))
+sid=0 spanning 33 until 36 headed by 35 parsed as (NP (DT the) (JJ first) (NNP American))
+sid=0 spanning 34 until 35 headed by 34 parsed as first
+sid=0 spanning 39 until 42 headed by 41 parsed as (NP (DT the) (NNP Gulf) (NNP War))
+sid=0 spanning 44 until 45 headed by 44 parsed as (NP (PRP he))
+sid=0 spanning 50 until 54 headed by 51 parsed as (NP (NP (DT The) (NNP Fleecing)) (PP (IN of) (NP (NNP America))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Cops))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP them))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (NNP Social) (NNP Security))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ their) (NNS checks))
+sid=1 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+(end predicted mentions)
+---------gold clusters--------
+2 3 | { 'the first American shot down in the Gulf War' 'he' }
+5 4 | { 'their' 'them' }
+1 0 | { 'their' 'the Texas Seven' }
+(end gold clusters)

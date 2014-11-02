@@ -1,0 +1,66 @@
+---------gloss--------
+(0) I 'm David Coller , VOA News . 
+(1) Dozens of Palestinians were wounded in [1m[33m{scattered clashes in the West Bank and Gaza Strip}[0m , Wednesday , despite the Sharm el - Sheikh truce accord . 
+(2) [1m[33m{The clashes}[0m occurred as [1m[34m{the Palestinian leadership}[0m issued orders to observe the troops . 
+(3) [1m[34m{The Palestinian leaders}[0m also warned that [1m[35m{Israel}[0m must remove [1m[35m{its}[0m soldiers from the outskirts of Palestinian cities . 
+(4) [1m[35m{Israel}[0m says , [1m[35m{it}[0m has lifted the internal restrictions that barred Palestinians from moving among [1m[32m{West Bank}[0m towns and villages . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0036); part 000
+sentences:
+IIPRPOPER0'mbeVBPOPER0DavidDavidNNPPERSONPER0CollerCollerNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))) (. .)))
+DozensdozenNNSCARDINALPER0ofofINOPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0woundedwoundVBNOPER0ininINOPER0scatteredscatterVBNOPER0clashesclashNNSOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0,,,OPER0WednesdayWednesdayNNPDATEPER0,,,OPER0despitedespiteINOPER0thetheDTOPER0SharmSharmNNPPERSONPER0elelNNPPERSONPER0--HYPHPERSONPER0SheikhSheikhNNPPERSONPER0trucetruceNNOPER0accordaccordNNOPER0...OPER0(ROOT (S (NP (NP (NNS Dozens)) (PP (IN of) (NP (NNPS Palestinians)))) (VP (VBD were) (VP (VBN wounded) (PP (IN in) (NP (NP (VBN scattered) (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))))))) (, ,) (NP (NNP Wednesday)) (, ,) (PP (IN despite) (NP (DT the) (NML (NNP Sharm) (NNP el) (HYPH -) (NNP Sheikh)) (NN truce) (NN accord)))) (. .)))
+ThetheDTOPER0clashesclashNNSOPER0occurredoccurVBDOPER0asasINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0leadershipleadershipNNOPER0issuedissueVBDOPER0ordersorderNNSOPER0totoTOOPER0observeobserveVBOPER0thetheDTOPER0troopstroopsNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNS clashes)) (VP (VBD occurred) (SBAR (IN as) (S (NP (DT the) (JJ Palestinian) (NN leadership)) (VP (VBD issued) (NP (NNS orders) (S (VP (TO to) (VP (VB observe) (NP (DT the) (NNS troops)))))))))) (. .)))
+ThetheDTOPER0PalestinianpalestinianJJOPER0leadersleaderNNSOPER0alsoalsoRBOPER0warnedwarnVBDOPER0thatthatINOPER0IsraelIsraelNNPGPEPER0mustmustMDOPER0removeremoveVBOPER0itsitsPRP$OPER0soldierssoldierNNSOPER0fromfromINOPER0thetheDTOPER0outskirtsoutskirtsNNSOPER0ofofINOPER0PalestinianpalestinianJJOPER0citiescityNNSOPER0...OPER0(ROOT (S (NP (DT The) (JJ Palestinian) (NNS leaders)) (ADVP (RB also)) (VP (VBD warned) (SBAR (IN that) (S (NP (NNP Israel)) (VP (MD must) (VP (VB remove) (NP (PRP$ its) (NNS soldiers)) (PP (IN from) (NP (NP (DT the) (NNS outskirts)) (PP (IN of) (NP (JJ Palestinian) (NNS cities)))))))))) (. .)))
+IsraelIsraelNNPGPEPER0sayssayVBZOPER0,,,OPER0ititPRPOPER0hashaveVBZOPER0liftedliftVBNOPER0thetheDTOPER0internalinternalJJOPER0restrictionsrestrictionNNSOPER0thatthatINOPER0barredbarVBNOPER0PalestiniansPalestiniansNNPSOPER0fromfromINOPER0movingmoveVBGOPER0amongamongINOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0townstownNNSOPER0andandCCOPER0villagesvillageNNSOPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBZ says) (, ,) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN lifted) (NP (DT the) (JJ internal) (NNS restrictions)) (SBAR (IN that) (S (VP (VBN barred) (NP (NNPS Palestinians)) (PP (IN from) (S (VP (VBG moving) (PP (IN among) (NP (NP (NML (NNP West) (NNP Bank)) (NNS towns)) (CC and) (NP (NNS villages))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 6 until 15 headed by 7 parsed as (NP (NP (VBN scattered) (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS clashes))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ Palestinian) (NN leadership))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Palestinian) (NNS leaders))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Israel))
+sid=3 spanning 9 until 10 headed by 9 parsed as its
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=4 spanning 15 until 17 headed by 16 parsed as Bank
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP David) (NNP Coller)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+sid=1 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Dozens)) (PP (IN of) (NP (NNPS Palestinians))))
+sid=1 spanning 6 until 15 headed by 7 parsed as (NP (NP (VBN scattered) (NNS clashes)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=1 spanning 9 until 15 headed by 11 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=1 spanning 13 until 15 headed by 14 parsed as Strip
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Wednesday))
+sid=1 spanning 19 until 26 headed by 25 parsed as (NP (DT the) (NML (NNP Sharm) (NNP el) (HYPH -) (NNP Sheikh)) (NN truce) (NN accord))
+sid=1 spanning 20 until 24 headed by 23 parsed as Sheikh
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS clashes))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ Palestinian) (NN leadership))
+sid=2 spanning 8 until 13 headed by 8 parsed as (NP (NNS orders) (S (VP (TO to) (VP (VB observe) (NP (DT the) (NNS troops))))))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNS troops))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Palestinian) (NNS leaders))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP Israel))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ its) (NNS soldiers))
+sid=3 spanning 9 until 10 headed by 9 parsed as (PRP$ its)
+sid=3 spanning 12 until 17 headed by 13 parsed as (NP (NP (DT the) (NNS outskirts)) (PP (IN of) (NP (JJ Palestinian) (NNS cities))))
+sid=3 spanning 15 until 17 headed by 16 parsed as (NP (JJ Palestinian) (NNS cities))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=4 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (JJ internal) (NNS restrictions))
+sid=4 spanning 15 until 20 headed by 17 parsed as (NP (NP (NML (NNP West) (NNP Bank)) (NNS towns)) (CC and) (NP (NNS villages)))
+sid=4 spanning 15 until 18 headed by 17 parsed as (NP (NML (NNP West) (NNP Bank)) (NNS towns))
+sid=4 spanning 15 until 17 headed by 16 parsed as Bank
+sid=4 spanning 19 until 20 headed by 19 parsed as (NP (NNS villages))
+(end predicted mentions)
+---------gold clusters--------
+9 1 | { 'West Bank' 'West Bank' }
+0 2 | { 'scattered clashes in the West Bank and Gaza Strip' 'The clashes' }
+3 4 | { 'the Palestinian leadership' 'The Palestinian leaders' }
+7 6 5 8 | { 'Israel' 'its' 'Israel' 'it' }
+(end gold clusters)

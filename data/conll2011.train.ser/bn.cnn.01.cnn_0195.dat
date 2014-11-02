@@ -1,0 +1,64 @@
+---------gloss--------
+(0) The countdown to the destruction of [4m[32m{Russia 's}[0m Mir Space Station is under way . 
+(1) [4m[34m{A Russian space transport craft}[0m has docked with [4m[33m{the 15 - year - old orbiter}[0m . 
+(2) [4m[34m{The unmanned vessel}[0m , dubbed `` the hearse , '' will use [4m[34m{its}[0m load of two tons of fuel to guide [4m[33m{Mir}[0m out of orbit at the end of next month . 
+(3) Most of [4m[33m{the craft}[0m will disintegrate in the Earth 's atmosphere . 
+(4) Any remaining fragments should fall into the Pacific Ocean . 
+(5) [4m[32m{The Russian government}[0m says [4m[32m{it}[0m can not afford to maintain [4m[33m{Mir}[0m and meet obligations to the new International Space Station . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0195); part 000
+sentences:
+ThetheDTOPER0countdowncountdownNNOPER0totoINOPER0thetheDTOPER0destructiondestructionNNOPER0ofofINOPER0RussiaRussiaNNPGPEPER0's'sPOSOPER0MirMirNNPFACPER0SpaceSpaceNNPFACPER0StationStationNNPFACPER0isbeVBZOPER0underunderINOPER0waywayNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN countdown)) (PP (IN to) (NP (NP (DT the) (NN destruction)) (PP (IN of) (NP (NP (NNP Russia) (POS 's)) (NNP Mir) (NNP Space) (NNP Station)))))) (VP (VBZ is) (PP (IN under) (NP (NN way)))) (. .)))
+AaDTOPER0RussianrussianJJOPER0spacespaceNNOPER0transporttransportNNOPER0craftcraftNNOPER0hashaveVBZOPER0dockeddockVBNOPER0withwithINOPER0thetheDTOPER01515CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0orbiterorbiterNNOPER0...OPER0(ROOT (S (NP (DT A) (JJ Russian) (NN space) (NN transport) (NN craft)) (VP (VBZ has) (VP (VBN docked) (PP (IN with) (NP (DT the) (ADJP (NML (CD 15) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN orbiter))))) (. .)))
+ThetheDTOPER0unmannedunmannedJJOPER0vesselvesselNNOPER0,,,OPER0dubbeddubVBNOPER0``````OthetheDTOPER1hearsehearseNNOPER1,,,OPER1''''''OPER0willwillMDOPER0useuseVBOPER0itsitsPRP$OPER0loadloadNNOPER0ofofINOPER0twotwoCDQUANTITYPER0tonstonNNSQUANTITYPER0ofofINOPER0fuelfuelNNOPER0totoTOOPER0guideguideVBOPER0MirMirNNPPERSONPER0outoutINOPER0ofofINOPER0orbitorbitNNOPER0atatINOPER0thetheDTDATEPER0endendNNDATEPER0ofofINDATEPER0nextnextJJDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ unmanned) (NN vessel)) (, ,) (VP (VBN dubbed) (S (`` ``) (NP (DT the) (NN hearse)) (, ,) ('' '')))) (VP (MD will) (VP (VB use) (NP (NP (PRP$ its) (NN load)) (PP (IN of) (NP (NP (CD two) (NNS tons)) (PP (IN of) (NP (NN fuel)))))) (S (VP (TO to) (VP (VB guide) (NP (NNP Mir)) (PP (IN out) (PP (IN of) (NP (NN orbit)))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (JJ next) (NN month)))))))))) (. .)))
+MostmostJJSOPER0ofofINOPER0thetheDTOPER0craftcraftNNOPER0willwillMDOPER0disintegratedisintegrateVBOPER0ininINOPER0thetheDTOPER0EarthEarthNNPLOCPER0's'sPOSOPER0atmosphereatmosphereNNOPER0...OPER0(ROOT (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NN craft)))) (VP (MD will) (VP (VB disintegrate) (PP (IN in) (NP (NP (DT the) (NNP Earth) (POS 's)) (NN atmosphere))))) (. .)))
+AnyanyDTOPER0remainingremainVBGOPER0fragmentsfragmentNNSOPER0shouldshouldMDOPER0fallfallVBOPER0intointoINOPER0thetheDTLOCPER0PacificPacificNNPLOCPER0OceanOceanNNPLOCPER0...OPER0(ROOT (S (NP (DT Any) (VBG remaining) (NNS fragments)) (VP (MD should) (VP (VB fall) (PP (IN into) (NP (DT the) (NNP Pacific) (NNP Ocean))))) (. .)))
+ThetheDTOPER0RussianrussianJJOPER0governmentgovernmentNNOPER0sayssayVBZOPER0ititPRPOPER0cancanMDOPER0notnotRBOPER0affordaffordVBOPER0totoTOOPER0maintainmaintainVBOPER0MirMirNNPPERSONPER0andandCCOPER0meetmeetVBOPER0obligationsobligationNNSOPER0totoINOPER0thetheDTOPER0newnewJJOPER0InternationalInternationalNNPFACPER0SpaceSpaceNNPFACPER0StationStationNNPFACPER0...OPER0(ROOT (S (NP (DT The) (JJ Russian) (NN government)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD can) (RB not) (VP (VB afford) (S (VP (TO to) (VP (VP (VB maintain) (NP (NNP Mir))) (CC and) (VP (VB meet) (NP (NP (NNS obligations)) (PP (IN to) (NP (DT the) (JJ new) (NNP International) (NNP Space) (NNP Station))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (NP (NNP Russia) (POS 's)) (NNP Mir) (NNP Space) (NNP Station))
+sid=0 spanning 6 until 8 headed by 6 parsed as (NP (NNP Russia) (POS 's))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT A) (JJ Russian) (NN space) (NN transport) (NN craft))
+sid=1 spanning 8 until 15 headed by 14 parsed as (NP (DT the) (ADJP (NML (CD 15) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN orbiter))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (NP (DT The) (JJ unmanned) (NN vessel)) (, ,) (VP (VBN dubbed) (S (`` ``) (NP (DT the) (NN hearse)) (, ,) ('' ''))))
+sid=2 spanning 12 until 13 headed by 12 parsed as its
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (NNP Mir))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN craft))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Russian) (NN government))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (NNP Mir))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 11 headed by 1 parsed as (NP (NP (DT The) (NN countdown)) (PP (IN to) (NP (NP (DT the) (NN destruction)) (PP (IN of) (NP (NP (NNP Russia) (POS 's)) (NNP Mir) (NNP Space) (NNP Station))))))
+sid=0 spanning 3 until 11 headed by 4 parsed as (NP (NP (DT the) (NN destruction)) (PP (IN of) (NP (NP (NNP Russia) (POS 's)) (NNP Mir) (NNP Space) (NNP Station))))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (NP (NNP Russia) (POS 's)) (NNP Mir) (NNP Space) (NNP Station))
+sid=0 spanning 6 until 8 headed by 6 parsed as (NP (NNP Russia) (POS 's))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT A) (JJ Russian) (NN space) (NN transport) (NN craft))
+sid=1 spanning 8 until 15 headed by 14 parsed as (NP (DT the) (ADJP (NML (CD 15) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN orbiter))
+sid=1 spanning 9 until 14 headed by 13 parsed as old
+sid=2 spanning 0 until 10 headed by 2 parsed as (NP (NP (DT The) (JJ unmanned) (NN vessel)) (, ,) (VP (VBN dubbed) (S (`` ``) (NP (DT the) (NN hearse)) (, ,) ('' ''))))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ unmanned) (NN vessel))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN hearse))
+sid=2 spanning 12 until 19 headed by 13 parsed as (NP (NP (PRP$ its) (NN load)) (PP (IN of) (NP (NP (CD two) (NNS tons)) (PP (IN of) (NP (NN fuel))))))
+sid=2 spanning 12 until 13 headed by 12 parsed as (PRP$ its)
+sid=2 spanning 15 until 19 headed by 16 parsed as (NP (NP (CD two) (NNS tons)) (PP (IN of) (NP (NN fuel))))
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (NNP Mir))
+sid=2 spanning 26 until 31 headed by 27 parsed as (NP (NP (DT the) (NN end)) (PP (IN of) (NP (JJ next) (NN month))))
+sid=3 spanning 0 until 4 headed by 0 parsed as (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NN craft))))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN craft))
+sid=3 spanning 7 until 11 headed by 10 parsed as (NP (NP (DT the) (NNP Earth) (POS 's)) (NN atmosphere))
+sid=3 spanning 7 until 10 headed by 8 parsed as (NP (DT the) (NNP Earth) (POS 's))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Pacific) (NNP Ocean))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Russian) (NN government))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (NNP Mir))
+sid=5 spanning 13 until 20 headed by 13 parsed as (NP (NP (NNS obligations)) (PP (IN to) (NP (DT the) (JJ new) (NNP International) (NNP Space) (NNP Station))))
+sid=5 spanning 15 until 20 headed by 19 parsed as (NP (DT the) (JJ new) (NNP International) (NNP Space) (NNP Station))
+(end predicted mentions)
+---------gold clusters--------
+9 8 1 | { 'it' 'The Russian government' 'Russia 's' }
+3 0 10 6 7 | { 'the 15 - year - old orbiter' 'Russia 's Mir Space Station' 'Mir' 'Mir' 'the craft' }
+5 4 2 | { 'its' 'The unmanned vessel' 'A Russian space transport craft' }
+(end gold clusters)

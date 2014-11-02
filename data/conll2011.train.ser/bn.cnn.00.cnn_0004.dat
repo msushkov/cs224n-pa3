@@ -1,0 +1,68 @@
+---------gloss--------
+(0) Canada is saying good-bye to [3m[32m{a former leader}[0m . 
+(1) Cuban President Fidel Castro and former U.S. President Jimmy Carter joined thousands of mourners for [3m[31m{the state funeral of former Canadian Prime Minister Pierre Trudeau}[0m . 
+(2) [3m[31m{The service}[0m inside the Notre Dame basilica in [3m[32m{Trudeau 's}[0m hometown of [3m[33m{Montreal}[0m . 
+(3) [3m[31m{This}[0m caps five days of national mourning . 
+(4) Some 15,000 people came to visit [3m[32m{his}[0m flag - draped casket yesterday at City Hall . 
+(5) [3m[32m{He}[0m died Thursday of prostate cancer . 
+(6) [3m[32m{Pierre Trudeau}[0m was 80 . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0004); part 000
+sentences:
+CanadaCanadaNNPGPEPER0isbeVBZOPER0sayingsayVBGOPER0good-byegood-byeUHOPER0totoINOPER0aaDTOPER0formerformerJJOPER0leaderleaderNNOPER0...OPER0(ROOT (S (NP (NNP Canada)) (VP (VBZ is) (VP (VBG saying) (INTJ (UH good-bye)) (PP (IN to) (NP (DT a) (JJ former) (NN leader))))) (. .)))
+CubancubanJJOPER0PresidentPresidentNNPOPER0FidelFidelNNPPERSONPER0CastroCastroNNPPERSONPER0andandCCOPER0formerformerJJOPER0U.S.U.S.NNPGPEPER0PresidentPresidentNNPOPER0JimmyJimmyNNPPERSONPER0CarterCarterNNPPERSONPER0joinedjoinVBDOPER0thousandsthousandNNSCARDINALPER0ofofINOPER0mournersmournerNNSOPER0forforINOPER0thetheDTOPER0statestateNNOPER0funeralfuneralNNOPER0ofofINOPER0formerformerJJOPER0CanadiancanadianJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0PierrePierreNNPPERSONPER0TrudeauTrudeauNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NML (JJ Cuban) (NNP President)) (NNP Fidel) (NNP Castro)) (CC and) (NP (NML (JJ former) (NNP U.S.) (NNP President)) (NNP Jimmy) (NNP Carter))) (VP (VBD joined) (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS mourners)))) (PP (IN for) (NP (NP (DT the) (NN state) (NN funeral)) (PP (IN of) (NP (NML (JJ former) (JJ Canadian) (NNP Prime) (NNP Minister)) (NNP Pierre) (NNP Trudeau)))))) (. .)))
+ThetheDTOPER0serviceserviceNNOPER0insideinsideINOPER0thetheDTOPER0NotreNotreNNPORGPER0DameDameNNPORGPER0basilicabasilicaNNPOPER0ininINOPER0TrudeauTrudeauNNPPERSONPER0's'sPOSOPER0hometownhometownNNOPER0ofofINOPER0MontrealMontrealNNPGPEPER0...OPER0(ROOT (NP (NP (DT The) (NN service)) (PP (IN inside) (NP (NP (DT the) (NNP Notre) (NNP Dame) (NNP basilica)) (PP (IN in) (NP (NP (NP (NNP Trudeau) (POS 's)) (NN hometown)) (PP (IN of) (NP (NNP Montreal))))))) (. .)))
+ThisthisDTOPER0capscapNNSOPER0fivefiveCDDATEPER0daysdayNNSDATEPER0ofofINOPER0nationalnationalJJOPER0mourningmourningNNOPER0...OPER0(ROOT (FRAG (NP (DT This) (NNS caps)) (NP (NP (CD five) (NNS days)) (PP (IN of) (NP (JJ national) (NN mourning)))) (. .)))
+SomesomeDTOPER015,00015,000CDCARDINALPER0peoplepeopleNNSOPER0camecomeVBDOPER0totoTOOPER0visitvisitVBOPER0hishePRP$OPER0flagflagNNOPER0--HYPHOPER0drapeddrapeVBNOPER0casketcasketNNOPER0yesterdayyesterdayNNDATEPER0atatINOPER0CityCityNNPORGPER0HallHallNNPORGPER0...OPER0(ROOT (S (NP (DT Some) (CD 15,000) (NNS people)) (VP (VBD came) (S (VP (TO to) (VP (VB visit) (NP (NP (PRP$ his) (ADJP (NN flag) (HYPH -) (VBN draped)) (NN casket)) (NP (NN yesterday))) (PP (IN at) (NP (NNP City) (NNP Hall))))))) (. .)))
+HehePRPOPER0dieddieVBDOPER0ThursdayThursdayNNPDATEPER0ofofINOPER0prostateprostateNNOPER0cancercancerNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD died) (NP (NNP Thursday)) (PP (IN of) (NP (NN prostate) (NN cancer)))) (. .)))
+PierrePierreNNPPERSONPER0TrudeauTrudeauNNPPERSONPER0wasbeVBDOPER08080CDCARDINALPER0...OPER0(ROOT (S (NP (NNP Pierre) (NNP Trudeau)) (VP (VBD was) (NP (CD 80))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ former) (NN leader))
+sid=1 spanning 15 until 25 headed by 17 parsed as (NP (NP (DT the) (NN state) (NN funeral)) (PP (IN of) (NP (NML (JJ former) (JJ Canadian) (NNP Prime) (NNP Minister)) (NNP Pierre) (NNP Trudeau))))
+sid=1 spanning 19 until 25 headed by 24 parsed as (NP (NML (JJ former) (JJ Canadian) (NNP Prime) (NNP Minister)) (NNP Pierre) (NNP Trudeau))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NP (DT The) (NN service)) (PP (IN inside) (NP (NP (DT the) (NNP Notre) (NNP Dame) (NNP basilica)) (PP (IN in) (NP (NP (NP (NNP Trudeau) (POS 's)) (NN hometown)) (PP (IN of) (NP (NNP Montreal))))))) (. .))
+sid=2 spanning 8 until 13 headed by 10 parsed as (NP (NP (NP (NNP Trudeau) (POS 's)) (NN hometown)) (PP (IN of) (NP (NNP Montreal))))
+sid=2 spanning 8 until 10 headed by 8 parsed as (NP (NNP Trudeau) (POS 's))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Montreal))
+sid=3 spanning 0 until 1 headed by 0 parsed as This
+sid=4 spanning 6 until 7 headed by 6 parsed as his
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Pierre) (NNP Trudeau))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Canada))
+sid=0 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ former) (NN leader))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (NP (NML (JJ Cuban) (NNP President)) (NNP Fidel) (NNP Castro)) (CC and) (NP (NML (JJ former) (NNP U.S.) (NNP President)) (NNP Jimmy) (NNP Carter)))
+sid=1 spanning 0 until 10 headed by 3 parsed as (NP (NP (NML (JJ Cuban) (NNP President)) (NNP Fidel) (NNP Castro)) (CC and) (NP (NML (JJ former) (NNP U.S.) (NNP President)) (NNP Jimmy) (NNP Carter)))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Cuban) (NNP President)) (NNP Fidel) (NNP Castro))
+sid=1 spanning 5 until 10 headed by 9 parsed as (NP (NML (JJ former) (NNP U.S.) (NNP President)) (NNP Jimmy) (NNP Carter))
+sid=1 spanning 11 until 14 headed by 11 parsed as (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS mourners))))
+sid=1 spanning 15 until 25 headed by 17 parsed as (NP (NP (DT the) (NN state) (NN funeral)) (PP (IN of) (NP (NML (JJ former) (JJ Canadian) (NNP Prime) (NNP Minister)) (NNP Pierre) (NNP Trudeau))))
+sid=1 spanning 19 until 25 headed by 24 parsed as (NP (NML (JJ former) (JJ Canadian) (NNP Prime) (NNP Minister)) (NNP Pierre) (NNP Trudeau))
+sid=2 spanning 0 until 14 headed by 1 parsed as (NP (NP (DT The) (NN service)) (PP (IN inside) (NP (NP (DT the) (NNP Notre) (NNP Dame) (NNP basilica)) (PP (IN in) (NP (NP (NP (NNP Trudeau) (POS 's)) (NN hometown)) (PP (IN of) (NP (NNP Montreal))))))) (. .))
+sid=2 spanning 3 until 13 headed by 6 parsed as (NP (NP (DT the) (NNP Notre) (NNP Dame) (NNP basilica)) (PP (IN in) (NP (NP (NP (NNP Trudeau) (POS 's)) (NN hometown)) (PP (IN of) (NP (NNP Montreal))))))
+sid=2 spanning 4 until 6 headed by 5 parsed as Dame
+sid=2 spanning 8 until 13 headed by 10 parsed as (NP (NP (NP (NNP Trudeau) (POS 's)) (NN hometown)) (PP (IN of) (NP (NNP Montreal))))
+sid=2 spanning 8 until 10 headed by 8 parsed as (NP (NNP Trudeau) (POS 's))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Montreal))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT This) (NNS caps))
+sid=3 spanning 2 until 7 headed by 3 parsed as (NP (NP (CD five) (NNS days)) (PP (IN of) (NP (JJ national) (NN mourning))))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT Some) (CD 15,000) (NNS people))
+sid=4 spanning 6 until 12 headed by 10 parsed as (NP (NP (PRP$ his) (ADJP (NN flag) (HYPH -) (VBN draped)) (NN casket)) (NP (NN yesterday)))
+sid=4 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NN yesterday))
+sid=4 spanning 13 until 15 headed by 14 parsed as (NP (NNP City) (NNP Hall))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (NNP Thursday))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (NN prostate) (NN cancer))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Pierre) (NNP Trudeau))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (CD 80))
+(end predicted mentions)
+---------gold clusters--------
+3 1 7 | { 'The service' 'the state funeral of former Canadian Prime Minister Pierre Trudeau' 'This' }
+9 0 8 2 10 5 | { 'He' 'a former leader' 'his' 'former Canadian Prime Minister Pierre Trudeau' 'Pierre Trudeau' 'Trudeau 's' }
+6 4 | { 'Montreal' 'Trudeau 's hometown of Montreal' }
+(end gold clusters)

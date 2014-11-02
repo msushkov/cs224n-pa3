@@ -1,0 +1,63 @@
+---------gloss--------
+(0) [3m[35m{The announcement by Slobodan Milosevic that he concedes defeat in Yugoslavia 's presidential election}[0m has sent people rejoicing into the streets of Belgrade . 
+(1) [3m[35m{The speech by Milosevic on state TV}[0m signaled [3m[34m{he}[0m has abandoned efforts to block the opposition from assuming power . 
+(2) In [3m[34m{his}[0m speech [3m[34m{Milosevic}[0m congratulated opposition leader Vojislav Kostunica who has been ruled the victor in [3m[36m{the election}[0m . 
+(3) [3m[34m{He}[0m also says [3m[34m{he}[0m plans to help [3m[34m{his}[0m Socialist Party gain new strength . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0008); part 000
+sentences:
+ThetheDTOPER0announcementannouncementNNOPER0bybyINOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0thatthatINOPER0hehePRPOPER0concedesconcedeVBZOPER0defeatdefeatNNOPER0ininINOPER0YugoslaviaYugoslaviaNNPGPEPER0's'sPOSOPER0presidentialpresidentialJJOPER0electionelectionNNOPER0hashaveVBZOPER0sentsendVBNOPER0peoplepeopleNNSOPER0rejoicingrejoiceVBGOPER0intointoINOPER0thetheDTOPER0streetsstreetNNSOPER0ofofINOPER0BelgradeBelgradeNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN announcement)) (PP (IN by) (NP (NNP Slobodan) (NNP Milosevic))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ concedes) (NP (NP (NN defeat)) (PP (IN in) (NP (NP (NNP Yugoslavia) (POS 's)) (JJ presidential) (NN election)))))))) (VP (VBZ has) (VP (VBN sent) (S (NP (NNS people)) (VP (VBG rejoicing) (PP (IN into) (NP (NP (DT the) (NNS streets)) (PP (IN of) (NP (NNP Belgrade))))))))) (. .)))
+ThetheDTOPER0speechspeechNNOPER0bybyINOPER0MilosevicMilosevicNNPPERSONPER0ononINOPER0statestateNNOPER0TVtvNNORGPER0signaledsignalVBDOPER0hehePRPOPER0hashaveVBZOPER0abandonedabandonVBNOPER0effortseffortNNSOPER0totoTOOPER0blockblockVBOPER0thetheDTOPER0oppositionoppositionNNOPER0fromfromINOPER0assumingassumeVBGOPER0powerpowerNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN speech)) (PP (IN by) (NP (NNP Milosevic))) (PP (IN on) (NP (NN state) (NN TV)))) (VP (VBD signaled) (SBAR (S (NP (PRP he)) (VP (VBZ has) (VP (VBN abandoned) (NP (NNS efforts) (S (VP (TO to) (VP (VB block) (NP (DT the) (NN opposition)) (PP (IN from) (S (VP (VBG assuming) (NP (NN power)))))))))))))) (. .)))
+IninINOPER0hishePRP$OPER0speechspeechNNOPER0MilosevicMilosevicNNPPERSONPER0congratulatedcongratulateVBDOPER0oppositionoppositionNNOPER0leaderleaderNNOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0whowhoWPOPER0hashaveVBZOPER0beenbeVBNOPER0ruledruleVBNOPER0thetheDTOPER0victorvictorNNOPER0ininINOPER0thetheDTOPER0electionelectionNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (PRP$ his) (NN speech))) (NP (NNP Milosevic)) (VP (VBD congratulated) (NP (NP (NML (NN opposition) (NN leader)) (NNP Vojislav) (NNP Kostunica)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN ruled) (NP (NP (DT the) (NN victor)) (PP (IN in) (NP (DT the) (NN election))))))))))) (. .)))
+HehePRPOPER0alsoalsoRBOPER0sayssayVBZOPER0hehePRPOPER0plansplanVBZOPER0totoTOOPER0helphelpVBOPER0hishePRP$OPER0SocialistSocialistNNPORGPER0PartyPartyNNPORGPER0gaingainVBOPER0newnewJJOPER0strengthstrengthNNOPER0...OPER0(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ plans) (S (VP (TO to) (VP (VB help) (S (NP (PRP$ his) (NNP Socialist) (NNP Party)) (VP (VB gain) (NP (JJ new) (NN strength))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 14 headed by 1 parsed as (NP (NP (DT The) (NN announcement)) (PP (IN by) (NP (NNP Slobodan) (NNP Milosevic))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ concedes) (NP (NP (NN defeat)) (PP (IN in) (NP (NP (NNP Yugoslavia) (POS 's)) (JJ presidential) (NN election))))))))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NNP Slobodan) (NNP Milosevic))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NP (NNP Yugoslavia) (POS 's)) (JJ presidential) (NN election))
+sid=1 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN speech)) (PP (IN by) (NP (NNP Milosevic))) (PP (IN on) (NP (NN state) (NN TV))))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNP Milosevic))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (PRP$ his) (NN speech))
+sid=2 spanning 1 until 2 headed by 1 parsed as his
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Milosevic))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN election))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=3 spanning 7 until 8 headed by 7 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 14 headed by 1 parsed as (NP (NP (DT The) (NN announcement)) (PP (IN by) (NP (NNP Slobodan) (NNP Milosevic))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ concedes) (NP (NP (NN defeat)) (PP (IN in) (NP (NP (NNP Yugoslavia) (POS 's)) (JJ presidential) (NN election))))))))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (NNP Slobodan) (NNP Milosevic))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP he))
+sid=0 spanning 8 until 14 headed by 8 parsed as (NP (NP (NN defeat)) (PP (IN in) (NP (NP (NNP Yugoslavia) (POS 's)) (JJ presidential) (NN election))))
+sid=0 spanning 10 until 14 headed by 13 parsed as (NP (NP (NNP Yugoslavia) (POS 's)) (JJ presidential) (NN election))
+sid=0 spanning 10 until 12 headed by 10 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNS people))
+sid=0 spanning 19 until 23 headed by 20 parsed as (NP (NP (DT the) (NNS streets)) (PP (IN of) (NP (NNP Belgrade))))
+sid=0 spanning 22 until 23 headed by 22 parsed as (NP (NNP Belgrade))
+sid=1 spanning 0 until 7 headed by 1 parsed as (NP (NP (DT The) (NN speech)) (PP (IN by) (NP (NNP Milosevic))) (PP (IN on) (NP (NN state) (NN TV))))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNP Milosevic))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NN state) (NN TV))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=1 spanning 11 until 19 headed by 11 parsed as (NP (NNS efforts) (S (VP (TO to) (VP (VB block) (NP (DT the) (NN opposition)) (PP (IN from) (S (VP (VBG assuming) (NP (NN power)))))))))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN opposition))
+sid=2 spanning 1 until 3 headed by 2 parsed as (NP (PRP$ his) (NN speech))
+sid=2 spanning 1 until 2 headed by 1 parsed as (PRP$ his)
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNP Milosevic))
+sid=2 spanning 5 until 18 headed by 8 parsed as (NP (NP (NML (NN opposition) (NN leader)) (NNP Vojislav) (NNP Kostunica)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN ruled) (NP (NP (DT the) (NN victor)) (PP (IN in) (NP (DT the) (NN election))))))))))
+sid=2 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT the) (NN victor)) (PP (IN in) (NP (DT the) (NN election))))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN election))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=3 spanning 7 until 10 headed by 9 parsed as (NP (PRP$ his) (NNP Socialist) (NNP Party))
+sid=3 spanning 7 until 8 headed by 7 parsed as (PRP$ his)
+(end predicted mentions)
+---------gold clusters--------
+2 1 11 5 9 12 8 6 13 | { 'he' 'Slobodan Milosevic' 'He' 'Milosevic' 'Milosevic' 'he' 'his' 'he' 'his' }
+4 7 0 | { 'The speech by Milosevic on state TV' 'his speech' 'The announcement by Slobodan Milosevic that he concedes defeat in Yugoslavia 's presidential election' }
+3 10 | { 'Yugoslavia 's presidential election' 'the election' }
+(end gold clusters)

@@ -1,0 +1,30 @@
+---------gloss--------
+(0) Meanwhile [33m{Prime Minister Ehud Barak}[0m told Israeli television [33m{he}[0m doubts a peace deal can be reached before Israel 's February 6th election . 
+(1) [33m{He}[0m said [33m{he}[0m will now focus on suppressing Palestinian violence . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0210); part 000
+sentences:
+MeanwhilemeanwhileRBOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0toldtellVBDOPER0IsraeliisraeliJJOPER0televisiontelevisionNNOPER0hehePRPOPER0doubtsdoubtVBZOPER0aaDTOPER0peacepeaceNNOPER0dealdealNNOPER0cancanMDOPER0bebeVBOPER0reachedreachVBNOPER0beforebeforeINOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0FebruaryFebruaryNNPDATEPER06th6thNNDATEPER0electionelectionNNOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD told) (NP (JJ Israeli) (NN television)) (SBAR (S (NP (PRP he)) (VP (VBZ doubts) (SBAR (S (NP (DT a) (NN peace) (NN deal)) (VP (MD can) (VP (VB be) (VP (VBN reached) (PP (IN before) (NP (NP (NNP Israel) (POS 's)) (NML (NNP February) (NN 6th)) (NN election)))))))))))) (. .)))
+HehePRPOPER0saidsayVBDOPER0hehePRPOPER0willwillMDOPER0nownowRBOPER0focusfocusVBOPER0ononINOPER0suppressingsuppressVBGOPER0PalestinianpalestinianJJOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD will) (ADVP (RB now)) (VP (VB focus) (PP (IN on) (S (VP (VBG suppressing) (NP (JJ Palestinian) (NN violence)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 5 headed by 4 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 5 headed by 4 parsed as (NP (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (DT a) (NN peace) (NN deal))
+sid=0 spanning 17 until 22 headed by 21 parsed as (NP (NP (NNP Israel) (POS 's)) (NML (NNP February) (NN 6th)) (NN election))
+sid=0 spanning 17 until 19 headed by 17 parsed as (NP (NNP Israel) (POS 's))
+sid=0 spanning 19 until 21 headed by 20 parsed as 6th
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+(end predicted mentions)
+---------gold clusters--------
+1 2 3 0 | { 'he' 'He' 'he' 'Prime Minister Ehud Barak' }
+(end gold clusters)

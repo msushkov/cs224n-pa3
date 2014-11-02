@@ -1,0 +1,109 @@
+---------gloss--------
+(0) From [33m{BBC News in London}[0m , I 'm James Cawling , for The World . 
+(1) Clashes between Israeli Army units and Palestinians have [31m{continued}[0m into the night . 
+(2) [31m{That}[0m 's after [35m{another day of violence in which four Palestinians were killed}[0m . 
+(3) Helicopter gunships were deployed around [32m{the West Bank village of Bagella}[0m . 
+(4) Exchanges of fire between Israelis and Palestinians have also been reported around Jericho , [36m{Greg Barrow}[0m reports . 
+(5) [35m{A day of violence across the West Bank and Gaza}[0m has been followed by more clashes after nightfall . 
+(6) Houses in [32m{the West Bank village of Bagella}[0m have been attached by [34m{Israeli helicopter gunships}[0m . 
+(7) An Israeli military spokesman said [34m{they}[0m were deployed in response to gun fire from Palestinians inside [32m{Bagella}[0m , which was aimed at the Jewish settlement of Kilo . 
+(8) The Israelis say [34m{the helicopters}[0m went into action firing machine guns , but unconfirmed reports from inside [32m{Bagella}[0m suggested rockets may have been used . 
+(9) [36m{Greg Barrow}[0m , [33m{BBC News}[0m , Jerusalem . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0040); part 000
+sentences:
+FromfromINOPER0BBCBBCNNPORGPER0NewsNewsNNPORGPER0ininINOPER0LondonLondonNNPGPEPER0,,,OPER0IIPRPOPER0'mbeVBPOPER0JamesJamesNNPPERSONPER0CawlingCawlingNNPPERSONPER0,,,OPER0forforINOPER0ThetheDTORGPER0WorldWorldNNPORGPER0...OPER0(ROOT (S (PP (IN From) (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP James) (NNP Cawling)) (, ,) (PP (IN for) (NP (DT The) (NNP World))))) (. .)))
+ClashesclashNNSOPER0betweenbetweenINOPER0IsraeliisraeliJJOPER0ArmyArmyNNPORGPER0unitsunitNNSOPER0andandCCOPER0PalestiniansPalestiniansNNPSOPER0havehaveVBPOPER0continuedcontinueVBNOPER0intointoINOPER0thetheDTTIMEPER0nightnightNNTIMEPER0...OPER0(ROOT (S (NP (NP (NNS Clashes)) (PP (IN between) (NP (NP (NML (JJ Israeli) (NNP Army)) (NNS units)) (CC and) (NP (NNPS Palestinians))))) (VP (VBP have) (VP (VBN continued) (PP (IN into) (NP (DT the) (NN night))))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0afterafterINOPER0anotheranotherDTDATEPER0daydayNNDATEPER0ofofINOPER0violenceviolenceNNOPER0ininINOPER0whichwhichWDTOPER0fourfourCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0werebeVBDOPER0killedkillVBNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (PP (IN after) (NP (NP (DT another) (NN day)) (PP (IN of) (NP (NP (NN violence)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD four) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed)))))))))) (. .)))
+HelicopterhelicopterNNOPER0gunshipsgunshipNNSOPER0werebeVBDOPER0deployeddeployVBNOPER0aroundaroundINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0villagevillageNNOPER0ofofINOPER0BagellaBagellaNNPORGPER0...OPER0(ROOT (S (NP (NN Helicopter) (NNS gunships)) (VP (VBD were) (VP (VBN deployed) (PP (IN around) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN village)) (PP (IN of) (NP (NNP Bagella))))))) (. .)))
+ExchangesexchangeNNSOPER0ofofINOPER0firefireNNOPER0betweenbetweenINOPER0IsraelisIsraelisNNPSOPER0andandCCOPER0PalestiniansPalestiniansNNPSOPER0havehaveVBPOPER0alsoalsoRBOPER0beenbeVBNOPER0reportedreportVBNOPER0aroundaroundINOPER0JerichoJerichoNNPGPEPER0,,,OPER0GregGregNNPPERSONPER0BarrowBarrowNNPPERSONPER0reportsreportVBZOPER0...OPER0(ROOT (S (S (NP (NP (NP (NNS Exchanges)) (PP (IN of) (NP (NN fire)))) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians)))) (VP (VBP have) (ADVP (RB also)) (VP (VBN been) (VP (VBN reported) (PP (IN around) (NP (NNP Jericho))))))) (, ,) (NP (NNP Greg) (NNP Barrow)) (VP (VBZ reports)) (. .)))
+AaDTOPER0daydayNNOPER0ofofINOPER0violenceviolenceNNOPER0acrossacrossINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPGPEPER0hashaveVBZOPER0beenbeVBNOPER0followedfollowVBNOPER0bybyINOPER0moremoreJJROPER0clashesclashNNSOPER0afterafterINOPER0nightfallnightfallNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (NN day)) (PP (IN of) (NP (NP (NN violence)) (PP (IN across) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza))))))) (VP (VBZ has) (VP (VBN been) (VP (VBN followed) (PP (IN by) (NP (NP (JJR more) (NNS clashes)) (PP (IN after) (NP (NN nightfall)))))))) (. .)))
+HouseshouseNNSOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0villagevillageNNOPER0ofofINOPER0BagellaBagellaNNPORGPER0havehaveVBPOPER0beenbeVBNOPER0attachedattachVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0helicopterhelicopterNNOPER0gunshipsgunshipNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Houses)) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN village)) (PP (IN of) (NP (NNP Bagella)))))) (VP (VBP have) (VP (VBN been) (VP (VBN attached) (PP (IN by) (NP (JJ Israeli) (NN helicopter) (NNS gunships)))))) (. .)))
+AnaDTOPER0IsraeliisraeliJJOPER0militarymilitaryNNOPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0theytheyPRPOPER0werebeVBDOPER0deployeddeployVBNOPER0ininINOPER0responseresponseNNOPER0totoINOPER0gungunNNOPER0firefireNNOPER0fromfromINOPER0PalestiniansPalestiniansNNPSOPER0insideinsideINOPER0BagellaBagellaNNPGPEPER0,,,OPER0whichwhichWDTOPER0wasbeVBDOPER0aimedaimVBNOPER0atatINOPER0thetheDTOPER0JewishjewishJJOPER0settlementsettlementNNOPER0ofofINOPER0KiloKiloNNPORGPER0...OPER0(ROOT (S (NP (DT An) (JJ Israeli) (NN military) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBN deployed) (PP (IN in) (NP (NP (NN response)) (PP (IN to) (NP (NN gun) (NN fire))))) (PP (PP (IN from) (NP (NNPS Palestinians))) (PP (IN inside) (NP (NP (NNP Bagella)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN aimed) (PP (IN at) (NP (NP (DT the) (JJ Jewish) (NN settlement)) (PP (IN of) (NP (NNP Kilo))))))))))))))))) (. .)))
+ThetheDTOPER0IsraelisIsraelisNNPSOPER0saysayVBPOPER0thetheDTOPER0helicoptershelicopterNNSOPER0wentgoVBDOPER0intointoINOPER0actionactionNNOPER0firingfireVBGOPER0machinemachineNNOPER0gunsgunNNSOPER0,,,OPER0butbutCCOPER0unconfirmedunconfirmedJJOPER0reportsreportNNSOPER0fromfromINOPER0insideinsideINOPER0BagellaBagellaNNPORGPER0suggestedsuggestVBDOPER0rocketsrocketNNSOPER0maymayMDOPER0havehaveVBOPER0beenbeVBNOPER0useduseVBNOPER0...OPER0(ROOT (S (S (NP (DT The) (NNPS Israelis)) (VP (VBP say) (SBAR (S (NP (DT the) (NNS helicopters)) (VP (VBD went) (PP (IN into) (NP (NN action))) (S (VP (VBG firing) (NP (NN machine) (NNS guns))))))))) (, ,) (CC but) (S (NP (NP (JJ unconfirmed) (NNS reports)) (PP (IN from) (PP (IN inside) (NP (NNP Bagella))))) (VP (VBD suggested) (SBAR (S (NP (NNS rockets)) (VP (MD may) (VP (VB have) (VP (VBN been) (VP (VBN used))))))))) (. .)))
+GregGregNNPPERSONPER0BarrowBarrowNNPPERSONPER0,,,OPER0BBCBBCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Greg) (NNP Barrow)) (, ,) (NP (NNP BBC) (NNP News)) (, ,) (NP (NNP Jerusalem)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 5 headed by 2 parsed as (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))
+sid=1 spanning 8 until 9 headed by 8 parsed as continued
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=2 spanning 3 until 13 headed by 4 parsed as (NP (NP (DT another) (NN day)) (PP (IN of) (NP (NP (NN violence)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD four) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed))))))))
+sid=3 spanning 5 until 11 headed by 8 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN village)) (PP (IN of) (NP (NNP Bagella))))
+sid=3 spanning 6 until 8 headed by 7 parsed as Bank
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (NNP Greg) (NNP Barrow))
+sid=5 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT A) (NN day)) (PP (IN of) (NP (NP (NN violence)) (PP (IN across) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=6 spanning 2 until 8 headed by 5 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN village)) (PP (IN of) (NP (NNP Bagella))))
+sid=6 spanning 3 until 5 headed by 4 parsed as Bank
+sid=6 spanning 12 until 15 headed by 14 parsed as (NP (JJ Israeli) (NN helicopter) (NNS gunships))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=7 spanning 16 until 17 headed by 16 parsed as (NP (NP (NNP Bagella)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN aimed) (PP (IN at) (NP (NP (DT the) (JJ Jewish) (NN settlement)) (PP (IN of) (NP (NNP Kilo))))))))))
+sid=8 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS helicopters))
+sid=8 spanning 17 until 18 headed by 17 parsed as (NP (NNP Bagella))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (NNP Greg) (NNP Barrow))
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (NNP BBC) (NNP News))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 5 headed by 2 parsed as (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP London))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP I))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NP (NNP James) (NNP Cawling)) (, ,) (PP (IN for) (NP (DT The) (NNP World))))
+sid=0 spanning 8 until 14 headed by 9 parsed as (NP (NP (NNP James) (NNP Cawling)) (, ,) (PP (IN for) (NP (DT The) (NNP World))))
+sid=0 spanning 12 until 14 headed by 13 parsed as (NP (DT The) (NNP World))
+sid=1 spanning 0 until 7 headed by 0 parsed as (NP (NP (NNS Clashes)) (PP (IN between) (NP (NP (NML (JJ Israeli) (NNP Army)) (NNS units)) (CC and) (NP (NNPS Palestinians)))))
+sid=1 spanning 2 until 7 headed by 4 parsed as (NP (NP (NML (JJ Israeli) (NNP Army)) (NNS units)) (CC and) (NP (NNPS Palestinians)))
+sid=1 spanning 2 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Army)) (NNS units))
+sid=1 spanning 3 until 4 headed by 3 parsed as Army
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN night))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=2 spanning 3 until 13 headed by 4 parsed as (NP (NP (DT another) (NN day)) (PP (IN of) (NP (NP (NN violence)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD four) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed))))))))
+sid=2 spanning 6 until 13 headed by 6 parsed as (NP (NP (NN violence)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD four) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed))))))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (CD four) (NNPS Palestinians))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NN Helicopter) (NNS gunships))
+sid=3 spanning 5 until 11 headed by 8 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN village)) (PP (IN of) (NP (NNP Bagella))))
+sid=3 spanning 6 until 8 headed by 7 parsed as Bank
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (NNP Bagella))
+sid=4 spanning 0 until 7 headed by 0 parsed as (NP (NP (NP (NNS Exchanges)) (PP (IN of) (NP (NN fire)))) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))
+sid=4 spanning 4 until 7 headed by 4 parsed as (NP (NNPS Israelis) (CC and) (NNPS Palestinians))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NNP Jericho))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (NNP Greg) (NNP Barrow))
+sid=5 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT A) (NN day)) (PP (IN of) (NP (NP (NN violence)) (PP (IN across) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))))
+sid=5 spanning 3 until 10 headed by 3 parsed as (NP (NP (NN violence)) (PP (IN across) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=5 spanning 5 until 10 headed by 7 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=5 spanning 9 until 10 headed by 9 parsed as (NP (NNP Gaza))
+sid=5 spanning 14 until 18 headed by 15 parsed as (NP (NP (JJR more) (NNS clashes)) (PP (IN after) (NP (NN nightfall))))
+sid=6 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNS Houses)) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN village)) (PP (IN of) (NP (NNP Bagella))))))
+sid=6 spanning 2 until 8 headed by 5 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN village)) (PP (IN of) (NP (NNP Bagella))))
+sid=6 spanning 3 until 5 headed by 4 parsed as Bank
+sid=6 spanning 7 until 8 headed by 7 parsed as (NP (NNP Bagella))
+sid=6 spanning 12 until 15 headed by 14 parsed as (NP (JJ Israeli) (NN helicopter) (NNS gunships))
+sid=7 spanning 0 until 4 headed by 3 parsed as (NP (DT An) (JJ Israeli) (NN military) (NN spokesman))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=7 spanning 9 until 13 headed by 9 parsed as (NP (NP (NN response)) (PP (IN to) (NP (NN gun) (NN fire))))
+sid=7 spanning 11 until 13 headed by 12 parsed as (NP (NN gun) (NN fire))
+sid=7 spanning 16 until 17 headed by 16 parsed as (NP (NP (NNP Bagella)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN aimed) (PP (IN at) (NP (NP (DT the) (JJ Jewish) (NN settlement)) (PP (IN of) (NP (NNP Kilo))))))))))
+sid=7 spanning 16 until 27 headed by 16 parsed as (NP (NP (NNP Bagella)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN aimed) (PP (IN at) (NP (NP (DT the) (JJ Jewish) (NN settlement)) (PP (IN of) (NP (NNP Kilo))))))))))
+sid=7 spanning 22 until 27 headed by 24 parsed as (NP (NP (DT the) (JJ Jewish) (NN settlement)) (PP (IN of) (NP (NNP Kilo))))
+sid=7 spanning 26 until 27 headed by 26 parsed as (NP (NNP Kilo))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Israelis))
+sid=8 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS helicopters))
+sid=8 spanning 9 until 11 headed by 10 parsed as (NP (NN machine) (NNS guns))
+sid=8 spanning 13 until 18 headed by 14 parsed as (NP (NP (JJ unconfirmed) (NNS reports)) (PP (IN from) (PP (IN inside) (NP (NNP Bagella)))))
+sid=8 spanning 17 until 18 headed by 17 parsed as (NP (NNP Bagella))
+sid=8 spanning 19 until 20 headed by 19 parsed as (NP (NNS rockets))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (NNP Greg) (NNP Barrow))
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (NNP BBC) (NNP News))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+1 2 | { 'continued' 'That' }
+15 9 13 4 | { 'Bagella' 'the West Bank village of Bagella' 'Bagella' 'the West Bank village of Bagella' }
+0 17 | { 'BBC News in London' 'BBC News' }
+14 12 11 | { 'the helicopters' 'they' 'Israeli helicopter gunships' }
+7 3 | { 'A day of violence across the West Bank and Gaza' 'another day of violence in which four Palestinians were killed' }
+16 6 | { 'Greg Barrow' 'Greg Barrow' }
+8 10 5 | { 'the West Bank' 'West Bank' 'West Bank' }
+(end gold clusters)

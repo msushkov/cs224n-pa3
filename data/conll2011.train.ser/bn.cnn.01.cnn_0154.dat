@@ -1,0 +1,74 @@
+---------gloss--------
+(0) The EPA has announced [1m[36m{new rules to cut truck and bus pollution}[0m . 
+(1) [1m[36m{They}[0m will apply to new trucks and replacement engines sold beginning in late 2006 . 
+(2) [1m[36m{The rules}[0m will toughen emission standards and will require diesel fuel to be made with almost no sulfur . 
+(3) Anybody who has ever driven behind a large truck or bus knows all too well the foul smell , the grimey residue of diesel exhaust . 
+(4) [1m[35m{The cloud that follows}[0m is not only dirty , smoky , cough inducing , [1m[35m{it}[0m is a real threat to our health and environment . 
+(5) Premature deaths including cancers , respiratory illness , acid rain , asthma attacks , especially in our children . 
+(6) The goal is to [3m[31m{cut}[0m dirty air from trucks and buses by 90 % over the next decade . 
+(7) Experts say a reduction like [3m[31m{that}[0m would be equal to taking 13 million trucks off the road . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0154); part 000
+sentences:
+ThetheDTOPER0EPAEPANNPORGPER0hashaveVBZOPER0announcedannounceVBNOPER0newnewJJOPER0rulesruleNNSOPER0totoTOOPER0cutcutVBOPER0trucktruckNNOPER0andandCCOPER0busbusNNOPER0pollutionpollutionNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP EPA)) (VP (VBZ has) (VP (VBN announced) (NP (NP (JJ new) (NNS rules)) (SBAR (S (VP (TO to) (VP (VB cut) (NP (NML (NN truck) (CC and) (NN bus)) (NN pollution))))))))) (. .)))
+TheytheyPRPOPER0willwillMDOPER0applyapplyVBOPER0totoINOPER0newnewJJOPER0truckstruckNNSOPER0andandCCOPER0replacementreplacementNNOPER0enginesengineNNSOPER0soldsellVBNOPER0beginningbeginVBGOPER0ininINOPER0latelateJJDATEPER020062006CDDATEPER0...OPER0(ROOT (S (NP (PRP They)) (VP (MD will) (VP (VB apply) (PP (IN to) (NP (NP (JJ new) (NNS trucks)) (CC and) (NP (NP (NN replacement) (NNS engines)) (VP (VBN sold) (PP (VBG beginning) (PP (IN in) (NP (JJ late) (CD 2006)))))))))) (. .)))
+ThetheDTOPER0rulesruleNNSOPER0willwillMDOPER0toughentoughenVBOPER0emissionemissionNNOPER0standardsstandardNNSOPER0andandCCOPER0willwillMDOPER0requirerequireVBOPER0dieseldieselNNOPER0fuelfuelNNOPER0totoTOOPER0bebeVBOPER0mademakeVBNOPER0withwithINOPER0almostalmostRBOPER0nonoDTOPER0sulfursulfurNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS rules)) (VP (VP (MD will) (VP (VB toughen) (NP (NN emission) (NNS standards)))) (CC and) (VP (MD will) (VP (VB require) (NP (NN diesel) (NN fuel)) (S (VP (TO to) (VP (VB be) (VP (VBN made) (PP (IN with) (NP (QP (RB almost) (DT no)) (NN sulfur)))))))))) (. .)))
+AnybodyanybodyNNOPER0whowhoWPOPER0hashaveVBZOPER0evereverRBOPER0drivendriveVBNOPER0behindbehindINOPER0aaDTOPER0largelargeJJOPER0trucktruckNNOPER0ororCCOPER0busbusNNOPER0knowsknowVBZOPER0allallDTOPER0tootooRBOPER0wellwellRBOPER0thetheDTOPER0foulfoulJJOPER0smellsmellNNOPER0,,,OPER0thetheDTOPER0grimeygrimeyJJOPER0residueresidueNNOPER0ofofINOPER0dieseldieselNNOPER0exhaustexhaustJJOPER0...OPER0(ROOT (S (NP (NP (NN Anybody)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (ADVP (RB ever)) (VP (VBN driven) (PP (IN behind) (NP (DT a) (JJ large) (NN truck) (CC or) (NN bus)))))))) (VP (VBZ knows) (DT all) (ADVP (RB too) (RB well)) (NP (DT the) (JJ foul) (NN smell)) (, ,) (S (NP (NP (DT the) (JJ grimey) (NN residue)) (PP (IN of) (NP (NN diesel)))) (ADJP (JJ exhaust)))) (. .)))
+ThetheDTOPER0cloudcloudNNOPER0thatthatWDTOPER0followsfollowVBZOPER0isbeVBZOPER0notnotRBOPER0onlyonlyRBOPER0dirtydirtyJJOPER0,,,OPER0smokysmokyJJOPER0,,,OPER0coughcoughNNOPER0inducinginduceVBGOPER0,,,OPER0ititPRPOPER0isbeVBZOPER0aaDTOPER0realrealJJOPER0threatthreatNNOPER0totoINOPER0ourwePRP$OPER0healthhealthNNOPER0andandCCOPER0environmentenvironmentNNOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (NN cloud)) (SBAR (WHNP (WDT that)) (S (VP (VBZ follows))))) (VP (VBZ is) (RB not) (ADJP (ADJP (RB only) (JJ dirty)) (, ,) (ADJP (JJ smoky)) (, ,) (ADJP (NN cough) (VBG inducing))))) (, ,) (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT a) (JJ real) (NN threat)) (PP (IN to) (NP (NP (PRP$ our) (NN health)) (CC and) (NP (NN environment))))))) (. .)))
+PrematureprematureJJOPER0deathsdeathNNSOPER0includingincludeVBGOPER0cancerscancerNNSOPER0,,,OPER0respiratoryrespiratoryJJOPER0illnessillnessNNOPER0,,,OPER0acidacidJJOPER0rainrainNNOPER0,,,OPER0asthmaasthmaNNOPER0attacksattackNNSOPER0,,,OPER0especiallyespeciallyRBOPER0ininINOPER0ourwePRP$OPER0childrenchildNNSOPER0...OPER0(ROOT (FRAG (NP (NP (JJ Premature) (NNS deaths)) (PP (VBG including) (NP (NNS cancers)))) (, ,) (NP (JJ respiratory) (NN illness)) (, ,) (NP (JJ acid) (NN rain)) (, ,) (NP (NN asthma) (NNS attacks)) (, ,) (PP (ADVP (RB especially)) (IN in) (NP (PRP$ our) (NNS children))) (. .)))
+ThetheDTOPER0goalgoalNNOPER0isbeVBZOPER0totoTOOPER0cutcutVBOPER0dirtydirtyJJOPER0airairNNOPER0fromfromINOPER0truckstruckNNSOPER0andandCCOPER0busesbusNNSOPER0bybyINOPER09090CDPERCENTPER0%%NNPERCENTPER0overoverINOPER0thetheDTDATEPER0nextnextJJDATEPER0decadedecadeNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB cut) (NP (NP (JJ dirty) (NN air)) (PP (IN from) (NP (NNS trucks) (CC and) (NNS buses)))) (PP (IN by) (NP (NP (CD 90) (NN %)) (PP (IN over) (NP (DT the) (JJ next) (NN decade))))))))) (. .)))
+ExpertsexpertNNSOPER0saysayVBPOPER0aaDTOPER0reductionreductionNNOPER0likelikeINOPER0thatthatDTOPER0wouldwouldMDOPER0bebeVBOPER0equalequalJJOPER0totoINOPER0takingtakeVBGOPER01313CDCARDINALPER0millionmillionCDCARDINALPER0truckstruckNNSOPER0offoffINOPER0thetheDTOPER0roadroadNNOPER0...OPER0(ROOT (S (NP (NNS Experts)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (NN reduction)) (PP (IN like) (NP (DT that)))) (VP (MD would) (VP (VB be) (ADJP (JJ equal) (PP (IN to) (S (VP (VBG taking) (NP (QP (CD 13) (CD million)) (NNS trucks)) (PP (IN off) (NP (DT the) (NN road)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 12 headed by 5 parsed as (NP (NP (JJ new) (NNS rules)) (SBAR (S (VP (TO to) (VP (VB cut) (NP (NML (NN truck) (CC and) (NN bus)) (NN pollution)))))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS rules))
+sid=4 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN cloud)) (SBAR (WHNP (WDT that)) (S (VP (VBZ follows)))))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=6 spanning 4 until 5 headed by 4 parsed as cut
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (DT that))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP EPA))
+sid=0 spanning 4 until 12 headed by 5 parsed as (NP (NP (JJ new) (NNS rules)) (SBAR (S (VP (TO to) (VP (VB cut) (NP (NML (NN truck) (CC and) (NN bus)) (NN pollution)))))))
+sid=0 spanning 8 until 12 headed by 11 parsed as (NP (NML (NN truck) (CC and) (NN bus)) (NN pollution))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=1 spanning 4 until 14 headed by 5 parsed as (NP (NP (JJ new) (NNS trucks)) (CC and) (NP (NP (NN replacement) (NNS engines)) (VP (VBN sold) (PP (VBG beginning) (PP (IN in) (NP (JJ late) (CD 2006)))))))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (JJ new) (NNS trucks))
+sid=1 spanning 7 until 14 headed by 8 parsed as (NP (NP (NN replacement) (NNS engines)) (VP (VBN sold) (PP (VBG beginning) (PP (IN in) (NP (JJ late) (CD 2006))))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (JJ late) (CD 2006))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS rules))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (NN emission) (NNS standards))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NN diesel) (NN fuel))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (QP (RB almost) (DT no)) (NN sulfur))
+sid=3 spanning 0 until 11 headed by 0 parsed as (NP (NP (NN Anybody)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (ADVP (RB ever)) (VP (VBN driven) (PP (IN behind) (NP (DT a) (JJ large) (NN truck) (CC or) (NN bus))))))))
+sid=3 spanning 6 until 11 headed by 8 parsed as (NP (DT a) (JJ large) (NN truck) (CC or) (NN bus))
+sid=3 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (JJ foul) (NN smell))
+sid=3 spanning 19 until 24 headed by 21 parsed as (NP (NP (DT the) (JJ grimey) (NN residue)) (PP (IN of) (NP (NN diesel))))
+sid=4 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN cloud)) (SBAR (WHNP (WDT that)) (S (VP (VBZ follows)))))
+sid=4 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=4 spanning 16 until 24 headed by 18 parsed as (NP (NP (DT a) (JJ real) (NN threat)) (PP (IN to) (NP (NP (PRP$ our) (NN health)) (CC and) (NP (NN environment)))))
+sid=4 spanning 20 until 24 headed by 21 parsed as (NP (NP (PRP$ our) (NN health)) (CC and) (NP (NN environment)))
+sid=4 spanning 20 until 22 headed by 21 parsed as (NP (PRP$ our) (NN health))
+sid=4 spanning 20 until 21 headed by 20 parsed as (PRP$ our)
+sid=5 spanning 0 until 4 headed by 1 parsed as (NP (NP (JJ Premature) (NNS deaths)) (PP (VBG including) (NP (NNS cancers))))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NNS cancers))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (NN asthma) (NNS attacks))
+sid=5 spanning 16 until 18 headed by 17 parsed as (NP (PRP$ our) (NNS children))
+sid=5 spanning 16 until 17 headed by 16 parsed as (PRP$ our)
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN goal))
+sid=6 spanning 8 until 11 headed by 8 parsed as (NP (NNS trucks) (CC and) (NNS buses))
+sid=6 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (JJ next) (NN decade))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNS Experts))
+sid=7 spanning 2 until 6 headed by 3 parsed as (NP (NP (DT a) (NN reduction)) (PP (IN like) (NP (DT that))))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (DT that))
+sid=7 spanning 11 until 14 headed by 13 parsed as (NP (QP (CD 13) (CD million)) (NNS trucks))
+sid=7 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN road))
+(end predicted mentions)
+---------gold clusters--------
+3 4 | { 'The cloud that follows' 'it' }
+1 0 2 | { 'They' 'new rules to cut truck and bus pollution' 'The rules' }
+5 6 | { 'cut' 'that' }
+(end gold clusters)

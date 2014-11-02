@@ -1,0 +1,99 @@
+---------gloss--------
+(0) [3m[32m{Housing and Urban Development Secretary Jack Kemp}[0m called on [3m[34m{the Federal Reserve System}[0m to lower interest rates . 
+(1) In a speech to the Mortgage Bankers Association , [3m[32m{Mr. Kemp}[0m broke the administration 's public silence on [3m[34m{the Fed}[0m and complained that `` interest rates are too high . '' 
+(2) `` [3m[32m{I}[0m am convinced that [3m[33m{a monetary policy for this country that would return interest rates to the historical level of 4 % or 5 %}[0m would have not only an immediate impact on housing starts , the housing stock , our industry in [4m[31m{America}[0m , the refurbishing of our industrial system , [3m[33m{it}[0m would help the Third World economies considerably and [3m[33m{it}[0m would particularly have a favorable impact upon our budget deficit , '' [3m[32m{Mr. Kemp}[0m said . 
+(3) [3m[34m{The Fed}[0m recently eased credit by lowering the bellwether federal funds interest rate to 8 3/4 % from about 9 % . 
+(4) [3m[35m{Bush administration officials}[0m say inflation is under control . 
+(5) With economic growth slowing , [3m[35m{they}[0m say [3m[35m{they}[0m [3m[36m{believe}[0m [3m[34m{the Fed}[0m should ease credit even further . 
+(6) But for the most part , officials have avoided expressing [3m[36m{those views}[0m in public , fearing [3m[36m{they}[0m would unnecessarily antagonize [3m[34m{the Fed}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1279); part 000
+sentences:
+HousingHousingNNPORGPER0andandCCORGPER0UrbanUrbanNNPORGPER0DevelopmentDevelopmentNNPORGPER0SecretarySecretaryNNPOPER0JackJackNNPPERSONPER0KempKempNNPPERSONPER0calledcallVBDOPER0ononINOPER0thetheDTORGPER0FederalFederalNNPORGPER0ReserveReserveNNPORGPER0SystemSystemNNPORGPER0totoTOOPER0lowerlowerVBOPER0interestinterestNNOPER0ratesrateNNSOPER0...OPER0(ROOT (S (NP (NML (NML (NML (NNP Housing)) (CC and) (NML (NNP Urban) (NNP Development))) (NNP Secretary)) (NNP Jack) (NNP Kemp)) (VP (VBD called) (PP (IN on) (NP (DT the) (NNP Federal) (NNP Reserve) (NNP System))) (S (VP (TO to) (VP (VB lower) (NP (NN interest) (NNS rates)))))) (. .)))
+IninINOPER0aaDTOPER0speechspeechNNOPER0totoINOPER0thetheDTORGPER0MortgageMortgageNNPORGPER0BankersBankersNNPORGPER0AssociationAssociationNNPORGPER0,,,OPER0Mr.Mr.NNPOPER0KempKempNNPPERSONPER0brokebreakVBDOPER0thetheDTOPER0administrationadministrationNNOPER0's'sPOSOPER0publicpublicJJOPER0silencesilenceNNOPER0ononINOPER0thetheDTOPER0FedFedNNPORGPER0andandCCOPER0complainedcomplainVBDOPER0thatthatINOPER0``````OinterestinterestNNOPER1ratesrateNNSOPER1arebeVBPOPER1tootooRBOPER1highhighJJOPER1...OPER1''''''OPER0(ROOT (S (PP (IN In) (NP (NP (DT a) (NN speech)) (PP (IN to) (NP (DT the) (NNP Mortgage) (NNP Bankers) (NNP Association))))) (, ,) (NP (NNP Mr.) (NNP Kemp)) (VP (VP (VBD broke) (NP (NP (NP (DT the) (NN administration) (POS 's)) (JJ public) (NN silence)) (PP (IN on) (NP (DT the) (NNP Fed))))) (CC and) (VP (VBD complained) (SBAR (IN that) (`` ``) (S (NP (NN interest) (NNS rates)) (VP (VBP are) (ADJP (RB too) (JJ high))))))) (. .) ('' '')))
+``````OIIPRPOPER2ambeVBPOPER2convincedconvinceVBNOPER2thatthatINOPER2aaDTOPER2monetarymonetaryJJOPER2policypolicyNNOPER2forforINOPER2thisthisDTOPER2countrycountryNNOPER2thatthatWDTOPER2wouldwouldMDOPER2returnreturnVBOPER2interestinterestNNOPER2ratesrateNNSOPER2totoINOPER2thetheDTOPER2historicalhistoricalJJOPER2levellevelNNOPER2ofofINOPER244CDPERCENTPER2%%NNPERCENTPER2ororCCPERCENTPER255CDPERCENTPER2%%NNPERCENTPER2wouldwouldMDOPER2havehaveVBOPER2notnotRBOPER2onlyonlyRBOPER2anaDTOPER2immediateimmediateJJOPER2impactimpactNNOPER2ononINOPER2housinghousingNNOPER2startsstartNNSOPER2,,,OPER2thetheDTOPER2housinghousingNNOPER2stockstockNNOPER2,,,OPER2ourwePRP$OPER2industryindustryNNOPER2ininINOPER2AmericaAmericaNNPGPEPER2,,,OPER2thetheDTOPER2refurbishingrefurbishingNNOPER2ofofINOPER2ourwePRP$OPER2industrialindustrialJJOPER2systemsystemNNOPER2,,,OPER2ititPRPOPER2wouldwouldMDOPER2helphelpVBOPER2thetheDTOPER2ThirdThirdNNPOPER2WorldWorldNNPOPER2economieseconomyNNSOPER2considerablyconsiderablyRBOPER2andandCCOPER2ititPRPOPER2wouldwouldMDOPER2particularlyparticularlyRBOPER2havehaveVBOPER2aaDTOPER2favorablefavorableJJOPER2impactimpactNNOPER2uponuponINOPER2ourwePRP$OPER2budgetbudgetNNOPER2deficitdeficitNNOPER2,,,OPER2''''''OPER0Mr.Mr.NNPOPER0KempKempNNPPERSONPER0saidsayVBDOPER0...OPER0(ROOT (S (`` ``) (S (NP (PRP I)) (VP (VBP am) (VP (VBN convinced) (SBAR (IN that) (S (S (NP (NP (DT a) (JJ monetary) (NN policy)) (PP (IN for) (NP (NP (DT this) (NN country)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB return) (NP (NN interest) (NNS rates)) (PP (IN to) (NP (NP (DT the) (JJ historical) (NN level)) (PP (IN of) (NP (QP (CD 4) (NN %) (CC or) (CD 5)) (NN %)))))))))))) (VP (MD would) (VP (VB have) (NP (CONJP (RB not) (RB only)) (NP (NP (NP (DT an) (JJ immediate) (NN impact)) (PP (IN on) (NP (NN housing) (NNS starts)))) (, ,) (NP (DT the) (NN housing) (NN stock)) (, ,) (NP (NP (PRP$ our) (NN industry)) (PP (IN in) (NP (NNP America))))) (, ,) (NP (NP (DT the) (NN refurbishing)) (PP (IN of) (NP (PRP$ our) (JJ industrial) (NN system)))))))) (, ,) (S (NP (PRP it)) (VP (MD would) (VP (VB help) (NP (DT the) (NML (NNP Third) (NNP World)) (NNS economies)) (ADVP (RB considerably))))) (CC and) (S (NP (PRP it)) (VP (MD would) (ADVP (RB particularly)) (VP (VB have) (NP (NP (DT a) (JJ favorable) (NN impact)) (PP (IN upon) (NP (PRP$ our) (NN budget) (NN deficit)))))))))))) (, ,) ('' '') (NP (NNP Mr.) (NNP Kemp)) (VP (VBD said)) (. .)))
+ThetheDTOPER0FedFedNNPORGPER0recentlyrecentlyRBOPER0easedeaseVBDOPER0creditcreditNNOPER0bybyINOPER0loweringlowerVBGOPER0thetheDTOPER0bellwetherbellwetherJJOPER0federalfederalJJOPER0fundsfundNNSOPER0interestinterestNNOPER0raterateNNOPER0totoINOPER088CDPERCENTPER03/43/4CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aboutaboutINPERCENTPER099CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (DT The) (NNP Fed)) (ADVP (RB recently)) (VP (VBD eased) (NP (NN credit)) (PP (IN by) (S (VP (VBG lowering) (NP (DT the) (JJ bellwether) (NML (JJ federal) (NNS funds)) (NN interest) (NN rate)) (PP (IN to) (NP (NP (QP (CD 8) (CD 3/4)) (NN %)) (PP (IN from) (NP (QP (IN about) (CD 9)) (NN %))))))))) (. .)))
+BushBushNNPPERSONPER0administrationadministrationNNOPER0officialsofficialNNSOPER0saysayVBPOPER0inflationinflationNNOPER0isbeVBZOPER0underunderINOPER0controlcontrolNNOPER0...OPER0(ROOT (S (NP (NML (NNP Bush) (NN administration)) (NNS officials)) (VP (VBP say) (SBAR (S (NP (NN inflation)) (VP (VBZ is) (PP (IN under) (NP (NN control))))))) (. .)))
+WithwithINOPER0economiceconomicJJOPER0growthgrowthNNOPER0slowingslowVBGOPER0,,,OPER0theytheyPRPOPER0saysayVBPOPER0theytheyPRPOPER0believebelieveVBPOPER0thetheDTOPER0FedFedNNPORGPER0shouldshouldMDOPER0easeeaseVBOPER0creditcreditNNOPER0evenevenRBOPER0furtherfurtherRBOPER0...OPER0(ROOT (S (PP (IN With) (NP (JJ economic) (NN growth) (VBG slowing))) (, ,) (NP (PRP they)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP believe) (SBAR (S (NP (DT the) (NNP Fed)) (VP (MD should) (VP (VB ease) (NP (NN credit)) (ADVP (RB even) (RB further)))))))))) (. .)))
+ButbutCCOPER0forforINOPER0thetheDTOPER0mostmostJJSOPER0partpartNNOPER0,,,OPER0officialsofficialNNSOPER0havehaveVBPOPER0avoidedavoidVBNOPER0expressingexpressVBGOPER0thosethoseDTOPER0viewsviewNNSOPER0ininINOPER0publicpublicNNOPER0,,,OPER0fearingfearVBGOPER0theytheyPRPOPER0wouldwouldMDOPER0unnecessarilyunnecessarilyRBOPER0antagonizeantagonizeVBOPER0thetheDTOPER0FedFedNNPORGPER0...OPER0(ROOT (S (CC But) (PP (IN for) (NP (DT the) (JJS most) (NN part))) (, ,) (NP (NNS officials)) (VP (VBP have) (VP (VBN avoided) (VP (VBG expressing) (NP (DT those) (NNS views)) (PP (IN in) (NP (NN public))) (, ,) (S (VP (VBG fearing) (SBAR (S (NP (PRP they)) (VP (MD would) (RB unnecessarily) (VP (VB antagonize) (NP (DT the) (NNP Fed))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 6 parsed as (NP (NML (NML (NML (NNP Housing)) (CC and) (NML (NNP Urban) (NNP Development))) (NNP Secretary)) (NNP Jack) (NNP Kemp))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (NNP Federal) (NNP Reserve) (NNP System))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Mr.) (NNP Kemp))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NNP Fed))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=2 spanning 5 until 26 headed by 7 parsed as (NP (NP (DT a) (JJ monetary) (NN policy)) (PP (IN for) (NP (NP (DT this) (NN country)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB return) (NP (NN interest) (NNS rates)) (PP (IN to) (NP (NP (DT the) (JJ historical) (NN level)) (PP (IN of) (NP (QP (CD 4) (NN %) (CC or) (CD 5)) (NN %))))))))))))
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (NP (DT this) (NN country)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB return) (NP (NN interest) (NNS rates)) (PP (IN to) (NP (NP (DT the) (JJ historical) (NN level)) (PP (IN of) (NP (QP (CD 4) (NN %) (CC or) (CD 5)) (NN %))))))))))
+sid=2 spanning 44 until 45 headed by 44 parsed as (NP (NNP America))
+sid=2 spanning 53 until 54 headed by 53 parsed as (NP (PRP it))
+sid=2 spanning 62 until 63 headed by 62 parsed as (NP (PRP it))
+sid=2 spanning 75 until 77 headed by 76 parsed as (NP (NNP Mr.) (NNP Kemp))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Fed))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP Bush) (NN administration)) (NNS officials))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=5 spanning 8 until 9 headed by 8 parsed as believe
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNP Fed))
+sid=6 spanning 10 until 12 headed by 11 parsed as (NP (DT those) (NNS views))
+sid=6 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=6 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNP Fed))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 6 parsed as (NP (NML (NML (NML (NNP Housing)) (CC and) (NML (NNP Urban) (NNP Development))) (NNP Secretary)) (NNP Jack) (NNP Kemp))
+sid=0 spanning 0 until 4 headed by 0 parsed as Housing
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (DT the) (NNP Federal) (NNP Reserve) (NNP System))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (NN interest) (NNS rates))
+sid=1 spanning 1 until 8 headed by 2 parsed as (NP (NP (DT a) (NN speech)) (PP (IN to) (NP (DT the) (NNP Mortgage) (NNP Bankers) (NNP Association))))
+sid=1 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (NNP Mortgage) (NNP Bankers) (NNP Association))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP Mr.) (NNP Kemp))
+sid=1 spanning 12 until 20 headed by 16 parsed as (NP (NP (NP (DT the) (NN administration) (POS 's)) (JJ public) (NN silence)) (PP (IN on) (NP (DT the) (NNP Fed))))
+sid=1 spanning 12 until 15 headed by 13 parsed as (NP (DT the) (NN administration) (POS 's))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (DT the) (NNP Fed))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NNP Fed))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (NN interest) (NNS rates))
+sid=2 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=2 spanning 5 until 26 headed by 7 parsed as (NP (NP (DT a) (JJ monetary) (NN policy)) (PP (IN for) (NP (NP (DT this) (NN country)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB return) (NP (NN interest) (NNS rates)) (PP (IN to) (NP (NP (DT the) (JJ historical) (NN level)) (PP (IN of) (NP (QP (CD 4) (NN %) (CC or) (CD 5)) (NN %))))))))))))
+sid=2 spanning 9 until 26 headed by 10 parsed as (NP (NP (DT this) (NN country)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB return) (NP (NN interest) (NNS rates)) (PP (IN to) (NP (NP (DT the) (JJ historical) (NN level)) (PP (IN of) (NP (QP (CD 4) (NN %) (CC or) (CD 5)) (NN %))))))))))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (NN interest) (NNS rates))
+sid=2 spanning 17 until 26 headed by 19 parsed as (NP (NP (DT the) (JJ historical) (NN level)) (PP (IN of) (NP (QP (CD 4) (NN %) (CC or) (CD 5)) (NN %))))
+sid=2 spanning 30 until 45 headed by 32 parsed as (NP (NP (NP (DT an) (JJ immediate) (NN impact)) (PP (IN on) (NP (NN housing) (NNS starts)))) (, ,) (NP (DT the) (NN housing) (NN stock)) (, ,) (NP (NP (PRP$ our) (NN industry)) (PP (IN in) (NP (NNP America)))))
+sid=2 spanning 30 until 36 headed by 32 parsed as (NP (NP (DT an) (JJ immediate) (NN impact)) (PP (IN on) (NP (NN housing) (NNS starts))))
+sid=2 spanning 34 until 36 headed by 35 parsed as (NP (NN housing) (NNS starts))
+sid=2 spanning 37 until 40 headed by 39 parsed as (NP (DT the) (NN housing) (NN stock))
+sid=2 spanning 41 until 45 headed by 42 parsed as (NP (NP (PRP$ our) (NN industry)) (PP (IN in) (NP (NNP America))))
+sid=2 spanning 41 until 42 headed by 41 parsed as (PRP$ our)
+sid=2 spanning 44 until 45 headed by 44 parsed as (NP (NNP America))
+sid=2 spanning 46 until 52 headed by 47 parsed as (NP (NP (DT the) (NN refurbishing)) (PP (IN of) (NP (PRP$ our) (JJ industrial) (NN system))))
+sid=2 spanning 49 until 52 headed by 51 parsed as (NP (PRP$ our) (JJ industrial) (NN system))
+sid=2 spanning 49 until 50 headed by 49 parsed as (PRP$ our)
+sid=2 spanning 53 until 54 headed by 53 parsed as (NP (PRP it))
+sid=2 spanning 56 until 60 headed by 59 parsed as (NP (DT the) (NML (NNP Third) (NNP World)) (NNS economies))
+sid=2 spanning 62 until 63 headed by 62 parsed as (NP (PRP it))
+sid=2 spanning 66 until 73 headed by 68 parsed as (NP (NP (DT a) (JJ favorable) (NN impact)) (PP (IN upon) (NP (PRP$ our) (NN budget) (NN deficit))))
+sid=2 spanning 70 until 73 headed by 72 parsed as (NP (PRP$ our) (NN budget) (NN deficit))
+sid=2 spanning 70 until 71 headed by 70 parsed as (PRP$ our)
+sid=2 spanning 75 until 77 headed by 76 parsed as (NP (NNP Mr.) (NNP Kemp))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Fed))
+sid=3 spanning 7 until 13 headed by 12 parsed as (NP (DT the) (JJ bellwether) (NML (JJ federal) (NNS funds)) (NN interest) (NN rate))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP Bush) (NN administration)) (NNS officials))
+sid=4 spanning 0 until 1 headed by 0 parsed as Bush
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNP Fed))
+sid=6 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJS most) (NN part))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (NNS officials))
+sid=6 spanning 10 until 12 headed by 11 parsed as (NP (DT those) (NNS views))
+sid=6 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=6 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNP Fed))
+(end predicted mentions)
+---------gold clusters--------
+4 2 10 0 | { 'I' 'Mr. Kemp' 'Mr. Kemp' 'Housing and Urban Development Secretary Jack Kemp' }
+5 9 8 | { 'a monetary policy for this country that would return interest rates to the historical level of 4 % or 5 %' 'it' 'it' }
+1 16 3 11 19 | { 'the Federal Reserve System' 'the Fed' 'the Fed' 'The Fed' 'the Fed' }
+13 14 12 | { 'they' 'they' 'Bush administration officials' }
+18 15 17 | { 'they' 'believe' 'those views' }
+7 6 | { 'America' 'this country' }
+(end gold clusters)

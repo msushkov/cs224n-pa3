@@ -1,0 +1,45 @@
+---------gloss--------
+(0) [1m[36m{A cruise ship}[0m is being searched off the Hawaii Coast after [3m[31m{two notes threatening terrorist attack}[0m were found on [1m[35m{board}[0m . 
+(1) [1m[36m{Royal Caribbean cruise ship Legend of the Sea}[0m diverted to Honolulu when [3m[31m{the notes}[0m were found on [1m[35m{board}[0m yesterday . 
+(2) Passengers were taken to [1m[36m{the ship 's}[0m dining rooms while bomb sniffing dogs went over [1m[36m{the ship}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0308); part 000
+sentences:
+AaDTOPER0cruisecruiseNNOPER0shipshipNNOPER0isbeVBZOPER0beingbeVBGOPER0searchedsearchVBNOPER0offoffINOPER0thetheDTGPEPER0HawaiiHawaiiNNPGPEPER0CoastCoastNNPGPEPER0afterafterINOPER0twotwoCDCARDINALPER0notesnoteNNSOPER0threateningthreatenVBGOPER0terroristterroristJJOPER0attackattackNNOPER0werebeVBDOPER0foundfindVBNOPER0ononINOPER0boardboardNNOPER0...OPER0(ROOT (S (NP (DT A) (NN cruise) (NN ship)) (VP (VBZ is) (VP (VBG being) (VP (VBN searched) (PP (IN off) (NP (DT the) (NNP Hawaii) (NNP Coast))) (SBAR (IN after) (S (NP (NP (CD two) (NNS notes)) (VP (VBG threatening) (NP (JJ terrorist) (NN attack)))) (VP (VBD were) (VP (VBN found) (PP (IN on) (NP (NN board)))))))))) (. .)))
+RoyalRoyalNNPORGPER0CaribbeanCaribbeanNNPORGPER0cruisecruiseNNOPER0shipshipNNOPER0LegendLegendNNPPRODUCTPER0ofofINOPER0thetheDTOPER0SeaSeaNNPLOCPER0diverteddivertVBNOPER0totoINOPER0HonoluluHonoluluNNPGPEPER0whenwhenWRBOPER0thetheDTOPER0notesnoteNNSOPER0werebeVBDOPER0foundfindVBNOPER0ononINOPER0boardboardNNOPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (NP (NP (NP (NML (NNP Royal) (NNP Caribbean)) (NN cruise) (NN ship)) (NP (NNP Legend))) (PP (IN of) (NP (NP (DT the) (NNP Sea)) (VP (VBN diverted) (PP (IN to) (NP (NNP Honolulu))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS notes)) (VP (VBD were) (VP (VBN found) (PP (IN on) (NP (NN board))) (NP (NN yesterday))))))))) (. .)))
+PassengerspassengerNNSOPER0werebeVBDOPER0takentakeVBNOPER0totoINOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0diningdiningNNOPER0roomsroomNNSOPER0whilewhileINOPER0bombbombNNOPER0sniffingsniffVBGOPER0dogsdogNNSOPER0wentgoVBDOPER0overoverINOPER0thetheDTOPER0shipshipNNOPER0...OPER0(ROOT (S (NP (NNS Passengers)) (VP (VBD were) (VP (VBN taken) (PP (IN to) (NP (NP (DT the) (NN ship) (POS 's)) (NN dining) (NNS rooms))) (SBAR (IN while) (S (NP (ADJP (NN bomb) (VBG sniffing)) (NNS dogs)) (VP (VBD went) (PP (IN over) (NP (DT the) (NN ship)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NN cruise) (NN ship))
+sid=0 spanning 11 until 16 headed by 12 parsed as (NP (NP (CD two) (NNS notes)) (VP (VBG threatening) (NP (JJ terrorist) (NN attack))))
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (NN board))
+sid=1 spanning 0 until 8 headed by 4 parsed as (NP (NNP Legend))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS notes))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NN board))
+sid=2 spanning 4 until 7 headed by 5 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN ship))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NN cruise) (NN ship))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (NNP Hawaii) (NNP Coast))
+sid=0 spanning 11 until 16 headed by 12 parsed as (NP (NP (CD two) (NNS notes)) (VP (VBG threatening) (NP (JJ terrorist) (NN attack))))
+sid=1 spanning 0 until 20 headed by 3 parsed as (NP (NP (NP (NML (NNP Royal) (NNP Caribbean)) (NN cruise) (NN ship)) (NP (NNP Legend))) (PP (IN of) (NP (NP (DT the) (NNP Sea)) (VP (VBN diverted) (PP (IN to) (NP (NNP Honolulu))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS notes)) (VP (VBD were) (VP (VBN found) (PP (IN on) (NP (NN board))) (NP (NN yesterday))))))))) (. .))
+sid=1 spanning 0 until 2 headed by 1 parsed as Caribbean
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Legend))
+sid=1 spanning 6 until 19 headed by 7 parsed as (NP (NP (DT the) (NNP Sea)) (VP (VBN diverted) (PP (IN to) (NP (NNP Honolulu))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS notes)) (VP (VBD were) (VP (VBN found) (PP (IN on) (NP (NN board))) (NP (NN yesterday))))))))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNP Honolulu))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS notes))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (NN yesterday))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Passengers))
+sid=2 spanning 4 until 9 headed by 8 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NN dining) (NNS rooms))
+sid=2 spanning 4 until 7 headed by 5 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=2 spanning 10 until 13 headed by 12 parsed as (NP (ADJP (NN bomb) (VBG sniffing)) (NNS dogs))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN ship))
+(end predicted mentions)
+---------gold clusters--------
+2 5 | { 'board' 'board' }
+3 6 7 0 | { 'Royal Caribbean cruise ship Legend of the Sea' 'the ship 's' 'the ship' 'A cruise ship' }
+1 4 | { 'two notes threatening terrorist attack' 'the notes' }
+(end gold clusters)

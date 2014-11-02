@@ -1,0 +1,47 @@
+---------gloss--------
+(0) [4m[36m{HASTINGS MANUFACTURING Co.}[0m declared a regular quarterly dividend of 10 cents a share and an extra dividend of five cents a share on [4m[36m{its}[0m common stock , payable Dec. 15 to shares of record Nov. 17 . 
+(1) This is the 11th consecutive quarter in which [4m[36m{the company}[0m has paid shareholders an extra dividend of five cents . 
+(2) [4m[36m{The Hastings , Mich. , concern}[0m makes piston rings , filters and fuel pumps . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1513); part 000
+sentences:
+HASTINGSHASTINGSNNPORGPER0MANUFACTURINGMANUFACTURINGNNPORGPER0Co.Co.NNPORGPER0declareddeclareVBDOPER0aaDTOPER0regularregularJJOPER0quarterlyquarterlyJJOPER0dividenddividendNNOPER0ofofINOPER01010CDMONEYPER0centscentNNSMONEYPER0aaDTOPER0shareshareNNOPER0andandCCOPER0anaDTOPER0extraextraJJOPER0dividenddividendNNOPER0ofofINOPER0fivefiveCDMONEYPER0centscentNNSMONEYPER0aaDTOPER0shareshareNNOPER0ononINOPER0itsitsPRP$OPER0commoncommonJJOPER0stockstockNNOPER0,,,OPER0payablepayableJJOPER0Dec.Dec.NNPDATEPER01515CDDATEPER0totoINOPER0sharesshareNNSOPER0ofofINOPER0recordrecordNNOPER0Nov.Nov.NNPDATEPER01717CDDATEPER0...OPER0(ROOT (S (NP (NNP HASTINGS) (NNP MANUFACTURING) (NNP Co.)) (VP (VBD declared) (NP (NP (NP (DT a) (JJ regular) (JJ quarterly) (NN dividend)) (PP (IN of) (NP (NP (CD 10) (NNS cents)) (NP (DT a) (NN share))))) (CC and) (NP (NP (DT an) (JJ extra) (NN dividend)) (PP (IN of) (NP (NP (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share))) (PP (IN on) (NP (PRP$ its) (JJ common) (NN stock)))) (, ,) (ADJP (JJ payable) (NP (NNP Dec.) (CD 15)) (PP (IN to) (NP (NP (NNS shares)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 17)))))))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0thetheDTDATEPER011th11thJJDATEPER0consecutiveconsecutiveJJDATEPER0quarterquarterNNDATEPER0ininINOPER0whichwhichWDTOPER0thetheDTOPER0companycompanyNNOPER0hashaveVBZOPER0paidpayVBDOPER0shareholdersshareholderNNSOPER0anaDTOPER0extraextraJJOPER0dividenddividendNNOPER0ofofINOPER0fivefiveCDMONEYPER0centscentNNSMONEYPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ 11th) (JJ consecutive) (NN quarter)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN company)) (VP (VBZ has) (VP (VBD paid) (NP (NNS shareholders)) (NP (NP (DT an) (JJ extra) (NN dividend)) (PP (IN of) (NP (CD five) (NNS cents)))))))))) (. .)))
+ThetheDTOPER0HastingsHastingsNNPPERSONPER0,,,OPER0Mich.Mich.NNPGPEPER0,,,OPER0concernconcernNNOPER0makesmakeVBZOPER0pistonpistonNNOPER0ringsringNNSOPER0,,,OPER0filtersfilterNNSOPER0andandCCOPER0fuelfuelNNOPER0pumpspumpNNSOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP Hastings) (, ,) (NNP Mich.) (, ,)) (NN concern)) (VP (VBZ makes) (NP (NP (NN piston) (NNS rings)) (, ,) (NP (NNS filters)) (CC and) (NP (NN fuel) (NNS pumps)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP HASTINGS) (NNP MANUFACTURING) (NNP Co.))
+sid=0 spanning 23 until 24 headed by 23 parsed as its
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN company))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (NNP Hastings) (, ,) (NNP Mich.) (, ,)) (NN concern))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP HASTINGS) (NNP MANUFACTURING) (NNP Co.))
+sid=0 spanning 4 until 36 headed by 7 parsed as (NP (NP (NP (DT a) (JJ regular) (JJ quarterly) (NN dividend)) (PP (IN of) (NP (NP (CD 10) (NNS cents)) (NP (DT a) (NN share))))) (CC and) (NP (NP (DT an) (JJ extra) (NN dividend)) (PP (IN of) (NP (NP (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share))) (PP (IN on) (NP (PRP$ its) (JJ common) (NN stock)))) (, ,) (ADJP (JJ payable) (NP (NNP Dec.) (CD 15)) (PP (IN to) (NP (NP (NNS shares)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 17)))))))))
+sid=0 spanning 4 until 13 headed by 7 parsed as (NP (NP (DT a) (JJ regular) (JJ quarterly) (NN dividend)) (PP (IN of) (NP (NP (CD 10) (NNS cents)) (NP (DT a) (NN share)))))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT a) (NN share))
+sid=0 spanning 14 until 36 headed by 16 parsed as (NP (NP (DT an) (JJ extra) (NN dividend)) (PP (IN of) (NP (NP (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share))) (PP (IN on) (NP (PRP$ its) (JJ common) (NN stock)))) (, ,) (ADJP (JJ payable) (NP (NNP Dec.) (CD 15)) (PP (IN to) (NP (NP (NNS shares)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 17))))))))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (DT a) (NN share))
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (PRP$ its) (JJ common) (NN stock))
+sid=0 spanning 23 until 24 headed by 23 parsed as (PRP$ its)
+sid=0 spanning 28 until 30 headed by 28 parsed as (NP (NNP Dec.) (CD 15))
+sid=0 spanning 31 until 36 headed by 31 parsed as (NP (NP (NNS shares)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 17)))
+sid=0 spanning 34 until 36 headed by 34 parsed as (NP (NNP Nov.) (CD 17))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=1 spanning 2 until 19 headed by 5 parsed as (NP (NP (DT the) (JJ 11th) (JJ consecutive) (NN quarter)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN company)) (VP (VBZ has) (VP (VBD paid) (NP (NNS shareholders)) (NP (NP (DT an) (JJ extra) (NN dividend)) (PP (IN of) (NP (CD five) (NNS cents)))))))))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN company))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNS shareholders))
+sid=1 spanning 13 until 19 headed by 15 parsed as (NP (NP (DT an) (JJ extra) (NN dividend)) (PP (IN of) (NP (CD five) (NNS cents))))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (NNP Hastings) (, ,) (NNP Mich.) (, ,)) (NN concern))
+sid=2 spanning 1 until 2 headed by 1 parsed as Hastings
+sid=2 spanning 3 until 4 headed by 3 parsed as Mich.
+sid=2 spanning 7 until 14 headed by 8 parsed as (NP (NP (NN piston) (NNS rings)) (, ,) (NP (NNS filters)) (CC and) (NP (NN fuel) (NNS pumps)))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NN piston) (NNS rings))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNS filters))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (NN fuel) (NNS pumps))
+(end predicted mentions)
+---------gold clusters--------
+2 3 1 0 | { 'the company' 'The Hastings , Mich. , concern' 'its' 'HASTINGS MANUFACTURING Co.' }
+(end gold clusters)

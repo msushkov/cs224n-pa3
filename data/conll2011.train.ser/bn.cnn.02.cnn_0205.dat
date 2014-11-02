@@ -1,0 +1,69 @@
+---------gloss--------
+(0) We begin south of Baghdad , where [34m{U.S. troops}[0m have found what may be [35m{chemical weapons materials}[0m . 
+(1) [34m{Elements of the Army 's 101st Airborne Division}[0m discovered [35m{the chemicals buried in barrels beneath an agricultural complex near Karbala}[0m . 
+(2) Troops also found a large amount of conventional weapons at [32m{the site}[0m . 
+(3) Initial tests on [35m{the chemicals}[0m were inconclusive . 
+(4) [33m{A higher level test}[0m indicated the presence of nerve and blister agents , but [33m{those tests}[0m are not always accurate . 
+(5) The commander of [31m{the 101st}[0m says [35m{the chemicals}[0m may be pesticides or chemical agents that have n't been weaponized . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0205); part 000
+sentences:
+WewePRPOPER0beginbeginVBPOPER0southsouthRBOPER0ofofINOPER0BaghdadBaghdadNNPGPEPER0,,,OPER0wherewhereWRBOPER0U.S.U.S.NNPGPEPER0troopstroopsNNSOPER0havehaveVBPOPER0foundfindVBNOPER0whatwhatWDTOPER0maymayMDOPER0bebeVBOPER0chemicalchemicalNNOPER0weaponsweaponNNSOPER0materialsmaterialNNSOPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NNP Baghdad)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP U.S.) (NNS troops)) (VP (VBP have) (VP (VBN found) (SBAR (WHNP (WDT what)) (S (VP (MD may) (VP (VB be) (NP (NML (NN chemical) (NNS weapons)) (NNS materials)))))))))))))) (. .)))
+ElementselementNNSOPER0ofofINOPER0thetheDTOPER0ArmyArmyNNPORGPER0's'sPOSOPER0101st101stJJOPER0AirborneAirborneNNPORGPER0DivisionDivisionNNPORGPER0discovereddiscoverVBDOPER0thetheDTOPER0chemicalschemicalNNSOPER0buriedburyVBNOPER0ininINOPER0barrelsbarrelNNSOPER0beneathbeneathINOPER0anaDTOPER0agriculturalagriculturalJJOPER0complexcomplexNNOPER0nearnearINOPER0KarbalaKarbalaNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNS Elements)) (PP (IN of) (NP (NP (DT the) (NNP Army) (POS 's)) (JJ 101st) (NNP Airborne) (NNP Division)))) (VP (VBD discovered) (NP (NP (DT the) (NNS chemicals)) (VP (VBN buried) (PP (IN in) (NP (NNS barrels))))) (PP (IN beneath) (NP (NP (DT an) (JJ agricultural) (NN complex)) (PP (IN near) (NP (NNP Karbala)))))) (. .)))
+TroopstroopsNNSOPER0alsoalsoRBOPER0foundfindVBDOPER0aaDTOPER0largelargeJJOPER0amountamountNNOPER0ofofINOPER0conventionalconventionalJJOPER0weaponsweaponNNSOPER0atatINOPER0thetheDTOPER0sitesiteNNOPER0...OPER0(ROOT (S (NP (NNS Troops)) (ADVP (RB also)) (VP (VBD found) (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (JJ conventional) (NNS weapons)))) (PP (IN at) (NP (DT the) (NN site)))) (. .)))
+InitialinitialJJOPER0teststestNNSOPER0ononINOPER0thetheDTOPER0chemicalschemicalNNSOPER0werebeVBDOPER0inconclusiveinconclusiveJJOPER0...OPER0(ROOT (S (NP (NP (JJ Initial) (NNS tests)) (PP (IN on) (NP (DT the) (NNS chemicals)))) (VP (VBD were) (ADJP (JJ inconclusive))) (. .)))
+AaDTOPER0higherhigherJJROPER0levellevelNNOPER0testtestNNOPER0indicatedindicateVBDOPER0thetheDTOPER0presencepresenceNNOPER0ofofINOPER0nervenerveNNOPER0andandCCOPER0blisterblisterNNOPER0agentsagentNNSOPER0,,,OPER0butbutCCOPER0thosethoseDTOPER0teststestNNSOPER0arebeVBPOPER0notnotRBOPER0alwaysalwaysRBOPER0accurateaccurateJJOPER0...OPER0(ROOT (S (S (NP (DT A) (NML (JJR higher) (NN level)) (NN test)) (VP (VBD indicated) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NML (NN nerve) (CC and) (NN blister)) (NNS agents)))))) (, ,) (CC but) (S (NP (DT those) (NNS tests)) (VP (VBP are) (RB not) (ADVP (RB always)) (ADJP (JJ accurate)))) (. .)))
+ThetheDTOPER0commandercommanderNNOPER0ofofINOPER0thetheDTOPER0101st101stNNPORDINALPER0sayssayVBZOPER0thetheDTOPER0chemicalschemicalNNSOPER0maymayMDOPER0bebeVBOPER0pesticidespesticideNNSOPER0ororCCOPER0chemicalchemicalJJOPER0agentsagentNNSOPER0thatthatWDTOPER0havehaveVBPOPER0n'tnotRBOPER0beenbeVBNOPER0weaponizedweaponizeVBNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN commander)) (PP (IN of) (NP (DT the) (NNP 101st)))) (VP (VBZ says) (SBAR (S (NP (DT the) (NNS chemicals)) (VP (MD may) (VP (VB be) (NP (NP (NP (NNS pesticides)) (CC or) (NP (JJ chemical) (NNS agents))) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (RB n't) (VP (VBN been) (VP (VBN weaponized)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NNP U.S.) (NNS troops))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (NML (NN chemical) (NNS weapons)) (NNS materials))
+sid=1 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNS Elements)) (PP (IN of) (NP (NP (DT the) (NNP Army) (POS 's)) (JJ 101st) (NNP Airborne) (NNP Division))))
+sid=1 spanning 2 until 8 headed by 7 parsed as (NP (NP (DT the) (NNP Army) (POS 's)) (JJ 101st) (NNP Airborne) (NNP Division))
+sid=1 spanning 9 until 20 headed by 10 parsed as (NP (NP (DT the) (NNS chemicals)) (VP (VBN buried) (PP (IN in) (NP (NNS barrels)))))
+sid=1 spanning 15 until 20 headed by 17 parsed as (NP (NP (DT an) (JJ agricultural) (NN complex)) (PP (IN near) (NP (NNP Karbala))))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN site))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS chemicals))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (NML (JJR higher) (NN level)) (NN test))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (DT those) (NNS tests))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP 101st))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS chemicals))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NP (NNP Baghdad)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP U.S.) (NNS troops)) (VP (VBP have) (VP (VBN found) (SBAR (WHNP (WDT what)) (S (VP (MD may) (VP (VB be) (NP (NML (NN chemical) (NNS weapons)) (NNS materials)))))))))))
+sid=0 spanning 4 until 17 headed by 4 parsed as (NP (NP (NNP Baghdad)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP U.S.) (NNS troops)) (VP (VBP have) (VP (VBN found) (SBAR (WHNP (WDT what)) (S (VP (MD may) (VP (VB be) (NP (NML (NN chemical) (NNS weapons)) (NNS materials)))))))))))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NNP U.S.) (NNS troops))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (NML (NN chemical) (NNS weapons)) (NNS materials))
+sid=1 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNS Elements)) (PP (IN of) (NP (NP (DT the) (NNP Army) (POS 's)) (JJ 101st) (NNP Airborne) (NNP Division))))
+sid=1 spanning 2 until 8 headed by 7 parsed as (NP (NP (DT the) (NNP Army) (POS 's)) (JJ 101st) (NNP Airborne) (NNP Division))
+sid=1 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NNP Army) (POS 's))
+sid=1 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT the) (NNS chemicals)) (VP (VBN buried) (PP (IN in) (NP (NNS barrels)))))
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (NNS barrels))
+sid=1 spanning 15 until 20 headed by 17 parsed as (NP (NP (DT an) (JJ agricultural) (NN complex)) (PP (IN near) (NP (NNP Karbala))))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NNP Karbala))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Troops))
+sid=2 spanning 3 until 9 headed by 5 parsed as (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (JJ conventional) (NNS weapons))))
+sid=2 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN site))
+sid=3 spanning 0 until 5 headed by 1 parsed as (NP (NP (JJ Initial) (NNS tests)) (PP (IN on) (NP (DT the) (NNS chemicals))))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNS chemicals))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (DT A) (NML (JJR higher) (NN level)) (NN test))
+sid=4 spanning 5 until 12 headed by 6 parsed as (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NML (NN nerve) (CC and) (NN blister)) (NNS agents))))
+sid=4 spanning 8 until 12 headed by 11 parsed as (NP (NML (NN nerve) (CC and) (NN blister)) (NNS agents))
+sid=4 spanning 14 until 16 headed by 15 parsed as (NP (DT those) (NNS tests))
+sid=5 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN commander)) (PP (IN of) (NP (DT the) (NNP 101st))))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NNP 101st))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNS chemicals))
+sid=5 spanning 10 until 19 headed by 10 parsed as (NP (NP (NP (NNS pesticides)) (CC or) (NP (JJ chemical) (NNS agents))) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (RB n't) (VP (VBN been) (VP (VBN weaponized)))))))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (NNS pesticides))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (JJ chemical) (NNS agents))
+(end predicted mentions)
+---------gold clusters--------
+3 10 | { 'the Army 's 101st Airborne Division' 'the 101st' }
+5 6 | { 'an agricultural complex near Karbala' 'the site' }
+9 8 | { 'those tests' 'A higher level test' }
+2 0 | { 'Elements of the Army 's 101st Airborne Division' 'U.S. troops' }
+7 11 4 1 | { 'the chemicals' 'the chemicals' 'the chemicals buried in barrels beneath an agricultural complex near Karbala' 'chemical weapons materials' }
+(end gold clusters)

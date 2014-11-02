@@ -1,0 +1,131 @@
+---------gloss--------
+(0) [3m[36m{One company}[0m recently was [4m[31m{listed}[0m on [3m[33m{the New York Stock Exchange}[0m , and [4m[32m{another}[0m will [3m[34m{join}[0m [3m[33m{the Big Board}[0m from the over - the - counter market this week . 
+(1) [3m[36m{Putnam Investment Grade Municipal Trust , Boston ,}[0m was [4m[31m{listed}[0m with the symbol PGM . 
+(2) [3m[36m{The new closed - end management investment company}[0m trades shares of beneficial interest . 
+(3) [3m[36m{It}[0m invests primarily in tax - exempt municipal securities . 
+(4) [4m[32m{Hibernia Corp. , a New Orleans bank holding company ,}[0m will [3m[34m{join}[0m [3m[33m{the Big Board Thursday}[0m under HIB . 
+(5) Three companies began trading over the counter . 
+(6) Exabyte Corp. , a Boulder , Colo. , maker of high - capacity tape cartridge systems used to back up computer disk drives , started OTC trading with the symbol EXBT . 
+(7) Rally 's Inc. , a Louisville , Ky. , restaurant franchisor , started trading under RLLY . 
+(8) [4m[33m{Sierra Tucson Cos. , Tucson , Ariz. ,}[0m started trading under STSN . 
+(9) [4m[33m{It}[0m operates various types of addiction - treatment facilities . 
+(10) Separately , on the Pacific Stock Exchange , put and call options on the common stock of [3m[35m{Aldus Corp.}[0m started trading . 
+(11) [3m[35m{Aldus , Seattle ,}[0m makes computer software products . 
+(12) Options give a holder the right , but not the obligation , to buy or sell a security at a set price within a set period of time . 
+(end gloss)
+---------document--------
+(nw/wsj/14/wsj_1438); part 000
+sentences:
+OneoneCDCARDINALPER0companycompanyNNOPER0recentlyrecentlyRBOPER0wasbeVBDOPER0listedlistVBNOPER0ononINOPER0thetheDTORGPER0NewNewNNPORGPER0YorkYorkNNPORGPER0StockStockNNPORGPER0ExchangeExchangeNNPORGPER0,,,OPER0andandCCOPER0anotheranotherDTOPER0willwillMDOPER0joinjoinVBOPER0thetheDTORGPER0BigBigNNPORGPER0BoardBoardNNPORGPER0fromfromINOPER0thetheDTOPER0overoverINCARDINALPER0--HYPHOPER0thetheDTCARDINALPER0--HYPHOPER0countercounterNNOPER0marketmarketNNOPER0thisthisDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (S (NP (CD One) (NN company)) (ADVP (RB recently)) (VP (VBD was) (VP (VBN listed) (PP (IN on) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange)))))) (, ,) (CC and) (S (NP (DT another)) (VP (MD will) (VP (VB join) (NP (DT the) (NNP Big) (NNP Board)) (PP (IN from) (NP (NP (DT the) (NML (PP (IN over) (HYPH -) (NP (DT the) (HYPH -) (NN counter)))) (NN market)) (NP (DT this) (NN week))))))) (. .)))
+PutnamPutnamNNPORGPER0InvestmentInvestmentNNPORGPER0GradegradeNNORGPER0MunicipalMunicipalNNPORGPER0TrustTrustNNPORGPER0,,,OPER0BostonBostonNNPGPEPER0,,,OPER0wasbeVBDOPER0listedlistVBNOPER0withwithINOPER0thetheDTOPER0symbolsymbolNNOPER0PGMpgmNNORGPER0...OPER0(ROOT (S (NP (NP (NML (NML (NNP Putnam) (NNP Investment)) (NN Grade)) (NNP Municipal) (NNP Trust)) (, ,) (NP (NNP Boston)) (, ,)) (VP (VBD was) (VP (VBN listed) (PP (IN with) (NP (DT the) (NN symbol) (NN PGM))))) (. .)))
+ThetheDTOPER0newnewJJOPER0closedclosedJJOPER0--HYPHOPER0endendNNOPER0managementmanagementNNOPER0investmentinvestmentNNOPER0companycompanyNNOPER0tradestradeVBZOPER0sharesshareNNSOPER0ofofINOPER0beneficialbeneficialJJOPER0interestinterestNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ new) (NML (JJ closed) (HYPH -) (NN end)) (NML (NN management) (NN investment)) (NN company)) (VP (VBZ trades) (NP (NP (NNS shares)) (PP (IN of) (NP (JJ beneficial) (NN interest))))) (. .)))
+ItitPRPOPER0investsinvestVBZOPER0primarilyprimarilyRBOPER0ininINOPER0taxtaxNNOPER0--HYPHOPER0exemptexemptJJOPER0municipalmunicipalJJOPER0securitiessecurityNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ invests) (ADVP (RB primarily)) (PP (IN in) (NP (ADJP (NN tax) (HYPH -) (JJ exempt)) (JJ municipal) (NNS securities)))) (. .)))
+HiberniaHiberniaNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0aaDTOPER0NewNewNNPGPEPER0OrleansOrleansNNPGPEPER0bankbankNNOPER0holdingholdVBGOPER0companycompanyNNOPER0,,,OPER0willwillMDOPER0joinjoinVBOPER0thetheDTORGPER0BigBigNNPORGPER0BoardBoardNNPORGPER0ThursdayThursdayNNPDATEPER0underunderINOPER0HIBHIBNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP Hibernia) (NNP Corp.)) (, ,) (NP (DT a) (NML (NNP New) (NNP Orleans)) (ADJP (NN bank) (VBG holding)) (NN company)) (, ,)) (VP (MD will) (VP (VB join) (NP (DT the) (NNP Big) (NNP Board)) (NP (NNP Thursday)) (PP (IN under) (NP (NNP HIB))))) (. .)))
+ThreethreeCDCARDINALPER0companiescompanyNNSOPER0beganbeginVBDOPER0tradingtradeVBGOPER0overoverINOPER0thetheDTOPER0countercounterNNOPER0...OPER0(ROOT (S (NP (CD Three) (NNS companies)) (VP (VBD began) (S (VP (VBG trading) (PP (IN over) (NP (DT the) (NN counter)))))) (. .)))
+ExabyteExabyteNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0aaDTOPER0BoulderBoulderNNPGPEPER0,,,OPER0Colo.Colo.NNPGPEPER0,,,OPER0makermakerNNOPER0ofofINOPER0highhighJJOPER0--HYPHOPER0capacitycapacityNNOPER0tapetapeNNOPER0cartridgecartridgeNNOPER0systemssystemNNSOPER0useduseVBNOPER0totoTOOPER0backbackVBOPER0upupRPOPER0computercomputerNNOPER0diskdiskNNOPER0drivesdriveNNSOPER0,,,OPER0startedstartVBDOPER0OTCOTCNNPOPER0tradingtradingNNOPER0withwithINOPER0thetheDTOPER0symbolsymbolNNOPER0EXBTexbtNNORGPER0...OPER0(ROOT (S (NP (NP (NP (NNP Exabyte) (NNP Corp.)) (, ,) (NP (NP (DT a) (NNP Boulder)) (, ,) (NP (NNP Colo.)))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NP (NML (JJ high) (HYPH -) (NN capacity)) (NN tape) (NN cartridge) (NNS systems)) (VP (VBN used) (S (VP (TO to) (VP (VB back) (PRT (RP up)) (NP (NML (NN computer) (NN disk)) (NNS drives))))))))) (, ,)) (VP (VBD started) (NP (NNP OTC) (NN trading)) (PP (IN with) (NP (DT the) (NN symbol) (NN EXBT)))) (. .)))
+RallyRallyNNPORGPER0's'sPOSORGPER0Inc.Inc.NNPORGPER0,,,OPER0aaDTOPER0LouisvilleLouisvilleNNPGPEPER0,,,OPER0Ky.Ky.NNPGPEPER0,,,OPER0restaurantrestaurantNNOPER0franchisorfranchisorNNOPER0,,,OPER0startedstartVBDOPER0tradingtradeVBGOPER0underunderINOPER0RLLYRLLYNNPORGPER0...OPER0(ROOT (S (NP (NP (NP (NNP Rally) (POS 's)) (NNP Inc.)) (, ,) (NP (DT a) (NML (NNP Louisville) (, ,) (NNP Ky.) (, ,)) (NN restaurant) (NN franchisor)) (, ,)) (VP (VBD started) (S (VP (VBG trading) (PP (IN under) (NP (NNP RLLY)))))) (. .)))
+SierraSierraNNPORGPER0TucsonTucsonNNPORGPER0Cos.Cos.NNPORGPER0,,,OPER0TucsonTucsonNNPGPEPER0,,,OPER0Ariz.Ariz.NNPGPEPER0,,,OPER0startedstartVBDOPER0tradingtradeVBGOPER0underunderINOPER0STSNSTSNNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP Sierra) (NNP Tucson) (NNP Cos.)) (, ,) (NP (NP (NNP Tucson)) (, ,) (NP (NNP Ariz.))) (, ,)) (VP (VBD started) (S (VP (VBG trading) (PP (IN under) (NP (NNP STSN)))))) (. .)))
+ItitPRPOPER0operatesoperateVBZOPER0variousvariousJJOPER0typestypeNNSOPER0ofofINOPER0addictionaddictionNNOPER0--HYPHOPER0treatmenttreatmentNNOPER0facilitiesfacilityNNSOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ operates) (NP (NP (JJ various) (NNS types)) (PP (IN of) (NP (NML (NN addiction) (HYPH -) (NN treatment)) (NNS facilities))))) (. .)))
+SeparatelyseparatelyRBOPER0,,,OPER0ononINOPER0thetheDTORGPER0PacificPacificNNPORGPER0StockStockNNPORGPER0ExchangeExchangeNNPORGPER0,,,OPER0putputVBOPER0andandCCOPER0callcallVBOPER0optionsoptionNNSOPER0ononINOPER0thetheDTOPER0commoncommonJJOPER0stockstockNNOPER0ofofINOPER0AldusAldusNNPORGPER0Corp.Corp.NNPORGPER0startedstartVBDOPER0tradingtradeVBGOPER0...OPER0(ROOT (S (ADVP (RB Separately)) (, ,) (PP (IN on) (NP (DT the) (NNP Pacific) (NNP Stock) (NNP Exchange))) (, ,) (VP (VB put) (CC and) (VB call) (NP (NP (NNS options)) (PP (IN on) (NP (DT the) (JJ common) (NN stock) (SBAR (IN of) (S (NP (NNP Aldus) (NNP Corp.)) (VP (VBD started) (S (VP (VBG trading)))))))))) (. .)))
+AldusAldusNNPORGPER0,,,OPER0SeattleSeattleNNPGPEPER0,,,OPER0makesmakeVBZOPER0computercomputerNNOPER0softwaresoftwareNNOPER0productsproductNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Aldus)) (, ,) (NP (NNP Seattle)) (, ,)) (VP (VBZ makes) (NP (NML (NN computer) (NN software)) (NNS products))) (. .)))
+OptionsoptionNNSOPER0givegiveVBPOPER0aaDTOPER0holderholderNNOPER0thetheDTOPER0rightrightNNOPER0,,,OPER0butbutCCOPER0notnotRBOPER0thetheDTOPER0obligationobligationNNOPER0,,,OPER0totoTOOPER0buybuyVBOPER0ororCCOPER0sellsellVBOPER0aaDTOPER0securitysecurityNNOPER0atatINOPER0aaDTOPER0setsetVBNOPER0pricepriceNNOPER0withinwithinINOPER0aaDTOPER0setsetNNOPER0periodperiodNNOPER0ofofINOPER0timetimeNNOPER0...OPER0(ROOT (S (NP (NNS Options)) (VP (VBP give) (NP (DT a) (NN holder)) (NP (NP (DT the) (NN right)) (, ,) (CC but) (RB not) (NP (DT the) (NN obligation)) (, ,) (S (VP (TO to) (VP (VB buy) (CC or) (VB sell) (NP (NP (DT a) (NN security)) (PP (IN at) (NP (DT a) (VBN set) (NN price)))) (PP (IN within) (NP (NP (DT a) (NN set) (NN period)) (PP (IN of) (NP (NN time)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (CD One) (NN company))
+sid=0 spanning 4 until 5 headed by 4 parsed as listed
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (DT another))
+sid=0 spanning 15 until 16 headed by 15 parsed as join
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP Big) (NNP Board))
+sid=1 spanning 0 until 8 headed by 4 parsed as (NP (NP (NML (NML (NNP Putnam) (NNP Investment)) (NN Grade)) (NNP Municipal) (NNP Trust)) (, ,) (NP (NNP Boston)) (, ,))
+sid=1 spanning 9 until 10 headed by 9 parsed as listed
+sid=2 spanning 0 until 8 headed by 7 parsed as (NP (DT The) (JJ new) (NML (JJ closed) (HYPH -) (NN end)) (NML (NN management) (NN investment)) (NN company))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=4 spanning 0 until 10 headed by 1 parsed as (NP (NP (NNP Hibernia) (NNP Corp.)) (, ,) (NP (DT a) (NML (NNP New) (NNP Orleans)) (ADJP (NN bank) (VBG holding)) (NN company)) (, ,))
+sid=4 spanning 11 until 12 headed by 11 parsed as join
+sid=4 spanning 12 until 16 headed by 15 parsed as (NP (NNP Thursday))
+sid=8 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Sierra) (NNP Tucson) (NNP Cos.)) (, ,) (NP (NP (NNP Tucson)) (, ,) (NP (NNP Ariz.))) (, ,))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=10 spanning 17 until 19 headed by 18 parsed as (NP (NNP Aldus) (NNP Corp.))
+sid=11 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNP Aldus)) (, ,) (NP (NNP Seattle)) (, ,))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (CD One) (NN company))
+sid=0 spanning 6 until 11 headed by 10 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (DT another))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (NNP Big) (NNP Board))
+sid=0 spanning 20 until 29 headed by 26 parsed as (NP (NP (DT the) (NML (PP (IN over) (HYPH -) (NP (DT the) (HYPH -) (NN counter)))) (NN market)) (NP (DT this) (NN week)))
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (DT the) (HYPH -) (NN counter))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (DT this) (NN week))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NP (NML (NML (NNP Putnam) (NNP Investment)) (NN Grade)) (NNP Municipal) (NNP Trust)) (, ,) (NP (NNP Boston)) (, ,))
+sid=1 spanning 0 until 8 headed by 4 parsed as (NP (NP (NML (NML (NNP Putnam) (NNP Investment)) (NN Grade)) (NNP Municipal) (NNP Trust)) (, ,) (NP (NNP Boston)) (, ,))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNP Boston))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NN symbol) (NN PGM))
+sid=2 spanning 0 until 8 headed by 7 parsed as (NP (DT The) (JJ new) (NML (JJ closed) (HYPH -) (NN end)) (NML (NN management) (NN investment)) (NN company))
+sid=2 spanning 9 until 13 headed by 9 parsed as (NP (NP (NNS shares)) (PP (IN of) (NP (JJ beneficial) (NN interest))))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 4 until 9 headed by 8 parsed as (NP (ADJP (NN tax) (HYPH -) (JJ exempt)) (JJ municipal) (NNS securities))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Hibernia) (NNP Corp.)) (, ,) (NP (DT a) (NML (NNP New) (NNP Orleans)) (ADJP (NN bank) (VBG holding)) (NN company)) (, ,))
+sid=4 spanning 0 until 10 headed by 1 parsed as (NP (NP (NNP Hibernia) (NNP Corp.)) (, ,) (NP (DT a) (NML (NNP New) (NNP Orleans)) (ADJP (NN bank) (VBG holding)) (NN company)) (, ,))
+sid=4 spanning 3 until 9 headed by 8 parsed as (NP (DT a) (NML (NNP New) (NNP Orleans)) (ADJP (NN bank) (VBG holding)) (NN company))
+sid=4 spanning 4 until 6 headed by 5 parsed as Orleans
+sid=4 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP Big) (NNP Board))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (NNP Thursday))
+sid=4 spanning 17 until 18 headed by 17 parsed as (NP (NNP HIB))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (CD Three) (NNS companies))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN counter))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NP (NP (NNP Exabyte) (NNP Corp.)) (, ,) (NP (NP (DT a) (NNP Boulder)) (, ,) (NP (NNP Colo.)))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NP (NML (JJ high) (HYPH -) (NN capacity)) (NN tape) (NN cartridge) (NNS systems)) (VP (VBN used) (S (VP (TO to) (VP (VB back) (PRT (RP up)) (NP (NML (NN computer) (NN disk)) (NNS drives))))))))) (, ,))
+sid=6 spanning 0 until 24 headed by 1 parsed as (NP (NP (NP (NNP Exabyte) (NNP Corp.)) (, ,) (NP (NP (DT a) (NNP Boulder)) (, ,) (NP (NNP Colo.)))) (, ,) (NP (NP (NN maker)) (PP (IN of) (NP (NP (NML (JJ high) (HYPH -) (NN capacity)) (NN tape) (NN cartridge) (NNS systems)) (VP (VBN used) (S (VP (TO to) (VP (VB back) (PRT (RP up)) (NP (NML (NN computer) (NN disk)) (NNS drives))))))))) (, ,))
+sid=6 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Exabyte) (NNP Corp.)) (, ,) (NP (NP (DT a) (NNP Boulder)) (, ,) (NP (NNP Colo.))))
+sid=6 spanning 4 until 5 headed by 4 parsed as (NP (NP (DT a) (NNP Boulder)) (, ,) (NP (NNP Colo.)))
+sid=6 spanning 3 until 7 headed by 4 parsed as (NP (NP (DT a) (NNP Boulder)) (, ,) (NP (NNP Colo.)))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (DT a) (NNP Boulder))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (NNP Colo.))
+sid=6 spanning 8 until 23 headed by 8 parsed as (NP (NP (NN maker)) (PP (IN of) (NP (NP (NML (JJ high) (HYPH -) (NN capacity)) (NN tape) (NN cartridge) (NNS systems)) (VP (VBN used) (S (VP (TO to) (VP (VB back) (PRT (RP up)) (NP (NML (NN computer) (NN disk)) (NNS drives)))))))))
+sid=6 spanning 10 until 23 headed by 15 parsed as (NP (NP (NML (JJ high) (HYPH -) (NN capacity)) (NN tape) (NN cartridge) (NNS systems)) (VP (VBN used) (S (VP (TO to) (VP (VB back) (PRT (RP up)) (NP (NML (NN computer) (NN disk)) (NNS drives)))))))
+sid=6 spanning 20 until 23 headed by 22 parsed as (NP (NML (NN computer) (NN disk)) (NNS drives))
+sid=6 spanning 25 until 27 headed by 26 parsed as (NP (NNP OTC) (NN trading))
+sid=6 spanning 28 until 31 headed by 30 parsed as (NP (DT the) (NN symbol) (NN EXBT))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (NP (NP (NNP Rally) (POS 's)) (NNP Inc.)) (, ,) (NP (DT a) (NML (NNP Louisville) (, ,) (NNP Ky.) (, ,)) (NN restaurant) (NN franchisor)) (, ,))
+sid=7 spanning 0 until 12 headed by 2 parsed as (NP (NP (NP (NNP Rally) (POS 's)) (NNP Inc.)) (, ,) (NP (DT a) (NML (NNP Louisville) (, ,) (NNP Ky.) (, ,)) (NN restaurant) (NN franchisor)) (, ,))
+sid=7 spanning 4 until 11 headed by 10 parsed as (NP (DT a) (NML (NNP Louisville) (, ,) (NNP Ky.) (, ,)) (NN restaurant) (NN franchisor))
+sid=7 spanning 5 until 6 headed by 5 parsed as Louisville
+sid=7 spanning 7 until 8 headed by 7 parsed as Ky.
+sid=7 spanning 15 until 16 headed by 15 parsed as (NP (NNP RLLY))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Sierra) (NNP Tucson) (NNP Cos.)) (, ,) (NP (NP (NNP Tucson)) (, ,) (NP (NNP Ariz.))) (, ,))
+sid=8 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP Sierra) (NNP Tucson) (NNP Cos.)) (, ,) (NP (NP (NNP Tucson)) (, ,) (NP (NNP Ariz.))) (, ,))
+sid=8 spanning 4 until 5 headed by 4 parsed as (NP (NP (NNP Tucson)) (, ,) (NP (NNP Ariz.)))
+sid=8 spanning 4 until 7 headed by 4 parsed as (NP (NP (NNP Tucson)) (, ,) (NP (NNP Ariz.)))
+sid=8 spanning 6 until 7 headed by 6 parsed as (NP (NNP Ariz.))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (NNP STSN))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=9 spanning 2 until 9 headed by 3 parsed as (NP (NP (JJ various) (NNS types)) (PP (IN of) (NP (NML (NN addiction) (HYPH -) (NN treatment)) (NNS facilities))))
+sid=9 spanning 5 until 9 headed by 8 parsed as (NP (NML (NN addiction) (HYPH -) (NN treatment)) (NNS facilities))
+sid=10 spanning 3 until 7 headed by 6 parsed as (NP (DT the) (NNP Pacific) (NNP Stock) (NNP Exchange))
+sid=10 spanning 11 until 21 headed by 11 parsed as (NP (NP (NNS options)) (PP (IN on) (NP (DT the) (JJ common) (NN stock) (SBAR (IN of) (S (NP (NNP Aldus) (NNP Corp.)) (VP (VBD started) (S (VP (VBG trading)))))))))
+sid=10 spanning 13 until 21 headed by 15 parsed as (NP (DT the) (JJ common) (NN stock) (SBAR (IN of) (S (NP (NNP Aldus) (NNP Corp.)) (VP (VBD started) (S (VP (VBG trading)))))))
+sid=10 spanning 17 until 19 headed by 18 parsed as (NP (NNP Aldus) (NNP Corp.))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Aldus)) (, ,) (NP (NNP Seattle)) (, ,))
+sid=11 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNP Aldus)) (, ,) (NP (NNP Seattle)) (, ,))
+sid=11 spanning 2 until 3 headed by 2 parsed as (NP (NNP Seattle))
+sid=11 spanning 5 until 8 headed by 7 parsed as (NP (NML (NN computer) (NN software)) (NNS products))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (NNS Options))
+sid=12 spanning 2 until 4 headed by 3 parsed as (NP (DT a) (NN holder))
+sid=12 spanning 4 until 28 headed by 5 parsed as (NP (NP (DT the) (NN right)) (, ,) (CC but) (RB not) (NP (DT the) (NN obligation)) (, ,) (S (VP (TO to) (VP (VB buy) (CC or) (VB sell) (NP (NP (DT a) (NN security)) (PP (IN at) (NP (DT a) (VBN set) (NN price)))) (PP (IN within) (NP (NP (DT a) (NN set) (NN period)) (PP (IN of) (NP (NN time)))))))))
+sid=12 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN right))
+sid=12 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN obligation))
+sid=12 spanning 16 until 22 headed by 17 parsed as (NP (NP (DT a) (NN security)) (PP (IN at) (NP (DT a) (VBN set) (NN price))))
+sid=12 spanning 19 until 22 headed by 21 parsed as (NP (DT a) (VBN set) (NN price))
+sid=12 spanning 23 until 28 headed by 25 parsed as (NP (NP (DT a) (NN set) (NN period)) (PP (IN of) (NP (NN time))))
+sid=12 spanning 27 until 28 headed by 27 parsed as (NP (NN time))
+(end predicted mentions)
+---------gold clusters--------
+2 5 12 | { 'the New York Stock Exchange' 'the Big Board' 'the Big Board Thursday' }
+11 4 | { 'join' 'join' }
+16 15 | { 'Aldus , Seattle ,' 'Aldus Corp.' }
+9 6 8 0 | { 'It' 'Putnam Investment Grade Municipal Trust , Boston ,' 'The new closed - end management investment company' 'One company' }
+1 7 | { 'listed' 'listed' }
+3 10 | { 'another' 'Hibernia Corp. , a New Orleans bank holding company ,' }
+14 13 | { 'It' 'Sierra Tucson Cos. , Tucson , Ariz. ,' }
+(end gold clusters)

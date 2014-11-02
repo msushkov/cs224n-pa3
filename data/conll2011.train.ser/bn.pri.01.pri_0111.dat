@@ -1,0 +1,112 @@
+---------gloss--------
+(0) [3m[33m{Peace talks between Israelis and Palestinians}[0m have resumed in [3m[34m{the Egyptian resort of Taba}[0m , two days after [1m[35m{the government in Jerusalem}[0m suspended [3m[33m{them}[0m following [3m[36m{the killing of two Israelis in the West Bank}[0m , but [1m[35m{Israel 's}[0m Prime Minister Ehud Barak has given up hope for a peace deal before [1m[34m{next month 's elections}[0m and there seems to be no end to the violence on the ground . 
+(1) [1m[36m{Hillary Anderson}[0m reports . 
+(2) Once again [3m[33m{the Taba peace talks}[0m are on after a lull following [3m[36m{the killing of two Israeli citizens earlier in the week}[0m , but the violence has n't stopped . 
+(3) Two Palestinians have died after being shot by Israeli soldiers in Gaza and there were no guarantees that [3m[33m{the talks}[0m wo n't collapse again . 
+(4) [1m[35m{Israel 's}[0m Prime Minister Ehud Barak has said [3m[35m{he}[0m sees no chance of a deal before [1m[35m{Israel 's}[0m elections on February 6th . 
+(5) The officially stated Israeli and Palestinian positions on two major issues , the future of [3m[31m{Jerusalem}[0m and the fate of millions of Palestinian refugees , are still almost diametrically opposed . 
+(6) [1m[36m{Hillary Anderson}[0m , BBC News , [3m[31m{Jerusalem}[0m . 
+(end gloss)
+---------document--------
+(bn/pri/01/pri_0111); part 000
+sentences:
+PeacepeaceNNOPER0talkstalkNNSOPER0betweenbetweenINOPER0IsraelisIsraelisNNPSOPER0andandCCOPER0PalestiniansPalestiniansNNPSOPER0havehaveVBPOPER0resumedresumeVBNOPER0ininINOPER0thetheDTOPER0EgyptianegyptianJJOPER0resortresortNNOPER0ofofINOPER0TabaTabaNNPORGPER0,,,OPER0twotwoCDDATEPER0daysdayNNSDATEPER0afterafterINOPER0thetheDTOPER0governmentgovernmentNNOPER0ininINOPER0JerusalemJerusalemNNPGPEPER0suspendedsuspendVBDOPER0themtheyPRPOPER0followingfollowVBGOPER0thetheDTOPER0killingkillingNNOPER0ofofINOPER0twotwoCDCARDINALPER0IsraelisIsraelisNNPSOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0,,,OPER0butbutCCOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0hashaveVBZOPER0givengiveVBNOPER0upupRPOPER0hopehopeNNOPER0forforINOPER0aaDTOPER0peacepeaceNNOPER0dealdealNNOPER0beforebeforeINOPER0nextnextJJDATEPER0monthmonthNNDATEPER0's'sPOSDATEPER0electionselectionNNSOPER0andandCCOPER0therethereEXOPER0seemsseemVBZOPER0totoTOOPER0bebeVBOPER0nonoDTOPER0endendNNOPER0totoINOPER0thetheDTOPER0violenceviolenceNNOPER0ononINOPER0thetheDTOPER0groundgroundNNOPER0...OPER0(ROOT (S (S (S (NP (NP (NN Peace) (NNS talks)) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians)))) (VP (VBP have) (VP (VBN resumed) (PP (IN in) (NP (NP (DT the) (JJ Egyptian) (NN resort)) (PP (IN of) (NP (NP (NNP Taba)) (, ,) (NP (NP (CD two) (NNS days)) (SBAR (IN after) (S (NP (NP (DT the) (NN government)) (PP (IN in) (NP (NNP Jerusalem)))) (VP (VBD suspended) (NP (PRP them)) (PP (VBG following) (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))))))) (, ,) (CC but) (NP (NP (NNP Israel) (POS 's)) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))))))))) (VP (VBZ has) (VP (VBN given) (PRT (RP up)) (NP (NP (NN hope)) (PP (IN for) (NP (NP (DT a) (NN peace) (NN deal)) (PP (IN before) (NP (NP (JJ next) (NN month) (POS 's)) (NNS elections))))))))) (CC and) (S (NP (EX there)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (NP (NP (DT no) (NN end)) (PP (IN to) (NP (NP (DT the) (NN violence)) (PP (IN on) (NP (DT the) (NN ground))))))))))) (. .)))
+HillaryHillaryNNPPERSONPER0AndersonAndersonNNPPERSONPER0reportsreportVBZOPER0...OPER0(ROOT (S (NP (NNP Hillary) (NNP Anderson)) (VP (VBZ reports)) (. .)))
+OnceonceRBOPER0againagainRBOPER0thetheDTOPER0TabaTabaNNPLOCPER0peacepeaceNNOPER0talkstalkNNSOPER0arebeVBPOPER0ononRBOPER0afterafterINOPER0aaDTOPER0lulllullNNOPER0followingfollowVBGOPER0thetheDTOPER0killingkillingNNOPER0ofofINOPER0twotwoCDCARDINALPER0IsraeliisraeliJJOPER0citizenscitizenNNSOPER0earlierearlierRBRDATEPER0ininINDATEPER0thetheDTDATEPER0weekweekNNDATEPER0,,,OPER0butbutCCOPER0thetheDTOPER0violenceviolenceNNOPER0hashaveVBZOPER0n'tnotRBOPER0stoppedstopVBNOPER0...OPER0(ROOT (S (S (ADVP (RB Once) (RB again)) (NP (DT the) (NNP Taba) (NN peace) (NNS talks)) (VP (VBP are) (ADVP (RB on)) (PP (IN after) (NP (DT a) (NN lull))) (PP (VBG following) (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (NP (CD two) (JJ Israeli) (NNS citizens)) (ADVP (RBR earlier) (PP (IN in) (NP (DT the) (NN week)))))))))) (, ,) (CC but) (S (NP (DT the) (NN violence)) (VP (VBZ has) (RB n't) (VP (VBN stopped)))) (. .)))
+TwotwoCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0havehaveVBPOPER0dieddieVBNOPER0afterafterINOPER0beingbeVBGOPER0shotshootVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0ininINOPER0GazaGazaNNPLOCPER0andandCCOPER0therethereEXOPER0werebeVBDOPER0nonoDTOPER0guaranteesguaranteeNNSOPER0thatthatINOPER0thetheDTOPER0talkstalkNNSOPER0wowillMDOPER0n'tnotRBOPER0collapsecollapseVBOPER0againagainRBOPER0...OPER0(ROOT (S (S (NP (CD Two) (NNPS Palestinians)) (VP (VBP have) (VP (VBN died) (PP (IN after) (S (VP (VBG being) (VP (VBN shot) (PP (IN by) (NP (JJ Israeli) (NNS soldiers))) (PP (IN in) (NP (NNP Gaza)))))))))) (CC and) (S (NP (EX there)) (VP (VBD were) (NP (DT no) (NNS guarantees)) (SBAR (IN that) (S (NP (DT the) (NNS talks)) (VP (MD wo) (RB n't) (VP (VB collapse) (ADVP (RB again)))))))) (. .)))
+IsraelIsraelNNPGPEPER0's'sPOSOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0hashaveVBZOPER0saidsayVBDOPER0hehePRPOPER0seesseeVBZOPER0nonoDTOPER0chancechanceNNOPER0ofofINOPER0aaDTOPER0dealdealNNOPER0beforebeforeINOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0electionselectionNNSOPER0ononINOPER0FebruaryFebruaryNNPDATEPER06th6thNNDATEPER0...OPER0(ROOT (S (NP (NML (NP (NNP Israel) (POS 's)) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ has) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ sees) (NP (NP (DT no) (NN chance)) (PP (IN of) (NP (NP (DT a) (NN deal)) (PP (IN before) (NP (NP (NP (NNP Israel) (POS 's)) (NNS elections)) (PP (IN on) (NP (NNP February) (NN 6th))))))))))))) (. .)))
+ThetheDTOPER0officiallyofficiallyRBOPER0statedstateVBNOPER0IsraeliisraeliJJOPER0andandCCOPER0PalestinianpalestinianJJOPER0positionspositionNNSOPER0ononINOPER0twotwoCDCARDINALPER0majormajorJJOPER0issuesissueNNSOPER0,,,OPER0thetheDTOPER0futurefutureNNOPER0ofofINOPER0JerusalemJerusalemNNPGPEPER0andandCCOPER0thetheDTOPER0fatefateNNOPER0ofofINOPER0millionsmillionNNSCARDINALPER0ofofINOPER0PalestinianpalestinianJJOPER0refugeesrefugeeNNSOPER0,,,OPER0arebeVBPOPER0stillstillRBOPER0almostalmostRBOPER0diametricallydiametricallyRBOPER0opposedopposedJJOPER0...OPER0(ROOT (S (NP (NP (DT The) (ADJP (RB officially) (VBN stated)) (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS positions)) (PP (IN on) (NP (NP (CD two) (JJ major) (NNS issues)) (, ,) (NP (NP (DT the) (NN future)) (PP (IN of) (NP (NNP Jerusalem)))) (CC and) (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (JJ Palestinian) (NNS refugees))))))))) (, ,) (VP (VBP are) (ADVP (RB still)) (ADJP (RB almost) (RB diametrically) (JJ opposed))) (. .)))
+HillaryHillaryNNPPERSONPER0AndersonAndersonNNPPERSONPER0,,,OPER0BBCBBCNNPORGPER0NewsNewsNNPORGPER0,,,OPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Hillary) (NNP Anderson)) (, ,) (NP (NNP BBC) (NNP News)) (, ,) (NP (NNP Jerusalem)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 6 headed by 1 parsed as (NP (NP (NN Peace) (NNS talks)) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))
+sid=0 spanning 9 until 14 headed by 11 parsed as (NP (NP (DT the) (JJ Egyptian) (NN resort)) (PP (IN of) (NP (NP (NNP Taba)) (, ,) (NP (NP (CD two) (NNS days)) (SBAR (IN after) (S (NP (NP (DT the) (NN government)) (PP (IN in) (NP (NNP Jerusalem)))) (VP (VBD suspended) (NP (PRP them)) (PP (VBG following) (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))))))) (, ,) (CC but) (NP (NP (NNP Israel) (POS 's)) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))))
+sid=0 spanning 18 until 22 headed by 19 parsed as (NP (NP (DT the) (NN government)) (PP (IN in) (NP (NNP Jerusalem))))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP Jerusalem))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (PRP them))
+sid=0 spanning 25 until 34 headed by 26 parsed as (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))
+sid=0 spanning 28 until 30 headed by 29 parsed as (NP (CD two) (NNPS Israelis))
+sid=0 spanning 36 until 42 headed by 41 parsed as (NP (NP (NNP Israel) (POS 's)) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 36 until 38 headed by 36 parsed as (NP (NNP Israel) (POS 's))
+sid=0 spanning 51 until 55 headed by 54 parsed as (NP (NP (JJ next) (NN month) (POS 's)) (NNS elections))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hillary) (NNP Anderson))
+sid=2 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (NNP Taba) (NN peace) (NNS talks))
+sid=2 spanning 3 until 4 headed by 3 parsed as Taba
+sid=2 spanning 12 until 22 headed by 13 parsed as (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (NP (CD two) (JJ Israeli) (NNS citizens)) (ADVP (RBR earlier) (PP (IN in) (NP (DT the) (NN week)))))))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (NP (CD two) (JJ Israeli) (NNS citizens)) (ADVP (RBR earlier) (PP (IN in) (NP (DT the) (NN week)))))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NNS talks))
+sid=4 spanning 0 until 6 headed by 5 parsed as (NP (NML (NP (NNP Israel) (POS 's)) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Israel) (POS 's))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=4 spanning 16 until 22 headed by 18 parsed as (NP (NP (NP (NNP Israel) (POS 's)) (NNS elections)) (PP (IN on) (NP (NNP February) (NN 6th))))
+sid=4 spanning 16 until 18 headed by 16 parsed as (NP (NNP Israel) (POS 's))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (NNP Jerusalem))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hillary) (NNP Anderson))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 1 parsed as (NP (NP (NN Peace) (NNS talks)) (PP (IN between) (NP (NNPS Israelis) (CC and) (NNPS Palestinians))))
+sid=0 spanning 3 until 6 headed by 3 parsed as (NP (NNPS Israelis) (CC and) (NNPS Palestinians))
+sid=0 spanning 9 until 42 headed by 11 parsed as (NP (NP (DT the) (JJ Egyptian) (NN resort)) (PP (IN of) (NP (NP (NNP Taba)) (, ,) (NP (NP (CD two) (NNS days)) (SBAR (IN after) (S (NP (NP (DT the) (NN government)) (PP (IN in) (NP (NNP Jerusalem)))) (VP (VBD suspended) (NP (PRP them)) (PP (VBG following) (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))))))) (, ,) (CC but) (NP (NP (NNP Israel) (POS 's)) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NP (NNP Taba)) (, ,) (NP (NP (CD two) (NNS days)) (SBAR (IN after) (S (NP (NP (DT the) (NN government)) (PP (IN in) (NP (NNP Jerusalem)))) (VP (VBD suspended) (NP (PRP them)) (PP (VBG following) (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))))))) (, ,) (CC but) (NP (NP (NNP Israel) (POS 's)) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))
+sid=0 spanning 13 until 42 headed by 13 parsed as (NP (NP (NNP Taba)) (, ,) (NP (NP (CD two) (NNS days)) (SBAR (IN after) (S (NP (NP (DT the) (NN government)) (PP (IN in) (NP (NNP Jerusalem)))) (VP (VBD suspended) (NP (PRP them)) (PP (VBG following) (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))))))) (, ,) (CC but) (NP (NP (NNP Israel) (POS 's)) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)))
+sid=0 spanning 15 until 34 headed by 16 parsed as (NP (NP (CD two) (NNS days)) (SBAR (IN after) (S (NP (NP (DT the) (NN government)) (PP (IN in) (NP (NNP Jerusalem)))) (VP (VBD suspended) (NP (PRP them)) (PP (VBG following) (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank)))))))))
+sid=0 spanning 18 until 22 headed by 19 parsed as (NP (NP (DT the) (NN government)) (PP (IN in) (NP (NNP Jerusalem))))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP Jerusalem))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (PRP them))
+sid=0 spanning 25 until 34 headed by 26 parsed as (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))
+sid=0 spanning 28 until 30 headed by 29 parsed as (NP (CD two) (NNPS Israelis))
+sid=0 spanning 31 until 34 headed by 33 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=0 spanning 36 until 42 headed by 41 parsed as (NP (NP (NNP Israel) (POS 's)) (NML (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 36 until 38 headed by 36 parsed as (NP (NNP Israel) (POS 's))
+sid=0 spanning 45 until 55 headed by 45 parsed as (NP (NP (NN hope)) (PP (IN for) (NP (NP (DT a) (NN peace) (NN deal)) (PP (IN before) (NP (NP (JJ next) (NN month) (POS 's)) (NNS elections))))))
+sid=0 spanning 47 until 55 headed by 49 parsed as (NP (NP (DT a) (NN peace) (NN deal)) (PP (IN before) (NP (NP (JJ next) (NN month) (POS 's)) (NNS elections))))
+sid=0 spanning 51 until 55 headed by 54 parsed as (NP (NP (JJ next) (NN month) (POS 's)) (NNS elections))
+sid=0 spanning 51 until 54 headed by 52 parsed as (NP (JJ next) (NN month) (POS 's))
+sid=0 spanning 60 until 68 headed by 61 parsed as (NP (NP (DT no) (NN end)) (PP (IN to) (NP (NP (DT the) (NN violence)) (PP (IN on) (NP (DT the) (NN ground))))))
+sid=0 spanning 63 until 68 headed by 64 parsed as (NP (NP (DT the) (NN violence)) (PP (IN on) (NP (DT the) (NN ground))))
+sid=0 spanning 66 until 68 headed by 67 parsed as (NP (DT the) (NN ground))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hillary) (NNP Anderson))
+sid=2 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (NNP Taba) (NN peace) (NNS talks))
+sid=2 spanning 3 until 4 headed by 3 parsed as Taba
+sid=2 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NN lull))
+sid=2 spanning 12 until 22 headed by 13 parsed as (NP (NP (DT the) (NN killing)) (PP (IN of) (NP (NP (CD two) (JJ Israeli) (NNS citizens)) (ADVP (RBR earlier) (PP (IN in) (NP (DT the) (NN week)))))))
+sid=2 spanning 15 until 22 headed by 17 parsed as (NP (NP (CD two) (JJ Israeli) (NNS citizens)) (ADVP (RBR earlier) (PP (IN in) (NP (DT the) (NN week)))))
+sid=2 spanning 18 until 22 headed by 18 parsed as earlier
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN violence))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (CD Two) (NNPS Palestinians))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNP Gaza))
+sid=3 spanning 15 until 17 headed by 16 parsed as (NP (DT no) (NNS guarantees))
+sid=3 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NNS talks))
+sid=4 spanning 0 until 6 headed by 5 parsed as (NP (NML (NP (NNP Israel) (POS 's)) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP Israel) (POS 's))
+sid=4 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=4 spanning 10 until 22 headed by 11 parsed as (NP (NP (DT no) (NN chance)) (PP (IN of) (NP (NP (DT a) (NN deal)) (PP (IN before) (NP (NP (NP (NNP Israel) (POS 's)) (NNS elections)) (PP (IN on) (NP (NNP February) (NN 6th))))))))
+sid=4 spanning 13 until 22 headed by 14 parsed as (NP (NP (DT a) (NN deal)) (PP (IN before) (NP (NP (NP (NNP Israel) (POS 's)) (NNS elections)) (PP (IN on) (NP (NNP February) (NN 6th))))))
+sid=4 spanning 16 until 22 headed by 18 parsed as (NP (NP (NP (NNP Israel) (POS 's)) (NNS elections)) (PP (IN on) (NP (NNP February) (NN 6th))))
+sid=4 spanning 16 until 18 headed by 16 parsed as (NP (NNP Israel) (POS 's))
+sid=4 spanning 20 until 22 headed by 21 parsed as (NP (NNP February) (NN 6th))
+sid=5 spanning 0 until 24 headed by 6 parsed as (NP (NP (DT The) (ADJP (RB officially) (VBN stated)) (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS positions)) (PP (IN on) (NP (NP (CD two) (JJ major) (NNS issues)) (, ,) (NP (NP (DT the) (NN future)) (PP (IN of) (NP (NNP Jerusalem)))) (CC and) (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (JJ Palestinian) (NNS refugees)))))))))
+sid=5 spanning 8 until 24 headed by 10 parsed as (NP (NP (CD two) (JJ major) (NNS issues)) (, ,) (NP (NP (DT the) (NN future)) (PP (IN of) (NP (NNP Jerusalem)))) (CC and) (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (JJ Palestinian) (NNS refugees)))))))
+sid=5 spanning 8 until 11 headed by 10 parsed as (NP (CD two) (JJ major) (NNS issues))
+sid=5 spanning 12 until 16 headed by 13 parsed as (NP (NP (DT the) (NN future)) (PP (IN of) (NP (NNP Jerusalem))))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (NNP Jerusalem))
+sid=5 spanning 17 until 24 headed by 18 parsed as (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (JJ Palestinian) (NNS refugees))))))
+sid=5 spanning 20 until 24 headed by 20 parsed as (NP (NP (NNS millions)) (PP (IN of) (NP (JJ Palestinian) (NNS refugees))))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (NNP Hillary) (NNP Anderson))
+sid=6 spanning 3 until 5 headed by 4 parsed as (NP (NNP BBC) (NNP News))
+sid=6 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+19 9 | { 'Israel 's elections on February 6th' 'next month 's elections' }
+2 20 8 17 | { 'the government in Jerusalem' 'Israel 's' 'Israel 's' 'Israel 's' }
+10 22 | { 'Hillary Anderson' 'Hillary Anderson' }
+23 3 21 | { 'Jerusalem' 'Jerusalem' 'Jerusalem' }
+14 6 | { 'two Israeli citizens' 'two Israelis' }
+4 15 11 0 | { 'them' 'the talks' 'the Taba peace talks' 'Peace talks between Israelis and Palestinians' }
+1 12 | { 'the Egyptian resort of Taba' 'Taba' }
+7 18 16 | { 'Israel 's Prime Minister Ehud Barak' 'he' 'Israel 's Prime Minister Ehud Barak' }
+5 13 | { 'the killing of two Israelis in the West Bank' 'the killing of two Israeli citizens earlier in the week' }
+(end gold clusters)

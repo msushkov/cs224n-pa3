@@ -1,0 +1,29 @@
+---------gloss--------
+(0) Unidentified gunmen in north western Colombia have massacred at least twelve peasants in [33m{the second such incident in as many days}[0m . 
+(1) Local police say it 's not clear who was responsible for [33m{the massacre}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0220); part 000
+sentences:
+UnidentifiedunidentifiedJJOPER0gunmengunmanNNSOPER0ininINOPER0northnorthJJOPER0westernwesternJJOPER0ColombiaColombiaNNPGPEPER0havehaveVBPOPER0massacredmassacreVBNOPER0atatINOPER0leastleastJJSOPER0twelvetwelveCDOPER0peasantspeasantNNSOPER0ininINOPER0thetheDTOPER0secondsecondJJORDINALPER0suchsuchJJOPER0incidentincidentNNOPER0ininINOPER0asasRBDATEPER0manymanyJJDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (NP (JJ Unidentified) (NNS gunmen)) (PP (IN in) (NP (ADJP (JJ north) (JJ western)) (NNP Colombia)))) (VP (VBP have) (VP (VBN massacred) (NP (QP (ADVP (IN at) (JJS least)) (CD twelve)) (NNS peasants)) (PP (IN in) (NP (NP (DT the) (JJ second) (JJ such) (NN incident)) (PP (IN in) (NP (QP (RB as) (JJ many)) (NNS days))))))) (. .)))
+LocallocalJJOPER0policepoliceNNSOPER0saysayVBPOPER0ititPRPOPER0'sbeVBZOPER0notnotRBOPER0clearclearJJOPER0whowhoWPOPER0wasbeVBDOPER0responsibleresponsibleJJOPER0forforINOPER0thetheDTOPER0massacremassacreNNOPER0...OPER0(ROOT (S (NP (JJ Local) (NNS police)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (JJ clear)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADJP (JJ responsible) (PP (IN for) (NP (DT the) (NN massacre))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 13 until 21 headed by 16 parsed as (NP (NP (DT the) (JJ second) (JJ such) (NN incident)) (PP (IN in) (NP (QP (RB as) (JJ many)) (NNS days))))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN massacre))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 6 headed by 1 parsed as (NP (NP (JJ Unidentified) (NNS gunmen)) (PP (IN in) (NP (ADJP (JJ north) (JJ western)) (NNP Colombia))))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (ADJP (JJ north) (JJ western)) (NNP Colombia))
+sid=0 spanning 8 until 12 headed by 11 parsed as (NP (QP (ADVP (IN at) (JJS least)) (CD twelve)) (NNS peasants))
+sid=0 spanning 13 until 21 headed by 16 parsed as (NP (NP (DT the) (JJ second) (JJ such) (NN incident)) (PP (IN in) (NP (QP (RB as) (JJ many)) (NNS days))))
+sid=0 spanning 14 until 15 headed by 14 parsed as second
+sid=0 spanning 18 until 21 headed by 20 parsed as (NP (QP (RB as) (JJ many)) (NNS days))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Local) (NNS police))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP it))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN massacre))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'the second such incident in as many days' 'the massacre' }
+(end gold clusters)

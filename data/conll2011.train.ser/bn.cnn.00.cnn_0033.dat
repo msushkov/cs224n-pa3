@@ -1,0 +1,92 @@
+---------gloss--------
+(0) Violence is flaring again [4m[35m{today}[0m in the Middle East . 
+(1) At a checkpoint near [31m{Ramallah}[0m , [4m[34m{Israeli troops}[0m opened fire with machine guns when someone apparently shot at [4m[34m{them}[0m from a nearby building . 
+(2) [32m{A police station in Ramallah}[0m was one of the targets of Israeli helicopter strikes yesterday after a mob beat [4m[36m{two Israeli soldiers}[0m to death . 
+(3) [4m[36m{The soldiers}[0m had been taken to [32m{the station}[0m after apparently inadvertently taking a wrong turn . 
+(4) In Jerusalem , Israeli security forces scuffled with Palestinians near [33m{the Al - aksa Mosque}[0m . 
+(5) Only worshipers older than 45 are being allowed into [33m{the mosque}[0m [4m[35m{today}[0m . 
+(6) Israeli police are keeping hundreds of young Palestinians away from [33m{the shrine}[0m . 
+(7) [4m[33m{100 people}[0m , most of [4m[33m{them}[0m Palestinians and Israeli Arabs , have died in violent clashes that began September when Israeli Likud Party leader Ariel Sharon visited the area , which is sacred to both Muslims and Jews . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0033); part 000
+sentences:
+ViolenceviolenceNNOPER0isbeVBZOPER0flaringflareVBGOPER0againagainRBOPER0todaytodayNNDATEPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0...OPER0(ROOT (S (NP (NN Violence)) (VP (VBZ is) (VP (VBG flaring) (NP (RB again) (NN today)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))) (. .)))
+AtatINOPER0aaDTOPER0checkpointcheckpointNNOPER0nearnearINOPER0RamallahRamallahNNPGPEPER0,,,OPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0openedopenVBDOPER0firefireNNOPER0withwithINOPER0machinemachineNNOPER0gunsgunNNSOPER0whenwhenWRBOPER0someonesomeoneNNOPER0apparentlyapparentlyRBOPER0shotshootVBDOPER0atatINOPER0themtheyPRPOPER0fromfromINOPER0aaDTOPER0nearbynearbyJJOPER0buildingbuildingNNOPER0...OPER0(ROOT (S (PP (IN At) (NP (NP (DT a) (NN checkpoint)) (PP (IN near) (NP (NNP Ramallah))))) (, ,) (NP (JJ Israeli) (NNS troops)) (VP (VBD opened) (NP (NP (NN fire)) (PP (IN with) (NP (NN machine) (NNS guns)))) (SBAR (WHADVP (WRB when)) (S (NP (NN someone)) (ADVP (RB apparently)) (VP (VBD shot) (PP (IN at) (NP (PRP them))) (PP (IN from) (NP (DT a) (JJ nearby) (NN building))))))) (. .)))
+AaDTOPER0policepoliceNNOPER0stationstationNNOPER0ininINOPER0RamallahRamallahNNPGPEPER0wasbeVBDOPER0oneoneCDOPER0ofofINOPER0thetheDTOPER0targetstargetNNSOPER0ofofINOPER0IsraeliisraeliJJOPER0helicopterhelicopterNNOPER0strikesstrikeNNSOPER0yesterdayyesterdayNNDATEPER0afterafterINOPER0aaDTOPER0mobmobNNOPER0beatbeatVBDOPER0twotwoCDCARDINALPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0totoINOPER0deathdeathNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (NN police) (NN station)) (PP (IN in) (NP (NNP Ramallah)))) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS targets)) (PP (IN of) (NP (JJ Israeli) (NN helicopter) (NNS strikes)))))) (NP (NN yesterday)) (SBAR (IN after) (S (NP (DT a) (NN mob)) (VP (VBD beat) (NP (CD two) (JJ Israeli) (NNS soldiers)) (PP (IN to) (NP (NN death))))))) (. .)))
+ThetheDTOPER0soldierssoldierNNSOPER0hadhaveVBDOPER0beenbeVBNOPER0takentakeVBNOPER0totoINOPER0thetheDTOPER0stationstationNNOPER0afterafterINOPER0apparentlyapparentlyRBOPER0inadvertentlyinadvertentlyRBOPER0takingtakeVBGOPER0aaDTOPER0wrongwrongJJOPER0turnturnNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS soldiers)) (VP (VBD had) (VP (VBN been) (VP (VBN taken) (PP (IN to) (NP (DT the) (NN station))) (PP (IN after) (S (ADVP (RB apparently)) (ADVP (RB inadvertently)) (VP (VBG taking) (NP (DT a) (JJ wrong) (NN turn)))))))) (. .)))
+IninINOPER0JerusalemJerusalemNNPGPEPER0,,,OPER0IsraeliisraeliJJOPER0securitysecurityNNOPER0forcesforceNNSOPER0scuffledscuffleVBDOPER0withwithINOPER0PalestiniansPalestiniansNNPSOPER0nearnearINOPER0thetheDTORGPER0AlAlNNPORGPER0--HYPHORGPER0aksaaksaNNPORGPER0MosqueMosqueNNPORGPER0...OPER0(ROOT (S (PP (IN In) (NP (NNP Jerusalem))) (, ,) (NP (JJ Israeli) (NN security) (NNS forces)) (VP (VBD scuffled) (PP (IN with) (NP (NNPS Palestinians))) (PP (IN near) (NP (DT the) (NML (NNP Al) (HYPH -) (NNP aksa)) (NNP Mosque)))) (. .)))
+OnlyonlyJJOPER0worshipersworshiperNNSOPER0olderolderJJROPER0thanthanINOPER04545CDCARDINALPER0arebeVBPOPER0beingbeVBGOPER0allowedallowVBNOPER0intointoINOPER0thetheDTOPER0mosquemosqueNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (JJ Only) (NNS worshipers)) (NP (QP (XS (JJR older) (IN than)) (CD 45)))) (VP (VBP are) (VP (VBG being) (VP (VBN allowed) (PP (IN into) (NP (NP (DT the) (NN mosque)) (NP (NN today))))))) (. .)))
+IsraeliisraeliJJOPER0policepoliceNNSOPER0arebeVBPOPER0keepingkeepVBGOPER0hundredshundredNNSCARDINALPER0ofofINOPER0youngyoungJJOPER0PalestiniansPalestiniansNNPSOPER0awayawayRBOPER0fromfromINOPER0thetheDTOPER0shrineshrineNNOPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS police)) (VP (VBP are) (VP (VBG keeping) (NP (NP (NNS hundreds)) (PP (IN of) (NP (JJ young) (NNPS Palestinians)))) (ADVP (RB away) (PP (IN from) (NP (DT the) (NN shrine)))))) (. .)))
+100100CDCARDINALPER0peoplepeopleNNSOPER0,,,OPER0mostmostJJSOPER0ofofINOPER0themtheyPRPOPER0PalestiniansPalestiniansNNPSOPER0andandCCOPER0IsraeliisraeliJJOPER0ArabsArabsNNPSOPER0,,,OPER0havehaveVBPOPER0dieddieVBNOPER0ininINOPER0violentviolentJJOPER0clashesclashNNSOPER0thatthatWDTOPER0beganbeginVBDOPER0SeptemberSeptemberNNPDATEPER0whenwhenWRBOPER0IsraeliIsraeliNNPOPER0LikudLikudNNPORGPER0PartyPartyNNPORGPER0leaderleaderNNOPER0ArielArielNNPPERSONPER0SharonSharonNNPPERSONPER0visitedvisitVBDOPER0thetheDTOPER0areaareaNNOPER0,,,OPER0whichwhichWDTOPER0isbeVBZOPER0sacredsacredJJOPER0totoINOPER0bothbothDTOPER0MuslimsMuslimsNNPSOPER0andandCCOPER0JewsJewsNNPSOPER0...OPER0(ROOT (S (NP (CD 100) (NNS people)) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP them)) (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNPS Arabs))))) (, ,) (VP (VBP have) (VP (VBN died) (PP (IN in) (NP (NP (JJ violent) (NNS clashes)) (SBAR (WHNP (WDT that)) (S (VP (VBD began) (NP (NNP September)) (SBAR (WHADVP (WRB when)) (S (NP (NML (NML (NNP Israeli) (NNP Likud) (NNP Party)) (NN leader)) (NNP Ariel) (NNP Sharon)) (VP (VBD visited) (NP (NP (DT the) (NN area)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ sacred) (PP (IN to) (NP (DT both) (NNPS Muslims) (CC and) (NNPS Jews)))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (RB again) (NN today))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Ramallah))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (JJ Israeli) (NNS troops))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (PRP them))
+sid=2 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT A) (NN police) (NN station)) (PP (IN in) (NP (NNP Ramallah))))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNP Ramallah))
+sid=2 spanning 19 until 22 headed by 21 parsed as (NP (CD two) (JJ Israeli) (NNS soldiers))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS soldiers))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN station))
+sid=4 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (NML (NNP Al) (HYPH -) (NNP aksa)) (NNP Mosque))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (NP (DT the) (NN mosque)) (NP (NN today)))
+sid=5 spanning 11 until 12 headed by 11 parsed as (NP (NN today))
+sid=6 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN shrine))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (CD 100) (NNS people))
+sid=7 spanning 5 until 6 headed by 5 parsed as (NP (NP (PRP them)) (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNPS Arabs)))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (RB again) (NN today))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=1 spanning 1 until 5 headed by 2 parsed as (NP (NP (DT a) (NN checkpoint)) (PP (IN near) (NP (NNP Ramallah))))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Ramallah))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (JJ Israeli) (NNS troops))
+sid=1 spanning 9 until 13 headed by 9 parsed as (NP (NP (NN fire)) (PP (IN with) (NP (NN machine) (NNS guns))))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NN machine) (NNS guns))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (PRP them))
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (DT a) (JJ nearby) (NN building))
+sid=2 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT A) (NN police) (NN station)) (PP (IN in) (NP (NNP Ramallah))))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNP Ramallah))
+sid=2 spanning 6 until 14 headed by 6 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS targets)) (PP (IN of) (NP (JJ Israeli) (NN helicopter) (NNS strikes))))))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (JJ Israeli) (NN helicopter) (NNS strikes))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NN yesterday))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT a) (NN mob))
+sid=2 spanning 19 until 22 headed by 21 parsed as (NP (CD two) (JJ Israeli) (NNS soldiers))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS soldiers))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN station))
+sid=3 spanning 12 until 15 headed by 14 parsed as (NP (DT a) (JJ wrong) (NN turn))
+sid=4 spanning 1 until 2 headed by 1 parsed as (NP (NNP Jerusalem))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (JJ Israeli) (NN security) (NNS forces))
+sid=4 spanning 10 until 15 headed by 14 parsed as (NP (DT the) (NML (NNP Al) (HYPH -) (NNP aksa)) (NNP Mosque))
+sid=5 spanning 0 until 5 headed by 1 parsed as (NP (NP (JJ Only) (NNS worshipers)) (NP (QP (XS (JJR older) (IN than)) (CD 45))))
+sid=5 spanning 2 until 5 headed by 4 parsed as (NP (QP (XS (JJR older) (IN than)) (CD 45)))
+sid=5 spanning 9 until 12 headed by 10 parsed as (NP (NP (DT the) (NN mosque)) (NP (NN today)))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS police))
+sid=6 spanning 4 until 8 headed by 4 parsed as (NP (NP (NNS hundreds)) (PP (IN of) (NP (JJ young) (NNPS Palestinians))))
+sid=6 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN shrine))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (CD 100) (NNS people))
+sid=7 spanning 3 until 10 headed by 3 parsed as (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP them)) (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNPS Arabs)))))
+sid=7 spanning 5 until 10 headed by 5 parsed as (NP (NP (PRP them)) (NP (NNPS Palestinians)) (CC and) (NP (JJ Israeli) (NNPS Arabs)))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (JJ Israeli) (NNPS Arabs))
+sid=7 spanning 14 until 38 headed by 15 parsed as (NP (NP (JJ violent) (NNS clashes)) (SBAR (WHNP (WDT that)) (S (VP (VBD began) (NP (NNP September)) (SBAR (WHADVP (WRB when)) (S (NP (NML (NML (NNP Israeli) (NNP Likud) (NNP Party)) (NN leader)) (NNP Ariel) (NNP Sharon)) (VP (VBD visited) (NP (NP (DT the) (NN area)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ sacred) (PP (IN to) (NP (DT both) (NNPS Muslims) (CC and) (NNPS Jews)))))))))))))))
+sid=7 spanning 18 until 19 headed by 18 parsed as (NP (NNP September))
+sid=7 spanning 20 until 26 headed by 25 parsed as (NP (NML (NML (NNP Israeli) (NNP Likud) (NNP Party)) (NN leader)) (NNP Ariel) (NNP Sharon))
+sid=7 spanning 21 until 23 headed by 22 parsed as Party
+sid=7 spanning 27 until 38 headed by 28 parsed as (NP (NP (DT the) (NN area)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ sacred) (PP (IN to) (NP (DT both) (NNPS Muslims) (CC and) (NNPS Jews))))))))
+sid=7 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN area))
+sid=7 spanning 34 until 38 headed by 35 parsed as (NP (DT both) (NNPS Muslims) (CC and) (NNPS Jews))
+sid=7 spanning 35 until 36 headed by 35 parsed as (NNPS Muslims)
+sid=7 spanning 37 until 38 headed by 37 parsed as (NNPS Jews)
+(end predicted mentions)
+---------gold clusters--------
+14 13 | { 'them' '100 people' }
+3 2 | { 'them' 'Israeli troops' }
+11 0 | { 'today' 'today' }
+6 7 | { 'two Israeli soldiers' 'The soldiers' }
+5 1 | { 'Ramallah' 'Ramallah' }
+4 8 | { 'A police station in Ramallah' 'the station' }
+12 9 10 | { 'the shrine' 'the Al - aksa Mosque' 'the mosque' }
+(end gold clusters)

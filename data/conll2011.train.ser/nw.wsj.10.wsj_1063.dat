@@ -1,0 +1,41 @@
+---------gloss--------
+(0) [4m[33m{Toshiba Corp.}[0m said [4m[33m{its}[0m new French marketing concern has started operating under the aegis of [4m[33m{the company 's}[0m West German subsidiary , which formerly handled all sales of [4m[33m{Toshiba}[0m electronic products in France . 
+(1) A recent change in French law , according to [4m[33m{Toshiba}[0m , permitted formation of [4m[32m{the semiconductor marketing arm}[0m in Paris . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1063); part 000
+sentences:
+ToshibaToshibaNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0newnewJJOPER0FrenchfrenchJJOPER0marketingmarketingNNOPER0concernconcernNNOPER0hashaveVBZOPER0startedstartVBNOPER0operatingoperateVBGOPER0underunderINOPER0thetheDTOPER0aegisaegisNNPOPER0ofofINOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0WestWestNNPOPER0GermanGermanNNPOPER0subsidiarysubsidiaryNNOPER0,,,OPER0whichwhichWDTOPER0formerlyformerlyRBOPER0handledhandleVBDOPER0allallDTOPER0salessaleNNSOPER0ofofINOPER0ToshibaToshibaNNPORGPER0electronicelectronicJJOPER0productsproductNNSOPER0ininINOPER0FranceFranceNNPGPEPER0...OPER0(ROOT (S (NP (NNP Toshiba) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ new) (JJ French) (NN marketing) (NN concern)) (VP (VBZ has) (VP (VBN started) (S (VP (VBG operating) (PP (IN under) (NP (NP (NP (DT the) (NNP aegis)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NML (NNP West) (NNP German)) (NN subsidiary)))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB formerly)) (VP (VBD handled) (NP (NP (DT all) (NNS sales)) (PP (IN of) (NP (NNP Toshiba) (JJ electronic) (NNS products)))) (PP (IN in) (NP (NNP France))))))))))))))) (. .)))
+AaDTOPER0recentrecentJJOPER0changechangeNNOPER0ininINOPER0FrenchfrenchJJOPER0lawlawNNOPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0ToshibaToshibaNNPORGPER0,,,OPER0permittedpermitVBDOPER0formationformationNNOPER0ofofINOPER0thetheDTOPER0semiconductorsemiconductorNNOPER0marketingmarketingNNOPER0armarmNNOPER0ininINOPER0ParisParisNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ recent) (NN change)) (PP (IN in) (NP (JJ French) (NN law)))) (, ,) (PP (VBG according) (PP (IN to) (NP (NNP Toshiba)))) (, ,) (VP (VBD permitted) (NP (NP (NN formation)) (PP (IN of) (NP (NP (DT the) (NML (NN semiconductor) (NN marketing)) (NN arm)) (PP (IN in) (NP (NNP Paris))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Toshiba) (NNP Corp.))
+sid=0 spanning 3 until 8 headed by 7 parsed as (NP (PRP$ its) (JJ new) (JJ French) (NN marketing) (NN concern))
+sid=0 spanning 3 until 4 headed by 3 parsed as its
+sid=0 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN company) (POS 's))
+sid=0 spanning 28 until 29 headed by 28 parsed as Toshiba
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Toshiba))
+sid=1 spanning 14 until 18 headed by 17 parsed as (NP (NP (DT the) (NML (NN semiconductor) (NN marketing)) (NN arm)) (PP (IN in) (NP (NNP Paris))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Toshiba) (NNP Corp.))
+sid=0 spanning 3 until 8 headed by 7 parsed as (NP (PRP$ its) (JJ new) (JJ French) (NN marketing) (NN concern))
+sid=0 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=0 spanning 12 until 33 headed by 13 parsed as (NP (NP (NP (DT the) (NNP aegis)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NML (NNP West) (NNP German)) (NN subsidiary)))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB formerly)) (VP (VBD handled) (NP (NP (DT all) (NNS sales)) (PP (IN of) (NP (NNP Toshiba) (JJ electronic) (NNS products)))) (PP (IN in) (NP (NNP France)))))))
+sid=0 spanning 12 until 21 headed by 13 parsed as (NP (NP (DT the) (NNP aegis)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NML (NNP West) (NNP German)) (NN subsidiary))))
+sid=0 spanning 15 until 21 headed by 20 parsed as (NP (NP (DT the) (NN company) (POS 's)) (NML (NNP West) (NNP German)) (NN subsidiary))
+sid=0 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN company) (POS 's))
+sid=0 spanning 28 until 31 headed by 30 parsed as (NP (NNP Toshiba) (JJ electronic) (NNS products))
+sid=0 spanning 28 until 29 headed by 28 parsed as Toshiba
+sid=0 spanning 32 until 33 headed by 32 parsed as (NP (NNP France))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT A) (JJ recent) (NN change)) (PP (IN in) (NP (JJ French) (NN law))))
+sid=1 spanning 9 until 10 headed by 9 parsed as (NP (NNP Toshiba))
+sid=1 spanning 12 until 20 headed by 12 parsed as (NP (NP (NN formation)) (PP (IN of) (NP (NP (DT the) (NML (NN semiconductor) (NN marketing)) (NN arm)) (PP (IN in) (NP (NNP Paris))))))
+sid=1 spanning 14 until 20 headed by 17 parsed as (NP (NP (DT the) (NML (NN semiconductor) (NN marketing)) (NN arm)) (PP (IN in) (NP (NNP Paris))))
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (NNP Paris))
+(end predicted mentions)
+---------gold clusters--------
+1 6 | { 'its new French marketing concern' 'the semiconductor marketing arm' }
+5 3 2 0 4 | { 'Toshiba' 'the company 's' 'its' 'Toshiba Corp.' 'Toshiba' }
+(end gold clusters)

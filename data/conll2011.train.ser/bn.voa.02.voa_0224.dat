@@ -1,0 +1,52 @@
+---------gloss--------
+(0) In the West Bank [32m{Sunday}[0m , [34m{a 20 - year - old Palestinian woman}[0m was shot dead while driving on a road leading to Jewish settlements near Nablus . 
+(1) [34m{She}[0m was the second Palestinian woman killed by Israeli forces in two days . 
+(2) Meanwhile Israeli security services [33m{charged}[0m [32m{Sunday}[0m that a Jordanian prisoner suspected in a bus bombing in Netanya last month had been recruited by the Palestinian security services . 
+(3) A Palestinian spokesman called [33m{that charge}[0m a fabrication . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0224); part 000
+sentences:
+IninINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0SundaySundayNNPDATEPER0,,,OPER0aaDTOPER02020CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHOPER0oldoldJJOPER0PalestinianpalestinianJJOPER0womanwomanNNOPER0wasbeVBDOPER0shotshootVBNOPER0deaddeadJJOPER0whilewhileINOPER0drivingdriveVBGOPER0ononINOPER0aaDTOPER0roadroadNNOPER0leadingleadVBGOPER0totoINOPER0JewishjewishJJOPER0settlementssettlementNNSOPER0nearnearINOPER0NablusNablusNNPGPEPER0...OPER0(ROOT (S (PP (IN In) (NP (DT the) (NNP West) (NNP Bank))) (NP (NNP Sunday)) (, ,) (NP (DT a) (ADJP (NML (CD 20) (HYPH -) (NN year)) (HYPH -) (JJ old)) (JJ Palestinian) (NN woman)) (VP (VBD was) (VP (VBN shot) (S (ADJP (JJ dead))) (SBAR (IN while) (S (VP (VBG driving) (PP (IN on) (NP (NP (DT a) (NN road)) (VP (VBG leading) (PP (IN to) (NP (NP (JJ Jewish) (NNS settlements)) (PP (IN near) (NP (NNP Nablus))))))))))))) (. .)))
+SheshePRPOPER0wasbeVBDOPER0thetheDTOPER0secondsecondJJORDINALPER0PalestinianpalestinianJJOPER0womanwomanNNOPER0killedkillVBNOPER0bybyINOPER0IsraeliisraeliJJOPER0forcesforceNNSOPER0ininINOPER0twotwoCDDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (PRP She)) (VP (VBD was) (NP (NP (DT the) (JJ second) (JJ Palestinian) (NN woman)) (VP (VBN killed) (PP (IN by) (NP (JJ Israeli) (NNS forces))) (PP (IN in) (NP (CD two) (NNS days)))))) (. .)))
+MeanwhilemeanwhileRBOPER0IsraeliisraeliJJOPER0securitysecurityNNOPER0servicesserviceNNSOPER0chargedchargeVBDOPER0SundaySundayNNPDATEPER0thatthatINOPER0aaDTOPER0JordanianjordanianJJOPER0prisonerprisonerNNOPER0suspectedsuspectVBNOPER0ininINOPER0aaDTOPER0busbusNNOPER0bombingbombingNNOPER0ininINOPER0NetanyaNetanyaNNPGPEPER0lastlastJJDATEPER0monthmonthNNDATEPER0hadhaveVBDOPER0beenbeVBNOPER0recruitedrecruitVBNOPER0bybyINOPER0thetheDTOPER0PalestinianpalestinianJJOPER0securitysecurityNNOPER0servicesserviceNNSOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (NP (JJ Israeli) (NN security) (NNS services)) (VP (VBD charged) (NP (NNP Sunday)) (SBAR (IN that) (S (NP (NP (DT a) (JJ Jordanian) (NN prisoner)) (VP (VBN suspected) (PP (IN in) (NP (NP (DT a) (NN bus) (NN bombing)) (PP (IN in) (NP (NNP Netanya))))) (NP (JJ last) (NN month)))) (VP (VBD had) (VP (VBN been) (VP (VBN recruited) (PP (IN by) (NP (DT the) (NML (JJ Palestinian) (NN security)) (NNS services))))))))) (. .)))
+AaDTOPER0PalestinianPalestinianNNPOPER0spokesmanspokesmanNNOPER0calledcallVBDOPER0thatthatDTOPER0chargechargeNNOPER0aaDTOPER0fabricationfabricationNNOPER0...OPER0(ROOT (S (NP (DT A) (NNP Palestinian) (NN spokesman)) (VP (VBD called) (NP (DT that) (NN charge)) (S (NP (DT a) (NN fabrication)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Sunday))
+sid=0 spanning 6 until 14 headed by 13 parsed as (NP (DT a) (ADJP (NML (CD 20) (HYPH -) (NN year)) (HYPH -) (JJ old)) (JJ Palestinian) (NN woman))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=2 spanning 4 until 5 headed by 4 parsed as charged
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Sunday))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT that) (NN charge))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP Sunday))
+sid=0 spanning 6 until 14 headed by 13 parsed as (NP (DT a) (ADJP (NML (CD 20) (HYPH -) (NN year)) (HYPH -) (JJ old)) (JJ Palestinian) (NN woman))
+sid=0 spanning 7 until 10 headed by 9 parsed as year
+sid=0 spanning 20 until 28 headed by 21 parsed as (NP (NP (DT a) (NN road)) (VP (VBG leading) (PP (IN to) (NP (NP (JJ Jewish) (NNS settlements)) (PP (IN near) (NP (NNP Nablus)))))))
+sid=0 spanning 24 until 28 headed by 25 parsed as (NP (NP (JJ Jewish) (NNS settlements)) (PP (IN near) (NP (NNP Nablus))))
+sid=0 spanning 27 until 28 headed by 27 parsed as (NP (NNP Nablus))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP She))
+sid=1 spanning 2 until 13 headed by 5 parsed as (NP (NP (DT the) (JJ second) (JJ Palestinian) (NN woman)) (VP (VBN killed) (PP (IN by) (NP (JJ Israeli) (NNS forces))) (PP (IN in) (NP (CD two) (NNS days)))))
+sid=1 spanning 3 until 4 headed by 3 parsed as second
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (JJ Israeli) (NNS forces))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (CD two) (NNS days))
+sid=2 spanning 1 until 4 headed by 3 parsed as (NP (JJ Israeli) (NN security) (NNS services))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Sunday))
+sid=2 spanning 7 until 19 headed by 9 parsed as (NP (NP (DT a) (JJ Jordanian) (NN prisoner)) (VP (VBN suspected) (PP (IN in) (NP (NP (DT a) (NN bus) (NN bombing)) (PP (IN in) (NP (NNP Netanya))))) (NP (JJ last) (NN month))))
+sid=2 spanning 12 until 17 headed by 14 parsed as (NP (NP (DT a) (NN bus) (NN bombing)) (PP (IN in) (NP (NNP Netanya))))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NNP Netanya))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (JJ last) (NN month))
+sid=2 spanning 23 until 27 headed by 26 parsed as (NP (DT the) (NML (JJ Palestinian) (NN security)) (NNS services))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Palestinian) (NN spokesman))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT that) (NN charge))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN fabrication))
+(end predicted mentions)
+---------gold clusters--------
+4 0 | { 'Sunday' 'Sunday' }
+3 5 | { 'charged' 'that charge' }
+1 2 | { 'a 20 - year - old Palestinian woman' 'She' }
+(end gold clusters)

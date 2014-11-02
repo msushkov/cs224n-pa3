@@ -1,0 +1,118 @@
+---------gloss--------
+(0) Stocks sold off on Wall Street today , ending a two - session rally . 
+(1) One catalyst rose to the highest level in more then a year . 
+(2) The Dow Jones Industrial Average down 75.62 . 
+(3) The Nasdaq lost almost nine . 
+(4) The S&P 500 down almost eight . 
+(5) [1m[32m{The 11th executive of Health South}[0m charged with two counts of bank fraud . 
+(6) [1m[32m{The former chief financial officer}[0m became the 50th executive anybody corporate America to be charged since [35m{Enron 's}[0m collapse . 
+(7) Seven [35m{Enron}[0m executives have also been charged , 507 days since [35m{Enron}[0m filed for bankruptcy . 
+(8) The SE KRE held a closed door meeting on [36m{the settlement over conflict of interest in stock research}[0m . 
+(9) Sources tell us a final deal will be announced Monday in Washington . 
+(10) Regulators and research firms promised that [36m{the $ 1.5 billion settlement}[0m would be finalized two months ago . 
+(11) No settlement in [1m[33m{the Dixie Chicks}[0m dispute . 
+(12) [1m[33m{The singers}[0m fighting back now about the criticism of [1m[33m{their}[0m remarks against President Bush , and [1m[31m{the material girl}[0m , [1m[31m{she}[0m 's fighting [1m[31m{her}[0m own past , criticizing Americans for values [1m[31m{she}[0m once espoused . 
+(13) Bill Tucker has the story . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0310); part 000
+sentences:
+StocksstockNNSOPER0soldsellVBDOPER0offoffRPOPER0ononINOPER0WallWallNNPOPER0StreetStreetNNPOPER0todaytodayNNDATEPER0,,,OPER0endingendVBGOPER0aaDTOPER0twotwoCDCARDINALPER0--HYPHOPER0sessionsessionNNOPER0rallyrallyNNOPER0...OPER0(ROOT (S (NP (NNS Stocks)) (VP (VBD sold) (PRT (RP off)) (PP (IN on) (NP (NNP Wall) (NNP Street))) (NP (NN today)) (, ,) (S (VP (VBG ending) (NP (DT a) (NML (CD two) (HYPH -) (NN session)) (NN rally))))) (. .)))
+OneoneCDOPER0catalystcatalystNNOPER0roseriseVBDOPER0totoINOPER0thetheDTOPER0highesthighestJJSOPER0levellevelNNOPER0ininINOPER0moremoreJJROPER0thenthenINOPER0aaDTOPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (CD One) (NN catalyst)) (VP (VBD rose) (PP (IN to) (NP (NP (DT the) (JJS highest) (NN level)) (PP (IN in) (NP (QP (XS (JJR more) (IN then)) (DT a)) (NN year)))))) (. .)))
+ThetheDTOPER0DowDowNNPOPER0JonesJonesNNPOPER0IndustrialIndustrialNNPOPER0AverageAverageNNPOPER0downdownRBOPER075.6275.62VBDCARDINALPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP Dow) (NNP Jones)) (NNP Industrial) (NNP Average)) (ADVP (RB down)) (VP (VBD 75.62)) (. .)))
+ThetheDTOPER0NasdaqNasdaqNNPORGPER0lostloseVBDOPER0almostalmostRBCARDINALPER0ninenineCDCARDINALPER0...OPER0(ROOT (S (NP (DT The) (NNP Nasdaq)) (VP (VBD lost) (NP (QP (RB almost) (CD nine)))) (. .)))
+ThetheDTOPER0S&PS&PNNPORGPER0500500CDCARDINALPER0downdownNNOPER0almostalmostRBCARDINALPER0eighteightCDCARDINALPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP S&P) (CD 500)) (NN down) (QP (RB almost) (CD eight))) (. .)))
+ThetheDTOPER011th11thJJORDINALPER0executiveexecutiveNNOPER0ofofINOPER0HealthHealthNNPORGPER0SouthSouthNNPORGPER0chargedchargeVBNOPER0withwithINOPER0twotwoCDCARDINALPER0countscountNNSOPER0ofofINOPER0bankbankNNOPER0fraudfraudNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ 11th) (NN executive)) (PP (IN of) (NP (NNP Health) (NNP South)))) (VP (VBN charged) (PP (IN with) (NP (NP (CD two) (NNS counts)) (PP (IN of) (NP (NN bank) (NN fraud)))))) (. .)))
+ThetheDTOPER0formerformerJJOPER0chiefchiefJJOPER0financialfinancialJJOPER0officerofficerNNOPER0becamebecomeVBDOPER0thetheDTOPER050th50thJJORDINALPER0executiveexecutiveJJOPER0anybodyanybodyNNOPER0corporatecorporateJJOPER0AmericaAmericaNNPGPEPER0totoTOOPER0bebeVBOPER0chargedchargeVBNOPER0sincesinceINOPER0EnronEnronNNPORGPER0's'sPOSOPER0collapsecollapseNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ former) (JJ chief) (JJ financial) (NN officer)) (VP (VBD became) (NP (DT the) (JJ 50th) (JJ executive) (NN anybody)) (NP (JJ corporate) (NNP America)) (S (VP (TO to) (VP (VB be) (VP (VBN charged) (PP (IN since) (NP (NP (NNP Enron) (POS 's)) (NN collapse)))))))) (. .)))
+SevensevenCDCARDINALPER0EnronEnronNNPORGPER0executivesexecutiveNNSOPER0havehaveVBPOPER0alsoalsoRBOPER0beenbeVBNOPER0chargedchargeVBNOPER0,,,OPER0507507CDDATEPER0daysdayNNSDATEPER0sincesinceINOPER0EnronEnronNNPORGPER0filedfileVBDOPER0forforINOPER0bankruptcybankruptcyNNOPER0...OPER0(ROOT (S (NP (CD Seven) (NNP Enron) (NNS executives)) (VP (VBP have) (ADVP (RB also)) (VP (VBN been) (VP (VBN charged) (, ,) (SBAR (NP (CD 507) (NNS days)) (IN since) (S (NP (NNP Enron)) (VP (VBD filed) (PP (IN for) (NP (NN bankruptcy))))))))) (. .)))
+ThetheDTPRODUCTPER0SESENNPPRODUCTPER0KREKRENNPPRODUCTPER0heldholdVBDOPER0aaDTOPER0closedclosedJJOPER0doordoorNNOPER0meetingmeetingNNOPER0ononINOPER0thetheDTOPER0settlementsettlementNNOPER0overoverINOPER0conflictconflictNNOPER0ofofINOPER0interestinterestNNOPER0ininINOPER0stockstockNNOPER0researchresearchNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP SE) (NNP KRE)) (VP (VBD held) (NP (NP (DT a) (NML (JJ closed) (NN door)) (NN meeting)) (PP (IN on) (NP (DT the) (NN settlement)))) (PP (IN over) (NP (NP (NN conflict)) (PP (IN of) (NP (NP (NN interest)) (PP (IN in) (NP (NN stock) (NN research)))))))) (. .)))
+SourcessourceNNSOPER0telltellVBPOPER0uswePRPOPER0aaDTOPER0finalfinalJJOPER0dealdealNNOPER0willwillMDOPER0bebeVBOPER0announcedannounceVBNOPER0MondayMondayNNPDATEPER0ininINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (NP (NNS Sources)) (VP (VBP tell) (NP (PRP us)) (SBAR (S (NP (DT a) (JJ final) (NN deal)) (VP (MD will) (VP (VB be) (VP (VBN announced) (NP (NNP Monday)) (PP (IN in) (NP (NNP Washington))))))))) (. .)))
+RegulatorsregulatorNNSOPER0andandCCOPER0researchresearchNNOPER0firmsfirmNNSOPER0promisedpromiseVBDOPER0thatthatINOPER0thetheDTOPER0$$$MONEYPER01.51.5CDMONEYPER0billionbillionCDMONEYPER0settlementsettlementNNOPER0wouldwouldMDOPER0bebeVBOPER0finalizedfinalizeVBNOPER0twotwoCDDATEPER0monthsmonthNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (NP (NNS Regulators)) (CC and) (NP (NN research) (NNS firms))) (VP (VBD promised) (SBAR (IN that) (S (NP (DT the) (NML (QP ($ $) (CD 1.5) (CD billion))) (NN settlement)) (VP (MD would) (VP (VB be) (VP (VBN finalized) (ADVP (NP (CD two) (NNS months)) (RB ago)))))))) (. .)))
+NonoDTOPER0settlementsettlementNNOPER0ininINOPER0thetheDTOPER0DixieDixieNNPOPER0ChicksChicksNNPSOPER0disputedisputeVBPOPER0...OPER0(ROOT (S (NP (NP (DT No) (NN settlement)) (PP (IN in) (NP (DT the) (NNP Dixie) (NNPS Chicks)))) (VP (VBP dispute)) (. .)))
+ThetheDTOPER0singerssingerNNSOPER0fightingfightVBGOPER0backbackRPOPER0nownowRBOPER0aboutaboutINOPER0thetheDTOPER0criticismcriticismNNOPER0ofofINOPER0theirtheyPRP$OPER0remarksremarkNNSOPER0againstagainstINOPER0PresidentPresidentNNPOPER0BushBushNNPPERSONPER0,,,OPER0andandCCOPER0thetheDTOPER0materialmaterialJJOPER0girlgirlNNOPER0,,,OPER0sheshePRPOPER0'sbeVBZOPER0fightingfightVBGOPER0hershePRP$OPER0ownownJJOPER0pastpastNNOPER0,,,OPER0criticizingcriticizeVBGOPER0AmericansAmericansNNPSOPER0forforINOPER0valuesvalueNNSOPER0sheshePRPOPER0onceonceRBOPER0espousedespouseVBNOPER0...OPER0(ROOT (S (S (NP (DT The) (NNS singers)) (VP (VBG fighting) (PRT (RP back)) (PP (ADVP (RB now)) (IN about) (NP (NP (DT the) (NN criticism)) (PP (IN of) (NP (PRP$ their) (NNS remarks))))) (PP (IN against) (NP (NNP President) (NNP Bush))))) (, ,) (CC and) (S (NP (DT the) (JJ material) (NN girl)) (, ,) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG fighting) (NP (PRP$ her) (JJ own) (NN past))))) (, ,) (VP (VBG criticizing) (NP (NNPS Americans)) (PP (IN for) (NP (NP (NNS values)) (VP (ADVP (PRP she) (RB once)) (VBN espoused)))))) (. .)))
+BillBillNNPPERSONPER0TuckerTuckerNNPPERSONPER0hashaveVBZOPER0thetheDTOPER0storystoryNNOPER0...OPER0(ROOT (S (NP (NNP Bill) (NNP Tucker)) (VP (VBZ has) (NP (DT the) (NN story))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=5 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (JJ 11th) (NN executive)) (PP (IN of) (NP (NNP Health) (NNP South))))
+sid=6 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (JJ former) (JJ chief) (JJ financial) (NN officer))
+sid=6 spanning 16 until 18 headed by 16 parsed as (NP (NNP Enron) (POS 's))
+sid=7 spanning 1 until 2 headed by 1 parsed as Enron
+sid=7 spanning 11 until 12 headed by 11 parsed as (NP (NNP Enron))
+sid=8 spanning 9 until 18 headed by 10 parsed as (NP (DT the) (NN settlement))
+sid=10 spanning 6 until 11 headed by 10 parsed as (NP (DT the) (NML (QP ($ $) (CD 1.5) (CD billion))) (NN settlement))
+sid=11 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Dixie) (NNPS Chicks))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS singers))
+sid=12 spanning 9 until 10 headed by 9 parsed as their
+sid=12 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ material) (NN girl))
+sid=12 spanning 20 until 21 headed by 20 parsed as (NP (PRP she))
+sid=12 spanning 23 until 24 headed by 23 parsed as her
+sid=12 spanning 31 until 32 headed by 31 parsed as she
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNS Stocks))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Wall) (NNP Street))
+sid=0 spanning 9 until 14 headed by 13 parsed as (NP (DT a) (NML (CD two) (HYPH -) (NN session)) (NN rally))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (CD One) (NN catalyst))
+sid=1 spanning 4 until 12 headed by 6 parsed as (NP (NP (DT the) (JJS highest) (NN level)) (PP (IN in) (NP (QP (XS (JJR more) (IN then)) (DT a)) (NN year))))
+sid=1 spanning 8 until 12 headed by 11 parsed as (NP (QP (XS (JJR more) (IN then)) (DT a)) (NN year))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP Dow) (NNP Jones)) (NNP Industrial) (NNP Average))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Nasdaq))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (QP (RB almost) (CD nine)))
+sid=4 spanning 0 until 6 headed by 3 parsed as (NP (DT The) (NML (NNP S&P) (CD 500)) (NN down) (QP (RB almost) (CD eight)))
+sid=4 spanning 1 until 2 headed by 1 parsed as S&P
+sid=5 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (JJ 11th) (NN executive)) (PP (IN of) (NP (NNP Health) (NNP South))))
+sid=5 spanning 1 until 2 headed by 1 parsed as 11th
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (NNP Health) (NNP South))
+sid=5 spanning 8 until 13 headed by 9 parsed as (NP (NP (CD two) (NNS counts)) (PP (IN of) (NP (NN bank) (NN fraud))))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (NN bank) (NN fraud))
+sid=6 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (JJ former) (JJ chief) (JJ financial) (NN officer))
+sid=6 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (JJ 50th) (JJ executive) (NN anybody))
+sid=6 spanning 7 until 8 headed by 7 parsed as 50th
+sid=6 spanning 10 until 12 headed by 11 parsed as (NP (JJ corporate) (NNP America))
+sid=6 spanning 16 until 19 headed by 18 parsed as (NP (NP (NNP Enron) (POS 's)) (NN collapse))
+sid=6 spanning 16 until 18 headed by 16 parsed as (NP (NNP Enron) (POS 's))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (CD Seven) (NNP Enron) (NNS executives))
+sid=7 spanning 1 until 2 headed by 1 parsed as Enron
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (CD 507) (NNS days))
+sid=7 spanning 11 until 12 headed by 11 parsed as (NP (NNP Enron))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP SE) (NNP KRE))
+sid=8 spanning 4 until 11 headed by 7 parsed as (NP (NP (DT a) (NML (JJ closed) (NN door)) (NN meeting)) (PP (IN on) (NP (DT the) (NN settlement))))
+sid=8 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN settlement))
+sid=8 spanning 12 until 18 headed by 12 parsed as (NP (NP (NN conflict)) (PP (IN of) (NP (NP (NN interest)) (PP (IN in) (NP (NN stock) (NN research))))))
+sid=8 spanning 14 until 18 headed by 14 parsed as (NP (NP (NN interest)) (PP (IN in) (NP (NN stock) (NN research))))
+sid=8 spanning 16 until 18 headed by 17 parsed as (NP (NN stock) (NN research))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (NNS Sources))
+sid=9 spanning 2 until 3 headed by 2 parsed as (NP (PRP us))
+sid=9 spanning 3 until 6 headed by 5 parsed as (NP (DT a) (JJ final) (NN deal))
+sid=9 spanning 9 until 10 headed by 9 parsed as (NP (NNP Monday))
+sid=9 spanning 11 until 12 headed by 11 parsed as (NP (NNP Washington))
+sid=10 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Regulators)) (CC and) (NP (NN research) (NNS firms)))
+sid=10 spanning 0 until 1 headed by 0 parsed as (NP (NNS Regulators))
+sid=10 spanning 2 until 4 headed by 3 parsed as (NP (NN research) (NNS firms))
+sid=10 spanning 6 until 11 headed by 10 parsed as (NP (DT the) (NML (QP ($ $) (CD 1.5) (CD billion))) (NN settlement))
+sid=10 spanning 14 until 17 headed by 16 parsed as ago
+sid=11 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT No) (NN settlement)) (PP (IN in) (NP (DT the) (NNP Dixie) (NNPS Chicks))))
+sid=11 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Dixie) (NNPS Chicks))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS singers))
+sid=12 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT the) (NN criticism)) (PP (IN of) (NP (PRP$ their) (NNS remarks))))
+sid=12 spanning 9 until 11 headed by 10 parsed as (NP (PRP$ their) (NNS remarks))
+sid=12 spanning 9 until 10 headed by 9 parsed as (PRP$ their)
+sid=12 spanning 13 until 14 headed by 13 parsed as (NP (NNP President) (NNP Bush))
+sid=12 spanning 12 until 14 headed by 13 parsed as (NP (NNP President) (NNP Bush))
+sid=12 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ material) (NN girl))
+sid=12 spanning 20 until 21 headed by 20 parsed as (NP (PRP she))
+sid=12 spanning 23 until 26 headed by 25 parsed as (NP (PRP$ her) (JJ own) (NN past))
+sid=12 spanning 23 until 24 headed by 23 parsed as (PRP$ her)
+sid=12 spanning 30 until 34 headed by 30 parsed as (NP (NP (NNS values)) (VP (ADVP (PRP she) (RB once)) (VBN espoused)))
+sid=12 spanning 31 until 32 headed by 31 parsed as (PRP she)
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP Bill) (NNP Tucker))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN story))
+(end predicted mentions)
+---------gold clusters--------
+2 4 3 | { 'Enron 's' 'Enron' 'Enron' }
+5 6 | { 'the settlement over conflict of interest in stock research' 'the $ 1.5 billion settlement' }
+13 12 11 10 | { 'she' 'her' 'she' 'the material girl' }
+1 0 | { 'The former chief financial officer' 'The 11th executive of Health South' }
+9 8 7 | { 'their' 'The singers' 'the Dixie Chicks' }
+(end gold clusters)

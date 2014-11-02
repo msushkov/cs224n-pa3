@@ -1,0 +1,42 @@
+---------gloss--------
+(0) [1m[35m{A leading Chinese pharmaceutical company}[0m will manufacture [1m[36m{the Ru abortion pill for the U.S. market}[0m . 
+(1) The U.S. Food and Drug Administration approved [1m[36m{the pill}[0m two weeks ago , but did not disclose [1m[35m{the drugmakers '}[0m identity . 
+(2) [1m[35m{The Chinese company}[0m has been manufacturing [1m[36m{Ru}[0m for at least seven years . 
+(3) For more business and consumer news , click on to cnnfn.com . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0031); part 000
+sentences:
+AaDTOPER0leadingleadingJJOPER0ChinesechineseJJOPER0pharmaceuticalpharmaceuticalNNOPER0companycompanyNNOPER0willwillMDOPER0manufacturemanufactureVBOPER0thetheDTOPER0RuRuNNPOPER0abortionabortionNNOPER0pillpillNNOPER0forforINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0marketmarketNNOPER0...OPER0(ROOT (S (NP (DT A) (JJ leading) (JJ Chinese) (NN pharmaceutical) (NN company)) (VP (MD will) (VP (VB manufacture) (NP (DT the) (NNP Ru) (NN abortion) (NN pill)) (PP (IN for) (NP (DT the) (NNP U.S.) (NN market))))) (. .)))
+ThetheDTORGPER0U.S.U.S.NNPORGPER0FoodFoodNNPORGPER0andandCCORGPER0DrugDrugNNPORGPER0AdministrationAdministrationNNPORGPER0approvedapproveVBDOPER0thetheDTOPER0pillpillNNOPER0twotwoCDDATEPER0weeksweekNNSDATEPER0agoagoRBDATEPER0,,,OPER0butbutCCOPER0diddoVBDOPER0notnotRBOPER0disclosediscloseVBOPER0thetheDTOPER0drugmakersdrugmakerNNSOPER0''POSOPER0identityidentityNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP U.S.) (NML (NNP Food) (CC and) (NNP Drug)) (NNP Administration)) (VP (VP (VBD approved) (NP (DT the) (NN pill)) (ADVP (NP (CD two) (NNS weeks)) (RB ago))) (, ,) (CC but) (VP (VBD did) (RB not) (VP (VB disclose) (NP (NP (DT the) (NNS drugmakers) (POS ')) (NN identity))))) (. .)))
+ThetheDTOPER0ChinesechineseJJOPER0companycompanyNNOPER0hashaveVBZOPER0beenbeVBNOPER0manufacturingmanufactureVBGOPER0RuRuNNPOPER0forforINOPER0atatINDATEPER0leastleastJJSDATEPER0sevensevenCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ Chinese) (NN company)) (VP (VBZ has) (VP (VBN been) (VP (VBG manufacturing) (NP (NNP Ru)) (PP (IN for) (NP (QP (ADVP (IN at) (JJS least)) (CD seven)) (NNS years)))))) (. .)))
+ForforINOPER0moremoreJJROPER0businessbusinessNNOPER0andandCCOPER0consumerconsumerNNOPER0newsnewsNNOPER0,,,OPER0clickclickVBOPER0ononINOPER0totoINOPER0cnnfn.comcnnfn.comADDOPER0...OPER0(ROOT (S (PP (IN For) (NP (JJR more) (NML (NN business) (CC and) (NN consumer)) (NN news))) (, ,) (VP (VB click) (PP (IN on) (PP (IN to) (NP (ADD cnnfn.com))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT A) (JJ leading) (JJ Chinese) (NN pharmaceutical) (NN company))
+sid=0 spanning 7 until 15 headed by 10 parsed as (NP (DT the) (NNP Ru) (NN abortion) (NN pill))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN pill))
+sid=1 spanning 17 until 20 headed by 18 parsed as (NP (DT the) (NNS drugmakers) (POS '))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Chinese) (NN company))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Ru))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT A) (JJ leading) (JJ Chinese) (NN pharmaceutical) (NN company))
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (NNP Ru) (NN abortion) (NN pill))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NNP U.S.) (NN market))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NNP U.S.) (NML (NNP Food) (CC and) (NNP Drug)) (NNP Administration))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN pill))
+sid=1 spanning 9 until 12 headed by 11 parsed as ago
+sid=1 spanning 17 until 21 headed by 20 parsed as (NP (NP (DT the) (NNS drugmakers) (POS ')) (NN identity))
+sid=1 spanning 17 until 20 headed by 18 parsed as (NP (DT the) (NNS drugmakers) (POS '))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Chinese) (NN company))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Ru))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (QP (ADVP (IN at) (JJS least)) (CD seven)) (NNS years))
+sid=3 spanning 1 until 6 headed by 5 parsed as (NP (JJR more) (NML (NN business) (CC and) (NN consumer)) (NN news))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (ADD cnnfn.com))
+(end predicted mentions)
+---------gold clusters--------
+0 3 4 | { 'A leading Chinese pharmaceutical company' 'the drugmakers '' 'The Chinese company' }
+2 1 5 | { 'the pill' 'the Ru abortion pill for the U.S. market' 'Ru' }
+(end gold clusters)

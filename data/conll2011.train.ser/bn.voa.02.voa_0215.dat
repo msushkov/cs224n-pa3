@@ -1,0 +1,71 @@
+---------gloss--------
+(0) I am Dave Deforest , VOA News . 
+(1) [4m[32m{An Israeli envoy}[0m has [4m[33m{met}[0m with [4m[34m{President Clinton}[0m at the White House and has delivered [4m[36m{Israel 's}[0m formal acceptance of [4m[35m{US peace proposals}[0m . 
+(2) [4m[32m{The envoy Gilead Sher}[0m emerged from [4m[33m{the meeting}[0m late Friday telling reporters the next step in the process is up to [4m[34m{President Clinton}[0m . 
+(3) However [4m[32m{he}[0m said tranquility must be restored in Palestinian territories . 
+(4) [4m[36m{The Israelis}[0m have [4m[31m{agreed}[0m in principle to [4m[35m{the parameters President Clinton has laid out}[0m but [4m[36m{they}[0m have expressed some reservations , as have the Palestinians . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0215); part 000
+sentences:
+IIPRPOPER0ambeVBPOPER0DaveDaveNNPPERSONPER0DeforestDeforestNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP am) (NP (NP (NNP Dave) (NNP Deforest)) (, ,) (NP (NNP VOA) (NNP News)))) (. .)))
+AnaDTOPER0IsraeliIsraeliNNPOPER0envoyenvoyNNOPER0hashaveVBZOPER0metmeetVBNOPER0withwithINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0atatINOPER0thetheDTORGPER0WhiteWhiteNNPORGPER0HouseHouseNNPORGPER0andandCCOPER0hashaveVBZOPER0delivereddeliverVBNOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0formalformalJJOPER0acceptanceacceptanceNNOPER0ofofINOPER0USUSNNPGPEPER0peacepeaceNNOPER0proposalsproposalNNSOPER0...OPER0(ROOT (S (NP (DT An) (NNP Israeli) (NN envoy)) (VP (VP (VBZ has) (VP (VBN met) (PP (IN with) (NP (NNP President) (NNP Clinton))) (PP (IN at) (NP (DT the) (NNP White) (NNP House))))) (CC and) (VP (VBZ has) (VP (VBN delivered) (NP (NP (NP (NNP Israel) (POS 's)) (JJ formal) (NN acceptance)) (PP (IN of) (NP (NNP US) (NN peace) (NNS proposals))))))) (. .)))
+ThetheDTOPER0envoyenvoyNNOPER0GileadGileadNNPPERSONPER0SherSherNNPPERSONPER0emergedemergeVBDOPER0fromfromINOPER0thetheDTOPER0meetingmeetingNNOPER0latelateJJDATEPER0FridayFridayNNPDATEPER0tellingtellVBGOPER0reportersreporterNNSOPER0thetheDTOPER0nextnextJJOPER0stepstepNNOPER0ininINOPER0thetheDTOPER0processprocessNNOPER0isbeVBZOPER0upupRBOPER0totoINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0...OPER0(ROOT (S (NP (NP (DT The) (NN envoy)) (NP (NNP Gilead) (NNP Sher))) (VP (VBD emerged) (PP (IN from) (NP (DT the) (NN meeting))) (NP (JJ late) (NNP Friday)) (S (VP (VBG telling) (NP (NNS reporters)) (SBAR (S (NP (NP (DT the) (JJ next) (NN step)) (PP (IN in) (NP (DT the) (NN process)))) (VP (VBZ is) (ADVP (RB up) (PP (IN to) (NP (NNP President) (NNP Clinton)))))))))) (. .)))
+HoweverhoweverRBOPER0hehePRPOPER0saidsayVBDOPER0tranquilitytranquilityNNOPER0mustmustMDOPER0bebeVBOPER0restoredrestoreVBNOPER0ininINOPER0PalestinianpalestinianJJOPER0territoriesterritoryNNSOPER0...OPER0(ROOT (S (ADVP (RB However)) (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (NN tranquility)) (VP (MD must) (VP (VB be) (VP (VBN restored) (PP (IN in) (NP (JJ Palestinian) (NNS territories))))))))) (. .)))
+ThetheDTOPER0IsraelisIsraelisNNPSOPER0havehaveVBPOPER0agreedagreeVBNOPER0ininINOPER0principleprincipleNNOPER0totoINOPER0thetheDTOPER0parametersparameterNNSOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0hashaveVBZOPER0laidlayVBNOPER0outoutRPOPER0butbutCCOPER0theytheyPRPOPER0havehaveVBPOPER0expressedexpressVBNOPER0somesomeDTOPER0reservationsreservationNNSOPER0,,,OPER0asasINOPER0havehaveVBPOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (S (NP (DT The) (NNPS Israelis)) (VP (VBP have) (VP (VBN agreed) (PP (IN in) (NP (NN principle))) (PP (IN to) (NP (DT the) (NNS parameters)))))) (S (NP (NNP President) (NNP Clinton)) (VP (VBZ has) (VP (VBN laid) (PRT (RP out))))) (CC but) (S (NP (PRP they)) (VP (VBP have) (VP (VBN expressed) (NP (DT some) (NNS reservations)) (, ,) (SBAR (IN as) (S (VP (VBP have) (NP (DT the) (NNPS Palestinians)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (NNP Israeli) (NN envoy))
+sid=1 spanning 4 until 5 headed by 4 parsed as met
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (NNP President) (NNP Clinton))
+sid=1 spanning 15 until 19 headed by 18 parsed as (NP (NP (NP (NNP Israel) (POS 's)) (JJ formal) (NN acceptance)) (PP (IN of) (NP (NNP US) (NN peace) (NNS proposals))))
+sid=1 spanning 15 until 17 headed by 15 parsed as (NP (NNP Israel) (POS 's))
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (NNP US) (NN peace) (NNS proposals))
+sid=2 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN envoy)) (NP (NNP Gilead) (NNP Sher)))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN meeting))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (NNP President) (NNP Clinton))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (PRP he))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Israelis))
+sid=4 spanning 3 until 4 headed by 3 parsed as agreed
+sid=4 spanning 7 until 14 headed by 8 parsed as (NP (DT the) (NNS parameters))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (NNP President) (NNP Clinton))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP Dave) (NNP Deforest)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP Dave) (NNP Deforest)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT An) (NNP Israeli) (NN envoy))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (NNP President) (NNP Clinton))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP White) (NNP House))
+sid=1 spanning 15 until 23 headed by 18 parsed as (NP (NP (NP (NNP Israel) (POS 's)) (JJ formal) (NN acceptance)) (PP (IN of) (NP (NNP US) (NN peace) (NNS proposals))))
+sid=1 spanning 15 until 17 headed by 15 parsed as (NP (NNP Israel) (POS 's))
+sid=1 spanning 20 until 23 headed by 22 parsed as (NP (NNP US) (NN peace) (NNS proposals))
+sid=1 spanning 20 until 21 headed by 20 parsed as US
+sid=2 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN envoy)) (NP (NNP Gilead) (NNP Sher)))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (NNP Gilead) (NNP Sher))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN meeting))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (JJ late) (NNP Friday))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNS reporters))
+sid=2 spanning 12 until 18 headed by 14 parsed as (NP (NP (DT the) (JJ next) (NN step)) (PP (IN in) (NP (DT the) (NN process))))
+sid=2 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN process))
+sid=2 spanning 21 until 23 headed by 22 parsed as (NP (NNP President) (NNP Clinton))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (PRP he))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (JJ Palestinian) (NNS territories))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Israelis))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNS parameters))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (NNP President) (NNP Clinton))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (PRP they))
+sid=4 spanning 18 until 20 headed by 19 parsed as (NP (DT some) (NNS reservations))
+sid=4 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NNPS Palestinians))
+(end predicted mentions)
+---------gold clusters--------
+3 11 | { 'Israel 's formal acceptance' 'agreed' }
+0 6 9 | { 'An Israeli envoy' 'The envoy Gilead Sher' 'he' }
+1 7 | { 'met' 'the meeting' }
+13 2 8 | { 'President Clinton' 'President Clinton' 'President Clinton' }
+12 5 | { 'the parameters President Clinton has laid out' 'US peace proposals' }
+14 4 10 | { 'they' 'Israel 's' 'The Israelis' }
+(end gold clusters)

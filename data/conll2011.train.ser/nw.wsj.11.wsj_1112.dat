@@ -1,0 +1,31 @@
+---------gloss--------
+(0) [4m[31m{John B. Curcio , 55 years old ,}[0m resigned as chairman of this diesel truck manufacturer , effective upon appointment of a successor . 
+(1) Last month , [4m[31m{Mr. Curcio}[0m was succeeded by Ralph E. Reins as chief executive officer following several quarters of lackluster or declining performance . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1112); part 000
+sentences:
+JohnJohnNNPPERSONPER0B.B.NNPPERSONPER0CurcioCurcioNNPPERSONPER0,,,OPER05555CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0resignedresignVBDOPER0asasINOPER0chairmanchairmanNNOPER0ofofINOPER0thisthisDTOPER0dieseldieselNNOPER0trucktruckNNOPER0manufacturermanufacturerNNOPER0,,,OPER0effectiveeffectiveJJOPER0uponuponINOPER0appointmentappointmentNNOPER0ofofINOPER0aaDTOPER0successorsuccessorNNOPER0...OPER0(ROOT (S (NP (NP (NNP John) (NNP B.) (NNP Curcio)) (, ,) (ADJP (NML (CD 55) (NNS years)) (JJ old)) (, ,)) (VP (VBD resigned) (PP (IN as) (NP (NP (NN chairman)) (PP (IN of) (NP (DT this) (NML (NN diesel) (NN truck)) (NN manufacturer))))) (, ,) (S (ADJP (JJ effective) (PP (IN upon) (NP (NP (NN appointment)) (PP (IN of) (NP (DT a) (NN successor)))))))) (. .)))
+LastlastJJDATEPER0monthmonthNNDATEPER0,,,OPER0Mr.Mr.NNPOPER0CurcioCurcioNNPPERSONPER0wasbeVBDOPER0succeededsucceedVBNOPER0bybyINOPER0RalphRalphNNPPERSONPER0E.E.NNPPERSONPER0ReinsreinNNSPERSONPER0asasINOPER0chiefchiefJJOPER0executiveexecutiveJJOPER0officerofficerNNOPER0followingfollowVBGOPER0severalseveralJJDATEPER0quartersquarterNNSDATEPER0ofofINOPER0lacklusterlacklusterJJOPER0ororCCOPER0decliningdecliningJJOPER0performanceperformanceNNOPER0...OPER0(ROOT (S (NP (JJ Last) (NN month)) (, ,) (NP (NNP Mr.) (NNP Curcio)) (VP (VBD was) (VP (VBN succeeded) (PP (IN by) (NP (NML (NNP Ralph) (NNP E.)) (NNS Reins))) (PP (IN as) (NP (NP (JJ chief) (JJ executive) (NN officer)) (VP (VBG following) (NP (NP (JJ several) (NNS quarters)) (PP (IN of) (NP (ADJP (JJ lackluster) (CC or) (JJ declining)) (NN performance))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP John) (NNP B.) (NNP Curcio)) (, ,) (ADJP (NML (CD 55) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NNP Mr.) (NNP Curcio))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP John) (NNP B.) (NNP Curcio)) (, ,) (ADJP (NML (CD 55) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 0 until 8 headed by 2 parsed as (NP (NP (NNP John) (NNP B.) (NNP Curcio)) (, ,) (ADJP (NML (CD 55) (NNS years)) (JJ old)) (, ,))
+sid=0 spanning 4 until 7 headed by 6 parsed as old
+sid=0 spanning 10 until 16 headed by 10 parsed as (NP (NP (NN chairman)) (PP (IN of) (NP (DT this) (NML (NN diesel) (NN truck)) (NN manufacturer))))
+sid=0 spanning 12 until 16 headed by 15 parsed as (NP (DT this) (NML (NN diesel) (NN truck)) (NN manufacturer))
+sid=0 spanning 19 until 23 headed by 19 parsed as (NP (NP (NN appointment)) (PP (IN of) (NP (DT a) (NN successor))))
+sid=0 spanning 21 until 23 headed by 22 parsed as (NP (DT a) (NN successor))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Last) (NN month))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (NNP Mr.) (NNP Curcio))
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (NML (NNP Ralph) (NNP E.)) (NNS Reins))
+sid=1 spanning 16 until 23 headed by 17 parsed as (NP (NP (JJ several) (NNS quarters)) (PP (IN of) (NP (ADJP (JJ lackluster) (CC or) (JJ declining)) (NN performance))))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'Mr. Curcio' 'John B. Curcio , 55 years old ,' }
+(end gold clusters)

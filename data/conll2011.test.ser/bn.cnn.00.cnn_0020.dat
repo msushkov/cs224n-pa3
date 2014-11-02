@@ -1,0 +1,40 @@
+---------gloss--------
+(0) [1m[33m{The United Nations Security Council}[0m has passed a resolution condemning what [1m[33m{it}[0m calls `` acts of violence , especially the excessive use of force against Palestinians . '' 
+(1) U.S. diplomats had opposed wording which apparently blamed the new round of clashes on an Israeli opposition leader 's visit to a shrine venerated by both sides . 
+(2) The [1m[33m{Security Council}[0m vote was unanimous , with the United States abstaining . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0020); part 000
+sentences:
+ThetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPSORGPER0SecuritySecurityNNPORGPER0CouncilCouncilNNPORGPER0hashaveVBZOPER0passedpassVBNOPER0aaDTOPER0resolutionresolutionNNOPER0condemningcondemnVBGOPER0whatwhatWPOPER0ititPRPOPER0callscallVBZOPER0``````OactsactNNSOPER1ofofINOPER1violenceviolenceNNOPER1,,,OPER1especiallyespeciallyRBOPER1thetheDTOPER1excessiveexcessiveJJOPER1useuseNNOPER1ofofINOPER1forceforceNNOPER1againstagainstINOPER1PalestiniansPalestiniansNNPSOPER1...OPER1''''''OPER0(ROOT (S (NP (DT The) (NML (NNP United) (NNPS Nations)) (NNP Security) (NNP Council)) (VP (VBZ has) (VP (VBN passed) (NP (NP (DT a) (NN resolution)) (VP (VBG condemning) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ calls) (S (`` ``) (NP (NP (NP (NNS acts)) (PP (IN of) (NP (NN violence)))) (, ,) (NP (ADVP (RB especially)) (NP (DT the) (JJ excessive) (NN use)) (PP (IN of) (NP (NN force))) (PP (IN against) (NP (NNPS Palestinians))))))))))))) (. .) ('' '')))
+U.S.U.S.NNPGPEPER0diplomatsdiplomatNNSOPER0hadhaveVBDOPER0opposedopposeVBNOPER0wordingwordingNNOPER0whichwhichWDTOPER0apparentlyapparentlyRBOPER0blamedblameVBDOPER0thetheDTOPER0newnewJJOPER0roundroundNNOPER0ofofINOPER0clashesclashNNSOPER0ononINOPER0anaDTOPER0IsraeliIsraeliNNPOPER0oppositionoppositionNNOPER0leaderleaderNNOPER0's'sPOSOPER0visitvisitNNOPER0totoINOPER0aaDTOPER0shrineshrineNNOPER0veneratedvenerateVBNOPER0bybyINOPER0bothbothDTOPER0sidessideNNSOPER0...OPER0(ROOT (S (NP (NNP U.S.) (NNS diplomats)) (VP (VBD had) (VP (VBN opposed) (NP (NP (NN wording)) (SBAR (WHNP (WDT which)) (S (ADVP (RB apparently)) (VP (VBD blamed) (NP (NP (DT the) (JJ new) (NN round)) (PP (IN of) (NP (NNS clashes)))) (PP (IN on) (NP (NP (NP (DT an) (NNP Israeli) (NML (NN opposition) (NN leader)) (POS 's)) (NN visit)) (PP (IN to) (NP (NP (DT a) (NN shrine)) (VP (VBN venerated) (PP (IN by) (NP (DT both) (NNS sides)))))))))))))) (. .)))
+ThetheDTOPER0SecuritySecurityNNPORGPER0CouncilCouncilNNPORGPER0votevoteNNOPER0wasbeVBDOPER0unanimousunanimousJJOPER0,,,OPER0withwithINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0abstainingabstainVBGOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP Security) (NNP Council)) (NN vote)) (VP (VBD was) (ADJP (JJ unanimous)) (, ,) (PP (IN with) (NP (NP (DT the) (NNP United) (NNP States)) (VP (VBG abstaining))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP United) (NNPS Nations)) (NNP Security) (NNP Council))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=2 spanning 1 until 3 headed by 2 parsed as Council
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP United) (NNPS Nations)) (NNP Security) (NNP Council))
+sid=0 spanning 7 until 26 headed by 8 parsed as (NP (NP (DT a) (NN resolution)) (VP (VBG condemning) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ calls) (S (`` ``) (NP (NP (NP (NNS acts)) (PP (IN of) (NP (NN violence)))) (, ,) (NP (ADVP (RB especially)) (NP (DT the) (JJ excessive) (NN use)) (PP (IN of) (NP (NN force))) (PP (IN against) (NP (NNPS Palestinians)))))))))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=0 spanning 14 until 26 headed by 14 parsed as (NP (NP (NP (NNS acts)) (PP (IN of) (NP (NN violence)))) (, ,) (NP (ADVP (RB especially)) (NP (DT the) (JJ excessive) (NN use)) (PP (IN of) (NP (NN force))) (PP (IN against) (NP (NNPS Palestinians)))))
+sid=0 spanning 14 until 17 headed by 14 parsed as (NP (NP (NNS acts)) (PP (IN of) (NP (NN violence))))
+sid=0 spanning 18 until 26 headed by 21 parsed as (NP (ADVP (RB especially)) (NP (DT the) (JJ excessive) (NN use)) (PP (IN of) (NP (NN force))) (PP (IN against) (NP (NNPS Palestinians))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP U.S.) (NNS diplomats))
+sid=1 spanning 4 until 27 headed by 4 parsed as (NP (NP (NN wording)) (SBAR (WHNP (WDT which)) (S (ADVP (RB apparently)) (VP (VBD blamed) (NP (NP (DT the) (JJ new) (NN round)) (PP (IN of) (NP (NNS clashes)))) (PP (IN on) (NP (NP (NP (DT an) (NNP Israeli) (NML (NN opposition) (NN leader)) (POS 's)) (NN visit)) (PP (IN to) (NP (NP (DT a) (NN shrine)) (VP (VBN venerated) (PP (IN by) (NP (DT both) (NNS sides))))))))))))
+sid=1 spanning 8 until 13 headed by 10 parsed as (NP (NP (DT the) (JJ new) (NN round)) (PP (IN of) (NP (NNS clashes))))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNS clashes))
+sid=1 spanning 14 until 27 headed by 19 parsed as (NP (NP (NP (DT an) (NNP Israeli) (NML (NN opposition) (NN leader)) (POS 's)) (NN visit)) (PP (IN to) (NP (NP (DT a) (NN shrine)) (VP (VBN venerated) (PP (IN by) (NP (DT both) (NNS sides)))))))
+sid=1 spanning 14 until 19 headed by 17 parsed as (NP (DT an) (NNP Israeli) (NML (NN opposition) (NN leader)) (POS 's))
+sid=1 spanning 21 until 27 headed by 22 parsed as (NP (NP (DT a) (NN shrine)) (VP (VBN venerated) (PP (IN by) (NP (DT both) (NNS sides)))))
+sid=1 spanning 25 until 27 headed by 26 parsed as (NP (DT both) (NNS sides))
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NML (NNP Security) (NNP Council)) (NN vote))
+sid=2 spanning 1 until 3 headed by 2 parsed as Council
+sid=2 spanning 8 until 12 headed by 10 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (VP (VBG abstaining)))
+(end predicted mentions)
+---------gold clusters--------
+2 1 0 | { 'Security Council' 'it' 'The United Nations Security Council' }
+(end gold clusters)

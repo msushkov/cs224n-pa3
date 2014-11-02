@@ -1,0 +1,63 @@
+---------gloss--------
+(0) [3m[36m{Moody 's Investors Service Inc.}[0m said [3m[36m{it}[0m lowered the debt ratings of certain long - term debt held by [3m[35m{this company}[0m . 
+(1) [3m[36m{The debt - rating concern}[0m cited [3m[35m{the bank 's}[0m move into the Texas market , noting [3m[35m{its}[0m profitability and capital adequacy measurements will be depressed relative to [3m[35m{the bank 's}[0m past performance . 
+(2) [3m[36m{Moody 's}[0m also said [3m[36m{it}[0m raised [3m[36m{its}[0m rating on the Deposit Insurance Bridge Bank , now known as Bank One , Texas N.A. , reflecting the support of other banking affiliates and substantial assistance for the FDIC . 
+(3) Officials at [3m[36m{the New York bank - holding company}[0m were n't available for comment on the debt - rating changes . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1301); part 000
+sentences:
+MoodyMoodyNNPORGPER0's'sPOSORGPER0InvestorsInvestorsNNPSORGPER0ServiceServiceNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0loweredlowerVBDOPER0thetheDTOPER0debtdebtNNOPER0ratingsratingNNSOPER0ofofINOPER0certaincertainJJOPER0longlongJJOPER0--HYPHOPER0termtermNNOPER0debtdebtNNOPER0heldholdVBNOPER0bybyINOPER0thisthisDTOPER0companycompanyNNOPER0...OPER0(ROOT (S (NP (NP (NNP Moody) (POS 's)) (NNPS Investors) (NNP Service) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD lowered) (NP (NP (DT the) (NN debt) (NNS ratings)) (PP (IN of) (NP (NP (JJ certain) (NML (JJ long) (HYPH -) (NN term)) (NN debt)) (VP (VBN held) (PP (IN by) (NP (DT this) (NN company))))))))))) (. .)))
+ThetheDTOPER0debtdebtNNOPER0--HYPHOPER0ratingratingNNOPER0concernconcernNNOPER0citedciteVBDOPER0thetheDTOPER0bankbankNNOPER0's'sPOSOPER0movemoveNNOPER0intointoINOPER0thetheDTOPER0TexasTexasNNPGPEPER0marketmarketNNOPER0,,,OPER0notingnoteVBGOPER0itsitsPRP$OPER0profitabilityprofitabilityNNOPER0andandCCOPER0capitalcapitalNNOPER0adequacyadequacyNNOPER0measurementsmeasurementNNSOPER0willwillMDOPER0bebeVBOPER0depresseddepressedJJOPER0relativerelativeJJOPER0totoINOPER0thetheDTOPER0bankbankNNOPER0's'sPOSOPER0pastpastJJOPER0performanceperformanceNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (NN debt) (HYPH -) (NN rating)) (NN concern)) (VP (VBD cited) (NP (NP (NP (DT the) (NN bank) (POS 's)) (NN move)) (PP (IN into) (NP (DT the) (NNP Texas) (NN market)))) (, ,) (S (VP (VBG noting) (SBAR (S (NP (PRP$ its) (NML (NN profitability) (CC and) (NN capital)) (NN adequacy) (NNS measurements)) (VP (MD will) (VP (VB be) (ADJP (JJ depressed)) (ADVP (JJ relative) (PP (IN to) (NP (NP (DT the) (NN bank) (POS 's)) (JJ past) (NN performance))))))))))) (. .)))
+MoodyMoodyNNPORGPER0's'sPOSORGPER0alsoalsoRBOPER0saidsayVBDOPER0ititPRPOPER0raisedraiseVBDOPER0itsitsPRP$OPER0ratingratingNNOPER0ononINOPER0thetheDTORGPER0DepositDepositNNPORGPER0InsuranceInsuranceNNPORGPER0BridgeBridgeNNPORGPER0BankBankNNPORGPER0,,,OPER0nownowRBOPER0knownknowVBNOPER0asasINOPER0BankBankNNPORGPER0OneOneNNPORGPER0,,,ORGPER0TexasTexasNNPORGPER0N.A.N.A.NNPORGPER0,,,OPER0reflectingreflectVBGOPER0thetheDTOPER0supportsupportNNOPER0ofofINOPER0otherotherJJOPER0bankingbankingNNOPER0affiliatesaffiliateNNSOPER0andandCCOPER0substantialsubstantialJJOPER0assistanceassistanceNNOPER0forforINOPER0thetheDTOPER0FDICFDICNNPORGPER0...OPER0(ROOT (S (NP (NNP Moody) (POS 's)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD raised) (NP (NP (PRP$ its) (NN rating)) (PP (IN on) (NP (NP (DT the) (NML (NML (NNP Deposit) (NNP Insurance)) (NNP Bridge)) (NNP Bank)) (, ,) (VP (ADVP (RB now)) (VBN known) (PP (IN as) (NP (NP (NNP Bank) (NNP One)) (, ,) (NP (NNP Texas) (NNP N.A.)))))))) (, ,) (S (VP (VBG reflecting) (NP (NP (DT the) (NN support)) (PP (IN of) (NP (NP (JJ other) (NN banking) (NNS affiliates)) (CC and) (NP (JJ substantial) (NN assistance)))) (PP (IN for) (NP (DT the) (NNP FDIC)))))))))) (. .)))
+OfficialsofficialNNSOPER0atatINOPER0thetheDTOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0bankbankNNOPER0--HYPHOPER0holdingholdVBGOPER0companycompanyNNOPER0werebeVBDOPER0n'tnotRBOPER0availableavailableJJOPER0forforINOPER0commentcommentNNOPER0ononINOPER0thetheDTOPER0debtdebtNNOPER0--HYPHOPER0ratingrateVBGOPER0changeschangeNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Officials)) (PP (IN at) (NP (DT the) (NML (NNP New) (NNP York)) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company)))) (VP (VBD were) (RB n't) (ADJP (JJ available) (PP (IN for) (NP (NP (NN comment)) (PP (IN on) (NP (DT the) (ADJP (NN debt) (HYPH -) (VBG rating)) (NNS changes))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Moody) (POS 's)) (NNPS Investors) (NNP Service) (NNP Inc.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (DT this) (NN company))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NN debt) (HYPH -) (NN rating)) (NN concern))
+sid=1 spanning 6 until 9 headed by 7 parsed as (NP (DT the) (NN bank) (POS 's))
+sid=1 spanning 16 until 17 headed by 16 parsed as its
+sid=1 spanning 27 until 30 headed by 28 parsed as (NP (DT the) (NN bank) (POS 's))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP Moody) (POS 's))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=2 spanning 6 until 7 headed by 6 parsed as its
+sid=3 spanning 2 until 9 headed by 8 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Moody) (POS 's)) (NNPS Investors) (NNP Service) (NNP Inc.))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=0 spanning 8 until 21 headed by 10 parsed as (NP (NP (DT the) (NN debt) (NNS ratings)) (PP (IN of) (NP (NP (JJ certain) (NML (JJ long) (HYPH -) (NN term)) (NN debt)) (VP (VBN held) (PP (IN by) (NP (DT this) (NN company)))))))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (DT this) (NN company))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NN debt) (HYPH -) (NN rating)) (NN concern))
+sid=1 spanning 6 until 14 headed by 9 parsed as (NP (NP (NP (DT the) (NN bank) (POS 's)) (NN move)) (PP (IN into) (NP (DT the) (NNP Texas) (NN market))))
+sid=1 spanning 6 until 9 headed by 7 parsed as (NP (DT the) (NN bank) (POS 's))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP Texas) (NN market))
+sid=1 spanning 12 until 13 headed by 12 parsed as Texas
+sid=1 spanning 16 until 22 headed by 21 parsed as (NP (PRP$ its) (NML (NN profitability) (CC and) (NN capital)) (NN adequacy) (NNS measurements))
+sid=1 spanning 16 until 17 headed by 16 parsed as (PRP$ its)
+sid=1 spanning 27 until 32 headed by 31 parsed as (NP (NP (DT the) (NN bank) (POS 's)) (JJ past) (NN performance))
+sid=1 spanning 27 until 30 headed by 28 parsed as (NP (DT the) (NN bank) (POS 's))
+sid=2 spanning 0 until 2 headed by 0 parsed as (NP (NNP Moody) (POS 's))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=2 spanning 6 until 23 headed by 7 parsed as (NP (NP (PRP$ its) (NN rating)) (PP (IN on) (NP (NP (DT the) (NML (NML (NNP Deposit) (NNP Insurance)) (NNP Bridge)) (NNP Bank)) (, ,) (VP (ADVP (RB now)) (VBN known) (PP (IN as) (NP (NP (NNP Bank) (NNP One)) (, ,) (NP (NNP Texas) (NNP N.A.))))))))
+sid=2 spanning 6 until 7 headed by 6 parsed as (PRP$ its)
+sid=2 spanning 9 until 14 headed by 13 parsed as (NP (NP (DT the) (NML (NML (NNP Deposit) (NNP Insurance)) (NNP Bridge)) (NNP Bank)) (, ,) (VP (ADVP (RB now)) (VBN known) (PP (IN as) (NP (NP (NNP Bank) (NNP One)) (, ,) (NP (NNP Texas) (NNP N.A.))))))
+sid=2 spanning 9 until 23 headed by 13 parsed as (NP (NP (DT the) (NML (NML (NNP Deposit) (NNP Insurance)) (NNP Bridge)) (NNP Bank)) (, ,) (VP (ADVP (RB now)) (VBN known) (PP (IN as) (NP (NP (NNP Bank) (NNP One)) (, ,) (NP (NNP Texas) (NNP N.A.))))))
+sid=2 spanning 18 until 23 headed by 19 parsed as (NP (NP (NNP Bank) (NNP One)) (, ,) (NP (NNP Texas) (NNP N.A.)))
+sid=2 spanning 25 until 37 headed by 26 parsed as (NP (NP (DT the) (NN support)) (PP (IN of) (NP (NP (JJ other) (NN banking) (NNS affiliates)) (CC and) (NP (JJ substantial) (NN assistance)))) (PP (IN for) (NP (DT the) (NNP FDIC))))
+sid=2 spanning 28 until 34 headed by 30 parsed as (NP (NP (JJ other) (NN banking) (NNS affiliates)) (CC and) (NP (JJ substantial) (NN assistance)))
+sid=2 spanning 28 until 31 headed by 30 parsed as (NP (JJ other) (NN banking) (NNS affiliates))
+sid=2 spanning 35 until 37 headed by 36 parsed as (NP (DT the) (NNP FDIC))
+sid=3 spanning 0 until 9 headed by 0 parsed as (NP (NP (NNS Officials)) (PP (IN at) (NP (DT the) (NML (NNP New) (NNP York)) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company))))
+sid=3 spanning 2 until 9 headed by 8 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (ADJP (NN bank) (HYPH -) (VBG holding)) (NN company))
+sid=3 spanning 3 until 5 headed by 4 parsed as York
+sid=3 spanning 13 until 20 headed by 13 parsed as (NP (NP (NN comment)) (PP (IN on) (NP (DT the) (ADJP (NN debt) (HYPH -) (VBG rating)) (NNS changes))))
+sid=3 spanning 15 until 20 headed by 19 parsed as (NP (DT the) (ADJP (NN debt) (HYPH -) (VBG rating)) (NNS changes))
+(end predicted mentions)
+---------gold clusters--------
+4 2 6 5 | { 'the bank 's' 'this company' 'the bank 's' 'its' }
+7 3 10 1 8 0 9 | { 'Moody 's' 'The debt - rating concern' 'the New York bank - holding company' 'it' 'it' 'Moody 's Investors Service Inc.' 'its' }
+(end gold clusters)

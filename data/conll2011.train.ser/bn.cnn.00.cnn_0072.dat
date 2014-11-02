@@ -1,0 +1,48 @@
+---------gloss--------
+(0) Veekz have been placed in [3m[35m{Yemen}[0m as [3m[34m{U.S. investigators}[0m are staying as [3m[34m{they}[0m search for clues of [3m[33m{the `` USS Cole}[0m . '' 
+(1) Security was ordered in the wake of a telephone bomb threat . 
+(2) 17 U.S. sailors were killed and 39 wounded 2 weeks ago in the bombing that left a huge hole in the side of [3m[33m{the destroyer}[0m . 
+(3) FBI technicians sent to [3m[35m{Yemen}[0m to collect evidence have scheduled to leave today . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0072); part 000
+sentences:
+VeekzveekzNNSOPER0havehaveVBPOPER0beenbeVBNOPER0placedplaceVBNOPER0ininINOPER0YemenYemenNNPGPEPER0asasINOPER0U.S.U.S.NNPGPEPER0investigatorsinvestigatorNNSOPER0arebeVBPOPER0stayingstayVBGOPER0asasINOPER0theytheyPRPOPER0searchsearchVBPOPER0forforINOPER0cluesclueNNSOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1...OPER1''''''OPER0(ROOT (S (NP (NNS Veekz)) (VP (VBP have) (VP (VBN been) (VP (VBN placed) (PP (IN in) (NP (NNP Yemen))) (SBAR (IN as) (S (NP (NNP U.S.) (NNS investigators)) (VP (VBP are) (VP (VBG staying) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP search) (PP (IN for) (NP (NP (NNS clues)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))))))))))))) (. .) ('' '')))
+SecuritysecurityNNORGPER0wasbeVBDOPER0orderedorderVBNOPER0ininINOPER0thetheDTOPER0wakewakeNNOPER0ofofINOPER0aaDTOPER0telephonetelephoneNNOPER0bombbombNNOPER0threatthreatNNOPER0...OPER0(ROOT (S (NP (NN Security)) (VP (VBD was) (VP (VBN ordered) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (DT a) (NML (NN telephone) (NN bomb)) (NN threat))))))) (. .)))
+1717CDCARDINALPER0U.S.U.S.NNPGPEPER0sailorssailorNNSOPER0werebeVBDOPER0killedkillVBNOPER0andandCCOPER03939CDCARDINALPER0woundedwoundVBNOPER022CDDATEPER0weeksweekNNSDATEPER0agoagoRBDATEPER0ininINOPER0thetheDTOPER0bombingbombingNNOPER0thatthatWDTOPER0leftleaveVBDOPER0aaDTOPER0hugehugeJJOPER0holeholeNNOPER0ininINOPER0thetheDTOPER0sidesideNNOPER0ofofINOPER0thetheDTOPER0destroyerdestroyerNNOPER0...OPER0(ROOT (S (S (NP (CD 17) (NNP U.S.) (NNS sailors)) (VP (VBD were) (VP (VBN killed)))) (CC and) (S (NP (CD 39)) (VP (VBN wounded) (ADVP (NP (CD 2) (NNS weeks)) (RB ago)) (PP (IN in) (NP (NP (DT the) (NN bombing)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (DT a) (JJ huge) (NN hole)) (PP (IN in) (NP (NP (DT the) (NN side)) (PP (IN of) (NP (DT the) (NN destroyer)))))))))))) (. .)))
+FBIFBINNPORGPER0technicianstechnicianNNSOPER0sentsendVBNOPER0totoINOPER0YemenYemenNNPGPEPER0totoTOOPER0collectcollectVBOPER0evidenceevidenceNNOPER0havehaveVBPOPER0scheduledscheduleVBNOPER0totoTOOPER0leaveleaveVBOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP FBI) (NNS technicians)) (VP (VBN sent) (PP (IN to) (NP (NNP Yemen))) (S (VP (TO to) (VP (VB collect) (NP (NN evidence))))))) (VP (VBP have) (VP (VBN scheduled) (S (VP (TO to) (VP (VB leave) (NP (NN today))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Yemen))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NNP U.S.) (NNS investigators))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=0 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN destroyer))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Yemen))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNS Veekz))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP Yemen))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NNP U.S.) (NNS investigators))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=0 spanning 15 until 21 headed by 15 parsed as (NP (NP (NNS clues)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole))))
+sid=0 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole))
+sid=1 spanning 4 until 11 headed by 5 parsed as (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (DT a) (NML (NN telephone) (NN bomb)) (NN threat))))
+sid=1 spanning 7 until 11 headed by 10 parsed as (NP (DT a) (NML (NN telephone) (NN bomb)) (NN threat))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (CD 17) (NNP U.S.) (NNS sailors))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (CD 39))
+sid=2 spanning 8 until 11 headed by 10 parsed as ago
+sid=2 spanning 12 until 25 headed by 13 parsed as (NP (NP (DT the) (NN bombing)) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (DT a) (JJ huge) (NN hole)) (PP (IN in) (NP (NP (DT the) (NN side)) (PP (IN of) (NP (DT the) (NN destroyer)))))))))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (DT a) (JJ huge) (NN hole))
+sid=2 spanning 20 until 25 headed by 21 parsed as (NP (NP (DT the) (NN side)) (PP (IN of) (NP (DT the) (NN destroyer))))
+sid=2 spanning 23 until 25 headed by 24 parsed as (NP (DT the) (NN destroyer))
+sid=3 spanning 0 until 8 headed by 1 parsed as (NP (NP (NNP FBI) (NNS technicians)) (VP (VBN sent) (PP (IN to) (NP (NNP Yemen))) (S (VP (TO to) (VP (VB collect) (NP (NN evidence)))))))
+sid=3 spanning 0 until 1 headed by 0 parsed as FBI
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Yemen))
+(end predicted mentions)
+---------gold clusters--------
+4 3 | { 'the destroyer' 'the `` USS Cole' }
+1 2 | { 'U.S. investigators' 'they' }
+5 0 | { 'Yemen' 'Yemen' }
+(end gold clusters)

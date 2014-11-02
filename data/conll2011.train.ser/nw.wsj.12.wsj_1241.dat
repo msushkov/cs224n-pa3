@@ -1,0 +1,75 @@
+---------gloss--------
+(0) With reduced exports and rising imports , [33m{South Korea 's}[0m trade surpluses with [32m{the U.S.}[0m and [31m{Europe}[0m between January and September fell sharply from [4m[36m{a year}[0m ago , the Customs Administration said . 
+(1) Officials said [33m{South Korea 's}[0m trade surplus with [32m{the U.S.}[0m for [34m{the first nine months of the year}[0m totaled $ 3.49 billion , down 43 % from the same period last year on a customs - clearance basis . 
+(2) South Korean exports to [32m{the U.S.}[0m during [34m{the period}[0m fell 1.6 % from a [4m[36m{year}[0m ago to $ 15.06 billion , while imports from [32m{the U.S.}[0m soared 26 % to $ 11.56 billion . 
+(3) The trade surplus with [31m{Europe}[0m was pegged at $ 414 million , down 57 % from [4m[36m{a year ago}[0m . 
+(4) Officials said South Korean exports to [31m{Europe}[0m dropped 5.3 % to $ 3.02 billion while imports from [31m{there}[0m went up 17 % to $ 2.61 billion . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1241); part 000
+sentences:
+WithwithINOPER0reducedreducedJJOPER0exportsexportNNSOPER0andandCCOPER0risingrisingJJOPER0importsimportNNSOPER0,,,OPER0SouthSouthNNPGPEPER0KoreaKoreaNNPGPEPER0's'sPOSGPEPER0tradetradeNNOPER0surplusessurplusNNSOPER0withwithINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0andandCCOPER0EuropeEuropeNNPLOCPER0betweenbetweenINDATEPER0JanuaryJanuaryNNPDATEPER0andandCCDATEPER0SeptemberSeptemberNNPDATEPER0fellfallVBDOPER0sharplysharplyRBOPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0,,,OPER0thetheDTORGPER0CustomsCustomsNNPORGPER0AdministrationAdministrationNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (PP (IN With) (NP (NP (JJ reduced) (NNS exports)) (CC and) (NP (JJ rising) (NNS imports)))) (, ,) (NP (NP (NP (NNP South) (NNP Korea) (POS 's)) (NN trade) (NNS surpluses)) (PP (IN with) (NP (NP (DT the) (NNP U.S.)) (CC and) (NP (NNP Europe)))) (PP (IN between) (NP (NNP January) (CC and) (NNP September)))) (VP (VBD fell) (ADVP (RB sharply)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago))))) (, ,) (NP (DT the) (NNP Customs) (NNP Administration)) (VP (VBD said)) (. .)))
+OfficialsofficialNNSOPER0saidsayVBDOPER0SouthSouthNNPGPEPER0KoreaKoreaNNPGPEPER0's'sPOSGPEPER0tradetradeNNOPER0surplussurplusNNOPER0withwithINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0forforINOPER0thetheDTDATEPER0firstfirstJJDATEPER0ninenineCDDATEPER0monthsmonthNNSDATEPER0ofofINDATEPER0thetheDTDATEPER0yearyearNNDATEPER0totaledtotalVBDOPER0$$$MONEYPER03.493.49CDMONEYPER0billionbillionCDMONEYPER0,,,OPER0downdownRBOPER04343CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0thetheDTOPER0samesameJJOPER0periodperiodNNOPER0lastlastJJDATEPER0yearyearNNDATEPER0ononINOPER0aaDTOPER0customscustomNNSOPER0--HYPHOPER0clearanceclearanceNNOPER0basisbasisNNOPER0...OPER0(ROOT (S (NP (NNS Officials)) (VP (VBD said) (SBAR (S (NP (NP (NP (NNP South) (NNP Korea) (POS 's)) (NN trade) (NN surplus)) (PP (IN with) (NP (NP (DT the) (NNP U.S.)) (PP (IN for) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year)))))))) (VP (VBD totaled) (NP (QP ($ $) (CD 3.49) (CD billion))) (, ,) (ADVP (RB down) (NP (CD 43) (NN %)) (PP (IN from) (NP (NP (DT the) (JJ same) (NN period)) (NP (JJ last) (NN year))) (PP (IN on) (NP (DT a) (NML (NNS customs) (HYPH -) (NN clearance)) (NN basis))))))))) (. .)))
+SouthSouthNNPOPER0KoreankoreanJJOPER0exportsexportNNSOPER0totoINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0duringduringINOPER0thetheDTOPER0periodperiodNNOPER0fellfallVBDOPER01.61.6CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0totoINOPER0$$$MONEYPER015.0615.06CDMONEYPER0billionbillionCDMONEYPER0,,,OPER0whilewhileINOPER0importsimportNNSOPER0fromfromINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0soaredsoarVBDOPER02626CDPERCENTPER0%%NNPERCENTPER0totoINOPER0$$$MONEYPER011.5611.56CDMONEYPER0billionbillionCDMONEYPER0...OPER0(ROOT (S (NP (NP (NNP South) (JJ Korean) (NNS exports)) (PP (IN to) (NP (DT the) (NNP U.S.))) (PP (IN during) (NP (DT the) (NN period)))) (VP (VBD fell) (NP (CD 1.6) (NN %)) (PP (IN from) (NP (DT a) (NN year) (RB ago))) (PP (IN to) (NP (QP ($ $) (CD 15.06) (CD billion)))) (, ,) (SBAR (IN while) (S (NP (NP (NNS imports)) (PP (IN from) (NP (DT the) (NNP U.S.)))) (VP (VBD soared) (NP (CD 26) (NN %)) (PP (IN to) (NP (QP ($ $) (CD 11.56) (CD billion)))))))) (. .)))
+ThetheDTOPER0tradetradeNNOPER0surplussurplusNNOPER0withwithINOPER0EuropeEuropeNNPLOCPER0wasbeVBDOPER0peggedpegVBNOPER0atatINOPER0$$$MONEYPER0414414CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0downdownRBOPER05757CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN trade) (NN surplus)) (PP (IN with) (NP (NNP Europe)))) (VP (VBD was) (VP (VBN pegged) (PP (IN at) (NP (NP (QP ($ $) (CD 414) (CD million))) (, ,) (ADVP (RB down) (NP (CD 57) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago)))))))) (. .)))
+OfficialsofficialNNSOPER0saidsayVBDOPER0SouthSouthNNPOPER0KoreanKoreanNNPOPER0exportsexportNNSOPER0totoINOPER0EuropeEuropeNNPLOCPER0droppeddropVBDOPER05.35.3CDPERCENTPER0%%NNPERCENTPER0totoINOPER0$$$MONEYPER03.023.02CDMONEYPER0billionbillionCDMONEYPER0whilewhileINOPER0importsimportNNSOPER0fromfromINOPER0therethereRBOPER0wentgoVBDOPER0upupRPOPER01717CDPERCENTPER0%%NNPERCENTPER0totoINOPER0$$$MONEYPER02.612.61CDMONEYPER0billionbillionCDMONEYPER0...OPER0(ROOT (S (NP (NNS Officials)) (VP (VBD said) (SBAR (S (NP (NP (NML (NNP South) (NNP Korean)) (NNS exports)) (PP (IN to) (NP (NNP Europe)))) (VP (VBD dropped) (NP (CD 5.3) (NN %)) (PP (IN to) (NP (QP ($ $) (CD 3.02) (CD billion)))) (SBAR (IN while) (S (NP (NP (NNS imports)) (PP (IN from) (ADVP (RB there)))) (VP (VBD went) (PRT (RP up)) (NP (CD 17) (NN %)) (PP (IN to) (NP (QP ($ $) (CD 2.61) (CD billion))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 7 until 10 headed by 8 parsed as (NP (NNP South) (NNP Korea) (POS 's))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NP (DT the) (NNP U.S.)) (CC and) (NP (NNP Europe)))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNP Europe))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (DT a) (NN year))
+sid=1 spanning 2 until 5 headed by 3 parsed as (NP (NNP South) (NNP Korea) (POS 's))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (NP (DT the) (NNP U.S.)) (PP (IN for) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))))
+sid=1 spanning 11 until 18 headed by 14 parsed as (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNP U.S.))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN period))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (DT a) (NN year) (RB ago))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NNP U.S.))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Europe))
+sid=3 spanning 16 until 19 headed by 18 parsed as ago
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Europe))
+sid=4 spanning 17 until 18 headed by 17 parsed as there
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 6 headed by 2 parsed as (NP (NP (JJ reduced) (NNS exports)) (CC and) (NP (JJ rising) (NNS imports)))
+sid=0 spanning 1 until 3 headed by 2 parsed as (NP (JJ reduced) (NNS exports))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (JJ rising) (NNS imports))
+sid=0 spanning 7 until 21 headed by 11 parsed as (NP (NP (NP (NNP South) (NNP Korea) (POS 's)) (NN trade) (NNS surpluses)) (PP (IN with) (NP (NP (DT the) (NNP U.S.)) (CC and) (NP (NNP Europe)))) (PP (IN between) (NP (NNP January) (CC and) (NNP September))))
+sid=0 spanning 7 until 10 headed by 8 parsed as (NP (NNP South) (NNP Korea) (POS 's))
+sid=0 spanning 13 until 17 headed by 14 parsed as (NP (NP (DT the) (NNP U.S.)) (CC and) (NP (NNP Europe)))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NNP U.S.))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NNP Europe))
+sid=0 spanning 17 until 21 headed by 17 parsed as between
+sid=0 spanning 24 until 27 headed by 26 parsed as ago
+sid=0 spanning 28 until 31 headed by 30 parsed as (NP (DT the) (NNP Customs) (NNP Administration))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=1 spanning 2 until 18 headed by 6 parsed as (NP (NP (NP (NNP South) (NNP Korea) (POS 's)) (NN trade) (NN surplus)) (PP (IN with) (NP (NP (DT the) (NNP U.S.)) (PP (IN for) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))))))
+sid=1 spanning 2 until 5 headed by 3 parsed as (NP (NNP South) (NNP Korea) (POS 's))
+sid=1 spanning 8 until 18 headed by 9 parsed as (NP (NP (DT the) (NNP U.S.)) (PP (IN for) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))))
+sid=1 spanning 11 until 18 headed by 14 parsed as (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))
+sid=1 spanning 27 until 32 headed by 29 parsed as (NP (NP (DT the) (JJ same) (NN period)) (NP (JJ last) (NN year)))
+sid=1 spanning 30 until 32 headed by 31 parsed as (NP (JJ last) (NN year))
+sid=1 spanning 33 until 38 headed by 37 parsed as (NP (DT a) (NML (NNS customs) (HYPH -) (NN clearance)) (NN basis))
+sid=2 spanning 0 until 9 headed by 2 parsed as (NP (NP (NNP South) (JJ Korean) (NNS exports)) (PP (IN to) (NP (DT the) (NNP U.S.))) (PP (IN during) (NP (DT the) (NN period))))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNP U.S.))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN period))
+sid=2 spanning 13 until 16 headed by 14 parsed as (NP (DT a) (NN year) (RB ago))
+sid=2 spanning 22 until 26 headed by 22 parsed as (NP (NP (NNS imports)) (PP (IN from) (NP (DT the) (NNP U.S.))))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NNP U.S.))
+sid=3 spanning 0 until 5 headed by 2 parsed as (NP (NP (DT The) (NN trade) (NN surplus)) (PP (IN with) (NP (NNP Europe))))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Europe))
+sid=3 spanning 16 until 19 headed by 18 parsed as ago
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=4 spanning 2 until 7 headed by 4 parsed as (NP (NP (NML (NNP South) (NNP Korean)) (NNS exports)) (PP (IN to) (NP (NNP Europe))))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Europe))
+sid=4 spanning 15 until 18 headed by 15 parsed as (NP (NP (NNS imports)) (PP (IN from) (ADVP (RB there))))
+(end predicted mentions)
+---------gold clusters--------
+3 12 9 | { 'a year' 'a year ago' 'year' }
+13 11 14 2 | { 'Europe' 'Europe' 'there' 'Europe' }
+7 10 5 1 | { 'the U.S.' 'the U.S.' 'the U.S.' 'the U.S.' }
+4 0 | { 'South Korea 's' 'South Korea 's' }
+8 6 | { 'the period' 'the first nine months of the year' }
+(end gold clusters)

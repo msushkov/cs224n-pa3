@@ -1,0 +1,51 @@
+---------gloss--------
+(0) Israeli and Palestinian negotiators have postponed a meeting today in the wake of new violence . 
+(1) A clash in the West Bank left a Palestinian dead and nine injured . 
+(2) [4m[34m{A Jewish settler , who Israeli authorities believe was kidnapped ,}[0m was found dead outside [4m[34m{his}[0m settlement in [4m[35m{Gaza}[0m . 
+(3) The Israeli government has closed the roads into and out of [4m[35m{Gaza}[0m in the wake of the killing . 
+(4) Negotiators are scheduled to resume talks tomorrow . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0177); part 000
+sentences:
+IsraeliisraeliJJOPER0andandCCOPER0PalestinianpalestinianJJOPER0negotiatorsnegotiatorNNSOPER0havehaveVBPOPER0postponedpostponeVBNOPER0aaDTOPER0meetingmeetingNNOPER0todaytodayNNDATEPER0ininINOPER0thetheDTOPER0wakewakeNNOPER0ofofINOPER0newnewJJOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators)) (VP (VBP have) (VP (VBN postponed) (NP (NP (DT a) (NN meeting)) (NP (NN today)) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (JJ new) (NN violence)))))))) (. .)))
+AaDTOPER0clashclashNNOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0leftleaveVBDOPER0aaDTOPER0PalestinianpalestinianJJOPER0deaddeadJJOPER0andandCCOPER0ninenineCDCARDINALPER0injuredinjuredJJOPER0...OPER0(ROOT (S (NP (NP (DT A) (NN clash)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank)))) (VP (VBD left) (NP (NP (QP (DT a) (JJ Palestinian)) (JJ dead)) (CC and) (NP (CD nine) (JJ injured)))) (. .)))
+AaDTOPER0JewishjewishJJOPER0settlersettlerNNOPER0,,,OPER0whowhoWPOPER0IsraeliisraeliJJOPER0authoritiesauthorityNNSOPER0believebelieveVBPOPER0wasbeVBDOPER0kidnappedkidnapVBNOPER0,,,OPER0wasbeVBDOPER0foundfindVBNOPER0deaddeadJJOPER0outsideoutsideINOPER0hishePRP$OPER0settlementsettlementNNOPER0ininINOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (NP (NP (DT A) (JJ Jewish) (NN settler)) (, ,) (SBAR (WHNP (WP who)) (S (NP (JJ Israeli) (NNS authorities)) (VP (VBP believe) (SBAR (S (VP (VBD was) (VP (VBN kidnapped)))))))) (, ,)) (VP (VBD was) (VP (VBN found) (S (ADJP (JJ dead) (PP (IN outside) (NP (NP (PRP$ his) (NN settlement)) (PP (IN in) (NP (NNP Gaza))))))))) (. .)))
+ThetheDTOPER0IsraeliisraeliJJOPER0governmentgovernmentNNOPER0hashaveVBZOPER0closedcloseVBNOPER0thetheDTOPER0roadsroadNNSOPER0intointoINOPER0andandCCOPER0outoutINOPER0ofofINOPER0GazaGazaNNPLOCPER0ininINOPER0thetheDTOPER0wakewakeNNOPER0ofofINOPER0thetheDTOPER0killingkillingNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ Israeli) (NN government)) (VP (VBZ has) (VP (VBN closed) (NP (NP (DT the) (NNS roads)) (PP (IN into) (CC and) (IN out) (PP (IN of) (NP (NNP Gaza))))) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (DT the) (NN killing))))))) (. .)))
+NegotiatorsnegotiatorNNSOPER0arebeVBPOPER0scheduledscheduleVBNOPER0totoTOOPER0resumeresumeVBOPER0talkstalkNNSOPER0tomorrowtomorrowNNDATEPER0...OPER0(ROOT (S (NP (NNS Negotiators)) (VP (VBP are) (VP (VBN scheduled) (S (VP (TO to) (VP (VB resume) (NP (NNS talks)) (NP (NN tomorrow))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=2 spanning 0 until 11 headed by 2 parsed as (NP (NP (DT A) (JJ Jewish) (NN settler)) (, ,) (SBAR (WHNP (WP who)) (S (NP (JJ Israeli) (NNS authorities)) (VP (VBP believe) (SBAR (S (VP (VBD was) (VP (VBN kidnapped)))))))) (, ,))
+sid=2 spanning 15 until 16 headed by 15 parsed as his
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NNP Gaza))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNP Gaza))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (JJ Israeli) (CC and) (JJ Palestinian)) (NNS negotiators))
+sid=0 spanning 6 until 15 headed by 7 parsed as (NP (NP (DT a) (NN meeting)) (NP (NN today)) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (JJ new) (NN violence))))))
+sid=0 spanning 10 until 15 headed by 11 parsed as (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (JJ new) (NN violence))))
+sid=1 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT A) (NN clash)) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))
+sid=1 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=1 spanning 7 until 13 headed by 9 parsed as (NP (NP (QP (DT a) (JJ Palestinian)) (JJ dead)) (CC and) (NP (CD nine) (JJ injured)))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (QP (DT a) (JJ Palestinian)) (JJ dead))
+sid=1 spanning 11 until 13 headed by 11 parsed as (NP (CD nine) (JJ injured))
+sid=2 spanning 0 until 11 headed by 2 parsed as (NP (NP (DT A) (JJ Jewish) (NN settler)) (, ,) (SBAR (WHNP (WP who)) (S (NP (JJ Israeli) (NNS authorities)) (VP (VBP believe) (SBAR (S (VP (VBD was) (VP (VBN kidnapped)))))))) (, ,))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ Jewish) (NN settler))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (JJ Israeli) (NNS authorities))
+sid=2 spanning 15 until 19 headed by 16 parsed as (NP (NP (PRP$ his) (NN settlement)) (PP (IN in) (NP (NNP Gaza))))
+sid=2 spanning 15 until 16 headed by 15 parsed as (PRP$ his)
+sid=2 spanning 18 until 19 headed by 18 parsed as (NP (NNP Gaza))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ Israeli) (NN government))
+sid=3 spanning 5 until 12 headed by 6 parsed as (NP (NP (DT the) (NNS roads)) (PP (IN into) (CC and) (IN out) (PP (IN of) (NP (NNP Gaza)))))
+sid=3 spanning 11 until 12 headed by 11 parsed as (NP (NNP Gaza))
+sid=3 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (DT the) (NN killing))))
+sid=3 spanning 16 until 18 headed by 17 parsed as (NP (DT the) (NN killing))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNS Negotiators))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNS talks))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NN tomorrow))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'A Jewish settler , who Israeli authorities believe was kidnapped ,' 'his' }
+3 2 | { 'Gaza' 'Gaza' }
+(end gold clusters)

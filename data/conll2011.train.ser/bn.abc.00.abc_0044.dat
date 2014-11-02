@@ -1,0 +1,44 @@
+---------gloss--------
+(0) In news overseas , at a United Nations environmental summit in Johannesburg , South Africa , representatives from 122 nations signed an agreement banning the use of [4m[31m{12 highly toxic chemicals}[0m . 
+(1) Among [4m[31m{them}[0m , dioxins and other chemicals , which are known as `` the Dirty Dozen . '' 
+(2) [4m[31m{They}[0m have been linked to cancer , birth defects , and other genetic abnormalities . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0044); part 000
+sentences:
+IninINOPER0newsnewsNNOPER0overseasoverseasRBOPER0,,,OPER0atatINOPER0aaDTOPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0environmentalenvironmentalJJOPER0summitsummitNNOPER0ininINOPER0JohannesburgJohannesburgNNPGPEPER0,,,OPER0SouthSouthNNPGPEPER0AfricaAfricaNNPGPEPER0,,,OPER0representativesrepresentativeNNSOPER0fromfromINOPER0122122CDCARDINALPER0nationsnationNNSOPER0signedsignVBDOPER0anaDTOPER0agreementagreementNNOPER0banningbanVBGOPER0thetheDTOPER0useuseNNOPER0ofofINOPER01212CDCARDINALPER0highlyhighlyRBOPER0toxictoxicJJOPER0chemicalschemicalNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NN news)) (ADVP (RB overseas)))) (, ,) (PP (IN at) (NP (NP (DT a) (NML (NNP United) (NNP Nations)) (JJ environmental) (NN summit)) (PP (IN in) (NP (NP (NNP Johannesburg)) (, ,) (NP (NNP South) (NNP Africa)))))) (, ,) (NP (NP (NNS representatives)) (PP (IN from) (NP (CD 122) (NNS nations)))) (VP (VBD signed) (NP (NP (DT an) (NN agreement)) (VP (VBG banning) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (CD 12) (ADJP (RB highly) (JJ toxic)) (NNS chemicals))))))) (. .)))
+AmongamongINOPER0themtheyPRPOPER0,,,OPER0dioxinsdioxinNNSOPER0andandCCOPER0otherotherJJOPER0chemicalschemicalNNSOPER0,,,OPER0whichwhichWDTOPER0arebeVBPOPER0knownknowVBNOPER0asasINOPER0``````OthetheDTPERSONPER1DirtydirtyJJPERSONPER1DozenDozenNNPPERSONPER1...OPER1''''''OPER0(ROOT (S (PP (IN Among) (NP (PRP them))) (, ,) (NP (NP (NP (NNS dioxins)) (CC and) (NP (JJ other) (NNS chemicals))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN known) (PP (IN as) (`` ``) (NP (DT the) (JJ Dirty) (NNP Dozen)))))))) (. .) ('' '')))
+TheytheyPRPOPER0havehaveVBPOPER0beenbeVBNOPER0linkedlinkVBNOPER0totoINOPER0cancercancerNNOPER0,,,OPER0birthbirthNNOPER0defectsdefectNNSOPER0,,,OPER0andandCCOPER0otherotherJJOPER0geneticgeneticJJOPER0abnormalitiesabnormalityNNSOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBP have) (VP (VBN been) (VP (VBN linked) (PP (IN to) (NP (NP (NN cancer)) (, ,) (NP (NN birth) (NNS defects)) (, ,) (CC and) (NP (JJ other) (JJ genetic) (NNS abnormalities))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 27 until 31 headed by 30 parsed as (NP (CD 12) (ADJP (RB highly) (JJ toxic)) (NNS chemicals))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (PRP them))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 3 headed by 1 parsed as (NP (NP (NN news)) (ADVP (RB overseas)))
+sid=0 spanning 5 until 15 headed by 9 parsed as (NP (NP (DT a) (NML (NNP United) (NNP Nations)) (JJ environmental) (NN summit)) (PP (IN in) (NP (NP (NNP Johannesburg)) (, ,) (NP (NNP South) (NNP Africa)))))
+sid=0 spanning 6 until 8 headed by 7 parsed as Nations
+sid=0 spanning 11 until 12 headed by 11 parsed as (NP (NP (NNP Johannesburg)) (, ,) (NP (NNP South) (NNP Africa)))
+sid=0 spanning 11 until 15 headed by 11 parsed as (NP (NP (NNP Johannesburg)) (, ,) (NP (NNP South) (NNP Africa)))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (NNP South) (NNP Africa))
+sid=0 spanning 16 until 20 headed by 16 parsed as (NP (NP (NNS representatives)) (PP (IN from) (NP (CD 122) (NNS nations))))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (CD 122) (NNS nations))
+sid=0 spanning 21 until 31 headed by 22 parsed as (NP (NP (DT an) (NN agreement)) (VP (VBG banning) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (CD 12) (ADJP (RB highly) (JJ toxic)) (NNS chemicals))))))
+sid=0 spanning 24 until 31 headed by 25 parsed as (NP (NP (DT the) (NN use)) (PP (IN of) (NP (CD 12) (ADJP (RB highly) (JJ toxic)) (NNS chemicals))))
+sid=0 spanning 27 until 31 headed by 30 parsed as (NP (CD 12) (ADJP (RB highly) (JJ toxic)) (NNS chemicals))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (PRP them))
+sid=1 spanning 3 until 16 headed by 3 parsed as (NP (NP (NP (NNS dioxins)) (CC and) (NP (JJ other) (NNS chemicals))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN known) (PP (IN as) (`` ``) (NP (DT the) (JJ Dirty) (NNP Dozen))))))))
+sid=1 spanning 3 until 7 headed by 3 parsed as (NP (NP (NNS dioxins)) (CC and) (NP (JJ other) (NNS chemicals)))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNS dioxins))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (JJ other) (NNS chemicals))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (JJ Dirty) (NNP Dozen))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 5 until 14 headed by 5 parsed as (NP (NP (NN cancer)) (, ,) (NP (NN birth) (NNS defects)) (, ,) (CC and) (NP (JJ other) (JJ genetic) (NNS abnormalities)))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (NN birth) (NNS defects))
+sid=2 spanning 11 until 14 headed by 13 parsed as (NP (JJ other) (JJ genetic) (NNS abnormalities))
+(end predicted mentions)
+---------gold clusters--------
+0 1 2 | { '12 highly toxic chemicals' 'them' 'They' }
+(end gold clusters)

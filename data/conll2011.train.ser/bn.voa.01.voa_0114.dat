@@ -1,0 +1,258 @@
+---------gloss--------
+(0) [3m[35m{Egypt}[0m has [3m[34m{recalled}[0m [3m[35m{its}[0m ambassador to [31m{Israel}[0m protesting what [3m[35m{it}[0m calls [31m{Israel 's}[0m escalation of aggression against the Palestinians . 
+(1) [3m[35m{Egypt 's}[0m Middle East news agency carried [3m[36m{a foreign ministry statement that said President Hosni Mubarak decided to recall the ambassador after Israeli helicopter gunships attacked Palestinian targets in the Gaza Strip on Monday}[0m . 
+(2) [3m[36m{The statement}[0m did not say whether [3m[34m{the recall}[0m was temporary . 
+(3) [3m[33m{President Mubarak}[0m is a strong supporter of moderation of the Arab - Israeli conflict . 
+(4) [3m[33m{He}[0m has said that a dialogue is the only way to break the current wave of bloody clashes between Israeli forces and the Palestinians . 
+(5) Israeli troops shot and killed at least three more Palestinians in overnight clashes in [1m[31m{Gaza}[0m . 
+(6) Meanwhile , [32m{the head of the Palestinian Observer Mission to the United Nations , Nasser al - Kidwa}[0m says any protection force sent to [4m[35m{the West Bank and Gaza}[0m must be under [4m[31m{United Nations}[0m control . 
+(7) [4m[36m{VOA}[0m correspondent Breck Ardery , has more from [35m{the UN}[0m . 
+(8) Speaking to reporters after a meeting with [4m[31m{UN}[0m Secretary General Kofi Annan , [32m{Mr. al - Kidwa}[0m disputed reports that [1m[35m{the Palestinians}[0m would accept an observer force that was not under [4m[31m{UN}[0m control . 
+(9) We stressed the absolute need for the protection to be achieved through a [4m[31m{UN}[0m observer force composed of unarmed military observers to be deployed throughout the territories occupied by [31m{Israel}[0m since 1967 . 
+(10) [32m{Mr. al - Kidwa}[0m said only an observer force under [4m[31m{UN}[0m jurisdiction would have legitimate international authority . 
+(11) There had previously been reports [1m[35m{the Palestinians}[0m might accept an observer force from several nations , but not under [4m[31m{UN}[0m control . 
+(12) [1m[35m{The Palestinians}[0m are urging the UN Security Council to adopt [3m[32m{a proposed resolution that would send 2000 unarmed observers to Gaza and the West Bank}[0m . 
+(13) Backers of [3m[32m{the resolution}[0m say [34m{the observers}[0m would provide a measure of protection for Palestinian civilians . 
+(14) [3m[31m{The United States}[0m has said [3m[31m{it}[0m will not support [4m[32m{such a resolution}[0m unless [1m[33m{both the Palestinians and the Israelis}[0m agree to [4m[32m{it}[0m . 
+(15) So far , [31m{Israel}[0m has rejected [1m[32m{the idea}[0m . 
+(16) [4m[31m{UN}[0m Secretary General Annan is talking with [1m[33m{both sides}[0m . 
+(17) [36m{Israeli UN Ambassador Yehuda Lancry}[0m had no substantial public comment after [36m{he}[0m [4m[34m{met}[0m with [1m[34m{the Secretary General}[0m , except to say [4m[34m{the meeting}[0m was useful . 
+(18) [33m{Breck Ardery}[0m , [4m[36m{VOA News}[0m at [35m{the United Nations}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0114); part 000
+sentences:
+EgyptEgyptNNPGPEPER0hashaveVBZOPER0recalledrecallVBNOPER0itsitsPRP$OPER0ambassadorambassadorNNOPER0totoINOPER0IsraelIsraelNNPGPEPER0protestingprotestVBGOPER0whatwhatWPOPER0ititPRPOPER0callscallVBZOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0escalationescalationNNOPER0ofofINOPER0aggressionaggressionNNOPER0againstagainstINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (NNP Egypt)) (VP (VBZ has) (VP (VBN recalled) (NP (PRP$ its) (NN ambassador)) (PP (IN to) (NP (NNP Israel))) (S (VP (VBG protesting) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ calls) (S (NP (NP (NP (NNP Israel) (POS 's)) (NN escalation)) (PP (IN of) (NP (NP (NN aggression)) (PP (IN against) (NP (DT the) (NNPS Palestinians)))))))))))))) (. .)))
+EgyptEgyptNNPGPEPER0's'sPOSOPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0newsnewsNNOPER0agencyagencyNNOPER0carriedcarryVBDOPER0aaDTOPER0foreignforeignJJOPER0ministryministryNNOPER0statementstatementNNOPER0thatthatWDTOPER0saidsayVBDOPER0PresidentPresidentNNPOPER0HosniHosniNNPPERSONPER0MubarakMubarakNNPPERSONPER0decideddecideVBDOPER0totoTOOPER0recallrecallVBOPER0thetheDTOPER0ambassadorambassadorNNOPER0afterafterINOPER0IsraeliisraeliJJOPER0helicopterhelicopterNNOPER0gunshipsgunshipNNSOPER0attackedattackVBDOPER0PalestinianpalestinianJJOPER0targetstargetNNSOPER0ininINOPER0thetheDTLOCPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0ononINOPER0MondayMondayNNPDATEPER0...OPER0(ROOT (S (NP (NP (NNP Egypt) (POS 's)) (NML (NNP Middle) (NNP East)) (NN news) (NN agency)) (VP (VBD carried) (NP (NP (DT a) (NML (JJ foreign) (NN ministry)) (NN statement)) (SBAR (WHNP (WDT that)) (S (VP (VBD said) (SBAR (S (NP (NNP President) (NNP Hosni) (NNP Mubarak)) (VP (VBD decided) (S (VP (TO to) (VP (VB recall) (NP (DT the) (NN ambassador)) (SBAR (IN after) (S (NP (JJ Israeli) (NN helicopter) (NNS gunships)) (VP (VBD attacked) (NP (NP (JJ Palestinian) (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))) (PP (IN on) (NP (NNP Monday))))))))))))))))) (. .)))
+ThetheDTOPER0statementstatementNNOPER0diddoVBDOPER0notnotRBOPER0saysayVBOPER0whetherwhetherINOPER0thetheDTOPER0recallrecallNNOPER0wasbeVBDOPER0temporarytemporaryJJOPER0...OPER0(ROOT (S (NP (DT The) (NN statement)) (VP (VBD did) (RB not) (VP (VB say) (SBAR (IN whether) (S (NP (DT the) (NN recall)) (VP (VBD was) (ADJP (JJ temporary))))))) (. .)))
+PresidentPresidentNNPOPER0MubarakMubarakNNPPERSONPER0isbeVBZOPER0aaDTOPER0strongstrongJJOPER0supportersupporterNNOPER0ofofINOPER0moderationmoderationNNOPER0ofofINOPER0thetheDTOPER0ArabarabJJOPER0--HYPHOPER0IsraeliisraeliJJOPER0conflictconflictNNOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Mubarak)) (VP (VBZ is) (NP (NP (DT a) (JJ strong) (NN supporter)) (PP (IN of) (NP (NN moderation))) (PP (IN of) (NP (DT the) (ADJP (JJ Arab) (HYPH -) (JJ Israeli)) (NN conflict))))) (. .)))
+HehePRPOPER0hashaveVBZOPER0saidsayVBNOPER0thatthatINOPER0aaDTOPER0dialoguedialogueNNOPER0isbeVBZOPER0thetheDTOPER0onlyonlyJJOPER0waywayNNOPER0totoTOOPER0breakbreakVBOPER0thetheDTOPER0currentcurrentJJOPER0wavewaveNNOPER0ofofINOPER0bloodybloodyJJOPER0clashesclashNNSOPER0betweenbetweenINOPER0IsraeliisraeliJJOPER0forcesforceNNSOPER0andandCCOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ has) (VP (VBN said) (SBAR (IN that) (S (NP (DT a) (NN dialogue)) (VP (VBZ is) (NP (NP (DT the) (JJ only) (NN way)) (SBAR (S (VP (TO to) (VP (VB break) (NP (NP (DT the) (JJ current) (NN wave)) (PP (IN of) (NP (NP (JJ bloody) (NNS clashes)) (PP (IN between) (NP (NP (JJ Israeli) (NNS forces)) (CC and) (NP (DT the) (NNPS Palestinians))))))))))))))))) (. .)))
+IsraeliisraeliJJOPER0troopstroopsNNSOPER0shotshootVBDOPER0andandCCOPER0killedkillVBDOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER0threethreeCDCARDINALPER0moremoreJJROPER0PalestiniansPalestiniansNNPSOPER0ininINOPER0overnightovernightJJOPER0clashesclashNNSOPER0ininINOPER0GazaGazaNNPLOCPER0...OPER0(ROOT (S (NP (JJ Israeli) (NNS troops)) (VP (VBD shot) (CC and) (VBD killed) (NP (QP (ADVP (RB at) (RBS least)) (CD three) (JJR more)) (NNPS Palestinians)) (PP (IN in) (NP (NP (JJ overnight) (NNS clashes)) (PP (IN in) (NP (NNP Gaza)))))) (. .)))
+MeanwhilemeanwhileRBOPER0,,,OPER0thetheDTOPER0headheadNNOPER0ofofINOPER0thetheDTORGPER0PalestinianPalestinianNNPORGPER0ObserverObserverNNPORGPER0MissionmissionNNORGPER0totoINOPER0thetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0,,,OPER0NasserNasserNNPPERSONPER0alalNNPPERSONPER0--HYPHPERSONPER0KidwaKidwaNNPPERSONPER0sayssayVBZOPER0anyanyDTOPER0protectionprotectionNNOPER0forceforceNNOPER0sentsendVBNOPER0totoINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPGPEPER0mustmustMDOPER0bebeVBOPER0underunderINOPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0controlcontrolNNOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (NP (DT the) (NN head)) (PP (IN of) (NP (NP (DT the) (NML (NNP Palestinian) (NNP Observer)) (NN Mission)) (PP (IN to) (NP (DT the) (NNP United) (NNP Nations)))))) (, ,) (NP (NNP Nasser) (NNP al) (HYPH -) (NNP Kidwa))) (VP (VBZ says) (SBAR (S (NP (NP (DT any) (NN protection) (NN force)) (VP (VBN sent) (PP (IN to) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))) (VP (MD must) (VP (VB be) (PP (IN under) (NP (NML (NNP United) (NNP Nations)) (NN control)))))))) (. .)))
+VOAVOANNPORGPER0correspondentcorrespondentNNOPER0BreckBreckNNPPERSONPER0ArderyArderyNNPPERSONPER0,,,OPER0hashaveVBZOPER0moremoreJJROPER0fromfromINOPER0thetheDTOPER0UNUNNNPORGPER0...OPER0(ROOT (S (NP (NML (NNP VOA) (NN correspondent)) (NNP Breck) (NNP Ardery)) (, ,) (VP (VBZ has) (NP (NP (JJR more)) (PP (IN from) (NP (DT the) (NNP UN))))) (. .)))
+SpeakingspeakVBGOPER0totoINOPER0reportersreporterNNSOPER0afterafterINOPER0aaDTOPER0meetingmeetingNNOPER0withwithINOPER0UNUNNNPORGPER0SecretarySecretaryNNPOPER0GeneralGeneralNNPOPER0KofiKofiNNPPERSONPER0AnnanAnnanNNPPERSONPER0,,,OPER0Mr.Mr.NNPOPER0alalNNPPERSONPER0--HYPHPERSONPER0KidwaKidwaNNPPERSONPER0disputeddisputeVBDOPER0reportsreportNNSOPER0thatthatINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0wouldwouldMDOPER0acceptacceptVBOPER0anaDTOPER0observerobserverNNOPER0forceforceNNOPER0thatthatWDTOPER0wasbeVBDOPER0notnotRBOPER0underunderINOPER0UNUNNNPORGPER0controlcontrolNNOPER0...OPER0(ROOT (S (S (VP (VBG Speaking) (PP (IN to) (NP (NNS reporters))) (PP (IN after) (NP (NP (DT a) (NN meeting)) (PP (IN with) (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))))))) (, ,) (NP (NNP Mr.) (NNP al) (HYPH -) (NNP Kidwa)) (VP (VBD disputed) (NP (NNS reports) (SBAR (IN that) (S (NP (DT the) (NNPS Palestinians)) (VP (MD would) (VP (VB accept) (NP (NP (DT an) (NN observer) (NN force)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (RB not) (PP (IN under) (NP (NNP UN) (NN control))))))))))))) (. .)))
+WewePRPOPER0stressedstressVBDOPER0thetheDTOPER0absoluteabsoluteJJOPER0needneedNNOPER0forforINOPER0thetheDTOPER0protectionprotectionNNOPER0totoTOOPER0bebeVBOPER0achievedachieveVBNOPER0throughthroughINOPER0aaDTOPER0UNUNNNPORGPER0observerobserverNNOPER0forceforceNNOPER0composedcomposeVBNOPER0ofofINOPER0unarmedunarmedJJOPER0militarymilitaryJJOPER0observersobserverNNSOPER0totoTOOPER0bebeVBOPER0deployeddeployVBNOPER0throughoutthroughoutINOPER0thetheDTOPER0territoriesterritoryNNSOPER0occupiedoccupyVBNOPER0bybyINOPER0IsraelIsraelNNPGPEPER0sincesinceINOPER019671967CDDATEPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBD stressed) (NP (NP (DT the) (JJ absolute) (NN need)) (PP (IN for) (NP (DT the) (NN protection))) (S (VP (TO to) (VP (VB be) (VP (VBN achieved) (PP (IN through) (NP (NP (DT a) (NNP UN) (NN observer) (NN force)) (VP (VBN composed) (PP (IN of) (NP (NP (JJ unarmed) (JJ military) (NNS observers)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN deployed) (PP (IN throughout) (NP (NP (DT the) (NNS territories)) (VP (VBN occupied) (PP (IN by) (NP (NNP Israel)))))) (PP (IN since) (NP (CD 1967))))))))))))))))))) (. .)))
+Mr.Mr.NNPOPER0alalNNPPERSONPER0--HYPHPERSONPER0KidwaKidwaNNPPERSONPER0saidsayVBDOPER0onlyonlyRBOPER0anaDTOPER0observerobserverNNOPER0forceforceNNOPER0underunderINOPER0UNUNNNPORGPER0jurisdictionjurisdictionNNOPER0wouldwouldMDOPER0havehaveVBOPER0legitimatelegitimateJJOPER0internationalinternationalJJOPER0authorityauthorityNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP al) (HYPH -) (NNP Kidwa)) (VP (VBD said) (SBAR (S (NP (NP (RB only) (DT an) (NN observer) (NN force)) (PP (IN under) (NP (NNP UN) (NN jurisdiction)))) (VP (MD would) (VP (VB have) (NP (JJ legitimate) (JJ international) (NN authority))))))) (. .)))
+TherethereEXOPER0hadhaveVBDOPER0previouslypreviouslyRBOPER0beenbeVBNOPER0reportsreportNNSOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0mightmightMDOPER0acceptacceptVBOPER0anaDTOPER0observerobserverNNOPER0forceforceNNOPER0fromfromINOPER0severalseveralJJOPER0nationsnationNNSOPER0,,,OPER0butbutCCOPER0notnotRBOPER0underunderINOPER0UNUNNNPORGPER0controlcontrolNNOPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBD had) (ADVP (RB previously)) (VP (VBN been) (NP (NNS reports) (SBAR (S (NP (DT the) (NNPS Palestinians)) (VP (MD might) (VP (VB accept) (NP (DT an) (NN observer) (NN force)) (PP (PP (IN from) (NP (JJ several) (NNS nations))) (, ,) (CONJP (CC but) (RB not)) (PP (IN under) (NP (NNP UN) (NN control))))))))))) (. .)))
+ThetheDTOPER0PalestiniansPalestiniansNNPSOPER0arebeVBPOPER0urgingurgeVBGOPER0thetheDTORGPER0UNUNNNPORGPER0SecuritySecurityNNPORGPER0CouncilCouncilNNPORGPER0totoTOOPER0adoptadoptVBOPER0aaDTOPER0proposedproposeVBNOPER0resolutionresolutionNNOPER0thatthatWDTOPER0wouldwouldMDOPER0sendsendVBOPER020002000CDDATEPER0unarmedunarmedJJOPER0observersobserverNNSOPER0totoINOPER0GazaGazaNNPLOCPER0andandCCOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0...OPER0(ROOT (S (NP (DT The) (NNPS Palestinians)) (VP (VBP are) (VP (VBG urging) (NP (DT the) (NNP UN) (NNP Security) (NNP Council)) (S (VP (TO to) (VP (VB adopt) (NP (NP (DT a) (VBN proposed) (NN resolution)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB send) (NP (CD 2000) (JJ unarmed) (NNS observers)) (PP (IN to) (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))))))))))))) (. .)))
+BackersbackerNNSOPER0ofofINOPER0thetheDTOPER0resolutionresolutionNNOPER0saysayVBPOPER0thetheDTOPER0observersobserverNNSOPER0wouldwouldMDOPER0provideprovideVBOPER0aaDTOPER0measuremeasureNNOPER0ofofINOPER0protectionprotectionNNOPER0forforINOPER0PalestinianpalestinianJJOPER0civilianscivilianNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Backers)) (PP (IN of) (NP (DT the) (NN resolution)))) (VP (VBP say) (SBAR (S (NP (DT the) (NNS observers)) (VP (MD would) (VP (VB provide) (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NP (NN protection)) (PP (IN for) (NP (JJ Palestinian) (NNS civilians))))))))))) (. .)))
+ThetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0hashaveVBZOPER0saidsayVBNOPER0ititPRPOPER0willwillMDOPER0notnotRBOPER0supportsupportVBOPER0suchsuchPDTOPER0aaDTOPER0resolutionresolutionNNOPER0unlessunlessINOPER0bothbothPDTOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0andandCCOPER0thetheDTOPER0IsraelisIsraelisNNPSOPER0agreeagreeVBPOPER0totoINOPER0ititPRPOPER0...OPER0(ROOT (S (NP (DT The) (NNP United) (NNP States)) (VP (VBZ has) (VP (VBN said) (SBAR (S (NP (PRP it)) (VP (MD will) (RB not) (VP (VB support) (NP (PDT such) (DT a) (NN resolution)) (SBAR (IN unless) (S (NP (NP (PDT both) (DT the) (NNPS Palestinians)) (CC and) (NP (DT the) (NNPS Israelis))) (VP (VBP agree) (PP (IN to) (NP (PRP it)))))))))))) (. .)))
+SosoRBOPER0farfarRBOPER0,,,OPER0IsraelIsraelNNPGPEPER0hashaveVBZOPER0rejectedrejectVBNOPER0thetheDTOPER0ideaideaNNOPER0...OPER0(ROOT (S (ADVP (RB So) (RB far)) (, ,) (NP (NNP Israel)) (VP (VBZ has) (VP (VBN rejected) (NP (DT the) (NN idea)))) (. .)))
+UNUNNNPORGPER0SecretarySecretaryNNPOPER0GeneralGeneralNNPOPER0AnnanAnnanNNPPERSONPER0isbeVBZOPER0talkingtalkVBGOPER0withwithINOPER0bothbothDTOPER0sidessideNNSOPER0...OPER0(ROOT (S (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Annan)) (VP (VBZ is) (VP (VBG talking) (PP (IN with) (NP (DT both) (NNS sides))))) (. .)))
+IsraeliisraeliJJOPER0UNUNNNPORGPER0AmbassadorAmbassadorNNPOPER0YehudaYehudaNNPPERSONPER0LancryLancryNNPPERSONPER0hadhaveVBDOPER0nonoDTOPER0substantialsubstantialJJOPER0publicpublicJJOPER0commentcommentNNOPER0afterafterINOPER0hehePRPOPER0metmeetVBDOPER0withwithINOPER0thetheDTOPER0SecretarySecretaryNNPOPER0GeneralGeneralNNPOPER0,,,OPER0exceptexceptINOPER0totoTOOPER0saysayVBOPER0thetheDTOPER0meetingmeetingNNOPER0wasbeVBDOPER0usefulusefulJJOPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP UN) (NNP Ambassador)) (NNP Yehuda) (NNP Lancry)) (VP (VBD had) (NP (DT no) (JJ substantial) (JJ public) (NN comment)) (SBAR (IN after) (S (NP (PRP he)) (VP (VBD met) (PP (IN with) (NP (DT the) (NNP Secretary) (NNP General))) (, ,) (SBAR (IN except) (S (VP (TO to) (VP (VB say) (SBAR (S (NP (DT the) (NN meeting)) (VP (VBD was) (ADJP (JJ useful))))))))))))) (. .)))
+BreckBreckNNPPERSONPER0ArderyArderyNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0atatINOPER0thetheDTORGPER0UnitedUnitedNNPORGPER0NationsNationsNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP Breck) (NNP Ardery)) (, ,) (NP (NNP VOA) (NNP News)) (PP (IN at) (NP (DT the) (NNP United) (NNP Nations))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Egypt))
+sid=0 spanning 2 until 3 headed by 2 parsed as recalled
+sid=0 spanning 3 until 7 headed by 4 parsed as (NP (PRP$ its) (NN ambassador))
+sid=0 spanning 3 until 4 headed by 3 parsed as its
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Israel))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=0 spanning 11 until 13 headed by 11 parsed as (NP (NNP Israel) (POS 's))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Egypt) (POS 's))
+sid=1 spanning 7 until 34 headed by 10 parsed as (NP (NP (DT a) (NML (JJ foreign) (NN ministry)) (NN statement)) (SBAR (WHNP (WDT that)) (S (VP (VBD said) (SBAR (S (NP (NNP President) (NNP Hosni) (NNP Mubarak)) (VP (VBD decided) (S (VP (TO to) (VP (VB recall) (NP (DT the) (NN ambassador)) (SBAR (IN after) (S (NP (JJ Israeli) (NN helicopter) (NNS gunships)) (VP (VBD attacked) (NP (NP (JJ Palestinian) (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))) (PP (IN on) (NP (NNP Monday))))))))))))))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (NNP President) (NNP Hosni) (NNP Mubarak))
+sid=1 spanning 18 until 19 headed by 18 parsed as recall
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN ambassador))
+sid=1 spanning 29 until 32 headed by 31 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN statement))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN recall))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Mubarak))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=5 spanning 14 until 15 headed by 14 parsed as (NP (NNP Gaza))
+sid=6 spanning 2 until 18 headed by 3 parsed as (NP (NP (NP (DT the) (NN head)) (PP (IN of) (NP (NP (DT the) (NML (NNP Palestinian) (NNP Observer)) (NN Mission)) (PP (IN to) (NP (DT the) (NNP United) (NNP Nations)))))) (, ,) (NP (NNP Nasser) (NNP al) (HYPH -) (NNP Kidwa)))
+sid=6 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP United) (NNP Nations))
+sid=6 spanning 24 until 27 headed by 26 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=6 spanning 24 until 29 headed by 26 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=6 spanning 28 until 29 headed by 28 parsed as (NP (NNP Gaza))
+sid=6 spanning 32 until 34 headed by 33 parsed as Nations
+sid=7 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP VOA) (NN correspondent)) (NNP Breck) (NNP Ardery))
+sid=7 spanning 0 until 1 headed by 0 parsed as VOA
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNP UN))
+sid=8 spanning 7 until 12 headed by 11 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=8 spanning 7 until 8 headed by 7 parsed as UN
+sid=8 spanning 13 until 17 headed by 16 parsed as (NP (NNP Mr.) (NNP al) (HYPH -) (NNP Kidwa))
+sid=8 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNPS Palestinians))
+sid=8 spanning 31 until 32 headed by 31 parsed as UN
+sid=9 spanning 13 until 14 headed by 13 parsed as UN
+sid=9 spanning 29 until 30 headed by 29 parsed as (NP (NNP Israel))
+sid=10 spanning 0 until 4 headed by 3 parsed as (NP (NNP Mr.) (NNP al) (HYPH -) (NNP Kidwa))
+sid=10 spanning 10 until 11 headed by 10 parsed as UN
+sid=11 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNPS Palestinians))
+sid=11 spanning 19 until 20 headed by 19 parsed as UN
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Palestinians))
+sid=12 spanning 10 until 25 headed by 12 parsed as (NP (NP (DT a) (VBN proposed) (NN resolution)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB send) (NP (CD 2000) (JJ unarmed) (NNS observers)) (PP (IN to) (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))))))))
+sid=12 spanning 15 until 16 headed by 15 parsed as send
+sid=12 spanning 16 until 19 headed by 18 parsed as (NP (CD 2000) (JJ unarmed) (NNS observers))
+sid=12 spanning 20 until 21 headed by 20 parsed as (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))
+sid=12 spanning 20 until 25 headed by 20 parsed as (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))
+sid=12 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=13 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN resolution))
+sid=13 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS observers))
+sid=14 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP States))
+sid=14 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=14 spanning 9 until 12 headed by 11 parsed as (NP (PDT such) (DT a) (NN resolution))
+sid=14 spanning 15 until 16 headed by 15 parsed as (NP (NP (PDT both) (DT the) (NNPS Palestinians)) (CC and) (NP (DT the) (NNPS Israelis)))
+sid=14 spanning 13 until 19 headed by 15 parsed as (NP (NP (PDT both) (DT the) (NNPS Palestinians)) (CC and) (NP (DT the) (NNPS Israelis)))
+sid=14 spanning 21 until 22 headed by 21 parsed as (NP (PRP it))
+sid=15 spanning 3 until 4 headed by 3 parsed as (NP (NNP Israel))
+sid=15 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN idea))
+sid=16 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Annan))
+sid=16 spanning 0 until 1 headed by 0 parsed as UN
+sid=16 spanning 7 until 9 headed by 8 parsed as (NP (DT both) (NNS sides))
+sid=17 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP UN) (NNP Ambassador)) (NNP Yehuda) (NNP Lancry))
+sid=17 spanning 1 until 2 headed by 1 parsed as UN
+sid=17 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=17 spanning 12 until 13 headed by 12 parsed as met
+sid=17 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Secretary) (NNP General))
+sid=17 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN meeting))
+sid=18 spanning 0 until 2 headed by 1 parsed as (NP (NNP Breck) (NNP Ardery))
+sid=18 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=18 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP United) (NNP Nations))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Egypt))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (PRP$ its) (NN ambassador))
+sid=0 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNP Israel))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (PRP it))
+sid=0 spanning 11 until 19 headed by 13 parsed as (NP (NP (NP (NNP Israel) (POS 's)) (NN escalation)) (PP (IN of) (NP (NP (NN aggression)) (PP (IN against) (NP (DT the) (NNPS Palestinians))))))
+sid=0 spanning 11 until 13 headed by 11 parsed as (NP (NNP Israel) (POS 's))
+sid=0 spanning 15 until 19 headed by 15 parsed as (NP (NP (NN aggression)) (PP (IN against) (NP (DT the) (NNPS Palestinians))))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 0 until 6 headed by 5 parsed as (NP (NP (NNP Egypt) (POS 's)) (NML (NNP Middle) (NNP East)) (NN news) (NN agency))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Egypt) (POS 's))
+sid=1 spanning 2 until 4 headed by 3 parsed as East
+sid=1 spanning 7 until 34 headed by 10 parsed as (NP (NP (DT a) (NML (JJ foreign) (NN ministry)) (NN statement)) (SBAR (WHNP (WDT that)) (S (VP (VBD said) (SBAR (S (NP (NNP President) (NNP Hosni) (NNP Mubarak)) (VP (VBD decided) (S (VP (TO to) (VP (VB recall) (NP (DT the) (NN ambassador)) (SBAR (IN after) (S (NP (JJ Israeli) (NN helicopter) (NNS gunships)) (VP (VBD attacked) (NP (NP (JJ Palestinian) (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip)))) (PP (IN on) (NP (NNP Monday))))))))))))))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (NNP President) (NNP Hosni) (NNP Mubarak))
+sid=1 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN ambassador))
+sid=1 spanning 22 until 25 headed by 24 parsed as (NP (JJ Israeli) (NN helicopter) (NNS gunships))
+sid=1 spanning 26 until 32 headed by 27 parsed as (NP (NP (JJ Palestinian) (NNS targets)) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))))
+sid=1 spanning 29 until 32 headed by 31 parsed as (NP (DT the) (NNP Gaza) (NNP Strip))
+sid=1 spanning 33 until 34 headed by 33 parsed as (NP (NNP Monday))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN statement))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN recall))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Mubarak))
+sid=3 spanning 3 until 14 headed by 5 parsed as (NP (NP (DT a) (JJ strong) (NN supporter)) (PP (IN of) (NP (NN moderation))) (PP (IN of) (NP (DT the) (ADJP (JJ Arab) (HYPH -) (JJ Israeli)) (NN conflict))))
+sid=3 spanning 9 until 14 headed by 13 parsed as (NP (DT the) (ADJP (JJ Arab) (HYPH -) (JJ Israeli)) (NN conflict))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (DT a) (NN dialogue))
+sid=4 spanning 7 until 24 headed by 9 parsed as (NP (NP (DT the) (JJ only) (NN way)) (SBAR (S (VP (TO to) (VP (VB break) (NP (NP (DT the) (JJ current) (NN wave)) (PP (IN of) (NP (NP (JJ bloody) (NNS clashes)) (PP (IN between) (NP (NP (JJ Israeli) (NNS forces)) (CC and) (NP (DT the) (NNPS Palestinians))))))))))))
+sid=4 spanning 12 until 24 headed by 14 parsed as (NP (NP (DT the) (JJ current) (NN wave)) (PP (IN of) (NP (NP (JJ bloody) (NNS clashes)) (PP (IN between) (NP (NP (JJ Israeli) (NNS forces)) (CC and) (NP (DT the) (NNPS Palestinians)))))))
+sid=4 spanning 16 until 24 headed by 17 parsed as (NP (NP (JJ bloody) (NNS clashes)) (PP (IN between) (NP (NP (JJ Israeli) (NNS forces)) (CC and) (NP (DT the) (NNPS Palestinians)))))
+sid=4 spanning 19 until 24 headed by 20 parsed as (NP (NP (JJ Israeli) (NNS forces)) (CC and) (NP (DT the) (NNPS Palestinians)))
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (JJ Israeli) (NNS forces))
+sid=4 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NNPS Palestinians))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (JJ Israeli) (NNS troops))
+sid=5 spanning 5 until 10 headed by 9 parsed as (NP (QP (ADVP (RB at) (RBS least)) (CD three) (JJR more)) (NNPS Palestinians))
+sid=5 spanning 11 until 15 headed by 12 parsed as (NP (NP (JJ overnight) (NNS clashes)) (PP (IN in) (NP (NNP Gaza))))
+sid=5 spanning 14 until 15 headed by 14 parsed as (NP (NNP Gaza))
+sid=6 spanning 2 until 18 headed by 3 parsed as (NP (NP (NP (DT the) (NN head)) (PP (IN of) (NP (NP (DT the) (NML (NNP Palestinian) (NNP Observer)) (NN Mission)) (PP (IN to) (NP (DT the) (NNP United) (NNP Nations)))))) (, ,) (NP (NNP Nasser) (NNP al) (HYPH -) (NNP Kidwa)))
+sid=6 spanning 2 until 13 headed by 3 parsed as (NP (NP (DT the) (NN head)) (PP (IN of) (NP (NP (DT the) (NML (NNP Palestinian) (NNP Observer)) (NN Mission)) (PP (IN to) (NP (DT the) (NNP United) (NNP Nations))))))
+sid=6 spanning 5 until 13 headed by 8 parsed as (NP (NP (DT the) (NML (NNP Palestinian) (NNP Observer)) (NN Mission)) (PP (IN to) (NP (DT the) (NNP United) (NNP Nations))))
+sid=6 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (NNP United) (NNP Nations))
+sid=6 spanning 14 until 18 headed by 17 parsed as (NP (NNP Nasser) (NNP al) (HYPH -) (NNP Kidwa))
+sid=6 spanning 24 until 27 headed by 26 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=6 spanning 24 until 29 headed by 26 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=6 spanning 28 until 29 headed by 28 parsed as (NP (NNP Gaza))
+sid=6 spanning 32 until 35 headed by 34 parsed as (NP (NML (NNP United) (NNP Nations)) (NN control))
+sid=6 spanning 32 until 34 headed by 33 parsed as Nations
+sid=7 spanning 2 until 4 headed by 3 parsed as (NP (NML (NNP VOA) (NN correspondent)) (NNP Breck) (NNP Ardery))
+sid=7 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP VOA) (NN correspondent)) (NNP Breck) (NNP Ardery))
+sid=7 spanning 0 until 1 headed by 0 parsed as VOA
+sid=7 spanning 6 until 10 headed by 6 parsed as (NP (NP (JJR more)) (PP (IN from) (NP (DT the) (NNP UN))))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNP UN))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (NNS reporters))
+sid=8 spanning 4 until 12 headed by 5 parsed as (NP (NP (DT a) (NN meeting)) (PP (IN with) (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))))
+sid=8 spanning 10 until 12 headed by 11 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=8 spanning 7 until 12 headed by 11 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=8 spanning 7 until 8 headed by 7 parsed as UN
+sid=8 spanning 13 until 17 headed by 16 parsed as (NP (NNP Mr.) (NNP al) (HYPH -) (NNP Kidwa))
+sid=8 spanning 18 until 33 headed by 18 parsed as (NP (NNS reports) (SBAR (IN that) (S (NP (DT the) (NNPS Palestinians)) (VP (MD would) (VP (VB accept) (NP (NP (DT an) (NN observer) (NN force)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (RB not) (PP (IN under) (NP (NNP UN) (NN control))))))))))))
+sid=8 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNPS Palestinians))
+sid=8 spanning 24 until 33 headed by 26 parsed as (NP (NP (DT an) (NN observer) (NN force)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (RB not) (PP (IN under) (NP (NNP UN) (NN control)))))))
+sid=8 spanning 31 until 33 headed by 32 parsed as (NP (NNP UN) (NN control))
+sid=8 spanning 31 until 32 headed by 31 parsed as UN
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=9 spanning 2 until 32 headed by 4 parsed as (NP (NP (DT the) (JJ absolute) (NN need)) (PP (IN for) (NP (DT the) (NN protection))) (S (VP (TO to) (VP (VB be) (VP (VBN achieved) (PP (IN through) (NP (NP (DT a) (NNP UN) (NN observer) (NN force)) (VP (VBN composed) (PP (IN of) (NP (NP (JJ unarmed) (JJ military) (NNS observers)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN deployed) (PP (IN throughout) (NP (NP (DT the) (NNS territories)) (VP (VBN occupied) (PP (IN by) (NP (NNP Israel)))))) (PP (IN since) (NP (CD 1967))))))))))))))))))
+sid=9 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN protection))
+sid=9 spanning 12 until 32 headed by 15 parsed as (NP (NP (DT a) (NNP UN) (NN observer) (NN force)) (VP (VBN composed) (PP (IN of) (NP (NP (JJ unarmed) (JJ military) (NNS observers)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN deployed) (PP (IN throughout) (NP (NP (DT the) (NNS territories)) (VP (VBN occupied) (PP (IN by) (NP (NNP Israel)))))) (PP (IN since) (NP (CD 1967))))))))))))
+sid=9 spanning 13 until 14 headed by 13 parsed as UN
+sid=9 spanning 18 until 32 headed by 20 parsed as (NP (NP (JJ unarmed) (JJ military) (NNS observers)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN deployed) (PP (IN throughout) (NP (NP (DT the) (NNS territories)) (VP (VBN occupied) (PP (IN by) (NP (NNP Israel)))))) (PP (IN since) (NP (CD 1967)))))))))
+sid=9 spanning 25 until 30 headed by 26 parsed as (NP (NP (DT the) (NNS territories)) (VP (VBN occupied) (PP (IN by) (NP (NNP Israel)))))
+sid=9 spanning 29 until 30 headed by 29 parsed as (NP (NNP Israel))
+sid=9 spanning 31 until 32 headed by 31 parsed as (NP (CD 1967))
+sid=10 spanning 0 until 4 headed by 3 parsed as (NP (NNP Mr.) (NNP al) (HYPH -) (NNP Kidwa))
+sid=10 spanning 5 until 12 headed by 8 parsed as (NP (NP (RB only) (DT an) (NN observer) (NN force)) (PP (IN under) (NP (NNP UN) (NN jurisdiction))))
+sid=10 spanning 10 until 12 headed by 11 parsed as (NP (NNP UN) (NN jurisdiction))
+sid=10 spanning 10 until 11 headed by 10 parsed as UN
+sid=11 spanning 4 until 21 headed by 4 parsed as (NP (NNS reports) (SBAR (S (NP (DT the) (NNPS Palestinians)) (VP (MD might) (VP (VB accept) (NP (DT an) (NN observer) (NN force)) (PP (PP (IN from) (NP (JJ several) (NNS nations))) (, ,) (CONJP (CC but) (RB not)) (PP (IN under) (NP (NNP UN) (NN control)))))))))
+sid=11 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNPS Palestinians))
+sid=11 spanning 9 until 12 headed by 11 parsed as (NP (DT an) (NN observer) (NN force))
+sid=11 spanning 13 until 15 headed by 14 parsed as (NP (JJ several) (NNS nations))
+sid=11 spanning 19 until 21 headed by 20 parsed as (NP (NNP UN) (NN control))
+sid=11 spanning 19 until 20 headed by 19 parsed as UN
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Palestinians))
+sid=12 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (NNP UN) (NNP Security) (NNP Council))
+sid=12 spanning 10 until 25 headed by 12 parsed as (NP (NP (DT a) (VBN proposed) (NN resolution)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB send) (NP (CD 2000) (JJ unarmed) (NNS observers)) (PP (IN to) (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))))))))
+sid=12 spanning 16 until 19 headed by 18 parsed as (NP (CD 2000) (JJ unarmed) (NNS observers))
+sid=12 spanning 16 until 17 headed by 16 parsed as 2000
+sid=12 spanning 20 until 21 headed by 20 parsed as (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))
+sid=12 spanning 20 until 25 headed by 20 parsed as (NP (NP (NNP Gaza)) (CC and) (NP (DT the) (NNP West) (NNP Bank)))
+sid=12 spanning 22 until 25 headed by 24 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=13 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Backers)) (PP (IN of) (NP (DT the) (NN resolution))))
+sid=13 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN resolution))
+sid=13 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNS observers))
+sid=13 spanning 9 until 16 headed by 10 parsed as (NP (NP (DT a) (NN measure)) (PP (IN of) (NP (NP (NN protection)) (PP (IN for) (NP (JJ Palestinian) (NNS civilians))))))
+sid=13 spanning 12 until 16 headed by 12 parsed as (NP (NP (NN protection)) (PP (IN for) (NP (JJ Palestinian) (NNS civilians))))
+sid=13 spanning 14 until 16 headed by 15 parsed as (NP (JJ Palestinian) (NNS civilians))
+sid=14 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP United) (NNP States))
+sid=14 spanning 5 until 6 headed by 5 parsed as (NP (PRP it))
+sid=14 spanning 9 until 12 headed by 11 parsed as (NP (PDT such) (DT a) (NN resolution))
+sid=14 spanning 13 until 19 headed by 15 parsed as (NP (NP (PDT both) (DT the) (NNPS Palestinians)) (CC and) (NP (DT the) (NNPS Israelis)))
+sid=14 spanning 13 until 16 headed by 15 parsed as (NP (PDT both) (DT the) (NNPS Palestinians))
+sid=14 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NNPS Israelis))
+sid=14 spanning 21 until 22 headed by 21 parsed as (NP (PRP it))
+sid=15 spanning 3 until 4 headed by 3 parsed as (NP (NNP Israel))
+sid=15 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN idea))
+sid=16 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Annan))
+sid=16 spanning 0 until 1 headed by 0 parsed as UN
+sid=16 spanning 7 until 9 headed by 8 parsed as (NP (DT both) (NNS sides))
+sid=17 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP UN) (NNP Ambassador)) (NNP Yehuda) (NNP Lancry))
+sid=17 spanning 1 until 2 headed by 1 parsed as UN
+sid=17 spanning 6 until 10 headed by 9 parsed as (NP (DT no) (JJ substantial) (JJ public) (NN comment))
+sid=17 spanning 11 until 12 headed by 11 parsed as (NP (PRP he))
+sid=17 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Secretary) (NNP General))
+sid=17 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN meeting))
+sid=18 spanning 0 until 2 headed by 1 parsed as (NP (NNP Breck) (NNP Ardery))
+sid=18 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=18 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP United) (NNP Nations))
+(end predicted mentions)
+---------gold clusters--------
+49 52 | { 'such a resolution' 'it' }
+2 11 | { 'its ambassador to Israel' 'the ambassador' }
+63 61 | { 'the meeting' 'met' }
+21 43 | { 'the West Bank and Gaza' 'Gaza and the West Bank' }
+25 65 | { 'VOA' 'VOA News' }
+4 33 6 53 | { 'Israel' 'Israel' 'Israel 's' 'Israel' }
+18 29 34 | { 'the head of the Palestinian Observer Mission to the United Nations , Nasser al - Kidwa' 'Mr. al - Kidwa' 'Mr. al - Kidwa' }
+64 24 | { 'Breck Ardery' 'VOA correspondent Breck Ardery' }
+46 41 | { 'the observers' '2000 unarmed observers' }
+26 66 | { 'the UN' 'the United Nations' }
+60 58 | { 'he' 'Israeli UN Ambassador Yehuda Lancry' }
+22 17 12 42 | { 'Gaza' 'Gaza' 'the Gaza Strip' 'Gaza' }
+54 40 | { 'the idea' 'send' }
+51 57 | { 'both the Palestinians and the Israelis' 'both sides' }
+62 27 55 | { 'the Secretary General' 'UN Secretary General Kofi Annan' 'UN Secretary General Annan' }
+36 30 38 50 | { 'the Palestinians' 'the Palestinians' 'The Palestinians' 'Palestinians' }
+20 44 | { 'the West Bank' 'the West Bank' }
+47 48 | { 'The United States' 'it' }
+39 45 | { 'a proposed resolution that would send 2000 unarmed observers to Gaza and the West Bank' 'the resolution' }
+9 16 15 | { 'President Hosni Mubarak' 'He' 'President Mubarak' }
+1 10 14 | { 'recalled' 'recall' 'the recall' }
+5 0 7 3 | { 'it' 'Egypt' 'Egypt 's' 'its' }
+8 13 | { 'a foreign ministry statement that said President Hosni Mubarak decided to recall the ambassador after Israeli helicopter gunships attacked Palestinian targets in the Gaza Strip on Monday' 'The statement' }
+32 56 28 23 31 19 35 59 37 | { 'UN' 'UN' 'UN' 'United Nations' 'UN' 'the United Nations' 'UN' 'UN' 'UN' }
+(end gold clusters)

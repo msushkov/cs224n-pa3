@@ -1,0 +1,42 @@
+---------gloss--------
+(0) From the left in the upper picture : Hongmin Wang , mayor of [4m[31m{Wuxi}[0m , Jin Hong and Huaixi Zhang , vice-mayors of [4m[31m{Wuxi}[0m , and Huanxing Cheng , and assistant commander of the Wuxi Branch Military Area are voluntarily donating blood . 
+(1) In the lower picture : the youth medical staff of [4m[31m{Wuxi}[0m sanitation system are waiting to donate blood . 
+(2) Taken by Zuowei Gu 
+(end gloss)
+---------document--------
+(nw/xinhua/02/chtb_0201); part 000
+sentences:
+FromfromINOPER0thetheDTOPER0leftleftJJOPER0ininINOPER0thetheDTOPER0upperupperJJOPER0picturepictureNNOPER0:::OPER0HongminHongminNNPORGPER0WangWangNNPORGPER0,,,OPER0mayormayorNNOPER0ofofINOPER0WuxiWuxiNNPORGPER0,,,OPER0JinJinNNPPERSONPER0HongHongNNPPERSONPER0andandCCOPER0HuaixiHuaixiNNPPERSONPER0ZhangZhangNNPPERSONPER0,,,OPER0vice-mayorsvice-mayorNNSOPER0ofofINOPER0WuxiWuxiNNPORGPER0,,,OPER0andandCCOPER0HuanxingHuanxingNNPPERSONPER0ChengChengNNPPERSONPER0,,,OPER0andandCCOPER0assistantassistantJJOPER0commandercommanderNNOPER0ofofINOPER0thetheDTORGPER0WuxiWuxiNNPORGPER0BranchBranchNNPORGPER0MilitaryMilitaryNNPORGPER0AreaAreaNNPORGPER0arebeVBPOPER0voluntarilyvoluntarilyRBOPER0donatingdonateVBGOPER0bloodbloodNNOPER0...OPER0(ROOT (S (PP (IN From) (NP (NP (DT the) (JJ left)) (PP (IN in) (NP (DT the) (JJ upper) (NN picture))))) (: :) (NP (NP (NP (NNP Hongmin) (NNP Wang)) (, ,) (NP (NP (NN mayor)) (PP (IN of) (NP (NNP Wuxi))))) (, ,) (NP (NP (NNP Jin) (NNP Hong)) (CC and) (NP (NNP Huaixi) (NNP Zhang))) (, ,) (NP (NP (NNS vice-mayors)) (PP (IN of) (NP (NNP Wuxi)))) (, ,) (CC and) (NP (NNP Huanxing) (NNP Cheng)) (, ,) (CC and) (NP (NP (JJ assistant) (NN commander)) (PP (IN of) (NP (DT the) (NNP Wuxi) (NNP Branch) (NNP Military) (NNP Area))))) (VP (VBP are) (ADVP (RB voluntarily)) (VP (VBG donating) (NP (NN blood)))) (. .)))
+IninINOPER0thetheDTOPER0lowerlowerJJROPER0picturepictureNNOPER0:::OPER0thetheDTOPER0youthyouthNNOPER0medicalmedicalJJOPER0staffstaffNNOPER0ofofINOPER0WuxiWuxiNNPORGPER0sanitationsanitationNNOPER0systemsystemNNOPER0arebeVBPOPER0waitingwaitVBGOPER0totoTOOPER0donatedonateVBOPER0bloodbloodNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (DT the) (JJR lower) (NN picture))) (: :) (NP (NP (DT the) (NN youth) (JJ medical) (NN staff)) (PP (IN of) (NP (NNP Wuxi) (NN sanitation) (NN system)))) (VP (VBP are) (VP (VBG waiting) (S (VP (TO to) (VP (VB donate) (NP (NN blood))))))) (. .)))
+TakentakeVBNOPER0bybyINOPER0ZuoweiZuoweiNNPPERSONPER0GuGuNNPPERSONPER0(ROOT (FRAG (VP (VBN Taken) (PP (IN by) (NP (NNP Zuowei) (NNP Gu))))))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP Wuxi))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NNP Wuxi))
+sid=1 spanning 10 until 11 headed by 10 parsed as Wuxi
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 7 headed by 2 parsed as (NP (NP (DT the) (JJ left)) (PP (IN in) (NP (DT the) (JJ upper) (NN picture))))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (JJ upper) (NN picture))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (NP (NP (NNP Hongmin) (NNP Wang)) (, ,) (NP (NP (NN mayor)) (PP (IN of) (NP (NNP Wuxi))))) (, ,) (NP (NP (NNP Jin) (NNP Hong)) (CC and) (NP (NNP Huaixi) (NNP Zhang))) (, ,) (NP (NP (NNS vice-mayors)) (PP (IN of) (NP (NNP Wuxi)))) (, ,) (CC and) (NP (NNP Huanxing) (NNP Cheng)) (, ,) (CC and) (NP (NP (JJ assistant) (NN commander)) (PP (IN of) (NP (DT the) (NNP Wuxi) (NNP Branch) (NNP Military) (NNP Area)))))
+sid=0 spanning 8 until 38 headed by 9 parsed as (NP (NP (NP (NNP Hongmin) (NNP Wang)) (, ,) (NP (NP (NN mayor)) (PP (IN of) (NP (NNP Wuxi))))) (, ,) (NP (NP (NNP Jin) (NNP Hong)) (CC and) (NP (NNP Huaixi) (NNP Zhang))) (, ,) (NP (NP (NNS vice-mayors)) (PP (IN of) (NP (NNP Wuxi)))) (, ,) (CC and) (NP (NNP Huanxing) (NNP Cheng)) (, ,) (CC and) (NP (NP (JJ assistant) (NN commander)) (PP (IN of) (NP (DT the) (NNP Wuxi) (NNP Branch) (NNP Military) (NNP Area)))))
+sid=0 spanning 8 until 14 headed by 9 parsed as (NP (NP (NNP Hongmin) (NNP Wang)) (, ,) (NP (NP (NN mayor)) (PP (IN of) (NP (NNP Wuxi)))))
+sid=0 spanning 11 until 14 headed by 11 parsed as (NP (NP (NN mayor)) (PP (IN of) (NP (NNP Wuxi))))
+sid=0 spanning 13 until 14 headed by 13 parsed as (NP (NNP Wuxi))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (NP (NNP Jin) (NNP Hong)) (CC and) (NP (NNP Huaixi) (NNP Zhang)))
+sid=0 spanning 15 until 20 headed by 16 parsed as (NP (NP (NNP Jin) (NNP Hong)) (CC and) (NP (NNP Huaixi) (NNP Zhang)))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (NNP Huaixi) (NNP Zhang))
+sid=0 spanning 21 until 24 headed by 21 parsed as (NP (NP (NNS vice-mayors)) (PP (IN of) (NP (NNP Wuxi))))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NNP Wuxi))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (NNP Huanxing) (NNP Cheng))
+sid=0 spanning 33 until 38 headed by 37 parsed as (NP (DT the) (NNP Wuxi) (NNP Branch) (NNP Military) (NNP Area))
+sid=1 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (JJR lower) (NN picture))
+sid=1 spanning 5 until 13 headed by 8 parsed as (NP (NP (DT the) (NN youth) (JJ medical) (NN staff)) (PP (IN of) (NP (NNP Wuxi) (NN sanitation) (NN system))))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (NNP Wuxi) (NN sanitation) (NN system))
+sid=1 spanning 10 until 11 headed by 10 parsed as Wuxi
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (NNP Zuowei) (NNP Gu))
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'Wuxi' 'Wuxi' 'Wuxi' }
+(end gold clusters)

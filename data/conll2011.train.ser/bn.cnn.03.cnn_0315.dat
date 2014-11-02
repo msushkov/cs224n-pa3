@@ -1,0 +1,95 @@
+---------gloss--------
+(0) [4m[33m{An international tourist in New York City}[0m did most of [4m[33m{his}[0m sight seeing inside a hospital . 
+(1) [4m[36m{Health officials}[0m say [4m[36m{they}[0m had to forcibly detain [4m[33m{the man who exhibited possible SARS symptoms}[0m . 
+(2) Officials say [4m[33m{the unnamed tourist}[0m had [4m[34m{Knicks tickets}[0m and was determined to use [4m[34m{them}[0m . 
+(3) Here are some numbers to put the spread of [4m[35m{SARS}[0m in perspective for you . 
+(4) Across the globe , there have been almost 5,000 documented cases of [4m[35m{SARS}[0m in 27 different countries . 
+(5) China , the country where [4m[35m{SARS}[0m originated , has been the hardest hit , with thousands of cases and more than 100 deaths . 
+(6) Here in [31m{the United States}[0m , however , there have been no deaths among the 41 probable cases of [4m[35m{SARS}[0m . 
+(7) 17 states have probable cases while another 21 states have suspected cases , but just to put the threat of [4m[35m{SARS}[0m in perspective , in [31m{the United States}[0m , 284 people died last year from the West Nile virus while 36,000 people die every year from the flu . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0315); part 000
+sentences:
+AnaDTOPER0internationalinternationalJJOPER0touristtouristNNOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0CityCityNNPGPEPER0diddoVBDOPER0mostmostJJSOPER0ofofINOPER0hishePRP$OPER0sightsightNNOPER0seeingseeVBGOPER0insideinsideINOPER0aaDTOPER0hospitalhospitalNNOPER0...OPER0(ROOT (S (NP (NP (DT An) (JJ international) (NN tourist)) (PP (IN in) (NP (NML (NNP New) (NNP York)) (NNP City)))) (VP (VBD did) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ his) (NN sight)))) (S (VP (VBG seeing) (PP (IN inside) (NP (DT a) (NN hospital)))))) (. .)))
+HealthhealthNNOPER0officialsofficialNNSOPER0saysayVBPOPER0theytheyPRPOPER0hadhaveVBDOPER0totoTOOPER0forciblyforciblyRBOPER0detaindetainVBOPER0thetheDTOPER0manmanNNOPER0whowhoWPOPER0exhibitedexhibitVBDOPER0possiblepossibleJJOPER0SARSSARSNNPOPER0symptomssymptomNNSOPER0...OPER0(ROOT (S (NP (NN Health) (NNS officials)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD had) (S (VP (TO to) (ADVP (RB forcibly)) (VP (VB detain) (NP (NP (DT the) (NN man)) (SBAR (WHNP (WP who)) (S (VP (VBD exhibited) (NP (JJ possible) (NNP SARS) (NNS symptoms))))))))))))) (. .)))
+OfficialsofficialNNSOPER0saysayVBPOPER0thetheDTOPER0unnamedunnamedJJOPER0touristtouristNNOPER0hadhaveVBDOPER0KnicksKnicksNNPORGPER0ticketsticketNNSOPER0andandCCOPER0wasbeVBDOPER0determineddeterminedJJOPER0totoTOOPER0useuseVBOPER0themtheyPRPOPER0...OPER0(ROOT (S (NP (NNS Officials)) (VP (VBP say) (SBAR (S (NP (DT the) (JJ unnamed) (NN tourist)) (VP (VP (VBD had) (NP (NNP Knicks) (NNS tickets))) (CC and) (VP (VBD was) (ADJP (JJ determined) (S (VP (TO to) (VP (VB use) (NP (PRP them))))))))))) (. .)))
+HerehereRBOPER0arebeVBPOPER0somesomeDTOPER0numbersnumberNNSOPER0totoTOOPER0putputVBOPER0thetheDTOPER0spreadspreadNNOPER0ofofINOPER0SARSSARSNNPORGPER0ininINOPER0perspectiveperspectiveNNOPER0forforINOPER0youyouPRPOPER0...OPER0(ROOT (SINV (ADVP (RB Here)) (VP (VBP are)) (NP (NP (DT some) (NNS numbers)) (SBAR (S (VP (TO to) (VP (VB put) (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (NNP SARS)))) (PP (IN in) (NP (NN perspective))) (PP (IN for) (NP (PRP you)))))))) (. .)))
+AcrossacrossINOPER0thetheDTOPER0globeglobeNNOPER0,,,OPER0therethereEXOPER0havehaveVBPOPER0beenbeVBNOPER0almostalmostRBCARDINALPER05,0005,000CDCARDINALPER0documenteddocumentVBNOPER0casescaseNNSOPER0ofofINOPER0SARSSARSNNPORGPER0ininINOPER02727CDCARDINALPER0differentdifferentJJOPER0countriescountryNNSOPER0...OPER0(ROOT (S (PP (IN Across) (NP (DT the) (NN globe))) (, ,) (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (NP (QP (RB almost) (CD 5,000)) (VBN documented) (NNS cases)) (PP (IN of) (NP (NP (NNP SARS)) (PP (IN in) (NP (CD 27) (JJ different) (NNS countries)))))))) (. .)))
+ChinaChinaNNPGPEPER0,,,OPER0thetheDTOPER0countrycountryNNOPER0wherewhereWRBOPER0SARSSARSNNPORGPER0originatedoriginateVBDOPER0,,,OPER0hashaveVBZOPER0beenbeVBNOPER0thetheDTOPER0hardesthardestRBSOPER0hithitVBNOPER0,,,OPER0withwithINOPER0thousandsthousandNNSCARDINALPER0ofofINOPER0casescaseNNSOPER0andandCCOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0100100CDCARDINALPER0deathsdeathNNSOPER0...OPER0(ROOT (S (NP (NP (NNP China)) (, ,) (NP (NP (DT the) (NN country)) (SBAR (WHADVP (WRB where)) (S (NP (NNP SARS)) (VP (VBD originated))))) (, ,)) (VP (VBZ has) (VP (VBN been) (ADVP (DT the) (RBS hardest)) (VP (VBN hit) (, ,) (PP (IN with) (NP (NP (NNS thousands)) (PP (IN of) (NP (NP (NNS cases)) (CC and) (NP (QP (XS (JJR more) (IN than)) (CD 100)) (NNS deaths))))))))) (. .)))
+HerehereRBOPER0ininINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0,,,OPER0howeverhoweverRBOPER0,,,OPER0therethereEXOPER0havehaveVBPOPER0beenbeVBNOPER0nonoDTOPER0deathsdeathNNSOPER0amongamongINOPER0thetheDTOPER04141CDCARDINALPER0probableprobableJJOPER0casescaseNNSOPER0ofofINOPER0SARSSARSNNPORGPER0...OPER0(ROOT (S (ADVP (RB Here) (PP (IN in) (NP (DT the) (NNP United) (NNP States)))) (, ,) (ADVP (RB however)) (, ,) (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (NP (DT no) (NNS deaths)) (PP (IN among) (NP (NP (DT the) (CD 41) (JJ probable) (NNS cases)) (PP (IN of) (NP (NNP SARS)))))))) (. .)))
+1717CDCARDINALPER0statesstateNNSOPER0havehaveVBPOPER0probableprobableJJOPER0casescaseNNSOPER0whilewhileINOPER0anotheranotherDTOPER02121CDCARDINALPER0statesstateNNSOPER0havehaveVBPOPER0suspectedsuspectVBNOPER0casescaseNNSOPER0,,,OPER0butbutCCOPER0justjustRBOPER0totoTOOPER0putputVBOPER0thetheDTOPER0threatthreatNNOPER0ofofINOPER0SARSSARSNNPORGPER0ininINOPER0perspectiveperspectiveNNOPER0,,,OPER0ininINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0,,,OPER0284284CDCARDINALPER0peoplepeopleNNSOPER0dieddieVBDOPER0lastlastJJDATEPER0yearyearNNDATEPER0fromfromINOPER0thetheDTOPER0WestWestNNPOPER0NileNileNNPOPER0virusvirusNNOPER0whilewhileINOPER036,00036,000CDCARDINALPER0peoplepeopleNNSOPER0diedieVBPOPER0everyeveryDTDATEPER0yearyearNNDATEPER0fromfromINOPER0thetheDTOPER0flufluNNOPER0...OPER0(ROOT (S (S (NP (CD 17) (NNS states)) (VP (VBP have) (NP (JJ probable) (NNS cases)) (SBAR (IN while) (S (NP (DT another) (CD 21) (NNS states)) (VP (VBP have) (VP (VBN suspected) (NP (NNS cases)))))))) (, ,) (CC but) (S (S (ADVP (RB just)) (VP (TO to) (VP (VB put) (NP (NP (DT the) (NN threat)) (PP (IN of) (NP (NNP SARS)))) (PP (IN in) (NP (NN perspective)))))) (, ,) (PP (IN in) (NP (DT the) (NNP United) (NNP States))) (, ,) (NP (CD 284) (NNS people)) (VP (VBD died) (NP (JJ last) (NN year)) (PP (IN from) (NP (DT the) (NML (NNP West) (NNP Nile)) (NN virus))) (SBAR (IN while) (S (NP (CD 36,000) (NNS people)) (VP (VBP die) (NP (DT every) (NN year)) (PP (IN from) (NP (DT the) (NN flu)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT An) (JJ international) (NN tourist)) (PP (IN in) (NP (NML (NNP New) (NNP York)) (NNP City))))
+sid=0 spanning 10 until 11 headed by 10 parsed as his
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NN Health) (NNS officials))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=1 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT the) (NN man)) (SBAR (WHNP (WP who)) (S (VP (VBD exhibited) (NP (JJ possible) (NNP SARS) (NNS symptoms))))))
+sid=1 spanning 13 until 14 headed by 13 parsed as SARS
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ unnamed) (NN tourist))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NNP Knicks) (NNS tickets))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (PRP them))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP SARS))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NP (NNP SARS)) (PP (IN in) (NP (CD 27) (JJ different) (NNS countries))))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (NNP SARS))
+sid=6 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=6 spanning 19 until 20 headed by 19 parsed as (NP (NNP SARS))
+sid=7 spanning 20 until 21 headed by 20 parsed as (NP (NNP SARS))
+sid=7 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (NNP United) (NNP States))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT An) (JJ international) (NN tourist)) (PP (IN in) (NP (NML (NNP New) (NNP York)) (NNP City))))
+sid=0 spanning 4 until 7 headed by 6 parsed as (NP (NML (NNP New) (NNP York)) (NNP City))
+sid=0 spanning 8 until 12 headed by 8 parsed as (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ his) (NN sight))))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (PRP$ his) (NN sight))
+sid=0 spanning 10 until 11 headed by 10 parsed as (PRP$ his)
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (DT a) (NN hospital))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NN Health) (NNS officials))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=1 spanning 8 until 15 headed by 9 parsed as (NP (NP (DT the) (NN man)) (SBAR (WHNP (WP who)) (S (VP (VBD exhibited) (NP (JJ possible) (NNP SARS) (NNS symptoms))))))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (JJ possible) (NNP SARS) (NNS symptoms))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=2 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (JJ unnamed) (NN tourist))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NNP Knicks) (NNS tickets))
+sid=2 spanning 6 until 7 headed by 6 parsed as Knicks
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (PRP them))
+sid=3 spanning 2 until 14 headed by 3 parsed as (NP (NP (DT some) (NNS numbers)) (SBAR (S (VP (TO to) (VP (VB put) (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (NNP SARS)))) (PP (IN in) (NP (NN perspective))) (PP (IN for) (NP (PRP you))))))))
+sid=3 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (NNP SARS))))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP SARS))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (PRP you))
+sid=4 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN globe))
+sid=4 spanning 7 until 17 headed by 10 parsed as (NP (NP (QP (RB almost) (CD 5,000)) (VBN documented) (NNS cases)) (PP (IN of) (NP (NP (NNP SARS)) (PP (IN in) (NP (CD 27) (JJ different) (NNS countries))))))
+sid=4 spanning 12 until 17 headed by 12 parsed as (NP (NP (NNP SARS)) (PP (IN in) (NP (CD 27) (JJ different) (NNS countries))))
+sid=4 spanning 14 until 17 headed by 16 parsed as (NP (CD 27) (JJ different) (NNS countries))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP China)) (, ,) (NP (NP (DT the) (NN country)) (SBAR (WHADVP (WRB where)) (S (NP (NNP SARS)) (VP (VBD originated))))) (, ,))
+sid=5 spanning 0 until 8 headed by 0 parsed as (NP (NP (NNP China)) (, ,) (NP (NP (DT the) (NN country)) (SBAR (WHADVP (WRB where)) (S (NP (NNP SARS)) (VP (VBD originated))))) (, ,))
+sid=5 spanning 2 until 7 headed by 3 parsed as (NP (NP (DT the) (NN country)) (SBAR (WHADVP (WRB where)) (S (NP (NNP SARS)) (VP (VBD originated)))))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (NNP SARS))
+sid=5 spanning 15 until 23 headed by 15 parsed as (NP (NP (NNS thousands)) (PP (IN of) (NP (NP (NNS cases)) (CC and) (NP (QP (XS (JJR more) (IN than)) (CD 100)) (NNS deaths)))))
+sid=5 spanning 19 until 23 headed by 22 parsed as (NP (QP (XS (JJR more) (IN than)) (CD 100)) (NNS deaths))
+sid=6 spanning 2 until 5 headed by 4 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=6 spanning 11 until 20 headed by 12 parsed as (NP (NP (DT no) (NNS deaths)) (PP (IN among) (NP (NP (DT the) (CD 41) (JJ probable) (NNS cases)) (PP (IN of) (NP (NNP SARS))))))
+sid=6 spanning 14 until 20 headed by 17 parsed as (NP (NP (DT the) (CD 41) (JJ probable) (NNS cases)) (PP (IN of) (NP (NNP SARS))))
+sid=6 spanning 19 until 20 headed by 19 parsed as (NP (NNP SARS))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (CD 17) (NNS states))
+sid=7 spanning 3 until 5 headed by 4 parsed as (NP (JJ probable) (NNS cases))
+sid=7 spanning 6 until 9 headed by 8 parsed as (NP (DT another) (CD 21) (NNS states))
+sid=7 spanning 11 until 12 headed by 11 parsed as (NP (NNS cases))
+sid=7 spanning 17 until 21 headed by 18 parsed as (NP (NP (DT the) (NN threat)) (PP (IN of) (NP (NNP SARS))))
+sid=7 spanning 20 until 21 headed by 20 parsed as (NP (NNP SARS))
+sid=7 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (NNP United) (NNP States))
+sid=7 spanning 29 until 31 headed by 30 parsed as (NP (CD 284) (NNS people))
+sid=7 spanning 32 until 34 headed by 33 parsed as (NP (JJ last) (NN year))
+sid=7 spanning 35 until 39 headed by 38 parsed as (NP (DT the) (NML (NNP West) (NNP Nile)) (NN virus))
+sid=7 spanning 40 until 42 headed by 41 parsed as (NP (CD 36,000) (NNS people))
+sid=7 spanning 46 until 48 headed by 47 parsed as (NP (DT the) (NN flu))
+(end predicted mentions)
+---------gold clusters--------
+1 4 6 0 | { 'his' 'the man who exhibited possible SARS symptoms' 'the unnamed tourist' 'An international tourist in New York City' }
+7 8 | { 'Knicks tickets' 'them' }
+14 10 5 9 11 13 | { 'SARS' 'SARS' 'SARS' 'SARS' 'SARS' 'SARS' }
+2 3 | { 'Health officials' 'they' }
+15 12 | { 'the United States' 'the United States' }
+(end gold clusters)

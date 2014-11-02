@@ -1,0 +1,195 @@
+---------gloss--------
+(0) Bond prices took the high road and stock prices took the low road as worries mounted about [1m[36m{the economy}[0m and [3m[31m{the junk bond market}[0m . 
+(1) The Dow Jones Industrial Average fell 26.23 points to 2662.91 in sluggish trading . 
+(2) But long - term [3m[35m{Treasury}[0m bonds staged a modest rally , with prices on most issues rising about half a point , or $ 5 for each $ 1,000 face amount . 
+(3) [1m[34m{The dollar}[0m sagged against other major currencies in lethargic trading . 
+(4) Traders and analysts said the divergence between the stock and bond markets is a sign of [1m[32m{growing unease about the economic outlook}[0m . 
+(5) [3m[32m{A sinking economy}[0m depresses corporate earnings and thus stock prices , but [3m[32m{it}[0m buoys bond prices as interest rates fall . 
+(6) [1m[32m{That unease}[0m is expected to grow today when the government reports on September durable goods orders and again Thursday when the first assessment of third - quarter economic growth is released . 
+(7) [1m[35m{Analysts}[0m say [1m[35m{they}[0m think durable goods orders fell about 1 % , compared with a 3.9 % gain in August , and that growth in the third quarter slowed to about 2.3 % from the second quarter 's 2.5 % . 
+(8) The stock market 's decline , coming after [3m[33m{a record weekly gain of 119.88 points}[0m , surprised some investors . 
+(9) But [3m[36m{A.C. Moore , director of research at Argus Research ,}[0m said [3m[33m{last week 's rally}[0m was a reflex reaction to the Oct. 13 stock market rout . 
+(10) Overall , [3m[36m{he}[0m said , the trend in stock prices will be down as [1m[36m{the economy}[0m weakens . 
+(11) `` We think we 're on target in looking for renewed economic deterioration , '' [3m[36m{he}[0m said . 
+(12) `` Corporate profits are going to decrease faster than interest rates will fall , and the probability is that we 'll see negative economic growth in the fourth quarter . '' 
+(13) [1m[33m{Hugh Johnson , chief investment officer at First Albany Corp. ,}[0m agreed that [1m[36m{a deteriorating economy}[0m is worrisome , but [1m[33m{he}[0m said the real concern among stock investors is that some new problem will crop up in [3m[31m{the junk bond market}[0m . 
+(14) In major market activity : Stock prices slumped in sluggish trading . 
+(15) Volume on [3m[34m{the New York Stock Exchange}[0m totaled 135.9 million shares . 
+(16) Declining issues on [3m[34m{the Big Board}[0m were ahead of gainers , 1,012 to 501 . 
+(17) Bond prices rallied . 
+(18) The yield on [3m[35m{the Treasury 's}[0m benchmark 30 - year bond slipped to 7.93 % . 
+(19) [1m[34m{The dollar}[0m weakened against most other major currencies . 
+(20) In late [3m[34m{New York}[0m trading , [1m[34m{the dollar}[0m was quoted at 1.8470 marks and 141.90 yen , compared with 1.8578 marks and 142.43 yen late Friday . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1258); part 000
+sentences:
+BondbondNNOPER0pricespriceNNSOPER0tooktakeVBDOPER0thetheDTOPER0highhighJJOPER0roadroadNNOPER0andandCCOPER0stockstockNNOPER0pricespriceNNSOPER0tooktakeVBDOPER0thetheDTOPER0lowlowJJOPER0roadroadNNOPER0asasINOPER0worriesworryNNSOPER0mountedmountVBDOPER0aboutaboutINOPER0thetheDTOPER0economyeconomyNNOPER0andandCCOPER0thetheDTOPER0junkjunkNNOPER0bondbondNNOPER0marketmarketNNOPER0...OPER0(ROOT (S (S (NP (NN Bond) (NNS prices)) (VP (VBD took) (NP (DT the) (JJ high) (NN road)))) (CC and) (S (NP (NN stock) (NNS prices)) (VP (VBD took) (NP (DT the) (JJ low) (NN road)) (SBAR (IN as) (S (NP (NNS worries)) (VP (VBD mounted) (PP (IN about) (NP (NP (DT the) (NN economy)) (CC and) (NP (DT the) (NML (NN junk) (NN bond)) (NN market))))))))) (. .)))
+ThetheDTOPER0DowDowNNPOPER0JonesJonesNNPOPER0IndustrialIndustrialNNPOPER0AverageAverageNNPOPER0fellfallVBDOPER026.2326.23CDCARDINALPER0pointspointNNSOPER0totoINOPER02662.912662.91CDMONEYPER0ininINOPER0sluggishsluggishJJOPER0tradingtradingNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (NNP Dow) (NNP Jones)) (NNP Industrial) (NNP Average)) (VP (VBD fell) (NP (CD 26.23) (NNS points)) (PP (IN to) (NP (CD 2662.91))) (PP (IN in) (NP (JJ sluggish) (NN trading)))) (. .)))
+ButbutCCOPER0longlongJJDATEPER0--HYPHDATEPER0termtermNNDATEPER0TreasuryTreasuryNNPORGPER0bondsbondNNSOPER0stagedstageVBDOPER0aaDTOPER0modestmodestJJOPER0rallyrallyNNOPER0,,,OPER0withwithINOPER0pricespriceNNSOPER0ononINOPER0mostmostJJSOPER0issuesissueNNSOPER0risingriseVBGOPER0aboutaboutRBCARDINALPER0halfhalfPDTCARDINALPER0aaDTCARDINALPER0pointpointNNOPER0,,,OPER0ororCCOPER0$$$MONEYPER055CDMONEYPER0forforINOPER0eacheachDTOPER0$$$MONEYPER01,0001,000CDMONEYPER0facefaceNNOPER0amountamountNNOPER0...OPER0(ROOT (S (CC But) (NP (NML (JJ long) (HYPH -) (NN term)) (NNP Treasury) (NNS bonds)) (VP (VBD staged) (NP (DT a) (JJ modest) (NN rally)) (, ,) (PP (IN with) (S (NP (NP (NNS prices)) (PP (IN on) (NP (JJS most) (NNS issues)))) (VP (VBG rising) (NP (NP (QP (RB about) (PDT half) (DT a)) (NN point)) (, ,) (CC or) (NP (NP ($ $) (CD 5)) (PP (IN for) (NP (DT each) (NML ($ $) (CD 1,000)) (NN face) (NN amount))))))))) (. .)))
+ThetheDTOPER0dollardollarNNOPER0saggedsagVBDOPER0againstagainstINOPER0otherotherJJOPER0majormajorJJOPER0currenciescurrencyNNSOPER0ininINOPER0lethargiclethargicJJOPER0tradingtradingNNOPER0...OPER0(ROOT (S (NP (DT The) (NN dollar)) (VP (VBD sagged) (PP (IN against) (NP (JJ other) (JJ major) (NNS currencies))) (PP (IN in) (NP (JJ lethargic) (NN trading)))) (. .)))
+TraderstraderNNSOPER0andandCCOPER0analystsanalystNNSOPER0saidsayVBDOPER0thetheDTOPER0divergencedivergenceNNOPER0betweenbetweenINOPER0thetheDTOPER0stockstockNNOPER0andandCCOPER0bondbondNNOPER0marketsmarketNNSOPER0isbeVBZOPER0aaDTOPER0signsignNNOPER0ofofINOPER0growinggrowVBGOPER0uneaseuneaseNNOPER0aboutaboutINOPER0thetheDTOPER0economiceconomicJJOPER0outlookoutlookNNOPER0...OPER0(ROOT (S (NP (NNS Traders) (CC and) (NNS analysts)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN divergence)) (PP (IN between) (NP (DT the) (NML (NN stock) (CC and) (NN bond)) (NNS markets)))) (VP (VBZ is) (NP (NP (DT a) (NN sign)) (PP (IN of) (S (VP (VBG growing) (NP (NN unease)) (PP (IN about) (NP (DT the) (JJ economic) (NN outlook))))))))))) (. .)))
+AaDTOPER0sinkingsinkVBGOPER0economyeconomyNNOPER0depressesdepressVBZOPER0corporatecorporateJJOPER0earningsearningsNNSOPER0andandCCOPER0thusthusRBOPER0stockstockNNOPER0pricespriceNNSOPER0,,,OPER0butbutCCOPER0ititPRPOPER0buoysbuoyVBZOPER0bondbondNNOPER0pricespriceNNSOPER0asasINOPER0interestinterestNNOPER0ratesrateNNSOPER0fallfallVBPOPER0...OPER0(ROOT (S (S (NP (DT A) (VBG sinking) (NN economy)) (VP (VBZ depresses) (NP (NP (JJ corporate) (NNS earnings)) (CC and) (ADVP (RB thus)) (NP (NN stock) (NNS prices))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ buoys) (NP (NN bond) (NNS prices)) (SBAR (IN as) (S (NP (NN interest) (NNS rates)) (VP (VBP fall)))))) (. .)))
+ThatthatDTOPER0uneaseuneaseNNOPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0growgrowVBOPER0todaytodayNNDATEPER0whenwhenWRBOPER0thetheDTOPER0governmentgovernmentNNOPER0reportsreportVBZOPER0ononINOPER0SeptemberSeptemberNNPDATEPER0durabledurableJJOPER0goodsgoodsNNSOPER0ordersorderNNSOPER0andandCCOPER0againagainRBOPER0ThursdayThursdayNNPDATEPER0whenwhenWRBOPER0thetheDTOPER0firstfirstJJOPER0assessmentassessmentNNOPER0ofofINOPER0thirdthirdJJDATEPER0--HYPHDATEPER0quarterquarterNNDATEPER0economiceconomicJJOPER0growthgrowthNNOPER0isbeVBZOPER0releasedreleaseVBNOPER0...OPER0(ROOT (S (NP (DT That) (NN unease)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB grow) (NP (NN today)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN government)) (VP (VBZ reports) (PP (IN on) (NP (NP (NNP September) (NML (JJ durable) (NNS goods)) (NNS orders)) (CC and) (ADVP (RB again)) (NP (NP (NNP Thursday)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ first) (NN assessment)) (PP (IN of) (NP (NML (JJ third) (HYPH -) (NN quarter)) (JJ economic) (NN growth)))) (VP (VBZ is) (VP (VBN released)))))))))))))))) (. .)))
+AnalystsanalystNNSOPER0saysayVBPOPER0theytheyPRPOPER0thinkthinkVBPOPER0durabledurableJJOPER0goodsgoodsNNSOPER0ordersorderNNSOPER0fellfallVBDOPER0aboutaboutRBPERCENTPER011CDPERCENTPER0%%NNPERCENTPER0,,,OPER0comparedcompareVBNOPER0withwithINOPER0aaDTOPER03.93.9CDPERCENTPER0%%NNPERCENTPER0gaingainNNOPER0ininINOPER0AugustAugustNNPDATEPER0,,,OPER0andandCCOPER0thatthatINOPER0growthgrowthNNOPER0ininINOPER0thetheDTDATEPER0thirdthirdJJDATEPER0quarterquarterNNDATEPER0slowedslowVBDOPER0totoINOPER0aboutaboutRBPERCENTPER02.32.3CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0thetheDTDATEPER0secondsecondJJDATEPER0quarterquarterNNDATEPER0's'sPOSOPER02.52.5CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NNS Analysts)) (VP (VBP say) (SBAR (SBAR (S (NP (PRP they)) (VP (VBP think) (SBAR (S (NP (NML (JJ durable) (NNS goods)) (NNS orders)) (VP (VBD fell) (NP (QP (RB about) (CD 1)) (NN %)) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT a) (NML (CD 3.9) (NN %)) (NN gain)) (PP (IN in) (NP (NNP August)))))))))))) (, ,) (CC and) (SBAR (IN that) (S (NP (NP (NN growth)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter)))) (VP (VBD slowed) (PP (IN to) (NP (NP (NP (QP (RB about) (CD 2.3)) (NN %)) (PP (IN from) (NP (DT the) (JJ second) (NN quarter))) (POS 's)) (CD 2.5) (NN %)))))))) (. .)))
+ThetheDTOPER0stockstockNNOPER0marketmarketNNOPER0's'sPOSOPER0declinedeclineNNOPER0,,,OPER0comingcomeVBGOPER0afterafterINOPER0aaDTOPER0recordrecordNNOPER0weeklyweeklyNNDATEPER0gaingainNNOPER0ofofINOPER0119.88119.88CDCARDINALPER0pointspointNNSOPER0,,,OPER0surprisedsurpriseVBDOPER0somesomeDTOPER0investorsinvestorNNSOPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NN stock) (NN market) (POS 's)) (NN decline)) (, ,) (VP (VBG coming) (PP (IN after) (NP (NP (DT a) (NML (NN record) (NN weekly)) (NN gain)) (PP (IN of) (NP (CD 119.88) (NNS points)))))) (, ,)) (VP (VBD surprised) (NP (DT some) (NNS investors))) (. .)))
+ButbutCCOPER0A.C.A.C.NNPPERSONPER0MooreMooreNNPPERSONPER0,,,OPER0directordirectorNNOPER0ofofINOPER0researchresearchNNOPER0atatINOPER0ArgusArgusNNPORGPER0ResearchResearchNNPORGPER0,,,OPER0saidsayVBDOPER0lastlastJJDATEPER0weekweekNNDATEPER0's'sPOSDATEPER0rallyrallyNNOPER0wasbeVBDOPER0aaDTOPER0reflexreflexJJOPER0reactionreactionNNOPER0totoINOPER0thetheDTOPER0Oct.Oct.NNPDATEPER01313CDDATEPER0stockstockNNOPER0marketmarketNNOPER0routroutNNOPER0...OPER0(ROOT (S (CC But) (NP (NP (NNP A.C.) (NNP Moore)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (NN research))) (PP (IN at) (NP (NNP Argus) (NNP Research)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (JJ last) (NN week) (POS 's)) (NN rally)) (VP (VBD was) (NP (NP (DT a) (JJ reflex) (NN reaction)) (PP (IN to) (NP (DT the) (NML (NNP Oct.) (CD 13)) (NML (NN stock) (NN market)) (NN rout)))))))) (. .)))
+OveralloverallRBOPER0,,,OPER0hehePRPOPER0saidsayVBDOPER0,,,OPER0thetheDTOPER0trendtrendNNOPER0ininINOPER0stockstockNNOPER0pricespriceNNSOPER0willwillMDOPER0bebeVBOPER0downdownRPOPER0asasINOPER0thetheDTOPER0economyeconomyNNOPER0weakensweakenVBZOPER0...OPER0(ROOT (S (ADVP (RB Overall)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (NP (NP (DT the) (NN trend)) (PP (IN in) (NP (NN stock) (NNS prices)))) (VP (MD will) (VP (VB be) (PRT (RP down)) (SBAR (IN as) (S (NP (DT the) (NN economy)) (VP (VBZ weakens)))))) (. .)))
+``````OWewePRPOPER1thinkthinkVBPOPER1wewePRPOPER1'rebeVBPOPER1ononINOPER1targettargetNNOPER1ininINOPER1lookinglookVBGOPER1forforINOPER1renewedrenewVBNOPER1economiceconomicJJOPER1deteriorationdeteriorationNNOPER1,,,OPER1''''''OPER0hehePRPOPER0saidsayVBDOPER0...OPER0(ROOT (S (`` ``) (S (NP (PRP We)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (VBP 're) (PP (IN on) (NP (NN target))) (PP (IN in) (S (VP (VBG looking) (PP (IN for) (NP (VBN renewed) (JJ economic) (NN deterioration))))))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+``````OCorporatecorporateJJOPER2profitsprofitNNSOPER2arebeVBPOPER2goinggoVBGOPER2totoTOOPER2decreasedecreaseVBOPER2fasterfasterRBROPER2thanthanINOPER2interestinterestNNOPER2ratesrateNNSOPER2willwillMDOPER2fallfallVBOPER2,,,OPER2andandCCOPER2thetheDTOPER2probabilityprobabilityNNOPER2isbeVBZOPER2thatthatINOPER2wewePRPOPER2'll'llMDOPER2seeseeVBOPER2negativenegativeJJOPER2economiceconomicJJOPER2growthgrowthNNOPER2ininINOPER2thetheDTDATEPER2fourthfourthJJDATEPER2quarterquarterNNDATEPER2...OPER2''''''OPER0(ROOT (S (`` ``) (S (NP (JJ Corporate) (NNS profits)) (VP (VBP are) (VP (VBG going) (S (VP (TO to) (VP (VB decrease) (ADVP (ADVP (RBR faster)) (SBAR (IN than) (S (NP (NN interest) (NNS rates)) (VP (MD will) (VP (VB fall)))))))))))) (, ,) (CC and) (S (NP (DT the) (NN probability)) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP we)) (VP (MD 'll) (VP (VB see) (NP (JJ negative) (JJ economic) (NN growth)) (PP (IN in) (NP (DT the) (JJ fourth) (NN quarter))))))))) (. .) ('' '')))
+HughHughNNPPERSONPER0JohnsonJohnsonNNPPERSONPER0,,,OPER0chiefchiefJJOPER0investmentinvestmentNNOPER0officerofficerNNOPER0atatINOPER0FirstFirstNNPORGPER0AlbanyAlbanyNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0agreedagreeVBDOPER0thatthatINOPER0aaDTOPER0deterioratingdeteriorateVBGOPER0economyeconomyNNOPER0isbeVBZOPER0worrisomeworrisomeJJOPER0,,,OPER0butbutCCOPER0hehePRPOPER0saidsayVBDOPER0thetheDTOPER0realrealJJOPER0concernconcernNNOPER0amongamongINOPER0stockstockNNOPER0investorsinvestorNNSOPER0isbeVBZOPER0thatthatINOPER0somesomeDTOPER0newnewJJOPER0problemproblemNNOPER0willwillMDOPER0cropcropNNOPER0upupRPOPER0ininINOPER0thetheDTOPER0junkjunkNNOPER0bondbondNNOPER0marketmarketNNOPER0...OPER0(ROOT (S (S (NP (NP (NNP Hugh) (NNP Johnson)) (, ,) (NP (NP (JJ chief) (NN investment) (NN officer)) (PP (IN at) (NP (NNP First) (NNP Albany) (NNP Corp.)))) (, ,)) (VP (VBD agreed) (SBAR (IN that) (S (NP (DT a) (VBG deteriorating) (NN economy)) (VP (VBZ is) (ADJP (JJ worrisome))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ real) (NN concern)) (PP (IN among) (NP (NN stock) (NNS investors)))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT some) (JJ new) (NN problem)) (VP (MD will) (VP (NN crop) (PRT (RP up)) (PP (IN in) (NP (DT the) (NML (NN junk) (NN bond)) (NN market)))))))))))) (. .)))
+IninINOPER0majormajorJJOPER0marketmarketNNOPER0activityactivityNNOPER0:::OPER0StockStockNNPOPER0pricespriceNNSOPER0slumpedslumpVBDOPER0ininINOPER0sluggishsluggishJJOPER0tradingtradingNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (JJ major) (NN market) (NN activity))) (: :) (NP (NNP Stock) (NNS prices)) (VP (VBD slumped) (PP (IN in) (NP (JJ sluggish) (NN trading)))) (. .)))
+VolumevolumeNNOPER0ononINOPER0thetheDTORGPER0NewNewNNPORGPER0YorkYorkNNPORGPER0StockStockNNPORGPER0ExchangeExchangeNNPORGPER0totaledtotalVBDOPER0135.9135.9CDCARDINALPER0millionmillionCDCARDINALPER0sharesshareNNSOPER0...OPER0(ROOT (S (NP (NP (NN Volume)) (PP (IN on) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange)))) (VP (VBD totaled) (NP (QP (CD 135.9) (CD million)) (NNS shares))) (. .)))
+DecliningdeclineVBGOPER0issuesissueNNSOPER0ononINOPER0thetheDTORGPER0BigBigNNPORGPER0BoardBoardNNPORGPER0werebeVBDOPER0aheadaheadRBOPER0ofofINOPER0gainersgainerNNSOPER0,,,OPER01,0121,012CDCARDINALPER0totoTOCARDINALPER0501501CDCARDINALPER0...OPER0(ROOT (S (NP (NP (VBG Declining) (NNS issues)) (PP (IN on) (NP (DT the) (NNP Big) (NNP Board)))) (VP (VBD were) (ADVP (RB ahead) (PP (IN of) (NP (NNS gainers)))) (, ,) (NP (QP (CD 1,012) (TO to) (CD 501)))) (. .)))
+BondbondNNOPER0pricespriceNNSOPER0ralliedrallyVBDOPER0...OPER0(ROOT (S (NP (NN Bond) (NNS prices)) (VP (VBD rallied)) (. .)))
+ThetheDTOPER0yieldyieldNNOPER0ononINOPER0thetheDTOPER0TreasuryTreasuryNNPORGPER0's'sPOSOPER0benchmarkbenchmarkJJOPER03030CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0bondbondNNOPER0slippedslipVBDOPER0totoINOPER07.937.93CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (NP (DT The) (NN yield)) (PP (IN on) (NP (NP (DT the) (NNP Treasury) (POS 's)) (JJ benchmark) (NML (CD 30) (HYPH -) (NN year)) (NN bond)))) (VP (VBD slipped) (PP (IN to) (NP (CD 7.93) (NN %)))) (. .)))
+ThetheDTOPER0dollardollarNNOPER0weakenedweakenVBDOPER0againstagainstINOPER0mostmostJJSOPER0otherotherJJOPER0majormajorJJOPER0currenciescurrencyNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN dollar)) (VP (VBD weakened) (PP (IN against) (NP (JJS most) (JJ other) (JJ major) (NNS currencies)))) (. .)))
+IninINOPER0latelateJJOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0tradingtradingNNOPER0,,,OPER0thetheDTOPER0dollardollarNNOPER0wasbeVBDOPER0quotedquoteVBNOPER0atatINOPER01.84701.8470CDMONEYPER0marksmarkNNSMONEYPER0andandCCOPER0141.90141.90CDMONEYPER0yenyenNNMONEYPER0,,,OPER0comparedcompareVBNOPER0withwithINOPER01.85781.8578CDMONEYPER0marksmarkNNSMONEYPER0andandCCOPER0142.43142.43CDMONEYPER0yenyenNNMONEYPER0latelateJJDATEPER0FridayFridayNNPDATEPER0...OPER0(ROOT (S (PP (IN In) (NP (JJ late) (NML (NNP New) (NNP York)) (NN trading))) (, ,) (NP (DT the) (NN dollar)) (VP (VBD was) (VP (VBN quoted) (PP (IN at) (NP (NP (CD 1.8470) (NNS marks)) (CC and) (NP (CD 141.90) (NN yen)))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (NP (CD 1.8578) (NNS marks)) (CC and) (NP (CD 142.43) (NN yen))) (NP (JJ late) (NNP Friday))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (NP (DT the) (NN economy)) (CC and) (NP (DT the) (NML (NN junk) (NN bond)) (NN market)))
+sid=0 spanning 20 until 24 headed by 23 parsed as (NP (DT the) (NML (NN junk) (NN bond)) (NN market))
+sid=2 spanning 4 until 5 headed by 4 parsed as Treasury
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN dollar))
+sid=4 spanning 16 until 22 headed by 16 parsed as growing
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (VBG sinking) (NN economy))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN unease))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNS Analysts))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (PRP they))
+sid=8 spanning 8 until 15 headed by 11 parsed as (NP (NP (DT a) (NML (NN record) (NN weekly)) (NN gain)) (PP (IN of) (NP (CD 119.88) (NNS points))))
+sid=9 spanning 1 until 11 headed by 2 parsed as (NP (NP (NNP A.C.) (NNP Moore)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (NN research))) (PP (IN at) (NP (NNP Argus) (NNP Research)))) (, ,))
+sid=9 spanning 12 until 16 headed by 15 parsed as (NP (NP (JJ last) (NN week) (POS 's)) (NN rally))
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=10 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN economy))
+sid=11 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=13 spanning 0 until 11 headed by 1 parsed as (NP (NP (NNP Hugh) (NNP Johnson)) (, ,) (NP (NP (JJ chief) (NN investment) (NN officer)) (PP (IN at) (NP (NNP First) (NNP Albany) (NNP Corp.)))) (, ,))
+sid=13 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (VBG deteriorating) (NN economy))
+sid=13 spanning 20 until 21 headed by 20 parsed as (NP (PRP he))
+sid=13 spanning 37 until 41 headed by 40 parsed as (NP (DT the) (NML (NN junk) (NN bond)) (NN market))
+sid=15 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=16 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Big) (NNP Board))
+sid=18 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NNP Treasury) (POS 's))
+sid=19 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN dollar))
+sid=20 spanning 2 until 4 headed by 3 parsed as York
+sid=20 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN dollar))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NN Bond) (NNS prices))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (JJ high) (NN road))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NN stock) (NNS prices))
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ low) (NN road))
+sid=0 spanning 14 until 15 headed by 14 parsed as (NP (NNS worries))
+sid=0 spanning 17 until 24 headed by 18 parsed as (NP (NP (DT the) (NN economy)) (CC and) (NP (DT the) (NML (NN junk) (NN bond)) (NN market)))
+sid=0 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN economy))
+sid=0 spanning 20 until 24 headed by 23 parsed as (NP (DT the) (NML (NN junk) (NN bond)) (NN market))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (NML (NNP Dow) (NNP Jones)) (NNP Industrial) (NNP Average))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (CD 26.23) (NNS points))
+sid=2 spanning 1 until 6 headed by 5 parsed as (NP (NML (JJ long) (HYPH -) (NN term)) (NNP Treasury) (NNS bonds))
+sid=2 spanning 1 until 4 headed by 3 parsed as term
+sid=2 spanning 4 until 5 headed by 4 parsed as Treasury
+sid=2 spanning 7 until 10 headed by 9 parsed as (NP (DT a) (JJ modest) (NN rally))
+sid=2 spanning 12 until 16 headed by 12 parsed as (NP (NP (NNS prices)) (PP (IN on) (NP (JJS most) (NNS issues))))
+sid=2 spanning 14 until 16 headed by 15 parsed as (NP (JJS most) (NNS issues))
+sid=2 spanning 17 until 31 headed by 20 parsed as (NP (NP (QP (RB about) (PDT half) (DT a)) (NN point)) (, ,) (CC or) (NP (NP ($ $) (CD 5)) (PP (IN for) (NP (DT each) (NML ($ $) (CD 1,000)) (NN face) (NN amount)))))
+sid=2 spanning 17 until 21 headed by 20 parsed as (NP (QP (RB about) (PDT half) (DT a)) (NN point))
+sid=2 spanning 26 until 31 headed by 30 parsed as (NP (DT each) (NML ($ $) (CD 1,000)) (NN face) (NN amount))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN dollar))
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (JJ other) (JJ major) (NNS currencies))
+sid=4 spanning 0 until 3 headed by 0 parsed as (NP (NNS Traders) (CC and) (NNS analysts))
+sid=4 spanning 4 until 12 headed by 5 parsed as (NP (NP (DT the) (NN divergence)) (PP (IN between) (NP (DT the) (NML (NN stock) (CC and) (NN bond)) (NNS markets))))
+sid=4 spanning 7 until 12 headed by 11 parsed as (NP (DT the) (NML (NN stock) (CC and) (NN bond)) (NNS markets))
+sid=4 spanning 13 until 22 headed by 14 parsed as (NP (NP (DT a) (NN sign)) (PP (IN of) (S (VP (VBG growing) (NP (NN unease)) (PP (IN about) (NP (DT the) (JJ economic) (NN outlook)))))))
+sid=4 spanning 19 until 22 headed by 21 parsed as (NP (DT the) (JJ economic) (NN outlook))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (VBG sinking) (NN economy))
+sid=5 spanning 4 until 10 headed by 5 parsed as (NP (NP (JJ corporate) (NNS earnings)) (CC and) (ADVP (RB thus)) (NP (NN stock) (NNS prices)))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (JJ corporate) (NNS earnings))
+sid=5 spanning 8 until 10 headed by 9 parsed as (NP (NN stock) (NNS prices))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (NN bond) (NNS prices))
+sid=5 spanning 17 until 19 headed by 18 parsed as (NP (NN interest) (NNS rates))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN unease))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN government))
+sid=6 spanning 12 until 31 headed by 15 parsed as (NP (NP (NNP September) (NML (JJ durable) (NNS goods)) (NNS orders)) (CC and) (ADVP (RB again)) (NP (NP (NNP Thursday)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ first) (NN assessment)) (PP (IN of) (NP (NML (JJ third) (HYPH -) (NN quarter)) (JJ economic) (NN growth)))) (VP (VBZ is) (VP (VBN released)))))))
+sid=6 spanning 12 until 16 headed by 15 parsed as (NP (NNP September) (NML (JJ durable) (NNS goods)) (NNS orders))
+sid=6 spanning 12 until 13 headed by 12 parsed as September
+sid=6 spanning 18 until 31 headed by 18 parsed as (NP (NP (NNP Thursday)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ first) (NN assessment)) (PP (IN of) (NP (NML (JJ third) (HYPH -) (NN quarter)) (JJ economic) (NN growth)))) (VP (VBZ is) (VP (VBN released))))))
+sid=6 spanning 20 until 29 headed by 22 parsed as (NP (NP (DT the) (JJ first) (NN assessment)) (PP (IN of) (NP (NML (JJ third) (HYPH -) (NN quarter)) (JJ economic) (NN growth))))
+sid=6 spanning 24 until 27 headed by 26 parsed as quarter
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (NNS Analysts))
+sid=7 spanning 2 until 3 headed by 2 parsed as (NP (PRP they))
+sid=7 spanning 4 until 7 headed by 6 parsed as (NP (NML (JJ durable) (NNS goods)) (NNS orders))
+sid=7 spanning 14 until 20 headed by 17 parsed as (NP (NP (DT a) (NML (CD 3.9) (NN %)) (NN gain)) (PP (IN in) (NP (NNP August))))
+sid=7 spanning 19 until 20 headed by 19 parsed as (NP (NNP August))
+sid=7 spanning 23 until 28 headed by 23 parsed as (NP (NP (NN growth)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))
+sid=7 spanning 25 until 28 headed by 27 parsed as (NP (DT the) (JJ third) (NN quarter))
+sid=7 spanning 34 until 38 headed by 36 parsed as (NP (DT the) (JJ second) (NN quarter))
+sid=8 spanning 0 until 16 headed by 4 parsed as (NP (NP (NP (DT The) (NN stock) (NN market) (POS 's)) (NN decline)) (, ,) (VP (VBG coming) (PP (IN after) (NP (NP (DT a) (NML (NN record) (NN weekly)) (NN gain)) (PP (IN of) (NP (CD 119.88) (NNS points)))))) (, ,))
+sid=8 spanning 0 until 5 headed by 4 parsed as (NP (NP (DT The) (NN stock) (NN market) (POS 's)) (NN decline))
+sid=8 spanning 0 until 4 headed by 2 parsed as (NP (DT The) (NN stock) (NN market) (POS 's))
+sid=8 spanning 8 until 15 headed by 11 parsed as (NP (NP (DT a) (NML (NN record) (NN weekly)) (NN gain)) (PP (IN of) (NP (CD 119.88) (NNS points))))
+sid=8 spanning 13 until 15 headed by 14 parsed as (NP (CD 119.88) (NNS points))
+sid=8 spanning 17 until 19 headed by 18 parsed as (NP (DT some) (NNS investors))
+sid=9 spanning 1 until 3 headed by 2 parsed as (NP (NP (NNP A.C.) (NNP Moore)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (NN research))) (PP (IN at) (NP (NNP Argus) (NNP Research)))) (, ,))
+sid=9 spanning 1 until 11 headed by 2 parsed as (NP (NP (NNP A.C.) (NNP Moore)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (NN research))) (PP (IN at) (NP (NNP Argus) (NNP Research)))) (, ,))
+sid=9 spanning 4 until 10 headed by 4 parsed as (NP (NP (NN director)) (PP (IN of) (NP (NN research))) (PP (IN at) (NP (NNP Argus) (NNP Research))))
+sid=9 spanning 8 until 10 headed by 9 parsed as (NP (NNP Argus) (NNP Research))
+sid=9 spanning 12 until 15 headed by 13 parsed as (NP (JJ last) (NN week) (POS 's))
+sid=9 spanning 17 until 27 headed by 19 parsed as (NP (NP (DT a) (JJ reflex) (NN reaction)) (PP (IN to) (NP (DT the) (NML (NNP Oct.) (CD 13)) (NML (NN stock) (NN market)) (NN rout))))
+sid=9 spanning 21 until 27 headed by 26 parsed as (NP (DT the) (NML (NNP Oct.) (CD 13)) (NML (NN stock) (NN market)) (NN rout))
+sid=9 spanning 22 until 24 headed by 22 parsed as Oct.
+sid=10 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=10 spanning 5 until 10 headed by 6 parsed as (NP (NP (DT the) (NN trend)) (PP (IN in) (NP (NN stock) (NNS prices))))
+sid=10 spanning 8 until 10 headed by 9 parsed as (NP (NN stock) (NNS prices))
+sid=10 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN economy))
+sid=11 spanning 1 until 2 headed by 1 parsed as (NP (PRP We))
+sid=11 spanning 3 until 4 headed by 3 parsed as (NP (PRP we))
+sid=11 spanning 10 until 13 headed by 12 parsed as (NP (VBN renewed) (JJ economic) (NN deterioration))
+sid=11 spanning 15 until 16 headed by 15 parsed as (NP (PRP he))
+sid=12 spanning 1 until 3 headed by 2 parsed as (NP (JJ Corporate) (NNS profits))
+sid=12 spanning 9 until 11 headed by 10 parsed as (NP (NN interest) (NNS rates))
+sid=12 spanning 15 until 17 headed by 16 parsed as (NP (DT the) (NN probability))
+sid=12 spanning 19 until 20 headed by 19 parsed as (NP (PRP we))
+sid=12 spanning 26 until 29 headed by 28 parsed as (NP (DT the) (JJ fourth) (NN quarter))
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Hugh) (NNP Johnson)) (, ,) (NP (NP (JJ chief) (NN investment) (NN officer)) (PP (IN at) (NP (NNP First) (NNP Albany) (NNP Corp.)))) (, ,))
+sid=13 spanning 0 until 11 headed by 1 parsed as (NP (NP (NNP Hugh) (NNP Johnson)) (, ,) (NP (NP (JJ chief) (NN investment) (NN officer)) (PP (IN at) (NP (NNP First) (NNP Albany) (NNP Corp.)))) (, ,))
+sid=13 spanning 7 until 10 headed by 9 parsed as (NP (NNP First) (NNP Albany) (NNP Corp.))
+sid=13 spanning 13 until 16 headed by 15 parsed as (NP (DT a) (VBG deteriorating) (NN economy))
+sid=13 spanning 20 until 21 headed by 20 parsed as (NP (PRP he))
+sid=13 spanning 22 until 28 headed by 24 parsed as (NP (NP (DT the) (JJ real) (NN concern)) (PP (IN among) (NP (NN stock) (NNS investors))))
+sid=13 spanning 26 until 28 headed by 27 parsed as (NP (NN stock) (NNS investors))
+sid=13 spanning 30 until 33 headed by 32 parsed as (NP (DT some) (JJ new) (NN problem))
+sid=13 spanning 37 until 41 headed by 40 parsed as (NP (DT the) (NML (NN junk) (NN bond)) (NN market))
+sid=14 spanning 5 until 7 headed by 6 parsed as (NP (NNP Stock) (NNS prices))
+sid=15 spanning 0 until 7 headed by 0 parsed as (NP (NP (NN Volume)) (PP (IN on) (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))))
+sid=15 spanning 2 until 7 headed by 6 parsed as (NP (DT the) (NML (NNP New) (NNP York)) (NNP Stock) (NNP Exchange))
+sid=15 spanning 8 until 11 headed by 10 parsed as (NP (QP (CD 135.9) (CD million)) (NNS shares))
+sid=16 spanning 0 until 6 headed by 1 parsed as (NP (NP (VBG Declining) (NNS issues)) (PP (IN on) (NP (DT the) (NNP Big) (NNP Board))))
+sid=16 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Big) (NNP Board))
+sid=16 spanning 9 until 10 headed by 9 parsed as (NP (NNS gainers))
+sid=16 spanning 11 until 14 headed by 13 parsed as (NP (QP (CD 1,012) (TO to) (CD 501)))
+sid=17 spanning 0 until 2 headed by 1 parsed as (NP (NN Bond) (NNS prices))
+sid=18 spanning 0 until 11 headed by 1 parsed as (NP (NP (DT The) (NN yield)) (PP (IN on) (NP (NP (DT the) (NNP Treasury) (POS 's)) (JJ benchmark) (NML (CD 30) (HYPH -) (NN year)) (NN bond))))
+sid=18 spanning 3 until 11 headed by 10 parsed as (NP (NP (DT the) (NNP Treasury) (POS 's)) (JJ benchmark) (NML (CD 30) (HYPH -) (NN year)) (NN bond))
+sid=18 spanning 3 until 6 headed by 4 parsed as (NP (DT the) (NNP Treasury) (POS 's))
+sid=18 spanning 7 until 10 headed by 9 parsed as year
+sid=19 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN dollar))
+sid=19 spanning 4 until 8 headed by 7 parsed as (NP (JJS most) (JJ other) (JJ major) (NNS currencies))
+sid=20 spanning 2 until 4 headed by 3 parsed as York
+sid=20 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN dollar))
+sid=20 spanning 24 until 26 headed by 25 parsed as (NP (JJ late) (NNP Friday))
+(end predicted mentions)
+---------gold clusters--------
+4 7 | { 'growing unease about the economic outlook' 'That unease' }
+16 18 | { 'Hugh Johnson , chief investment officer at First Albany Corp. ,' 'he' }
+25 3 23 | { 'the dollar' 'The dollar' 'The dollar' }
+9 8 | { 'they' 'Analysts' }
+0 14 17 | { 'the economy' 'the economy' 'a deteriorating economy' }
+19 1 | { 'the junk bond market' 'the junk bond market' }
+6 5 | { 'it' 'A sinking economy' }
+10 12 | { 'a record weekly gain of 119.88 points' 'last week 's rally' }
+24 20 21 | { 'New York' 'the New York Stock Exchange' 'the Big Board' }
+22 2 | { 'the Treasury 's' 'Treasury' }
+11 15 13 | { 'A.C. Moore , director of research at Argus Research ,' 'he' 'he' }
+(end gold clusters)

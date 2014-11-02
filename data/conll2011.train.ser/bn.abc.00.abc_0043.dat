@@ -1,0 +1,163 @@
+---------gloss--------
+(0) [35m{Israeli Prime Minister Barak}[0m [36m{says}[0m [35m{he}[0m will [4m[35m{resign}[0m tomorrow . 
+(1) Sometimes [31m{things}[0m are not as [31m{they}[0m seem . 
+(2) [36m{This}[0m is one of [31m{them}[0m . 
+(3) [36m{This}[0m is a political chess move . 
+(4) [4m[36m{ABC 's Gillian Findlay}[0m is in [34m{Israel}[0m tonight . 
+(5) [36m{It}[0m was an emotional speech and one that Israelis had not expected . 
+(6) `` Tomorrow morning [35m{I}[0m will inform the President of [35m{my}[0m decision to [4m[35m{resign}[0m , '' said [35m{Mr. Barak}[0m . 
+(7) `` [35m{I}[0m will ask again for [32m{the trust of the Israeli people}[0m . '' 
+(8) [32m{That trust}[0m has plummeted in the year and a half since [35m{Barak}[0m came to power . 
+(9) Failed peace talks with the Palestinians and the violence that has followed weakened [35m{him}[0m , strengthened the speculation that [33m{former Prime Minister Netanyahu}[0m might return to politics and try to unseat [35m{him}[0m . 
+(10) [33m{Mr. Netanyahu}[0m would win easily according to polls . 
+(11) That may be why [35m{Barak}[0m has [4m[34m{chosen}[0m to [4m[35m{resign}[0m now . 
+(12) [34m{Israel}[0m was headed towards an early general election . 
+(13) By [36m{announcing}[0m [35m{his}[0m resignation , [35m{Barak}[0m has ensured it will be a different election , a special election for Prime Minister only . 
+(14) [33m{Mr. Netanyahu}[0m will not be eligible . 
+(15) That 's because under [34m{Israel 's}[0m election rules , only a sitting member of parliament can run in a special election . 
+(16) [33m{Mr. Netanyahu}[0m gave up [33m{his}[0m seat when [33m{he}[0m lost the last election . 
+(17) Thanks , [4m[36m{Gillian Findlay}[0m in [34m{Israel}[0m . 
+(end gloss)
+---------document--------
+(bn/abc/00/abc_0043); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0BarakBarakNNPPERSONPER0sayssayVBZOPER0hehePRPOPER0willwillMDOPER0resignresignVBOPER0tomorrowtomorrowNNDATEPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Barak)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB resign) (NP (NN tomorrow))))))) (. .)))
+SometimessometimesRBOPER0thingsthingNNSOPER0arebeVBPOPER0notnotRBOPER0asasINOPER0theytheyPRPOPER0seemseemVBPOPER0...OPER0(ROOT (S (ADVP (RB Sometimes)) (NP (NNS things)) (VP (VBP are) (SBAR (RB not) (IN as) (S (NP (PRP they)) (VP (VBP seem))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0oneoneCDOPER0ofofINOPER0themtheyPRPOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))) (. .)))
+ThisthisDTOPER0isbeVBZOPER0aaDTOPER0politicalpoliticalJJOPER0chesschessNNOPER0movemoveNNOPER0...OPER0(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ political) (NN chess) (NN move))) (. .)))
+ABCABCNNPORGPER0's'sPOSOPER0GillianGillianNNPPERSONPER0FindlayFindlayNNPPERSONPER0isbeVBZOPER0ininINOPER0IsraelIsraelNNPGPEPER0tonighttonightNNOPER0...OPER0(ROOT (S (NP (NP (NNP ABC) (POS 's)) (NNP Gillian) (NNP Findlay)) (VP (VBZ is) (PP (IN in) (NP (NNP Israel))) (NP (NN tonight))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0anaDTOPER0emotionalemotionalJJOPER0speechspeechNNOPER0andandCCOPER0oneoneCDOPER0thatthatWDTOPER0IsraelisIsraelisNNPSOPER0hadhaveVBDOPER0notnotRBOPER0expectedexpectVBNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT an) (JJ emotional) (NN speech)) (CC and) (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (NP (NNPS Israelis)) (VP (VBD had) (RB not) (VP (VBN expected)))))))) (. .)))
+``````OTomorrowtomorrowNNDATEPER1morningmorningNNTIMEPER1IIPRPOPER1willwillMDOPER1informinformVBOPER1thetheDTOPER1PresidentPresidentNNPOPER1ofofINOPER1mymyPRP$OPER1decisiondecisionNNOPER1totoTOOPER1resignresignVBOPER1,,,OPER1''''''OPER0saidsayVBDOPER0Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0...OPER0(ROOT (SINV (`` ``) (S (NP (NN Tomorrow) (NN morning)) (NP (PRP I)) (VP (MD will) (VP (VB inform) (NP (DT the) (NNP President)) (PP (IN of) (NP (PRP$ my) (NN decision) (S (VP (TO to) (VP (VB resign))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Mr.) (NNP Barak)) (. .)))
+``````OIIPRPOPER2willwillMDOPER2askaskVBOPER2againagainRBOPER2forforINOPER2thetheDTOPER2trusttrustNNOPER2ofofINOPER2thetheDTOPER2IsraeliisraeliJJOPER2peoplepeopleNNSOPER2...OPER2''''''OPER0(ROOT (S (`` ``) (NP (PRP I)) (VP (MD will) (VP (VB ask) (ADVP (RB again)) (PP (IN for) (NP (NP (DT the) (NN trust)) (PP (IN of) (NP (DT the) (JJ Israeli) (NNS people))))))) (. .) ('' '')))
+ThatthatDTOPER0trusttrustNNOPER0hashaveVBZOPER0plummetedplummetVBNOPER0ininINOPER0thetheDTDATEPER0yearyearNNDATEPER0andandCCDATEPER0aaDTDATEPER0halfhalfNNDATEPER0sincesinceINOPER0BarakBarakNNPPERSONPER0camecomeVBDOPER0totoINOPER0powerpowerNNOPER0...OPER0(ROOT (S (NP (DT That) (NN trust)) (VP (VBZ has) (VP (VBN plummeted) (PP (IN in) (NP (NP (DT the) (NN year)) (CC and) (NP (DT a) (NN half)))) (SBAR (IN since) (S (NP (NNP Barak)) (VP (VBD came) (PP (IN to) (NP (NN power)))))))) (. .)))
+FailedfailVBNOPER0peacepeaceNNOPER0talkstalkNNSOPER0withwithINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0andandCCOPER0thetheDTOPER0violenceviolenceNNOPER0thatthatWDTOPER0hashaveVBZOPER0followedfollowVBNOPER0weakenedweakenVBNOPER0himhePRPOPER0,,,OPER0strengthenedstrengthenVBDOPER0thetheDTOPER0speculationspeculationNNOPER0thatthatINOPER0formerformerJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0NetanyahuNetanyahuNNPPERSONPER0mightmightMDOPER0returnreturnVBOPER0totoINOPER0politicspoliticsNNSOPER0andandCCOPER0trytryVBOPER0totoTOOPER0unseatunseatVBOPER0himhePRPOPER0...OPER0(ROOT (S (NP (NP (VBN Failed) (NN peace) (NNS talks)) (PP (IN with) (NP (NP (DT the) (NNPS Palestinians)) (CC and) (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN followed) (VP (VBN weakened) (NP (PRP him))))))))))) (, ,) (VP (VBD strengthened) (NP (DT the) (NN speculation) (SBAR (IN that) (S (NP (NML (JJ former) (NNP Prime) (NNP Minister)) (NNP Netanyahu)) (VP (MD might) (VP (VP (VB return) (PP (IN to) (NP (NNS politics)))) (CC and) (VP (VB try) (S (VP (TO to) (VP (VB unseat) (NP (PRP him)))))))))))) (. .)))
+Mr.Mr.NNPOPER0NetanyahuNetanyahuNNPPERSONPER0wouldwouldMDOPER0winwinVBOPER0easilyeasilyRBOPER0accordingaccordVBGOPER0totoINOPER0pollspollNNSOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Netanyahu)) (VP (MD would) (VP (VB win) (ADVP (RB easily)) (PP (VBG according) (PP (IN to) (NP (NNS polls)))))) (. .)))
+ThatthatDTOPER0maymayMDOPER0bebeVBOPER0whywhyWRBOPER0BarakBarakNNPPERSONPER0hashaveVBZOPER0chosenchooseVBNOPER0totoTOOPER0resignresignVBOPER0nownowRBOPER0...OPER0(ROOT (S (NP (DT That)) (VP (MD may) (VP (VB be) (SBAR (WHADVP (WRB why)) (S (NP (NNP Barak)) (VP (VBZ has) (VP (VBN chosen) (S (VP (TO to) (VP (VB resign) (ADVP (RB now))))))))))) (. .)))
+IsraelIsraelNNPGPEPER0wasbeVBDOPER0headedheadVBNOPER0towardstowardsINOPER0anaDTOPER0earlyearlyJJOPER0generalgeneralJJOPER0electionelectionNNOPER0...OPER0(ROOT (S (NP (NNP Israel)) (VP (VBD was) (VP (VBN headed) (PP (IN towards) (NP (DT an) (JJ early) (JJ general) (NN election))))) (. .)))
+BybyINOPER0announcingannounceVBGOPER0hishePRP$OPER0resignationresignationNNOPER0,,,OPER0BarakBarakNNPPERSONPER0hashaveVBZOPER0ensuredensureVBDOPER0ititPRPOPER0willwillMDOPER0bebeVBOPER0aaDTOPER0differentdifferentJJOPER0electionelectionNNOPER0,,,OPER0aaDTOPER0specialspecialJJOPER0electionelectionNNOPER0forforINOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0onlyonlyRBOPER0...OPER0(ROOT (S (PP (IN By) (S (VP (VBG announcing) (NP (PRP$ his) (NN resignation))))) (, ,) (NP (NNP Barak)) (VP (VBZ has) (VP (VBD ensured) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (DT a) (JJ different) (NN election)) (, ,) (NP (NP (DT a) (JJ special) (NN election)) (PP (IN for) (NP (NNP Prime) (NNP Minister))) (ADVP (RB only))))))))) (. .)))
+Mr.Mr.NNPOPER0NetanyahuNetanyahuNNPPERSONPER0willwillMDOPER0notnotRBOPER0bebeVBOPER0eligibleeligibleJJOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Netanyahu)) (VP (MD will) (RB not) (VP (VB be) (ADJP (JJ eligible)))) (. .)))
+ThatthatDTOPER0'sbeVBZOPER0becausebecauseINOPER0underunderINOPER0IsraelIsraelNNPGPEPER0's'sPOSOPER0electionelectionNNOPER0rulesruleNNSOPER0,,,OPER0onlyonlyRBOPER0aaDTOPER0sittingsitVBGOPER0membermemberNNOPER0ofofINOPER0parliamentparliamentNNORGPER0cancanMDOPER0runrunVBOPER0ininINOPER0aaDTOPER0specialspecialJJOPER0electionelectionNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (IN because) (S (PP (IN under) (NP (NP (NNP Israel) (POS 's)) (NN election) (NNS rules))) (, ,) (NP (NP (RB only) (DT a) (VBG sitting) (NN member)) (PP (IN of) (NP (NN parliament)))) (VP (MD can) (VP (VB run) (PP (IN in) (NP (DT a) (JJ special) (NN election)))))))) (. .)))
+Mr.Mr.NNPOPER0NetanyahuNetanyahuNNPPERSONPER0gavegiveVBDOPER0upupRPOPER0hishePRP$OPER0seatseatNNOPER0whenwhenWRBOPER0hehePRPOPER0lostloseVBDOPER0thetheDTOPER0lastlastJJOPER0electionelectionNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Netanyahu)) (VP (VBD gave) (PRT (RP up)) (NP (PRP$ his) (NN seat)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD lost) (NP (DT the) (JJ last) (NN election)))))) (. .)))
+ThanksthanksNNSOPER0,,,OPER0GillianGillianNNPPERSONPER0FindlayFindlayNNPPERSONPER0ininINOPER0IsraelIsraelNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNS Thanks)) (, ,) (NP (NNP Gillian) (NNP Findlay)) (PP (IN in) (NP (NNP Israel))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Barak))
+sid=0 spanning 4 until 5 headed by 4 parsed as says
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=0 spanning 7 until 8 headed by 7 parsed as resign
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (NNS things))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (PRP them))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Gillian) (NNP Findlay))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Israel))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP I))
+sid=6 spanning 9 until 13 headed by 10 parsed as (NP (PRP$ my) (NN decision) (S (VP (TO to) (VP (VB resign)))))
+sid=6 spanning 9 until 10 headed by 9 parsed as my
+sid=6 spanning 12 until 13 headed by 12 parsed as resign
+sid=6 spanning 16 until 18 headed by 17 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=7 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=7 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT the) (NN trust)) (PP (IN of) (NP (DT the) (JJ Israeli) (NNS people))))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN trust))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (NNP Barak))
+sid=9 spanning 13 until 14 headed by 13 parsed as (NP (PRP him))
+sid=9 spanning 19 until 23 headed by 22 parsed as (NP (NML (JJ former) (NNP Prime) (NNP Minister)) (NNP Netanyahu))
+sid=9 spanning 31 until 32 headed by 31 parsed as (NP (PRP him))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Netanyahu))
+sid=11 spanning 4 until 5 headed by 4 parsed as (NP (NNP Barak))
+sid=11 spanning 6 until 7 headed by 6 parsed as chosen
+sid=11 spanning 8 until 9 headed by 8 parsed as resign
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=13 spanning 1 until 2 headed by 1 parsed as announcing
+sid=13 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ his) (NN resignation))
+sid=13 spanning 2 until 3 headed by 2 parsed as his
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (NNP Barak))
+sid=14 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Netanyahu))
+sid=15 spanning 4 until 6 headed by 4 parsed as (NP (NNP Israel) (POS 's))
+sid=16 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Netanyahu))
+sid=16 spanning 4 until 5 headed by 4 parsed as his
+sid=16 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=17 spanning 2 until 4 headed by 3 parsed as (NP (NNP Gillian) (NNP Findlay))
+sid=17 spanning 5 until 6 headed by 5 parsed as (NP (NNP Israel))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Barak))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NN tomorrow))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (NNS things))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (PRP they))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=2 spanning 2 until 5 headed by 2 parsed as (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT This))
+sid=3 spanning 2 until 6 headed by 5 parsed as (NP (DT a) (JJ political) (NN chess) (NN move))
+sid=4 spanning 0 until 4 headed by 3 parsed as (NP (NP (NNP ABC) (POS 's)) (NNP Gillian) (NNP Findlay))
+sid=4 spanning 0 until 2 headed by 0 parsed as (NP (NNP ABC) (POS 's))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNP Israel))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=5 spanning 2 until 12 headed by 4 parsed as (NP (NP (DT an) (JJ emotional) (NN speech)) (CC and) (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (NP (NNPS Israelis)) (VP (VBD had) (RB not) (VP (VBN expected)))))))
+sid=5 spanning 2 until 5 headed by 4 parsed as (NP (DT an) (JJ emotional) (NN speech))
+sid=5 spanning 6 until 12 headed by 6 parsed as (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (NP (NNPS Israelis)) (VP (VBD had) (RB not) (VP (VBN expected))))))
+sid=6 spanning 1 until 3 headed by 2 parsed as (NP (NN Tomorrow) (NN morning))
+sid=6 spanning 1 until 2 headed by 1 parsed as Tomorrow
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP I))
+sid=6 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNP President))
+sid=6 spanning 9 until 13 headed by 10 parsed as (NP (PRP$ my) (NN decision) (S (VP (TO to) (VP (VB resign)))))
+sid=6 spanning 9 until 10 headed by 9 parsed as (PRP$ my)
+sid=6 spanning 16 until 18 headed by 17 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=7 spanning 1 until 2 headed by 1 parsed as (NP (PRP I))
+sid=7 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT the) (NN trust)) (PP (IN of) (NP (DT the) (JJ Israeli) (NNS people))))
+sid=7 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (JJ Israeli) (NNS people))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT That) (NN trust))
+sid=8 spanning 5 until 10 headed by 6 parsed as (NP (NP (DT the) (NN year)) (CC and) (NP (DT a) (NN half)))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (NNP Barak))
+sid=9 spanning 0 until 14 headed by 2 parsed as (NP (NP (VBN Failed) (NN peace) (NNS talks)) (PP (IN with) (NP (NP (DT the) (NNPS Palestinians)) (CC and) (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN followed) (VP (VBN weakened) (NP (PRP him)))))))))))
+sid=9 spanning 4 until 14 headed by 5 parsed as (NP (NP (DT the) (NNPS Palestinians)) (CC and) (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN followed) (VP (VBN weakened) (NP (PRP him)))))))))
+sid=9 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNPS Palestinians))
+sid=9 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN followed) (VP (VBN weakened) (NP (PRP him))))))))
+sid=9 spanning 13 until 14 headed by 13 parsed as (NP (PRP him))
+sid=9 spanning 16 until 32 headed by 17 parsed as (NP (DT the) (NN speculation) (SBAR (IN that) (S (NP (NML (JJ former) (NNP Prime) (NNP Minister)) (NNP Netanyahu)) (VP (MD might) (VP (VP (VB return) (PP (IN to) (NP (NNS politics)))) (CC and) (VP (VB try) (S (VP (TO to) (VP (VB unseat) (NP (PRP him)))))))))))
+sid=9 spanning 19 until 23 headed by 22 parsed as (NP (NML (JJ former) (NNP Prime) (NNP Minister)) (NNP Netanyahu))
+sid=9 spanning 26 until 27 headed by 26 parsed as (NP (NNS politics))
+sid=9 spanning 31 until 32 headed by 31 parsed as (NP (PRP him))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Netanyahu))
+sid=10 spanning 7 until 8 headed by 7 parsed as (NP (NNS polls))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=11 spanning 4 until 5 headed by 4 parsed as (NP (NNP Barak))
+sid=12 spanning 0 until 1 headed by 0 parsed as (NP (NNP Israel))
+sid=12 spanning 4 until 8 headed by 7 parsed as (NP (DT an) (JJ early) (JJ general) (NN election))
+sid=13 spanning 2 until 4 headed by 3 parsed as (NP (PRP$ his) (NN resignation))
+sid=13 spanning 2 until 3 headed by 2 parsed as (PRP$ his)
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (NNP Barak))
+sid=13 spanning 8 until 9 headed by 8 parsed as (NP (PRP it))
+sid=13 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (JJ different) (NN election))
+sid=13 spanning 15 until 22 headed by 17 parsed as (NP (NP (DT a) (JJ special) (NN election)) (PP (IN for) (NP (NNP Prime) (NNP Minister))) (ADVP (RB only)))
+sid=13 spanning 19 until 21 headed by 20 parsed as (NP (NNP Prime) (NNP Minister))
+sid=14 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Netanyahu))
+sid=15 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=15 spanning 4 until 8 headed by 7 parsed as (NP (NP (NNP Israel) (POS 's)) (NN election) (NNS rules))
+sid=15 spanning 4 until 6 headed by 4 parsed as (NP (NNP Israel) (POS 's))
+sid=15 spanning 9 until 15 headed by 12 parsed as (NP (NP (RB only) (DT a) (VBG sitting) (NN member)) (PP (IN of) (NP (NN parliament))))
+sid=15 spanning 18 until 21 headed by 20 parsed as (NP (DT a) (JJ special) (NN election))
+sid=16 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Netanyahu))
+sid=16 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ his) (NN seat))
+sid=16 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=16 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=16 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (JJ last) (NN election))
+sid=17 spanning 0 until 1 headed by 0 parsed as (NP (NNS Thanks))
+sid=17 spanning 2 until 4 headed by 3 parsed as (NP (NNP Gillian) (NNP Findlay))
+sid=17 spanning 5 until 6 headed by 5 parsed as (NP (NNP Israel))
+(end predicted mentions)
+---------gold clusters--------
+26 13 | { 'chosen' 'my decision to resign' }
+30 15 3 27 | { 'his resignation' 'resign' 'resign' 'resign' }
+9 38 | { 'ABC 's Gillian Findlay' 'Gillian Findlay' }
+7 5 4 | { 'them' 'they' 'things' }
+19 18 | { 'That trust' 'the trust of the Israeli people' }
+35 24 37 22 33 36 | { 'Mr. Netanyahu' 'Mr. Netanyahu' 'he' 'former Prime Minister Netanyahu' 'Mr. Netanyahu' 'his' }
+34 28 39 10 | { 'Israel 's' 'Israel' 'Israel' 'Israel' }
+2 25 12 32 0 21 31 16 17 20 14 23 | { 'he' 'Barak' 'I' 'Barak' 'Israeli Prime Minister Barak' 'him' 'his' 'Mr. Barak' 'I' 'Barak' 'my' 'him' }
+29 6 1 8 11 | { 'announcing' 'This' 'says' 'This' 'It' }
+(end gold clusters)

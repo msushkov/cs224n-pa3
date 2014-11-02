@@ -1,0 +1,122 @@
+---------gloss--------
+(0) Let 's look now at [3m[31m{a potential rising star from the next generation in the sports realm}[0m . 
+(1) [1m[35m{The National Basketball Association}[0m holds [1m[35m{its}[0m draft on the 26th of this month . 
+(2) [3m[31m{Ohio high school player , high school , we said , LeBron James}[0m , will be the top dog . 
+(3) Most likely drafted by [1m[34m{the Cleveland Cavaliers}[0m get the first pick because of [1m[34m{their}[0m status . 
+(4) [3m[31m{James}[0m already scored back in [3m[34m{a $ 90 million Nike deal}[0m . 
+(5) [1m[36m{$ 90 million .}[0m 
+(6) But when basketball fans were asked in a Cnn / `` USA Today '' poll just how good [3m[31m{James}[0m will be , 18 % say [3m[31m{he}[0m 'll be among the best . 
+(7) Slim margin . 
+(8) Most think [3m[31m{he}[0m 'll be very good . 
+(9) Another 18 % are convinced [3m[31m{he}[0m 'll be just average or below . 
+(10) Skeptical fans . 
+(11) As for [3m[34m{that $ 90 million shoe contract with Nike}[0m , [3m[34m{it}[0m may [3m[32m{be}[0m a good deal for [3m[31m{James}[0m . 
+(12) No doubt about [3m[32m{that}[0m . 
+(13) 33 % of basketball fans see [3m[34m{it}[0m as a bad deal for [3m[33m{Nike}[0m . 
+(14) [3m[33m{They}[0m must know something about shoes . 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0384); part 000
+sentences:
+LetletVBOPER0's'sPRPOPER0looklookVBOPER0nownowRBOPER0atatINOPER0aaDTOPER0potentialpotentialJJOPER0risingriseVBGOPER0starstarNNOPER0fromfromINOPER0thetheDTOPER0nextnextJJOPER0generationgenerationNNOPER0ininINOPER0thetheDTOPER0sportssportNNSOPER0realmrealmNNOPER0...OPER0(ROOT (S (VP (VB Let) (NP (PRP 's)) (VP (VB look) (ADVP (RB now)) (PP (IN at) (NP (NP (DT a) (JJ potential) (VBG rising) (NN star)) (PP (IN from) (NP (NP (DT the) (JJ next) (NN generation)) (PP (IN in) (NP (DT the) (NNS sports) (NN realm))))))))) (. .)))
+ThetheDTORGPER0NationalNationalNNPORGPER0BasketballBasketballNNPORGPER0AssociationAssociationNNPORGPER0holdsholdVBZOPER0itsitsPRP$OPER0draftdraftNNOPER0ononINOPER0thetheDTDATEPER026th26thNNDATEPER0ofofINDATEPER0thisthisDTDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NNP National) (NNP Basketball) (NNP Association)) (VP (VBZ holds) (NP (NP (PRP$ its) (NN draft)) (PP (IN on) (NP (NP (DT the) (NN 26th)) (PP (IN of) (NP (DT this) (NN month))))))) (. .)))
+OhioOhioNNPGPEPER0highhighJJOPER0schoolschoolNNOPER0playerplayerNNOPER0,,,OPER0highhighJJOPER0schoolschoolNNOPER0,,,OPER0wewePRPOPER0saidsayVBDOPER0,,,OPER0LeBronLeBronNNPORGPER0JamesJamesNNPORGPER0,,,OPER0willwillMDOPER0bebeVBOPER0thetheDTOPER0toptopJJOPER0dogdogNNOPER0...OPER0(ROOT (FRAG (NP (NP (NNP Ohio)) (NP (NML (JJ high) (NN school)) (NN player))) (, ,) (NP (JJ high) (NN school)) (, ,) (S (NP (PRP we)) (VP (VBD said) (, ,) (SBAR (S (NP (NNP LeBron) (NNP James)) (, ,) (VP (MD will) (VP (VB be) (NP (DT the) (JJ top) (NN dog)))))))) (. .)))
+MostmostRBSOPER0likelylikelyJJOPER0drafteddraftVBNOPER0bybyINOPER0thetheDTOPER0ClevelandClevelandNNPGPEPER0CavaliersCavaliersNNPSOPER0getgetVBPOPER0thetheDTOPER0firstfirstJJORDINALPER0pickpickNNOPER0becausebecauseINOPER0ofofINOPER0theirtheyPRP$OPER0statusstatusNNOPER0...OPER0(ROOT (S (NP (NP (ADJP (RBS Most) (JJ likely))) (VP (VBN drafted) (PP (IN by) (NP (DT the) (NNP Cleveland) (NNPS Cavaliers))))) (VP (VBP get) (NP (DT the) (JJ first) (NN pick)) (PP (IN because) (IN of) (NP (PRP$ their) (NN status)))) (. .)))
+JamesJamesNNPPERSONPER0alreadyalreadyRBOPER0scoredscoreVBDOPER0backbackRBOPER0ininINOPER0aaDTOPER0$$$MONEYPER09090CDMONEYPER0millionmillionCDMONEYPER0NikeNikeNNPORGPER0dealdealNNOPER0...OPER0(ROOT (S (NP (NNP James)) (ADVP (RB already)) (VP (VBD scored) (ADVP (RB back) (PP (IN in) (NP (DT a) (NML (QP ($ $) (CD 90) (CD million))) (NNP Nike) (NN deal))))) (. .)))
+$$$MONEYPER09090CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (NP (QP ($ $) (CD 90) (CD million)) (. .)))
+ButbutCCOPER0whenwhenWRBOPER0basketballbasketballNNOPER0fansfanNNSOPER0werebeVBDOPER0askedaskVBNOPER0ininINOPER0aaDTOPER0CnnCnnNNPORGPER0//SYMORGPER0``````ORGUSAUSANNPORGPER1TodayTodayNNPORGPER1''''''ORGPER0pollpollNNOPER0justjustRBOPER0howhowWRBOPER0goodgoodJJOPER0JamesJamesNNPPERSONPER0willwillMDOPER0bebeVBOPER0,,,OPER01818CDPERCENTPER0%%NNPERCENTPER0saysayVBPOPER0hehePRPOPER0'll'llMDOPER0bebeVBOPER0amongamongINOPER0thetheDTOPER0bestbestJJSOPER0...OPER0(ROOT (S (CC But) (SBAR (WHADVP (WRB when)) (S (NP (NN basketball) (NNS fans)) (VP (VBD were) (VP (VBN asked) (PP (IN in) (NP (DT a) (NML (NML (NNP Cnn)) (SYM /) (NML (`` ``) (NNP USA) (NNP Today) ('' ''))) (NN poll))) (SBAR (WHADJP (RB just) (WRB how) (JJ good)) (S (NP (NNP James)) (VP (MD will) (VP (VB be))))))))) (, ,) (NP (CD 18) (NN %)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (MD 'll) (VP (VB be) (PP (IN among) (NP (DT the) (JJS best)))))))) (. .)))
+SlimslimJJOPER0marginmarginNNOPER0...OPER0(ROOT (NP (JJ Slim) (NN margin) (. .)))
+MostmostJJSOPER0thinkthinkVBPOPER0hehePRPOPER0'll'llMDOPER0bebeVBOPER0veryveryRBOPER0goodgoodJJOPER0...OPER0(ROOT (S (NP (JJS Most)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (MD 'll) (VP (VB be) (ADJP (RB very) (JJ good))))))) (. .)))
+AnotheranotherDTPERCENTPER01818CDPERCENTPER0%%NNPERCENTPER0arebeVBPOPER0convincedconvinceVBNOPER0hehePRPOPER0'll'llMDOPER0bebeVBOPER0justjustRBOPER0averageaverageJJOPER0ororCCOPER0belowbelowRBOPER0...OPER0(ROOT (S (NP (QP (DT Another) (CD 18)) (NN %)) (VP (VBP are) (ADJP (VBN convinced) (SBAR (S (NP (PRP he)) (VP (MD 'll) (VP (VB be) (NP (QP (RB just) (JJ average) (CC or) (RB below))))))))) (. .)))
+SkepticalskepticalJJOPER0fansfanNNSOPER0...OPER0(ROOT (NP (JJ Skeptical) (NNS fans) (. .)))
+AsasINOPER0forforINOPER0thatthatDTOPER0$$$MONEYPER09090CDMONEYPER0millionmillionCDMONEYPER0shoeshoeNNOPER0contractcontractNNOPER0withwithINOPER0NikeNikeNNPORGPER0,,,OPER0ititPRPOPER0maymayMDOPER0bebeVBOPER0aaDTOPER0goodgoodJJOPER0dealdealNNOPER0forforINOPER0JamesJamesNNPPERSONPER0...OPER0(ROOT (S (PP (IN As) (PP (IN for) (NP (NP (DT that) (NML (QP ($ $) (CD 90) (CD million))) (NN shoe) (NN contract)) (PP (IN with) (NP (NNP Nike)))))) (, ,) (NP (PRP it)) (VP (MD may) (VP (VB be) (NP (NP (DT a) (JJ good) (NN deal)) (PP (IN for) (NP (NNP James)))))) (. .)))
+NonoDTOPER0doubtdoubtNNOPER0aboutaboutINOPER0thatthatDTOPER0...OPER0(ROOT (NP (NP (DT No) (NN doubt)) (PP (IN about) (NP (DT that))) (. .)))
+3333CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0basketballbasketballNNOPER0fansfanNNSOPER0seeseeVBPOPER0ititPRPOPER0asasINOPER0aaDTOPER0badbadJJOPER0dealdealNNOPER0forforINOPER0NikeNikeNNPORGPER0...OPER0(ROOT (S (NP (NP (CD 33) (NN %)) (PP (IN of) (NP (NN basketball) (NNS fans)))) (VP (VBP see) (NP (PRP it)) (PP (IN as) (NP (NP (DT a) (JJ bad) (NN deal)) (PP (IN for) (NP (NNP Nike)))))) (. .)))
+TheytheyPRPOPER0mustmustMDOPER0knowknowVBOPER0somethingsomethingNNOPER0aboutaboutINOPER0shoesshoeNNSOPER0...OPER0(ROOT (S (NP (PRP They)) (VP (MD must) (VP (VB know) (NP (NP (NN something)) (PP (IN about) (NP (NNS shoes)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 5 until 17 headed by 8 parsed as (NP (NP (DT a) (JJ potential) (VBG rising) (NN star)) (PP (IN from) (NP (NP (DT the) (JJ next) (NN generation)) (PP (IN in) (NP (DT the) (NNS sports) (NN realm))))))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP National) (NNP Basketball) (NNP Association))
+sid=1 spanning 5 until 6 headed by 5 parsed as its
+sid=2 spanning 0 until 13 headed by 3 parsed as (NP (NML (JJ high) (NN school)) (NN player))
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Cleveland) (NNPS Cavaliers))
+sid=3 spanning 13 until 14 headed by 13 parsed as their
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP James))
+sid=4 spanning 5 until 11 headed by 10 parsed as (NP (DT a) (NML (QP ($ $) (CD 90) (CD million))) (NNP Nike) (NN deal))
+sid=4 spanning 6 until 9 headed by 6 parsed as $
+sid=4 spanning 9 until 10 headed by 9 parsed as Nike
+sid=5 spanning 0 until 4 headed by 0 parsed as (NP (QP ($ $) (CD 90) (CD million)) (. .))
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (NNP James))
+sid=6 spanning 25 until 26 headed by 25 parsed as (NP (PRP he))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=11 spanning 2 until 10 headed by 7 parsed as (NP (NP (DT that) (NML (QP ($ $) (CD 90) (CD million))) (NN shoe) (NN contract)) (PP (IN with) (NP (NNP Nike))))
+sid=11 spanning 3 until 6 headed by 3 parsed as $
+sid=11 spanning 9 until 10 headed by 9 parsed as (NP (NNP Nike))
+sid=11 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=11 spanning 13 until 14 headed by 13 parsed as be
+sid=11 spanning 18 until 19 headed by 18 parsed as (NP (NNP James))
+sid=12 spanning 3 until 4 headed by 3 parsed as (NP (DT that))
+sid=13 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=13 spanning 12 until 13 headed by 12 parsed as (NP (NNP Nike))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (PRP 's))
+sid=0 spanning 5 until 17 headed by 8 parsed as (NP (NP (DT a) (JJ potential) (VBG rising) (NN star)) (PP (IN from) (NP (NP (DT the) (JJ next) (NN generation)) (PP (IN in) (NP (DT the) (NNS sports) (NN realm))))))
+sid=0 spanning 10 until 17 headed by 12 parsed as (NP (NP (DT the) (JJ next) (NN generation)) (PP (IN in) (NP (DT the) (NNS sports) (NN realm))))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNS sports) (NN realm))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (NNP National) (NNP Basketball) (NNP Association))
+sid=1 spanning 5 until 13 headed by 6 parsed as (NP (NP (PRP$ its) (NN draft)) (PP (IN on) (NP (NP (DT the) (NN 26th)) (PP (IN of) (NP (DT this) (NN month))))))
+sid=1 spanning 5 until 6 headed by 5 parsed as (PRP$ its)
+sid=1 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT the) (NN 26th)) (PP (IN of) (NP (DT this) (NN month))))
+sid=2 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNP Ohio)) (NP (NML (JJ high) (NN school)) (NN player)))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (PRP we))
+sid=2 spanning 11 until 13 headed by 12 parsed as (NP (NNP LeBron) (NNP James))
+sid=2 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ top) (NN dog))
+sid=3 spanning 0 until 7 headed by 1 parsed as (NP (NP (ADJP (RBS Most) (JJ likely))) (VP (VBN drafted) (PP (IN by) (NP (DT the) (NNP Cleveland) (NNPS Cavaliers)))))
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Cleveland) (NNPS Cavaliers))
+sid=3 spanning 5 until 6 headed by 5 parsed as Cleveland
+sid=3 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (JJ first) (NN pick))
+sid=3 spanning 9 until 10 headed by 9 parsed as first
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (PRP$ their) (NN status))
+sid=3 spanning 13 until 14 headed by 13 parsed as (PRP$ their)
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNP James))
+sid=4 spanning 5 until 11 headed by 10 parsed as (NP (DT a) (NML (QP ($ $) (CD 90) (CD million))) (NNP Nike) (NN deal))
+sid=4 spanning 9 until 10 headed by 9 parsed as Nike
+sid=6 spanning 2 until 4 headed by 3 parsed as (NP (NN basketball) (NNS fans))
+sid=6 spanning 7 until 15 headed by 14 parsed as (NP (DT a) (NML (NML (NNP Cnn)) (SYM /) (NML (`` ``) (NNP USA) (NNP Today) ('' ''))) (NN poll))
+sid=6 spanning 8 until 14 headed by 12 parsed as Today
+sid=6 spanning 18 until 19 headed by 18 parsed as (NP (NNP James))
+sid=6 spanning 25 until 26 headed by 25 parsed as (NP (PRP he))
+sid=6 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (JJS best))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (JJS Most))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=9 spanning 5 until 6 headed by 5 parsed as (NP (PRP he))
+sid=9 spanning 8 until 12 headed by 9 parsed as (NP (QP (RB just) (JJ average) (CC or) (RB below)))
+sid=10 spanning 0 until 3 headed by 1 parsed as (NP (JJ Skeptical) (NNS fans) (. .))
+sid=11 spanning 2 until 10 headed by 7 parsed as (NP (NP (DT that) (NML (QP ($ $) (CD 90) (CD million))) (NN shoe) (NN contract)) (PP (IN with) (NP (NNP Nike))))
+sid=11 spanning 9 until 10 headed by 9 parsed as (NP (NNP Nike))
+sid=11 spanning 11 until 12 headed by 11 parsed as (NP (PRP it))
+sid=11 spanning 14 until 19 headed by 16 parsed as (NP (NP (DT a) (JJ good) (NN deal)) (PP (IN for) (NP (NNP James))))
+sid=11 spanning 18 until 19 headed by 18 parsed as (NP (NNP James))
+sid=12 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT No) (NN doubt)) (PP (IN about) (NP (DT that))) (. .))
+sid=12 spanning 3 until 4 headed by 3 parsed as (NP (DT that))
+sid=13 spanning 3 until 5 headed by 4 parsed as (NP (NN basketball) (NNS fans))
+sid=13 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=13 spanning 8 until 13 headed by 10 parsed as (NP (NP (DT a) (JJ bad) (NN deal)) (PP (IN for) (NP (NNP Nike))))
+sid=13 spanning 12 until 13 headed by 12 parsed as (NP (NNP Nike))
+sid=14 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=14 spanning 3 until 6 headed by 3 parsed as (NP (NP (NN something)) (PP (IN about) (NP (NNS shoes))))
+sid=14 spanning 5 until 6 headed by 5 parsed as (NP (NNS shoes))
+(end predicted mentions)
+---------gold clusters--------
+4 5 | { 'the Cleveland Cavaliers' 'their' }
+2 1 | { 'its' 'The National Basketball Association' }
+8 10 16 | { '$ 90 million' '$ 90 million .' '$ 90 million' }
+14 3 0 6 11 20 12 13 | { 'he' 'Ohio high school player , high school , we said , LeBron James' 'a potential rising star from the next generation in the sports realm' 'James' 'James' 'James' 'he' 'he' }
+21 19 | { 'that' 'be' }
+9 17 24 23 | { 'Nike' 'Nike' 'They' 'Nike' }
+22 18 7 15 | { 'it' 'it' 'a $ 90 million Nike deal' 'that $ 90 million shoe contract with Nike' }
+(end gold clusters)

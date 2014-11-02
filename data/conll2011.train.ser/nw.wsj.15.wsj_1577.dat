@@ -1,0 +1,51 @@
+---------gloss--------
+(0) [1m[36m{HomeFed Corp.}[0m said [1m[36m{its}[0m main subsidiary , Home Federal Savings & Loan , [1m[35m{converted}[0m from a federal savings and loan to a federal savings bank and changed [3m[31m{its}[0m name to HomeFed Bank . 
+(1) The federal Office of Thrift Supervision approved [1m[35m{the conversion}[0m last Friday , [1m[36m{HomeFed}[0m said . 
+(2) [1m[35m{The change in charter}[0m does n't alter the federal insurance of deposits , federal regulatory powers or company operations , a spokesman said . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1577); part 000
+sentences:
+HomeFedHomeFedNNPORGPER0Corp.Corp.NNPORGPER0saidsayVBDOPER0itsitsPRP$OPER0mainmainJJOPER0subsidiarysubsidiaryNNOPER0,,,OPER0HomeHomeNNPORGPER0FederalFederalNNPORGPER0SavingsSavingsNNPORGPER0&&CCORGPER0LoanLoanNNPORGPER0,,,OPER0convertedconvertVBDOPER0fromfromINOPER0aaDTOPER0federalfederalJJOPER0savingssavingsNNSOPER0andandCCOPER0loanloanNNOPER0totoINOPER0aaDTOPER0federalfederalJJOPER0savingssavingsNNOPER0bankbankNNOPER0andandCCOPER0changedchangeVBDOPER0itsitsPRP$OPER0namenameNNOPER0totoINOPER0HomeFedHomeFedNNPORGPER0BankBankNNPORGPER0...OPER0(ROOT (S (NP (NNP HomeFed) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (JJ main) (NN subsidiary)) (, ,) (NP (NNP Home) (NNP Federal) (NNP Savings) (CC &) (NNP Loan)) (, ,)) (VP (VP (VBD converted) (PP (IN from) (NP (DT a) (JJ federal) (NNS savings) (CC and) (NN loan))) (PP (IN to) (NP (DT a) (JJ federal) (NN savings) (NN bank)))) (CC and) (VP (VBD changed) (NP (PRP$ its) (NN name)) (PP (IN to) (NP (NNP HomeFed) (NNP Bank)))))))) (. .)))
+ThetheDTOPER0federalfederalNNPOPER0OfficeOfficeNNPORGPER0ofofINORGPER0ThriftThriftNNPORGPER0SupervisionSupervisionNNPORGPER0approvedapproveVBDOPER0thetheDTOPER0conversionconversionNNOPER0lastlastJJDATEPER0FridayFridayNNPDATEPER0,,,OPER0HomeFedHomeFedNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (NNP federal) (NNP Office)) (PP (IN of) (NP (NNP Thrift) (NNP Supervision)))) (VP (VBD approved) (NP (DT the) (NN conversion)) (NP (JJ last) (NNP Friday)))) (, ,) (NP (NNP HomeFed)) (VP (VBD said)) (. .)))
+ThetheDTOPER0changechangeNNOPER0ininINOPER0chartercharterNNOPER0doesdoVBZOPER0n'tnotRBOPER0alteralterVBOPER0thetheDTOPER0federalfederalJJOPER0insuranceinsuranceNNOPER0ofofINOPER0depositsdepositNNSOPER0,,,OPER0federalfederalJJOPER0regulatoryregulatoryJJOPER0powerspowerNNSOPER0ororCCOPER0companycompanyNNOPER0operationsoperationNNSOPER0,,,OPER0aaDTOPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (NN change)) (PP (IN in) (NP (NN charter)))) (VP (VBZ does) (RB n't) (VP (VB alter) (NP (NP (NP (DT the) (JJ federal) (NN insurance)) (PP (IN of) (NP (NNS deposits)))) (, ,) (NP (JJ federal) (JJ regulatory) (NNS powers)) (CC or) (NP (NN company) (NNS operations)))))) (, ,) (NP (DT a) (NN spokesman)) (VP (VBD said)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP HomeFed) (NNP Corp.))
+sid=0 spanning 3 until 13 headed by 5 parsed as (NP (NP (PRP$ its) (JJ main) (NN subsidiary)) (, ,) (NP (NNP Home) (NNP Federal) (NNP Savings) (CC &) (NNP Loan)) (, ,))
+sid=0 spanning 3 until 4 headed by 3 parsed as its
+sid=0 spanning 13 until 14 headed by 13 parsed as converted
+sid=0 spanning 27 until 28 headed by 27 parsed as its
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN conversion))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP HomeFed))
+sid=2 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN change)) (PP (IN in) (NP (NN charter))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP HomeFed) (NNP Corp.))
+sid=0 spanning 3 until 13 headed by 5 parsed as (NP (NP (PRP$ its) (JJ main) (NN subsidiary)) (, ,) (NP (NNP Home) (NNP Federal) (NNP Savings) (CC &) (NNP Loan)) (, ,))
+sid=0 spanning 3 until 6 headed by 5 parsed as (NP (PRP$ its) (JJ main) (NN subsidiary))
+sid=0 spanning 3 until 4 headed by 3 parsed as (PRP$ its)
+sid=0 spanning 7 until 12 headed by 9 parsed as (NP (NNP Home) (NNP Federal) (NNP Savings) (CC &) (NNP Loan))
+sid=0 spanning 15 until 20 headed by 17 parsed as (NP (DT a) (JJ federal) (NNS savings) (CC and) (NN loan))
+sid=0 spanning 21 until 25 headed by 24 parsed as (NP (DT a) (JJ federal) (NN savings) (NN bank))
+sid=0 spanning 27 until 29 headed by 28 parsed as (NP (PRP$ its) (NN name))
+sid=0 spanning 27 until 28 headed by 27 parsed as (PRP$ its)
+sid=0 spanning 30 until 32 headed by 31 parsed as (NP (NNP HomeFed) (NNP Bank))
+sid=1 spanning 0 until 6 headed by 2 parsed as (NP (NP (DT The) (NNP federal) (NNP Office)) (PP (IN of) (NP (NNP Thrift) (NNP Supervision))))
+sid=1 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN conversion))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (JJ last) (NNP Friday))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP HomeFed))
+sid=2 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN change)) (PP (IN in) (NP (NN charter))))
+sid=2 spanning 7 until 19 headed by 9 parsed as (NP (NP (NP (DT the) (JJ federal) (NN insurance)) (PP (IN of) (NP (NNS deposits)))) (, ,) (NP (JJ federal) (JJ regulatory) (NNS powers)) (CC or) (NP (NN company) (NNS operations)))
+sid=2 spanning 7 until 12 headed by 9 parsed as (NP (NP (DT the) (JJ federal) (NN insurance)) (PP (IN of) (NP (NNS deposits))))
+sid=2 spanning 11 until 12 headed by 11 parsed as (NP (NNS deposits))
+sid=2 spanning 13 until 16 headed by 15 parsed as (NP (JJ federal) (JJ regulatory) (NNS powers))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (NN company) (NNS operations))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT a) (NN spokesman))
+(end predicted mentions)
+---------gold clusters--------
+5 7 3 | { 'the conversion' 'The change in charter' 'converted' }
+0 2 6 | { 'HomeFed Corp.' 'its' 'HomeFed' }
+1 4 | { 'its main subsidiary , Home Federal Savings & Loan ,' 'its' }
+(end gold clusters)

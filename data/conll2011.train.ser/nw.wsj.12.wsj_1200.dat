@@ -1,0 +1,170 @@
+---------gloss--------
+(0) Japan 's production of cars , trucks and buses in [34m{September}[0m fell 4.1 % from a year ago to 1,120,317 units because of [33m{a slip in exports}[0m , [1m[32m{the Japan Automobile Manufacturers ' Association}[0m said . 
+(1) [1m[33m{Domestic demand}[0m continues to grow , but [1m[33m{its}[0m contribution to higher production was sapped in [34m{September}[0m by [33m{the estimated 2 % fall in imports , accompanied by a growing tendency for Japanese manufacturers to build vehicles overseas}[0m , according to [1m[32m{the association}[0m . 
+(2) [1m[32m{The association}[0m said domestic demand grew 8.8 % in [34m{September}[0m . 
+(3) Demand has been growing consistently under the encouragement of pro-consumption government policies , [1m[31m{an association spokesman}[0m said . 
+(4) [1m[31m{He}[0m also said the introduction of [35m{a 3 % consumption tax}[0m in April has helped sales . 
+(5) [35m{The new tax , though a source of general resentment among Japanese taxpayers ,}[0m replaced a higher commodities tax that applied to automobiles . 
+(6) Japanese domestic motor - vehicle sales rose 12 % in [34m{September}[0m , the Japan Automobile Dealers ' Association said earlier this [1m[34m{month}[0m . 
+(7) [1m[32m{The manufacturers ' association}[0m will issue statistics on vehicle exports later this [1m[34m{month}[0m . 
+(8) Production of cars rose to 801,835 units in [34m{September}[0m , a 5.5 % increase from a year earlier . 
+(9) Midsized cars accounted for the greatest growth in units , rising 62,872 units to 134,550 units , or 88 % . 
+(10) Minicar output more than tripled . 
+(11) Manufacturers produced 46,835 of the vehicles -- which have engines of 500 cubic centimeters or less -- an increase of 31,777 units . 
+(12) Total truck production fell 22 % from a year earlier to 315,546 units . 
+(13) Minitruck production fell 13 % to 94,243 units . 
+(14) Bus production also slipped , by 49 % from a year earlier to 2,936 units . 
+(15) [1m[31m{The association spokesman}[0m said bus production has [36m{declined}[0m since January , but could n't offer an explanation for [36m{the fall}[0m . 
+(16) Auto production for the first half of the fiscal year , which began in August , totaled 6,379,884 units , [1m[32m{the association}[0m said . 
+(17) Half - year production was up 3.4 % compared with the same period a year earlier . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1200); part 000
+sentences:
+JapanJapanNNPGPEPER0's'sPOSOPER0productionproductionNNOPER0ofofINOPER0carscarNNSOPER0,,,OPER0truckstruckNNSOPER0andandCCOPER0busesbusNNSOPER0ininINOPER0SeptemberSeptemberNNPDATEPER0fellfallVBDOPER04.14.1CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0agoagoRBDATEPER0totoINOPER01,120,3171,120,317CDCARDINALPER0unitsunitNNSOPER0becausebecauseINOPER0ofofINOPER0aaDTOPER0slipslipNNOPER0ininINOPER0exportsexportNNSOPER0,,,OPER0thetheDTORGPER0JapanJapanNNPORGPER0AutomobileAutomobileNNPORGPER0ManufacturersManufacturersNNPSORGPER0''POSORGPER0AssociationAssociationNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NP (NNP Japan) (POS 's)) (NN production)) (PP (IN of) (NP (NNS cars) (, ,) (NNS trucks) (CC and) (NNS buses)))) (PP (IN in) (NP (NNP September))) (VP (VBD fell) (NP (CD 4.1) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago))) (PP (IN to) (NP (CD 1,120,317) (NNS units))) (PP (IN because) (IN of) (NP (NP (DT a) (NN slip)) (PP (IN in) (NP (NNS exports))))))) (, ,) (NP (NP (DT the) (NNP Japan) (NNP Automobile) (NNPS Manufacturers) (POS ')) (NNP Association)) (VP (VBD said)) (. .)))
+DomesticdomesticJJOPER0demanddemandNNOPER0continuescontinueVBZOPER0totoTOOPER0growgrowVBOPER0,,,OPER0butbutCCOPER0itsitsPRP$OPER0contributioncontributionNNOPER0totoINOPER0higherhigherJJROPER0productionproductionNNOPER0wasbeVBDOPER0sappedsapVBNOPER0ininINOPER0SeptemberSeptemberNNPDATEPER0bybyINOPER0thetheDTOPER0estimatedestimateVBNOPER022CDPERCENTPER0%%NNPERCENTPER0fallfallNNOPER0ininINOPER0importsimportNNSOPER0,,,OPER0accompaniedaccompanyVBNOPER0bybyINOPER0aaDTOPER0growinggrowVBGOPER0tendencytendencyNNOPER0forforINOPER0JapanesejapaneseJJOPER0manufacturersmanufacturerNNSOPER0totoTOOPER0buildbuildVBOPER0vehiclesvehicleNNSOPER0overseasoverseasRBOPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0thetheDTOPER0associationassociationNNOPER0...OPER0(ROOT (S (S (NP (JJ Domestic) (NN demand)) (VP (VBZ continues) (S (VP (TO to) (VP (VB grow)))))) (, ,) (CC but) (S (NP (NP (PRP$ its) (NN contribution)) (PP (IN to) (NP (JJR higher) (NN production)))) (VP (VBD was) (VP (VBN sapped) (PP (IN in) (NP (NNP September))) (PP (IN by) (NP (NP (DT the) (VBN estimated) (NML (CD 2) (NN %)) (NN fall)) (PP (IN in) (NP (NP (NNS imports)) (, ,) (VP (VBN accompanied) (PP (IN by) (NP (NP (DT a) (VBG growing) (NN tendency)) (SBAR (IN for) (S (NP (JJ Japanese) (NNS manufacturers)) (VP (TO to) (VP (VB build) (NP (NP (NNS vehicles)) (ADVP (RB overseas)))))))))))))) (, ,) (PP (VBG according) (PP (IN to) (NP (DT the) (NN association))))))) (. .)))
+ThetheDTOPER0associationassociationNNOPER0saidsayVBDOPER0domesticdomesticJJOPER0demanddemandNNOPER0grewgrowVBDOPER08.88.8CDPERCENTPER0%%NNPERCENTPER0ininINOPER0SeptemberSeptemberNNPDATEPER0...OPER0(ROOT (S (NP (DT The) (NN association)) (VP (VBD said) (SBAR (S (NP (JJ domestic) (NN demand)) (VP (VBD grew) (NP (CD 8.8) (NN %)) (PP (IN in) (NP (NNP September))))))) (. .)))
+DemanddemandNNOPER0hashaveVBZOPER0beenbeVBNOPER0growinggrowVBGOPER0consistentlyconsistentlyRBOPER0underunderINOPER0thetheDTOPER0encouragementencouragementNNOPER0ofofINOPER0pro-consumptionpro-consumptionJJOPER0governmentgovernmentNNOPER0policiespolicyNNSOPER0,,,OPER0anaDTOPER0associationassociationNNOPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NN Demand)) (VP (VBZ has) (VP (VBN been) (VP (VBG growing) (ADVP (RB consistently)) (PP (IN under) (NP (NP (DT the) (NN encouragement)) (PP (IN of) (NP (JJ pro-consumption) (NN government) (NNS policies))))))))) (, ,) (NP (DT an) (NN association) (NN spokesman)) (VP (VBD said)) (. .)))
+HehePRPOPER0alsoalsoRBOPER0saidsayVBDOPER0thetheDTOPER0introductionintroductionNNOPER0ofofINOPER0aaDTOPER033CDPERCENTPER0%%NNPERCENTPER0consumptionconsumptionNNOPER0taxtaxNNOPER0ininINOPER0AprilAprilNNPDATEPER0hashaveVBZOPER0helpedhelpVBDOPER0salessaleNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (NP (DT a) (NML (CD 3) (NN %)) (NN consumption) (NN tax)) (PP (IN in) (NP (NNP April)))))) (VP (VBZ has) (VP (VBD helped) (NP (NNS sales))))))) (. .)))
+ThetheDTOPER0newnewJJOPER0taxtaxNNOPER0,,,OPER0thoughthoughRBOPER0aaDTOPER0sourcesourceNNOPER0ofofINOPER0generalgeneralJJOPER0resentmentresentmentNNOPER0amongamongINOPER0JapanesejapaneseJJOPER0taxpayerstaxpayerNNSOPER0,,,OPER0replacedreplaceVBDOPER0aaDTOPER0higherhigherJJROPER0commoditiescommodityNNSOPER0taxtaxNNOPER0thatthatINOPER0appliedapplyVBNOPER0totoINOPER0automobilesautomobileNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ new) (NN tax)) (, ,) (RRC (ADVP (RB though)) (NP (NP (DT a) (NN source)) (PP (IN of) (NP (NP (JJ general) (NN resentment)) (PP (IN among) (NP (JJ Japanese) (NNS taxpayers))))))) (, ,)) (VP (VBD replaced) (NP (DT a) (NML (JJR higher) (NNS commodities)) (NN tax)) (SBAR (IN that) (S (VP (VBN applied) (PP (IN to) (NP (NNS automobiles))))))) (. .)))
+JapanesejapaneseJJOPER0domesticdomesticJJOPER0motormotorNNOPER0--HYPHOPER0vehiclevehicleNNOPER0salessaleNNSOPER0roseriseVBDOPER01212CDPERCENTPER0%%NNPERCENTPER0ininINOPER0SeptemberSeptemberNNPDATEPER0,,,OPER0thetheDTORGPER0JapanJapanNNPORGPER0AutomobileAutomobileNNPORGPER0DealersDealersNNPSORGPER0''POSORGPER0AssociationAssociationNNPORGPER0saidsayVBDOPER0earlierearlierRBRDATEPER0thisthisDTDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (S (NP (JJ Japanese) (JJ domestic) (NML (NN motor) (HYPH -) (NN vehicle)) (NNS sales)) (VP (VBD rose) (NP (CD 12) (NN %)) (PP (IN in) (NP (NNP September))))) (, ,) (NP (NP (DT the) (NNP Japan) (NNP Automobile) (NNPS Dealers) (POS ')) (NNP Association)) (VP (VBD said) (NP (ADVP (RBR earlier)) (DT this) (NN month))) (. .)))
+ThetheDTOPER0manufacturersmanufacturerNNSOPER0''POSOPER0associationassociationNNOPER0willwillMDOPER0issueissueVBOPER0statisticsstatisticsNNSOPER0ononINOPER0vehiclevehicleNNOPER0exportsexportNNSOPER0laterlaterRBDATEPER0thisthisDTDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NNS manufacturers) (POS ')) (NN association)) (VP (MD will) (VP (VB issue) (NP (NP (NNS statistics)) (PP (IN on) (NP (NN vehicle) (NNS exports)))) (NP (ADVP (RB later)) (DT this) (NN month)))) (. .)))
+ProductionproductionNNOPER0ofofINOPER0carscarNNSOPER0roseriseVBDOPER0totoINOPER0801,835801,835CDCARDINALPER0unitsunitNNSOPER0ininINOPER0SeptemberSeptemberNNPDATEPER0,,,OPER0aaDTOPER05.55.5CDPERCENTPER0%%NNPERCENTPER0increaseincreaseNNOPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (NP (NN Production)) (PP (IN of) (NP (NNS cars)))) (VP (VBD rose) (PP (IN to) (NP (CD 801,835) (NNS units))) (PP (IN in) (NP (NP (NNP September)) (, ,) (NP (NP (DT a) (NML (CD 5.5) (NN %)) (NN increase)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+MidsizedmidsizedJJOPER0carscarNNSOPER0accountedaccountVBDOPER0forforINOPER0thetheDTOPER0greatestgreatestJJSOPER0growthgrowthNNOPER0ininINOPER0unitsunitNNSOPER0,,,OPER0risingriseVBGOPER062,87262,872CDCARDINALPER0unitsunitNNSOPER0totoINOPER0134,550134,550CDCARDINALPER0unitsunitNNSOPER0,,,OPER0ororCCOPER08888CDPERCENTPER0%%NNPERCENTPER0...OPER0(ROOT (S (NP (JJ Midsized) (NNS cars)) (VP (VBD accounted) (PP (IN for) (NP (NP (DT the) (JJS greatest) (NN growth)) (PP (IN in) (NP (NNS units))))) (, ,) (S (VP (VBG rising) (NP (CD 62,872) (NNS units)) (PP (IN to) (NP (NP (CD 134,550) (NNS units)) (, ,) (NP (QP (CC or) (CD 88)) (NN %))))))) (. .)))
+MinicarminicarNNOPER0outputoutputNNOPER0moremoreRBROPER0thanthanINOPER0tripledtripleVBDOPER0...OPER0(ROOT (S (NP (NN Minicar) (NN output)) (ADVP (RBR more) (IN than)) (VP (VBD tripled)) (. .)))
+ManufacturersmanufacturerNNSOPER0producedproduceVBDOPER046,83546,835CDCARDINALPER0ofofINOPER0thetheDTOPER0vehiclesvehicleNNSOPER0----:OPER0whichwhichWDTOPER0havehaveVBPOPER0enginesengineNNSOPER0ofofINOPER0500500CDQUANTITYPER0cubiccubicJJQUANTITYPER0centimeterscentimeterNNSQUANTITYPER0ororCCQUANTITYPER0lesslessJJRQUANTITYPER0----:OPER0anaDTOPER0increaseincreaseNNOPER0ofofINOPER031,77731,777CDCARDINALPER0unitsunitNNSOPER0...OPER0(ROOT (S (NP (NNS Manufacturers)) (VP (VBD produced) (NP (NP (CD 46,835)) (PP (IN of) (NP (NP (DT the) (NNS vehicles)) (: --) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (NP (NNS engines)) (PP (IN of) (NP (NP (CD 500) (JJ cubic) (NNS centimeters)) (CC or) (NP (JJR less)))))))) (: --)))) (NP (NP (DT an) (NN increase)) (PP (IN of) (NP (CD 31,777) (NNS units))))) (. .)))
+TotaltotalJJOPER0trucktruckNNOPER0productionproductionNNOPER0fellfallVBDOPER02222CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0totoINOPER0315,546315,546CDCARDINALPER0unitsunitNNSOPER0...OPER0(ROOT (S (NP (JJ Total) (NN truck) (NN production)) (VP (VBD fell) (NP (CD 22) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))) (PP (IN to) (NP (CD 315,546) (NNS units)))) (. .)))
+MinitruckMinitruckNNPOPER0productionproductionNNOPER0fellfallVBDOPER01313CDPERCENTPER0%%NNPERCENTPER0totoINOPER094,24394,243CDCARDINALPER0unitsunitNNSOPER0...OPER0(ROOT (S (NP (NNP Minitruck) (NN production)) (VP (VBD fell) (NP (CD 13) (NN %)) (PP (IN to) (NP (CD 94,243) (NNS units)))) (. .)))
+BusbusNNOPER0productionproductionNNOPER0alsoalsoRBOPER0slippedslipVBDOPER0,,,OPER0bybyINOPER04949CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0totoINOPER02,9362,936CDCARDINALPER0unitsunitNNSOPER0...OPER0(ROOT (S (NP (NN Bus) (NN production)) (ADVP (RB also)) (VP (VBD slipped) (, ,) (PP (IN by) (NP (CD 49) (NN %))) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))) (PP (IN to) (NP (CD 2,936) (NNS units)))) (. .)))
+ThetheDTOPER0associationassociationNNOPER0spokesmanspokesmanNNOPER0saidsayVBDOPER0busbusNNOPER0productionproductionNNOPER0hashaveVBZOPER0declineddeclineVBNOPER0sincesinceINOPER0JanuaryJanuaryNNPDATEPER0,,,OPER0butbutCCOPER0couldcouldMDOPER0n'tnotRBOPER0offerofferVBOPER0anaDTOPER0explanationexplanationNNOPER0forforINOPER0thetheDTDATEPER0fallfallNNDATEPER0...OPER0(ROOT (S (NP (DT The) (NN association) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (NN bus) (NN production)) (VP (VP (VBZ has) (VP (VBN declined) (PP (IN since) (NP (NNP January))))) (, ,) (CC but) (VP (MD could) (RB n't) (VP (VB offer) (NP (NP (DT an) (NN explanation)) (PP (IN for) (NP (DT the) (NN fall)))))))))) (. .)))
+AutoautoNNOPER0productionproductionNNOPER0forforINOPER0thetheDTDATEPER0firstfirstJJDATEPER0halfhalfNNDATEPER0ofofINDATEPER0thetheDTDATEPER0fiscalfiscalJJDATEPER0yearyearNNDATEPER0,,,OPER0whichwhichWDTOPER0beganbeginVBDOPER0ininINOPER0AugustAugustNNPDATEPER0,,,OPER0totaledtotalVBDOPER06,379,8846,379,884CDCARDINALPER0unitsunitNNSOPER0,,,OPER0thetheDTOPER0associationassociationNNOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NP (NP (NN Auto) (NN production)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (DT the) (JJ fiscal) (NN year)))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD began) (PP (IN in) (NP (NNP August)))))) (, ,)) (VP (VBD totaled) (NP (CD 6,379,884) (NNS units)))) (, ,) (NP (DT the) (NN association)) (VP (VBD said)) (. .)))
+HalfhalfCDCARDINALPER0--HYPHOPER0yearyearNNDATEPER0productionproductionNNOPER0wasbeVBDOPER0upupRPOPER03.43.4CDPERCENTPER0%%NNPERCENTPER0comparedcompareVBNOPER0withwithINOPER0thetheDTOPER0samesameJJOPER0periodperiodNNOPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (NML (CD Half) (HYPH -) (NN year)) (NN production)) (VP (VBD was) (PRT (RP up)) (NP (CD 3.4) (NN %)) (PP (VBN compared) (PP (IN with) (NP (DT the) (JJ same) (NN period)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP September))
+sid=0 spanning 23 until 27 headed by 24 parsed as (NP (NP (DT a) (NN slip)) (PP (IN in) (NP (NNS exports))))
+sid=0 spanning 28 until 34 headed by 33 parsed as (NP (NP (DT the) (NNP Japan) (NNP Automobile) (NNPS Manufacturers) (POS ')) (NNP Association))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (JJ Domestic) (NN demand))
+sid=1 spanning 7 until 8 headed by 7 parsed as its
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP September))
+sid=1 spanning 17 until 37 headed by 21 parsed as (NP (NP (DT the) (VBN estimated) (NML (CD 2) (NN %)) (NN fall)) (PP (IN in) (NP (NP (NNS imports)) (, ,) (VP (VBN accompanied) (PP (IN by) (NP (NP (DT a) (VBG growing) (NN tendency)) (SBAR (IN for) (S (NP (JJ Japanese) (NNS manufacturers)) (VP (TO to) (VP (VB build) (NP (NP (NNS vehicles)) (ADVP (RB overseas)))))))))))))
+sid=1 spanning 40 until 42 headed by 41 parsed as (NP (DT the) (NN association))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN association))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP September))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT an) (NN association) (NN spokesman))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 6 until 11 headed by 10 parsed as (NP (NP (DT a) (NML (CD 3) (NN %)) (NN consumption) (NN tax)) (PP (IN in) (NP (NNP April))))
+sid=5 spanning 0 until 14 headed by 2 parsed as (NP (NP (DT The) (JJ new) (NN tax)) (, ,) (RRC (ADVP (RB though)) (NP (NP (DT a) (NN source)) (PP (IN of) (NP (NP (JJ general) (NN resentment)) (PP (IN among) (NP (JJ Japanese) (NNS taxpayers))))))) (, ,))
+sid=6 spanning 10 until 11 headed by 10 parsed as (NP (NNP September))
+sid=6 spanning 21 until 22 headed by 21 parsed as (NP (ADVP (RBR earlier)) (DT this) (NN month))
+sid=7 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NNS manufacturers) (POS ')) (NN association))
+sid=7 spanning 12 until 13 headed by 12 parsed as (NP (ADVP (RB later)) (DT this) (NN month))
+sid=8 spanning 8 until 9 headed by 8 parsed as (NP (NP (NNP September)) (, ,) (NP (NP (DT a) (NML (CD 5.5) (NN %)) (NN increase)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))
+sid=15 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN association) (NN spokesman))
+sid=15 spanning 7 until 8 headed by 7 parsed as declined
+sid=15 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN fall))
+sid=16 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN association))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 2 parsed as (NP (NP (NP (NNP Japan) (POS 's)) (NN production)) (PP (IN of) (NP (NNS cars) (, ,) (NNS trucks) (CC and) (NNS buses))))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Japan) (POS 's))
+sid=0 spanning 4 until 9 headed by 4 parsed as (NP (NNS cars) (, ,) (NNS trucks) (CC and) (NNS buses))
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP September))
+sid=0 spanning 15 until 18 headed by 17 parsed as ago
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (CD 1,120,317) (NNS units))
+sid=0 spanning 23 until 27 headed by 24 parsed as (NP (NP (DT a) (NN slip)) (PP (IN in) (NP (NNS exports))))
+sid=0 spanning 26 until 27 headed by 26 parsed as (NP (NNS exports))
+sid=0 spanning 28 until 34 headed by 33 parsed as (NP (NP (DT the) (NNP Japan) (NNP Automobile) (NNPS Manufacturers) (POS ')) (NNP Association))
+sid=1 spanning 7 until 12 headed by 8 parsed as (NP (NP (PRP$ its) (NN contribution)) (PP (IN to) (NP (JJR higher) (NN production))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=1 spanning 10 until 12 headed by 11 parsed as (NP (JJR higher) (NN production))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP September))
+sid=1 spanning 17 until 37 headed by 21 parsed as (NP (NP (DT the) (VBN estimated) (NML (CD 2) (NN %)) (NN fall)) (PP (IN in) (NP (NP (NNS imports)) (, ,) (VP (VBN accompanied) (PP (IN by) (NP (NP (DT a) (VBG growing) (NN tendency)) (SBAR (IN for) (S (NP (JJ Japanese) (NNS manufacturers)) (VP (TO to) (VP (VB build) (NP (NP (NNS vehicles)) (ADVP (RB overseas)))))))))))))
+sid=1 spanning 23 until 37 headed by 23 parsed as (NP (NP (NNS imports)) (, ,) (VP (VBN accompanied) (PP (IN by) (NP (NP (DT a) (VBG growing) (NN tendency)) (SBAR (IN for) (S (NP (JJ Japanese) (NNS manufacturers)) (VP (TO to) (VP (VB build) (NP (NP (NNS vehicles)) (ADVP (RB overseas)))))))))))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (NNS imports))
+sid=1 spanning 27 until 37 headed by 29 parsed as (NP (NP (DT a) (VBG growing) (NN tendency)) (SBAR (IN for) (S (NP (JJ Japanese) (NNS manufacturers)) (VP (TO to) (VP (VB build) (NP (NP (NNS vehicles)) (ADVP (RB overseas))))))))
+sid=1 spanning 31 until 33 headed by 32 parsed as (NP (JJ Japanese) (NNS manufacturers))
+sid=1 spanning 35 until 37 headed by 35 parsed as (NP (NP (NNS vehicles)) (ADVP (RB overseas)))
+sid=1 spanning 40 until 42 headed by 41 parsed as (NP (DT the) (NN association))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN association))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP September))
+sid=3 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT the) (NN encouragement)) (PP (IN of) (NP (JJ pro-consumption) (NN government) (NNS policies))))
+sid=3 spanning 9 until 12 headed by 11 parsed as (NP (JJ pro-consumption) (NN government) (NNS policies))
+sid=3 spanning 13 until 16 headed by 15 parsed as (NP (DT an) (NN association) (NN spokesman))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 3 until 13 headed by 4 parsed as (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (NP (DT a) (NML (CD 3) (NN %)) (NN consumption) (NN tax)) (PP (IN in) (NP (NNP April))))))
+sid=4 spanning 6 until 13 headed by 10 parsed as (NP (NP (DT a) (NML (CD 3) (NN %)) (NN consumption) (NN tax)) (PP (IN in) (NP (NNP April))))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (NNP April))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (NNS sales))
+sid=5 spanning 0 until 14 headed by 2 parsed as (NP (NP (DT The) (JJ new) (NN tax)) (, ,) (RRC (ADVP (RB though)) (NP (NP (DT a) (NN source)) (PP (IN of) (NP (NP (JJ general) (NN resentment)) (PP (IN among) (NP (JJ Japanese) (NNS taxpayers))))))) (, ,))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ new) (NN tax))
+sid=5 spanning 5 until 13 headed by 6 parsed as (NP (NP (DT a) (NN source)) (PP (IN of) (NP (NP (JJ general) (NN resentment)) (PP (IN among) (NP (JJ Japanese) (NNS taxpayers))))))
+sid=5 spanning 11 until 13 headed by 12 parsed as (NP (JJ Japanese) (NNS taxpayers))
+sid=5 spanning 15 until 19 headed by 18 parsed as (NP (DT a) (NML (JJR higher) (NNS commodities)) (NN tax))
+sid=5 spanning 22 until 23 headed by 22 parsed as (NP (NNS automobiles))
+sid=6 spanning 0 until 6 headed by 5 parsed as (NP (JJ Japanese) (JJ domestic) (NML (NN motor) (HYPH -) (NN vehicle)) (NNS sales))
+sid=6 spanning 10 until 11 headed by 10 parsed as (NP (NNP September))
+sid=6 spanning 12 until 18 headed by 17 parsed as (NP (NP (DT the) (NNP Japan) (NNP Automobile) (NNPS Dealers) (POS ')) (NNP Association))
+sid=6 spanning 19 until 22 headed by 21 parsed as (NP (ADVP (RBR earlier)) (DT this) (NN month))
+sid=7 spanning 0 until 4 headed by 3 parsed as (NP (NP (DT The) (NNS manufacturers) (POS ')) (NN association))
+sid=7 spanning 0 until 3 headed by 1 parsed as (NP (DT The) (NNS manufacturers) (POS '))
+sid=7 spanning 6 until 10 headed by 6 parsed as (NP (NP (NNS statistics)) (PP (IN on) (NP (NN vehicle) (NNS exports))))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (NN vehicle) (NNS exports))
+sid=7 spanning 10 until 13 headed by 12 parsed as (NP (ADVP (RB later)) (DT this) (NN month))
+sid=8 spanning 0 until 3 headed by 0 parsed as (NP (NP (NN Production)) (PP (IN of) (NP (NNS cars))))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (NNS cars))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (CD 801,835) (NNS units))
+sid=8 spanning 8 until 9 headed by 8 parsed as (NP (NP (NNP September)) (, ,) (NP (NP (DT a) (NML (CD 5.5) (NN %)) (NN increase)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))
+sid=8 spanning 8 until 18 headed by 8 parsed as (NP (NP (NNP September)) (, ,) (NP (NP (DT a) (NML (CD 5.5) (NN %)) (NN increase)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))
+sid=8 spanning 10 until 18 headed by 13 parsed as (NP (NP (DT a) (NML (CD 5.5) (NN %)) (NN increase)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))
+sid=8 spanning 15 until 18 headed by 17 parsed as earlier
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (JJ Midsized) (NNS cars))
+sid=9 spanning 4 until 9 headed by 6 parsed as (NP (NP (DT the) (JJS greatest) (NN growth)) (PP (IN in) (NP (NNS units))))
+sid=9 spanning 8 until 9 headed by 8 parsed as (NP (NNS units))
+sid=9 spanning 11 until 13 headed by 12 parsed as (NP (CD 62,872) (NNS units))
+sid=9 spanning 14 until 20 headed by 15 parsed as (NP (NP (CD 134,550) (NNS units)) (, ,) (NP (QP (CC or) (CD 88)) (NN %)))
+sid=9 spanning 14 until 16 headed by 15 parsed as (NP (CD 134,550) (NNS units))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (NN Minicar) (NN output))
+sid=11 spanning 0 until 1 headed by 0 parsed as (NP (NNS Manufacturers))
+sid=11 spanning 2 until 17 headed by 2 parsed as (NP (NP (CD 46,835)) (PP (IN of) (NP (NP (DT the) (NNS vehicles)) (: --) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (NP (NNS engines)) (PP (IN of) (NP (NP (CD 500) (JJ cubic) (NNS centimeters)) (CC or) (NP (JJR less)))))))) (: --))))
+sid=11 spanning 4 until 17 headed by 5 parsed as (NP (NP (DT the) (NNS vehicles)) (: --) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (NP (NP (NNS engines)) (PP (IN of) (NP (NP (CD 500) (JJ cubic) (NNS centimeters)) (CC or) (NP (JJR less)))))))) (: --))
+sid=11 spanning 9 until 16 headed by 9 parsed as (NP (NP (NNS engines)) (PP (IN of) (NP (NP (CD 500) (JJ cubic) (NNS centimeters)) (CC or) (NP (JJR less)))))
+sid=11 spanning 11 until 16 headed by 13 parsed as (NP (NP (CD 500) (JJ cubic) (NNS centimeters)) (CC or) (NP (JJR less)))
+sid=11 spanning 11 until 14 headed by 13 parsed as (NP (CD 500) (JJ cubic) (NNS centimeters))
+sid=11 spanning 15 until 16 headed by 15 parsed as (NP (JJR less))
+sid=11 spanning 17 until 22 headed by 18 parsed as (NP (NP (DT an) (NN increase)) (PP (IN of) (NP (CD 31,777) (NNS units))))
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (CD 31,777) (NNS units))
+sid=12 spanning 7 until 10 headed by 9 parsed as earlier
+sid=12 spanning 11 until 13 headed by 12 parsed as (NP (CD 315,546) (NNS units))
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP Minitruck) (NN production))
+sid=13 spanning 6 until 8 headed by 7 parsed as (NP (CD 94,243) (NNS units))
+sid=14 spanning 0 until 2 headed by 1 parsed as (NP (NN Bus) (NN production))
+sid=14 spanning 9 until 12 headed by 11 parsed as earlier
+sid=14 spanning 13 until 15 headed by 14 parsed as (NP (CD 2,936) (NNS units))
+sid=15 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN association) (NN spokesman))
+sid=15 spanning 4 until 6 headed by 5 parsed as (NP (NN bus) (NN production))
+sid=15 spanning 9 until 10 headed by 9 parsed as (NP (NNP January))
+sid=15 spanning 15 until 20 headed by 16 parsed as (NP (NP (DT an) (NN explanation)) (PP (IN for) (NP (DT the) (NN fall))))
+sid=15 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN fall))
+sid=16 spanning 0 until 16 headed by 1 parsed as (NP (NP (NP (NN Auto) (NN production)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (DT the) (JJ fiscal) (NN year)))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD began) (PP (IN in) (NP (NNP August)))))) (, ,))
+sid=16 spanning 0 until 10 headed by 1 parsed as (NP (NP (NN Auto) (NN production)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (DT the) (JJ fiscal) (NN year))))))
+sid=16 spanning 3 until 10 headed by 5 parsed as (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (DT the) (JJ fiscal) (NN year))))
+sid=16 spanning 14 until 15 headed by 14 parsed as (NP (NNP August))
+sid=16 spanning 17 until 19 headed by 18 parsed as (NP (CD 6,379,884) (NNS units))
+sid=16 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN association))
+sid=17 spanning 0 until 4 headed by 3 parsed as (NP (NML (CD Half) (HYPH -) (NN year)) (NN production))
+sid=17 spanning 2 until 3 headed by 2 parsed as year
+sid=17 spanning 10 until 13 headed by 12 parsed as (NP (DT the) (JJ same) (NN period))
+sid=17 spanning 13 until 16 headed by 15 parsed as earlier
+(end predicted mentions)
+---------gold clusters--------
+6 1 | { 'the estimated 2 % fall in imports , accompanied by a growing tendency for Japanese manufacturers to build vehicles overseas' 'a slip in exports' }
+18 14 0 5 9 | { 'September' 'September' 'September' 'September' 'September' }
+13 12 | { 'The new tax , though a source of general resentment among Japanese taxpayers ,' 'a 3 % consumption tax' }
+20 21 | { 'declined' 'the fall' }
+10 11 19 | { 'an association spokesman' 'He' 'The association spokesman' }
+2 16 8 7 22 | { 'the Japan Automobile Manufacturers ' Association' 'The manufacturers ' association' 'The association' 'the association' 'the association' }
+4 3 | { 'its' 'Domestic demand' }
+17 15 | { 'month' 'month' }
+(end gold clusters)

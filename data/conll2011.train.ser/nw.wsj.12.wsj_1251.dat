@@ -1,0 +1,118 @@
+---------gloss--------
+(0) Fatalities on [32m{rural interstates}[0m rose 33 % between [4m[36m{1986}[0m and [4m[34m{last year}[0m , [31m{the National Highway Traffic Safety Administration}[0m said in [4m[33m{a report on the impact of the 65 miles - per - hour speed limit on those roads}[0m . 
+(1) [4m[33m{The report to Congress}[0m said that fatalities rose 18 % in [33m{1987}[0m and 13 % in [4m[34m{1988}[0m on rural interstates . 
+(2) The 1987 highway bill permitted states to raise the speed limit to 65 mph from 55 mph on interstate roads , which are defined as highways that pass through areas with fewer than 50,000 people . 
+(3) Since [33m{1987}[0m , [4m[35m{40 states}[0m have increased the speed limit on rural interstates . 
+(4) `` About one - third of the fatality increase is attributed to greater travel , and about two - thirds is attributed to other factors -LCB- primarily to greater speed -RCB- , '' according to [31m{NHTSA}[0m . 
+(5) [4m[33m{The report}[0m showed that deaths on urban interstate highways rose 7 % between [4m[36m{1986}[0m and [4m[34m{last year}[0m , while fatalities on non-interstate roads were about the same in [4m[34m{1988}[0m as in [4m[36m{1986}[0m . 
+(6) In [4m[35m{states that raised the speed limit on rural interstates}[0m , the fatality rate rose about 18 % to 1.7 deaths per 100 million miles traveled between [4m[36m{1986}[0m and [4m[34m{1988}[0m . 
+(7) In contrast , the fatality rate in the states that retained the 55 mph limit was 0.9 [4m[34m{last year}[0m , the same as in [4m[36m{1986}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1251); part 000
+sentences:
+FatalitiesfatalityNNSOPER0ononINOPER0ruralruralJJOPER0interstatesinterstateNNSOPER0roseriseVBDOPER03333CDPERCENTPER0%%NNPERCENTPER0betweenbetweenINDATEPER019861986CDDATEPER0andandCCDATEPER0lastlastJJDATEPER0yearyearNNDATEPER0,,,OPER0thetheDTORGPER0NationalNationalNNPORGPER0HighwayHighwayNNPORGPER0TrafficTrafficNNPORGPER0SafetySafetyNNPORGPER0AdministrationAdministrationNNPORGPER0saidsayVBDOPER0ininINOPER0aaDTOPER0reportreportNNOPER0ononINOPER0thetheDTOPER0impactimpactNNOPER0ofofINOPER0thetheDTOPER06565CDQUANTITYPER0milesmileNNSQUANTITYPER0--HYPHQUANTITYPER0perperINQUANTITYPER0--HYPHQUANTITYPER0hourhourNNQUANTITYPER0speedspeedNNOPER0limitlimitNNOPER0ononINOPER0thosethoseDTOPER0roadsroadNNSOPER0...OPER0(ROOT (S (S (NP (NP (NNS Fatalities)) (PP (IN on) (NP (JJ rural) (NNS interstates)))) (VP (VBD rose) (NP (CD 33) (NN %)) (PP (IN between) (NP (NP (CD 1986)) (CC and) (NP (JJ last) (NN year)))))) (, ,) (NP (DT the) (NNP National) (NML (NNP Highway) (NNP Traffic) (NNP Safety)) (NNP Administration)) (VP (VBD said) (PP (IN in) (NP (NP (DT a) (NN report)) (PP (IN on) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NP (DT the) (NML (NML (CD 65) (NNS miles)) (HYPH -) (PP (IN per) (HYPH -) (NP (NN hour)))) (NN speed) (NN limit)) (PP (IN on) (NP (DT those) (NNS roads)))))))))) (. .)))
+ThetheDTOPER0reportreportNNOPER0totoINOPER0CongressCongressNNPORGPER0saidsayVBDOPER0thatthatINOPER0fatalitiesfatalityNNSOPER0roseriseVBDOPER01818CDPERCENTPER0%%NNPERCENTPER0ininINOPER019871987CDDATEPER0andandCCOPER01313CDPERCENTPER0%%NNPERCENTPER0ininINOPER019881988CDDATEPER0ononINOPER0ruralruralJJOPER0interstatesinterstateNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN report)) (PP (IN to) (NP (NNP Congress)))) (VP (VBD said) (SBAR (IN that) (S (NP (NNS fatalities)) (VP (VBD rose) (NP (NP (NP (CD 18) (NN %)) (PP (IN in) (NP (CD 1987)))) (CC and) (NP (CD 13) (NN %))) (PP (IN in) (NP (CD 1988))) (PP (IN on) (NP (JJ rural) (NNS interstates))))))) (. .)))
+ThetheDTOPER019871987CDDATEPER0highwayhighwayNNOPER0billbillNNOPER0permittedpermitVBNOPER0statesstateVBZOPER0totoTOOPER0raiseraiseVBOPER0thetheDTOPER0speedspeedNNOPER0limitlimitNNOPER0totoINOPER06565CDQUANTITYPER0mphmphNNQUANTITYPER0fromfromINOPER05555CDQUANTITYPER0mphmphNNQUANTITYPER0ononINOPER0interstateinterstateJJOPER0roadsroadNNSOPER0,,,OPER0whichwhichWDTOPER0arebeVBPOPER0defineddefineVBNOPER0asasINOPER0highwayshighwayNNSOPER0thatthatWDTOPER0passpassVBPOPER0throughthroughINOPER0areasareaNNSOPER0withwithINOPER0fewerfewerJJRCARDINALPER0thanthanINCARDINALPER050,00050,000CDCARDINALPER0peoplepeopleNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (CD 1987) (NN highway) (NN bill)) (VP (VBN permitted))) (VP (VBZ states) (S (VP (TO to) (VP (VB raise) (NP (NP (DT the) (NN speed) (NN limit)) (PP (IN to) (NP (CD 65) (NN mph)))) (PP (IN from) (NP (CD 55) (NN mph))) (PP (IN on) (NP (NP (JJ interstate) (NNS roads)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN defined) (PP (IN as) (NP (NP (NNS highways)) (SBAR (WHNP (WDT that)) (S (VP (VBP pass) (PP (IN through) (NP (NP (NNS areas)) (PP (IN with) (NP (QP (XS (JJR fewer) (IN than)) (CD 50,000)) (NNS people)))))))))))))))))))) (. .)))
+SincesinceINOPER019871987CDDATEPER0,,,OPER04040CDCARDINALPER0statesstateNNSOPER0havehaveVBPOPER0increasedincreaseVBNOPER0thetheDTOPER0speedspeedNNOPER0limitlimitNNOPER0ononINOPER0ruralruralJJOPER0interstatesinterstateNNSOPER0...OPER0(ROOT (S (PP (IN Since) (NP (CD 1987))) (, ,) (NP (CD 40) (NNS states)) (VP (VBP have) (VP (VBN increased) (NP (NP (DT the) (NN speed) (NN limit)) (PP (IN on) (NP (JJ rural) (NNS interstates)))))) (. .)))
+``````OAboutaboutINCARDINALPER1oneoneCDCARDINALPER1--HYPHOPER1thirdthirdNNCARDINALPER1ofofINOPER1thetheDTOPER1fatalityfatalityNNOPER1increaseincreaseNNOPER1isbeVBZOPER1attributedattributeVBNOPER1totoINOPER1greatergreaterJJROPER1traveltravelNNOPER1,,,OPER1andandCCOPER1aboutaboutRBCARDINALPER1twotwoCDCARDINALPER1--HYPHOPER1thirdsthirdNNSCARDINALPER1isbeVBZOPER1attributedattributeVBNOPER1totoINOPER1otherotherJJOPER1factorsfactorNNSOPER1-LCB--lcb-_NFPNFPOPER1primarilyprimarilyRBOPER1totoINOPER1greatergreaterJJROPER1speedspeedNNOPER1-RCB--rcb-_NFPNFPOPER1,,,OPER1''''''OPER0accordingaccordVBGOPER0totoINOPER0NHTSANHTSANNPORGPER0...OPER0(ROOT (S (`` ``) (SBAR (IN About) (S (NP (NP (CD one) (HYPH -) (NN third)) (PP (IN of) (NP (DT the) (NN fatality) (NN increase)))) (VP (VBZ is) (VP (VBN attributed) (PP (IN to) (NP (NP (JJR greater) (NN travel)) (, ,) (CC and) (NP (RB about) (CD two) (HYPH -) (NNS thirds)))))))) (VP (VBZ is) (VP (VBN attributed) (PP (PP (IN to) (NP (JJ other) (NNS factors))) (NFP -LCB-) (PP (ADVP (RB primarily)) (IN to) (NP (JJR greater) (NN speed))) (NFP -RCB-)) (, ,) ('' '') (PP (VBG according) (PP (IN to) (NP (NNP NHTSA)))))) (. .)))
+ThetheDTOPER0reportreportNNOPER0showedshowVBDOPER0thatthatINOPER0deathsdeathNNSOPER0ononINOPER0urbanurbanJJOPER0interstateinterstateJJOPER0highwayshighwayNNSOPER0roseriseVBDOPER077CDPERCENTPER0%%NNPERCENTPER0betweenbetweenINDATEPER019861986CDDATEPER0andandCCDATEPER0lastlastJJDATEPER0yearyearNNDATEPER0,,,OPER0whilewhileINOPER0fatalitiesfatalityNNSOPER0ononINOPER0non-interstatenon-interstateJJOPER0roadsroadNNSOPER0werebeVBDOPER0aboutaboutRBOPER0thetheDTOPER0samesameJJOPER0ininINOPER019881988CDDATEPER0asasINOPER0ininINOPER019861986CDDATEPER0...OPER0(ROOT (S (NP (DT The) (NN report)) (VP (VBD showed) (SBAR (IN that) (S (NP (NP (NNS deaths)) (PP (IN on) (NP (JJ urban) (JJ interstate) (NNS highways)))) (VP (VBD rose) (NP (CD 7) (NN %)) (PP (IN between) (NP (NP (CD 1986)) (CC and) (NP (JJ last) (NN year)))) (, ,) (SBAR (IN while) (S (NP (NP (NNS fatalities)) (PP (IN on) (NP (JJ non-interstate) (NNS roads)))) (VP (VBD were) (NP (NP (RB about) (DT the) (JJ same)) (PP (IN in) (NP (CD 1988))) (PP (IN as) (PP (IN in) (NP (CD 1986)))))))))))) (. .)))
+IninINOPER0statesstateNNSOPER0thatthatWDTOPER0raisedraiseVBDOPER0thetheDTOPER0speedspeedNNOPER0limitlimitNNOPER0ononINOPER0ruralruralJJOPER0interstatesinterstateNNSOPER0,,,OPER0thetheDTOPER0fatalityfatalityNNOPER0raterateNNOPER0roseriseVBDOPER0aboutaboutRBPERCENTPER01818CDPERCENTPER0%%NNPERCENTPER0totoINOPER01.71.7CDCARDINALPER0deathsdeathNNSOPER0perperINOPER0100100CDQUANTITYPER0millionmillionCDQUANTITYPER0milesmileNNSQUANTITYPER0traveledtravelVBNOPER0betweenbetweenINDATEPER019861986CDDATEPER0andandCCDATEPER019881988CDDATEPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBD raised) (NP (NP (DT the) (NN speed) (NN limit)) (PP (IN on) (NP (JJ rural) (NNS interstates))))))))) (, ,) (NP (DT the) (NN fatality) (NN rate)) (VP (VBD rose) (NP (QP (RB about) (CD 18)) (NN %)) (PP (IN to) (NP (NP (CD 1.7) (NNS deaths)) (PP (IN per) (NP (QP (CD 100) (CD million)) (NNS miles))))) (PP (VBN traveled) (PP (IN between) (NP (CD 1986) (CC and) (CD 1988))))) (. .)))
+IninINOPER0contrastcontrastNNOPER0,,,OPER0thetheDTOPER0fatalityfatalityNNOPER0raterateNNOPER0ininINOPER0thetheDTOPER0statesstateNNSOPER0thatthatWDTOPER0retainedretainVBDOPER0thetheDTOPER05555CDQUANTITYPER0mphmphNNQUANTITYPER0limitlimitNNOPER0wasbeVBDOPER00.90.9CDMONEYPER0lastlastJJDATEPER0yearyearNNDATEPER0,,,OPER0thetheDTOPER0samesameJJOPER0asasINOPER0ininINOPER019861986CDDATEPER0...OPER0(ROOT (S (PP (IN In) (NP (NN contrast))) (, ,) (NP (NP (DT the) (NN fatality) (NN rate)) (PP (IN in) (NP (NP (DT the) (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBD retained) (NP (DT the) (NML (CD 55) (NN mph)) (NN limit)))))))) (VP (VBD was) (NP (CD 0.9) (JJ last) (NN year)) (, ,) (NP (NP (DT the) (JJ same)) (PP (IN as) (PP (IN in) (NP (CD 1986)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (JJ rural) (NNS interstates))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NP (CD 1986)) (CC and) (NP (JJ last) (NN year)))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (JJ last) (NN year))
+sid=0 spanning 13 until 19 headed by 18 parsed as (NP (DT the) (NNP National) (NML (NNP Highway) (NNP Traffic) (NNP Safety)) (NNP Administration))
+sid=0 spanning 21 until 39 headed by 22 parsed as (NP (NP (DT a) (NN report)) (PP (IN on) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NP (DT the) (NML (NML (CD 65) (NNS miles)) (HYPH -) (PP (IN per) (HYPH -) (NP (NN hour)))) (NN speed) (NN limit)) (PP (IN on) (NP (DT those) (NNS roads))))))))
+sid=0 spanning 37 until 39 headed by 38 parsed as (NP (DT those) (NNS roads))
+sid=1 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN report)) (PP (IN to) (NP (NNP Congress))))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (CD 1987))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (CD 1988))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (CD 1987))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (CD 40) (NNS states))
+sid=4 spanning 35 until 36 headed by 35 parsed as (NP (NNP NHTSA))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN report))
+sid=5 spanning 13 until 14 headed by 13 parsed as (NP (NP (CD 1986)) (CC and) (NP (JJ last) (NN year)))
+sid=5 spanning 15 until 17 headed by 16 parsed as (NP (JJ last) (NN year))
+sid=5 spanning 28 until 29 headed by 28 parsed as (NP (CD 1988))
+sid=5 spanning 31 until 32 headed by 31 parsed as (NP (CD 1986))
+sid=6 spanning 1 until 10 headed by 1 parsed as (NP (NP (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBD raised) (NP (NP (DT the) (NN speed) (NN limit)) (PP (IN on) (NP (JJ rural) (NNS interstates))))))))
+sid=6 spanning 27 until 28 headed by 27 parsed as (NP (CD 1986) (CC and) (CD 1988))
+sid=6 spanning 29 until 30 headed by 29 parsed as 1988
+sid=7 spanning 17 until 19 headed by 18 parsed as (NP (CD 0.9) (JJ last) (NN year))
+sid=7 spanning 24 until 25 headed by 24 parsed as (NP (CD 1986))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Fatalities)) (PP (IN on) (NP (JJ rural) (NNS interstates))))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (JJ rural) (NNS interstates))
+sid=0 spanning 7 until 12 headed by 7 parsed as between
+sid=0 spanning 13 until 19 headed by 18 parsed as (NP (DT the) (NNP National) (NML (NNP Highway) (NNP Traffic) (NNP Safety)) (NNP Administration))
+sid=0 spanning 21 until 39 headed by 22 parsed as (NP (NP (DT a) (NN report)) (PP (IN on) (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NP (DT the) (NML (NML (CD 65) (NNS miles)) (HYPH -) (PP (IN per) (HYPH -) (NP (NN hour)))) (NN speed) (NN limit)) (PP (IN on) (NP (DT those) (NNS roads))))))))
+sid=0 spanning 24 until 39 headed by 25 parsed as (NP (NP (DT the) (NN impact)) (PP (IN of) (NP (NP (DT the) (NML (NML (CD 65) (NNS miles)) (HYPH -) (PP (IN per) (HYPH -) (NP (NN hour)))) (NN speed) (NN limit)) (PP (IN on) (NP (DT those) (NNS roads))))))
+sid=0 spanning 27 until 39 headed by 35 parsed as (NP (NP (DT the) (NML (NML (CD 65) (NNS miles)) (HYPH -) (PP (IN per) (HYPH -) (NP (NN hour)))) (NN speed) (NN limit)) (PP (IN on) (NP (DT those) (NNS roads))))
+sid=0 spanning 33 until 34 headed by 33 parsed as (NP (NN hour))
+sid=0 spanning 37 until 39 headed by 38 parsed as (NP (DT those) (NNS roads))
+sid=1 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT The) (NN report)) (PP (IN to) (NP (NNP Congress))))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNP Congress))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNS fatalities))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (CD 1987))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (CD 1988))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (JJ rural) (NNS interstates))
+sid=2 spanning 0 until 5 headed by 3 parsed as (NP (NP (DT The) (CD 1987) (NN highway) (NN bill)) (VP (VBN permitted)))
+sid=2 spanning 1 until 2 headed by 1 parsed as 1987
+sid=2 spanning 8 until 14 headed by 10 parsed as (NP (NP (DT the) (NN speed) (NN limit)) (PP (IN to) (NP (CD 65) (NN mph))))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (CD 65) (NN mph))
+sid=2 spanning 15 until 17 headed by 16 parsed as (NP (CD 55) (NN mph))
+sid=2 spanning 18 until 35 headed by 19 parsed as (NP (NP (JJ interstate) (NNS roads)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN defined) (PP (IN as) (NP (NP (NNS highways)) (SBAR (WHNP (WDT that)) (S (VP (VBP pass) (PP (IN through) (NP (NP (NNS areas)) (PP (IN with) (NP (QP (XS (JJR fewer) (IN than)) (CD 50,000)) (NNS people)))))))))))))))
+sid=2 spanning 18 until 20 headed by 19 parsed as (NP (JJ interstate) (NNS roads))
+sid=2 spanning 25 until 35 headed by 25 parsed as (NP (NP (NNS highways)) (SBAR (WHNP (WDT that)) (S (VP (VBP pass) (PP (IN through) (NP (NP (NNS areas)) (PP (IN with) (NP (QP (XS (JJR fewer) (IN than)) (CD 50,000)) (NNS people)))))))))
+sid=2 spanning 29 until 35 headed by 29 parsed as (NP (NP (NNS areas)) (PP (IN with) (NP (QP (XS (JJR fewer) (IN than)) (CD 50,000)) (NNS people))))
+sid=2 spanning 31 until 35 headed by 34 parsed as (NP (QP (XS (JJR fewer) (IN than)) (CD 50,000)) (NNS people))
+sid=3 spanning 1 until 2 headed by 1 parsed as (NP (CD 1987))
+sid=3 spanning 3 until 5 headed by 4 parsed as (NP (CD 40) (NNS states))
+sid=3 spanning 7 until 13 headed by 9 parsed as (NP (NP (DT the) (NN speed) (NN limit)) (PP (IN on) (NP (JJ rural) (NNS interstates))))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (JJ rural) (NNS interstates))
+sid=4 spanning 2 until 9 headed by 4 parsed as (NP (NP (CD one) (HYPH -) (NN third)) (PP (IN of) (NP (DT the) (NN fatality) (NN increase))))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NN fatality) (NN increase))
+sid=4 spanning 12 until 20 headed by 13 parsed as (NP (NP (JJR greater) (NN travel)) (, ,) (CC and) (NP (RB about) (CD two) (HYPH -) (NNS thirds)))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (JJR greater) (NN travel))
+sid=4 spanning 16 until 20 headed by 19 parsed as (NP (RB about) (CD two) (HYPH -) (NNS thirds))
+sid=4 spanning 23 until 25 headed by 24 parsed as (NP (JJ other) (NNS factors))
+sid=4 spanning 28 until 30 headed by 29 parsed as (NP (JJR greater) (NN speed))
+sid=4 spanning 35 until 36 headed by 35 parsed as (NP (NNP NHTSA))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN report))
+sid=5 spanning 4 until 9 headed by 4 parsed as (NP (NP (NNS deaths)) (PP (IN on) (NP (JJ urban) (JJ interstate) (NNS highways))))
+sid=5 spanning 6 until 9 headed by 8 parsed as (NP (JJ urban) (JJ interstate) (NNS highways))
+sid=5 spanning 12 until 17 headed by 12 parsed as between
+sid=5 spanning 19 until 23 headed by 19 parsed as (NP (NP (NNS fatalities)) (PP (IN on) (NP (JJ non-interstate) (NNS roads))))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (JJ non-interstate) (NNS roads))
+sid=5 spanning 24 until 32 headed by 26 parsed as (NP (NP (RB about) (DT the) (JJ same)) (PP (IN in) (NP (CD 1988))) (PP (IN as) (PP (IN in) (NP (CD 1986)))))
+sid=5 spanning 28 until 29 headed by 28 parsed as (NP (CD 1988))
+sid=5 spanning 31 until 32 headed by 31 parsed as (NP (CD 1986))
+sid=6 spanning 1 until 10 headed by 1 parsed as (NP (NP (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBD raised) (NP (NP (DT the) (NN speed) (NN limit)) (PP (IN on) (NP (JJ rural) (NNS interstates))))))))
+sid=6 spanning 4 until 10 headed by 6 parsed as (NP (NP (DT the) (NN speed) (NN limit)) (PP (IN on) (NP (JJ rural) (NNS interstates))))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (JJ rural) (NNS interstates))
+sid=6 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NN fatality) (NN rate))
+sid=6 spanning 19 until 25 headed by 20 parsed as (NP (NP (CD 1.7) (NNS deaths)) (PP (IN per) (NP (QP (CD 100) (CD million)) (NNS miles))))
+sid=6 spanning 22 until 25 headed by 24 parsed as (NP (QP (CD 100) (CD million)) (NNS miles))
+sid=6 spanning 26 until 30 headed by 26 parsed as between
+sid=7 spanning 3 until 15 headed by 5 parsed as (NP (NP (DT the) (NN fatality) (NN rate)) (PP (IN in) (NP (NP (DT the) (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBD retained) (NP (DT the) (NML (CD 55) (NN mph)) (NN limit))))))))
+sid=7 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT the) (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBD retained) (NP (DT the) (NML (CD 55) (NN mph)) (NN limit))))))
+sid=7 spanning 11 until 15 headed by 14 parsed as (NP (DT the) (NML (CD 55) (NN mph)) (NN limit))
+sid=7 spanning 17 until 19 headed by 18 parsed as (NP (CD 0.9) (JJ last) (NN year))
+sid=7 spanning 16 until 19 headed by 18 parsed as (NP (CD 0.9) (JJ last) (NN year))
+sid=7 spanning 20 until 25 headed by 21 parsed as (NP (NP (DT the) (JJ same)) (PP (IN as) (PP (IN in) (NP (CD 1986)))))
+sid=7 spanning 24 until 25 headed by 24 parsed as (NP (CD 1986))
+(end predicted mentions)
+---------gold clusters--------
+6 4 12 | { 'The report to Congress' 'a report on the impact of the 65 miles - per - hour speed limit on those roads' 'The report' }
+2 8 14 15 20 19 | { 'last year' '1988' 'last year' '1988' 'last year' '1988' }
+10 17 | { '40 states' 'states that raised the speed limit on rural interstates' }
+21 18 1 16 13 | { '1986' '1986' '1986' '1986' '1986' }
+3 11 | { 'the National Highway Traffic Safety Administration' 'NHTSA' }
+5 0 | { 'those roads' 'rural interstates' }
+9 7 | { '1987' '1987' }
+(end gold clusters)

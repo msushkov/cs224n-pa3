@@ -1,0 +1,72 @@
+---------gloss--------
+(0) [4m[33m{Yugoslavia}[0m is a step closer to ending [4m[33m{its}[0m years of isolation and socialist power . 
+(1) [4m[33m{Yugoslavia 's}[0m parliament today appointed [4m[35m{a new government backing reformist President Vojislav Kostunica}[0m . 
+(2) [4m[35m{It}[0m 's [4m[33m{the country 's}[0m first communist - free government in more than half a century . 
+(3) The new cabinet won approval in both chambers of [4m[32m{parliament}[0m and from deputies of [4m[33m{Yugoslavia 's}[0m two republics -- Serbia and Montenegro . 
+(4) [4m[35m{The new government}[0m is key for [4m[34m{reformists}[0m to cement [4m[34m{their}[0m position in power . 
+(5) Last month 's mass uprising forced former President Slobodan Milosevic to admit defeat in presidential elections . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0094); part 000
+sentences:
+YugoslaviaYugoslaviaNNPORGPER0isbeVBZOPER0aaDTOPER0stepstepNNOPER0closercloserJJROPER0totoINOPER0endingendVBGOPER0itsitsPRP$OPER0yearsyearNNSDATEPER0ofofINOPER0isolationisolationNNOPER0andandCCOPER0socialistsocialistJJOPER0powerpowerNNOPER0...OPER0(ROOT (S (NP (NNP Yugoslavia)) (VP (VBZ is) (ADJP (ADJP (NP (DT a) (NN step)) (JJR closer)) (PP (IN to) (S (VP (VBG ending) (NP (NP (NP (PRP$ its) (NNS years)) (PP (IN of) (NP (NN isolation)))) (CC and) (NP (JJ socialist) (NN power)))))))) (. .)))
+YugoslaviaYugoslaviaNNPORGPER0's'sPOSOPER0parliamentparliamentNNORGPER0todaytodayNNDATEPER0appointedappointVBDOPER0aaDTOPER0newnewJJOPER0governmentgovernmentNNOPER0backingbackVBGOPER0reformistreformistJJOPER0PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NNP Yugoslavia) (POS 's)) (NN parliament)) (NP (NN today)) (VP (VBD appointed) (NP (NP (DT a) (JJ new) (NN government)) (VP (VBG backing) (NP (NML (JJ reformist) (NNP President)) (NNP Vojislav) (NNP Kostunica))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0thetheDTOPER0countrycountryNNOPER0's'sPOSOPER0firstfirstJJORDINALPER0communistcommunistNNOPER0--HYPHOPER0freefreeJJOPER0governmentgovernmentNNOPER0ininINOPER0moremoreJJRCARDINALPER0thanthanINCARDINALPER0halfhalfPDTCARDINALPER0aaDTCARDINALPER0centurycenturyNNDATEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN country) (POS 's)) (JJ first) (ADJP (NN communist) (HYPH -) (JJ free)) (NN government)) (PP (IN in) (NP (QP (JJR more) (IN than) (PDT half) (DT a)) (NN century))))) (. .)))
+ThetheDTOPER0newnewJJOPER0cabinetcabinetNNOPER0wonwinVBDOPER0approvalapprovalNNOPER0ininINOPER0bothbothDTOPER0chamberschamberNNSOPER0ofofINOPER0parliamentparliamentNNORGPER0andandCCOPER0fromfromINOPER0deputiesdeputyNNSOPER0ofofINOPER0YugoslaviaYugoslaviaNNPGPEPER0's'sPOSOPER0twotwoCDCARDINALPER0republicsrepublicNNSOPER0----:OPER0SerbiaSerbiaNNPGPEPER0andandCCOPER0MontenegroMontenegroNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (JJ new) (NN cabinet)) (VP (VBD won) (NP (NP (NN approval)) (PP (PP (IN in) (NP (NP (DT both) (NNS chambers)) (PP (IN of) (NP (NN parliament))))) (CC and) (PP (IN from) (NP (NP (NNS deputies)) (PP (IN of) (NP (NP (NP (NNP Yugoslavia) (POS 's)) (CD two) (NNS republics)) (: --) (NP (NNP Serbia) (CC and) (NNP Montenegro))))))))) (. .)))
+ThetheDTOPER0newnewJJOPER0governmentgovernmentNNOPER0isbeVBZOPER0keykeyJJOPER0forforINOPER0reformistsreformistNNSOPER0totoTOOPER0cementcementVBOPER0theirtheyPRP$OPER0positionpositionNNOPER0ininINOPER0powerpowerNNOPER0...OPER0(ROOT (S (NP (DT The) (JJ new) (NN government)) (VP (VBZ is) (ADJP (JJ key)) (SBAR (IN for) (S (NP (NNS reformists)) (VP (TO to) (VP (VB cement) (NP (NP (PRP$ their) (NN position)) (PP (IN in) (NP (NN power))))))))) (. .)))
+LastlastJJDATEPER0monthmonthNNDATEPER0's'sPOSDATEPER0massmassJJOPER0uprisinguprisingNNOPER0forcedforceVBDOPER0formerformerJJOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0totoTOOPER0admitadmitVBOPER0defeatdefeatNNOPER0ininINOPER0presidentialpresidentialJJOPER0electionselectionNNSOPER0...OPER0(ROOT (S (NP (NP (JJ Last) (NN month) (POS 's)) (JJ mass) (NN uprising)) (VP (VBD forced) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (S (VP (TO to) (VP (VB admit) (NP (NP (NN defeat)) (PP (IN in) (NP (JJ presidential) (NNS elections)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 7 until 8 headed by 7 parsed as its
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Yugoslavia) (POS 's)) (NN parliament))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=1 spanning 5 until 13 headed by 7 parsed as (NP (NP (DT a) (JJ new) (NN government)) (VP (VBG backing) (NP (NML (JJ reformist) (NNP President)) (NNP Vojislav) (NNP Kostunica))))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NN country) (POS 's))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NN parliament))
+sid=3 spanning 14 until 16 headed by 14 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ new) (NN government))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNS reformists))
+sid=4 spanning 9 until 10 headed by 9 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Yugoslavia))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (DT a) (NN step))
+sid=0 spanning 7 until 14 headed by 8 parsed as (NP (NP (NP (PRP$ its) (NNS years)) (PP (IN of) (NP (NN isolation)))) (CC and) (NP (JJ socialist) (NN power)))
+sid=0 spanning 7 until 11 headed by 8 parsed as (NP (NP (PRP$ its) (NNS years)) (PP (IN of) (NP (NN isolation))))
+sid=0 spanning 7 until 8 headed by 7 parsed as (PRP$ its)
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Yugoslavia) (POS 's)) (NN parliament))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=1 spanning 5 until 13 headed by 7 parsed as (NP (NP (DT a) (JJ new) (NN government)) (VP (VBG backing) (NP (NML (JJ reformist) (NNP President)) (NNP Vojislav) (NNP Kostunica))))
+sid=1 spanning 9 until 13 headed by 12 parsed as (NP (NML (JJ reformist) (NNP President)) (NNP Vojislav) (NNP Kostunica))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 2 until 16 headed by 9 parsed as (NP (NP (NP (DT the) (NN country) (POS 's)) (JJ first) (ADJP (NN communist) (HYPH -) (JJ free)) (NN government)) (PP (IN in) (NP (QP (JJR more) (IN than) (PDT half) (DT a)) (NN century))))
+sid=2 spanning 2 until 5 headed by 3 parsed as (NP (DT the) (NN country) (POS 's))
+sid=2 spanning 5 until 6 headed by 5 parsed as first
+sid=2 spanning 11 until 16 headed by 15 parsed as (NP (QP (JJR more) (IN than) (PDT half) (DT a)) (NN century))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ new) (NN cabinet))
+sid=3 spanning 4 until 22 headed by 4 parsed as (NP (NP (NN approval)) (PP (PP (IN in) (NP (NP (DT both) (NNS chambers)) (PP (IN of) (NP (NN parliament))))) (CC and) (PP (IN from) (NP (NP (NNS deputies)) (PP (IN of) (NP (NP (NP (NNP Yugoslavia) (POS 's)) (CD two) (NNS republics)) (: --) (NP (NNP Serbia) (CC and) (NNP Montenegro))))))))
+sid=3 spanning 6 until 10 headed by 7 parsed as (NP (NP (DT both) (NNS chambers)) (PP (IN of) (NP (NN parliament))))
+sid=3 spanning 12 until 22 headed by 12 parsed as (NP (NP (NNS deputies)) (PP (IN of) (NP (NP (NP (NNP Yugoslavia) (POS 's)) (CD two) (NNS republics)) (: --) (NP (NNP Serbia) (CC and) (NNP Montenegro)))))
+sid=3 spanning 14 until 22 headed by 17 parsed as (NP (NP (NP (NNP Yugoslavia) (POS 's)) (CD two) (NNS republics)) (: --) (NP (NNP Serbia) (CC and) (NNP Montenegro)))
+sid=3 spanning 14 until 16 headed by 14 parsed as (NP (NNP Yugoslavia) (POS 's))
+sid=3 spanning 19 until 20 headed by 19 parsed as (NP (NNP Serbia) (CC and) (NNP Montenegro))
+sid=3 spanning 19 until 22 headed by 19 parsed as (NP (NNP Serbia) (CC and) (NNP Montenegro))
+sid=3 spanning 21 until 22 headed by 21 parsed as Montenegro
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ new) (NN government))
+sid=4 spanning 6 until 7 headed by 6 parsed as (NP (NNS reformists))
+sid=4 spanning 9 until 13 headed by 10 parsed as (NP (NP (PRP$ their) (NN position)) (PP (IN in) (NP (NN power))))
+sid=4 spanning 9 until 10 headed by 9 parsed as (PRP$ their)
+sid=5 spanning 0 until 3 headed by 1 parsed as (NP (JJ Last) (NN month) (POS 's))
+sid=5 spanning 6 until 10 headed by 9 parsed as (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=5 spanning 12 until 16 headed by 12 parsed as (NP (NP (NN defeat)) (PP (IN in) (NP (JJ presidential) (NNS elections))))
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (JJ presidential) (NNS elections))
+(end predicted mentions)
+---------gold clusters--------
+2 7 | { 'Yugoslavia 's parliament' 'parliament' }
+0 8 6 1 3 | { 'Yugoslavia' 'Yugoslavia 's' 'the country 's' 'its' 'Yugoslavia 's' }
+11 10 | { 'their' 'reformists' }
+4 5 9 | { 'a new government backing reformist President Vojislav Kostunica' 'It' 'The new government' }
+(end gold clusters)

@@ -1,0 +1,142 @@
+---------gloss--------
+(0) A shift of winds is pushing [3m[35m{an oil spill}[0m away from [1m[35m{the Galapagos Islands}[0m and into the open sea , but the cleanup is far from over , as [3m[33m{Robert Moore}[0m reports . 
+(1) [3m[34m{Ecuador 's}[0m declaration of a state of emergencies around [1m[35m{the Galapagos Islands}[0m is a sign of how serious [3m[35m{the oil spil}[0m is now judged . 
+(2) [3m[31m{It}[0m may not be a large tanker by international standards , but this is a uniquely fragile and precious marine environment . 
+(3) Experts examining [3m[31m{the wreck}[0m are still concentrating on [3m[32m{transferring}[0m to safe storage [3m[36m{the oil and fuel that remains on board}[0m , and the U.S. Coast Guard are helping in [3m[32m{this operation}[0m , but [3m[34m{Ecuador 's}[0m Environment Minister describes [3m[31m{the ship 's}[0m condition as critical with [3m[36m{gallons of oil}[0m still on [3m[31m{the ship}[0m . 
+(4) Some of [3m[36m{that fuel}[0m will evaporate but the currents are moving [3m[35m{the spill}[0m toward a large number of other islands in [1m[35m{the chain}[0m . 
+(5) Worsening weather could also be a factor in the coming days . 
+(6) The smells are getting worse out there . 
+(7) We hear there 's a gale up north that 's going to create a big swell by Wednesday . 
+(8) [1m[35m{The Galapagos Isles}[0m lie 600 miles off [3m[34m{Ecuador 's}[0m pacific coast , populated by animal and plant species found nowhere else . 
+(9) It was amid [1m[35m{this teaming world of land and marine animals}[0m that [1m[36m{Charles Darwin}[0m developed [1m[36m{his}[0m theories of evolution . 
+(10) The reality of an oil spill here has led to environmental organizations calling for greater control of shipping in the area . 
+(11) Authorities on [1m[35m{the island}[0m say the [3m[31m{ship}[0m running aground was a simple navigational error . 
+(12) [3m[33m{Robert Moore}[0m , ITN . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0187); part 000
+sentences:
+AaDTOPER0shiftshiftNNOPER0ofofINOPER0windswindNNSOPER0isbeVBZOPER0pushingpushVBGOPER0anaDTOPER0oiloilNNOPER0spillspillNNOPER0awayawayRBOPER0fromfromINOPER0thetheDTGPEPER0GalapagosGalapagosNNPGPEPER0IslandsIslandsNNPSGPEPER0andandCCOPER0intointoINOPER0thetheDTOPER0openopenJJOPER0seaseaNNOPER0,,,OPER0butbutCCOPER0thetheDTOPER0cleanupcleanupNNOPER0isbeVBZOPER0farfarRBOPER0fromfromINOPER0overoverRBOPER0,,,OPER0asasINOPER0RobertRobertNNPPERSONPER0MooreMooreNNPPERSONPER0reportsreportVBZOPER0...OPER0(ROOT (S (S (NP (NP (DT A) (NN shift)) (PP (IN of) (NP (NNS winds)))) (VP (VBZ is) (VP (VBG pushing) (NP (DT an) (NN oil) (NN spill)) (UCP (ADVP (RB away) (PP (IN from) (NP (DT the) (NNP Galapagos) (NNPS Islands)))) (CC and) (PP (IN into) (NP (DT the) (JJ open) (NN sea))))))) (, ,) (CC but) (S (NP (DT the) (NN cleanup)) (VP (VBZ is) (ADVP (RB far) (IN from) (RB over)) (, ,) (SBAR (IN as) (S (NP (NNP Robert) (NNP Moore)) (VP (VBZ reports)))))) (. .)))
+EcuadorEcuadorNNPGPEPER0's'sPOSOPER0declarationdeclarationNNOPER0ofofINOPER0aaDTOPER0statestateNNOPER0ofofINOPER0emergenciesemergencyNNSOPER0aroundaroundINOPER0thetheDTGPEPER0GalapagosGalapagosNNPGPEPER0IslandsIslandsNNPSGPEPER0isbeVBZOPER0aaDTOPER0signsignNNOPER0ofofINOPER0howhowWRBOPER0seriousseriousJJOPER0thetheDTOPER0oiloilNNOPER0spilspilNNOPER0isbeVBZOPER0nownowRBOPER0judgedjudgeVBNOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Ecuador) (POS 's)) (NN declaration)) (PP (IN of) (NP (NP (DT a) (NN state)) (PP (IN of) (NP (NP (NNS emergencies)) (PP (IN around) (NP (DT the) (NNP Galapagos) (NNPS Islands)))))))) (VP (VBZ is) (NP (NP (DT a) (NN sign)) (PP (IN of) (SBAR (WHADJP (WRB how) (JJ serious)) (S (NP (DT the) (NN oil) (NN spil)) (VP (VBZ is) (ADVP (RB now)) (VP (VBN judged)))))))) (. .)))
+ItitPRPOPER0maymayMDOPER0notnotRBOPER0bebeVBOPER0aaDTOPER0largelargeJJOPER0tankertankerNNOPER0bybyINOPER0internationalinternationalJJOPER0standardsstandardNNSOPER0,,,OPER0butbutCCOPER0thisthisDTOPER0isbeVBZOPER0aaDTOPER0uniquelyuniquelyRBOPER0fragilefragileJJOPER0andandCCOPER0preciouspreciousJJOPER0marinemarineJJOPER0environmentenvironmentNNOPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (MD may) (RB not) (VP (VB be) (NP (NP (DT a) (JJ large) (NN tanker)) (PP (IN by) (NP (JJ international) (NNS standards))))))) (, ,) (CC but) (S (NP (DT this)) (VP (VBZ is) (NP (DT a) (ADJP (RB uniquely) (JJ fragile) (CC and) (JJ precious)) (JJ marine) (NN environment)))) (. .)))
+ExpertsexpertNNSOPER0examiningexamineVBGOPER0thetheDTOPER0wreckwreckNNOPER0arebeVBPOPER0stillstillRBOPER0concentratingconcentrateVBGOPER0ononINOPER0transferringtransferVBGOPER0totoINOPER0safesafeJJOPER0storagestorageNNOPER0thetheDTOPER0oiloilNNOPER0andandCCOPER0fuelfuelNNOPER0thatthatWDTOPER0remainsremainVBZOPER0ononINOPER0boardboardNNOPER0,,,OPER0andandCCOPER0thetheDTORGPER0U.S.U.S.NNPORGPER0CoastCoastNNPORGPER0GuardGuardNNPORGPER0arebeVBPOPER0helpinghelpVBGOPER0ininINOPER0thisthisDTOPER0operationoperationNNOPER0,,,OPER0butbutCCOPER0EcuadorEcuadorNNPGPEPER0's'sPOSOPER0EnvironmentEnvironmentNNPORGPER0MinisterMinisterNNPOPER0describesdescribeVBZOPER0thetheDTOPER0shipshipNNOPER0's'sPOSOPER0conditionconditionNNOPER0asasINOPER0criticalcriticalJJOPER0withwithINOPER0gallonsgallonNNSQUANTITYPER0ofofINOPER0oiloilNNOPER0stillstillRBOPER0ononINOPER0thetheDTOPER0shipshipNNOPER0...OPER0(ROOT (S (S (S (NP (NP (NNS Experts)) (VP (VBG examining) (NP (DT the) (NN wreck)))) (VP (VBP are) (ADVP (RB still)) (VP (VBG concentrating) (PP (IN on) (S (VP (VBG transferring) (PP (IN to) (NP (JJ safe) (NN storage))) (NP (NP (DT the) (NN oil) (CC and) (NN fuel)) (SBAR (WHNP (WDT that)) (S (VP (VBZ remains) (PP (IN on) (NP (NN board))))))))))))) (, ,) (CC and) (S (NP (DT the) (NNP U.S.) (NNP Coast) (NNP Guard)) (VP (VBP are) (VP (VBG helping) (PP (IN in) (NP (DT this) (NN operation))))))) (, ,) (CC but) (S (NP (NP (NNP Ecuador) (POS 's)) (NNP Environment) (NNP Minister)) (VP (VBZ describes) (NP (NP (DT the) (NN ship) (POS 's)) (NN condition)) (PP (IN as) (ADJP (JJ critical) (PP (IN with) (NP (NP (NP (NNS gallons)) (PP (IN of) (NP (NN oil)))) (RRC (ADVP (RB still)) (PP (IN on) (NP (DT the) (NN ship)))))))))) (. .)))
+SomesomeDTOPER0ofofINOPER0thatthatDTOPER0fuelfuelNNOPER0willwillMDOPER0evaporateevaporateVBOPER0butbutCCOPER0thetheDTOPER0currentscurrentNNSOPER0arebeVBPOPER0movingmoveVBGOPER0thetheDTOPER0spillspillNNOPER0towardtowardINOPER0aaDTOPER0largelargeJJOPER0numbernumberNNOPER0ofofINOPER0otherotherJJOPER0islandsislandNNSOPER0ininINOPER0thetheDTOPER0chainchainNNOPER0...OPER0(ROOT (S (S (NP (NP (DT Some)) (PP (IN of) (NP (DT that) (NN fuel)))) (VP (MD will) (VP (VB evaporate)))) (CC but) (S (NP (DT the) (NNS currents)) (VP (VBP are) (VP (VBG moving) (NP (DT the) (NN spill)) (PP (IN toward) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (JJ other) (NNS islands)) (PP (IN in) (NP (DT the) (NN chain)))))))))) (. .)))
+WorseningworsenVBGOPER0weatherweatherNNOPER0couldcouldMDOPER0alsoalsoRBOPER0bebeVBOPER0aaDTOPER0factorfactorNNOPER0ininINOPER0thetheDTDATEPER0comingcomeVBGDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (VBG Worsening) (NN weather)) (VP (MD could) (ADVP (RB also)) (VP (VB be) (NP (NP (DT a) (NN factor)) (PP (IN in) (NP (DT the) (VBG coming) (NNS days)))))) (. .)))
+ThetheDTOPER0smellssmellVBZOPER0arebeVBPOPER0gettinggetVBGOPER0worseworseJJROPER0outoutINOPER0therethereEXOPER0...OPER0(ROOT (S (NP (DT The) (VBZ smells)) (VP (VBP are) (VP (VBG getting) (ADJP (JJR worse)) (PP (IN out) (NP (EX there))))) (. .)))
+WewePRPOPER0hearhearVBPOPER0therethereEXOPER0'sbeVBZOPER0aaDTOPER0galegaleNNOPER0upupINOPER0northnorthRBOPER0thatthatWDTOPER0'sbeVBZOPER0goinggoVBGOPER0totoTOOPER0createcreateVBOPER0aaDTOPER0bigbigJJOPER0swellswellVBOPER0bybyINOPER0WednesdayWednesdayNNPDATEPER0...OPER0(ROOT (S (NP (PRP We)) (VP (VBP hear) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN gale)) (PP (IN up) (ADVP (RB north)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB create) (S (NP (DT a) (JJ big)) (VP (VB swell) (PP (IN by) (NP (NNP Wednesday)))))))))))))))) (. .)))
+ThetheDTORGPER0GalapagosGalapagosNNPORGPER0IslesIslesNNPSORGPER0lielieVBPOPER0600600CDQUANTITYPER0milesmileNNSQUANTITYPER0offoffINOPER0EcuadorEcuadorNNPGPEPER0's'sPOSOPER0pacificpacificJJLOCPER0coastcoastNNLOCPER0,,,OPER0populatedpopulateVBNOPER0bybyINOPER0animalanimalNNOPER0andandCCOPER0plantplantNNOPER0speciesspeciesNNSOPER0foundfindVBNOPER0nowherenowhereRBOPER0elseelseRBOPER0...OPER0(ROOT (S (NP (DT The) (NNP Galapagos) (NNPS Isles)) (VP (VBP lie) (NP (NP (NP (CD 600) (NNS miles)) (PP (IN off) (NP (NP (NNP Ecuador) (POS 's)) (JJ pacific) (NN coast)))) (, ,) (VP (VBN populated) (PP (IN by) (NP (NP (NML (NN animal) (CC and) (NN plant)) (NNS species)) (VP (VBN found) (ADVP (RB nowhere) (RB else)))))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0amidamidINOPER0thisthisDTOPER0teamingteamVBGOPER0worldworldNNOPER0ofofINOPER0landlandNNOPER0andandCCOPER0marinemarineJJOPER0animalsanimalNNSOPER0thatthatINOPER0CharlesCharlesNNPPERSONPER0DarwinDarwinNNPPERSONPER0developeddevelopVBDOPER0hishePRP$OPER0theoriestheoryNNSOPER0ofofINOPER0evolutionevolutionNNOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD was) (PP (IN amid) (NP (NP (DT this) (VBG teaming) (NN world)) (PP (IN of) (NP (NP (NN land) (CC and) (JJ marine)) (NNS animals))))) (SBAR (IN that) (S (NP (NNP Charles) (NNP Darwin)) (VP (VBD developed) (NP (NP (PRP$ his) (NNS theories)) (PP (IN of) (NP (NN evolution)))))))) (. .)))
+ThetheDTOPER0realityrealityNNOPER0ofofINOPER0anaDTOPER0oiloilNNOPER0spillspillNNOPER0herehereRBOPER0hashaveVBZOPER0ledleadVBNOPER0totoINOPER0environmentalenvironmentalJJOPER0organizationsorganizationNNSOPER0callingcallVBGOPER0forforINOPER0greatergreaterJJROPER0controlcontrolNNOPER0ofofINOPER0shippingshipVBGOPER0ininINOPER0thetheDTOPER0areaareaNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN reality)) (PP (IN of) (NP (DT an) (NN oil) (NN spill)))) (ADVP (RB here)) (VP (VBZ has) (VP (VBN led) (PP (IN to) (NP (NP (JJ environmental) (NNS organizations)) (VP (VBG calling) (PP (IN for) (NP (NP (JJR greater) (NN control)) (PP (IN of) (S (VP (VBG shipping) (PP (IN in) (NP (DT the) (NN area))))))))))))) (. .)))
+AuthoritiesauthorityNNSOPER0ononINOPER0thetheDTOPER0islandislandNNOPER0saysayVBPOPER0thetheDTOPER0shipshipNNOPER0runningrunVBGOPER0agroundagroundRBOPER0wasbeVBDOPER0aaDTOPER0simplesimpleJJOPER0navigationalnavigationalJJOPER0errorerrorNNOPER0...OPER0(ROOT (S (NP (NP (NNS Authorities)) (PP (IN on) (NP (DT the) (NN island)))) (VP (VBP say) (SBAR (S (NP (DT the) (NN ship) (S (VP (VBG running) (ADVP (RB aground))))) (VP (VBD was) (NP (DT a) (ADJP (JJ simple) (JJ navigational)) (NN error)))))) (. .)))
+RobertRobertNNPPERSONPER0MooreMooreNNPPERSONPER0,,,OPER0ITNITNNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP Robert) (NNP Moore)) (, ,) (NP (NNP ITN)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT an) (NN oil) (NN spill))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP Galapagos) (NNPS Islands))
+sid=0 spanning 29 until 31 headed by 30 parsed as (NP (NNP Robert) (NNP Moore))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Ecuador) (POS 's))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP Galapagos) (NNPS Islands))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NN oil) (NN spil))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN wreck))
+sid=3 spanning 8 until 9 headed by 8 parsed as transferring
+sid=3 spanning 12 until 20 headed by 13 parsed as (NP (NP (DT the) (NN oil) (CC and) (NN fuel)) (SBAR (WHNP (WDT that)) (S (VP (VBZ remains) (PP (IN on) (NP (NN board)))))))
+sid=3 spanning 29 until 31 headed by 30 parsed as (NP (DT this) (NN operation))
+sid=3 spanning 33 until 35 headed by 33 parsed as (NP (NNP Ecuador) (POS 's))
+sid=3 spanning 38 until 41 headed by 39 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=3 spanning 45 until 48 headed by 45 parsed as (NP (NP (NP (NNS gallons)) (PP (IN of) (NP (NN oil)))) (RRC (ADVP (RB still)) (PP (IN on) (NP (DT the) (NN ship)))))
+sid=3 spanning 50 until 52 headed by 51 parsed as (NP (DT the) (NN ship))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT that) (NN fuel))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN spill))
+sid=4 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN chain))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Galapagos) (NNPS Isles))
+sid=8 spanning 7 until 9 headed by 7 parsed as (NP (NNP Ecuador) (POS 's))
+sid=9 spanning 3 until 11 headed by 5 parsed as (NP (NP (DT this) (VBG teaming) (NN world)) (PP (IN of) (NP (NP (NN land) (CC and) (JJ marine)) (NNS animals))))
+sid=9 spanning 12 until 14 headed by 13 parsed as (NP (NNP Charles) (NNP Darwin))
+sid=9 spanning 15 until 16 headed by 15 parsed as his
+sid=11 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN island))
+sid=11 spanning 6 until 7 headed by 6 parsed as (NP (DT the) (NN ship) (S (VP (VBG running) (ADVP (RB aground)))))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (NNP Robert) (NNP Moore))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 1 parsed as (NP (NP (DT A) (NN shift)) (PP (IN of) (NP (NNS winds))))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNS winds))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT an) (NN oil) (NN spill))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (DT the) (NNP Galapagos) (NNPS Islands))
+sid=0 spanning 16 until 19 headed by 18 parsed as (NP (DT the) (JJ open) (NN sea))
+sid=0 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN cleanup))
+sid=0 spanning 29 until 31 headed by 30 parsed as (NP (NNP Robert) (NNP Moore))
+sid=1 spanning 0 until 12 headed by 2 parsed as (NP (NP (NP (NNP Ecuador) (POS 's)) (NN declaration)) (PP (IN of) (NP (NP (DT a) (NN state)) (PP (IN of) (NP (NP (NNS emergencies)) (PP (IN around) (NP (DT the) (NNP Galapagos) (NNPS Islands))))))))
+sid=1 spanning 0 until 2 headed by 0 parsed as (NP (NNP Ecuador) (POS 's))
+sid=1 spanning 4 until 12 headed by 5 parsed as (NP (NP (DT a) (NN state)) (PP (IN of) (NP (NP (NNS emergencies)) (PP (IN around) (NP (DT the) (NNP Galapagos) (NNPS Islands))))))
+sid=1 spanning 7 until 12 headed by 7 parsed as (NP (NP (NNS emergencies)) (PP (IN around) (NP (DT the) (NNP Galapagos) (NNPS Islands))))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (DT the) (NNP Galapagos) (NNPS Islands))
+sid=1 spanning 13 until 24 headed by 14 parsed as (NP (NP (DT a) (NN sign)) (PP (IN of) (SBAR (WHADJP (WRB how) (JJ serious)) (S (NP (DT the) (NN oil) (NN spil)) (VP (VBZ is) (ADVP (RB now)) (VP (VBN judged)))))))
+sid=1 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (NN oil) (NN spil))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 4 until 10 headed by 6 parsed as (NP (NP (DT a) (JJ large) (NN tanker)) (PP (IN by) (NP (JJ international) (NNS standards))))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (JJ international) (NNS standards))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (DT this))
+sid=2 spanning 14 until 21 headed by 20 parsed as (NP (DT a) (ADJP (RB uniquely) (JJ fragile) (CC and) (JJ precious)) (JJ marine) (NN environment))
+sid=3 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Experts)) (VP (VBG examining) (NP (DT the) (NN wreck))))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN wreck))
+sid=3 spanning 12 until 20 headed by 13 parsed as (NP (NP (DT the) (NN oil) (CC and) (NN fuel)) (SBAR (WHNP (WDT that)) (S (VP (VBZ remains) (PP (IN on) (NP (NN board)))))))
+sid=3 spanning 22 until 26 headed by 25 parsed as (NP (DT the) (NNP U.S.) (NNP Coast) (NNP Guard))
+sid=3 spanning 29 until 31 headed by 30 parsed as (NP (DT this) (NN operation))
+sid=3 spanning 33 until 37 headed by 36 parsed as (NP (NP (NNP Ecuador) (POS 's)) (NNP Environment) (NNP Minister))
+sid=3 spanning 33 until 35 headed by 33 parsed as (NP (NNP Ecuador) (POS 's))
+sid=3 spanning 35 until 36 headed by 35 parsed as Environment
+sid=3 spanning 38 until 42 headed by 41 parsed as (NP (NP (DT the) (NN ship) (POS 's)) (NN condition))
+sid=3 spanning 38 until 41 headed by 39 parsed as (NP (DT the) (NN ship) (POS 's))
+sid=3 spanning 45 until 52 headed by 45 parsed as (NP (NP (NP (NNS gallons)) (PP (IN of) (NP (NN oil)))) (RRC (ADVP (RB still)) (PP (IN on) (NP (DT the) (NN ship)))))
+sid=3 spanning 50 until 52 headed by 51 parsed as (NP (DT the) (NN ship))
+sid=4 spanning 0 until 4 headed by 0 parsed as (NP (NP (DT Some)) (PP (IN of) (NP (DT that) (NN fuel))))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT that) (NN fuel))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NNS currents))
+sid=4 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NN spill))
+sid=4 spanning 14 until 23 headed by 16 parsed as (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (JJ other) (NNS islands)) (PP (IN in) (NP (DT the) (NN chain))))))
+sid=4 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NN chain))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (VBG Worsening) (NN weather))
+sid=5 spanning 5 until 11 headed by 6 parsed as (NP (NP (DT a) (NN factor)) (PP (IN in) (NP (DT the) (VBG coming) (NNS days))))
+sid=5 spanning 8 until 11 headed by 10 parsed as (NP (DT the) (VBG coming) (NNS days))
+sid=6 spanning 0 until 2 headed by 0 parsed as (NP (DT The) (VBZ smells))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP We))
+sid=7 spanning 4 until 8 headed by 5 parsed as (NP (NP (DT a) (NN gale)) (PP (IN up) (ADVP (RB north))))
+sid=7 spanning 13 until 15 headed by 14 parsed as (NP (DT a) (JJ big))
+sid=7 spanning 17 until 18 headed by 17 parsed as (NP (NNP Wednesday))
+sid=8 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Galapagos) (NNPS Isles))
+sid=8 spanning 4 until 21 headed by 5 parsed as (NP (NP (NP (CD 600) (NNS miles)) (PP (IN off) (NP (NP (NNP Ecuador) (POS 's)) (JJ pacific) (NN coast)))) (, ,) (VP (VBN populated) (PP (IN by) (NP (NP (NML (NN animal) (CC and) (NN plant)) (NNS species)) (VP (VBN found) (ADVP (RB nowhere) (RB else)))))))
+sid=8 spanning 4 until 11 headed by 5 parsed as (NP (NP (CD 600) (NNS miles)) (PP (IN off) (NP (NP (NNP Ecuador) (POS 's)) (JJ pacific) (NN coast))))
+sid=8 spanning 7 until 11 headed by 10 parsed as (NP (NP (NNP Ecuador) (POS 's)) (JJ pacific) (NN coast))
+sid=8 spanning 7 until 9 headed by 7 parsed as (NP (NNP Ecuador) (POS 's))
+sid=8 spanning 14 until 21 headed by 17 parsed as (NP (NP (NML (NN animal) (CC and) (NN plant)) (NNS species)) (VP (VBN found) (ADVP (RB nowhere) (RB else))))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=9 spanning 3 until 11 headed by 5 parsed as (NP (NP (DT this) (VBG teaming) (NN world)) (PP (IN of) (NP (NP (NN land) (CC and) (JJ marine)) (NNS animals))))
+sid=9 spanning 7 until 11 headed by 10 parsed as (NP (NP (NN land) (CC and) (JJ marine)) (NNS animals))
+sid=9 spanning 7 until 10 headed by 7 parsed as (NP (NN land) (CC and) (JJ marine))
+sid=9 spanning 12 until 14 headed by 13 parsed as (NP (NNP Charles) (NNP Darwin))
+sid=9 spanning 15 until 19 headed by 16 parsed as (NP (NP (PRP$ his) (NNS theories)) (PP (IN of) (NP (NN evolution))))
+sid=9 spanning 15 until 16 headed by 15 parsed as (PRP$ his)
+sid=10 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT The) (NN reality)) (PP (IN of) (NP (DT an) (NN oil) (NN spill))))
+sid=10 spanning 3 until 6 headed by 5 parsed as (NP (DT an) (NN oil) (NN spill))
+sid=10 spanning 10 until 21 headed by 11 parsed as (NP (NP (JJ environmental) (NNS organizations)) (VP (VBG calling) (PP (IN for) (NP (NP (JJR greater) (NN control)) (PP (IN of) (S (VP (VBG shipping) (PP (IN in) (NP (DT the) (NN area))))))))))
+sid=10 spanning 14 until 21 headed by 15 parsed as (NP (NP (JJR greater) (NN control)) (PP (IN of) (S (VP (VBG shipping) (PP (IN in) (NP (DT the) (NN area)))))))
+sid=10 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN area))
+sid=11 spanning 0 until 4 headed by 0 parsed as (NP (NP (NNS Authorities)) (PP (IN on) (NP (DT the) (NN island))))
+sid=11 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN island))
+sid=11 spanning 5 until 9 headed by 6 parsed as (NP (DT the) (NN ship) (S (VP (VBG running) (ADVP (RB aground)))))
+sid=11 spanning 10 until 14 headed by 13 parsed as (NP (DT a) (ADJP (JJ simple) (JJ navigational)) (NN error))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (NNP Robert) (NNP Moore))
+sid=12 spanning 3 until 4 headed by 3 parsed as (NP (NNP ITN))
+(end predicted mentions)
+---------gold clusters--------
+4 23 17 18 1 20 | { 'the Galapagos Islands' 'the island' 'the chain' 'The Galapagos Isles' 'the Galapagos Islands' 'this teaming world of land and marine animals' }
+22 21 | { 'his' 'Charles Darwin' }
+12 14 6 24 7 | { 'the ship 's' 'the ship' 'It' 'ship' 'the wreck' }
+10 8 | { 'this operation' 'transferring' }
+2 25 | { 'Robert Moore' 'Robert Moore' }
+11 19 3 | { 'Ecuador 's' 'Ecuador 's' 'Ecuador 's' }
+16 0 5 | { 'the spill' 'an oil spill' 'the oil spil' }
+15 9 13 | { 'that fuel' 'the oil and fuel that remains on board' 'gallons of oil' }
+(end gold clusters)

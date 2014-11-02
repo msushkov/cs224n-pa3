@@ -1,0 +1,50 @@
+---------gloss--------
+(0) [4m[32m{Cray Research Inc.}[0m said [4m[32m{it}[0m sold [4m[34m{one of its newest and largest computer systems , the Cray Y - MP / 832}[0m , to [4m[33m{the United Kingdom Meteorological Office}[0m . 
+(1) [4m[34m{The system}[0m is the first to be sold through the joint marketing agreement between [4m[32m{Cray}[0m and Control Data Corp . 
+(2) [4m[34m{The supercomputer , which lists for $ 18.5 million ,}[0m will be installed in the first quarter of 1990 in [4m[33m{the meteorological office 's}[0m headquarters in Bracknell , England . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1370); part 000
+sentences:
+CrayCrayNNPORGPER0ResearchResearchNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0ititPRPOPER0soldsellVBDOPER0oneoneCDOPER0ofofINOPER0itsitsPRP$OPER0newestnewestJJSOPER0andandCCOPER0largestlargestJJSOPER0computercomputerNNOPER0systemssystemNNSOPER0,,,OPER0thetheDTPRODUCTPER0CrayCrayNNPPRODUCTPER0YYNNPPRODUCTPER0--HYPHPRODUCTPER0MPMPNNPPRODUCTPER0//SYMPRODUCTPER0832832CDPRODUCTPER0,,,OPER0totoINOPER0thetheDTORGPER0UnitedUnitedNNPORGPER0KingdomKingdomNNPORGPER0MeteorologicalmeteorologicalJJORGPER0OfficeofficeNNORGPER0...OPER0(ROOT (S (NP (NNP Cray) (NNP Research) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD sold) (NP (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (ADJP (JJS newest) (CC and) (JJS largest)) (NN computer) (NNS systems)))) (, ,) (NP (NP (DT the) (NNP Cray) (NNP Y) (HYPH -) (NNP MP)) (PP (SYM /) (NP (CD 832))))) (, ,) (PP (IN to) (NP (DT the) (NML (NNP United) (NNP Kingdom)) (JJ Meteorological) (NN Office))))))) (. .)))
+ThetheDTOPER0systemsystemNNOPER0isbeVBZOPER0thetheDTOPER0firstfirstJJORDINALPER0totoTOOPER0bebeVBOPER0soldsellVBNOPER0throughthroughINOPER0thetheDTOPER0jointjointJJOPER0marketingmarketingNNOPER0agreementagreementNNOPER0betweenbetweenINOPER0CrayCrayNNPORGPER0andandCCOPER0ControlControlNNPORGPER0DataDataNNPORGPER0CorpCorpNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NN system)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN sold) (PP (IN through) (NP (NP (DT the) (JJ joint) (NN marketing) (NN agreement)) (PP (IN between) (NP (NP (NNP Cray) (CC and) (NNP Control)) (NNP Data) (NNP Corp)))))))))))) (. .)))
+ThetheDTOPER0supercomputersupercomputerNNOPER0,,,OPER0whichwhichWDTOPER0listslistVBZOPER0forforINOPER0$$$MONEYPER018.518.5CDMONEYPER0millionmillionCDMONEYPER0,,,OPER0willwillMDOPER0bebeVBOPER0installedinstallVBNOPER0ininINOPER0thetheDTDATEPER0firstfirstJJDATEPER0quarterquarterNNDATEPER0ofofINDATEPER019901990CDDATEPER0ininINOPER0thetheDTOPER0meteorologicalmeteorologicalJJOPER0officeofficeNNOPER0's'sPOSOPER0headquartersheadquartersNNOPER0ininINOPER0BracknellBracknellNNPGPEPER0,,,OPER0EnglandEnglandNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN supercomputer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ lists) (PP (IN for) (NP (QP ($ $) (CD 18.5) (CD million))))))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN installed) (PP (IN in) (NP (NP (DT the) (JJ first) (NN quarter)) (PP (IN of) (NP (CD 1990))))) (PP (IN in) (NP (NP (NP (DT the) (JJ meteorological) (NN office) (POS 's)) (NN headquarters)) (PP (IN in) (NP (NNP Bracknell) (, ,) (NNP England)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Cray) (NNP Research) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 22 headed by 6 parsed as (NP (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (ADJP (JJS newest) (CC and) (JJS largest)) (NN computer) (NNS systems)))) (, ,) (NP (NP (DT the) (NNP Cray) (NNP Y) (HYPH -) (NNP MP)) (PP (SYM /) (NP (CD 832)))))
+sid=0 spanning 8 until 9 headed by 8 parsed as its
+sid=0 spanning 24 until 29 headed by 28 parsed as (NP (DT the) (NML (NNP United) (NNP Kingdom)) (JJ Meteorological) (NN Office))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN system))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Cray) (CC and) (NNP Control))
+sid=2 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NN supercomputer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ lists) (PP (IN for) (NP (QP ($ $) (CD 18.5) (CD million))))))) (, ,))
+sid=2 spanning 20 until 24 headed by 22 parsed as (NP (DT the) (JJ meteorological) (NN office) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Cray) (NNP Research) (NNP Inc.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 22 headed by 6 parsed as (NP (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (ADJP (JJS newest) (CC and) (JJS largest)) (NN computer) (NNS systems)))) (, ,) (NP (NP (DT the) (NNP Cray) (NNP Y) (HYPH -) (NNP MP)) (PP (SYM /) (NP (CD 832)))))
+sid=0 spanning 6 until 14 headed by 6 parsed as (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (ADJP (JJS newest) (CC and) (JJS largest)) (NN computer) (NNS systems))))
+sid=0 spanning 15 until 22 headed by 19 parsed as (NP (NP (DT the) (NNP Cray) (NNP Y) (HYPH -) (NNP MP)) (PP (SYM /) (NP (CD 832))))
+sid=0 spanning 24 until 29 headed by 28 parsed as (NP (DT the) (NML (NNP United) (NNP Kingdom)) (JJ Meteorological) (NN Office))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN system))
+sid=1 spanning 3 until 19 headed by 4 parsed as (NP (NP (DT the) (JJ first)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN sold) (PP (IN through) (NP (NP (DT the) (JJ joint) (NN marketing) (NN agreement)) (PP (IN between) (NP (NP (NNP Cray) (CC and) (NNP Control)) (NNP Data) (NNP Corp)))))))))))
+sid=1 spanning 9 until 19 headed by 12 parsed as (NP (NP (DT the) (JJ joint) (NN marketing) (NN agreement)) (PP (IN between) (NP (NP (NNP Cray) (CC and) (NNP Control)) (NNP Data) (NNP Corp))))
+sid=1 spanning 14 until 19 headed by 18 parsed as (NP (NP (NNP Cray) (CC and) (NNP Control)) (NNP Data) (NNP Corp))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Cray) (CC and) (NNP Control))
+sid=1 spanning 14 until 17 headed by 14 parsed as (NP (NNP Cray) (CC and) (NNP Control))
+sid=2 spanning 0 until 10 headed by 1 parsed as (NP (NP (DT The) (NN supercomputer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ lists) (PP (IN for) (NP (QP ($ $) (CD 18.5) (CD million))))))) (, ,))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN supercomputer))
+sid=2 spanning 14 until 19 headed by 16 parsed as (NP (NP (DT the) (JJ first) (NN quarter)) (PP (IN of) (NP (CD 1990))))
+sid=2 spanning 20 until 29 headed by 24 parsed as (NP (NP (NP (DT the) (JJ meteorological) (NN office) (POS 's)) (NN headquarters)) (PP (IN in) (NP (NNP Bracknell) (, ,) (NNP England))))
+sid=2 spanning 20 until 24 headed by 22 parsed as (NP (DT the) (JJ meteorological) (NN office) (POS 's))
+sid=2 spanning 26 until 29 headed by 28 parsed as (NP (NNP Bracknell) (, ,) (NNP England))
+sid=2 spanning 26 until 27 headed by 26 parsed as Bracknell
+(end predicted mentions)
+---------gold clusters--------
+1 6 0 3 | { 'it' 'Cray' 'Cray Research Inc.' 'its' }
+4 8 | { 'the United Kingdom Meteorological Office' 'the meteorological office 's' }
+5 2 7 | { 'The system' 'one of its newest and largest computer systems , the Cray Y - MP / 832' 'The supercomputer , which lists for $ 18.5 million ,' }
+(end gold clusters)

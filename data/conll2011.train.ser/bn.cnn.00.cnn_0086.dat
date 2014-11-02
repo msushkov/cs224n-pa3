@@ -1,0 +1,44 @@
+---------gloss--------
+(0) [3m[34m{Tommy Lee Jones}[0m may start chasing after an accused criminal once more . 
+(1) [3m[34m{He}[0m 's in talks to [3m[33m{star}[0m in `` The Hunted , '' and [3m[33m{that}[0m would pair [3m[34m{him}[0m again with director William Friedkin . 
+(2) The duo just teamed on `` Rules of Engagement . '' 
+(3) [3m[34m{Jones}[0m would play a famous FBI tracker leading a manhunt for a killer . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0086); part 000
+sentences:
+TommyTommyNNPPERSONPER0LeeLeeNNPPERSONPER0JonesJonesNNPPERSONPER0maymayMDOPER0startstartVBOPER0chasingchaseVBGOPER0afterafterINOPER0anaDTOPER0accusedaccuseVBNOPER0criminalcriminalNNOPER0onceonceRBOPER0moremoreRBOPER0...OPER0(ROOT (S (NP (NNP Tommy) (NNP Lee) (NNP Jones)) (VP (MD may) (VP (VB start) (VP (VBG chasing) (PP (IN after) (NP (DT an) (VBN accused) (NN criminal))) (ADVP (RB once) (RB more))))) (. .)))
+HehePRPOPER0'sbeVBZOPER0ininINOPER0talkstalkNNSOPER0totoTOOPER0starstarVBOPER0ininINOPER0``````OThetheDTWORK_OF_ARTPER1HuntedhuntVBDWORK_OF_ARTPER1,,,OPER1''''''OPER0andandCCOPER0thatthatDTOPER0wouldwouldMDOPER0pairpairVBOPER0himhePRPOPER0againagainRBOPER0withwithINOPER0directordirectorNNOPER0WilliamWilliamNNPPERSONPER0FriedkinFriedkinNNPPERSONPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ 's) (PP (IN in) (NP (NNS talks))) (S (VP (TO to) (VP (VB star) (PP (IN in) (`` ``) (S (S (NP (DT The)) (VP (VBD Hunted))) (, ,) ('' '') (CC and) (S (NP (DT that)) (VP (MD would) (VP (VB pair) (NP (PRP him)) (ADVP (RB again)) (PP (IN with) (NP (NN director) (NNP William) (NNP Friedkin)))))))))))) (. .)))
+ThetheDTOPER0duoduoNNOPER0justjustRBOPER0teamedteamVBDOPER0ononRPOPER0``````WORK_OF_ARTRulesRulesNNPSWORK_OF_ARTPER2ofofINWORK_OF_ARTPER2EngagementengagementNNWORK_OF_ARTPER2...OPER2''''''OPER0(ROOT (S (NP (DT The) (NN duo)) (ADVP (RB just)) (VP (VBD teamed) (PRT (RP on)) (NP (`` ``) (NP (NNPS Rules)) (PP (IN of) (NP (NN Engagement))))) (. .) ('' '')))
+JonesJonesNNPPERSONPER0wouldwouldMDOPER0playplayVBOPER0aaDTOPER0famousfamousJJOPER0FBIFBINNPORGPER0trackertrackerNNOPER0leadingleadVBGOPER0aaDTOPER0manhuntmanhuntNNOPER0forforINOPER0aaDTOPER0killerkillerNNOPER0...OPER0(ROOT (S (NP (NNP Jones)) (VP (MD would) (VP (VB play) (NP (NP (DT a) (JJ famous) (NNP FBI) (NN tracker)) (VP (VBG leading) (NP (NP (DT a) (NN manhunt)) (PP (IN for) (NP (DT a) (NN killer)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Tommy) (NNP Lee) (NNP Jones))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 5 until 6 headed by 5 parsed as star
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (DT that))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (PRP him))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Jones))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Tommy) (NNP Lee) (NNP Jones))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT an) (VBN accused) (NN criminal))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 3 until 4 headed by 3 parsed as (NP (NNS talks))
+sid=1 spanning 8 until 10 headed by 9 parsed as Hunted
+sid=1 spanning 13 until 14 headed by 13 parsed as (NP (DT that))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (PRP him))
+sid=1 spanning 19 until 22 headed by 21 parsed as (NP (NN director) (NNP William) (NNP Friedkin))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN duo))
+sid=2 spanning 5 until 9 headed by 6 parsed as (NP (`` ``) (NP (NNPS Rules)) (PP (IN of) (NP (NN Engagement))))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Jones))
+sid=3 spanning 3 until 13 headed by 6 parsed as (NP (NP (DT a) (JJ famous) (NNP FBI) (NN tracker)) (VP (VBG leading) (NP (NP (DT a) (NN manhunt)) (PP (IN for) (NP (DT a) (NN killer))))))
+sid=3 spanning 5 until 6 headed by 5 parsed as FBI
+sid=3 spanning 8 until 13 headed by 9 parsed as (NP (NP (DT a) (NN manhunt)) (PP (IN for) (NP (DT a) (NN killer))))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (DT a) (NN killer))
+(end predicted mentions)
+---------gold clusters--------
+2 3 | { 'star' 'that' }
+5 4 0 1 | { 'Jones' 'him' 'Tommy Lee Jones' 'He' }
+(end gold clusters)

@@ -1,0 +1,34 @@
+---------gloss--------
+(0) [1m[36m{A seat on the Chicago Board of Trade}[0m was sold for $ 390,000 , unchanged from the previous sale Oct. 13 . 
+(1) Seats currently are quoted at $ 361,000 bid , $ 395,000 asked . 
+(2) The record price for [1m[36m{a full membership on the exchange}[0m is $ 550,000 , set Aug. 31 , 1987 . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1087); part 000
+sentences:
+AaDTOPER0seatseatNNOPER0ononINOPER0thetheDTORGPER0ChicagoChicagoNNPORGPER0BoardBoardNNPORGPER0ofofINORGPER0TradeTradeNNPORGPER0wasbeVBDOPER0soldsellVBNOPER0forforINOPER0$$$MONEYPER0390,000390,000CDMONEYPER0,,,OPER0unchangedunchangedJJOPER0fromfromINOPER0thetheDTOPER0previouspreviousJJOPER0salesaleNNOPER0Oct.Oct.NNPDATEPER01313CDDATEPER0...OPER0(ROOT (S (NP (NP (DT A) (NN seat)) (PP (IN on) (NP (NP (DT the) (NNP Chicago) (NNP Board)) (PP (IN of) (NP (NNP Trade)))))) (VP (VBD was) (VP (VBN sold) (PP (IN for) (NP ($ $) (CD 390,000))) (, ,) (S (ADJP (JJ unchanged) (PP (IN from) (NP (NP (DT the) (JJ previous) (NN sale)) (NP (NNP Oct.) (CD 13)))))))) (. .)))
+SeatsseatNNSOPER0currentlycurrentlyRBOPER0arebeVBPOPER0quotedquoteVBNOPER0atatINOPER0$$$MONEYPER0361,000361,000CDMONEYPER0bidbidNNOPER0,,,OPER0$$$MONEYPER0395,000395,000CDMONEYPER0askedaskVBNOPER0...OPER0(ROOT (S (NP (NNS Seats)) (ADVP (RB currently)) (VP (VBP are) (VP (VBN quoted) (PP (IN at) (NP (NP (NP ($ $) (CD 361,000)) (VP (NN bid))) (, ,) (NP (NP ($ $) (CD 395,000)) (VP (VBN asked))))))) (. .)))
+ThetheDTOPER0recordrecordNNOPER0pricepriceNNOPER0forforINOPER0aaDTOPER0fullfullJJOPER0membershipmembershipNNOPER0ononINOPER0thetheDTOPER0exchangeexchangeNNOPER0isbeVBZOPER0$$$MONEYPER0550,000550,000CDMONEYPER0,,,OPER0setsetVBNOPER0Aug.Aug.NNPDATEPER03131CDDATEPER0,,,DATEPER019871987CDDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN record) (NN price)) (PP (IN for) (NP (NP (DT a) (JJ full) (NN membership)) (PP (IN on) (NP (DT the) (NN exchange)))))) (VP (VBZ is) (NP ($ $) (CD 550,000)) (, ,) (S (VP (VBN set) (NP (NP (NNP Aug.) (CD 31)) (, ,) (NP (CD 1987)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT A) (NN seat)) (PP (IN on) (NP (NP (DT the) (NNP Chicago) (NNP Board)) (PP (IN of) (NP (NNP Trade))))))
+sid=0 spanning 3 until 8 headed by 5 parsed as (NP (NP (DT the) (NNP Chicago) (NNP Board)) (PP (IN of) (NP (NNP Trade))))
+sid=2 spanning 4 until 10 headed by 6 parsed as (NP (NP (DT a) (JJ full) (NN membership)) (PP (IN on) (NP (DT the) (NN exchange))))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN exchange))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 8 headed by 1 parsed as (NP (NP (DT A) (NN seat)) (PP (IN on) (NP (NP (DT the) (NNP Chicago) (NNP Board)) (PP (IN of) (NP (NNP Trade))))))
+sid=0 spanning 3 until 8 headed by 5 parsed as (NP (NP (DT the) (NNP Chicago) (NNP Board)) (PP (IN of) (NP (NNP Trade))))
+sid=0 spanning 16 until 21 headed by 18 parsed as (NP (NP (DT the) (JJ previous) (NN sale)) (NP (NNP Oct.) (CD 13)))
+sid=0 spanning 19 until 21 headed by 19 parsed as (NP (NNP Oct.) (CD 13))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Seats))
+sid=2 spanning 0 until 10 headed by 2 parsed as (NP (NP (DT The) (NN record) (NN price)) (PP (IN for) (NP (NP (DT a) (JJ full) (NN membership)) (PP (IN on) (NP (DT the) (NN exchange))))))
+sid=2 spanning 4 until 10 headed by 6 parsed as (NP (NP (DT a) (JJ full) (NN membership)) (PP (IN on) (NP (DT the) (NN exchange))))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN exchange))
+sid=2 spanning 15 until 19 headed by 15 parsed as (NP (NP (NNP Aug.) (CD 31)) (, ,) (NP (CD 1987)))
+(end predicted mentions)
+---------gold clusters--------
+3 1 | { 'the exchange' 'the Chicago Board of Trade' }
+0 2 | { 'A seat on the Chicago Board of Trade' 'a full membership on the exchange' }
+(end gold clusters)

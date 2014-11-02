@@ -1,0 +1,45 @@
+---------gloss--------
+(0) In a New Year 's message to the Serbian people , [1m[31m{President Vojislav Kostunica}[0m said the year 2001 will be a time of domestic healing after [36m{the triumph of what he called freedom without violence}[0m . 
+(1) [1m[31m{Mr. Kostunica}[0m was referring to [36m{the popular uprising in October that forced former President Slobodan Milosevic to accept electoral defeat}[0m . 
+(2) [1m[31m{Mr. Kostunica}[0m stressed that legal ways must be found to solve the issue of Montenegro 's drive for independence . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0205); part 000
+sentences:
+IninINOPER0aaDTOPER0NewNewNNPDATEPER0YearYearNNPDATEPER0's'sPOSDATEPER0messagemessageNNOPER0totoINOPER0thetheDTOPER0SerbianserbianJJOPER0peoplepeopleNNSOPER0,,,OPER0PresidentPresidentNNPOPER0VojislavVojislavNNPPERSONPER0KostunicaKostunicaNNPPERSONPER0saidsayVBDOPER0thetheDTDATEPER0yearyearNNDATEPER020012001CDDATEPER0willwillMDOPER0bebeVBOPER0aaDTOPER0timetimeNNOPER0ofofINOPER0domesticdomesticJJOPER0healinghealingNNOPER0afterafterINOPER0thetheDTOPER0triumphtriumphNNOPER0ofofINOPER0whatwhatWPOPER0hehePRPOPER0calledcallVBDOPER0freedomfreedomNNOPER0withoutwithoutINOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT a) (NP (NNP New) (NNP Year) (POS 's)) (NN message)) (PP (IN to) (NP (DT the) (JJ Serbian) (NNS people))))) (, ,) (NP (NNP President) (NNP Vojislav) (NNP Kostunica)) (VP (VBD said) (SBAR (S (NP (DT the) (NN year) (CD 2001)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (NN time)) (PP (IN of) (NP (JJ domestic) (NN healing)))) (PP (IN after) (NP (NP (DT the) (NN triumph)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD called) (S (NP (NP (NN freedom)) (PP (IN without) (NP (NN violence)))))))))))))))) (. .)))
+Mr.Mr.NNPOPER0KostunicaKostunicaNNPPERSONPER0wasbeVBDOPER0referringreferVBGOPER0totoINOPER0thetheDTOPER0popularpopularJJOPER0uprisinguprisingNNOPER0ininINOPER0OctoberOctoberNNPDATEPER0thatthatWDTOPER0forcedforceVBDOPER0formerformerJJOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0totoTOOPER0acceptacceptVBOPER0electoralelectoralJJOPER0defeatdefeatNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Kostunica)) (VP (VBD was) (VP (VBG referring) (PP (IN to) (NP (NP (DT the) (JJ popular) (NN uprising)) (PP (IN in) (NP (NP (NNP October)) (SBAR (WHNP (WDT that)) (S (VP (VBD forced) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (S (VP (TO to) (VP (VB accept) (NP (JJ electoral) (NN defeat)))))))))))))) (. .)))
+Mr.Mr.NNPOPER0KostunicaKostunicaNNPPERSONPER0stressedstressVBDOPER0thatthatINOPER0legallegalJJOPER0wayswayNNSOPER0mustmustMDOPER0bebeVBOPER0foundfindVBNOPER0totoTOOPER0solvesolveVBOPER0thetheDTOPER0issueissueNNOPER0ofofINOPER0MontenegroMontenegroNNPGPEPER0's'sPOSOPER0drivedriveNNOPER0forforINOPER0independenceindependenceNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Kostunica)) (VP (VBD stressed) (SBAR (IN that) (S (NP (JJ legal) (NNS ways)) (VP (MD must) (VP (VB be) (VP (VBN found) (S (VP (TO to) (VP (VB solve) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NP (NP (NNP Montenegro) (POS 's)) (NN drive)) (PP (IN for) (NP (NN independence))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (NNP President) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 26 until 35 headed by 27 parsed as (NP (NP (DT the) (NN triumph)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD called) (S (NP (NP (NN freedom)) (PP (IN without) (NP (NN violence))))))))))
+sid=0 spanning 30 until 31 headed by 30 parsed as (NP (PRP he))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Kostunica))
+sid=1 spanning 5 until 20 headed by 7 parsed as (NP (NP (DT the) (JJ popular) (NN uprising)) (PP (IN in) (NP (NP (NNP October)) (SBAR (WHNP (WDT that)) (S (VP (VBD forced) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (S (VP (TO to) (VP (VB accept) (NP (JJ electoral) (NN defeat)))))))))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Kostunica))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 10 headed by 5 parsed as (NP (NP (DT a) (NP (NNP New) (NNP Year) (POS 's)) (NN message)) (PP (IN to) (NP (DT the) (JJ Serbian) (NNS people))))
+sid=0 spanning 2 until 5 headed by 3 parsed as (NP (NNP New) (NNP Year) (POS 's))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ Serbian) (NNS people))
+sid=0 spanning 11 until 14 headed by 13 parsed as (NP (NNP President) (NNP Vojislav) (NNP Kostunica))
+sid=0 spanning 15 until 18 headed by 16 parsed as (NP (DT the) (NN year) (CD 2001))
+sid=0 spanning 20 until 25 headed by 21 parsed as (NP (NP (DT a) (NN time)) (PP (IN of) (NP (JJ domestic) (NN healing))))
+sid=0 spanning 26 until 35 headed by 27 parsed as (NP (NP (DT the) (NN triumph)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD called) (S (NP (NP (NN freedom)) (PP (IN without) (NP (NN violence))))))))))
+sid=0 spanning 30 until 31 headed by 30 parsed as (NP (PRP he))
+sid=0 spanning 32 until 35 headed by 32 parsed as (NP (NP (NN freedom)) (PP (IN without) (NP (NN violence))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Kostunica))
+sid=1 spanning 5 until 20 headed by 7 parsed as (NP (NP (DT the) (JJ popular) (NN uprising)) (PP (IN in) (NP (NP (NNP October)) (SBAR (WHNP (WDT that)) (S (VP (VBD forced) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (S (VP (TO to) (VP (VB accept) (NP (JJ electoral) (NN defeat)))))))))))
+sid=1 spanning 9 until 20 headed by 9 parsed as (NP (NP (NNP October)) (SBAR (WHNP (WDT that)) (S (VP (VBD forced) (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (S (VP (TO to) (VP (VB accept) (NP (JJ electoral) (NN defeat)))))))))
+sid=1 spanning 12 until 16 headed by 15 parsed as (NP (NML (JJ former) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Kostunica))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (JJ legal) (NNS ways))
+sid=2 spanning 11 until 19 headed by 12 parsed as (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NP (NP (NNP Montenegro) (POS 's)) (NN drive)) (PP (IN for) (NP (NN independence))))))
+sid=2 spanning 14 until 19 headed by 16 parsed as (NP (NP (NP (NNP Montenegro) (POS 's)) (NN drive)) (PP (IN for) (NP (NN independence))))
+sid=2 spanning 14 until 16 headed by 14 parsed as (NP (NNP Montenegro) (POS 's))
+(end predicted mentions)
+---------gold clusters--------
+4 1 | { 'the popular uprising in October that forced former President Slobodan Milosevic to accept electoral defeat' 'the triumph of what he called freedom without violence' }
+0 2 3 5 | { 'President Vojislav Kostunica' 'he' 'Mr. Kostunica' 'Mr. Kostunica' }
+(end gold clusters)

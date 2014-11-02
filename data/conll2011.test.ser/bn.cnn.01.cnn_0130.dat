@@ -1,0 +1,56 @@
+---------gloss--------
+(0) A return to Soviet - era symbolism in Russia is gaining favor . 
+(1) The Duma , the lower house of the Russian parliament , has voted to adopt the old Soviet national anthem as the new Russian anthem . 
+(2) The song now in use was introduced in 1993 . 
+(3) The issue sparked demonstrations , pitting supporters against [3m[33m{those who fiercely oppose a connection with what they consider a murderous regime}[0m . 
+(4) The Upper House must next approve the measure . 
+(5) [3m[34m{President Vladimir Putin}[0m has pledged [3m[34m{his}[0m support , but has called for different lyrics . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0130); part 000
+sentences:
+AaDTOPER0returnreturnNNOPER0totoINOPER0SovietSovietNNPOPER0--HYPHOPER0eraeraNNOPER0symbolismsymbolismNNOPER0ininINOPER0RussiaRussiaNNPGPEPER0isbeVBZOPER0gaininggainVBGOPER0favorfavorNNOPER0...OPER0(ROOT (S (NP (NP (DT A) (NN return)) (PP (IN to) (NP (NML (NNP Soviet) (HYPH -) (NN era)) (NN symbolism))) (PP (IN in) (NP (NNP Russia)))) (VP (VBZ is) (VP (VBG gaining) (NP (NN favor)))) (. .)))
+ThetheDTOPER0DumaDumaNNPORGPER0,,,OPER0thetheDTOPER0lowerlowerJJROPER0househouseNNOPER0ofofINOPER0thetheDTOPER0RussianrussianJJOPER0parliamentparliamentNNOPER0,,,OPER0hashaveVBZOPER0votedvoteVBNOPER0totoTOOPER0adoptadoptVBOPER0thetheDTOPER0oldoldJJOPER0SovietsovietJJOPER0nationalnationalJJOPER0anthemanthemNNOPER0asasINOPER0thetheDTOPER0newnewJJOPER0RussianrussianJJOPER0anthemanthemNNOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP Duma)) (, ,) (NP (NP (DT the) (JJR lower) (NN house)) (PP (IN of) (NP (DT the) (JJ Russian) (NN parliament)))) (, ,)) (VP (VBZ has) (VP (VBN voted) (S (VP (TO to) (VP (VB adopt) (NP (DT the) (JJ old) (JJ Soviet) (JJ national) (NN anthem)) (PP (IN as) (NP (DT the) (JJ new) (JJ Russian) (NN anthem)))))))) (. .)))
+ThetheDTOPER0songsongNNOPER0nownowRBOPER0ininINOPER0useuseNNOPER0wasbeVBDOPER0introducedintroduceVBNOPER0ininINOPER019931993CDDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN song)) (RRC (ADVP (RB now)) (PP (IN in) (NP (NN use))))) (VP (VBD was) (VP (VBN introduced) (PP (IN in) (NP (CD 1993))))) (. .)))
+ThetheDTOPER0issueissueNNOPER0sparkedsparkVBDOPER0demonstrationsdemonstrationNNSOPER0,,,OPER0pittingpitVBGOPER0supporterssupporterNNSOPER0againstagainstINOPER0thosethoseDTOPER0whowhoWPOPER0fiercelyfiercelyRBOPER0opposeopposeVBPOPER0aaDTOPER0connectionconnectionNNOPER0withwithINOPER0whatwhatWPOPER0theytheyPRPOPER0considerconsiderVBPOPER0aaDTOPER0murderousmurderousJJOPER0regimeregimeNNOPER0...OPER0(ROOT (S (NP (DT The) (NN issue)) (VP (VBD sparked) (NP (NNS demonstrations)) (, ,) (S (VP (VBG pitting) (NP (NP (NNS supporters)) (PP (IN against) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (ADVP (RB fiercely)) (VP (VBP oppose) (NP (NP (DT a) (NN connection)) (PP (IN with) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP consider) (NP (DT a) (JJ murderous) (NN regime)))))))))))))))) (. .)))
+ThetheDTORGPER0UpperUpperNNPORGPER0HouseHouseNNPORGPER0mustmustMDOPER0nextnextRBOPER0approveapproveVBOPER0thetheDTOPER0measuremeasureNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Upper) (NNP House)) (VP (MD must) (ADVP (RB next)) (VP (VB approve) (NP (DT the) (NN measure)))) (. .)))
+PresidentPresidentNNPOPER0VladimirVladimirNNPPERSONPER0PutinPutinNNPPERSONPER0hashaveVBZOPER0pledgedpledgeVBNOPER0hishePRP$OPER0supportsupportNNOPER0,,,OPER0butbutCCOPER0hashaveVBZOPER0calledcallVBNOPER0forforINOPER0differentdifferentJJOPER0lyricslyricNNSOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Vladimir) (NNP Putin)) (VP (VP (VBZ has) (VP (VBN pledged) (NP (PRP$ his) (NN support)))) (, ,) (CC but) (VP (VBZ has) (VP (VBN called) (PP (IN for) (NP (JJ different) (NNS lyrics)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=3 spanning 8 until 21 headed by 8 parsed as (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (ADVP (RB fiercely)) (VP (VBP oppose) (NP (NP (DT a) (NN connection)) (PP (IN with) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP consider) (NP (DT a) (JJ murderous) (NN regime)))))))))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (NNP President) (NNP Vladimir) (NNP Putin))
+sid=5 spanning 5 until 6 headed by 5 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT A) (NN return)) (PP (IN to) (NP (NML (NNP Soviet) (HYPH -) (NN era)) (NN symbolism))) (PP (IN in) (NP (NNP Russia))))
+sid=0 spanning 3 until 7 headed by 6 parsed as (NP (NML (NNP Soviet) (HYPH -) (NN era)) (NN symbolism))
+sid=0 spanning 8 until 9 headed by 8 parsed as (NP (NNP Russia))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (NP (DT The) (NNP Duma)) (, ,) (NP (NP (DT the) (JJR lower) (NN house)) (PP (IN of) (NP (DT the) (JJ Russian) (NN parliament)))) (, ,))
+sid=1 spanning 0 until 11 headed by 1 parsed as (NP (NP (DT The) (NNP Duma)) (, ,) (NP (NP (DT the) (JJR lower) (NN house)) (PP (IN of) (NP (DT the) (JJ Russian) (NN parliament)))) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP Duma))
+sid=1 spanning 3 until 10 headed by 5 parsed as (NP (NP (DT the) (JJR lower) (NN house)) (PP (IN of) (NP (DT the) (JJ Russian) (NN parliament))))
+sid=1 spanning 7 until 10 headed by 9 parsed as (NP (DT the) (JJ Russian) (NN parliament))
+sid=1 spanning 15 until 20 headed by 19 parsed as (NP (DT the) (JJ old) (JJ Soviet) (JJ national) (NN anthem))
+sid=1 spanning 21 until 25 headed by 24 parsed as (NP (DT the) (JJ new) (JJ Russian) (NN anthem))
+sid=2 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN song)) (RRC (ADVP (RB now)) (PP (IN in) (NP (NN use)))))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (CD 1993))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN issue))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (NNS demonstrations))
+sid=3 spanning 6 until 21 headed by 6 parsed as (NP (NP (NNS supporters)) (PP (IN against) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (ADVP (RB fiercely)) (VP (VBP oppose) (NP (NP (DT a) (NN connection)) (PP (IN with) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP consider) (NP (DT a) (JJ murderous) (NN regime)))))))))))))
+sid=3 spanning 8 until 21 headed by 8 parsed as (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (ADVP (RB fiercely)) (VP (VBP oppose) (NP (NP (DT a) (NN connection)) (PP (IN with) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP consider) (NP (DT a) (JJ murderous) (NN regime)))))))))))
+sid=3 spanning 12 until 21 headed by 13 parsed as (NP (NP (DT a) (NN connection)) (PP (IN with) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP consider) (NP (DT a) (JJ murderous) (NN regime)))))))
+sid=3 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=3 spanning 18 until 21 headed by 20 parsed as (NP (DT a) (JJ murderous) (NN regime))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Upper) (NNP House))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN measure))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (NNP President) (NNP Vladimir) (NNP Putin))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ his) (NN support))
+sid=5 spanning 5 until 6 headed by 5 parsed as (PRP$ his)
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (JJ different) (NNS lyrics))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'those who fiercely oppose a connection with what they consider a murderous regime' 'they' }
+2 3 | { 'President Vladimir Putin' 'his' }
+(end gold clusters)

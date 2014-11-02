@@ -1,0 +1,109 @@
+---------gloss--------
+(0) 2:58 a.m. , explosions reported around [1m[32m{the Palestine Hotel where international journalists are staying}[0m . 
+(1) A U.S. tank [1m[34m{shelled}[0m [1m[32m{the hotel}[0m in response to sniper fire . 
+(2) [1m[34m{The blast}[0m kills two cameramen , one from Spanish TV , another from [1m[31m{Reuters}[0m . 
+(3) Three [1m[31m{Reuters}[0m journalists were killed . 
+(4) 5:33 a.m. , Martin Savidge says [1m[36m{the Marines}[0m have found chemical protection suits and antidotes for chemical weapons in a field beside an industrial complex in southeast Baghdad . 
+(5) Nearby [1m[36m{they}[0m found abandoned weapons and artillery case , which [1m[36m{they}[0m demolished . 
+(6) 7:00 a.m. , U.S. Central Command says the coalition may never know if [1m[35m{Iraqi President Saddam Hussein}[0m survived [1m[33m{a U.S. air strike yesterday}[0m . 
+(7) A B bomber [1m[33m{dropped}[0m four 2,000 - pound bombs on a building in a residential area of Baghdad after getting intelligence reports senior officials were meeting there , possibly including [1m[35m{Saddam Hussein}[0m and [1m[35m{his}[0m sons . 
+(8) Brigadier General Vince Brooks confirmed a USA Warthog aircraft was shot down by an Iraqi missile today . 
+(9) The pilot ejected and was rescued . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0277); part 000
+sentences:
+2:582:58CDTIMEPER0a.m.a.m.NNTIMEPER0,,,OPER0explosionsexplosionNNSOPER0reportedreportVBDOPER0aroundaroundINOPER0thetheDTORGPER0PalestinePalestineNNPORGPER0HotelHotelNNPORGPER0wherewhereWRBOPER0internationalinternationalJJOPER0journalistsjournalistNNSOPER0arebeVBPOPER0stayingstayVBGOPER0...OPER0(ROOT (S (NP (CD 2:58) (NN a.m.)) (, ,) (NP (NNS explosions)) (VP (VBD reported) (PP (IN around) (NP (DT the) (NNP Palestine) (NNP Hotel))) (SBAR (WHADVP (WRB where)) (S (NP (JJ international) (NNS journalists)) (VP (VBP are) (VP (VBG staying)))))) (. .)))
+AaDTOPER0U.S.U.S.NNPGPEPER0tanktankNNOPER0shelledshellVBDOPER0thetheDTOPER0hotelhotelNNOPER0ininINOPER0responseresponseNNOPER0totoINOPER0snipersniperNNOPER0firefireNNOPER0...OPER0(ROOT (S (NP (DT A) (NNP U.S.) (NN tank)) (VP (VBD shelled) (NP (NP (DT the) (NN hotel)) (PP (IN in) (NP (NP (NN response)) (PP (IN to) (NP (NN sniper) (NN fire))))))) (. .)))
+ThetheDTOPER0blastblastNNOPER0killskillVBZOPER0twotwoCDCARDINALPER0cameramencameramanNNSOPER0,,,OPER0oneoneCDOPER0fromfromINOPER0SpanishSpanishNNPOPER0TVTVNNPOPER0,,,OPER0anotheranotherDTOPER0fromfromINOPER0ReutersReutersNNPORGPER0...OPER0(ROOT (S (NP (DT The) (NN blast)) (VP (VBZ kills) (NP (CD two) (NNS cameramen)) (, ,) (NP (NP (NP (CD one)) (PP (IN from) (NP (NNP Spanish) (NNP TV)))) (, ,) (NP (NP (DT another)) (PP (IN from) (NP (NNP Reuters)))))) (. .)))
+ThreethreeCDCARDINALPER0ReutersReutersNNPORGPER0journalistsjournalistNNSOPER0werebeVBDOPER0killedkillVBNOPER0...OPER0(ROOT (S (NP (CD Three) (NNP Reuters) (NNS journalists)) (VP (VBD were) (VP (VBN killed))) (. .)))
+5:335:33CDTIMEPER0a.m.a.m.NNTIMEPER0,,,OPER0MartinMartinNNPPERSONPER0SavidgeSavidgeNNPPERSONPER0sayssayVBZOPER0thetheDTOPER0MarinesMarinesNNPSORGPER0havehaveVBPOPER0foundfindVBNOPER0chemicalchemicalJJOPER0protectionprotectionNNOPER0suitssuitNNSOPER0andandCCOPER0antidotesantidoteNNSOPER0forforINOPER0chemicalchemicalJJOPER0weaponsweaponNNSOPER0ininINOPER0aaDTOPER0fieldfieldNNOPER0besidebesideINOPER0anaDTOPER0industrialindustrialJJOPER0complexcomplexNNOPER0ininINOPER0southeastsoutheastJJOPER0BaghdadBaghdadNNPGPEPER0...OPER0(ROOT (S (NP (NP (CD 5:33) (NN a.m.)) (, ,) (NP (NNP Martin) (NNP Savidge))) (VP (VBZ says) (SBAR (S (NP (DT the) (NNPS Marines)) (VP (VBP have) (VP (VBN found) (NP (NP (JJ chemical) (NN protection) (NNS suits)) (CC and) (NP (NP (NNS antidotes)) (PP (IN for) (NP (JJ chemical) (NNS weapons))))) (PP (IN in) (NP (NP (DT a) (NN field)) (PP (IN beside) (NP (NP (DT an) (JJ industrial) (NN complex)) (PP (IN in) (NP (JJ southeast) (NNP Baghdad)))))))))))) (. .)))
+NearbynearbyRBOPER0theytheyPRPOPER0foundfindVBDOPER0abandonedabandonVBNOPER0weaponsweaponNNSOPER0andandCCOPER0artilleryartilleryNNOPER0casecaseNNOPER0,,,OPER0whichwhichWDTOPER0theytheyPRPOPER0demolisheddemolishVBDOPER0...OPER0(ROOT (S (ADVP (RB Nearby)) (NP (PRP they)) (VP (VBD found) (NP (NP (NP (VBN abandoned) (NNS weapons)) (CC and) (NP (NN artillery) (NN case))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP they)) (VP (VBD demolished)))))) (. .)))
+7:007:00CDTIMEPER0a.m.a.m.NNTIMEPER0,,,OPER0U.S.U.S.NNPGPEPER0CentralCentralNNPORGPER0CommandCommandNNPORGPER0sayssayVBZOPER0thetheDTOPER0coalitioncoalitionNNOPER0maymayMDOPER0neverneverRBOPER0knowknowVBOPER0ififINOPER0IraqiiraqiJJOPER0PresidentPresidentNNPOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0survivedsurviveVBDOPER0aaDTOPER0U.S.U.S.NNPGPEPER0airairNNOPER0strikestrikeNNOPER0yesterdayyesterdayNNDATEPER0...OPER0(ROOT (S (NP (CD 7:00) (NN a.m.)) (, ,) (NP (NNP U.S.) (NNP Central) (NNP Command)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN coalition)) (VP (MD may) (ADVP (RB never)) (VP (VB know) (SBAR (IN if) (S (NP (NML (JJ Iraqi) (NNP President)) (NNP Saddam) (NNP Hussein)) (VP (VBD survived) (NP (DT a) (NNP U.S.) (NML (NN air) (NN strike)) (NN yesterday)))))))))) (. .)))
+AaDTOPER0BbNNPRODUCTPER0bomberbomberNNOPER0droppeddropVBDOPER0fourfourCDCARDINALPER02,0002,000CDCARDINALPER0--HYPHOPER0poundpoundNNOPER0bombsbombNNSOPER0ononINOPER0aaDTOPER0buildingbuildingNNOPER0ininINOPER0aaDTOPER0residentialresidentialJJOPER0areaareaNNOPER0ofofINOPER0BaghdadBaghdadNNPGPEPER0afterafterINOPER0gettinggetVBGOPER0intelligenceintelligenceNNOPER0reportsreportNNSOPER0seniorseniorJJOPER0officialsofficialNNSOPER0werebeVBDOPER0meetingmeetVBGOPER0therethereRBOPER0,,,OPER0possiblypossiblyRBOPER0includingincludeVBGOPER0SaddamSaddamNNPPERSONPER0HusseinHusseinNNPPERSONPER0andandCCOPER0hishePRP$OPER0sonssonNNSOPER0...OPER0(ROOT (S (NP (DT A) (NN B) (NN bomber)) (VP (VBD dropped) (NP (CD four) (NML (CD 2,000) (HYPH -) (NN pound)) (NNS bombs)) (PP (IN on) (NP (NP (DT a) (NN building)) (PP (IN in) (NP (NP (DT a) (JJ residential) (NN area)) (PP (IN of) (NP (NNP Baghdad))))))) (PP (IN after) (S (VP (VBG getting) (NP (NP (NN intelligence) (NNS reports)) (SBAR (S (NP (JJ senior) (NNS officials)) (VP (VBD were) (VP (VBG meeting) (ADVP (RB there)) (, ,) (PP (ADVP (RB possibly)) (VBG including) (NP (NP (NNP Saddam) (NNP Hussein)) (CC and) (NP (PRP$ his) (NNS sons))))))))))))) (. .)))
+BrigadierBrigadierNNPOPER0GeneralGeneralNNPOPER0VinceVinceNNPPERSONPER0BrooksBrooksNNPPERSONPER0confirmedconfirmVBDOPER0aaDTOPER0USAUSANNPORGPER0WarthogWarthogNNPPRODUCTPER0aircraftaircraftNNOPER0wasbeVBDOPER0shotshootVBNOPER0downdownRPOPER0bybyINOPER0anaDTOPER0IraqiiraqiJJOPER0missilemissileNNOPER0todaytodayNNDATEPER0...OPER0(ROOT (S (NP (NML (NNP Brigadier) (NNP General)) (NNP Vince) (NNP Brooks)) (VP (VBD confirmed) (SBAR (S (NP (DT a) (NML (NNP USA) (NNP Warthog)) (NN aircraft)) (VP (VBD was) (VP (VBN shot) (PRT (RP down)) (PP (IN by) (NP (NP (DT an) (JJ Iraqi) (NN missile)) (NP (NN today))))))))) (. .)))
+ThetheDTOPER0pilotpilotNNOPER0ejectedejectVBDOPER0andandCCOPER0wasbeVBDOPER0rescuedrescueVBNOPER0...OPER0(ROOT (S (NP (DT The) (NN pilot)) (VP (VP (VBD ejected)) (CC and) (VP (VBD was) (VP (VBN rescued)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 14 headed by 8 parsed as (NP (DT the) (NNP Palestine) (NNP Hotel))
+sid=1 spanning 3 until 4 headed by 3 parsed as shelled
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NP (DT the) (NN hotel)) (PP (IN in) (NP (NP (NN response)) (PP (IN to) (NP (NN sniper) (NN fire))))))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN blast))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNP Reuters))
+sid=3 spanning 1 until 2 headed by 1 parsed as Reuters
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNPS Marines))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP they))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=6 spanning 13 until 17 headed by 16 parsed as (NP (NML (JJ Iraqi) (NNP President)) (NNP Saddam) (NNP Hussein))
+sid=6 spanning 18 until 23 headed by 22 parsed as (NP (DT a) (NNP U.S.) (NML (NN air) (NN strike)) (NN yesterday))
+sid=7 spanning 3 until 4 headed by 3 parsed as dropped
+sid=7 spanning 30 until 32 headed by 31 parsed as (NP (NP (NNP Saddam) (NNP Hussein)) (CC and) (NP (PRP$ his) (NNS sons)))
+sid=7 spanning 33 until 34 headed by 33 parsed as his
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (CD 2:58) (NN a.m.))
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNS explosions))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP Palestine) (NNP Hotel))
+sid=0 spanning 10 until 12 headed by 11 parsed as (NP (JJ international) (NNS journalists))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP U.S.) (NN tank))
+sid=1 spanning 4 until 11 headed by 5 parsed as (NP (NP (DT the) (NN hotel)) (PP (IN in) (NP (NP (NN response)) (PP (IN to) (NP (NN sniper) (NN fire))))))
+sid=1 spanning 7 until 11 headed by 7 parsed as (NP (NP (NN response)) (PP (IN to) (NP (NN sniper) (NN fire))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NN sniper) (NN fire))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN blast))
+sid=2 spanning 3 until 5 headed by 4 parsed as (NP (CD two) (NNS cameramen))
+sid=2 spanning 6 until 14 headed by 6 parsed as (NP (NP (NP (CD one)) (PP (IN from) (NP (NNP Spanish) (NNP TV)))) (, ,) (NP (NP (DT another)) (PP (IN from) (NP (NNP Reuters)))))
+sid=2 spanning 6 until 10 headed by 6 parsed as (NP (NP (CD one)) (PP (IN from) (NP (NNP Spanish) (NNP TV))))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (NNP Spanish) (NNP TV))
+sid=2 spanning 11 until 14 headed by 11 parsed as (NP (NP (DT another)) (PP (IN from) (NP (NNP Reuters))))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNP Reuters))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (CD Three) (NNP Reuters) (NNS journalists))
+sid=3 spanning 1 until 2 headed by 1 parsed as Reuters
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NP (CD 5:33) (NN a.m.)) (, ,) (NP (NNP Martin) (NNP Savidge)))
+sid=4 spanning 0 until 5 headed by 1 parsed as (NP (NP (CD 5:33) (NN a.m.)) (, ,) (NP (NNP Martin) (NNP Savidge)))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (NNP Martin) (NNP Savidge))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NNPS Marines))
+sid=4 spanning 10 until 18 headed by 12 parsed as (NP (NP (JJ chemical) (NN protection) (NNS suits)) (CC and) (NP (NP (NNS antidotes)) (PP (IN for) (NP (JJ chemical) (NNS weapons)))))
+sid=4 spanning 10 until 13 headed by 12 parsed as (NP (JJ chemical) (NN protection) (NNS suits))
+sid=4 spanning 14 until 18 headed by 14 parsed as (NP (NP (NNS antidotes)) (PP (IN for) (NP (JJ chemical) (NNS weapons))))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (JJ chemical) (NNS weapons))
+sid=4 spanning 19 until 28 headed by 20 parsed as (NP (NP (DT a) (NN field)) (PP (IN beside) (NP (NP (DT an) (JJ industrial) (NN complex)) (PP (IN in) (NP (JJ southeast) (NNP Baghdad))))))
+sid=4 spanning 22 until 28 headed by 24 parsed as (NP (NP (DT an) (JJ industrial) (NN complex)) (PP (IN in) (NP (JJ southeast) (NNP Baghdad))))
+sid=4 spanning 26 until 28 headed by 27 parsed as (NP (JJ southeast) (NNP Baghdad))
+sid=5 spanning 1 until 2 headed by 1 parsed as (NP (PRP they))
+sid=5 spanning 3 until 12 headed by 4 parsed as (NP (NP (NP (VBN abandoned) (NNS weapons)) (CC and) (NP (NN artillery) (NN case))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP they)) (VP (VBD demolished)))))
+sid=5 spanning 3 until 8 headed by 4 parsed as (NP (NP (VBN abandoned) (NNS weapons)) (CC and) (NP (NN artillery) (NN case)))
+sid=5 spanning 3 until 5 headed by 4 parsed as (NP (VBN abandoned) (NNS weapons))
+sid=5 spanning 6 until 8 headed by 7 parsed as (NP (NN artillery) (NN case))
+sid=5 spanning 10 until 11 headed by 10 parsed as (NP (PRP they))
+sid=6 spanning 0 until 2 headed by 1 parsed as (NP (CD 7:00) (NN a.m.))
+sid=6 spanning 3 until 6 headed by 5 parsed as (NP (NNP U.S.) (NNP Central) (NNP Command))
+sid=6 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN coalition))
+sid=6 spanning 13 until 17 headed by 16 parsed as (NP (NML (JJ Iraqi) (NNP President)) (NNP Saddam) (NNP Hussein))
+sid=6 spanning 18 until 23 headed by 22 parsed as (NP (DT a) (NNP U.S.) (NML (NN air) (NN strike)) (NN yesterday))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NN B) (NN bomber))
+sid=7 spanning 4 until 9 headed by 8 parsed as (NP (CD four) (NML (CD 2,000) (HYPH -) (NN pound)) (NNS bombs))
+sid=7 spanning 10 until 18 headed by 11 parsed as (NP (NP (DT a) (NN building)) (PP (IN in) (NP (NP (DT a) (JJ residential) (NN area)) (PP (IN of) (NP (NNP Baghdad))))))
+sid=7 spanning 13 until 18 headed by 15 parsed as (NP (NP (DT a) (JJ residential) (NN area)) (PP (IN of) (NP (NNP Baghdad))))
+sid=7 spanning 17 until 18 headed by 17 parsed as (NP (NNP Baghdad))
+sid=7 spanning 20 until 35 headed by 21 parsed as (NP (NP (NN intelligence) (NNS reports)) (SBAR (S (NP (JJ senior) (NNS officials)) (VP (VBD were) (VP (VBG meeting) (ADVP (RB there)) (, ,) (PP (ADVP (RB possibly)) (VBG including) (NP (NP (NNP Saddam) (NNP Hussein)) (CC and) (NP (PRP$ his) (NNS sons)))))))))
+sid=7 spanning 22 until 24 headed by 23 parsed as (NP (JJ senior) (NNS officials))
+sid=7 spanning 30 until 32 headed by 31 parsed as (NP (NP (NNP Saddam) (NNP Hussein)) (CC and) (NP (PRP$ his) (NNS sons)))
+sid=7 spanning 30 until 35 headed by 31 parsed as (NP (NP (NNP Saddam) (NNP Hussein)) (CC and) (NP (PRP$ his) (NNS sons)))
+sid=7 spanning 33 until 35 headed by 34 parsed as (NP (PRP$ his) (NNS sons))
+sid=7 spanning 33 until 34 headed by 33 parsed as (PRP$ his)
+sid=8 spanning 0 until 4 headed by 3 parsed as (NP (NML (NNP Brigadier) (NNP General)) (NNP Vince) (NNP Brooks))
+sid=8 spanning 5 until 9 headed by 8 parsed as (NP (DT a) (NML (NNP USA) (NNP Warthog)) (NN aircraft))
+sid=8 spanning 6 until 7 headed by 6 parsed as USA
+sid=8 spanning 7 until 8 headed by 7 parsed as Warthog
+sid=8 spanning 13 until 17 headed by 15 parsed as (NP (NP (DT an) (JJ Iraqi) (NN missile)) (NP (NN today)))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN pilot))
+(end predicted mentions)
+---------gold clusters--------
+5 4 | { 'Reuters' 'Reuters' }
+2 0 | { 'the hotel' 'the Palestine Hotel where international journalists are staying' }
+10 11 | { 'a U.S. air strike yesterday' 'dropped' }
+1 3 | { 'shelled' 'The blast' }
+9 12 13 | { 'Iraqi President Saddam Hussein' 'Saddam Hussein' 'his' }
+8 7 6 | { 'they' 'they' 'the Marines' }
+(end gold clusters)

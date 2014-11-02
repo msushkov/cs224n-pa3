@@ -1,0 +1,46 @@
+---------gloss--------
+(0) Police in Pennsylvania say [4m[32m{a student}[0m fatally shot a principal before killing [4m[32m{himself}[0m [4m[31m{this morning}[0m . 
+(1) [3m[36m{It}[0m happened in the cafeteria of Red Lion Area Junior High School about 30 miles southeast of Harrisburg . 
+(2) [3m[36m{It}[0m happened at 7:30 [4m[31m{this morning}[0m . 
+(3) Students then were moved across the street to a senior high school . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0215); part 000
+sentences:
+PolicepoliceNNSOPER0ininINOPER0PennsylvaniaPennsylvaniaNNPGPEPER0saysayVBPOPER0aaDTOPER0studentstudentNNOPER0fatallyfatallyRBOPER0shotshootVBDOPER0aaDTOPER0principalprincipalNNOPER0beforebeforeINOPER0killingkillVBGOPER0himselfhimselfPRPOPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0...OPER0(ROOT (S (NP (NP (NNS Police)) (PP (IN in) (NP (NNP Pennsylvania)))) (VP (VBP say) (SBAR (S (NP (DT a) (NN student)) (ADVP (RB fatally)) (VP (VBD shot) (NP (DT a) (NN principal)) (PP (IN before) (S (VP (VBG killing) (NP (PRP himself))))) (NP (DT this) (NN morning)))))) (. .)))
+ItitPRPOPER0happenedhappenVBDOPER0ininINOPER0thetheDTOPER0cafeteriacafeteriaNNOPER0ofofINOPER0RedRedNNPORGPER0LionLionNNPORGPER0AreaAreaNNPORGPER0JuniorJuniorNNPORGPER0HighHighNNPORGPER0SchoolSchoolNNPORGPER0aboutaboutINOPER03030CDQUANTITYPER0milesmileNNSQUANTITYPER0southeastsoutheastJJOPER0ofofINOPER0HarrisburgHarrisburgNNPGPEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD happened) (PP (IN in) (NP (NP (DT the) (NN cafeteria)) (PP (IN of) (NP (NML (NML (NNP Red) (NNP Lion) (NNP Area)) (NNP Junior)) (NNP High) (NNP School))))) (PP (IN about) (NP (NP (CD 30) (NNS miles)) (PP (JJ southeast) (IN of) (NP (NNP Harrisburg)))))) (. .)))
+ItitPRPOPER0happenedhappenVBDOPER0atatINOPER07:307:30CDTIMEPER0thisthisDTTIMEPER0morningmorningNNTIMEPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBD happened) (PP (IN at) (NP (CD 7:30))) (NP (DT this) (NN morning))) (. .)))
+StudentsstudentNNSOPER0thenthenRBOPER0werebeVBDOPER0movedmoveVBNOPER0acrossacrossINOPER0thetheDTOPER0streetstreetNNOPER0totoINOPER0aaDTOPER0seniorseniorJJOPER0highhighJJOPER0schoolschoolNNOPER0...OPER0(ROOT (S (NP (NNS Students)) (ADVP (RB then)) (VP (VBD were) (VP (VBN moved) (PP (IN across) (NP (DT the) (NN street))) (PP (IN to) (NP (DT a) (JJ senior) (JJ high) (NN school))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT a) (NN student))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (PRP himself))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (DT this) (NN morning))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (DT this) (NN morning))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Police)) (PP (IN in) (NP (NNP Pennsylvania))))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NNP Pennsylvania))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (DT a) (NN student))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (DT a) (NN principal))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (PRP himself))
+sid=0 spanning 13 until 15 headed by 14 parsed as (NP (DT this) (NN morning))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 3 until 12 headed by 4 parsed as (NP (NP (DT the) (NN cafeteria)) (PP (IN of) (NP (NML (NML (NNP Red) (NNP Lion) (NNP Area)) (NNP Junior)) (NNP High) (NNP School))))
+sid=1 spanning 6 until 12 headed by 11 parsed as (NP (NML (NML (NNP Red) (NNP Lion) (NNP Area)) (NNP Junior)) (NNP High) (NNP School))
+sid=1 spanning 13 until 18 headed by 14 parsed as (NP (NP (CD 30) (NNS miles)) (PP (JJ southeast) (IN of) (NP (NNP Harrisburg))))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Harrisburg))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=2 spanning 3 until 6 headed by 3 parsed as (NP (CD 7:30))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNS Students))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN street))
+sid=3 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (JJ senior) (JJ high) (NN school))
+(end predicted mentions)
+---------gold clusters--------
+3 4 | { 'It' 'It' }
+2 5 | { 'this morning' 'this morning' }
+0 1 | { 'a student' 'himself' }
+(end gold clusters)

@@ -1,0 +1,64 @@
+---------gloss--------
+(0) Jury selection is under way in the trial of [3m[32m{four men accused in the 1998 U.S. embassy bombings in Africa}[0m . 
+(1) [3m[33m{Twin terrorist attacks in Kenya and Tanzania}[0m killed 224 people . 
+(2) Security is exceptionally tight around the courtroom and the judge has closed the jury selection proceedings to the public . 
+(3) Picking a jury could take a month . 
+(4) Prosecutors say [3m[33m{the bombings}[0m were orchestrated by [3m[34m{Osama Bin Laden}[0m . 
+(5) One of them standing trial is accused of serving as [3m[34m{Bin Laden 's}[0m personal secretary . 
+(6) [3m[32m{The four defendants}[0m are among 22 suspects believed to be involved in [3m[33m{the bombings}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0162); part 000
+sentences:
+JuryjuryNNOPER0selectionselectionNNOPER0isbeVBZOPER0underunderINOPER0waywayNNOPER0ininINOPER0thetheDTOPER0trialtrialNNOPER0ofofINOPER0fourfourCDCARDINALPER0menmanNNSOPER0accusedaccuseVBNOPER0ininINOPER0thetheDTOPER019981998CDDATEPER0U.S.U.S.NNPGPEPER0embassyembassyNNOPER0bombingsbombingNNSOPER0ininINOPER0AfricaAfricaNNPLOCPER0...OPER0(ROOT (S (NP (NN Jury) (NN selection)) (VP (VBZ is) (PP (IN under) (NP (NN way))) (PP (IN in) (NP (NP (DT the) (NN trial)) (PP (IN of) (NP (NP (CD four) (NNS men)) (VP (VBN accused) (PP (IN in) (NP (NP (DT the) (CD 1998) (NML (NNP U.S.) (NN embassy)) (NNS bombings)) (PP (IN in) (NP (NNP Africa))))))))))) (. .)))
+TwintwinJJOPER0terroristterroristNNOPER0attacksattackNNSOPER0ininINOPER0KenyaKenyaNNPGPEPER0andandCCOPER0TanzaniaTanzaniaNNPGPEPER0killedkillVBDOPER0224224CDCARDINALPER0peoplepeopleNNSOPER0...OPER0(ROOT (S (NP (NP (JJ Twin) (NN terrorist) (NNS attacks)) (PP (IN in) (NP (NNP Kenya) (CC and) (NNP Tanzania)))) (VP (VBD killed) (NP (CD 224) (NNS people))) (. .)))
+SecuritysecurityNNOPER0isbeVBZOPER0exceptionallyexceptionallyRBOPER0tighttightJJOPER0aroundaroundINOPER0thetheDTOPER0courtroomcourtroomNNOPER0andandCCOPER0thetheDTOPER0judgejudgeNNOPER0hashaveVBZOPER0closedcloseVBNOPER0thetheDTOPER0juryjuryNNOPER0selectionselectionNNOPER0proceedingsproceedingsNNSOPER0totoINOPER0thetheDTOPER0publicpublicNNOPER0...OPER0(ROOT (S (S (NP (NN Security)) (VP (VBZ is) (ADJP (RB exceptionally) (JJ tight) (PP (IN around) (NP (DT the) (NN courtroom)))))) (CC and) (S (NP (DT the) (NN judge)) (VP (VBZ has) (VP (VBN closed) (SBAR (S (NP (DT the) (NN jury) (NN selection)) (VP (NNS proceedings) (PP (IN to) (NP (DT the) (NN public))))))))) (. .)))
+PickingpickVBGOPER0aaDTOPER0juryjuryNNOPER0couldcouldMDOPER0taketakeVBOPER0aaDTOPER0monthmonthNNOPER0...OPER0(ROOT (S (S (VP (VBG Picking) (NP (DT a) (NN jury)))) (VP (MD could) (VP (VB take) (NP (DT a) (NN month)))) (. .)))
+ProsecutorsprosecutorNNSOPER0saysayVBPOPER0thetheDTOPER0bombingsbombingNNSOPER0werebeVBDOPER0orchestratedorchestrateVBDOPER0bybyINOPER0OsamaOsamaNNPPERSONPER0BinBinNNPPERSONPER0LadenLadenNNPPERSONPER0...OPER0(ROOT (S (NP (NNS Prosecutors)) (VP (VBP say) (SBAR (S (NP (DT the) (NNS bombings)) (VP (VBD were) (VP (VBD orchestrated) (PP (IN by) (NP (NNP Osama) (NNP Bin) (NNP Laden)))))))) (. .)))
+OneoneCDCARDINALPER0ofofINOPER0themtheyPRPOPER0standingstandVBGOPER0trialtrialNNOPER0isbeVBZOPER0accusedaccuseVBNOPER0ofofINOPER0servingserveVBGOPER0asasINOPER0BinBinNNPPERSONPER0LadenLadenNNPPERSONPER0's'sPOSPERSONPER0personalpersonalJJOPER0secretarysecretaryNNOPER0...OPER0(ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (NP (PRP them)) (VP (VBG standing) (NP (NN trial)))))) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VBG serving) (PP (IN as) (NP (NP (NNP Bin) (NNP Laden) (POS 's)) (JJ personal) (NN secretary)))))))) (. .)))
+ThetheDTOPER0fourfourCDCARDINALPER0defendantsdefendantNNSOPER0arebeVBPOPER0amongamongINOPER02222CDCARDINALPER0suspectssuspectNNSOPER0believedbelieveVBNOPER0totoTOOPER0bebeVBOPER0involvedinvolveVBNOPER0ininINOPER0thetheDTOPER0bombingsbombingNNSOPER0...OPER0(ROOT (S (NP (DT The) (CD four) (NNS defendants)) (VP (VBP are) (PP (IN among) (NP (NP (CD 22) (NNS suspects)) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (VP (VBN involved) (PP (IN in) (NP (DT the) (NNS bombings))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 9 until 20 headed by 10 parsed as (NP (NP (CD four) (NNS men)) (VP (VBN accused) (PP (IN in) (NP (NP (DT the) (CD 1998) (NML (NNP U.S.) (NN embassy)) (NNS bombings)) (PP (IN in) (NP (NNP Africa)))))))
+sid=0 spanning 13 until 20 headed by 17 parsed as (NP (NP (DT the) (CD 1998) (NML (NNP U.S.) (NN embassy)) (NNS bombings)) (PP (IN in) (NP (NNP Africa))))
+sid=1 spanning 0 until 7 headed by 2 parsed as (NP (NP (JJ Twin) (NN terrorist) (NNS attacks)) (PP (IN in) (NP (NNP Kenya) (CC and) (NNP Tanzania))))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS bombings))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (NNP Osama) (NNP Bin) (NNP Laden))
+sid=5 spanning 10 until 13 headed by 11 parsed as (NP (NNP Bin) (NNP Laden) (POS 's))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD four) (NNS defendants))
+sid=6 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS bombings))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NN Jury) (NN selection))
+sid=0 spanning 6 until 20 headed by 7 parsed as (NP (NP (DT the) (NN trial)) (PP (IN of) (NP (NP (CD four) (NNS men)) (VP (VBN accused) (PP (IN in) (NP (NP (DT the) (CD 1998) (NML (NNP U.S.) (NN embassy)) (NNS bombings)) (PP (IN in) (NP (NNP Africa)))))))))
+sid=0 spanning 9 until 20 headed by 10 parsed as (NP (NP (CD four) (NNS men)) (VP (VBN accused) (PP (IN in) (NP (NP (DT the) (CD 1998) (NML (NNP U.S.) (NN embassy)) (NNS bombings)) (PP (IN in) (NP (NNP Africa)))))))
+sid=0 spanning 13 until 20 headed by 17 parsed as (NP (NP (DT the) (CD 1998) (NML (NNP U.S.) (NN embassy)) (NNS bombings)) (PP (IN in) (NP (NNP Africa))))
+sid=0 spanning 14 until 15 headed by 14 parsed as 1998
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (NNP Africa))
+sid=1 spanning 0 until 7 headed by 2 parsed as (NP (NP (JJ Twin) (NN terrorist) (NNS attacks)) (PP (IN in) (NP (NNP Kenya) (CC and) (NNP Tanzania))))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNP Kenya) (CC and) (NNP Tanzania))
+sid=1 spanning 4 until 7 headed by 4 parsed as (NP (NNP Kenya) (CC and) (NNP Tanzania))
+sid=1 spanning 6 until 7 headed by 6 parsed as Tanzania
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (CD 224) (NNS people))
+sid=2 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN courtroom))
+sid=2 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN judge))
+sid=2 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (NN jury) (NN selection))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN public))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (DT a) (NN jury))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (DT a) (NN month))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNS Prosecutors))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NNS bombings))
+sid=4 spanning 7 until 10 headed by 9 parsed as (NP (NNP Osama) (NNP Bin) (NNP Laden))
+sid=5 spanning 0 until 5 headed by 0 parsed as (NP (NP (CD One)) (PP (IN of) (NP (NP (PRP them)) (VP (VBG standing) (NP (NN trial))))))
+sid=5 spanning 10 until 15 headed by 14 parsed as (NP (NP (NNP Bin) (NNP Laden) (POS 's)) (JJ personal) (NN secretary))
+sid=5 spanning 10 until 13 headed by 11 parsed as (NP (NNP Bin) (NNP Laden) (POS 's))
+sid=6 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD four) (NNS defendants))
+sid=6 spanning 5 until 14 headed by 6 parsed as (NP (NP (CD 22) (NNS suspects)) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (VP (VBN involved) (PP (IN in) (NP (DT the) (NNS bombings)))))))))
+sid=6 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNS bombings))
+(end predicted mentions)
+---------gold clusters--------
+6 0 | { 'The four defendants' 'four men accused in the 1998 U.S. embassy bombings in Africa' }
+2 7 1 3 | { 'Twin terrorist attacks in Kenya and Tanzania' 'the bombings' 'the 1998 U.S. embassy bombings in Africa' 'the bombings' }
+5 4 | { 'Bin Laden 's' 'Osama Bin Laden' }
+(end gold clusters)

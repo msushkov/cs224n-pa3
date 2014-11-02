@@ -1,0 +1,65 @@
+---------gloss--------
+(0) [32m{Microsoft}[0m confirms hackers [33m{broke}[0m into [32m{the company 's}[0m computer network and gained access to software code information . 
+(1) The FBI is investigating . 
+(2) A [32m{Microsoft}[0m executive calls [33m{the break - in}[0m an `` issue of great importance , '' but says none of the codes were tampered with . 
+(3) [32m{The company}[0m says computers running [32m{Microsoft}[0m software should n't be affected . 
+(4) [31m{`` The Wall Street Journal ''}[0m reports [33m{the break - in}[0m was discovered Wednesday . 
+(5) `` the [31m{Journal}[0m '' says security employees found passwords used to transfer codes were being sent to an e-mail address in St. Petersburg , Russia . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0075); part 000
+sentences:
+MicrosoftMicrosoftNNPORGPER0confirmsconfirmVBZOPER0hackershackerNNSOPER0brokebreakVBDOPER0intointoINOPER0thetheDTOPER0companycompanyNNOPER0's'sPOSOPER0computercomputerNNOPER0networknetworkNNOPER0andandCCOPER0gainedgainVBDOPER0accessaccessNNOPER0totoINOPER0softwaresoftwareNNOPER0codecodeNNOPER0informationinformationNNOPER0...OPER0(ROOT (S (NP (NNP Microsoft)) (VP (VBZ confirms) (SBAR (S (NP (NNS hackers)) (VP (VP (VBD broke) (PP (IN into) (NP (NP (DT the) (NN company) (POS 's)) (NN computer) (NN network)))) (CC and) (VP (VBD gained) (NP (NP (NN access)) (PP (IN to) (NP (NML (NN software) (NN code)) (NN information))))))))) (. .)))
+ThetheDTOPER0FBIFBINNPORGPER0isbeVBZOPER0investigatinginvestigateVBGOPER0...OPER0(ROOT (S (NP (DT The) (NNP FBI)) (VP (VBZ is) (VP (VBG investigating))) (. .)))
+AaDTOPER0MicrosoftMicrosoftNNPORGPER0executiveexecutiveNNOPER0callscallVBZOPER0thetheDTOPER0breakbreakNNOPER0--HYPHOPER0ininINOPER0anaDTOPER0``````OissueissueNNOPER1ofofINOPER1greatgreatJJOPER1importanceimportanceNNOPER1,,,OPER1''''''OPER0butbutCCOPER0sayssayVBZOPER0nonenoneNNOPER0ofofINOPER0thetheDTOPER0codescodeNNSOPER0werebeVBDOPER0tamperedtamperVBNOPER0withwithINOPER0...OPER0(ROOT (S (NP (DT A) (NNP Microsoft) (NN executive)) (VP (VP (VBZ calls) (NP (NP (DT the) (NN break)) (HYPH -) (PP (IN in) (NP (NP (DT an) (`` ``) (NN issue)) (PP (IN of) (NP (JJ great) (NN importance))))))) (, ,) ('' '') (CC but) (VP (VBZ says) (SBAR (S (NP (NP (NN none)) (PP (IN of) (NP (DT the) (NNS codes)))) (VP (VBD were) (VP (VBN tampered) (PP (IN with)))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0sayssayVBZOPER0computerscomputerNNSOPER0runningrunVBGOPER0MicrosoftMicrosoftNNPORGPER0softwaresoftwareNNOPER0shouldshouldMDOPER0n'tnotRBOPER0bebeVBOPER0affectedaffectVBNOPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (VP (VBZ says) (SBAR (S (NP (NP (NNS computers)) (VP (VBG running) (NP (NNP Microsoft) (NN software)))) (VP (MD should) (RB n't) (VP (VB be) (VP (VBN affected))))))) (. .)))
+``````ORGThetheDTORGPER2WallWallNNPORGPER2StreetStreetNNPORGPER2JournalJournalNNPORGPER2''''''ORGPER0reportsreportVBZOPER0thetheDTOPER0breakbreakNNOPER0--HYPHOPER0ininNNOPER0wasbeVBDOPER0discovereddiscoverVBNOPER0WednesdayWednesdayNNPDATEPER0...OPER0(ROOT (S (NP (`` ``) (DT The) (NML (NNP Wall) (NNP Street)) (NNP Journal) ('' '')) (VP (VBZ reports) (SBAR (S (NP (DT the) (NN break) (HYPH -) (NN in)) (VP (VBD was) (VP (VBN discovered) (NP (NNP Wednesday))))))) (. .)))
+``````OthetheDTWORK_OF_ARTPER3JournalJournalNNPWORK_OF_ARTPER3''''''OPER0sayssayVBZOPER0securitysecurityNNOPER0employeesemployeeNNSOPER0foundfindVBDOPER0passwordspasswordNNSOPER0useduseVBNOPER0totoTOOPER0transfertransferVBOPER0codescodeNNSOPER0werebeVBDOPER0beingbeVBGOPER0sentsendVBNOPER0totoINOPER0anaDTOPER0e-maile-mailNNOPER0addressaddressNNOPER0ininINOPER0St.St.NNPGPEPER0PetersburgPetersburgNNPGPEPER0,,,OPER0RussiaRussiaNNPGPEPER0...OPER0(ROOT (S (`` ``) (NP (DT the) (NNP Journal)) ('' '') (VP (VBZ says) (SBAR (S (NP (NN security) (NNS employees)) (VP (VBD found) (SBAR (S (NP (NP (NNS passwords)) (VP (VBN used) (S (VP (TO to) (VP (VB transfer) (NP (NNS codes))))))) (VP (VBD were) (VP (VBG being) (VP (VBN sent) (PP (IN to) (NP (NP (DT an) (NN e-mail) (NN address)) (PP (IN in) (NP (NP (NNP St.) (NNP Petersburg)) (, ,) (NP (NNP Russia))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Microsoft))
+sid=0 spanning 3 until 4 headed by 3 parsed as broke
+sid=0 spanning 5 until 8 headed by 6 parsed as (NP (DT the) (NN company) (POS 's))
+sid=2 spanning 1 until 2 headed by 1 parsed as Microsoft
+sid=2 spanning 4 until 8 headed by 7 parsed as in
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=3 spanning 5 until 6 headed by 5 parsed as Microsoft
+sid=4 spanning 0 until 6 headed by 4 parsed as (NP (`` ``) (DT The) (NML (NNP Wall) (NNP Street)) (NNP Journal) ('' ''))
+sid=4 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (NN break) (HYPH -) (NN in))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (DT the) (NNP Journal))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Microsoft))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NNS hackers))
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (NP (DT the) (NN company) (POS 's)) (NN computer) (NN network))
+sid=0 spanning 5 until 8 headed by 6 parsed as (NP (DT the) (NN company) (POS 's))
+sid=0 spanning 12 until 17 headed by 12 parsed as (NP (NP (NN access)) (PP (IN to) (NP (NML (NN software) (NN code)) (NN information))))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (NML (NN software) (NN code)) (NN information))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP FBI))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Microsoft) (NN executive))
+sid=2 spanning 1 until 2 headed by 1 parsed as Microsoft
+sid=2 spanning 4 until 14 headed by 5 parsed as (NP (NP (DT the) (NN break)) (HYPH -) (PP (IN in) (NP (NP (DT an) (`` ``) (NN issue)) (PP (IN of) (NP (JJ great) (NN importance))))))
+sid=2 spanning 8 until 14 headed by 10 parsed as (NP (NP (DT an) (`` ``) (NN issue)) (PP (IN of) (NP (JJ great) (NN importance))))
+sid=2 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNS codes))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=3 spanning 3 until 7 headed by 3 parsed as (NP (NP (NNS computers)) (VP (VBG running) (NP (NNP Microsoft) (NN software))))
+sid=3 spanning 5 until 7 headed by 6 parsed as (NP (NNP Microsoft) (NN software))
+sid=3 spanning 5 until 6 headed by 5 parsed as Microsoft
+sid=4 spanning 0 until 6 headed by 4 parsed as (NP (`` ``) (DT The) (NML (NNP Wall) (NNP Street)) (NNP Journal) ('' ''))
+sid=4 spanning 7 until 11 headed by 10 parsed as (NP (DT the) (NN break) (HYPH -) (NN in))
+sid=4 spanning 13 until 14 headed by 13 parsed as (NP (NNP Wednesday))
+sid=5 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNP Journal))
+sid=5 spanning 5 until 7 headed by 6 parsed as (NP (NN security) (NNS employees))
+sid=5 spanning 8 until 13 headed by 8 parsed as (NP (NP (NNS passwords)) (VP (VBN used) (S (VP (TO to) (VP (VB transfer) (NP (NNS codes)))))))
+sid=5 spanning 12 until 13 headed by 12 parsed as (NP (NNS codes))
+sid=5 spanning 17 until 25 headed by 19 parsed as (NP (NP (DT an) (NN e-mail) (NN address)) (PP (IN in) (NP (NP (NNP St.) (NNP Petersburg)) (, ,) (NP (NNP Russia)))))
+sid=5 spanning 21 until 23 headed by 22 parsed as (NP (NP (NNP St.) (NNP Petersburg)) (, ,) (NP (NNP Russia)))
+sid=5 spanning 21 until 25 headed by 22 parsed as (NP (NP (NNP St.) (NNP Petersburg)) (, ,) (NP (NNP Russia)))
+sid=5 spanning 24 until 25 headed by 24 parsed as (NP (NNP Russia))
+(end predicted mentions)
+---------gold clusters--------
+7 9 | { '`` The Wall Street Journal ''' 'Journal' }
+2 6 3 5 0 | { 'the company 's' 'Microsoft' 'Microsoft' 'The company' 'Microsoft' }
+1 8 4 | { 'broke' 'the break - in' 'the break - in' }
+(end gold clusters)

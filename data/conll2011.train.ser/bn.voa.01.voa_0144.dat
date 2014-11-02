@@ -1,0 +1,43 @@
+---------gloss--------
+(0) [4m[34m{UN Secretary General Kofi Annan}[0m says the AIDS epidemic that has killed an estimated 14 million people in [4m[35m{Africa}[0m , is a test of leadership on [4m[35m{the continent}[0m . 
+(1) [4m[34m{Mr. Annan}[0m told the conference of African leaders in Addis Ababa , Ethiopia that the spread of [4m[33m{HIV AIDS}[0m can be halted and future generations must be protected from contracting [4m[33m{the virus}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/01/voa_0144); part 000
+sentences:
+UNUNNNPORGPER0SecretarySecretaryNNPOPER0GeneralGeneralNNPOPER0KofiKofiNNPPERSONPER0AnnanAnnanNNPPERSONPER0sayssayVBZOPER0thetheDTOPER0AIDSAIDSNNPOPER0epidemicepidemicNNOPER0thatthatWDTOPER0hashaveVBZOPER0killedkillVBDOPER0anaDTCARDINALPER0estimatedestimateVBNCARDINALPER01414CDCARDINALPER0millionmillionCDCARDINALPER0peoplepeopleNNSOPER0ininINOPER0AfricaAfricaNNPLOCPER0,,,OPER0isbeVBZOPER0aaDTOPER0testtestNNOPER0ofofINOPER0leadershipleadershipNNOPER0ononINOPER0thetheDTOPER0continentcontinentNNOPER0...OPER0(ROOT (S (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (NNP AIDS) (NN epidemic)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBD killed) (NP (DT an) (VBN estimated) (QP (CD 14) (CD million)) (NNS people)) (PP (IN in) (NP (NNP Africa)))))))) (, ,) (VP (VBZ is) (NP (NP (DT a) (NN test)) (PP (IN of) (NP (NN leadership))) (PP (IN on) (NP (DT the) (NN continent)))))))) (. .)))
+Mr.Mr.NNPOPER0AnnanAnnanNNPPERSONPER0toldtellVBDOPER0thetheDTOPER0conferenceconferenceNNOPER0ofofINOPER0AfricanafricanJJOPER0leadersleaderNNSOPER0ininINOPER0AddisAddisNNPGPEPER0AbabaAbabaNNPGPEPER0,,,OPER0EthiopiaEthiopiaNNPGPEPER0thatthatINOPER0thetheDTOPER0spreadspreadNNOPER0ofofINOPER0HIVHIVNNPOPER0AIDSAIDSNNPOPER0cancanMDOPER0bebeVBOPER0haltedhaltVBNOPER0andandCCOPER0futurefutureJJOPER0generationsgenerationNNSOPER0mustmustMDOPER0bebeVBOPER0protectedprotectVBNOPER0fromfromINOPER0contractingcontractVBGOPER0thetheDTOPER0virusvirusNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Annan)) (VP (VBD told) (NP (NP (DT the) (NN conference)) (PP (IN of) (NP (JJ African) (NNS leaders))) (PP (IN in) (NP (NP (NNP Addis) (NNP Ababa)) (, ,) (NP (NNP Ethiopia))))) (SBAR (IN that) (S (S (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (NNP HIV) (NNP AIDS)))) (VP (MD can) (VP (VB be) (VP (VBN halted))))) (CC and) (S (NP (JJ future) (NNS generations)) (VP (MD must) (VP (VB be) (VP (VBN protected) (PP (IN from) (S (VP (VBG contracting) (NP (DT the) (NN virus)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Africa))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NN continent))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Annan))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (NNP HIV) (NNP AIDS))
+sid=1 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN virus))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (NNP UN) (NNP Secretary) (NNP General)) (NNP Kofi) (NNP Annan))
+sid=0 spanning 0 until 1 headed by 0 parsed as UN
+sid=0 spanning 6 until 19 headed by 8 parsed as (NP (NP (DT the) (NNP AIDS) (NN epidemic)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBD killed) (NP (DT an) (VBN estimated) (QP (CD 14) (CD million)) (NNS people)) (PP (IN in) (NP (NNP Africa))))))))
+sid=0 spanning 12 until 17 headed by 16 parsed as (NP (DT an) (VBN estimated) (QP (CD 14) (CD million)) (NNS people))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Africa))
+sid=0 spanning 21 until 28 headed by 22 parsed as (NP (NP (DT a) (NN test)) (PP (IN of) (NP (NN leadership))) (PP (IN on) (NP (DT the) (NN continent))))
+sid=0 spanning 26 until 28 headed by 27 parsed as (NP (DT the) (NN continent))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Annan))
+sid=1 spanning 3 until 13 headed by 4 parsed as (NP (NP (DT the) (NN conference)) (PP (IN of) (NP (JJ African) (NNS leaders))) (PP (IN in) (NP (NP (NNP Addis) (NNP Ababa)) (, ,) (NP (NNP Ethiopia)))))
+sid=1 spanning 6 until 8 headed by 7 parsed as (NP (JJ African) (NNS leaders))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NP (NNP Addis) (NNP Ababa)) (, ,) (NP (NNP Ethiopia)))
+sid=1 spanning 9 until 13 headed by 10 parsed as (NP (NP (NNP Addis) (NNP Ababa)) (, ,) (NP (NNP Ethiopia)))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (NNP Ethiopia))
+sid=1 spanning 14 until 19 headed by 15 parsed as (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (NNP HIV) (NNP AIDS))))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (NNP HIV) (NNP AIDS))
+sid=1 spanning 23 until 25 headed by 24 parsed as (NP (JJ future) (NNS generations))
+sid=1 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NN virus))
+(end predicted mentions)
+---------gold clusters--------
+4 5 | { 'HIV AIDS' 'the virus' }
+3 0 | { 'Mr. Annan' 'UN Secretary General Kofi Annan' }
+2 1 | { 'the continent' 'Africa' }
+(end gold clusters)

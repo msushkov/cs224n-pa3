@@ -1,0 +1,58 @@
+---------gloss--------
+(0) [3m[34m{Norimasa Furuta , president of Japan 's Mazda Motor Corp. ,}[0m said [3m[32m{the Japanese car maker}[0m is planning [3m[33m{joint production with Ford Motor Co. in Europe ahead of the European Community 's 1992 integration}[0m . 
+(1) [3m[34m{Mr. Furuta}[0m did n't disclose further details of [3m[33m{the arrangement}[0m at a news conference , but said [3m[33m{the project}[0m would be undertaken with [3m[31m{Ford 's}[0m European subsidiary . 
+(2) A [3m[31m{Ford}[0m official confirmed in Tokyo that [3m[31m{the U.S. motor vehicle maker}[0m is studying such an arrangement . 
+(end gloss)
+---------document--------
+(nw/wsj/13/wsj_1326); part 000
+sentences:
+NorimasaNorimasaNNPPERSONPER0FurutaFurutaNNPPERSONPER0,,,OPER0presidentpresidentNNOPER0ofofINOPER0JapanJapanNNPGPEPER0's'sPOSOPER0MazdaMazdaNNPORGPER0MotorMotorNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0saidsayVBDOPER0thetheDTOPER0JapanesejapaneseJJOPER0carcarNNOPER0makermakerNNOPER0isbeVBZOPER0planningplanVBGOPER0jointjointJJOPER0productionproductionNNOPER0withwithINOPER0FordFordNNPORGPER0MotorMotorNNPORGPER0Co.Co.NNPORGPER0ininINOPER0EuropeEuropeNNPLOCPER0aheadaheadRBOPER0ofofINOPER0thetheDTOPER0EuropeanEuropeanNNPORGPER0CommunityCommunityNNPORGPER0's'sPOSOPER019921992CDDATEPER0integrationintegrationNNOPER0...OPER0(ROOT (S (NP (NP (NNP Norimasa) (NNP Furuta)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (NNP Mazda) (NNP Motor) (NNP Corp.)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (JJ Japanese) (NN car) (NN maker)) (VP (VBZ is) (VP (VBG planning) (NP (NP (JJ joint) (NN production)) (PP (IN with) (NP (NP (NNP Ford) (NNP Motor) (NNP Co.)) (PP (IN in) (NP (NNP Europe)))))) (ADVP (RB ahead) (PP (IN of) (NP (NP (DT the) (NML (NNP European) (NNP Community)) (POS 's)) (CD 1992) (NN integration))))))))) (. .)))
+Mr.Mr.NNPOPER0FurutaFurutaNNPPERSONPER0diddoVBDOPER0n'tnotRBOPER0disclosediscloseVBOPER0furtherfurtherJJOPER0detailsdetailNNSOPER0ofofINOPER0thetheDTOPER0arrangementarrangementNNOPER0atatINOPER0aaDTOPER0newsnewsNNOPER0conferenceconferenceNNOPER0,,,OPER0butbutCCOPER0saidsayVBDOPER0thetheDTOPER0projectprojectNNOPER0wouldwouldMDOPER0bebeVBOPER0undertakenundertakeVBNOPER0withwithINOPER0FordFordNNPORGPER0's'sPOSOPER0EuropeanEuropeanNNPOPER0subsidiarysubsidiaryNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Furuta)) (VP (VP (VBD did) (RB n't) (VP (VB disclose) (NP (NP (JJ further) (NNS details)) (PP (IN of) (NP (NP (DT the) (NN arrangement)) (PP (IN at) (NP (DT a) (NN news) (NN conference)))))))) (, ,) (CC but) (VP (VBD said) (SBAR (S (NP (DT the) (NN project)) (VP (MD would) (VP (VB be) (VP (VBN undertaken) (PP (IN with) (NP (NP (NNP Ford) (POS 's)) (NNP European) (NN subsidiary)))))))))) (. .)))
+AaDTOPER0FordFordNNPORGPER0officialofficialNNOPER0confirmedconfirmVBDOPER0ininINOPER0TokyoTokyoNNPGPEPER0thatthatINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0motormotorNNOPER0vehiclevehicleNNOPER0makermakerNNOPER0isbeVBZOPER0studyingstudyVBGOPER0suchsuchPDTOPER0anaDTOPER0arrangementarrangementNNOPER0...OPER0(ROOT (S (NP (DT A) (NNP Ford) (NN official)) (VP (VBD confirmed) (PP (IN in) (NP (NNP Tokyo))) (SBAR (IN that) (S (NP (DT the) (NNP U.S.) (NML (NN motor) (NN vehicle)) (NN maker)) (VP (VBZ is) (VP (VBG studying) (NP (PDT such) (DT an) (NN arrangement))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 11 headed by 1 parsed as (NP (NP (NNP Norimasa) (NNP Furuta)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (NNP Mazda) (NNP Motor) (NNP Corp.)))) (, ,))
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (NP (NNP Japan) (POS 's)) (NNP Mazda) (NNP Motor) (NNP Corp.))
+sid=0 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (JJ Japanese) (NN car) (NN maker))
+sid=0 spanning 18 until 34 headed by 19 parsed as (NP (NP (JJ joint) (NN production)) (PP (IN with) (NP (NP (NNP Ford) (NNP Motor) (NNP Co.)) (PP (IN in) (NP (NNP Europe))))))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (NP (NNP Ford) (NNP Motor) (NNP Co.)) (PP (IN in) (NP (NNP Europe))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Furuta))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (NP (DT the) (NN arrangement)) (PP (IN at) (NP (DT a) (NN news) (NN conference))))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN project))
+sid=1 spanning 23 until 25 headed by 23 parsed as (NP (NNP Ford) (POS 's))
+sid=2 spanning 1 until 2 headed by 1 parsed as Ford
+sid=2 spanning 7 until 12 headed by 11 parsed as (NP (DT the) (NNP U.S.) (NML (NN motor) (NN vehicle)) (NN maker))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NP (NNP Norimasa) (NNP Furuta)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (NNP Mazda) (NNP Motor) (NNP Corp.)))) (, ,))
+sid=0 spanning 0 until 11 headed by 1 parsed as (NP (NP (NNP Norimasa) (NNP Furuta)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (NNP Mazda) (NNP Motor) (NNP Corp.)))) (, ,))
+sid=0 spanning 3 until 10 headed by 3 parsed as (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (NNP Mazda) (NNP Motor) (NNP Corp.))))
+sid=0 spanning 7 until 10 headed by 9 parsed as (NP (NP (NNP Japan) (POS 's)) (NNP Mazda) (NNP Motor) (NNP Corp.))
+sid=0 spanning 5 until 10 headed by 9 parsed as (NP (NP (NNP Japan) (POS 's)) (NNP Mazda) (NNP Motor) (NNP Corp.))
+sid=0 spanning 5 until 7 headed by 5 parsed as (NP (NNP Japan) (POS 's))
+sid=0 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (JJ Japanese) (NN car) (NN maker))
+sid=0 spanning 21 until 26 headed by 23 parsed as (NP (NP (NNP Ford) (NNP Motor) (NNP Co.)) (PP (IN in) (NP (NNP Europe))))
+sid=0 spanning 25 until 26 headed by 25 parsed as (NP (NNP Europe))
+sid=0 spanning 28 until 34 headed by 33 parsed as (NP (NP (DT the) (NML (NNP European) (NNP Community)) (POS 's)) (CD 1992) (NN integration))
+sid=0 spanning 28 until 32 headed by 30 parsed as (NP (DT the) (NML (NNP European) (NNP Community)) (POS 's))
+sid=0 spanning 32 until 33 headed by 32 parsed as 1992
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Furuta))
+sid=1 spanning 5 until 14 headed by 6 parsed as (NP (NP (JJ further) (NNS details)) (PP (IN of) (NP (NP (DT the) (NN arrangement)) (PP (IN at) (NP (DT a) (NN news) (NN conference))))))
+sid=1 spanning 8 until 14 headed by 9 parsed as (NP (NP (DT the) (NN arrangement)) (PP (IN at) (NP (DT a) (NN news) (NN conference))))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (NN news) (NN conference))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN project))
+sid=1 spanning 23 until 27 headed by 26 parsed as (NP (NP (NNP Ford) (POS 's)) (NNP European) (NN subsidiary))
+sid=1 spanning 23 until 25 headed by 23 parsed as (NP (NNP Ford) (POS 's))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Ford) (NN official))
+sid=2 spanning 1 until 2 headed by 1 parsed as Ford
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Tokyo))
+sid=2 spanning 7 until 12 headed by 11 parsed as (NP (DT the) (NNP U.S.) (NML (NN motor) (NN vehicle)) (NN maker))
+sid=2 spanning 14 until 17 headed by 16 parsed as (NP (PDT such) (DT an) (NN arrangement))
+(end predicted mentions)
+---------gold clusters--------
+8 9 10 4 | { 'Ford 's' 'Ford' 'the U.S. motor vehicle maker' 'Ford Motor Co.' }
+1 2 | { 'Japan 's Mazda Motor Corp.' 'the Japanese car maker' }
+3 7 6 | { 'joint production with Ford Motor Co. in Europe ahead of the European Community 's 1992 integration' 'the project' 'the arrangement' }
+5 0 | { 'Mr. Furuta' 'Norimasa Furuta , president of Japan 's Mazda Motor Corp. ,' }
+(end gold clusters)

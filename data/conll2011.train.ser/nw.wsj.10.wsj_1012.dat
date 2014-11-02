@@ -1,0 +1,91 @@
+---------gloss--------
+(0) PAPERS : 
+(1) [1m[36m{Thomson Corp. 's Globe & Mail newspaper}[0m in November will begin transmitting [1m[33m{an experimental edition}[0m to selected subscribers ' facsimile machines . 
+(2) [1m[33m{The four - page news summary}[0m will be aimed at readers outside Canada or in Canadian locations where [1m[36m{the national daily}[0m is n't available on the day of publication . 
+(3) In the U.S. , the Hartford Courant [3m[31m{has}[0m a facsimile edition and some other newspapers are considering [3m[31m{the idea}[0m . 
+(4) WHO 'S NEWS : 
+(5) Michael T. Carr , advertising director of Playboy magazine , was [1m[35m{named}[0m publisher of [1m[34m{National Lampoon}[0m and [1m[31m{Heavy Metal}[0m magazines , succeeding George Agoglia . 
+(6) [1m[35m{It}[0m was the first management change since [1m[32m{film - makers Daniel Grodnik and Tim Matheson}[0m took control of National Lampoon Inc. in March . 
+(7) [1m[32m{They}[0m are looking for a new editor for [1m[34m{National Lampoon}[0m and are trying to sell [1m[31m{Heavy Metal}[0m . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1012); part 000
+sentences:
+PAPERSpapersNNSOPER0:::OPER0(ROOT (NP (NNS PAPERS) (: :)))
+ThomsonThomsonNNPORGPER0Corp.Corp.NNPORGPER0's'sPOSORGPER0GlobeGlobeNNPORGPER0&&CCORGPER0MailMailNNPORGPER0newspapernewspaperNNOPER0ininINOPER0NovemberNovemberNNPDATEPER0willwillMDOPER0beginbeginVBOPER0transmittingtransmitVBGOPER0anaDTOPER0experimentalexperimentalJJOPER0editioneditionNNOPER0totoINOPER0selectedselectVBNOPER0subscriberssubscriberNNSOPER0''POSOPER0facsimilefacsimileJJOPER0machinesmachineNNSOPER0...OPER0(ROOT (S (NP (NP (NP (NNP Thomson) (NNP Corp.) (POS 's)) (NML (NNP Globe) (CC &) (NNP Mail)) (NN newspaper)) (PP (IN in) (NP (NNP November)))) (VP (MD will) (VP (VB begin) (S (VP (VBG transmitting) (NP (DT an) (JJ experimental) (NN edition)) (PP (IN to) (NP (NP (VBN selected) (NNS subscribers) (POS ')) (JJ facsimile) (NNS machines))))))) (. .)))
+ThetheDTOPER0fourfourCDCARDINALPER0--HYPHOPER0pagepageNNOPER0newsnewsNNOPER0summarysummaryNNOPER0willwillMDOPER0bebeVBOPER0aimedaimVBNOPER0atatINOPER0readersreaderNNSOPER0outsideoutsideINOPER0CanadaCanadaNNPGPEPER0ororCCOPER0ininINOPER0CanadiancanadianJJOPER0locationslocationNNSOPER0wherewhereWRBOPER0thetheDTOPER0nationalnationalJJOPER0dailydailyNNOPER0isbeVBZOPER0n'tnotRBOPER0availableavailableJJOPER0ononINOPER0thetheDTDATEPER0daydayNNDATEPER0ofofINOPER0publicationpublicationNNOPER0...OPER0(ROOT (S (NP (DT The) (NML (CD four) (HYPH -) (NN page)) (NN news) (NN summary)) (VP (MD will) (VP (VB be) (VP (VBN aimed) (PP (PP (IN at) (NP (NP (NNS readers)) (PP (IN outside) (NP (NNP Canada))))) (CC or) (PP (IN in) (NP (NP (JJ Canadian) (NNS locations)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ national) (NN daily)) (VP (VBZ is) (RB n't) (ADJP (JJ available)) (PP (IN on) (NP (NP (DT the) (NN day)) (PP (IN of) (NP (NN publication)))))))))))))) (. .)))
+IninINOPER0thetheDTOPER0U.S.U.S.NNPGPEPER0,,,OPER0thetheDTORGPER0HartfordHartfordNNPORGPER0CourantCourantNNPORGPER0hashaveVBZOPER0aaDTOPER0facsimilefacsimileJJOPER0editioneditionNNOPER0andandCCOPER0somesomeDTOPER0otherotherJJOPER0newspapersnewspaperNNSOPER0arebeVBPOPER0consideringconsiderVBGOPER0thetheDTOPER0ideaideaNNOPER0...OPER0(ROOT (S (S (PP (IN In) (NP (DT the) (NNP U.S.))) (, ,) (NP (DT the) (NNP Hartford) (NNP Courant)) (VP (VBZ has) (NP (DT a) (JJ facsimile) (NN edition)))) (CC and) (S (NP (DT some) (JJ other) (NNS newspapers)) (VP (VBP are) (VP (VBG considering) (NP (DT the) (NN idea))))) (. .)))
+WHOwhoWPOPER0'SbeVBZOPER0NEWSnewsNNOPER0:::OPER0(ROOT (SBARQ (WHNP (WP WHO)) (SQ (VP (VBZ 'S) (NP (NN NEWS)))) (: :)))
+MichaelMichaelNNPPERSONPER0T.T.NNPPERSONPER0CarrCarrNNPPERSONPER0,,,OPER0advertisingadvertisingNNOPER0directordirectorNNOPER0ofofINOPER0PlayboyPlayboyNNPORGPER0magazinemagazineNNOPER0,,,OPER0wasbeVBDOPER0namednameVBNOPER0publisherpublisherNNOPER0ofofINOPER0NationalNationalNNPORGPER0LampoonLampoonNNPORGPER0andandCCORGPER0HeavyHeavyNNPORGPER0MetalMetalNNPORGPER0magazinesmagazineNNSOPER0,,,OPER0succeedingsucceedVBGOPER0GeorgeGeorgeNNPPERSONPER0AgogliaAgogliaNNPPERSONPER0...OPER0(ROOT (S (NP (NP (NNP Michael) (NNP T.) (NNP Carr)) (, ,) (NP (NP (NN advertising) (NN director)) (PP (IN of) (NP (NNP Playboy) (NN magazine)))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN publisher)) (PP (IN of) (NP (NP (NP (NNP National) (NNP Lampoon)) (CC and) (NP (NNP Heavy) (NNP Metal))) (NNS magazines))))) (, ,) (S (VP (VBG succeeding) (NP (NNP George) (NNP Agoglia)))))) (. .)))
+ItitPRPOPER0wasbeVBDOPER0thetheDTOPER0firstfirstJJORDINALPER0managementmanagementNNOPER0changechangeNNOPER0sincesinceINOPER0filmfilmNNOPER0--HYPHOPER0makersmakerNNSOPER0DanielDanielNNPPERSONPER0GrodnikGrodnikNNPPERSONPER0andandCCOPER0TimTimNNPPERSONPER0MathesonMathesonNNPPERSONPER0tooktakeVBDOPER0controlcontrolNNOPER0ofofINOPER0NationalNationalNNPORGPER0LampoonLampoonNNPORGPER0Inc.Inc.NNPORGPER0ininINOPER0MarchMarchNNPDATEPER0...OPER0(ROOT (S (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (JJ first) (NN management) (NN change)) (PP (IN since) (NP (NN film) (HYPH -) (NNS makers)))))) (NP (NP (NNP Daniel) (NNP Grodnik)) (CC and) (NP (NNP Tim) (NNP Matheson))) (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (NNP National) (NNP Lampoon) (NNP Inc.)))) (PP (IN in) (NP (NNP March)))) (. .)))
+TheytheyPRPOPER0arebeVBPOPER0lookinglookVBGOPER0forforINOPER0aaDTOPER0newnewJJOPER0editoreditorNNOPER0forforINOPER0NationalNationalNNPORGPER0LampoonLampoonNNPORGPER0andandCCOPER0arebeVBPOPER0tryingtryVBGOPER0totoTOOPER0sellsellVBOPER0HeavyHeavyNNPORGPER0MetalMetalNNPORGPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (DT a) (JJ new) (NN editor)) (PP (IN for) (NP (NNP National) (NNP Lampoon))))))) (CC and) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB sell) (NP (NNP Heavy) (NNP Metal)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 0 until 7 headed by 6 parsed as (NP (NP (NP (NNP Thomson) (NNP Corp.) (POS 's)) (NML (NNP Globe) (CC &) (NNP Mail)) (NN newspaper)) (PP (IN in) (NP (NNP November))))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT an) (JJ experimental) (NN edition))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (CD four) (HYPH -) (NN page)) (NN news) (NN summary))
+sid=2 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (JJ national) (NN daily))
+sid=3 spanning 7 until 8 headed by 7 parsed as has
+sid=3 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN idea))
+sid=5 spanning 11 until 12 headed by 11 parsed as named
+sid=5 spanning 14 until 16 headed by 15 parsed as (NP (NP (NNP National) (NNP Lampoon)) (CC and) (NP (NNP Heavy) (NNP Metal)))
+sid=5 spanning 17 until 19 headed by 18 parsed as (NP (NNP Heavy) (NNP Metal))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 7 until 15 headed by 9 parsed as (NP (NN film) (HYPH -) (NNS makers))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (NNP National) (NNP Lampoon))
+sid=7 spanning 15 until 17 headed by 16 parsed as (NP (NNP Heavy) (NNP Metal))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNS PAPERS) (: :))
+sid=1 spanning 0 until 9 headed by 6 parsed as (NP (NP (NP (NNP Thomson) (NNP Corp.) (POS 's)) (NML (NNP Globe) (CC &) (NNP Mail)) (NN newspaper)) (PP (IN in) (NP (NNP November))))
+sid=1 spanning 0 until 6 headed by 3 parsed as Globe
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (NNP November))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT an) (JJ experimental) (NN edition))
+sid=1 spanning 16 until 21 headed by 20 parsed as (NP (NP (VBN selected) (NNS subscribers) (POS ')) (JJ facsimile) (NNS machines))
+sid=1 spanning 16 until 19 headed by 16 parsed as (NP (VBN selected) (NNS subscribers) (POS '))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (NML (CD four) (HYPH -) (NN page)) (NN news) (NN summary))
+sid=2 spanning 10 until 13 headed by 10 parsed as (NP (NP (NNS readers)) (PP (IN outside) (NP (NNP Canada))))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Canada))
+sid=2 spanning 15 until 29 headed by 16 parsed as (NP (NP (JJ Canadian) (NNS locations)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ national) (NN daily)) (VP (VBZ is) (RB n't) (ADJP (JJ available)) (PP (IN on) (NP (NP (DT the) (NN day)) (PP (IN of) (NP (NN publication)))))))))
+sid=2 spanning 18 until 21 headed by 20 parsed as (NP (DT the) (JJ national) (NN daily))
+sid=2 spanning 25 until 29 headed by 26 parsed as (NP (NP (DT the) (NN day)) (PP (IN of) (NP (NN publication))))
+sid=3 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNP U.S.))
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP Hartford) (NNP Courant))
+sid=3 spanning 8 until 11 headed by 10 parsed as (NP (DT a) (JJ facsimile) (NN edition))
+sid=3 spanning 12 until 15 headed by 14 parsed as (NP (DT some) (JJ other) (NNS newspapers))
+sid=3 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN idea))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Michael) (NNP T.) (NNP Carr)) (, ,) (NP (NP (NN advertising) (NN director)) (PP (IN of) (NP (NNP Playboy) (NN magazine)))) (, ,))
+sid=5 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Michael) (NNP T.) (NNP Carr)) (, ,) (NP (NP (NN advertising) (NN director)) (PP (IN of) (NP (NNP Playboy) (NN magazine)))) (, ,))
+sid=5 spanning 4 until 9 headed by 5 parsed as (NP (NP (NN advertising) (NN director)) (PP (IN of) (NP (NNP Playboy) (NN magazine))))
+sid=5 spanning 7 until 9 headed by 8 parsed as (NP (NNP Playboy) (NN magazine))
+sid=5 spanning 7 until 8 headed by 7 parsed as Playboy
+sid=5 spanning 12 until 20 headed by 12 parsed as (NP (NP (NN publisher)) (PP (IN of) (NP (NP (NP (NNP National) (NNP Lampoon)) (CC and) (NP (NNP Heavy) (NNP Metal))) (NNS magazines))))
+sid=5 spanning 14 until 20 headed by 19 parsed as (NP (NP (NP (NNP National) (NNP Lampoon)) (CC and) (NP (NNP Heavy) (NNP Metal))) (NNS magazines))
+sid=5 spanning 14 until 19 headed by 15 parsed as (NP (NP (NNP National) (NNP Lampoon)) (CC and) (NP (NNP Heavy) (NNP Metal)))
+sid=5 spanning 22 until 24 headed by 23 parsed as (NP (NNP George) (NNP Agoglia))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=6 spanning 2 until 10 headed by 5 parsed as (NP (NP (DT the) (JJ first) (NN management) (NN change)) (PP (IN since) (NP (NN film) (HYPH -) (NNS makers))))
+sid=6 spanning 3 until 4 headed by 3 parsed as first
+sid=6 spanning 7 until 10 headed by 9 parsed as (NP (NN film) (HYPH -) (NNS makers))
+sid=6 spanning 10 until 12 headed by 11 parsed as (NP (NP (NNP Daniel) (NNP Grodnik)) (CC and) (NP (NNP Tim) (NNP Matheson)))
+sid=6 spanning 10 until 15 headed by 11 parsed as (NP (NP (NNP Daniel) (NNP Grodnik)) (CC and) (NP (NNP Tim) (NNP Matheson)))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (NNP Tim) (NNP Matheson))
+sid=6 spanning 16 until 21 headed by 16 parsed as (NP (NP (NN control)) (PP (IN of) (NP (NNP National) (NNP Lampoon) (NNP Inc.))))
+sid=6 spanning 18 until 21 headed by 20 parsed as (NP (NNP National) (NNP Lampoon) (NNP Inc.))
+sid=6 spanning 22 until 23 headed by 22 parsed as (NP (NNP March))
+sid=7 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=7 spanning 4 until 10 headed by 6 parsed as (NP (NP (DT a) (JJ new) (NN editor)) (PP (IN for) (NP (NNP National) (NNP Lampoon))))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (NNP National) (NNP Lampoon))
+sid=7 spanning 15 until 17 headed by 16 parsed as (NP (NNP Heavy) (NNP Metal))
+(end predicted mentions)
+---------gold clusters--------
+13 8 | { 'Heavy Metal' 'Heavy Metal' }
+10 11 | { 'film - makers Daniel Grodnik and Tim Matheson' 'They' }
+1 2 | { 'an experimental edition' 'The four - page news summary' }
+12 7 | { 'National Lampoon' 'National Lampoon' }
+9 6 | { 'It' 'named' }
+3 0 | { 'the national daily' 'Thomson Corp. 's Globe & Mail newspaper' }
+5 4 | { 'the idea' 'has' }
+(end gold clusters)

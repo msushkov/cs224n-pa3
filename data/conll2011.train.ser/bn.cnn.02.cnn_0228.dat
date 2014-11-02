@@ -1,0 +1,82 @@
+---------gloss--------
+(0) Good evening . 
+(1) Welcome , everyone . 
+(2) Mike Galanos is off tonight . 
+(3) Our top story -- [1m[31m{Eric Robert Rudolph}[0m has officially said [1m[31m{he}[0m did n't do [35m{it}[0m . 
+(4) [1m[31m{He}[0m pleaded not guilty to [35m{bombing}[0m a Birmingham women 's clinic in 1998 . 
+(5) [1m[31m{The suspected serial bomber}[0m appeared in a federal courthouse Tuesday afternoon . 
+(6) [1m[31m{He}[0m is also suspected in three Atlanta - area bombings . 
+(7) [36m{North Carolina authorities}[0m say [1m[31m{Rudolph}[0m opened up to [36m{them}[0m about [1m[31m{his}[0m five years on the run . 
+(8) [1m[31m{He}[0m says [1m[31m{he}[0m hunted wild animals , searched the trash for food , and covered [1m[31m{himself}[0m with leaves to make it through the winters . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0228); part 000
+sentences:
+GoodgoodJJOPER0eveningeveningNNTIMEPER0...OPER0(ROOT (INTJ (JJ Good) (NN evening) (. .)))
+WelcomewelcomeUHOPER0,,,OPER0everyoneeveryoneNNOPER0...OPER0(ROOT (FRAG (INTJ (UH Welcome)) (, ,) (NP (NN everyone)) (. .)))
+MikeMikeNNPPERSONPER0GalanosGalanosNNPPERSONPER0isbeVBZOPER0offoffRBOPER0tonighttonightNNTIMEPER0...OPER0(ROOT (S (NP (NNP Mike) (NNP Galanos)) (VP (VBZ is) (ADVP (RB off)) (NP (NN tonight))) (. .)))
+OurwePRP$OPER0toptopJJOPER0storystoryNNOPER0----:OPER0EricEricNNPPERSONPER0RobertRobertNNPPERSONPER0RudolphRudolphNNPPERSONPER0hashaveVBZOPER0officiallyofficiallyRBOPER0saidsayVBDOPER0hehePRPOPER0diddoVBDOPER0n'tnotRBOPER0dodoVBOPER0ititPRPOPER0...OPER0(ROOT (S (NP (NP (PRP$ Our) (JJ top) (NN story)) (: --) (NP (NNP Eric) (NNP Robert) (NNP Rudolph))) (VP (VBZ has) (ADVP (RB officially)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB do) (NP (PRP it)))))))) (. .)))
+HehePRPOPER0pleadedpleadVBDOPER0notnotRBOPER0guiltyguiltyJJOPER0totoINOPER0bombingbombVBGOPER0aaDTOPER0BirminghamBirminghamNNPGPEPER0womenwomanNNSOPER0's'sPOSOPER0clinicclinicNNOPER0ininINOPER019981998CDDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD pleaded) (S (ADJP (RB not) (JJ guilty) (PP (IN to) (S (VP (VBG bombing) (NP (NP (DT a) (NNP Birmingham) (NNS women) (POS 's)) (NN clinic)) (PP (IN in) (NP (CD 1998))))))))) (. .)))
+ThetheDTOPER0suspectedsuspectVBNOPER0serialserialJJOPER0bomberbomberNNOPER0appearedappearVBDOPER0ininINOPER0aaDTOPER0federalfederalJJOPER0courthousecourthouseNNOPER0TuesdayTuesdayNNPDATEPER0afternoonafternoonNNTIMEPER0...OPER0(ROOT (S (NP (DT The) (VBN suspected) (JJ serial) (NN bomber)) (VP (VBD appeared) (PP (IN in) (NP (DT a) (JJ federal) (NN courthouse))) (NP (NNP Tuesday) (NN afternoon))) (. .)))
+HehePRPOPER0isbeVBZOPER0alsoalsoRBOPER0suspectedsuspectVBNOPER0ininINOPER0threethreeCDCARDINALPER0AtlantaAtlantaNNPGPEPER0--HYPHOPER0areaareaNNOPER0bombingsbombingNNSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN suspected) (PP (IN in) (NP (CD three) (NML (NNP Atlanta) (HYPH -) (NN area)) (NNS bombings))))) (. .)))
+NorthNorthNNPGPEPER0CarolinaCarolinaNNPGPEPER0authoritiesauthorityNNSOPER0saysayVBPOPER0RudolphRudolphNNPORGPER0openedopenVBDOPER0upupRPOPER0totoINOPER0themtheyPRPOPER0aboutaboutINOPER0hishePRP$OPER0fivefiveCDDATEPER0yearsyearNNSDATEPER0ononINOPER0thetheDTOPER0runrunNNOPER0...OPER0(ROOT (S (NP (NML (NNP North) (NNP Carolina)) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NNP Rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (IN to) (NP (PRP them))) (PP (IN about) (NP (NP (PRP$ his) (CD five) (NNS years)) (PP (IN on) (NP (DT the) (NN run))))))))) (. .)))
+HehePRPOPER0sayssayVBZOPER0hehePRPOPER0huntedhuntedNNPOPER0wildwildJJOPER0animalsanimalNNSOPER0,,,OPER0searchedsearchVBDOPER0thetheDTOPER0trashtrashNNOPER0forforINOPER0foodfoodNNOPER0,,,OPER0andandCCOPER0coveredcoverVBDOPER0himselfhimselfPRPOPER0withwithINOPER0leavesleafNNSOPER0totoTOOPER0makemakeVBOPER0ititPRPOPER0throughthroughINOPER0thetheDTOPER0winterswinterNNSDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (NP (PRP he)) (NP (NNP hunted) (JJ wild) (NNS animals))) (, ,) (VP (VP (VBD searched) (NP (DT the) (NN trash)) (PP (IN for) (NP (NN food)))) (, ,) (CC and) (VP (VBD covered) (NP (PRP himself)) (PP (IN with) (NP (NNS leaves))) (S (VP (TO to) (VP (VB make) (NP (PRP it)) (PP (IN through) (NP (DT the) (NNS winters))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (NNP Eric) (NNP Robert) (NNP Rudolph))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 5 until 6 headed by 5 parsed as bombing
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (VBN suspected) (JJ serial) (NN bomber))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP North) (NNP Carolina)) (NNS authorities))
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (NNP Rudolph))
+sid=7 spanning 8 until 9 headed by 8 parsed as (NP (PRP them))
+sid=7 spanning 10 until 11 headed by 10 parsed as his
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 2 until 3 headed by 2 parsed as (NP (NP (PRP he)) (NP (NNP hunted) (JJ wild) (NNS animals)))
+sid=8 spanning 15 until 16 headed by 15 parsed as (NP (PRP himself))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as evening
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mike) (NNP Galanos))
+sid=3 spanning 0 until 7 headed by 2 parsed as (NP (NP (PRP$ Our) (JJ top) (NN story)) (: --) (NP (NNP Eric) (NNP Robert) (NNP Rudolph)))
+sid=3 spanning 0 until 1 headed by 0 parsed as (PRP$ Our)
+sid=3 spanning 4 until 7 headed by 6 parsed as (NP (NNP Eric) (NNP Robert) (NNP Rudolph))
+sid=3 spanning 10 until 11 headed by 10 parsed as (NP (PRP he))
+sid=3 spanning 14 until 15 headed by 14 parsed as (NP (PRP it))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 6 until 11 headed by 10 parsed as (NP (NP (DT a) (NNP Birmingham) (NNS women) (POS 's)) (NN clinic))
+sid=4 spanning 6 until 10 headed by 8 parsed as (NP (DT a) (NNP Birmingham) (NNS women) (POS 's))
+sid=4 spanning 7 until 8 headed by 7 parsed as Birmingham
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (CD 1998))
+sid=5 spanning 0 until 4 headed by 3 parsed as (NP (DT The) (VBN suspected) (JJ serial) (NN bomber))
+sid=5 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (JJ federal) (NN courthouse))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (NNP Tuesday) (NN afternoon))
+sid=5 spanning 9 until 10 headed by 9 parsed as Tuesday
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 5 until 10 headed by 9 parsed as (NP (CD three) (NML (NNP Atlanta) (HYPH -) (NN area)) (NNS bombings))
+sid=6 spanning 6 until 7 headed by 6 parsed as Atlanta
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (NML (NNP North) (NNP Carolina)) (NNS authorities))
+sid=7 spanning 0 until 2 headed by 1 parsed as Carolina
+sid=7 spanning 4 until 5 headed by 4 parsed as (NP (NNP Rudolph))
+sid=7 spanning 8 until 9 headed by 8 parsed as (NP (PRP them))
+sid=7 spanning 10 until 16 headed by 12 parsed as (NP (NP (PRP$ his) (CD five) (NNS years)) (PP (IN on) (NP (DT the) (NN run))))
+sid=7 spanning 10 until 11 headed by 10 parsed as (PRP$ his)
+sid=7 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NN run))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 2 until 6 headed by 2 parsed as (NP (NP (PRP he)) (NP (NNP hunted) (JJ wild) (NNS animals)))
+sid=8 spanning 3 until 6 headed by 5 parsed as (NP (NNP hunted) (JJ wild) (NNS animals))
+sid=8 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN trash))
+sid=8 spanning 15 until 16 headed by 15 parsed as (NP (PRP himself))
+sid=8 spanning 17 until 18 headed by 17 parsed as (NP (NNS leaves))
+sid=8 spanning 20 until 21 headed by 20 parsed as (NP (PRP it))
+sid=8 spanning 22 until 24 headed by 23 parsed as (NP (DT the) (NNS winters))
+(end predicted mentions)
+---------gold clusters--------
+2 4 | { 'it' 'bombing' }
+7 9 | { 'North Carolina authorities' 'them' }
+6 8 11 1 12 3 5 13 10 0 | { 'He' 'Rudolph' 'He' 'he' 'he' 'He' 'The suspected serial bomber' 'himself' 'his' 'Eric Robert Rudolph' }
+(end gold clusters)

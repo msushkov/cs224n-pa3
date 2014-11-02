@@ -1,0 +1,102 @@
+---------gloss--------
+(0) [4m[35m{Freeport - McMoRan Inc.}[0m said [4m[32m{a temporary cessation of operations at its Sunshine Bridge uranium - recovery facility in Donaldsonville , La. ,}[0m will result in slight earnings improvement to both the [4m[35m{company}[0m and [4m[35m{its}[0m [4m[35m{Freeport - McMoRan}[0m Resource Partners Limited Partnership unit . 
+(1) [4m[35m{The company}[0m did n't elaborate . 
+(2) [4m[35m{The diversified energy and minerals concern}[0m said that [4m[33m{a depressed uranium market}[0m is responsible for the temporary mothballing of [4m[31m{the plant}[0m , but that [4m[31m{the plant}[0m can be reactivated quickly when [4m[33m{the market}[0m improves . 
+(3) More than 400,000 pounds of uranium a year have been produced at [4m[31m{the facility}[0m during the past seven years . 
+(4) A second uranium - recovery plant at Uncle Sam , [4m[34m{La.}[0m , that produces more than 700,000 pounds of uranium annually , will continue to operate . 
+(5) [4m[35m{Freeport - McMoRan}[0m said [4m[32m{the shutdown}[0m wo n't affect sales volumes under long - term sales contracts of [4m[35m{its}[0m Freeport Uranium Recovery Co. unit , but will reduce the amount of product sold on the spot market . 
+(6) [4m[35m{Freeport - McMoRan}[0m Resource Partners , as owner of the uranium - recovery technology , receives royalty payments . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2439); part 000
+sentences:
+FreeportFreeportNNPORGPER0--HYPHORGPER0McMoRanMcMoRanNNPORGPER0Inc.Inc.NNPORGPER0saidsayVBDOPER0aaDTOPER0temporarytemporaryJJOPER0cessationcessationNNOPER0ofofINOPER0operationsoperationNNSOPER0atatINOPER0itsitsPRP$OPER0SunshineSunshineNNPFACPER0BridgeBridgeNNPFACPER0uraniumuraniumNNOPER0--HYPHOPER0recoveryrecoveryNNOPER0facilityfacilityNNOPER0ininINOPER0DonaldsonvilleDonaldsonvilleNNPGPEPER0,,,OPER0La.La.NNPGPEPER0,,,OPER0willwillMDOPER0resultresultVBOPER0ininINOPER0slightslightJJOPER0earningsearningsNNSOPER0improvementimprovementNNOPER0totoINOPER0bothbothPDTOPER0thetheDTOPER0companycompanyNNOPER0andandCCOPER0itsitsPRP$OPER0FreeportFreeportNNPORGPER0--HYPHORGPER0McMoRanMcMoRanNNPORGPER0ResourceResourceNNPORGPER0PartnersPartnersNNPSORGPER0LimitedLimitedNNPORGPER0PartnershipPartnershipNNPORGPER0unitunitNNOPER0...OPER0(ROOT (S (NP (NNP Freeport) (HYPH -) (NNP McMoRan) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (NP (DT a) (JJ temporary) (NN cessation)) (PP (IN of) (NP (NP (NNS operations)) (PP (IN at) (NP (NP (PRP$ its) (NML (NNP Sunshine) (NNP Bridge)) (NML (NN uranium) (HYPH -) (NN recovery)) (NN facility)) (PP (IN in) (NP (NP (NNP Donaldsonville)) (, ,) (NP (NNP La.)) (, ,)))))))) (VP (MD will) (VP (VB result) (PP (IN in) (NP (NP (JJ slight) (NNS earnings) (NN improvement)) (PP (IN to) (NP (NP (PDT both) (DT the) (NN company)) (CC and) (NP (PRP$ its) (NML (NNP Freeport) (HYPH -) (NNP McMoRan)) (NML (NNP Resource) (NNPS Partners) (NNP Limited) (NNP Partnership)) (NN unit))))))))))) (. .)))
+ThetheDTOPER0companycompanyNNOPER0diddoVBDOPER0n'tnotRBOPER0elaborateelaborateVBOPER0...OPER0(ROOT (S (NP (DT The) (NN company)) (VP (VBD did) (RB n't) (VP (VB elaborate))) (. .)))
+ThetheDTOPER0diversifieddiversifiedJJOPER0energyenergyNNOPER0andandCCOPER0mineralsmineralNNSOPER0concernconcernNNOPER0saidsayVBDOPER0thatthatINOPER0aaDTOPER0depresseddepressedJJOPER0uraniumuraniumNNOPER0marketmarketNNOPER0isbeVBZOPER0responsibleresponsibleJJOPER0forforINOPER0thetheDTOPER0temporarytemporaryJJOPER0mothballingmothballingNNOPER0ofofINOPER0thetheDTOPER0plantplantNNOPER0,,,OPER0butbutCCOPER0thatthatINOPER0thetheDTOPER0plantplantNNOPER0cancanMDOPER0bebeVBOPER0reactivatedreactivateVBDOPER0quicklyquicklyRBOPER0whenwhenWRBOPER0thetheDTOPER0marketmarketNNOPER0improvesimproveVBZOPER0...OPER0(ROOT (S (NP (DT The) (JJ diversified) (NML (NN energy) (CC and) (NNS minerals)) (NN concern)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (DT a) (JJ depressed) (NN uranium) (NN market)) (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (NP (NP (DT the) (JJ temporary) (NN mothballing)) (PP (IN of) (NP (DT the) (NN plant))))))))) (, ,) (CC but) (SBAR (IN that) (S (NP (DT the) (NN plant)) (VP (MD can) (VP (VB be) (VP (VBD reactivated) (ADVP (RB quickly)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN market)) (VP (VBZ improves))))))))))) (. .)))
+MoremoreJJRQUANTITYPER0thanthanINQUANTITYPER0400,000400,000CDQUANTITYPER0poundspoundNNSQUANTITYPER0ofofINOPER0uraniumuraniumNNOPER0aaDTOPER0yearyearNNDATEPER0havehaveVBPOPER0beenbeVBNOPER0producedproduceVBNOPER0atatINOPER0thetheDTOPER0facilityfacilityNNOPER0duringduringINOPER0thetheDTDATEPER0pastpastJJDATEPER0sevensevenCDDATEPER0yearsyearNNSDATEPER0...OPER0(ROOT (S (NP (NP (QP (XS (JJR More) (IN than)) (CD 400,000)) (NNS pounds)) (PP (IN of) (NP (NN uranium) (DT a) (NN year)))) (VP (VBP have) (VP (VBN been) (VP (VBN produced) (PP (IN at) (NP (DT the) (NN facility))) (PP (IN during) (NP (DT the) (JJ past) (CD seven) (NNS years)))))) (. .)))
+AaDTOPER0secondsecondJJOPER0uraniumuraniumNNOPER0--HYPHOPER0recoveryrecoveryNNOPER0plantplantNNOPER0atatINOPER0UncleUncleNNPGPEPER0SamSamNNPGPEPER0,,,OPER0La.La.NNPGPEPER0,,,OPER0thatthatWDTOPER0producesproduceVBZOPER0moremoreJJRQUANTITYPER0thanthanINQUANTITYPER0700,000700,000CDQUANTITYPER0poundspoundNNSQUANTITYPER0ofofINOPER0uraniumuraniumNNOPER0annuallyannuallyRBDATEPER0,,,OPER0willwillMDOPER0continuecontinueVBOPER0totoTOOPER0operateoperateVBOPER0...OPER0(ROOT (S (NP (NP (NP (DT A) (JJ second) (NML (NN uranium) (HYPH -) (NN recovery)) (NN plant)) (PP (IN at) (NP (NP (NNP Uncle) (NNP Sam)) (, ,) (NP (NNP La.))))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ produces) (NP (NP (QP (XS (JJR more) (IN than)) (CD 700,000)) (NNS pounds)) (PP (IN of) (NP (NP (NN uranium)) (ADVP (RB annually)))))))) (, ,)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB operate)))))) (. .)))
+FreeportFreeportNNPPERSONPER0--HYPHPERSONPER0McMoRanMcMoRanNNPPERSONPER0saidsayVBDOPER0thetheDTOPER0shutdownshutdownNNOPER0wowillMDOPER0n'tnotRBOPER0affectaffectVBOPER0salessaleNNSOPER0volumesvolumeNNSOPER0underunderINOPER0longlongJJDATEPER0--HYPHDATEPER0termtermNNDATEPER0salessaleNNSOPER0contractscontractNNSOPER0ofofINOPER0itsitsPRP$OPER0FreeportFreeportNNPORGPER0UraniumuraniumNNORGPER0RecoveryRecoveryNNPORGPER0Co.Co.NNPORGPER0unitunitNNOPER0,,,OPER0butbutCCOPER0willwillMDOPER0reducereduceVBOPER0thetheDTOPER0amountamountNNOPER0ofofINOPER0productproductNNOPER0soldsellVBNOPER0ononINOPER0thetheDTOPER0spotspotNNOPER0marketmarketNNOPER0...OPER0(ROOT (S (NP (NNP Freeport) (HYPH -) (NNP McMoRan)) (VP (VBD said) (SBAR (S (NP (DT the) (NN shutdown)) (VP (VP (MD wo) (RB n't) (VP (VB affect) (NP (NP (NNS sales) (NNS volumes)) (PP (IN under) (NP (NML (JJ long) (HYPH -) (NN term)) (NNS sales) (NNS contracts))) (PP (IN of) (NP (PRP$ its) (NML (NNP Freeport) (NN Uranium)) (NML (NNP Recovery) (NNP Co.)) (NN unit)))))) (, ,) (CC but) (VP (MD will) (VP (VB reduce) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NP (NN product)) (VP (VBN sold) (PP (IN on) (NP (DT the) (NN spot) (NN market))))))))))))) (. .)))
+FreeportFreeportNNPORGPER0--SYMORGPER0McMoRanMcMoRanNNPORGPER0ResourceResourceNNPORGPER0PartnersPartnersNNPSORGPER0,,,OPER0asasINOPER0ownerownerNNOPER0ofofINOPER0thetheDTOPER0uraniumuraniumNNOPER0--HYPHOPER0recoveryrecoveryNNOPER0technologytechnologyNNOPER0,,,OPER0receivesreceiveVBZOPER0royaltyroyaltyNNOPER0paymentspaymentNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Freeport) (SYM -) (NNP McMoRan) (NNP Resource) (NNPS Partners)) (, ,) (NP (NP (IN as) (NN owner)) (PP (IN of) (NP (DT the) (NML (NN uranium) (HYPH -) (NN recovery)) (NN technology)))) (, ,)) (VP (VBZ receives) (NP (NN royalty) (NNS payments))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP Freeport) (HYPH -) (NNP McMoRan) (NNP Inc.))
+sid=0 spanning 5 until 23 headed by 7 parsed as (NP (NP (DT a) (JJ temporary) (NN cessation)) (PP (IN of) (NP (NP (NNS operations)) (PP (IN at) (NP (NP (PRP$ its) (NML (NNP Sunshine) (NNP Bridge)) (NML (NN uranium) (HYPH -) (NN recovery)) (NN facility)) (PP (IN in) (NP (NP (NNP Donaldsonville)) (, ,) (NP (NNP La.)) (, ,))))))))
+sid=0 spanning 11 until 23 headed by 17 parsed as (NP (NP (PRP$ its) (NML (NNP Sunshine) (NNP Bridge)) (NML (NN uranium) (HYPH -) (NN recovery)) (NN facility)) (PP (IN in) (NP (NP (NNP Donaldsonville)) (, ,) (NP (NNP La.)) (, ,))))
+sid=0 spanning 11 until 12 headed by 11 parsed as its
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP La.))
+sid=0 spanning 32 until 33 headed by 32 parsed as (NP (NP (PDT both) (DT the) (NN company)) (CC and) (NP (PRP$ its) (NML (NNP Freeport) (HYPH -) (NNP McMoRan)) (NML (NNP Resource) (NNPS Partners) (NNP Limited) (NNP Partnership)) (NN unit)))
+sid=0 spanning 34 until 43 headed by 42 parsed as (NP (PRP$ its) (NML (NNP Freeport) (HYPH -) (NNP McMoRan)) (NML (NNP Resource) (NNPS Partners) (NNP Limited) (NNP Partnership)) (NN unit))
+sid=0 spanning 34 until 35 headed by 34 parsed as its
+sid=0 spanning 35 until 38 headed by 37 parsed as McMoRan
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (JJ diversified) (NML (NN energy) (CC and) (NNS minerals)) (NN concern))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (JJ depressed) (NN uranium) (NN market))
+sid=2 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN plant))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN plant))
+sid=2 spanning 31 until 33 headed by 32 parsed as (NP (DT the) (NN market))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN facility))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NNP La.))
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (NNP Freeport) (HYPH -) (NNP McMoRan))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN shutdown))
+sid=5 spanning 18 until 19 headed by 18 parsed as its
+sid=6 spanning 0 until 15 headed by 4 parsed as (NP (NP (NNP Freeport) (SYM -) (NNP McMoRan) (NNP Resource) (NNPS Partners)) (, ,) (NP (NP (IN as) (NN owner)) (PP (IN of) (NP (DT the) (NML (NN uranium) (HYPH -) (NN recovery)) (NN technology)))) (, ,))
+sid=6 spanning 0 until 3 headed by 2 parsed as McMoRan
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NNP Freeport) (HYPH -) (NNP McMoRan) (NNP Inc.))
+sid=0 spanning 5 until 23 headed by 7 parsed as (NP (NP (DT a) (JJ temporary) (NN cessation)) (PP (IN of) (NP (NP (NNS operations)) (PP (IN at) (NP (NP (PRP$ its) (NML (NNP Sunshine) (NNP Bridge)) (NML (NN uranium) (HYPH -) (NN recovery)) (NN facility)) (PP (IN in) (NP (NP (NNP Donaldsonville)) (, ,) (NP (NNP La.)) (, ,))))))))
+sid=0 spanning 9 until 23 headed by 9 parsed as (NP (NP (NNS operations)) (PP (IN at) (NP (NP (PRP$ its) (NML (NNP Sunshine) (NNP Bridge)) (NML (NN uranium) (HYPH -) (NN recovery)) (NN facility)) (PP (IN in) (NP (NP (NNP Donaldsonville)) (, ,) (NP (NNP La.)) (, ,))))))
+sid=0 spanning 11 until 23 headed by 17 parsed as (NP (NP (PRP$ its) (NML (NNP Sunshine) (NNP Bridge)) (NML (NN uranium) (HYPH -) (NN recovery)) (NN facility)) (PP (IN in) (NP (NP (NNP Donaldsonville)) (, ,) (NP (NNP La.)) (, ,))))
+sid=0 spanning 11 until 12 headed by 11 parsed as (PRP$ its)
+sid=0 spanning 12 until 14 headed by 13 parsed as Bridge
+sid=0 spanning 19 until 20 headed by 19 parsed as (NP (NP (NNP Donaldsonville)) (, ,) (NP (NNP La.)) (, ,))
+sid=0 spanning 19 until 23 headed by 19 parsed as (NP (NP (NNP Donaldsonville)) (, ,) (NP (NNP La.)) (, ,))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP La.))
+sid=0 spanning 30 until 43 headed by 32 parsed as (NP (NP (PDT both) (DT the) (NN company)) (CC and) (NP (PRP$ its) (NML (NNP Freeport) (HYPH -) (NNP McMoRan)) (NML (NNP Resource) (NNPS Partners) (NNP Limited) (NNP Partnership)) (NN unit)))
+sid=0 spanning 30 until 33 headed by 32 parsed as (NP (PDT both) (DT the) (NN company))
+sid=0 spanning 34 until 43 headed by 42 parsed as (NP (PRP$ its) (NML (NNP Freeport) (HYPH -) (NNP McMoRan)) (NML (NNP Resource) (NNPS Partners) (NNP Limited) (NNP Partnership)) (NN unit))
+sid=0 spanning 34 until 35 headed by 34 parsed as (PRP$ its)
+sid=0 spanning 35 until 42 headed by 41 parsed as Partnership
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN company))
+sid=2 spanning 0 until 6 headed by 5 parsed as (NP (DT The) (JJ diversified) (NML (NN energy) (CC and) (NNS minerals)) (NN concern))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (DT a) (JJ depressed) (NN uranium) (NN market))
+sid=2 spanning 15 until 21 headed by 17 parsed as (NP (NP (DT the) (JJ temporary) (NN mothballing)) (PP (IN of) (NP (DT the) (NN plant))))
+sid=2 spanning 19 until 21 headed by 20 parsed as (NP (DT the) (NN plant))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NN plant))
+sid=2 spanning 31 until 33 headed by 32 parsed as (NP (DT the) (NN market))
+sid=3 spanning 0 until 8 headed by 3 parsed as (NP (NP (QP (XS (JJR More) (IN than)) (CD 400,000)) (NNS pounds)) (PP (IN of) (NP (NN uranium) (DT a) (NN year))))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NN uranium) (DT a) (NN year))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN facility))
+sid=3 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (JJ past) (CD seven) (NNS years))
+sid=4 spanning 0 until 22 headed by 5 parsed as (NP (NP (NP (DT A) (JJ second) (NML (NN uranium) (HYPH -) (NN recovery)) (NN plant)) (PP (IN at) (NP (NP (NNP Uncle) (NNP Sam)) (, ,) (NP (NNP La.))))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ produces) (NP (NP (QP (XS (JJR more) (IN than)) (CD 700,000)) (NNS pounds)) (PP (IN of) (NP (NP (NN uranium)) (ADVP (RB annually)))))))) (, ,))
+sid=4 spanning 0 until 11 headed by 5 parsed as (NP (NP (DT A) (JJ second) (NML (NN uranium) (HYPH -) (NN recovery)) (NN plant)) (PP (IN at) (NP (NP (NNP Uncle) (NNP Sam)) (, ,) (NP (NNP La.)))))
+sid=4 spanning 7 until 9 headed by 8 parsed as (NP (NP (NNP Uncle) (NNP Sam)) (, ,) (NP (NNP La.)))
+sid=4 spanning 7 until 11 headed by 8 parsed as (NP (NP (NNP Uncle) (NNP Sam)) (, ,) (NP (NNP La.)))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NNP La.))
+sid=4 spanning 14 until 21 headed by 17 parsed as (NP (NP (QP (XS (JJR more) (IN than)) (CD 700,000)) (NNS pounds)) (PP (IN of) (NP (NP (NN uranium)) (ADVP (RB annually)))))
+sid=4 spanning 20 until 21 headed by 20 parsed as annually
+sid=5 spanning 0 until 3 headed by 2 parsed as (NP (NNP Freeport) (HYPH -) (NNP McMoRan))
+sid=5 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NN shutdown))
+sid=5 spanning 9 until 24 headed by 10 parsed as (NP (NP (NNS sales) (NNS volumes)) (PP (IN under) (NP (NML (JJ long) (HYPH -) (NN term)) (NNS sales) (NNS contracts))) (PP (IN of) (NP (PRP$ its) (NML (NNP Freeport) (NN Uranium)) (NML (NNP Recovery) (NNP Co.)) (NN unit))))
+sid=5 spanning 12 until 17 headed by 16 parsed as (NP (NML (JJ long) (HYPH -) (NN term)) (NNS sales) (NNS contracts))
+sid=5 spanning 12 until 15 headed by 14 parsed as term
+sid=5 spanning 18 until 24 headed by 23 parsed as (NP (PRP$ its) (NML (NNP Freeport) (NN Uranium)) (NML (NNP Recovery) (NNP Co.)) (NN unit))
+sid=5 spanning 18 until 19 headed by 18 parsed as (PRP$ its)
+sid=5 spanning 19 until 23 headed by 22 parsed as Co.
+sid=5 spanning 28 until 37 headed by 29 parsed as (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NP (NN product)) (VP (VBN sold) (PP (IN on) (NP (DT the) (NN spot) (NN market)))))))
+sid=5 spanning 34 until 37 headed by 36 parsed as (NP (DT the) (NN spot) (NN market))
+sid=6 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Freeport) (SYM -) (NNP McMoRan) (NNP Resource) (NNPS Partners)) (, ,) (NP (NP (IN as) (NN owner)) (PP (IN of) (NP (DT the) (NML (NN uranium) (HYPH -) (NN recovery)) (NN technology)))) (, ,))
+sid=6 spanning 0 until 15 headed by 4 parsed as (NP (NP (NNP Freeport) (SYM -) (NNP McMoRan) (NNP Resource) (NNPS Partners)) (, ,) (NP (NP (IN as) (NN owner)) (PP (IN of) (NP (DT the) (NML (NN uranium) (HYPH -) (NN recovery)) (NN technology)))) (, ,))
+sid=6 spanning 6 until 14 headed by 7 parsed as (NP (NP (IN as) (NN owner)) (PP (IN of) (NP (DT the) (NML (NN uranium) (HYPH -) (NN recovery)) (NN technology))))
+sid=6 spanning 9 until 14 headed by 13 parsed as (NP (DT the) (NML (NN uranium) (HYPH -) (NN recovery)) (NN technology))
+sid=6 spanning 16 until 18 headed by 17 parsed as (NP (NN royalty) (NNS payments))
+(end predicted mentions)
+---------gold clusters--------
+2 15 12 13 | { 'its Sunshine Bridge uranium - recovery facility in Donaldsonville , La. ,' 'the facility' 'the plant' 'the plant' }
+18 1 | { 'the shutdown' 'a temporary cessation of operations at its Sunshine Bridge uranium - recovery facility in Donaldsonville , La. ,' }
+11 14 | { 'a depressed uranium market' 'the market' }
+16 4 | { 'La.' 'La.' }
+5 7 3 21 19 8 0 10 17 9 | { 'company' 'its' 'its' 'Freeport - McMoRan' 'its' 'Freeport - McMoRan' 'Freeport - McMoRan Inc.' 'The diversified energy and minerals concern' 'Freeport - McMoRan' 'The company' }
+20 6 | { 'Freeport - McMoRan Resource Partners , as owner of the uranium - recovery technology ,' 'its Freeport - McMoRan Resource Partners Limited Partnership unit' }
+(end gold clusters)

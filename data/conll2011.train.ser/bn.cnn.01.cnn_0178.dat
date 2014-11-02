@@ -1,0 +1,61 @@
+---------gloss--------
+(0) [4m[35m{WorldCom}[0m says [4m[35m{it}[0m agreed to pay $ 88 million to [4m[34m{settle}[0m [4m[36m{a class - action lawsuit claim that it overcharged customers on long distance telephone calls}[0m . 
+(1) [4m[34m{The settlement}[0m follows a 1998 suit arguing that [4m[35m{WorldCom then known as MCI WorldCom}[0m automatically shifted [31m{customers who were late in paying their bills}[0m into a higher rate plan . 
+(2) MCI and [4m[35m{Worldcom}[0m merged in 1998 , before splitting again last year . 
+(3) [4m[35m{WorldCom}[0m did not admit any wrongdoing in [4m[34m{settling}[0m [4m[36m{the case}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0178); part 000
+sentences:
+WorldComWorldComNNPPERSONPER0sayssayVBZOPER0ititPRPOPER0agreedagreeVBDOPER0totoTOOPER0paypayVBOPER0$$$MONEYPER08888CDMONEYPER0millionmillionCDMONEYPER0totoTOOPER0settlesettleVBOPER0aaDTOPER0classclassNNOPER0--HYPHOPER0actionactionNNOPER0lawsuitlawsuitNNOPER0claimclaimNNOPER0thatthatINOPER0ititPRPOPER0overchargedoverchargeVBDOPER0customerscustomerNNSOPER0ononINOPER0longlongJJOPER0distancedistanceNNOPER0telephonetelephoneNNOPER0callscallNNSOPER0...OPER0(ROOT (S (NP (NNP WorldCom)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (S (VP (TO to) (VP (VB pay) (NP (QP ($ $) (CD 88) (CD million))) (S (VP (TO to) (VP (VB settle) (NP (NP (DT a) (NML (NN class) (HYPH -) (NN action)) (NN lawsuit)) (NN claim) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD overcharged) (NP (NNS customers)) (PP (IN on) (NP (NML (JJ long) (NN distance)) (NN telephone) (NNS calls))))))))))))))))) (. .)))
+ThetheDTOPER0settlementsettlementNNOPER0followsfollowVBZOPER0aaDTOPER019981998CDDATEPER0suitsuitNNOPER0arguingargueVBGOPER0thatthatINOPER0WorldComWorldComNNPPERSONPER0thenthenRBOPER0knownknowVBNOPER0asasINOPER0MCIMCINNPORGPER0WorldComWorldComNNPORGPER0automaticallyautomaticallyRBOPER0shiftedshiftVBDOPER0customerscustomerNNSOPER0whowhoWPOPER0werebeVBDOPER0latelateJJOPER0ininINOPER0payingpayVBGOPER0theirtheyPRP$OPER0billsbillNNSOPER0intointoINOPER0aaDTOPER0higherhigherJJROPER0raterateNNOPER0planplanNNOPER0...OPER0(ROOT (S (NP (DT The) (NN settlement)) (VP (VBZ follows) (NP (NP (DT a) (CD 1998) (NN suit)) (VP (VBG arguing) (SBAR (IN that) (S (NP (NP (NNP WorldCom)) (VP (ADVP (RB then)) (VBN known) (PP (IN as) (NP (NNP MCI) (NNP WorldCom))))) (ADVP (RB automatically)) (VP (VBD shifted) (NP (NP (NNS customers)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADJP (JJ late) (PP (IN in) (S (VP (VBG paying) (NP (PRP$ their) (NNS bills)) (PP (IN into) (NP (DT a) (NML (JJR higher) (NN rate)) (NN plan))))))))))))))))) (. .)))
+MCIMCINNPORGPER0andandCCOPER0WorldcomWorldcomNNPORGPER0mergedmergeVBDOPER0ininINOPER019981998CDDATEPER0,,,OPER0beforebeforeINOPER0splittingsplitVBGOPER0againagainRBOPER0lastlastJJDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NNP MCI) (CC and) (NNP Worldcom)) (VP (VBD merged) (PP (IN in) (NP (CD 1998))) (, ,) (PP (IN before) (S (VP (VBG splitting) (NP (ADVP (RB again)) (JJ last) (NN year)))))) (. .)))
+WorldComWorldComNNPORGPER0diddoVBDOPER0notnotRBOPER0admitadmitVBOPER0anyanyDTOPER0wrongdoingwrongdoingNNOPER0ininINOPER0settlingsettleVBGOPER0thetheDTOPER0casecaseNNOPER0...OPER0(ROOT (S (NP (NNP WorldCom)) (VP (VBD did) (RB not) (VP (VB admit) (NP (DT any) (NN wrongdoing)) (PP (IN in) (S (VP (VBG settling) (NP (DT the) (NN case))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=0 spanning 10 until 11 headed by 10 parsed as settle
+sid=0 spanning 11 until 26 headed by 16 parsed as (NP (NP (DT a) (NML (NN class) (HYPH -) (NN action)) (NN lawsuit)) (NN claim) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD overcharged) (NP (NNS customers)) (PP (IN on) (NP (NML (JJ long) (NN distance)) (NN telephone) (NNS calls)))))))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN settlement))
+sid=1 spanning 8 until 14 headed by 8 parsed as (NP (NP (NNP WorldCom)) (VP (ADVP (RB then)) (VBN known) (PP (IN as) (NP (NNP MCI) (NNP WorldCom)))))
+sid=1 spanning 16 until 24 headed by 16 parsed as (NP (NP (NNS customers)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADJP (JJ late) (PP (IN in) (S (VP (VBG paying) (NP (PRP$ their) (NNS bills)) (PP (IN into) (NP (DT a) (NML (JJR higher) (NN rate)) (NN plan)))))))))))
+sid=1 spanning 22 until 23 headed by 22 parsed as their
+sid=2 spanning 2 until 3 headed by 2 parsed as Worldcom
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=3 spanning 7 until 8 headed by 7 parsed as settling
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN case))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=0 spanning 11 until 26 headed by 16 parsed as (NP (NP (DT a) (NML (NN class) (HYPH -) (NN action)) (NN lawsuit)) (NN claim) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD overcharged) (NP (NNS customers)) (PP (IN on) (NP (NML (JJ long) (NN distance)) (NN telephone) (NNS calls)))))))
+sid=0 spanning 11 until 16 headed by 15 parsed as (NP (DT a) (NML (NN class) (HYPH -) (NN action)) (NN lawsuit))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=0 spanning 20 until 21 headed by 20 parsed as (NP (NNS customers))
+sid=0 spanning 22 until 26 headed by 25 parsed as (NP (NML (JJ long) (NN distance)) (NN telephone) (NNS calls))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN settlement))
+sid=1 spanning 3 until 29 headed by 5 parsed as (NP (NP (DT a) (CD 1998) (NN suit)) (VP (VBG arguing) (SBAR (IN that) (S (NP (NP (NNP WorldCom)) (VP (ADVP (RB then)) (VBN known) (PP (IN as) (NP (NNP MCI) (NNP WorldCom))))) (ADVP (RB automatically)) (VP (VBD shifted) (NP (NP (NNS customers)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADJP (JJ late) (PP (IN in) (S (VP (VBG paying) (NP (PRP$ their) (NNS bills)) (PP (IN into) (NP (DT a) (NML (JJR higher) (NN rate)) (NN plan))))))))))))))))
+sid=1 spanning 4 until 5 headed by 4 parsed as 1998
+sid=1 spanning 8 until 14 headed by 8 parsed as (NP (NP (NNP WorldCom)) (VP (ADVP (RB then)) (VBN known) (PP (IN as) (NP (NNP MCI) (NNP WorldCom)))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NNP MCI) (NNP WorldCom))
+sid=1 spanning 16 until 29 headed by 16 parsed as (NP (NP (NNS customers)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADJP (JJ late) (PP (IN in) (S (VP (VBG paying) (NP (PRP$ their) (NNS bills)) (PP (IN into) (NP (DT a) (NML (JJR higher) (NN rate)) (NN plan)))))))))))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (PRP$ their) (NNS bills))
+sid=1 spanning 22 until 23 headed by 22 parsed as (PRP$ their)
+sid=1 spanning 25 until 29 headed by 28 parsed as (NP (DT a) (NML (JJR higher) (NN rate)) (NN plan))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP MCI) (CC and) (NNP Worldcom))
+sid=2 spanning 0 until 3 headed by 0 parsed as (NP (NNP MCI) (CC and) (NNP Worldcom))
+sid=2 spanning 2 until 3 headed by 2 parsed as Worldcom
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (CD 1998))
+sid=2 spanning 9 until 12 headed by 11 parsed as (NP (ADVP (RB again)) (JJ last) (NN year))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP WorldCom))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN case))
+(end predicted mentions)
+---------gold clusters--------
+11 5 2 | { 'settling' 'The settlement' 'settle' }
+4 9 0 1 6 10 | { 'it' 'Worldcom' 'WorldCom' 'it' 'WorldCom then known as MCI WorldCom' 'WorldCom' }
+3 12 | { 'a class - action lawsuit claim that it overcharged customers on long distance telephone calls' 'the case' }
+8 7 | { 'their' 'customers who were late in paying their bills' }
+(end gold clusters)

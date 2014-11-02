@@ -1,0 +1,55 @@
+---------gloss--------
+(0) Meanwhile [35m{Israeli Prime Minister Ehud Barak}[0m called on [34m{the Palestinians}[0m to accept [36m{the US peace proposals}[0m . 
+(1) At a cabinet meeting [35m{Mr. Barak}[0m warned of increased violence if [34m{the Palestinians}[0m reject [36m{the proposals}[0m . 
+(2) [33m{Chief Palestinian negotiator Sayeeb Erekat}[0m said Sunday [33m{he}[0m needs more clarification from Washington . 
+(3) [33m{Mr. Erekat}[0m said that the delay in accepting [36m{the plan}[0m does not amount to a rejection of [36m{it}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0204); part 000
+sentences:
+MeanwhilemeanwhileRBOPER0IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0calledcallVBDOPER0ononINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0totoTOOPER0acceptacceptVBOPER0thetheDTOPER0USUSNNPGPEPER0peacepeaceNNOPER0proposalsproposalNNSOPER0...OPER0(ROOT (S (ADVP (RB Meanwhile)) (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBD called) (PP (IN on) (NP (DT the) (NNPS Palestinians))) (S (VP (TO to) (VP (VB accept) (NP (DT the) (NNP US) (NN peace) (NNS proposals)))))) (. .)))
+AtatINOPER0aaDTOPER0cabinetcabinetNNOPER0meetingmeetingNNOPER0Mr.Mr.NNPOPER0BarakBarakNNPPERSONPER0warnedwarnVBDOPER0ofofINOPER0increasedincreaseVBNOPER0violenceviolenceNNOPER0ififINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0rejectrejectVBPOPER0thetheDTOPER0proposalsproposalNNSOPER0...OPER0(ROOT (S (PP (IN At) (NP (DT a) (NN cabinet) (NN meeting))) (NP (NNP Mr.) (NNP Barak)) (VP (VBD warned) (PP (IN of) (NP (VBN increased) (NN violence))) (SBAR (IN if) (S (NP (DT the) (NNPS Palestinians)) (VP (VBP reject) (NP (DT the) (NNS proposals)))))) (. .)))
+ChiefchiefJJOPER0PalestinianpalestinianJJOPER0negotiatornegotiatorNNOPER0SayeebSayeebNNPPERSONPER0ErekatErekatNNPPERSONPER0saidsayVBDOPER0SundaySundayNNPDATEPER0hehePRPOPER0needsneedVBZOPER0moremoreJJROPER0clarificationclarificationNNOPER0fromfromINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (NP (NML (JJ Chief) (JJ Palestinian) (NN negotiator)) (NNP Sayeeb) (NNP Erekat)) (VP (VBD said) (NP (NNP Sunday)) (SBAR (S (NP (PRP he)) (VP (VBZ needs) (NP (NP (JJR more) (NN clarification)) (PP (IN from) (NP (NNP Washington)))))))) (. .)))
+Mr.Mr.NNPOPER0ErekatErekatNNPPERSONPER0saidsayVBDOPER0thatthatINOPER0thetheDTOPER0delaydelayNNOPER0ininINOPER0acceptingacceptVBGOPER0thetheDTOPER0planplanNNOPER0doesdoVBZOPER0notnotRBOPER0amountamountVBOPER0totoINOPER0aaDTOPER0rejectionrejectionNNOPER0ofofINOPER0ititPRPOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Erekat)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (DT the) (NN delay)) (PP (IN in) (S (VP (VBG accepting) (NP (DT the) (NN plan)))))) (VP (VBZ does) (RB not) (VP (VB amount) (PP (IN to) (NP (NP (DT a) (NN rejection)) (PP (IN of) (NP (PRP it)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 6 headed by 5 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNPS Palestinians))
+sid=0 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (NNP US) (NN peace) (NNS proposals))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NNS proposals))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Chief) (JJ Palestinian) (NN negotiator)) (NNP Sayeeb) (NNP Erekat))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Erekat))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN plan))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (PRP it))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 6 headed by 5 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNPS Palestinians))
+sid=0 spanning 12 until 16 headed by 15 parsed as (NP (DT the) (NNP US) (NN peace) (NNS proposals))
+sid=0 spanning 13 until 14 headed by 13 parsed as US
+sid=1 spanning 1 until 4 headed by 3 parsed as (NP (DT a) (NN cabinet) (NN meeting))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NNP Mr.) (NNP Barak))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (VBN increased) (NN violence))
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNPS Palestinians))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NNS proposals))
+sid=2 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Chief) (JJ Palestinian) (NN negotiator)) (NNP Sayeeb) (NNP Erekat))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Sunday))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=2 spanning 9 until 13 headed by 10 parsed as (NP (NP (JJR more) (NN clarification)) (PP (IN from) (NP (NNP Washington))))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNP Washington))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Erekat))
+sid=3 spanning 4 until 10 headed by 5 parsed as (NP (NP (DT the) (NN delay)) (PP (IN in) (S (VP (VBG accepting) (NP (DT the) (NN plan))))))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NN plan))
+sid=3 spanning 14 until 18 headed by 15 parsed as (NP (NP (DT a) (NN rejection)) (PP (IN of) (NP (PRP it))))
+sid=3 spanning 17 until 18 headed by 17 parsed as (NP (PRP it))
+(end predicted mentions)
+---------gold clusters--------
+8 7 6 | { 'Mr. Erekat' 'he' 'Chief Palestinian negotiator Sayeeb Erekat' }
+1 4 | { 'the Palestinians' 'the Palestinians' }
+3 0 | { 'Mr. Barak' 'Israeli Prime Minister Ehud Barak' }
+5 10 2 9 | { 'the proposals' 'it' 'the US peace proposals' 'the plan' }
+(end gold clusters)

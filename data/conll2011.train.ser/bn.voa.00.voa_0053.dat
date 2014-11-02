@@ -1,0 +1,61 @@
+---------gloss--------
+(0) [3m[36m{Peruvian President Alberto Fujimori}[0m has issued an order confining [4m[31m{all military and police}[0m to [4m[31m{their}[0m barracks . 
+(1) [3m[36m{The President}[0m is locked in a power struggle with [3m[35m{former intelligence service chief Vladimiro Monticenos}[0m . 
+(2) [3m[36m{Mr. Fujimori}[0m told reporters late Wednesday , [3m[36m{he}[0m ordered a complete freeze on movements by the Armed Forces . 
+(3) [3m[36m{President Fujimori}[0m has been leading a purge of the military of those loyal to [3m[35m{Mr. Monticenos , the former spy master , whose surprise return to Peru on Monday triggered speculation of a possible coup}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0053); part 000
+sentences:
+PeruvianperuvianJJOPER0PresidentPresidentNNPOPER0AlbertoAlbertoNNPPERSONPER0FujimoriFujimoriNNPPERSONPER0hashaveVBZOPER0issuedissueVBNOPER0anaDTOPER0orderorderNNOPER0confiningconfineVBGOPER0allallDTOPER0militarymilitaryNNOPER0andandCCOPER0policepoliceNNSOPER0totoINOPER0theirtheyPRP$OPER0barracksbarracksNNOPER0...OPER0(ROOT (S (NP (NML (JJ Peruvian) (NNP President)) (NNP Alberto) (NNP Fujimori)) (VP (VBZ has) (VP (VBN issued) (NP (NP (DT an) (NN order)) (VP (VBG confining) (NP (DT all) (NN military) (CC and) (NNS police)) (PP (IN to) (NP (PRP$ their) (NN barracks))))))) (. .)))
+ThetheDTOPER0PresidentPresidentNNPOPER0isbeVBZOPER0lockedlockVBNOPER0ininINOPER0aaDTOPER0powerpowerNNOPER0strugglestruggleNNOPER0withwithINOPER0formerformerJJOPER0intelligenceintelligenceNNOPER0serviceserviceNNOPER0chiefchiefNNOPER0VladimiroVladimiroNNPPERSONPER0MonticenosMonticenosNNPPERSONPER0...OPER0(ROOT (S (NP (DT The) (NNP President)) (VP (VBZ is) (VP (VBN locked) (PP (IN in) (NP (NP (DT a) (NN power) (NN struggle)) (PP (IN with) (NP (NML (JJ former) (NML (NN intelligence) (NN service)) (NN chief)) (NNP Vladimiro) (NNP Monticenos))))))) (. .)))
+Mr.Mr.NNPOPER0FujimoriFujimoriNNPPERSONPER0toldtellVBDOPER0reportersreporterNNSOPER0latelateJJDATEPER0WednesdayWednesdayNNPDATEPER0,,,OPER0hehePRPOPER0orderedorderVBDOPER0aaDTOPER0completecompleteJJOPER0freezefreezeNNOPER0ononINOPER0movementsmovementNNSOPER0bybyINOPER0thetheDTORGPER0ArmedArmedNNPORGPER0ForcesForcesNNPSORGPER0...OPER0(ROOT (S (S (NP (NNP Mr.) (NNP Fujimori)) (VP (VBD told) (NP (NNS reporters)) (NP (JJ late) (NNP Wednesday)))) (, ,) (NP (PRP he)) (VP (VBD ordered) (NP (NP (DT a) (JJ complete) (NN freeze)) (PP (IN on) (NP (NP (NNS movements)) (PP (IN by) (NP (DT the) (NNP Armed) (NNPS Forces))))))) (. .)))
+PresidentPresidentNNPOPER0FujimoriFujimoriNNPPERSONPER0hashaveVBZOPER0beenbeVBNOPER0leadingleadVBGOPER0aaDTOPER0purgepurgeNNOPER0ofofINOPER0thetheDTOPER0militarymilitaryNNOPER0ofofINOPER0thosethoseDTOPER0loyalloyalJJOPER0totoINOPER0Mr.Mr.NNPOPER0MonticenosMonticenosNNPPERSONPER0,,,OPER0thetheDTOPER0formerformerJJOPER0spyspyNNOPER0mastermasterNNOPER0,,,OPER0whosewhoseWP$OPER0surprisesurpriseNNOPER0returnreturnNNOPER0totoINOPER0PeruPeruNNPGPEPER0ononINOPER0MondayMondayNNPDATEPER0triggeredtriggerVBDOPER0speculationspeculationNNOPER0ofofINOPER0aaDTOPER0possiblepossibleJJOPER0coupcoupNNOPER0...OPER0(ROOT (S (NP (NNP President) (NNP Fujimori)) (VP (VBZ has) (VP (VBN been) (VP (VBG leading) (NP (NP (DT a) (NN purge)) (PP (IN of) (NP (NP (DT the) (NN military)) (PP (IN of) (NP (NP (DT those)) (ADJP (JJ loyal) (PP (IN to) (NP (NP (NP (NNP Mr.) (NNP Monticenos)) (, ,) (NP (DT the) (JJ former) (NN spy) (NN master))) (, ,) (SBAR (WHNP (WP$ whose) (NN surprise)) (S (NP (NP (NP (NN return)) (PP (IN to) (NP (NNP Peru)))) (PP (IN on) (NP (NNP Monday)))) (VP (VBD triggered) (NP (NP (NN speculation)) (PP (IN of) (NP (DT a) (JJ possible) (NN coup)))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Peruvian) (NNP President)) (NNP Alberto) (NNP Fujimori))
+sid=0 spanning 9 until 13 headed by 10 parsed as (NP (DT all) (NN military) (CC and) (NNS police))
+sid=0 spanning 14 until 15 headed by 14 parsed as their
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=1 spanning 9 until 15 headed by 14 parsed as (NP (NML (JJ former) (NML (NN intelligence) (NN service)) (NN chief)) (NNP Vladimiro) (NNP Monticenos))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Fujimori))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Fujimori))
+sid=3 spanning 14 until 35 headed by 15 parsed as (NP (NP (NP (NNP Mr.) (NNP Monticenos)) (, ,) (NP (DT the) (JJ former) (NN spy) (NN master))) (, ,) (SBAR (WHNP (WP$ whose) (NN surprise)) (S (NP (NP (NP (NN return)) (PP (IN to) (NP (NNP Peru)))) (PP (IN on) (NP (NNP Monday)))) (VP (VBD triggered) (NP (NP (NN speculation)) (PP (IN of) (NP (DT a) (JJ possible) (NN coup))))))))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 4 headed by 3 parsed as (NP (NML (JJ Peruvian) (NNP President)) (NNP Alberto) (NNP Fujimori))
+sid=0 spanning 6 until 16 headed by 7 parsed as (NP (NP (DT an) (NN order)) (VP (VBG confining) (NP (DT all) (NN military) (CC and) (NNS police)) (PP (IN to) (NP (PRP$ their) (NN barracks)))))
+sid=0 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ their) (NN barracks))
+sid=0 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=1 spanning 5 until 15 headed by 7 parsed as (NP (NP (DT a) (NN power) (NN struggle)) (PP (IN with) (NP (NML (JJ former) (NML (NN intelligence) (NN service)) (NN chief)) (NNP Vladimiro) (NNP Monticenos))))
+sid=1 spanning 9 until 15 headed by 14 parsed as (NP (NML (JJ former) (NML (NN intelligence) (NN service)) (NN chief)) (NNP Vladimiro) (NNP Monticenos))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Fujimori))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNS reporters))
+sid=2 spanning 4 until 6 headed by 5 parsed as (NP (JJ late) (NNP Wednesday))
+sid=2 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=2 spanning 9 until 18 headed by 11 parsed as (NP (NP (DT a) (JJ complete) (NN freeze)) (PP (IN on) (NP (NP (NNS movements)) (PP (IN by) (NP (DT the) (NNP Armed) (NNPS Forces))))))
+sid=2 spanning 13 until 18 headed by 13 parsed as (NP (NP (NNS movements)) (PP (IN by) (NP (DT the) (NNP Armed) (NNPS Forces))))
+sid=2 spanning 15 until 18 headed by 17 parsed as (NP (DT the) (NNP Armed) (NNPS Forces))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP President) (NNP Fujimori))
+sid=3 spanning 5 until 35 headed by 6 parsed as (NP (NP (DT a) (NN purge)) (PP (IN of) (NP (NP (DT the) (NN military)) (PP (IN of) (NP (NP (DT those)) (ADJP (JJ loyal) (PP (IN to) (NP (NP (NP (NNP Mr.) (NNP Monticenos)) (, ,) (NP (DT the) (JJ former) (NN spy) (NN master))) (, ,) (SBAR (WHNP (WP$ whose) (NN surprise)) (S (NP (NP (NP (NN return)) (PP (IN to) (NP (NNP Peru)))) (PP (IN on) (NP (NNP Monday)))) (VP (VBD triggered) (NP (NP (NN speculation)) (PP (IN of) (NP (DT a) (JJ possible) (NN coup)))))))))))))))
+sid=3 spanning 8 until 35 headed by 9 parsed as (NP (NP (DT the) (NN military)) (PP (IN of) (NP (NP (DT those)) (ADJP (JJ loyal) (PP (IN to) (NP (NP (NP (NNP Mr.) (NNP Monticenos)) (, ,) (NP (DT the) (JJ former) (NN spy) (NN master))) (, ,) (SBAR (WHNP (WP$ whose) (NN surprise)) (S (NP (NP (NP (NN return)) (PP (IN to) (NP (NNP Peru)))) (PP (IN on) (NP (NNP Monday)))) (VP (VBD triggered) (NP (NP (NN speculation)) (PP (IN of) (NP (DT a) (JJ possible) (NN coup)))))))))))))
+sid=3 spanning 11 until 35 headed by 11 parsed as (NP (NP (DT those)) (ADJP (JJ loyal) (PP (IN to) (NP (NP (NP (NNP Mr.) (NNP Monticenos)) (, ,) (NP (DT the) (JJ former) (NN spy) (NN master))) (, ,) (SBAR (WHNP (WP$ whose) (NN surprise)) (S (NP (NP (NP (NN return)) (PP (IN to) (NP (NNP Peru)))) (PP (IN on) (NP (NNP Monday)))) (VP (VBD triggered) (NP (NP (NN speculation)) (PP (IN of) (NP (DT a) (JJ possible) (NN coup)))))))))))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (NP (NP (NNP Mr.) (NNP Monticenos)) (, ,) (NP (DT the) (JJ former) (NN spy) (NN master))) (, ,) (SBAR (WHNP (WP$ whose) (NN surprise)) (S (NP (NP (NP (NN return)) (PP (IN to) (NP (NNP Peru)))) (PP (IN on) (NP (NNP Monday)))) (VP (VBD triggered) (NP (NP (NN speculation)) (PP (IN of) (NP (DT a) (JJ possible) (NN coup))))))))
+sid=3 spanning 14 until 35 headed by 15 parsed as (NP (NP (NP (NNP Mr.) (NNP Monticenos)) (, ,) (NP (DT the) (JJ former) (NN spy) (NN master))) (, ,) (SBAR (WHNP (WP$ whose) (NN surprise)) (S (NP (NP (NP (NN return)) (PP (IN to) (NP (NNP Peru)))) (PP (IN on) (NP (NNP Monday)))) (VP (VBD triggered) (NP (NP (NN speculation)) (PP (IN of) (NP (DT a) (JJ possible) (NN coup))))))))
+sid=3 spanning 14 until 21 headed by 15 parsed as (NP (NP (NNP Mr.) (NNP Monticenos)) (, ,) (NP (DT the) (JJ former) (NN spy) (NN master)))
+sid=3 spanning 14 until 16 headed by 15 parsed as (NP (NNP Mr.) (NNP Monticenos))
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (JJ former) (NN spy) (NN master))
+sid=3 spanning 24 until 29 headed by 24 parsed as (NP (NP (NP (NN return)) (PP (IN to) (NP (NNP Peru)))) (PP (IN on) (NP (NNP Monday))))
+sid=3 spanning 26 until 27 headed by 26 parsed as (NP (NNP Peru))
+sid=3 spanning 28 until 29 headed by 28 parsed as (NP (NNP Monday))
+sid=3 spanning 30 until 35 headed by 30 parsed as (NP (NP (NN speculation)) (PP (IN of) (NP (DT a) (JJ possible) (NN coup))))
+sid=3 spanning 32 until 35 headed by 34 parsed as (NP (DT a) (JJ possible) (NN coup))
+(end predicted mentions)
+---------gold clusters--------
+4 8 | { 'former intelligence service chief Vladimiro Monticenos' 'Mr. Monticenos , the former spy master , whose surprise return to Peru on Monday triggered speculation of a possible coup' }
+3 7 5 0 6 | { 'The President' 'President Fujimori' 'Mr. Fujimori' 'Peruvian President Alberto Fujimori' 'he' }
+2 1 | { 'their' 'all military and police' }
+(end gold clusters)

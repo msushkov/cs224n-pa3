@@ -1,0 +1,42 @@
+---------gloss--------
+(0) [4m[34m{Saddam International Airport}[0m has become a battlefield . 
+(1) Witnesses say Iraqi troops are dug in trying to fend off [4m[33m{coalition troops making their way into the capital 's main airport}[0m . 
+(2) A Reuters correspondent said dozens of Iraqi civilians and soldiers were killed in what witnesses called a barrage of U.S. artillery . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0204); part 000
+sentences:
+SaddamSaddamNNPFACPER0InternationalInternationalNNPFACPER0AirportAirportNNPFACPER0hashaveVBZOPER0becomebecomeVBNOPER0aaDTOPER0battlefieldbattlefieldNNOPER0...OPER0(ROOT (S (NP (NNP Saddam) (NNP International) (NNP Airport)) (VP (VBZ has) (VP (VBN become) (NP (DT a) (NN battlefield)))) (. .)))
+WitnesseswitnessNNSOPER0saysayVBPOPER0IraqiiraqiJJOPER0troopstroopsNNSOPER0arebeVBPOPER0dugdigVBDOPER0ininINOPER0tryingtryVBGOPER0totoTOOPER0fendfendVBOPER0offoffRPOPER0coalitioncoalitionNNOPER0troopstroopsNNSOPER0makingmakeVBGOPER0theirtheyPRP$OPER0waywayNNOPER0intointoINOPER0thetheDTOPER0capitalcapitalNNOPER0's'sPOSOPER0mainmainJJOPER0airportairportNNOPER0...OPER0(ROOT (S (NP (NNS Witnesses)) (VP (VBP say) (SBAR (S (NP (JJ Iraqi) (NNS troops)) (VP (VBP are) (VP (VBD dug) (PP (IN in) (S (VP (VBG trying) (S (VP (TO to) (VP (VB fend) (PRT (RP off)) (NP (NP (NN coalition) (NNS troops)) (VP (VBG making) (NP (PRP$ their) (NN way)))))))))) (PP (IN into) (NP (NP (DT the) (NN capital) (POS 's)) (JJ main) (NN airport)))))))) (. .)))
+AaDTOPER0ReutersReutersNNPORGPER0correspondentcorrespondentNNOPER0saidsayVBDOPER0dozensdozenNNSCARDINALPER0ofofINOPER0IraqiiraqiJJOPER0civilianscivilianNNSOPER0andandCCOPER0soldierssoldierNNSOPER0werebeVBDOPER0killedkillVBNOPER0ininINOPER0whatwhatWPOPER0witnesseswitnessNNSOPER0calledcallVBDOPER0aaDTOPER0barragebarrageNNOPER0ofofINOPER0U.S.U.S.NNPGPEPER0artilleryartilleryNNOPER0...OPER0(ROOT (S (NP (DT A) (NNP Reuters) (NN correspondent)) (VP (VBD said) (SBAR (S (NP (NP (NP (NNS dozens)) (PP (IN of) (NP (JJ Iraqi) (NNS civilians)))) (CC and) (NP (NNS soldiers))) (VP (VBD were) (VP (VBN killed) (PP (IN in) (SBAR (WHNP (WP what)) (S (NP (NNS witnesses)) (VP (VBD called) (S (NP (NP (DT a) (NN barrage)) (PP (IN of) (NP (NNP U.S.) (NN artillery)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Saddam) (NNP International) (NNP Airport))
+sid=1 spanning 11 until 22 headed by 12 parsed as (NP (NP (NN coalition) (NNS troops)) (VP (VBG making) (NP (PRP$ their) (NN way))))
+sid=1 spanning 14 until 15 headed by 14 parsed as their
+sid=1 spanning 17 until 22 headed by 21 parsed as (NP (NP (DT the) (NN capital) (POS 's)) (JJ main) (NN airport))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Saddam) (NNP International) (NNP Airport))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (DT a) (NN battlefield))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Witnesses))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (JJ Iraqi) (NNS troops))
+sid=1 spanning 11 until 16 headed by 12 parsed as (NP (NP (NN coalition) (NNS troops)) (VP (VBG making) (NP (PRP$ their) (NN way))))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (PRP$ their) (NN way))
+sid=1 spanning 14 until 15 headed by 14 parsed as (PRP$ their)
+sid=1 spanning 17 until 22 headed by 21 parsed as (NP (NP (DT the) (NN capital) (POS 's)) (JJ main) (NN airport))
+sid=1 spanning 17 until 20 headed by 18 parsed as (NP (DT the) (NN capital) (POS 's))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NNP Reuters) (NN correspondent))
+sid=2 spanning 1 until 2 headed by 1 parsed as Reuters
+sid=2 spanning 4 until 10 headed by 4 parsed as (NP (NP (NP (NNS dozens)) (PP (IN of) (NP (JJ Iraqi) (NNS civilians)))) (CC and) (NP (NNS soldiers)))
+sid=2 spanning 4 until 8 headed by 4 parsed as (NP (NP (NNS dozens)) (PP (IN of) (NP (JJ Iraqi) (NNS civilians))))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNS soldiers))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNS witnesses))
+sid=2 spanning 16 until 21 headed by 17 parsed as (NP (NP (DT a) (NN barrage)) (PP (IN of) (NP (NNP U.S.) (NN artillery))))
+sid=2 spanning 19 until 21 headed by 20 parsed as (NP (NNP U.S.) (NN artillery))
+(end predicted mentions)
+---------gold clusters--------
+2 1 | { 'their' 'coalition troops making their way into the capital 's main airport' }
+0 3 | { 'Saddam International Airport' 'the capital 's main airport' }
+(end gold clusters)

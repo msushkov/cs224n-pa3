@@ -1,0 +1,162 @@
+---------gloss--------
+(0) [3m[31m{Pentagon}[0m sources tell [1m[35m{CNN}[0m [3m[33m{the commander of the `` USS Cole ''}[0m failed to implement basic measures to protect [3m[33m{his}[0m crew . 
+(1) 17 sailors were killed when [1m[34m{the warship}[0m was bombed in a terrorist attack . 
+(2) [3m[32m{Jamie McIntyre}[0m has details . 
+(3) [1m[35m{CNN}[0m has learned that [1m[33m{the crew of the `` USS Cole ''}[0m was not briefed on the seriousness of the threat in Yemen , nor warned to be on guard for possible terrorist attack the day [1m[34m{the warship}[0m was bombed . 
+(4) When [1m[34m{the `` USS Cole ''}[0m entered the port of Aden October [1m[34m{it}[0m was operating under `` threat condition Bravo , '' an alert level that warns of `` an increased and more predictable threat of terrorist activity . '' 
+(5) [3m[31m{Pentagon}[0m sources say almost half of 62 security measures that were intended to protect [1m[34m{the `` USS Cole ''}[0m from terrorist attack were not carried out . 
+(6) While many were not required because [1m[34m{the `` Cole ''}[0m was refueling in the harbor , not at a pier , others were judged to be significant lapses , according to sources . 
+(7) For instance , the ship protection plan filed by [1m[34m{the `` Cole 's ''}[0m commanding officer of terrorism and warned to be suspicious and inquisitive of strangers . 
+(8) Another provision specifically warned that [1m[36m{small boats}[0m require special concern because [1m[36m{they}[0m can serve as an ideal platform for terrorists , but [3m[33m{Lippold}[0m failed to ensure those briefings were given according to [3m[31m{Pentagon}[0m sources . 
+(9) [1m[33m{The crew}[0m was also supposed to identify and inspect all work boats , keep unauthorized craft away from [1m[34m{the ship}[0m , and prepare fire hoses to repel borders . 
+(10) Those precautions were not taken either , sources say . 
+(11) The 40 - foot hole in the side of [1m[34m{the `` USS Cole ''}[0m has now been patched , and [1m[34m{the warship}[0m is in Mississippi for repairs that will cost $ 240 million and take a year to complete . 
+(12) Senior Navy officials are still debating the fate of [3m[33m{Commander Lippold , who along with several subordinate officers , could be subject to career - ending discipline , if it 's judged the security lapses left the billion - dollar destroyer more vulnerable to attack}[0m . 
+(13) [3m[32m{Jamie McIntyre}[0m , [1m[35m{CNN}[0m , [3m[31m{the Pentagon}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0164); part 000
+sentences:
+PentagonPentagonNNPORGPER0sourcessourceNNSOPER0telltellVBPOPER0CNNCNNNNPORGPER0thetheDTOPER0commandercommanderNNOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER1ColeColeNNPPRODUCTPER1''''''PRODUCTPER0failedfailVBDOPER0totoTOOPER0implementimplementVBOPER0basicbasicJJOPER0measuresmeasureNNSOPER0totoTOOPER0protectprotectVBOPER0hishePRP$OPER0crewcrewNNOPER0...OPER0(ROOT (S (NP (NNP Pentagon) (NNS sources)) (VP (VBP tell) (NP (NNP CNN)) (SBAR (S (NP (NP (DT the) (NN commander)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))) (VP (VBD failed) (S (VP (TO to) (VP (VB implement) (NP (NP (JJ basic) (NNS measures)) (SBAR (S (VP (TO to) (VP (VB protect) (NP (PRP$ his) (NN crew)))))))))))))) (. .)))
+1717CDCARDINALPER0sailorssailorNNSOPER0werebeVBDOPER0killedkillVBNOPER0whenwhenWRBOPER0thetheDTOPER0warshipwarshipNNOPER0wasbeVBDOPER0bombedbombVBNOPER0ininINOPER0aaDTOPER0terroristterroristJJOPER0attackattackNNOPER0...OPER0(ROOT (S (NP (CD 17) (NNS sailors)) (VP (VBD were) (VP (VBN killed) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN warship)) (VP (VBD was) (VP (VBN bombed) (PP (IN in) (NP (DT a) (JJ terrorist) (NN attack))))))))) (. .)))
+JamieJamieNNPPERSONPER0McIntyreMcIntyreNNPPERSONPER0hashaveVBZOPER0detailsdetailNNSOPER0...OPER0(ROOT (S (NP (NNP Jamie) (NNP McIntyre)) (VP (VBZ has) (NP (NNS details))) (. .)))
+CNNCNNNNPORGPER0hashaveVBZOPER0learnedlearnVBNOPER0thatthatINOPER0thetheDTOPER0crewcrewNNOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER2ColeColeNNPPRODUCTPER2''''''PRODUCTPER0wasbeVBDOPER0notnotRBOPER0briefedbriefVBNOPER0ononINOPER0thetheDTOPER0seriousnessseriousnessNNOPER0ofofINOPER0thetheDTOPER0threatthreatNNOPER0ininINOPER0YemenYemenNNPGPEPER0,,,OPER0nornorCCOPER0warnedwarnVBDOPER0totoTOOPER0bebeVBOPER0ononINOPER0guardguardNNOPER0forforINOPER0possiblepossibleJJOPER0terroristterroristJJOPER0attackattackNNOPER0thetheDTDATEPER0daydayNNDATEPER0thetheDTOPER0warshipwarshipNNOPER0wasbeVBDOPER0bombedbombVBNOPER0...OPER0(ROOT (S (NP (NNP CNN)) (VP (VBZ has) (VP (VBN learned) (SBAR (IN that) (S (NP (NP (DT the) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))) (VP (VP (VBD was) (RB not) (VP (VBN briefed) (PP (IN on) (NP (NP (DT the) (NN seriousness)) (PP (IN of) (NP (NP (DT the) (NN threat)) (PP (IN in) (NP (NNP Yemen))))))))) (, ,) (CC nor) (VP (VBD warned) (S (VP (TO to) (VP (VB be) (PP (IN on) (NP (NP (NN guard)) (PP (IN for) (NP (JJ possible) (JJ terrorist) (NN attack))) (NP (NP (DT the) (NN day)) (SBAR (S (NP (DT the) (NN warship)) (VP (VBD was) (VP (VBN bombed))))))))))))))))) (. .)))
+WhenwhenWRBOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER3ColeColeNNPPRODUCTPER3''''''PRODUCTPER0enteredenterVBDOPER0thetheDTOPER0portportNNOPER0ofofINOPER0AdenAdenNNPLOCPER0OctoberOctoberNNPDATEPER0ititPRPOPER0wasbeVBDOPER0operatingoperateVBGOPER0underunderINOPER0``````OthreatthreatNNOPER4conditionconditionNNOPER4BravobravoUHWORK_OF_ARTPER4,,,OPER4''''''OPER0anaDTOPER0alertalertJJOPER0levellevelNNOPER0thatthatWDTOPER0warnswarnVBZOPER0ofofINOPER0``````OanaDTOPER5increasedincreasedJJOPER5andandCCOPER5moremoreRBROPER5predictablepredictableJJOPER5threatthreatNNOPER5ofofINOPER5terroristterroristJJOPER5activityactivityNNOPER5...OPER5''''''OPER0(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')) (VP (VBD entered) (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden)))) (NP (NNP October))))) (NP (PRP it)) (VP (VBD was) (VP (VBG operating) (PP (IN under) (NP (`` ``) (NP (NP (NN threat) (NN condition)) (INTJ (UH Bravo))) (, ,) ('' '') (NP (NP (DT an) (JJ alert) (NN level)) (SBAR (WHNP (WDT that)) (S (VP (VBZ warns) (PP (IN of) (`` ``) (NP (NP (DT an) (ADJP (ADJP (JJ increased)) (CC and) (ADJP (RBR more) (JJ predictable))) (NN threat)) (PP (IN of) (NP (JJ terrorist) (NN activity))))))))))))) (. .) ('' '')))
+PentagonPentagonNNPORGPER0sourcessourceNNSOPER0saysayVBPOPER0almostalmostRBCARDINALPER0halfhalfNNCARDINALPER0ofofINOPER06262CDCARDINALPER0securitysecurityNNOPER0measuresmeasureNNSOPER0thatthatWDTOPER0werebeVBDOPER0intendedintendVBNOPER0totoTOOPER0protectprotectVBOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER6ColeColeNNPPRODUCTPER6''''''PRODUCTPER0fromfromINOPER0terroristterroristJJOPER0attackattackNNOPER0werebeVBDOPER0notnotRBOPER0carriedcarryVBNOPER0outoutRPOPER0...OPER0(ROOT (S (NP (NNP Pentagon) (NNS sources)) (VP (VBP say) (SBAR (S (NP (NP (QP (RB almost) (NN half))) (PP (IN of) (NP (NP (CD 62) (NN security) (NNS measures)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN intended) (S (VP (TO to) (VP (VB protect) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')) (PP (IN from) (NP (JJ terrorist) (NN attack))))))))))))) (VP (VBD were) (RB not) (VP (VBN carried) (PRT (RP out))))))) (. .)))
+WhilewhileINOPER0manymanyJJOPER0werebeVBDOPER0notnotRBOPER0requiredrequireVBNOPER0becausebecauseINOPER0thetheDTOPER0``````OColeColeNNPWORK_OF_ARTPER7''''''OPER0wasbeVBDOPER0refuelingrefuelVBGOPER0ininINOPER0thetheDTOPER0harborharborNNOPER0,,,OPER0notnotRBOPER0atatINOPER0aaDTOPER0pierpierNNOPER0,,,OPER0othersotherNNSOPER0werebeVBDOPER0judgedjudgeVBNOPER0totoTOOPER0bebeVBOPER0significantsignificantJJOPER0lapseslapseNNSOPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0sourcessourceNNSOPER0...OPER0(ROOT (S (SBAR (IN While) (S (NP (JJ many)) (VP (VBD were) (RB not) (VP (VBN required) (SBAR (IN because) (S (NP (DT the) (`` ``) (NNP Cole) ('' '')) (VP (VBD was) (VP (VBG refueling) (PP (PP (IN in) (NP (DT the) (NN harbor))) (, ,) (RB not) (PP (IN at) (NP (DT a) (NN pier)))))))))))) (, ,) (NP (NNS others)) (VP (VBD were) (VP (VBN judged) (S (VP (TO to) (VP (VB be) (NP (JJ significant) (NNS lapses))))) (, ,) (PP (VBG according) (PP (IN to) (NP (NNS sources)))))) (. .)))
+ForforINOPER0instanceinstanceNNOPER0,,,OPER0thetheDTOPER0shipshipNNOPER0protectionprotectionNNOPER0planplanNNOPER0filedfileVBNOPER0bybyINOPER0thetheDTOPER0``````OColeColeNNPPERSONPER8's'sPOSOPER8''''''OPER0commandingcommandVBGOPER0officerofficerNNOPER0ofofINOPER0terrorismterrorismNNOPER0andandCCOPER0warnedwarnVBNOPER0totoTOOPER0bebeVBOPER0suspicioussuspiciousJJOPER0andandCCOPER0inquisitiveinquisitiveJJOPER0ofofINOPER0strangersstrangerNNSOPER0...OPER0(ROOT (S (PP (IN For) (NP (NN instance))) (, ,) (NP (DT the) (NML (NN ship) (NN protection)) (NN plan)) (VP (VP (VBN filed) (PP (IN by) (NP (NP (NP (DT the) (`` ``) (NNP Cole) (POS 's) ('' '')) (VBG commanding) (NN officer)) (PP (IN of) (NP (NN terrorism)))))) (CC and) (VP (VBN warned) (S (VP (TO to) (VP (VB be) (ADJP (JJ suspicious) (CC and) (JJ inquisitive) (PP (IN of) (NP (NNS strangers))))))))) (. .)))
+AnotheranotherDTOPER0provisionprovisionNNOPER0specificallyspecificallyRBOPER0warnedwarnVBDOPER0thatthatINOPER0smallsmallJJOPER0boatsboatNNSOPER0requirerequireVBPOPER0specialspecialJJOPER0concernconcernNNOPER0becausebecauseINOPER0theytheyPRPOPER0cancanMDOPER0serveserveVBOPER0asasINOPER0anaDTOPER0idealidealJJOPER0platformplatformNNOPER0forforINOPER0terroriststerroristNNSOPER0,,,OPER0butbutCCOPER0LippoldLippoldNNPPERSONPER0failedfailVBDOPER0totoTOOPER0ensureensureVBOPER0thosethoseDTOPER0briefingsbriefingNNSOPER0werebeVBDOPER0givengiveVBNOPER0accordingaccordVBGOPER0totoINOPER0PentagonPentagonNNPORGPER0sourcessourceNNSOPER0...OPER0(ROOT (S (S (NP (DT Another) (NN provision)) (ADVP (RB specifically)) (VP (VBD warned) (SBAR (IN that) (S (NP (JJ small) (NNS boats)) (VP (VBP require) (NP (JJ special) (NN concern)) (SBAR (IN because) (S (NP (PRP they)) (VP (MD can) (VP (VB serve) (PP (IN as) (NP (NP (DT an) (JJ ideal) (NN platform)) (PP (IN for) (NP (NNS terrorists)))))))))))))) (, ,) (CC but) (S (NP (NNP Lippold)) (VP (VBD failed) (S (VP (TO to) (VP (VB ensure) (SBAR (S (NP (DT those) (NNS briefings)) (VP (VBD were) (VP (VBN given) (PP (VBG according) (PP (IN to) (NP (NNP Pentagon) (NNS sources))))))))))))) (. .)))
+ThetheDTOPER0crewcrewNNOPER0wasbeVBDOPER0alsoalsoRBOPER0supposedsupposeVBNOPER0totoTOOPER0identifyidentifyVBOPER0andandCCOPER0inspectinspectVBOPER0allallDTOPER0workworkNNOPER0boatsboatNNSOPER0,,,OPER0keepkeepVBOPER0unauthorizedunauthorizedJJOPER0craftcraftNNOPER0awayawayRBOPER0fromfromINOPER0thetheDTOPER0shipshipNNOPER0,,,OPER0andandCCOPER0prepareprepareVBOPER0firefireNNOPER0hoseshoseNNSOPER0totoTOOPER0repelrepelVBOPER0bordersborderNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN crew)) (VP (VBD was) (ADVP (RB also)) (VP (VBN supposed) (S (VP (TO to) (VP (VP (VB identify) (CC and) (VB inspect) (NP (DT all) (NN work) (NNS boats))) (, ,) (VP (VB keep) (NP (JJ unauthorized) (NN craft)) (ADVP (RB away) (PP (IN from) (NP (DT the) (NN ship))))) (, ,) (CC and) (VP (VB prepare) (NP (NN fire) (NNS hoses)) (S (VP (TO to) (VP (VB repel) (NP (NNS borders))))))))))) (. .)))
+ThosethoseDTOPER0precautionsprecautionNNSOPER0werebeVBDOPER0notnotRBOPER0takentakeVBNOPER0eithereitherRBOPER0,,,OPER0sourcessourceNNSOPER0saysayVBPOPER0...OPER0(ROOT (S (S (NP (DT Those) (NNS precautions)) (VP (VBD were) (RB not) (VP (VBN taken) (ADVP (RB either))))) (, ,) (NP (NNS sources)) (VP (VBP say)) (. .)))
+ThetheDTOPER04040CDQUANTITYPER0--HYPHQUANTITYPER0footfootNNQUANTITYPER0holeholeNNOPER0ininINOPER0thetheDTOPER0sidesideNNOPER0ofofINOPER0thetheDTPRODUCTPER0``````PRODUCTUSSUSSNNPPRODUCTPER9ColeColeNNPPRODUCTPER9''''''PRODUCTPER0hashaveVBZOPER0nownowRBOPER0beenbeVBNOPER0patchedpatchedJJOPER0,,,OPER0andandCCOPER0thetheDTOPER0warshipwarshipNNOPER0isbeVBZOPER0ininINOPER0MississippiMississippiNNPGPEPER0forforINOPER0repairsrepairNNSOPER0thatthatWDTOPER0willwillMDOPER0costcostVBOPER0$$$MONEYPER0240240CDMONEYPER0millionmillionCDMONEYPER0andandCCOPER0taketakeVBOPER0aaDTOPER0yearyearNNOPER0totoTOOPER0completecompleteVBOPER0...OPER0(ROOT (S (S (NP (NP (DT The) (NML (CD 40) (HYPH -) (NN foot)) (NN hole)) (PP (IN in) (NP (NP (DT the) (NN side)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')))))) (VP (VBZ has) (ADVP (RB now)) (VP (VBN been) (ADJP (JJ patched))))) (, ,) (CC and) (S (NP (DT the) (NN warship)) (VP (VBZ is) (PP (IN in) (NP (NNP Mississippi))) (PP (IN for) (NP (NP (NNS repairs)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VP (VB cost) (NP (QP ($ $) (CD 240) (CD million)))) (CC and) (VP (VB take) (NP (DT a) (NN year)) (S (VP (TO to) (VP (VB complete))))))))))))) (. .)))
+SeniorseniorJJOPER0NavyNavyNNPORGPER0officialsofficialNNSOPER0arebeVBPOPER0stillstillRBOPER0debatingdebateVBGOPER0thetheDTOPER0fatefateNNOPER0ofofINOPER0CommanderCommanderNNPOPER0LippoldLippoldNNPPERSONPER0,,,OPER0whowhoWPOPER0alongalongINOPER0withwithINOPER0severalseveralJJOPER0subordinatesubordinateJJOPER0officersofficerNNSOPER0,,,OPER0couldcouldMDOPER0bebeVBOPER0subjectsubjectJJOPER0totoINOPER0careercareerNNOPER0--HYPHOPER0endingendVBGOPER0disciplinedisciplineNNOPER0,,,OPER0ififINOPER0ititPRPOPER0'sbeVBZOPER0judgedjudgeVBNOPER0thetheDTOPER0securitysecurityNNOPER0lapseslapseNNSOPER0leftleaveVBNOPER0thetheDTOPER0billionbillionCDMONEYPER0--HYPHMONEYPER0dollardollarNNMONEYPER0destroyerdestroyerNNOPER0moremoreRBROPER0vulnerablevulnerableJJOPER0totoINOPER0attackattackNNOPER0...OPER0(ROOT (S (NP (JJ Senior) (NNP Navy) (NNS officials)) (VP (VBP are) (ADVP (RB still)) (VP (VBG debating) (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (NP (NNP Commander) (NNP Lippold)) (, ,) (SBAR (WHNP (WP who)) (S (PP (IN along) (PP (IN with) (NP (JJ several) (JJ subordinate) (NNS officers)))) (, ,) (VP (MD could) (VP (VB be) (ADJP (JJ subject) (PP (IN to) (S (VP (NN career) (HYPH -) (VBG ending) (NP (NN discipline)))))) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN judged) (S (NP (DT the) (NN security) (NNS lapses)) (VP (VBN left) (NP (DT the) (NML (CD billion) (HYPH -) (NN dollar)) (NN destroyer)) (S (ADJP (RBR more) (JJ vulnerable) (PP (IN to) (NP (NN attack)))))))))))))))))))) (. .)))
+JamieJamieNNPPERSONPER0McIntyreMcIntyreNNPPERSONPER0,,,OPER0CNNCNNNNPORGPER0,,,OPER0thetheDTOPER0PentagonPentagonNNPORGPER0...OPER0(ROOT (FRAG (NP (NNP Jamie) (NNP McIntyre)) (, ,) (NP (NNP CNN)) (, ,) (NP (DT the) (NNP Pentagon)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as Pentagon
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP CNN))
+sid=0 spanning 4 until 12 headed by 5 parsed as (NP (NP (DT the) (NN commander)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 7 until 12 headed by 10 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ his) (NN crew))
+sid=0 spanning 19 until 20 headed by 19 parsed as his
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN warship))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jamie) (NNP McIntyre))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP CNN))
+sid=3 spanning 4 until 12 headed by 5 parsed as (NP (NP (DT the) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=3 spanning 7 until 12 headed by 10 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=3 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN warship))
+sid=4 spanning 1 until 6 headed by 4 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=5 spanning 0 until 1 headed by 0 parsed as Pentagon
+sid=5 spanning 14 until 19 headed by 17 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=6 spanning 6 until 10 headed by 8 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=7 spanning 9 until 16 headed by 15 parsed as (NP (NP (NP (DT the) (`` ``) (NNP Cole) (POS 's) ('' '')) (VBG commanding) (NN officer)) (PP (IN of) (NP (NN terrorism))))
+sid=7 spanning 9 until 14 headed by 11 parsed as (NP (DT the) (`` ``) (NNP Cole) (POS 's) ('' ''))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (JJ small) (NNS boats))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=8 spanning 22 until 23 headed by 22 parsed as (NP (NNP Lippold))
+sid=8 spanning 32 until 33 headed by 32 parsed as Pentagon
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN crew))
+sid=9 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN ship))
+sid=11 spanning 9 until 14 headed by 12 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN warship))
+sid=12 spanning 9 until 45 headed by 10 parsed as (NP (NP (NNP Commander) (NNP Lippold)) (, ,) (SBAR (WHNP (WP who)) (S (PP (IN along) (PP (IN with) (NP (JJ several) (JJ subordinate) (NNS officers)))) (, ,) (VP (MD could) (VP (VB be) (ADJP (JJ subject) (PP (IN to) (S (VP (NN career) (HYPH -) (VBG ending) (NP (NN discipline)))))) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN judged) (S (NP (DT the) (NN security) (NNS lapses)) (VP (VBN left) (NP (DT the) (NML (CD billion) (HYPH -) (NN dollar)) (NN destroyer)) (S (ADJP (RBR more) (JJ vulnerable) (PP (IN to) (NP (NN attack))))))))))))))))
+sid=12 spanning 36 until 41 headed by 40 parsed as (NP (DT the) (NML (CD billion) (HYPH -) (NN dollar)) (NN destroyer))
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jamie) (NNP McIntyre))
+sid=13 spanning 3 until 4 headed by 3 parsed as (NP (NNP CNN))
+sid=13 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP Pentagon))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (NNP Pentagon) (NNS sources))
+sid=0 spanning 0 until 1 headed by 0 parsed as Pentagon
+sid=0 spanning 3 until 4 headed by 3 parsed as (NP (NNP CNN))
+sid=0 spanning 4 until 12 headed by 5 parsed as (NP (NP (DT the) (NN commander)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=0 spanning 7 until 12 headed by 10 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=0 spanning 15 until 21 headed by 16 parsed as (NP (NP (JJ basic) (NNS measures)) (SBAR (S (VP (TO to) (VP (VB protect) (NP (PRP$ his) (NN crew)))))))
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (PRP$ his) (NN crew))
+sid=0 spanning 19 until 20 headed by 19 parsed as (PRP$ his)
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (CD 17) (NNS sailors))
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN warship))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (DT a) (JJ terrorist) (NN attack))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jamie) (NNP McIntyre))
+sid=2 spanning 3 until 4 headed by 3 parsed as (NP (NNS details))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP CNN))
+sid=3 spanning 4 until 12 headed by 5 parsed as (NP (NP (DT the) (NN crew)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=3 spanning 7 until 12 headed by 10 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=3 spanning 16 until 23 headed by 17 parsed as (NP (NP (DT the) (NN seriousness)) (PP (IN of) (NP (NP (DT the) (NN threat)) (PP (IN in) (NP (NNP Yemen))))))
+sid=3 spanning 19 until 23 headed by 20 parsed as (NP (NP (DT the) (NN threat)) (PP (IN in) (NP (NNP Yemen))))
+sid=3 spanning 22 until 23 headed by 22 parsed as (NP (NNP Yemen))
+sid=3 spanning 29 until 40 headed by 29 parsed as (NP (NP (NN guard)) (PP (IN for) (NP (JJ possible) (JJ terrorist) (NN attack))) (NP (NP (DT the) (NN day)) (SBAR (S (NP (DT the) (NN warship)) (VP (VBD was) (VP (VBN bombed)))))))
+sid=3 spanning 34 until 40 headed by 35 parsed as (NP (NP (DT the) (NN day)) (SBAR (S (NP (DT the) (NN warship)) (VP (VBD was) (VP (VBN bombed))))))
+sid=3 spanning 36 until 38 headed by 37 parsed as (NP (DT the) (NN warship))
+sid=4 spanning 1 until 6 headed by 4 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=4 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT the) (NN port)) (PP (IN of) (NP (NNP Aden))))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (NNP Aden))
+sid=4 spanning 11 until 12 headed by 11 parsed as (NP (NNP October))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (PRP it))
+sid=4 spanning 16 until 38 headed by 18 parsed as (NP (`` ``) (NP (NP (NN threat) (NN condition)) (INTJ (UH Bravo))) (, ,) ('' '') (NP (NP (DT an) (JJ alert) (NN level)) (SBAR (WHNP (WDT that)) (S (VP (VBZ warns) (PP (IN of) (`` ``) (NP (NP (DT an) (ADJP (ADJP (JJ increased)) (CC and) (ADJP (RBR more) (JJ predictable))) (NN threat)) (PP (IN of) (NP (JJ terrorist) (NN activity))))))))))
+sid=4 spanning 17 until 20 headed by 18 parsed as (NP (NP (NN threat) (NN condition)) (INTJ (UH Bravo)))
+sid=4 spanning 19 until 20 headed by 19 parsed as Bravo
+sid=4 spanning 22 until 38 headed by 24 parsed as (NP (NP (DT an) (JJ alert) (NN level)) (SBAR (WHNP (WDT that)) (S (VP (VBZ warns) (PP (IN of) (`` ``) (NP (NP (DT an) (ADJP (ADJP (JJ increased)) (CC and) (ADJP (RBR more) (JJ predictable))) (NN threat)) (PP (IN of) (NP (JJ terrorist) (NN activity)))))))))
+sid=4 spanning 29 until 38 headed by 34 parsed as (NP (NP (DT an) (ADJP (ADJP (JJ increased)) (CC and) (ADJP (RBR more) (JJ predictable))) (NN threat)) (PP (IN of) (NP (JJ terrorist) (NN activity))))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Pentagon) (NNS sources))
+sid=5 spanning 0 until 1 headed by 0 parsed as Pentagon
+sid=5 spanning 3 until 22 headed by 4 parsed as (NP (NP (QP (RB almost) (NN half))) (PP (IN of) (NP (NP (CD 62) (NN security) (NNS measures)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN intended) (S (VP (TO to) (VP (VB protect) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' '')) (PP (IN from) (NP (JJ terrorist) (NN attack)))))))))))))
+sid=5 spanning 14 until 19 headed by 17 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (JJ many))
+sid=6 spanning 6 until 10 headed by 8 parsed as (NP (DT the) (`` ``) (NNP Cole) ('' ''))
+sid=6 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NN harbor))
+sid=6 spanning 18 until 20 headed by 19 parsed as (NP (DT a) (NN pier))
+sid=6 spanning 21 until 22 headed by 21 parsed as (NP (NNS others))
+sid=6 spanning 26 until 28 headed by 27 parsed as (NP (JJ significant) (NNS lapses))
+sid=6 spanning 31 until 32 headed by 31 parsed as (NP (NNS sources))
+sid=7 spanning 3 until 7 headed by 6 parsed as (NP (DT the) (NML (NN ship) (NN protection)) (NN plan))
+sid=7 spanning 9 until 18 headed by 15 parsed as (NP (NP (NP (DT the) (`` ``) (NNP Cole) (POS 's) ('' '')) (VBG commanding) (NN officer)) (PP (IN of) (NP (NN terrorism))))
+sid=7 spanning 9 until 14 headed by 11 parsed as (NP (DT the) (`` ``) (NNP Cole) (POS 's) ('' ''))
+sid=7 spanning 26 until 27 headed by 26 parsed as (NP (NNS strangers))
+sid=8 spanning 0 until 2 headed by 1 parsed as (NP (DT Another) (NN provision))
+sid=8 spanning 5 until 7 headed by 6 parsed as (NP (JJ small) (NNS boats))
+sid=8 spanning 11 until 12 headed by 11 parsed as (NP (PRP they))
+sid=8 spanning 15 until 20 headed by 17 parsed as (NP (NP (DT an) (JJ ideal) (NN platform)) (PP (IN for) (NP (NNS terrorists))))
+sid=8 spanning 19 until 20 headed by 19 parsed as (NP (NNS terrorists))
+sid=8 spanning 22 until 23 headed by 22 parsed as (NP (NNP Lippold))
+sid=8 spanning 26 until 28 headed by 27 parsed as (NP (DT those) (NNS briefings))
+sid=8 spanning 32 until 34 headed by 33 parsed as (NP (NNP Pentagon) (NNS sources))
+sid=8 spanning 32 until 33 headed by 32 parsed as Pentagon
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN crew))
+sid=9 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN ship))
+sid=9 spanning 23 until 25 headed by 24 parsed as (NP (NN fire) (NNS hoses))
+sid=9 spanning 27 until 28 headed by 27 parsed as (NP (NNS borders))
+sid=10 spanning 0 until 2 headed by 1 parsed as (NP (DT Those) (NNS precautions))
+sid=10 spanning 7 until 8 headed by 7 parsed as (NP (NNS sources))
+sid=11 spanning 0 until 14 headed by 4 parsed as (NP (NP (DT The) (NML (CD 40) (HYPH -) (NN foot)) (NN hole)) (PP (IN in) (NP (NP (DT the) (NN side)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))))
+sid=11 spanning 6 until 14 headed by 7 parsed as (NP (NP (DT the) (NN side)) (PP (IN of) (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))))
+sid=11 spanning 9 until 14 headed by 12 parsed as (NP (DT the) (`` ``) (NNP USS) (NNP Cole) ('' ''))
+sid=11 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN warship))
+sid=11 spanning 24 until 25 headed by 24 parsed as (NP (NNP Mississippi))
+sid=11 spanning 26 until 39 headed by 26 parsed as (NP (NP (NNS repairs)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VP (VB cost) (NP (QP ($ $) (CD 240) (CD million)))) (CC and) (VP (VB take) (NP (DT a) (NN year)) (S (VP (TO to) (VP (VB complete))))))))))
+sid=11 spanning 35 until 37 headed by 36 parsed as (NP (DT a) (NN year))
+sid=12 spanning 0 until 3 headed by 2 parsed as (NP (JJ Senior) (NNP Navy) (NNS officials))
+sid=12 spanning 1 until 2 headed by 1 parsed as Navy
+sid=12 spanning 6 until 45 headed by 7 parsed as (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (NP (NNP Commander) (NNP Lippold)) (, ,) (SBAR (WHNP (WP who)) (S (PP (IN along) (PP (IN with) (NP (JJ several) (JJ subordinate) (NNS officers)))) (, ,) (VP (MD could) (VP (VB be) (ADJP (JJ subject) (PP (IN to) (S (VP (NN career) (HYPH -) (VBG ending) (NP (NN discipline)))))) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN judged) (S (NP (DT the) (NN security) (NNS lapses)) (VP (VBN left) (NP (DT the) (NML (CD billion) (HYPH -) (NN dollar)) (NN destroyer)) (S (ADJP (RBR more) (JJ vulnerable) (PP (IN to) (NP (NN attack))))))))))))))))))
+sid=12 spanning 10 until 11 headed by 10 parsed as (NP (NP (NNP Commander) (NNP Lippold)) (, ,) (SBAR (WHNP (WP who)) (S (PP (IN along) (PP (IN with) (NP (JJ several) (JJ subordinate) (NNS officers)))) (, ,) (VP (MD could) (VP (VB be) (ADJP (JJ subject) (PP (IN to) (S (VP (NN career) (HYPH -) (VBG ending) (NP (NN discipline)))))) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN judged) (S (NP (DT the) (NN security) (NNS lapses)) (VP (VBN left) (NP (DT the) (NML (CD billion) (HYPH -) (NN dollar)) (NN destroyer)) (S (ADJP (RBR more) (JJ vulnerable) (PP (IN to) (NP (NN attack))))))))))))))))
+sid=12 spanning 9 until 45 headed by 10 parsed as (NP (NP (NNP Commander) (NNP Lippold)) (, ,) (SBAR (WHNP (WP who)) (S (PP (IN along) (PP (IN with) (NP (JJ several) (JJ subordinate) (NNS officers)))) (, ,) (VP (MD could) (VP (VB be) (ADJP (JJ subject) (PP (IN to) (S (VP (NN career) (HYPH -) (VBG ending) (NP (NN discipline)))))) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN judged) (S (NP (DT the) (NN security) (NNS lapses)) (VP (VBN left) (NP (DT the) (NML (CD billion) (HYPH -) (NN dollar)) (NN destroyer)) (S (ADJP (RBR more) (JJ vulnerable) (PP (IN to) (NP (NN attack))))))))))))))))
+sid=12 spanning 9 until 11 headed by 10 parsed as (NP (NNP Commander) (NNP Lippold))
+sid=12 spanning 15 until 18 headed by 17 parsed as (NP (JJ several) (JJ subordinate) (NNS officers))
+sid=12 spanning 29 until 30 headed by 29 parsed as (NP (PRP it))
+sid=12 spanning 32 until 35 headed by 34 parsed as (NP (DT the) (NN security) (NNS lapses))
+sid=12 spanning 36 until 41 headed by 40 parsed as (NP (DT the) (NML (CD billion) (HYPH -) (NN dollar)) (NN destroyer))
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP Jamie) (NNP McIntyre))
+sid=13 spanning 3 until 4 headed by 3 parsed as (NP (NNP CNN))
+sid=13 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NNP Pentagon))
+(end predicted mentions)
+---------gold clusters--------
+23 4 9 | { 'The crew' 'his crew' 'the crew of the `` USS Cole ''' }
+15 3 6 25 12 28 24 11 16 18 10 26 13 | { 'the `` USS Cole ''' 'the `` USS Cole ''' 'the warship' 'the `` USS Cole ''' 'the `` USS Cole ''' 'the billion - dollar destroyer' 'the ship' 'the warship' 'the `` Cole ''' 'the `` Cole 's ''' 'the `` USS Cole ''' 'the warship' 'it' }
+8 30 1 | { 'CNN' 'CNN' 'CNN' }
+20 19 | { 'they' 'small boats' }
+0 22 14 31 | { 'Pentagon' 'Pentagon' 'Pentagon' 'the Pentagon' }
+29 7 | { 'Jamie McIntyre' 'Jamie McIntyre' }
+5 17 21 2 27 | { 'his' 'the `` Cole 's '' commanding officer' 'Lippold' 'the commander of the `` USS Cole ''' 'Commander Lippold , who along with several subordinate officers , could be subject to career - ending discipline , if it 's judged the security lapses left the billion - dollar destroyer more vulnerable to attack' }
+(end gold clusters)

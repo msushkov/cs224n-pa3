@@ -1,0 +1,49 @@
+---------gloss--------
+(0) [1m[31m{Yugoslav Foreign Minister Goran Spilianovich}[0m says [1m[31m{his}[0m country must [1m[33m{negotiate}[0m with the UN War Crimes Tribunal before [1m[32m{former Yugoslav President Slobodan Milosevic}[0m can be prosecuted . 
+(1) [1m[31m{Mr. Spilianovich}[0m spoke to reporters Friday during a visit to Washington . 
+(2) [1m[31m{He}[0m proposed [1m[33m{negotiations to determine whether Mr. Milosevic should be tried in the Hague or in Yugoslavia}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0216); part 000
+sentences:
+YugoslavyugoslavJJOPER0ForeignForeignNNPOPER0MinisterMinisterNNPOPER0GoranGoranNNPPERSONPER0SpilianovichSpilianovichNNPPERSONPER0sayssayVBZOPER0hishePRP$OPER0countrycountryNNOPER0mustmustMDOPER0negotiatenegotiateVBOPER0withwithINOPER0thetheDTORGPER0UNUNNNPORGPER0WarWarNNPORGPER0CrimesCrimesNNPSORGPER0TribunalTribunalNNPORGPER0beforebeforeINOPER0formerformerJJOPER0YugoslavyugoslavJJOPER0PresidentPresidentNNPOPER0SlobodanSlobodanNNPPERSONPER0MilosevicMilosevicNNPPERSONPER0cancanMDOPER0bebeVBOPER0prosecutedprosecuteVBNOPER0...OPER0(ROOT (S (NP (NML (JJ Yugoslav) (NNP Foreign) (NNP Minister)) (NNP Goran) (NNP Spilianovich)) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NN country)) (VP (MD must) (VP (VB negotiate) (PP (IN with) (NP (DT the) (NNP UN) (NML (NNP War) (NNPS Crimes)) (NNP Tribunal))) (SBAR (IN before) (S (NP (NML (JJ former) (JJ Yugoslav) (NNP President)) (NNP Slobodan) (NNP Milosevic)) (VP (MD can) (VP (VB be) (VP (VBN prosecuted))))))))))) (. .)))
+Mr.Mr.NNPOPER0SpilianovichSpilianovichNNPPERSONPER0spokespeakVBDOPER0totoINOPER0reportersreporterNNSOPER0FridayFridayNNPDATEPER0duringduringINOPER0aaDTOPER0visitvisitNNOPER0totoINOPER0WashingtonWashingtonNNPGPEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Spilianovich)) (VP (VBD spoke) (PP (IN to) (NP (NNS reporters))) (NP (NNP Friday)) (PP (IN during) (NP (NP (DT a) (NN visit)) (PP (IN to) (NP (NNP Washington)))))) (. .)))
+HehePRPOPER0proposedproposeVBDOPER0negotiationsnegotiationNNSOPER0totoTOOPER0determinedetermineVBOPER0whetherwhetherINOPER0Mr.Mr.NNPOPER0MilosevicMilosevicNNPPERSONPER0shouldshouldMDOPER0bebeVBOPER0triedtryVBNOPER0ininINOPER0thetheDTOPER0HagueHagueNNPGPEPER0ororCCOPER0ininINOPER0YugoslaviaYugoslaviaNNPGPEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD proposed) (NP (NNS negotiations) (S (VP (TO to) (VP (VB determine) (SBAR (IN whether) (S (NP (NNP Mr.) (NNP Milosevic)) (VP (MD should) (VP (VB be) (VP (VBN tried) (PP (PP (IN in) (NP (DT the) (NNP Hague))) (CC or) (PP (IN in) (NP (NNP Yugoslavia)))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Yugoslav) (NNP Foreign) (NNP Minister)) (NNP Goran) (NNP Spilianovich))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NN country))
+sid=0 spanning 6 until 7 headed by 6 parsed as his
+sid=0 spanning 9 until 10 headed by 9 parsed as negotiate
+sid=0 spanning 17 until 22 headed by 21 parsed as (NP (NML (JJ former) (JJ Yugoslav) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Spilianovich))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 17 headed by 2 parsed as (NP (NNS negotiations) (S (VP (TO to) (VP (VB determine) (SBAR (IN whether) (S (NP (NNP Mr.) (NNP Milosevic)) (VP (MD should) (VP (VB be) (VP (VBN tried) (PP (PP (IN in) (NP (DT the) (NNP Hague))) (CC or) (PP (IN in) (NP (NNP Yugoslavia)))))))))))))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NNP Mr.) (NNP Milosevic))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NNP Yugoslavia))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Yugoslav) (NNP Foreign) (NNP Minister)) (NNP Goran) (NNP Spilianovich))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (PRP$ his) (NN country))
+sid=0 spanning 6 until 7 headed by 6 parsed as (PRP$ his)
+sid=0 spanning 11 until 16 headed by 15 parsed as (NP (DT the) (NNP UN) (NML (NNP War) (NNPS Crimes)) (NNP Tribunal))
+sid=0 spanning 17 until 22 headed by 21 parsed as (NP (NML (JJ former) (JJ Yugoslav) (NNP President)) (NNP Slobodan) (NNP Milosevic))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Spilianovich))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (NNS reporters))
+sid=1 spanning 5 until 6 headed by 5 parsed as (NP (NNP Friday))
+sid=1 spanning 7 until 11 headed by 8 parsed as (NP (NP (DT a) (NN visit)) (PP (IN to) (NP (NNP Washington))))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NNP Washington))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 17 headed by 2 parsed as (NP (NNS negotiations) (S (VP (TO to) (VP (VB determine) (SBAR (IN whether) (S (NP (NNP Mr.) (NNP Milosevic)) (VP (MD should) (VP (VB be) (VP (VBN tried) (PP (PP (IN in) (NP (DT the) (NNP Hague))) (CC or) (PP (IN in) (NP (NNP Yugoslavia)))))))))))))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (NNP Mr.) (NNP Milosevic))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (DT the) (NNP Hague))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NNP Hague))
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NNP Yugoslavia))
+(end predicted mentions)
+---------gold clusters--------
+9 1 | { 'Yugoslavia' 'his country' }
+6 0 2 5 | { 'He' 'Yugoslav Foreign Minister Goran Spilianovich' 'his' 'Mr. Spilianovich' }
+4 8 | { 'former Yugoslav President Slobodan Milosevic' 'Mr. Milosevic' }
+3 7 | { 'negotiate' 'negotiations to determine whether Mr. Milosevic should be tried in the Hague or in Yugoslavia' }
+(end gold clusters)

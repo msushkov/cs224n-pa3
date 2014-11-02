@@ -1,0 +1,49 @@
+---------gloss--------
+(0) The warm atmosphere and harmony of [4m[35m{the Flower Festival pageant}[0m overflows . 
+(1) Musicians play music to welcome the spring breeze . 
+(2) At [4m[35m{Holland 's annual Flower Festival pageant}[0m , people created all kinds of floats using tens of thousands fresh flowers and gathered happily in the streets . 
+(3) These are musicians on the floats playing the " Welcome spring music " at [4m[35m{the Flower Festival}[0m . 
+(4) Taken by Zhongnan Guo -LRB- via Xinhua News Agency -RRB- 
+(end gloss)
+---------document--------
+(nw/xinhua/01/chtb_0178); part 000
+sentences:
+ThetheDTOPER0warmwarmJJOPER0atmosphereatmosphereNNOPER0andandCCOPER0harmonyharmonyNNOPER0ofofINOPER0thetheDTOPER0FlowerFlowerNNPEVENTPER0FestivalFestivalNNPEVENTPER0pageantpageantNNOPER0overflowsoverflowVBZOPER0...OPER0(ROOT (S (NP (NP (DT The) (JJ warm) (NN atmosphere)) (CC and) (NP (NP (NN harmony)) (PP (IN of) (NP (DT the) (NML (NNP Flower) (NNP Festival)) (NN pageant))))) (VP (VBZ overflows)) (. .)))
+MusiciansmusicianNNSOPER0playplayVBPOPER0musicmusicNNOPER0totoTOOPER0welcomewelcomeVBOPER0thetheDTOPER0springspringNNDATEPER0breezebreezeNNOPER0...OPER0(ROOT (S (NP (NNS Musicians)) (VP (VBP play) (NP (NN music)) (S (VP (TO to) (VP (VB welcome) (NP (DT the) (NN spring) (NN breeze)))))) (. .)))
+AtatINOPER0HollandHollandNNPORGPER0's'sPOSOPER0annualannualJJOPER0FlowerFlowerNNPEVENTPER0FestivalFestivalNNPEVENTPER0pageantpageantNNOPER0,,,OPER0peoplepeopleNNSOPER0createdcreateVBDOPER0allallDTOPER0kindskindNNSOPER0ofofINOPER0floatsfloatNNSOPER0usinguseVBGOPER0tenstenNNSCARDINALPER0ofofINCARDINALPER0thousandsthousandNNSCARDINALPER0freshfreshJJOPER0flowersflowerNNSOPER0andandCCOPER0gatheredgatherVBDOPER0happilyhappilyRBOPER0ininINOPER0thetheDTOPER0streetsstreetNNSOPER0...OPER0(ROOT (S (PP (IN At) (NP (NP (NNP Holland) (POS 's)) (JJ annual) (NML (NNP Flower) (NNP Festival)) (NN pageant))) (, ,) (NP (NNS people)) (VP (VP (VBD created) (NP (NP (DT all) (NNS kinds)) (PP (IN of) (NP (NP (NNS floats)) (VP (VBG using) (NP (QP (NNS tens) (IN of) (NNS thousands)) (JJ fresh) (NNS flowers))))))) (CC and) (VP (VBD gathered) (ADVP (RB happily)) (PP (IN in) (NP (DT the) (NNS streets))))) (. .)))
+ThesetheseDTOPER0arebeVBPOPER0musiciansmusicianNNSOPER0ononINOPER0thetheDTOPER0floatsfloatNNSOPER0playingplayVBGOPER0thetheDTWORK_OF_ARTPER0""``WORK_OF_ARTPER0WelcomewelcomeJJWORK_OF_ARTPER1springspringNNWORK_OF_ARTPER1musicmusicNNWORK_OF_ARTPER1""''WORK_OF_ARTPER0atatINOPER0thetheDTEVENTPER0FlowerFlowerNNPEVENTPER0FestivalFestivalNNPEVENTPER0...OPER0(ROOT (S (NP (DT These)) (VP (VBP are) (NP (NP (NNS musicians)) (PP (IN on) (NP (NP (DT the) (NNS floats)) (VP (VBG playing) (NP (NP (DT the) (`` ") (JJ Welcome) (NN spring) (NN music) ('' ")) (PP (IN at) (NP (DT the) (NNP Flower) (NNP Festival))))))))) (. .)))
+TakentakeVBNOPER0bybyINOPER0ZhongnanZhongnanNNPPERSONPER0GuoGuoNNPPERSONPER0-LRB--lrb--LRB-OPER0viaviaINOPER0XinhuaXinhuaNNPORGPER0NewsNewsNNPORGPER0AgencyAgencyNNPORGPER0-RRB--rrb--RRB-OPER0(ROOT (FRAG (VP (VBN Taken) (PP (IN by) (NP (NP (NNP Zhongnan) (NNP Guo)) (-LRB- -LRB-) (PP (IN via) (NP (NNP Xinhua) (NNP News) (NNP Agency))) (-RRB- -RRB-))))))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (NML (NNP Flower) (NNP Festival)) (NN pageant))
+sid=2 spanning 1 until 7 headed by 6 parsed as (NP (NP (NNP Holland) (POS 's)) (JJ annual) (NML (NNP Flower) (NNP Festival)) (NN pageant))
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Flower) (NNP Festival))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 10 headed by 2 parsed as (NP (NP (DT The) (JJ warm) (NN atmosphere)) (CC and) (NP (NP (NN harmony)) (PP (IN of) (NP (DT the) (NML (NNP Flower) (NNP Festival)) (NN pageant)))))
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ warm) (NN atmosphere))
+sid=0 spanning 4 until 10 headed by 4 parsed as (NP (NP (NN harmony)) (PP (IN of) (NP (DT the) (NML (NNP Flower) (NNP Festival)) (NN pageant))))
+sid=0 spanning 6 until 10 headed by 9 parsed as (NP (DT the) (NML (NNP Flower) (NNP Festival)) (NN pageant))
+sid=0 spanning 7 until 9 headed by 8 parsed as Festival
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Musicians))
+sid=1 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (NN spring) (NN breeze))
+sid=1 spanning 6 until 7 headed by 6 parsed as spring
+sid=2 spanning 1 until 7 headed by 6 parsed as (NP (NP (NNP Holland) (POS 's)) (JJ annual) (NML (NNP Flower) (NNP Festival)) (NN pageant))
+sid=2 spanning 1 until 3 headed by 1 parsed as (NP (NNP Holland) (POS 's))
+sid=2 spanning 4 until 6 headed by 5 parsed as Festival
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNS people))
+sid=2 spanning 13 until 20 headed by 13 parsed as (NP (NP (NNS floats)) (VP (VBG using) (NP (QP (NNS tens) (IN of) (NNS thousands)) (JJ fresh) (NNS flowers))))
+sid=2 spanning 15 until 20 headed by 19 parsed as (NP (QP (NNS tens) (IN of) (NNS thousands)) (JJ fresh) (NNS flowers))
+sid=2 spanning 24 until 26 headed by 25 parsed as (NP (DT the) (NNS streets))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (DT These))
+sid=3 spanning 2 until 17 headed by 2 parsed as (NP (NP (NNS musicians)) (PP (IN on) (NP (NP (DT the) (NNS floats)) (VP (VBG playing) (NP (NP (DT the) (`` ") (JJ Welcome) (NN spring) (NN music) ('' ")) (PP (IN at) (NP (DT the) (NNP Flower) (NNP Festival))))))))
+sid=3 spanning 4 until 17 headed by 5 parsed as (NP (NP (DT the) (NNS floats)) (VP (VBG playing) (NP (NP (DT the) (`` ") (JJ Welcome) (NN spring) (NN music) ('' ")) (PP (IN at) (NP (DT the) (NNP Flower) (NNP Festival))))))
+sid=3 spanning 7 until 17 headed by 11 parsed as (NP (NP (DT the) (`` ") (JJ Welcome) (NN spring) (NN music) ('' ")) (PP (IN at) (NP (DT the) (NNP Flower) (NNP Festival))))
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT the) (NNP Flower) (NNP Festival))
+sid=4 spanning 2 until 10 headed by 3 parsed as (NP (NP (NNP Zhongnan) (NNP Guo)) (-LRB- -LRB-) (PP (IN via) (NP (NNP Xinhua) (NNP News) (NNP Agency))) (-RRB- -RRB-))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (NNP Xinhua) (NNP News) (NNP Agency))
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'the Flower Festival' 'the Flower Festival pageant' 'Holland 's annual Flower Festival pageant' }
+(end gold clusters)

@@ -1,0 +1,71 @@
+---------gloss--------
+(0) French consumer prices [4m[36m{rose}[0m 0.2 % in [4m[34m{September}[0m from [31m{August}[0m , according to [4m[35m{provisional estimates by the National Statistics Institute}[0m . 
+(1) [4m[32m{The agency}[0m noted that because of a strike by Finance Ministry personnel [4m[35m{the provisional estimate}[0m does n't correspond exactly to the consumer price index usually published . 
+(2) [4m[32m{The agency}[0m noted , however , [4m[35m{the estimate}[0m will likely be confirmed . 
+(3) [4m[32m{The institute}[0m did n't estimate annual price growth in [4m[34m{September}[0m , but [4m[36m{a 0.2 % rise by the consumer price index}[0m would put growth at either 178.8 or 178.9 , up 3.3 % or 3.4 % from the year - earlier level of 173.1 . 
+(4) [4m[33m{The index}[0m was 178.5 in [31m{August}[0m and is based on 1980 equaling 100 . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1084); part 000
+sentences:
+FrenchfrenchJJOPER0consumerconsumerNNOPER0pricespriceNNSOPER0roseriseVBDOPER00.20.2CDPERCENTPER0%%NNPERCENTPER0ininINOPER0SeptemberSeptemberNNPDATEPER0fromfromINOPER0AugustAugustNNPDATEPER0,,,OPER0accordingaccordVBGOPER0totoINOPER0provisionalprovisionalJJOPER0estimatesestimateNNSOPER0bybyINOPER0thetheDTORGPER0NationalNationalNNPORGPER0StatisticsStatisticsNNPORGPER0InstituteInstituteNNPORGPER0...OPER0(ROOT (S (NP (JJ French) (NN consumer) (NNS prices)) (VP (VBD rose) (NP (CD 0.2) (NN %)) (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (NNP August))) (, ,) (PP (VBG according) (PP (IN to) (NP (NP (JJ provisional) (NNS estimates)) (PP (IN by) (NP (DT the) (NNP National) (NNP Statistics) (NNP Institute))))))) (. .)))
+ThetheDTOPER0agencyagencyNNOPER0notednoteVBDOPER0thatthatINOPER0becausebecauseINOPER0ofofINOPER0aaDTOPER0strikestrikeNNOPER0bybyINOPER0FinanceFinanceNNPORGPER0MinistryMinistryNNPORGPER0personnelpersonnelNNSOPER0thetheDTOPER0provisionalprovisionalJJOPER0estimateestimateNNOPER0doesdoVBZOPER0n'tnotRBOPER0correspondcorrespondVBOPER0exactlyexactlyRBOPER0totoINOPER0thetheDTOPER0consumerconsumerNNOPER0pricepriceNNOPER0indexindexNNOPER0usuallyusuallyRBOPER0publishedpublishVBNOPER0...OPER0(ROOT (S (NP (DT The) (NN agency)) (VP (VBD noted) (SBAR (IN that) (S (PP (IN because) (IN of) (NP (NP (DT a) (NN strike)) (PP (IN by) (NP (NML (NNP Finance) (NNP Ministry)) (NNS personnel))))) (NP (DT the) (JJ provisional) (NN estimate)) (VP (VBZ does) (RB n't) (VP (VB correspond) (PP (ADVP (RB exactly)) (IN to) (NP (NP (DT the) (NML (NN consumer) (NN price)) (NN index)) (VP (ADVP (RB usually)) (VBN published))))))))) (. .)))
+ThetheDTOPER0agencyagencyNNOPER0notednoteVBDOPER0,,,OPER0howeverhoweverRBOPER0,,,OPER0thetheDTOPER0estimateestimateNNOPER0willwillMDOPER0likelylikelyRBOPER0bebeVBOPER0confirmedconfirmVBNOPER0...OPER0(ROOT (S (NP (DT The) (NN agency)) (VP (VBD noted) (SBAR (S (, ,) (ADVP (RB however)) (, ,) (NP (DT the) (NN estimate)) (VP (MD will) (ADVP (RB likely)) (VP (VB be) (VP (VBN confirmed))))))) (. .)))
+ThetheDTOPER0instituteinstituteNNOPER0diddoVBDOPER0n'tnotRBOPER0estimateestimateVBOPER0annualannualJJDATEPER0pricepriceNNOPER0growthgrowthNNOPER0ininINOPER0SeptemberSeptemberNNPDATEPER0,,,OPER0butbutCCOPER0aaDTOPER00.20.2CDPERCENTPER0%%NNPERCENTPER0riseriseNNOPER0bybyINOPER0thetheDTOPER0consumerconsumerNNOPER0pricepriceNNOPER0indexindexNNOPER0wouldwouldMDOPER0putputVBOPER0growthgrowthNNOPER0atatINOPER0eithereitherDTOPER0178.8178.8CDCARDINALPER0ororCCOPER0178.9178.9CDMONEYPER0,,,OPER0upupRBOPER03.33.3CDPERCENTPER0%%NNPERCENTPER0ororCCPERCENTPER03.43.4CDPERCENTPER0%%NNPERCENTPER0fromfromINOPER0thetheDTOPER0yearyearNNDATEPER0--HYPHDATEPER0earlierearlierJJRDATEPER0levellevelNNOPER0ofofINOPER0173.1173.1CDCARDINALPER0...OPER0(ROOT (S (S (NP (DT The) (NN institute)) (VP (VBD did) (RB n't) (VP (VB estimate) (NP (NP (JJ annual) (NN price) (NN growth)) (PP (IN in) (NP (NNP September))))))) (, ,) (CC but) (S (NP (NP (DT a) (NML (CD 0.2) (NN %)) (NN rise)) (PP (IN by) (NP (DT the) (NML (NN consumer) (NN price)) (NN index)))) (VP (MD would) (VP (VB put) (NP (NN growth)) (PP (IN at) (NP (NP (DT either) (CD 178.8) (CC or) (CD 178.9)) (, ,) (ADVP (RB up) (NP (QP (CD 3.3) (NN %) (CC or) (CD 3.4) (NN %))) (PP (IN from) (NP (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN level)) (PP (IN of) (NP (CD 173.1))))))))))) (. .)))
+ThetheDTOPER0indexindexNNOPER0wasbeVBDOPER0178.5178.5CDMONEYPER0ininINOPER0AugustAugustNNPDATEPER0andandCCOPER0isbeVBZOPER0basedbaseVBNOPER0ononINOPER019801980CDDATEPER0equalingequalVBGOPER0100100CDCARDINALPER0...OPER0(ROOT (S (NP (DT The) (NN index)) (VP (VP (VBD was) (NP (CD 178.5)) (PP (IN in) (NP (NNP August)))) (CC and) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (NP (CD 1980)) (VP (VBG equaling) (NP (CD 100)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 4 headed by 3 parsed as rose
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP September))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP August))
+sid=0 spanning 13 until 20 headed by 14 parsed as (NP (NP (JJ provisional) (NNS estimates)) (PP (IN by) (NP (DT the) (NNP National) (NNP Statistics) (NNP Institute))))
+sid=0 spanning 16 until 20 headed by 19 parsed as (NP (DT the) (NNP National) (NNP Statistics) (NNP Institute))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agency))
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (JJ provisional) (NN estimate))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agency))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN estimate))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN institute))
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP September))
+sid=3 spanning 12 until 21 headed by 15 parsed as (NP (NP (DT a) (NML (CD 0.2) (NN %)) (NN rise)) (PP (IN by) (NP (DT the) (NML (NN consumer) (NN price)) (NN index))))
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (NML (NN consumer) (NN price)) (NN index))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN index))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNP August))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (JJ French) (NN consumer) (NNS prices))
+sid=0 spanning 7 until 8 headed by 7 parsed as (NP (NNP September))
+sid=0 spanning 9 until 10 headed by 9 parsed as (NP (NNP August))
+sid=0 spanning 13 until 20 headed by 14 parsed as (NP (NP (JJ provisional) (NNS estimates)) (PP (IN by) (NP (DT the) (NNP National) (NNP Statistics) (NNP Institute))))
+sid=0 spanning 16 until 20 headed by 19 parsed as (NP (DT the) (NNP National) (NNP Statistics) (NNP Institute))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agency))
+sid=1 spanning 6 until 12 headed by 7 parsed as (NP (NP (DT a) (NN strike)) (PP (IN by) (NP (NML (NNP Finance) (NNP Ministry)) (NNS personnel))))
+sid=1 spanning 9 until 12 headed by 11 parsed as (NP (NML (NNP Finance) (NNP Ministry)) (NNS personnel))
+sid=1 spanning 9 until 11 headed by 10 parsed as Ministry
+sid=1 spanning 12 until 15 headed by 14 parsed as (NP (DT the) (JJ provisional) (NN estimate))
+sid=1 spanning 20 until 26 headed by 23 parsed as (NP (NP (DT the) (NML (NN consumer) (NN price)) (NN index)) (VP (ADVP (RB usually)) (VBN published)))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN agency))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN estimate))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN institute))
+sid=3 spanning 5 until 6 headed by 5 parsed as annual
+sid=3 spanning 9 until 10 headed by 9 parsed as (NP (NNP September))
+sid=3 spanning 12 until 21 headed by 15 parsed as (NP (NP (DT a) (NML (CD 0.2) (NN %)) (NN rise)) (PP (IN by) (NP (DT the) (NML (NN consumer) (NN price)) (NN index))))
+sid=3 spanning 17 until 21 headed by 20 parsed as (NP (DT the) (NML (NN consumer) (NN price)) (NN index))
+sid=3 spanning 25 until 44 headed by 26 parsed as (NP (NP (DT either) (CD 178.8) (CC or) (CD 178.9)) (, ,) (ADVP (RB up) (NP (QP (CD 3.3) (NN %) (CC or) (CD 3.4) (NN %))) (PP (IN from) (NP (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN level)) (PP (IN of) (NP (CD 173.1)))))))
+sid=3 spanning 25 until 29 headed by 26 parsed as (NP (DT either) (CD 178.8) (CC or) (CD 178.9))
+sid=3 spanning 37 until 44 headed by 41 parsed as (NP (NP (DT the) (ADJP (NN year) (HYPH -) (JJR earlier)) (NN level)) (PP (IN of) (NP (CD 173.1))))
+sid=3 spanning 38 until 41 headed by 38 parsed as year
+sid=3 spanning 43 until 44 headed by 43 parsed as (NP (CD 173.1))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN index))
+sid=4 spanning 5 until 6 headed by 5 parsed as (NP (NNP August))
+sid=4 spanning 10 until 11 headed by 10 parsed as (NP (CD 1980))
+sid=4 spanning 12 until 13 headed by 12 parsed as (NP (CD 100))
+(end predicted mentions)
+---------gold clusters--------
+9 5 4 7 | { 'The institute' 'The agency' 'the National Statistics Institute' 'The agency' }
+12 13 | { 'the consumer price index' 'The index' }
+1 10 | { 'September' 'September' }
+3 6 8 | { 'provisional estimates by the National Statistics Institute' 'the provisional estimate' 'the estimate' }
+0 11 | { 'rose' 'a 0.2 % rise by the consumer price index' }
+14 2 | { 'August' 'August' }
+(end gold clusters)

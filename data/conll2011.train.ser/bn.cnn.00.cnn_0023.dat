@@ -1,0 +1,69 @@
+---------gloss--------
+(0) [33m{Former Russian President Boris Yeltsin}[0m takes readers behind closed doors at the Kremlin in [33m{his}[0m new book . 
+(1) [33m{Yeltsin}[0m writes in [34m{`` Midnight Diaries ''}[0m that [33m{he}[0m received intelligence reports about [32m{the Monica Lewinsky scandal}[0m before [32m{it}[0m went public , but [33m{he}[0m chose not to warn [31m{President Clinton}[0m . 
+(2) [33m{He}[0m says [33m{he}[0m `` thought [31m{Clinton}[0m could handle [32m{it}[0m [31m{himself}[0m . '' 
+(3) [33m{Yeltsin}[0m also admits [33m{he}[0m was drunk when [33m{he}[0m grabbed a baton and struck up a military orchestra in Berlin six years ago . 
+(end gloss)
+---------document--------
+(bn/cnn/00/cnn_0023); part 000
+sentences:
+FormerformerJJOPER0RussianrussianJJOPER0PresidentPresidentNNPOPER0BorisBorisNNPPERSONPER0YeltsinYeltsinNNPPERSONPER0takestakeVBZOPER0readersreaderNNSOPER0behindbehindINOPER0closedclosedJJOPER0doorsdoorNNSOPER0atatINOPER0thetheDTOPER0KremlinKremlinNNPORGPER0ininINOPER0hishePRP$OPER0newnewJJOPER0bookbookNNOPER0...OPER0(ROOT (S (NP (NML (JJ Former) (JJ Russian) (NNP President)) (NNP Boris) (NNP Yeltsin)) (VP (VBZ takes) (NP (NP (NNS readers)) (PP (IN behind) (NP (JJ closed) (NNS doors)))) (PP (IN at) (NP (DT the) (NNP Kremlin))) (PP (IN in) (NP (PRP$ his) (JJ new) (NN book)))) (. .)))
+YeltsinYeltsinNNPPERSONPER0writeswriteVBZOPER0ininINOPER0``````WORK_OF_ARTMidnightmidnightNNWORK_OF_ARTPER1DiariesdiaryNNSWORK_OF_ARTPER1''''''WORK_OF_ARTPER0thatthatINOPER0hehePRPOPER0receivedreceiveVBDOPER0intelligenceintelligenceNNOPER0reportsreportNNSOPER0aboutaboutINOPER0thetheDTPERSONPER0MonicaMonicaNNPPERSONPER0LewinskyLewinskyNNPPERSONPER0scandalscandalNNOPER0beforebeforeINOPER0ititPRPOPER0wentgoVBDOPER0publicpublicJJOPER0,,,OPER0butbutCCOPER0hehePRPOPER0chosechooseVBDOPER0notnotRBOPER0totoTOOPER0warnwarnVBOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0...OPER0(ROOT (S (S (NP (NNP Yeltsin)) (VP (VBZ writes) (PP (IN in) (NP (`` ``) (NN Midnight) (NNS Diaries) ('' ''))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD received) (NP (NP (NN intelligence) (NNS reports)) (PP (IN about) (NP (DT the) (NNP Monica) (NNP Lewinsky)))) (NP (NN scandal)) (SBAR (IN before) (S (NP (PRP it)) (VP (VBD went) (ADJP (JJ public)))))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD chose) (S (RB not) (VP (TO to) (VP (VB warn) (NP (NNP President) (NNP Clinton))))))) (. .)))
+HehePRPOPER0sayssayVBZOPER0hehePRPOPER0``````OthoughtthinkVBDOPER2ClintonClintonNNPPERSONPER2couldcouldMDOPER2handlehandleVBOPER2ititPRPOPER2himselfhimselfPRPOPER2...OPER2''''''OPER0(ROOT (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (`` ``) (VP (VBD thought) (SBAR (S (NP (NNP Clinton)) (VP (MD could) (VP (VB handle) (NP (NP (PRP it)) (NP (PRP himself))))))))))) (. .) ('' '')))
+YeltsinYeltsinNNPPERSONPER0alsoalsoRBOPER0admitsadmitVBZOPER0hehePRPOPER0wasbeVBDOPER0drunkdrunkJJOPER0whenwhenWRBOPER0hehePRPOPER0grabbedgrabVBDOPER0aaDTOPER0batonbatonNNPOPER0andandCCOPER0struckstrikeVBNOPER0upupRPOPER0aaDTOPER0militarymilitaryJJOPER0orchestraorchestraNNOPER0ininINOPER0BerlinBerlinNNPGPEPER0sixsixCDDATEPER0yearsyearNNSDATEPER0agoagoRBDATEPER0...OPER0(ROOT (S (NP (NNP Yeltsin)) (ADVP (RB also)) (VP (VBZ admits) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ drunk)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD grabbed) (NP (DT a) (NNP baton))) (CC and) (VP (VBN struck) (PRT (RP up)) (NP (DT a) (JJ military) (NN orchestra)) (PP (IN in) (NP (NNP Berlin))) (ADVP (NP (CD six) (NNS years)) (RB ago)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Former) (JJ Russian) (NNP President)) (NNP Boris) (NNP Yeltsin))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (PRP$ his) (JJ new) (NN book))
+sid=0 spanning 14 until 15 headed by 14 parsed as his
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Yeltsin))
+sid=1 spanning 3 until 7 headed by 5 parsed as (NP (`` ``) (NN Midnight) (NNS Diaries) ('' ''))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=1 spanning 13 until 17 headed by 16 parsed as (NP (NN scandal))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (PRP he))
+sid=1 spanning 28 until 30 headed by 29 parsed as (NP (NNP President) (NNP Clinton))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Clinton))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NP (PRP it)) (NP (PRP himself)))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP himself))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Yeltsin))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Former) (JJ Russian) (NNP President)) (NNP Boris) (NNP Yeltsin))
+sid=0 spanning 6 until 10 headed by 6 parsed as (NP (NP (NNS readers)) (PP (IN behind) (NP (JJ closed) (NNS doors))))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (JJ closed) (NNS doors))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT the) (NNP Kremlin))
+sid=0 spanning 14 until 17 headed by 16 parsed as (NP (PRP$ his) (JJ new) (NN book))
+sid=0 spanning 14 until 15 headed by 14 parsed as (PRP$ his)
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP Yeltsin))
+sid=1 spanning 3 until 7 headed by 5 parsed as (NP (`` ``) (NN Midnight) (NNS Diaries) ('' ''))
+sid=1 spanning 8 until 9 headed by 8 parsed as (NP (PRP he))
+sid=1 spanning 10 until 16 headed by 11 parsed as (NP (NP (NN intelligence) (NNS reports)) (PP (IN about) (NP (DT the) (NNP Monica) (NNP Lewinsky))))
+sid=1 spanning 13 until 16 headed by 15 parsed as (NP (DT the) (NNP Monica) (NNP Lewinsky))
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=1 spanning 23 until 24 headed by 23 parsed as (NP (PRP he))
+sid=1 spanning 28 until 30 headed by 29 parsed as (NP (NNP President) (NNP Clinton))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNP Clinton))
+sid=2 spanning 8 until 10 headed by 8 parsed as (NP (NP (PRP it)) (NP (PRP himself)))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (PRP himself))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Yeltsin))
+sid=3 spanning 3 until 4 headed by 3 parsed as (NP (PRP he))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (DT a) (NNP baton))
+sid=3 spanning 14 until 17 headed by 16 parsed as (NP (DT a) (JJ military) (NN orchestra))
+sid=3 spanning 18 until 19 headed by 18 parsed as (NP (NNP Berlin))
+sid=3 spanning 19 until 22 headed by 21 parsed as ago
+(end predicted mentions)
+---------gold clusters--------
+14 9 12 | { 'himself' 'President Clinton' 'Clinton' }
+6 13 7 | { 'the Monica Lewinsky scandal' 'it' 'it' }
+16 10 17 11 2 8 3 15 5 0 | { 'he' 'He' 'he' 'he' 'his' 'he' 'Yeltsin' 'Yeltsin' 'he' 'Former Russian President Boris Yeltsin' }
+4 1 | { '`` Midnight Diaries ''' 'his new book' }
+(end gold clusters)

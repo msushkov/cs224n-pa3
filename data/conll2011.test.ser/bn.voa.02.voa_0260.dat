@@ -1,0 +1,56 @@
+---------gloss--------
+(0) [1m[31m{Egypt 's President Hosni Mubarak}[0m has called on Israeli leaders to stop talking about war and to make peace with the Palestinians and Syria . 
+(1) In an interview with Israeli Television Monday , [1m[31m{Mr. Mubarak}[0m said Israel knows what is necessary for peace , the return of lands captured in the 1967 Middle East war . 
+(2) [1m[31m{He}[0m also acknowledged the Palestinian refugees ' right of return . 
+(3) In another Israeli TV interview , Palestinian leader Yasser Arafat said [1m[32m{the Israelis and Palestinians}[0m had made real progress in [1m[32m{their}[0m talks at the Egyptian Red Sea resort of Taba . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0260); part 000
+sentences:
+EgyptEgyptNNPGPEPER0's'sPOSOPER0PresidentPresidentNNPOPER0HosniHosniNNPPERSONPER0MubarakMubarakNNPPERSONPER0hashaveVBZOPER0calledcallVBDOPER0ononINOPER0IsraeliisraeliJJOPER0leadersleaderNNSOPER0totoTOOPER0stopstopVBOPER0talkingtalkVBGOPER0aboutaboutINOPER0warwarNNOPER0andandCCOPER0totoTOOPER0makemakeVBOPER0peacepeaceNNOPER0withwithINOPER0thetheDTOPER0PalestiniansPalestiniansNNPSOPER0andandCCOPER0SyriaSyriaNNPGPEPER0...OPER0(ROOT (S (NP (NP (NNP Egypt) (POS 's)) (NNP President) (NNP Hosni) (NNP Mubarak)) (VP (VBZ has) (VP (VBD called) (PP (IN on) (NP (JJ Israeli) (NNS leaders))) (S (VP (VP (TO to) (VP (VB stop) (S (VP (VBG talking) (PP (IN about) (NP (NN war))))))) (CC and) (VP (TO to) (VP (VB make) (NP (NP (NN peace)) (PP (IN with) (NP (NP (DT the) (NNPS Palestinians)) (CC and) (NP (NNP Syria))))))))))) (. .)))
+IninINOPER0anaDTOPER0interviewinterviewNNOPER0withwithINOPER0IsraeliIsraeliNNPOPER0TelevisionTelevisionNNPORGPER0MondayMondayNNPDATEPER0,,,OPER0Mr.Mr.NNPOPER0MubarakMubarakNNPPERSONPER0saidsayVBDOPER0IsraelIsraelNNPPERSONPER0knowsknowVBZOPER0whatwhatWPOPER0isbeVBZOPER0necessarynecessaryJJOPER0forforINOPER0peacepeaceNNOPER0,,,OPER0thetheDTOPER0returnreturnNNOPER0ofofINOPER0landslandNNSOPER0capturedcaptureVBNOPER0ininINOPER0thetheDTOPER019671967CDDATEPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0warwarNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT an) (NN interview)) (PP (IN with) (NP (NP (NNP Israeli) (NNP Television)) (NP (NNP Monday)))))) (, ,) (NP (NNP Mr.) (NNP Mubarak)) (VP (VBD said) (SBAR (S (NP (NNP Israel)) (VP (VBZ knows) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADJP (JJ necessary) (PP (IN for) (NP (NN peace)))) (, ,) (NP (NP (DT the) (NN return)) (PP (IN of) (NP (NP (NNS lands)) (VP (VBN captured) (PP (IN in) (NP (DT the) (CD 1967) (NML (NNP Middle) (NNP East)) (NN war)))))))))))))) (. .)))
+HehePRPOPER0alsoalsoRBOPER0acknowledgedacknowledgeVBDOPER0thetheDTOPER0PalestinianpalestinianJJOPER0refugeesrefugeeNNSOPER0''POSOPER0rightrightNNOPER0ofofINOPER0returnreturnNNOPER0...OPER0(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD acknowledged) (NP (NP (NP (DT the) (JJ Palestinian) (NNS refugees) (POS ')) (NN right)) (PP (IN of) (NP (NN return))))) (. .)))
+IninINOPER0anotheranotherDTOPER0IsraeliisraeliJJOPER0TVtvNNOPER0interviewinterviewNNOPER0,,,OPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0saidsayVBDOPER0thetheDTOPER0IsraelisIsraelisNNPSOPER0andandCCOPER0PalestiniansPalestiniansNNPSOPER0hadhaveVBDOPER0mademakeVBNOPER0realrealJJOPER0progressprogressNNOPER0ininINOPER0theirtheyPRP$OPER0talkstalkNNSOPER0atatINOPER0thetheDTOPER0EgyptianegyptianJJOPER0RedRedNNPLOCPER0SeaSeaNNPLOCPER0resortresortNNOPER0ofofINOPER0TabaTabaNNPORGPER0...OPER0(ROOT (S (PP (IN In) (NP (DT another) (JJ Israeli) (NN TV) (NN interview))) (, ,) (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (VP (VBD said) (SBAR (S (NP (DT the) (NNPS Israelis) (CC and) (NNPS Palestinians)) (VP (VBD had) (VP (VBN made) (NP (NP (JJ real) (NN progress)) (PP (IN in) (NP (PRP$ their) (NNS talks)))) (PP (IN at) (NP (NP (DT the) (JJ Egyptian) (NML (NNP Red) (NNP Sea)) (NN resort)) (PP (IN of) (NP (NNP Taba)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Egypt) (POS 's)) (NNP President) (NNP Hosni) (NNP Mubarak))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (NNP Mr.) (NNP Mubarak))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 11 until 15 headed by 12 parsed as (NP (DT the) (NNPS Israelis) (CC and) (NNPS Palestinians))
+sid=3 spanning 20 until 21 headed by 20 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP Egypt) (POS 's)) (NNP President) (NNP Hosni) (NNP Mubarak))
+sid=0 spanning 0 until 2 headed by 0 parsed as (NP (NNP Egypt) (POS 's))
+sid=0 spanning 8 until 10 headed by 9 parsed as (NP (JJ Israeli) (NNS leaders))
+sid=0 spanning 18 until 24 headed by 18 parsed as (NP (NP (NN peace)) (PP (IN with) (NP (NP (DT the) (NNPS Palestinians)) (CC and) (NP (NNP Syria)))))
+sid=0 spanning 20 until 24 headed by 21 parsed as (NP (NP (DT the) (NNPS Palestinians)) (CC and) (NP (NNP Syria)))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NNPS Palestinians))
+sid=0 spanning 23 until 24 headed by 23 parsed as (NP (NNP Syria))
+sid=1 spanning 1 until 7 headed by 2 parsed as (NP (NP (DT an) (NN interview)) (PP (IN with) (NP (NP (NNP Israeli) (NNP Television)) (NP (NNP Monday)))))
+sid=1 spanning 4 until 7 headed by 5 parsed as (NP (NP (NNP Israeli) (NNP Television)) (NP (NNP Monday)))
+sid=1 spanning 6 until 7 headed by 6 parsed as (NP (NNP Monday))
+sid=1 spanning 8 until 10 headed by 9 parsed as (NP (NNP Mr.) (NNP Mubarak))
+sid=1 spanning 11 until 12 headed by 11 parsed as (NP (NNP Israel))
+sid=1 spanning 19 until 30 headed by 20 parsed as (NP (NP (DT the) (NN return)) (PP (IN of) (NP (NP (NNS lands)) (VP (VBN captured) (PP (IN in) (NP (DT the) (CD 1967) (NML (NNP Middle) (NNP East)) (NN war)))))))
+sid=1 spanning 22 until 30 headed by 22 parsed as (NP (NP (NNS lands)) (VP (VBN captured) (PP (IN in) (NP (DT the) (CD 1967) (NML (NNP Middle) (NNP East)) (NN war)))))
+sid=1 spanning 25 until 30 headed by 29 parsed as (NP (DT the) (CD 1967) (NML (NNP Middle) (NNP East)) (NN war))
+sid=1 spanning 26 until 27 headed by 26 parsed as 1967
+sid=1 spanning 27 until 29 headed by 28 parsed as East
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 3 until 10 headed by 7 parsed as (NP (NP (NP (DT the) (JJ Palestinian) (NNS refugees) (POS ')) (NN right)) (PP (IN of) (NP (NN return))))
+sid=2 spanning 3 until 7 headed by 5 parsed as (NP (DT the) (JJ Palestinian) (NNS refugees) (POS '))
+sid=3 spanning 1 until 5 headed by 4 parsed as (NP (DT another) (JJ Israeli) (NN TV) (NN interview))
+sid=3 spanning 6 until 10 headed by 9 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=3 spanning 11 until 15 headed by 12 parsed as (NP (DT the) (NNPS Israelis) (CC and) (NNPS Palestinians))
+sid=3 spanning 20 until 22 headed by 21 parsed as (NP (PRP$ their) (NNS talks))
+sid=3 spanning 20 until 21 headed by 20 parsed as (PRP$ their)
+sid=3 spanning 23 until 30 headed by 27 parsed as (NP (NP (DT the) (JJ Egyptian) (NML (NNP Red) (NNP Sea)) (NN resort)) (PP (IN of) (NP (NNP Taba))))
+sid=3 spanning 25 until 27 headed by 26 parsed as Sea
+sid=3 spanning 29 until 30 headed by 29 parsed as (NP (NNP Taba))
+(end predicted mentions)
+---------gold clusters--------
+2 0 1 | { 'He' 'Egypt 's President Hosni Mubarak' 'Mr. Mubarak' }
+3 4 | { 'the Israelis and Palestinians' 'their' }
+(end gold clusters)

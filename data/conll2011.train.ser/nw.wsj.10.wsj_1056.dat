@@ -1,0 +1,48 @@
+---------gloss--------
+(0) [1m[34m{Companies listed below}[0m reported quarterly profit substantially different from the average of analysts ' estimates . 
+(1) [1m[34m{The companies}[0m are followed by at least three analysts , and had a minimum five - cent change in actual earnings per share . 
+(2) Estimated and actual results involving losses are omitted . 
+(3) The percent difference compares [1m[35m{actual profit}[0m with the 30 - day estimate where at least three analysts have issues forecasts in the past 30 days . 
+(4) Otherwise , [1m[35m{actual profit}[0m is compared with the 300 - day estimate . 
+(end gloss)
+---------document--------
+(nw/wsj/10/wsj_1056); part 000
+sentences:
+CompaniescompanyNNSOPER0listedlistVBNOPER0belowbelowRBOPER0reportedreportVBDOPER0quarterlyquarterlyJJDATEPER0profitprofitNNOPER0substantiallysubstantiallyRBOPER0differentdifferentJJOPER0fromfromINOPER0thetheDTOPER0averageaverageNNOPER0ofofINOPER0analystsanalystNNSOPER0''POSOPER0estimatesestimateNNSOPER0...OPER0(ROOT (S (NP (NP (NNS Companies)) (VP (VBN listed) (ADVP (RB below)))) (VP (VBD reported) (NP (NP (JJ quarterly) (NN profit)) (ADJP (RB substantially) (JJ different) (PP (IN from) (NP (NP (DT the) (NN average)) (PP (IN of) (NP (NP (NNS analysts) (POS ')) (NNS estimates)))))))) (. .)))
+ThetheDTOPER0companiescompanyNNSOPER0arebeVBPOPER0followedfollowVBNOPER0bybyINOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER0threethreeCDCARDINALPER0analystsanalystNNSOPER0,,,OPER0andandCCOPER0hadhaveVBDOPER0aaDTOPER0minimumminimumJJOPER0fivefiveCDMONEYPER0--HYPHMONEYPER0centcentNNMONEYPER0changechangeNNOPER0ininINOPER0actualactualJJOPER0earningsearningsNNSOPER0perperINOPER0shareshareNNOPER0...OPER0(ROOT (S (NP (DT The) (NNS companies)) (VP (VP (VBP are) (VP (VBN followed) (PP (IN by) (NP (QP (ADVP (RB at) (RBS least)) (CD three)) (NNS analysts))))) (, ,) (CC and) (VP (VBD had) (NP (NP (DT a) (JJ minimum) (NML (CD five) (HYPH -) (NN cent)) (NN change)) (PP (IN in) (NP (NP (JJ actual) (NNS earnings)) (PP (IN per) (NP (NN share)))))))) (. .)))
+EstimatedestimatedJJOPER0andandCCOPER0actualactualJJOPER0resultsresultNNSOPER0involvinginvolveVBGOPER0losseslossNNSOPER0arebeVBPOPER0omittedomitVBNOPER0...OPER0(ROOT (S (NP (NP (ADJP (JJ Estimated) (CC and) (JJ actual)) (NNS results)) (VP (VBG involving) (NP (NNS losses)))) (VP (VBP are) (VP (VBN omitted))) (. .)))
+ThetheDTOPER0percentpercentNNOPER0differencedifferenceNNOPER0comparescompareVBZOPER0actualactualJJOPER0profitprofitNNOPER0withwithINOPER0thetheDTOPER03030CDDATEPER0--HYPHDATEPER0daydayNNDATEPER0estimateestimateNNOPER0wherewhereWRBOPER0atatRBCARDINALPER0leastleastRBSCARDINALPER0threethreeCDCARDINALPER0analystsanalystNNSOPER0havehaveVBPOPER0issuesissueNNSOPER0forecastsforecastNNSOPER0ininINOPER0thetheDTDATEPER0pastpastJJDATEPER03030CDDATEPER0daysdayNNSDATEPER0...OPER0(ROOT (S (NP (DT The) (NN percent) (NN difference)) (VP (VBZ compares) (NP (JJ actual) (NN profit)) (PP (IN with) (NP (NP (DT the) (NML (CD 30) (HYPH -) (NN day)) (NN estimate)) (SBAR (WHADVP (WRB where)) (S (NP (QP (ADVP (RB at) (RBS least)) (CD three)) (NNS analysts)) (VP (VBP have) (VP (NNS issues) (NP (NNS forecasts)) (PP (IN in) (NP (DT the) (JJ past) (CD 30) (NNS days)))))))))) (. .)))
+OtherwiseotherwiseRBOPER0,,,OPER0actualactualJJOPER0profitprofitNNOPER0isbeVBZOPER0comparedcompareVBNOPER0withwithINOPER0thetheDTOPER0300300CDDATEPER0--HYPHDATEPER0daydayNNDATEPER0estimateestimateNNOPER0...OPER0(ROOT (S (ADVP (RB Otherwise)) (, ,) (NP (JJ actual) (NN profit)) (VP (VBZ is) (VP (VBN compared) (PP (IN with) (NP (DT the) (NML (CD 300) (HYPH -) (NN day)) (NN estimate))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Companies)) (VP (VBN listed) (ADVP (RB below))))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS companies))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (JJ actual) (NN profit))
+sid=4 spanning 2 until 4 headed by 3 parsed as (NP (JJ actual) (NN profit))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 0 parsed as (NP (NP (NNS Companies)) (VP (VBN listed) (ADVP (RB below))))
+sid=0 spanning 4 until 5 headed by 4 parsed as quarterly
+sid=0 spanning 9 until 15 headed by 10 parsed as (NP (NP (DT the) (NN average)) (PP (IN of) (NP (NP (NNS analysts) (POS ')) (NNS estimates))))
+sid=0 spanning 12 until 15 headed by 14 parsed as (NP (NP (NNS analysts) (POS ')) (NNS estimates))
+sid=0 spanning 12 until 14 headed by 12 parsed as (NP (NNS analysts) (POS '))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS companies))
+sid=1 spanning 5 until 9 headed by 8 parsed as (NP (QP (ADVP (RB at) (RBS least)) (CD three)) (NNS analysts))
+sid=1 spanning 12 until 23 headed by 17 parsed as (NP (NP (DT a) (JJ minimum) (NML (CD five) (HYPH -) (NN cent)) (NN change)) (PP (IN in) (NP (NP (JJ actual) (NNS earnings)) (PP (IN per) (NP (NN share))))))
+sid=1 spanning 19 until 23 headed by 20 parsed as (NP (NP (JJ actual) (NNS earnings)) (PP (IN per) (NP (NN share))))
+sid=2 spanning 0 until 6 headed by 3 parsed as (NP (NP (ADJP (JJ Estimated) (CC and) (JJ actual)) (NNS results)) (VP (VBG involving) (NP (NNS losses))))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNS losses))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NN percent) (NN difference))
+sid=3 spanning 7 until 25 headed by 11 parsed as (NP (NP (DT the) (NML (CD 30) (HYPH -) (NN day)) (NN estimate)) (SBAR (WHADVP (WRB where)) (S (NP (QP (ADVP (RB at) (RBS least)) (CD three)) (NNS analysts)) (VP (VBP have) (VP (NNS issues) (NP (NNS forecasts)) (PP (IN in) (NP (DT the) (JJ past) (CD 30) (NNS days))))))))
+sid=3 spanning 8 until 11 headed by 10 parsed as day
+sid=3 spanning 13 until 17 headed by 16 parsed as (NP (QP (ADVP (RB at) (RBS least)) (CD three)) (NNS analysts))
+sid=3 spanning 19 until 20 headed by 19 parsed as (NP (NNS forecasts))
+sid=3 spanning 21 until 25 headed by 24 parsed as (NP (DT the) (JJ past) (CD 30) (NNS days))
+sid=4 spanning 7 until 12 headed by 11 parsed as (NP (DT the) (NML (CD 300) (HYPH -) (NN day)) (NN estimate))
+sid=4 spanning 8 until 11 headed by 10 parsed as day
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Companies listed below' 'The companies' }
+2 3 | { 'actual profit' 'actual profit' }
+(end gold clusters)

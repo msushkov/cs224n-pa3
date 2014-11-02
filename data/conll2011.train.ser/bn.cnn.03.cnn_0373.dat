@@ -1,0 +1,91 @@
+---------gloss--------
+(0) If [4m[32m{you}[0m 're just starting [4m[32m{your}[0m week , Good morning , once again . 
+(1) 7:30 up and down the East Coast . 
+(2) Welcome back to `` American Morning . '' 
+(3) overseas , [4m[31m{President Bush}[0m will leave [3m[32m{France}[0m in a few hour 's time after [3m[34m{a second meeting face - to - face in private with French President Jacque Chirac today}[0m . 
+(4) [4m[31m{The President}[0m called [3m[34m{that meeting}[0m helpful and said the disagreement between [3m[33m{the United States and France}[0m over Iraq does not mean [3m[33m{the two countries}[0m have to be disagreeable . 
+(5) [4m[31m{Mr. Bush}[0m travels next to Egypt and [4m[31m{he}[0m will enter [3m[35m{Middle East}[0m peace talks at [3m[35m{Middle East}[0m . 
+(6) [4m[31m{He}[0m says [4m[31m{he}[0m will spend as much time as necessary to achieve peace between the Israelis and Palestinians . 
+(7) A key trip continues for [3m[36m{the week}[0m . 
+(8) Want to say hello again to Daryn Right ? 
+(end gloss)
+---------document--------
+(bn/cnn/03/cnn_0373); part 000
+sentences:
+IfifINOPER0youyouPRPOPER0'rebeVBPOPER0justjustRBOPER0startingstartVBGOPER0youryouPRP$DATEPER0weekweekNNDATEPER0,,,OPER0GoodgoodJJOPER0morningmorningNNTIMEPER0,,,OPER0onceonceRBOPER0againagainRBOPER0...OPER0(ROOT (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB just)) (VP (VBG starting) (NP (PRP$ your) (NN week)))))) (, ,) (INTJ (JJ Good) (NN morning)) (, ,) (ADVP (RB once) (RB again)) (. .)))
+7:307:30CDTIMEPER0upupINOPER0andandCCOPER0downdownINOPER0thetheDTLOCPER0EastEastNNPLOCPER0CoastCoastNNPLOCPER0...OPER0(ROOT (FRAG (NP (CD 7:30)) (PP (IN up) (CC and) (IN down) (NP (DT the) (NNP East) (NNP Coast))) (. .)))
+WelcomewelcomeVBPOPER0backbackRPOPER0totoINOPER0``````WORK_OF_ARTAmericanAmericanNNPWORK_OF_ARTPER1MorningMorningNNPWORK_OF_ARTPER1...OPER1''''''OPER0(ROOT (S (VP (VBP Welcome) (PRT (RP back)) (PP (IN to) (NP (`` ``) (NNP American) (NNP Morning)))) (. .) ('' '')))
+overseasoverseasRBOPER0,,,OPER0PresidentPresidentNNPOPER0BushBushNNPPERSONPER0willwillMDOPER0leaveleaveVBOPER0FranceFranceNNPGPEPER0ininINOPER0aaDTTIMEPER0fewfewJJTIMEPER0hourhourNNTIMEPER0's'sPOSTIMEPER0timetimeNNOPER0afterafterINOPER0aaDTOPER0secondsecondJJORDINALPER0meetingmeetingNNOPER0facefaceNNOPER0--HYPHOPER0totoTOOPER0--HYPHOPER0facefaceVBOPER0ininINOPER0privateprivateJJOPER0withwithINOPER0FrenchfrenchJJOPER0PresidentPresidentNNPOPER0JacqueJacqueNNPPERSONPER0ChiracChiracNNPPERSONPER0todaytodayNNDATEPER0...OPER0(ROOT (S (ADVP (RB overseas)) (, ,) (NP (NNP President) (NNP Bush)) (VP (MD will) (VP (VB leave) (NP (NNP France)) (PP (IN in) (NP (NP (DT a) (JJ few) (NN hour) (POS 's)) (NN time))) (PP (IN after) (NP (NP (DT a) (JJ second) (NN meeting)) (SBAR (S (VP (NN face) (HYPH -) (TO to) (HYPH -) (VP (VB face) (PP (IN in) (ADJP (JJ private) (PP (IN with) (NP (NML (JJ French) (NNP President)) (NNP Jacque) (NNP Chirac))))) (NP (NN today)))))))))) (. .)))
+ThetheDTOPER0PresidentPresidentNNPOPER0calledcallVBDOPER0thatthatDTOPER0meetingmeetingNNOPER0helpfulhelpfulJJOPER0andandCCOPER0saidsayVBDOPER0thetheDTOPER0disagreementdisagreementNNOPER0betweenbetweenINOPER0thetheDTGPEPER0UnitedUnitedNNPGPEPER0StatesStatesNNPGPEPER0andandCCOPER0FranceFranceNNPGPEPER0overoverINOPER0IraqIraqNNPGPEPER0doesdoVBZOPER0notnotRBOPER0meanmeanVBOPER0thetheDTOPER0twotwoCDCARDINALPER0countriescountryNNSOPER0havehaveVBPOPER0totoTOOPER0bebeVBOPER0disagreeabledisagreeableJJOPER0...OPER0(ROOT (S (NP (DT The) (NNP President)) (VP (VP (VBD called) (NP (DT that) (NN meeting)) (S (ADJP (JJ helpful)))) (CC and) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN disagreement)) (PP (IN between) (NP (NP (DT the) (NNP United) (NNP States)) (CC and) (NP (NNP France)))) (PP (IN over) (NP (NNP Iraq)))) (VP (VBZ does) (RB not) (VP (VB mean) (SBAR (S (NP (DT the) (CD two) (NNS countries)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (ADJP (JJ disagreeable)))))))))))))) (. .)))
+Mr.Mr.NNPOPER0BushBushNNPPERSONPER0travelstravelVBZOPER0nextnextRBOPER0totoINOPER0EgyptEgyptNNPGPEPER0andandCCOPER0hehePRPOPER0willwillMDOPER0enterenterVBOPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0peacepeaceNNOPER0talkstalkNNSOPER0atatINOPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0...OPER0(ROOT (S (S (NP (NNP Mr.) (NNP Bush)) (VP (VBZ travels) (ADVP (RB next) (PP (IN to) (NP (NNP Egypt)))))) (CC and) (S (NP (PRP he)) (VP (MD will) (VP (VB enter) (NP (NML (NNP Middle) (NNP East)) (NN peace) (NNS talks)) (PP (IN at) (NP (NNP Middle) (NNP East)))))) (. .)))
+HehePRPOPER0sayssayVBZOPER0hehePRPOPER0willwillMDOPER0spendspendVBOPER0asasRBOPER0muchmuchJJOPER0timetimeNNOPER0asasINOPER0necessarynecessaryJJOPER0totoTOOPER0achieveachieveVBOPER0peacepeaceNNOPER0betweenbetweenINOPER0thetheDTOPER0IsraelisIsraelisNNPSOPER0andandCCOPER0PalestiniansPalestiniansNNPSOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB spend) (NP (ADJP (RB as) (JJ much)) (NN time)) (SBAR (IN as) (FRAG (ADJP (JJ necessary) (S (VP (TO to) (VP (VB achieve) (NP (NP (NN peace)) (PP (IN between) (NP (DT the) (NNPS Israelis) (CC and) (NNPS Palestinians))))))))))))))) (. .)))
+AaDTOPER0keykeyJJOPER0triptripNNOPER0continuescontinueVBZOPER0forforINOPER0thetheDTDATEPER0weekweekNNDATEPER0...OPER0(ROOT (S (NP (DT A) (JJ key) (NN trip)) (VP (VBZ continues) (PP (IN for) (NP (DT the) (NN week)))) (. .)))
+WantwantVBOPER0totoTOOPER0saysayVBOPER0hellohelloUHOPER0againagainRBOPER0totoINOPER0DarynDarynNNPPERSONPER0RightRightNNPPERSONPER0??.OPER0(ROOT (SQ (VP (VB Want) (S (VP (TO to) (VP (VB say) (INTJ (UH hello)) (ADVP (RB again)) (PP (IN to) (NP (NNP Daryn) (NNP Right))))))) (. ?)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ your) (NN week))
+sid=0 spanning 5 until 6 headed by 5 parsed as your
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NNP President) (NNP Bush))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP France))
+sid=3 spanning 14 until 30 headed by 16 parsed as (NP (NP (DT a) (JJ second) (NN meeting)) (SBAR (S (VP (NN face) (HYPH -) (TO to) (HYPH -) (VP (VB face) (PP (IN in) (ADJP (JJ private) (PP (IN with) (NP (NML (JJ French) (NNP President)) (NNP Jacque) (NNP Chirac))))) (NP (NN today)))))))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN meeting))
+sid=4 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (CC and) (NP (NNP France)))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (NNP France))
+sid=4 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (CD two) (NNS countries))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Bush))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=5 spanning 10 until 12 headed by 11 parsed as East
+sid=5 spanning 15 until 17 headed by 16 parsed as (NP (NNP Middle) (NNP East))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=7 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN week))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 2 headed by 1 parsed as (NP (PRP you))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (PRP$ your) (NN week))
+sid=0 spanning 9 until 10 headed by 9 parsed as morning
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (CD 7:30))
+sid=1 spanning 4 until 7 headed by 6 parsed as (NP (DT the) (NNP East) (NNP Coast))
+sid=2 spanning 3 until 6 headed by 5 parsed as (NP (`` ``) (NNP American) (NNP Morning))
+sid=3 spanning 2 until 4 headed by 3 parsed as (NP (NNP President) (NNP Bush))
+sid=3 spanning 6 until 7 headed by 6 parsed as (NP (NNP France))
+sid=3 spanning 8 until 13 headed by 12 parsed as (NP (NP (DT a) (JJ few) (NN hour) (POS 's)) (NN time))
+sid=3 spanning 8 until 12 headed by 10 parsed as (NP (DT a) (JJ few) (NN hour) (POS 's))
+sid=3 spanning 14 until 30 headed by 16 parsed as (NP (NP (DT a) (JJ second) (NN meeting)) (SBAR (S (VP (NN face) (HYPH -) (TO to) (HYPH -) (VP (VB face) (PP (IN in) (ADJP (JJ private) (PP (IN with) (NP (NML (JJ French) (NNP President)) (NNP Jacque) (NNP Chirac))))) (NP (NN today)))))))
+sid=3 spanning 15 until 16 headed by 15 parsed as second
+sid=3 spanning 25 until 29 headed by 28 parsed as (NP (NML (JJ French) (NNP President)) (NNP Jacque) (NNP Chirac))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNP President))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT that) (NN meeting))
+sid=4 spanning 8 until 18 headed by 9 parsed as (NP (NP (DT the) (NN disagreement)) (PP (IN between) (NP (NP (DT the) (NNP United) (NNP States)) (CC and) (NP (NNP France)))) (PP (IN over) (NP (NNP Iraq))))
+sid=4 spanning 11 until 14 headed by 13 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (CC and) (NP (NNP France)))
+sid=4 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT the) (NNP United) (NNP States)) (CC and) (NP (NNP France)))
+sid=4 spanning 15 until 16 headed by 15 parsed as (NP (NNP France))
+sid=4 spanning 17 until 18 headed by 17 parsed as (NP (NNP Iraq))
+sid=4 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (CD two) (NNS countries))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Bush))
+sid=5 spanning 5 until 6 headed by 5 parsed as (NP (NNP Egypt))
+sid=5 spanning 7 until 8 headed by 7 parsed as (NP (PRP he))
+sid=5 spanning 10 until 14 headed by 13 parsed as (NP (NML (NNP Middle) (NNP East)) (NN peace) (NNS talks))
+sid=5 spanning 10 until 12 headed by 11 parsed as East
+sid=5 spanning 15 until 17 headed by 16 parsed as (NP (NNP Middle) (NNP East))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=6 spanning 2 until 3 headed by 2 parsed as (NP (PRP he))
+sid=6 spanning 5 until 8 headed by 7 parsed as (NP (ADJP (RB as) (JJ much)) (NN time))
+sid=6 spanning 12 until 18 headed by 12 parsed as (NP (NP (NN peace)) (PP (IN between) (NP (DT the) (NNPS Israelis) (CC and) (NNPS Palestinians))))
+sid=6 spanning 14 until 18 headed by 15 parsed as (NP (DT the) (NNPS Israelis) (CC and) (NNPS Palestinians))
+sid=7 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (JJ key) (NN trip))
+sid=7 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN week))
+sid=8 spanning 6 until 8 headed by 7 parsed as (NP (NNP Daryn) (NNP Right))
+(end predicted mentions)
+---------gold clusters--------
+9 4 | { 'France' 'France' }
+8 10 | { 'the United States and France' 'the two countries' }
+5 7 | { 'a second meeting face - to - face in private with French President Jacque Chirac today' 'that meeting' }
+14 13 | { 'Middle East' 'Middle East' }
+17 1 | { 'the week' 'your week' }
+3 6 12 16 15 11 | { 'President Bush' 'The President' 'he' 'he' 'He' 'Mr. Bush' }
+2 0 | { 'your' 'you' }
+(end gold clusters)

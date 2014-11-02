@@ -1,0 +1,45 @@
+---------gloss--------
+(0) [1m[35m{Israeli Prime Minister Ehud Barak}[0m is rejecting calls for a quick settlement with Palestinians to end the outbreak of violence in the Middle East . 
+(1) During a meeting of [1m[35m{his}[0m cabinet , [1m[35m{Barak}[0m criticized members of [1m[35m{his}[0m own political party who have urged [1m[35m{him}[0m to finalize an agreement before President Clinton leaves office next month . 
+(2) [1m[35m{He}[0m declared that any attempt to `` dictate dates '' is `` bad for Israel . '' 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0122); part 000
+sentences:
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0isbeVBZOPER0rejectingrejectVBGOPER0callscallNNSOPER0forforINOPER0aaDTOPER0quickquickJJOPER0settlementsettlementNNOPER0withwithINOPER0PalestiniansPalestiniansNNPSOPER0totoTOOPER0endendVBOPER0thetheDTOPER0outbreakoutbreakNNOPER0ofofINOPER0violenceviolenceNNOPER0ininINOPER0thetheDTLOCPER0MiddleMiddleNNPLOCPER0EastEastNNPLOCPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ is) (VP (VBG rejecting) (NP (NP (NNS calls)) (PP (IN for) (NP (NP (DT a) (JJ quick) (NN settlement)) (PP (IN with) (NP (NNPS Palestinians)))))) (S (VP (TO to) (VP (VB end) (NP (NP (DT the) (NN outbreak)) (PP (IN of) (NP (NN violence))) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))))))) (. .)))
+DuringduringINOPER0aaDTOPER0meetingmeetingNNOPER0ofofINOPER0hishePRP$OPER0cabinetcabinetNNOPER0,,,OPER0BarakBarakNNPPERSONPER0criticizedcriticizeVBDOPER0membersmemberNNSOPER0ofofINOPER0hishePRP$OPER0ownownJJOPER0politicalpoliticalJJOPER0partypartyNNOPER0whowhoWPOPER0havehaveVBPOPER0urgedurgeVBNOPER0himhePRPOPER0totoTOOPER0finalizefinalizeVBOPER0anaDTOPER0agreementagreementNNOPER0beforebeforeINOPER0PresidentPresidentNNPOPER0ClintonClintonNNPPERSONPER0leavesleaveVBZOPER0officeofficeNNOPER0nextnextJJDATEPER0monthmonthNNDATEPER0...OPER0(ROOT (S (PP (IN During) (NP (NP (DT a) (NN meeting)) (PP (IN of) (NP (PRP$ his) (NN cabinet))))) (, ,) (NP (NNP Barak)) (VP (VBD criticized) (NP (NP (NP (NNS members)) (PP (IN of) (NP (PRP$ his) (JJ own) (JJ political) (NN party)))) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN urged) (NP (PRP him)) (S (VP (TO to) (VP (VB finalize) (NP (DT an) (NN agreement) (SBAR (IN before) (S (NP (NNP President) (NNP Clinton)) (VP (VBZ leaves) (NP (NN office)) (NP (JJ next) (NN month))))))))))))))) (. .)))
+HehePRPOPER0declareddeclareVBDOPER0thatthatINOPER0anyanyDTOPER0attemptattemptNNOPER0totoTOOPER0``````OdictatedictateVBOPER1datesdateNNSOPER1''''''OPER0isbeVBZOPER0``````ObadbadJJOPER2forforINOPER2IsraelIsraelNNPGPEPER2...OPER2''''''OPER0(ROOT (S (NP (PRP He)) (VP (VBD declared) (SBAR (IN that) (S (NP (DT any) (NN attempt) (S (VP (TO to) (`` ``) (VP (VB dictate) (NP (NNS dates))) ('' '')))) (VP (VBZ is) (`` ``) (ADJP (JJ bad) (PP (IN for) (NP (NNP Israel)))))))) (. .) ('' '')))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 4 until 5 headed by 4 parsed as his
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (NNP Barak))
+sid=1 spanning 11 until 12 headed by 11 parsed as his
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (PRP him))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=0 spanning 7 until 14 headed by 7 parsed as (NP (NP (NNS calls)) (PP (IN for) (NP (NP (DT a) (JJ quick) (NN settlement)) (PP (IN with) (NP (NNPS Palestinians))))))
+sid=0 spanning 9 until 14 headed by 11 parsed as (NP (NP (DT a) (JJ quick) (NN settlement)) (PP (IN with) (NP (NNPS Palestinians))))
+sid=0 spanning 16 until 24 headed by 17 parsed as (NP (NP (DT the) (NN outbreak)) (PP (IN of) (NP (NN violence))) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (NNP Middle) (NNP East))
+sid=1 spanning 1 until 6 headed by 2 parsed as (NP (NP (DT a) (NN meeting)) (PP (IN of) (NP (PRP$ his) (NN cabinet))))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (PRP$ his) (NN cabinet))
+sid=1 spanning 4 until 5 headed by 4 parsed as (PRP$ his)
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (NNP Barak))
+sid=1 spanning 9 until 30 headed by 9 parsed as (NP (NP (NP (NNS members)) (PP (IN of) (NP (PRP$ his) (JJ own) (JJ political) (NN party)))) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN urged) (NP (PRP him)) (S (VP (TO to) (VP (VB finalize) (NP (DT an) (NN agreement) (SBAR (IN before) (S (NP (NNP President) (NNP Clinton)) (VP (VBZ leaves) (NP (NN office)) (NP (JJ next) (NN month))))))))))))))
+sid=1 spanning 11 until 15 headed by 14 parsed as (NP (PRP$ his) (JJ own) (JJ political) (NN party))
+sid=1 spanning 11 until 12 headed by 11 parsed as (PRP$ his)
+sid=1 spanning 18 until 19 headed by 18 parsed as (NP (PRP him))
+sid=1 spanning 21 until 30 headed by 22 parsed as (NP (DT an) (NN agreement) (SBAR (IN before) (S (NP (NNP President) (NNP Clinton)) (VP (VBZ leaves) (NP (NN office)) (NP (JJ next) (NN month))))))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (NNP President) (NNP Clinton))
+sid=1 spanning 28 until 30 headed by 29 parsed as (NP (JJ next) (NN month))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 8 until 9 headed by 8 parsed as (NP (NNS dates))
+sid=2 spanning 14 until 15 headed by 14 parsed as (NP (NNP Israel))
+(end predicted mentions)
+---------gold clusters--------
+1 0 3 5 4 2 | { 'his' 'Israeli Prime Minister Ehud Barak' 'his' 'He' 'him' 'Barak' }
+(end gold clusters)

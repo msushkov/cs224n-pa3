@@ -1,0 +1,72 @@
+---------gloss--------
+(0) [3m[34m{General Electric Co.}[0m said [3m[34m{it}[0m signed a contract with the developers of [4m[31m{the Ocean State Power project}[0m for [3m[36m{the second phase of an independent $ 400 million power plant , which is being built in Burrillville , R.I}[0m . 
+(1) [3m[33m{GE , along with a division of Ebasco , a subsidiary of Enserch Corp. ,}[0m have been building the first 250 - megawatt phase of [4m[31m{the project}[0m , which [3m[33m{they}[0m expect to complete in late 1990 . 
+(2) [3m[36m{The second portion}[0m will be completed the following year . 
+(3) [3m[34m{GE 's}[0m Power Generation subsidiary will operate and maintain [3m[35m{the plant}[0m upon [3m[35m{its}[0m completion . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1519); part 000
+sentences:
+GeneralGeneralNNPORGPER0ElectricElectricNNPORGPER0Co.Co.NNPORGPER0saidsayVBDOPER0ititPRPOPER0signedsignVBDOPER0aaDTOPER0contractcontractNNOPER0withwithINOPER0thetheDTOPER0developersdeveloperNNSOPER0ofofINOPER0thetheDTOPER0OceanOceanNNPORGPER0StateStateNNPORGPER0PowerPowerNNPORGPER0projectprojectNNOPER0forforINOPER0thetheDTOPER0secondsecondJJORDINALPER0phasephaseNNOPER0ofofINOPER0anaDTOPER0independentindependentJJOPER0$$$MONEYPER0400400CDMONEYPER0millionmillionCDMONEYPER0powerpowerNNOPER0plantplantNNOPER0,,,OPER0whichwhichWDTOPER0isbeVBZOPER0beingbeVBGOPER0builtbuildVBNOPER0ininINOPER0BurrillvilleBurrillvilleNNPGPEPER0,,,OPER0R.IR.INNPGPEPER0...OPER0(ROOT (S (NP (NNP General) (NNP Electric) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD signed) (NP (NP (DT a) (NN contract)) (PP (IN with) (NP (NP (DT the) (NNS developers)) (PP (IN of) (NP (DT the) (NML (NNP Ocean) (NNP State) (NNP Power)) (NN project))))) (PP (IN for) (NP (NP (DT the) (JJ second) (NN phase)) (PP (IN of) (NP (NP (DT an) (JJ independent) (NML (QP ($ $) (CD 400) (CD million))) (NN power) (NN plant)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG being) (VP (VBN built) (PP (IN in) (NP (NP (NNP Burrillville)) (, ,) (NP (NNP R.I)))))))))))))))))) (. .)))
+GEGENNPORGPER0,,,OPER0alongalongINOPER0withwithINOPER0aaDTOPER0divisiondivisionNNOPER0ofofINOPER0EbascoEbascoNNPORGPER0,,,OPER0aaDTOPER0subsidiarysubsidiaryNNOPER0ofofINOPER0EnserchEnserchNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0havehaveVBPOPER0beenbeVBNOPER0buildingbuildVBGOPER0thetheDTOPER0firstfirstJJORDINALPER0250250CDQUANTITYPER0--HYPHQUANTITYPER0megawattmegawattNNQUANTITYPER0phasephaseNNOPER0ofofINOPER0thetheDTOPER0projectprojectNNOPER0,,,OPER0whichwhichWDTOPER0theytheyPRPOPER0expectexpectVBPOPER0totoTOOPER0completecompleteVBOPER0ininINOPER0latelateJJDATEPER019901990CDDATEPER0...OPER0(ROOT (S (NP (NNP GE)) (, ,) (ADVP (IN along) (PP (IN with) (NP (NP (DT a) (NN division)) (PP (IN of) (NP (NP (NNP Ebasco)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP Enserch) (NNP Corp.))))))))) (, ,) (VP (VBP have) (VP (VBN been) (VP (VBG building) (NP (NP (DT the) (JJ first) (NML (CD 250) (HYPH -) (NN megawatt)) (NN phase)) (PP (IN of) (NP (DT the) (NN project)))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP they)) (VP (VBP expect) (S (VP (TO to) (VP (VB complete) (PP (IN in) (NP (JJ late) (CD 1990)))))))))))) (. .)))
+ThetheDTOPER0secondsecondJJORDINALPER0portionportionNNOPER0willwillMDOPER0bebeVBOPER0completedcompleteVBNOPER0thetheDTDATEPER0followingfollowVBGDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ second) (NN portion)) (VP (MD will) (VP (VB be) (VP (VBN completed) (NP (DT the) (VBG following) (NN year))))) (. .)))
+GEGENNPORGPER0's'sPOSOPER0PowerPowerNNPORGPER0GenerationGenerationNNPORGPER0subsidiarysubsidiaryNNOPER0willwillMDOPER0operateoperateVBOPER0andandCCOPER0maintainmaintainVBOPER0thetheDTOPER0plantplantNNOPER0uponuponINOPER0itsitsPRP$OPER0completioncompletionNNOPER0...OPER0(ROOT (S (NP (NP (NNP GE) (POS 's)) (NML (NNP Power) (NNP Generation)) (NN subsidiary)) (VP (MD will) (VP (VB operate) (CC and) (VB maintain) (NP (DT the) (NN plant)) (PP (IN upon) (NP (PRP$ its) (NN completion))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP General) (NNP Electric) (NNP Co.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 12 until 17 headed by 16 parsed as (NP (DT the) (NML (NNP Ocean) (NNP State) (NNP Power)) (NN project))
+sid=0 spanning 18 until 38 headed by 20 parsed as (NP (NP (DT the) (JJ second) (NN phase)) (PP (IN of) (NP (NP (DT an) (JJ independent) (NML (QP ($ $) (CD 400) (CD million))) (NN power) (NN plant)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG being) (VP (VBN built) (PP (IN in) (NP (NP (NNP Burrillville)) (, ,) (NP (NNP R.I))))))))))))
+sid=0 spanning 22 until 38 headed by 28 parsed as (NP (NP (DT an) (JJ independent) (NML (QP ($ $) (CD 400) (CD million))) (NN power) (NN plant)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG being) (VP (VBN built) (PP (IN in) (NP (NP (NNP Burrillville)) (, ,) (NP (NNP R.I))))))))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP GE))
+sid=1 spanning 0 until 15 headed by 0 parsed as (NP (NNP GE))
+sid=1 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN project))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (PRP they))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ second) (NN portion))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP GE) (POS 's))
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN plant))
+sid=3 spanning 12 until 13 headed by 12 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP General) (NNP Electric) (NNP Co.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 38 headed by 7 parsed as (NP (NP (DT a) (NN contract)) (PP (IN with) (NP (NP (DT the) (NNS developers)) (PP (IN of) (NP (DT the) (NML (NNP Ocean) (NNP State) (NNP Power)) (NN project))))) (PP (IN for) (NP (NP (DT the) (JJ second) (NN phase)) (PP (IN of) (NP (NP (DT an) (JJ independent) (NML (QP ($ $) (CD 400) (CD million))) (NN power) (NN plant)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG being) (VP (VBN built) (PP (IN in) (NP (NP (NNP Burrillville)) (, ,) (NP (NNP R.I))))))))))))))
+sid=0 spanning 9 until 17 headed by 10 parsed as (NP (NP (DT the) (NNS developers)) (PP (IN of) (NP (DT the) (NML (NNP Ocean) (NNP State) (NNP Power)) (NN project))))
+sid=0 spanning 12 until 17 headed by 16 parsed as (NP (DT the) (NML (NNP Ocean) (NNP State) (NNP Power)) (NN project))
+sid=0 spanning 13 until 16 headed by 15 parsed as Power
+sid=0 spanning 18 until 38 headed by 20 parsed as (NP (NP (DT the) (JJ second) (NN phase)) (PP (IN of) (NP (NP (DT an) (JJ independent) (NML (QP ($ $) (CD 400) (CD million))) (NN power) (NN plant)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG being) (VP (VBN built) (PP (IN in) (NP (NP (NNP Burrillville)) (, ,) (NP (NNP R.I))))))))))))
+sid=0 spanning 19 until 20 headed by 19 parsed as second
+sid=0 spanning 22 until 38 headed by 28 parsed as (NP (NP (DT an) (JJ independent) (NML (QP ($ $) (CD 400) (CD million))) (NN power) (NN plant)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG being) (VP (VBN built) (PP (IN in) (NP (NP (NNP Burrillville)) (, ,) (NP (NNP R.I))))))))))
+sid=0 spanning 22 until 29 headed by 28 parsed as (NP (DT an) (JJ independent) (NML (QP ($ $) (CD 400) (CD million))) (NN power) (NN plant))
+sid=0 spanning 35 until 36 headed by 35 parsed as (NP (NP (NNP Burrillville)) (, ,) (NP (NNP R.I)))
+sid=0 spanning 35 until 38 headed by 35 parsed as (NP (NP (NNP Burrillville)) (, ,) (NP (NNP R.I)))
+sid=0 spanning 37 until 38 headed by 37 parsed as (NP (NNP R.I))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNP GE))
+sid=1 spanning 4 until 14 headed by 5 parsed as (NP (NP (DT a) (NN division)) (PP (IN of) (NP (NP (NNP Ebasco)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP Enserch) (NNP Corp.)))))))
+sid=1 spanning 7 until 8 headed by 7 parsed as (NP (NP (NNP Ebasco)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP Enserch) (NNP Corp.)))))
+sid=1 spanning 7 until 14 headed by 7 parsed as (NP (NP (NNP Ebasco)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP Enserch) (NNP Corp.)))))
+sid=1 spanning 9 until 14 headed by 10 parsed as (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP Enserch) (NNP Corp.))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (NNP Enserch) (NNP Corp.))
+sid=1 spanning 18 until 27 headed by 23 parsed as (NP (NP (DT the) (JJ first) (NML (CD 250) (HYPH -) (NN megawatt)) (NN phase)) (PP (IN of) (NP (DT the) (NN project))))
+sid=1 spanning 19 until 20 headed by 19 parsed as first
+sid=1 spanning 25 until 27 headed by 26 parsed as (NP (DT the) (NN project))
+sid=1 spanning 29 until 30 headed by 29 parsed as (NP (PRP they))
+sid=1 spanning 34 until 36 headed by 35 parsed as (NP (JJ late) (CD 1990))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJ second) (NN portion))
+sid=2 spanning 1 until 2 headed by 1 parsed as second
+sid=2 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (VBG following) (NN year))
+sid=3 spanning 0 until 5 headed by 4 parsed as (NP (NP (NNP GE) (POS 's)) (NML (NNP Power) (NNP Generation)) (NN subsidiary))
+sid=3 spanning 0 until 2 headed by 0 parsed as (NP (NNP GE) (POS 's))
+sid=3 spanning 2 until 4 headed by 3 parsed as Generation
+sid=3 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NN plant))
+sid=3 spanning 12 until 14 headed by 13 parsed as (NP (PRP$ its) (NN completion))
+sid=3 spanning 12 until 13 headed by 12 parsed as (PRP$ its)
+(end predicted mentions)
+---------gold clusters--------
+6 8 | { 'GE , along with a division of Ebasco , a subsidiary of Enserch Corp. ,' 'they' }
+1 5 0 10 | { 'it' 'GE' 'General Electric Co.' 'GE 's' }
+11 12 4 | { 'the plant' 'its' 'an independent $ 400 million power plant , which is being built in Burrillville , R.I' }
+9 3 | { 'The second portion' 'the second phase of an independent $ 400 million power plant , which is being built in Burrillville , R.I' }
+7 2 | { 'the project' 'the Ocean State Power project' }
+(end gold clusters)

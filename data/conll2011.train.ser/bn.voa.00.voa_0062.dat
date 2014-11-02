@@ -1,0 +1,60 @@
+---------gloss--------
+(0) I 'm David Deforest , VOA News . 
+(1) At least 50 people have been wounded in violence during [1m[34m{Palestinian funerals in the West Bank and Gaza Strip}[0m . 
+(2) Stone - throwing Palestinians clashed with Israeli soldiers , Saturday as thousands of mourners gathered for [1m[34m{burials of four Palestinians killed Friday}[0m . 
+(3) There was also a shoot - out between Palestinian militants and Israeli soldiers late Saturday in the [1m[33m{West Bank}[0m town of Jeneme . 
+(4) A leader of the Hezbollah guerillas appeared on television calling on Palestinians to carry out suicide missions against Israel . 
+(end gloss)
+---------document--------
+(bn/voa/00/voa_0062); part 000
+sentences:
+IIPRPOPER0'mbeVBPOPER0DavidDavidNNPPERSONPER0DeforestDeforestNNPPERSONPER0,,,OPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP David) (NNP Deforest)) (, ,) (NP (NNP VOA) (NNP News)))) (. .)))
+AtatINCARDINALPER0leastleastJJSCARDINALPER05050CDCARDINALPER0peoplepeopleNNSOPER0havehaveVBPOPER0beenbeVBNOPER0woundedwoundVBNOPER0ininINOPER0violenceviolenceNNOPER0duringduringINOPER0PalestinianpalestinianJJOPER0funeralsfuneralNNSOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (QP (ADVP (IN At) (JJS least)) (CD 50)) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN wounded) (PP (IN in) (NP (NP (NN violence)) (PP (IN during) (NP (NP (JJ Palestinian) (NNS funerals)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))))))))))) (. .)))
+StonestoneNNORGPER0--HYPHOPER0throwingthrowVBGOPER0PalestiniansPalestiniansNNPSOPER0clashedclashVBDOPER0withwithINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0,,,OPER0SaturdaySaturdayNNPDATEPER0asasINOPER0thousandsthousandNNSCARDINALPER0ofofINOPER0mournersmournerNNSOPER0gatheredgatherVBDOPER0forforINOPER0burialsburialNNSOPER0ofofINOPER0fourfourCDCARDINALPER0PalestiniansPalestiniansNNPSOPER0killedkillVBNOPER0FridayFridayNNPDATEPER0...OPER0(ROOT (S (NP (ADJP (NN Stone) (HYPH -) (VBG throwing)) (NNPS Palestinians)) (VP (VBD clashed) (PP (IN with) (NP (NP (JJ Israeli) (NNS soldiers)) (, ,) (NP (NNP Saturday)))) (SBAR (IN as) (S (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS mourners)))) (VP (VBD gathered) (PP (IN for) (NP (NP (NNS burials)) (PP (IN of) (NP (NP (CD four) (NNPS Palestinians)) (VP (VBN killed) (NP (NNP Friday))))))))))) (. .)))
+TherethereEXOPER0wasbeVBDOPER0alsoalsoRBOPER0aaDTOPER0shootshootNNOPER0--HYPHOPER0outoutNNOPER0betweenbetweenINOPER0PalestinianpalestinianJJOPER0militantsmilitantNNSOPER0andandCCOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0latelateJJOPER0SaturdaySaturdayNNPDATEPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0towntownNNOPER0ofofINOPER0JenemeJenemeNNPORGPER0...OPER0(ROOT (S (NP (EX There)) (VP (VBD was) (ADVP (RB also)) (NP (DT a) (NN shoot) (HYPH -) (NN out)) (PP (IN between) (NP (NP (JJ Palestinian) (NNS militants)) (CC and) (NP (JJ Israeli) (NNS soldiers)))) (NP (JJ late) (NNP Saturday)) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Jeneme)))))) (. .)))
+AaDTOPER0leaderleaderNNOPER0ofofINOPER0thetheDTOPER0HezbollahHezbollahNNPORGPER0guerillasguerillaNNSOPER0appearedappearVBDOPER0ononINOPER0televisiontelevisionNNOPER0callingcallVBGOPER0ononINOPER0PalestiniansPalestiniansNNPSOPER0totoTOOPER0carrycarryVBOPER0outoutRPOPER0suicidesuicideNNOPER0missionsmissionNNSOPER0againstagainstINOPER0IsraelIsraelNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT A) (NN leader)) (PP (IN of) (NP (DT the) (NNP Hezbollah) (NNS guerillas)))) (VP (VBD appeared) (PP (IN on) (NP (NN television))) (S (VP (VBG calling) (PP (IN on) (NP (NNPS Palestinians))) (S (VP (TO to) (VP (VB carry) (PRT (RP out)) (NP (NP (NN suicide) (NNS missions)) (PP (IN against) (NP (NNP Israel)))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=1 spanning 10 until 19 headed by 11 parsed as (NP (NP (JJ Palestinian) (NNS funerals)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=2 spanning 16 until 22 headed by 16 parsed as (NP (NP (NNS burials)) (PP (IN of) (NP (NP (CD four) (NNPS Palestinians)) (VP (VBN killed) (NP (NNP Friday))))))
+sid=3 spanning 17 until 19 headed by 18 parsed as Bank
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=0 spanning 2 until 4 headed by 3 parsed as (NP (NP (NNP David) (NNP Deforest)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 2 until 7 headed by 3 parsed as (NP (NP (NNP David) (NNP Deforest)) (, ,) (NP (NNP VOA) (NNP News)))
+sid=0 spanning 5 until 7 headed by 6 parsed as (NP (NNP VOA) (NNP News))
+sid=1 spanning 0 until 4 headed by 3 parsed as (NP (QP (ADVP (IN At) (JJS least)) (CD 50)) (NNS people))
+sid=1 spanning 8 until 19 headed by 8 parsed as (NP (NP (NN violence)) (PP (IN during) (NP (NP (JJ Palestinian) (NNS funerals)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))))
+sid=1 spanning 10 until 19 headed by 11 parsed as (NP (NP (JJ Palestinian) (NNS funerals)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))))
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=1 spanning 13 until 19 headed by 15 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=1 spanning 17 until 19 headed by 18 parsed as Strip
+sid=2 spanning 0 until 4 headed by 3 parsed as (NP (ADJP (NN Stone) (HYPH -) (VBG throwing)) (NNPS Palestinians))
+sid=2 spanning 6 until 10 headed by 7 parsed as (NP (NP (JJ Israeli) (NNS soldiers)) (, ,) (NP (NNP Saturday)))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=2 spanning 9 until 10 headed by 9 parsed as (NP (NNP Saturday))
+sid=2 spanning 11 until 14 headed by 11 parsed as (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS mourners))))
+sid=2 spanning 16 until 22 headed by 16 parsed as (NP (NP (NNS burials)) (PP (IN of) (NP (NP (CD four) (NNPS Palestinians)) (VP (VBN killed) (NP (NNP Friday))))))
+sid=2 spanning 18 until 22 headed by 19 parsed as (NP (NP (CD four) (NNPS Palestinians)) (VP (VBN killed) (NP (NNP Friday))))
+sid=2 spanning 21 until 22 headed by 21 parsed as (NP (NNP Friday))
+sid=3 spanning 3 until 7 headed by 6 parsed as (NP (DT a) (NN shoot) (HYPH -) (NN out))
+sid=3 spanning 8 until 13 headed by 9 parsed as (NP (NP (JJ Palestinian) (NNS militants)) (CC and) (NP (JJ Israeli) (NNS soldiers)))
+sid=3 spanning 8 until 10 headed by 9 parsed as (NP (JJ Palestinian) (NNS militants))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=3 spanning 13 until 15 headed by 14 parsed as (NP (JJ late) (NNP Saturday))
+sid=3 spanning 16 until 22 headed by 19 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Jeneme))))
+sid=3 spanning 17 until 19 headed by 18 parsed as Bank
+sid=3 spanning 21 until 22 headed by 21 parsed as (NP (NNP Jeneme))
+sid=4 spanning 0 until 6 headed by 1 parsed as (NP (NP (DT A) (NN leader)) (PP (IN of) (NP (DT the) (NNP Hezbollah) (NNS guerillas))))
+sid=4 spanning 3 until 6 headed by 5 parsed as (NP (DT the) (NNP Hezbollah) (NNS guerillas))
+sid=4 spanning 4 until 5 headed by 4 parsed as Hezbollah
+sid=4 spanning 15 until 19 headed by 16 parsed as (NP (NP (NN suicide) (NNS missions)) (PP (IN against) (NP (NNP Israel))))
+sid=4 spanning 18 until 19 headed by 18 parsed as (NP (NNP Israel))
+(end predicted mentions)
+---------gold clusters--------
+1 3 | { 'West Bank' 'West Bank' }
+2 0 | { 'burials of four Palestinians killed Friday' 'Palestinian funerals in the West Bank and Gaza Strip' }
+(end gold clusters)

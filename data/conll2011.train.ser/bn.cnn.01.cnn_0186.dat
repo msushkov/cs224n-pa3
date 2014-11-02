@@ -1,0 +1,69 @@
+---------gloss--------
+(0) The killing of [36m{two Israelis}[0m in [1m[33m{the West Bank}[0m could spell trouble for [1m[31m{the Mideast peace talks in Egypt}[0m . 
+(1) [1m[32m{Israeli Prime Minister Ehud Barak}[0m has recalled [1m[32m{his}[0m top two negotiators from [1m[31m{talks in Egypt}[0m . 
+(2) [34m{The Foreign Minister and a cabinet secretary}[0m are returning to Jerusalem for consultations . 
+(3) [1m[34m{Other members of the Israeli negotiating team}[0m are remaining , but one of [1m[34m{them}[0m says talks are `` suspended until further notice . '' 
+(4) [36m{The two men}[0m were seized by Palestinian gunmen while having lunch at a [1m[33m{West Bank}[0m restaurant . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0186); part 000
+sentences:
+ThetheDTOPER0killingkillingNNOPER0ofofINOPER0twotwoCDCARDINALPER0IsraelisIsraelisNNPSOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0couldcouldMDOPER0spellspellVBOPER0troubletroubleNNOPER0forforINOPER0thetheDTOPER0MideastMideastNNPLOCPER0peacepeaceNNOPER0talkstalkNNSOPER0ininINOPER0EgyptEgyptNNPGPEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank)))) (VP (MD could) (VP (VB spell) (NP (NP (NN trouble)) (PP (IN for) (NP (NP (DT the) (NNP Mideast) (NN peace) (NNS talks)) (PP (IN in) (NP (NNP Egypt)))))))) (. .)))
+IsraeliisraeliJJOPER0PrimePrimeNNPOPER0MinisterMinisterNNPOPER0EhudEhudNNPPERSONPER0BarakBarakNNPPERSONPER0hashaveVBZOPER0recalledrecallVBNOPER0hishePRP$OPER0toptopJJOPER0twotwoCDCARDINALPER0negotiatorsnegotiatorNNSOPER0fromfromINOPER0talkstalkNNSOPER0ininINOPER0EgyptEgyptNNPGPEPER0...OPER0(ROOT (S (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak)) (VP (VBZ has) (VP (VBN recalled) (NP (PRP$ his) (JJ top) (CD two) (NNS negotiators)) (PP (IN from) (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Egypt))))))) (. .)))
+ThetheDTOPER0ForeignForeignNNPOPER0MinisterMinisterNNPOPER0andandCCOPER0aaDTOPER0cabinetcabinetNNOPER0secretarysecretaryNNOPER0arebeVBPOPER0returningreturnVBGOPER0totoINOPER0JerusalemJerusalemNNPGPEPER0forforINOPER0consultationsconsultationNNSOPER0...OPER0(ROOT (S (NP (NP (DT The) (NNP Foreign) (NNP Minister)) (CC and) (NP (DT a) (NN cabinet) (NN secretary))) (VP (VBP are) (VP (VBG returning) (PP (IN to) (NP (NNP Jerusalem))) (PP (IN for) (NP (NNS consultations))))) (. .)))
+OtherotherJJOPER0membersmemberNNSOPER0ofofINOPER0thetheDTOPER0IsraeliisraeliJJOPER0negotiatingnegotiatingNNOPER0teamteamNNOPER0arebeVBPOPER0remainingremainingJJOPER0,,,OPER0butbutCCOPER0oneoneCDOPER0ofofINOPER0themtheyPRPOPER0sayssayVBZOPER0talkstalkNNSOPER0arebeVBPOPER0``````OsuspendedsuspendVBNOPER1untiluntilINOPER1furtherfurtherJJOPER1noticenoticeNNOPER1...OPER1''''''OPER0(ROOT (S (S (NP (NP (JJ Other) (NNS members)) (PP (IN of) (NP (DT the) (JJ Israeli) (NN negotiating) (NN team)))) (VP (VBP are) (ADJP (JJ remaining)))) (, ,) (CC but) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))) (VP (VBZ says) (SBAR (S (NP (NNS talks)) (VP (VBP are) (`` ``) (VP (VBN suspended) (PP (IN until) (NP (JJ further) (NN notice))))))))) (. .) ('' '')))
+ThetheDTOPER0twotwoCDCARDINALPER0menmanNNSOPER0werebeVBDOPER0seizedseizeVBNOPER0bybyINOPER0PalestinianpalestinianJJOPER0gunmengunmanNNSOPER0whilewhileINOPER0havinghaveVBGOPER0lunchlunchNNOPER0atatINOPER0aaDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0restaurantrestaurantNNOPER0...OPER0(ROOT (S (NP (DT The) (CD two) (NNS men)) (VP (VBD were) (VP (VBN seized) (PP (IN by) (NP (JJ Palestinian) (NNS gunmen))) (SBAR (IN while) (S (VP (VBG having) (NP (NN lunch)) (PP (IN at) (NP (DT a) (NML (NNP West) (NNP Bank)) (NN restaurant)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (CD two) (NNPS Israelis))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=0 spanning 13 until 19 headed by 16 parsed as (NP (NP (DT the) (NNP Mideast) (NN peace) (NNS talks)) (PP (IN in) (NP (NNP Egypt))))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Egypt))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 7 until 11 headed by 10 parsed as (NP (PRP$ his) (JJ top) (CD two) (NNS negotiators))
+sid=1 spanning 7 until 8 headed by 7 parsed as his
+sid=1 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Egypt))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Egypt))
+sid=2 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT The) (NNP Foreign) (NNP Minister)) (CC and) (NP (DT a) (NN cabinet) (NN secretary)))
+sid=3 spanning 0 until 7 headed by 1 parsed as (NP (NP (JJ Other) (NNS members)) (PP (IN of) (NP (DT the) (JJ Israeli) (NN negotiating) (NN team))))
+sid=3 spanning 13 until 14 headed by 13 parsed as (NP (PRP them))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD two) (NNS men))
+sid=4 spanning 13 until 15 headed by 14 parsed as Bank
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 9 headed by 1 parsed as (NP (NP (DT The) (NN killing)) (PP (IN of) (NP (CD two) (NNPS Israelis))) (PP (IN in) (NP (DT the) (NNP West) (NNP Bank))))
+sid=0 spanning 3 until 5 headed by 4 parsed as (NP (CD two) (NNPS Israelis))
+sid=0 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (NNP West) (NNP Bank))
+sid=0 spanning 11 until 19 headed by 11 parsed as (NP (NP (NN trouble)) (PP (IN for) (NP (NP (DT the) (NNP Mideast) (NN peace) (NNS talks)) (PP (IN in) (NP (NNP Egypt))))))
+sid=0 spanning 13 until 19 headed by 16 parsed as (NP (NP (DT the) (NNP Mideast) (NN peace) (NNS talks)) (PP (IN in) (NP (NNP Egypt))))
+sid=0 spanning 14 until 15 headed by 14 parsed as Mideast
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Egypt))
+sid=1 spanning 0 until 5 headed by 4 parsed as (NP (NML (JJ Israeli) (NNP Prime) (NNP Minister)) (NNP Ehud) (NNP Barak))
+sid=1 spanning 7 until 11 headed by 10 parsed as (NP (PRP$ his) (JJ top) (CD two) (NNS negotiators))
+sid=1 spanning 7 until 8 headed by 7 parsed as (PRP$ his)
+sid=1 spanning 12 until 15 headed by 12 parsed as (NP (NP (NNS talks)) (PP (IN in) (NP (NNP Egypt))))
+sid=1 spanning 14 until 15 headed by 14 parsed as (NP (NNP Egypt))
+sid=2 spanning 0 until 7 headed by 2 parsed as (NP (NP (DT The) (NNP Foreign) (NNP Minister)) (CC and) (NP (DT a) (NN cabinet) (NN secretary)))
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Foreign) (NNP Minister))
+sid=2 spanning 4 until 7 headed by 6 parsed as (NP (DT a) (NN cabinet) (NN secretary))
+sid=2 spanning 10 until 11 headed by 10 parsed as (NP (NNP Jerusalem))
+sid=2 spanning 12 until 13 headed by 12 parsed as (NP (NNS consultations))
+sid=3 spanning 0 until 7 headed by 1 parsed as (NP (NP (JJ Other) (NNS members)) (PP (IN of) (NP (DT the) (JJ Israeli) (NN negotiating) (NN team))))
+sid=3 spanning 3 until 7 headed by 6 parsed as (NP (DT the) (JJ Israeli) (NN negotiating) (NN team))
+sid=3 spanning 11 until 14 headed by 11 parsed as (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))
+sid=3 spanning 15 until 16 headed by 15 parsed as (NP (NNS talks))
+sid=4 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (CD two) (NNS men))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (JJ Palestinian) (NNS gunmen))
+sid=4 spanning 12 until 16 headed by 15 parsed as (NP (DT a) (NML (NNP West) (NNP Bank)) (NN restaurant))
+sid=4 spanning 13 until 15 headed by 14 parsed as Bank
+(end predicted mentions)
+---------gold clusters--------
+9 5 | { 'The Foreign Minister and a cabinet secretary' 'his top two negotiators' }
+8 3 | { 'Egypt' 'Egypt' }
+12 0 | { 'The two men' 'two Israelis' }
+7 2 | { 'talks in Egypt' 'the Mideast peace talks in Egypt' }
+6 4 | { 'his' 'Israeli Prime Minister Ehud Barak' }
+13 1 | { 'West Bank' 'the West Bank' }
+11 10 | { 'them' 'Other members of the Israeli negotiating team' }
+(end gold clusters)

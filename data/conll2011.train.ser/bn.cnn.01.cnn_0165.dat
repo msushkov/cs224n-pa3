@@ -1,0 +1,60 @@
+---------gloss--------
+(0) Yesterday , hundreds gathered in the [3m[34m{West Bank}[0m town of Hebron for the funeral of [4m[32m{a Palestinian woman killed in her home by crossfire between Israeli soldiers and Palestinian gunmen}[0m , and in [4m[31m{Gaza}[0m , a second funeral took place for a Palestinian man killed Friday night by Israeli troops . 
+(1) [3m[35m{Palestinian security officials}[0m insist [3m[35m{they}[0m can not quell the unrest in [3m[34m{the West Bank}[0m and [4m[31m{Gaza}[0m until [3m[36m{Israel}[0m lifts [3m[36m{its}[0m blockade there . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0165); part 000
+sentences:
+YesterdayyesterdayNNDATEPER0,,,OPER0hundredshundredNNSCARDINALPER0gatheredgatherVBDOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0towntownNNOPER0ofofINOPER0HebronHebronNNPGPEPER0forforINOPER0thetheDTOPER0funeralfuneralNNOPER0ofofINOPER0aaDTOPER0PalestinianpalestinianJJOPER0womanwomanNNOPER0killedkillVBNOPER0ininINOPER0hershePRP$OPER0homehomeNNOPER0bybyINOPER0crossfirecrossfireNNOPER0betweenbetweenINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0andandCCOPER0PalestinianpalestinianJJOPER0gunmengunmanNNSOPER0,,,OPER0andandCCOPER0ininINOPER0GazaGazaNNPGPEPER0,,,OPER0aaDTOPER0secondsecondJJOPER0funeralfuneralNNOPER0tooktakeVBDOPER0placeplaceNNOPER0forforINOPER0aaDTOPER0PalestinianpalestinianJJOPER0manmanNNOPER0killedkillVBNOPER0FridayFridayNNPDATEPER0nightnightNNTIMEPER0bybyINOPER0IsraeliisraeliJJOPER0troopstroopsNNSOPER0...OPER0(ROOT (S (NP (NN Yesterday)) (, ,) (S (NP (NNS hundreds)) (VP (VBD gathered) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Hebron))))) (PP (IN for) (NP (NP (DT the) (NN funeral)) (PP (IN of) (NP (NP (DT a) (JJ Palestinian) (NN woman)) (VP (VBN killed) (PP (IN in) (NP (PRP$ her) (NN home))) (PP (IN by) (NP (NP (NN crossfire)) (PP (IN between) (NP (NP (JJ Israeli) (NNS soldiers)) (CC and) (NP (JJ Palestinian) (NNS gunmen))))))))))))) (, ,) (CC and) (S (PP (IN in) (NP (NNP Gaza))) (, ,) (NP (DT a) (JJ second) (NN funeral)) (VP (VBD took) (NP (NN place)) (PP (IN for) (NP (NP (DT a) (JJ Palestinian) (NN man)) (VP (VBN killed) (NP (NNP Friday) (NN night)) (PP (IN by) (NP (JJ Israeli) (NNS troops)))))))) (. .)))
+PalestinianpalestinianJJOPER0securitysecurityNNOPER0officialsofficialNNSOPER0insistinsistVBPOPER0theytheyPRPOPER0cancanMDOPER0notnotRBOPER0quellquellVBOPER0thetheDTOPER0unrestunrestNNOPER0ininINOPER0thetheDTLOCPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPGPEPER0untiluntilINOPER0IsraelIsraelNNPGPEPER0liftsliftVBZOPER0itsitsPRP$OPER0blockadeblockadeNNOPER0therethereRBOPER0...OPER0(ROOT (S (NP (JJ Palestinian) (NN security) (NNS officials)) (VP (VBP insist) (SBAR (S (NP (PRP they)) (VP (MD can) (RB not) (VP (VB quell) (NP (NP (DT the) (NN unrest)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza))))) (SBAR (IN until) (S (NP (NNP Israel)) (VP (VBZ lifts) (NP (NP (PRP$ its) (NN blockade)) (ADVP (RB there))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 6 until 8 headed by 7 parsed as Bank
+sid=0 spanning 15 until 30 headed by 17 parsed as (NP (NP (DT a) (JJ Palestinian) (NN woman)) (VP (VBN killed) (PP (IN in) (NP (PRP$ her) (NN home))) (PP (IN by) (NP (NP (NN crossfire)) (PP (IN between) (NP (NP (JJ Israeli) (NNS soldiers)) (CC and) (NP (JJ Palestinian) (NNS gunmen))))))))
+sid=0 spanning 20 until 21 headed by 20 parsed as her
+sid=0 spanning 33 until 34 headed by 33 parsed as (NP (NNP Gaza))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (JJ Palestinian) (NN security) (NNS officials))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Gaza))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Israel))
+sid=1 spanning 19 until 20 headed by 19 parsed as its
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NN Yesterday))
+sid=0 spanning 2 until 3 headed by 2 parsed as (NP (NNS hundreds))
+sid=0 spanning 5 until 11 headed by 8 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Hebron))))
+sid=0 spanning 6 until 8 headed by 7 parsed as Bank
+sid=0 spanning 10 until 11 headed by 10 parsed as (NP (NNP Hebron))
+sid=0 spanning 12 until 30 headed by 13 parsed as (NP (NP (DT the) (NN funeral)) (PP (IN of) (NP (NP (DT a) (JJ Palestinian) (NN woman)) (VP (VBN killed) (PP (IN in) (NP (PRP$ her) (NN home))) (PP (IN by) (NP (NP (NN crossfire)) (PP (IN between) (NP (NP (JJ Israeli) (NNS soldiers)) (CC and) (NP (JJ Palestinian) (NNS gunmen))))))))))
+sid=0 spanning 15 until 30 headed by 17 parsed as (NP (NP (DT a) (JJ Palestinian) (NN woman)) (VP (VBN killed) (PP (IN in) (NP (PRP$ her) (NN home))) (PP (IN by) (NP (NP (NN crossfire)) (PP (IN between) (NP (NP (JJ Israeli) (NNS soldiers)) (CC and) (NP (JJ Palestinian) (NNS gunmen))))))))
+sid=0 spanning 20 until 22 headed by 21 parsed as (NP (PRP$ her) (NN home))
+sid=0 spanning 20 until 21 headed by 20 parsed as (PRP$ her)
+sid=0 spanning 23 until 30 headed by 23 parsed as (NP (NP (NN crossfire)) (PP (IN between) (NP (NP (JJ Israeli) (NNS soldiers)) (CC and) (NP (JJ Palestinian) (NNS gunmen)))))
+sid=0 spanning 25 until 30 headed by 26 parsed as (NP (NP (JJ Israeli) (NNS soldiers)) (CC and) (NP (JJ Palestinian) (NNS gunmen)))
+sid=0 spanning 25 until 27 headed by 26 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=0 spanning 28 until 30 headed by 29 parsed as (NP (JJ Palestinian) (NNS gunmen))
+sid=0 spanning 33 until 34 headed by 33 parsed as (NP (NNP Gaza))
+sid=0 spanning 35 until 38 headed by 37 parsed as (NP (DT a) (JJ second) (NN funeral))
+sid=0 spanning 41 until 50 headed by 43 parsed as (NP (NP (DT a) (JJ Palestinian) (NN man)) (VP (VBN killed) (NP (NNP Friday) (NN night)) (PP (IN by) (NP (JJ Israeli) (NNS troops)))))
+sid=0 spanning 45 until 47 headed by 46 parsed as (NP (NNP Friday) (NN night))
+sid=0 spanning 45 until 46 headed by 45 parsed as Friday
+sid=0 spanning 48 until 50 headed by 49 parsed as (NP (JJ Israeli) (NNS troops))
+sid=1 spanning 0 until 3 headed by 2 parsed as (NP (JJ Palestinian) (NN security) (NNS officials))
+sid=1 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=1 spanning 8 until 16 headed by 9 parsed as (NP (NP (DT the) (NN unrest)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))))
+sid=1 spanning 11 until 14 headed by 13 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=1 spanning 11 until 16 headed by 13 parsed as (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza)))
+sid=1 spanning 15 until 16 headed by 15 parsed as (NP (NNP Gaza))
+sid=1 spanning 17 until 18 headed by 17 parsed as (NP (NNP Israel))
+sid=1 spanning 19 until 22 headed by 20 parsed as (NP (NP (PRP$ its) (NN blockade)) (ADVP (RB there)))
+sid=1 spanning 19 until 20 headed by 19 parsed as (PRP$ its)
+(end predicted mentions)
+---------gold clusters--------
+6 0 | { 'the West Bank' 'West Bank' }
+4 5 | { 'Palestinian security officials' 'they' }
+8 9 | { 'Israel' 'its' }
+7 3 | { 'Gaza' 'Gaza' }
+2 1 | { 'her' 'a Palestinian woman killed in her home by crossfire between Israeli soldiers and Palestinian gunmen' }
+(end gold clusters)

@@ -1,0 +1,88 @@
+---------gloss--------
+(0) [33m{A pizza delivery}[0m helped police nab [34m{the suspect in the kidnapping of a 9 - year - old California girl}[0m . 
+(1) [34m{24 - year - old Enrique Alvarez , also known as David Cruz ,}[0m was arrested Monday in San Jose . 
+(2) [34m{He}[0m is expected to be arraigned Wednesday . 
+(3) [34m{He}[0m 's charged with kidnapping , felony assault and sexual assault . 
+(4) [32m{The girl}[0m was found late Sunday at a convenience store in East Palo Alto . 
+(5) [4m[36m{Police}[0m say [32m{she}[0m told [4m[36m{them}[0m a pepperoni pizza had been [33m{delivered}[0m to [31m{the house where she was held}[0m . 
+(6) [4m[35m{Detectives}[0m were able to track the order to [31m{the House , where they found Alvarez hiding in the attic}[0m . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0234); part 000
+sentences:
+AaDTOPER0pizzapizzaNNOPER0deliverydeliveryNNOPER0helpedhelpVBDOPER0policepoliceNNSOPER0nabnabNNPOPER0thetheDTOPER0suspectsuspectNNOPER0ininINOPER0thetheDTOPER0kidnappingkidnappingNNOPER0ofofINOPER0aaDTOPER099CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHOPER0oldoldJJOPER0CaliforniaCaliforniaNNPGPEPER0girlgirlNNOPER0...OPER0(ROOT (S (NP (DT A) (NN pizza) (NN delivery)) (VP (VBD helped) (NP (NNS police)) (S (NP (NNP nab)) (NP (NP (DT the) (NN suspect)) (PP (IN in) (NP (NP (DT the) (NN kidnapping)) (PP (IN of) (NP (DT a) (ADJP (NML (CD 9) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP California) (NN girl)))))))) (. .)))
+2424CDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHOPER0oldoldJJOPER0EnriqueEnriqueNNPPERSONPER0AlvarezAlvarezNNPPERSONPER0,,,OPER0alsoalsoRBOPER0knownknowVBNOPER0asasINOPER0DavidDavidNNPPERSONPER0CruzCruzNNPPERSONPER0,,,OPER0wasbeVBDOPER0arrestedarrestVBNOPER0MondayMondayNNPDATEPER0ininINOPER0SanSanNNPGPEPER0JoseJoseNNPGPEPER0...OPER0(ROOT (S (NP (NP (ADJP (NML (CD 24) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Enrique) (NNP Alvarez)) (, ,) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (NNP David) (NNP Cruz)))) (, ,)) (VP (VBD was) (VP (VBN arrested) (NP (NNP Monday)) (PP (IN in) (NP (NNP San) (NNP Jose))))) (. .)))
+HehePRPOPER0isbeVBZOPER0expectedexpectVBNOPER0totoTOOPER0bebeVBOPER0arraignedarraignVBNOPER0WednesdayWednesdayNNPDATEPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB be) (VP (VBN arraigned) (NP (NNP Wednesday)))))))) (. .)))
+HehePRPOPER0'sbeVBZOPER0chargedchargeVBNOPER0withwithINOPER0kidnappingkidnappingNNOPER0,,,OPER0felonyfelonyNNOPER0assaultassaultNNOPER0andandCCOPER0sexualsexualJJOPER0assaultassaultNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBN charged) (PP (IN with) (NP (NP (NN kidnapping)) (, ,) (NP (NN felony) (NN assault)) (CC and) (NP (JJ sexual) (NN assault)))))) (. .)))
+ThetheDTOPER0girlgirlNNOPER0wasbeVBDOPER0foundfindVBNOPER0latelateJJOPER0SundaySundayNNPDATEPER0atatINOPER0aaDTOPER0convenienceconvenienceNNOPER0storestoreNNOPER0ininINOPER0EastEastNNPGPEPER0PaloPaloNNPGPEPER0AltoAltoNNPGPEPER0...OPER0(ROOT (S (NP (DT The) (NN girl)) (VP (VBD was) (VP (VBN found) (NP (JJ late) (NNP Sunday)) (PP (IN at) (NP (NP (DT a) (NN convenience) (NN store)) (PP (IN in) (NP (NNP East) (NNP Palo) (NNP Alto))))))) (. .)))
+PolicepoliceNNSOPER0saysayVBPOPER0sheshePRPOPER0toldtellVBDOPER0themtheyPRPOPER0aaDTOPER0pepperonipepperoniJJOPER0pizzapizzaNNOPER0hadhaveVBDOPER0beenbeVBNOPER0delivereddeliverVBNOPER0totoINOPER0thetheDTOPER0househouseNNOPER0wherewhereWRBOPER0sheshePRPOPER0wasbeVBDOPER0heldholdVBNOPER0...OPER0(ROOT (S (NP (NNS Police)) (VP (VBP say) (SBAR (S (NP (PRP she)) (VP (VBD told) (NP (PRP them)) (SBAR (S (NP (DT a) (JJ pepperoni) (NN pizza)) (VP (VBD had) (VP (VBN been) (VP (VBN delivered) (PP (IN to) (NP (NP (DT the) (NN house)) (SBAR (WHADVP (WRB where)) (S (NP (PRP she)) (VP (VBD was) (VP (VBN held)))))))))))))))) (. .)))
+DetectivesdetectiveNNSOPER0werebeVBDOPER0ableableJJOPER0totoTOOPER0tracktrackVBOPER0thetheDTOPER0orderorderNNOPER0totoINOPER0thetheDTOPER0HouseHouseNNPORGPER0,,,OPER0wherewhereWRBOPER0theytheyPRPOPER0foundfindVBDOPER0AlvarezAlvarezNNPPERSONPER0hidinghideVBGOPER0ininINOPER0thetheDTOPER0atticatticNNOPER0...OPER0(ROOT (S (NP (NNS Detectives)) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB track) (NP (DT the) (NN order)) (PP (IN to) (NP (NP (DT the) (NNP House)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD found) (S (NP (NNP Alvarez)) (VP (VBG hiding) (PP (IN in) (NP (DT the) (NN attic))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NN pizza) (NN delivery))
+sid=0 spanning 6 until 20 headed by 7 parsed as (NP (NP (DT the) (NN suspect)) (PP (IN in) (NP (NP (DT the) (NN kidnapping)) (PP (IN of) (NP (DT a) (ADJP (NML (CD 9) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP California) (NN girl))))))
+sid=0 spanning 12 until 20 headed by 19 parsed as (NP (DT a) (ADJP (NML (CD 9) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP California) (NN girl))
+sid=1 spanning 0 until 14 headed by 6 parsed as (NP (NP (ADJP (NML (CD 24) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Enrique) (NNP Alvarez)) (, ,) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (NNP David) (NNP Cruz)))) (, ,))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN girl))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Police))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (PRP she))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP them))
+sid=5 spanning 10 until 11 headed by 10 parsed as delivered
+sid=5 spanning 12 until 18 headed by 13 parsed as (NP (NP (DT the) (NN house)) (SBAR (WHADVP (WRB where)) (S (NP (PRP she)) (VP (VBD was) (VP (VBN held))))))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (PRP she))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNS Detectives))
+sid=6 spanning 8 until 19 headed by 9 parsed as (NP (NP (DT the) (NNP House)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD found) (S (NP (NNP Alvarez)) (VP (VBG hiding) (PP (IN in) (NP (DT the) (NN attic)))))))))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=6 spanning 14 until 15 headed by 14 parsed as (NP (NNP Alvarez))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT A) (NN pizza) (NN delivery))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNS police))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NNP nab))
+sid=0 spanning 6 until 20 headed by 7 parsed as (NP (NP (DT the) (NN suspect)) (PP (IN in) (NP (NP (DT the) (NN kidnapping)) (PP (IN of) (NP (DT a) (ADJP (NML (CD 9) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP California) (NN girl))))))
+sid=0 spanning 9 until 20 headed by 10 parsed as (NP (NP (DT the) (NN kidnapping)) (PP (IN of) (NP (DT a) (ADJP (NML (CD 9) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP California) (NN girl))))
+sid=0 spanning 12 until 20 headed by 19 parsed as (NP (DT a) (ADJP (NML (CD 9) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP California) (NN girl))
+sid=0 spanning 13 until 16 headed by 15 parsed as year
+sid=0 spanning 18 until 19 headed by 18 parsed as California
+sid=1 spanning 5 until 7 headed by 6 parsed as (NP (NP (ADJP (NML (CD 24) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Enrique) (NNP Alvarez)) (, ,) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (NNP David) (NNP Cruz)))) (, ,))
+sid=1 spanning 0 until 14 headed by 6 parsed as (NP (NP (ADJP (NML (CD 24) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Enrique) (NNP Alvarez)) (, ,) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (NNP David) (NNP Cruz)))) (, ,))
+sid=1 spanning 0 until 7 headed by 6 parsed as (NP (ADJP (NML (CD 24) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NNP Enrique) (NNP Alvarez))
+sid=1 spanning 0 until 3 headed by 2 parsed as year
+sid=1 spanning 11 until 13 headed by 12 parsed as (NP (NNP David) (NNP Cruz))
+sid=1 spanning 16 until 17 headed by 16 parsed as (NP (NNP Monday))
+sid=1 spanning 18 until 20 headed by 19 parsed as (NP (NNP San) (NNP Jose))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 6 until 7 headed by 6 parsed as (NP (NNP Wednesday))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=3 spanning 4 until 11 headed by 4 parsed as (NP (NP (NN kidnapping)) (, ,) (NP (NN felony) (NN assault)) (CC and) (NP (JJ sexual) (NN assault)))
+sid=3 spanning 6 until 8 headed by 7 parsed as (NP (NN felony) (NN assault))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN girl))
+sid=4 spanning 4 until 6 headed by 5 parsed as (NP (JJ late) (NNP Sunday))
+sid=4 spanning 7 until 14 headed by 9 parsed as (NP (NP (DT a) (NN convenience) (NN store)) (PP (IN in) (NP (NNP East) (NNP Palo) (NNP Alto))))
+sid=4 spanning 11 until 14 headed by 13 parsed as (NP (NNP East) (NNP Palo) (NNP Alto))
+sid=5 spanning 0 until 1 headed by 0 parsed as (NP (NNS Police))
+sid=5 spanning 2 until 3 headed by 2 parsed as (NP (PRP she))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP them))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (DT a) (JJ pepperoni) (NN pizza))
+sid=5 spanning 12 until 18 headed by 13 parsed as (NP (NP (DT the) (NN house)) (SBAR (WHADVP (WRB where)) (S (NP (PRP she)) (VP (VBD was) (VP (VBN held))))))
+sid=5 spanning 15 until 16 headed by 15 parsed as (NP (PRP she))
+sid=6 spanning 0 until 1 headed by 0 parsed as (NP (NNS Detectives))
+sid=6 spanning 5 until 7 headed by 6 parsed as (NP (DT the) (NN order))
+sid=6 spanning 9 until 10 headed by 9 parsed as (NP (NP (DT the) (NNP House)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD found) (S (NP (NNP Alvarez)) (VP (VBG hiding) (PP (IN in) (NP (DT the) (NN attic)))))))))
+sid=6 spanning 8 until 19 headed by 9 parsed as (NP (NP (DT the) (NNP House)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD found) (S (NP (NNP Alvarez)) (VP (VBG hiding) (PP (IN in) (NP (DT the) (NN attic)))))))))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (DT the) (NNP House))
+sid=6 spanning 12 until 13 headed by 12 parsed as (NP (PRP they))
+sid=6 spanning 14 until 15 headed by 14 parsed as (NP (NNP Alvarez))
+sid=6 spanning 17 until 19 headed by 18 parsed as (NP (DT the) (NN attic))
+(end predicted mentions)
+---------gold clusters--------
+15 13 | { 'they' 'Detectives' }
+9 7 | { 'them' 'Police' }
+14 11 | { 'the House , where they found Alvarez hiding in the attic' 'the house where she was held' }
+6 8 12 2 | { 'The girl' 'she' 'she' 'a 9 - year - old California girl' }
+0 10 | { 'A pizza delivery' 'delivered' }
+1 4 16 3 5 | { 'the suspect in the kidnapping of a 9 - year - old California girl' 'He' 'Alvarez' '24 - year - old Enrique Alvarez , also known as David Cruz ,' 'He' }
+(end gold clusters)

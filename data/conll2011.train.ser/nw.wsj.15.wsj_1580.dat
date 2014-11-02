@@ -1,0 +1,32 @@
+---------gloss--------
+(0) [3m[31m{Richard J. Pinola}[0m was elected to [3m[32m{the board of this personnel consulting concern}[0m , increasing [3m[32m{its}[0m size to nine members . 
+(1) [3m[31m{Mr. Pinola}[0m is president and chief operating officer of Penn Mutual Life Insurance Co . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1580); part 000
+sentences:
+RichardRichardNNPPERSONPER0J.J.NNPPERSONPER0PinolaPinolaNNPPERSONPER0wasbeVBDOPER0electedelectVBNOPER0totoINOPER0thetheDTOPER0boardboardNNOPER0ofofINOPER0thisthisDTOPER0personnelpersonnelNNOPER0consultingconsultingNNOPER0concernconcernNNOPER0,,,OPER0increasingincreaseVBGOPER0itsitsPRP$OPER0sizesizeNNOPER0totoINOPER0ninenineCDCARDINALPER0membersmemberNNSOPER0...OPER0(ROOT (S (NP (NNP Richard) (NNP J.) (NNP Pinola)) (VP (VBD was) (VP (VBN elected) (PP (IN to) (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NML (NN personnel) (NN consulting)) (NN concern))))) (, ,) (S (VP (VBG increasing) (NP (PRP$ its) (NN size)) (PP (IN to) (NP (CD nine) (NNS members))))))) (. .)))
+Mr.Mr.NNPOPER0PinolaPinolaNNPPERSONPER0isbeVBZOPER0presidentpresidentNNOPER0andandCCOPER0chiefchiefJJOPER0operatingoperatingNNOPER0officerofficerNNOPER0ofofINOPER0PennPennNNPORGPER0MutualMutualNNPORGPER0LifeLifeNNPORGPER0InsuranceInsuranceNNPORGPER0CoCoNNPORGPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Pinola)) (VP (VBZ is) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN of) (NP (NNP Penn) (NNP Mutual) (NNP Life) (NNP Insurance) (NNP Co))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Richard) (NNP J.) (NNP Pinola))
+sid=0 spanning 6 until 13 headed by 7 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NML (NN personnel) (NN consulting)) (NN concern))))
+sid=0 spanning 15 until 16 headed by 15 parsed as its
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Pinola))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Richard) (NNP J.) (NNP Pinola))
+sid=0 spanning 6 until 13 headed by 7 parsed as (NP (NP (DT the) (NN board)) (PP (IN of) (NP (DT this) (NML (NN personnel) (NN consulting)) (NN concern))))
+sid=0 spanning 9 until 13 headed by 12 parsed as (NP (DT this) (NML (NN personnel) (NN consulting)) (NN concern))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (PRP$ its) (NN size))
+sid=0 spanning 15 until 16 headed by 15 parsed as (PRP$ its)
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (CD nine) (NNS members))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Pinola))
+sid=1 spanning 3 until 14 headed by 3 parsed as (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN operating) (NN officer))) (PP (IN of) (NP (NNP Penn) (NNP Mutual) (NNP Life) (NNP Insurance) (NNP Co))))
+sid=1 spanning 9 until 14 headed by 13 parsed as (NP (NNP Penn) (NNP Mutual) (NNP Life) (NNP Insurance) (NNP Co))
+(end predicted mentions)
+---------gold clusters--------
+3 0 | { 'Mr. Pinola' 'Richard J. Pinola' }
+2 1 | { 'its' 'the board of this personnel consulting concern' }
+(end gold clusters)

@@ -1,0 +1,107 @@
+---------gloss--------
+(0) [3m[36m{Wang Laboratories Inc.}[0m has sold $ 25 million of assets and reached agreements in principle to sell an additional $ 187 million shortly , [4m[32m{Richard Miller , president ,}[0m said at [3m[35m{the annual meeting}[0m . 
+(1) [4m[32m{He}[0m said [3m[36m{Wang}[0m had reached an agreement with a `` major financial firm '' to sell for $ 150 million [3m[36m{its}[0m domestic equipment lease portfolio and that of [3m[36m{its}[0m Wang Credit Corp. subsidiary . 
+(2) [4m[32m{He}[0m said [3m[36m{it}[0m also agreed to sell a portion of [3m[36m{its}[0m European real estate unit for $ 37 million . 
+(3) [4m[32m{Mr. Miller}[0m said that [3m[36m{Wang}[0m has already sold some $ 12 million of miscellaneous assets and disclosed that [3m[36m{it}[0m had received $ 13 million from Compaq Computer Corp. , Houston , in the previously announced sale of [3m[36m{its}[0m Stirling , Scotland , plant . 
+(4) [4m[32m{Mr. Miller}[0m repeated that in the next six months [4m[32m{he}[0m plans to sell another $ 200 million to $ 300 million of assets to repay debt and reduce interest costs at [3m[36m{Wang , a minincomputer maker in Lowell , Mass}[0m . 
+(5) In response to questions after [3m[35m{the annual meeting}[0m , [4m[32m{Mr. Miller}[0m said [3m[36m{the company}[0m is no longer looking for an equity investor . 
+(6) During the summer , [3m[36m{Wang}[0m executives had said [4m[31m{they}[0m might seek outside investment . 
+(end gloss)
+---------document--------
+(nw/wsj/11/wsj_1168); part 000
+sentences:
+WangWangNNPORGPER0LaboratoriesLaboratoriesNNPORGPER0Inc.Inc.NNPORGPER0hashaveVBZOPER0soldsellVBNOPER0$$$MONEYPER02525CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0assetsassetNNSOPER0andandCCOPER0reachedreachVBNOPER0agreementsagreementNNSOPER0ininINOPER0principleprincipleNNOPER0totoTOOPER0sellsellVBOPER0anaDTMONEYPER0additionaladditionalJJMONEYPER0$$$MONEYPER0187187CDMONEYPER0millionmillionCDMONEYPER0shortlyshortlyRBOPER0,,,OPER0RichardRichardNNPPERSONPER0MillerMillerNNPPERSONPER0,,,OPER0presidentpresidentNNOPER0,,,OPER0saidsayVBDOPER0atatINOPER0thetheDTOPER0annualannualJJOPER0meetingmeetingNNOPER0...OPER0(ROOT (S (S (NP (NNP Wang) (NNP Laboratories) (NNP Inc.)) (VP (VBZ has) (VP (VP (VBN sold) (NP (NP (QP ($ $) (CD 25) (CD million))) (PP (IN of) (NP (NNS assets))))) (CC and) (VP (VBN reached) (NP (NNS agreements)) (PP (IN in) (NP (NN principle) (S (VP (TO to) (VP (VB sell) (NP (DT an) (JJ additional) (QP ($ $) (CD 187) (CD million))) (ADVP (RB shortly))))))))))) (, ,) (NP (NP (NNP Richard) (NNP Miller)) (, ,) (NP (NN president)) (, ,)) (VP (VBD said) (PP (IN at) (NP (DT the) (JJ annual) (NN meeting)))) (. .)))
+HehePRPOPER0saidsayVBDOPER0WangWangNNPORGPER0hadhaveVBDOPER0reachedreachVBNOPER0anaDTOPER0agreementagreementNNOPER0withwithINOPER0aaDTOPER0``````OmajormajorJJOPER1financialfinancialJJOPER1firmfirmNNOPER1''''''OPER0totoTOOPER0sellsellVBOPER0forforINOPER0$$$MONEYPER0150150CDMONEYPER0millionmillionCDMONEYPER0itsitsPRP$OPER0domesticdomesticJJOPER0equipmentequipmentNNOPER0leaseleaseNNOPER0portfolioportfolioNNOPER0andandCCOPER0thatthatDTOPER0ofofINOPER0itsitsPRP$OPER0WangWangNNPORGPER0CreditCreditNNPORGPER0Corp.Corp.NNPORGPER0subsidiarysubsidiaryNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NNP Wang)) (VP (VBD had) (VP (VBN reached) (NP (NP (DT an) (NN agreement)) (PP (IN with) (NP (NP (DT a) (`` ``) (JJ major) (JJ financial) (NN firm) ('' '')) (SBAR (S (VP (TO to) (VP (VB sell) (PP (IN for) (NP (QP ($ $) (CD 150) (CD million)))) (NP (NP (PRP$ its) (NML (JJ domestic) (NN equipment)) (NN lease) (NN portfolio)) (CC and) (NP (NP (DT that)) (PP (IN of) (NP (PRP$ its) (NML (NNP Wang) (NNP Credit) (NNP Corp.)) (NN subsidiary))))))))))))))))) (. .)))
+HehePRPOPER0saidsayVBDOPER0ititPRPOPER0alsoalsoRBOPER0agreedagreeVBDOPER0totoTOOPER0sellsellVBOPER0aaDTOPER0portionportionNNOPER0ofofINOPER0itsitsPRP$OPER0EuropeaneuropeanJJOPER0realrealJJOPER0estateestateNNOPER0unitunitNNOPER0forforINOPER0$$$MONEYPER03737CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (PRP it)) (ADVP (RB also)) (VP (VBD agreed) (S (VP (TO to) (VP (VB sell) (NP (NP (DT a) (NN portion)) (PP (IN of) (NP (PRP$ its) (JJ European) (NML (JJ real) (NN estate)) (NN unit)))) (PP (IN for) (NP (QP ($ $) (CD 37) (CD million))))))))))) (. .)))
+Mr.Mr.NNPOPER0MillerMillerNNPPERSONPER0saidsayVBDOPER0thatthatINOPER0WangWangNNPORGPER0hashaveVBZOPER0alreadyalreadyRBOPER0soldsellVBNOPER0somesomeDTMONEYPER0$$$MONEYPER01212CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0miscellaneousmiscellaneousJJOPER0assetsassetNNSOPER0andandCCOPER0discloseddiscloseVBDOPER0thatthatINOPER0ititPRPOPER0hadhaveVBDOPER0receivedreceiveVBNOPER0$$$MONEYPER01313CDMONEYPER0millionmillionCDMONEYPER0fromfromINOPER0CompaqCompaqNNPORGPER0ComputerComputerNNPORGPER0Corp.Corp.NNPORGPER0,,,OPER0HoustonHoustonNNPGPEPER0,,,OPER0ininINOPER0thetheDTOPER0previouslypreviouslyRBOPER0announcedannounceVBNOPER0salesaleNNOPER0ofofINOPER0itsitsPRP$OPER0StirlingStirlingNNPGPEPER0,,,OPER0ScotlandScotlandNNPGPEPER0,,,OPER0plantplantNNOPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Miller)) (VP (VBD said) (SBAR (IN that) (S (NP (NNP Wang)) (VP (VBZ has) (ADVP (RB already)) (VP (VP (VBN sold) (NP (NP (DT some) (QP ($ $) (CD 12) (CD million))) (PP (IN of) (NP (JJ miscellaneous) (NNS assets))))) (CC and) (VP (VBD disclosed) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD had) (VP (VBN received) (NP (QP ($ $) (CD 13) (CD million))) (PP (IN from) (NP (NP (NNP Compaq) (NNP Computer) (NNP Corp.)) (, ,) (NP (NNP Houston))))))))) (, ,) (PP (IN in) (NP (NP (DT the) (ADJP (RB previously) (VBN announced)) (NN sale)) (PP (IN of) (NP (PRP$ its) (NML (NNP Stirling) (, ,) (NNP Scotland) (, ,)) (NN plant)))))))))) (. .)))
+Mr.Mr.NNPOPER0MillerMillerNNPPERSONPER0repeatedrepeatVBDOPER0thatthatINOPER0ininINOPER0thetheDTDATEPER0nextnextJJDATEPER0sixsixCDDATEPER0monthsmonthNNSDATEPER0hehePRPOPER0plansplanVBZOPER0totoTOOPER0sellsellVBOPER0anotheranotherDTMONEYPER0$$$MONEYPER0200200CDMONEYPER0millionmillionCDMONEYPER0totoTOMONEYPER0$$$MONEYPER0300300CDMONEYPER0millionmillionCDMONEYPER0ofofINOPER0assetsassetNNSOPER0totoTOOPER0repayrepayVBOPER0debtdebtNNOPER0andandCCOPER0reducereduceVBOPER0interestinterestNNOPER0costscostNNSOPER0atatINOPER0WangWangNNPORGPER0,,,OPER0aaDTOPER0minincomputerminincomputerJJROPER0makermakerNNOPER0ininINOPER0LowellLowellNNPGPEPER0,,,OPER0MassMassNNPGPEPER0...OPER0(ROOT (S (NP (NNP Mr.) (NNP Miller)) (VP (VBD repeated) (SBAR (IN that) (S (PP (IN in) (NP (DT the) (JJ next) (CD six) (NNS months))) (NP (PRP he)) (VP (VBZ plans) (S (VP (TO to) (VP (VB sell) (NP (NP (DT another) (QP ($ $) (CD 200) (CD million) (TO to) ($ $) (CD 300) (CD million))) (PP (IN of) (NP (NNS assets)))) (S (VP (TO to) (VP (VP (VB repay) (NP (NN debt))) (CC and) (VP (VB reduce) (NP (NN interest) (NNS costs)) (PP (IN at) (NP (NP (NNP Wang)) (, ,) (NP (NP (DT a) (JJR minincomputer) (NN maker)) (PP (IN in) (NP (NP (NNP Lowell)) (, ,) (NP (NNP Mass)))))))))))))))))) (. .)))
+IninINOPER0responseresponseNNOPER0totoINOPER0questionsquestionNNSOPER0afterafterINOPER0thetheDTOPER0annualannualJJOPER0meetingmeetingNNOPER0,,,OPER0Mr.Mr.NNPOPER0MillerMillerNNPPERSONPER0saidsayVBDOPER0thetheDTOPER0companycompanyNNOPER0isbeVBZOPER0nonoRBOPER0longerlongerRBROPER0lookinglookVBGOPER0forforINOPER0anaDTOPER0equityequityNNOPER0investorinvestorNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NN response)) (PP (IN to) (NP (NP (NNS questions)) (PP (IN after) (NP (DT the) (JJ annual) (NN meeting))))))) (, ,) (NP (NNP Mr.) (NNP Miller)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBZ is) (ADVP (RB no) (RBR longer)) (VP (VBG looking) (PP (IN for) (NP (DT an) (NN equity) (NN investor)))))))) (. .)))
+DuringduringINOPER0thetheDTDATEPER0summersummerNNDATEPER0,,,OPER0WangWangNNPORGPER0executivesexecutiveNNSOPER0hadhaveVBDOPER0saidsayVBNOPER0theytheyPRPOPER0mightmightMDOPER0seekseekVBOPER0outsideoutsideJJOPER0investmentinvestmentNNOPER0...OPER0(ROOT (S (PP (IN During) (NP (DT the) (NN summer))) (, ,) (NP (NNP Wang) (NNS executives)) (VP (VBD had) (VP (VBN said) (SBAR (S (NP (PRP they)) (VP (MD might) (VP (VB seek) (NP (JJ outside) (NN investment)))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Wang) (NNP Laboratories) (NNP Inc.))
+sid=0 spanning 24 until 29 headed by 25 parsed as (NP (NP (NNP Richard) (NNP Miller)) (, ,) (NP (NN president)) (, ,))
+sid=0 spanning 31 until 34 headed by 33 parsed as (NP (DT the) (JJ annual) (NN meeting))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Wang))
+sid=1 spanning 20 until 21 headed by 20 parsed as its
+sid=1 spanning 28 until 29 headed by 28 parsed as its
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=2 spanning 10 until 11 headed by 10 parsed as its
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Miller))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Wang))
+sid=3 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=3 spanning 37 until 38 headed by 37 parsed as its
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Miller))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=4 spanning 31 until 40 headed by 31 parsed as (NP (NP (NNP Wang)) (, ,) (NP (NP (DT a) (JJR minincomputer) (NN maker)) (PP (IN in) (NP (NP (NNP Lowell)) (, ,) (NP (NNP Mass))))))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ annual) (NN meeting))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (NNP Mr.) (NNP Miller))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN company))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (NNP Wang) (NNS executives))
+sid=6 spanning 4 until 5 headed by 4 parsed as Wang
+sid=6 spanning 8 until 9 headed by 8 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Wang) (NNP Laboratories) (NNP Inc.))
+sid=0 spanning 12 until 13 headed by 12 parsed as (NP (NNS agreements))
+sid=0 spanning 14 until 23 headed by 14 parsed as (NP (NN principle) (S (VP (TO to) (VP (VB sell) (NP (DT an) (JJ additional) (QP ($ $) (CD 187) (CD million))) (ADVP (RB shortly))))))
+sid=0 spanning 24 until 26 headed by 25 parsed as (NP (NP (NNP Richard) (NNP Miller)) (, ,) (NP (NN president)) (, ,))
+sid=0 spanning 24 until 29 headed by 25 parsed as (NP (NP (NNP Richard) (NNP Miller)) (, ,) (NP (NN president)) (, ,))
+sid=0 spanning 31 until 34 headed by 33 parsed as (NP (DT the) (JJ annual) (NN meeting))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=1 spanning 2 until 3 headed by 2 parsed as (NP (NNP Wang))
+sid=1 spanning 5 until 33 headed by 6 parsed as (NP (NP (DT an) (NN agreement)) (PP (IN with) (NP (NP (DT a) (`` ``) (JJ major) (JJ financial) (NN firm) ('' '')) (SBAR (S (VP (TO to) (VP (VB sell) (PP (IN for) (NP (QP ($ $) (CD 150) (CD million)))) (NP (NP (PRP$ its) (NML (JJ domestic) (NN equipment)) (NN lease) (NN portfolio)) (CC and) (NP (NP (DT that)) (PP (IN of) (NP (PRP$ its) (NML (NNP Wang) (NNP Credit) (NNP Corp.)) (NN subsidiary))))))))))))
+sid=1 spanning 8 until 33 headed by 12 parsed as (NP (NP (DT a) (`` ``) (JJ major) (JJ financial) (NN firm) ('' '')) (SBAR (S (VP (TO to) (VP (VB sell) (PP (IN for) (NP (QP ($ $) (CD 150) (CD million)))) (NP (NP (PRP$ its) (NML (JJ domestic) (NN equipment)) (NN lease) (NN portfolio)) (CC and) (NP (NP (DT that)) (PP (IN of) (NP (PRP$ its) (NML (NNP Wang) (NNP Credit) (NNP Corp.)) (NN subsidiary))))))))))
+sid=1 spanning 20 until 33 headed by 24 parsed as (NP (NP (PRP$ its) (NML (JJ domestic) (NN equipment)) (NN lease) (NN portfolio)) (CC and) (NP (NP (DT that)) (PP (IN of) (NP (PRP$ its) (NML (NNP Wang) (NNP Credit) (NNP Corp.)) (NN subsidiary)))))
+sid=1 spanning 20 until 25 headed by 24 parsed as (NP (PRP$ its) (NML (JJ domestic) (NN equipment)) (NN lease) (NN portfolio))
+sid=1 spanning 20 until 21 headed by 20 parsed as (PRP$ its)
+sid=1 spanning 26 until 33 headed by 26 parsed as (NP (NP (DT that)) (PP (IN of) (NP (PRP$ its) (NML (NNP Wang) (NNP Credit) (NNP Corp.)) (NN subsidiary))))
+sid=1 spanning 28 until 33 headed by 32 parsed as (NP (PRP$ its) (NML (NNP Wang) (NNP Credit) (NNP Corp.)) (NN subsidiary))
+sid=1 spanning 28 until 29 headed by 28 parsed as (PRP$ its)
+sid=1 spanning 29 until 32 headed by 31 parsed as Corp.
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=2 spanning 7 until 15 headed by 8 parsed as (NP (NP (DT a) (NN portion)) (PP (IN of) (NP (PRP$ its) (JJ European) (NML (JJ real) (NN estate)) (NN unit))))
+sid=2 spanning 10 until 15 headed by 14 parsed as (NP (PRP$ its) (JJ European) (NML (JJ real) (NN estate)) (NN unit))
+sid=2 spanning 10 until 11 headed by 10 parsed as (PRP$ its)
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Miller))
+sid=3 spanning 4 until 5 headed by 4 parsed as (NP (NNP Wang))
+sid=3 spanning 18 until 19 headed by 18 parsed as (NP (PRP it))
+sid=3 spanning 25 until 28 headed by 27 parsed as (NP (NP (NNP Compaq) (NNP Computer) (NNP Corp.)) (, ,) (NP (NNP Houston)))
+sid=3 spanning 25 until 30 headed by 27 parsed as (NP (NP (NNP Compaq) (NNP Computer) (NNP Corp.)) (, ,) (NP (NNP Houston)))
+sid=3 spanning 29 until 30 headed by 29 parsed as (NP (NNP Houston))
+sid=3 spanning 32 until 43 headed by 35 parsed as (NP (NP (DT the) (ADJP (RB previously) (VBN announced)) (NN sale)) (PP (IN of) (NP (PRP$ its) (NML (NNP Stirling) (, ,) (NNP Scotland) (, ,)) (NN plant))))
+sid=3 spanning 37 until 43 headed by 42 parsed as (NP (PRP$ its) (NML (NNP Stirling) (, ,) (NNP Scotland) (, ,)) (NN plant))
+sid=3 spanning 37 until 38 headed by 37 parsed as (PRP$ its)
+sid=3 spanning 38 until 39 headed by 38 parsed as Stirling
+sid=3 spanning 40 until 41 headed by 40 parsed as Scotland
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Miller))
+sid=4 spanning 5 until 9 headed by 8 parsed as (NP (DT the) (JJ next) (CD six) (NNS months))
+sid=4 spanning 9 until 10 headed by 9 parsed as (NP (PRP he))
+sid=4 spanning 28 until 30 headed by 29 parsed as (NP (NN interest) (NNS costs))
+sid=4 spanning 31 until 32 headed by 31 parsed as (NP (NP (NNP Wang)) (, ,) (NP (NP (DT a) (JJR minincomputer) (NN maker)) (PP (IN in) (NP (NP (NNP Lowell)) (, ,) (NP (NNP Mass))))))
+sid=4 spanning 31 until 40 headed by 31 parsed as (NP (NP (NNP Wang)) (, ,) (NP (NP (DT a) (JJR minincomputer) (NN maker)) (PP (IN in) (NP (NP (NNP Lowell)) (, ,) (NP (NNP Mass))))))
+sid=4 spanning 33 until 40 headed by 35 parsed as (NP (NP (DT a) (JJR minincomputer) (NN maker)) (PP (IN in) (NP (NP (NNP Lowell)) (, ,) (NP (NNP Mass)))))
+sid=4 spanning 37 until 38 headed by 37 parsed as (NP (NP (NNP Lowell)) (, ,) (NP (NNP Mass)))
+sid=4 spanning 37 until 40 headed by 37 parsed as (NP (NP (NNP Lowell)) (, ,) (NP (NNP Mass)))
+sid=4 spanning 39 until 40 headed by 39 parsed as (NP (NNP Mass))
+sid=5 spanning 1 until 8 headed by 1 parsed as (NP (NP (NN response)) (PP (IN to) (NP (NP (NNS questions)) (PP (IN after) (NP (DT the) (JJ annual) (NN meeting))))))
+sid=5 spanning 3 until 8 headed by 3 parsed as (NP (NP (NNS questions)) (PP (IN after) (NP (DT the) (JJ annual) (NN meeting))))
+sid=5 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ annual) (NN meeting))
+sid=5 spanning 9 until 11 headed by 10 parsed as (NP (NNP Mr.) (NNP Miller))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN company))
+sid=5 spanning 19 until 22 headed by 21 parsed as (NP (DT an) (NN equity) (NN investor))
+sid=6 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NN summer))
+sid=6 spanning 4 until 6 headed by 5 parsed as (NP (NNP Wang) (NNS executives))
+sid=6 spanning 4 until 5 headed by 4 parsed as Wang
+sid=6 spanning 8 until 9 headed by 8 parsed as (NP (PRP they))
+(end predicted mentions)
+---------gold clusters--------
+17 2 | { 'the annual meeting' 'the annual meeting' }
+5 9 21 11 16 19 12 6 13 0 4 8 | { 'its' 'its' 'Wang' 'Wang' 'Wang , a minincomputer maker in Lowell , Mass' 'the company' 'it' 'its' 'its' 'Wang Laboratories Inc.' 'Wang' 'it' }
+22 20 | { 'they' 'Wang executives' }
+14 18 10 1 3 7 15 | { 'Mr. Miller' 'Mr. Miller' 'Mr. Miller' 'Richard Miller , president ,' 'He' 'He' 'he' }
+(end gold clusters)

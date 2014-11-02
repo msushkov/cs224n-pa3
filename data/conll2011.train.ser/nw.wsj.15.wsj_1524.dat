@@ -1,0 +1,87 @@
+---------gloss--------
+(0) [36m{Lotus Development Corp.}[0m is in [31m{talks}[0m to [35m{sell}[0m [36m{its}[0m Signal stock - quote service to Infotechnology Inc. , the New York parent of Financial News Network , [34m{people familiar with the negotiations}[0m said . 
+(1) [34m{They}[0m said the price would be around $ 10 million . 
+(2) [32m{Signal , which has an estimated 10,000 subscribers and is profitable ,}[0m provides stock quotes over an FM radio band that can be received by [33m{specially equipped personal computers}[0m . 
+(3) [33m{The computers}[0m will display stock prices selected by users . 
+(4) [36m{Lotus , Cambridge , Mass. ,}[0m has been rumored to have [35m{the sale of the four - year - old unit}[0m under consideration for a year . 
+(5) [32m{The business}[0m is n't related to [36m{Lotus 's}[0m main businesses of making computer software and publishing information on compact disks . 
+(end gloss)
+---------document--------
+(nw/wsj/15/wsj_1524); part 000
+sentences:
+LotusLotusNNPORGPER0DevelopmentDevelopmentNNPORGPER0Corp.Corp.NNPORGPER0isbeVBZOPER0ininINOPER0talkstalkNNSOPER0totoTOOPER0sellsellVBOPER0itsitsPRP$OPER0SignalSignalNNPORGPER0stockstockNNOPER0--HYPHOPER0quotequoteNNOPER0serviceserviceNNOPER0totoINOPER0InfotechnologyInfotechnologyNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0thetheDTOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0parentparentNNOPER0ofofINOPER0FinancialFinancialNNPORGPER0NewsNewsNNPORGPER0NetworkNetworkNNPORGPER0,,,OPER0peoplepeopleNNSOPER0familiarfamiliarJJOPER0withwithINOPER0thetheDTOPER0negotiationsnegotiationNNSOPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NNP Lotus) (NNP Development) (NNP Corp.)) (VP (VBZ is) (PP (IN in) (NP (NP (NNS talks)) (S (VP (TO to) (VP (VB sell) (NP (NP (PRP$ its) (NNP Signal) (NML (NN stock) (HYPH -) (NN quote)) (NN service)) (PP (IN to) (NP (NP (NNP Infotechnology) (NNP Inc.)) (, ,) (NP (NP (DT the) (NML (NNP New) (NNP York)) (NN parent)) (PP (IN of) (NP (NML (NNP Financial) (NNP News)) (NNP Network)))))))))))))) (, ,) (NP (NP (NNS people)) (ADJP (JJ familiar) (PP (IN with) (NP (DT the) (NNS negotiations))))) (VP (VBD said)) (. .)))
+TheytheyPRPOPER0saidsayVBDOPER0thetheDTOPER0pricepriceNNOPER0wouldwouldMDOPER0bebeVBOPER0aroundaroundRBOPER0$$$MONEYPER01010CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (PRP They)) (VP (VBD said) (SBAR (S (NP (DT the) (NN price)) (VP (MD would) (VP (VB be) (NP (QP (RB around) ($ $) (CD 10) (CD million)))))))) (. .)))
+SignalSignalNNPORGPER0,,,OPER0whichwhichWDTOPER0hashaveVBZOPER0anaDTCARDINALPER0estimatedestimatedJJCARDINALPER010,00010,000CDCARDINALPER0subscriberssubscriberNNSOPER0andandCCOPER0isbeVBZOPER0profitableprofitableJJOPER0,,,OPER0providesprovideVBZOPER0stockstockNNOPER0quotesquoteNNSOPER0overoverINOPER0anaDTOPER0FMFMNNPOPER0radioradioNNOPER0bandbandNNOPER0thatthatWDTOPER0cancanMDOPER0bebeVBOPER0receivedreceiveVBNOPER0bybyINOPER0speciallyspeciallyRBOPER0equippedequipVBNOPER0personalpersonalJJOPER0computerscomputerNNSOPER0...OPER0(ROOT (S (NP (NP (NNP Signal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ has) (NP (QP (DT an) (JJ estimated) (CD 10,000)) (NNS subscribers))) (CC and) (VP (VBZ is) (ADJP (JJ profitable)))))) (, ,)) (VP (VBZ provides) (NP (NN stock) (NNS quotes)) (PP (IN over) (NP (NP (DT an) (NNP FM) (NN radio) (NN band)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN received) (PP (IN by) (NP (ADJP (RB specially) (VBN equipped)) (JJ personal) (NNS computers))))))))))) (. .)))
+ThetheDTOPER0computerscomputerNNSOPER0willwillMDOPER0displaydisplayVBOPER0stockstockNNOPER0pricespriceNNSOPER0selectedselectVBNOPER0bybyINOPER0usersuserNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNS computers)) (VP (MD will) (VP (VB display) (NP (NP (NN stock) (NNS prices)) (VP (VBN selected) (PP (IN by) (NP (NNS users))))))) (. .)))
+LotusLotusNNPORGPER0,,,OPER0CambridgeCambridgeNNPGPEPER0,,,OPER0Mass.Mass.NNPGPEPER0,,,OPER0hashaveVBZOPER0beenbeVBNOPER0rumoredrumorVBNOPER0totoTOOPER0havehaveVBOPER0thetheDTOPER0salesaleNNOPER0ofofINOPER0thetheDTOPER0fourfourCDDATEPER0--HYPHDATEPER0yearyearNNDATEPER0--HYPHDATEPER0oldoldJJDATEPER0unitunitNNOPER0underunderINOPER0considerationconsiderationNNOPER0forforINOPER0aaDTDATEPER0yearyearNNDATEPER0...OPER0(ROOT (S (NP (NP (NNP Lotus)) (, ,) (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass.))) (, ,)) (VP (VBZ has) (VP (VBN been) (VP (VBN rumored) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT the) (ADJP (NML (CD four) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN unit)))) (PP (IN under) (NP (NP (NN consideration)) (PP (IN for) (NP (DT a) (NN year))))))))))) (. .)))
+ThetheDTOPER0businessbusinessNNOPER0isbeVBZOPER0n'tnotRBOPER0relatedrelateVBNOPER0totoINOPER0LotusLotusNNPORGPER0's'sPOSOPER0mainmainJJOPER0businessesbusinessNNSOPER0ofofINOPER0makingmakeVBGOPER0computercomputerNNOPER0softwaresoftwareNNOPER0andandCCOPER0publishingpublishingNNOPER0informationinformationNNOPER0ononINOPER0compactcompactJJOPER0disksdiskNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN business)) (VP (VBZ is) (RB n't) (VP (VBN related) (PP (IN to) (NP (NP (NP (NNP Lotus) (POS 's)) (JJ main) (NNS businesses)) (PP (IN of) (S (VP (VBG making) (NP (NP (NN computer) (NN software)) (CC and) (NP (NP (NN publishing) (NN information)) (PP (IN on) (NP (JJ compact) (NNS disks)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Lotus) (NNP Development) (NNP Corp.))
+sid=0 spanning 5 until 6 headed by 5 parsed as (NP (NP (NNS talks)) (S (VP (TO to) (VP (VB sell) (NP (NP (PRP$ its) (NNP Signal) (NML (NN stock) (HYPH -) (NN quote)) (NN service)) (PP (IN to) (NP (NP (NNP Infotechnology) (NNP Inc.)) (, ,) (NP (NP (DT the) (NML (NNP New) (NNP York)) (NN parent)) (PP (IN of) (NP (NML (NNP Financial) (NNP News)) (NNP Network)))))))))))
+sid=0 spanning 7 until 8 headed by 7 parsed as sell
+sid=0 spanning 8 until 14 headed by 13 parsed as (NP (NP (PRP$ its) (NNP Signal) (NML (NN stock) (HYPH -) (NN quote)) (NN service)) (PP (IN to) (NP (NP (NNP Infotechnology) (NNP Inc.)) (, ,) (NP (NP (DT the) (NML (NNP New) (NNP York)) (NN parent)) (PP (IN of) (NP (NML (NNP Financial) (NNP News)) (NNP Network)))))))
+sid=0 spanning 8 until 9 headed by 8 parsed as its
+sid=0 spanning 27 until 32 headed by 27 parsed as (NP (NP (NNS people)) (ADJP (JJ familiar) (PP (IN with) (NP (DT the) (NNS negotiations)))))
+sid=0 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NNS negotiations))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=2 spanning 0 until 12 headed by 0 parsed as (NP (NP (NNP Signal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ has) (NP (QP (DT an) (JJ estimated) (CD 10,000)) (NNS subscribers))) (CC and) (VP (VBZ is) (ADJP (JJ profitable)))))) (, ,))
+sid=2 spanning 25 until 29 headed by 28 parsed as (NP (ADJP (RB specially) (VBN equipped)) (JJ personal) (NNS computers))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS computers))
+sid=4 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Lotus)) (, ,) (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass.))) (, ,))
+sid=4 spanning 11 until 21 headed by 12 parsed as (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT the) (ADJP (NML (CD four) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN unit))))
+sid=4 spanning 14 until 21 headed by 20 parsed as (NP (DT the) (ADJP (NML (CD four) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN unit))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN business))
+sid=5 spanning 6 until 8 headed by 6 parsed as (NP (NNP Lotus) (POS 's))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Lotus) (NNP Development) (NNP Corp.))
+sid=0 spanning 5 until 26 headed by 5 parsed as (NP (NP (NNS talks)) (S (VP (TO to) (VP (VB sell) (NP (NP (PRP$ its) (NNP Signal) (NML (NN stock) (HYPH -) (NN quote)) (NN service)) (PP (IN to) (NP (NP (NNP Infotechnology) (NNP Inc.)) (, ,) (NP (NP (DT the) (NML (NNP New) (NNP York)) (NN parent)) (PP (IN of) (NP (NML (NNP Financial) (NNP News)) (NNP Network)))))))))))
+sid=0 spanning 8 until 26 headed by 13 parsed as (NP (NP (PRP$ its) (NNP Signal) (NML (NN stock) (HYPH -) (NN quote)) (NN service)) (PP (IN to) (NP (NP (NNP Infotechnology) (NNP Inc.)) (, ,) (NP (NP (DT the) (NML (NNP New) (NNP York)) (NN parent)) (PP (IN of) (NP (NML (NNP Financial) (NNP News)) (NNP Network)))))))
+sid=0 spanning 8 until 9 headed by 8 parsed as (PRP$ its)
+sid=0 spanning 9 until 10 headed by 9 parsed as Signal
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (NP (NNP Infotechnology) (NNP Inc.)) (, ,) (NP (NP (DT the) (NML (NNP New) (NNP York)) (NN parent)) (PP (IN of) (NP (NML (NNP Financial) (NNP News)) (NNP Network)))))
+sid=0 spanning 15 until 26 headed by 16 parsed as (NP (NP (NNP Infotechnology) (NNP Inc.)) (, ,) (NP (NP (DT the) (NML (NNP New) (NNP York)) (NN parent)) (PP (IN of) (NP (NML (NNP Financial) (NNP News)) (NNP Network)))))
+sid=0 spanning 18 until 26 headed by 21 parsed as (NP (NP (DT the) (NML (NNP New) (NNP York)) (NN parent)) (PP (IN of) (NP (NML (NNP Financial) (NNP News)) (NNP Network))))
+sid=0 spanning 19 until 21 headed by 20 parsed as York
+sid=0 spanning 23 until 26 headed by 25 parsed as (NP (NML (NNP Financial) (NNP News)) (NNP Network))
+sid=0 spanning 27 until 32 headed by 27 parsed as (NP (NP (NNS people)) (ADJP (JJ familiar) (PP (IN with) (NP (DT the) (NNS negotiations)))))
+sid=0 spanning 30 until 32 headed by 31 parsed as (NP (DT the) (NNS negotiations))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP They))
+sid=1 spanning 2 until 4 headed by 3 parsed as (NP (DT the) (NN price))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Signal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ has) (NP (QP (DT an) (JJ estimated) (CD 10,000)) (NNS subscribers))) (CC and) (VP (VBZ is) (ADJP (JJ profitable)))))) (, ,))
+sid=2 spanning 0 until 12 headed by 0 parsed as (NP (NP (NNP Signal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ has) (NP (QP (DT an) (JJ estimated) (CD 10,000)) (NNS subscribers))) (CC and) (VP (VBZ is) (ADJP (JJ profitable)))))) (, ,))
+sid=2 spanning 4 until 8 headed by 7 parsed as (NP (QP (DT an) (JJ estimated) (CD 10,000)) (NNS subscribers))
+sid=2 spanning 13 until 15 headed by 14 parsed as (NP (NN stock) (NNS quotes))
+sid=2 spanning 16 until 29 headed by 19 parsed as (NP (NP (DT an) (NNP FM) (NN radio) (NN band)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN received) (PP (IN by) (NP (ADJP (RB specially) (VBN equipped)) (JJ personal) (NNS computers)))))))))
+sid=2 spanning 25 until 29 headed by 28 parsed as (NP (ADJP (RB specially) (VBN equipped)) (JJ personal) (NNS computers))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNS computers))
+sid=3 spanning 4 until 9 headed by 5 parsed as (NP (NP (NN stock) (NNS prices)) (VP (VBN selected) (PP (IN by) (NP (NNS users)))))
+sid=3 spanning 8 until 9 headed by 8 parsed as (NP (NNS users))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Lotus)) (, ,) (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass.))) (, ,))
+sid=4 spanning 0 until 6 headed by 0 parsed as (NP (NP (NNP Lotus)) (, ,) (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass.))) (, ,))
+sid=4 spanning 2 until 3 headed by 2 parsed as (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass.)))
+sid=4 spanning 2 until 5 headed by 2 parsed as (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass.)))
+sid=4 spanning 4 until 5 headed by 4 parsed as (NP (NNP Mass.))
+sid=4 spanning 11 until 21 headed by 12 parsed as (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT the) (ADJP (NML (CD four) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN unit))))
+sid=4 spanning 14 until 21 headed by 20 parsed as (NP (DT the) (ADJP (NML (CD four) (HYPH -) (NN year)) (HYPH -) (JJ old)) (NN unit))
+sid=4 spanning 15 until 20 headed by 19 parsed as old
+sid=4 spanning 22 until 26 headed by 22 parsed as (NP (NP (NN consideration)) (PP (IN for) (NP (DT a) (NN year))))
+sid=4 spanning 24 until 26 headed by 25 parsed as (NP (DT a) (NN year))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN business))
+sid=5 spanning 6 until 20 headed by 9 parsed as (NP (NP (NP (NNP Lotus) (POS 's)) (JJ main) (NNS businesses)) (PP (IN of) (S (VP (VBG making) (NP (NP (NN computer) (NN software)) (CC and) (NP (NP (NN publishing) (NN information)) (PP (IN on) (NP (JJ compact) (NNS disks)))))))))
+sid=5 spanning 6 until 8 headed by 6 parsed as (NP (NNP Lotus) (POS 's))
+sid=5 spanning 12 until 20 headed by 13 parsed as (NP (NP (NN computer) (NN software)) (CC and) (NP (NP (NN publishing) (NN information)) (PP (IN on) (NP (JJ compact) (NNS disks)))))
+sid=5 spanning 12 until 14 headed by 13 parsed as (NP (NN computer) (NN software))
+sid=5 spanning 15 until 20 headed by 16 parsed as (NP (NP (NN publishing) (NN information)) (PP (IN on) (NP (JJ compact) (NNS disks))))
+sid=5 spanning 18 until 20 headed by 19 parsed as (NP (JJ compact) (NNS disks))
+(end predicted mentions)
+---------gold clusters--------
+1 6 | { 'talks' 'the negotiations' }
+14 8 3 13 | { 'The business' 'Signal , which has an estimated 10,000 subscribers and is profitable ,' 'its Signal stock - quote service' 'the four - year - old unit' }
+10 9 | { 'The computers' 'specially equipped personal computers' }
+5 7 | { 'people familiar with the negotiations' 'They' }
+2 12 | { 'sell' 'the sale of the four - year - old unit' }
+15 11 4 0 | { 'Lotus 's' 'Lotus , Cambridge , Mass. ,' 'its' 'Lotus Development Corp.' }
+(end gold clusters)

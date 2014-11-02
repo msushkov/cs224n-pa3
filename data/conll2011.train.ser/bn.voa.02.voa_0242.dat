@@ -1,0 +1,128 @@
+---------gloss--------
+(0) [1m[34m{Masked gunmen}[0m have shot and [35m{killed}[0m [1m[35m{the Director of Palestinian Television}[0m at [1m[31m{a hotel in Gaza Strip}[0m . 
+(1) The motive for [35m{the murder}[0m and the identity of [1m[34m{the attackers}[0m are still unknown . 
+(2) [36m{Ross Dunn}[0m reports from [1m[36m{Jerusalem}[0m . 
+(3) [1m[34m{Three hooded men}[0m murdered [1m[35m{Hisha Mickey , the Director of the Palestinian Broadcasting Corporation}[0m . 
+(4) Witnesses say that [1m[34m{the gunmen}[0m fired into [1m[35m{Mr. Mickey 's}[0m head and heart outside [1m[31m{the Gaza Beach hotel}[0m before fleeing the area . 
+(5) [35m{The cold - blooded slaying of one of the most prominent people in Palestinian society}[0m has shocked residents of the [1m[32m{Gaza Strip}[0m and West Bank . 
+(6) [1m[35m{Mr. Mickey aged 54}[0m was known to be close to Palestinian leader Yasser Arafat and a member of the powerful Fateh faction of the Palestine Liberation Organization . 
+(7) [1m[35m{Mr. Mickey , who had been meeting friends shortly before the shooting ,}[0m was pronounced dead upon [1m[35m{his}[0m arrival at a nearby hospital . 
+(8) [1m[35m{He}[0m was a father of seven and had served as the Director of [1m[33m{Palestinian Television}[0m since [1m[33m{its}[0m inception in 1994 and later founded the Palestinian satellite channel . 
+(9) [36m{Ross Dunn}[0m for VOA News , [1m[36m{Jerusalem}[0m . 
+(end gloss)
+---------document--------
+(bn/voa/02/voa_0242); part 000
+sentences:
+MaskedmaskedJJOPER0gunmengunmanNNSOPER0havehaveVBPOPER0shotshootVBDOPER0andandCCOPER0killedkillVBDOPER0thetheDTOPER0DirectorDirectorNNPOPER0ofofINOPER0PalestinianpalestinianJJORGPER0TelevisionTelevisionNNPORGPER0atatINOPER0aaDTOPER0hotelhotelNNOPER0ininINOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (JJ Masked) (NNS gunmen)) (VP (VBP have) (VP (VBD shot) (CC and) (VBD killed) (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (JJ Palestinian) (NNP Television)))) (PP (IN at) (NP (NP (DT a) (NN hotel)) (PP (IN in) (NP (NNP Gaza) (NNP Strip))))))) (. .)))
+ThetheDTOPER0motivemotiveNNOPER0forforINOPER0thetheDTOPER0murdermurderNNOPER0andandCCOPER0thetheDTOPER0identityidentityNNOPER0ofofINOPER0thetheDTOPER0attackersattackerNNSOPER0arebeVBPOPER0stillstillRBOPER0unknownunknownJJOPER0...OPER0(ROOT (S (NP (NP (NP (DT The) (NN motive)) (PP (IN for) (NP (DT the) (NN murder)))) (CC and) (NP (NP (DT the) (NN identity)) (PP (IN of) (NP (DT the) (NNS attackers))))) (VP (VBP are) (ADVP (RB still)) (ADJP (JJ unknown))) (. .)))
+RossRossNNPPERSONPER0DunnDunnNNPPERSONPER0reportsreportVBZOPER0fromfromINOPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (S (NP (NNP Ross) (NNP Dunn)) (VP (VBZ reports) (PP (IN from) (NP (NNP Jerusalem)))) (. .)))
+ThreethreeCDCARDINALPER0hoodedhoodedJJOPER0menmanNNSOPER0murderedmurderVBDOPER0HishaHishaNNPPERSONPER0MickeyMickeyNNPPERSONPER0,,,OPER0thetheDTOPER0DirectorDirectorNNPOPER0ofofINOPER0thetheDTORGPER0PalestinianPalestinianNNPORGPER0BroadcastingBroadcastingNNPORGPER0CorporationCorporationNNPORGPER0...OPER0(ROOT (S (NP (CD Three) (JJ hooded) (NNS men)) (VP (VBD murdered) (NP (NP (NNP Hisha) (NNP Mickey)) (, ,) (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (DT the) (NNP Palestinian) (NNP Broadcasting) (NNP Corporation)))))) (. .)))
+WitnesseswitnessNNSOPER0saysayVBPOPER0thatthatINOPER0thetheDTOPER0gunmengunmanNNOPER0firedfireVBDOPER0intointoINOPER0Mr.Mr.NNPOPER0MickeyMickeyNNPPERSONPER0's'sPOSOPER0headheadNNOPER0andandCCOPER0heartheartNNOPER0outsideoutsideINOPER0thetheDTOPER0GazaGazaNNPGPEPER0BeachBeachNNPGPEPER0hotelhotelNNOPER0beforebeforeINOPER0fleeingfleeVBGOPER0thetheDTOPER0areaareaNNOPER0...OPER0(ROOT (S (NP (NNS Witnesses)) (VP (VBP say) (SBAR (IN that) (S (NP (DT the) (NN gunmen)) (VP (VBD fired) (PP (IN into) (NP (NP (NP (NNP Mr.) (NNP Mickey) (POS 's)) (NN head) (CC and) (NN heart)) (PP (IN outside) (NP (DT the) (NML (NNP Gaza) (NNP Beach)) (NN hotel))))) (PP (IN before) (S (VP (VBG fleeing) (NP (DT the) (NN area))))))))) (. .)))
+ThetheDTOPER0coldcoldJJOPER0--HYPHOPER0bloodedbloodedJJOPER0slayingslayingNNOPER0ofofINOPER0oneoneCDCARDINALPER0ofofINOPER0thetheDTOPER0mostmostRBSOPER0prominentprominentJJOPER0peoplepeopleNNSOPER0ininINOPER0PalestinianpalestinianJJOPER0societysocietyNNOPER0hashaveVBZOPER0shockedshockVBNOPER0residentsresidentNNSOPER0ofofINOPER0thetheDTOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0andandCCOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0...OPER0(ROOT (S (NP (NP (DT The) (ADJP (JJ cold) (HYPH -) (JJ blooded)) (NN slaying)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ prominent)) (NNS people)) (PP (IN in) (NP (JJ Palestinian) (NN society)))))))) (VP (VBZ has) (VP (VBN shocked) (NP (NP (NNS residents)) (PP (IN of) (NP (DT the) (NML (NML (NNP Gaza) (NNP Strip)) (CC and) (NML (NNP West) (NNP Bank)))))))) (. .)))
+Mr.Mr.NNPOPER0MickeyMickeyNNPPERSONPER0agedageVBNDATEPER05454CDDATEPER0wasbeVBDOPER0knownknowVBNOPER0totoTOOPER0bebeVBOPER0closecloseJJOPER0totoINOPER0PalestinianpalestinianJJOPER0leaderleaderNNOPER0YasserYasserNNPPERSONPER0ArafatArafatNNPPERSONPER0andandCCOPER0aaDTOPER0membermemberNNOPER0ofofINOPER0thetheDTOPER0powerfulpowerfulJJOPER0FatehFatehNNPORGPER0factionfactionNNOPER0ofofINOPER0thetheDTORGPER0PalestinePalestineNNPORGPER0LiberationLiberationNNPORGPER0OrganizationOrganizationNNPORGPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Mickey)) (VP (VBN aged) (NP (CD 54)))) (VP (VBD was) (VP (VBN known) (S (VP (TO to) (VP (VB be) (ADJP (JJ close) (PP (IN to) (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT the) (JJ powerful) (NNP Fateh) (NN faction)) (PP (IN of) (NP (DT the) (NNP Palestine) (NNP Liberation) (NNP Organization)))))))))))))) (. .)))
+Mr.Mr.NNPOPER0MickeyMickeyNNPPERSONPER0,,,OPER0whowhoWPOPER0hadhaveVBDOPER0beenbeVBNOPER0meetingmeetVBGOPER0friendsfriendNNSOPER0shortlyshortlyRBOPER0beforebeforeINOPER0thetheDTOPER0shootingshootingNNOPER0,,,OPER0wasbeVBDOPER0pronouncedpronounceVBNOPER0deaddeadJJOPER0uponuponINOPER0hishePRP$OPER0arrivalarrivalNNOPER0atatINOPER0aaDTOPER0nearbynearbyJJOPER0hospitalhospitalNNOPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Mickey)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (VP (VBG meeting) (NP (NNS friends)) (PP (ADVP (RB shortly)) (IN before) (NP (DT the) (NN shooting)))))))) (, ,)) (VP (VBD was) (VP (VBN pronounced) (S (ADJP (JJ dead) (PP (IN upon) (NP (NP (PRP$ his) (NN arrival)) (PP (IN at) (NP (DT a) (JJ nearby) (NN hospital))))))))) (. .)))
+HehePRPOPER0wasbeVBDOPER0aaDTOPER0fatherfatherNNOPER0ofofINOPER0sevensevenCDCARDINALPER0andandCCOPER0hadhaveVBDOPER0servedserveVBNOPER0asasINOPER0thetheDTOPER0DirectorDirectorNNPOPER0ofofINOPER0PalestinianpalestinianJJORGPER0TelevisionTelevisionNNPORGPER0sincesinceINOPER0itsitsPRP$OPER0inceptioninceptionNNOPER0ininINOPER019941994CDDATEPER0andandCCDATEPER0laterlaterRBDATEPER0foundedfoundVBDOPER0thetheDTOPER0PalestinianpalestinianJJOPER0satellitesatelliteNNOPER0channelchannelNNOPER0...OPER0(ROOT (S (NP (PRP He)) (VP (VP (VBD was) (NP (NP (DT a) (NN father)) (PP (IN of) (NP (CD seven))))) (CC and) (VP (VBD had) (VP (VBN served) (PP (IN as) (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (JJ Palestinian) (NNP Television))))) (PP (IN since) (NP (NP (PRP$ its) (NN inception)) (PP (IN in) (NP (CD 1994))))))) (CC and) (VP (ADVP (RB later)) (VBD founded) (NP (DT the) (JJ Palestinian) (NN satellite) (NN channel)))) (. .)))
+RossRossNNPPERSONPER0DunnDunnNNPPERSONPER0forforINOPER0VOAVOANNPORGPER0NewsNewsNNPORGPER0,,,OPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP Ross) (NNP Dunn)) (PP (IN for) (NP (NNP VOA) (NNP News))) (, ,) (NP (NNP Jerusalem)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ Masked) (NNS gunmen))
+sid=0 spanning 5 until 6 headed by 5 parsed as killed
+sid=0 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (JJ Palestinian) (NNP Television))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (JJ Palestinian) (NNP Television))
+sid=0 spanning 12 until 17 headed by 13 parsed as (NP (NP (DT a) (NN hotel)) (PP (IN in) (NP (NNP Gaza) (NNP Strip))))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (NNP Gaza) (NNP Strip))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN murder))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS attackers))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ross) (NNP Dunn))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNP Jerusalem))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (CD Three) (JJ hooded) (NNS men))
+sid=3 spanning 4 until 14 headed by 5 parsed as (NP (NP (NNP Hisha) (NNP Mickey)) (, ,) (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (DT the) (NNP Palestinian) (NNP Broadcasting) (NNP Corporation)))))
+sid=3 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (NNP Palestinian) (NNP Broadcasting) (NNP Corporation))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN gunmen))
+sid=4 spanning 7 until 10 headed by 8 parsed as (NP (NNP Mr.) (NNP Mickey) (POS 's))
+sid=4 spanning 14 until 18 headed by 17 parsed as (NP (DT the) (NML (NNP Gaza) (NNP Beach)) (NN hotel))
+sid=5 spanning 0 until 15 headed by 4 parsed as (NP (NP (DT The) (ADJP (JJ cold) (HYPH -) (JJ blooded)) (NN slaying)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ prominent)) (NNS people)) (PP (IN in) (NP (JJ Palestinian) (NN society))))))))
+sid=5 spanning 6 until 15 headed by 6 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ prominent)) (NNS people)) (PP (IN in) (NP (JJ Palestinian) (NN society))))))
+sid=5 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NML (NML (NNP Gaza) (NNP Strip)) (CC and) (NML (NNP West) (NNP Bank))))
+sid=6 spanning 0 until 4 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Mickey)) (VP (VBN aged) (NP (CD 54))))
+sid=7 spanning 0 until 13 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Mickey)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (VP (VBG meeting) (NP (NNS friends)) (PP (ADVP (RB shortly)) (IN before) (NP (DT the) (NN shooting)))))))) (, ,))
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN shooting))
+sid=7 spanning 17 until 18 headed by 17 parsed as his
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 13 until 15 headed by 14 parsed as (NP (JJ Palestinian) (NNP Television))
+sid=8 spanning 16 until 17 headed by 16 parsed as its
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ross) (NNP Dunn))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 2 headed by 1 parsed as (NP (JJ Masked) (NNS gunmen))
+sid=0 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (JJ Palestinian) (NNP Television))))
+sid=0 spanning 9 until 11 headed by 10 parsed as (NP (JJ Palestinian) (NNP Television))
+sid=0 spanning 12 until 17 headed by 13 parsed as (NP (NP (DT a) (NN hotel)) (PP (IN in) (NP (NNP Gaza) (NNP Strip))))
+sid=0 spanning 15 until 17 headed by 16 parsed as (NP (NNP Gaza) (NNP Strip))
+sid=1 spanning 0 until 11 headed by 1 parsed as (NP (NP (NP (DT The) (NN motive)) (PP (IN for) (NP (DT the) (NN murder)))) (CC and) (NP (NP (DT the) (NN identity)) (PP (IN of) (NP (DT the) (NNS attackers)))))
+sid=1 spanning 0 until 5 headed by 1 parsed as (NP (NP (DT The) (NN motive)) (PP (IN for) (NP (DT the) (NN murder))))
+sid=1 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN murder))
+sid=1 spanning 6 until 11 headed by 7 parsed as (NP (NP (DT the) (NN identity)) (PP (IN of) (NP (DT the) (NNS attackers))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (DT the) (NNS attackers))
+sid=2 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ross) (NNP Dunn))
+sid=2 spanning 4 until 5 headed by 4 parsed as (NP (NNP Jerusalem))
+sid=3 spanning 0 until 3 headed by 2 parsed as (NP (CD Three) (JJ hooded) (NNS men))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (NP (NNP Hisha) (NNP Mickey)) (, ,) (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (DT the) (NNP Palestinian) (NNP Broadcasting) (NNP Corporation)))))
+sid=3 spanning 4 until 14 headed by 5 parsed as (NP (NP (NNP Hisha) (NNP Mickey)) (, ,) (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (DT the) (NNP Palestinian) (NNP Broadcasting) (NNP Corporation)))))
+sid=3 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (DT the) (NNP Palestinian) (NNP Broadcasting) (NNP Corporation))))
+sid=3 spanning 10 until 14 headed by 13 parsed as (NP (DT the) (NNP Palestinian) (NNP Broadcasting) (NNP Corporation))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNS Witnesses))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (DT the) (NN gunmen))
+sid=4 spanning 7 until 18 headed by 10 parsed as (NP (NP (NP (NNP Mr.) (NNP Mickey) (POS 's)) (NN head) (CC and) (NN heart)) (PP (IN outside) (NP (DT the) (NML (NNP Gaza) (NNP Beach)) (NN hotel))))
+sid=4 spanning 7 until 10 headed by 8 parsed as (NP (NNP Mr.) (NNP Mickey) (POS 's))
+sid=4 spanning 14 until 18 headed by 17 parsed as (NP (DT the) (NML (NNP Gaza) (NNP Beach)) (NN hotel))
+sid=4 spanning 15 until 17 headed by 16 parsed as Beach
+sid=4 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NN area))
+sid=5 spanning 0 until 15 headed by 4 parsed as (NP (NP (DT The) (ADJP (JJ cold) (HYPH -) (JJ blooded)) (NN slaying)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ prominent)) (NNS people)) (PP (IN in) (NP (JJ Palestinian) (NN society))))))))
+sid=5 spanning 6 until 15 headed by 6 parsed as (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ prominent)) (NNS people)) (PP (IN in) (NP (JJ Palestinian) (NN society))))))
+sid=5 spanning 17 until 25 headed by 17 parsed as (NP (NP (NNS residents)) (PP (IN of) (NP (DT the) (NML (NML (NNP Gaza) (NNP Strip)) (CC and) (NML (NNP West) (NNP Bank))))))
+sid=5 spanning 20 until 22 headed by 21 parsed as (NP (DT the) (NML (NML (NNP Gaza) (NNP Strip)) (CC and) (NML (NNP West) (NNP Bank))))
+sid=5 spanning 19 until 25 headed by 21 parsed as (NP (DT the) (NML (NML (NNP Gaza) (NNP Strip)) (CC and) (NML (NNP West) (NNP Bank))))
+sid=5 spanning 23 until 25 headed by 24 parsed as Bank
+sid=6 spanning 0 until 4 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Mickey)) (VP (VBN aged) (NP (CD 54))))
+sid=6 spanning 2 until 4 headed by 2 parsed as aged
+sid=6 spanning 12 until 14 headed by 13 parsed as (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT the) (JJ powerful) (NNP Fateh) (NN faction)) (PP (IN of) (NP (DT the) (NNP Palestine) (NNP Liberation) (NNP Organization)))))))
+sid=6 spanning 10 until 27 headed by 13 parsed as (NP (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat)) (CC and) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT the) (JJ powerful) (NNP Fateh) (NN faction)) (PP (IN of) (NP (DT the) (NNP Palestine) (NNP Liberation) (NNP Organization)))))))
+sid=6 spanning 10 until 14 headed by 13 parsed as (NP (NML (JJ Palestinian) (NN leader)) (NNP Yasser) (NNP Arafat))
+sid=6 spanning 15 until 27 headed by 16 parsed as (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT the) (JJ powerful) (NNP Fateh) (NN faction)) (PP (IN of) (NP (DT the) (NNP Palestine) (NNP Liberation) (NNP Organization))))))
+sid=6 spanning 18 until 27 headed by 21 parsed as (NP (NP (DT the) (JJ powerful) (NNP Fateh) (NN faction)) (PP (IN of) (NP (DT the) (NNP Palestine) (NNP Liberation) (NNP Organization))))
+sid=6 spanning 20 until 21 headed by 20 parsed as Fateh
+sid=6 spanning 23 until 27 headed by 26 parsed as (NP (DT the) (NNP Palestine) (NNP Liberation) (NNP Organization))
+sid=7 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Mickey)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (VP (VBG meeting) (NP (NNS friends)) (PP (ADVP (RB shortly)) (IN before) (NP (DT the) (NN shooting)))))))) (, ,))
+sid=7 spanning 0 until 13 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Mickey)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (VP (VBG meeting) (NP (NNS friends)) (PP (ADVP (RB shortly)) (IN before) (NP (DT the) (NN shooting)))))))) (, ,))
+sid=7 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Mickey))
+sid=7 spanning 7 until 8 headed by 7 parsed as (NP (NNS friends))
+sid=7 spanning 10 until 12 headed by 11 parsed as (NP (DT the) (NN shooting))
+sid=7 spanning 17 until 23 headed by 18 parsed as (NP (NP (PRP$ his) (NN arrival)) (PP (IN at) (NP (DT a) (JJ nearby) (NN hospital))))
+sid=7 spanning 17 until 18 headed by 17 parsed as (PRP$ his)
+sid=7 spanning 20 until 23 headed by 22 parsed as (NP (DT a) (JJ nearby) (NN hospital))
+sid=8 spanning 0 until 1 headed by 0 parsed as (NP (PRP He))
+sid=8 spanning 2 until 6 headed by 3 parsed as (NP (NP (DT a) (NN father)) (PP (IN of) (NP (CD seven))))
+sid=8 spanning 5 until 6 headed by 5 parsed as (NP (CD seven))
+sid=8 spanning 10 until 15 headed by 11 parsed as (NP (NP (DT the) (NNP Director)) (PP (IN of) (NP (JJ Palestinian) (NNP Television))))
+sid=8 spanning 13 until 15 headed by 14 parsed as (NP (JJ Palestinian) (NNP Television))
+sid=8 spanning 16 until 20 headed by 17 parsed as (NP (NP (PRP$ its) (NN inception)) (PP (IN in) (NP (CD 1994))))
+sid=8 spanning 16 until 17 headed by 16 parsed as (PRP$ its)
+sid=8 spanning 19 until 22 headed by 19 parsed as (NP (CD 1994))
+sid=8 spanning 23 until 27 headed by 26 parsed as (NP (DT the) (JJ Palestinian) (NN satellite) (NN channel))
+sid=9 spanning 0 until 2 headed by 1 parsed as (NP (NNP Ross) (NNP Dunn))
+sid=9 spanning 3 until 5 headed by 4 parsed as (NP (NNP VOA) (NNP News))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+6 1 21 16 | { 'the murder' 'killed' 'the shooting' 'The cold - blooded slaying of one of the most prominent people in Palestinian society' }
+26 8 | { 'Ross Dunn' 'Ross Dunn' }
+15 4 | { 'the Gaza Beach hotel' 'a hotel in Gaza Strip' }
+5 18 | { 'Gaza Strip' 'Gaza Strip' }
+24 12 25 3 | { 'Palestinian Television' 'the Palestinian Broadcasting Corporation' 'its' 'Palestinian Television' }
+10 0 7 13 | { 'Three hooded men' 'Masked gunmen' 'the attackers' 'the gunmen' }
+14 19 2 17 11 20 22 23 | { 'Mr. Mickey 's' 'Mr. Mickey aged 54' 'the Director of Palestinian Television' 'one of the most prominent people in Palestinian society' 'Hisha Mickey , the Director of the Palestinian Broadcasting Corporation' 'Mr. Mickey , who had been meeting friends shortly before the shooting ,' 'his' 'He' }
+9 27 | { 'Jerusalem' 'Jerusalem' }
+(end gold clusters)

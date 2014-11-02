@@ -1,0 +1,139 @@
+---------gloss--------
+(0) From [4m[34m{BBC News in London}[0m , I 'm James Kowling for The World . 
+(1) [3m[35m{It}[0m 's a day of accusation and counter-accusation amid widespread violence in the [4m[31m{West Bank}[0m and Gaza Strip . 
+(2) The worst clashes took place between Palestinians and Israelis in the [4m[31m{West Bank}[0m towns of Ramallah and [4m[35m{Nabulas}[0m . 
+(3) [4m[32m{Palestinian leaders}[0m are accusing [3m[33m{the Israelis}[0m of embarking on a killing rampage . 
+(4) [3m[33m{The Israelis}[0m in turn are accusing [4m[32m{the Palestinian leadership}[0m of failing to meet [3m[35m{today 's}[0m deadline for ending the violence . 
+(5) [3m[34m{John Line}[0m has more . 
+(6) Just as the cease - fire was supposed to be taking hold , some of the most brutal clashes erupted . 
+(7) In [4m[35m{the West Bank town of Nabulas}[0m , [3m[36m{Palestinian demonstrators}[0m were involved in what was a relatively routine demonstration . 
+(8) Suddenly [4m[33m{gunfire}[0m broke out . 
+(9) It 's not clear who started [4m[33m{it}[0m . 
+(10) As [3m[36m{the demonstrators}[0m scattered there was a prolonged gunfight , and this evening [31m{Israeli helicopter gun ships}[0m have used [31m{their}[0m machine guns in a confrontation near the town of Bethlehem . 
+(11) Amidst this tension , [4m[36m{a busload of Israeli soldiers}[0m apparently took a wrong turning into a Palestinian area in the [4m[31m{West Bank}[0m town of Tukaram . 
+(12) [4m[36m{The Israelis}[0m say Palestinian police opened fire causing a number of injuries . 
+(13) [3m[34m{John Line}[0m , [4m[34m{BBC}[0m , Jerusalem . 
+(end gloss)
+---------document--------
+(bn/pri/00/pri_0034); part 000
+sentences:
+FromfromINOPER0BBCBBCNNPORGPER0NewsNewsNNPORGPER0ininINOPER0LondonLondonNNPGPEPER0,,,OPER0IIPRPOPER0'mbeVBPOPER0JamesJamesNNPPERSONPER0KowlingKowlingNNPPERSONPER0forforINOPER0ThetheDTORGPER0WorldWorldNNPORGPER0...OPER0(ROOT (S (PP (IN From) (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP James) (NNP Kowling)) (PP (IN for) (NP (DT The) (NNP World))))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0aaDTOPER0daydayNNOPER0ofofINOPER0accusationaccusationNNOPER0andandCCOPER0counter-accusationcounter-accusationNNOPER0amidamidINOPER0widespreadwidespreadJJOPER0violenceviolenceNNOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0andandCCOPER0GazaGazaNNPLOCPER0StripStripNNPLOCPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN day)) (PP (IN of) (NP (NN accusation) (CC and) (NN counter-accusation)))) (PP (IN amid) (NP (NP (JJ widespread) (NN violence)) (PP (IN in) (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip)))))))) (. .)))
+ThetheDTOPER0worstworstJJSOPER0clashesclashNNSOPER0tooktakeVBDOPER0placeplaceNNOPER0betweenbetweenINOPER0PalestiniansPalestiniansNNPSOPER0andandCCOPER0IsraelisIsraelisNNPSOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0townstownNNSOPER0ofofINOPER0RamallahRamallahNNPGPEPER0andandCCOPER0NabulasNabulasNNPORGPER0...OPER0(ROOT (S (NP (DT The) (JJS worst) (NNS clashes)) (VP (VBD took) (NP (NN place)) (PP (IN between) (NP (NNPS Palestinians) (CC and) (NNPS Israelis))) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NNS towns)) (PP (IN of) (NP (NNP Ramallah) (CC and) (NNP Nabulas)))))) (. .)))
+PalestinianpalestinianJJOPER0leadersleaderNNSOPER0arebeVBPOPER0accusingaccuseVBGOPER0thetheDTOPER0IsraelisIsraelisNNPSOPER0ofofINOPER0embarkingembarkVBGOPER0ononINOPER0aaDTOPER0killingkillingNNOPER0rampagerampageNNOPER0...OPER0(ROOT (S (NP (JJ Palestinian) (NNS leaders)) (VP (VBP are) (VP (VBG accusing) (NP (DT the) (NNPS Israelis)) (PP (IN of) (S (VP (VBG embarking) (PP (IN on) (NP (DT a) (NN killing) (NN rampage)))))))) (. .)))
+ThetheDTOPER0IsraelisIsraelisNNPSOPER0ininINOPER0turnturnNNOPER0arebeVBPOPER0accusingaccuseVBGOPER0thetheDTOPER0PalestinianpalestinianJJOPER0leadershipleadershipNNOPER0ofofINOPER0failingfailVBGOPER0totoTOOPER0meetmeetVBOPER0todaytodayNNDATEPER0's'sPOSOPER0deadlinedeadlineNNOPER0forforINOPER0endingendVBGOPER0thetheDTOPER0violenceviolenceNNOPER0...OPER0(ROOT (S (NP (DT The) (NNPS Israelis)) (PP (IN in) (NP (NN turn))) (VP (VBP are) (VP (VBG accusing) (NP (DT the) (JJ Palestinian) (NN leadership)) (PP (IN of) (S (VP (VBG failing) (S (VP (TO to) (VP (VB meet) (NP (NP (NP (NN today) (POS 's)) (NN deadline)) (PP (IN for) (S (VP (VBG ending) (NP (DT the) (NN violence)))))))))))))) (. .)))
+JohnJohnNNPORGPER0LineLineNNPORGPER0hashaveVBZOPER0moremoreJJROPER0...OPER0(ROOT (S (NP (NNP John) (NNP Line)) (VP (VBZ has) (NP (JJR more))) (. .)))
+JustjustRBOPER0asasINOPER0thetheDTOPER0ceaseceaseNNOPER0--HYPHOPER0firefireNNOPER0wasbeVBDOPER0supposedsupposeVBNOPER0totoTOOPER0bebeVBOPER0takingtakeVBGOPER0holdholdNNOPER0,,,OPER0somesomeDTOPER0ofofINOPER0thetheDTOPER0mostmostRBSOPER0brutalbrutalJJOPER0clashesclashNNSOPER0eruptederuptVBDOPER0...OPER0(ROOT (S (SBAR (ADVP (RB Just)) (IN as) (S (NP (DT the) (NN cease) (HYPH -) (NN fire)) (VP (VBD was) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (VP (VBG taking) (NP (NN hold)))))))))) (, ,) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (RBS most) (JJ brutal) (NNS clashes)))) (VP (VBD erupted)) (. .)))
+IninINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0towntownNNOPER0ofofINOPER0NabulasNabulasNNPORGPER0,,,OPER0PalestinianpalestinianJJOPER0demonstratorsdemonstratorNNSOPER0werebeVBDOPER0involvedinvolveVBNOPER0ininINOPER0whatwhatWPOPER0wasbeVBDOPER0aaDTOPER0relativelyrelativelyRBOPER0routineroutineJJOPER0demonstrationdemonstrationNNOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Nabulas))))) (, ,) (NP (JJ Palestinian) (NNS demonstrators)) (VP (VBD were) (VP (VBN involved) (PP (IN in) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (DT a) (ADJP (RB relatively) (JJ routine)) (NN demonstration)))))))) (. .)))
+SuddenlysuddenlyRBOPER0gunfiregunfireNNOPER0brokebreakVBDOPER0outoutRPOPER0...OPER0(ROOT (S (ADVP (RB Suddenly)) (NP (NN gunfire)) (VP (VBD broke) (PRT (RP out))) (. .)))
+ItitPRPOPER0'sbeVBZOPER0notnotRBOPER0clearclearJJOPER0whowhoWPOPER0startedstartVBDOPER0ititPRPOPER0...OPER0(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADJP (JJ clear)) (SBAR (WHNP (WP who)) (S (VP (VBD started) (NP (PRP it)))))) (. .)))
+AsasINOPER0thetheDTOPER0demonstratorsdemonstratorNNSOPER0scatteredscatterVBNOPER0therethereEXOPER0wasbeVBDOPER0aaDTOPER0prolongedprolongedJJOPER0gunfightgunfightNNOPER0,,,OPER0andandCCOPER0thisthisDTOPER0eveningeveningNNOPER0IsraeliisraeliJJOPER0helicopterhelicopterNNOPER0gungunNNOPER0shipsshipNNSOPER0havehaveVBPOPER0useduseVBNOPER0theirtheyPRP$OPER0machinemachineNNOPER0gunsgunNNSOPER0ininINOPER0aaDTOPER0confrontationconfrontationNNOPER0nearnearINOPER0thetheDTOPER0towntownNNOPER0ofofINOPER0BethlehemBethlehemNNPORGPER0...OPER0(ROOT (S (SBAR (IN As) (S (NP (DT the) (NNS demonstrators)) (VP (VBN scattered)))) (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (JJ prolonged) (NN gunfight)) (, ,) (CC and) (NP (NP (DT this) (NN evening)) (SBAR (S (NP (JJ Israeli) (NN helicopter) (NN gun) (NNS ships)) (VP (VBP have) (VP (VBN used) (NP (PRP$ their) (NN machine) (NNS guns)) (PP (IN in) (NP (NP (DT a) (NN confrontation)) (PP (IN near) (NP (NP (DT the) (NN town)) (PP (IN of) (NP (NNP Bethlehem)))))))))))))) (. .)))
+AmidstamidstINOPER0thisthisDTOPER0tensiontensionNNOPER0,,,OPER0aaDTOPER0busloadbusloadNNOPER0ofofINOPER0IsraeliisraeliJJOPER0soldierssoldierNNSOPER0apparentlyapparentlyRBOPER0tooktakeVBDOPER0aaDTOPER0wrongwrongJJOPER0turningturningNNOPER0intointoINOPER0aaDTOPER0PalestinianPalestinianNNPOPER0areaareaNNOPER0ininINOPER0thetheDTOPER0WestWestNNPLOCPER0BankBankNNPLOCPER0towntownNNOPER0ofofINOPER0TukaramTukaramNNPORGPER0...OPER0(ROOT (S (PP (IN Amidst) (NP (DT this) (NN tension))) (, ,) (NP (NP (DT a) (NN busload)) (PP (IN of) (NP (JJ Israeli) (NNS soldiers)))) (ADVP (RB apparently)) (VP (VBD took) (NP (DT a) (JJ wrong) (NN turning)) (PP (IN into) (NP (DT a) (NNP Palestinian) (NN area))) (PP (IN in) (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Tukaram)))))) (. .)))
+ThetheDTOPER0IsraelisIsraelisNNPSOPER0saysayVBPOPER0PalestinianpalestinianJJOPER0policepoliceNNSOPER0openedopenVBDOPER0firefireNNOPER0causingcauseVBGOPER0aaDTOPER0numbernumberNNOPER0ofofINOPER0injuriesinjuryNNSOPER0...OPER0(ROOT (S (NP (DT The) (NNPS Israelis)) (VP (VBP say) (SBAR (S (NP (JJ Palestinian) (NNS police)) (VP (VBD opened) (NP (NP (NN fire)) (VP (VBG causing) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS injuries)))))))))) (. .)))
+JohnJohnNNPORGPER0LineLineNNPORGPER0,,,OPER0BBCBBCNNPORGPER0,,,OPER0JerusalemJerusalemNNPGPEPER0...OPER0(ROOT (FRAG (NP (NNP John) (NNP Line)) (, ,) (NP (NNP BBC)) (, ,) (NP (NNP Jerusalem)) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 1 until 5 headed by 2 parsed as (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=2 spanning 11 until 13 headed by 12 parsed as Bank
+sid=2 spanning 17 until 18 headed by 17 parsed as Nabulas
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Palestinian) (NNS leaders))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNPS Israelis))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Israelis))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (JJ Palestinian) (NN leadership))
+sid=4 spanning 13 until 15 headed by 13 parsed as (NP (NN today) (POS 's))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP John) (NNP Line))
+sid=7 spanning 1 until 7 headed by 4 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Nabulas))))
+sid=7 spanning 2 until 4 headed by 3 parsed as Bank
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (JJ Palestinian) (NNS demonstrators))
+sid=8 spanning 1 until 2 headed by 1 parsed as (NP (NN gunfire))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=10 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNS demonstrators))
+sid=10 spanning 13 until 17 headed by 16 parsed as (NP (JJ Israeli) (NN helicopter) (NN gun) (NNS ships))
+sid=10 spanning 19 until 20 headed by 19 parsed as their
+sid=11 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT a) (NN busload)) (PP (IN of) (NP (JJ Israeli) (NNS soldiers))))
+sid=11 spanning 20 until 22 headed by 21 parsed as Bank
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Israelis))
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP John) (NNP Line))
+sid=13 spanning 3 until 4 headed by 3 parsed as (NP (NNP BBC))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 1 until 5 headed by 2 parsed as (NP (NP (NNP BBC) (NNP News)) (PP (IN in) (NP (NNP London))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (NNP London))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (PRP I))
+sid=0 spanning 8 until 13 headed by 9 parsed as (NP (NP (NNP James) (NNP Kowling)) (PP (IN for) (NP (DT The) (NNP World))))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (DT The) (NNP World))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=1 spanning 2 until 8 headed by 3 parsed as (NP (NP (DT a) (NN day)) (PP (IN of) (NP (NN accusation) (CC and) (NN counter-accusation))))
+sid=1 spanning 5 until 8 headed by 5 parsed as (NP (NN accusation) (CC and) (NN counter-accusation))
+sid=1 spanning 13 until 15 headed by 14 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=1 spanning 12 until 18 headed by 14 parsed as (NP (DT the) (NML (NML (NNP West) (NNP Bank)) (CC and) (NML (NNP Gaza) (NNP Strip))))
+sid=1 spanning 16 until 18 headed by 17 parsed as Strip
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (JJS worst) (NNS clashes))
+sid=2 spanning 6 until 9 headed by 6 parsed as (NP (NNPS Palestinians) (CC and) (NNPS Israelis))
+sid=2 spanning 10 until 18 headed by 13 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NNS towns)) (PP (IN of) (NP (NNP Ramallah) (CC and) (NNP Nabulas))))
+sid=2 spanning 11 until 13 headed by 12 parsed as Bank
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NNP Ramallah) (CC and) (NNP Nabulas))
+sid=2 spanning 15 until 18 headed by 15 parsed as (NP (NNP Ramallah) (CC and) (NNP Nabulas))
+sid=2 spanning 17 until 18 headed by 17 parsed as Nabulas
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (JJ Palestinian) (NNS leaders))
+sid=3 spanning 4 until 6 headed by 5 parsed as (NP (DT the) (NNPS Israelis))
+sid=3 spanning 9 until 12 headed by 11 parsed as (NP (DT a) (NN killing) (NN rampage))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Israelis))
+sid=4 spanning 6 until 9 headed by 8 parsed as (NP (DT the) (JJ Palestinian) (NN leadership))
+sid=4 spanning 13 until 20 headed by 15 parsed as (NP (NP (NP (NN today) (POS 's)) (NN deadline)) (PP (IN for) (S (VP (VBG ending) (NP (DT the) (NN violence))))))
+sid=4 spanning 13 until 15 headed by 13 parsed as (NP (NN today) (POS 's))
+sid=4 spanning 18 until 20 headed by 19 parsed as (NP (DT the) (NN violence))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NNP John) (NNP Line))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (JJR more))
+sid=6 spanning 2 until 6 headed by 5 parsed as (NP (DT the) (NN cease) (HYPH -) (NN fire))
+sid=6 spanning 13 until 19 headed by 13 parsed as (NP (NP (DT some)) (PP (IN of) (NP (DT the) (RBS most) (JJ brutal) (NNS clashes))))
+sid=6 spanning 15 until 19 headed by 18 parsed as (NP (DT the) (RBS most) (JJ brutal) (NNS clashes))
+sid=7 spanning 1 until 7 headed by 4 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Nabulas))))
+sid=7 spanning 2 until 4 headed by 3 parsed as Bank
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Nabulas))
+sid=7 spanning 8 until 10 headed by 9 parsed as (NP (JJ Palestinian) (NNS demonstrators))
+sid=7 spanning 15 until 19 headed by 18 parsed as (NP (DT a) (ADJP (RB relatively) (JJ routine)) (NN demonstration))
+sid=9 spanning 0 until 1 headed by 0 parsed as (NP (PRP It))
+sid=9 spanning 6 until 7 headed by 6 parsed as (NP (PRP it))
+sid=10 spanning 1 until 3 headed by 2 parsed as (NP (DT the) (NNS demonstrators))
+sid=10 spanning 6 until 30 headed by 8 parsed as (NP (NP (DT a) (JJ prolonged) (NN gunfight)) (, ,) (CC and) (NP (NP (DT this) (NN evening)) (SBAR (S (NP (JJ Israeli) (NN helicopter) (NN gun) (NNS ships)) (VP (VBP have) (VP (VBN used) (NP (PRP$ their) (NN machine) (NNS guns)) (PP (IN in) (NP (NP (DT a) (NN confrontation)) (PP (IN near) (NP (NP (DT the) (NN town)) (PP (IN of) (NP (NNP Bethlehem)))))))))))))
+sid=10 spanning 6 until 9 headed by 8 parsed as (NP (DT a) (JJ prolonged) (NN gunfight))
+sid=10 spanning 11 until 30 headed by 12 parsed as (NP (NP (DT this) (NN evening)) (SBAR (S (NP (JJ Israeli) (NN helicopter) (NN gun) (NNS ships)) (VP (VBP have) (VP (VBN used) (NP (PRP$ their) (NN machine) (NNS guns)) (PP (IN in) (NP (NP (DT a) (NN confrontation)) (PP (IN near) (NP (NP (DT the) (NN town)) (PP (IN of) (NP (NNP Bethlehem))))))))))))
+sid=10 spanning 13 until 17 headed by 16 parsed as (NP (JJ Israeli) (NN helicopter) (NN gun) (NNS ships))
+sid=10 spanning 19 until 22 headed by 21 parsed as (NP (PRP$ their) (NN machine) (NNS guns))
+sid=10 spanning 19 until 20 headed by 19 parsed as (PRP$ their)
+sid=10 spanning 23 until 30 headed by 24 parsed as (NP (NP (DT a) (NN confrontation)) (PP (IN near) (NP (NP (DT the) (NN town)) (PP (IN of) (NP (NNP Bethlehem))))))
+sid=10 spanning 26 until 30 headed by 27 parsed as (NP (NP (DT the) (NN town)) (PP (IN of) (NP (NNP Bethlehem))))
+sid=10 spanning 29 until 30 headed by 29 parsed as (NP (NNP Bethlehem))
+sid=11 spanning 1 until 3 headed by 2 parsed as (NP (DT this) (NN tension))
+sid=11 spanning 4 until 9 headed by 5 parsed as (NP (NP (DT a) (NN busload)) (PP (IN of) (NP (JJ Israeli) (NNS soldiers))))
+sid=11 spanning 7 until 9 headed by 8 parsed as (NP (JJ Israeli) (NNS soldiers))
+sid=11 spanning 11 until 14 headed by 13 parsed as (NP (DT a) (JJ wrong) (NN turning))
+sid=11 spanning 15 until 18 headed by 17 parsed as (NP (DT a) (NNP Palestinian) (NN area))
+sid=11 spanning 19 until 25 headed by 22 parsed as (NP (NP (DT the) (NML (NNP West) (NNP Bank)) (NN town)) (PP (IN of) (NP (NNP Tukaram))))
+sid=11 spanning 20 until 22 headed by 21 parsed as Bank
+sid=11 spanning 24 until 25 headed by 24 parsed as (NP (NNP Tukaram))
+sid=12 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NNPS Israelis))
+sid=12 spanning 3 until 5 headed by 4 parsed as (NP (JJ Palestinian) (NNS police))
+sid=12 spanning 6 until 12 headed by 6 parsed as (NP (NP (NN fire)) (VP (VBG causing) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS injuries))))))
+sid=12 spanning 8 until 12 headed by 9 parsed as (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS injuries))))
+sid=13 spanning 0 until 2 headed by 1 parsed as (NP (NNP John) (NNP Line))
+sid=13 spanning 3 until 4 headed by 3 parsed as (NP (NNP BBC))
+sid=13 spanning 5 until 6 headed by 5 parsed as (NP (NNP Jerusalem))
+(end predicted mentions)
+---------gold clusters--------
+6 7 | { 'the Israelis' 'The Israelis' }
+22 10 | { 'John Line' 'John Line' }
+1 9 | { 'It' 'today 's' }
+16 13 | { 'the demonstrators' 'Palestinian demonstrators' }
+12 3 20 2 | { 'West Bank' 'West Bank' 'West Bank' 'West Bank' }
+5 8 | { 'Palestinian leaders' 'the Palestinian leadership' }
+15 14 | { 'it' 'gunfire' }
+23 0 | { 'BBC' 'BBC News in London' }
+4 11 | { 'Nabulas' 'the West Bank town of Nabulas' }
+21 19 | { 'The Israelis' 'a busload of Israeli soldiers' }
+17 18 | { 'Israeli helicopter gun ships' 'their' }
+(end gold clusters)

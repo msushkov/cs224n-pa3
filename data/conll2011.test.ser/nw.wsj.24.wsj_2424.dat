@@ -1,0 +1,87 @@
+---------gloss--------
+(0) [33m{Giant Group Ltd.}[0m said [33m{it}[0m terminated negotiations for the purchase of [32m{Aspen Airways , a Denver - based regional carrier that operates the United Express connector service under contract to UAL Corp. 's United Airlines}[0m . 
+(1) [33m{Giant , a Beverly Hills , Calif. , collection of companies that is controlled by Hollywood producer Burt Sugarman ,}[0m did n't give a reason for halting [33m{its}[0m plan to acquire [32m{the airline}[0m , and [32m{Aspen}[0m officials could n't be reached for comment . 
+(2) [33m{Giant}[0m agreed last month to purchase [32m{the carrier}[0m . 
+(3) [33m{Giant}[0m has n't ever disclosed the proposed price , although Avmark Inc. , an Arlington , Va. - based aircraft consulting concern , has valued [32m{Aspen}[0m 's fleet at about $ 46 million . 
+(4) [32m{The airline}[0m would have become the latest in a peculiar blend of [33m{Giant}[0m companies , which are involved in making cement , recycling newsprint and operating fast - food restaurants . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2424); part 000
+sentences:
+GiantGiantNNPORGPER0GroupGroupNNPORGPER0Ltd.Ltd.NNPORGPER0saidsayVBDOPER0ititPRPOPER0terminatedterminateVBDOPER0negotiationsnegotiationNNSOPER0forforINOPER0thetheDTOPER0purchasepurchaseNNOPER0ofofINOPER0AspenAspenNNPORGPER0AirwaysAirwaysNNPORGPER0,,,OPER0aaDTOPER0DenverDenverNNPGPEPER0--HYPHOPER0basedbaseVBNOPER0regionalregionalJJOPER0carriercarrierNNOPER0thatthatWDTOPER0operatesoperateVBZOPER0thetheDTOPER0UnitedUnitedNNPORGPER0ExpressExpressNNPORGPER0connectorconnectorNNOPER0serviceserviceNNOPER0underunderINOPER0contractcontractNNOPER0totoINOPER0UALUALNNPORGPER0Corp.Corp.NNPORGPER0's'sPOSORGPER0UnitedUnitedNNPORGPER0AirlinesAirlinesNNPSORGPER0...OPER0(ROOT (S (NP (NNP Giant) (NNP Group) (NNP Ltd.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD terminated) (NP (NNS negotiations)) (PP (IN for) (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (NP (NNP Aspen) (NNP Airways)) (, ,) (NP (NP (DT a) (ADJP (NNP Denver) (HYPH -) (VBN based)) (JJ regional) (NN carrier)) (SBAR (WHNP (WDT that)) (S (VP (VBZ operates) (NP (DT the) (NML (NNP United) (NNP Express)) (NN connector) (NN service)) (PP (IN under) (NP (NP (NN contract)) (PP (IN to) (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NNP United) (NNPS Airlines))))))))))))))))) (. .)))
+GiantGiantNNPORGPER0,,,OPER0aaDTOPER0BeverlyBeverlyNNPGPEPER0HillsHillsNNPGPEPER0,,,OPER0Calif.Calif.NNPGPEPER0,,,OPER0collectioncollectionNNOPER0ofofINOPER0companiescompanyNNSOPER0thatthatWDTOPER0isbeVBZOPER0controlledcontrolVBNOPER0bybyINOPER0HollywoodHollywoodNNPGPEPER0producerproducerNNOPER0BurtBurtNNPPERSONPER0SugarmanSugarmanNNPPERSONPER0,,,OPER0diddoVBDOPER0n'tnotRBOPER0givegiveVBOPER0aaDTOPER0reasonreasonNNOPER0forforINOPER0haltinghaltVBGOPER0itsitsPRP$OPER0planplanNNOPER0totoTOOPER0acquireacquireVBOPER0thetheDTOPER0airlineairlineNNOPER0,,,OPER0andandCCOPER0AspenAspenNNPORGPER0officialsofficialNNSOPER0couldcouldMDOPER0n'tnotRBOPER0bebeVBOPER0reachedreachVBNOPER0forforINOPER0commentcommentNNOPER0...OPER0(ROOT (S (S (NP (NP (NNP Giant)) (, ,) (NP (NP (DT a) (NML (NML (NNP Beverly) (NNP Hills)) (, ,) (NNP Calif.) (, ,)) (NN collection)) (PP (IN of) (NP (NP (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (NML (NNP Hollywood) (NN producer)) (NNP Burt) (NNP Sugarman)))))))))) (, ,)) (VP (VBD did) (RB n't) (VP (VB give) (NP (NP (DT a) (NN reason)) (PP (IN for) (S (VP (VBG halting) (NP (PRP$ its) (NN plan) (S (VP (TO to) (VP (VB acquire) (NP (DT the) (NN airline))))))))))))) (, ,) (CC and) (S (NP (NNP Aspen) (NNS officials)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment))))))) (. .)))
+GiantGiantNNPORGPER0agreedagreeVBDOPER0lastlastJJDATEPER0monthmonthNNDATEPER0totoTOOPER0purchasepurchaseVBOPER0thetheDTOPER0carriercarrierNNOPER0...OPER0(ROOT (S (NP (NNP Giant)) (VP (VBD agreed) (NP (JJ last) (NN month)) (S (VP (TO to) (VP (VB purchase) (NP (DT the) (NN carrier)))))) (. .)))
+GiantGiantNNPORGPER0hashaveVBZOPER0n'tnotRBOPER0evereverRBOPER0discloseddiscloseVBNOPER0thetheDTOPER0proposedproposedJJOPER0pricepriceNNOPER0,,,OPER0althoughalthoughINOPER0AvmarkAvmarkNNPORGPER0Inc.Inc.NNPORGPER0,,,OPER0anaDTOPER0ArlingtonArlingtonNNPGPEPER0,,,OPER0Va.Va.NNPGPEPER0--HYPHOPER0basedbaseVBNOPER0aircraftaircraftNNOPER0consultingconsultingNNOPER0concernconcernNNOPER0,,,OPER0hashaveVBZOPER0valuedvalueVBNOPER0AspenAspenNNPORGPER0's'sPOSOPER0fleetfleetNNOPER0atatINOPER0aboutaboutRBMONEYPER0$$$MONEYPER04646CDMONEYPER0millionmillionCDMONEYPER0...OPER0(ROOT (S (NP (NNP Giant)) (VP (VBZ has) (RB n't) (ADVP (RB ever)) (VP (VBN disclosed) (NP (DT the) (JJ proposed) (NN price)) (, ,) (SBAR (IN although) (S (NP (NP (NNP Avmark) (NNP Inc.)) (, ,) (NP (DT an) (ADJP (NML (NNP Arlington) (, ,) (NNP Va.)) (HYPH -) (VBN based)) (NML (NN aircraft) (NN consulting)) (NN concern)) (, ,)) (VP (VBZ has) (VP (VBN valued) (NP (NP (NNP Aspen) (POS 's)) (NN fleet)) (PP (IN at) (NP (QP (RB about) ($ $) (CD 46) (CD million)))))))))) (. .)))
+ThetheDTOPER0airlineairlineNNOPER0wouldwouldMDOPER0havehaveVBOPER0becomebecomeVBNOPER0thetheDTOPER0latestlatestJJSOPER0ininINOPER0aaDTOPER0peculiarpeculiarJJOPER0blendblendNNOPER0ofofINOPER0GiantgiantJJORGPER0companiescompanyNNSOPER0,,,OPER0whichwhichWDTOPER0arebeVBPOPER0involvedinvolvedJJOPER0ininINOPER0makingmakeVBGOPER0cementcementNNOPER0,,,OPER0recyclingrecycleVBGOPER0newsprintnewsprintNNOPER0andandCCOPER0operatingoperatingNNOPER0fastfastJJOPER0--HYPHOPER0foodfoodNNOPER0restaurantsrestaurantNNSOPER0...OPER0(ROOT (S (NP (DT The) (NN airline)) (VP (MD would) (VP (VB have) (VP (VBN become) (NP (NP (DT the) (JJS latest)) (PP (IN in) (NP (NP (DT a) (JJ peculiar) (NN blend)) (PP (IN of) (NP (NP (JJ Giant) (NNS companies)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ involved) (PP (IN in) (S (VP (VBG making) (NP (NN cement))))))))))) (, ,) (PP (VBG recycling) (NP (NML (NN newsprint) (CC and) (NN operating)) (NML (JJ fast) (HYPH -) (NN food)) (NNS restaurants))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Giant) (NNP Group) (NNP Ltd.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 11 until 35 headed by 12 parsed as (NP (NP (NNP Aspen) (NNP Airways)) (, ,) (NP (NP (DT a) (ADJP (NNP Denver) (HYPH -) (VBN based)) (JJ regional) (NN carrier)) (SBAR (WHNP (WDT that)) (S (VP (VBZ operates) (NP (DT the) (NML (NNP United) (NNP Express)) (NN connector) (NN service)) (PP (IN under) (NP (NP (NN contract)) (PP (IN to) (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NNP United) (NNPS Airlines))))))))))
+sid=1 spanning 0 until 20 headed by 0 parsed as (NP (NP (NNP Giant)) (, ,) (NP (NP (DT a) (NML (NML (NNP Beverly) (NNP Hills)) (, ,) (NNP Calif.) (, ,)) (NN collection)) (PP (IN of) (NP (NP (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (NML (NNP Hollywood) (NN producer)) (NNP Burt) (NNP Sugarman)))))))))) (, ,))
+sid=1 spanning 10 until 11 headed by 10 parsed as (NP (NP (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (NML (NNP Hollywood) (NN producer)) (NNP Burt) (NNP Sugarman))))))))
+sid=1 spanning 27 until 28 headed by 27 parsed as its
+sid=1 spanning 31 until 33 headed by 32 parsed as (NP (DT the) (NN airline))
+sid=1 spanning 35 until 36 headed by 35 parsed as Aspen
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Giant))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN carrier))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Giant))
+sid=3 spanning 25 until 26 headed by 25 parsed as (NP (NNP Aspen) (POS 's))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN airline))
+sid=4 spanning 12 until 30 headed by 13 parsed as (NP (NP (JJ Giant) (NNS companies)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ involved) (PP (IN in) (S (VP (VBG making) (NP (NN cement))))))))))
+sid=4 spanning 12 until 13 headed by 12 parsed as Giant
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NNP Giant) (NNP Group) (NNP Ltd.))
+sid=0 spanning 4 until 5 headed by 4 parsed as (NP (PRP it))
+sid=0 spanning 6 until 7 headed by 6 parsed as (NP (NNS negotiations))
+sid=0 spanning 8 until 35 headed by 9 parsed as (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (NP (NNP Aspen) (NNP Airways)) (, ,) (NP (NP (DT a) (ADJP (NNP Denver) (HYPH -) (VBN based)) (JJ regional) (NN carrier)) (SBAR (WHNP (WDT that)) (S (VP (VBZ operates) (NP (DT the) (NML (NNP United) (NNP Express)) (NN connector) (NN service)) (PP (IN under) (NP (NP (NN contract)) (PP (IN to) (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NNP United) (NNPS Airlines))))))))))))
+sid=0 spanning 11 until 13 headed by 12 parsed as (NP (NP (NNP Aspen) (NNP Airways)) (, ,) (NP (NP (DT a) (ADJP (NNP Denver) (HYPH -) (VBN based)) (JJ regional) (NN carrier)) (SBAR (WHNP (WDT that)) (S (VP (VBZ operates) (NP (DT the) (NML (NNP United) (NNP Express)) (NN connector) (NN service)) (PP (IN under) (NP (NP (NN contract)) (PP (IN to) (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NNP United) (NNPS Airlines))))))))))
+sid=0 spanning 11 until 35 headed by 12 parsed as (NP (NP (NNP Aspen) (NNP Airways)) (, ,) (NP (NP (DT a) (ADJP (NNP Denver) (HYPH -) (VBN based)) (JJ regional) (NN carrier)) (SBAR (WHNP (WDT that)) (S (VP (VBZ operates) (NP (DT the) (NML (NNP United) (NNP Express)) (NN connector) (NN service)) (PP (IN under) (NP (NP (NN contract)) (PP (IN to) (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NNP United) (NNPS Airlines))))))))))
+sid=0 spanning 14 until 35 headed by 19 parsed as (NP (NP (DT a) (ADJP (NNP Denver) (HYPH -) (VBN based)) (JJ regional) (NN carrier)) (SBAR (WHNP (WDT that)) (S (VP (VBZ operates) (NP (DT the) (NML (NNP United) (NNP Express)) (NN connector) (NN service)) (PP (IN under) (NP (NP (NN contract)) (PP (IN to) (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NNP United) (NNPS Airlines)))))))))
+sid=0 spanning 15 until 16 headed by 15 parsed as Denver
+sid=0 spanning 22 until 27 headed by 26 parsed as (NP (DT the) (NML (NNP United) (NNP Express)) (NN connector) (NN service))
+sid=0 spanning 23 until 25 headed by 24 parsed as Express
+sid=0 spanning 28 until 35 headed by 28 parsed as (NP (NP (NN contract)) (PP (IN to) (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NNP United) (NNPS Airlines))))
+sid=0 spanning 30 until 35 headed by 34 parsed as (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NNP United) (NNPS Airlines))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NP (NNP Giant)) (, ,) (NP (NP (DT a) (NML (NML (NNP Beverly) (NNP Hills)) (, ,) (NNP Calif.) (, ,)) (NN collection)) (PP (IN of) (NP (NP (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (NML (NNP Hollywood) (NN producer)) (NNP Burt) (NNP Sugarman)))))))))) (, ,))
+sid=1 spanning 0 until 20 headed by 0 parsed as (NP (NP (NNP Giant)) (, ,) (NP (NP (DT a) (NML (NML (NNP Beverly) (NNP Hills)) (, ,) (NNP Calif.) (, ,)) (NN collection)) (PP (IN of) (NP (NP (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (NML (NNP Hollywood) (NN producer)) (NNP Burt) (NNP Sugarman)))))))))) (, ,))
+sid=1 spanning 2 until 19 headed by 8 parsed as (NP (NP (DT a) (NML (NML (NNP Beverly) (NNP Hills)) (, ,) (NNP Calif.) (, ,)) (NN collection)) (PP (IN of) (NP (NP (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (NML (NNP Hollywood) (NN producer)) (NNP Burt) (NNP Sugarman))))))))))
+sid=1 spanning 3 until 5 headed by 4 parsed as Hills
+sid=1 spanning 6 until 7 headed by 6 parsed as Calif.
+sid=1 spanning 10 until 19 headed by 10 parsed as (NP (NP (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN controlled) (PP (IN by) (NP (NML (NNP Hollywood) (NN producer)) (NNP Burt) (NNP Sugarman))))))))
+sid=1 spanning 17 until 19 headed by 18 parsed as (NP (NML (NNP Hollywood) (NN producer)) (NNP Burt) (NNP Sugarman))
+sid=1 spanning 15 until 19 headed by 18 parsed as (NP (NML (NNP Hollywood) (NN producer)) (NNP Burt) (NNP Sugarman))
+sid=1 spanning 15 until 16 headed by 15 parsed as Hollywood
+sid=1 spanning 23 until 33 headed by 24 parsed as (NP (NP (DT a) (NN reason)) (PP (IN for) (S (VP (VBG halting) (NP (PRP$ its) (NN plan) (S (VP (TO to) (VP (VB acquire) (NP (DT the) (NN airline))))))))))
+sid=1 spanning 27 until 33 headed by 28 parsed as (NP (PRP$ its) (NN plan) (S (VP (TO to) (VP (VB acquire) (NP (DT the) (NN airline))))))
+sid=1 spanning 27 until 28 headed by 27 parsed as (PRP$ its)
+sid=1 spanning 31 until 33 headed by 32 parsed as (NP (DT the) (NN airline))
+sid=1 spanning 35 until 37 headed by 36 parsed as (NP (NNP Aspen) (NNS officials))
+sid=1 spanning 35 until 36 headed by 35 parsed as Aspen
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Giant))
+sid=2 spanning 2 until 4 headed by 3 parsed as (NP (JJ last) (NN month))
+sid=2 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN carrier))
+sid=3 spanning 0 until 1 headed by 0 parsed as (NP (NNP Giant))
+sid=3 spanning 5 until 8 headed by 7 parsed as (NP (DT the) (JJ proposed) (NN price))
+sid=3 spanning 10 until 12 headed by 11 parsed as (NP (NP (NNP Avmark) (NNP Inc.)) (, ,) (NP (DT an) (ADJP (NML (NNP Arlington) (, ,) (NNP Va.)) (HYPH -) (VBN based)) (NML (NN aircraft) (NN consulting)) (NN concern)) (, ,))
+sid=3 spanning 10 until 23 headed by 11 parsed as (NP (NP (NNP Avmark) (NNP Inc.)) (, ,) (NP (DT an) (ADJP (NML (NNP Arlington) (, ,) (NNP Va.)) (HYPH -) (VBN based)) (NML (NN aircraft) (NN consulting)) (NN concern)) (, ,))
+sid=3 spanning 13 until 22 headed by 21 parsed as (NP (DT an) (ADJP (NML (NNP Arlington) (, ,) (NNP Va.)) (HYPH -) (VBN based)) (NML (NN aircraft) (NN consulting)) (NN concern))
+sid=3 spanning 14 until 15 headed by 14 parsed as Arlington
+sid=3 spanning 16 until 17 headed by 16 parsed as Va.
+sid=3 spanning 25 until 28 headed by 27 parsed as (NP (NP (NNP Aspen) (POS 's)) (NN fleet))
+sid=3 spanning 25 until 27 headed by 25 parsed as (NP (NNP Aspen) (POS 's))
+sid=4 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN airline))
+sid=4 spanning 5 until 30 headed by 6 parsed as (NP (NP (DT the) (JJS latest)) (PP (IN in) (NP (NP (DT a) (JJ peculiar) (NN blend)) (PP (IN of) (NP (NP (JJ Giant) (NNS companies)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ involved) (PP (IN in) (S (VP (VBG making) (NP (NN cement))))))))))) (, ,) (PP (VBG recycling) (NP (NML (NN newsprint) (CC and) (NN operating)) (NML (JJ fast) (HYPH -) (NN food)) (NNS restaurants))))))
+sid=4 spanning 8 until 30 headed by 10 parsed as (NP (NP (DT a) (JJ peculiar) (NN blend)) (PP (IN of) (NP (NP (JJ Giant) (NNS companies)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ involved) (PP (IN in) (S (VP (VBG making) (NP (NN cement))))))))))) (, ,) (PP (VBG recycling) (NP (NML (NN newsprint) (CC and) (NN operating)) (NML (JJ fast) (HYPH -) (NN food)) (NNS restaurants))))
+sid=4 spanning 12 until 21 headed by 13 parsed as (NP (NP (JJ Giant) (NNS companies)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (JJ involved) (PP (IN in) (S (VP (VBG making) (NP (NN cement))))))))))
+sid=4 spanning 12 until 14 headed by 13 parsed as (NP (JJ Giant) (NNS companies))
+sid=4 spanning 12 until 13 headed by 12 parsed as Giant
+sid=4 spanning 23 until 30 headed by 29 parsed as (NP (NML (NN newsprint) (CC and) (NN operating)) (NML (JJ fast) (HYPH -) (NN food)) (NNS restaurants))
+(end predicted mentions)
+---------gold clusters--------
+4 13 | { 'companies' 'Giant companies , which are involved in making cement , recycling newsprint and operating fast - food restaurants' }
+11 9 6 2 12 7 | { 'Aspen' 'the carrier' 'the airline' 'Aspen Airways , a Denver - based regional carrier that operates the United Express connector service under contract to UAL Corp. 's United Airlines' 'The airline' 'Aspen' }
+1 3 0 10 5 14 8 | { 'it' 'Giant , a Beverly Hills , Calif. , collection of companies that is controlled by Hollywood producer Burt Sugarman ,' 'Giant Group Ltd.' 'Giant' 'its' 'Giant' 'Giant' }
+(end gold clusters)

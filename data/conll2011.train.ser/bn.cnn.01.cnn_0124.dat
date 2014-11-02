@@ -1,0 +1,98 @@
+---------gloss--------
+(0) [4m[32m{Pepsi}[0m hopes to take [4m[31m{Quaker Oats}[0m to a whole new level . 
+(1) I 'm Myron Kandel at the cnnfn newsdesk in New York . 
+(2) [4m[32m{Pepsi}[0m says [4m[32m{it}[0m expects to double [4m[31m{Quaker 's}[0m snack food growth rate . 
+(3) After a month - long courtship , [4m[32m{they}[0m [4m[33m{agreed}[0m to buy [4m[31m{Quaker Oats}[0m for [4m[34m{$ 13.4 billion of their stock , but the assumption of $ 761 million in debt}[0m . 
+(4) [4m[34m{That}[0m comes to 2 % less a share than [4m[32m{Pepsi 's}[0m original offer . 
+(5) [4m[33m{The deal}[0m gives [4m[32m{Pepsi}[0m access to [4m[31m{Quaker Oats '}[0m Gatorade sport drink as well as [4m[31m{Quaker 's}[0m profitable snacks business , which makes up about 60 % of [4m[31m{its}[0m revenue . 
+(6) Besides [3m[36m{Gatorade}[0m , [4m[31m{they}[0m make such products as granola bars , Captain Crunch cereal . 
+(7) In addition to soft drink , [4m[32m{Pepsi}[0m also owns Tropicana juices and Frito Lay products . 
+(end gloss)
+---------document--------
+(bn/cnn/01/cnn_0124); part 000
+sentences:
+PepsiPepsiNNPORGPER0hopeshopeVBZOPER0totoTOOPER0taketakeVBOPER0QuakerQuakerNNPORGPER0OatsOatsNNPORGPER0totoINOPER0aaDTOPER0wholewholeJJOPER0newnewJJOPER0levellevelNNOPER0...OPER0(ROOT (S (NP (NNP Pepsi)) (VP (VBZ hopes) (S (VP (TO to) (VP (VB take) (NP (NNP Quaker) (NNP Oats)) (PP (IN to) (NP (DT a) (JJ whole) (JJ new) (NN level))))))) (. .)))
+IIPRPOPER0'mbeVBPOPER0MyronMyronNNPPERSONPER0KandelKandelNNPPERSONPER0atatINOPER0thetheDTOPER0cnnfncnnfnNNPOPER0newsdesknewsdeskNNOPER0ininINOPER0NewNewNNPGPEPER0YorkYorkNNPGPEPER0...OPER0(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP Myron) (NNP Kandel)) (PP (IN at) (NP (NP (DT the) (NNP cnnfn) (NN newsdesk)) (PP (IN in) (NP (NNP New) (NNP York))))))) (. .)))
+PepsiPepsiNNPORGPER0sayssayVBZOPER0ititPRPOPER0expectsexpectVBZOPER0totoTOOPER0doubledoubleVBOPER0QuakerQuakerNNPORGPER0's'sPOSOPER0snacksnackNNOPER0foodfoodNNOPER0growthgrowthNNOPER0raterateNNOPER0...OPER0(ROOT (S (NP (NNP Pepsi)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB double) (NP (NP (NNP Quaker) (POS 's)) (NML (NN snack) (NN food)) (NN growth) (NN rate))))))))) (. .)))
+AfterafterINOPER0aaDTOPER0monthmonthNNDATEPER0--HYPHOPER0longlongJJOPER0courtshipcourtshipNNOPER0,,,OPER0theytheyPRPOPER0agreedagreeVBDOPER0totoTOOPER0buybuyVBOPER0QuakerQuakerNNPORGPER0OatsOatsNNPORGPER0forforINOPER0$$$MONEYPER013.413.4CDMONEYPER0billionbillionCDMONEYPER0ofofINOPER0theirtheyPRP$OPER0stockstockNNOPER0,,,OPER0butbutCCOPER0thetheDTOPER0assumptionassumptionNNOPER0ofofINOPER0$$$MONEYPER0761761CDMONEYPER0millionmillionCDMONEYPER0ininINOPER0debtdebtNNOPER0...OPER0(ROOT (S (PP (IN After) (NP (DT a) (ADJP (NN month) (HYPH -) (JJ long)) (NN courtship))) (, ,) (NP (PRP they)) (VP (VBD agreed) (S (VP (TO to) (VP (VB buy) (NP (NNP Quaker) (NNP Oats)) (PP (IN for) (NP (NP (NP (QP ($ $) (CD 13.4) (CD billion))) (PP (IN of) (NP (PRP$ their) (NN stock)))) (, ,) (CC but) (NP (NP (DT the) (NN assumption)) (PP (IN of) (NP (NP (QP ($ $) (CD 761) (CD million))) (PP (IN in) (NP (NN debt)))))))))))) (. .)))
+ThatthatDTOPER0comescomeVBZOPER0totoINOPER022CDPERCENTPER0%%NNPERCENTPER0lesslessJJROPER0aaDTOPER0shareshareNNOPER0thanthanINOPER0PepsiPepsiNNPORGPER0's'sPOSOPER0originaloriginalJJOPER0offerofferNNOPER0...OPER0(ROOT (S (NP (DT That)) (VP (VBZ comes) (PP (IN to) (NP (NP (NP (ADJP (NP (CD 2) (NN %)) (JJR less))) (NP (DT a) (NN share))) (PP (IN than) (NP (NP (NNP Pepsi) (POS 's)) (JJ original) (NN offer)))))) (. .)))
+ThetheDTOPER0dealdealNNOPER0givesgiveVBZOPER0PepsiPepsiNNPORGPER0accessaccessNNOPER0totoINOPER0QuakerQuakerNNPORGPER0OatsOatsNNPORGPER0''POSOPER0GatoradeGatoradeNNPPRODUCTPER0sportsportNNOPER0drinkdrinkNNOPER0asasRBOPER0wellwellRBOPER0asasINOPER0QuakerQuakerNNPORGPER0's'sPOSOPER0profitableprofitableJJOPER0snackssnackNNSOPER0businessbusinessNNOPER0,,,OPER0whichwhichWDTOPER0makesmakeVBZOPER0upupRPOPER0aboutaboutRBPERCENTPER06060CDPERCENTPER0%%NNPERCENTPER0ofofINOPER0itsitsPRP$OPER0revenuerevenueNNOPER0...OPER0(ROOT (S (NP (DT The) (NN deal)) (VP (VBZ gives) (NP (NNP Pepsi)) (NP (NP (NN access)) (PP (IN to) (NP (NP (NP (NP (NNP Quaker) (NNP Oats)) (POS ')) (NNP Gatorade) (NN sport) (NN drink)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNP Quaker) (POS 's)) (JJ profitable) (NNS snacks) (NN business))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (PRT (RP up)) (NP (NP (QP (RB about) (CD 60)) (NN %)) (PP (IN of) (NP (PRP$ its) (NN revenue)))))))) (. .)))
+BesidesbesidesINOPER0GatoradeGatoradeNNPPERSONPER0,,,OPER0theytheyPRPOPER0makemakeVBPOPER0suchsuchJJOPER0productsproductNNSOPER0asasINOPER0granolagranolumNNOPER0barsbarNNSOPER0,,,OPER0CaptainCaptainNNPPRODUCTPER0CrunchcrunchVBPRODUCTPER0cerealcerealNNOPER0...OPER0(ROOT (S (PP (IN Besides) (NP (NNP Gatorade))) (, ,) (NP (PRP they)) (VP (VBP make) (NP (NP (JJ such) (NNS products)) (PP (IN as) (NP (NN granola) (NNS bars)))) (, ,) (S (NP (NNP Captain)) (VP (VB Crunch) (NP (NN cereal))))) (. .)))
+IninINOPER0additionadditionNNOPER0totoINOPER0softsoftJJOPER0drinkdrinkNNOPER0,,,OPER0PepsiPepsiNNPORGPER0alsoalsoRBOPER0ownsownVBZOPER0TropicanaTropicanaNNPORGPER0juicesjuiceNNSOPER0andandCCOPER0FritoFritoNNPPRODUCTPER0LayLayNNPPRODUCTPER0productsproductNNSOPER0...OPER0(ROOT (S (PP (IN In) (NP (NP (NN addition)) (PP (IN to) (NP (JJ soft) (NN drink))))) (, ,) (NP (NNP Pepsi)) (ADVP (RB also)) (VP (VBZ owns) (NP (NP (NNP Tropicana) (NNS juices)) (CC and) (NP (NML (NNP Frito) (NNP Lay)) (NNS products)))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Pepsi))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Quaker) (NNP Oats))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Pepsi))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=2 spanning 6 until 8 headed by 6 parsed as (NP (NNP Quaker) (POS 's))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=3 spanning 8 until 9 headed by 8 parsed as agreed
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (NNP Quaker) (NNP Oats))
+sid=3 spanning 14 until 30 headed by 14 parsed as (NP (NP (NP (QP ($ $) (CD 13.4) (CD billion))) (PP (IN of) (NP (PRP$ their) (NN stock)))) (, ,) (CC but) (NP (NP (DT the) (NN assumption)) (PP (IN of) (NP (NP (QP ($ $) (CD 761) (CD million))) (PP (IN in) (NP (NN debt)))))))
+sid=3 spanning 18 until 19 headed by 18 parsed as their
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=4 spanning 9 until 11 headed by 9 parsed as (NP (NNP Pepsi) (POS 's))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN deal))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NNP Pepsi))
+sid=5 spanning 6 until 12 headed by 11 parsed as (NP (NP (NP (NP (NNP Quaker) (NNP Oats)) (POS ')) (NNP Gatorade) (NN sport) (NN drink)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNP Quaker) (POS 's)) (JJ profitable) (NNS snacks) (NN business)))
+sid=5 spanning 6 until 9 headed by 7 parsed as (NP (NP (NNP Quaker) (NNP Oats)) (POS '))
+sid=5 spanning 15 until 17 headed by 15 parsed as (NP (NNP Quaker) (POS 's))
+sid=5 spanning 28 until 29 headed by 28 parsed as its
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (NNP Gatorade))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Pepsi))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 1 headed by 0 parsed as (NP (NNP Pepsi))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NNP Quaker) (NNP Oats))
+sid=0 spanning 7 until 11 headed by 10 parsed as (NP (DT a) (JJ whole) (JJ new) (NN level))
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (PRP I))
+sid=1 spanning 2 until 11 headed by 3 parsed as (NP (NP (NNP Myron) (NNP Kandel)) (PP (IN at) (NP (NP (DT the) (NNP cnnfn) (NN newsdesk)) (PP (IN in) (NP (NNP New) (NNP York))))))
+sid=1 spanning 5 until 11 headed by 7 parsed as (NP (NP (DT the) (NNP cnnfn) (NN newsdesk)) (PP (IN in) (NP (NNP New) (NNP York))))
+sid=1 spanning 9 until 11 headed by 10 parsed as (NP (NNP New) (NNP York))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Pepsi))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP it))
+sid=2 spanning 6 until 12 headed by 11 parsed as (NP (NP (NNP Quaker) (POS 's)) (NML (NN snack) (NN food)) (NN growth) (NN rate))
+sid=2 spanning 6 until 8 headed by 6 parsed as (NP (NNP Quaker) (POS 's))
+sid=3 spanning 1 until 6 headed by 5 parsed as (NP (DT a) (ADJP (NN month) (HYPH -) (JJ long)) (NN courtship))
+sid=3 spanning 2 until 3 headed by 2 parsed as month
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (PRP they))
+sid=3 spanning 11 until 13 headed by 12 parsed as (NP (NNP Quaker) (NNP Oats))
+sid=3 spanning 22 until 30 headed by 23 parsed as (NP (NP (DT the) (NN assumption)) (PP (IN of) (NP (NP (QP ($ $) (CD 761) (CD million))) (PP (IN in) (NP (NN debt))))))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (DT That))
+sid=4 spanning 3 until 13 headed by 5 parsed as (NP (NP (NP (ADJP (NP (CD 2) (NN %)) (JJR less))) (NP (DT a) (NN share))) (PP (IN than) (NP (NP (NNP Pepsi) (POS 's)) (JJ original) (NN offer))))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT a) (NN share))
+sid=4 spanning 9 until 13 headed by 12 parsed as (NP (NP (NNP Pepsi) (POS 's)) (JJ original) (NN offer))
+sid=4 spanning 9 until 11 headed by 9 parsed as (NP (NNP Pepsi) (POS 's))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (DT The) (NN deal))
+sid=5 spanning 3 until 4 headed by 3 parsed as (NP (NNP Pepsi))
+sid=5 spanning 4 until 20 headed by 4 parsed as (NP (NP (NN access)) (PP (IN to) (NP (NP (NP (NP (NNP Quaker) (NNP Oats)) (POS ')) (NNP Gatorade) (NN sport) (NN drink)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNP Quaker) (POS 's)) (JJ profitable) (NNS snacks) (NN business)))))
+sid=5 spanning 6 until 20 headed by 11 parsed as (NP (NP (NP (NP (NNP Quaker) (NNP Oats)) (POS ')) (NNP Gatorade) (NN sport) (NN drink)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNP Quaker) (POS 's)) (JJ profitable) (NNS snacks) (NN business)))
+sid=5 spanning 6 until 9 headed by 7 parsed as (NP (NP (NNP Quaker) (NNP Oats)) (POS '))
+sid=5 spanning 9 until 10 headed by 9 parsed as Gatorade
+sid=5 spanning 15 until 20 headed by 19 parsed as (NP (NP (NNP Quaker) (POS 's)) (JJ profitable) (NNS snacks) (NN business))
+sid=5 spanning 15 until 17 headed by 15 parsed as (NP (NNP Quaker) (POS 's))
+sid=5 spanning 28 until 30 headed by 29 parsed as (NP (PRP$ its) (NN revenue))
+sid=5 spanning 28 until 29 headed by 28 parsed as (PRP$ its)
+sid=6 spanning 1 until 2 headed by 1 parsed as (NP (NNP Gatorade))
+sid=6 spanning 3 until 4 headed by 3 parsed as (NP (PRP they))
+sid=6 spanning 5 until 10 headed by 6 parsed as (NP (NP (JJ such) (NNS products)) (PP (IN as) (NP (NN granola) (NNS bars))))
+sid=6 spanning 8 until 10 headed by 9 parsed as (NP (NN granola) (NNS bars))
+sid=6 spanning 11 until 13 headed by 12 parsed as Crunch
+sid=7 spanning 1 until 5 headed by 1 parsed as (NP (NP (NN addition)) (PP (IN to) (NP (JJ soft) (NN drink))))
+sid=7 spanning 6 until 7 headed by 6 parsed as (NP (NNP Pepsi))
+sid=7 spanning 9 until 15 headed by 10 parsed as (NP (NP (NNP Tropicana) (NNS juices)) (CC and) (NP (NML (NNP Frito) (NNP Lay)) (NNS products)))
+sid=7 spanning 9 until 11 headed by 10 parsed as (NP (NNP Tropicana) (NNS juices))
+sid=7 spanning 9 until 10 headed by 9 parsed as Tropicana
+sid=7 spanning 12 until 15 headed by 14 parsed as (NP (NML (NNP Frito) (NNP Lay)) (NNS products))
+sid=7 spanning 12 until 14 headed by 13 parsed as Lay
+(end predicted mentions)
+---------gold clusters--------
+18 14 | { 'Gatorade' 'Quaker Oats ' Gatorade sport drink' }
+19 7 17 15 1 4 16 | { 'they' 'Quaker Oats' 'its' 'Quaker Oats '' 'Quaker Oats' 'Quaker 's' 'Quaker 's' }
+13 20 2 3 0 5 9 11 | { 'Pepsi' 'Pepsi' 'Pepsi' 'it' 'Pepsi' 'they' 'their' 'Pepsi 's' }
+12 6 | { 'The deal' 'agreed' }
+10 8 | { 'That' '$ 13.4 billion of their stock , but the assumption of $ 761 million in debt' }
+(end gold clusters)

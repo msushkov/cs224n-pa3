@@ -1,0 +1,55 @@
+---------gloss--------
+(0) [1m[31m{The Philippine merchandise trade deficit}[0m widened to $ 1.71 billion during [35m{the first eight months of 1989}[0m from $ 807 million a year earlier . 
+(1) Imports continued to outpace Philippine exports , despite gains in shipments abroad , the government National Statistics Office said . 
+(2) Exports reached $ 5.12 billion , up from $ 4.52 billion a year earlier , while imports rose to $ 6.81 billion from $ 5.33 billion . 
+(3) [1m[31m{The trade deficit in the first eight months}[0m is already wider than the trade gap of $ 1.09 billion for all of 1988 . 
+(4) Analysts expect the trade gap for [36m{the year}[0m to surpass $ 2 billion as demand for capital equipment and raw materials continues to push imports higher . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1236); part 000
+sentences:
+ThetheDTOPER0PhilippinephilippineJJOPER0merchandisemerchandiseNNOPER0tradetradeNNOPER0deficitdeficitNNOPER0widenedwidenVBDOPER0totoINOPER0$$$MONEYPER01.711.71CDMONEYPER0billionbillionCDMONEYPER0duringduringINOPER0thetheDTDATEPER0firstfirstJJDATEPER0eighteightCDDATEPER0monthsmonthNNSDATEPER0ofofINDATEPER019891989CDDATEPER0fromfromINOPER0$$$MONEYPER0807807CDMONEYPER0millionmillionCDMONEYPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0...OPER0(ROOT (S (NP (DT The) (JJ Philippine) (NN merchandise) (NN trade) (NN deficit)) (VP (VBD widened) (PP (IN to) (NP (QP ($ $) (CD 1.71) (CD billion)))) (PP (IN during) (NP (NP (DT the) (JJ first) (CD eight) (NNS months)) (PP (IN of) (NP (CD 1989))))) (PP (IN from) (NP (QP ($ $) (CD 807) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (. .)))
+ImportsimportNNSOPER0continuedcontinueVBDOPER0totoTOOPER0outpaceoutpaceVBOPER0PhilippinePhilippineNNPOPER0exportsexportNNSOPER0,,,OPER0despitedespiteINOPER0gainsgainNNSOPER0ininINOPER0shipmentsshipmentNNSOPER0abroadabroadRBOPER0,,,OPER0thetheDTOPER0governmentgovernmentNNOPER0NationalNationalNNPORGPER0StatisticsStatisticsNNPSORGPER0OfficeOfficeNNPORGPER0saidsayVBDOPER0...OPER0(ROOT (S (S (NP (NNS Imports)) (VP (VBD continued) (S (VP (TO to) (VP (VB outpace) (NP (NNP Philippine) (NNS exports))))) (, ,) (PP (IN despite) (NP (NP (NNS gains)) (PP (IN in) (NP (NP (NNS shipments)) (ADVP (RB abroad)))))))) (, ,) (NP (NP (DT the) (NN government)) (NP (NNP National) (NNPS Statistics) (NNP Office))) (VP (VBD said)) (. .)))
+ExportsexportNNSOPER0reachedreachVBDOPER0$$$MONEYPER05.125.12CDMONEYPER0billionbillionCDMONEYPER0,,,OPER0upupRBOPER0fromfromINOPER0$$$MONEYPER04.524.52CDMONEYPER0billionbillionCDMONEYPER0aaDTDATEPER0yearyearNNDATEPER0earlierearlierRBRDATEPER0,,,OPER0whilewhileINOPER0importsimportNNSOPER0roseriseVBDOPER0totoINOPER0$$$MONEYPER06.816.81CDMONEYPER0billionbillionCDMONEYPER0fromfromINOPER0$$$MONEYPER05.335.33CDMONEYPER0billionbillionCDMONEYPER0...OPER0(ROOT (S (NP (NNS Exports)) (VP (VBD reached) (NP (NP (QP ($ $) (CD 5.12) (CD billion))) (, ,) (ADVP (RB up) (PP (IN from) (NP (QP ($ $) (CD 4.52) (CD billion))) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (, ,) (SBAR (IN while) (S (NP (NNS imports)) (VP (VBD rose) (PP (IN to) (NP (QP ($ $) (CD 6.81) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 5.33) (CD billion)))))))) (. .)))
+ThetheDTOPER0tradetradeNNOPER0deficitdeficitNNOPER0ininINOPER0thetheDTDATEPER0firstfirstJJDATEPER0eighteightCDDATEPER0monthsmonthNNSDATEPER0isbeVBZOPER0alreadyalreadyRBOPER0widerwiderJJROPER0thanthanINOPER0thetheDTOPER0tradetradeNNOPER0gapgapNNOPER0ofofINOPER0$$$MONEYPER01.091.09CDMONEYPER0billionbillionCDMONEYPER0forforINOPER0allallDTOPER0ofofINOPER019881988CDDATEPER0...OPER0(ROOT (S (NP (NP (DT The) (NN trade) (NN deficit)) (PP (IN in) (NP (DT the) (JJ first) (CD eight) (NNS months)))) (VP (VBZ is) (ADVP (RB already)) (ADJP (ADJP (JJR wider)) (PP (IN than) (NP (NP (DT the) (NN trade) (NN gap)) (PP (IN of) (NP (NP (QP ($ $) (CD 1.09) (CD billion))) (PP (IN for) (NP (NP (DT all)) (PP (IN of) (NP (CD 1988))))))))))) (. .)))
+AnalystsanalystNNSOPER0expectexpectVBPOPER0thetheDTOPER0tradetradeNNOPER0gapgapNNOPER0forforINOPER0thetheDTDATEPER0yearyearNNDATEPER0totoTOOPER0surpasssurpassVBOPER0$$$MONEYPER022CDMONEYPER0billionbillionCDMONEYPER0asasINOPER0demanddemandNNOPER0forforINOPER0capitalcapitalNNOPER0equipmentequipmentNNOPER0andandCCOPER0rawrawJJOPER0materialsmaterialNNSOPER0continuescontinueVBZOPER0totoTOOPER0pushpushVBOPER0importsimportNNSOPER0higherhigherRBROPER0...OPER0(ROOT (S (NP (NNS Analysts)) (VP (VBP expect) (S (NP (NP (DT the) (NN trade) (NN gap)) (PP (IN for) (NP (DT the) (NN year)))) (VP (TO to) (VP (VB surpass) (NP (QP ($ $) (CD 2) (CD billion))) (SBAR (IN as) (S (NP (NP (NN demand)) (PP (IN for) (NP (NP (NN capital) (NN equipment)) (CC and) (NP (JJ raw) (NNS materials))))) (VP (VBZ continues) (S (VP (TO to) (VP (VB push) (NP (NNS imports)) (ADVP (RBR higher)))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (JJ Philippine) (NN merchandise) (NN trade) (NN deficit))
+sid=0 spanning 11 until 17 headed by 14 parsed as (NP (NP (DT the) (JJ first) (CD eight) (NNS months)) (PP (IN of) (NP (CD 1989))))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (CD 1989))
+sid=3 spanning 0 until 8 headed by 2 parsed as (NP (NP (DT The) (NN trade) (NN deficit)) (PP (IN in) (NP (DT the) (JJ first) (CD eight) (NNS months))))
+sid=3 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (JJ first) (CD eight) (NNS months))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN year))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 5 headed by 4 parsed as (NP (DT The) (JJ Philippine) (NN merchandise) (NN trade) (NN deficit))
+sid=0 spanning 11 until 17 headed by 14 parsed as (NP (NP (DT the) (JJ first) (CD eight) (NNS months)) (PP (IN of) (NP (CD 1989))))
+sid=0 spanning 21 until 24 headed by 23 parsed as earlier
+sid=1 spanning 0 until 1 headed by 0 parsed as (NP (NNS Imports))
+sid=1 spanning 4 until 6 headed by 5 parsed as (NP (NNP Philippine) (NNS exports))
+sid=1 spanning 8 until 12 headed by 8 parsed as (NP (NP (NNS gains)) (PP (IN in) (NP (NP (NNS shipments)) (ADVP (RB abroad)))))
+sid=1 spanning 10 until 12 headed by 10 parsed as (NP (NP (NNS shipments)) (ADVP (RB abroad)))
+sid=1 spanning 13 until 18 headed by 14 parsed as (NP (NP (DT the) (NN government)) (NP (NNP National) (NNPS Statistics) (NNP Office)))
+sid=1 spanning 15 until 18 headed by 17 parsed as (NP (NNP National) (NNPS Statistics) (NNP Office))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Exports))
+sid=2 spanning 11 until 14 headed by 13 parsed as earlier
+sid=2 spanning 16 until 17 headed by 16 parsed as (NP (NNS imports))
+sid=3 spanning 0 until 8 headed by 2 parsed as (NP (NP (DT The) (NN trade) (NN deficit)) (PP (IN in) (NP (DT the) (JJ first) (CD eight) (NNS months))))
+sid=3 spanning 4 until 8 headed by 7 parsed as (NP (DT the) (JJ first) (CD eight) (NNS months))
+sid=3 spanning 12 until 23 headed by 14 parsed as (NP (NP (DT the) (NN trade) (NN gap)) (PP (IN of) (NP (NP (QP ($ $) (CD 1.09) (CD billion))) (PP (IN for) (NP (NP (DT all)) (PP (IN of) (NP (CD 1988))))))))
+sid=4 spanning 0 until 1 headed by 0 parsed as (NP (NNS Analysts))
+sid=4 spanning 2 until 8 headed by 4 parsed as (NP (NP (DT the) (NN trade) (NN gap)) (PP (IN for) (NP (DT the) (NN year))))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (DT the) (NN year))
+sid=4 spanning 14 until 21 headed by 14 parsed as (NP (NP (NN demand)) (PP (IN for) (NP (NP (NN capital) (NN equipment)) (CC and) (NP (JJ raw) (NNS materials)))))
+sid=4 spanning 16 until 21 headed by 17 parsed as (NP (NP (NN capital) (NN equipment)) (CC and) (NP (JJ raw) (NNS materials)))
+sid=4 spanning 16 until 18 headed by 17 parsed as (NP (NN capital) (NN equipment))
+sid=4 spanning 19 until 21 headed by 20 parsed as (NP (JJ raw) (NNS materials))
+sid=4 spanning 24 until 25 headed by 24 parsed as (NP (NNS imports))
+(end predicted mentions)
+---------gold clusters--------
+1 4 | { 'the first eight months of 1989' 'the first eight months' }
+2 5 | { '1989' 'the year' }
+0 3 | { 'The Philippine merchandise trade deficit' 'The trade deficit in the first eight months' }
+(end gold clusters)

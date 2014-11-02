@@ -1,0 +1,122 @@
+---------gloss--------
+(0) [1m[36m{Striking auto workers}[0m [35m{ended}[0m [1m[36m{their}[0m 19 - day occupation of [36m{a metal shop at a Peugeot S.A. factory in eastern France}[0m Friday as pay talks got under way in [3m[32m{the capital}[0m . 
+(1) But the [1m[34m{Peugeot}[0m breakthrough came as a nationwide dispute by [1m[33m{Finance Ministry}[0m employees disrupted border checkpoints and threatened the [1m[35m{government}[0m 's ability to pay [1m[35m{its}[0m bills . 
+(2) [1m[36m{The Peugeot metalworkers}[0m began [35m{filing out}[0m of [36m{the shop , which makes auto parts}[0m , at [1m[31m{the plant in Mulhouse}[0m after voting 589 to 193 to abandon [1m[32m{the occupation}[0m . 
+(3) [1m[36m{Their}[0m withdrawal was based on promises by [1m[34m{Peugeot}[0m to open negotiations in [3m[32m{Paris}[0m at the same time the last man left [36m{the premises}[0m . 
+(4) The strike by customs officers , tax collectors , treasury workers and other civil servants attached to [1m[33m{the Ministry of Finance}[0m may pose a more serious challenge to [1m[35m{the government}[0m and the average Frenchman . 
+(5) [1m[33m{Ministry}[0m employees complain that [3m[31m{they}[0m are poorly paid because of a complex job - rating system [3m[31m{they}[0m say fails to take into account [3m[31m{their}[0m education and level of technical expertise . 
+(end gloss)
+---------document--------
+(nw/wsj/24/wsj_2427); part 000
+sentences:
+StrikingstrikingJJOPER0autoautoNNOPER0workersworkerNNSOPER0endedendVBDOPER0theirtheyPRP$OPER01919CDDATEPER0--HYPHDATEPER0daydayNNDATEPER0occupationoccupationNNOPER0ofofINOPER0aaDTOPER0metalmetalNNOPER0shopshopNNOPER0atatINOPER0aaDTOPER0PeugeotPeugeotNNPORGPER0S.A.S.A.NNPORGPER0factoryfactoryNNOPER0ininINOPER0easterneasternJJOPER0FranceFranceNNPGPEPER0FridayFridayNNPDATEPER0asasINOPER0paypayNNOPER0talkstalkNNSOPER0gotgetVBNOPER0underunderINOPER0waywayNNOPER0ininINOPER0thetheDTOPER0capitalcapitalNNOPER0...OPER0(ROOT (S (NP (JJ Striking) (NN auto) (NNS workers)) (VP (VBD ended) (NP (NP (PRP$ their) (NML (CD 19) (HYPH -) (NN day)) (NN occupation)) (PP (IN of) (NP (DT a) (NN metal) (NN shop)))) (PP (IN at) (NP (NP (DT a) (NML (NNP Peugeot) (NNP S.A.)) (NN factory)) (PP (IN in) (NP (JJ eastern) (NNP France))))) (NP (NNP Friday)) (PP (IN as) (NP (NP (NN pay) (NNS talks)) (VP (VBN got) (PP (IN under) (NP (NN way))) (PP (IN in) (NP (DT the) (NN capital))))))) (. .)))
+ButbutCCOPER0thetheDTOPER0PeugeotPeugeotNNPORGPER0breakthroughbreakthroughNNOPER0camecomeVBDOPER0asasINOPER0aaDTOPER0nationwidenationwideJJOPER0disputedisputeNNOPER0bybyINOPER0FinanceFinanceNNPORGPER0MinistryMinistryNNPORGPER0employeesemployeeNNSOPER0disrupteddisruptVBDOPER0borderborderNNOPER0checkpointscheckpointNNSOPER0andandCCOPER0threatenedthreatenVBDOPER0thetheDTOPER0governmentgovernmentNNOPER0's'sPOSOPER0abilityabilityNNOPER0totoTOOPER0paypayVBOPER0itsitsPRP$OPER0billsbillNNSOPER0...OPER0(ROOT (S (CC But) (NP (DT the) (NNP Peugeot) (NN breakthrough)) (VP (VP (VBD came) (PP (IN as) (NP (NP (DT a) (JJ nationwide) (NN dispute)) (PP (IN by) (NP (NML (NNP Finance) (NNP Ministry)) (NNS employees)))))) (VP (VP (VBD disrupted) (NP (NN border) (NNS checkpoints))) (CC and) (VP (VBD threatened) (NP (NP (DT the) (NN government) (POS 's)) (NN ability) (S (VP (TO to) (VP (VB pay) (NP (PRP$ its) (NNS bills))))))))) (. .)))
+ThetheDTOPER0PeugeotPeugeotNNPORGPER0metalworkersmetalworkerNNSOPER0beganbeginVBDOPER0filingfileVBGOPER0outoutINOPER0ofofINOPER0thetheDTOPER0shopshopNNOPER0,,,OPER0whichwhichWDTOPER0makesmakeVBZOPER0autoautoNNOPER0partspartNNSOPER0,,,OPER0atatINOPER0thetheDTOPER0plantplantNNOPER0ininINOPER0MulhouseMulhouseNNPGPEPER0afterafterINOPER0votingvoteVBGOPER0589589CDCARDINALPER0totoTOCARDINALPER0193193CDCARDINALPER0totoTOOPER0abandonabandonVBOPER0thetheDTOPER0occupationoccupationNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Peugeot) (NNS metalworkers)) (VP (VBD began) (S (VP (VBG filing) (PP (IN out) (PP (IN of) (NP (NP (DT the) (NN shop)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN auto) (NNS parts)))))))))) (, ,) (PP (IN at) (NP (NP (DT the) (NN plant)) (PP (IN in) (NP (NNP Mulhouse))))) (PP (IN after) (S (VP (VBG voting) (NP (QP (CD 589) (TO to) (CD 193))) (S (VP (TO to) (VP (VB abandon) (NP (DT the) (NN occupation))))))))) (. .)))
+TheirtheyPRP$OPER0withdrawalwithdrawalNNOPER0wasbeVBDOPER0basedbaseVBNOPER0ononINOPER0promisespromiseNNSOPER0bybyINOPER0PeugeotPeugeotNNPORGPER0totoTOOPER0openopenVBOPER0negotiationsnegotiationNNSOPER0ininINOPER0ParisParisNNPGPEPER0atatINOPER0thetheDTOPER0samesameJJOPER0timetimeNNOPER0thetheDTOPER0lastlastJJOPER0manmanNNOPER0leftleaveVBDOPER0thetheDTOPER0premisespremiseNNSOPER0...OPER0(ROOT (S (NP (PRP$ Their) (NN withdrawal)) (VP (VBD was) (VP (VBN based) (PP (IN on) (NP (NP (NNS promises)) (PP (IN by) (NP (NNP Peugeot))))) (S (VP (TO to) (VP (VB open) (NP (NP (NNS negotiations)) (PP (IN in) (NP (NNP Paris)))) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (SBAR (S (NP (DT the) (JJ last) (NN man)) (VP (VBD left) (NP (DT the) (NNS premises)))))))))))) (. .)))
+ThetheDTOPER0strikestrikeNNOPER0bybyINOPER0customscustomNNSOPER0officersofficerNNSOPER0,,,OPER0taxtaxNNOPER0collectorscollectorNNSOPER0,,,OPER0treasurytreasuryNNOPER0workersworkerNNSOPER0andandCCOPER0otherotherJJOPER0civilcivilJJOPER0servantsservantNNSOPER0attachedattachVBNOPER0totoINOPER0thetheDTORGPER0MinistryMinistryNNPORGPER0ofofINORGPER0FinanceFinanceNNPORGPER0maymayMDOPER0poseposeVBOPER0aaDTOPER0moremoreRBROPER0seriousseriousJJOPER0challengechallengeNNOPER0totoINOPER0thetheDTOPER0governmentgovernmentNNOPER0andandCCOPER0thetheDTOPER0averageaverageJJOPER0FrenchmanFrenchmanNNPOPER0...OPER0(ROOT (S (NP (NP (DT The) (NN strike)) (PP (IN by) (NP (NP (NNS customs) (NNS officers)) (, ,) (NP (NN tax) (NNS collectors)) (, ,) (NP (NN treasury) (NNS workers)) (CC and) (NP (NP (JJ other) (JJ civil) (NNS servants)) (VP (VBN attached) (PP (IN to) (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Finance)))))))))) (VP (MD may) (VP (VB pose) (NP (NP (DT a) (ADJP (RBR more) (JJ serious)) (NN challenge)) (PP (IN to) (NP (NP (DT the) (NN government)) (CC and) (NP (DT the) (JJ average) (NNP Frenchman))))))) (. .)))
+MinistryministryNNORGPER0employeesemployeeNNSOPER0complaincomplainVBPOPER0thatthatINOPER0theytheyPRPOPER0arebeVBPOPER0poorlypoorlyRBOPER0paidpayVBNOPER0becausebecauseINOPER0ofofINOPER0aaDTOPER0complexcomplexJJOPER0jobjobNNOPER0--HYPHOPER0ratingratingNNOPER0systemsystemNNOPER0theytheyPRPOPER0saysayVBPOPER0failsfailVBZOPER0totoTOOPER0taketakeVBOPER0intointoINOPER0accountaccountNNOPER0theirtheyPRP$OPER0educationeducationNNOPER0andandCCOPER0levellevelNNOPER0ofofINOPER0technicaltechnicalJJOPER0expertiseexpertiseNNOPER0...OPER0(ROOT (S (NP (NN Ministry) (NNS employees)) (VP (VBP complain) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (ADVP (RB poorly)) (VP (VBN paid) (PP (IN because) (IN of) (NP (NP (DT a) (JJ complex) (NML (NN job) (HYPH -) (NN rating)) (NN system)) (SBAR (S (NP (PRP they)) (VP (VBP say) (SBAR (S (VP (VBZ fails) (S (VP (TO to) (VP (VB take) (PP (IN into) (NP (NN account))) (NP (NP (PRP$ their) (NN education) (CC and) (NN level)) (PP (IN of) (NP (JJ technical) (NN expertise)))))))))))))))))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (JJ Striking) (NN auto) (NNS workers))
+sid=0 spanning 3 until 4 headed by 3 parsed as ended
+sid=0 spanning 4 until 21 headed by 8 parsed as (NP (NP (PRP$ their) (NML (CD 19) (HYPH -) (NN day)) (NN occupation)) (PP (IN of) (NP (DT a) (NN metal) (NN shop))))
+sid=0 spanning 4 until 5 headed by 4 parsed as their
+sid=0 spanning 10 until 21 headed by 12 parsed as (NP (DT a) (NN metal) (NN shop))
+sid=0 spanning 14 until 21 headed by 17 parsed as (NP (NP (DT a) (NML (NNP Peugeot) (NNP S.A.)) (NN factory)) (PP (IN in) (NP (JJ eastern) (NNP France))))
+sid=0 spanning 15 until 17 headed by 16 parsed as S.A.
+sid=0 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN capital))
+sid=1 spanning 2 until 3 headed by 2 parsed as Peugeot
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (NML (NNP Finance) (NNP Ministry)) (NNS employees))
+sid=1 spanning 10 until 12 headed by 11 parsed as Ministry
+sid=1 spanning 19 until 20 headed by 19 parsed as (NP (DT the) (NN government) (POS 's))
+sid=1 spanning 24 until 25 headed by 24 parsed as its
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Peugeot) (NNS metalworkers))
+sid=2 spanning 1 until 2 headed by 1 parsed as Peugeot
+sid=2 spanning 4 until 6 headed by 4 parsed as filing
+sid=2 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT the) (NN shop)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN auto) (NNS parts))))))
+sid=2 spanning 16 until 20 headed by 17 parsed as (NP (NP (DT the) (NN plant)) (PP (IN in) (NP (NNP Mulhouse))))
+sid=2 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN occupation))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ Their) (NN withdrawal))
+sid=3 spanning 0 until 1 headed by 0 parsed as Their
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP Peugeot))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (NNP Paris))
+sid=3 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NNS premises))
+sid=4 spanning 17 until 21 headed by 18 parsed as (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Finance))))
+sid=4 spanning 28 until 30 headed by 29 parsed as (NP (NP (DT the) (NN government)) (CC and) (NP (DT the) (JJ average) (NNP Frenchman)))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NN Ministry) (NNS employees))
+sid=5 spanning 0 until 1 headed by 0 parsed as Ministry
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=5 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=5 spanning 23 until 24 headed by 23 parsed as their
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (JJ Striking) (NN auto) (NNS workers))
+sid=0 spanning 4 until 13 headed by 8 parsed as (NP (NP (PRP$ their) (NML (CD 19) (HYPH -) (NN day)) (NN occupation)) (PP (IN of) (NP (DT a) (NN metal) (NN shop))))
+sid=0 spanning 4 until 5 headed by 4 parsed as (PRP$ their)
+sid=0 spanning 5 until 8 headed by 7 parsed as day
+sid=0 spanning 10 until 13 headed by 12 parsed as (NP (DT a) (NN metal) (NN shop))
+sid=0 spanning 14 until 21 headed by 17 parsed as (NP (NP (DT a) (NML (NNP Peugeot) (NNP S.A.)) (NN factory)) (PP (IN in) (NP (JJ eastern) (NNP France))))
+sid=0 spanning 15 until 17 headed by 16 parsed as S.A.
+sid=0 spanning 19 until 21 headed by 20 parsed as (NP (JJ eastern) (NNP France))
+sid=0 spanning 21 until 22 headed by 21 parsed as (NP (NNP Friday))
+sid=0 spanning 23 until 31 headed by 24 parsed as (NP (NP (NN pay) (NNS talks)) (VP (VBN got) (PP (IN under) (NP (NN way))) (PP (IN in) (NP (DT the) (NN capital)))))
+sid=0 spanning 29 until 31 headed by 30 parsed as (NP (DT the) (NN capital))
+sid=1 spanning 1 until 4 headed by 3 parsed as (NP (DT the) (NNP Peugeot) (NN breakthrough))
+sid=1 spanning 2 until 3 headed by 2 parsed as Peugeot
+sid=1 spanning 6 until 13 headed by 8 parsed as (NP (NP (DT a) (JJ nationwide) (NN dispute)) (PP (IN by) (NP (NML (NNP Finance) (NNP Ministry)) (NNS employees))))
+sid=1 spanning 10 until 13 headed by 12 parsed as (NP (NML (NNP Finance) (NNP Ministry)) (NNS employees))
+sid=1 spanning 10 until 12 headed by 11 parsed as Ministry
+sid=1 spanning 14 until 16 headed by 15 parsed as (NP (NN border) (NNS checkpoints))
+sid=1 spanning 18 until 26 headed by 21 parsed as (NP (NP (DT the) (NN government) (POS 's)) (NN ability) (S (VP (TO to) (VP (VB pay) (NP (PRP$ its) (NNS bills))))))
+sid=1 spanning 18 until 21 headed by 19 parsed as (NP (DT the) (NN government) (POS 's))
+sid=1 spanning 24 until 26 headed by 25 parsed as (NP (PRP$ its) (NNS bills))
+sid=1 spanning 24 until 25 headed by 24 parsed as (PRP$ its)
+sid=2 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Peugeot) (NNS metalworkers))
+sid=2 spanning 1 until 2 headed by 1 parsed as Peugeot
+sid=2 spanning 7 until 14 headed by 8 parsed as (NP (NP (DT the) (NN shop)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN auto) (NNS parts))))))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (DT the) (NN shop))
+sid=2 spanning 12 until 14 headed by 13 parsed as (NP (NN auto) (NNS parts))
+sid=2 spanning 16 until 20 headed by 17 parsed as (NP (NP (DT the) (NN plant)) (PP (IN in) (NP (NNP Mulhouse))))
+sid=2 spanning 19 until 20 headed by 19 parsed as (NP (NNP Mulhouse))
+sid=2 spanning 22 until 25 headed by 24 parsed as (NP (QP (CD 589) (TO to) (CD 193)))
+sid=2 spanning 27 until 29 headed by 28 parsed as (NP (DT the) (NN occupation))
+sid=3 spanning 0 until 2 headed by 1 parsed as (NP (PRP$ Their) (NN withdrawal))
+sid=3 spanning 0 until 1 headed by 0 parsed as (PRP$ Their)
+sid=3 spanning 5 until 8 headed by 5 parsed as (NP (NP (NNS promises)) (PP (IN by) (NP (NNP Peugeot))))
+sid=3 spanning 7 until 8 headed by 7 parsed as (NP (NNP Peugeot))
+sid=3 spanning 10 until 13 headed by 10 parsed as (NP (NP (NNS negotiations)) (PP (IN in) (NP (NNP Paris))))
+sid=3 spanning 12 until 13 headed by 12 parsed as (NP (NNP Paris))
+sid=3 spanning 14 until 23 headed by 16 parsed as (NP (NP (DT the) (JJ same) (NN time)) (SBAR (S (NP (DT the) (JJ last) (NN man)) (VP (VBD left) (NP (DT the) (NNS premises))))))
+sid=3 spanning 17 until 20 headed by 19 parsed as (NP (DT the) (JJ last) (NN man))
+sid=3 spanning 21 until 23 headed by 22 parsed as (NP (DT the) (NNS premises))
+sid=4 spanning 0 until 21 headed by 1 parsed as (NP (NP (DT The) (NN strike)) (PP (IN by) (NP (NP (NNS customs) (NNS officers)) (, ,) (NP (NN tax) (NNS collectors)) (, ,) (NP (NN treasury) (NNS workers)) (CC and) (NP (NP (JJ other) (JJ civil) (NNS servants)) (VP (VBN attached) (PP (IN to) (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Finance))))))))))
+sid=4 spanning 3 until 21 headed by 4 parsed as (NP (NP (NNS customs) (NNS officers)) (, ,) (NP (NN tax) (NNS collectors)) (, ,) (NP (NN treasury) (NNS workers)) (CC and) (NP (NP (JJ other) (JJ civil) (NNS servants)) (VP (VBN attached) (PP (IN to) (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Finance))))))))
+sid=4 spanning 3 until 5 headed by 4 parsed as (NP (NNS customs) (NNS officers))
+sid=4 spanning 6 until 8 headed by 7 parsed as (NP (NN tax) (NNS collectors))
+sid=4 spanning 9 until 11 headed by 10 parsed as (NP (NN treasury) (NNS workers))
+sid=4 spanning 12 until 21 headed by 14 parsed as (NP (NP (JJ other) (JJ civil) (NNS servants)) (VP (VBN attached) (PP (IN to) (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Finance)))))))
+sid=4 spanning 17 until 21 headed by 18 parsed as (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Finance))))
+sid=4 spanning 23 until 34 headed by 26 parsed as (NP (NP (DT a) (ADJP (RBR more) (JJ serious)) (NN challenge)) (PP (IN to) (NP (NP (DT the) (NN government)) (CC and) (NP (DT the) (JJ average) (NNP Frenchman)))))
+sid=4 spanning 28 until 34 headed by 29 parsed as (NP (NP (DT the) (NN government)) (CC and) (NP (DT the) (JJ average) (NNP Frenchman)))
+sid=4 spanning 28 until 30 headed by 29 parsed as (NP (DT the) (NN government))
+sid=4 spanning 31 until 34 headed by 33 parsed as (NP (DT the) (JJ average) (NNP Frenchman))
+sid=5 spanning 0 until 2 headed by 1 parsed as (NP (NN Ministry) (NNS employees))
+sid=5 spanning 4 until 5 headed by 4 parsed as (NP (PRP they))
+sid=5 spanning 10 until 30 headed by 15 parsed as (NP (NP (DT a) (JJ complex) (NML (NN job) (HYPH -) (NN rating)) (NN system)) (SBAR (S (NP (PRP they)) (VP (VBP say) (SBAR (S (VP (VBZ fails) (S (VP (TO to) (VP (VB take) (PP (IN into) (NP (NN account))) (NP (NP (PRP$ their) (NN education) (CC and) (NN level)) (PP (IN of) (NP (JJ technical) (NN expertise))))))))))))))
+sid=5 spanning 16 until 17 headed by 16 parsed as (NP (PRP they))
+sid=5 spanning 23 until 30 headed by 24 parsed as (NP (NP (PRP$ their) (NN education) (CC and) (NN level)) (PP (IN of) (NP (JJ technical) (NN expertise))))
+sid=5 spanning 23 until 24 headed by 23 parsed as (PRP$ their)
+(end predicted mentions)
+---------gold clusters--------
+1 15 19 | { 'ended' 'filing out' 'Their withdrawal' }
+4 23 16 | { 'a metal shop at a Peugeot S.A. factory in eastern France' 'the premises' 'the shop , which makes auto parts' }
+17 5 | { 'the plant in Mulhouse' 'a Peugeot S.A. factory in eastern France' }
+18 2 | { 'the occupation' 'their 19 - day occupation of a metal shop at a Peugeot S.A. factory in eastern France' }
+27 10 24 | { 'Ministry' 'Finance Ministry' 'the Ministry of Finance' }
+6 21 8 14 | { 'Peugeot S.A.' 'Peugeot' 'Peugeot' 'Peugeot' }
+11 12 25 | { 'government' 'its' 'the government' }
+0 20 13 3 | { 'Striking auto workers' 'Their' 'The Peugeot metalworkers' 'their' }
+28 9 30 29 26 | { 'they' 'Finance Ministry employees' 'their' 'they' 'Ministry employees' }
+7 22 | { 'the capital' 'Paris' }
+(end gold clusters)

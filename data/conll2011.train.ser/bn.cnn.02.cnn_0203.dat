@@ -1,0 +1,39 @@
+---------gloss--------
+(0) The Associated Press is reporting that U.S. troops have launched an attack on [31m{Saddam International Airport , about nine miles from the Iraqi capital}[0m . 
+(1) Pentagon officials briefed reporters who refused to comment about any activity at [31m{the airport}[0m . 
+(2) [32m{Officials}[0m say [32m{they}[0m 'll make comments after certain operations are conducted , but not before . 
+(end gloss)
+---------document--------
+(bn/cnn/02/cnn_0203); part 000
+sentences:
+ThetheDTORGPER0AssociatedAssociatedNNPORGPER0PressPressNNPORGPER0isbeVBZOPER0reportingreportVBGOPER0thatthatINOPER0U.S.U.S.NNPGPEPER0troopstroopsNNSOPER0havehaveVBPOPER0launchedlaunchVBDOPER0anaDTOPER0attackattackNNOPER0ononINOPER0SaddamSaddamNNPFACPER0InternationalInternationalNNPFACPER0AirportAirportNNPFACPER0,,,OPER0aboutaboutINQUANTITYPER0ninenineCDQUANTITYPER0milesmileNNSQUANTITYPER0fromfromINOPER0thetheDTOPER0IraqiiraqiJJOPER0capitalcapitalNNOPER0...OPER0(ROOT (S (NP (DT The) (NNP Associated) (NNP Press)) (VP (VBZ is) (VP (VBG reporting) (SBAR (IN that) (S (NP (NNP U.S.) (NNS troops)) (VP (VBP have) (VP (VBD launched) (NP (NP (DT an) (NN attack)) (PP (IN on) (NP (NNP Saddam) (NNP International) (NNP Airport)))) (, ,) (ADVP (IN about) (NP (CD nine) (NNS miles)) (PP (IN from) (NP (DT the) (JJ Iraqi) (NN capital)))))))))) (. .)))
+PentagonPentagonNNPORGPER0officialsofficialNNSOPER0briefedbriefVBDOPER0reportersreporterNNSOPER0whowhoWPOPER0refusedrefuseVBDOPER0totoTOOPER0commentcommentVBOPER0aboutaboutINOPER0anyanyDTOPER0activityactivityNNOPER0atatINOPER0thetheDTOPER0airportairportNNOPER0...OPER0(ROOT (S (NP (NNP Pentagon) (NNS officials)) (VP (VBD briefed) (NP (NP (NNS reporters)) (SBAR (WHNP (WP who)) (S (VP (VBD refused) (S (VP (TO to) (VP (VB comment) (PP (IN about) (NP (DT any) (NN activity)))))))))) (PP (IN at) (NP (DT the) (NN airport)))) (. .)))
+OfficialsofficialNNSOPER0saysayVBPOPER0theytheyPRPOPER0'll'llMDOPER0makemakeVBOPER0commentscommentNNSOPER0afterafterINOPER0certaincertainJJOPER0operationsoperationNNSOPER0arebeVBPOPER0conductedconductVBNOPER0,,,OPER0butbutCCOPER0notnotRBOPER0beforebeforeINOPER0...OPER0(ROOT (S (S (NP (NNS Officials)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB make) (NP (NNS comments)) (SBAR (IN after) (S (NP (JJ certain) (NNS operations)) (VP (VBP are) (VP (VBN conducted))))))))))) (, ,) (CC but) (FRAG (ADVP (RB not)) (PP (IN before))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 13 until 24 headed by 15 parsed as (NP (NNP Saddam) (NNP International) (NNP Airport))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN airport))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP they))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (DT The) (NNP Associated) (NNP Press))
+sid=0 spanning 6 until 8 headed by 7 parsed as (NP (NNP U.S.) (NNS troops))
+sid=0 spanning 10 until 16 headed by 11 parsed as (NP (NP (DT an) (NN attack)) (PP (IN on) (NP (NNP Saddam) (NNP International) (NNP Airport))))
+sid=0 spanning 13 until 16 headed by 15 parsed as (NP (NNP Saddam) (NNP International) (NNP Airport))
+sid=0 spanning 18 until 20 headed by 19 parsed as (NP (CD nine) (NNS miles))
+sid=0 spanning 21 until 24 headed by 23 parsed as (NP (DT the) (JJ Iraqi) (NN capital))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Pentagon) (NNS officials))
+sid=1 spanning 0 until 1 headed by 0 parsed as Pentagon
+sid=1 spanning 3 until 11 headed by 3 parsed as (NP (NP (NNS reporters)) (SBAR (WHNP (WP who)) (S (VP (VBD refused) (S (VP (TO to) (VP (VB comment) (PP (IN about) (NP (DT any) (NN activity))))))))))
+sid=1 spanning 12 until 14 headed by 13 parsed as (NP (DT the) (NN airport))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNS Officials))
+sid=2 spanning 2 until 3 headed by 2 parsed as (NP (PRP they))
+sid=2 spanning 5 until 6 headed by 5 parsed as (NP (NNS comments))
+sid=2 spanning 7 until 9 headed by 8 parsed as (NP (JJ certain) (NNS operations))
+(end predicted mentions)
+---------gold clusters--------
+1 0 | { 'the airport' 'Saddam International Airport , about nine miles from the Iraqi capital' }
+3 2 | { 'they' 'Officials' }
+(end gold clusters)

@@ -1,0 +1,48 @@
+---------gloss--------
+(0) [35m{Carlos A. Salvagni , vice president , pharmaceutical manufacturing ,}[0m will assume responsibility for manufacturing in Kalamazoo , Mich. , effective Nov. 1 . 
+(1) [35m{Mr. Salvagni , 53 years old ,}[0m succeeds John C. Griffin , 57 , who is retiring as corporate vice president of pharmaceutical manufacturing . 
+(2) Upjohn is a world - wide provider of health - care products and services , seeds and speciality chemicals . 
+(end gloss)
+---------document--------
+(nw/wsj/12/wsj_1230); part 000
+sentences:
+CarlosCarlosNNPPERSONPER0A.A.NNPPERSONPER0SalvagniSalvagniNNPPERSONPER0,,,OPER0viceviceNNOPER0presidentpresidentNNOPER0,,,OPER0pharmaceuticalpharmaceuticalNNOPER0manufacturingmanufacturingNNOPER0,,,OPER0willwillMDOPER0assumeassumeVBOPER0responsibilityresponsibilityNNOPER0forforINOPER0manufacturingmanufacturingNNOPER0ininINOPER0KalamazooKalamazooNNPGPEPER0,,,OPER0Mich.Mich.NNPGPEPER0,,,OPER0effectiveeffectiveJJOPER0Nov.Nov.NNPDATEPER011CDDATEPER0...OPER0(ROOT (S (NP (NP (NNP Carlos) (NNP A.) (NNP Salvagni)) (, ,) (NP (NN vice) (NN president)) (, ,) (NP (NN pharmaceutical) (NN manufacturing)) (, ,)) (VP (MD will) (VP (VB assume) (NP (NP (NN responsibility)) (PP (IN for) (NP (NN manufacturing)))) (PP (IN in) (NP (NP (NNP Kalamazoo)) (, ,) (NP (NNP Mich.)))) (, ,) (ADJP (JJ effective) (NP (NNP Nov.) (CD 1))))) (. .)))
+Mr.Mr.NNPOPER0SalvagniSalvagniNNPPERSONPER0,,,OPER05353CDDATEPER0yearsyearNNSDATEPER0oldoldJJDATEPER0,,,OPER0succeedssucceedVBZOPER0JohnJohnNNPPERSONPER0C.C.NNPPERSONPER0GriffinGriffinNNPPERSONPER0,,,OPER05757CDDATEPER0,,,OPER0whowhoWPOPER0isbeVBZOPER0retiringretireVBGOPER0asasINOPER0corporatecorporateJJOPER0viceviceNNOPER0presidentpresidentNNOPER0ofofINOPER0pharmaceuticalpharmaceuticalNNOPER0manufacturingmanufacturingNNOPER0...OPER0(ROOT (S (NP (NP (NNP Mr.) (NNP Salvagni)) (, ,) (ADJP (NML (CD 53) (NNS years)) (JJ old)) (, ,)) (VP (VBZ succeeds) (NP (NP (NP (NNP John) (NNP C.) (NNP Griffin)) (, ,) (NP (CD 57))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG retiring) (PP (IN as) (NP (NP (JJ corporate) (NN vice) (NN president)) (PP (IN of) (NP (NN pharmaceutical) (NN manufacturing))))))))))) (. .)))
+UpjohnUpjohnNNPORGPER0isbeVBZOPER0aaDTOPER0worldworldNNOPER0--HYPHOPER0widewideJJOPER0providerproviderNNOPER0ofofINOPER0healthhealthNNOPER0--HYPHOPER0carecareNNOPER0productsproductNNSOPER0andandCCOPER0servicesserviceNNSOPER0,,,OPER0seedsseedNNSOPER0andandCCOPER0specialityspecialityNNOPER0chemicalschemicalNNSOPER0...OPER0(ROOT (S (NP (NNP Upjohn)) (VP (VBZ is) (NP (NP (DT a) (ADJP (NN world) (HYPH -) (JJ wide)) (NN provider)) (PP (IN of) (NP (NP (NP (NML (NN health) (HYPH -) (NN care)) (NNS products)) (CC and) (NP (NNS services))) (, ,) (NP (NNS seeds)) (CC and) (NP (NN speciality) (NNS chemicals)))))) (. .)))
+<end>
+(end document)
+---------gold mentions--------
+sid=0 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Carlos) (NNP A.) (NNP Salvagni)) (, ,) (NP (NN vice) (NN president)) (, ,) (NP (NN pharmaceutical) (NN manufacturing)) (, ,))
+sid=1 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Salvagni)) (, ,) (ADJP (NML (CD 53) (NNS years)) (JJ old)) (, ,))
+(end gold mentions)
+---------predicted mentions--------
+sid=0 spanning 0 until 3 headed by 2 parsed as (NP (NP (NNP Carlos) (NNP A.) (NNP Salvagni)) (, ,) (NP (NN vice) (NN president)) (, ,) (NP (NN pharmaceutical) (NN manufacturing)) (, ,))
+sid=0 spanning 0 until 10 headed by 2 parsed as (NP (NP (NNP Carlos) (NNP A.) (NNP Salvagni)) (, ,) (NP (NN vice) (NN president)) (, ,) (NP (NN pharmaceutical) (NN manufacturing)) (, ,))
+sid=0 spanning 4 until 6 headed by 5 parsed as (NP (NN vice) (NN president))
+sid=0 spanning 7 until 9 headed by 8 parsed as (NP (NN pharmaceutical) (NN manufacturing))
+sid=0 spanning 12 until 15 headed by 12 parsed as (NP (NP (NN responsibility)) (PP (IN for) (NP (NN manufacturing))))
+sid=0 spanning 16 until 17 headed by 16 parsed as (NP (NP (NNP Kalamazoo)) (, ,) (NP (NNP Mich.)))
+sid=0 spanning 16 until 19 headed by 16 parsed as (NP (NP (NNP Kalamazoo)) (, ,) (NP (NNP Mich.)))
+sid=0 spanning 18 until 19 headed by 18 parsed as (NP (NNP Mich.))
+sid=0 spanning 21 until 23 headed by 21 parsed as (NP (NNP Nov.) (CD 1))
+sid=1 spanning 1 until 2 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Salvagni)) (, ,) (ADJP (NML (CD 53) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 0 until 7 headed by 1 parsed as (NP (NP (NNP Mr.) (NNP Salvagni)) (, ,) (ADJP (NML (CD 53) (NNS years)) (JJ old)) (, ,))
+sid=1 spanning 0 until 2 headed by 1 parsed as (NP (NNP Mr.) (NNP Salvagni))
+sid=1 spanning 3 until 6 headed by 5 parsed as old
+sid=1 spanning 8 until 11 headed by 10 parsed as (NP (NP (NP (NNP John) (NNP C.) (NNP Griffin)) (, ,) (NP (CD 57))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG retiring) (PP (IN as) (NP (NP (JJ corporate) (NN vice) (NN president)) (PP (IN of) (NP (NN pharmaceutical) (NN manufacturing))))))))))
+sid=1 spanning 8 until 24 headed by 10 parsed as (NP (NP (NP (NNP John) (NNP C.) (NNP Griffin)) (, ,) (NP (CD 57))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG retiring) (PP (IN as) (NP (NP (JJ corporate) (NN vice) (NN president)) (PP (IN of) (NP (NN pharmaceutical) (NN manufacturing))))))))))
+sid=1 spanning 8 until 13 headed by 10 parsed as (NP (NP (NNP John) (NNP C.) (NNP Griffin)) (, ,) (NP (CD 57)))
+sid=1 spanning 12 until 13 headed by 12 parsed as (NP (CD 57))
+sid=1 spanning 22 until 24 headed by 23 parsed as (NP (NN pharmaceutical) (NN manufacturing))
+sid=2 spanning 0 until 1 headed by 0 parsed as (NP (NNP Upjohn))
+sid=2 spanning 2 until 19 headed by 6 parsed as (NP (NP (DT a) (ADJP (NN world) (HYPH -) (JJ wide)) (NN provider)) (PP (IN of) (NP (NP (NP (NML (NN health) (HYPH -) (NN care)) (NNS products)) (CC and) (NP (NNS services))) (, ,) (NP (NNS seeds)) (CC and) (NP (NN speciality) (NNS chemicals)))))
+sid=2 spanning 8 until 19 headed by 11 parsed as (NP (NP (NP (NML (NN health) (HYPH -) (NN care)) (NNS products)) (CC and) (NP (NNS services))) (, ,) (NP (NNS seeds)) (CC and) (NP (NN speciality) (NNS chemicals)))
+sid=2 spanning 8 until 14 headed by 11 parsed as (NP (NP (NML (NN health) (HYPH -) (NN care)) (NNS products)) (CC and) (NP (NNS services)))
+sid=2 spanning 8 until 12 headed by 11 parsed as (NP (NML (NN health) (HYPH -) (NN care)) (NNS products))
+sid=2 spanning 13 until 14 headed by 13 parsed as (NP (NNS services))
+sid=2 spanning 15 until 16 headed by 15 parsed as (NP (NNS seeds))
+sid=2 spanning 17 until 19 headed by 18 parsed as (NP (NN speciality) (NNS chemicals))
+(end predicted mentions)
+---------gold clusters--------
+0 1 | { 'Carlos A. Salvagni , vice president , pharmaceutical manufacturing ,' 'Mr. Salvagni , 53 years old ,' }
+(end gold clusters)
