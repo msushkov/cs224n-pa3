@@ -282,6 +282,8 @@ public class RuleBased implements CoreferenceSystem {
         return mentions;
     }
 
+    // TODO: add NER-based rules for pronouns (he, she -> person, etc)
+    
     private boolean isPlural(String posTag) {
         return (posTag.equals("NNS") || posTag.equals("NNPS"));
     }
