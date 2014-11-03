@@ -97,20 +97,52 @@ public class RuleBased implements CoreferenceSystem {
         List<ClusteredMention> mentions = new ArrayList<ClusteredMention>();
         Map<String,Entity> clusters = new HashMap<String,Entity>();
 
+        String I_PRONOUNS = "I_KEY"; // i, me, mine, my, myself
+        Set<String> iPronounSet = new HashSet<String>();
+        iPronounSet.add("i");
+        iPronounSet.add("me");
+        iPronounSet.add("mine");
+        iPronounSet.add("my");
+        iPronounSet.add("myself");
+        
+        String YOU_PRONOUNS = "YOU_KEY"; // you, yourself
+        Set<String> youPronounSet = new HashSet<String>();
+        youPronounSet.add("you");
+        youPronounSet.add("yourself");
+
         // ignore pronouns
         for (Mention m : doc.getMentions()){
             String mentionString = m.gloss();
 
-            // if pronoun, then just add into its own cluster right away
-            if (Pronoun.valueOrNull(mentionString) != null) {
-                ClusteredMention newCluster = m.markSingleton();
-                mentions.add(newCluster);
-            } else if (clusters.containsKey(mentionString)) {
-                mentions.add(m.markCoreferent(clusters.get(mentionString)));
+            // handle i-pronoun case
+            if (iPronounSet.contains(mentionString.toLowerCase())) {
+                if (clusters.containsKey(I_PRONOUNS)) {
+                    mentions.add(m.markCoreferent(clusters.get(I_PRONOUNS)));
+                } else {
+                    ClusteredMention newCluster = m.markSingleton();
+                    mentions.add(newCluster);
+                    clusters.put(I_PRONOUNS, newCluster.entity);
+                }
+            } else if (youPronounSet.contains(mentionString.toLowerCase())) { // handle you-pronoun
+                if (clusters.containsKey(YOU_PRONOUNS)) {
+                    mentions.add(m.markCoreferent(clusters.get(YOU_PRONOUNS)));
+                } else {
+                    ClusteredMention newCluster = m.markSingleton();
+                    mentions.add(newCluster);
+                    clusters.put(YOU_PRONOUNS, newCluster.entity);
+                }
             } else {
-                ClusteredMention newCluster = m.markSingleton();
-                mentions.add(newCluster);
-                clusters.put(mentionString, newCluster.entity);
+                // if pronoun, then just add into its own cluster right away
+                if (Pronoun.valueOrNull(mentionString) != null) {
+                    ClusteredMention newCluster = m.markSingleton();
+                    mentions.add(newCluster); 
+                } else if (clusters.containsKey(mentionString)) {
+                    mentions.add(m.markCoreferent(clusters.get(mentionString)));
+                } else {
+                    ClusteredMention newCluster = m.markSingleton();
+                    mentions.add(newCluster);
+                    clusters.put(mentionString, newCluster.entity);
+                }
             }
         }
         return mentions;
@@ -128,7 +160,7 @@ public class RuleBased implements CoreferenceSystem {
             String mentionHeadString = m.sentence.lemmas.get(m.headWordIndex);
 
             // if pronoun, then ignore
-            if (Pronoun.isSomePronoun(m.gloss())) {
+            if (Pronoun.valueOrNull(m.gloss()) != null) {
                 // do nothing
             } else if (clusters.containsKey(mentionHeadString) && c.entity.mentions.size() == 1) {
                 // if there is an exact head match and this mention was clustered by itself
@@ -148,7 +180,7 @@ public class RuleBased implements CoreferenceSystem {
         Set<Entity> entities = new HashSet<Entity>();
         for (ClusteredMention c : mentions) {
             Mention m = c.mention;
-            if (Pronoun.valueOrNull(m.gloss().toLowerCase()) == null) {
+            if (Pronoun.valueOrNull(m.gloss()) == null) {
                 entities.add(c.entity);
             }
         }
@@ -159,9 +191,9 @@ public class RuleBased implements CoreferenceSystem {
             Mention m = c.mention;
 
             // if not a pronoun, skip
-            if (Pronoun.valueOrNull(m.gloss().toLowerCase()) != null) {
+            if (Pronoun.valueOrNull(m.gloss()) != null) {
                 // get the NER, tense, gender
-                Pronoun currPronoun = Pronoun.valueOrNull(m.gloss().toLowerCase());
+                Pronoun currPronoun = Pronoun.valueOrNull(m.gloss());
 
                 boolean isPlural = currPronoun.plural;
                 Gender pronounGender = currPronoun.gender;
