@@ -144,10 +144,13 @@ public class RuleBased implements CoreferenceSystem {
     }
 
     public List<ClusteredMention> handlePronouns(List<ClusteredMention> mentions) {
-        // get all the entities (clusters)
+        // get all the non-pronoun entities (clusters)
         Set<Entity> entities = new HashSet<Entity>();
         for (ClusteredMention c : mentions) {
-            entities.add(c.entity);
+            Mention m = c.mention;
+            if (Pronoun.valueOrNull(m.gloss().toLowerCase()) == null) {
+                entities.add(c.entity);
+            }
         }
 
         // go through all the pronouns
@@ -165,11 +168,11 @@ public class RuleBased implements CoreferenceSystem {
                 Pronoun.Speaker pronounSpeaker = currPronoun.speaker;
 
                 Entity bestEntity = null;
-                int entityWithClosestMentionDistance = 1000;
+                int entityWithClosestMentionDistance = Integer.MAX_VALUE;
 
                 for (Entity e : entities) {
                     Mention closestCandidateMention = null;
-                    int closestCandidateMentionDistance = 1000;
+                    int closestCandidateMentionDistance = Integer.MAX_VALUE;
                     boolean allFitCriteria = true; // make sure that each of the entity clusters satisfies the criteria for this given pronoun
 
                     // go through each mention in each entity cluster
@@ -186,28 +189,28 @@ public class RuleBased implements CoreferenceSystem {
                         if (speaker.containsKey(currMentionHeadLemma)) {
                             candidateSpeaker = speaker.get(currMentionHeadLemma);
                         }
-                        
-//                        System.out.println("<<<<<");
-//                        
-//                        System.out.println("candidate speaker: " + candidateSpeaker);
-//                        System.out.println("candidate gender: " + candidateGender);
-//                        System.out.println("candidate plural: " + isCandidatePlural);
-//                        
-//                        System.out.println("pronoun speaker: " + pronounSpeaker);
-//                        System.out.println("pronoun gender: " + pronounGender);
-//                        System.out.println("pronoun plural: " + isPlural);
-//                        
-//                        System.out.println(">>>>>>");
-                        
-//                        if (candidateSpeaker != null) {
-//                            System.out.println("candidate speaker: " + candidateSpeaker);
-//                            System.out.println("candidate gender: " + candidateGender);
-//                            System.out.println("candidate plural: " + isCandidatePlural);
-//                        }
+
+                        //                        System.out.println("<<<<<");
+                        //                        
+                        //                        System.out.println("candidate speaker: " + candidateSpeaker);
+                        //                        System.out.println("candidate gender: " + candidateGender);
+                        //                        System.out.println("candidate plural: " + isCandidatePlural);
+                        //                        
+                        //                        System.out.println("pronoun speaker: " + pronounSpeaker);
+                        //                        System.out.println("pronoun gender: " + pronounGender);
+                        //                        System.out.println("pronoun plural: " + isPlural);
+                        //                        
+                        //                        System.out.println(">>>>>>");
+
+                        //                        if (candidateSpeaker != null) {
+                        //                            System.out.println("candidate speaker: " + candidateSpeaker);
+                        //                            System.out.println("candidate gender: " + candidateGender);
+                        //                            System.out.println("candidate plural: " + isCandidatePlural);
+                        //                        }
 
                         // compare the pronoun and the current mention
                         if ((isCandidatePlural == isPlural && pronounGender == candidateGender && pronounSpeaker == candidateSpeaker) || 
-                                (isCandidatePlural == isPlural && candidateSpeaker == null || candidateGender == null)) {
+                                (candidateSpeaker == null || candidateGender == null)) {
                             // record the distance between the pronoun and this mention
                             int distance;
                             if (m.beginIndexInclusive > candidateMention.endIndexExclusive) {
@@ -215,7 +218,7 @@ public class RuleBased implements CoreferenceSystem {
                             } else {
                                 distance = candidateMention.beginIndexInclusive - m.endIndexExclusive;
                             }
-                            
+
                             //System.out.println("Distance: " + distance);
 
                             if (distance < closestCandidateMentionDistance) {
