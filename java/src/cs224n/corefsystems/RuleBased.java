@@ -100,7 +100,7 @@ public class RuleBased implements CoreferenceSystem {
         List<ClusteredMention> mentions = exactHeadMatch(doc);
 
         // 2. take care of pronouns
-        //mentions = handlePronouns(mentions);
+        mentions = handlePronouns(mentions);
 
         return mentions;
     }
@@ -234,13 +234,14 @@ public class RuleBased implements CoreferenceSystem {
 
                 // find the entity with which this current pronoun is most likely to be coreferent
                 Entity bestEntity = null;
-                int bestEntityScore = Integer.MAX_VALUE;
+                int bestEntityScore = Integer.MIN_VALUE;
+
                 for (Entity e : entities) {
-                    int score = pronounEntityMatchScore(currPronoun, m, e);
-                    if (score < bestEntityScore) {
-                        bestEntityScore = score;
-                        bestEntity = e;
-                    }
+                	int score = pronounEntityMatchScore(currPronoun, m, e);
+                	if (score > bestEntityScore) {
+                		bestEntityScore = score;
+                		bestEntity = e;
+                	}
                 }
 
                 if (bestEntity != null) {
@@ -264,16 +265,17 @@ public class RuleBased implements CoreferenceSystem {
     }
 
     private int pronounEntityMatchScore(Pronoun p, Mention pronounMention, Entity e) {
+    	int score = 0;
+        int closestCandidateMentionDistance = Integer.MAX_VALUE;
+
         boolean isPlural = p.plural;
         Gender pronounGender = p.gender;
         Pronoun.Speaker pronounSpeaker = p.speaker;
 
-        Mention closestCandidateMention = null;
-        int closestCandidateMentionDistance = Integer.MAX_VALUE;
-        boolean allFitCriteria = true; // make sure that each of the entity clusters satisfies the criteria for this given pronoun
-
         // go through each mention in each entity cluster
         for (Mention candidateMention : e.mentions) {
+        	Pronoun candidatePronoun = Pronoun.valueOrNull(candidateMention.gloss());
+        	
             String currMentionHeadLemma = candidateMention.sentence.lemmas.get(candidateMention.headWordIndex);
 
             boolean isCandidatePlural = isPlural(candidateMention.sentence.posTags.get(candidateMention.headWordIndex));
@@ -286,31 +288,67 @@ public class RuleBased implements CoreferenceSystem {
             if (speaker.containsKey(currMentionHeadLemma)) {
                 candidateSpeaker = speaker.get(currMentionHeadLemma);
             }
-
-            // compare the pronoun and the current mention
-            if ((isCandidatePlural == isPlural && pronounGender == candidateGender && pronounSpeaker == candidateSpeaker) || 
-                    (candidateSpeaker == null || candidateGender == null)) {
-                // record the distance between the pronoun and this mention
-                int distance;
-                if (pronounMention.beginIndexInclusive > candidateMention.endIndexExclusive) {
-                    distance = pronounMention.beginIndexInclusive - candidateMention.endIndexExclusive;
-                } else {
-                    distance = candidateMention.beginIndexInclusive - pronounMention.endIndexExclusive;
-                }
-
-                if (distance < closestCandidateMentionDistance) {
-                    closestCandidateMentionDistance = distance;
-                    closestCandidateMention = candidateMention;
-                }
+            
+            if (isCandidatePlural == isPlural) {
+            	score += 1;
             } else {
-                allFitCriteria = false;
+            	score -= 1;
+            }
+            
+            if (candidateGender != null) {
+            	if (pronounGender == candidateGender) {
+            		score += 1;
+            	} else {
+            		score -= 1;
+            	}
+            }
+            
+            if (candidatePronoun != null) {
+            	if (candidatePronoun.equals(p)) {
+            		score += 4;
+            	} else {
+            		if (candidatePronoun.gender == p.gender) {
+            			score += 1;
+            		} else {
+            			score -= 4;
+            		}
+            		
+            		if (candidatePronoun.speaker == p.speaker) {
+            			score += 1;
+            		} else {
+            			score -= 4;
+            		}
+            		
+            		if (candidatePronoun.plural == p.plural) {
+            			score += 1;
+            		} else {
+            			score -= 4;
+            		}
+            	}
+
+            }
+            
+            if (candidateSpeaker != null) {
+            	if (pronounSpeaker == candidateSpeaker) {
+            		score += 1;
+            	} else {
+            		score -= 1;
+            	}
+            }
+
+            int distance;
+            if (pronounMention.beginIndexInclusive > candidateMention.endIndexExclusive) {
+                distance = pronounMention.beginIndexInclusive - candidateMention.endIndexExclusive;
+            } else {
+                distance = candidateMention.beginIndexInclusive - pronounMention.endIndexExclusive;
+            }
+
+            if (distance < closestCandidateMentionDistance) {
+                closestCandidateMentionDistance = distance;
             }
         }
-
-        if (allFitCriteria) {
-            return closestCandidateMentionDistance;
-        }
-
-        return 0;
+        
+        score -= .1 * closestCandidateMentionDistance;
+    	return score;
     }
 }
