@@ -23,9 +23,14 @@ public class RuleBased implements CoreferenceSystem {
 
     // what gender are words in the training set?
     HashMap<String, Gender> gender = new HashMap<String, Gender>();
-    
+
     // what is the speaker of words in the training set?
     HashMap<String, Pronoun.Speaker> speaker = new HashMap<String, Pronoun.Speaker>();
+
+    // counts words that are coreferent
+    CounterMap<String, String> counts = new CounterMap<String, String>();
+    int MIN_COUNT = 5;
+
 
     // Collect gender and speaker statistics from the training set using the pronouns that words are coreferent with.
     // Look at words that are coreferent with pronouns and tally up the corresponding speaker/gender of that pronoun.
@@ -49,6 +54,9 @@ public class RuleBased implements CoreferenceSystem {
                     String m1Text = sent1.words.get(m1.headWordIndex);
                     String m2Text = sent2.words.get(m2.headWordIndex);
 
+                    counts.incrementCount(m1Text, m2Text, 1);
+                    counts.incrementCount(m2Text, m1Text, 1);
+
                     // if m1 is a pronoun and m2 is not
                     if (Pronoun.valueOrNull(m1Text) != null && Pronoun.valueOrNull(m2Text) == null) {
                         Pronoun curr = Pronoun.valueOrNull(m1Text);
@@ -57,7 +65,7 @@ public class RuleBased implements CoreferenceSystem {
                             genderCounter.incrementCount(word.toLowerCase(), curr.gender, 1);
                             personCounter.incrementCount(word.toLowerCase(), curr.speaker, 1);    
                         }
-                    // if m2 is a pronoun and m1 is not
+                        // if m2 is a pronoun and m1 is not
                     } else if (Pronoun.valueOrNull(m2Text) != null && Pronoun.valueOrNull(m1Text) == null) {
                         Pronoun curr = Pronoun.valueOrNull(m2Text);
                         if (curr != null) {
@@ -88,14 +96,11 @@ public class RuleBased implements CoreferenceSystem {
 
     @Override
     public List<ClusteredMention> runCoreference(Document doc) {
-        // 1. do exact string match on the whole mention
-        List<ClusteredMention> mentions = exactStrMatch(doc);
+        // 1. do exact string match on the mention head lemma
+        List<ClusteredMention> mentions = exactHeadMatch(doc);
 
-        // 2. do exact string match on the mention head lemma
-        mentions = exactHeadMatch(mentions);
-
-        // 3. take care of pronouns
-        mentions = handlePronouns(mentions);
+        // 2. take care of pronouns
+        //mentions = handlePronouns(mentions);
 
         return mentions;
     }
@@ -104,82 +109,107 @@ public class RuleBased implements CoreferenceSystem {
         List<ClusteredMention> mentions = new ArrayList<ClusteredMention>();
         Map<String,Entity> clusters = new HashMap<String,Entity>();
 
-        String I_PRONOUNS = "I_KEY"; // i, me, mine, my, myself
-        Set<String> iPronounSet = new HashSet<String>();
-        iPronounSet.add("i");
-        iPronounSet.add("me");
-        iPronounSet.add("mine");
-        iPronounSet.add("my");
-        iPronounSet.add("myself");
-        
-        String YOU_PRONOUNS = "YOU_KEY"; // you, yourself
-        Set<String> youPronounSet = new HashSet<String>();
-        youPronounSet.add("you");
-        youPronounSet.add("yourself");
-
-        // ignore pronouns
         for (Mention m : doc.getMentions()){
             String mentionString = m.gloss();
 
-            // handle i-pronoun case
-            if (iPronounSet.contains(mentionString.toLowerCase())) {
-                if (clusters.containsKey(I_PRONOUNS)) {
-                    mentions.add(m.markCoreferent(clusters.get(I_PRONOUNS)));
-                } else {
-                    ClusteredMention newCluster = m.markSingleton();
-                    mentions.add(newCluster);
-                    clusters.put(I_PRONOUNS, newCluster.entity);
-                }
-            } else if (youPronounSet.contains(mentionString.toLowerCase())) { // handle you-pronoun
-                if (clusters.containsKey(YOU_PRONOUNS)) {
-                    mentions.add(m.markCoreferent(clusters.get(YOU_PRONOUNS)));
-                } else {
-                    ClusteredMention newCluster = m.markSingleton();
-                    mentions.add(newCluster);
-                    clusters.put(YOU_PRONOUNS, newCluster.entity);
-                }
+            if (clusters.containsKey(mentionString)) {
+                mentions.add(m.markCoreferent(clusters.get(mentionString)));
             } else {
-                // if pronoun, then just add into its own cluster right away
-                if (Pronoun.valueOrNull(mentionString) != null) {
-                    ClusteredMention newCluster = m.markSingleton();
-                    mentions.add(newCluster); 
-                } else if (clusters.containsKey(mentionString)) {
-                    mentions.add(m.markCoreferent(clusters.get(mentionString)));
-                } else {
-                    ClusteredMention newCluster = m.markSingleton();
-                    mentions.add(newCluster);
-                    clusters.put(mentionString, newCluster.entity);
-                }
+                ClusteredMention newCluster = m.markSingleton();
+                mentions.add(newCluster);
+                clusters.put(mentionString, newCluster.entity);
             }
+
         }
         return mentions;
     }
 
     // todo: add NER check
-    public List<ClusteredMention> exactHeadMatch(List<ClusteredMention> mentions) {        
+    /*public List<ClusteredMention> exactHeadMatch(List<ClusteredMention> mentions) {        
         Map<String,Entity> clusters = new HashMap<String,Entity>();
+        Set<Entity> entities = new HashSet<Entity>();
 
-        // ignore pronouns
+        for (ClusteredMention m : mentions) {
+            entities.add(m.entity);
+        }
+
         for (int i = 0; i < mentions.size(); i++) {
             ClusteredMention c = mentions.get(i);
-
             Mention m = c.mention;
             String mentionHeadString = m.sentence.lemmas.get(m.headWordIndex);
 
-            // if pronoun, then ignore
-            if (Pronoun.valueOrNull(m.gloss()) != null) {
-                // do nothing
-            } else if (clusters.containsKey(mentionHeadString) && c.entity.mentions.size() == 1) {
-                // if there is an exact head match and this mention was clustered by itself
-                // (it was not an exact string match with anything before)
-                m.removeCoreference();
-                mentions.set(i, m.markCoreferent(clusters.get(mentionHeadString)));
-            } else {
-                // not exact head match (or already in an exact string match cluster), so just keep it the way it is
-                clusters.put(mentionHeadString, c.entity);
+            //            if (clusters.containsKey(mentionHeadString) && c.entity.mentions.size() == 1) {
+            //                // if there is an exact head match and this mention was clustered by itself
+            //                // (it was not an exact string match with anything before)
+            //                m.removeCoreference();
+            //                mentions.set(i, m.markCoreferent(clusters.get(mentionHeadString)));
+            //            } else {
+            //                // not exact head match (or already in an exact string match cluster), so just keep it the way it is
+            //                clusters.put(mentionHeadString, c.entity);
+            //            }
+
+            // go through all the entities; if find a match, then add it to that cluster; otherwise, leave it as is
+            boolean isMatch = false;
+            for (Entity e : entities) {
+                if (!e.equals(c.entity) && checkClusterCoref(m, e)) {
+                    m.removeCoreference();
+                    c.entity.remove(m);
+                    mentions.set(i, m.markCoreferent(e));
+                    isMatch = true;
+                    break;
+                }
+            }
+            if (!isMatch) {
+                //System.out.println(mentions.get(i).entity.size());
+                //                ClusteredMention newCluster = m.markSingleton();
+                //                clusters.add(newCluster);
+                //                entities.add(newCluster.entity);
+                // keep it the way it is
             }
         }
         return mentions;
+    }*/
+    
+    public List<ClusteredMention> exactHeadMatch(Document doc) {
+        ArrayList<ClusteredMention> clusters = new ArrayList<ClusteredMention>();
+        ArrayList<Entity> entities = new ArrayList<Entity>();
+
+        // if this mention is not coreferent with any of our existing clusters, make it its own cluster
+        for (Mention m : doc.getMentions()) {
+            // go through all the entities; if find a match, then add it to that cluster; otherwise, make it its own
+            boolean isMatch = false;
+            for (Entity e : entities) {
+                if (checkClusterCoref(m, e)) {
+                    clusters.add(m.markCoreferent(e));
+                    isMatch = true;
+                    break;
+                }
+            }
+            if (!isMatch) {
+                ClusteredMention newCluster = m.markSingleton();
+                clusters.add(newCluster);
+                entities.add(newCluster.entity);
+            }
+        }
+        return clusters;
+    }
+
+    // Used in exactHeadMatch().
+    // Checks if given mention is coreferent with all members of the cluster.
+    // Coreferent here means that either the head lemmas match, or the word pair has a significant count in the training set
+    public boolean checkClusterCoref(Mention testMention, Entity e) {
+        String testHeadLemma = testMention.sentence.lemmas.get(testMention.headWordIndex);
+
+        for (Mention m : e.mentions) {
+            String currHeadLemma = m.sentence.lemmas.get(m.headWordIndex);
+            Double c1 = counts.getCount(testHeadLemma, currHeadLemma);
+            Double c2 = counts.getCount(currHeadLemma, testHeadLemma);
+
+            if (!(currHeadLemma.equals(testHeadLemma) || c1 > MIN_COUNT || c2 > MIN_COUNT)) {
+                return false;
+            }
+        }
+        return true;
     }
 
     public List<ClusteredMention> handlePronouns(List<ClusteredMention> mentions) {
@@ -202,15 +232,15 @@ public class RuleBased implements CoreferenceSystem {
                 // get the NER, tense, gender
                 Pronoun currPronoun = Pronoun.valueOrNull(m.gloss());
 
+                // find the entity with which this current pronoun is most likely to be coreferent
                 Entity bestEntity = null;
                 int bestEntityScore = Integer.MAX_VALUE;
-
                 for (Entity e : entities) {
-                	int score = pronounEntityMatchScore(currPronoun, m, e);
-                	if (score < bestEntityScore) {
-                		bestEntityScore = score;
-                		bestEntity = e;
-                	}
+                    int score = pronounEntityMatchScore(currPronoun, m, e);
+                    if (score < bestEntityScore) {
+                        bestEntityScore = score;
+                        bestEntity = e;
+                    }
                 }
 
                 if (bestEntity != null) {
@@ -228,17 +258,17 @@ public class RuleBased implements CoreferenceSystem {
     }
 
     // TODO: add NER-based rules for pronouns (he, she -> person, etc)
-    
+
     private boolean isPlural(String posTag) {
         return (posTag.equals("NNS") || posTag.equals("NNPS"));
     }
-    
+
     private int pronounEntityMatchScore(Pronoun p, Mention pronounMention, Entity e) {
         boolean isPlural = p.plural;
         Gender pronounGender = p.gender;
         Pronoun.Speaker pronounSpeaker = p.speaker;
-    	
-    	Mention closestCandidateMention = null;
+
+        Mention closestCandidateMention = null;
         int closestCandidateMentionDistance = Integer.MAX_VALUE;
         boolean allFitCriteria = true; // make sure that each of the entity clusters satisfies the criteria for this given pronoun
 
@@ -268,8 +298,6 @@ public class RuleBased implements CoreferenceSystem {
                     distance = candidateMention.beginIndexInclusive - pronounMention.endIndexExclusive;
                 }
 
-                //System.out.println("Distance: " + distance);
-
                 if (distance < closestCandidateMentionDistance) {
                     closestCandidateMentionDistance = distance;
                     closestCandidateMention = candidateMention;
@@ -280,9 +308,9 @@ public class RuleBased implements CoreferenceSystem {
         }
 
         if (allFitCriteria) {
-        	return closestCandidateMentionDistance;
+            return closestCandidateMentionDistance;
         }
 
-    	return 0;
+        return 0;
     }
 }
