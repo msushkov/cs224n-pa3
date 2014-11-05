@@ -272,8 +272,29 @@ public class RuleBased implements CoreferenceSystem {
             	}
             }
             
-            if (candidatePronoun != null && candidatePronoun.equals(p)) {
-            	score += 3;
+            if (candidatePronoun != null) {
+            	if (candidatePronoun.equals(p)) {
+            		score += 4;
+            	} else {
+            		if (candidatePronoun.gender == p.gender) {
+            			score += 1;
+            		} else {
+            			score -= 4;
+            		}
+            		
+            		if (candidatePronoun.speaker == p.speaker) {
+            			score += 1;
+            		} else {
+            			score -= 4;
+            		}
+            		
+            		if (candidatePronoun.plural == p.plural) {
+            			score += 1;
+            		} else {
+            			score -= 4;
+            		}
+            	}
+
             }
             
             if (candidateSpeaker != null) {
@@ -297,7 +318,7 @@ public class RuleBased implements CoreferenceSystem {
             }
         }
         
-        score -= .5 * closestCandidateMentionDistance;
+        score -= .1 * closestCandidateMentionDistance;
     	return score;
     }
 }
