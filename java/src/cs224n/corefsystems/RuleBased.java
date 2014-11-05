@@ -21,9 +21,15 @@ import cs224n.util.Pair;
 
 public class RuleBased implements CoreferenceSystem {
 
+    // what gender are words in the training set?
     HashMap<String, Gender> gender = new HashMap<String, Gender>();
+    
+    // what is the speaker of words in the training set?
     HashMap<String, Pronoun.Speaker> speaker = new HashMap<String, Pronoun.Speaker>();
 
+    // Collect gender and speaker statistics from the training set using the pronouns that words are coreferent with.
+    // Look at words that are coreferent with pronouns and tally up the corresponding speaker/gender of that pronoun.
+    // Then get the most frequent speaker/gender and say that this is the speaker/gender of the word.
     @Override
     public void train(Collection<Pair<Document, List<Entity>>> trainingData) {
         // word, gender
@@ -33,7 +39,6 @@ public class RuleBased implements CoreferenceSystem {
         CounterMap<String, Pronoun.Speaker> personCounter = new CounterMap<String, Pronoun.Speaker>();
 
         // collect gender/speaker information
-
         for (Pair<Document, List<Entity>> point : trainingData) {
             for (Entity e : point.getSecond()) {
                 for (Pair<Mention, Mention> pair : e.orderedMentionPairs()) {
@@ -44,6 +49,7 @@ public class RuleBased implements CoreferenceSystem {
                     String m1Text = sent1.words.get(m1.headWordIndex);
                     String m2Text = sent2.words.get(m2.headWordIndex);
 
+                    // if m1 is a pronoun and m2 is not
                     if (Pronoun.valueOrNull(m1Text) != null && Pronoun.valueOrNull(m2Text) == null) {
                         Pronoun curr = Pronoun.valueOrNull(m1Text);
                         if (curr != null) {
@@ -51,6 +57,7 @@ public class RuleBased implements CoreferenceSystem {
                             genderCounter.incrementCount(word.toLowerCase(), curr.gender, 1);
                             personCounter.incrementCount(word.toLowerCase(), curr.speaker, 1);    
                         }
+                    // if m2 is a pronoun and m1 is not
                     } else if (Pronoun.valueOrNull(m2Text) != null && Pronoun.valueOrNull(m1Text) == null) {
                         Pronoun curr = Pronoun.valueOrNull(m2Text);
                         if (curr != null) {
@@ -59,7 +66,7 @@ public class RuleBased implements CoreferenceSystem {
                             personCounter.incrementCount(word.toLowerCase(), curr.speaker, 1);
                         }
                     } else {
-                        // skip
+                        // skip: both m1 and m2 are pronouns, or neither is
                     }
                 }
             }

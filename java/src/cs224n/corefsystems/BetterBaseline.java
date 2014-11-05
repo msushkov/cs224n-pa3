@@ -11,12 +11,13 @@ import cs224n.util.Pair;
 
 public class BetterBaseline implements CoreferenceSystem {
 
+    // counts words that are coreferent
     CounterMap<String, String> counts = new CounterMap<String, String>();
     int MIN_COUNT = 5;
 
     @Override
     public void train(Collection<Pair<Document, List<Entity>>> trainingData) {
-        // count pairwise corefs
+        // count how often pairs of words are coreferent
         for (Pair<Document, List<Entity>> point : trainingData) {
             Document doc = point.getFirst();
             for (Entity e : point.getSecond()) {
@@ -34,6 +35,7 @@ public class BetterBaseline implements CoreferenceSystem {
         }
     }
 
+    
     @Override
     public List<ClusteredMention> runCoreference(Document doc) {
         ArrayList<ClusteredMention> clusters = new ArrayList<ClusteredMention>();
@@ -59,7 +61,8 @@ public class BetterBaseline implements CoreferenceSystem {
         return clusters;
     }
 
-    // checks if given mention is coreferent with all members of the cluster
+    // Checks if given mention is coreferent with all members of the cluster.
+    // Coreferent here means that either the head lemmas match, or the word pair has a significant count in the training set
     public boolean checkClusterCoref(Mention testMention, Entity e) {
         String testHeadLemma = testMention.sentence.lemmas.get(testMention.headWordIndex);
 
