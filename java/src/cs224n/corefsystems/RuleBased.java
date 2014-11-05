@@ -15,6 +15,7 @@ import cs224n.coref.Gender;
 import cs224n.coref.Mention;
 import cs224n.coref.Pronoun;
 import cs224n.coref.Sentence;
+import cs224n.coref.Pronoun.Speaker;
 import cs224n.util.Counter;
 import cs224n.util.CounterMap;
 import cs224n.util.Pair;
@@ -22,14 +23,22 @@ import cs224n.util.Pair;
 public class RuleBased implements CoreferenceSystem {
 
     // what gender are words in the training set?
-    HashMap<String, Gender> gender = new HashMap<String, Gender>();
+    static HashMap<String, Gender> gender = new HashMap<String, Gender>();
 
     // what is the speaker of words in the training set?
-    HashMap<String, Pronoun.Speaker> speaker = new HashMap<String, Pronoun.Speaker>();
+    static HashMap<String, Pronoun.Speaker> speaker = new HashMap<String, Pronoun.Speaker>();
 
     // counts words that are coreferent
-    CounterMap<String, String> counts = new CounterMap<String, String>();
-    int MIN_COUNT = 5;
+    static CounterMap<String, String> counts = new CounterMap<String, String>();
+    static int MIN_COUNT = 5;
+
+
+    static HashSet<String> nonPersonPronouns = new HashSet<String>();
+    static {
+        nonPersonPronouns.add("it");
+        nonPersonPronouns.add("its");
+        nonPersonPronouns.add("itself");
+    }
 
 
     // Collect gender and speaker statistics from the training set using the pronouns that words are coreferent with.
@@ -100,7 +109,7 @@ public class RuleBased implements CoreferenceSystem {
         List<ClusteredMention> mentions = exactHeadMatch(doc);
 
         // 2. take care of pronouns
-        mentions = handlePronouns(mentions);
+        //mentions = handlePronouns(mentions);
 
         return mentions;
     }
@@ -124,74 +133,38 @@ public class RuleBased implements CoreferenceSystem {
         return mentions;
     }
 
-    // todo: add NER check
-    /*public List<ClusteredMention> exactHeadMatch(List<ClusteredMention> mentions) {        
-        Map<String,Entity> clusters = new HashMap<String,Entity>();
-        Set<Entity> entities = new HashSet<Entity>();
-
-        for (ClusteredMention m : mentions) {
-            entities.add(m.entity);
-        }
-
-        for (int i = 0; i < mentions.size(); i++) {
-            ClusteredMention c = mentions.get(i);
-            Mention m = c.mention;
-            String mentionHeadString = m.sentence.lemmas.get(m.headWordIndex);
-
-            //            if (clusters.containsKey(mentionHeadString) && c.entity.mentions.size() == 1) {
-            //                // if there is an exact head match and this mention was clustered by itself
-            //                // (it was not an exact string match with anything before)
-            //                m.removeCoreference();
-            //                mentions.set(i, m.markCoreferent(clusters.get(mentionHeadString)));
-            //            } else {
-            //                // not exact head match (or already in an exact string match cluster), so just keep it the way it is
-            //                clusters.put(mentionHeadString, c.entity);
-            //            }
-
-            // go through all the entities; if find a match, then add it to that cluster; otherwise, leave it as is
-            boolean isMatch = false;
-            for (Entity e : entities) {
-                if (!e.equals(c.entity) && checkClusterCoref(m, e)) {
-                    m.removeCoreference();
-                    c.entity.remove(m);
-                    mentions.set(i, m.markCoreferent(e));
-                    isMatch = true;
-                    break;
-                }
-            }
-            if (!isMatch) {
-                //System.out.println(mentions.get(i).entity.size());
-                //                ClusteredMention newCluster = m.markSingleton();
-                //                clusters.add(newCluster);
-                //                entities.add(newCluster.entity);
-                // keep it the way it is
-            }
-        }
-        return mentions;
-    }*/
-    
     public List<ClusteredMention> exactHeadMatch(Document doc) {
-        ArrayList<ClusteredMention> clusters = new ArrayList<ClusteredMention>();
+        ArrayList<ClusteredMention> mentions = new ArrayList<ClusteredMention>();
         ArrayList<Entity> entities = new ArrayList<Entity>();
 
         // if this mention is not coreferent with any of our existing clusters, make it its own cluster
         for (Mention m : doc.getMentions()) {
+            // if this is a pronoun
+            if (Pronoun.valueOrNull(m.gloss()) != null) {
+                // if not a first- or second- person pronoun, just make it its own cluster
+                ClusteredMention newCluster = m.markSingleton();
+                mentions.add(newCluster);
+                entities.add(newCluster.entity);
+                continue;
+            }
+
             // go through all the entities; if find a match, then add it to that cluster; otherwise, make it its own
             boolean isMatch = false;
             for (Entity e : entities) {
                 if (checkClusterCoref(m, e)) {
-                    clusters.add(m.markCoreferent(e));
+                    mentions.add(m.markCoreferent(e));
                     isMatch = true;
                     break;
                 }
             }
             if (!isMatch) {
                 ClusteredMention newCluster = m.markSingleton();
-                clusters.add(newCluster);
+                mentions.add(newCluster);
                 entities.add(newCluster.entity);
             }
         }
-        return clusters;
+
+        return mentions;
     }
 
     // Used in exactHeadMatch().
@@ -237,15 +210,16 @@ public class RuleBased implements CoreferenceSystem {
                 int bestEntityScore = Integer.MIN_VALUE;
 
                 for (Entity e : entities) {
-                	int score = pronounEntityMatchScore(currPronoun, m, e);
-                	if (score > bestEntityScore) {
-                		bestEntityScore = score;
-                		bestEntity = e;
-                	}
+                    int score = pronounEntityMatchScore(currPronoun, m, e);
+                    if (score > bestEntityScore) {
+                        bestEntityScore = score;
+                        bestEntity = e;
+                    }
                 }
 
                 if (bestEntity != null) {
                     // found the entity for this pronoun
+                    c.entity.remove(m);
                     m.removeCoreference();
                     mentions.set(i, m.markCoreferent(bestEntity));
                 } else {
@@ -265,7 +239,7 @@ public class RuleBased implements CoreferenceSystem {
     }
 
     private int pronounEntityMatchScore(Pronoun p, Mention pronounMention, Entity e) {
-    	int score = 0;
+        int score = 0;
         int closestCandidateMentionDistance = Integer.MAX_VALUE;
 
         boolean isPlural = p.plural;
@@ -274,8 +248,8 @@ public class RuleBased implements CoreferenceSystem {
 
         // go through each mention in each entity cluster
         for (Mention candidateMention : e.mentions) {
-        	Pronoun candidatePronoun = Pronoun.valueOrNull(candidateMention.gloss());
-        	
+            Pronoun candidatePronoun = Pronoun.valueOrNull(candidateMention.gloss());
+
             String currMentionHeadLemma = candidateMention.sentence.lemmas.get(candidateMention.headWordIndex);
 
             boolean isCandidatePlural = isPlural(candidateMention.sentence.posTags.get(candidateMention.headWordIndex));
@@ -288,52 +262,52 @@ public class RuleBased implements CoreferenceSystem {
             if (speaker.containsKey(currMentionHeadLemma)) {
                 candidateSpeaker = speaker.get(currMentionHeadLemma);
             }
-            
+
             if (isCandidatePlural == isPlural) {
-            	score += 1;
+                score += 1;
             } else {
-            	score -= 1;
+                score -= 1;
             }
-            
+
             if (candidateGender != null) {
-            	if (pronounGender == candidateGender) {
-            		score += 1;
-            	} else {
-            		score -= 1;
-            	}
+                if (pronounGender == candidateGender) {
+                    score += 1;
+                } else {
+                    score -= 1;
+                }
             }
-            
+
             if (candidatePronoun != null) {
-            	if (candidatePronoun.equals(p)) {
-            		score += 4;
-            	} else {
-            		if (candidatePronoun.gender == p.gender) {
-            			score += 1;
-            		} else {
-            			score -= 4;
-            		}
-            		
-            		if (candidatePronoun.speaker == p.speaker) {
-            			score += 1;
-            		} else {
-            			score -= 4;
-            		}
-            		
-            		if (candidatePronoun.plural == p.plural) {
-            			score += 1;
-            		} else {
-            			score -= 4;
-            		}
-            	}
+                if (candidatePronoun.equals(p)) {
+                    score += 4;
+                } else {
+                    if (candidatePronoun.gender == p.gender) {
+                        score += 1;
+                    } else {
+                        score -= 4;
+                    }
+
+                    if (candidatePronoun.speaker == p.speaker) {
+                        score += 1;
+                    } else {
+                        score -= 4;
+                    }
+
+                    if (candidatePronoun.plural == p.plural) {
+                        score += 1;
+                    } else {
+                        score -= 4;
+                    }
+                }
 
             }
-            
+
             if (candidateSpeaker != null) {
-            	if (pronounSpeaker == candidateSpeaker) {
-            		score += 1;
-            	} else {
-            		score -= 1;
-            	}
+                if (pronounSpeaker == candidateSpeaker) {
+                    score += 1;
+                } else {
+                    score -= 1;
+                }
             }
 
             int distance;
@@ -346,9 +320,29 @@ public class RuleBased implements CoreferenceSystem {
             if (distance < closestCandidateMentionDistance) {
                 closestCandidateMentionDistance = distance;
             }
+
+            // NER tags
+            String candMentionNER = candidateMention.sentence.nerTags.get(candidateMention.headWordIndex);
+            if (!candMentionNER.equals("O")) {
+                // if NER tag is DATE, penalize (unlikely to have pronoun with DATE)
+                if (candMentionNER.equals("DATE")) {
+                    score += 1;
+                }
+
+                // if pronouns is it, its, itself
+                if (nonPersonPronouns.contains(p.name().toLowerCase())) {
+                    // if word's NER tag is GPE, LOC, PRODUCT, ORG then this is good
+                    if (candMentionNER.equals("GPE") || candMentionNER.equals("LOC") || candMentionNER.equals("PRODUCT") || candMentionNER.equals("ORG")) {
+                        score += 1;
+                    } else {
+                        // if word's NER tag is DATE or PERSON
+                        score -= 1;
+                    }
+                }
+            }
         }
-        
-        score -= .1 * closestCandidateMentionDistance;
-    	return score;
+
+        score -= 0.1 * closestCandidateMentionDistance;
+        return score;
     }
 }
