@@ -35,7 +35,8 @@ public class ClassifierBased implements CoreferenceSystem {
 
 			Feature.ExactMatch.class,
 			Feature.ExactHeadMatch.class,
-			Feature.DistanceIndicator.class
+			Feature.DistanceIndicator.class,
+			Feature.SameSentence.class
 
 			//skeleton for how to create a pair feature
 			//Pair.make(Feature.IsFeature1.class, Feature.IsFeature2.class),
@@ -80,6 +81,8 @@ public class ClassifierBased implements CoreferenceSystem {
 					distance = 1000;
 				}
 				return new Feature.DistanceIndicator(distance);
+			} else if (clazz.equals(Feature.SameSentence.class)) {
+				return new Feature.SameSentence(onPrix.sentence.equals(candidate.sentence));
 //			} else if(clazz.equals(Feature.NewFeature.class) {
 				/*
 				 * TODO: Add features to return for specific classes. Implement calculating values of features here.
