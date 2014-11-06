@@ -2,3 +2,7 @@
 java -Xmx500m -cp "extlib/*:classes" cs224n.assignments.CoreferenceTester -path ../data -model baseline -data dev -documents 100
 
 java -Xmx500m -cp "extlib/*:classes" cs224n.assignments.CoreferenceTester -path ../data -model BetterBaseline -data dev -documents 100
+
+java -Xmx500m -cp "extlib/*:classes" cs224n.assignments.CoreferenceTester -path ../data -model RuleBased -data dev -documents 100
+
+java -Xmx500m -cp "extlib/*:classes" cs224n.assignments.CoreferenceTester -path ../data -model ClassifierBased -data dev -documents 100
