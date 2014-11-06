@@ -125,6 +125,18 @@ public interface Feature {
       public CandidateNER(String tag){ super(tag); }
   }
   
+  public static class CurrentNER extends StringIndicator {
+      public CurrentNER(String tag){ super(tag); }
+  }
+  
+  public static class CandidateGender extends StringIndicator {
+      public CandidateGender(String tag){ super(tag); }
+  }
+  
+  public static class CurrentGender extends StringIndicator {
+      public CurrentGender(String tag){ super(tag); }
+  }
+  
   /*
    * TODO: Add values to the indicators here.
    */

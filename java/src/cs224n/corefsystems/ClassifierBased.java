@@ -35,14 +35,14 @@ public class ClassifierBased implements CoreferenceSystem {
 
 			Feature.ExactMatch.class,
 			Feature.ExactHeadMatch.class,
-			//Feature.SentenceDistanceIndicator.class,
+			Feature.SentenceDistanceIndicator.class,
 			//Feature.MentionDistanceIndicator.class,
-			//Feature.PronounIndicator.class,
+			Feature.PronounIndicator.class,
 			//Feature.NumPronouns.class,
-			Feature.CandidateNER.class
 
 			//skeleton for how to create a pair feature
-			//Pair.make(Feature.IsFeature1.class, Feature.IsFeature2.class),
+			//Pair.make(Feature.CandidateNER.class, Feature.CurrentNER.class),
+			Pair.make(Feature.CandidateGender.class, Feature.CurrentGender.class),
 	});
 
 
@@ -97,7 +97,28 @@ public class ClassifierBased implements CoreferenceSystem {
 			} else if (clazz.equals(Feature.CandidateNER.class)) {
 			    String candidateNER = candidate.sentence.nerTags.get(candidate.headWordIndex);
 			    return new Feature.CandidateNER(candidateNER);
-			
+			} else if (clazz.equals(Feature.CurrentNER.class)) {
+                String currNER = onPrix.sentence.nerTags.get(onPrix.headWordIndex);
+                return new Feature.CurrentNER(currNER);
+			} else if (clazz.equals(Feature.CandidateGender.class)) {
+			    // only fires if the candidate mention is a pronoun
+			    if (Pronoun.valueOrNull(candidate.gloss()) != null) {
+			       Pronoun p = Pronoun.valueOrNull(candidate.gloss());
+			       String gender = p.gender.name();
+			       return new Feature.CandidateGender(gender);
+			    } else {
+			        return new Feature.CandidateGender("NOT_A_PRONOUN");
+			    }
+			} else if (clazz.equals(Feature.CurrentGender.class)) {
+                // only fires if the current mention is a pronoun
+                if (Pronoun.valueOrNull(onPrix.gloss()) != null) {
+                   Pronoun p = Pronoun.valueOrNull(onPrix.gloss());
+                   String gender = p.gender.name();
+                   return new Feature.CurrentGender(gender);
+                } else {
+                    return new Feature.CurrentGender("NOT_A_PRONOUN");
+                }
+                
 //			} else if(clazz.equals(Feature.NewFeature.class) {
 				/*
 				 * TODO: Add features to return for specific classes. Implement calculating values of features here.
