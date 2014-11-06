@@ -35,9 +35,11 @@ public class ClassifierBased implements CoreferenceSystem {
 
 			Feature.ExactMatch.class,
 			Feature.ExactHeadMatch.class,
-			Feature.SentenceDistanceIndicator.class,
-			Feature.MentionDistanceIndicator.class,
-			Feature.NumPronouns.class
+			//Feature.SentenceDistanceIndicator.class,
+			//Feature.MentionDistanceIndicator.class,
+			//Feature.PronounIndicator.class,
+			//Feature.NumPronouns.class,
+			Feature.CandidateNER.class
 
 			//skeleton for how to create a pair feature
 			//Pair.make(Feature.IsFeature1.class, Feature.IsFeature2.class),
@@ -64,8 +66,8 @@ public class ClassifierBased implements CoreferenceSystem {
 				//(exact string match)
 				return new Feature.ExactMatch(onPrix.gloss().equals(candidate.gloss()));
 			} else if (clazz.equals(Feature.ExactHeadMatch.class)) {
-				String onPrixHead = onPrix.sentence.words.get(onPrix.headWordIndex);
-				String candidateHead = candidate.sentence.words.get(candidate.headWordIndex);
+				String onPrixHead = onPrix.sentence.lemmas.get(onPrix.headWordIndex);
+				String candidateHead = candidate.sentence.lemmas.get(candidate.headWordIndex);
 				return new Feature.ExactHeadMatch(onPrixHead.equals(candidateHead));
 			} else if (clazz.equals(Feature.MentionDistanceIndicator.class)) {
 				// find out how many mentions apart are these mentions
@@ -88,13 +90,14 @@ public class ClassifierBased implements CoreferenceSystem {
 			    if (Pronoun.valueOrNull(onPrix.gloss()) != null) {
 			        num++;
 			    }
-			    
 			    if (Pronoun.valueOrNull(candidate.gloss()) != null) {
 			        num++;
 			    }
-			    
 			    return new Feature.NumPronouns(num);
-				
+			} else if (clazz.equals(Feature.CandidateNER.class)) {
+			    String candidateNER = candidate.sentence.nerTags.get(candidate.headWordIndex);
+			    return new Feature.CandidateNER(candidateNER);
+			
 //			} else if(clazz.equals(Feature.NewFeature.class) {
 				/*
 				 * TODO: Add features to return for specific classes. Implement calculating values of features here.

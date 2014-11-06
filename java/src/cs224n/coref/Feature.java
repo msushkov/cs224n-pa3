@@ -121,6 +121,10 @@ public interface Feature {
       public NumPronouns(int num){ super(num); }
   }
   
+  public static class CandidateNER extends StringIndicator {
+      public CandidateNER(String tag){ super(tag); }
+  }
+  
   /*
    * TODO: Add values to the indicators here.
    */
