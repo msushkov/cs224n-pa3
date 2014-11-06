@@ -35,7 +35,7 @@ public class ClassifierBased implements CoreferenceSystem {
 
 			Feature.ExactMatch.class,
 			Feature.ExactHeadMatch.class,
-			Feature.DistanceIndicator.class,
+			Feature.DistanceIndicator.class
 
 			//skeleton for how to create a pair feature
 			//Pair.make(Feature.IsFeature1.class, Feature.IsFeature2.class),
@@ -68,10 +68,16 @@ public class ClassifierBased implements CoreferenceSystem {
 				return new Feature.ExactHeadMatch(onPrixHead.equals(candidateHead));
 			} else if (clazz.equals(Feature.DistanceIndicator.class)) {
 				int distance;
-				if (onPrix.sentence == candidate.sentence) {
-					distance = onPrix.beginIndexInclusive - candidate.endIndexExclusive;
+				if (onPrix.sentence.equals(candidate.sentence)) {
+					//distance = onPrix.beginIndexInclusive - candidate.endIndexExclusive;
+					
+					if (onPrix.beginIndexInclusive > candidate.endIndexExclusive) {
+	                    distance = onPrix.beginIndexInclusive - candidate.endIndexExclusive;
+	                } else {
+	                    distance = candidate.beginIndexInclusive - onPrix.endIndexExclusive;
+	                }
 				} else {
-					distance = 30;
+					distance = 1000;
 				}
 				return new Feature.DistanceIndicator(distance);
 //			} else if(clazz.equals(Feature.NewFeature.class) {
