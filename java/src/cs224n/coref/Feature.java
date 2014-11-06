@@ -109,6 +109,9 @@ public interface Feature {
     public DistanceIndicator(int distance){ super(distance); }
   }
   
+  public static class SameSentence extends Indicator {
+    public SameSentence(boolean sameSentence){ super(sameSentence); }
+  }
   /*
    * TODO: Add values to the indicators here.
    */
