@@ -35,8 +35,8 @@ public class ClassifierBased implements CoreferenceSystem {
 
 			Feature.ExactMatch.class,
 			Feature.ExactHeadMatch.class,
-			Feature.DistanceIndicator.class,
-			Feature.SameSentence.class
+			Feature.SentenceDistanceIndicator.class,
+			Feature.MentionDistanceIndicator.class
 
 			//skeleton for how to create a pair feature
 			//Pair.make(Feature.IsFeature1.class, Feature.IsFeature2.class),
@@ -58,7 +58,6 @@ public class ClassifierBased implements CoreferenceSystem {
 			Mention candidate = input.getSecond().mention; //the second mention (referred to as m_j in the handout)
 			Entity candidateCluster = input.getSecond().entity; //the cluster containing the second mention
 
-
 			//--Features
 			if(clazz.equals(Feature.ExactMatch.class)){
 				//(exact string match)
@@ -67,22 +66,19 @@ public class ClassifierBased implements CoreferenceSystem {
 				String onPrixHead = onPrix.sentence.words.get(onPrix.headWordIndex);
 				String candidateHead = candidate.sentence.words.get(candidate.headWordIndex);
 				return new Feature.ExactHeadMatch(onPrixHead.equals(candidateHead));
-			} else if (clazz.equals(Feature.DistanceIndicator.class)) {
-				int distance;
-				if (onPrix.sentence.equals(candidate.sentence)) {
-					//distance = onPrix.beginIndexInclusive - candidate.endIndexExclusive;
-					
-					if (onPrix.beginIndexInclusive > candidate.endIndexExclusive) {
-	                    distance = onPrix.beginIndexInclusive - candidate.endIndexExclusive;
-	                } else {
-	                    distance = candidate.beginIndexInclusive - onPrix.endIndexExclusive;
-	                }
-				} else {
-					distance = 1000;
-				}
-				return new Feature.DistanceIndicator(distance);
-			} else if (clazz.equals(Feature.SameSentence.class)) {
-				return new Feature.SameSentence(onPrix.sentence.equals(candidate.sentence));
+			} else if (clazz.equals(Feature.MentionDistanceIndicator.class)) {
+				// find out how many mentions apart are these mentions
+				Document doc = onPrix.doc;
+				int index1 = doc.indexOfMention(onPrix);
+				int index2 = doc.indexOfMention(candidate);
+				return new Feature.MentionDistanceIndicator(Math.abs(index1 - index2));
+			} else if (clazz.equals(Feature.SentenceDistanceIndicator.class)) {
+			    // find out how many sentences apart are these mentions
+				Document doc = onPrix.doc;
+				int index1 = doc.indexOfSentence(onPrix.sentence);
+				int index2 = doc.indexOfSentence(candidate.sentence);
+			    return new Feature.SentenceDistanceIndicator(Math.abs(index1 - index2));
+				
 //			} else if(clazz.equals(Feature.NewFeature.class) {
 				/*
 				 * TODO: Add features to return for specific classes. Implement calculating values of features here.
