@@ -141,7 +141,7 @@ public class RuleBased implements CoreferenceSystem {
         for (Mention m : doc.getMentions()) {
             // if this is a pronoun
             if (Pronoun.valueOrNull(m.gloss()) != null) {
-                // if not a first- or second- person pronoun, just make it its own cluster
+                // just make it its own cluster
                 ClusteredMention newCluster = m.markSingleton();
                 mentions.add(newCluster);
                 entities.add(newCluster.entity);
@@ -204,6 +204,7 @@ public class RuleBased implements CoreferenceSystem {
 
             // if not a pronoun, skip
             if (Pronoun.valueOrNull(m.gloss()) != null) {
+                
                 // get the NER, tense, gender
                 Pronoun currPronoun = Pronoun.valueOrNull(m.gloss());
 
@@ -232,8 +233,6 @@ public class RuleBased implements CoreferenceSystem {
 
         return mentions;
     }
-
-    // TODO: add NER-based rules for pronouns (he, she -> person, etc)
 
     private boolean isPlural(String posTag) {
         return (posTag.equals("NNS") || posTag.equals("NNPS"));
