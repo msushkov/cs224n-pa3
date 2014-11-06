@@ -111,7 +111,15 @@ public interface Feature {
   
   public static class SentenceDistanceIndicator extends IntIndicator {
       public SentenceDistanceIndicator(int distance){ super(distance); }
-    }
+  }
+  
+  public static class PronounIndicator extends Indicator {
+      public PronounIndicator(boolean isEitherPronoun){ super(isEitherPronoun); }
+  }
+  
+  public static class NumPronouns extends IntIndicator {
+      public NumPronouns(int num){ super(num); }
+  }
   
   /*
    * TODO: Add values to the indicators here.

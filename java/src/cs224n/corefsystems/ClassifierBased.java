@@ -36,7 +36,8 @@ public class ClassifierBased implements CoreferenceSystem {
 			Feature.ExactMatch.class,
 			Feature.ExactHeadMatch.class,
 			Feature.SentenceDistanceIndicator.class,
-			Feature.MentionDistanceIndicator.class
+			Feature.MentionDistanceIndicator.class,
+			Feature.NumPronouns.class
 
 			//skeleton for how to create a pair feature
 			//Pair.make(Feature.IsFeature1.class, Feature.IsFeature2.class),
@@ -78,6 +79,21 @@ public class ClassifierBased implements CoreferenceSystem {
 				int index1 = doc.indexOfSentence(onPrix.sentence);
 				int index2 = doc.indexOfSentence(candidate.sentence);
 			    return new Feature.SentenceDistanceIndicator(Math.abs(index1 - index2));
+			} else if (clazz.equals(Feature.PronounIndicator.class)) {
+			    boolean isFirstPronoun = (Pronoun.valueOrNull(onPrix.gloss()) != null);
+			    boolean isCandPronoun = (Pronoun.valueOrNull(candidate.gloss()) != null);
+			    return new Feature.PronounIndicator(isFirstPronoun || isCandPronoun);
+			} else if (clazz.equals(Feature.NumPronouns.class)) {
+			    int num = 0;
+			    if (Pronoun.valueOrNull(onPrix.gloss()) != null) {
+			        num++;
+			    }
+			    
+			    if (Pronoun.valueOrNull(candidate.gloss()) != null) {
+			        num++;
+			    }
+			    
+			    return new Feature.NumPronouns(num);
 				
 //			} else if(clazz.equals(Feature.NewFeature.class) {
 				/*
