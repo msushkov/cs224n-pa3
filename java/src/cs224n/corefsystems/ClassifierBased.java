@@ -34,6 +34,8 @@ public class ClassifierBased implements CoreferenceSystem {
 			 */
 
 			Feature.ExactMatch.class,
+			
+			Feature.ExactHeadMatch.class,
 
 			//skeleton for how to create a pair feature
 			//Pair.make(Feature.IsFeature1.class, Feature.IsFeature2.class),
@@ -60,6 +62,10 @@ public class ClassifierBased implements CoreferenceSystem {
 			if(clazz.equals(Feature.ExactMatch.class)){
 				//(exact string match)
 				return new Feature.ExactMatch(onPrix.gloss().equals(candidate.gloss()));
+			} else if (clazz.equals(Feature.ExactHeadMatch.class)) {
+				String onPrixHead = onPrix.sentence.words.get(onPrix.headWordIndex);
+				String candidateHead = candidate.sentence.words.get(candidate.headWordIndex);
+				return new Feature.ExactHeadMatch(onPrixHead.equals(candidateHead));
 //			} else if(clazz.equals(Feature.NewFeature.class) {
 				/*
 				 * TODO: Add features to return for specific classes. Implement calculating values of features here.

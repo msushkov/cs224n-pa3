@@ -101,6 +101,10 @@ public interface Feature {
     public ExactMatch(boolean exactMatch){ super(exactMatch); }
   }
   
+  public static class ExactHeadMatch extends Indicator {
+    public ExactHeadMatch(boolean exactHeadMatch){ super(exactHeadMatch); }
+  }
+  
   /*
    * TODO: Add values to the indicators here.
    */

@@ -109,7 +109,7 @@ public class RuleBased implements CoreferenceSystem {
         List<ClusteredMention> mentions = exactHeadMatch(doc);
 
         // 2. take care of pronouns
-        //mentions = handlePronouns(mentions);
+        mentions = handlePronouns(mentions);
 
         return mentions;
     }
@@ -194,9 +194,11 @@ public class RuleBased implements CoreferenceSystem {
                 entities.add(c.entity);
             }
         }
+        
 
         // go through all the pronouns
         for (int i = 0; i < mentions.size(); i++) {
+
             ClusteredMention c = mentions.get(i);
             Mention m = c.mention;
 
@@ -208,7 +210,6 @@ public class RuleBased implements CoreferenceSystem {
                 // find the entity with which this current pronoun is most likely to be coreferent
                 Entity bestEntity = null;
                 int bestEntityScore = Integer.MIN_VALUE;
-
                 for (Entity e : entities) {
                     int score = pronounEntityMatchScore(currPronoun, m, e);
                     if (score > bestEntityScore) {
@@ -245,11 +246,17 @@ public class RuleBased implements CoreferenceSystem {
         boolean isPlural = p.plural;
         Gender pronounGender = p.gender;
         Pronoun.Speaker pronounSpeaker = p.speaker;
+        
+        /*
+         * 
+         * TODO: We might not have to add certain pronouns to an existing entity: ie 'I', 'you'  
+         * 
+         * 
+         */
 
         // go through each mention in each entity cluster
         for (Mention candidateMention : e.mentions) {
             Pronoun candidatePronoun = Pronoun.valueOrNull(candidateMention.gloss());
-
             String currMentionHeadLemma = candidateMention.sentence.lemmas.get(candidateMention.headWordIndex);
 
             boolean isCandidatePlural = isPlural(candidateMention.sentence.posTags.get(candidateMention.headWordIndex));
@@ -279,7 +286,7 @@ public class RuleBased implements CoreferenceSystem {
 
             if (candidatePronoun != null) {
                 if (candidatePronoun.equals(p)) {
-                    score += 4;
+                    score += 1;
                 } else {
                     if (candidatePronoun.gender == p.gender) {
                         score += 1;
@@ -299,7 +306,6 @@ public class RuleBased implements CoreferenceSystem {
                         score -= 4;
                     }
                 }
-
             }
 
             if (candidateSpeaker != null) {
