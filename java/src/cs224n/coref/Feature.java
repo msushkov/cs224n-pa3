@@ -105,6 +105,10 @@ public interface Feature {
     public ExactHeadMatch(boolean exactHeadMatch){ super(exactHeadMatch); }
   }
   
+  public static class DistanceIndicator extends IntIndicator {
+    public DistanceIndicator(int distance){ super(distance); }
+  }
+  
   /*
    * TODO: Add values to the indicators here.
    */
