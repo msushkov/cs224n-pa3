@@ -13,6 +13,7 @@ import cs224n.coref.Document;
 import cs224n.coref.Entity;
 import cs224n.coref.Gender;
 import cs224n.coref.Mention;
+import cs224n.coref.Name;
 import cs224n.coref.Pronoun;
 import cs224n.coref.Sentence;
 import cs224n.coref.Pronoun.Speaker;
@@ -280,6 +281,15 @@ public class RuleBased implements CoreferenceSystem {
                     score += 1;
                 } else {
                     score -= 1;
+                }
+            }
+            
+            if (Name.isName(candidateMention.gloss())) {
+            	Gender nameGender = Name.mostLikelyGender(candidateMention.gloss());
+            	if (pronounGender == nameGender) {
+                    score += 1;
+                } else {
+                    score -= 2;
                 }
             }
 
