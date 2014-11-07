@@ -11,6 +11,7 @@ import java.util.Set;
 import cs224n.coref.ClusteredMention;
 import cs224n.coref.Document;
 import cs224n.coref.Entity;
+import cs224n.coref.Feature;
 import cs224n.coref.Gender;
 import cs224n.coref.Mention;
 import cs224n.coref.Name;
@@ -326,11 +327,15 @@ public class RuleBased implements CoreferenceSystem {
             }
 
             int distance;
-            if (pronounMention.beginIndexInclusive > candidateMention.endIndexExclusive) {
+            Document doc = pronounMention.doc;
+			int index1 = doc.indexOfMention(pronounMention);
+			int index2 = doc.indexOfMention(candidateMention);
+			distance = Math.abs(index1 - index2);
+            /*if (pronounMention.beginIndexInclusive > candidateMention.endIndexExclusive) {
                 distance = pronounMention.beginIndexInclusive - candidateMention.endIndexExclusive;
             } else {
                 distance = candidateMention.beginIndexInclusive - pronounMention.endIndexExclusive;
-            }
+            }*/
 
             if (distance < closestCandidateMentionDistance) {
                 closestCandidateMentionDistance = distance;
@@ -357,7 +362,7 @@ public class RuleBased implements CoreferenceSystem {
             }
         }
 
-        score -= 0.1 * closestCandidateMentionDistance;
+        score -=  closestCandidateMentionDistance;
         return score;
     }
 }
